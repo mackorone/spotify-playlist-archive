@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Adam Port, Stryv & Malachii
 
-1,029 songs - 2 day 2 hr 2 min
+1,031 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [JOLENE](https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:09 | 2024-04-04 | 2024-04-26 |
 | [Jolene](https://open.spotify.com/track/1iUSupGwxSegT8RlPDJ3Cr) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [ILSE](https://open.spotify.com/artist/6qbr3M2PZv1k8qPVBTw707) | [Jolene](https://open.spotify.com/album/41i23J7Vzeb4QPWzKJfa8F) | 2:01 | 2024-01-15 | 2024-03-07 |
 | [Jouw Idee](https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 3:20 | 2025-03-15 | 2025-03-22 |
+| [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 | 2025-07-14 |  |
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-03-28 | 2024-05-10 |
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2023-09-25 | 2023-11-03 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-06-02 | 2025-06-06 |
@@ -499,6 +500,7 @@
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2023-07-13 | 2023-08-18 |
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-07-11 | 2024-10-23 |
 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 | 2024-08-01 | 2024-08-30 |
+| [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 | 2025-07-14 |  |
 | [Kiki](https://open.spotify.com/track/7CqWn1gA0R9tCFTpTOcLLZ) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Love Doesn't Exist](https://open.spotify.com/album/4A2PB1hCtF2tcmUsaa9jYO) | 3:08 | 2024-03-21 | 2024-04-12 |
 | [KiLELE](https://open.spotify.com/track/404Il8wdrtHc2Wgcl0rfjT) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [KiLELE](https://open.spotify.com/album/402gAvYew9C7igBTsZgPSz) | 2:38 | 2025-05-01 | 2025-05-16 |
 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-14 | 2023-05-14 |

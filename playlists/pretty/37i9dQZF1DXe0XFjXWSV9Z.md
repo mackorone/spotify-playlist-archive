@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,765 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,780 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 30 | [La Weá](https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 5:56 |
 | 31 | [La Danza del Petrolero](https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Los Charapas de Oro](https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY) | 3:41 |
 | 32 | [Echo en Mexico](https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 4:17 |
-| 33 | [Selva Negra](https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chimborazo](https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB) | 3:28 |
-| 34 | [Mil Versiones](https://open.spotify.com/track/54KcGCuNHyFmL4kzIAr31s) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Mil Versiones](https://open.spotify.com/album/5icUeEDMPIULprCFm2hnh7) | 2:25 |
+| 33 | [Mil Versiones](https://open.spotify.com/track/54KcGCuNHyFmL4kzIAr31s) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Mil Versiones](https://open.spotify.com/album/5icUeEDMPIULprCFm2hnh7) | 2:25 |
+| 34 | [Selva Negra](https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chimborazo](https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB) | 3:28 |
 | 35 | [La Bomba](https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [La Bomba](https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn) | 2:14 |
 | 36 | [El Bicho](https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:49 |
 | 37 | [Yo Bailo Sola](https://open.spotify.com/track/7fv20ywu4geYS8LpleMsFE) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Yo Bailo Sola](https://open.spotify.com/album/6M43g9QvBjq0vEPxhOf8q8) | 5:17 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 75 | [Mary Sol](https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5) | [Papi Perez](https://open.spotify.com/artist/58sA5PhdfixwU0PIfLNhRo), [Chirimoyo](https://open.spotify.com/artist/4ksypgLryHLmQe8fMl5wR3) | [Mary Sol](https://open.spotify.com/album/2LFNGr4OTi6fVNYAQE2GUh) | 4:10 |
 | 76 | [Bueltatzen](https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o) | [Goxua´n Salsa](https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL) | [Bueltatzen](https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv) | 4:18 |
 | 77 | [Loco Playa](https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Loco Playa](https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7) | 3:37 |
-| 78 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 |
-| 79 | [Me Duele Tu Partida](https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Me Duele Tu Partida](https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S) | 3:12 |
+| 78 | [Me Duele Tu Partida](https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Me Duele Tu Partida](https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S) | 3:12 |
+| 79 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 |
 | 80 | [Dios](https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Dios](https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w) | 3:13 |
 | 81 | [La Era del GigaHertz](https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [La Era del GigaHertz](https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ) | 5:06 |
 | 82 | [Por Ahí](https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:18 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 95 | [Solo Yo](https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Solo Yo](https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9) | 8:12 |
 | 96 | [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 |
 | 97 | [Dame Tu Wasap](https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron, Vol.1](https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy) | 5:20 |
-| 98 | [BADINERIE](https://open.spotify.com/track/3EKddyjTGCYdQrcpOBitF0) | [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [STYNDOUDOU](https://open.spotify.com/album/6E5slF7509nncsVdbD2mnt) | 2:53 |
-| 99 | [Cumbia OceaÌnica](https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H) | [Amaru Tribe](https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu) | [Amaru Tribe](https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc) | 6:41 |
+| 98 | [Cumbia OceaÌnica](https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H) | [Amaru Tribe](https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu) | [Amaru Tribe](https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc) | 6:41 |
+| 99 | [BADINERIE](https://open.spotify.com/track/3EKddyjTGCYdQrcpOBitF0) | [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [STYNDOUDOU](https://open.spotify.com/album/6E5slF7509nncsVdbD2mnt) | 2:53 |
 | 100 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 |
 
 Snapshot ID: `aCtkxQAAAACBPXDWtPMYofp/LzLtZviA`

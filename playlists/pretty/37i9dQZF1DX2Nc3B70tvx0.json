@@ -1,13 +1,93 @@
 {
-  "description": "The best of right now. Cover: Kevin Abstract",
-  "num_followers": 2005837,
+  "description": "The best of right now. Cover: Mk.gee",
+  "num_followers": 2005048,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdR2QAAAAAGeEfe3sz6kb8DihdHYfp0",
+  "snapshot_id": "aHUo1AAAAABgtTgC9WMgHf5F+b9IDwIB",
   "tracks": [
+    {
+      "added_at": "2025-07-14 15:57:08",
+      "album": {
+        "name": "The Sofa",
+        "url": "https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "The Sofa",
+      "url": "https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh"
+    },
+    {
+      "added_at": "2025-07-04 04:00:25",
+      "album": {
+        "name": "Shelly 2",
+        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 228692,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
+    },
+    {
+      "added_at": "2025-07-14 15:57:08",
+      "album": {
+        "name": "All Night All Day",
+        "url": "https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 288818,
+      "name": "All Night All Day",
+      "url": "https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI"
+    },
+    {
+      "added_at": "2025-07-14 15:57:08",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 166179,
+      "name": "Are You Looking Up",
+      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
+    },
+    {
+      "added_at": "2025-07-14 15:57:08",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 131898,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf"
+    },
     {
       "added_at": "2025-06-27 04:00:47",
       "album": {
@@ -29,36 +109,72 @@
       "url": "https://open.spotify.com/track/6k4FnXiMy4pjcK7cIw2X6z"
     },
     {
-      "added_at": "2025-07-04 04:00:25",
+      "added_at": "2025-07-14 15:57:08",
       "album": {
-        "name": "Shelly 2",
-        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
       },
       "artists": [
         {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 228692,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+    },
+    {
+      "added_at": "2025-06-27 04:00:47",
+      "album": {
+        "name": "Rein Me In (with Olivia Dean)",
+        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 339410,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+    },
+    {
+      "added_at": "2025-07-14 15:57:08",
+      "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "I quit",
-        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
+        "name": "deja vu",
+        "url": "https://open.spotify.com/album/4evEA2XDnb4DfP5YG3h1wz"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "The Undercover Dream Lovers",
+          "url": "https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV"
         }
       ],
-      "duration_ms": 202626,
-      "name": "All over me",
-      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
+      "duration_ms": 169180,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/6Wf0y3Dv8m6uD7XmKOrHc1"
     },
     {
       "added_at": "2025-06-27 04:00:47",
@@ -75,6 +191,38 @@
       "duration_ms": 208653,
       "name": "Wound Up Here (By Holdin On)",
       "url": "https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso"
+    },
+    {
+      "added_at": "2025-07-14 15:57:08",
+      "album": {
+        "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
+        "url": "https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Tariq Al-Sabir",
+          "url": "https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        }
+      ],
+      "duration_ms": 199256,
+      "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
+      "url": "https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp"
     },
     {
       "added_at": "2025-06-20 04:00:58",
@@ -125,40 +273,36 @@
       "url": "https://open.spotify.com/track/23tsQgyGHxGZjHM8uWe9v5"
     },
     {
-      "added_at": "2025-06-20 04:00:58",
+      "added_at": "2025-07-14 15:57:08",
       "album": {
-        "name": "deja vu",
-        "url": "https://open.spotify.com/album/4evEA2XDnb4DfP5YG3h1wz"
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
       },
       "artists": [
         {
-          "name": "The Undercover Dream Lovers",
-          "url": "https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV"
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
         }
       ],
-      "duration_ms": 169180,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/6Wf0y3Dv8m6uD7XmKOrHc1"
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
     },
     {
-      "added_at": "2025-06-27 04:00:47",
+      "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "Rein Me In (with Olivia Dean)",
-        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 339410,
-      "name": "Rein Me In (with Olivia Dean)",
-      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+      "duration_ms": 202626,
+      "name": "All over me",
+      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
     },
     {
       "added_at": "2025-06-27 04:00:47",

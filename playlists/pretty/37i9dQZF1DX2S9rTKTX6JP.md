@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: Sum 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,620 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,727 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 51 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
 | 52 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
 | 53 | [Simple Man](https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Simple Man](https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r) | 4:28 |
-| 54 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 |
-| 55 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
+| 54 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
+| 55 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 |
 | 56 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 |
 | 57 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 |
 | 58 | [Nothing Compares 2 U](https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:12 |

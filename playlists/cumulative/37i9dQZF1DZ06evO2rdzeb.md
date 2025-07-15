@@ -4,11 +4,12 @@
 
 > This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 19 min
+69 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\- door & how are you? \-](https://open.spotify.com/track/5TCaQZT9yOUsoA6EpjhVRd) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 1:34 | 2025-04-26 | 2025-04-27 |
+| [\- drawing a star \-](https://open.spotify.com/track/7yzuRUj45dcery8dros4nD) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 0:42 | 2025-07-15 |  |
 | [10 miles](https://open.spotify.com/track/1Vts9rMbEkvQI8bJBvaP2N) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 4:01 | 2022-09-19 | 2022-10-09 |
 | [A Better Time to Meet](https://open.spotify.com/track/5qBdd2l8sQZe2270342ap7) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 3:08 | 2022-09-16 |  |
 | [A Love of Some Kind](https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 2:53 | 2022-09-16 |  |
@@ -20,7 +21,7 @@
 | [Butterfly](https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 2:43 | 2022-10-04 |  |
 | [Candleflame](https://open.spotify.com/track/7lX3MvcB1Rnecn53Z3FTfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 2:34 | 2024-03-23 | 2024-04-26 |
 | [Carolina](https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 2:30 | 2022-09-16 |  |
-| [cattails & soundcheck](https://open.spotify.com/track/4Cu9vJHOJy6d6XCA3rV0Mq) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 3:16 | 2025-04-28 |  |
+| [cattails & soundcheck](https://open.spotify.com/track/4Cu9vJHOJy6d6XCA3rV0Mq) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 3:16 | 2025-04-28 | 2025-07-15 |
 | [Cell Phone Says](https://open.spotify.com/track/2qUoLYCGQGJPlEM99tKd3t) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 2:38 | 2024-03-23 | 2024-03-31 |
 | [come](https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 5:17 | 2025-01-17 |  |
 | [cradle](https://open.spotify.com/track/7rc0yk3tTHn4Qkw4MOnxoE) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:17 | 2022-09-18 |  |

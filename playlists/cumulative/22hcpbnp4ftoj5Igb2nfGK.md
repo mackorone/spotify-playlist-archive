@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-109 songs - 5 hr 58 min
+110 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Rhymes Like Dimes](https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [DJ Cucumber Slice](https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:18 | 2025-01-30 |  |
 | [Runnin Outta Time](https://open.spotify.com/track/4q7y1JFDBJSBSLqXVgcI51) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:25 | 2025-02-14 |  |
 | [Saliva](https://open.spotify.com/track/1pXvZZ7Ubwt4rpDt3JEHdY) | [Viktor Vaughn](https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Vaudeville Villain](https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7) | 2:28 | 2025-03-04 |  |
+| [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2025-07-14 |  |
 | [Sentry \(feat\. MIKE\)](https://open.spotify.com/track/48gtujiZ77wSZ29aWZe84V) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:16 | 2025-02-06 |  |
 | [Shattered Dreams](https://open.spotify.com/track/2LQb3iYBzoxbxct2IexjBc) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Some Rap Songs](https://open.spotify.com/album/66at85wgO2pu5CccvqUF6i) | 2:21 | 2025-02-06 | 2025-04-21 |
 | [So Alone](https://open.spotify.com/track/7ipXhX6JfiiTsWsG4nS7Xr) | [Nehruviandoom](https://open.spotify.com/artist/0ZWQOiDsRVjQXoSljCxraD) | [NEHRUVIANDOOM](https://open.spotify.com/album/152CETYdkMTfchUyFtCDZu) | 2:37 | 2025-02-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Merayakan 10 tahun Fresh Finds, temukan talenta segar dalam negeri\. Cover: Canti, Adipati Dolken
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,245 likes - 108 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,244 likes - 108 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

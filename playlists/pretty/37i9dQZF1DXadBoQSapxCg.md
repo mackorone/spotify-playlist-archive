@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,135 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,237 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 54 | [Só um Cadin](https://open.spotify.com/track/1hFyY7ny82inFdS1EkZ0Yj) | [Cadiin](https://open.spotify.com/artist/1PM5aGRr6Nz8iQFTD0vd4L) | [Só um Cadin](https://open.spotify.com/album/6UvJEkU94BUZU4DqVNrNOl) | 2:55 |
 | 55 | [Fala](https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Contato](https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL) | 3:13 |
 | 56 | [Cupido](https://open.spotify.com/track/5bfimwK5FYHMlaa93448w5) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Cupido](https://open.spotify.com/album/4ikm2H16e81LGmGL1VykAw) | 2:45 |
-| 57 | [Faz A Posição](https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Faz A Posição](https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG) | 2:59 |
-| 58 | [Toque Na Pele](https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Toque Na Pele](https://open.spotify.com/album/2Jxq9gOEEVxCHjDQKwmz0H) | 2:41 |
+| 57 | [Toque Na Pele](https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Toque Na Pele](https://open.spotify.com/album/2Jxq9gOEEVxCHjDQKwmz0H) | 2:41 |
+| 58 | [Faz A Posição](https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Faz A Posição](https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG) | 2:59 |
 | 59 | [Blues](https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Blues](https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0) | 3:13 |
 | 60 | [Slow Motion](https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr) | [Slow Motion](https://open.spotify.com/album/2R6pUKYNA3c2ph5dTkaa06) | 3:26 |
 

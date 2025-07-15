@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Boots on the Ground",
+        "url": "https://open.spotify.com/album/0u6U3JM9VGWgXyz6mESTii"
+      },
+      "artists": [
+        {
+          "name": "803Fresh",
+          "url": "https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203209,
+      "name": "Boots on the Ground",
+      "url": "https://open.spotify.com/track/3cycM517xaQKXyUhcCEuN6"
+    },
+    {
+      "album": {
         "name": "Ice Cream Man",
         "url": "https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL"
       },
@@ -770,6 +788,24 @@
       "duration_ms": 284080,
       "name": "Can We Talk",
       "url": "https://open.spotify.com/track/3eRE1KwnUma75nu1HhoNY4"
+    },
+    {
+      "album": {
+        "name": "Between Friends",
+        "url": "https://open.spotify.com/album/3fWRZINvsj236ZaWNo6g9J"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229026,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/1Ly3sQABkGYruk0s8XF6US"
     },
     {
       "album": {
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 252400,
       "name": "Hey Mr. D.J.",
       "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
@@ -4286,7 +4322,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 340933,
       "name": "Yearning For Your Love",
       "url": "https://open.spotify.com/track/1kSxm4vU26W5xSUdnPUkyB"

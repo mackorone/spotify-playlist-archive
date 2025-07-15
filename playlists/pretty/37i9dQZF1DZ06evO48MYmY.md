@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,918 likes - 45 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,942 likes - 45 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 11 | [I Am a Rock](https://open.spotify.com/track/0byOqNZN9ailhoORv5Ps0Z) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:49 |
 | 12 | [The 59th Street Bridge Song \(Feelin' Groovy\)](https://open.spotify.com/track/0dzbfio3qTYG9uk40SJNcr) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 1:43 |
 | 13 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 3:58 |
-| 14 | [Bleecker Street](https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:43 |
+| 14 | [A Hazy Shade of Winter](https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:17 |
 | 15 | [Kathy's Song](https://open.spotify.com/track/4Acofe9hICRvyBTP5hFNk0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 3:17 |
-| 16 | [A Hazy Shade of Winter](https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:17 |
+| 16 | [Bleecker Street](https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:43 |
 | 17 | [El Condor Pasa \(If I Could\)](https://open.spotify.com/track/1eN42Q7IWRzRBq8eW2Y2TE) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 3:07 |
-| 18 | [Wednesday Morning, 3 A.M.](https://open.spotify.com/track/6XlcraQqLY6wGnXpoVeoko) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:13 |
-| 19 | [The Dangling Conversation](https://open.spotify.com/track/1tQy2AqgFc0AdddmIboIfX) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:38 |
-| 20 | [Wake up Little Susie \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 2:18 |
+| 18 | [The Dangling Conversation](https://open.spotify.com/track/1tQy2AqgFc0AdddmIboIfX) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:38 |
+| 19 | [Wake up Little Susie \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 2:18 |
+| 20 | [Wednesday Morning, 3 A.M.](https://open.spotify.com/track/6XlcraQqLY6wGnXpoVeoko) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:13 |
 | 21 | [Baby Driver](https://open.spotify.com/track/5Bh8l8evdBSIoaK6EP1bWI) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 3:15 |
 | 22 | [Bookends Theme \- Reprise](https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 1:20 |
 | 23 | [My Little Town](https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:51 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 44 | [Old Friends / Bookends Theme \- Live in Toledo, OH \- November 1969](https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:22 |
 | 45 | [Tom and Jerry Story \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 2:14 |
 
-Snapshot ID: `aHGlgAAAAAA6SVtyxW6TofxuBRPKo9SH`
+Snapshot ID: `aHL3AAAAAACV9apslKvqiXDI+ztMNFXJ`

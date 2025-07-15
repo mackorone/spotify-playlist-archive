@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 256377,
+  "num_followers": 256477,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-07-03 16:06:45",
       "album": {
+        "name": "Care 4 U",
+        "url": "https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Care 4 U",
+      "url": "https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp"
+    },
+    {
+      "added_at": "2025-07-03 16:06:45",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 222222,
       "name": "With You",
       "url": "https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz"
-    },
-    {
-      "added_at": "2025-07-03 16:06:45",
-      "album": {
-        "name": "Care 4 U",
-        "url": "https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Care 4 U",
-      "url": "https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp"
     },
     {
       "added_at": "2025-07-03 16:06:45",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-07-03 16:06:45",
       "album": {
-        "name": "Cold Enough For Snow",
-        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 251731,
-      "name": "Glasshouse (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
-    },
-    {
-      "added_at": "2025-07-03 16:06:45",
-      "album": {
         "name": "Something Right",
         "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+    },
+    {
+      "added_at": "2025-07-03 16:06:45",
+      "album": {
+        "name": "Cold Enough For Snow",
+        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 251731,
+      "name": "Glasshouse (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2025-07-03 16:06:45",

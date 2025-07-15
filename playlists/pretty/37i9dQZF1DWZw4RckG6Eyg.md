@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,252 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,270 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 38 | [For God and Country](https://open.spotify.com/track/5JmjXrRYZyJYmXz72IstSS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [May It Never Falter](https://open.spotify.com/album/3tuFrjiGVuKMYiX7eY3s4P) | 2:43 |
 | 39 | [Floating On A Moment](https://open.spotify.com/track/0WH39BFVGotzXe3torfzvK) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lives Outgrown](https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA) | 5:26 |
 | 40 | [Snoopy](https://open.spotify.com/track/7IhiFqtPKncCJHF721tp8J) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:00 |
-| 41 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
-| 42 | [Do you wanna](https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 3:21 |
+| 41 | [Do you wanna](https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 3:21 |
+| 42 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
 | 43 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 |
 | 44 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
 | 45 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |

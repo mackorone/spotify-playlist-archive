@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 121 | [Body Rock](https://open.spotify.com/track/5KpDEJbZuBVRyWeRys9GIv) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 4:03 |
 | 122 | [Thank You \(feat\. R\. City\)](https://open.spotify.com/track/24XcdlmaW0EizWVPgxocBV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:25 |
 | 123 | [Wrong Turn](https://open.spotify.com/track/79zoBfcQDNQgSpvojwkfk8) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:20 |
-| 124 | [Sweet Spot](https://open.spotify.com/track/0kJxW8nJoFDqriiIh1u6HU) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:14 |
-| 125 | [The Rain](https://open.spotify.com/track/0rTjlOdVXvcyV1NCZY4TGu) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:27 |
+| 124 | [The Rain](https://open.spotify.com/track/0rTjlOdVXvcyV1NCZY4TGu) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:27 |
+| 125 | [Sweet Spot](https://open.spotify.com/track/0kJxW8nJoFDqriiIh1u6HU) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:14 |
 | 126 | [Massacre](https://open.spotify.com/track/35TzX56MU1bvVRhLuLeqzz) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:26 |
 | 127 | [Green Light Go](https://open.spotify.com/track/5ejaRY8r27tuC6trrwAZJQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Green Light Go](https://open.spotify.com/album/3orQldTQmLgJdqVaKZAln4) | 3:37 |
 | 128 | [Singing in the Rain](https://open.spotify.com/track/7zOs2hkIhTL8Bipkj9LZd0) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Singing in the Rain](https://open.spotify.com/album/2aNzx5jwcCoZdZoQEFveRt) | 3:29 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 266 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 267 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `Ab2slAAAAADTb0Um3u4GI8C8znsZ/gS8`
+Snapshot ID: `Ab2ycAAAAABsVnfpOMdW06uj1Tww9xUt`

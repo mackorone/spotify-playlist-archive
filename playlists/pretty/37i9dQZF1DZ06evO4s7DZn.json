@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 8665,
+  "num_followers": 8667,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACd5kF0heqKFpeEQdfwNnch",
+  "snapshot_id": "aHL3AAAAAADlLbKhp3hBfvixPv15u2N/",
   "tracks": [
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LLegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 186546,
-      "name": "Amigo Mesero",
-      "url": "https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB"
+      "duration_ms": 137493,
+      "name": "De Que Me Sirve",
+      "url": "https://open.spotify.com/track/2QmqGGck3wh0vfKRFUpdP0"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 137493,
-      "name": "De Que Me Sirve",
-      "url": "https://open.spotify.com/track/2QmqGGck3wh0vfKRFUpdP0"
+      "duration_ms": 262666,
+      "name": "Bota Y Tambora",
+      "url": "https://open.spotify.com/track/6Xr8tCaYqmOhnbicXfZJHL"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
       "duration_ms": 170520,
       "name": "Oh Gran Dios",
       "url": "https://open.spotify.com/track/4Qi9mG5VOrr9rcjo8vCVuN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LLegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Bota Y Tambora",
-      "url": "https://open.spotify.com/track/6Xr8tCaYqmOhnbicXfZJHL"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 186546,
+      "name": "Amigo Mesero",
+      "url": "https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Ellas",
         "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas Del Corazon",
-        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 173706,
-      "name": "Mismo Nivel",
-      "url": "https://open.spotify.com/track/7xixj6x39YYlW2LjuRH2hl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Medias Negras",
         "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 196101,
       "name": "Ya para Que",
       "url": "https://open.spotify.com/track/4xQ8BFRwZpcshakCveg3E1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 173706,
+      "name": "Mismo Nivel",
+      "url": "https://open.spotify.com/track/7xixj6x39YYlW2LjuRH2hl"
     },
     {
       "added_at": null,

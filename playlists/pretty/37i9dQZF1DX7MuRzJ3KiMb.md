@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > pa' no pensar en nada
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,489 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,505 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 17 | [I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 3:18 |
 | 18 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 |
 | 19 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
-| 20 | [White Flag](https://open.spotify.com/track/6si71supnBUhddjR2FJc2L) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/7HlZFlk0jJq3Bb03AOyMTE) | 4:00 |
-| 21 | [The Man Who Sold The World \- Live](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 |
+| 20 | [The Man Who Sold The World \- Live](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 |
+| 21 | [White Flag](https://open.spotify.com/track/6si71supnBUhddjR2FJc2L) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/7HlZFlk0jJq3Bb03AOyMTE) | 4:00 |
 | 22 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 23 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
 | 24 | [Stop Crying Your Heart Out](https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T) | 5:03 |
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 31 | [Acurrucar](https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:54 |
 | 32 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 |
 | 33 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 |
-| 34 | [La Vida Sin Ti](https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:44 |
-| 35 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 |
+| 34 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 |
+| 35 | [La Vida Sin Ti](https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:44 |
 | 36 | [Empire Ants \(feat\. Little Dragon\)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:43 |
-| 37 | [Heaven is a Home…](https://open.spotify.com/track/7A6f6HJqsl5UdG7kBXzXSf) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 4:04 |
-| 38 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 |
+| 37 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 |
+| 38 | [Heaven is a Home…](https://open.spotify.com/track/7A6f6HJqsl5UdG7kBXzXSf) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 4:04 |
 | 39 | [00:00](https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 3:35 |
 | 40 | [Mátenme Porque Me Muero](https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:33 |
 | 41 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:28 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 47 | [KINTSUGI](https://open.spotify.com/track/1aDOtUEvUbItaYvYy6Ajs4) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:57 |
 | 48 | [Live And Let Die \- 2018 Remaster](https://open.spotify.com/track/0VV8wkOM4w78A2OHZOTzNP) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway \(Archive Collection\)](https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy) | 3:12 |
 | 49 | [Bocanada](https://open.spotify.com/track/12uaDRCVrgu4O6AyOZLrxG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:06 |
-| 50 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
-| 51 | [Into My Arms](https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 4:16 |
+| 50 | [Into My Arms](https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 4:16 |
+| 51 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
 | 52 | [vivo si me exiges](https://open.spotify.com/track/1rT3ZQcsqcdjBnR5AcaubL) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 3:06 |
 | 53 | [Todo Pasa](https://open.spotify.com/track/0U0ahY5GZOnhiLLG7wE5vB) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo](https://open.spotify.com/album/0Jo8yyj5aHXkj6rCJUVbT5) | 5:44 |
 | 54 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 77 | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/track/74KvgeiH6BjFD39S4nwxvA) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/album/1CnDy0F1wT923JSznCjUtr) | 3:16 |
 | 78 | [True Love Will Find You in the End](https://open.spotify.com/track/6fEjOPaZoxQl3oha9GDJAN) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [1990](https://open.spotify.com/album/3puh4gwTuQFlPTZaEezmqa) | 1:51 |
 | 79 | [Get Me Away from Here, I'm Dying](https://open.spotify.com/track/0xBH1GysY7fy6RJjX8hW5R) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If You're Feeling Sinister](https://open.spotify.com/album/4usPTyIIgnAZ9eiItfEYSK) | 3:25 |
-| 80 | [Perder para Ganar](https://open.spotify.com/track/1BDZX6T4WWerKjJzfyDhyr) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Perder para Ganar](https://open.spotify.com/album/7nP330P2Uo9jx2N697ZJIs) | 3:02 |
+| 80 | [Mile End \- From 'Trainspotting' Original Motion Picture Soundtrack](https://open.spotify.com/track/3DYnqG3jqB1bijSKsJzuzG) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class / Deluxe Edition](https://open.spotify.com/album/1wDUCt2Jqcn4qKLnDdkMXh) | 4:30 |
 
 Snapshot ID: `aG1pIAAAAAD9DNBbTm/YBypGMgPbS+Ai`

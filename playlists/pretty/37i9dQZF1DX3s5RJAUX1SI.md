@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,734 likes - 125 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,832 likes - 125 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 75 | [Cortinas Guindas](https://open.spotify.com/track/6KBMoO8Ku4ZAFJ4lT9qAQI) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Sinaloense Hecho Y Derecho](https://open.spotify.com/album/7M2i31TZWIiqZeZs7rXWTK) | 3:42 |
 | 76 | [Coqueta](https://open.spotify.com/track/27188WhdFnBQXf1MzjIIAS) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:58 |
 | 77 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
-| 78 | [DIOS POR DELANTE](https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [DIOS POR DELANTE](https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu) | 3:34 |
+| 78 | [La basurita](https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:10 |
 | 79 | [Una Vez Más](https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [35 Aniversario](https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh) | 2:39 |
 | 80 | [Busca Otro Amor \(1968\)](https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [45 Anos De Exitos](https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE) | 3:15 |
-| 81 | [La basurita](https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:10 |
-| 82 | [Te Metiste](https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:29 |
+| 81 | [Te Metiste](https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:29 |
+| 82 | [DIOS POR DELANTE](https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [DIOS POR DELANTE](https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu) | 3:34 |
 | 83 | [Si Me Duele Que Duela](https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Si Me Duele Que Duela](https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY) | 2:51 |
 | 84 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Me Rindo](https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj) | 3:09 |
 | 85 | [Fantasia](https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N) | [Fantasia](https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm) | 2:35 |
@@ -124,12 +124,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 114 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
 | 115 | [Miro Al Cielo](https://open.spotify.com/track/3t6VXxSIoa4cyRdmJowRkq) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [Miro Al Cielo](https://open.spotify.com/album/7ftkH3sMO9gYvpWNlwXoQf) | 3:54 |
 | 116 | [En Mi Viejo San Juan](https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie Coleccion 15 Autenticos Exitos](https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf) | 2:54 |
-| 117 | [Te He Prometido](https://open.spotify.com/track/0EEch8uGilw3eU2Dzoy32U) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Mejor de Leo Dan Ahora con Mariachi](https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b) | 2:42 |
-| 118 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
-| 119 | [Vueltas](https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Vueltas](https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34) | 2:39 |
-| 120 | [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 |
+| 117 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
+| 118 | [Te He Prometido](https://open.spotify.com/track/0EEch8uGilw3eU2Dzoy32U) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Mejor de Leo Dan Ahora con Mariachi](https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b) | 2:42 |
+| 119 | [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 |
+| 120 | [Despedida Con Mariachi](https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Una Aventura](https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe) | 2:44 |
 | 121 | [¡Qué Va!](https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:45 |
-| 122 | [Despedida Con Mariachi](https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Una Aventura](https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe) | 2:44 |
+| 122 | [Vueltas](https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Vueltas](https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34) | 2:39 |
 | 123 | [Te Encontré \- En Vivo](https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Amor y Dolor \(En Vivo\)](https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq) | 3:14 |
 | 124 | [Sindrome De Estocolmo](https://open.spotify.com/track/4xNuSQSXV0LyKV43lqTRNR) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Sindrome De Estocolmo](https://open.spotify.com/album/7hlGcrJSOGlcHTOD1UMtKX) | 3:51 |
 | 125 | [Pudimos Ser](https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Pudimos Ser](https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY) | 3:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,643 likes - 71 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,667 likes - 71 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 37 | [PRIMAL](https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [PRIMAL](https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F) | 2:40 |
 | 38 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 |
 | 39 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
-| 40 | [Cellulite](https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Cellulite](https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN) | 3:10 |
-| 41 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
+| 40 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
+| 41 | [Cellulite](https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Cellulite](https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN) | 3:10 |
 | 42 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
 | 43 | [Bad Girls Behave](https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT) | 2:50 |
 | 44 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
-| 45 | [Jokes On Me](https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Jokes On Me](https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl) | 2:37 |
-| 46 | [APESHIT](https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [APESHIT](https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y) | 2:31 |
+| 45 | [APESHIT](https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [APESHIT](https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y) | 2:31 |
+| 46 | [Jokes On Me](https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Jokes On Me](https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl) | 2:37 |
 | 47 | [NOT RN!](https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [NOT RN!](https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3) | 2:40 |
 | 48 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
 | 49 | [Am I Human?](https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Am I Human?](https://open.spotify.com/album/2wagkL8o47G71cciBICnsI) | 2:32 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 54 | [Confessions Of A Baddie](https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Confessions Of A Baddie](https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ) | 2:25 |
 | 55 | [Replay \- Trance Mix](https://open.spotify.com/track/6p30rogHHSjLzFM3cMyDt9) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y), [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII) | [Replay \- Trance Mix](https://open.spotify.com/album/2TSTyf1PAKHLKuJIi9HFCA) | 3:26 |
 | 56 | [Broken English](https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Broken English](https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA) | 3:02 |
-| 57 | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/track/2FWvKhxJsTA6wfuAF3k0Lo) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/album/2IlTlE29pgIKh74Jv63YGq) | 2:19 |
-| 58 | [fire sign fuck u](https://open.spotify.com/track/5ZzGcke5Lcf4pld0cKyOwE) | [SANJ](https://open.spotify.com/artist/5EDOYY1FujchLVQLI7OVD4) | [Poster Child](https://open.spotify.com/album/3a6zOO4obG0ra20SqJ5EYe) | 2:26 |
+| 57 | [fire sign fuck u](https://open.spotify.com/track/5ZzGcke5Lcf4pld0cKyOwE) | [SANJ](https://open.spotify.com/artist/5EDOYY1FujchLVQLI7OVD4) | [Poster Child](https://open.spotify.com/album/3a6zOO4obG0ra20SqJ5EYe) | 2:26 |
+| 58 | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/track/2FWvKhxJsTA6wfuAF3k0Lo) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/album/2IlTlE29pgIKh74Jv63YGq) | 2:19 |
 | 59 | [i deserve better](https://open.spotify.com/track/61N6k78p44EXKHAovZd6EX) | [Ka Lia Universe](https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb) | [i deserve better](https://open.spotify.com/album/0yMEpVkWmfE2NSrL0sjLG4) | 3:26 |
 | 60 | [GANG$TA](https://open.spotify.com/track/58RYwmQUJVcn9jJPc5wVLa) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [GANG$TA](https://open.spotify.com/album/3NKZL0lQVVroMxKYBaZ4Je) | 3:27 |
 | 61 | [TRIGGER HAPPY](https://open.spotify.com/track/0Xl7RPKEaAM2fyh1pXNAt2) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [TRIGGER HAPPY](https://open.spotify.com/album/16Bgi95HqT33ldu0ZQWttU) | 3:39 |

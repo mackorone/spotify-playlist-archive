@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Justin Bieber, Jazeek, Esther Graf, BLACKPINK und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,603 likes - 87 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,582 likes - 87 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

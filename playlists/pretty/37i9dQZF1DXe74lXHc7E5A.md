@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: JHus x Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,721 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,747 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 50 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
 | 51 | [CORLEONE \(feat\. ODUMODUBLVCK & Steel Banglez\)](https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:49 |
 | 52 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
-| 53 | [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 |
-| 54 | [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 |
-| 55 | [Hustle](https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hustle](https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH) | 3:09 |
-| 56 | [Strippers Lives Matter](https://open.spotify.com/track/5PQqmwiJwo6IEYVWSX0Vvz) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Let Me Fly \(Deluxe\)](https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7) | 2:30 |
+| 53 | [Strippers Lives Matter](https://open.spotify.com/track/5PQqmwiJwo6IEYVWSX0Vvz) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Let Me Fly \(Deluxe\)](https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7) | 2:30 |
+| 54 | [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 |
+| 55 | [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 |
+| 56 | [Hustle](https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hustle](https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH) | 3:09 |
 | 57 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 | 58 | [Fly Girl](https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Fly Girl](https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli) | 3:14 |
 | 59 | [OK!](https://open.spotify.com/track/06a6mc2yUe5mzWduZ46vK0) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [OK!](https://open.spotify.com/album/5zt9BqjjEKOIgAYiwgf46b) | 2:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,555 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,557 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 49 | [My Life Is Music \- Jonas Blue Remix](https://open.spotify.com/track/6y9T9t3OKxRGip4L1Ez345) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [The Visionary](https://open.spotify.com/artist/2mjMWOig2tCmJsm198htSs), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Life Is Music \(Jonas Blue Remix\)](https://open.spotify.com/album/7yU6y0IozptVKBqZLvPNeP) | 3:15 |
 | 50 | [Siento](https://open.spotify.com/track/2Ys5BmzK3AZWNCrKihq50z) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/4kKvFPFsPnBgSvTxG1ybPq) | 3:37 |
 
-Snapshot ID: `aHGlgAAAAADhS4do3wTTDlrnoKfTl4Mt`
+Snapshot ID: `aHL3AAAAAADfObRWlCgrE8T/DiNqaboX`

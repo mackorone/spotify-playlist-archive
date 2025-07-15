@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 201914,
+  "num_followers": 201936,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAABhUVR0n7fLctnBVxWPf7cx",
+  "snapshot_id": "aHL3AAAAAAAZ/tL4UGXTZXFHelngUpI9",
   "tracks": [
     {
       "added_at": null,
@@ -443,30 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B4 The Storm (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -491,6 +467,30 @@
       "duration_ms": 174100,
       "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B4 The Storm (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
     },
     {
       "added_at": null,

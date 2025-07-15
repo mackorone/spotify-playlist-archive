@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,952,085 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,952,618 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 65 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Playlist: The Very Best of A Flock of Seagulls](https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb) | 5:30 |
 | 66 | [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 |
 | 67 | [Peek\-A\-Boo](https://open.spotify.com/track/3VkyKA0iCT1ABwaSjb0kpf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 3:12 |
-| 68 | [Theme For Great Cities](https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Sons And Fascination/Sister Feelings Call](https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq) | 5:51 |
-| 69 | [Winning](https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2) | [The Sound](https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz) | [From The Lion's Mouth](https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI) | 4:18 |
+| 68 | [Winning](https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2) | [The Sound](https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz) | [From The Lion's Mouth](https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI) | 4:18 |
+| 69 | [Theme For Great Cities](https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Sons And Fascination/Sister Feelings Call](https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq) | 5:51 |
 | 70 | [Happy Hour](https://open.spotify.com/track/0kpmeoNfuZ0cys5tCEBCXZ) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [Now That's What I Call Quite Good](https://open.spotify.com/album/60b7ulDviqm8obALV5JDI9) | 2:22 |
 | 71 | [Fade To Grey](https://open.spotify.com/track/06LHESr4LTtnbZJ4R0xxrG) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [The Damned Don't Cry](https://open.spotify.com/album/2961MpxUFLATeTqNbb6zLt) | 3:49 |
 | 72 | [\(Keep Feeling\) Fascination](https://open.spotify.com/track/3zLZ7AVfbYuy0BnRWLafZg) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [The Greatest Hits](https://open.spotify.com/album/4Mu7aaT2AUrNVL2WQ29kAk) | 3:45 |

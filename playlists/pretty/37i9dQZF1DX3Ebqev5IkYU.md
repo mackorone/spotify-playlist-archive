@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 
 > Schlechte Laune? Drück den Play Button!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,948,918 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,948,765 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 32 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
 | 33 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 |
 | 34 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
-| 35 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
-| 36 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 |
+| 35 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 |
+| 36 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 | 37 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
 | 38 | [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 |
 | 39 | [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 |
 | 40 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 41 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
-| 42 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
-| 43 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 |
+| 42 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 |
+| 43 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
 | 44 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
 | 45 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 |
 | 46 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 81 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 |
 | 82 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 |
 | 83 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
-| 84 | [Fly Away](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away](https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq) | 2:58 |
-| 85 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 |
+| 84 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 |
+| 85 | [Fly Away](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away](https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq) | 2:58 |
 | 86 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 |
 | 87 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |
 | 88 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
 | 89 | [Herz über Kopf](https://open.spotify.com/track/2krwNGlAHQuClcMw0WMUiz) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:24 |
-| 90 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 |
+| 90 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 |
 
 Snapshot ID: `aFVfcQAAAACua/yhJVLLmGNWcvZKr9cN`

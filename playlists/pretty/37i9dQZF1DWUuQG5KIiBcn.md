@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,861 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,142 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 28 | [La Mesera](https://open.spotify.com/track/2QWPE9utfwQQdUc7YlLmiY) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [El Hijo Del Viejo](https://open.spotify.com/album/7twG1hwEyyfh4EAnH0FaLP) | 3:22 |
 | 29 | [El Rengo del Gallo Giro](https://open.spotify.com/track/4N6aI6IzDodEJscIaI6nfo) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Me Traes de un Ala](https://open.spotify.com/album/3us0ln0heM9tVS0EGihj1y) | 3:10 |
 | 30 | [Tres Veces Mojado](https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 2:51 |
-| 31 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 |
-| 32 | [El Caminante](https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Nuestra Historia](https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd) | 4:01 |
+| 31 | [El Caminante](https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Nuestra Historia](https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd) | 4:01 |
+| 32 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 |
 | 33 | [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 |
 | 34 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 |
 | 35 | [El Tarasco](https://open.spotify.com/track/2CERhSl038O4NVErqwjzNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores](https://open.spotify.com/album/6X8lyLxsx0CjQC2zmB5tBM) | 3:09 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 61 | [El Penal De La Loma](https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:51 |
 | 62 | [Paso del norte](https://open.spotify.com/track/4Nq6fPnW3hGWolYhevaopV) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [Exitos de Los Broncos de Reynosa](https://open.spotify.com/album/3WuRR3ZB1IFPuDG4pyWdHT) | 2:54 |
 | 63 | [El árbol de la horca](https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Corridos bien Pesados para la Bohemia](https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS) | 3:47 |
-| 64 | [Corrido De Lucio Vázquez \(Los Pavo Reales\)](https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 |
-| 65 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
+| 64 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
+| 65 | [Corrido De Lucio Vázquez \(Los Pavo Reales\)](https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 |
 | 66 | [Los Tres Amarradores](https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Con el Corazón en Sonora](https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67) | 4:09 |
 | 67 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 |
 | 68 | [Mi Ranchito](https://open.spotify.com/track/2wA3Ztl0h9o1SoyzDJqoio) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Exitos En Vivo Vol\. 1](https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B) | 2:34 |

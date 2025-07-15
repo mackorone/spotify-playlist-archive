@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\.  Cover: <a href="spotify:artist:16rCzZOMQX7P8Kmn5YKexI">Mahalia</a>
+> A melting pot of Caribbean culture\.  Cover: Vybz Kartel, Drake and Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,056 likes - 103 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,176 likes - 103 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shake It To The Max \- Tuff Remix](https://open.spotify.com/track/1tSYJVpbGD0iPLQPdesHpU) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Shake It To The Max \(Tuff Remix\)](https://open.spotify.com/album/6nwtiyXf4Odq4NDXsSvEHK) | 3:08 |
 | 2 | [Badman](https://open.spotify.com/track/5UD3L6qlMeflQx4pf4Vajl) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Pool Party](https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8) | 3:14 |
 | 3 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 |
-| 4 | [PBT](https://open.spotify.com/track/5820PtzfB116EIALe50F6t) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:10 |
+| 4 | [PBT](https://open.spotify.com/track/5820PtzfB116EIALe50F6t) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:10 |
 | 5 | [Instructions](https://open.spotify.com/track/1zRvqTBUJBRAIs8s6mIV5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Instructions](https://open.spotify.com/album/1579N4l9ljWuCGsw98b0rz) | 2:16 |
 | 6 | [Column](https://open.spotify.com/track/0scHhOURKlAd3Aj6GsMa7n) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Column](https://open.spotify.com/album/70Mx4fkCBgCjKkFH3qF86y) | 3:17 |
 | 7 | [Romantic \(with Masicka\)](https://open.spotify.com/track/2pMUyYmRRwom1SdYzBtE17) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Romantic \(with Masicka\)](https://open.spotify.com/album/6YjD4IDZsKPxWx7iFlV8L7) | 2:38 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 20 | [Jab Decisions](https://open.spotify.com/track/22fFQtquJgXlte3RuXYYt7) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Jab Decisions](https://open.spotify.com/album/41AdbCyGOATIjgPBJTQQDF) | 3:17 |
 | 21 | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/track/08kieiDP1vprkXbHyLaXl9) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/album/5tcpbxl38BLpALpZgspcFx) | 3:03 |
 | 22 | [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 |
-| 23 | [Passenger Princess](https://open.spotify.com/track/3K0Brj5efNDnuanUlQACq7) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Passenger Princess](https://open.spotify.com/album/4aO1h3geLdTrYrl612pf6g) | 2:30 |
+| 23 | [Passenger Princess](https://open.spotify.com/track/3K0Brj5efNDnuanUlQACq7) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Passenger Princess](https://open.spotify.com/album/4aO1h3geLdTrYrl612pf6g) | 2:30 |
 | 24 | [8:00 PM](https://open.spotify.com/track/6cN5twf94UTiHitcAXgrwk) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [WIKID LUV](https://open.spotify.com/album/4vlG5UeeD2cq1LLsgWiPjF) | 2:46 |
 | 25 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 26 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 102 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 |
 | 103 | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/track/03jGFqmsLt2BLWcbA4Vx5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/album/1bD4ne7GGkyeViaNBFg5Z2) | 3:05 |
 
-Snapshot ID: `aHMvSQAAAADolNTeMAd4mwv4o8Nqr6sY`
+Snapshot ID: `aHVUngAAAADRRiW64fYmxmhfZdKysaUZ`

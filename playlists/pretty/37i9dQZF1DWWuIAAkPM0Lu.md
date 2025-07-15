@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra  Justin Bieber, OLIVVER, Caroline Dubois og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,603 likes - 97 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,601 likes - 97 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 30 | [Edelweiss](https://open.spotify.com/track/6k67oyKszwAMitMNBjGrQQ) | [Coco Hotel](https://open.spotify.com/artist/05kKxTkISoXcvAiqQxQL92), [Jacob Bellens](https://open.spotify.com/artist/4HEZdTnwi6G8nAotn7x6nz) | [Edelweiss](https://open.spotify.com/album/6F3WPx8gatbH4D3pc4XZzM) | 3:02 |
 | 31 | [vampire diaries](https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [vampire diaries](https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O) | 2:35 |
 | 32 | [Himlen Bløder](https://open.spotify.com/track/2kzfcqvzRZUFjFgxf8alvK) | [Ganga](https://open.spotify.com/artist/0i6vkNic4Oz5lswGJIMsim) | [Himlen Bløder](https://open.spotify.com/album/5nCm0lmKDZc3uPLxPYYgY6) | 3:20 |
-| 33 | [Sig mær \(baby, eg vil vita tað heila\)](https://open.spotify.com/track/0ne1NDwx1ZXoiqU0eO3Utm) | [Marius DC](https://open.spotify.com/artist/0R7NWIapEdtsPv8aO7oNEU), [Dania O\. Tausen](https://open.spotify.com/artist/3pjEVrHaQU7GHmIYZTNkpa) | [Sig mær \(baby, eg vil vita tað heila\)](https://open.spotify.com/album/5K6IihPD74arepKC74NkV2) | 4:10 |
+| 33 | [Sig mær \(baby, eg vil vita tað heila\)](https://open.spotify.com/track/0ne1NDwx1ZXoiqU0eO3Utm) | [Marius DC](https://open.spotify.com/artist/0R7NWIapEdtsPv8aO7oNEU), [Jóhan O\. Tausen](https://open.spotify.com/artist/3pjEVrHaQU7GHmIYZTNkpa) | [Sig mær \(baby, eg vil vita tað heila\)](https://open.spotify.com/album/5K6IihPD74arepKC74NkV2) | 4:10 |
 | 34 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 |
 | 35 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
 | 36 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |

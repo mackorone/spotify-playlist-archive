@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,576 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,544 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 54 | [Move to San Francisco](https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Move to San Francisco](https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw) | 3:01 |
 | 55 | [The Ceiling](https://open.spotify.com/track/6EprgVYMTXhotXNEBi4qr2) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [The Ceiling / Border \(CH\. III\)](https://open.spotify.com/album/5iznNh84frPAAx1fLffZa4) | 2:54 |
 | 56 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
-| 57 | [MYSTERY](https://open.spotify.com/track/5rxUvOLdilsj2hxBeWSYsB) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [TURNSTILE LOVE CONNECTION](https://open.spotify.com/album/4Dx7TI0kECk72u90341I25) | 2:35 |
-| 58 | [Love's a Real Thing](https://open.spotify.com/track/3doVWfX2iomq1Z6XsidARn) | [Super Eagles](https://open.spotify.com/artist/2vyu3bWnidVmXk5wmqJaQ5) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 2:59 |
+| 57 | [Love's a Real Thing](https://open.spotify.com/track/3doVWfX2iomq1Z6XsidARn) | [Super Eagles](https://open.spotify.com/artist/2vyu3bWnidVmXk5wmqJaQ5) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 2:59 |
+| 58 | [MYSTERY](https://open.spotify.com/track/5rxUvOLdilsj2hxBeWSYsB) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [TURNSTILE LOVE CONNECTION](https://open.spotify.com/album/4Dx7TI0kECk72u90341I25) | 2:35 |
 | 59 | [Verano En Espiral](https://open.spotify.com/track/0f5qo7mMapxEZ0Py10vp4T) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [:3](https://open.spotify.com/album/6RmsOgYMg3kwjgcGFOo6Ke) | 3:02 |
 | 60 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 |
-| 61 | [Waterfall](https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr) | [The Fresh & Onlys](https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1) | [Play It Strange](https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX) | 3:12 |
-| 62 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 |
+| 61 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 |
+| 62 | [Waterfall](https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr) | [The Fresh & Onlys](https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1) | [Play It Strange](https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX) | 3:12 |
 | 63 | [Favor](https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Favor](https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9) | 4:38 |
 | 64 | [Huesos Viejos](https://open.spotify.com/track/61Q1488cGOi0zuEGEIVHbV) | [Davila 666](https://open.spotify.com/artist/0PQK6BLKbviconz1bx1rlH) | [Huesos Viejos](https://open.spotify.com/album/3JNj1DiE02Bq2sCgxy6VNQ) | 3:18 |
 | 65 | [Loaded](https://open.spotify.com/track/7eKUG8l9jlGeZ7hh0DA036) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Loaded](https://open.spotify.com/album/7zhP9dkXyi10UUv4YGosEs) | 3:18 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 72 | [Worthy Girl](https://open.spotify.com/track/3yK73VxfoiDT1hCex7X09X) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Kills Birds](https://open.spotify.com/album/4ji7q0x2FcLB65vc9K3LUF) | 2:36 |
 | 73 | [Salvation](https://open.spotify.com/track/1fwOLfBevvNiMoyTT2zUoh) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n) | [Crystal Anis](https://open.spotify.com/album/4YrRNedrhlhpW4pGKfTPsw) | 3:21 |
 | 74 | [Que No](https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Que No](https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ) | 3:50 |
-| 75 | [Why Must A Building Burn?](https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Nature Always Wins](https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4) | 3:02 |
+| 75 | [Strong Feelings](https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Strong Feelings](https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY) | 4:04 |
 
 Snapshot ID: `ZpG6RAAAAABUdwyYMt7uEFNrGjSQv3Lh`

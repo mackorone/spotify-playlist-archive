@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,747 likes - 180 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,831 likes - 180 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

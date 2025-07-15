@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,251 likes - 75 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,334 likes - 75 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 62 | [Sun & Moon \- Blastoyz Remix](https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Sun & Moon \(Blastoyz Remix\)](https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG) | 3:31 |
 | 63 | [Ecstasy of Gold \- P.R.O.G\. Remix](https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu) | [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [P.R.O.G.](https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f) | [Ecstasy of Gold \(P.R.O.G\. Remix\)](https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo) | 5:20 |
 | 64 | [Carmen](https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Invisible Reality](https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An) | [Carmen](https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF) | 4:03 |
-| 65 | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Ravid Kahalani](https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s) | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc) | 2:25 |
-| 66 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |
+| 65 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |
+| 66 | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Ravid Kahalani](https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s) | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc) | 2:25 |
 | 67 | [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 |
 | 68 | [Roshini](https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se) | [Sajanka](https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf), [Krodax](https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp) | [Roshini](https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH) | 6:33 |
 | 69 | [Behind](https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Deep Kontakt](https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna) | [Behind](https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt) | 4:33 |

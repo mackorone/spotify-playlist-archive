@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2652,
+  "num_followers": 2657,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
+        "name": "Lucio Dalla",
+        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
+      },
+      "artists": [
+        {
+          "name": "Lucio Dalla",
+          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "L'Anno Che Verr\u00e0",
+      "url": "https://open.spotify.com/track/2buPtPaKomtwoT8YvxO13f"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
         "name": "BELLA STRONZA",
         "url": "https://open.spotify.com/album/5hfRrnvwwazuFYUkh5KPNc"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 176571,
       "name": "BELLA STRONZA",
       "url": "https://open.spotify.com/track/2qgKFtVm0Ls6WC72sm9ELe"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Lucio Dalla",
-        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
-      },
-      "artists": [
-        {
-          "name": "Lucio Dalla",
-          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "L'Anno Che Verr\u00e0",
-      "url": "https://open.spotify.com/track/2buPtPaKomtwoT8YvxO13f"
     },
     {
       "added_at": "2025-03-03 09:30:09",

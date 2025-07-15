@@ -7225,6 +7225,28 @@
     },
     {
       "album": {
+        "name": "En Mis Sue\u00f1os Est\u00e1s",
+        "url": "https://open.spotify.com/album/60k4HQHlhLjmKxXWIp5GhG"
+      },
+      "artists": [
+        {
+          "name": "La Pen\u00faltima",
+          "url": "https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx"
+        },
+        {
+          "name": "La Misma Cuadra",
+          "url": "https://open.spotify.com/artist/2JJXJsbTyotc9Rm0KWSTdQ"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148574,
+      "name": "En Mis Sue\u00f1os Est\u00e1s",
+      "url": "https://open.spotify.com/track/6MKewq4KCkbj2TP8gm9voX"
+    },
+    {
+      "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/7vQDq7RBLz0hgGK3jJNaaI"
       },
@@ -7468,7 +7490,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 185866,
       "name": "Ese Maldito Momento",
       "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
@@ -13380,7 +13402,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 178255,
       "name": "Muero Por Ti",
       "url": "https://open.spotify.com/track/27mCFtuegT2aQNirEVYuvS"
@@ -16358,7 +16380,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 130968,
       "name": "Priti",
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
@@ -22058,7 +22080,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 210047,
       "name": "Verano Rosa",
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
@@ -22704,7 +22726,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 215000,
       "name": "X TI",
       "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"

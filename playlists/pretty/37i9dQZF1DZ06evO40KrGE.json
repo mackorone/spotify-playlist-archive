@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 36850,
+  "num_followers": 36859,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAB1vR3qVUUjnArtsQ91zzE",
+  "snapshot_id": "aHL3AAAAAAD50rJeDfSM4FFK+BZq7fOd",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 289970,
+      "name": "Todo Poderoso",
+      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Louvarei (Ao Vivo)",
         "url": "https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 334656,
       "name": "Te Louvarei - Ao Vivo",
       "url": "https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289970,
-      "name": "Todo Poderoso",
-      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 325218,
-      "name": "Tremendo e Santo",
-      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fa\u00e7a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 276549,
       "name": "Mergulhe",
       "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 325218,
+      "name": "Tremendo e Santo",
+      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,224 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,230 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Insomnies](https://open.spotify.com/track/6avDRa1wX7du0Mv25zaC7i) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Mille vies](https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN) | 3:01 |
-| 2 | [Lisa](https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Lisa](https://open.spotify.com/album/5lgCAuiOX00D2dqFy4atIg) | 3:50 |
-| 3 | [Côte d'Azur](https://open.spotify.com/track/4xbkjchDDYsX3OoyeF4MUB) | [MIMOSA](https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl) | [Côte d'Azur](https://open.spotify.com/album/7dv3v0NT8znHNYy2BlZgbX) | 3:13 |
+| 2 | [Côte d'Azur](https://open.spotify.com/track/4xbkjchDDYsX3OoyeF4MUB) | [MIMOSA](https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl) | [Côte d'Azur](https://open.spotify.com/album/7dv3v0NT8znHNYy2BlZgbX) | 3:13 |
+| 3 | [Lisa](https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Lisa](https://open.spotify.com/album/5lgCAuiOX00D2dqFy4atIg) | 3:50 |
 | 4 | [Differences Aside](https://open.spotify.com/track/1b43aREmKyr4IvSIAXEEPZ) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:55 |
 | 5 | [Rejoins moi](https://open.spotify.com/track/1ARdJJkOah64yR9mod4IGf) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Rejoins moi](https://open.spotify.com/album/2k37HZSmCNknYhYIlyotwm) | 3:47 |
 | 6 | [Mille vies](https://open.spotify.com/track/1p83TQi0HLpbUibg9y148P) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Mille vies](https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN) | 4:05 |

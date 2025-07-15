@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 21927,
+  "num_followers": 21936,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADE4ShuMvycSeXA5LG03CYo",
+  "snapshot_id": "aHL3AAAAAABeMazYLINhvqirMuf6Gazh",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sarah Farias (Ao Vivo) - Live MK 10 MI",
+        "url": "https://open.spotify.com/album/0xXezrYxjC5yA7X5i7jiNG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 281983,
+      "name": "Sobrevivi - Live MK 10 MI",
+      "url": "https://open.spotify.com/track/2AhWt8NoWzWQOlIj1Ko95B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sarah Farias (Ao Vivo) - Live MK 10 MI",
-        "url": "https://open.spotify.com/album/0xXezrYxjC5yA7X5i7jiNG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 281983,
-      "name": "Sobrevivi - Live MK 10 MI",
-      "url": "https://open.spotify.com/track/2AhWt8NoWzWQOlIj1Ko95B"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 300234,
+      "name": "Um Novo Tempo",
+      "url": "https://open.spotify.com/track/1olnFjuP51k8W4xgGZYfjs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
       },
@@ -663,38 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 300234,
-      "name": "Um Novo Tempo",
-      "url": "https://open.spotify.com/track/1olnFjuP51k8W4xgGZYfjs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Melhor Pra Ti",
-        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "O Melhor Pra Ti",
-      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Em Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 272697,
       "name": "Prossiga (feat. Midian Lima)",
       "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Melhor Pra Ti",
+        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "O Melhor Pra Ti",
+      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele N\u00e3o Muda (Ao Vivo)",
         "url": "https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK"
       },
@@ -859,28 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mais Um Dia",
-        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Mais Um Dia",
-      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
       },
       "artists": [
         {
@@ -888,9 +852,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 274274,
-      "name": "Lugar Seguro (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
     },
     {
       "added_at": null,
@@ -911,6 +875,42 @@
       "duration_ms": 196200,
       "name": "Enquanto a Igreja Ora (Ao Vivo)",
       "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 274274,
+      "name": "Lugar Seguro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mais Um Dia",
+        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Mais Um Dia",
+      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
     },
     {
       "added_at": null,

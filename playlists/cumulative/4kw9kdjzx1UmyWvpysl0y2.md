@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,024 songs - 2 day 9 hr 28 min
+1,025 songs - 2 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -992,10 +992,11 @@
 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 | 2021-11-19 | 2022-02-18 |
 | [What Are We Proving](https://open.spotify.com/track/5J0WnlrYHDUzglZzyq3Rpn) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [What Are We Proving](https://open.spotify.com/album/7c2Mz03qiwZJuhqTSevtZL) | 4:38 | 2025-01-27 | 2025-05-01 |
 | [What If I Stay](https://open.spotify.com/track/0AFGePrpNwxHi0RkZcn2DT) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [What If I Stay](https://open.spotify.com/album/2Cq1ho6qwefhOEZo3ydzw4) | 2:28 | 2024-07-18 | 2024-10-10 |
+| [What U Got](https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [What U Got](https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2) | 2:48 | 2025-07-14 |  |
 | [Wheel Of Life](https://open.spotify.com/track/2ZZVvGeE3M8dfRBUy7khPH) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [Wheel Of Life](https://open.spotify.com/album/4vHjXmcYrtyS3TsJvsspuR) | 3:50 | 2022-01-19 | 2022-03-26 |
 | [When I'm Gone](https://open.spotify.com/track/2hHdTksNtM52OojwkncDUO) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [When I'm Gone](https://open.spotify.com/album/1SBSEBuRZ559StapQdFUUV) | 3:14 | 2025-06-05 |  |
 | [When The Sun Goes Down](https://open.spotify.com/track/6FH2pCTCx5HkevdqH1P20D) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [When The Sun Goes Down](https://open.spotify.com/album/2u43o2x6oU5twBqN0DiNqI) | 3:48 | 2022-05-18 | 2022-07-29 |
-| [where did you go](https://open.spotify.com/track/38j9LlW18hlTjc9bulORkm) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [where did you go](https://open.spotify.com/album/6pZUtqnGuOECXYvYiKAabd) | 2:55 | 2025-04-22 |  |
+| [where did you go](https://open.spotify.com/track/38j9LlW18hlTjc9bulORkm) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [where did you go](https://open.spotify.com/album/6pZUtqnGuOECXYvYiKAabd) | 2:55 | 2025-04-22 | 2025-07-15 |
 | [Where Does The Light Go](https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Where Does The Light Go](https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3) | 3:42 | 2024-01-23 | 2024-04-12 |
 | [Where My Heart Is](https://open.spotify.com/track/3DEs5CDPtlpBx0NelrxXTE) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Where My Heart Is / Time Is On Our Side](https://open.spotify.com/album/0aiSLg8rZBW1fJWZzzLV6j) | 3:26 | 2025-02-13 | 2025-05-08 |
 | [Wherever You Go](https://open.spotify.com/track/3azfPD8DGtZRjcYNjPA8HR) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Wherever You Go](https://open.spotify.com/album/0keuvwVV0uuUmaMZX9C6o6) | 4:27 | 2023-07-17 | 2023-12-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,264 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,282 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 29 | [La Noche Eterna](https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:27 |
 | 30 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 |
 | 31 | [To My Love](https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 3:59 |
-| 32 | [Eres](https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:50 |
-| 33 | [Mira cómo vuelo](https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Detroit](https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT) | 3:09 |
+| 32 | [Mira cómo vuelo](https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Detroit](https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT) | 3:09 |
+| 33 | [Eres](https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:50 |
 | 34 | [Lucha De Gigantes](https://open.spotify.com/track/1ozbWlTQASs311dSO5R6vp) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Lucha De Gigantes](https://open.spotify.com/album/3qcDcfZbiPkWFXwobesAvy) | 3:26 |
 | 35 | [Loco en el Desierto](https://open.spotify.com/track/392fECmnYZTQjL97hqEElg) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conociendo Rusia](https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT) | 4:17 |
 | 36 | [Fuego](https://open.spotify.com/track/4MvZ76WfNDmkVeQKmqzkah) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Estalla](https://open.spotify.com/album/7ffQTpHNmVmjwnU6c6Dpga) | 4:36 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 52 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
 | 53 | [Canción de Amor](https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Azules Turquesas](https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd) | 3:03 |
 | 54 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 |
-| 55 | [Dead](https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [The Room](https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj) | 4:46 |
-| 56 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
+| 55 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
+| 56 | [Dead](https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [The Room](https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj) | 4:46 |
 | 57 | [De las Dudas Infinitas](https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22) | [Supersubmarina](https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K) | [Santacruz](https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf) | 4:46 |
 | 58 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
 | 59 | [Las Flores](https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 2:38 |
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 87 | [Adelante](https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 4:28 |
 | 88 | [Por la Ventana](https://open.spotify.com/track/0Opu86ApGccAwYL02yOEsj) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Audiovisión](https://open.spotify.com/album/3gbz7K4IwEupgQ1ZgLhzNQ) | 3:12 |
 | 89 | [Te debo una canción](https://open.spotify.com/track/3OZ0BqpkRr5NiZSDzlLLV1) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Te debo una canción](https://open.spotify.com/album/4qsaZeogZgYAFJGbMi0qhz) | 3:31 |
-| 90 | [Los Chicos Hoy Saltarán A La Pista](https://open.spotify.com/track/04wL0E4tBCOYDTj09wPCzS) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [La Polinesia Meridional](https://open.spotify.com/album/232LpqTsWlBTyslwqu1CCG) | 3:22 |
+| 90 | [México](https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Político](https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt) | 3:46 |
 | 91 | [Tatuaje](https://open.spotify.com/track/38Xz07BlYVyCD24sKMZLwt) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Rebeldes](https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE) | 3:58 |
 | 92 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
-| 93 | [México](https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Político](https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt) | 3:46 |
+| 93 | [Los Chicos Hoy Saltarán A La Pista](https://open.spotify.com/track/04wL0E4tBCOYDTj09wPCzS) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [La Polinesia Meridional](https://open.spotify.com/album/232LpqTsWlBTyslwqu1CCG) | 3:22 |
 | 94 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
 | 95 | [Espada](https://open.spotify.com/track/74JGKtGEQjx2gXZgSR4v93) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Otra Era](https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah) | 4:14 |
 | 96 | [Sexo en la playa](https://open.spotify.com/track/4hdq0AASkxYPua4kKwQ4jy) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Sexo en la playa](https://open.spotify.com/album/0ncQYd7wRzoLdM4MFG6UGd) | 3:45 |

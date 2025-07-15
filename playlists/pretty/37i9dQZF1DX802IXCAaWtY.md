@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,663 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,103 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 27 | [L'amour Toujours \(Small Mix\)](https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujour](https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP) | 4:02 |
 | 28 | [The Summer Is Magic \(Radio Mix\)](https://open.spotify.com/track/6bXFXDYcwHiuvW1IDayCPA) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \(Radio Mix\)](https://open.spotify.com/album/5VE3kQMUhC8dqhBziRsQ28) | 3:56 |
 | 29 | [Missing \- Todd Terry Club Mix / US Radio Edit](https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart](https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR) | 4:09 |
-| 30 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4UJ1AKSbXAbPlPVFe66wK7) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Music For Girls Night Out](https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k) | 3:37 |
-| 31 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
+| 30 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
+| 31 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4UJ1AKSbXAbPlPVFe66wK7) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Music For Girls Night Out](https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k) | 3:37 |
 | 32 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
 | 33 | [Cotton Eye Joe](https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz) | 3:13 |
 | 34 | [Baby Baby](https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:48 |
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 50 | [Tarzan & Jane](https://open.spotify.com/track/2R3gfyDoBo0uXZSwTiKysZ) | [Toy\-Box](https://open.spotify.com/artist/0BYEp3eyHK9Wsp4t2Ad1R8) | [FanTastic](https://open.spotify.com/album/7pZA63LsjuRCziMYfjEYjf) | 3:06 |
 | 51 | [Max Don't Have Sex With Your Ex](https://open.spotify.com/track/0QLTWps1wXP822ZviasXt7) | [E\-Rotic](https://open.spotify.com/artist/59jv1JLa4XNxXg7uxd04Nu) | [The Best Of](https://open.spotify.com/album/5ydOB7CpJQJmFLKGhtHUCc) | 3:30 |
 | 52 | [Short Dick Man \- Club Mix](https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU) | [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y), [20 Fingers](https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd) | [Short Dick Man](https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT) | 4:50 |
-| 53 | [Heaven](https://open.spotify.com/track/3gpFz8oAnbKQz83jf17yco) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Heaven](https://open.spotify.com/album/3CmchxGaji4Tt4ro5JDIhZ) | 3:39 |
-| 54 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
+| 53 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
+| 54 | [Heaven](https://open.spotify.com/track/3gpFz8oAnbKQz83jf17yco) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Heaven](https://open.spotify.com/album/3CmchxGaji4Tt4ro5JDIhZ) | 3:39 |
 | 55 | [Close to You](https://open.spotify.com/track/70DbNpe8D1QnGi92Mo2MK1) | [Fun Factory](https://open.spotify.com/artist/22p5npx84cXYat7kgGocRZ) | [Back to the Factory](https://open.spotify.com/album/6jEa6t77CNNbH9z2Pax5wn) | 3:38 |
 | 56 | [Superhero](https://open.spotify.com/track/5w24xZUicD68LjnZvtougC) | [Daze](https://open.spotify.com/artist/0EyQK4yQkyCubak3DZydiV) | [Super Heroes](https://open.spotify.com/album/37Zd5cmnjUQBxfkSe05OTp) | 3:24 |
 | 57 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
 | 58 | [Show me colours](https://open.spotify.com/track/6xRRr4W5VQiQZOVhXzqtIr) | [Masterboy](https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E) | [Colours](https://open.spotify.com/album/5dmEmXqf6kIJPhTcmhItRd) | 4:29 |
-| 59 | [Rhythm Of Love \- Original Radio Edit](https://open.spotify.com/track/7jGrEtwlejqbmRB5La3Abp) | [DJ Sequenza](https://open.spotify.com/artist/5aS5b54NtRuGHbNol5aSCX) | [Rhythm Of Love](https://open.spotify.com/album/4qGFv8BijBeeg1RVyv3LXC) | 3:01 |
-| 60 | [Happy People \(feat\. Marky Mark\)](https://open.spotify.com/track/4RybvT8lyLLjkWXqmAuZnX) | [Prince Ital Joe](https://open.spotify.com/artist/564Zvn5Nh5FqjSYlmzplB9), [Marky Mark](https://open.spotify.com/artist/30RQEZf8rhlcRNQJ89me3P) | [Life In The Streets](https://open.spotify.com/album/3Vvt7b5z4GVIaK14CfKF88) | 3:58 |
+| 59 | [Happy People \(feat\. Marky Mark\)](https://open.spotify.com/track/4RybvT8lyLLjkWXqmAuZnX) | [Prince Ital Joe](https://open.spotify.com/artist/564Zvn5Nh5FqjSYlmzplB9), [Marky Mark](https://open.spotify.com/artist/30RQEZf8rhlcRNQJ89me3P) | [Life In The Streets](https://open.spotify.com/album/3Vvt7b5z4GVIaK14CfKF88) | 3:58 |
+| 60 | [Rhythm Of Love \- Original Radio Edit](https://open.spotify.com/track/7jGrEtwlejqbmRB5La3Abp) | [DJ Sequenza](https://open.spotify.com/artist/5aS5b54NtRuGHbNol5aSCX) | [Rhythm Of Love](https://open.spotify.com/album/4qGFv8BijBeeg1RVyv3LXC) | 3:01 |
 | 61 | [Dooh Dooh](https://open.spotify.com/track/06MaHjSGleJNvfsugH0mFi) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:51 |
 | 62 | [In The Middle Of The Night](https://open.spotify.com/track/0EYSAcArOvu8Pfqo347B2Y) | [Magic Affair](https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg) | [Omen \- The Story Continues](https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb) | 6:22 |
 | 63 | [The Promise Man](https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 4:05 |

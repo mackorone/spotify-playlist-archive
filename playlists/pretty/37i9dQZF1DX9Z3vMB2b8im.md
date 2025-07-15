@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,304,469 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,304,598 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 8 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 9 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 |
 | 10 | [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 |
-| 11 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 |
-| 12 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 |
+| 11 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 |
+| 12 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 |
 | 13 | [Call Your Mom](https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:38 |
 | 14 | [Tourniquet](https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:09 |
 | 15 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 50 | [Tell Somebody](https://open.spotify.com/track/4X3hEZz6tBEhXEjwcN0I6J) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:10 |
 | 51 | [Joyride \(home demo\)](https://open.spotify.com/track/1crXwNM34nG0P3c55HvqtY) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Joyride \(home demo\)](https://open.spotify.com/album/1a9vLDB7fm36N1EeJe7gV6) | 3:44 |
 | 52 | [Confession](https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:32 |
-| 53 | [Our Time](https://open.spotify.com/track/0TNQTCtjB0tIXbdzbJPgiL) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:24 |
-| 54 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
+| 53 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
+| 54 | [Our Time](https://open.spotify.com/track/0TNQTCtjB0tIXbdzbJPgiL) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:24 |
 | 55 | [You Are The Morning](https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:13 |
 | 56 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
 | 57 | [Wake Up, Breathe In](https://open.spotify.com/track/6tVyaJrOGWOeshwaKPM7zM) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Wake Up, Breathe In](https://open.spotify.com/album/2mDY65lxLj6WNRb5OQHCBH) | 3:14 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 66 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |
 | 67 | [Timeless](https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Timeless](https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf) | 4:33 |
 | 68 | [She Drives The Car](https://open.spotify.com/track/5HVqwCe11o0R2WjwJQnRuL) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [These Things We Carry](https://open.spotify.com/album/4BEEJeqJqSUAAGGUpuqkPB) | 5:20 |
-| 69 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
+| 69 | [Songs in the Kitchen](https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [Songs in the Kitchen](https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ) | 3:10 |
 | 70 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
-| 71 | [Songs in the Kitchen](https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [Songs in the Kitchen](https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ) | 3:10 |
-| 72 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
+| 71 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
+| 72 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
 | 73 | [afraid](https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u), [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [afraid](https://open.spotify.com/album/2nIkRl4p0GBYkLoV2z2AxD) | 3:00 |
 | 74 | [Rolling Stone](https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 2:31 |
 | 75 | [Nostalgia](https://open.spotify.com/track/3D0IdhT2IFbXNOYaT67Ng5) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Nostalgia](https://open.spotify.com/album/4S4Hg7TfDfGheMAjgOoLJX) | 4:01 |

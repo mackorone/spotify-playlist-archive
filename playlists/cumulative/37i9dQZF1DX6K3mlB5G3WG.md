@@ -4,7 +4,7 @@
 
 > Le BLACKPINK e tutte le migliori nuove uscite 🇮🇹 e 🌎!
 
-1,726 songs - 3 day 16 hr 11 min
+1,727 songs - 3 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [AH \) AH \)](https://open.spotify.com/track/7D9m1E6i0uidnxxBRZtcKg) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [AH \) AH \)](https://open.spotify.com/album/50uqyqDEauW3Efn9tNU2bt) | 2:44 | 2024-09-05 | 2024-09-27 |
 | [AH AH AH](https://open.spotify.com/track/3hZfphgOX7x5nJibyHiEY0) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [AH AH AH](https://open.spotify.com/album/3veXH87Ab3CYcaFLO7NoY0) | 2:05 | 2025-01-02 | 2025-01-31 |
 | [AIR FORCE BLANCHE](https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [AIR FORCE BLANCHE](https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ) | 3:06 | 2025-06-20 |  |
+| [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 | 2025-07-14 |  |
 | [ALBA \(feat\. Don Pero\)](https://open.spotify.com/track/6yEONi0Pz5sO3zQLQLRcBz) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [ALBA \(feat\. Don Pero\)](https://open.spotify.com/album/0VJgAQHJEVmOoTt28Bbopn) | 2:46 | 2024-06-27 | 2024-07-05 |
 | [ALIBI](https://open.spotify.com/track/0Eq30jnDPYeCTDyBxaS1SN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [ALIBI](https://open.spotify.com/album/04It6nUCr0E9e2MOJxp77u) | 3:10 | 2025-03-20 | 2025-04-18 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-06-27 | 2024-08-09 |

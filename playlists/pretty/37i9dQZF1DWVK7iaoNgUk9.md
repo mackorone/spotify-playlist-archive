@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 
 > se for pra sofrer, que seja com trilha sonora
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,581 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,505 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 | 54 | [Palavras No Corpo](https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Palavras No Corpo](https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM) | 4:02 |
 | 55 | [lie to me](https://open.spotify.com/track/4f9IfFvBFm7Gsf1IVEudyf) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [lie to me](https://open.spotify.com/album/4BAEubwvC2r7bPRKlmRxUO) | 2:57 |
 | 56 | [this is what losing someone feels like](https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what losing someone feels like](https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF) | 2:52 |
-| 57 | [Mentiras](https://open.spotify.com/track/4XXaIb6V1u0X5Ao2xzeotr) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Senhas](https://open.spotify.com/album/7avsLM0HPiAyW1nxjDPHYp) | 2:58 |
-| 58 | [Don't Watch Me Cry](https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:10 |
+| 57 | [Don't Watch Me Cry](https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:10 |
+| 58 | [Mentiras](https://open.spotify.com/track/4XXaIb6V1u0X5Ao2xzeotr) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Senhas](https://open.spotify.com/album/7avsLM0HPiAyW1nxjDPHYp) | 2:58 |
 | 59 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 |
 | 60 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 |
 

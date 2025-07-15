@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-314 songs - 12 hr 3 min
+315 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 | 2022-04-15 |  |
 | [Casino Space Gun](https://open.spotify.com/track/2p83a4H9M3lElGRga9nEgm) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Casino Space Gun](https://open.spotify.com/album/7KmciSq3fci8jZvxpiY46i) | 2:20 | 2022-04-15 | 2022-07-29 |
 | [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 | 2024-03-13 |
-| [Cerveza](https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Cerveza](https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel) | 2:59 | 2022-04-15 |  |
+| [Cerveza](https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Cerveza](https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel) | 2:59 | 2022-04-15 | 2025-07-15 |
 | [chemistry](https://open.spotify.com/track/1MjmayyHSczxHONWSE2WMs) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [chemistry](https://open.spotify.com/album/1zOHpqsSHargJchc6TJORp) | 2:00 | 2024-03-12 | 2025-06-06 |
 | [Cherry Pie Jam](https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ) | [Hollow Clouds](https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh) | [Cherry Pie Jam](https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl) | 3:37 | 2024-03-12 |  |
 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 | 2022-04-15 | 2024-04-14 |
@@ -168,6 +168,7 @@
 | [m i s t](https://open.spotify.com/track/5j6vt3vHU22A9nuuMlRnwA) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/03rTwruRPImbzxnhEmO0wa) | 1:58 | 2022-04-15 | 2023-01-14 |
 | [Make Up](https://open.spotify.com/track/61JERhZCmTcba3dkm2k53O) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Nineteen](https://open.spotify.com/album/69fOwmdCZIaWPE4OLLnuQi) | 1:06 | 2022-04-15 |  |
 | [Mangal \(Instrumental\)](https://open.spotify.com/track/4o72yrtOHZLASTR8vzCdmH) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [Alice'in Fabrikalar Diyarı \(Instrumentals\)](https://open.spotify.com/album/7DCZd92QFu36HtAmix63lH) | 2:59 | 2022-04-15 | 2022-07-29 |
+| [Milk & Cookies](https://open.spotify.com/track/2TUxk6Lbcj0le79LGO4eQ6) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Milk & Cookies](https://open.spotify.com/album/0J7mljOriS30XDELsyKJp6) | 2:04 | 2024-03-12 |  |
 | [Mindfulness](https://open.spotify.com/track/5BZ0yIZtKoySiBIMJK0YOP) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [BODY N SOUL](https://open.spotify.com/album/3ors81EU27PDdPZkxM19xW) | 2:48 | 2022-04-15 | 2024-03-13 |
 | [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 | 2022-04-15 | 2022-07-28 |
 | [Monday Loop](https://open.spotify.com/track/5AIKwGeFoauI8ckPJVhihk) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/3xAIeIUqff7nui62qizWZL) | 1:31 | 2022-04-15 | 2024-04-19 |

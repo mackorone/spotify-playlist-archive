@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 45829,
+  "num_followers": 45841,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAC7LenEeYtWvKOzverKXNj2",
+  "snapshot_id": "aHL3AAAAAABZkrYHJzm6sTAvMkC76l/L",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 389133,
-      "name": "An Arc Of Doves - Remastered 2004",
-      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
+      "duration_ms": 204680,
+      "name": "Among Fields Of Crystal - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
     },
     {
       "added_at": null,
@@ -435,62 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "Late October - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Among Fields Of Crystal - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 1: Music For Airports (Remastered 2004)",
-        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 727080,
-      "name": "1/2 - Remastered 2004",
-      "url": "https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evening Star",
         "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
       },
@@ -511,6 +455,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 389133,
+      "name": "An Arc Of Doves - Remastered 2004",
+      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambient 1: Music For Airports (Remastered 2004)",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 727080,
+      "name": "1/2 - Remastered 2004",
+      "url": "https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -524,9 +504,29 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 261560,
-      "name": "Lost In The Humming Air - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
+      "duration_ms": 284133,
+      "name": "Late October - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
       "added_at": null,
@@ -567,22 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 322499,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+      "duration_ms": 261560,
+      "name": "Lost In The Humming Air - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Their Memories - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 265962,
       "name": "I Saw You",
       "url": "https://open.spotify.com/track/4LYwnQN8yP032iEZLHpN6g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Their Memories - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Foreshadowed - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 163887,
       "name": "Safety",
       "url": "https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Foreshadowed - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS"
     },
     {
       "added_at": null,
@@ -788,26 +788,6 @@
           "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
         }
       ],
-      "duration_ms": 258758,
-      "name": "And Live Again",
-      "url": "https://open.spotify.com/track/0Lksxr2KaefDU4M8s3JIX7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luminal",
-        "url": "https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Beatie Wolfe",
-          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
-        }
-      ],
       "duration_ms": 283992,
       "name": "My Lovely Days",
       "url": "https://open.spotify.com/track/3ZhoLmA5tCqe4UWxz2EMFi"
@@ -828,9 +808,9 @@
           "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
         }
       ],
-      "duration_ms": 285224,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/6BwObvXP2GYsAIJ8lLcsxl"
+      "duration_ms": 258758,
+      "name": "And Live Again",
+      "url": "https://open.spotify.com/track/0Lksxr2KaefDU4M8s3JIX7"
     },
     {
       "added_at": null,
@@ -851,6 +831,26 @@
       "duration_ms": 189856,
       "name": "Breath March",
       "url": "https://open.spotify.com/track/3gAZ0jJGj5vDuSg3esfSfY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luminal",
+        "url": "https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+        }
+      ],
+      "duration_ms": 285224,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/6BwObvXP2GYsAIJ8lLcsxl"
     }
   ],
   "unique_name": "This Is Brian Eno",

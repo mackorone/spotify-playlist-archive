@@ -4,7 +4,7 @@
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-254 songs - 13 hr 44 min
+256 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-11-28 |  |
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2023-11-28 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-11-28 | 2024-11-20 |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-14 |  |
 | [Dance Alone](https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Dance Alone](https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8) | 3:04 | 2024-01-09 |  |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-11-28 | 2024-11-20 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2024-11-09 |
@@ -215,6 +216,7 @@
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-10-26 |  |
 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 | 2024-03-01 | 2024-06-10 |
 | [Teenage Tears](https://open.spotify.com/track/3oDsUvSRJfodr7zXbLWXPm) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Teenage Tears](https://open.spotify.com/album/1D0utuuHTqyby5IUq0Exkf) | 3:22 | 2023-11-28 |  |
+| [That's So True \- Spotify Singles](https://open.spotify.com/track/39aMRjb5zKxNmYT4B0ztcW) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Spotify Singles](https://open.spotify.com/album/4tmb09xLH9FzEz45jAVhwE) | 2:47 | 2025-07-14 |  |
 | [That’s So True](https://open.spotify.com/track/4FF0Te5R85sLW8MNvehHKK) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU) | 2:46 | 2025-03-31 |  |
 | [the girl \(that you can't get over\)](https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- E.P.](https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL) | 2:47 | 2023-11-28 | 2024-11-20 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-19 |  |

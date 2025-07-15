@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224120,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV"
+    },
+    {
+      "album": {
         "name": "Mor\u00ed",
         "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
       },
@@ -926,7 +944,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 224506,
       "name": "Mor\u00ed",
       "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"

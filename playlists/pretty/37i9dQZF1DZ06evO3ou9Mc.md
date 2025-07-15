@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,333 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,404 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 34 | [Trust In You](https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:09 |
 | 35 | [The Fall Guy](https://open.spotify.com/track/0ahcf0U9tWZNYwGGS66mTx) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 2:34 |
 | 36 | [Come Out Swinging](https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 2:47 |
-| 37 | [Ok, But This Is The Last Time \- Piano Version](https://open.spotify.com/track/1ER7vCZkCWOhPVfq76PLcQ) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ok, But This Is The Last Time \(Piano Version\)](https://open.spotify.com/album/12G99PyLjvqZP8rgtVZxe4) | 3:27 |
-| 38 | [Defy You](https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Greatest Hits](https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg) | 3:48 |
+| 37 | [Defy You](https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Greatest Hits](https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg) | 3:48 |
+| 38 | [Looking Out For \#1 \- Ska Version](https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Bob Rock](https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL), [Adam Greenholtz](https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua) | [Looking Out For \#1](https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6) | 2:30 |
 | 39 | [Light It Up](https://open.spotify.com/track/6Hqpak2C21R2Qd448RGm7a) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 2:52 |
-| 40 | [Looking Out For \#1 \- Ska Version](https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Bob Rock](https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL), [Adam Greenholtz](https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua) | [Looking Out For \#1](https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6) | 2:30 |
+| 40 | [Ok, But This Is The Last Time \- Piano Version](https://open.spotify.com/track/1ER7vCZkCWOhPVfq76PLcQ) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ok, But This Is The Last Time \(Piano Version\)](https://open.spotify.com/album/12G99PyLjvqZP8rgtVZxe4) | 3:27 |
 | 41 | [Days Go By](https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 4:01 |
 | 42 | [Session \- 2008 Remaster](https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition \(2008 Remaster\)](https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF) | 2:32 |
 | 43 | [Cool To Hate](https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 49 | [Dividing By Zero](https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 2:22 |
 | 50 | [The Noose](https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 3:18 |
 
-Snapshot ID: `aHGlgAAAAACgwOcyq7hvqxF52rs0aymA`
+Snapshot ID: `aHL3AAAAAABcF4LIS8f9vcFwPBcxqL0b`

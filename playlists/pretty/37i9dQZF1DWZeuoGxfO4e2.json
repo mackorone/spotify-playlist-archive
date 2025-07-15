@@ -1,6 +1,6 @@
 {
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
-  "num_followers": 717306,
+  "num_followers": 717418,
   "original_name": "Iconos del Rock Latinoamericano",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Finisterra",
-        "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
-      },
-      "artists": [
-        {
-          "name": "M\u00e4go de Oz",
-          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
-        }
-      ],
-      "duration_ms": 296751,
-      "name": "Fiesta Pagana",
-      "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 225080,
       "name": "Te quiero",
       "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Finisterra",
+        "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+        }
+      ],
+      "duration_ms": 296751,
+      "name": "Fiesta Pagana",
+      "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "La ingrata",
+      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
         "name": "Hijos del pueblo",
         "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 212560,
       "name": "Aunque no sea conmigo",
       "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "La ingrata",
-      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 273306,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
+        "name": "Sue\u00f1os de Anoche",
+        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
         "name": "MTV Unplugged. El Libro De Las Mutaciones",
         "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 291117,
       "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
       "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
-        "name": "Sue\u00f1os de Anoche",
-        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
     },
     {
       "added_at": "2024-06-12 14:32:47",

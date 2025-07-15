@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > De mooiste tijdloze liedjes van nu: Danny Vera \(cover\), Kensington, RAYE en Teddy Swims.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,621 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,609 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

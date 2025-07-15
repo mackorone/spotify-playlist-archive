@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,114 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,113 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 43 | [Apaixonado Coração](https://open.spotify.com/track/5trNycknDFgdGosv98UeRc) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:08 |
 | 44 | [Recompensa \(Ao Vivo\)](https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Recompensa \(Ao Vivo\)](https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx) | 3:51 |
 | 45 | [Com Muito Louvor](https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com Muito Louvor](https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v) | 5:21 |
-| 46 | [Melhor Amigo](https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Melhor Amigo](https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU) | 5:35 |
-| 47 | [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 |
+| 46 | [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 |
+| 47 | [Melhor Amigo](https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Melhor Amigo](https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU) | 5:35 |
 | 48 | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT) | 6:02 |
 | 49 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
 | 50 | [Pensou em Mim](https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Pensou em Mim](https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu) | 7:09 |
 
-Snapshot ID: `aHGlgAAAAAB5LwgZW2gWGmREiZusK5KP`
+Snapshot ID: `aHL3AAAAAABpW06Kxz2FoCv1yd4kEze9`

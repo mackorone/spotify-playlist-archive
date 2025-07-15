@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 203585,
+  "num_followers": 203632,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAABaGCRIs3yrX5lpyMIQftgT",
+  "snapshot_id": "aHL3AAAAAACRx8EJUqP+xO8PHmLQlFHO",
   "tracks": [
     {
       "added_at": null,
@@ -363,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw"
+        "name": "Ahora Estoy Mejor",
+        "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
       "artists": [
         {
           "name": "Lefty Sm",
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 253596,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9"
+      "duration_ms": 274172,
+      "name": "Ahora Estoy Mejor",
+      "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
     },
     {
       "added_at": null,
@@ -399,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora Estoy Mejor",
-        "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw"
       },
       "artists": [
         {
           "name": "Lefty Sm",
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 274172,
-      "name": "Ahora Estoy Mejor",
-      "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
+      "duration_ms": 253596,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9"
     },
     {
       "added_at": null,
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flaco Pesado",
+        "url": "https://open.spotify.com/album/4JvYZecbx8yziQUw4zEyHg"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 157074,
+      "name": "Flaco Pesado",
+      "url": "https://open.spotify.com/track/7GWFTZmolwaKFn3oNcUs9D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 206117,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flaco Pesado",
-        "url": "https://open.spotify.com/album/4JvYZecbx8yziQUw4zEyHg"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 157074,
-      "name": "Flaco Pesado",
-      "url": "https://open.spotify.com/track/7GWFTZmolwaKFn3oNcUs9D"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avion de Papel",
+        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Quien Te Viera",
+      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 227000,
       "name": "Est\u00e1 Caliente",
       "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avion de Papel",
-        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 194899,
-      "name": "Quien Te Viera",
-      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Es Perfecto",
-        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 188125,
-      "name": "Nada Es Perfecto",
-      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Camino",
         "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
       },
@@ -851,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z"
+        "name": "Nada Es Perfecto",
+        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
       },
       "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
         {
           "name": "Lefty Sm",
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 248267,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE"
+      "duration_ms": 188125,
+      "name": "Nada Es Perfecto",
+      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
     },
     {
       "added_at": null,
@@ -887,6 +867,26 @@
       "duration_ms": 186625,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 248267,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE"
     },
     {
       "added_at": null,

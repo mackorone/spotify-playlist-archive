@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,672,243 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,672,064 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 57 | [Muse](https://open.spotify.com/track/1AUsxFlpISJH7EJ8uNksye) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I'm camera .](https://open.spotify.com/album/4dZSsJjwlpKl8PY77rSS16) | 4:46 |
 | 58 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 |
 | 59 | [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 |
-| 60 | [Just A Western \- Boy Harsher Remix](https://open.spotify.com/track/27824hvVGxllQecjb1dqDg) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Just A Western \(Boy Harsher Remix\)](https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e) | 4:01 |
+| 60 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 |
 | 61 | [Fly To You \(feat\. Grimes and Dido\)](https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:05 |
 | 62 | [For Sure](https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [For Sure](https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh) | 9:53 |
-| 63 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 |
+| 63 | [Just A Western \- Boy Harsher Remix](https://open.spotify.com/track/27824hvVGxllQecjb1dqDg) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Just A Western \(Boy Harsher Remix\)](https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e) | 4:01 |
 | 64 | [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 |
 | 65 | [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 |
 | 66 | [Peter and the Wolf](https://open.spotify.com/track/5BSHoU2Co1LvT5VmMbTimI) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Peter and the Wolf](https://open.spotify.com/album/3XNUOVGLfylh7nxTTEskRr) | 3:35 |

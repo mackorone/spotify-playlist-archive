@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-220 songs - 9 hr 40 min
+221 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Butterfly](https://open.spotify.com/track/58oi0OWV0fHLsnJWFv5VQe) | [Jidanofu](https://open.spotify.com/artist/6JwHgPzxWOKHVH6aWoHuxm) | [Butterfly](https://open.spotify.com/album/1Agg5sCbo8mvH4GBDjTpb7) | 2:19 | 2022-10-10 | 2023-05-06 |
 | [Call Me](https://open.spotify.com/track/7sVUnabs5smgvNm8khfxT2) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Pt\. One](https://open.spotify.com/album/7xNgPrxoV7XX4mNRsoLp0c) | 2:44 | 2023-05-05 |  |
 | [CAMELLIA](https://open.spotify.com/track/47M4KLl1G1Yq48hZgbN42j) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [SLXEPING TOKYO](https://open.spotify.com/artist/1fA3zdJing6RF5bIQ2lSve) | [CAMELLIA](https://open.spotify.com/album/1L1zeMNmufamRAl0PTfwkd) | 2:46 | 2022-10-10 | 2022-12-24 |
-| [Chill Phonk](https://open.spotify.com/track/5E69AASuENCXbP1PHO74F5) | [Falxce](https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk) | [Chill Phonk](https://open.spotify.com/album/4XIUu4JcbGI0z9BKSqYXxL) | 1:25 | 2022-10-10 |  |
+| [Chill Phonk](https://open.spotify.com/track/5E69AASuENCXbP1PHO74F5) | [Falxce](https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk) | [Chill Phonk](https://open.spotify.com/album/4XIUu4JcbGI0z9BKSqYXxL) | 1:25 | 2022-10-10 | 2025-07-15 |
 | [Chill Phonk](https://open.spotify.com/track/4ylqqjURYE9TN5jdJXPTGA) | [PhonkDog](https://open.spotify.com/artist/5LRdJc2JiSJB34sg6J2iUr) | [Chill Phonk](https://open.spotify.com/album/0YduSMMMC4UO373dB1oLqW) | 1:47 | 2023-06-09 |  |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2022-10-10 | 2022-12-17 |
 | [CLOUD](https://open.spotify.com/track/6ZbpaHInXckaSUDiGDCwHX) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Night Show](https://open.spotify.com/album/52mLSslJpI3vsoIgi1KSA6) | 2:54 | 2022-10-10 |  |
@@ -125,6 +125,7 @@
 | [LXVE TXWN](https://open.spotify.com/track/1pCDWUyukLwNnDtKuDKk7j) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LXVE TXWN](https://open.spotify.com/album/04FHXUjQJckGhzOiPGZHlm) | 2:38 | 2022-10-10 |  |
 | [MACHINE](https://open.spotify.com/track/2Ygz10JmWDwVigM6jN94H8) | [mxnarch](https://open.spotify.com/artist/42WdWoZDRwUeWhGOYDhfuj), [CERAZ](https://open.spotify.com/artist/2qN0KCCSg4BwDSagUxmEfR) | [MACHINE](https://open.spotify.com/album/6QeJDinj9YHIbiermHKxB6) | 2:47 | 2022-10-10 | 2023-06-24 |
 | [make em suffer](https://open.spotify.com/track/5Q4a8tCHipcpbRbaR7AIx6) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [make em suffer](https://open.spotify.com/album/53qXD6YpXIWJYtvwl0UTlu) | 3:05 | 2023-06-09 | 2023-09-30 |
+| [MALVADO DE VAPO](https://open.spotify.com/track/3fonVeQL7sSaNIrzrWvKMe) | [xccvdxz](https://open.spotify.com/artist/0vmP2P7w7bUIJYkHUBljt1) | [MALVADO DE VAPO](https://open.spotify.com/album/1oSoAOaqnx3qTvAlQJzhru) | 1:17 | 2025-07-14 |  |
 | [MEANING OF LIFE](https://open.spotify.com/track/0JeAofgLJ7A0wnO8ecBm23) | [GTM](https://open.spotify.com/artist/2U79YzoLgxZrBbxzrg5l1S) | [MEANING OF LIFE](https://open.spotify.com/album/0lxBekjKWscjykmqz3xOHR) | 2:28 | 2022-10-10 | 2023-09-30 |
 | [Memento](https://open.spotify.com/track/5AWRqPQCacbrDyU9jz3JAo) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Memento](https://open.spotify.com/album/4TxgA6rExPcEaIqF8H1HJU) | 2:56 | 2023-01-06 |  |
 | [Memories of the Past](https://open.spotify.com/track/5nr2DfL7RtMyNyLLHaYkBo) | [KXXXIRO](https://open.spotify.com/artist/3WD49X7Fu6qlbmgT28BISo), [NEKXSTXZIS](https://open.spotify.com/artist/0I0YSfDwpdlrrgAfrucDdN) | [Memories of the Past](https://open.spotify.com/album/4XhA6RWi70bfN3RG0yuMol) | 2:46 | 2022-10-10 | 2022-11-26 |

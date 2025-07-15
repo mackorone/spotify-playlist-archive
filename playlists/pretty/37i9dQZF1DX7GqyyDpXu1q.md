@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: Mark Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,432 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,438 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 23 | [xoxo](https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [xoxo](https://open.spotify.com/album/03tfpzDArDjfSEJ1dhVESX) | 4:07 |
 | 24 | [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 |
 | 25 | [Overrated](https://open.spotify.com/track/55BmlUAYuZTqpvM7bfSUuo) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 3:38 |
-| 26 | [Middle Finger Motto](https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Middle Finger Motto](https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU) | 2:51 |
+| 26 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 |
 | 27 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
-| 28 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 |
-| 29 | [Wanting and Waiting](https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 4:15 |
-| 30 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 |
+| 28 | [Middle Finger Motto](https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Middle Finger Motto](https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU) | 2:51 |
+| 29 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 |
+| 30 | [Wanting and Waiting](https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 4:15 |
 | 31 | [Addictions](https://open.spotify.com/track/0aplFNbDGW0ZbUfqpjJXX1) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Addictions](https://open.spotify.com/album/5bUMRuNysQnyqJfxGM6PKM) | 3:07 |
 | 32 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 |
 | 33 | [INSIGNIFICANT OTHER \- feat\. Sam Canty & Lance Vanley](https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [INSIGNIFICANT OTHER](https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y) | 3:27 |
-| 34 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
-| 35 | [Tell Me Why U Do That](https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 4:38 |
+| 34 | [Tell Me Why U Do That](https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 4:38 |
+| 35 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
 | 36 | [Born to Roam](https://open.spotify.com/track/3MSXNZZuIEAWmtCkLJMtG0) | [Phil Campbell and the Bastard Sons](https://open.spotify.com/artist/7fRzvXVDS5fOLD91WQwE6q) | [We're the Bastards](https://open.spotify.com/album/7tCaRKwyNx4rCewpPyD8yv) | 4:58 |
 | 37 | [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/track/7ciMCOVa5Dl44595cm4vcZ) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM) | 4:00 |
 | 38 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 |

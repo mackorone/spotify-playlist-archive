@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACG0g28SpcGZOS1TYoBM06t",
+  "snapshot_id": "aHL3AAAAAAD0nRq5JEXIU2j5KG7Th2rT",
   "tracks": [
     {
       "added_at": null,
@@ -402,11 +402,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
       "added_at": null,
@@ -450,15 +454,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Humbug",
-      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,

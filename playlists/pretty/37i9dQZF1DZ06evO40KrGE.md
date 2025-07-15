@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,850 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,859 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 24 | [Não Negue a Jesus](https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:21 |
 | 25 | [Não Reclame](https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:26 |
 | 26 | [A Face Adorada de Jesus](https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:37 |
-| 27 | [Te Louvarei \- Ao Vivo](https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Te Louvarei \(Ao Vivo\)](https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i) | 5:34 |
-| 28 | [Todo Poderoso](https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:49 |
+| 27 | [Todo Poderoso](https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:49 |
+| 28 | [Te Louvarei \- Ao Vivo](https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Te Louvarei \(Ao Vivo\)](https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i) | 5:34 |
 | 29 | [O Abraço do Noivo](https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 7:26 |
 | 30 | [Muita Unção](https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:05 |
-| 31 | [Tremendo e Santo](https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:25 |
-| 32 | [Mergulhe](https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:36 |
+| 31 | [Mergulhe](https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:36 |
+| 32 | [Tremendo e Santo](https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:25 |
 | 33 | [Esconderijo do Altíssimo](https://open.spotify.com/track/5OMBzeUf0tBfjzoCskU75d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 4:49 |
 | 34 | [Para Sempre](https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Para Sempre](https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb) | 3:42 |
 | 35 | [Dia Inesquecível](https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 49 | [Unidos Pelo Amor](https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV) | [Marina De Oliveira](https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB), [Novo Som](https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl), [Alex Gonzaga](https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Brother Simion](https://open.spotify.com/artist/1pEaPL16IqfzG8ze1Xp3gZ), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Banda & Voz](https://open.spotify.com/artist/4NAh7PnUxqDfRCM2DfQg5E), [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT), [Raquel Mello](https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Marina de Oliveira \- Gospel Collection Ao Vivo](https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n) | 3:02 |
 | 50 | [Sinfonia De Louvor](https://open.spotify.com/track/0vftnUsiMRlswGm4d1d4Fz) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:44 |
 
-Snapshot ID: `aHGlgAAAAAAB1vR3qVUUjnArtsQ91zzE`
+Snapshot ID: `aHL3AAAAAAD50rJeDfSM4FFK+BZq7fOd`

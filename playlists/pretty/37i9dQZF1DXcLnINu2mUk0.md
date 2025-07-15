@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,295 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,327 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 44 | [Último beijo](https://open.spotify.com/track/3m8LPSShjmdTfBUGEbzqKZ) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Entre Nós](https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M) | 3:16 |
 | 45 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
 | 46 | [CABARET](https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 2:15 |
-| 47 | [Weed e Wine](https://open.spotify.com/track/1AA6bIw2kpC1dEYAWdrwUp) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Mood](https://open.spotify.com/album/3pkwUDP6ZWZyl6HSbFv9x4) | 2:48 |
-| 48 | [Fala\-me A Verdade](https://open.spotify.com/track/215AyS6uVbzOkoaFgLJyVC) | [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Fala\-me A Verdade](https://open.spotify.com/album/5HXZqmE9FWCR5r87YlI7eJ) | 2:52 |
+| 47 | [Fala\-me A Verdade](https://open.spotify.com/track/215AyS6uVbzOkoaFgLJyVC) | [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Fala\-me A Verdade](https://open.spotify.com/album/5HXZqmE9FWCR5r87YlI7eJ) | 2:52 |
+| 48 | [Weed e Wine](https://open.spotify.com/track/1AA6bIw2kpC1dEYAWdrwUp) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Mood](https://open.spotify.com/album/3pkwUDP6ZWZyl6HSbFv9x4) | 2:48 |
 | 49 | [Tóxico \(feat\. Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
-| 50 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 |
+| 50 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
 | 51 | [Só Dá](https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:21 |
-| 52 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
+| 52 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 |
 | 53 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 |
 | 54 | [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mulatooh](https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 |
 | 55 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 65 | [Rico](https://open.spotify.com/track/2v8HWzaIKCOlKuctXLZY7T) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Rico](https://open.spotify.com/album/4XaCt1n13B6VkhzqLzAgTu) | 2:33 |
 | 66 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
 | 67 | [Beijo Teu](https://open.spotify.com/track/5zHX2uGzE8lPOPvkpcrF5D) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Beijo Teu](https://open.spotify.com/album/6Jc4gFjWVwjtDxFKH5vhOT) | 3:41 |
-| 68 | [Quem Sabe](https://open.spotify.com/track/00a1pwOoED1x9WbL4h8iGM) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [Quem Sabe](https://open.spotify.com/album/7nOa8A54XGy95qGFcWWmOo) | 4:10 |
-| 69 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 |
+| 68 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 |
+| 69 | [Quem Sabe](https://open.spotify.com/track/00a1pwOoED1x9WbL4h8iGM) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [Quem Sabe](https://open.spotify.com/album/7nOa8A54XGy95qGFcWWmOo) | 4:10 |
 | 70 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
 | 71 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 | 72 | [Tou Off](https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Tou Off](https://open.spotify.com/album/1UQdAkoiFLFlNPKpk7WREn) | 2:44 |
 | 73 | [Abraço Mudo](https://open.spotify.com/track/6s0ygOgYNkTFjYxbb6tA6n) | [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Abraço Mudo](https://open.spotify.com/album/6N7nGVIuzgLBgtQfL4F7nF) | 2:23 |
-| 74 | [PARA SEMPRE](https://open.spotify.com/track/7e0BMVyh5I0imv2MlAOo3d) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [PARA SEMPRE](https://open.spotify.com/album/7ja21jiOzYFy1r3K4EueHN) | 3:03 |
-| 75 | [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 |
+| 74 | [Só Pra Mim](https://open.spotify.com/track/086BFApQhJolDewBka9jit) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Só Pra Mim](https://open.spotify.com/album/4dc0uwZofhKRr0zfVHWXl4) | 3:06 |
+| 75 | [PARA SEMPRE](https://open.spotify.com/track/7e0BMVyh5I0imv2MlAOo3d) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [PARA SEMPRE](https://open.spotify.com/album/7ja21jiOzYFy1r3K4EueHN) | 3:03 |
 
 Snapshot ID: `aHBF+wAAAAB3Mt8GWelF7CXooYIOqLJ6`

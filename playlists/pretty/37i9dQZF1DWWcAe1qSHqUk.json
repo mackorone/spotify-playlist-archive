@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 61782,
+  "num_followers": 61787,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-07-14 01:59:48",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2025-07-14 01:59:48",
-      "album": {
         "name": "My Romance",
         "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 253283,
       "name": "Don't Let Me Be Lonely Tonight",
       "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
+    },
+    {
+      "added_at": "2025-07-14 01:59:48",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2025-07-14 01:59:48",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-07-14 01:59:48",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 235533,
-      "name": "But For Now",
-      "url": "https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc"
-    },
-    {
-      "added_at": "2025-07-14 01:59:48",
-      "album": {
         "name": "Linger Awhile",
         "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 294287,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
+    },
+    {
+      "added_at": "2025-07-14 01:59:48",
+      "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 235533,
+      "name": "But For Now",
+      "url": "https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc"
     },
     {
       "added_at": "2025-07-14 01:59:48",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-07-14 01:59:48",
       "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 310106,
-      "name": "Where Are You?",
-      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
-    },
-    {
-      "added_at": "2025-07-14 01:59:48",
-      "album": {
         "name": "A Wonderful World",
         "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
       },
@@ -987,18 +967,38 @@
     {
       "added_at": "2025-07-14 01:59:48",
       "album": {
-        "name": "With a Twist",
-        "url": "https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk"
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
       "artists": [
         {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
         }
       ],
-      "duration_ms": 336373,
-      "name": "Dance Me to the End of Love",
-      "url": "https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2"
+      "duration_ms": 310106,
+      "name": "Where Are You?",
+      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
+    },
+    {
+      "added_at": "2025-07-14 01:59:48",
+      "album": {
+        "name": "I Want To Talk About You",
+        "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        }
+      ],
+      "duration_ms": 273266,
+      "name": "I Want To Talk About You",
+      "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
     },
     {
       "added_at": "2025-07-14 01:59:48",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2025-07-14 01:59:48",
       "album": {
-        "name": "I Want To Talk About You",
-        "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
+        "name": "With a Twist",
+        "url": "https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk"
       },
       "artists": [
         {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
         }
       ],
-      "duration_ms": 273266,
-      "name": "I Want To Talk About You",
-      "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
+      "duration_ms": 336373,
+      "name": "Dance Me to the End of Love",
+      "url": "https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2"
     },
     {
       "added_at": "2025-07-14 01:59:48",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2025-07-14 01:59:48",
       "album": {
-        "name": "But I Don't Mind",
-        "url": "https://open.spotify.com/album/0rbrdnnw54w2aTBQHFMhOB"
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
       },
       "artists": [
         {
-          "name": "Kyl Aries",
-          "url": "https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S"
+          "name": "OVN",
+          "url": "https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304"
+        },
+        {
+          "name": "chrln",
+          "url": "https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg"
         }
       ],
-      "duration_ms": 255726,
-      "name": "But I Don't Mind",
-      "url": "https://open.spotify.com/track/5LC4lFjl7qliDNFAFI0bOx"
+      "duration_ms": 121385,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
     },
     {
       "added_at": "2025-07-14 01:59:48",
@@ -1099,22 +1103,18 @@
     {
       "added_at": "2025-07-14 01:59:48",
       "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
+        "name": "But I Don't Mind",
+        "url": "https://open.spotify.com/album/0rbrdnnw54w2aTBQHFMhOB"
       },
       "artists": [
         {
-          "name": "OVN",
-          "url": "https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304"
-        },
-        {
-          "name": "chrln",
-          "url": "https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg"
+          "name": "Kyl Aries",
+          "url": "https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S"
         }
       ],
-      "duration_ms": 121385,
-      "name": "Full Moon",
-      "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
+      "duration_ms": 255726,
+      "name": "But I Don't Mind",
+      "url": "https://open.spotify.com/track/5LC4lFjl7qliDNFAFI0bOx"
     },
     {
       "added_at": "2025-07-14 01:59:48",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-07-14 01:59:48",
       "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
-      },
-      "artists": [
-        {
-          "name": "Susan Wong",
-          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
-        }
-      ],
-      "duration_ms": 164652,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
-    },
-    {
-      "added_at": "2025-07-14 01:59:48",
-      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 152106,
       "name": "For the Love of Freedom",
       "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
+    },
+    {
+      "added_at": "2025-07-14 01:59:48",
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
+      },
+      "artists": [
+        {
+          "name": "Susan Wong",
+          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
+        }
+      ],
+      "duration_ms": 164652,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
     },
     {
       "added_at": "2025-07-14 01:59:48",

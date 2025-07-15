@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 113733,
+  "num_followers": 113846,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Dark Times",
+        "url": "https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 198630,
+      "name": "Black&Blue",
+      "url": "https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "c u l8r",
         "url": "https://open.spotify.com/album/1S1hN5OQuFQ5jQjlqhPkDB"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 181000,
       "name": "makes me (wanna move)",
       "url": "https://open.spotify.com/track/0Ma2y8tgYCUWDGxnA9Gw3i"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Dark Times",
-        "url": "https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 198630,
-      "name": "Black&Blue",
-      "url": "https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Blindside",
-        "url": "https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
-        }
-      ],
-      "duration_ms": 174855,
-      "name": "Blindside",
-      "url": "https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Big Man",
         "url": "https://open.spotify.com/album/68jC22x5sVxqj9GJHziVr8"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 253057,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/10vuEcEgX3uG7NNf4rAp7k"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Blindside",
+        "url": "https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 174855,
+      "name": "Blindside",
+      "url": "https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX"
     },
     {
       "added_at": "2024-09-16 11:00:00",

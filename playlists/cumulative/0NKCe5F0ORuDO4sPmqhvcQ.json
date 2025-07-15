@@ -6107,6 +6107,28 @@
     },
     {
       "album": {
+        "name": "I WANNA KNOW",
+        "url": "https://open.spotify.com/album/2JX1nPMEBCUAb8zHGGscPa"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "TIMID.",
+          "url": "https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "I WANNA KNOW",
+      "url": "https://open.spotify.com/track/6UXqR3MQtiW0pX6Ozl43KY"
+    },
+    {
+      "album": {
         "name": "ILLENIUM (Remixes)",
         "url": "https://open.spotify.com/album/6Ugig0sDdLrKGBW7j1skPO"
       },

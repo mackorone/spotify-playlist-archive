@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,040 likes - 75 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,082 likes - 75 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 34 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
 | 35 | [Chaos Weary](https://open.spotify.com/track/244xu2sPayUQujf8uVvzGV) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Squared Roots](https://open.spotify.com/album/0K99K3KPnFsllSBd9D3sw4) | 1:31 |
 | 36 | [The Girl with the Sun in Her Head](https://open.spotify.com/track/2lbQIq3wQTZvdWnqL2e3Zp) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 10:27 |
-| 37 | [you're not alone](https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [you're not alone](https://open.spotify.com/album/6FsgtZ55Th99hbLori1oW0) | 2:52 |
-| 38 | [Phaedra \- Remastered 2018](https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 17:39 |
+| 37 | [Phaedra \- Remastered 2018](https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 17:39 |
+| 38 | [you're not alone](https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [you're not alone](https://open.spotify.com/album/6FsgtZ55Th99hbLori1oW0) | 2:52 |
 | 39 | [Fires](https://open.spotify.com/track/70gYrcaIKVDtKkwiDEzMwW) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Endling](https://open.spotify.com/album/3i26oAnvfsqgFFo19IVlQV) | 3:40 |
 | 40 | [Hornworm Metamorphosis](https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hornworm Metamorphosis](https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK) | 1:44 |
 | 41 | [Yesterday's Entertainment](https://open.spotify.com/track/0C2aF4G83wcMUuxE7nuMC9) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 2:12 |
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 63 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
 | 64 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 |
 | 65 | [Marmo](https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Marmo](https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx) | 3:12 |
-| 66 | [Debris](https://open.spotify.com/track/0Q7rAIKYY7wM0bxBuFJwGb) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:24 |
-| 67 | [The Eighth Wave](https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 5:07 |
-| 68 | [Sowiesoso](https://open.spotify.com/track/6h1dYEUDxd8lJ32MEGegh1) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Sowiesoso](https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV) | 8:11 |
-| 69 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
-| 70 | [Under the Midnight Sun](https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem) | 3:42 |
+| 66 | [The Eighth Wave](https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 5:07 |
+| 67 | [Sowiesoso](https://open.spotify.com/track/6h1dYEUDxd8lJ32MEGegh1) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Sowiesoso](https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV) | 8:11 |
+| 68 | [Debris](https://open.spotify.com/track/0Q7rAIKYY7wM0bxBuFJwGb) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:24 |
+| 69 | [Under the Midnight Sun](https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem) | 3:42 |
+| 70 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
 | 71 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 |
 | 72 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 |
 | 73 | [Detroit Snackbar Dreamer](https://open.spotify.com/track/7tNeVOpu0hYTJKNxWKbFq7) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Stuntman](https://open.spotify.com/album/10lmr6WvEA5l9simbL8pbg) | 6:33 |

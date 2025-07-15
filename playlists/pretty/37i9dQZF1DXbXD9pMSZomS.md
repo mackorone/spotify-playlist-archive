@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,834 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,983 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 21 | [100 reasons](https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H) | [kemt](https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX) | [Lo\-Fi\_house.Zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 6:15 |
 | 22 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |
 | 23 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 |
-| 24 | [wandering](https://open.spotify.com/track/2WjG4e7q79njtAPGzW6tGb) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ), [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO) | [wandering](https://open.spotify.com/album/1wcy3owX9Vu3C9G0J4Gstl) | 3:16 |
+| 24 | [Roots](https://open.spotify.com/track/2puKQ2WQoMrVcEf4LyvX2z) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Roots](https://open.spotify.com/album/3O54dMAezB6VzwCn6ZloER) | 3:51 |
 | 25 | [It's in My Ears](https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4) | [Gallegos](https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF) | [It's in My Ears](https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2) | 4:05 |
-| 26 | [Roots](https://open.spotify.com/track/2puKQ2WQoMrVcEf4LyvX2z) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Roots](https://open.spotify.com/album/3O54dMAezB6VzwCn6ZloER) | 3:51 |
+| 26 | [wandering](https://open.spotify.com/track/2WjG4e7q79njtAPGzW6tGb) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ), [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO) | [wandering](https://open.spotify.com/album/1wcy3owX9Vu3C9G0J4Gstl) | 3:16 |
 | 27 | [About Our Amore](https://open.spotify.com/track/5KcLeL5iMfETgyRHnSD9zF) | [KOKO.IT](https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC) | [About Our Amore](https://open.spotify.com/album/0jsv1TDKAKtpfHCIZitBkw) | 5:04 |
 | 28 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
 | 29 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 34 | [Everytime](https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Everytime EP](https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw) | 5:08 |
 | 35 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
 | 36 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
-| 37 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
-| 38 | [Sundial Avenue](https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Sundial Avenue](https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd) | 2:24 |
+| 37 | [Sundial Avenue](https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Sundial Avenue](https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd) | 2:24 |
+| 38 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
 | 39 | [Can't see me](https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC) | [Uncle Jay](https://open.spotify.com/artist/7wHw0pBlnMtQ5NpO6JCtNj) | [Can't see me](https://open.spotify.com/album/3vXWZAh5IffbOBS0AZSLP6) | 3:55 |
 | 40 | [Call](https://open.spotify.com/track/5mm3h0pkFAVSfSg3z7QCZ9) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [Call](https://open.spotify.com/album/7sDoYNIuxPIADPJSvDyBny) | 1:18 |
 | 41 | [I'm In Love](https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1) | [Social Lovers](https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL) | [I'm In Love](https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze) | 4:32 |

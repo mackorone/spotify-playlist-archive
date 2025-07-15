@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Robin Packalen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,852 likes - 86 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,868 likes - 86 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

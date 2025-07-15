@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4285,
+  "num_followers": 4286,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADHcimCLQf6/Nls/nSgmv0h",
+  "snapshot_id": "aHL3AAAAAAAcPAZ9KobiNyFIHSFJ1UBB",
   "tracks": [
     {
       "added_at": null,
@@ -688,17 +688,17 @@
           "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         },
         {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
           "name": "JP Diazz",
           "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
         }
       ],
-      "duration_ms": 160000,
-      "name": "ONDE C\u00ca T\u00c1?",
-      "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
+      "duration_ms": 274285,
+      "name": "DESILUS\u00c3O",
+      "url": "https://open.spotify.com/track/4ofLB6yok8YB72Cvq30beL"
     },
     {
       "added_at": null,
@@ -784,17 +784,17 @@
           "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         },
         {
           "name": "JP Diazz",
           "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
         }
       ],
-      "duration_ms": 274285,
-      "name": "DESILUS\u00c3O",
-      "url": "https://open.spotify.com/track/4ofLB6yok8YB72Cvq30beL"
+      "duration_ms": 160000,
+      "name": "ONDE C\u00ca T\u00c1?",
+      "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
     },
     {
       "added_at": null,
@@ -1287,30 +1287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quer Ibope",
-        "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
-      },
-      "artists": [
-        {
-          "name": "MARIAH",
-          "url": "https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 223218,
-      "name": "Quer Ibope",
-      "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Festa na Piscina",
         "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
       },
@@ -1359,6 +1335,30 @@
       "duration_ms": 212302,
       "name": "Lambo",
       "url": "https://open.spotify.com/track/06nllqzWyfgQXMrLBHUJk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quer Ibope",
+        "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
+      },
+      "artists": [
+        {
+          "name": "MARIAH",
+          "url": "https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 223218,
+      "name": "Quer Ibope",
+      "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
     },
     {
       "added_at": null,

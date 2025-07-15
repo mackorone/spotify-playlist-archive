@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,278 likes - 338 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,279 likes - 338 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 91 | [Loved Me Back to Life](https://open.spotify.com/track/1YUOlePfiz9kxJRuwECzjn) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Loved Me Back to Life](https://open.spotify.com/album/0rsJSdnc89hsmJkCV24YQK) | 3:50 |
 | 92 | [Violet Chemistry](https://open.spotify.com/track/4C2Y3Y2x2PbOqwdNBuLjP3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 4:06 |
 | 93 | [Dressed In Black](https://open.spotify.com/track/1ruNslbgoiZk8e1vP0lY6j) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 6:40 |
-| 94 | [Free the Animal](https://open.spotify.com/track/5J8MPzzufgbhutBl8gEr6r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:24 |
-| 95 | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [MC Matheuzim](https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo) | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu) | 2:03 |
+| 94 | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [MC Matheuzim](https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo) | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu) | 2:03 |
+| 95 | [Free the Animal](https://open.spotify.com/track/5J8MPzzufgbhutBl8gEr6r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:24 |
 | 96 | [You Don't Know](https://open.spotify.com/track/1nkRwGuEnySwY2PbdT25Hb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [The Bigger Picture](https://open.spotify.com/album/5shtXocLO7yZoLsztFHhqF) | 2:47 |
 | 97 | [Hostage](https://open.spotify.com/track/42PnVxGUSKziKSKXCNXoob) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 2:56 |
 | 98 | [Strange Birds](https://open.spotify.com/track/5Qn7UBFKV5iemqZMJ5F5ve) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 3:03 |
@@ -285,8 +285,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 275 | [Judge Me](https://open.spotify.com/track/66fhJHov6sAsZz7qCEJxDw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:15 |
 | 276 | [Green Card](https://open.spotify.com/track/6J7vprT8CB5vy5KA1KIwgY) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Wish Bone](https://open.spotify.com/album/0ohYHaVFBYh7qYI5zXbvD6) | 4:08 |
 | 277 | [Treasure \- Acoustic Version](https://open.spotify.com/track/2cXjZJGfTGZLPFFKLpbSgo) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs, Vol.1](https://open.spotify.com/album/7f8XKrpjldzXBpnkkzmFyY) | 3:24 |
-| 278 | [Godzillionaire](https://open.spotify.com/track/2OQXPBsZcPpmyoyTkFFf6p) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:55 |
-| 279 | [Luckie](https://open.spotify.com/track/1c0HMSYtaT5LGLBEUKpHxR) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV) | [Eli And The Thirteenth Confession](https://open.spotify.com/album/533zqKatpy90jse2K5IaiQ) | 3:00 |
+| 278 | [Luckie](https://open.spotify.com/track/1c0HMSYtaT5LGLBEUKpHxR) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV) | [Eli And The Thirteenth Confession](https://open.spotify.com/album/533zqKatpy90jse2K5IaiQ) | 3:00 |
+| 279 | [Godzillionaire](https://open.spotify.com/track/2OQXPBsZcPpmyoyTkFFf6p) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:55 |
 | 280 | [Insidiously](https://open.spotify.com/track/5TG35p7Ns9LJYa7Wkfcujf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 8:50 |
 | 281 | [Dim The Lights](https://open.spotify.com/track/7EvMgSKZFwMKyu7IhvBlC8) | [Creep](https://open.spotify.com/artist/7uxdd0kdUdXLwkJKBQkVtP) | [Echoes](https://open.spotify.com/album/7N2cWgNd4fFlaMKmiK61N5) | 3:26 |
 | 282 | [EKG](https://open.spotify.com/track/55S2afBJphP7SDXpvy3MJb) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 2:32 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Ab2sigAAAAC/I+YR+yx0qqNv+FUH/NFR`
+Snapshot ID: `Ab2yUgAAAAA6QVZL2BTPe3WImR9n5yIc`

@@ -4,7 +4,7 @@
 
 > 
 
-425 songs - 1 day 4 hr 14 min
+427 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Cash](https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Cash](https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14) | 2:42 | 2023-12-11 | 2023-12-20 |
 | [Chaos Space Marine](https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Chaos Space Marine](https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko) | 3:36 | 2021-10-12 | 2022-06-22 |
 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-02-02 | 2024-04-27 |
+| [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 | 2025-07-14 |  |
 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-02 | 2024-06-08 |
 | [CHROMA 002 L.A.V.A](https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx) | [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [CHROMA 002](https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw) | 4:09 | 2024-03-14 | 2024-06-19 |
 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 | 2024-05-03 | 2024-07-25 |
@@ -279,6 +280,7 @@
 | [My Love](https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Posse EP Volume 2](https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y) | 4:15 | 2024-07-15 | 2024-10-24 |
 | [Nice Town \- Original](https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Pan Amsterdam](https://open.spotify.com/artist/7KPqrVAWjUBAtn8tiZayOE) | [Nice Town](https://open.spotify.com/album/7mdqLOgyacLqWWjP0oFP6e) | 2:47 | 2024-03-13 | 2024-06-13 |
 | [Night Sculpture](https://open.spotify.com/track/6ZCx2AjyhVmQhjOBkgFXnl) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Night Sculpture](https://open.spotify.com/album/1DU6Xkh6E2apfVK3pERMWh) | 3:26 | 2023-10-16 | 2023-12-20 |
+| [NNeed U](https://open.spotify.com/track/6V7etlptf86aDDwjOKFEPG) | [Sim Fane](https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2) | [NNeed U](https://open.spotify.com/album/1JOFUxYXfdlvz3GfL7LFUD) | 4:44 | 2025-07-14 |  |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-25 | 2024-05-18 |
 | [Not \- BBC Radio 1 Session](https://open.spotify.com/track/70jr15kpcFlZAyJ8hotjIg) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Not \(BBC Radio 1 Session\)](https://open.spotify.com/album/09LbxjE3uVSxeULrD0um98) | 4:41 | 2022-11-02 | 2023-04-01 |
 | [Not You Anymore](https://open.spotify.com/track/0uRlksJ4Cv20KK0nYuzLxR) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [What We Do For Others](https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR) | 3:23 | 2022-10-31 | 2023-01-25 |

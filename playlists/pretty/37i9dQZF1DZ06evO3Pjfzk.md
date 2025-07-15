@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,833 likes - 47 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,909 likes - 48 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,6 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 44 | [Poor, Poor Pitiful Me](https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Terri Clark: Take Two](https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v) | 3:15 |
 | 45 | [WWDD](https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:20 |
 | 46 | [Microphone](https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:54 |
-| 47 | [Middle Finger](https://open.spotify.com/track/5dTHvmgkPqjYk8aW6LxZos) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:37 |
+| 47 | [Comin' To Your City \- ESPN College Gameday](https://open.spotify.com/track/39DjHTMaFuDAMdXtq09fNN) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Comin' To Your City \(ESPN College Gameday\)](https://open.spotify.com/album/0youbMUrUsYtJdNe6v9UdW) | 1:43 |
+| 48 | [Middle Finger](https://open.spotify.com/track/5dTHvmgkPqjYk8aW6LxZos) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:37 |
 
-Snapshot ID: `aHGlgAAAAABjyqivQJZ2RkxuVtWMgW5f`
+Snapshot ID: `aHL3AAAAAABKlVCTT10cRMiRFxYU2VMj`

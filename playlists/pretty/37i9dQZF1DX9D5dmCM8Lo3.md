@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,920 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,992 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 30 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 |
 | 31 | [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [morrigan](https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3) | 2:22 |
 | 32 | [Blackbird](https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c) | [Zock](https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP) | [Blackbird](https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc) | 1:36 |
-| 33 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
-| 34 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
+| 33 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
+| 34 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
 | 35 | [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 |
 | 36 | [ultra](https://open.spotify.com/track/60aMDjOxTTjf3UJp1SElQd) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [ultra](https://open.spotify.com/album/6PBMIPRU5YjTjQdlcHdssk) | 1:24 |
 | 37 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |

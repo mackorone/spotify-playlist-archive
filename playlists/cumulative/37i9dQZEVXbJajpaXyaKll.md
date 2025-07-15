@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-1,533 songs - 3 day 8 hr 42 min
+1,534 songs - 3 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,8 @@
 | [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 | 2024-10-07 | 2024-10-15 |
 | [Chala Head Chala \(Opening "D.B.Z." Versión Clásica\)](https://open.spotify.com/track/2m7KGTVbqqo2xo3AaaJO8s) | [Ricardo Silva](https://open.spotify.com/artist/2lCmsUtLSxA7esbqH1bUW7) | [Música de las Sagas de Dragón Ball](https://open.spotify.com/album/1llvtkXOEVrjuoRd1hTCRt) | 3:15 | 2024-03-10 | 2024-03-19 |
 | [Champagne Supernova \- Remastered](https://open.spotify.com/track/1wo3UYTeizJHkwYIuLuBPF) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 7:31 | 2024-09-01 | 2024-09-05 |
-| [Changes \- 2009 Remaster](https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 4:44 | 2025-07-12 |  |
+| [Changes \- 2009 Remaster](https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 4:44 | 2025-07-12 | 2025-07-15 |
+| [Changes \- 2013 Remaster](https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2014 Remaster\)](https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f) | 4:42 | 2025-07-14 |  |
 | [chess](https://open.spotify.com/track/4JwReuZYVaDOY8jT7BjQp2) | [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [chess](https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou) | 1:56 | 2025-02-07 | 2025-03-05 |
 | [chess \- slowed](https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l) | [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [chess](https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou) | 2:22 | 2025-02-08 | 2025-03-12 |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 3:20 | 2025-04-05 | 2025-05-07 |

@@ -1,15 +1,47 @@
 {
-  "description": "Future K-Pop hits! (Cover: CLOSE YOUR EYES)",
-  "num_followers": 878402,
+  "description": "Future K-Pop hits! (Cover: NCT DREAM)",
+  "num_followers": 878421,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG4zwQAAAADpg/yuySm+bgdsdOPsocsw",
+  "snapshot_id": "aHTdqgAAAAD7L8zdGo5BBws8FZBsC40+",
   "tracks": [
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
+      "album": {
+        "name": "Go Back To The Future",
+        "url": "https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "BTTF",
+      "url": "https://open.spotify.com/track/4gkiXKGyp4PnHnOO70q8bK"
+    },
+    {
+      "added_at": "2025-07-14 10:36:26",
+      "album": {
+        "name": "Super Junior25 - The 12th Album",
+        "url": "https://open.spotify.com/album/5tEaAx0Cb3PEOrErWE503a"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 188026,
+      "name": "Express Mode",
+      "url": "https://open.spotify.com/track/1fDGN1BOe1eMgofgO6qxm0"
+    },
+    {
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Snowy Summer",
         "url": "https://open.spotify.com/album/7eM9aYuP3VOnxRAPz9aGuN"
@@ -25,7 +57,55 @@
       "url": "https://open.spotify.com/track/54zyXasoWKZAYt43c8GQvd"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
+      "album": {
+        "name": "EROS",
+        "url": "https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 240081,
+      "name": "Vivid LaLa Love",
+      "url": "https://open.spotify.com/track/6jl91VgNuRjpwO0MJQw29F"
+    },
+    {
+      "added_at": "2025-07-14 10:36:26",
+      "album": {
+        "name": "Episode 25",
+        "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 207026,
+      "name": "Farewell for now!",
+      "url": "https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH"
+    },
+    {
+      "added_at": "2025-07-14 10:36:26",
+      "album": {
+        "name": "The 1st Album 'A Montage of ( )'",
+        "url": "https://open.spotify.com/album/7hc0DjpDJHNvVNF7a9PDNq"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "La La Love Me",
+      "url": "https://open.spotify.com/track/6l0bVqiuv0HE7FxUG1TOkA"
+    },
+    {
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -57,39 +137,7 @@
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
-      "album": {
-        "name": "Super Junior25 - The 12th Album",
-        "url": "https://open.spotify.com/album/5tEaAx0Cb3PEOrErWE503a"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 188026,
-      "name": "Express Mode",
-      "url": "https://open.spotify.com/track/1fDGN1BOe1eMgofgO6qxm0"
-    },
-    {
-      "added_at": "2025-07-09 09:17:53",
-      "album": {
-        "name": "The 1st Album 'A Montage of ( )'",
-        "url": "https://open.spotify.com/album/7hc0DjpDJHNvVNF7a9PDNq"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "La La Love Me",
-      "url": "https://open.spotify.com/track/6l0bVqiuv0HE7FxUG1TOkA"
-    },
-    {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "The 1st full album [BLISS]",
         "url": "https://open.spotify.com/album/6Ez3OGFT3yV9zRkKEs2S6d"
@@ -105,7 +153,23 @@
       "url": "https://open.spotify.com/track/3i4BISVO0L6mrVM7V0IPGo"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Hundred Reasons",
+      "url": "https://open.spotify.com/track/2A1YVk2cVTJt2luDUnbEsW"
+    },
+    {
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "EXTRA",
         "url": "https://open.spotify.com/album/1QMdzkRQl9XBsZtRQXcLL1"
@@ -121,7 +185,23 @@
       "url": "https://open.spotify.com/track/5ZuF7Gfj4f1IBta90LWrxI"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
+      "album": {
+        "name": "bomb",
+        "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 163243,
+      "name": "jellyous",
+      "url": "https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX"
+    },
+    {
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Dearest",
         "url": "https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h"
@@ -137,7 +217,23 @@
       "url": "https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
+      "album": {
+        "name": "IGNITION",
+        "url": "https://open.spotify.com/album/3brkGpgYKTm7dYkLIrIRuw"
+      },
+      "artists": [
+        {
+          "name": "NOWZ",
+          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "EVERGLOW",
+      "url": "https://open.spotify.com/track/0X27xgygbXZ5qsAm3Lxpum"
+    },
+    {
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "MY EYES OPEN VVIDE",
         "url": "https://open.spotify.com/album/2EXqumr0ulSCCt63qG1ar7"
@@ -153,7 +249,7 @@
       "url": "https://open.spotify.com/track/1wfX8k5P1DPRbmQ6bCy9pv"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "VROOM VROOM",
         "url": "https://open.spotify.com/album/2woafc0uAz2Yc0xDpfKh53"
@@ -169,7 +265,7 @@
       "url": "https://open.spotify.com/track/5NT6wEbl7puhXSlMT5B4Av"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "KARD 8th Mini Album 'DRIFT'",
         "url": "https://open.spotify.com/album/20n7NJgj2ZOi1YJ85KEkhq"
@@ -185,7 +281,7 @@
       "url": "https://open.spotify.com/track/0QUDmGJaoWf97QIMTG8Lnn"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "HOT SAUCE",
         "url": "https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW"
@@ -201,7 +297,7 @@
       "url": "https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "F Girl",
         "url": "https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP"
@@ -217,7 +313,7 @@
       "url": "https://open.spotify.com/track/5HaVN6uKNnLu3GVEmbrSBd"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -249,7 +345,7 @@
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "FAMOUS",
         "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
@@ -265,7 +361,7 @@
       "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "'Solo Leveling:ARISE' (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3ZRA0BXTwO2ydgjXblwrEb"
@@ -281,7 +377,7 @@
       "url": "https://open.spotify.com/track/1Zpi3A3zcSIPTGt4mhJsNo"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "BEAUTIFUL CHAOS",
         "url": "https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx"
@@ -297,7 +393,7 @@
       "url": "https://open.spotify.com/track/2f1WulnyiYYnseSQWI8Oi9"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "MOLLAK",
         "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
@@ -317,7 +413,7 @@
       "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "STYLE",
         "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
@@ -333,7 +429,7 @@
       "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -349,7 +445,7 @@
       "url": "https://open.spotify.com/track/7KU3A1fotuV0GXY1doHFT8"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "From Our 20's",
         "url": "https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V"
@@ -365,7 +461,7 @@
       "url": "https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "H1-KEY 4th Mini Album [Lovestruck]",
         "url": "https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt"
@@ -381,7 +477,7 @@
       "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
@@ -397,7 +493,7 @@
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "WHO WE ARE",
         "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
@@ -413,7 +509,7 @@
       "url": "https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Girls Will Be Girls",
         "url": "https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J"
@@ -429,7 +525,7 @@
       "url": "https://open.spotify.com/track/373C7aTyGRJw7sVT4UG6Fh"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H"
@@ -449,7 +545,7 @@
       "url": "https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.2 (Class Mission)",
         "url": "https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f"
@@ -465,7 +561,7 @@
       "url": "https://open.spotify.com/track/2ZmjUVTEA6UjJmqyiRGBBd"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Head over Heels, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df"
@@ -481,7 +577,7 @@
       "url": "https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "GOOD BOY (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/3qC8aLtNt0GYp1ALDBFVL3"
@@ -497,7 +593,7 @@
       "url": "https://open.spotify.com/track/0MbmPT6btZ8e3oMGkAAA00"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "224",
         "url": "https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR"
@@ -513,7 +609,27 @@
       "url": "https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
+      "album": {
+        "name": "NamgungFEFERE",
+        "url": "https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        },
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 228544,
+      "name": "NamgungFEFERE (feat. Japanese Breakfast)",
+      "url": "https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi"
+    },
+    {
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "bomb",
         "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
@@ -529,7 +645,7 @@
       "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "BEEP",
         "url": "https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e"
@@ -545,7 +661,7 @@
       "url": "https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "F Girl",
         "url": "https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP"
@@ -561,7 +677,7 @@
       "url": "https://open.spotify.com/track/2bVH1pUiX20bp2VAm5JcHj"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Dare to Crave",
         "url": "https://open.spotify.com/album/5dsLiHjDY0eNIN8iEhNuy5"
@@ -577,7 +693,7 @@
       "url": "https://open.spotify.com/track/1RsaPPE4HELB8slPTI9SO8"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Glow to Haze",
         "url": "https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o"
@@ -593,7 +709,7 @@
       "url": "https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Fly to the youth (feat. YUQI)",
         "url": "https://open.spotify.com/album/5laYcYQaoQDxegUrGBwVD0"
@@ -613,7 +729,7 @@
       "url": "https://open.spotify.com/track/4bBAhOKM5yayK3z5y2wL6J"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Interlunar",
         "url": "https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O"
@@ -629,7 +745,7 @@
       "url": "https://open.spotify.com/track/1VPIkehzQNPo6syFKXLL1F"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Soar - The 2nd Album",
         "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
@@ -645,7 +761,7 @@
       "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.2 (Class Mission)",
         "url": "https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f"
@@ -669,7 +785,7 @@
       "url": "https://open.spotify.com/track/4bGMm3NwFM8q8YC3Y6VLOE"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "ICY BBY",
         "url": "https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV"
@@ -685,7 +801,7 @@
       "url": "https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
         "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
@@ -701,7 +817,7 @@
       "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Kick Out, Flip Now!",
         "url": "https://open.spotify.com/album/4BonBofCFd9r6PRTSA0blD"
@@ -717,27 +833,7 @@
       "url": "https://open.spotify.com/track/3eCsrRgvTNzCSrGUESA5OX"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
-      "album": {
-        "name": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.2 (Class Mission)",
-        "url": "https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        },
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Flip Flop (Prod. Padi)",
-      "url": "https://open.spotify.com/track/6RZMwZQkoTLoPkwkA9rurA"
-    },
-    {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "TILT - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq"
@@ -753,7 +849,7 @@
       "url": "https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR"
     },
     {
-      "added_at": "2025-07-09 09:17:53",
+      "added_at": "2025-07-14 10:36:26",
       "album": {
         "name": "Resident Playbook, Pt. 9 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2gZ7EtpMiM5cEtQIHzOCLo"
@@ -767,122 +863,6 @@
       "duration_ms": 221266,
       "name": "When the Day Comes",
       "url": "https://open.spotify.com/track/60DwXD4XZgBGMRwViDqBm6"
-    },
-    {
-      "added_at": "2025-07-09 09:17:53",
-      "album": {
-        "name": "<ASSEMBLE25>",
-        "url": "https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "\uae68\uc5b4 (Are You Alive)",
-      "url": "https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W"
-    },
-    {
-      "added_at": "2025-07-09 09:17:53",
-      "album": {
-        "name": "We are",
-        "url": "https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu"
-      },
-      "artists": [
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 154386,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS"
-    },
-    {
-      "added_at": "2025-07-09 09:17:53",
-      "album": {
-        "name": "DESIRE : UNLEASH",
-        "url": "https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 212252,
-      "name": "Loose (Korean Ver.)",
-      "url": "https://open.spotify.com/track/1hZqz3w2FFdQekLLLFEa0T"
-    },
-    {
-      "added_at": "2025-07-09 09:17:53",
-      "album": {
-        "name": "Playlist #You Are You",
-        "url": "https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ"
-      },
-      "artists": [
-        {
-          "name": "UAU",
-          "url": "https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682"
-        }
-      ],
-      "duration_ms": 147106,
-      "name": "2 Months",
-      "url": "https://open.spotify.com/track/1ayDPLiUj3blLqVkVufY0X"
-    },
-    {
-      "added_at": "2025-07-09 09:17:53",
-      "album": {
-        "name": "Keep It Sexy (MOMMAE 2)",
-        "url": "https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Keep It Sexy (MOMMAE 2) (Feat. JEON SOMI)",
-      "url": "https://open.spotify.com/track/349vRUzitG48j0mYch7Ega"
-    },
-    {
-      "added_at": "2025-07-09 09:17:53",
-      "album": {
-        "name": "Essence of Reverie",
-        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
-    },
-    {
-      "added_at": "2025-07-09 09:17:53",
-      "album": {
-        "name": "A flower bookmark, Pt. 3",
-        "url": "https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "Never Ending Story",
-      "url": "https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK"
     }
   ],
   "unique_name": "K-Pop Rising",

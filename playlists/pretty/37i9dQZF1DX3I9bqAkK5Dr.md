@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Jagdish, Ayaan, Damini
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,570 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,575 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 5 | [Chinnadhaana](https://open.spotify.com/track/5R72fQNgjCu63nseDpDdpl) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs), [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB) | [Chinnadhaana](https://open.spotify.com/album/1hwxDxUlr9f0PauIv7wby3) | 2:52 |
 | 6 | [Baapu](https://open.spotify.com/track/59jdncLuldJpVDYfBAm2Co) | [Priyanka Gajanan](https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP) | [Baapu](https://open.spotify.com/album/3CloadVWRFcT50PfnGPkUQ) | 3:19 |
 | 7 | [Sakhiye](https://open.spotify.com/track/2a8w4nzNhzGbjWv07gmDnr) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb) | [Sakhiye](https://open.spotify.com/album/15e9cIt413nP4KTTJd4sRe) | 3:50 |
-| 8 | [Nuvva Nuvva](https://open.spotify.com/track/1MeL5yFopGk5o4TYxFRhtQ) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM) | [Nuvva Nuvva](https://open.spotify.com/album/42rQhTsW9TqHZOjhErIhTi) | 2:38 |
-| 9 | [Paruguna Raave](https://open.spotify.com/track/2S9GsyC3Nka76RGX8AXe1e) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS) | [Paruguna Raave](https://open.spotify.com/album/511HXl6DWm8Hu6tYSlAAjj) | 5:06 |
-| 10 | [Nuvvamma](https://open.spotify.com/track/1VATC6zT8q1GodfCoNBnce) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nuvvamma](https://open.spotify.com/album/0jZaHcLOsgapAaMEttISus) | 4:21 |
-| 11 | [London Pilla](https://open.spotify.com/track/3yVXVL58qnSYpbBh4Ai5bk) | [Afroz Ali](https://open.spotify.com/artist/163z7nRHrdBeQtMSIUacZW) | [London Pilla](https://open.spotify.com/album/0zqkzhdB3ZRqZDLvSavTpy) | 3:51 |
+| 8 | [Paruguna Raave](https://open.spotify.com/track/2S9GsyC3Nka76RGX8AXe1e) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS) | [Paruguna Raave](https://open.spotify.com/album/511HXl6DWm8Hu6tYSlAAjj) | 5:06 |
+| 9 | [Nuvvamma](https://open.spotify.com/track/1VATC6zT8q1GodfCoNBnce) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nuvvamma](https://open.spotify.com/album/0jZaHcLOsgapAaMEttISus) | 4:21 |
+| 10 | [London Pilla](https://open.spotify.com/track/3yVXVL58qnSYpbBh4Ai5bk) | [Afroz Ali](https://open.spotify.com/artist/163z7nRHrdBeQtMSIUacZW) | [London Pilla](https://open.spotify.com/album/0zqkzhdB3ZRqZDLvSavTpy) | 3:51 |
+| 11 | [Hello](https://open.spotify.com/track/5z13m9YeRbmnrA6btb7S6S) | [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Hello](https://open.spotify.com/album/2XpTMKVcEsI1jJFtY6zMlN) | 2:55 |
 | 12 | [Manasu](https://open.spotify.com/track/3Akm212i2lCzxfFnX7Bioe) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA) | [Manasu](https://open.spotify.com/album/7kCsUSSQNGDr0ArNHD8uHy) | 4:22 |
 | 13 | [Ole Ole](https://open.spotify.com/track/44wZfxFJ6CbTavqxdbbHxz) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS) | [Ole Ole](https://open.spotify.com/album/3NeFI900xOcCuuYjxKr5xr) | 5:31 |
 | 14 | [Maayavi](https://open.spotify.com/track/2tnpCaqgdBxJ9N4ucsPWUC) | [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL) | [Maayavi](https://open.spotify.com/album/12XYSmwliGgwQWnjN2OqlJ) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Emone](https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Emone](https://open.spotify.com/album/2WcXXGGJiY1ID6JsVx2c1f) | 5:28 |
 | 75 | [Maya](https://open.spotify.com/track/0y5EJMV1PE3YPDUWMN314E) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Maya](https://open.spotify.com/album/39qvG5SrtnJO2gBpl9m2mf) | 4:42 |
 
-Snapshot ID: `aG9lXgAAAABd97WNA83+L/E+W7h6UAGd`
+Snapshot ID: `aHUJdQAAAAACxZ+1WiO4RY70GV7Wrzby`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69264,
+  "num_followers": 69258,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAC0AmtX6fiDjhfBOVyyMqOi",
+  "snapshot_id": "aHL3AAAAAAA9BEJ4p3nEaxVZUqrmrb2r",
   "tracks": [
     {
       "added_at": null,
@@ -211,50 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "TODO O NADA",
-      "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217129,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantasias (Remix) [feat. Farruko & Lunay]",
         "url": "https://open.spotify.com/album/2kcKdEULKToIB701VWtOPr"
       },
@@ -283,6 +239,50 @@
       "duration_ms": 267241,
       "name": "Fantasias - Remix",
       "url": "https://open.spotify.com/track/0A37XY67wSdGqkGjtfW6aV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217129,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "TODO O NADA",
+      "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
     },
     {
       "added_at": null,
@@ -1135,18 +1135,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin De Semana",
-        "url": "https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B"
+        "name": "El Castillo",
+        "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
       },
       "artists": [
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 151562,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
+      "duration_ms": 198122,
+      "name": "Vicio",
+      "url": "https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR"
     },
     {
       "added_at": null,
@@ -1167,22 +1171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Castillo",
-        "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B"
       },
       "artists": [
-        {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
-        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 198122,
-      "name": "Vicio",
-      "url": "https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR"
+      "duration_ms": 151562,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
     },
     {
       "added_at": null,

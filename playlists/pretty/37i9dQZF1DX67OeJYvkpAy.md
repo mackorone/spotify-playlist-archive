@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Sainté
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,470 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,471 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 56 | [Told Me](https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps) | [Wdz](https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY) | [Told Me](https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz) | 2:22 |
 | 57 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
 | 58 | [DPMO](https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ) | [Equation Billionz](https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL) | [DPMO](https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY) | 2:27 |
-| 59 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
-| 60 | [Couple Little Things](https://open.spotify.com/track/5wa51MT1gA2siZB8B3XQsq) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:26 |
+| 59 | [Couple Little Things](https://open.spotify.com/track/5wa51MT1gA2siZB8B3XQsq) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:26 |
+| 60 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
 | 61 | [weed to my left, chip to my right](https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Smoke Sessions, Vol\. 1](https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C) | 1:22 |
 | 62 | [Lost & Found](https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i), [Ruby Wood](https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK) | [Lost & Found](https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC) | 2:18 |
 | 63 | [Don't Ask](https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Don't Ask](https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs) | 2:38 |
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 73 | [Deleted \(Alfonzo\)](https://open.spotify.com/track/3JMvrZ3B2v0e7W4JP88MNV) | [Genie](https://open.spotify.com/artist/4NVPPjqtov1aWSJHMlpY6Z), [Tom Teimouri](https://open.spotify.com/artist/3l3hZpgpvXfeZN1YBVLLlx) | [Deleted \(Alfonzo\)](https://open.spotify.com/album/0RLhWZNL0pkURtBvO7vmDF) | 3:46 |
 | 74 | [Grow](https://open.spotify.com/track/2RhaAsK4IYDmE20Vk96T9K) | [Tommy Walton](https://open.spotify.com/artist/02PNO16Wnyq5g3imPJaSdQ), [LeProdude](https://open.spotify.com/artist/1Zg71RppIywlpSLoC99gPN) | [Grow](https://open.spotify.com/album/2h6oR8BuGt1wRrrtiNoOI0) | 3:39 |
 | 75 | [Mad About Bars \- S5\-E8 Pt2](https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd) | 2:05 |
-| 76 | [On My Mind](https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [On My Mind](https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k) | 1:20 |
-| 77 | [2:30AM](https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [2:30AM](https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv) | 3:02 |
-| 78 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabz](https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
-| 79 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
-| 80 | [9AM](https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4vG3ns25IXxTaMisoVaLxU) | [9AM](https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip) | 2:52 |
-| 81 | [Frozen Gold](https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy) | 2:18 |
+| 76 | [Frozen Gold](https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy) | 2:18 |
+| 77 | [On My Mind](https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [On My Mind](https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k) | 1:20 |
+| 78 | [2:30AM](https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [2:30AM](https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv) | 3:02 |
+| 79 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabz](https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
+| 80 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
+| 81 | [9AM](https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4vG3ns25IXxTaMisoVaLxU) | [9AM](https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip) | 2:52 |
 | 82 | [Why you gotta lie?](https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7) | 2:36 |
 | 83 | [If I Die Young](https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX) | 3:09 |
 | 84 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,958,760 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,958,363 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 39 | [Simplemente Pasan](https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:01 |
 | 40 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 |
 | 41 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 |
-| 42 | [Mi Otra Mitad](https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mi Otra Mitad](https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4) | 3:15 |
-| 43 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
+| 42 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
+| 43 | [Mi Otra Mitad](https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mi Otra Mitad](https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4) | 3:15 |
 | 44 | [Los Besos](https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Besos](https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs) | 3:22 |
 | 45 | [Índigo](https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:34 |
 | 46 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |

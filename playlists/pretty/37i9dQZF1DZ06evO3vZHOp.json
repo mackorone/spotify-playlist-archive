@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 365077,
+  "num_followers": 365116,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAABxMk30+05PkKiBxtJCXfir",
+  "snapshot_id": "aHL3AAAAAACeiqayJbAeLb05WN2900Ji",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe"
+      },
+      "artists": [
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 288282,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nota",
         "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
       },
@@ -655,42 +691,6 @@
       "duration_ms": 176538,
       "name": "North Carolina",
       "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe"
-      },
-      "artists": [
-        {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 288282,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ"
     },
     {
       "added_at": null,
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INTER SHIBUYA (FERXXO EDITION)",
-        "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "FUMETEO - Remix",
-      "url": "https://open.spotify.com/track/5SXG3VyqqWkzr4a3sUnupK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chosen Few New Generation II - Recharged",
         "url": "https://open.spotify.com/album/382jindm6my1i05NJfXQLr"
       },
@@ -827,26 +803,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chulx",
-        "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
+        "name": "INTER SHIBUYA (FERXXO EDITION)",
+        "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
       },
       "artists": [
         {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Toni Anzis",
-          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Chulx",
-      "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
+      "duration_ms": 214880,
+      "name": "FUMETEO - Remix",
+      "url": "https://open.spotify.com/track/5SXG3VyqqWkzr4a3sUnupK"
     },
     {
       "added_at": null,
@@ -867,6 +843,30 @@
       "duration_ms": 215133,
       "name": "Mi Error",
       "url": "https://open.spotify.com/track/4o4HQPKJQEsPq36BJqWWUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chulx",
+        "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
+      },
+      "artists": [
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Chulx",
+      "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
     },
     {
       "added_at": null,

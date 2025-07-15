@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 39004,
+  "num_followers": 39011,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,34 @@
     {
       "added_at": "2025-07-02 10:57:01",
       "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7Ls1fcaC61JEMXHxeoR7CZ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "La Cenerentola, Act II: Aria. Sia qualunque delle figlie",
+      "url": "https://open.spotify.com/track/5Wv2CIRajNnmUDeZJgwR4s"
+    },
+    {
+      "added_at": "2025-07-02 10:57:01",
+      "album": {
         "name": "Rossini: Stabat Mater & Petite messe solennelle",
         "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
@@ -615,8 +643,8 @@
     {
       "added_at": "2025-07-02 10:57:01",
       "album": {
-        "name": "Rossini: La Cenerentola",
-        "url": "https://open.spotify.com/album/7Ls1fcaC61JEMXHxeoR7CZ"
+        "name": "Rossini: La Boutique Fantasque / Respighi: Impressioni Brasilliane",
+        "url": "https://open.spotify.com/album/6xQuNjIxICN9y02OxSuPch"
       },
       "artists": [
         {
@@ -624,21 +652,17 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Paolo Montarsolo",
-          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
         }
       ],
-      "duration_ms": 305493,
-      "name": "La Cenerentola, Act II: Aria. Sia qualunque delle figlie",
-      "url": "https://open.spotify.com/track/5Wv2CIRajNnmUDeZJgwR4s"
+      "duration_ms": 363666,
+      "name": "La Boutique Fantasque: Cancan",
+      "url": "https://open.spotify.com/track/5KzB6qDOjmA5EYnPG7jNwE"
     },
     {
       "added_at": "2025-07-02 10:57:01",
@@ -671,30 +695,6 @@
       "duration_ms": 356653,
       "name": "Stabat Mater: III. Quis est homo (Duet)",
       "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
-    },
-    {
-      "added_at": "2025-07-02 10:57:01",
-      "album": {
-        "name": "Rossini: La Boutique Fantasque / Respighi: Impressioni Brasilliane",
-        "url": "https://open.spotify.com/album/6xQuNjIxICN9y02OxSuPch"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        },
-        {
-          "name": "Charles Dutoit",
-          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
-        }
-      ],
-      "duration_ms": 363666,
-      "name": "La Boutique Fantasque: Cancan",
-      "url": "https://open.spotify.com/track/5KzB6qDOjmA5EYnPG7jNwE"
     },
     {
       "added_at": "2025-07-02 10:57:01",

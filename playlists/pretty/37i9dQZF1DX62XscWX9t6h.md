@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,871 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,942 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 51 | [Makeda](https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:53 |
 | 52 | [Under No Nation \- Radio Edit](https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Under No Nation \(Radio Edit\)](https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm) | 3:04 |
 | 53 | [Home \(anaiis Remix\)](https://open.spotify.com/track/2baU4gZ7YltWBxO5kveHCK) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Could We Be More Remixes](https://open.spotify.com/album/1lLEKH0KEbDDW6Wgw4EEDA) | 3:09 |
-| 54 | [Garawek khaos](https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn) | [Cemento Atlantico](https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT) | [Dromomania](https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx) | 4:53 |
+| 54 | [Kolyskova](https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Light](https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT) | 5:46 |
 | 55 | [Charango Dub](https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Charango Dub](https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU) | 4:44 |
 | 56 | [Feira De Mangaio](https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Feira De Mangaio](https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH) | 2:36 |
-| 57 | [Kolyskova](https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Light](https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT) | 5:46 |
-| 58 | [Junchuch](https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0) | [Junchuch](https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY) | 4:36 |
+| 57 | [Junchuch](https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0) | [Junchuch](https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY) | 4:36 |
+| 58 | [Garawek khaos](https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn) | [Cemento Atlantico](https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT) | [Dromomania](https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx) | 4:53 |
 | 59 | [Eléctrico](https://open.spotify.com/track/2Y6qcH0XUxAohCNdefCa0J) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Conquistador](https://open.spotify.com/album/2gkJw21X6L6nGdej4VAc6O) | 3:37 |
 | 60 | [Dempuèi auriac](https://open.spotify.com/track/0qNkaZahHUYumhxlAMgp33) | [Cocanha](https://open.spotify.com/artist/1MYfw8oJJ5lQisSkMKPGHl) | [I ès ?](https://open.spotify.com/album/0e0D3S0kz3y9QWXvu7AR5g) | 2:16 |
 | 61 | [Solstício](https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Carlos Núñez](https://open.spotify.com/artist/3e09WanUMwtc9XfZRLvZ30) | [Solstício](https://open.spotify.com/album/7I3I6jxYh64keGLmZFGP4R) | 4:25 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 72 | [Yemayá](https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Yemayá](https://open.spotify.com/album/2sJglv0TslV4flsyAqQGmz) | 3:59 |
 | 73 | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Muyun Brothers](https://open.spotify.com/artist/2y2brohJLOwREBed1LdUMF) | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR) | 3:06 |
 | 74 | [Afrique Victime](https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 7:25 |
-| 75 | [Geeta duniki](https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484) | [Ammar 808](https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC) | [Global Control / Invisible Invasion](https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI) | 3:32 |
-| 76 | [Hustle](https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Black To The Future](https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B) | 5:18 |
+| 75 | [Hustle](https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Black To The Future](https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B) | 5:18 |
+| 76 | [Geeta duniki](https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484) | [Ammar 808](https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC) | [Global Control / Invisible Invasion](https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI) | 3:32 |
 | 77 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
 | 78 | [Bia Bia](https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:36 |
 | 79 | [Alsutur](https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl) | [Dar Disku](https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR), [FLANAH](https://open.spotify.com/artist/5DqIuKnov00pkcf2dlq8W5) | [Dar Disku](https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY) | 2:39 |

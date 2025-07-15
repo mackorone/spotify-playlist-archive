@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Sextile on the cover bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,329 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,415 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,11 +97,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 87 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
 | 88 | [We Own The Sky](https://open.spotify.com/track/44jJCNW8frQLEWpYuAQz47) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE) | 5:04 |
 | 89 | [All Night](https://open.spotify.com/track/4IGT69nbtQdRXNVIZaulOf) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 3:53 |
-| 90 | [Cousins](https://open.spotify.com/track/4tFOkEWNXiheSDnURpmGTp) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 2:25 |
-| 91 | [Ice Cream](https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9) | [New Young Pony Club](https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w) | [Fantastic Playroom](https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA) | 3:08 |
+| 90 | [Ice Cream](https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9) | [New Young Pony Club](https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w) | [Fantastic Playroom](https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA) | 3:08 |
+| 91 | [Cousins](https://open.spotify.com/track/4tFOkEWNXiheSDnURpmGTp) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 2:25 |
 | 92 | [Round and Round](https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J) | 5:08 |
-| 93 | [I Found Out](https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Wait for Me](https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3) | 2:07 |
-| 94 | [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 |
+| 93 | [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 |
+| 94 | [I Found Out](https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Wait for Me](https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3) | 2:07 |
 | 95 | [Infinity Guitars](https://open.spotify.com/track/5u3LixvEX1twpOW6v3V2H7) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 2:31 |
 | 96 | [Jane Fonda](https://open.spotify.com/track/0Y2QejubtJugRGvfPgOQ1w) | [Mickey Avalon](https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2) | [Mickey Avalon](https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV) | 3:40 |
 | 97 | [Women Respond to Bass](https://open.spotify.com/track/0BBmhTKDbkCoDt68VgZ0jj) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56) | [yes, please.](https://open.spotify.com/album/2RWrI8TfimAyiRIcmVuV77) | 2:46 |

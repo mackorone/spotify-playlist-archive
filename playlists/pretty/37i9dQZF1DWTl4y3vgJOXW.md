@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Fourth quarter, two minutes left .\. get locked in\. Cover: Cooper Flagg and Dylan Harper
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Fourth quarter, two minutes left .\. get locked in\. Cover: Shakur Stevenson
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,775,102 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,775,335 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 2 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
 | 3 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 4 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 |
-| 5 | [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 |
+| 5 | [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 |
 | 6 | [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 |
 | 7 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |
 | 8 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 |
 | 9 | [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 |
 | 10 | [Watch Da Throne](https://open.spotify.com/track/4W87HdUCaPD4ZRjkLI228v) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli](https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6) | 2:36 |
 | 11 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
-| 12 | [OUTSIDE](https://open.spotify.com/track/22itRNJ0N4sB8RSeofp7pW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:03 |
+| 12 | [OUTSIDE](https://open.spotify.com/track/22itRNJ0N4sB8RSeofp7pW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:03 |
 | 13 | [Mo Chicken \(feat\. French Montana\)](https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:00 |
 | 14 | [Kickboxer](https://open.spotify.com/track/1DZVU51224wv6TtRvAzmaZ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Kickboxer](https://open.spotify.com/album/7jX65RgVNEKN649tBrLEAn) | 3:50 |
 | 15 | [Woke Up](https://open.spotify.com/track/21CsEAX3X8wiWjtqedsRNb) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Woke Up](https://open.spotify.com/album/77FxQyGZyd38qKM0HKy8Q6) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 99 | [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 |
 | 100 | [Runnin](https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:15 |
 
-Snapshot ID: `aHM4MAAAAAAch0iMGNQzSNhnnzDx//mt`
+Snapshot ID: `aHU6JAAAAADDfp3MEcX/j3rb1Xf373TI`

@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 117041,
+  "num_followers": 117061,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACXRa5MoArJG0xMWJWfl5DO",
+  "snapshot_id": "aHL3AAAAAAAfvnvS2o40aYPBvSrOEic4",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Most of All",
+      "url": "https://open.spotify.com/track/0E0aHF7AnmeMNIAb7GJSQa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Most of All",
-      "url": "https://open.spotify.com/track/0E0aHF7AnmeMNIAb7GJSQa"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Hard Way Home",
+      "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 202695,
       "name": "Swing For The Fences",
       "url": "https://open.spotify.com/track/5K1IDBdLzxEb6LYXsRyR6e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Hard Way Home",
-      "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 193373,
       "name": "If She Ever Leaves Me",
       "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "Mama Werewolf",
-      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -611,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturn Return",
-        "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 207600,
-      "name": "Water Witch",
-      "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
+      "duration_ms": 221813,
+      "name": "Mama Werewolf",
+      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
     },
     {
       "added_at": null,
@@ -647,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
       },
       "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 303593,
-      "name": "Broken Horses",
-      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+      "duration_ms": 207600,
+      "name": "Water Witch",
+      "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 224893,
       "name": "How (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Believes In Angels?",
-        "url": "https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 216596,
-      "name": "Never Too Late",
-      "url": "https://open.spotify.com/track/22Gzjt7PRJdAVz1tnJVYPZ"
     },
     {
       "added_at": null,
@@ -783,42 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Firewatcher's Daughter",
-        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 230108,
-      "name": "Wherever is Your Heart",
-      "url": "https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Believes In Angels?",
-        "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 179719,
-      "name": "Little Richard\u2019s Bible",
-      "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
         "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
@@ -839,6 +783,42 @@
       "duration_ms": 270426,
       "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
       "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 216596,
+      "name": "Never Too Late",
+      "url": "https://open.spotify.com/track/22Gzjt7PRJdAVz1tnJVYPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 230108,
+      "name": "Wherever is Your Heart",
+      "url": "https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
       "duration_ms": 220720,
       "name": "Letter To The Past",
       "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 179719,
+      "name": "Little Richard\u2019s Bible",
+      "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
     },
     {
       "added_at": null,

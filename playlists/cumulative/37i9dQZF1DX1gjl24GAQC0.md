@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? \(Cover: SUPER JUNIOR \(슈퍼주니어\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-704 songs - 1 day 14 hr 41 min
+705 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Cheeky](https://open.spotify.com/track/5zAMY2u5sRYyd8wLjlbTep) | [ENOi](https://open.spotify.com/artist/7nZr0bruX5BKXqb8LSe2U3) | [RED IN THE APPLE](https://open.spotify.com/album/26wrEDX1YtBq40f5wEtyeM) | 3:09 | 2022-03-30 | 2022-04-19 |
 | [Cheese](https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Cheese](https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj) | 3:26 | 2023-09-01 | 2023-09-12 |
 | [CHERRY](https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:30 | 2022-04-12 | 2022-07-25 |
+| [CHILLER](https://open.spotify.com/track/0PNOA20FfXz8c1KVaon1ei) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Go Back To The Future](https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM) | 3:04 | 2025-07-14 |  |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-23 |  |
 | [Choke](https://open.spotify.com/track/5fvQ0kElOryRWFaXQMORqT) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [BEAT by 82](https://open.spotify.com/album/5PNr1szmjWGuXxHAesSljM) | 3:03 | 2024-04-29 | 2024-05-21 |
 | [Christmas Love](https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Christmas Love](https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3) | 3:12 | 2023-12-21 | 2024-01-09 |
@@ -546,7 +547,7 @@
 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 | 2022-05-30 | 2022-06-11 |
 | [Scared](https://open.spotify.com/track/4qQ3e0YD83kblcnb8R0sIw) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : BREAK OUT](https://open.spotify.com/album/2QBdsbcBsTHVLlbAXBxaey) | 3:08 | 2022-03-22 | 2022-04-13 |
 | [seOul drift](https://open.spotify.com/track/5NX9t5Oe3Cqywu1Gwq6OmJ) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [seOul cOllectiOn](https://open.spotify.com/album/5eeMvNkW3nD4gbWLuDQGk5) | 3:21 | 2023-03-03 | 2023-03-07 |
-| [SET NET G0?!](https://open.spotify.com/track/6caqFtBxhs0Ms2fW5YDb1f) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dare to Crave](https://open.spotify.com/album/1owOEcI2MAjZTRSLj0XZuD) | 2:45 | 2025-06-23 |  |
+| [SET NET G0?!](https://open.spotify.com/track/6caqFtBxhs0Ms2fW5YDb1f) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dare to Crave](https://open.spotify.com/album/1owOEcI2MAjZTRSLj0XZuD) | 2:45 | 2025-06-23 | 2025-07-15 |
 | [SEVEN SINS](https://open.spotify.com/track/2byWFY0u4pFZSVbQbbFBA5) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [SEVEN SINS](https://open.spotify.com/album/4BUFd5miv3H0CmeQcKdHvg) | 3:35 | 2023-04-19 | 2023-04-27 |
 | [SHALALA](https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [SHALALA \- The 1st Mini Album](https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp) | 3:21 | 2023-06-09 | 2024-03-12 |
 | [Shangri\-La](https://open.spotify.com/track/5VPPpHQRRGXGhQpYZvj0rD) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Eau De Vixx](https://open.spotify.com/album/3NdoYD1cAxSr6cjh99yrGz) | 3:22 | 2022-01-17 | 2022-04-16 |

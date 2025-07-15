@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,432 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,439 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 5 | [HERO 〜希望の歌〜](https://open.spotify.com/track/1o7D1gLUgpFR3eJfIgpSUx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 3:37 |
 | 6 | [WORLD END](https://open.spotify.com/track/4wODMeGBAwLAmq0zSAb8Z3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:46 |
 | 7 | [DAYS](https://open.spotify.com/track/49g1yJUzm4VbQUrKTIcQIa) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:15 |
-| 8 | [Alright!!!](https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Alright!!!](https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs) | 3:39 |
-| 9 | [Howling](https://open.spotify.com/track/1Iexk6Gy5GJLxeXD5fqf85) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf) | 4:21 |
+| 8 | [Howling](https://open.spotify.com/track/1Iexk6Gy5GJLxeXD5fqf85) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf) | 4:21 |
+| 9 | [Alright!!!](https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Alright!!!](https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs) | 3:39 |
 | 10 | [7\-seven\-](https://open.spotify.com/track/780QeWn8OYJXSqpNTgt5pY) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 4:18 |
 | 11 | [Re:member](https://open.spotify.com/track/1hoQxGi3ujVYUzQDhXfvkN) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:19 |
 | 12 | [COLORS \-CODE GEASS OPENING MIX\-](https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [COLORS](https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB) | 1:33 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 28 | [DICE](https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE](https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1) | 4:25 |
 | 29 | [メロス](https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [SPLASH!!!　〜遥かなる自主制作BEST〜](https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp) | 4:05 |
 | 30 | [GLORY DAYS](https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [26 a Go Go !!!](https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs) | 3:45 |
-| 31 | [LOVE & JUSTICE](https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOVE & JUSTICE/超人](https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX) | 4:27 |
-| 32 | [デイドリーム ビリーヴァー](https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [デイドリーム ビリーヴァー](https://open.spotify.com/album/4pHB7QiyMIyOrzaToBoS3d) | 3:37 |
-| 33 | [流星](https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:16 |
-| 34 | [PENDULUM](https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [TRIBALYTHM](https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar) | 4:12 |
+| 31 | [デイドリーム ビリーヴァー](https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [デイドリーム ビリーヴァー](https://open.spotify.com/album/4pHB7QiyMIyOrzaToBoS3d) | 3:37 |
+| 32 | [LOVE & JUSTICE](https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOVE & JUSTICE/超人](https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX) | 4:27 |
+| 33 | [PENDULUM](https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [TRIBALYTHM](https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar) | 4:12 |
+| 34 | [流星](https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:16 |
 | 35 | [INNOSENSE](https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [INNOSENSE Special Edition](https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV) | 4:02 |
 | 36 | [Hey!!!](https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [BLACK & WHITE](https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF) | 3:42 |
 | 37 | [DAYS 〜EUREKA OPENING MIX〜](https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DAYS](https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY) | 1:31 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 47 | [Howling \-TV Size\-](https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL) | 1:31 |
 | 48 | [音色](https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [音色 / Break it down](https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm) | 4:38 |
 | 49 | [CLOSER](https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [CLOSER](https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb) | 3:29 |
-| 50 | [O2](https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [デイドリーム ビリーヴァー \(Complete Edition\)](https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW) | 3:59 |
+| 50 | [COLORS \-New Mix\-](https://open.spotify.com/track/2yId85aVejyO6B22sjQSYj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE \(Complete Edition\)](https://open.spotify.com/album/4PepWTYHniNNHAM5kbSk0Q) | 3:40 |
 
-Snapshot ID: `aHGlgAAAAAAW9c+Les/zJmh7xVs/GWzE`
+Snapshot ID: `aHL3AAAAAAA16r4h1SxBfdEyMnjyfSzy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,208 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,240 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 9 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 |
 | 10 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
 | 11 | [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 |
-| 12 | [Pretin \(Verão, Pt\. 1\)](https://open.spotify.com/track/4kDGFnLmcAxlWuBpxnQbJz) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Stereodubs](https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO) | [Flora Matos Vs\. Stereodubs](https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7) | 2:27 |
-| 13 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
+| 12 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
+| 13 | [Pretin \(Verão, Pt\. 1\)](https://open.spotify.com/track/4kDGFnLmcAxlWuBpxnQbJz) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Stereodubs](https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO) | [Flora Matos Vs\. Stereodubs](https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7) | 2:27 |
 | 14 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 | 15 | [Chega Mais](https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 3:54 |
 | 16 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Marcel Powell](https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05e3 \u05d0\u05d1\u05d9\u05d3\u05df",
-  "num_followers": 32171,
+  "num_followers": 32178,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -671,18 +671,22 @@
     {
       "added_at": "2025-07-10 21:00:08",
       "album": {
-        "name": "Black Eye",
-        "url": "https://open.spotify.com/album/295njq3mu85uparrz5upr0"
+        "name": "Circumstance",
+        "url": "https://open.spotify.com/album/52Rh87m4PVnaW77cfHHXnD"
       },
       "artists": [
         {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+          "name": "Omri Smadar",
+          "url": "https://open.spotify.com/artist/0qnD30FBRPes7ZFDvsEBAv"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         }
       ],
-      "duration_ms": 145911,
-      "name": "Black Eye",
-      "url": "https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc"
+      "duration_ms": 228000,
+      "name": "Circumstance",
+      "url": "https://open.spotify.com/track/64Kn9pjumP5bJd8WbZNm2E"
     },
     {
       "added_at": "2025-07-10 21:00:08",
@@ -707,22 +711,18 @@
     {
       "added_at": "2025-07-10 21:00:08",
       "album": {
-        "name": "Circumstance",
-        "url": "https://open.spotify.com/album/52Rh87m4PVnaW77cfHHXnD"
+        "name": "Black Eye",
+        "url": "https://open.spotify.com/album/295njq3mu85uparrz5upr0"
       },
       "artists": [
         {
-          "name": "Omri Smadar",
-          "url": "https://open.spotify.com/artist/0qnD30FBRPes7ZFDvsEBAv"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Circumstance",
-      "url": "https://open.spotify.com/track/64Kn9pjumP5bJd8WbZNm2E"
+      "duration_ms": 145911,
+      "name": "Black Eye",
+      "url": "https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc"
     },
     {
       "added_at": "2025-07-10 21:00:08",
@@ -747,42 +747,6 @@
     {
       "added_at": "2025-07-10 21:00:08",
       "album": {
-        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
-        "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
-      },
-      "artists": [
-        {
-          "name": "Shlomi Shaban",
-          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
-        }
-      ],
-      "duration_ms": 196914,
-      "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
-    },
-    {
-      "added_at": "2025-07-10 21:00:08",
-      "album": {
-        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
-        "url": "https://open.spotify.com/album/52Y7nq83AIKf2FRcEA1UtP"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        },
-        {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "\u05d6\u05d4 \u05d1\u05d3\u05d9\u05d5\u05e7 \u05de\u05d4 \u05e9\u05d0\u05ea\u05d4 \u05d0\u05d5\u05d4\u05d1",
-      "url": "https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m"
-    },
-    {
-      "added_at": "2025-07-10 21:00:08",
-      "album": {
         "name": "Running Out of Time",
         "url": "https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW"
       },
@@ -799,6 +763,38 @@
       "duration_ms": 180661,
       "name": "Running Out of Time",
       "url": "https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE"
+    },
+    {
+      "added_at": "2025-07-10 21:00:08",
+      "album": {
+        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+    },
+    {
+      "added_at": "2025-07-10 21:00:08",
+      "album": {
+        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
+        "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
+      },
+      "artists": [
+        {
+          "name": "Shlomi Shaban",
+          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
+        }
+      ],
+      "duration_ms": 196914,
+      "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
     },
     {
       "added_at": "2025-07-10 21:00:08",
@@ -851,38 +847,38 @@
     {
       "added_at": "2025-07-10 21:00:08",
       "album": {
-        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
+        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+        "url": "https://open.spotify.com/album/52Y7nq83AIKf2FRcEA1UtP"
       },
       "artists": [
         {
           "name": "Alma Gov",
           "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        },
+        {
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
         }
       ],
-      "duration_ms": 180224,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+      "duration_ms": 180160,
+      "name": "\u05d6\u05d4 \u05d1\u05d3\u05d9\u05d5\u05e7 \u05de\u05d4 \u05e9\u05d0\u05ea\u05d4 \u05d0\u05d5\u05d4\u05d1",
+      "url": "https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m"
     },
     {
       "added_at": "2025-07-10 21:00:08",
       "album": {
-        "name": "It\u2019ll Probably Be Fine",
-        "url": "https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP"
+        "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk"
       },
       "artists": [
         {
-          "name": "flatmate sessions",
-          "url": "https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW"
-        },
-        {
-          "name": "Heart Sauce",
-          "url": "https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P"
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
         }
       ],
-      "duration_ms": 169500,
-      "name": "It\u2019ll Probably Be Fine",
-      "url": "https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl"
+      "duration_ms": 209230,
+      "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

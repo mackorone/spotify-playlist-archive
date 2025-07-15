@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,251 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,260 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

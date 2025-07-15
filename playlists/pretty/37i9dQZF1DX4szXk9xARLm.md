@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,701 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,717 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 10 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
 | 11 | [قالتلي لا لا \- من مسلسل العتاولة ٢](https://open.spotify.com/track/1570e9oi9j2eJflDGtkBX7) | [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [مصطفى ابو سريع](https://open.spotify.com/artist/33x0PBqHDjYcm5JpNlyK5d) | [قالتلي لا لا \(من مسلسل العتاولة ٢\)](https://open.spotify.com/album/11dWPCENI07626fPX39wJD) | 2:04 |
 | 12 | [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 |
-| 13 | [غول الاصول](https://open.spotify.com/track/1KnfSD0zHxBUICdcimR6JY) | [رحمه محسن](https://open.spotify.com/artist/4n7LF1ui4BRgY6sKpcIERt) | [غول الاصول](https://open.spotify.com/album/0GnC7m8hmfuWDU8g0yHwBd) | 4:16 |
+| 13 | [غول الاصول](https://open.spotify.com/track/1KnfSD0zHxBUICdcimR6JY) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [غول الاصول](https://open.spotify.com/album/0GnC7m8hmfuWDU8g0yHwBd) | 4:16 |
 | 14 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 |
 | 15 | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/track/7BHh2MVbdnLphbXE3BqnMp) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/album/0wLRjwezgTD7FAY2m6dkKo) | 1:55 |
 | 16 | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 |

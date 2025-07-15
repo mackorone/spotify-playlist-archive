@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,196 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,227 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 36 | [Runak Jhunak](https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0) | [Kanika](https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF) | [Runak Jhunak](https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT) | 3:10 |
 | 37 | [Aisi Mhari Preet \(Eternal Love\) \- Sabr](https://open.spotify.com/track/4k7feahPXeSdkUf5aZXBCp) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7) | [Aisi Mhari Preet \(Eternal Love\) \[Sabr\]](https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND) | 5:32 |
 | 38 | [Mahadeva](https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM), [Gaurav Chati](https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP), [Rstarjazz](https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7) | [Mahadeva](https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f) | 3:30 |
-| 39 | [Dilbaro](https://open.spotify.com/track/1nZsawYIhZOQXHueQSlSa0) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Dilbaro](https://open.spotify.com/album/50njznUOstDkOBf8IARjEM) | 3:11 |
-| 40 | [Karam \(Equals Sessions\)](https://open.spotify.com/track/5zWA0flBrTC3VmhjcJ2MZG) | [Rangle Sardar](https://open.spotify.com/artist/3nD9WdGngkUd6WEk1zsZy8), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Karam \(Equals Sessions\) \- Single](https://open.spotify.com/album/6ZeOlXxvWRq3h0inux1YPQ) | 4:19 |
+| 39 | [Karam \(Equals Sessions\)](https://open.spotify.com/track/5zWA0flBrTC3VmhjcJ2MZG) | [Rangle Sardar](https://open.spotify.com/artist/3nD9WdGngkUd6WEk1zsZy8), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Karam \(Equals Sessions\) \- Single](https://open.spotify.com/album/6ZeOlXxvWRq3h0inux1YPQ) | 4:19 |
+| 40 | [Dilbaro](https://open.spotify.com/track/1nZsawYIhZOQXHueQSlSa0) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Dilbaro](https://open.spotify.com/album/50njznUOstDkOBf8IARjEM) | 3:11 |
 | 41 | [Natkhat Nadiya](https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 5:39 |
 | 42 | [Peele Amiras \- Sabr](https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Peele Amiras \(Sabr\)](https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg) | 5:15 |
 | 43 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |

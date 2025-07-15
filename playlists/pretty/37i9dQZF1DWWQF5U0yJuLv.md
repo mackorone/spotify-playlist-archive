@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,791 likes - 150 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,857 likes - 150 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 21 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
 | 22 | [The Elephant Never Forgets](https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [Moog Indigo](https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9) | 2:29 |
 | 23 | [At Height](https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu) | 3:52 |
-| 24 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
+| 24 | [On Our Way Home](https://open.spotify.com/track/0w1j2eMIGeNkRtO4DefPud) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Postcards](https://open.spotify.com/album/5s8tUuZ4mZDKvuETg8sdjo) | 3:57 |
 | 25 | [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 |
-| 26 | [On Our Way Home](https://open.spotify.com/track/0w1j2eMIGeNkRtO4DefPud) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Postcards](https://open.spotify.com/album/5s8tUuZ4mZDKvuETg8sdjo) | 3:57 |
+| 26 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
 | 27 | [Storm / Mom](https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA) | [Will Wiesenfeld](https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO), [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Bee and PuppyCat \(Soundtrack from the Netflix Series\) Vol\. 2](https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb) | 2:31 |
 | 28 | [Space Walk](https://open.spotify.com/track/1bne4gsJshCv77LeKqQb1A) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Lost Horizons](https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG) | 7:02 |
 | 29 | [Lomas de Sotelo](https://open.spotify.com/track/0fLNVqhb5plIW4iSVfxAOP) | [AAAA](https://open.spotify.com/artist/3J5tbnuwDEYK5Mjl60hPYz) | [X Scroll Era](https://open.spotify.com/album/2mldw4RM7l1tr6762njYDo) | 3:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,343 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,200 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 66 | [Te Encontré](https://open.spotify.com/track/4Y56V10EBP4dyVjtRXRUwa) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Te Encontré](https://open.spotify.com/album/4uWei1TQ2GwKxcbJ4Tngsr) | 3:42 |
 | 67 | [Cali Pachanguero 40 Años](https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cali Pachanguero 40 Años](https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC) | 4:47 |
 | 68 | [Princesa](https://open.spotify.com/track/3szaCs7VEoFa0aDnsqzgZz) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Princesa](https://open.spotify.com/album/26ml9ZkGw8nvKzMMn5NQBx) | 2:59 |
-| 69 | [Víctimas las Dos](https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Víctimas las Dos](https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH) | 4:17 |
+| 69 | [Otra Noche Más \(feat\. Frankie Ruiz\)](https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Otra Noche Más \(feat\. Frankie Ruiz\)](https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg) | 4:27 |
 | 70 | [Charrupi](https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9) | [Orquesta Calibre](https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB) | [La Foto, el Video, la Chicanería](https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4) | 5:41 |
 | 71 | [The Reason \- Latin Version](https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 3:11 |
 | 72 | [Que Locura Enamorarme De Ti \(feat\. Eddie Santiago\)](https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv) | [Huey Dunbar](https://open.spotify.com/artist/6fhCq41xOJnMGIvFd13Oft), [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 4:56 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 92 | [Tesoro Mío](https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mío](https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD) | 4:02 |
 | 93 | [Me Enamore de Ti, y Que?](https://open.spotify.com/track/6egUo2ex5rvY4TBa5TGpMd) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Me Enamore de Ti, y Que?](https://open.spotify.com/album/6dhD9Na2qZDlMqCAdnhXNg) | 2:48 |
 | 94 | [Me Dediqué A Perderte](https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX) | [Pablo EEE](https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP), [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av) | [Me Dedique A Perderte](https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs) | 2:47 |
-| 95 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
-| 96 | [Llorarás](https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Los Oscares De Oscar](https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ) | 3:48 |
+| 95 | [Llorarás](https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Los Oscares De Oscar](https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ) | 3:48 |
+| 96 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
 | 97 | [Vamo' Echando](https://open.spotify.com/track/3jR02GFa7bbuhEvYc3pDwL) | [NIA](https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Vamo' Echando](https://open.spotify.com/album/2X5V5p3CvFpPyzLtHrONFl) | 2:48 |
 | 98 | [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 |
 | 99 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 |

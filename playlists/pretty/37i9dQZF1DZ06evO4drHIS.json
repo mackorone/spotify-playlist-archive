@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 17376,
+  "num_followers": 17386,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACBcEV3H4iGO6gb5NFGqrz9",
+  "snapshot_id": "aHL3AAAAAADrX9XLeLRoPXjOd8jfvwd+",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+        "name": "Cielo Rojo",
+        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 192253,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
+      "duration_ms": 258048,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo Rojo",
-        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 258048,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
+      "duration_ms": 192253,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
     },
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Ning\u00fan Lugar",
+        "url": "https://open.spotify.com/album/4nprLl0cQBLb3YS2FmcTYR"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 167156,
+      "name": "A Ning\u00fan Lugar",
+      "url": "https://open.spotify.com/track/5EQYAVVQZe9EI5AMjkkqA8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 224586,
       "name": "\u00bfPor Qu\u00e9 Dejaste Que Te Amara?",
       "url": "https://open.spotify.com/track/17H9sXEby5J8WKibYU1GNz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Ning\u00fan Lugar",
-        "url": "https://open.spotify.com/album/4nprLl0cQBLb3YS2FmcTYR"
-      },
-      "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 167156,
-      "name": "A Ning\u00fan Lugar",
-      "url": "https://open.spotify.com/track/5EQYAVVQZe9EI5AMjkkqA8"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mor\u00ed",
-        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Beso a Medias",
         "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico Mi Amor",
         "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 205120,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Te Apartes De M\u00ed",
-        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "No Te Apartes De M\u00ed",
-      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 293266,
       "name": "A Tu Lado - En Vivo",
       "url": "https://open.spotify.com/track/3mIHpW3Nqu8BAXJJlGdAvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Te Apartes De M\u00ed",
+        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Me Vas A Llorar",
-      "url": "https://open.spotify.com/track/29y7MHn1HK7OymbBJCshTN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta Que Regreses",
         "url": "https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 185834,
       "name": "Hasta Que Regreses",
       "url": "https://open.spotify.com/track/113DePdXtrX328UFntdtyP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/29y7MHn1HK7OymbBJCshTN"
     },
     {
       "added_at": null,

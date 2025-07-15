@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > Cámara mi amor si ya se la sabe que es recio melecio, es pegándonos como chetos a la muela 🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,411 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,419 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 34 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 |
 | 35 | [Muévete](https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Divergentes Inc.](https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI) | [Muévete](https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo) | 3:31 |
 | 36 | [TERAPIA DE CHOQUE](https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TERAPIA DE CHOQUE](https://open.spotify.com/album/1iyOjIeFTikF2Tr5nqhGNc) | 2:44 |
-| 37 | [KE LA CASTIGUEN](https://open.spotify.com/track/2LgfnpXkudkVnv0k8NHCqa) | [LOUKI](https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [KE LA CASTIGUEN](https://open.spotify.com/album/2ECnJhv0Aq8MDClUNcLDsM) | 2:33 |
-| 38 | [Me Dice Daddy](https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Dice Daddy](https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs) | 3:03 |
+| 37 | [Me Dice Daddy](https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Dice Daddy](https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs) | 3:03 |
+| 38 | [KE LA CASTIGUEN](https://open.spotify.com/track/2LgfnpXkudkVnv0k8NHCqa) | [LOUKI](https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [KE LA CASTIGUEN](https://open.spotify.com/album/2ECnJhv0Aq8MDClUNcLDsM) | 2:33 |
 | 39 | [Booty Booty](https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Booty Booty](https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E) | 2:30 |
 | 40 | [Ñero Session 17](https://open.spotify.com/track/28sOcy3NXj7ga0JMEHauIU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Ñero Session 17](https://open.spotify.com/album/4UDoV0gSbWnoVVYUW2XmYB) | 2:50 |
 | 41 | [Metele](https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB) | [DJ Yelkrab](https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Ranking Stone](https://open.spotify.com/artist/2vThUcryaKNLhULHOzP3eH) | [Metele](https://open.spotify.com/album/57XcVUDgQmW2OWvHIu4I3l) | 3:15 |

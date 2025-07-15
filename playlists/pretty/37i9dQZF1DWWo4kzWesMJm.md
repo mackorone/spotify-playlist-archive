@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,553 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,606 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 2 | [Tous les mêmes](https://open.spotify.com/track/6M4nkEPZMj58acftDRTuKL) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [racine carrée](https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM) | 3:30 |
 | 3 | [J't'emmène au vent](https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:04 |
 | 4 | [Recommence\-moi](https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 3:16 |
-| 5 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
-| 6 | [Le temps est bon](https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:23 |
+| 5 | [Le temps est bon](https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:23 |
+| 6 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
 | 7 | [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 |
 | 8 | [Moi..\. Lolita](https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8) | [Alizée](https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4) | [Gourmandises](https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy) | 4:24 |
 | 9 | [Le chant des sirènes](https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 2:58 |

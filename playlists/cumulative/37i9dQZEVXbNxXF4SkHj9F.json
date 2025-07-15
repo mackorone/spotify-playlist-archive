@@ -8042,7 +8042,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 205440,
       "name": "Do or Die",
       "url": "https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO"
@@ -11400,7 +11400,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -12738,7 +12738,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
@@ -25233,6 +25233,24 @@
     },
     {
       "album": {
+        "name": "Rhapsody of Sadness",
+        "url": "https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Hyun",
+          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235120,
+      "name": "Rhapsody of Sadness",
+      "url": "https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -29764,7 +29782,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
@@ -31030,6 +31048,24 @@
       "duration_ms": 193413,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
+    },
+    {
+      "album": {
+        "name": "THIS IS FOR",
+        "url": "https://open.spotify.com/album/02dUOPB3MtmV5fawzaZiq6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131097,
+      "name": "THIS IS FOR",
+      "url": "https://open.spotify.com/track/3598iBWrS4JhJqP5tHlpVK"
     },
     {
       "album": {

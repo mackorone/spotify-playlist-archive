@@ -907,6 +907,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "INTOXYCATED",
+        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INTOXYCATED",
+      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema and Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "INTOXYCATED",
-        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INTOXYCATED",
-      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
     }
   ],
   "unique_name": "Now Playing...",

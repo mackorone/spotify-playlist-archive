@@ -4,7 +4,7 @@
 
 > Schlechte Laune? Drück den Play Button!
 
-230 songs - 11 hr 14 min
+231 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-11-11 |  |
 | [Broken Sunshine](https://open.spotify.com/track/0dN8k9rJg8uQnERTw5w5Vy) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Broken Sunshine](https://open.spotify.com/album/7vucHZXvKvdwPhlZzzJvTR) | 2:55 | 2025-02-14 | 2025-03-22 |
 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 | 2024-12-18 |  |
+| [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 | 2025-06-20 |  |
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2023-07-21 |  |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2023-08-28 | 2023-10-21 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-07-21 | 2025-06-05 |
@@ -194,7 +195,7 @@
 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 | 2024-10-03 |  |
 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 | 2023-09-15 | 2024-04-05 |
 | [Spicy Margarita](https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spicy Margarita](https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER) | 2:34 | 2024-02-01 | 2024-03-13 |
-| [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-10-18 |  |
+| [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-10-18 | 2025-07-15 |
 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 | 2024-11-14 | 2025-05-23 |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2023-12-19 |  |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-08-28 | 2025-05-23 |

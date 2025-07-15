@@ -4,7 +4,7 @@
 
 > Welcome to Beechwood Island\. Listen to the music from We Were Liars, a new original series now streaming on Prime Video.
 
-84 songs - 4 hr 40 min
+85 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [U&ME](https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME](https://open.spotify.com/album/2LzUx0oJhUsjk4rBX8JAFK) | 3:18 | 2025-06-18 |  |
 | [Waves](https://open.spotify.com/track/4pLHM9p80bYNPbas9JBS1g) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 2:27 | 2025-06-18 |  |
 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 | 2025-06-18 |  |
+| [We Were Liars Main Theme](https://open.spotify.com/track/4fdkbrPc2qtxrvEAqf6kqj) | [Michael Suby](https://open.spotify.com/artist/14DCy8OXwq8SfwQRsaMDmi) | [We Were Liars \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/3Gt1tacotfCTvbPDUIDcp2) | 1:04 | 2025-07-14 |  |
 | [We'll Be Young Forever](https://open.spotify.com/track/4QvLoOMi0F1mmYIIfgBbSP) | [Denmark + Winter](https://open.spotify.com/artist/3iieFb3WOWJ8tW57Gixt8y) | [We'll Be Young Forever](https://open.spotify.com/album/3xCs2RlWP7ewNn0wkH9bL5) | 4:16 | 2025-06-18 |  |
 | [What's The Rumpus?](https://open.spotify.com/track/6saGhA8ruqmwecXc5kNesC) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:26 | 2025-06-18 |  |
 | [When Falling Stars Fly](https://open.spotify.com/track/3Bx4DI0nsVgKJzc6rK8c7E) | [Denmark + Winter](https://open.spotify.com/artist/3iieFb3WOWJ8tW57Gixt8y) | [When Falling Stars Fly](https://open.spotify.com/album/41ZwyiuFOPEviQHao3bCft) | 4:34 | 2025-06-18 |  |

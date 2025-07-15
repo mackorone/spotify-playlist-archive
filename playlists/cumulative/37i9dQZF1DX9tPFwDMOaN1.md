@@ -2,15 +2,15 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: TWICE\)
+> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: BLACKPINK\)
 
-688 songs - 1 day 11 hr 50 min
+690 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+82 Pressin'](https://open.spotify.com/track/1gh9hWNAzDR46rn52uyoiV) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [+82 Pressin'](https://open.spotify.com/album/4BHK4cuYnptvcw0yOCzh8Y) | 3:22 | 2025-03-19 | 2025-06-10 |
 | [1 MINUTE](https://open.spotify.com/track/7ipFjqnvmBz8t6NBJwWiTS) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [TRUST ME](https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL) | 2:46 | 2024-02-26 | 2024-04-02 |
-| [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 | 2025-04-08 |  |
+| [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 | 2025-04-08 | 2025-07-15 |
 | [2 Baddies](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:50 | 2022-10-28 | 2023-02-01 |
 | [200](https://open.spotify.com/track/7rx73Y7UB1gy6bOLqJvsRe) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [200](https://open.spotify.com/album/1eiYSjWt0mkbZNJPUsZpeG) | 2:44 | 2024-05-18 | 2024-07-02 |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-07 | 2023-03-04 |
@@ -87,6 +87,7 @@
 | [BTBT](https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH) | 3:39 | 2022-10-12 | 2023-01-14 |
 | [BTBT](https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO) | 3:39 | 2022-06-08 | 2022-10-14 |
 | [BTG](https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [UNCUT GEM](https://open.spotify.com/album/08goLajOh9geJzsBalNa2n) | 3:10 | 2025-03-24 | 2025-06-03 |
+| [BTTF](https://open.spotify.com/track/4gkiXKGyp4PnHnOO70q8bK) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Go Back To The Future](https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM) | 3:00 | 2025-07-15 |  |
 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-16 | 2023-10-24 |
 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 | 2023-09-06 | 2023-10-11 |
 | [BUT YOU](https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm) | 3:32 | 2022-05-03 | 2022-07-14 |
@@ -318,6 +319,7 @@
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 | 2022-07-07 |
 | [ISTJ](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:05 | 2023-07-17 | 2023-09-07 |
 | [jellyfish](https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [jellyfish](https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC) | 2:37 | 2025-01-13 | 2025-03-15 |
+| [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 | 2025-07-15 |  |
 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 | 2022-02-28 | 2022-09-24 |
 | [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 | 2025-07-11 |  |
 | [JUMP](https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ALL IN](https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B) | 2:43 | 2023-06-16 | 2023-09-09 |
@@ -694,7 +696,7 @@
 | [Yummy Yummy Love](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Yummy Yummy Love](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) | 3:19 | 2022-01-17 | 2022-03-10 |
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-01-12 | 2022-07-16 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-13 | 2022-11-25 |
-| [깨어 \(Are You Alive\)](https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE25>](https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak) | 3:06 | 2025-05-20 |  |
+| [깨어 \(Are You Alive\)](https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE25>](https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak) | 3:06 | 2025-05-20 | 2025-07-15 |
 | [별별별 \(See that?\)](https://open.spotify.com/track/2Oc0j4x7HkDRVZq8JsgACT) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW) | 3:02 | 2024-08-19 | 2024-11-02 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

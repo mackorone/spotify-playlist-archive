@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > You're the paracetamol to my headache ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,664 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,691 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 56 | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q) | 3:12 |
 | 57 | [Mr Lover](https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Mr Lover](https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK) | 2:16 |
 | 58 | [Iweriwe Love](https://open.spotify.com/track/7dpMNEUoyyJVpI5w5BT53i) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Tears Of A Mad Man](https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F) | 2:36 |
-| 59 | [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:29 |
-| 60 | [TIME](https://open.spotify.com/track/4ilVnBX3jLEEdkRwRWEA4A) | [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [TIME](https://open.spotify.com/album/1U6WUqfS0r6nqlqWcwZ9vI) | 2:19 |
+| 59 | [TIME](https://open.spotify.com/track/4ilVnBX3jLEEdkRwRWEA4A) | [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [TIME](https://open.spotify.com/album/1U6WUqfS0r6nqlqWcwZ9vI) | 2:19 |
+| 60 | [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:29 |
 | 61 | [Well](https://open.spotify.com/track/5GJpGaP79iINgsXERqERlc) | [Nello MXL](https://open.spotify.com/artist/3tTgOZaxLpzUirK4aKQalD) | [Well](https://open.spotify.com/album/20YEEoY9fomFLV1BYOJ7gk) | 1:36 |
 | 62 | [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 |
 | 63 | [First Sight](https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [First Sight](https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg) | 3:06 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 69 | [Beautiful \(Remix\)](https://open.spotify.com/track/3qUMr8mq6eZ2z98gVmWAZQ) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Beautiful](https://open.spotify.com/album/5xqPZ5JUNnRaaNj1fhAFDv) | 3:37 |
 | 70 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 |
 | 71 | [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 |
-| 72 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 |
-| 73 | [WHAT HAVE YOU DONE](https://open.spotify.com/track/7s7kxVXd3l1vDHrBe8YtYC) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [WHEN NOBODY IS WATCHING](https://open.spotify.com/album/7wupiYO6dV8M4Ghs3dWljJ) | 2:38 |
+| 72 | [WHAT HAVE YOU DONE](https://open.spotify.com/track/7s7kxVXd3l1vDHrBe8YtYC) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [WHEN NOBODY IS WATCHING](https://open.spotify.com/album/7wupiYO6dV8M4Ghs3dWljJ) | 2:38 |
+| 73 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 |
 | 74 | [Falling In Love](https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Falling In Love](https://open.spotify.com/album/5PfyP5wekXVjrqkvhKaqF1) | 3:10 |
 | 75 | [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/track/6xXr6CVVI3Ts1UW53YQEdo) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/album/6FI7fgpszgy8ZZODsis6Pi) | 2:43 |
 | 76 | [JAILER \(feat\. Victony\)](https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [JAILER \(feat\. Victony\)](https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et) | 3:55 |

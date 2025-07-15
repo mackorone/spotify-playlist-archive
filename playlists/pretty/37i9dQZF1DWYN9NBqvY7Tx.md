@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,585 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,716 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 79 | [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 |
 | 80 | [on our own](https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [on our own](https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf) | 2:58 |
 | 81 | [ONE FOR YOU](https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [ONE FOR YOU](https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd) | 2:32 |
-| 82 | [Chaos Theory](https://open.spotify.com/track/2gOrSnyYKsJWMrOH9giTkT) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Chaos Theory](https://open.spotify.com/album/6XCOMsUfSGmRnQZBYIL48z) | 2:37 |
-| 83 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 |
+| 82 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 |
+| 83 | [Chaos Theory](https://open.spotify.com/track/2gOrSnyYKsJWMrOH9giTkT) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Chaos Theory](https://open.spotify.com/album/6XCOMsUfSGmRnQZBYIL48z) | 2:37 |
 | 84 | [Postman](https://open.spotify.com/track/1n6bdCMqokxlX0f0SduzF3) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Postman](https://open.spotify.com/album/2GqjKZmIP0r16LoAHt3CyP) | 3:11 |
 | 85 | [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 |
 | 86 | [Forever \(feat\. Malou & Yuna\) \- MORTEN Remix](https://open.spotify.com/track/3UlFalaRMYcqcYu6jRLDu1) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\) \[Remixes\]](https://open.spotify.com/album/1BEpQM7HY2ouN3VwxvKVU0) | 4:11 |

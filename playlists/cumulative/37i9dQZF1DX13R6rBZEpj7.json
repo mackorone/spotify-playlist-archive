@@ -1869,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Every Night's A Party",
+        "url": "https://open.spotify.com/album/7EeaCOmFlLVyCL3e87zzxa"
+      },
+      "artists": [
+        {
+          "name": "Firewire",
+          "url": "https://open.spotify.com/artist/2iOcMOLs9f1iaxxDVYgqcp"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134652,
+      "name": "Every Night's A Party",
+      "url": "https://open.spotify.com/track/3KV8k1LcSn37OT5DVNSPKk"
+    },
+    {
+      "album": {
         "name": "Eww/Losing",
         "url": "https://open.spotify.com/album/14t4zR0Hx6ez04yQuAK4U3"
       },
@@ -4734,7 +4752,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 227555,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"

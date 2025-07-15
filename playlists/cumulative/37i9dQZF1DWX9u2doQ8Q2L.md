@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,646 songs - 4 day 3 hr 28 min
+1,647 songs - 4 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1415,6 +1415,7 @@
 | [マニマニ](https://open.spotify.com/track/3Cw21i1oJAIsywtqTaFJGC) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [READ 02](https://open.spotify.com/album/2cQKHnC3OPaW1r9FI3t11n) | 3:40 | 2024-02-29 | 2024-03-06 |
 | [マヨイガ \- PHIL REWORK](https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [マヨイガ \(PHIL REWORK\)](https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR) | 4:07 | 2023-02-23 | 2023-05-03 |
 | [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 | 2023-07-04 | 2024-05-17 |
+| [ミスター・ムーンライト](https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミスター・ムーンライト](https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X) | 3:22 | 2025-07-10 |  |
 | [ミッドナイトガール](https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミッドナイトガール](https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw) | 3:22 | 2024-01-16 | 2024-12-11 |
 | [ミッドナイト・リフレクション](https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ミッドナイト・リフレクション](https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq) | 3:41 | 2025-02-05 |  |
 | [メガフォン](https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [メガフォン](https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1) | 2:38 | 2023-02-28 | 2023-05-17 |
@@ -1458,7 +1459,7 @@
 | [催眠](https://open.spotify.com/track/1190JawXRFRo3rBpwtbw0d) | [YAYYAY](https://open.spotify.com/artist/7zjcPyxB51lqnmowM6xsKX) | [NO EVIL](https://open.spotify.com/album/2Im66puWUtEb6JUALvCTpT) | 4:11 | 2023-01-17 | 2023-01-25 |
 | [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 | 2025-04-30 |  |
 | [僕らの大移動](https://open.spotify.com/track/7qSocdyfuHkk56HZeen5XR) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [僕らの大移動](https://open.spotify.com/album/5IGdu1jBdM5CN1vRVOdHPI) | 4:25 | 2022-08-09 | 2022-10-05 |
-| [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 | 2025-06-11 |  |
+| [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 | 2025-06-11 | 2025-07-15 |
 | [優しい手 \~ Gentle Hands](https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [優しい手 \~ Gentle Hands](https://open.spotify.com/album/411gDNgCzrBfYYiQgxMdu3) | 4:12 | 2022-07-26 | 2022-07-29 |
 | [元の木阿弥](https://open.spotify.com/track/4Aym5kXxDox95aNFLRJ52N) | [こつぶ](https://open.spotify.com/artist/2gt2b26a7zIzTXP1TQJgW7) | [Patchwork](https://open.spotify.com/album/1nyBVvlTyvmkg6zg3bOZ5m) | 2:38 | 2022-10-11 | 2022-10-21 |
 | [先へ](https://open.spotify.com/track/5qZ8VSgbxIS2lAuUNOwiHP) | [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [先へ](https://open.spotify.com/album/1b0VsTDMtv7f0E6rZgltXo) | 4:10 | 2023-06-13 | 2023-06-15 |

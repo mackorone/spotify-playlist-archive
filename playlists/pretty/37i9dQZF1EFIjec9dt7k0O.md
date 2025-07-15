@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,904 likes - 208 songs - 12 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,905 likes - 208 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 54 | [Night Crawling \(feat\. Billy Idol\)](https://open.spotify.com/track/4U34WsyOvppOMnRfq7DuOy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:09 |
 | 55 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 |
 | 56 | [Too Cool To Die](https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:24 |
-| 57 | [Under the Graveyard](https://open.spotify.com/track/0LagWpYHMaQjbCeAIoOKVg) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 4:57 |
-| 58 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 57 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 58 | [Under the Graveyard](https://open.spotify.com/track/0LagWpYHMaQjbCeAIoOKVg) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 4:57 |
 | 59 | [Shadow Of A Man](https://open.spotify.com/track/6OC87jHRiovNPEUrgaqFSu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:19 |
 | 60 | [Kids Again](https://open.spotify.com/track/1ABS9lKaZ1uXkXCqr9zFO7) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/0mXuESYo2Gd1quvVflixyi) | 3:27 |
 | 61 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/7CR5qGZ2eJwYrFQ8UmHuaR) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 5:01 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 207 | [Children of the Ocean](https://open.spotify.com/track/67GmvvxZlw3J7CvqNNcr2F) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:09 |
 | 208 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 
-Snapshot ID: `Ab2slAAAAAD+3yF03/9RPtisYen2ZgbN`
+Snapshot ID: `Ab2ycAAAAAAxpyd2IRg+fn7GtsRlX1uj`

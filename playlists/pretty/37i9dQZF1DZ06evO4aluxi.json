@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18556,
+  "num_followers": 18560,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAUscvGL0qjMcXdrRAVERED",
+  "snapshot_id": "aHL3AAAAAABc3S0ddtFk/5VFwfOtHbwN",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Of Ages...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Rock Of Ages",
-      "url": "https://open.spotify.com/track/2wfog0JEHVGS3jMqFWj3xO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/1MC8eElzC5I5XbuWrOYuT8"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 300493,
       "name": "Come Ye Sinners, Poor and Needy",
       "url": "https://open.spotify.com/track/1hHJiFSC2Jy6tlz0VM1QhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Of Ages...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Rock Of Ages",
+      "url": "https://open.spotify.com/track/2wfog0JEHVGS3jMqFWj3xO"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Of Ages...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Joyful, Joyful, We Adore Thee",
-      "url": "https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lifesongs: A Celebration of the First 20 Years",
         "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 262031,
       "name": "Scars In Heaven",
       "url": "https://open.spotify.com/track/39Ngl6IuVlJLEZPUIrdkOo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Of Ages...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Joyful, Joyful, We Adore Thee",
+      "url": "https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 252333,
-      "name": "Raining On The Inside",
-      "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
+      "duration_ms": 203506,
+      "name": "Arms Of Love",
+      "url": "https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0"
     },
     {
       "added_at": null,
@@ -747,38 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Galileo",
-      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Arms Of Love",
-      "url": "https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Father's Eyes",
         "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
       },
@@ -795,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "Raining On The Inside",
+      "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legacy...Hymns & Faith",
         "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 214760,
       "name": "My Jesus, I Love Thee",
       "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
     },
     {
       "added_at": null,

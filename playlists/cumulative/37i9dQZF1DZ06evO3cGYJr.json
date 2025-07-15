@@ -42,6 +42,24 @@
     {
       "album": {
         "name": "1DK (VIP)",
+        "url": "https://open.spotify.com/album/6GlPv4lRRz1puLwtRLmxXw"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180001,
+      "name": "1DK (VIP)",
+      "url": "https://open.spotify.com/track/2k7vfrGY1qL9RBbqumtDfG"
+    },
+    {
+      "album": {
+        "name": "1DK (VIP)",
         "url": "https://open.spotify.com/album/7EpNxupjnO9Dl9kFF7PSm8"
       },
       "artists": [
@@ -52,7 +70,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 180001,
       "name": "1DK - VIP",
       "url": "https://open.spotify.com/track/7yfSOtlbjbS2FYLu8oELVD"
@@ -876,7 +894,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 170500,
       "name": "Fragments of your presence",
       "url": "https://open.spotify.com/track/1dU3LM9sT5brDXG8C7aXZA"
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 164343,
       "name": "Out of stock (Do what you gotta!)",
       "url": "https://open.spotify.com/track/5uEPsTNTphBctaYyTPGeQm"

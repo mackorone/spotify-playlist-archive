@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,330 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,605 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 40 | [Big God](https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson](https://open.spotify.com/artist/7dbUWZryjCvpQ4g1VdUsXi) | [Chapter Two](https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm) | 10:57 |
 | 41 | [Take It All Back](https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt) | 3:13 |
 | 42 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 |
-| 43 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
-| 44 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
+| 43 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
+| 44 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 | 45 | [Imela \(feat\. Enitan Adaba\)](https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Enitan Adaba](https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI) | [The Son of God \(& Imela\)](https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn) | 5:54 |
 | 46 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
 | 47 | [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 |
 | 48 | [Your love](https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love](https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh) | 3:53 |
-| 49 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 |
-| 50 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 |
+| 49 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 |
+| 50 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 |
 
 Snapshot ID: `aHBUVAAAAAADGDHXVsDnBvmeKliVmFtj`

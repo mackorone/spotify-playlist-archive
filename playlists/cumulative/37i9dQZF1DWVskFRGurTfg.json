@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "ALAMBRE P\u00faA",
+        "url": "https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146017,
+      "name": "ALAMBRE P\u00faA",
+      "url": "https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG"
+    },
+    {
+      "album": {
         "name": "Alegr\u00eda",
         "url": "https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq"
       },
@@ -15904,7 +15922,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 156470,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"

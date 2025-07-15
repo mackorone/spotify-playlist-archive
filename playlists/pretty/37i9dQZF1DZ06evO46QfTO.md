@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,523 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,524 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 25 | [If She Ever Leaves Me](https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:13 |
 | 26 | [lemonade](https://open.spotify.com/track/6qF2SapjKCkp3ZOtzh3bBr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:58 |
 | 27 | [To Hell & Back](https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:15 |
-| 28 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 |
-| 29 | [Bummin' Cigarettes](https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:06 |
+| 28 | [Bummin' Cigarettes](https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:06 |
+| 29 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 |
 | 30 | [cry in the car](https://open.spotify.com/track/4Vg19xz2M0y5ArWQZTmIuf) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:47 |
-| 31 | [I'll Be The Moon](https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:30 |
-| 32 | [Welcome To The End](https://open.spotify.com/track/1ww6Ta6idUZH2sYgsZkYeA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Welcome To The End](https://open.spotify.com/album/45vKJFTv0dlITdxk1aN4q7) | 2:15 |
+| 31 | [Welcome To The End](https://open.spotify.com/track/1ww6Ta6idUZH2sYgsZkYeA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Welcome To The End](https://open.spotify.com/album/45vKJFTv0dlITdxk1aN4q7) | 2:15 |
+| 32 | [I'll Be The Moon](https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:30 |
 | 33 | [Redesigning Women](https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:54 |
 | 34 | [dreamsicle](https://open.spotify.com/track/678VPuQWG7C8dIKd0J0y5T) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:48 |
 | 35 | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 49 | [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 |
 | 50 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 |
 
-Snapshot ID: `aHGlgAAAAADFzdn8LduAot8sCxna1poD`
+Snapshot ID: `aHL3AAAAAACJEVzWNpJ63ae8nSYfwcoA`

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11582,
+  "num_followers": 11588,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,26 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
+        "name": "He's next to you, instead of me",
+        "url": "https://open.spotify.com/album/65frU52z7ggEmVQZyYz26n"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "duration_ms": 172350,
+      "name": "He's next to you, instead of me",
+      "url": "https://open.spotify.com/track/25U5ea5BGlFK5318WduEzI"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 240840,
       "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
       "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
-        "name": "He's next to you, instead of me",
-        "url": "https://open.spotify.com/album/65frU52z7ggEmVQZyYz26n"
-      },
-      "artists": [
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
-        }
-      ],
-      "duration_ms": 172350,
-      "name": "He's next to you, instead of me",
-      "url": "https://open.spotify.com/track/25U5ea5BGlFK5318WduEzI"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -659,26 +659,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Lovey Dovey",
-        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Lovey Dovey (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "After a few summers (My love X TOIL, Gist)",
         "url": "https://open.spotify.com/album/19acTbCpIgNX3KtBSzyQJA"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 177466,
       "name": "After a few summers (My love X TOIL, Gist)",
       "url": "https://open.spotify.com/track/2883Ewc2bLnXl77u6sANcP"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Lovey Dovey (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -819,30 +819,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
-      },
-      "artists": [
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 229575,
-      "name": "Time limit (Feat. Leellamarz, Loco)",
-      "url": "https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "TOYSTORY3",
         "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 234306,
       "name": "Never Ending Story (Feat. Dynamicduo)",
       "url": "https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 229575,
+      "name": "Time limit (Feat. Leellamarz, Loco)",
+      "url": "https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0"
     },
     {
       "added_at": "2025-04-09 05:00:26",

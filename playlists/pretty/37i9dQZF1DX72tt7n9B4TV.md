@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,807 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,810 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 19 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 |
 | 20 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 |
 | 21 | [Overcome](https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:34 |
-| 22 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
-| 23 | [Man Made of Meat](https://open.spotify.com/track/5gR6gTGOGsg9zcR7JhvwQz) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 3:09 |
+| 22 | [Man Made of Meat](https://open.spotify.com/track/5gR6gTGOGsg9zcR7JhvwQz) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 3:09 |
+| 23 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
 | 24 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 |
 | 25 | [Aerodynamic](https://open.spotify.com/track/3vPJI4YMeXCypIbDwka9gG) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/3koVdFrXznL2PQ8WxTYjt7) | 4:46 |
 | 26 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 48 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 |
 | 49 | [Cutthroat](https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP) | 3:14 |
 | 50 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 |
-| 51 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
-| 52 | [Deadstick](https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Deadstick](https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT) | 3:33 |
-| 53 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/64Js3amhV3Pa7ho3Io1PM1) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/6GTggBhgEjHs2pak8yTc7q) | 3:30 |
-| 54 | [Crystal Roses](https://open.spotify.com/track/24sCYoOyqR880pCFfQsika) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:19 |
+| 51 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/64Js3amhV3Pa7ho3Io1PM1) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/6GTggBhgEjHs2pak8yTc7q) | 3:30 |
+| 52 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
+| 53 | [Crystal Roses](https://open.spotify.com/track/24sCYoOyqR880pCFfQsika) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:19 |
+| 54 | [Deadstick](https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Deadstick](https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT) | 3:33 |
 | 55 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
 | 56 | [The Scene](https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Raspberry Moon](https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ) | 2:21 |
 | 57 | [Vertigo](https://open.spotify.com/track/2jzwJSLX8leUQVxwjAtODn) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN) | 2:28 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 77 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 78 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
 | 79 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 |
-| 80 | [even as if never//](https://open.spotify.com/track/2nNhgnteeWCDPYM4Q9RxHX) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [rebirth // renaissance](https://open.spotify.com/album/2HtSLBvwOWI6klIbdglALL) | 2:52 |
+| 80 | [I'll Wait](https://open.spotify.com/track/0YSeLT9HdsmHsCcmuYDcky) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [USA](https://open.spotify.com/album/3xyWW80QH0O51iZDT3MLMM) | 2:52 |
 
 Snapshot ID: `aFM1pgAAAACoDSn5niKEZtGepE6yrr95`

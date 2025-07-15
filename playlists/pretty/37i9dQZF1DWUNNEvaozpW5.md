@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe y Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,836 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,811 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 79 | [El Día Que Tú Te Marches](https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [El Día Que Tú Te Marches](https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC) | 3:28 |
 | 80 | [Gigante](https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Gigante](https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup) | 4:12 |
 | 81 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 |
-| 82 | [20 de abril \- En directo 1997](https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Nos Vemos En Los Bares](https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz) | 3:57 |
-| 83 | [Mediterraneo](https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Mediterránaeo](https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o) | 3:53 |
+| 82 | [Mediterraneo](https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Mediterránaeo](https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o) | 3:53 |
+| 83 | [20 de abril \- En directo 1997](https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Nos Vemos En Los Bares](https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz) | 3:57 |
 | 84 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
 | 85 | [Tu frialdad](https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un Encuentro](https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL) | 4:23 |
 | 86 | [El imperio contraataca](https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf) | [LOS NIKIS](https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS) | [Marines A Pleno Sol](https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,398 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,484 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 9 | [Three O'Clock In The Morning](https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:33 |
 | 10 | [The High And The Mighty](https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Till](https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P) | 2:41 |
 | 11 | [There Will Never Be Another You](https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 2:51 |
-| 12 | [Once In A While](https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music, Martinis And Memories](https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA) | 3:14 |
-| 13 | [I Will Wait For You \- From "The Umbrellas Of Cherbourg"](https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5) | [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Film Festival](https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV) | 2:21 |
+| 12 | [I Will Wait For You \- From "The Umbrellas Of Cherbourg"](https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5) | [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Film Festival](https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV) | 2:21 |
+| 13 | [Once In A While](https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music, Martinis And Memories](https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA) | 3:14 |
 | 14 | [Moonglow and Theme from Picnic](https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:44 |
 | 15 | [Georgy Girl](https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz) | [Ronnie Aldrich and his 2 pianos](https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT), [London Festival Orchestra](https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9) | [Two Pianos Today](https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY) | 3:08 |
 | 16 | [Poor Butterfly](https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:04 |

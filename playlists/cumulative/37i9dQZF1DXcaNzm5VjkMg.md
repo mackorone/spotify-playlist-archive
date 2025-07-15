@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-173 songs - 11 hr 39 min
+176 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Hanya Untuk\-Mu](https://open.spotify.com/track/6nvGrb4m89DNunTWOVHtaI) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [3](https://open.spotify.com/album/5lS0BsCqEGtkCeU9Hyfz68) | 3:30 | 2024-11-25 |  |
 | [Hari Bersamanya](https://open.spotify.com/track/1nfOP7xNHeFSPOlziXswJc) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Berlayar](https://open.spotify.com/album/2yDNCNEbfaE2GnCSkY7yba) | 3:52 | 2023-02-03 |  |
 | [Hari ini,Esok dan Seterusnya/HES](https://open.spotify.com/track/18BpGOOxfFPKrjbdG9HlPT) | [Nirina Zubir](https://open.spotify.com/artist/5dN7FWc0YwXTR24XAg2hZ3) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:28 | 2023-02-03 |  |
+| [Hingga Ujung Waktu](https://open.spotify.com/track/6vqPXMmtwipyeg4pkdQ2S1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [07 Des](https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI) | 4:26 | 2025-07-14 |  |
 | [Home](https://open.spotify.com/track/1P9QCD6hXnJeu4y4psiqVS) | [D'Cinnamons](https://open.spotify.com/artist/7mW0FqPhqBN7ixFImDMEYA) | [Home](https://open.spotify.com/album/4SaQ2MRmyFhNJMMzvRjIdu) | 4:12 | 2023-02-03 | 2023-04-18 |
 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 | 2025-01-13 |  |
 | [I Can't Wait x Tak Bisa Bersama](https://open.spotify.com/track/35o9kIkPKgolXQFxOcupPf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Vidi Aldiano](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [I Can't Wait x Tak Bisa Bersama](https://open.spotify.com/album/3MmEdPluU152jAt54TAuKa) | 3:30 | 2023-03-31 | 2023-05-06 |
@@ -136,6 +137,7 @@
 | [Remaja](https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:38 | 2023-02-03 | 2024-04-19 |
 | [Rest of My Life](https://open.spotify.com/track/299xFG2FLCNNM6JVBTB2s7) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Rest of My Life](https://open.spotify.com/album/1C0qOGb1Yo9r57b150NAXT) | 4:26 | 2023-02-03 | 2024-04-19 |
 | [Rest of My Life](https://open.spotify.com/track/7lGmjoVSl4aLVXwRMx45Ym) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Rest of My Life](https://open.spotify.com/album/4JVZIYazqIivp9laAekQGI) | 4:26 | 2024-03-05 | 2024-09-28 |
+| [Rona Merah Langit](https://open.spotify.com/track/2qLERqFBztNjBKuZNMaqQK) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Pengantar Purifikasi Pikir](https://open.spotify.com/album/3pCz8FhvLwuXLgkJheTKQk) | 5:35 | 2025-07-14 |  |
 | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/track/3XHiujhh7sB8tTCwtI6YEI) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/album/4e35vUR8z4q56iY2xgvbNA) | 3:58 | 2025-06-19 |  |
 | [Saat Bahagia](https://open.spotify.com/track/11HoyxwXVwWq6lj2Rv37CH) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [1000 Kisah Satu Hati](https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA) | 4:09 | 2023-02-03 |  |
 | [Sampai Akhir \(feat\. DuMa\)](https://open.spotify.com/track/1apPmtDyQfYTtsMdfziIdN) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Duma](https://open.spotify.com/artist/2cr8btrYdgBNUPhdskgSPO) | [Judika Mencari Cinta](https://open.spotify.com/album/5ePas69moZqjAW6RZU3jhX) | 3:25 | 2025-02-13 |  |
@@ -177,6 +179,7 @@
 | [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 | 2025-01-07 |  |
 | [Waking Up Together With You](https://open.spotify.com/track/6WsG550j67Aj29z0iel7lo) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Waking Up Together With You](https://open.spotify.com/album/6n4YU8iRm07O7lR1zQZypN) | 2:58 | 2024-08-26 |  |
 | [Wanitaku](https://open.spotify.com/track/7qUeHiPccGnbcfweVqrgr0) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Keterkaitan Keterikatan](https://open.spotify.com/album/5pkOZs3oUgFRBo7mbK4CUp) | 4:18 | 2025-05-19 |  |
+| [Wanting You Is Not a Crime \- Acoustic](https://open.spotify.com/track/2Ly9Woxy0J5MdZMzds4JSi) | [Mario A](https://open.spotify.com/artist/0pK3DbYFYBuw9mBYzPcPj6) | [Grey Simplicity](https://open.spotify.com/album/5FATC8sduBjf9IG3r4b0dh) | 3:46 | 2025-07-15 |  |
 | [WILL YOU?](https://open.spotify.com/track/5VsvYVSiMIAhZ2O42qBxnS) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [WILL YOU?](https://open.spotify.com/album/16e8wwkPqs52FwNEyD0wV5) | 3:42 | 2023-02-03 | 2024-11-26 |
 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-03-26 |  |
 | [You're Mine](https://open.spotify.com/track/6tl50DD3CKqCIClxLeUDO0) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [You're Mine](https://open.spotify.com/album/08mtNNpSh6R98NYDxlrWm8) | 4:08 | 2023-02-03 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 69882,
+  "num_followers": 69899,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Instant Replay (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
-      },
-      "artists": [
-        {
-          "name": "Dan Hartman",
-          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
-        }
-      ],
-      "duration_ms": 320480,
-      "name": "Instant Replay",
-      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Step II",
         "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 355263,
       "name": "Dance (Disco Heat)",
       "url": "https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Instant Replay (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
+      },
+      "artists": [
+        {
+          "name": "Dan Hartman",
+          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
+        }
+      ],
+      "duration_ms": 320480,
+      "name": "Instant Replay",
+      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295125,
-      "name": "Bad Girls - 12\" Version",
-      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Break Out (1983 Version - Expanded Edition)",
         "url": "https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 366360,
       "name": "Automatic - 12\" Special Remix",
       "url": "https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295125,
+      "name": "Bad Girls - 12\" Version",
+      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Love is Back",
-        "url": "https://open.spotify.com/album/7cfrgUXpftlEhRNukBA3iR"
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
       },
       "artists": [
         {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
         }
       ],
-      "duration_ms": 241000,
-      "name": "I'm So Glad That I'm a Woman",
-      "url": "https://open.spotify.com/track/3GUvckJgUl90ATgDkfbJn7"
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
     }
   ],
   "unique_name": "Disco Decadence",

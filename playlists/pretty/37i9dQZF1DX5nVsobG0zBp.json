@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto:Mizzy Miles, Slow J, Gson",
-  "num_followers": 76481,
+  "num_followers": 76511,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-04-11 14:56:02",
       "album": {
+        "name": "Desconfinamento",
+        "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "duration_ms": 186139,
+      "name": "Desconfinamento",
+      "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
+    },
+    {
+      "added_at": "2025-04-11 14:56:02",
+      "album": {
         "name": "LONDON LP",
         "url": "https://open.spotify.com/album/7GbrLzZ9xJ9mhwk6MO1mWf"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 156600,
       "name": "0044",
       "url": "https://open.spotify.com/track/7cfIbKCASPe9FDhYjaQnDd"
-    },
-    {
-      "added_at": "2025-04-11 14:56:02",
-      "album": {
-        "name": "Desconfinamento",
-        "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        }
-      ],
-      "duration_ms": 186139,
-      "name": "Desconfinamento",
-      "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
     },
     {
       "added_at": "2025-04-11 14:56:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,285 likes - 100 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,300 likes - 100 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 84 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 |
 | 85 | [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 |
 | 86 | [Silver Cloud](https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY) | [La Düsseldorf](https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0) | [La Düsseldorf](https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ) | 8:02 |
-| 87 | [Run\-a\-Round](https://open.spotify.com/track/4PCJV3YbgMwrTrhKsk12bN) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO), [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 9:41 |
-| 88 | [Sunrise, Sunset](https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 6:54 |
-| 89 | [Autoroute](https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja) | [Limousine](https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh) | [L'été suivant...](https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM) | 6:27 |
-| 90 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
-| 91 | [Magic Kraut](https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 3:43 |
+| 87 | [Magic Kraut](https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 3:43 |
+| 88 | [Run\-a\-Round](https://open.spotify.com/track/4PCJV3YbgMwrTrhKsk12bN) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO), [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 9:41 |
+| 89 | [Sunrise, Sunset](https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 6:54 |
+| 90 | [Autoroute](https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja) | [Limousine](https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh) | [L'été suivant...](https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM) | 6:27 |
+| 91 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
 | 92 | [Blood\-Drums](https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Blood\-Drums](https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn) | 8:29 |
 | 93 | [Nieve Afuera](https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Nieve Afuera](https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo) | 4:37 |
 | 94 | [Otto](https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Radar, Vol\. 1](https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z) | 5:00 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 96 | [Himmelblau](https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK) | [Riechmann](https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP) | [Wunderbar](https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X) | 8:40 |
 | 97 | [Tonband Laufspur](https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:32 |
 | 98 | [Ship \- EP Version](https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Saya](https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv) | [Ship](https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk) | 4:06 |
-| 99 | [Roll Call](https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Lost Worker Bee \- EP](https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko) | 6:27 |
-| 100 | [Be Sure To Loop](https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [Feather Float](https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi) | 7:45 |
+| 99 | [Be Sure To Loop](https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [Feather Float](https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi) | 7:45 |
+| 100 | [Roll Call](https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Lost Worker Bee \- EP](https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko) | 6:27 |
 
 Snapshot ID: `Z3xDVwAAAAAUg1XyoZh7QbHKHztU1bLV`

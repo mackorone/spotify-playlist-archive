@@ -4,7 +4,7 @@
 
 > Cover: 7ari & Ramoon
 
-407 songs - 21 hr 32 min
+409 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [BGHAWNI](https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:17 | 2023-11-24 | 2024-06-14 |
 | [Bilal](https://open.spotify.com/track/78yskfJqcpFfRFDTyo3XVN) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Bilal](https://open.spotify.com/album/4D6AoXPlCkQX18mJLtzVJD) | 3:12 | 2024-10-02 | 2024-10-27 |
 | [Bin o Bin](https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Atmosphere](https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG) | 2:31 | 2023-04-07 | 2024-01-26 |
-| [BLACKLIST](https://open.spotify.com/track/7iFPpFyRIErmhqslTbHlCl) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [BLACKLIST](https://open.spotify.com/album/2wQW5jfshfC2TidcqSGYkr) | 2:52 | 2025-06-27 |  |
+| [BLACKLIST](https://open.spotify.com/track/7iFPpFyRIErmhqslTbHlCl) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [BLACKLIST](https://open.spotify.com/album/2wQW5jfshfC2TidcqSGYkr) | 2:52 | 2025-06-27 | 2025-07-15 |
 | [Blood](https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Blood](https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya) | 4:10 | 2022-12-31 | 2023-03-16 |
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-08-01 | 2024-09-18 |
 | [BLUE LOVE](https://open.spotify.com/track/7Djd9Ct8LmEhshieSejXPV) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [ARABIA / BLUE LOVE](https://open.spotify.com/album/0aFUI7XlqD1IQHjJ9P8MBl) | 3:07 | 2024-02-23 | 2024-05-18 |
@@ -134,6 +134,7 @@
 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2024-01-03 | 2024-07-13 |
 | [Free Mami](https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [NAB FAKE](https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L) | [Free Mami](https://open.spotify.com/album/41ObiBc5qr2G0WGgxSIo2k) | 4:00 | 2023-08-30 | 2024-06-19 |
 | [FTA](https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [FTA](https://open.spotify.com/album/1u5Bd87EVRAabhPh4IkhnO) | 3:16 | 2023-05-27 | 2023-12-16 |
+| [Fundo](https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Fundo](https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI) | 3:41 | 2025-07-14 |  |
 | [GALÈRE](https://open.spotify.com/track/5CCjNFx5hkx3GfRdux4DDQ) | [Nouvo](https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [GALÈRE](https://open.spotify.com/album/3wmwLmLOPGjhyRmPPDJ5Hd) | 3:17 | 2025-02-10 |  |
 | [GEL](https://open.spotify.com/track/58dy49Z54lreezffBIugSd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [GEL](https://open.spotify.com/album/4clLEBezykev9vyaAlqrbB) | 2:51 | 2022-11-15 | 2022-11-24 |
 | [Gelato](https://open.spotify.com/track/2mb3iYJxuKBkRNSit6taT5) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Gelato](https://open.spotify.com/album/4GLsm6Gs0DcqMYDrleYbOo) | 2:58 | 2024-12-19 | 2025-06-28 |
@@ -188,6 +189,7 @@
 | [Kolla Sa3a](https://open.spotify.com/track/1oQadPm2panJK4zXWmeqYG) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Kolla Sa3a](https://open.spotify.com/album/785SSEHwMU8CaP8qhR5UfV) | 2:31 | 2025-02-03 |  |
 | [KOUDOUROU](https://open.spotify.com/track/4Wx54faWzcpENP6oEST3Fv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:22 | 2025-06-27 |  |
 | [KOUN RAJEL](https://open.spotify.com/track/4SxZyjZiFdlSW5YTUhMU7t) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [KOUN RAJEL](https://open.spotify.com/album/0oRaXdhsMKLj3h0BPQBuxK) | 3:23 | 2022-11-25 | 2023-02-14 |
+| [KTER MN 10](https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [KTER MN 10](https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT) | 2:24 | 2025-07-14 |  |
 | [L'appel](https://open.spotify.com/track/7ckLKPOdCIcW0ZixYYw91a) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:27 | 2022-11-14 | 2023-01-05 |
 | [L7ara](https://open.spotify.com/track/18svODSSAYC1DeOpn20xYT) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [L7ara](https://open.spotify.com/album/3tKdlwdmM8EfhPGNfQZzze) | 3:00 | 2024-05-10 | 2024-05-18 |
 | [L7ARB \- Spotify Singles](https://open.spotify.com/track/5GNQQVf3hHLtSp4XP143Xa) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [L7ARB \(Spotify Singles\)](https://open.spotify.com/album/0hrLNERzqFfgqVZbkS9Zmk) | 4:02 | 2023-12-07 | 2024-02-23 |
@@ -253,7 +255,7 @@
 | [N13](https://open.spotify.com/track/0fekY543uGW1pGoSLuyvTr) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [N13](https://open.spotify.com/album/0plsfXFZk3RNyHMWBimiWS) | 2:39 | 2023-03-15 | 2023-05-26 |
 | [Nadi Canadi](https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Nadi Canadi](https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE) | 3:41 | 2023-05-08 | 2023-06-23 |
 | [Naruto](https://open.spotify.com/track/6wpqdzIjSk5Fr2yM3znPjl) | [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Naruto](https://open.spotify.com/album/0UIrZk7WlwHmPDTojx6me5) | 2:49 | 2024-11-17 | 2024-11-29 |
-| [NDAM!](https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [NDAM!](https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m) | 3:23 | 2024-10-23 |  |
+| [NDAM!](https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [NDAM!](https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m) | 3:23 | 2024-10-23 | 2025-07-15 |
 | [Ndokk\-ha](https://open.spotify.com/track/3dovliAqBRD4CIhCD2uYyH) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:04 | 2022-11-14 | 2022-11-18 |
 | [Neshba](https://open.spotify.com/track/14ZF0QXfMjJ1DyoL7umYoG) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [NPN \(Nous par Nous\)](https://open.spotify.com/album/6MNZedNSrzWCscvqZaLFQ3) | 3:14 | 2024-06-14 | 2024-06-28 |
 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 | 2023-09-08 | 2025-04-18 |

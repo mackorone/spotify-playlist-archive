@@ -3871,6 +3871,28 @@
     },
     {
       "album": {
+        "name": "Heartbeats (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/6lnNhlD38nS7SPeywQeIKR"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Heartbeats - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/3Dc5AOVwCpI5KBJArPgsqx"
+    },
+    {
+      "album": {
         "name": "Hide and Seek",
         "url": "https://open.spotify.com/album/21m2KLJDnoh3CLvlSTipTM"
       },
@@ -5412,7 +5434,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 359956,
       "name": "Lightshine",
       "url": "https://open.spotify.com/track/1yTW421kLGkPZC4FK4uVAy"

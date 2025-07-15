@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,379 likes - 100 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,424 likes - 100 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 43 | [My Foolish Heart](https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Kaleidoscope](https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z) | 3:29 |
 | 44 | [Joshua Fit De Battle Of Jericho](https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 8:04 |
 | 45 | [Crying](https://open.spotify.com/track/1UeLNAJiklqa9RGRvtVqUx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Love Hurts](https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve) | 5:34 |
-| 46 | [The Heat of the Day](https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Imaginary Day](https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf) | 9:44 |
-| 47 | [Moon River](https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 6:26 |
+| 46 | [Moon River](https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 6:26 |
+| 47 | [The Heat of the Day](https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Imaginary Day](https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf) | 9:44 |
 | 48 | [Softly, As In A Morning Sunrise](https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH) | [Emily Remler](https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ) | [East To Wes](https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN) | 8:10 |
 | 49 | [Jean De Fleur \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Idle Moments](https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG) | 6:49 |
 | 50 | [Night And Day](https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:44 |
 | 51 | [Minor Blues](https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [The Next Step](https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb) | 5:54 |
 | 52 | [Angel Face](https://open.spotify.com/track/2gePqIl6YIoKbDlATyIYgN) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Intermodulation](https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS) | 6:34 |
-| 53 | [You Don't Know What Love Is](https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 4:46 |
-| 54 | [Samba Em Prelùdio](https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL) | [Homes](https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr) | 7:11 |
+| 53 | [Samba Em Prelùdio](https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL) | [Homes](https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr) | 7:11 |
+| 54 | [You Don't Know What Love Is](https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 4:46 |
 | 55 | [In A Sentimental Mood](https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH) | [Emily Remler](https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ) | [Firefly](https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je) | 7:49 |
 | 56 | [I Found a New Baby](https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh) | [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6) | [The Genius Of The Electric Guitar](https://open.spotify.com/album/4QIxeBZfEtZpUWFbOrMrjV) | 2:54 |
 | 57 | [Misty \- 2001 Remaster](https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q), [Malcolm Addey](https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH) | [The Sound Of Johnny Smith](https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh) | 5:28 |

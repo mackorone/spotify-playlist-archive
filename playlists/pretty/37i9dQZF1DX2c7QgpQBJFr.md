@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Sissi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,953 likes - 110 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,956 likes - 110 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 4 | [Estate in Strada](https://open.spotify.com/track/0ySdxisdEZHRYaU6P0stI3) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [ESTATE IN STRADA](https://open.spotify.com/album/7odOarkNiBB4Xu5v9szB5P) | 2:19 |
 | 5 | [SCUSE](https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SCUSE](https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC) | 2:04 |
 | 6 | [TORNADO](https://open.spotify.com/track/5NutRZ0wwBfnzL23dvHEHu) | [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [EXIT](https://open.spotify.com/album/0SrOiBcjZZwTNj6hAe4CYr) | 2:30 |
-| 7 | [Jane](https://open.spotify.com/track/0NJowfv0oPbfAw7YjDYeRD) | [Amanda Roberts](https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD) | [Jane](https://open.spotify.com/album/0wn1MOIGxp7WhE5TzV3OPe) | 3:00 |
-| 8 | [Sceglierei il mio cane](https://open.spotify.com/track/1nDqzcFhRkwYMr2L2B2hZ7) | [RIP](https://open.spotify.com/artist/5ZI5zyGSJMzgm4Yr41I3HM) | [Sceglierei il mio cane](https://open.spotify.com/album/4QSxBOQxj6zp3U7CC53Qbs) | 4:16 |
-| 9 | [Anche Se Ti Amo \(con Frah Quintale, nayt & prima stanza a destra\)](https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:27 |
-| 10 | [BABY DRIVE](https://open.spotify.com/track/7y7WilGFCmXXXQ33GxEc7m) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [BABY DRIVE](https://open.spotify.com/album/4bkLFb7iP5ieEaNnCdrOCt) | 2:45 |
-| 11 | [TORRE DI BABELE](https://open.spotify.com/track/77E6NrYw1wBVmHBiNQyoR0) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [TORRE DI BABELE](https://open.spotify.com/album/1du37TKZC30wcFBJ1SQYwP) | 3:02 |
+| 7 | [TORRE DI BABELE](https://open.spotify.com/track/77E6NrYw1wBVmHBiNQyoR0) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [TORRE DI BABELE](https://open.spotify.com/album/1du37TKZC30wcFBJ1SQYwP) | 3:02 |
+| 8 | [Jane](https://open.spotify.com/track/0NJowfv0oPbfAw7YjDYeRD) | [Amanda Roberts](https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD) | [Jane](https://open.spotify.com/album/0wn1MOIGxp7WhE5TzV3OPe) | 3:00 |
+| 9 | [Sceglierei il mio cane](https://open.spotify.com/track/1nDqzcFhRkwYMr2L2B2hZ7) | [RIP](https://open.spotify.com/artist/5ZI5zyGSJMzgm4Yr41I3HM) | [Sceglierei il mio cane](https://open.spotify.com/album/4QSxBOQxj6zp3U7CC53Qbs) | 4:16 |
+| 10 | [Anche Se Ti Amo \(con Frah Quintale, nayt & prima stanza a destra\)](https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:27 |
+| 11 | [BABY DRIVE](https://open.spotify.com/track/7y7WilGFCmXXXQ33GxEc7m) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [BABY DRIVE](https://open.spotify.com/album/4bkLFb7iP5ieEaNnCdrOCt) | 2:45 |
 | 12 | [SQUALI SQUALI SQUALI](https://open.spotify.com/track/0aEQ9mByS29fO1yDatmwR6) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [SQUALI SQUALI SQUALI](https://open.spotify.com/album/3WQCXAN7a3JDcswwTVd26W) | 2:21 |
 | 13 | [soli per strada](https://open.spotify.com/track/3e9b4s7PAH8T2RlJGWDk2x) | [NIMSAY](https://open.spotify.com/artist/5jicTWnmYwpBo4TNpw5yre) | [soli per strada](https://open.spotify.com/album/7LAkJvjx6oIKzT8zkV8d82) | 2:49 |
 | 14 | [Gelosissima](https://open.spotify.com/track/4zkGZ4utSxlzdDEYh8LOqm) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Gelosissima](https://open.spotify.com/album/6dEX7XwOpZQ2mtYC6Sq5z6) | 2:07 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 109 | [Non x Soldi](https://open.spotify.com/track/12XKCbxfnM7jS0xNSgDJNz) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [NON X SOLDI](https://open.spotify.com/album/0lPLNy8qyFEA02EvH4Uodg) | 2:39 |
 | 110 | [fango \(feat\. Latrelle\)](https://open.spotify.com/track/6z1KelkhtONfx2zOQWrlX2) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV) | [fango \(feat\. Latrelle\)](https://open.spotify.com/album/45x3Y3qa30DGpNtNCPkyn2) | 2:46 |
 
-Snapshot ID: `aHA4JgAAAADsZ7sZD2U6nPaSL9R/ITo6`
+Snapshot ID: `aHUaCAAAAAAI7e44kyi3ih5VdJNVKjZA`

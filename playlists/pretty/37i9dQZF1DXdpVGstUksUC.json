@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 545505,
+  "num_followers": 545499,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ugo",
-        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
-      },
-      "artists": [
-        {
-          "name": "The Dead Pirates",
-          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
-        }
-      ],
-      "duration_ms": 358740,
-      "name": "Ugo",
-      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Into Submission",
         "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 267493,
       "name": "Superhuman God",
       "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Ugo",
+        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+      },
+      "artists": [
+        {
+          "name": "The Dead Pirates",
+          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+        }
+      ],
+      "duration_ms": 358740,
+      "name": "Ugo",
+      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Superskull",
-        "url": "https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1"
-      },
-      "artists": [
-        {
-          "name": "Black Rainbows",
-          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Cosmic Ride Of The Crystal Skull",
-      "url": "https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Desert Cold",
         "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 373133,
       "name": "Desert Cold",
       "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Superskull",
+        "url": "https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1"
+      },
+      "artists": [
+        {
+          "name": "Black Rainbows",
+          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Cosmic Ride Of The Crystal Skull",
+      "url": "https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB"
     },
     {
       "added_at": "2024-07-19 04:00:00",

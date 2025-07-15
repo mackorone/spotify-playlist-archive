@@ -3856,7 +3856,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 249717,
       "name": "glow",
       "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
@@ -4620,7 +4620,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 126879,
       "name": "Jasmine Tea",
       "url": "https://open.spotify.com/track/4Gr7YJGPPGIe5tfdu5hyzf"
@@ -10980,7 +10980,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "YOU",
       "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
@@ -11122,6 +11122,28 @@
       "duration_ms": 159370,
       "name": "\u5922\u306e\u4e2d",
       "url": "https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny"
+    },
+    {
+      "album": {
+        "name": "\u6ce2\u7d0b",
+        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189878,
+      "name": "\u6ce2\u7d0b",
+      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3qCx5yEZkcJ"

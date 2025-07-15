@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 39 | [Sacrifice](https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Sacrifice](https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U) | 3:17 |
 | 40 | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/track/0cN4duukocBD5mYzZK4Upf) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/album/6cNuIGqrpbKD1fWKVITJJM) | 2:21 |
 | 41 | [Same but Different](https://open.spotify.com/track/6ZPx9CMaYu9fcnySnjZ1lp) | [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Where It Goes from Here](https://open.spotify.com/album/3ZCThraJoc53sC1SVEpMIt) | 3:33 |
-| 42 | [MOONBEANS](https://open.spotify.com/track/5jYyPEInr8odNShiFsX5KB) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [MOONBEANS](https://open.spotify.com/album/0h6UhIx9DfUBqIxnx0H3qq) | 3:05 |
-| 43 | [French Riviera](https://open.spotify.com/track/1narRB8YDs0h77LwNvCDPv) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [French Riviera](https://open.spotify.com/album/3Irs9pckio6dyVVeNt3LQL) | 3:35 |
+| 42 | [French Riviera](https://open.spotify.com/track/1narRB8YDs0h77LwNvCDPv) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [French Riviera](https://open.spotify.com/album/3Irs9pckio6dyVVeNt3LQL) | 3:35 |
+| 43 | [MOONBEANS](https://open.spotify.com/track/5jYyPEInr8odNShiFsX5KB) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [MOONBEANS](https://open.spotify.com/album/0h6UhIx9DfUBqIxnx0H3qq) | 3:05 |
 | 44 | [Fireaway](https://open.spotify.com/track/5MUrVxNaQg1BDp632auo8N) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance \(Extended\)](https://open.spotify.com/album/2zxKTNd1Zj6y7E8JoyS7Le) | 2:58 |
 | 45 | [Go](https://open.spotify.com/track/5K66K3wXY7HRr6ikjsnChl) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Go](https://open.spotify.com/album/27P7sXxqMPDsX9fypwvIg3) | 2:55 |
 | 46 | [Watching Her Heartbreak](https://open.spotify.com/track/0PUUGNXMaLZBH6t6yaXamS) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Watching Her Heartbreak](https://open.spotify.com/album/1WEBLiRsDq6bStgx7fxLG1) | 3:03 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 60 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 61 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `Ab2slAAAAAD6yBdLTpDirGESBI2sXcQf`
+Snapshot ID: `Ab2ycAAAAAApCZAlpwpimu5DMfNzhtzy`

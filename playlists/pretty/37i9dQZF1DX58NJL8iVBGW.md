@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,307 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,354 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 36 | [Lost Boys](https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W) | [Paper Bird](https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn) | [When the River Took Flight](https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB) | 3:06 |
 | 37 | [Shake off Your Flesh](https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI) | [The Huntress and Holder of Hands](https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX) | [Avalon](https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg) | 5:31 |
 | 38 | [Thin Line](https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [Billy Jack](https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf) | 4:45 |
-| 39 | [Down by the River](https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn) | [The Dirty River Boys](https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b) | [The Dirty River Boys](https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5) | 3:34 |
-| 40 | [Nothing But The Water \(I\)](https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Nothing But The Water](https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD) | 2:44 |
+| 39 | [Nothing But The Water \(I\)](https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Nothing But The Water](https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD) | 2:44 |
+| 40 | [Down by the River](https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn) | [The Dirty River Boys](https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b) | [The Dirty River Boys](https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5) | 3:34 |
 | 41 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
 | 42 | [Another Manʼs Grave](https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Another Manʼs Grave](https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E) | 3:08 |
 | 43 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 61 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
 | 62 | [Gambling Preacher and His Daughter](https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod) | [Whiskey Folk Ramblers](https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj) | [...And There Are Devils](https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g) | 3:36 |
 | 63 | [Rosie](https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [Small Town Murder Songs \- Original Soundtrack](https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ) | 3:12 |
-| 64 | [God Of Love](https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [3](https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P) | 3:54 |
-| 65 | [Daughter, Daughter](https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Daughter, Daughter](https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw) | 3:25 |
+| 64 | [Daughter, Daughter](https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Daughter, Daughter](https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw) | 3:25 |
+| 65 | [God Of Love](https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [3](https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P) | 3:54 |
 | 66 | [Underneath the Blood Moon](https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq) | [South for Winter](https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8) | [Underneath the Blood Moon](https://open.spotify.com/album/0wSfaQBd6ihGGQjGNCza3B) | 4:30 |
 | 67 | [How Many Days](https://open.spotify.com/track/4qqkMiRfK6c7L8rDIZ9mFV) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Ghost Brothers of Darkland County](https://open.spotify.com/album/3y8jfBMnTjzf0yksfY3GXS) | 3:41 |
 | 68 | [You Don't Fool Me](https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 3:33 |

@@ -4,7 +4,7 @@
 
 > Dale play, y que la cumbia no pare.
 
-159 songs - 9 hr 50 min
+160 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 | 2022-04-15 |  |
 | [El Bombon / El Mas Popular / Perra / La Cola / Asesina / La Chola / La Suavecita \- Session \#3](https://open.spotify.com/track/0aSvTuPXvAITxgn4bIUiD7) | [Cristian JS](https://open.spotify.com/artist/3vlE4er6k5ngHKWhEQa04u) | [El Bombon / El Mas Popular / Perra / La Cola / Asesina / La Chola / La Suavecita \(Session \#3\)](https://open.spotify.com/album/7lapSwj4hlof3zAOOBwodM) | 1:02 | 2024-04-19 |  |
 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 | 2022-04-15 |  |
+| [El Embrujo](https://open.spotify.com/track/27RM8QLM5vDS8iELHMQfO6) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [Banda Juarez](https://open.spotify.com/artist/1nxRQ22XbIRuydkNM3SsUv) | [El Embrujo](https://open.spotify.com/album/2xMMH9pTwMb8VJAnYAMdXu) | 4:08 | 2025-07-14 |  |
 | [El Parrandero](https://open.spotify.com/track/768hJxQr8vRAp87OicQP84) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Voló La Paloma/Un Toque Diferente](https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK) | 2:44 | 2022-04-15 | 2025-03-15 |
 | [El Polvito del Amor](https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:06 | 2022-04-15 |  |
 | [El Polvito Del Amor](https://open.spotify.com/track/2mzncewLAIAvfFeJ01Ukhg) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:08 | 2023-03-10 | 2024-04-19 |
@@ -83,7 +84,7 @@
 | [Mentirosa](https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm) | 3:15 | 2022-04-15 |  |
 | [Mix El Polaco \- Fer Palacio](https://open.spotify.com/track/1CXg6010Ab3qHAXIhdcZ3e) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Mix El Polaco \- Fer Palacio](https://open.spotify.com/album/3HGJm8M1Qk1svADoSqS4rV) | 6:06 | 2023-03-10 | 2025-03-01 |
 | [Mix Mario Luis](https://open.spotify.com/track/7KOxY0PLyGp4TX8AZYYgMp) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Mix Mario Luis](https://open.spotify.com/album/3wCS6ofFvoetcmLFl84vhe) | 8:06 | 2023-06-16 |  |
-| [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2025-03-14 |  |
+| [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2025-03-14 | 2025-07-15 |
 | [Mujer Que Mal Me Pagas](https://open.spotify.com/track/76nWePJSD6vm3jWimfTDSf) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Bombón Asesino 2x1](https://open.spotify.com/album/0AXRHei4oJG0laULFbGAMe) | 3:38 | 2022-04-15 |  |
 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 | 2022-04-15 |  |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 | 2022-04-15 |  |

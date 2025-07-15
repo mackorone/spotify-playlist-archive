@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Celebrating 10 years of  unearthing your new favourite artists\. Cover:Last Minute\.  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,013 likes - 101 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,015 likes - 101 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > When a heartbroken New Yorker moves to London hoping for a love story, she falls for an indie musician who's anything but the typical romantic hero\. Now streaming on Netflix.
 
-50 songs - 3 hr 10 min
+53 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Get Stupid](https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Stupid](https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK) | 3:02 | 2025-07-10 |  |
 | [Girls](https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 1:59 | 2025-07-10 |  |
 | [Greek Tragedy](https://open.spotify.com/track/1tTV7mRV9uB2Nr9VcwkuFX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug](https://open.spotify.com/album/0XOseclZGO4NnaBz5Shjxp) | 3:29 | 2025-07-10 |  |
+| [Green Girl](https://open.spotify.com/track/2ZfuPQjkIfwChbeqoemBg3) | [Misty Miller](https://open.spotify.com/artist/2O4XS2arv9HMIKQUfl8LKU) | [Too Much \(Music from the Netflix Series\)](https://open.spotify.com/album/5v9FRNnfAk3giCh82E4law) | 2:36 | 2025-07-14 |  |
 | [Human](https://open.spotify.com/track/3OghPWATJaeXdqzY3dWObs) | [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Karaoke Angel](https://open.spotify.com/album/1Opfuj0oYN81Y5btwJfkzv) | 3:54 | 2025-07-10 |  |
 | [I Want To See The Bright Lights Tonight](https://open.spotify.com/track/3jd3nPQtwKS3HY6A8XpXx5) | [Richard & Linda Thompson](https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5) | [I Want To See The Bright Lights Tonight](https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt) | 3:09 | 2025-07-10 |  |
 | [In Spite of Ourselves](https://open.spotify.com/track/1pLGpvNjHWRa5byMjnEc7L) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Welfare Jazz](https://open.spotify.com/album/4j9nZJXO7p8YGkyxIauRjL) | 5:03 | 2025-07-10 |  |
@@ -43,7 +44,9 @@
 | [No Limitations](https://open.spotify.com/track/24WM96p4EDsOjwCoG9ojm7) | [Attawalpa](https://open.spotify.com/artist/6AJXEIjyYRMwjYNsRL3khD) | [Experience](https://open.spotify.com/album/7kY0wAn6cxSzNyWGURBn0N) | 3:29 | 2025-07-10 |  |
 | [Old Recliners](https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:41 | 2025-07-10 |  |
 | [Pocket](https://open.spotify.com/track/106CGBxxQ0ncAAupiBUNqf) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:06 | 2025-07-10 |  |
+| [Praying](https://open.spotify.com/track/03RHcC5SbinXjGvzHuKZxa) | [Misty Miller](https://open.spotify.com/artist/2O4XS2arv9HMIKQUfl8LKU) | [Too Much \(Music from the Netflix Series\)](https://open.spotify.com/album/5v9FRNnfAk3giCh82E4law) | 4:15 | 2025-07-14 |  |
 | [Pressure to Party](https://open.spotify.com/track/13LsKYpr3ZNMTRu0Lo8Z7R) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4hW2wvP51Myt7UIVTgSp4f) | 3:02 | 2025-07-10 |  |
+| [Push Tuck](https://open.spotify.com/track/4zRk1HNjJ904Y3P4Boe5EU) | [Sleaze](https://open.spotify.com/artist/265MazCHotxl7eK8nkaZZ6) | [Push Tuck](https://open.spotify.com/album/2So9oSYkZg3hQ1HDemA2gF) | 3:26 | 2025-07-14 |  |
 | [Run for Cover](https://open.spotify.com/track/5egoSCaZ61vo3qgkiRQyNw) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [One Touch](https://open.spotify.com/album/5AD98s5Pm4PfDlVx9fDPa2) | 3:47 | 2025-07-10 |  |
 | [See You Later](https://open.spotify.com/track/6k0gcDTjUU83sKzyuoVQgq) | [U.N.P.O.C.](https://open.spotify.com/artist/6bvU9PcG5m8RdVEUli9nYv) | [Fifth Column](https://open.spotify.com/album/7tRDp85B6P1LAcYzQTNkJO) | 2:19 | 2025-07-10 |  |
 | [Sister You Said](https://open.spotify.com/track/4j5WFueLHGePqVhK5fhQS6) | [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [Sister You Said](https://open.spotify.com/album/5qqU48F3SGmS6LSdA59ztL) | 2:36 | 2025-07-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 
 > The biggest songs of the 1950s\. Cover: Elvis Presley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,847,142 likes - 150 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,847,216 likes - 150 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 | 26 | [Hallelujah, I Love Her So](https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:35 |
 | 27 | [Mack the Knife](https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 3:04 |
 | 28 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 |
-| 29 | [Long Tall Sally \(The Thing\)](https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:07 |
-| 30 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
+| 29 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
+| 30 | [Long Tall Sally \(The Thing\)](https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:07 |
 | 31 | [Everyday](https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 2:09 |
-| 32 | [Shout, Pts\. 1 & 2](https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Shout!](https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH) | 4:28 |
-| 33 | [Cheek To Cheek](https://open.spotify.com/track/5TNpCThzzXHEipXGKgNG8T) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 5:53 |
+| 32 | [Cheek To Cheek](https://open.spotify.com/track/5TNpCThzzXHEipXGKgNG8T) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 5:53 |
+| 33 | [Shout, Pts\. 1 & 2](https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Shout!](https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH) | 4:28 |
 | 34 | [Rockin' Robin](https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt) | [Bobby Day](https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj) | [Rockin' With Robin](https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y) | 2:40 |
 | 35 | [Donna \- Single Version](https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:30 |
 | 36 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 |

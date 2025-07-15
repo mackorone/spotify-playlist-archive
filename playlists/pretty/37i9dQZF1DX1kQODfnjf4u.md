@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: G1nter
+> 50 nejžhavějších hitů v České republice\. Cover: Yzomandias, Ektor, P T K, Robin Zoot, Nik Tendo
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,720 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,796 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Drž Píču](https://open.spotify.com/track/7KEGsz3uwzTYo0ZQBowvRB) | [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [Drž Píču](https://open.spotify.com/album/0N5AZmr2aSekuskrUfN6mp) | 1:58 |
-| 2 | [Až po uši](https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8) | [Slavíček](https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l) | [HOMEMADE](https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc) | 3:17 |
-| 3 | [Body to body](https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 3:12 |
-| 4 | [KSN \- PINTLICH REMIX](https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [PINTLICH](https://open.spotify.com/artist/178j6D1fGg127yB9SiiTqd) | [KSN \(PINTLICH REMIX\)](https://open.spotify.com/album/3EBOGy4G5wEzJHfZa3stFJ) | 3:08 |
+| 1 | [KSN \- PINTLICH REMIX](https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [PINTLICH](https://open.spotify.com/artist/178j6D1fGg127yB9SiiTqd) | [KSN \(PINTLICH REMIX\)](https://open.spotify.com/album/3EBOGy4G5wEzJHfZa3stFJ) | 3:08 |
+| 2 | [Drž Píču](https://open.spotify.com/track/7KEGsz3uwzTYo0ZQBowvRB) | [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [Drž Píču](https://open.spotify.com/album/0N5AZmr2aSekuskrUfN6mp) | 1:58 |
+| 3 | [Až po uši](https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8) | [Slavíček](https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l) | [HOMEMADE](https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc) | 3:17 |
+| 4 | [Body to body](https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 3:12 |
 | 5 | [dole](https://open.spotify.com/track/60s9qt0f9uweJvExCjHSyb) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [brat](https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp) | 2:59 |
 | 6 | [Homerun](https://open.spotify.com/track/59Pro01fS9Ucy2HseMArGa) | [THE MAG](https://open.spotify.com/artist/6vfjRdM3Km8PXyuCpIapD9), [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [Homerun](https://open.spotify.com/album/3aOx0BcJHnzo0STXDmhDdQ) | 1:44 |
 | 7 | [PTSD](https://open.spotify.com/track/3okMwMS8V4STgRha2KT4Kz) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [PTSD](https://open.spotify.com/album/1bKLXiByaeLjSj8AjfMO75) | 2:36 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 42 | [Brick na brick](https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Brick na brick](https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs) | 2:53 |
 | 43 | [Givenchy](https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Givenchy](https://open.spotify.com/album/7iozutogFmMyQFGzOBEsuE) | 3:01 |
 | 44 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
-| 45 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
-| 46 | [MONA LISA](https://open.spotify.com/track/7K9hPmzDGuo9WxKG5B1X1Y) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [MONA LISA](https://open.spotify.com/album/0e60PL1Bp0RMNWAeqWJuqC) | 2:39 |
-| 47 | [Habibi](https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Habibi](https://open.spotify.com/album/7EdhZU5wyU8jwdZmcyQvAZ) | 2:26 |
-| 48 | [Slzy](https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Slzy](https://open.spotify.com/album/3GYATvHPq0inFsTEVlxZkZ) | 2:30 |
+| 45 | [Slzy](https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Slzy](https://open.spotify.com/album/3GYATvHPq0inFsTEVlxZkZ) | 2:30 |
+| 46 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
+| 47 | [MONA LISA](https://open.spotify.com/track/7K9hPmzDGuo9WxKG5B1X1Y) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [MONA LISA](https://open.spotify.com/album/0e60PL1Bp0RMNWAeqWJuqC) | 2:39 |
+| 48 | [Habibi](https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Habibi](https://open.spotify.com/album/7EdhZU5wyU8jwdZmcyQvAZ) | 2:26 |
 | 49 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 50 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 
-Snapshot ID: `aGvKxwAAAABdECg5yP1I/QgIAW2EYM/c`
+Snapshot ID: `aHTT+wAAAABYJi/15t6FA266H8YksRr4`

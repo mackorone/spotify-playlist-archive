@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! babas tutsipop en portada.",
-  "num_followers": 35773,
+  "num_followers": 35785,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "Narvarte",
+        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "Prometimos",
+      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "AL100",
         "url": "https://open.spotify.com/album/65AMvNY4LjeisjaxbSRBRS"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "Narvarte",
-        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "Prometimos",
-      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "Hablar de Flores",
         "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "Consecuencias",
-        "url": "https://open.spotify.com/album/35BQykQOrFaoEpCCN7w1MQ"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 275380,
-      "name": "Consecuencias",
-      "url": "https://open.spotify.com/track/7FvOpzLt6hZhPuebK5TIS6"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "EL PEOR",
         "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 114000,
       "name": "EL PEOR",
       "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "Consecuencias",
+        "url": "https://open.spotify.com/album/35BQykQOrFaoEpCCN7w1MQ"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 275380,
+      "name": "Consecuencias",
+      "url": "https://open.spotify.com/track/7FvOpzLt6hZhPuebK5TIS6"
     },
     {
       "added_at": "2025-07-04 06:00:11",

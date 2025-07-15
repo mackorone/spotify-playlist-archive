@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 160133,
+  "num_followers": 160165,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADu9hXdYWsPsNC710uV9aRW",
+  "snapshot_id": "aHL3AAAAAACncDXo9DvPCD6oqx21D4Ih",
   "tracks": [
     {
       "added_at": null,
@@ -647,34 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jubilee: Juneteenth Edition",
-        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        },
-        {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
-        }
-      ],
-      "duration_ms": 492415,
-      "name": "God Will Work It Out (feat. Israel Houghton & Mav City Gospel Choir)",
-      "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -699,6 +671,34 @@
       "duration_ms": 457548,
       "name": "Used To This (feat. Naomi Raine & Brandon Lake)",
       "url": "https://open.spotify.com/track/1d7RCdfczxJNVSgXL4Gkil"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 492415,
+      "name": "God Will Work It Out (feat. Israel Houghton & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
     },
     {
       "added_at": null,

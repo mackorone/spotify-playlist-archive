@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Nilüfer Yanya
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,269 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,263 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 46 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 |
 | 47 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
 | 48 | [Tacklebox](https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Tacklebox](https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ) | 3:12 |
-| 49 | [Pink Elephant](https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ) | 4:44 |
-| 50 | [resala \- رسالة](https://open.spotify.com/track/3epYLP0LV7IpUVXhFGXP4l) | [nabeel \- نبيل](https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl) | [resala \- رسالة](https://open.spotify.com/album/5ZJYMMCaVOE0uJQy4thJKi) | 3:33 |
-| 51 | [starburn](https://open.spotify.com/track/5qPwsJXFapnFgN7eqo9w4N) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [starburn](https://open.spotify.com/album/1TiUalhlnM2ZplG7gIHU2G) | 4:11 |
+| 49 | [starburn](https://open.spotify.com/track/5qPwsJXFapnFgN7eqo9w4N) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [starburn](https://open.spotify.com/album/1TiUalhlnM2ZplG7gIHU2G) | 4:11 |
+| 50 | [Pink Elephant](https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ) | 4:44 |
+| 51 | [resala \- رسالة](https://open.spotify.com/track/3epYLP0LV7IpUVXhFGXP4l) | [nabeel \- نبيل](https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl) | [resala \- رسالة](https://open.spotify.com/album/5ZJYMMCaVOE0uJQy4thJKi) | 3:33 |
 | 52 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
-| 53 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
-| 54 | [9\-2\-5](https://open.spotify.com/track/66nIyYOKdy7yu2QjNagnop) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [9\-2\-5](https://open.spotify.com/album/1SjROMfa8GKI69Q9QH1Xsn) | 3:12 |
+| 53 | [9\-2\-5](https://open.spotify.com/track/66nIyYOKdy7yu2QjNagnop) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [9\-2\-5](https://open.spotify.com/album/1SjROMfa8GKI69Q9QH1Xsn) | 3:12 |
+| 54 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 | 55 | [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 |
 | 56 | [Breakaway](https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Breakaway](https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW) | 3:13 |
 | 57 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 72 | [Gethsemane](https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Gethsemane](https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A) | 10:51 |
 | 73 | [I’m Not Crying, You’re Crying](https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:48 |
 | 74 | [I Used To](https://open.spotify.com/track/0YatoTSyHsq4J6CZacYHEC) | [Cdubz](https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH) | [I Used To](https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR) | 3:06 |
-| 75 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
-| 76 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
+| 75 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
+| 76 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
 | 77 | [Holy Water](https://open.spotify.com/track/1KzTsAzc0ikZdjAvpiKL6v) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Holy Water](https://open.spotify.com/album/32W3rqgBhPjZCJnRvU6V8k) | 3:00 |
 | 78 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
 | 79 | [Frontrunner](https://open.spotify.com/track/0zWfDeOJvTkHWfLWSsbFqe) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 2:52 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 96 | [Dad's 4Runner](https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Marietta](https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh) | 2:27 |
 | 97 | [Silver](https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Silver](https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI) | 3:16 |
 | 98 | [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 |
-| 99 | [1/500](https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [YOU’LL HAVE TO LOSE SOMETHING](https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM) | 2:42 |
-| 100 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 |
+| 99 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 |
+| 100 | [1/500](https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [YOU’LL HAVE TO LOSE SOMETHING](https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM) | 2:42 |
 
 Snapshot ID: `aGfE/QAAAADirJSzByYaM5PLn29W1tfx`

@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2025\. Cover: BGYO
 
-273 songs - 16 hr 18 min
+274 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Himala](https://open.spotify.com/track/3v8EvCxPcfwlStnCKtlzfi) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Himala](https://open.spotify.com/album/11Fm9RQJskICPrsWdIcNaL) | 4:21 | 2021-11-25 | 2022-03-25 |
 | [Hindi Ko Kaya](https://open.spotify.com/track/5DAVHXdtJfSoz2uyPyzZUo) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Hindi Ko Kaya](https://open.spotify.com/album/1XMlZH0h8IWOlILf1ylOsN) | 3:16 | 2021-11-25 | 2022-03-25 |
 | [hiwaga](https://open.spotify.com/track/4ZNYQe3qM4BhCUCuVzlJ8m) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [hiwaga](https://open.spotify.com/album/3uGR2NMYPz4AkbOdp78zFT) | 3:29 | 2021-11-25 | 2022-03-25 |
+| [Home](https://open.spotify.com/track/6bDW6rxCjoxk8wcrkevKXL) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Home](https://open.spotify.com/album/0pm3nGgzGYqIpbvdPR4M3a) | 3:54 | 2025-07-14 |  |
 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 | 2024-04-02 | 2025-03-28 |
 | [Horizon](https://open.spotify.com/track/3wIql1xTfBwTeaRQfuK5cL) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Horizon](https://open.spotify.com/album/2HvwHLj6sjOuyrZE4vG0fe) | 3:13 | 2024-04-02 | 2025-03-28 |
 | [HOYA](https://open.spotify.com/track/0vPTT7SlWuA9CzlvqU0xmT) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [HOYA](https://open.spotify.com/album/2pw6arWClaSTngogFXPz13) | 3:15 | 2021-11-25 | 2022-03-25 |

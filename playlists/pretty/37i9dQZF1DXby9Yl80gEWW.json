@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 57576,
+  "num_followers": 57593,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Double Banjo Bluegrass Spectacular",
-        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
-      },
-      "artists": [
-        {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Bon Aqua Blues",
-      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 188293,
       "name": "Thousand Dollar Holler",
       "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Double Banjo Bluegrass Spectacular",
+        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Bon Aqua Blues",
+      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 328560,
       "name": "Muscle Car",
       "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 127261,
-      "name": "Cumberland Gap - Live",
-      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "The American Fiddler",
         "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 250500,
       "name": "The American Fiddler",
       "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 127261,
+      "name": "Cumberland Gap - Live",
+      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
-      },
-      "artists": [
-        {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "The View From Here",
         "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+      },
+      "artists": [
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Things Are Simple",
-        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Along Came Sonny",
-      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Saltbush Express",
         "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 171823,
       "name": "Saltbush Express",
       "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Things Are Simple",
+        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Along Came Sonny",
+      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
     },
     {
       "added_at": "2025-02-21 05:00:42",

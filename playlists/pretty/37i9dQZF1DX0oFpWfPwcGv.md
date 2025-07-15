@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,882 likes - 75 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,899 likes - 75 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 30 | [Turn the Beat Around \- 7" Single Edit](https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [Never Gonna Let You Go \(Expanded Edition\)](https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC) | 3:24 |
 | 31 | [Dance, Dance, Dance \(Yowsah, Yowsah, Yowsah\)](https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:21 |
 | 32 | [Keep On Jumpin'](https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF) | [Musique](https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl) | [Keep On Jumpin'](https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW) | 5:39 |
-| 33 | [Instant Replay](https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Instant Replay \(Expanded Edition\)](https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa) | 5:20 |
-| 34 | [Dance \(Disco Heat\)](https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 5:55 |
+| 33 | [Dance \(Disco Heat\)](https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 5:55 |
+| 34 | [Instant Replay](https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Instant Replay \(Expanded Edition\)](https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa) | 5:20 |
 | 35 | [Stand on the Word \- Studio Version](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 |
 | 36 | [Saturday Night, Sunday Morning](https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Ready To Roll](https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9) | 3:55 |
 | 37 | [I'm Caught up \(In a One Night Love Affair\) \- 12” Edit](https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [I'm Caught Up \(In a One Night Love Affair\)](https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG) | 7:26 |
 | 38 | [Love Is the Message \(feat\. The Three Degrees\) \- Love Groove Bonus](https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Deep Grooves](https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf) | 5:13 |
 | 39 | [Saturday](https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE) | [Norma Jean Wright](https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM) | [Norma Jean](https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ) | 6:06 |
-| 40 | [Bad Girls \- 12" Version](https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 4:55 |
-| 41 | [Automatic \- 12" Special Remix](https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 6:06 |
+| 40 | [Automatic \- 12" Special Remix](https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 6:06 |
+| 41 | [Bad Girls \- 12" Version](https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 4:55 |
 | 42 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |
 | 43 | [Wear It Out](https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO) | [Stargard](https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI) | [The Changing Of The Gard](https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto) | 5:17 |
 | 44 | [Date With The Rain](https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 2:40 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 72 | [Possessed \(Extended Verison\)](https://open.spotify.com/track/5giBASxVW4R1BFzGtWNEun) | [Doris Jones](https://open.spotify.com/artist/1YzlD6Cogo9fLRtzyMIdRc) | [The Best of Doris Jones "No Way Out"](https://open.spotify.com/album/1zEOxgQDjnzXNVuXO2IlXh) | 6:59 |
 | 73 | [Thinking of You \- Dimitri from Paris Remix; 2018 Remaster](https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Dimitri From Paris Presents Le CHIC Remix](https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg) | 6:29 |
 | 74 | [Don't You Want My Love \- Remastered](https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U) | [Debbie Jacobs](https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL) | [Don't You Want My Love](https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h) | 7:48 |
-| 75 | [I'm So Glad That I'm a Woman](https://open.spotify.com/track/3GUvckJgUl90ATgDkfbJn7) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Love is Back](https://open.spotify.com/album/7cfrgUXpftlEhRNukBA3iR) | 4:01 |
+| 75 | [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 |
 
 Snapshot ID: `Ztx5GQAAAABAAwIcJ4zyfmcRxKjmM1Cd`

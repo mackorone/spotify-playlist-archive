@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 35202,
+  "num_followers": 35213,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAB4Xu0d9dV21F0LDdU+k1om",
+  "snapshot_id": "aHL3AAAAAACUkEpZRFSguCnsecApKChW",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
       },
       "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 175292,
-      "name": "Millionaire (Good Like That)",
-      "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
+      "duration_ms": 292040,
+      "name": "Silver and Gold - Live",
+      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
     },
     {
       "added_at": null,
@@ -651,8 +647,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 175292,
+      "name": "Millionaire (Good Like That)",
+      "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
       "artists": [
         {
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 292040,
-      "name": "Silver and Gold - Live",
-      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
+      "duration_ms": 271131,
+      "name": "F.A.V.O.R",
+      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
       "duration_ms": 276629,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 271131,
-      "name": "F.A.V.O.R",
-      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 687870,
+  "num_followers": 688058,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACoXJ99skB7hCoMjxRQiKO0",
+  "snapshot_id": "aHL3AAAAAAAVxX1X4aswalTv5bCgsPMG",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         },
         {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 300113,
-      "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
+      "duration_ms": 196706,
+      "name": "Only Thing That\u2019s Gone",
+      "url": "https://open.spotify.com/track/0cLZboiFzp3rgYnPz33IJX"
     },
     {
       "added_at": null,
@@ -431,22 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
+        "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 196706,
-      "name": "Only Thing That\u2019s Gone",
-      "url": "https://open.spotify.com/track/0cLZboiFzp3rgYnPz33IJX"
+      "duration_ms": 300113,
+      "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2131926,
+  "num_followers": 2131451,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Idle Mind",
+        "url": "https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ"
+      },
+      "artists": [
+        {
+          "name": "Anna Mieke",
+          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
+        }
+      ],
+      "duration_ms": 295265,
+      "name": "Warped Window",
+      "url": "https://open.spotify.com/track/0C0ESa1ZZ5taXaYUxwnvx9"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Our Endless Numbered Days",
         "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 232400,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Beulah",
-        "url": "https://open.spotify.com/album/30TiWcFsV6As1N6d6L8wJ0"
-      },
-      "artists": [
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 243867,
-      "name": "Hate the Way You Love Me",
-      "url": "https://open.spotify.com/track/4SEgyVuHzincvWDvypjasT"
     }
   ],
   "unique_name": "Afternoon Acoustic",

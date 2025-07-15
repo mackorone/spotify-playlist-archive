@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Chris Lake",
-  "num_followers": 69109,
+  "num_followers": 69111,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-07-10 15:00:10",
       "album": {
+        "name": "Wait So Long",
+        "url": "https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 199479,
+      "name": "Wait So Long",
+      "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"
+    },
+    {
+      "added_at": "2025-07-10 15:00:10",
+      "album": {
         "name": "Sweet Disposition (a moment, a love)",
         "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 212209,
       "name": "Sweet Disposition (a moment, a love)",
       "url": "https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"
-    },
-    {
-      "added_at": "2025-07-10 15:00:10",
-      "album": {
-        "name": "Wait So Long",
-        "url": "https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 199479,
-      "name": "Wait So Long",
-      "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"
     },
     {
       "added_at": "2025-07-10 15:00:10",
@@ -539,46 +539,6 @@
     {
       "added_at": "2025-07-10 15:00:10",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6"
-      },
-      "artists": [
-        {
-          "name": "Jaden Bojsen",
-          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sami Brielle",
-          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
-        }
-      ],
-      "duration_ms": 159577,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
-    },
-    {
-      "added_at": "2025-07-10 15:00:10",
-      "album": {
-        "name": "TOKYO",
-        "url": "https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH"
-      },
-      "artists": [
-        {
-          "name": "Nakajin",
-          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "TOKYO",
-      "url": "https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ"
-    },
-    {
-      "added_at": "2025-07-10 15:00:10",
-      "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
       },
@@ -599,6 +559,46 @@
       "duration_ms": 121874,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
+    },
+    {
+      "added_at": "2025-07-10 15:00:10",
+      "album": {
+        "name": "TOKYO",
+        "url": "https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH"
+      },
+      "artists": [
+        {
+          "name": "Nakajin",
+          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
+        }
+      ],
+      "duration_ms": 181011,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ"
+    },
+    {
+      "added_at": "2025-07-10 15:00:10",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sami Brielle",
+          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
+        }
+      ],
+      "duration_ms": 159577,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
     },
     {
       "added_at": "2025-07-10 15:00:10",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2025-07-10 15:00:10",
       "album": {
+        "name": "Dance In The Sunlight",
+        "url": "https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Dance In The Sunlight",
+      "url": "https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F"
+    },
+    {
+      "added_at": "2025-07-10 15:00:10",
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/6QmqxSyG8tSOBIVXgOc875"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 186491,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/0yfuV7ZI2e4baQxZUBegUr"
-    },
-    {
-      "added_at": "2025-07-10 15:00:10",
-      "album": {
-        "name": "Dance In The Sunlight",
-        "url": "https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Bandit",
-          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Dance In The Sunlight",
-      "url": "https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F"
     },
     {
       "added_at": "2025-07-10 15:00:10",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-07-10 15:00:10",
       "album": {
-        "name": "Happier (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 170358,
-      "name": "Happier (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
-    },
-    {
-      "added_at": "2025-07-10 15:00:10",
-      "album": {
         "name": "Freestyler (Rock The Microphone)",
         "url": "https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc"
       },
@@ -1255,22 +1235,22 @@
     {
       "added_at": "2025-07-10 15:00:10",
       "album": {
-        "name": "Everlight",
-        "url": "https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6"
+        "name": "Happier (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
         },
         {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 167485,
-      "name": "Everlight",
-      "url": "https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34"
+      "duration_ms": 170358,
+      "name": "Happier (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
     },
     {
       "added_at": "2025-07-10 15:00:10",
@@ -1287,6 +1267,26 @@
       "duration_ms": 186667,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/5osKlPBtBF4rC9o7PyCWm1"
+    },
+    {
+      "added_at": "2025-07-10 15:00:10",
+      "album": {
+        "name": "Everlight",
+        "url": "https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "duration_ms": 167485,
+      "name": "Everlight",
+      "url": "https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34"
     },
     {
       "added_at": "2025-07-10 15:00:10",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2025-07-10 15:00:10",
       "album": {
-        "name": "Prismatic: Pack One",
-        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "I Follow Rivers",
-      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
-    },
-    {
-      "added_at": "2025-07-10 15:00:10",
-      "album": {
         "name": "Focus (feat. CLOVES)",
         "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 238242,
       "name": "Focus (feat. CLOVES)",
       "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
+    },
+    {
+      "added_at": "2025-07-10 15:00:10",
+      "album": {
+        "name": "Prismatic: Pack One",
+        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
     },
     {
       "added_at": "2025-07-10 15:00:10",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2025-07-10 15:00:10",
       "album": {
+        "name": "Stay Gold (from BEYBLADE X)",
+        "url": "https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 206175,
+      "name": "Stay Gold - from BEYBLADE X",
+      "url": "https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd"
+    },
+    {
+      "added_at": "2025-07-10 15:00:10",
+      "album": {
         "name": "Tell Me Where U Go",
         "url": "https://open.spotify.com/album/3DQS4gzD4RJMsarRUqiQrt"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 182640,
       "name": "Tell Me Where U Go",
       "url": "https://open.spotify.com/track/4NuksWELZ9lBY9aazhZG16"
-    },
-    {
-      "added_at": "2025-07-10 15:00:10",
-      "album": {
-        "name": "Stay Gold (from BEYBLADE X)",
-        "url": "https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 206175,
-      "name": "Stay Gold - from BEYBLADE X",
-      "url": "https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd"
     },
     {
       "added_at": "2025-07-10 15:00:10",
@@ -1587,6 +1587,30 @@
       "duration_ms": 208159,
       "name": "Forever Yours - Tim\u2019s 2016 Ibiza Version",
       "url": "https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT"
+    },
+    {
+      "added_at": "2025-07-10 15:00:10",
+      "album": {
+        "name": "Kumbaya",
+        "url": "https://open.spotify.com/album/7oZ3sI01WJZqdo1ijWxKrO"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 182439,
+      "name": "Kumbaya",
+      "url": "https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY"
     },
     {
       "added_at": "2025-07-10 15:00:10",
@@ -1659,50 +1683,6 @@
     {
       "added_at": "2025-07-10 15:00:10",
       "album": {
-        "name": "Kumbaya",
-        "url": "https://open.spotify.com/album/7oZ3sI01WJZqdo1ijWxKrO"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 182439,
-      "name": "Kumbaya",
-      "url": "https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY"
-    },
-    {
-      "added_at": "2025-07-10 15:00:10",
-      "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
-    },
-    {
-      "added_at": "2025-07-10 15:00:10",
-      "album": {
         "name": "Superrich",
         "url": "https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 179000,
       "name": "Superrich",
       "url": "https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms"
+    },
+    {
+      "added_at": "2025-07-10 15:00:10",
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
     }
   ],
   "unique_name": "mint Japan",

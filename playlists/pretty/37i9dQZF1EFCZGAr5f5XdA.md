@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,873 likes - 210 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,878 likes - 210 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 126 | [Paper Planes](https://open.spotify.com/track/3AzQU9PUcGe9wLERQpDXQA) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:07 |
 | 127 | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ) | 2:57 |
 | 128 | [Basement Party](https://open.spotify.com/track/4aJgVVpcUos92SAESRL2Si) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/2qmysBdftCYXRjYHTVK3qo) | 3:21 |
-| 129 | [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 |
-| 130 | [Guy I Used To Be](https://open.spotify.com/track/26o178cDBPoinFN2L9e4UN) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 3:47 |
+| 129 | [Guy I Used To Be](https://open.spotify.com/track/26o178cDBPoinFN2L9e4UN) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 3:47 |
+| 130 | [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 |
 | 131 | [Waves Of Loneliness](https://open.spotify.com/track/51x3XywvkwlEBCzunhWoc8) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:25 |
 | 132 | [i'm confident that i'm insecure](https://open.spotify.com/track/5u7MsGy6uIYaeKhdsje4Tl) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 2:42 |
 | 133 | [Happy Now](https://open.spotify.com/track/5Iui9mLCtNnqsYubWI5VLc) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Lucky Ones](https://open.spotify.com/album/6doKrVnhuZB7ajkdvCDvyC) | 3:26 |
@@ -192,8 +192,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 182 | [diamonds](https://open.spotify.com/track/4ESFcKe9Dumyh85dwevUWc) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:59 |
 | 183 | [RICH AND BROKE](https://open.spotify.com/track/4IhQDdS75FROk5hse6zaap) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:02 |
 | 184 | [GET IT RIGHT](https://open.spotify.com/track/3opHXLp5teEhmdVdDA9MJ9) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:13 |
-| 185 | [same girl](https://open.spotify.com/track/1Cpqs8mrymxFdFoZpllIf8) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:28 |
-| 186 | [ITALIA BREEZE](https://open.spotify.com/track/2P4p0vLttYRbUc754WQJNW) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:20 |
+| 185 | [ITALIA BREEZE](https://open.spotify.com/track/2P4p0vLttYRbUc754WQJNW) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:20 |
+| 186 | [same girl](https://open.spotify.com/track/1Cpqs8mrymxFdFoZpllIf8) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:28 |
 | 187 | [DON'T SHOOT](https://open.spotify.com/track/30S2Wy2y1rdFE0pBKWBFJD) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:16 |
 | 188 | [Promotion](https://open.spotify.com/track/7okgepKwMl2jHLsq5KbDX6) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 2:38 |
 | 189 | [Over The Moon](https://open.spotify.com/track/4hO2oP5JnkSHHBdLEPRWcV) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1ZffRASy91eeruaNOasuJ4) | 2:41 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 209 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 210 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `Ab2sigAAAAD3+s9U8eL89agqPcCi4eC7`
+Snapshot ID: `Ab2yUgAAAADERtA6z485f1gUlA2zf76M`

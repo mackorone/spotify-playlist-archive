@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Mavi x Murda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,653 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,671 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 6 | [JUJU](https://open.spotify.com/track/4h5BOdxRn2L06t57r9201X) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [JUJU](https://open.spotify.com/album/5gKZKAvSznaBx7HirDxRyx) | 2:14 |
 | 7 | [Extrovert](https://open.spotify.com/track/3eiLwTPzJTFd0GowvO7H2g) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Bipolar](https://open.spotify.com/album/0ab5RvaLZtVjorEZZ10Oor) | 3:10 |
 | 8 | [DAL](https://open.spotify.com/track/0AJ0fgdzRiqLi6DNlTE7xK) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [DAL](https://open.spotify.com/album/0AqSqB4PHhLHolj8Vd3peU) | 2:56 |
-| 9 | [BELLYDANCE](https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [BELLYDANCE](https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq) | 2:27 |
-| 10 | [CRINGE](https://open.spotify.com/track/6E6dycuu4PWEjmYbHT9Li9) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr), [Serhat Özen](https://open.spotify.com/artist/2Qpgh2xmjneIAyBWCKLVdJ) | [CRINGE](https://open.spotify.com/album/6XUzyBZq5JwOLbzrzFoSYs) | 2:55 |
-| 11 | [HUHU!](https://open.spotify.com/track/34L7oGUDr99wqQsh3rQkDK) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HUHU!](https://open.spotify.com/album/2EsoI6vT3rsMc8X0IsEv96) | 2:08 |
-| 12 | [DEDE GANG](https://open.spotify.com/track/6uE5xrh5MMVffB5rCj8pis) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [DEDE GANG](https://open.spotify.com/album/07UdxQzrHsocit4cDkGw6T) | 2:40 |
-| 13 | [HOT](https://open.spotify.com/track/3msoxnh72Ol4my1yyatG5Z) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [HOT](https://open.spotify.com/album/5BnHNGAUUFQhAi0I4ij0uH) | 2:34 |
-| 14 | [İSTEMEM!](https://open.spotify.com/track/4p5xPDZVGnJGvnuT8UEc3Q) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arta](https://open.spotify.com/artist/6gPKjPIXbBBnuLyLEq79Sz), [Koorosh](https://open.spotify.com/artist/1UjD9VWeqDDlDSvNlnFTdl) | [İSTEMEM!](https://open.spotify.com/album/1RQGWFjOb5w8gcB0hHm7fl) | 2:53 |
-| 15 | [Dopamin!](https://open.spotify.com/track/7E7hAQJHc8F9bJE4IoJ9pp) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Dopamin!](https://open.spotify.com/album/65FeJ6JEcTHUm7MnehNB36) | 3:05 |
-| 16 | [COnnection 2](https://open.spotify.com/track/67S8MjNHUTwSnXXnpEJeYX) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Old G](https://open.spotify.com/artist/5dKK9A0yAqtRpqLoC7AkKm), [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM), [kalifor](https://open.spotify.com/artist/4MycQUr7iDET5sOsAhIbyM), [Zai](https://open.spotify.com/artist/5URawBcnmJ9FkTqN44r5Hs), [Mayki](https://open.spotify.com/artist/5ZCFV4A47mtJtreJmOqylO), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [COnnection 2](https://open.spotify.com/album/3znaU5ydppAjxoqqTYrdWg) | 4:35 |
+| 9 | [Zaza](https://open.spotify.com/track/77XHyeWiFMF1fTeJv9fioH) | [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS), [Cesiminho](https://open.spotify.com/artist/6sh53iTqwntQpPhDxnvHDC), [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Zaza](https://open.spotify.com/album/1LN8M6pSalPAxxwqXl4MwP) | 3:07 |
+| 10 | [BELLYDANCE](https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [BELLYDANCE](https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq) | 2:27 |
+| 11 | [CRINGE](https://open.spotify.com/track/6E6dycuu4PWEjmYbHT9Li9) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr), [Serhat Özen](https://open.spotify.com/artist/2Qpgh2xmjneIAyBWCKLVdJ) | [CRINGE](https://open.spotify.com/album/6XUzyBZq5JwOLbzrzFoSYs) | 2:55 |
+| 12 | [HUHU!](https://open.spotify.com/track/34L7oGUDr99wqQsh3rQkDK) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HUHU!](https://open.spotify.com/album/2EsoI6vT3rsMc8X0IsEv96) | 2:08 |
+| 13 | [DEDE GANG](https://open.spotify.com/track/6uE5xrh5MMVffB5rCj8pis) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [DEDE GANG](https://open.spotify.com/album/07UdxQzrHsocit4cDkGw6T) | 2:40 |
+| 14 | [HOT](https://open.spotify.com/track/3msoxnh72Ol4my1yyatG5Z) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [HOT](https://open.spotify.com/album/5BnHNGAUUFQhAi0I4ij0uH) | 2:34 |
+| 15 | [İSTEMEM!](https://open.spotify.com/track/4p5xPDZVGnJGvnuT8UEc3Q) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arta](https://open.spotify.com/artist/6gPKjPIXbBBnuLyLEq79Sz), [Koorosh](https://open.spotify.com/artist/1UjD9VWeqDDlDSvNlnFTdl) | [İSTEMEM!](https://open.spotify.com/album/1RQGWFjOb5w8gcB0hHm7fl) | 2:53 |
+| 16 | [Dopamin!](https://open.spotify.com/track/7E7hAQJHc8F9bJE4IoJ9pp) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Dopamin!](https://open.spotify.com/album/65FeJ6JEcTHUm7MnehNB36) | 3:05 |
 | 17 | [Ateeş!](https://open.spotify.com/track/2H5R5gWtKVK0T5OGN11EcK) | [Old G](https://open.spotify.com/artist/5dKK9A0yAqtRpqLoC7AkKm) | [Ateeş!](https://open.spotify.com/album/3v1yojO8fajpbaRrx5prHE) | 2:16 |
 | 18 | [Efkar](https://open.spotify.com/track/7v2ozDousC5qdSW0gUAqy7) | [Dj Rasimcan](https://open.spotify.com/artist/6nrcitrqNYFamHdnc3tI7f), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Armagheddon](https://open.spotify.com/artist/4hsmSmskimqtwGW0ouC6If) | [Efkar](https://open.spotify.com/album/41xGYY59fZJwYIDNAP7iQg) | 3:33 |
 | 19 | [kum saati](https://open.spotify.com/track/18BJaXD2ss3mP9o0qMOp8P) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [kum saati](https://open.spotify.com/album/3R3uDxPQ4tHfhW6mGEQawV) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 | 50 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 |
 
-Snapshot ID: `aHAp1gAAAABP1T8prGc/DQLVHEGROSCt`
+Snapshot ID: `aHSwHgAAAABk4fpTZ6Uu+zF6WL3X8qx9`

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Qetoo\. Artwork: Isu Kim
 
-432 songs - 23 hr 3 min
+434 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Mesh Gaya](https://open.spotify.com/track/3ztuvByx4cybDWeKGJ4uZ6) | [Malak Badawi](https://open.spotify.com/artist/3M5I3VKr6qexIoscSAWaUm) | [Mesh Gaya](https://open.spotify.com/album/6glWVUQgbdgoVsyByML0O6) | 2:36 | 2024-05-22 | 2024-09-12 |
 | [Midas](https://open.spotify.com/track/5EwdW98DhJckM8MzojNH41) | [DEIMI](https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb) | [Midas](https://open.spotify.com/album/2NuV7kBaa2ONFpvg0LkA6a) | 2:40 | 2025-04-03 |  |
 | [Midnight Blooms](https://open.spotify.com/track/7vcMs6ZC0TZyrN6BDyf8vg) | [Hotboxgroove](https://open.spotify.com/artist/2iOmWTulb3nP3FQ9DYtLLV) | [Midnight Blooms](https://open.spotify.com/album/7vDLOjrrS0JH2YQYmcUCw8) | 8:12 | 2022-11-01 | 2023-04-05 |
+| [Midnight Cruising](https://open.spotify.com/track/0xa4flflOYX1HAQIHhEjbe) | [Bdeey](https://open.spotify.com/artist/1pacZxvVuPGfVPYDHuoZ7i) | [Midnight Cruising](https://open.spotify.com/album/3XcNPRMIAvKsZsOT7XkUo5) | 3:00 | 2025-07-14 |  |
 | [Minka Saraqtani](https://open.spotify.com/track/7JyLPlBYSSHfhRnhJ8cJv1) | [Abboud](https://open.spotify.com/artist/1rT9fLtyq8iz8Jegn7L4Uc) | [Minka Saraqtani](https://open.spotify.com/album/0Llctk7c1Hql62KSKRsrnU) | 4:32 | 2022-09-20 | 2022-10-12 |
 | [Mio!](https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO) | [Lullysnake](https://open.spotify.com/artist/4KliRHlaiBy3lAztDAD6cz) | [Mio!](https://open.spotify.com/album/45bACcrff6jn9j3yrniTuE) | 2:54 | 2025-04-03 |  |
 | [Miskeen](https://open.spotify.com/track/0HmCXt2AJVvEYPDu3vJVsY) | [Asayel](https://open.spotify.com/artist/31UcNVT6d7myOObOy0LsNS), [Hyper249](https://open.spotify.com/artist/3T7CEZ4h8vXO8kEftlggOI) | [Miskeen](https://open.spotify.com/album/2depylvdwDuSDuO3H5JHOE) | 4:10 | 2024-11-06 | 2025-06-25 |
@@ -277,6 +278,7 @@
 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 | 2022-12-13 | 2023-05-03 |
 | [OBSESSED](https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [OBSESSED](https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG) | 2:54 | 2023-03-07 | 2023-07-19 |
 | [Ocean of Black \(AKA Harlot Sun\)](https://open.spotify.com/track/43Euq23DvavCc4P3b0WdqF) | [Blue Vein River](https://open.spotify.com/artist/5zLSqhWdzWowLvrg0Nory0) | [Ocean of Black \(AKA Harlot Sun\)](https://open.spotify.com/album/0B4QxMN7Ri5zPAmFuuJRRV) | 4:36 | 2022-11-01 | 2022-11-09 |
+| [ODABLE](https://open.spotify.com/track/69mcvnHrScEU4baYJ699qj) | [ODA](https://open.spotify.com/artist/3OtJ7fVZzFiLcwxNoYOMou), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [ODABLE](https://open.spotify.com/album/1SMPHOgcnPyeWtHFIFB9IX) | 2:11 | 2025-07-14 |  |
 | [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 | 2023-04-05 | 2023-09-13 |
 | [Odyssey](https://open.spotify.com/track/5gfPncB0pTdWyeJRYu5qmK) | [NOON](https://open.spotify.com/artist/5zUcDU1ZjhvthhFgjgQbag) | [Odyssey](https://open.spotify.com/album/1no8qFz8Vx9ymcCTL5D1SX) | 8:36 | 2022-11-23 | 2023-01-25 |
 | [Oh Julia](https://open.spotify.com/track/6KUfAYSpuZGdb1jPyBMKWS) | [HanyMust](https://open.spotify.com/artist/74gb4hJFDs0sGCwa5Zhxfp) | [Oh Julia](https://open.spotify.com/album/1uthZEZvFuY2GJqR2HgadG) | 2:55 | 2023-02-14 | 2023-04-05 |
@@ -418,7 +420,7 @@
 | [برقص عل احزان](https://open.spotify.com/track/701o32JXLUpsioqlsBGC9G) | [Qetoo](https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF) | [برقص عل احزان](https://open.spotify.com/album/0fYArJcRhUrpU4YYZ1ihqw) | 1:52 | 2025-05-20 |  |
 | [بسيط ايفكتڤ](https://open.spotify.com/track/0AHVNC8und8XJU61876q0o) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [DZEEZ دزيز](https://open.spotify.com/artist/0NwIwzq4fV5i0LNEC7Vtwg) | [بسيط ايفكتڤ](https://open.spotify.com/album/4Gf35Uc9uEEi5M9qWKGA5c) | 1:35 | 2022-09-20 | 2022-09-28 |
 | [بطل اللّيل](https://open.spotify.com/track/5EkZW0pGpwaVkPomonWYsd) | [Nour Yamm](https://open.spotify.com/artist/0DiKAWOh13CGK5v0f8KyXR) | [بطل اللّيل](https://open.spotify.com/album/6O9WlkU4z1lN6zH0BfvILZ) | 3:20 | 2025-01-22 |  |
-| [تصعيد](https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [تصعيد](https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi) | 2:04 | 2024-11-26 |  |
+| [تصعيد](https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [تصعيد](https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi) | 2:04 | 2024-11-26 | 2025-07-15 |
 | [خارج اسرابي](https://open.spotify.com/track/4OEVXSK3RYbc86SsbiIiOw) | [Eisa Abdulla](https://open.spotify.com/artist/47rLY8kQgCXwY9rxi4q7Vy) | [خارج اسرابي](https://open.spotify.com/album/1ZAOSVktOxqyUZwKC6qAwh) | 3:40 | 2024-09-11 | 2024-11-27 |
 | [خصلة](https://open.spotify.com/track/58xuxqwXEEWFpiU6Mju8bQ) | [HIYA](https://open.spotify.com/artist/1FnryusWztu8TJm7fQqOg1) | [خصلة](https://open.spotify.com/album/58D2vS5ynxxr7h22aNoyE2) | 2:57 | 2024-09-11 | 2025-01-23 |
 | [دكتور نفساني](https://open.spotify.com/track/0xqXbsKJs9dRyIJBZRRNhJ) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [دكتور نفساني](https://open.spotify.com/album/1P4Qp6t6v3m7AotVxh5g3E) | 2:59 | 2022-11-15 | 2022-12-14 |
@@ -439,6 +441,6 @@
 | [هما سابونا](https://open.spotify.com/track/7oTnx9O7DubWLOvjYn8tai) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [الخوف](https://open.spotify.com/album/4FXMWjo5IxroKIZSjaS0v9) | 3:02 | 2025-02-17 |  |
 | [و أنا مالي](https://open.spotify.com/track/2aCE78ZsW1t42bMPz8G5wP) | [DJIZA](https://open.spotify.com/artist/21wg9OKxtB2sZVuhBaEwCk) | [و أنا مالي](https://open.spotify.com/album/3wbG98cMVwm7ms7GvHcwib) | 2:30 | 2024-05-14 | 2024-09-12 |
 | [وقت الفراق](https://open.spotify.com/track/0oikCaTV3ZMxWUTxDeF3HC) | [Wazeer](https://open.spotify.com/artist/44uG5qaf4POeVrqI6anrr4) | [وقت الفراق](https://open.spotify.com/album/1EbaIOOBWGwbArlafQPqqH) | 3:10 | 2025-05-16 |  |
-| [يمّر الوقت](https://open.spotify.com/track/7yZjHD4eP38V5bHOgPmbAL) | [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [يمّر الوقت](https://open.spotify.com/album/30XQSYHG2tSLkh0tkibG8a) | 2:31 | 2024-11-26 |  |
+| [يمّر الوقت](https://open.spotify.com/track/7yZjHD4eP38V5bHOgPmbAL) | [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [يمّر الوقت](https://open.spotify.com/album/30XQSYHG2tSLkh0tkibG8a) | 2:31 | 2024-11-26 | 2025-07-15 |
 
 \*This playlist was first scraped on 2022-09-21. Prior content cannot be recovered.

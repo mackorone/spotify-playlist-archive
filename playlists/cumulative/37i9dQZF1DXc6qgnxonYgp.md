@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-261 songs - 14 hr 36 min
+262 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Vaadi](https://open.spotify.com/track/1GCFQsMUH9bcYCxwGkPT7v) | [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [Closer To Home](https://open.spotify.com/album/2ROJEYLujMGkqBP6ZUpnv5) | 2:59 | 2021-12-01 | 2023-09-23 |
 | [Vai\-Lapalam \- All Star Freemix](https://open.spotify.com/track/4GJna3gI2IO4AGWISiSgLk) | [Rabbit Mac](https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7), [Sheezay](https://open.spotify.com/artist/59ZFcw0jfy0Z4rcF1DXKBF), [MC Syze](https://open.spotify.com/artist/415RH1HJvYXcARc4o4CdBV), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW), [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S), [Lady Kash](https://open.spotify.com/artist/2a1ts2wPvq6Vif1x7KJV7a), [Nigel Sparks](https://open.spotify.com/artist/2TCSwFPPPd224AnexuC2Ul), [Switche Stylomannavan](https://open.spotify.com/artist/1KOsYQ8eQlHvDos3ae3RVY), [Balan Kashmir](https://open.spotify.com/artist/325YYQYPfzMWMOHJFJ4ulw), [Harvinth Skin](https://open.spotify.com/artist/6qgKUwOGSU1iHNktLOON00), [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z), [DJ Ruckes](https://open.spotify.com/artist/3WU2oXZJkKqzfoE5k7qNmR), [Bone Killa](https://open.spotify.com/artist/4HrWZfx8a2hcEuzGgdxoyY), [Lawrence Soosai](https://open.spotify.com/artist/20dBzjrPoo0gLUSdUrdkbi), [Bugz](https://open.spotify.com/artist/2NHsxbNCRryEfVz8CjgiUu) | [Vai\-Lapalam \(All Star Freemix\)](https://open.spotify.com/album/1oIIt5eCLNQ3L7BimFvNbP) | 5:57 | 2021-12-01 | 2023-01-14 |
 | [Vainko](https://open.spotify.com/track/1nLdzIq6U8wavefMS1fou7) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Vainko](https://open.spotify.com/album/2roNgyh1Jymvnt17NBgPic) | 2:53 | 2021-12-01 | 2024-10-18 |
+| [Vandhana](https://open.spotify.com/track/7L1lPivzIzdkL85Ra7FaTM) | [Mc Bhaashi](https://open.spotify.com/artist/7lZin56OSjFKERgNRdQetu), [Ess\-K](https://open.spotify.com/artist/5e0FCm0Oo1s5BEz2i1NPQN), [Da Papes](https://open.spotify.com/artist/7GhVU0cLmPZ0H0MQm8ESXp), [Dope Machas](https://open.spotify.com/artist/5O8bOXAmMY2AjtxNcpsV1V) | [Vandhana](https://open.spotify.com/album/1gqs9nYtlv9sfuMxOB5RZD) | 3:27 | 2025-07-14 |  |
 | [Vanthaa Vaadi](https://open.spotify.com/track/5PPPxOBW4A3ufH4e26EbUc) | [Mc Bhaashi](https://open.spotify.com/artist/7lZin56OSjFKERgNRdQetu) | [Vanthaa Vaadi](https://open.spotify.com/album/48fLqdHiy7Gv2SDePobMr3) | 2:39 | 2021-12-01 | 2024-12-29 |
 | [Vena](https://open.spotify.com/track/4eRTJ0RLrZPUl2VdduSUhp) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq), [Vbreak](https://open.spotify.com/artist/1Rgi8SgT5uIsPSiP8jLxzr) | [Vena](https://open.spotify.com/album/5PZCNR0RQPhetP2G0bMVia) | 2:44 | 2024-07-08 |  |
 | [Vendum Vendaam](https://open.spotify.com/track/7JlxhQmUcHRWaIpUjWEyaF) | [Krishan Maheson](https://open.spotify.com/artist/090PjZy0HWrly2e5Tcpj8j), [Keerthana](https://open.spotify.com/artist/3F3Y5Y6PsKkXftDYVL6ON7) | [Vendum Vendaam](https://open.spotify.com/album/17a3v71QiLbQpxjRxSq1wA) | 3:38 | 2021-12-01 | 2021-12-30 |

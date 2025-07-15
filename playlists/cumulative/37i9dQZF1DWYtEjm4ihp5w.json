@@ -876,7 +876,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 172862,
       "name": "BLACKLIST",
       "url": "https://open.spotify.com/track/7iFPpFyRIErmhqslTbHlCl"
@@ -2465,6 +2465,28 @@
     },
     {
       "album": {
+        "name": "Fundo",
+        "url": "https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI"
+      },
+      "artists": [
+        {
+          "name": "Clemando",
+          "url": "https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3"
+        },
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221358,
+      "name": "Fundo",
+      "url": "https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E"
+    },
+    {
+      "album": {
         "name": "GAL\u00c8RE",
         "url": "https://open.spotify.com/album/3wmwLmLOPGjhyRmPPDJ5Hd"
       },
@@ -3506,6 +3528,24 @@
       "duration_ms": 203076,
       "name": "KOUN RAJEL",
       "url": "https://open.spotify.com/track/4SxZyjZiFdlSW5YTUhMU7t"
+    },
+    {
+      "album": {
+        "name": "KTER MN 10",
+        "url": "https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144796,
+      "name": "KTER MN 10",
+      "url": "https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP"
     },
     {
       "album": {
@@ -4810,7 +4850,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 203225,
       "name": "NDAM!",
       "url": "https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5"

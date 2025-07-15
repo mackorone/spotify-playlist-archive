@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 679729,
+  "num_followers": 679796,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAB+eplZrv6dKD7Lc3H6rBcH",
+  "snapshot_id": "aHL3AAAAAADFtjQDXPLSiQIr5RJoJ4RZ",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Hyacinth House",
-      "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strange Nights of Stone",
         "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 30893,
       "name": "Yachting (Hyper)",
       "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Hyacinth House",
+      "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
     },
     {
       "added_at": null,

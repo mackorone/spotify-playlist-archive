@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 807063,
+  "num_followers": 807075,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "N\u00e3o Olha Assim Pra Mim",
-      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
-    },
-    {
-      "added_at": "2025-07-11 05:42:19",
-      "album": {
         "name": "Reconstru\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 204895,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
+    },
+    {
+      "added_at": "2025-07-11 05:42:19",
+      "album": {
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "N\u00e3o Olha Assim Pra Mim",
+      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -507,26 +507,6 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Pra Me Refazer",
-        "url": "https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5"
-      },
-      "artists": [
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 215116,
-      "name": "Pra Me Refazer",
-      "url": "https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r"
-    },
-    {
-      "added_at": "2025-07-11 05:42:19",
-      "album": {
         "name": "Onde?",
         "url": "https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS"
       },
@@ -563,18 +543,22 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Beleza. Mas agora a gente faz o que com isso?",
-        "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
+        "name": "Pra Me Refazer",
+        "url": "https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 158461,
-      "name": "A Janela, Carolina",
-      "url": "https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH"
+      "duration_ms": 215116,
+      "name": "Pra Me Refazer",
+      "url": "https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -591,6 +575,22 @@
       "duration_ms": 211237,
       "name": "De Tanto Amor",
       "url": "https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl"
+    },
+    {
+      "added_at": "2025-07-11 05:42:19",
+      "album": {
+        "name": "Beleza. Mas agora a gente faz o que com isso?",
+        "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 158461,
+      "name": "A Janela, Carolina",
+      "url": "https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -699,26 +699,18 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Pra Melhorar",
-        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
+        "name": "Top Hits",
+        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Flor",
-          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 256613,
-      "name": "Pra Melhorar",
-      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
+      "duration_ms": 249706,
+      "name": "Lenha",
+      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -735,26 +727,6 @@
       "duration_ms": 200045,
       "name": "Reconvexo - Ao Vivo",
       "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
-    },
-    {
-      "added_at": "2025-07-11 05:42:19",
-      "album": {
-        "name": "Mostrando Os Dentes",
-        "url": "https://open.spotify.com/album/5c0oHJioFpM2zSSJCvjay8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Mizutani",
-          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
-        },
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Deixar",
-      "url": "https://open.spotify.com/track/4dTzcw2ajjxSde0XFMoxXE"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -787,18 +759,22 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Top Hits",
-        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
+        "name": "Mostrando Os Dentes",
+        "url": "https://open.spotify.com/album/5c0oHJioFpM2zSSJCvjay8"
       },
       "artists": [
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
+        },
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
         }
       ],
-      "duration_ms": 249706,
-      "name": "Lenha",
-      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
+      "duration_ms": 151400,
+      "name": "Deixar",
+      "url": "https://open.spotify.com/track/4dTzcw2ajjxSde0XFMoxXE"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -827,6 +803,30 @@
       "duration_ms": 230849,
       "name": "Bem Bom",
       "url": "https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf"
+    },
+    {
+      "added_at": "2025-07-11 05:42:19",
+      "album": {
+        "name": "Pra Melhorar",
+        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Flor",
+          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Pra Melhorar",
+      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
+        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 105253,
+      "name": "Gostoso Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
+    },
+    {
+      "added_at": "2025-07-11 05:42:19",
+      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
-    },
-    {
-      "added_at": "2025-07-11 05:42:19",
-      "album": {
-        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 105253,
-      "name": "Gostoso Demais - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Voltar \u00e0 Bahia",
-      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
-    },
-    {
-      "added_at": "2025-07-11 05:42:19",
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 212040,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio"
+    },
+    {
+      "added_at": "2025-07-11 05:42:19",
+      "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Voltar \u00e0 Bahia",
+      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Plays Great Songs",
-        "url": "https://open.spotify.com/album/4f5CVT1TStkzO3vT54ODoG"
-      },
-      "artists": [
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        }
-      ],
-      "duration_ms": 134739,
-      "name": "Seville",
-      "url": "https://open.spotify.com/track/6AnO2VhMq5G5bDPNMqCKJB"
-    },
-    {
-      "added_at": "2025-07-11 05:42:19",
-      "album": {
         "name": "N\u00f3s e o Mar",
         "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 233273,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
+    },
+    {
+      "added_at": "2025-07-11 05:42:19",
+      "album": {
+        "name": "Plays Great Songs",
+        "url": "https://open.spotify.com/album/4f5CVT1TStkzO3vT54ODoG"
+      },
+      "artists": [
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        }
+      ],
+      "duration_ms": 134739,
+      "name": "Seville",
+      "url": "https://open.spotify.com/track/6AnO2VhMq5G5bDPNMqCKJB"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn"
+        "name": "Disritmia / Ex-Amor",
+        "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
       },
       "artists": [
         {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
         }
       ],
-      "duration_ms": 207530,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE"
+      "duration_ms": 299724,
+      "name": "Disritmia / Ex-Amor",
+      "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
     }
   ],
   "unique_name": "Cafezinho",

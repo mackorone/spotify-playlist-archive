@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring Liang Lawrence 💐
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,134 likes - 95 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,117 likes - 95 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

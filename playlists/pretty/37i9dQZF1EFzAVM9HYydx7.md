@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,928 likes - 299 songs - 18 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,929 likes - 299 songs - 18 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,8 +228,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 218 | [Put It Down](https://open.spotify.com/track/4TExSQ69GkXwxbfBzToc2c) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Trill O.G.](https://open.spotify.com/album/6ikFBgbHUMhgUkRe1thKuD) | 4:32 |
 | 219 | [My Reality](https://open.spotify.com/track/0Q9HulJie8Hxe2mx1q4nCy) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:09 |
 | 220 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
-| 221 | [Literally](https://open.spotify.com/track/7sNL6nRdkkLT7tyzRcgExG) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 5:34 |
-| 222 | [BLAME IT ON SET](https://open.spotify.com/track/1IbxylXUqdrkToPnGoUUQV) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:58 |
+| 221 | [BLAME IT ON SET](https://open.spotify.com/track/1IbxylXUqdrkToPnGoUUQV) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:58 |
+| 222 | [Literally](https://open.spotify.com/track/7sNL6nRdkkLT7tyzRcgExG) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 5:34 |
 | 223 | [Lil Nigga Snupe](https://open.spotify.com/track/6sozeIaS4AlmDGhAjnZAib) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreamchasers 3](https://open.spotify.com/album/5k21b6J72f19J3NmPXgPUu) | 3:27 |
 | 224 | [Rich Boy](https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:21 |
 | 225 | [FEED](https://open.spotify.com/track/2UnYYdvyWndHU4yPdoyAtZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:02 |
@@ -308,4 +308,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 298 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 299 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Ab2slAAAAAAoPwozHegFAHiXC49qQBs2`
+Snapshot ID: `Ab2ycAAAAABXQ3l2gY/JVwk/TXKH9YBA`

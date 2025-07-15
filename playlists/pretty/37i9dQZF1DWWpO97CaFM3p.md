@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,399 likes - 125 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,383 likes - 125 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 19 | [Rosyln](https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 4:49 |
 | 20 | [State Lines](https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:28 |
 | 21 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 |
-| 22 | [Send Me On My Way](https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [When I Woke](https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf) | 4:23 |
-| 23 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 |
+| 22 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 |
+| 23 | [Send Me On My Way](https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [When I Woke](https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf) | 4:23 |
 | 24 | [Home](https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Stop Stealing The Covers!](https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah) | 3:17 |
 | 25 | [Homesick](https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:14 |
 | 26 | [Repeat Until Death](https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:54 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 115 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
 | 116 | [tidal wave](https://open.spotify.com/track/1qJ4G36THbntJM8w1xyLL8) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [tidal wave](https://open.spotify.com/album/1gvPVsUNYltKKOuz2cXnu4) | 4:01 |
 | 117 | [Lightning Of July](https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Lightning Of July](https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG) | 2:56 |
-| 118 | [Sleepless in Seattle](https://open.spotify.com/track/1NwqQ7E9NfQ4GW2a9LDMNI) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 4:00 |
-| 119 | [Drivin \(feat\. Field Medic\)](https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Drivin \(feat\. Field Medic\)](https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc) | 3:27 |
+| 118 | [Drivin \(feat\. Field Medic\)](https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Drivin \(feat\. Field Medic\)](https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc) | 3:27 |
+| 119 | [Sleepless in Seattle](https://open.spotify.com/track/1NwqQ7E9NfQ4GW2a9LDMNI) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 4:00 |
 | 120 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 |
 | 121 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 |
 | 122 | [Powder Blue](https://open.spotify.com/track/0Ba3AAdXs6teCiYHveUgbS) | [HARBRS](https://open.spotify.com/artist/0UYyS6FwvxLy8dw1W9SB6T) | [Powder Blue](https://open.spotify.com/album/2lJVt9WuO7TgCGO7ww9ZS6) | 3:36 |

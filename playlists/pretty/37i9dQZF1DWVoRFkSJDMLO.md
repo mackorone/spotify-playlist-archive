@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: Mahalia 🇯🇲
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,259 likes - 74 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,289 likes - 74 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 7 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
 | 8 | [Brick by Brick \- Remix](https://open.spotify.com/track/3hwwN0Z0QFMZQ2Hrc71sQp) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [DJ Puffy](https://open.spotify.com/artist/4YbipEAtJgAbKrZvdFEeTr), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Brick by Brick \(Remix\)](https://open.spotify.com/album/3wxJ6j3TaJkRr15tGbXGcW) | 3:15 |
 | 9 | [No Sign of Weakness](https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:55 |
-| 10 | [Passenger Princess](https://open.spotify.com/track/3K0Brj5efNDnuanUlQACq7) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Passenger Princess](https://open.spotify.com/album/4aO1h3geLdTrYrl612pf6g) | 2:30 |
+| 10 | [Passenger Princess](https://open.spotify.com/track/3K0Brj5efNDnuanUlQACq7) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Passenger Princess](https://open.spotify.com/album/4aO1h3geLdTrYrl612pf6g) | 2:30 |
 | 11 | [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 |
 | 12 | [Anyting](https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Anyting](https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo) | 2:02 |
 | 13 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,029 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,038 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 36 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
 | 37 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 |
 | 38 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
-| 39 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 |
-| 40 | [S.M.K](https://open.spotify.com/track/0oL9HnbUNFdkfIGbYZjQyg) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:30 |
+| 39 | [S.M.K](https://open.spotify.com/track/0oL9HnbUNFdkfIGbYZjQyg) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:30 |
+| 40 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 |
 | 41 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 |
 | 42 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 |
 | 43 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |

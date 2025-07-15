@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,416 likes - 49 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,430 likes - 49 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Solid Country Gold](https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:28 |
-| 2 | [Handle On You](https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:39 |
-| 3 | [What Kinda Man](https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [What Kinda Man](https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM) | 4:19 |
+| 2 | [What Kinda Man](https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [What Kinda Man](https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM) | 4:19 |
+| 3 | [Handle On You](https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:39 |
 | 4 | [Hell of a Year](https://open.spotify.com/track/2kvlpIO6c9yvKAzk2KF0IS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 3:52 |
 | 5 | [Pretty Heart](https://open.spotify.com/track/7nINhyXn6uwUkYLY5KQH0K) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 4:05 |
-| 6 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 |
-| 7 | [Meet You in the Middle](https://open.spotify.com/track/5fgeba92zIjtr49JupqI9O) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7) | 3:30 |
+| 6 | [Meet You in the Middle](https://open.spotify.com/track/5fgeba92zIjtr49JupqI9O) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7) | 3:30 |
+| 7 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 |
 | 8 | [I Can't Breathe](https://open.spotify.com/track/3QtCKENdSI3l8xlSULRrK0) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 4:17 |
 | 9 | [Big Sky](https://open.spotify.com/track/0syywgDoE7Qaud0Kz1L3H0) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Big Sky](https://open.spotify.com/album/4sbFij3rJCbuzDUbGiOlae) | 2:47 |
 | 10 | [Killin’ Me](https://open.spotify.com/track/2IRSpYsVphI0rZz93eqjrL) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:17 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 48 | [Perfectly Lonely](https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Perfectly Lonely](https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH) | 4:30 |
 | 49 | [Hallie Ray Light](https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:41 |
 
-Snapshot ID: `aHGlgAAAAAAt77A3NcF6tKDgLgq+vqsy`
+Snapshot ID: `aHL3AAAAAACfRkmsSU6d+VB6lVO7oxCt`

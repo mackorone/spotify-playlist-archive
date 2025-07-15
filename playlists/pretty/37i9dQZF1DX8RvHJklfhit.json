@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 208530,
+  "num_followers": 208605,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "En Cantos",
         "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 212957,
       "name": "En Cantos",
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Uno Dos (feat. Jaden Smith)",
         "url": "https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 170125,
       "name": "Uno Dos (feat. Jaden Smith)",
       "url": "https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Limbo Habitual, Vol. I",
-        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 262053,
-      "name": "Dos que uno",
-      "url": "https://open.spotify.com/track/3V2sqiqXuRUaK1gv1ugbdp"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Verano Panor\u00e1mico",
         "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 127704,
       "name": "That's Playa",
       "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Limbo Habitual, Vol. I",
+        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 262053,
+      "name": "Dos que uno",
+      "url": "https://open.spotify.com/track/3V2sqiqXuRUaK1gv1ugbdp"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Limbo Habitual, Vol. I",
-        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 215013,
-      "name": "Musa introvertida",
-      "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 186598,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Limbo Habitual, Vol. I",
+        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "Musa introvertida",
+      "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 258713,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Eres Diamante",
         "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 240295,
       "name": "Ojos Noche",
       "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 258713,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
     }
   ],
   "unique_name": "Latin Indie Classics",

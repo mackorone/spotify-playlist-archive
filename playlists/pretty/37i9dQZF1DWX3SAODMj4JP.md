@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,686 likes - 69 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,702 likes - 69 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 41 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
 | 42 | [Asas](https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb) | [Itagon](https://open.spotify.com/artist/1nRBkENa3rDetRoPakipOh), [Renata Calheiros](https://open.spotify.com/artist/3L3jIoTWT58r8Jrc2X8svJ) | [Primeiro](https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6) | 4:42 |
 | 43 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ) | [Stone Band](https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN) | 2:17 |
-| 44 | [Sonhadora \(Versão Alternativa\) \- Acústico](https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora \(Acústico\)](https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7) | 3:56 |
-| 45 | [Tributo A Iehovah \- Ao Vivo](https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Tributo A Iehovah \(Ao Vivo\)](https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62) | 6:07 |
+| 44 | [Tributo A Iehovah \- Ao Vivo](https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Tributo A Iehovah \(Ao Vivo\)](https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62) | 6:07 |
+| 45 | [Sonhadora \(Versão Alternativa\) \- Acústico](https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora \(Acústico\)](https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7) | 3:56 |
 | 46 | [Filho \- Acústico](https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Leidy Murilho Acústico](https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu) | 3:47 |
 | 47 | [Descansar em Ti](https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Descansar em Ti](https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef) | 3:45 |
 | 48 | [Clarear](https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa) | [Nós em Um](https://open.spotify.com/artist/42xizszi345HS5i21AR5MT) | [Clarear](https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD) | 5:18 |

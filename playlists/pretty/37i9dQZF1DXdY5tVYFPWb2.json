@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 174619,
+  "num_followers": 174649,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-07-08 15:00:22",
       "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 233974,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU"
+    },
+    {
+      "added_at": "2025-07-08 15:00:22",
+      "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 187862,
       "name": "Drink!",
       "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
-    },
-    {
-      "added_at": "2025-07-08 15:00:22",
-      "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 233974,
-      "name": "Lazy",
-      "url": "https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU"
     },
     {
       "added_at": "2025-07-08 15:00:22",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-07-08 15:00:22",
       "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
-    },
-    {
-      "added_at": "2025-07-08 15:00:22",
-      "album": {
         "name": "Smoky Valley",
         "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
+    },
+    {
+      "added_at": "2025-07-08 15:00:22",
+      "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
     },
     {
       "added_at": "2025-07-08 15:00:22",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-07-08 15:00:22",
       "album": {
-        "name": "Driving Summer",
-        "url": "https://open.spotify.com/album/0bFonS00fotNAieZ3RBLx8"
-      },
-      "artists": [
-        {
-          "name": "Tomoyo Harada",
-          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "Driving Summer",
-      "url": "https://open.spotify.com/track/4WHMEWCwKOlBGNABFoj5Fg"
-    },
-    {
-      "added_at": "2025-07-08 15:00:22",
-      "album": {
         "name": "Peppermint Time \uff5e20th Anniversary Best\uff5e",
         "url": "https://open.spotify.com/album/7meBtgpFcPhXVRtwytboHl"
       },
@@ -1343,22 +1327,6 @@
     {
       "added_at": "2025-07-08 15:00:22",
       "album": {
-        "name": "MUSIC WARDROBE",
-        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "Don't Be Someone Else",
-      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
-    },
-    {
-      "added_at": "2025-07-08 15:00:22",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
       },
@@ -1371,6 +1339,38 @@
       "duration_ms": 217659,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
+    },
+    {
+      "added_at": "2025-07-08 15:00:22",
+      "album": {
+        "name": "Driving Summer",
+        "url": "https://open.spotify.com/album/0bFonS00fotNAieZ3RBLx8"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "Driving Summer",
+      "url": "https://open.spotify.com/track/4WHMEWCwKOlBGNABFoj5Fg"
+    },
+    {
+      "added_at": "2025-07-08 15:00:22",
+      "album": {
+        "name": "MUSIC WARDROBE",
+        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "Don't Be Someone Else",
+      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2025-07-08 15:00:22",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-07-08 15:00:22",
       "album": {
-        "name": "STARLIGHT",
-        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "STARLIGHT",
-      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
-    },
-    {
-      "added_at": "2025-07-08 15:00:22",
-      "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 222464,
       "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u63fa\u3089\u3081\u304d",
       "url": "https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX"
+    },
+    {
+      "added_at": "2025-07-08 15:00:22",
+      "album": {
+        "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
     },
     {
       "added_at": "2025-07-08 15:00:22",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-07-08 15:00:22",
       "album": {
-        "name": "Once Upon a Night",
-        "url": "https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 223395,
-      "name": "Once Upon a Night",
-      "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
-    },
-    {
-      "added_at": "2025-07-08 15:00:22",
-      "album": {
         "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
         "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 275935,
       "name": "Document",
       "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
+    },
+    {
+      "added_at": "2025-07-08 15:00:22",
+      "album": {
+        "name": "Once Upon a Night",
+        "url": "https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 223395,
+      "name": "Once Upon a Night",
+      "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
     },
     {
       "added_at": "2025-07-08 15:00:22",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-07-08 15:00:22",
       "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
-    },
-    {
-      "added_at": "2025-07-08 15:00:22",
-      "album": {
         "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONELINESS (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONELINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
+    },
+    {
+      "added_at": "2025-07-08 15:00:22",
+      "album": {
+        "name": "RELOADING CITY",
+        "url": "https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI"
+      },
+      "artists": [
+        {
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "\u30a2\u30dd\u30ed",
+      "url": "https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

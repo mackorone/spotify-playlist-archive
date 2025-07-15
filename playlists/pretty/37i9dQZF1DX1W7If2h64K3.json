@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 55036,
+  "num_followers": 55049,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -495,30 +495,6 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
-        "name": "Schumann: Myrthen",
-        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Camilla Tilling",
-          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
-        },
-        {
-          "name": "Gerold Huber",
-          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Myrthen, Op. 25: No. 1, Widmung",
-      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
         "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
         "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
       },
@@ -567,8 +543,8 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
-        "name": "Schumann: Humoreske, Op. 20 / Fantasia In C, Op. 17",
-        "url": "https://open.spotify.com/album/3udA4oqeaONjqWRcudxaCo"
+        "name": "Schumann: Myrthen",
+        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
       },
       "artists": [
         {
@@ -576,13 +552,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Richard Goode",
-          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
+          "name": "Camilla Tilling",
+          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
+        },
+        {
+          "name": "Gerold Huber",
+          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
         }
       ],
-      "duration_ms": 1579000,
-      "name": "Humoreske, op. 20",
-      "url": "https://open.spotify.com/track/59vvQ1vzVLkGZ8CsaaaJDi"
+      "duration_ms": 139000,
+      "name": "Myrthen, Op. 25: No. 1, Widmung",
+      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
     },
     {
       "added_at": "2025-07-04 11:08:09",
@@ -607,6 +587,26 @@
       "duration_ms": 353000,
       "name": "Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
       "url": "https://open.spotify.com/track/22O2MEvTDmsVdbbn5J6jYT"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
+        "name": "Schumann: Humoreske, Op. 20 / Fantasia In C, Op. 17",
+        "url": "https://open.spotify.com/album/3udA4oqeaONjqWRcudxaCo"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Richard Goode",
+          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
+        }
+      ],
+      "duration_ms": 1579000,
+      "name": "Humoreske, op. 20",
+      "url": "https://open.spotify.com/track/59vvQ1vzVLkGZ8CsaaaJDi"
     },
     {
       "added_at": "2025-07-04 11:08:09",
@@ -663,6 +663,30 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
+        "name": "Schumann: The Symphonies",
+        "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 709466,
+      "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
+      "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
         "name": "Mendelssohn, Goodyear & Schumann: Piano Concerti",
         "url": "https://open.spotify.com/album/27Yf1gmEWozEBLB1HD3sEj"
       },
@@ -687,30 +711,6 @@
       "duration_ms": 320666,
       "name": "Piano Concerto in A Minor, Op. 54: II. Intermezzo. Andantino grazioso",
       "url": "https://open.spotify.com/track/4HkRZJM99jxwC8DKFbShOC"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
-        "name": "Schumann: The Symphonies",
-        "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 709466,
-      "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
-      "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
     },
     {
       "added_at": "2025-07-04 11:08:09",

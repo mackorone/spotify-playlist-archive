@@ -4,7 +4,7 @@
 
 > roots run deep
 
-393 songs - 23 hr 31 min
+394 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Riverbank](https://open.spotify.com/track/2STQ5fSQcIm3S2lBSYa0db) | [Colton Bowlin](https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C) | [Songs From The Holler](https://open.spotify.com/album/43uEBtVgq9LStAuhfme33c) | 3:25 | 2025-02-28 |  |
 | [Rodeo Money](https://open.spotify.com/track/1cSjK6jDelAxuBypzWsJ7R) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Rodeo Money](https://open.spotify.com/album/2f2ENXEtPErgBXvvhTCBH2) | 3:47 | 2023-02-24 | 2023-12-09 |
 | [Rollin' Stone](https://open.spotify.com/track/1CxoluXWMslZp5T89ravj3) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Rollin' Stone](https://open.spotify.com/album/5ENChAFhgnJ4kpnLpIt3wB) | 2:31 | 2024-10-25 |  |
+| [Roughnecks](https://open.spotify.com/track/0WqwM4Zl2cbrjFncfL9fT5) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [Roughnecks](https://open.spotify.com/album/3My03QNOIblMPlbgT2xzhJ) | 4:07 | 2025-07-14 |  |
 | [Run Away High](https://open.spotify.com/track/58XuhoLGFJCqpD5EOPif3f) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Run Away High](https://open.spotify.com/album/06mk4vdbCFKD3K3sIEpEd6) | 3:21 | 2023-11-21 | 2023-12-09 |
 | [Run Your Mouth](https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 2:40 | 2024-08-28 |  |
 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 | 2023-02-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,492 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,496 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 19 | [Não é Tarde](https://open.spotify.com/track/1FrncXJGmRTpAGksXoR9k8) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 5:24 |
 | 20 | [A Noiva](https://open.spotify.com/track/7AJOBNI8TXteMfbpuBnfC6) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Milagre](https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur) | 3:56 |
 | 21 | [Rasgando o Coração](https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 5:01 |
-| 22 | [Faraó ou Deus?](https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/5B1HnQZlDWNvY7OQE1F2uz) | 4:55 |
-| 23 | [Puro Nardo](https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas um Toque](https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel) | 4:49 |
+| 22 | [Puro Nardo](https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas um Toque](https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel) | 4:49 |
+| 23 | [Faraó ou Deus?](https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/5B1HnQZlDWNvY7OQE1F2uz) | 4:55 |
 | 24 | [Aos Teus Pés](https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 3:32 |
 | 25 | [Feliz De Vez](https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Feliz De Vez](https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO) | 4:39 |
 | 26 | [Alto Preço \- Ao Vivo](https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Sóstenes Mendes](https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb) | [Rastros de Amor \(ao Vivo\)](https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF) | 4:22 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 39 | [Jesus, Meu Primeiro Amor](https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 6:56 |
 | 40 | [Tempo de Crescer](https://open.spotify.com/track/2BGIItsqoZ3eRVUpgNJAUk) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:11 |
 | 41 | [Enquanto Eu Chorava](https://open.spotify.com/track/2dlSQSCnYr2gejkAG4HPOJ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Glória](https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ) | 4:39 |
-| 42 | [Liberta\-me](https://open.spotify.com/track/6kNhJ3xdVnPeZKyo3Umjql) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 4:57 |
-| 43 | [Santo \(Holy\)](https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:44 |
+| 42 | [Santo \(Holy\)](https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:44 |
+| 43 | [Liberta\-me](https://open.spotify.com/track/6kNhJ3xdVnPeZKyo3Umjql) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 4:57 |
 | 44 | [Tua Face](https://open.spotify.com/track/20ULhBcBQ0WYvTRNXUdNrt) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Milagre](https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur) | 4:05 |
 | 45 | [Pastor](https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Thyago Fersil](https://open.spotify.com/artist/1NUvYKjjgjF7W8yMvu9Wta), [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR), [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [Marquinhos Menezes](https://open.spotify.com/artist/346ncC0fvMSVV75BR8LFf2), [Lilian Azevedo](https://open.spotify.com/artist/7g0oBs0qkjsNWaUNbYHk5N), [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Emerson Pinheiro](https://open.spotify.com/artist/3OEGZWy4uk8PmTVG9WpNxw), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 6:16 |
 | 46 | [Escreve](https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Escreve](https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 49 | [Vinho e Pão](https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Paixão de Cristo \- O Musical](https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO) | 3:13 |
 | 50 | [Tua Presença](https://open.spotify.com/track/60SpsytvLacA0rVAPeMdYs) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Milagre](https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur) | 4:40 |
 
-Snapshot ID: `aHGlgAAAAAANAK/sOmHu6WDvrhr0go7V`
+Snapshot ID: `aHL3AAAAAABPpWz5z1tSdJbkTLg7GzdM`

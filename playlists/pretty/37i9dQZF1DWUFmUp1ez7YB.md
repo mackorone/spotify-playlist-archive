@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Los éxitos de la salsa de ayer y hoy en un sólo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,261 likes - 90 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,775 likes - 90 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 64 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
 | 65 | [Casi un Hechizo](https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 3:43 |
 | 66 | [Ese Hombre](https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:40 |
-| 67 | [A Donde Iras](https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Exitos y Mas](https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD) | 5:06 |
-| 68 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 |
+| 67 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 |
+| 68 | [A Donde Iras](https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Exitos y Mas](https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD) | 5:06 |
 | 69 | [Usted Abusó](https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:19 |
 | 70 | [Amor De Etiqueta](https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB) | [La Caro Band](https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P) | [Vale La Pena \(It's Worth It\)](https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg) | 4:51 |
 | 71 | [Vivir Lo Nuestro](https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Desde Un Principio / From The Beginning](https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI) | 6:06 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 75 | [Temperatura](https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Picadillo A La Criolla](https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv) | 4:50 |
 | 76 | [Desnúdate Mujer](https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Voy Pa'Encima](https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML) | 4:47 |
 | 77 | [Conciencia](https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mis Favoritas](https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK) | 5:31 |
-| 78 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/7JXThmie7TTZfnGpD6hOJG) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:57 |
-| 79 | [Cachondea](https://open.spotify.com/track/60Fl49DuNUh6LIUwHM7Mni) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 4:57 |
+| 78 | [Cachondea](https://open.spotify.com/track/60Fl49DuNUh6LIUwHM7Mni) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 4:57 |
+| 79 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/7JXThmie7TTZfnGpD6hOJG) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:57 |
 | 80 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
 | 81 | [Cinco Noches](https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 5:09 |
 | 82 | [Mi Libertad](https://open.spotify.com/track/25rZ4tMiSLmMDnk1jHZCGh) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 4:30 |

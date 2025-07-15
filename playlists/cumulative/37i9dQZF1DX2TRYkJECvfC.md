@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-612 songs - 2 day 3 hr 0 min
+613 songs - 2 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 | 2023-12-15 |  |
 | [Hazy House Vol\. 2](https://open.spotify.com/track/6AW0jJcR32Qcp0FJ5w6BRv) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 2](https://open.spotify.com/album/5GjT3ssX2AB16z6K4LOJY8) | 5:31 | 2021-12-08 | 2022-07-28 |
 | [Heartbeats](https://open.spotify.com/track/4AwgEsYuFsdAYM8Tj6NxeE) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Heartbeats](https://open.spotify.com/album/3X1eYb650jexhiVxkNepW7) | 3:12 | 2023-09-22 | 2024-11-16 |
+| [Heartbeats \- Logic1000 Remix](https://open.spotify.com/track/3Dc5AOVwCpI5KBJArPgsqx) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Heartbeats \(Logic1000 Remix\)](https://open.spotify.com/album/6lnNhlD38nS7SPeywQeIKR) | 3:18 | 2025-07-11 |  |
 | [Hide and Seek](https://open.spotify.com/track/6dtObPFRUZ4eKsZZCp9ddZ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Hide and Seek](https://open.spotify.com/album/21m2KLJDnoh3CLvlSTipTM) | 5:09 | 2021-12-08 | 2022-07-29 |
 | [Hide and Seek](https://open.spotify.com/track/6kvinwAz4dSKmLYMt5dP6O) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [10.000 Hours](https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr) | 5:09 | 2022-05-03 | 2024-04-19 |
 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 | 2024-07-12 |  |
@@ -278,7 +279,7 @@
 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 | 2023-09-22 |  |
 | [Life](https://open.spotify.com/track/6shlrqMyqGLIfXLt6eeR0I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [200% GALCHER](https://open.spotify.com/album/5tlLnGJdn7m5qucplsZqB1) | 5:01 | 2022-05-03 | 2022-12-28 |
 | [Light Through The Leaves](https://open.spotify.com/track/4Yq7rlqu3mvqe5lDiTlbWq) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Heal EP](https://open.spotify.com/album/2qdxKEcWDbs61f6oRDqHAW) | 5:03 | 2025-05-23 | 2025-07-11 |
-| [Lightshine](https://open.spotify.com/track/1yTW421kLGkPZC4FK4uVAy) | [Boreta](https://open.spotify.com/artist/4pk4xXNYrYeJpf82VJJwLo), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Lightshine](https://open.spotify.com/album/4lGDwZiDMWjSrQ0WF8er6h) | 5:59 | 2025-07-11 |  |
+| [Lightshine](https://open.spotify.com/track/1yTW421kLGkPZC4FK4uVAy) | [Boreta](https://open.spotify.com/artist/4pk4xXNYrYeJpf82VJJwLo), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Lightshine](https://open.spotify.com/album/4lGDwZiDMWjSrQ0WF8er6h) | 5:59 | 2025-07-11 | 2025-07-15 |
 | [Like I Used To](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Like I Used To](https://open.spotify.com/album/4JJduz9iTc6n8ntRPAhOUy) | 4:56 | 2022-05-03 |  |
 | [Like This](https://open.spotify.com/track/6mGA7mSuXx8o1ytfnImc7s) | [Mallin](https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv) | [Like This](https://open.spotify.com/album/62nbCTAyxJwCgIEMBLBg48) | 2:48 | 2022-10-28 | 2025-05-25 |
 | [Lily Garden](https://open.spotify.com/track/7wRqT3udwo3luOmcQhYpzB) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Lily Garden](https://open.spotify.com/album/5tplUNgqHpTQkv086mPPIm) | 3:18 | 2024-08-16 |  |

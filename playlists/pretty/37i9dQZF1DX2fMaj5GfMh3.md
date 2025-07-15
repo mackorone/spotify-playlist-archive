@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: remme
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,498 likes - 87 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,506 likes - 87 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love The Way It Hurts](https://open.spotify.com/track/3u1UZ826Dbecx5Zl41tI4D) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Love The Way It Hurts](https://open.spotify.com/album/6OqAYoh045njumidj7tobF) | 4:20 |
-| 2 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
+| 1 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
+| 2 | [Love The Way It Hurts](https://open.spotify.com/track/3u1UZ826Dbecx5Zl41tI4D) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Love The Way It Hurts](https://open.spotify.com/album/6OqAYoh045njumidj7tobF) | 4:20 |
 | 3 | [Vodka Cranberry](https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Vodka Cranberry](https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt) | 4:05 |
 | 4 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M) | 2:28 |
 | 5 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 86 | [Take Me Down](https://open.spotify.com/track/2ndG8x8QzQjUqdX1PrqHs5) | [Janet Livv](https://open.spotify.com/artist/4kbrRWBDBTf1g4waN4fg6n) | [Take Me Down](https://open.spotify.com/album/59jzztO0Je3HP7zgxJOO0i) | 2:50 |
 | 87 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 |
 
-Snapshot ID: `aHCfRwAAAADZx+zrKsHBBBP8yfYmsimu`
+Snapshot ID: `aHTnXgAAAADR5EDN5KauEsyVG/aSaSq2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 
 > This is Tyla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,803 likes - 24 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,884 likes - 24 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 | 23 | [La Di](https://open.spotify.com/track/4OCK9za3Z06Oqj4HaKBE2S) | [Mykyle](https://open.spotify.com/artist/3EdCT2bYR55ySYU7hwbmcG), [Si Xiazi](https://open.spotify.com/artist/0DhzfTcgpek8kkWvNJKwtB), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [La Di](https://open.spotify.com/album/0dSB2LstksZRA0adSfyTbV) | 4:09 |
 | 24 | [Safer](https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:39 |
 
-Snapshot ID: `aHGlgAAAAAD3MNo8MNv5jA/0RnYIeZf9`
+Snapshot ID: `aHL3AAAAAACH13vBs/skQzT64bbPAr7v`

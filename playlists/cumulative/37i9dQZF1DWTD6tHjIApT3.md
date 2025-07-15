@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 椎名林檎 Shiina Ringo
 
-3,192 songs - 8 day 11 hr 55 min
+3,194 songs - 8 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1488,7 +1488,7 @@
 | [Starry Silent Night](https://open.spotify.com/track/3qsTo8WALGZWSe0KNxv3ZA) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:10 | 2023-12-28 | 2024-04-19 |
 | [Start Again](https://open.spotify.com/track/1Sdy0q4FwSd5LfQzGSlx7M) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [Start Again](https://open.spotify.com/album/7q2dZD6S2UQTrxbEIuztL0) | 4:20 | 2022-10-04 | 2022-10-12 |
 | [Start Again](https://open.spotify.com/track/0MbSD9IRGxOb3lfNgfzjsH) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again](https://open.spotify.com/album/7vDeKzFvXgmuypvzlw1ViX) | 3:05 | 2023-02-02 | 2023-02-08 |
-| [Start Again](https://open.spotify.com/track/1RO02uAF8bliC04a4NlPiu) | [Nornis](https://open.spotify.com/artist/4A1SkseOGbsBI0Q71vdTGx) | [Start Again](https://open.spotify.com/album/47PAVnWVz6rz4rnkvpZMHQ) | 3:40 | 2025-07-08 |  |
+| [Start Again](https://open.spotify.com/track/1RO02uAF8bliC04a4NlPiu) | [Nornis](https://open.spotify.com/artist/4A1SkseOGbsBI0Q71vdTGx) | [Start Again](https://open.spotify.com/album/47PAVnWVz6rz4rnkvpZMHQ) | 3:40 | 2025-07-08 | 2025-07-15 |
 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 | 2023-01-03 | 2023-01-11 |
 | [Stay As You Are](https://open.spotify.com/track/5Fo5ij465pJ8mOnHWLa36N) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [ECHO](https://open.spotify.com/album/5nkFgUEdypq1GBF2culRmG) | 4:42 | 2025-01-07 | 2025-01-15 |
 | [STAY TRUE](https://open.spotify.com/track/0OYy0GM53pUulSzILKdb1f) | [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [STAY TRUE](https://open.spotify.com/album/0iFafxYa1T0kAI9uECfknn) | 3:24 | 2025-02-04 | 2025-02-12 |
@@ -2206,6 +2206,7 @@
 | [サイキック](https://open.spotify.com/track/6kYbmaEiQBj5tnJaneGunO) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [サイキック](https://open.spotify.com/album/6qrGGBKyF6MYW9uYt3VcVy) | 2:15 | 2024-03-26 | 2024-04-10 |
 | [サイレンス](https://open.spotify.com/track/7yrEv81p6oeFoJFcYKkSoc) | [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [Reconnect](https://open.spotify.com/album/403tnvR9gQmvHLyIpKzOo3) | 4:00 | 2025-03-11 | 2025-03-19 |
 | [サクラキミワタシ \- SAKURA KIMI WATASHI](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ \- SAKURA KIMI WATASHI](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-01-09 | 2025-07-09 |
+| [サファイア](https://open.spotify.com/track/20UtEXIq1dMKtQdcgwo98Z) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サファイア](https://open.spotify.com/album/3jkYKg3YqXcIObLjQHGxIG) | 3:48 | 2025-07-11 |  |
 | [サブリナ \(10th Anniversary Version\)](https://open.spotify.com/track/60TyIUjq4CyOoWUG9gaubR) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [サブリナ \(10th Anniversary Version\)](https://open.spotify.com/album/73tELo06Cer78bMDnmMzDf) | 3:37 | 2022-06-02 | 2022-07-21 |
 | [サプリ](https://open.spotify.com/track/7BKchwQH8BnwV5lzPPQBf3) | [diue](https://open.spotify.com/artist/0BghUUqZWmXlfXxAZfqkvw) | [サプリ](https://open.spotify.com/album/3WdXnkLWjq7XE434aVXFHe) | 2:25 | 2024-04-30 | 2024-05-22 |
 | [サマータイムゴースト](https://open.spotify.com/track/13RKaJCGLEPNoAcWn4j42R) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [サマータイムゴースト](https://open.spotify.com/album/7jEn46nEzzuVcfbiJ2Kd4h) | 3:09 | 2025-04-08 |  |
@@ -2566,6 +2567,7 @@
 | [名前のない街](https://open.spotify.com/track/6eJetNdi0WMj1BAoqIsX7t) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [名前のない街](https://open.spotify.com/album/3hN8H85mT5RFr2IyXrpCfJ) | 4:11 | 2023-09-19 | 2023-10-11 |
 | [名残](https://open.spotify.com/track/2ONMoWhrC8tqKvPBrBH30U) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [名残](https://open.spotify.com/album/1v3SYgQJvk95teZDHx824x) | 4:11 | 2022-09-20 | 2022-09-28 |
 | [君がおじいちゃんあたしがおばあちゃん](https://open.spotify.com/track/1SgwiPVpQ6tV3UnWGPlv5H) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [日々愛々](https://open.spotify.com/album/7A82mHia7alj13QXGc6MDQ) | 3:41 | 2024-03-05 | 2024-03-07 |
+| [君がくれたもの](https://open.spotify.com/track/67Mp5KEtqshjg2k8pUyPlN) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [君がくれたもの](https://open.spotify.com/album/1WfM9Ij6F3f8KM7aV01FeV) | 2:47 | 2025-07-11 |  |
 | [君が好きです](https://open.spotify.com/track/0pky0MjWmhHRcjVB5Eij7i) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [君が好きです](https://open.spotify.com/album/0ki7vdb78C0gGUfsJhdKaR) | 4:10 | 2022-06-30 | 2022-11-01 |
 | [君が笑う](https://open.spotify.com/track/7AoVYqK8pqBpgsEVejm7wD) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [君が笑う](https://open.spotify.com/album/7EPGCZa4zGvc6buC47VNnC) | 3:16 | 2022-09-06 | 2022-09-15 |
 | [君が言うようにこの世界は](https://open.spotify.com/track/1rJvwfhQIXNrMQfWbXBd4H) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [君が言うようにこの世界は](https://open.spotify.com/album/5I1imPhyx9g4kdkmP4jqin) | 5:05 | 2022-09-29 | 2022-10-01 |
@@ -2590,7 +2592,7 @@
 | [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 | 2023-08-10 | 2024-12-05 |
 | [問.1](https://open.spotify.com/track/4WXU2ZnBWwasAenqq2GZKO) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [問.1](https://open.spotify.com/album/6rceF7Zl8hpcZYiXGNIgg4) | 3:51 | 2024-02-13 | 2024-02-15 |
 | [嘘つき](https://open.spotify.com/track/0CaK41fIguCATIPHV2Yau1) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [嘘つき](https://open.spotify.com/album/2rfCdxN23vdebt3daHiK5X) | 3:37 | 2023-01-10 | 2023-01-12 |
-| [嘘つき。](https://open.spotify.com/track/5Qaeq2bvHc1xzuuaCB3xDF) | [藍空と月](https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg) | [嘘つき。](https://open.spotify.com/album/1UzF6LsgGWXsWisnnXSyfC) | 3:27 | 2025-07-08 |  |
+| [嘘つき。](https://open.spotify.com/track/5Qaeq2bvHc1xzuuaCB3xDF) | [藍空と月](https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg) | [嘘つき。](https://open.spotify.com/album/1UzF6LsgGWXsWisnnXSyfC) | 3:27 | 2025-07-08 | 2025-07-15 |
 | [嘘の味](https://open.spotify.com/track/7qB3KyOkrJvzDrraaHboAm) | [Ratrium](https://open.spotify.com/artist/59UKvPsBHApOzcsmKVk0PK) | [嘘の味](https://open.spotify.com/album/3H92kIsVbI9UCTBPcSeqBt) | 3:18 | 2022-06-14 | 2022-06-22 |
 | [四季ノ唄](https://open.spotify.com/track/4Ro7Z98TnW4ST3LyG2OKfJ) | [miu](https://open.spotify.com/artist/2QMEcA2HhzcfJX2eZLEEyp) | [四季ノ唄](https://open.spotify.com/album/5Y9q3yLcxi9AbrJfvBuKW7) | 3:51 | 2022-06-30 | 2022-07-03 |
 | [四色の声で話そう \- feat\. 他愛もない](https://open.spotify.com/track/1fVU8NMSnPsND39fZEq9rk) | [Fumihiro Kaneko](https://open.spotify.com/artist/7fBmQcPIpoEzf3oNcuhexz), [他愛もない](https://open.spotify.com/artist/2ltGr4iAy2veIBYCUmehLi) | [四色の声で話そう \(feat\. 他愛もない\)](https://open.spotify.com/album/2a3thgxQc0iFVsgt6YScC1) | 2:40 | 2022-08-09 | 2022-08-17 |

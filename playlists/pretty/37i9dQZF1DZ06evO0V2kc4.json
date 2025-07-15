@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 72096,
+  "num_followers": 72103,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADJnq9/Fvona8q6LbiDtiUN",
+  "snapshot_id": "aHL3AAAAAADwUo90FOJPLmMwBlTSWn26",
   "tracks": [
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Gold Castle Masters",
-        "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 225640,
-      "name": "No Woman No Cry - Live",
-      "url": "https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy"
+      "duration_ms": 157160,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 157160,
-      "name": "Wildwood Flower",
-      "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"
+      "duration_ms": 225640,
+      "name": "No Woman No Cry - Live",
+      "url": "https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy"
     }
   ],
   "unique_name": "This Is Joan Baez",

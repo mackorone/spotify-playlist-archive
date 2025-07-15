@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Justin Bieber, Sarettii, Olivia Dean och Wet Leg med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,218 likes - 102 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,224 likes - 102 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

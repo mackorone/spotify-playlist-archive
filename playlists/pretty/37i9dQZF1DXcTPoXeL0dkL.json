@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 214836,
+  "num_followers": 214869,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
+        "name": "Homenaje",
+        "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
+      },
+      "artists": [
+        {
+          "name": "Estrellas Vallenatas",
+          "url": "https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
         "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292224,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 253066,
       "name": "T\u00fa Vas a Volar",
       "url": "https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292224,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -619,22 +635,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Homenaje",
-        "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
-      },
-      "artists": [
-        {
-          "name": "Estrellas Vallenatas",
-          "url": "https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "Mas Vallenato",
         "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 307720,
       "name": "Las Razones Del Amor",
       "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+      },
+      "artists": [
+        {
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        }
+      ],
+      "duration_ms": 316279,
+      "name": "Dime que me quieres",
+      "url": "https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -672,13 +688,13 @@
       },
       "artists": [
         {
-          "name": "La Combinaci\u00f3n Vallenata",
-          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
         }
       ],
-      "duration_ms": 316279,
-      "name": "Dime que me quieres",
-      "url": "https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR"
+      "duration_ms": 297746,
+      "name": "Como duele el frio",
+      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -695,22 +711,6 @@
       "duration_ms": 298986,
       "name": "Quiero Que Seas Mi Estrella",
       "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
-        }
-      ],
-      "duration_ms": 297746,
-      "name": "Como duele el frio",
-      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
     },
     {
       "added_at": "2025-06-06 05:39:08",

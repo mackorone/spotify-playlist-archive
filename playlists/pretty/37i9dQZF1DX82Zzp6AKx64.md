@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,631 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,740 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 17 | [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:28 |
 | 18 | [Babe](https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 4:25 |
 | 19 | [The Flame](https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 5:38 |
-| 20 | [We Don't Need Another Hero \(Thunderdome\)](https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 4:15 |
-| 21 | [Dreamer](https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Down To Earth](https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM) | 4:44 |
+| 20 | [Dreamer](https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Down To Earth](https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM) | 4:44 |
+| 21 | [We Don't Need Another Hero \(Thunderdome\)](https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 4:15 |
 | 22 | [What About Love?](https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Heart](https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430) | 3:41 |
 | 23 | [Take My Breath Away](https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Take My Breath Away](https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ) | 4:24 |
 | 24 | [When I Look Into Your Eyes](https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Hold Your Fire](https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy) | 3:59 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 90 | [Possession](https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 5:08 |
 | 91 | [The Deeper the Love](https://open.spotify.com/track/2lESR3q3ZdMYKHYsdfK4rz) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake's Greatest Hits](https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ) | 4:22 |
 | 92 | [One In A Million](https://open.spotify.com/track/21c4eOwp47FhhiFQWBLMz6) | [Trixter](https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ) | [Trixter](https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb) | 5:05 |
-| 93 | [When I'm Gone](https://open.spotify.com/track/66jTfbDdDYnV6fvb85WU25) | [McAuley Schenker Group](https://open.spotify.com/artist/3LbJq0qQ5XCk2ocAPfRxJz) | [MSG](https://open.spotify.com/album/4l2Iw0TA4oIqP8yWrfiM27) | 4:49 |
-| 94 | [Broken Heart](https://open.spotify.com/track/7FfE0EoQSsliADYgdxFChG) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Fight To Survive](https://open.spotify.com/album/3KUCeF1n3PSIfhOZ9tUdlC) | 3:31 |
+| 93 | [Broken Heart](https://open.spotify.com/track/7FfE0EoQSsliADYgdxFChG) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Fight To Survive](https://open.spotify.com/album/3KUCeF1n3PSIfhOZ9tUdlC) | 3:31 |
+| 94 | [When I'm Gone](https://open.spotify.com/track/66jTfbDdDYnV6fvb85WU25) | [McAuley Schenker Group](https://open.spotify.com/artist/3LbJq0qQ5XCk2ocAPfRxJz) | [MSG](https://open.spotify.com/album/4l2Iw0TA4oIqP8yWrfiM27) | 4:49 |
 | 95 | [When I Find Love](https://open.spotify.com/track/5jFJ4uD1C5IKc1zmLmp0TO) | [XYZ](https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk) | [Hungry](https://open.spotify.com/album/6ehiAquVebqoHhN4VXTEQ1) | 4:17 |
 | 96 | [Here for You](https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 4:37 |
 | 97 | [Paradise](https://open.spotify.com/track/48lLr0blWNLIl6hPoF3Ex1) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 4:58 |

@@ -1,6 +1,6 @@
 {
   "description": "Let these country songs get your tailgate going!",
-  "num_followers": 189631,
+  "num_followers": 189722,
   "original_name": "Country Tailgate",
   "owner": {
     "name": "Spotify",
@@ -579,18 +579,18 @@
     {
       "added_at": "2025-01-27 05:00:31",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+      "duration_ms": 198226,
+      "name": "Boot Scootin' Boogie",
+      "url": "https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M"
     },
     {
       "added_at": "2025-01-27 05:00:31",
@@ -615,18 +615,18 @@
     {
       "added_at": "2025-01-27 05:00:31",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 198226,
-      "name": "Boot Scootin' Boogie",
-      "url": "https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M"
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2025-01-27 05:00:31",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-01-27 05:00:31",
       "album": {
-        "name": "Blue Jean Baby",
-        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 132068,
-      "name": "Blue Jean Baby",
-      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
-    },
-    {
-      "added_at": "2025-01-27 05:00:31",
-      "album": {
         "name": "The Woman In Me",
         "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
@@ -675,22 +659,6 @@
       "duration_ms": 246760,
       "name": "Any Man Of Mine",
       "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
-    },
-    {
-      "added_at": "2025-01-27 05:00:31",
-      "album": {
-        "name": "But I Got A Beer In My Hand",
-        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "But I Got A Beer In My Hand",
-      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
     },
     {
       "added_at": "2025-01-27 05:00:31",
@@ -711,18 +679,34 @@
     {
       "added_at": "2025-01-27 05:00:31",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "But I Got A Beer In My Hand",
+        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+      "duration_ms": 176426,
+      "name": "But I Got A Beer In My Hand",
+      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
+    },
+    {
+      "added_at": "2025-01-27 05:00:31",
+      "album": {
+        "name": "Blue Jean Baby",
+        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 132068,
+      "name": "Blue Jean Baby",
+      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
     },
     {
       "added_at": "2025-01-27 05:00:31",
@@ -739,6 +723,22 @@
       "duration_ms": 183733,
       "name": "Something Like That",
       "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
+    },
+    {
+      "added_at": "2025-01-27 05:00:31",
+      "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2025-01-27 05:00:31",
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-01-27 05:00:31",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
+        "name": "Jo Dee Messina",
+        "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
         }
       ],
-      "duration_ms": 205106,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
+      "duration_ms": 208306,
+      "name": "Heads Carolina, Tails California",
+      "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
     },
     {
       "added_at": "2025-01-27 05:00:31",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-01-27 05:00:31",
       "album": {
-        "name": "Jo Dee Messina",
-        "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
       "artists": [
         {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 208306,
-      "name": "Heads Carolina, Tails California",
-      "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
+      "duration_ms": 205106,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
     },
     {
       "added_at": "2025-01-27 05:00:31",
@@ -1035,22 +1035,6 @@
       "duration_ms": 182666,
       "name": "Singles You Up",
       "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
-    },
-    {
-      "added_at": "2025-01-27 05:00:31",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 158003,
-      "name": "Ain\u2019t That Some",
-      "url": "https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX"
     },
     {
       "added_at": "2025-01-27 05:00:31",
@@ -1099,6 +1083,22 @@
       "duration_ms": 176160,
       "name": "Rain Is A Good Thing",
       "url": "https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN"
+    },
+    {
+      "added_at": "2025-01-27 05:00:31",
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 158003,
+      "name": "Ain\u2019t That Some",
+      "url": "https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX"
     },
     {
       "added_at": "2025-01-27 05:00:31",

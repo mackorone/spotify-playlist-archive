@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0pm3nGgzGYqIpbvdPR4M3a"
+      },
+      "artists": [
+        {
+          "name": "Justin Vasquez",
+          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234324,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6bDW6rxCjoxk8wcrkevKXL"
+    },
+    {
+      "album": {
         "name": "Hoodie (feat. Alisson Shore)",
         "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
       },

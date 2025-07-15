@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 250090,
+  "num_followers": 250112,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAWwzuYFL7QWzHiV9ShooRx",
+  "snapshot_id": "aHL3AAAAAACORyGRft8dWDtmgZa9odKm",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Da Stanotte in Poi (From This Moment On)",
         "url": "https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 222413,
       "name": "You Needed Me",
       "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock This Country",
+        "url": "https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "I Ain't No Quitter - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Not Just A Girl (The Highlights)",
         "url": "https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS"
       },
@@ -799,26 +815,6 @@
       "duration_ms": 191493,
       "name": "Not Just A Girl",
       "url": "https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encontros Pelo Caminho",
-        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
-      },
-      "artists": [
-        {
-          "name": "Paula Fernandes",
-          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
     },
     {
       "added_at": null,
@@ -839,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock This Country",
-        "url": "https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9"
+        "name": "Encontros Pelo Caminho",
+        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
       },
       "artists": [
+        {
+          "name": "Paula Fernandes",
+          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
+        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 210333,
-      "name": "I Ain't No Quitter - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK"
+      "duration_ms": 214440,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
     }
   ],
   "unique_name": "This Is Shania Twain",

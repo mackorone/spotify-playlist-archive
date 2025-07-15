@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 114548,
+  "num_followers": 114562,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAWDtYWRDsx81us9xvBrBHg",
+  "snapshot_id": "aHL3AAAAAADX3pvciAf9SieNXNpkHl6F",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Charla",
-        "url": "https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr"
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
         }
       ],
-      "duration_ms": 230426,
-      "name": "La Charla",
-      "url": "https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog"
+      "duration_ms": 221504,
+      "name": "Coraz\u00f3n Ranchero (En Vivo)",
+      "url": "https://open.spotify.com/track/1XFdyarYxFTBtSmB8MpILF"
     },
     {
       "added_at": null,
@@ -691,8 +687,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
-        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
+        "name": "La Charla",
+        "url": "https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "La Charla",
+      "url": "https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 221504,
-      "name": "Coraz\u00f3n Ranchero (En Vivo)",
-      "url": "https://open.spotify.com/track/1XFdyarYxFTBtSmB8MpILF"
+      "duration_ms": 149695,
+      "name": "La Pasadita (En vivo)",
+      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
     },
     {
       "added_at": null,
@@ -727,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
+        "name": "El Precio De La Soledad (En vivo)",
+        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
       "artists": [
         {
@@ -736,9 +752,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 149695,
-      "name": "La Pasadita (En vivo)",
-      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
+      "duration_ms": 166143,
+      "name": "El Precio De La Soledad - En vivo",
+      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
       "duration_ms": 150200,
       "name": "Bien Belicones (En vivo)",
       "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Precio De La Soledad (En vivo)",
-        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 166143,
-      "name": "El Precio De La Soledad - En vivo",
-      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
     },
     {
       "added_at": null,

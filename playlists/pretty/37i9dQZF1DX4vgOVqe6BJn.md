@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,129 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,161 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 42 | [DISCO CLOSURE](https://open.spotify.com/track/2tWHLAOwWIalkFEUIYP2fU) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [DISCO CLOSURE](https://open.spotify.com/album/1SHQB1Xh5XJmUWkqpoM2Z3) | 3:23 |
 | 43 | [Daydreaming](https://open.spotify.com/track/2wPc15A83OnyE9QarVRpqA) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Daydreaming](https://open.spotify.com/album/4RBAFTTsu4cWZYkc3HXvvJ) | 3:27 |
 | 44 | [All I Want](https://open.spotify.com/track/47cmM6ptQ3dH7iQlcWg9ac) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 4:00 |
-| 45 | [Don't Be Scared \(feat\. Takura\)](https://open.spotify.com/track/530JUX50nrszQU6q5RiWSw) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:58 |
-| 46 | [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 |
+| 45 | [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 |
+| 46 | [Don't Be Scared \(feat\. Takura\)](https://open.spotify.com/track/530JUX50nrszQU6q5RiWSw) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:58 |
 | 47 | [Firepit](https://open.spotify.com/track/598YYFar90QPnyGE3jmgGo) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Firepit](https://open.spotify.com/album/7tc649AUN4dKzigGFICXR9) | 4:03 |
 | 48 | [So Sick Of Me](https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [So Sick Of Me](https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO) | 2:47 |
 | 49 | [Skelele](https://open.spotify.com/track/1k6OPAYYh1DawiHZ08djuM) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skelele](https://open.spotify.com/album/3wQaO7CmLDh4eY6dHNMUNI) | 3:23 |

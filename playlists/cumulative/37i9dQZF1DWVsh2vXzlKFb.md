@@ -4,7 +4,7 @@
 
 > Songs for the warm pavement, cracked windows, and falling in love with music in the sun.
 
-595 songs - 1 day 9 hr 18 min
+597 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 | 2023-05-25 |  |
 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-07-11 |  |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-11 | 2022-11-13 |
-| [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-05-01 |  |
+| [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-05-01 | 2025-07-15 |
 | [Challengers](https://open.spotify.com/track/5dgXKKrU6A9kccwDfANdjS) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Challengers \(Original Score\)](https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv) | 1:25 | 2024-05-17 | 2025-02-07 |
 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 | 2024-05-17 |  |
 | [Charcoal Baby](https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:02 | 2025-07-09 |  |
@@ -405,6 +405,7 @@
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2023-05-25 |  |
 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 | 2023-05-25 | 2024-05-18 |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-05-17 | 2025-05-03 |
+| [Relationships](https://open.spotify.com/track/1FlDLGaTsr9HH1zfJiq6is) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 3:22 | 2025-07-14 |  |
 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-05-01 | 2025-07-05 |
 | [Remember When](https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:35 | 2023-05-25 |  |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2023-07-24 |  |
@@ -471,6 +472,7 @@
 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 | 2021-08-13 | 2022-07-29 |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-19 | 2024-11-14 |
 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 | 2025-05-01 |  |
+| [Summer Uptown](https://open.spotify.com/track/7t98lQEVYPP58rkubC03Mh) | [jasontheween](https://open.spotify.com/artist/56z8RFFEGWfUFHzvgv70SB), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Summer Uptown](https://open.spotify.com/album/085rPTSE58Xz9xAUYcfVeZ) | 2:35 | 2025-07-14 |  |
 | [Summer Vibe](https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Summer Vibe](https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO) | 3:20 | 2021-08-13 | 2023-05-20 |
 | [SUMMERTIME](https://open.spotify.com/track/0UBNROlanekYidsMRfsABY) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [SUMMERTIME](https://open.spotify.com/album/61ICLQ74AmVJkwFxLgYR3v) | 3:52 | 2023-06-21 | 2023-06-24 |
 | [Summertime](https://open.spotify.com/track/4TwaeQT1YTeBUBRB8NeSCo) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Static & Silence](https://open.spotify.com/album/00Z7sMv2YhKb49u10ajvy4) | 3:33 | 2025-07-04 | 2025-07-10 |
@@ -531,7 +533,7 @@
 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2022-07-14 | 2023-05-20 |
 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 | 2023-05-19 | 2023-05-26 |
 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 | 2022-03-24 | 2024-05-18 |
-| [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-06-20 |  |
+| [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-06-20 | 2025-07-15 |
 | [The Spins](https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo) | 3:15 | 2021-08-13 | 2023-04-24 |
 | [The Spins](https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:15 | 2023-03-11 | 2023-04-27 |
 | [The Spins](https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R) | 3:15 | 2023-03-11 | 2023-08-01 |

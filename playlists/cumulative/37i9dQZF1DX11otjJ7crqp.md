@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Tyla
 
-8,835 songs - 18 day 9 hr 5 min
+8,836 songs - 18 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3597,7 +3597,7 @@
 | [Hot Tub](https://open.spotify.com/track/0QwtPubre27rt1YnJBKeNb) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Hot Tub](https://open.spotify.com/album/6vX4foju7dMy5UTqjwB6rZ) | 2:39 | 2022-02-04 | 2022-02-19 |
 | [hot yoga in hell](https://open.spotify.com/track/2piKFLVacDlwV0U0JZmWSp) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [hot yoga in hell](https://open.spotify.com/album/6Pj9FD1lLjDemuRdRrxkCD) | 2:43 | 2025-01-10 | 2025-01-25 |
 | [HOTBOX](https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOTBOX](https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g) | 3:02 | 2025-03-14 | 2025-03-22 |
-| [Hotel Delilah](https://open.spotify.com/track/1wAqj59abDOcMAI2Jj3ZWM) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:25 | 2025-07-11 |  |
+| [Hotel Delilah](https://open.spotify.com/track/1wAqj59abDOcMAI2Jj3ZWM) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:25 | 2025-07-11 | 2025-07-15 |
 | [Hotel Rock Bottom](https://open.spotify.com/track/1TZ1cu65HC4rNL6KzSHRqY) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/52ieYF1dyQPWc8Vn9vLr1V) | 3:18 | 2025-06-27 | 2025-07-12 |
 | [Hotel Rock Bottom \(feat\. Ariana Grande\)](https://open.spotify.com/track/3m0AFZnXVMkd8ppGuxLJxW) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Hotel Rock Bottom \(Deluxe\)](https://open.spotify.com/album/5QmpBvbxMNgvB1ttqBEkcu) | 3:15 | 2025-07-11 |  |
 | [Hotline to Heaven](https://open.spotify.com/track/5hG33unSA3Adwy9HpdQYt2) | [Annabel Jones](https://open.spotify.com/artist/5koilOAvfuLq4O2yc9UWft) | [Hotline to Heaven](https://open.spotify.com/album/2ltkKv2tundHOFAUFFYjN5) | 3:45 | 2025-02-21 | 2025-03-08 |
@@ -7340,6 +7340,7 @@
 | [Summer Really Hurt Us](https://open.spotify.com/track/2JUvLynhFJsuEDZdJarBBH) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Summer Really Hurt Us](https://open.spotify.com/album/2GidwkbzGUKWKITSkCEJxD) | 2:48 | 2022-09-23 | 2022-10-01 |
 | [Summer Secret](https://open.spotify.com/track/1yfGTVORIA88GIrlFMU0NP) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Summer Secret](https://open.spotify.com/album/3NCCbCcz7x2hQPgE5CkPmX) | 2:43 | 2024-06-21 | 2024-07-13 |
 | [Summer so hot](https://open.spotify.com/track/3zNe3xToIc07PYAuQboqhq) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Summer so hot](https://open.spotify.com/album/7GfvDon5u02GU3TbTOl1J1) | 2:46 | 2024-06-21 | 2024-06-29 |
+| [Summer Uptown](https://open.spotify.com/track/7t98lQEVYPP58rkubC03Mh) | [jasontheween](https://open.spotify.com/artist/56z8RFFEGWfUFHzvgv70SB), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Summer Uptown](https://open.spotify.com/album/085rPTSE58Xz9xAUYcfVeZ) | 2:35 | 2025-07-14 |  |
 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 | 2023-07-07 | 2023-07-22 |
 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 | 2024-06-21 | 2024-07-06 |
 | [Summertime](https://open.spotify.com/track/6uSU3s6JZOZDxowW4Fragc) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Summertime](https://open.spotify.com/album/2NnIGE6mh0IlHhcCJ8zFPu) | 3:07 | 2022-08-26 | 2022-09-10 |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: G1nter
+> 50 nejžhavějších hitů v České republice\. Cover: Yzomandias, Ektor, P T K, Robin Zoot, Nik Tendo
 
 138 songs - 6 hr 47 min
 

@@ -4,7 +4,7 @@
 
 > pearl of the week ✨kwn✨
 
-1,943 songs - 4 day 8 hr 46 min
+1,944 songs - 4 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [did you know it](https://open.spotify.com/track/5y4HoKBM74WT5gFsLFpR20) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib) | [did you know it](https://open.spotify.com/album/7m3iOiaE96gqyDbCyeoZtH) | 2:22 | 2024-02-22 | 2024-03-22 |
 | [DIE FOR](https://open.spotify.com/track/6DZEDsL4uGAUoMTEMKEwNf) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SECRETS, Pt\. 2](https://open.spotify.com/album/4t2C2ImWCATs3s9U44b3So) | 2:51 | 2023-10-12 | 2023-10-20 |
 | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb) | 3:26 | 2024-08-15 | 2024-10-11 |
+| [Die For This](https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Die For This](https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q) | 2:35 | 2025-07-14 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-03 | 2023-02-17 |
 | [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 | 2024-03-15 | 2024-07-27 |
 | [Die Gondel](https://open.spotify.com/track/65jU76mbVeq9WIfeaTvXuv) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 3:36 | 2025-04-03 | 2025-06-06 |

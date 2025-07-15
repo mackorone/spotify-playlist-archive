@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 227029,
+  "num_followers": 227040,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADLc+96WsnsUcDCtoVrNZip",
+  "snapshot_id": "aHL3AAAAAABID4b+o8R6vONJXQqTlWrh",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freaky Deaky",
-        "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 215281,
-      "name": "Freaky Deaky",
-      "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Day 1",
         "url": "https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 211293,
       "name": "Ayy Ladies (feat. Tyga)",
       "url": "https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freaky Deaky",
+        "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 215281,
+      "name": "Freaky Deaky",
+      "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
     },
     {
       "added_at": null,

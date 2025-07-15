@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,426 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,473 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 29 | [Gunman](https://open.spotify.com/track/581XtO5wVBE75sIbhsi3E2) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [ATW007](https://open.spotify.com/album/5vWIMn3AuJsvAZoOQe0CQk) | 3:31 |
 | 30 | [GETAWAY](https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [GETAWAY](https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt) | 2:43 |
 | 31 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
-| 32 | [Sorry I'm Like This](https://open.spotify.com/track/4F3aBBLzNf56Yx23TZFfgJ) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [ODF](https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu) | [Sorry I'm Like This](https://open.spotify.com/album/5JXnm6iu35ZAR9mjswrILS) | 2:52 |
-| 33 | [Avalanche](https://open.spotify.com/track/2xNc3WwzGK19JXPgcmzRU8) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Avalanche](https://open.spotify.com/album/05fHcYNnZOIL56Aq5QVqU2) | 2:37 |
+| 32 | [Avalanche](https://open.spotify.com/track/2xNc3WwzGK19JXPgcmzRU8) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Avalanche](https://open.spotify.com/album/05fHcYNnZOIL56Aq5QVqU2) | 2:37 |
+| 33 | [Sorry I'm Like This](https://open.spotify.com/track/4F3aBBLzNf56Yx23TZFfgJ) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [ODF](https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu) | [Sorry I'm Like This](https://open.spotify.com/album/5JXnm6iu35ZAR9mjswrILS) | 2:52 |
 | 34 | [On Sum \- MPH Remix](https://open.spotify.com/track/56McsSccOr6K5Pm8q2HZCP) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [On Sum \(MPH Remix\)](https://open.spotify.com/album/2GG04Ana1NWA4pScy2s0RO) | 3:52 |
 | 35 | [Straight From The Underground](https://open.spotify.com/track/2zNOr9xeXhb1Wverupu0uP) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Straight From The Underground](https://open.spotify.com/album/6Cx0pmwZLVvxawm1st4AuX) | 3:13 |
 | 36 | [Alone](https://open.spotify.com/track/1RHsONwpXcquKICISbiJxB) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Alone](https://open.spotify.com/album/6OguGlQ0qqeNAOaggF4zDT) | 3:26 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 61 | [Bad Vibe](https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Bad Vibe](https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm) | 2:22 |
 | 62 | [Work](https://open.spotify.com/track/30FR1uCgYGTJLUm7MXoequ) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Work](https://open.spotify.com/album/3xjnPsjWTutgkdpwSenz4v) | 4:03 |
 | 63 | [Badman Control](https://open.spotify.com/track/4NmbdhxOHSryHgqMYxLpEs) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [ATW](https://open.spotify.com/artist/69Nx0ikrUq0IMY7aJMt4V6) | [Badman Control](https://open.spotify.com/album/3R9SndcM89m7kAcIOlv54O) | 3:34 |
-| 64 | [Burna](https://open.spotify.com/track/6SzRVOjeTqor9jBVZ2PP6W) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Burna](https://open.spotify.com/album/2dg79UazOgFcM51vfwEKKW) | 2:33 |
-| 65 | [lose my head](https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [lose my head](https://open.spotify.com/album/6uZQgll8GIBJ2KvAfW5TtE) | 3:13 |
+| 64 | [lose my head](https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [lose my head](https://open.spotify.com/album/6uZQgll8GIBJ2KvAfW5TtE) | 3:13 |
+| 65 | [Burna](https://open.spotify.com/track/6SzRVOjeTqor9jBVZ2PP6W) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Burna](https://open.spotify.com/album/2dg79UazOgFcM51vfwEKKW) | 2:33 |
 | 66 | [Speedy Sax](https://open.spotify.com/track/5iwr0fsr4BV2sDep67lMaT) | [Ken Spieker](https://open.spotify.com/artist/1hFWjKEaPnMKiM73jlEIt2) | [Speedy Sax](https://open.spotify.com/album/6QfzkEhE46wIat9LSbldk1) | 3:37 |
 | 67 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
 | 68 | [My Mind](https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Refraction](https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa) | 3:52 |

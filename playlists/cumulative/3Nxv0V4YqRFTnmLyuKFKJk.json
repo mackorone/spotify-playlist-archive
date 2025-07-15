@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Topsify",
+        "url": "https://open.spotify.com/album/0sv18JZgOQr2m1eXWF7sKJ"
+      },
+      "artists": [
+        {
+          "name": "Topsify",
+          "url": "https://open.spotify.com/show/0sv18JZgOQr2m1eXWF7sKJ"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22545,
+      "name": "Cole Swindell Takes Over the Country Essentials 2025 Playlist!",
+      "url": "https://open.spotify.com/episode/1lrlaPXrWz6JmKGd6SlXCX"
+    },
+    {
+      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },

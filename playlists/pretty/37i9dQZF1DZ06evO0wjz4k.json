@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 32416,
+  "num_followers": 32430,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAt77A3NcF6tKDgLgq+vqsy",
+  "snapshot_id": "aHL3AAAAAACfRkmsSU6d+VB6lVO7oxCt",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Handle On You",
-      "url": "https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Kinda Man",
         "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 259022,
       "name": "What Kinda Man",
       "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Handle On You",
+      "url": "https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 233869,
-      "name": "Burn It Down",
-      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Limestone Kid",
         "url": "https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 210760,
       "name": "Meet You in the Middle",
       "url": "https://open.spotify.com/track/5fgeba92zIjtr49JupqI9O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 233869,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
     },
     {
       "added_at": null,

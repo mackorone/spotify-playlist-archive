@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAABXT4dZAVgshQ/OquoPg+1h",
+  "snapshot_id": "aHL3AAAAAAB8Yz00IQ8krlJxm92/Qj2L",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyshila Collection ao Vivo 10 Anos",
-        "url": "https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 334878,
-      "name": "Posso Clamar",
-      "url": "https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Manh\u00e3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 275240,
       "name": "De Manh\u00e3 (Ao Vivo)",
       "url": "https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyshila Collection ao Vivo 10 Anos",
+        "url": "https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 334878,
+      "name": "Posso Clamar",
+      "url": "https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus, o Brasil Te Adora",
-        "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        }
-      ],
-      "duration_ms": 353893,
-      "name": "Eu Me Arrependo",
-      "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Alma Abatida (Ao Vivo)",
         "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 276488,
       "name": "A Alma Abatida - Ao Vivo",
       "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus, o Brasil Te Adora",
+        "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 353893,
+      "name": "Eu Me Arrependo",
+      "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
     },
     {
       "added_at": null,

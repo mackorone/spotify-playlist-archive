@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19055,
+  "num_followers": 19061,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACeeeKTVUtUQ1raIjFWipof",
+  "snapshot_id": "aHL3AAAAAAD2vQ4ZtTs0aue049FbnsRZ",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 521693,
+      "name": "Mystic Voyage",
+      "url": "https://open.spotify.com/track/7guiwTzSraP0ZHqBCMlnmE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Light",
-        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 521693,
-      "name": "Mystic Voyage",
-      "url": "https://open.spotify.com/track/7guiwTzSraP0ZHqBCMlnmE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "East of the Full Moon",
         "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
       },
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 420160,
-      "name": "Black Velvet Flirt",
-      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
+      "duration_ms": 406586,
+      "name": "Moon-Silvered Clouds",
+      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
       "duration_ms": 383133,
       "name": "Deux",
       "url": "https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 610733,
+      "name": "Loving Touch",
+      "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Light",
-        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 610733,
-      "name": "Loving Touch",
-      "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "East of the Full Moon",
         "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
       },
@@ -628,25 +628,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 406586,
-      "name": "Moon-Silvered Clouds",
-      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 566813,
-      "name": "Schein und Widerschein",
-      "url": "https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2"
+      "duration_ms": 420160,
+      "name": "Black Velvet Flirt",
+      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
       "duration_ms": 367046,
       "name": "Moving Seagrass",
       "url": "https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 566813,
+      "name": "Schein und Widerschein",
+      "url": "https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2"
     },
     {
       "added_at": null,

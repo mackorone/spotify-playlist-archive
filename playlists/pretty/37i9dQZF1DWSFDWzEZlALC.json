@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: KAFFKIEZ",
-  "num_followers": 458894,
+  "num_followers": 458908,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHC6XwAAAACDCla4A6nCwNERctpj6sO3",
+  "snapshot_id": "aHT0oAAAAABem1NaI/hltAQYEP21lr4k",
   "tracks": [
     {
       "added_at": "2025-07-10 22:00:24",
@@ -43,38 +43,6 @@
     {
       "added_at": "2025-07-10 22:00:24",
       "album": {
-        "name": "Kommst du vorbei",
-        "url": "https://open.spotify.com/album/3QhiCdOkc6bFLKuwcul2VU"
-      },
-      "artists": [
-        {
-          "name": "Yasola",
-          "url": "https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Kommst du vorbei",
-      "url": "https://open.spotify.com/track/1S8DPjb8gCjDxU0jrXMjPb"
-    },
-    {
-      "added_at": "2025-07-10 22:00:24",
-      "album": {
-        "name": "Einfach sein",
-        "url": "https://open.spotify.com/album/0309n4dzi1kqWpZwXEabae"
-      },
-      "artists": [
-        {
-          "name": "JAS",
-          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
-        }
-      ],
-      "duration_ms": 165463,
-      "name": "Einfach sein",
-      "url": "https://open.spotify.com/track/79ZfFZxU80HL49D6QdoaAU"
-    },
-    {
-      "added_at": "2025-07-10 22:00:24",
-      "album": {
         "name": "Frei",
         "url": "https://open.spotify.com/album/0Rm9O8tSZrjRwr4SAfYXOr"
       },
@@ -87,22 +55,6 @@
       "duration_ms": 139500,
       "name": "Frei",
       "url": "https://open.spotify.com/track/4BguFKjpssDGdARiq5vVmn"
-    },
-    {
-      "added_at": "2025-07-10 22:00:24",
-      "album": {
-        "name": "gladiolen",
-        "url": "https://open.spotify.com/album/2bqh2nCPi1TQACW7e9aHP8"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "duration_ms": 104230,
-      "name": "gladiolen",
-      "url": "https://open.spotify.com/track/1XObGR5yiTCQDANRyxddSB"
     },
     {
       "added_at": "2025-07-10 22:00:24",
@@ -139,6 +91,54 @@
       "duration_ms": 165466,
       "name": "frieden",
       "url": "https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna"
+    },
+    {
+      "added_at": "2025-07-10 22:00:24",
+      "album": {
+        "name": "Einfach sein",
+        "url": "https://open.spotify.com/album/0309n4dzi1kqWpZwXEabae"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "duration_ms": 165463,
+      "name": "Einfach sein",
+      "url": "https://open.spotify.com/track/79ZfFZxU80HL49D6QdoaAU"
+    },
+    {
+      "added_at": "2025-07-10 22:00:24",
+      "album": {
+        "name": "gladiolen",
+        "url": "https://open.spotify.com/album/2bqh2nCPi1TQACW7e9aHP8"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 104230,
+      "name": "gladiolen",
+      "url": "https://open.spotify.com/track/1XObGR5yiTCQDANRyxddSB"
+    },
+    {
+      "added_at": "2025-07-10 22:00:24",
+      "album": {
+        "name": "Kommst du vorbei",
+        "url": "https://open.spotify.com/album/3QhiCdOkc6bFLKuwcul2VU"
+      },
+      "artists": [
+        {
+          "name": "Yasola",
+          "url": "https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Kommst du vorbei",
+      "url": "https://open.spotify.com/track/1S8DPjb8gCjDxU0jrXMjPb"
     },
     {
       "added_at": "2025-07-10 22:00:24",

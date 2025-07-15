@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 371144,
+  "num_followers": 371193,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAABH8O6WTJ0ITYOPk21DgbIl",
+  "snapshot_id": "aHL3AAAAAADUQ9UqWSeIWozSb/pOIBv3",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Capit\u00e1n",
+        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mexicano Soy",
         "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 196437,
       "name": "Puro Campe\u00f3n",
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Capit\u00e1n",
-        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "El Capit\u00e1n",
-      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
     },
     {
       "added_at": null,
@@ -847,30 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rico o Muerto, Vol. 1",
-        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Fino Con Los Valentino",
-      "url": "https://open.spotify.com/track/02Rk5y9SH6OtMgl3Etln3q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Compas Vol. 1",
         "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 153024,
       "name": "F*%K U Baby",
       "url": "https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rico o Muerto, Vol. 1",
+        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Fino Con Los Valentino",
+      "url": "https://open.spotify.com/track/02Rk5y9SH6OtMgl3Etln3q"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay de Dos",
-        "url": "https://open.spotify.com/album/2FrO1LxSHglrW7opD6c1ZX"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Alex Torres",
-          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
-        }
-      ],
-      "duration_ms": 131413,
-      "name": "Hay de Dos",
-      "url": "https://open.spotify.com/track/1YZhKkEd9rpMdkgF9uGUoz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 211993,
       "name": "A Punta de Balazos",
       "url": "https://open.spotify.com/track/30jSzrU2QGEVG623M6x63V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hay de Dos",
+        "url": "https://open.spotify.com/album/2FrO1LxSHglrW7opD6c1ZX"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        }
+      ],
+      "duration_ms": 131413,
+      "name": "Hay de Dos",
+      "url": "https://open.spotify.com/track/1YZhKkEd9rpMdkgF9uGUoz"
     },
     {
       "added_at": null,

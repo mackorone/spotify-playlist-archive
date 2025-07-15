@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 123669,
+  "num_followers": 123705,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Caminhos Do Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4a7f5kh2eaSyhDE4LCn4T0"
+      },
+      "artists": [
+        {
+          "name": "Gonzaguinha",
+          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "O Que \u00c9 O Que \u00c9?",
+      "url": "https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Sr. Tigre (French Braids Rework)",
         "url": "https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Caminhos Do Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4a7f5kh2eaSyhDE4LCn4T0"
+        "name": "The Best of Dandy Livingstone",
+        "url": "https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3"
       },
       "artists": [
         {
-          "name": "Gonzaguinha",
-          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
+          "name": "Dandy Livingstone",
+          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
         }
       ],
-      "duration_ms": 258986,
-      "name": "O Que \u00c9 O Que \u00c9?",
-      "url": "https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b"
+      "duration_ms": 162466,
+      "name": "Rudy, a Message to You",
+      "url": "https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -519,22 +535,6 @@
       "duration_ms": 266040,
       "name": "Huit octobre 1971",
       "url": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "The Best of Dandy Livingstone",
-        "url": "https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3"
-      },
-      "artists": [
-        {
-          "name": "Dandy Livingstone",
-          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Rudy, a Message to You",
-      "url": "https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 284320,
-      "name": "Bruca Manigu\u00e1",
-      "url": "https://open.spotify.com/track/4HWwcSkeRTsqjZurFC6tMH"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "007 Shanty Town",
         "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 154293,
       "name": "007 (Shanty Town)",
       "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 284320,
+      "name": "Bruca Manigu\u00e1",
+      "url": "https://open.spotify.com/track/4HWwcSkeRTsqjZurFC6tMH"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
         "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Di Melo",
         "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Quarteto Em Cy",
-        "url": "https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Em Cy",
-          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
-        }
-      ],
-      "duration_ms": 161106,
-      "name": "Tudo Que Voce Podia Ser",
-      "url": "https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Alegria, Alegria!!!",
         "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 152613,
       "name": "Nem Vem Que N\u00e3o Tem",
       "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Quarteto Em Cy",
+        "url": "https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Em Cy",
+          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
+        }
+      ],
+      "duration_ms": 161106,
+      "name": "Tudo Que Voce Podia Ser",
+      "url": "https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "El Ruise\u00f1or de America",
-        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 158376,
-      "name": "Rondando Tu Esquina",
-      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Isle Of Magic",
         "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Head Sounds",
-        "url": "https://open.spotify.com/album/4TSezF4Nzi3aiSfG0sfe8l"
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
       },
       "artists": [
         {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 307307,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/2U2PU70RZCDo37wPtiCAcJ"
+      "duration_ms": 158376,
+      "name": "Rondando Tu Esquina",
+      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1551,6 +1535,22 @@
       "duration_ms": 140706,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Head Sounds",
+        "url": "https://open.spotify.com/album/4TSezF4Nzi3aiSfG0sfe8l"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 307307,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/2U2PU70RZCDo37wPtiCAcJ"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1651,38 +1651,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Napoli Segreta",
-        "url": "https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl"
-      },
-      "artists": [
-        {
-          "name": "Donatella Viggiano",
-          "url": "https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "Napule Canta E More",
-      "url": "https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/4MTtvGnI74RyOmG5UrVZhf"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        }
-      ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Musique originale de films (Habibi Funk 003)",
         "url": "https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F"
       },
@@ -1695,6 +1663,38 @@
       "duration_ms": 209000,
       "name": "Autopsie d'un complot",
       "url": "https://open.spotify.com/track/0nJPzwRclRWEniqHGQxdUv"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "La Candela Viva",
+        "url": "https://open.spotify.com/album/2UChA5fC8ycqyOJbMwjtZw"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/5STDVTFO7ziu4LDaaRCx2n"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Napoli Segreta",
+        "url": "https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl"
+      },
+      "artists": [
+        {
+          "name": "Donatella Viggiano",
+          "url": "https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "Napule Canta E More",
+      "url": "https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k"
     }
   ],
   "unique_name": "Bon Voyage",

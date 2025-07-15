@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,131,566 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,131,856 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 97 | [Pass The Dutchie](https://open.spotify.com/track/7iWk45E2wIpFc3YUWm3VVn) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/5IdwXEZnCs41jsRzYg6IVM) | 3:24 |
 | 98 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
 | 99 | [Life](https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA) | 3:42 |
-| 100 | [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 |
+| 100 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
 Snapshot ID: `ZpD3ewAAAAAuqBXwCaQuYYvR5ZILQp2M`

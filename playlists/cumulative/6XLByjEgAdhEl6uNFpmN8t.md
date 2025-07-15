@@ -4,7 +4,7 @@
 
 > 
 
-113 songs - 5 hr 45 min
+115 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [aight](https://open.spotify.com/track/37kI8bPlN5iN37kSFTyKCY) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 2:07 | 2024-10-17 |  |
 | [Apály](https://open.spotify.com/track/156AeYPPIRgeYJWmC3JUbO) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Apály](https://open.spotify.com/album/1Mh4B5kMXU35AexkEjOlSX) | 2:10 | 2024-10-17 |  |
 | [BAKPAKK](https://open.spotify.com/track/6dd2fGbktU3zOHHWK58nto) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [BAKPAKK](https://open.spotify.com/album/0oCPs1829LWGJUVlx50BNE) | 2:47 | 2024-10-17 |  |
+| [BALATONLELLE](https://open.spotify.com/track/3IItzNiCPdW55CxkFMLqpR) | [JANA](https://open.spotify.com/artist/3sVMPCOGrvv6saKNwgMiQd), [PEAK](https://open.spotify.com/artist/1lsPHMjIgJVvD2eHD2uHym) | [BALATONLELLE](https://open.spotify.com/album/4HVPxCSlwV9lPGel1WhBsg) | 3:15 | 2025-07-14 |  |
 | [Bambi](https://open.spotify.com/track/29snt77VXxUpJqMOMDSUuo) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [M.K](https://open.spotify.com/artist/6s6Ejw3hKQlTCi6yVHPMki), [Igni](https://open.spotify.com/artist/5TZxii3VFeubJqXSWyAhkh), [Varga Norbi](https://open.spotify.com/artist/3LQD7ygHka6JxAyllNLPta) | [Bambi](https://open.spotify.com/album/7GokiCOPcgKDsWaXUkjqli) | 2:48 | 2025-03-01 |  |
 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 | 2025-01-21 |  |
 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 5:54 | 2025-02-01 |  |
@@ -80,6 +81,7 @@
 | [Papa](https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:20 | 2025-01-09 |  |
 | [Paranoiás](https://open.spotify.com/track/30ezZEzXPCyUUv8Rr8lnB4) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [M Ricch](https://open.spotify.com/artist/4mT5vbooKo8dycjBCo9a4h) | [Paranoia](https://open.spotify.com/album/40oR75NLHfJOhC3gSX5khZ) | 3:23 | 2025-05-08 |  |
 | [Piaszag](https://open.spotify.com/track/0Yjl1FrlHwu4nhgEm92GSk) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:33 | 2024-12-18 |  |
+| [PLEKNI](https://open.spotify.com/track/2fbc4RDPWdcZC5NVHYGWOA) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [PLEKNI](https://open.spotify.com/album/67bo12Vu3mBmLrRUuHFk7J) | 2:53 | 2025-07-14 |  |
 | [PRIDE.](https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:35 | 2025-02-13 |  |
 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 | 2024-10-17 |  |
 | [Pullup](https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 2:17 | 2024-10-17 |  |

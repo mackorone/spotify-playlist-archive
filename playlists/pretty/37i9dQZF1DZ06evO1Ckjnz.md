@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,912 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,911 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 | 29 | [ART OF WAR \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ART OF WAR \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS) | 3:06 |
 | 30 | [Bitch I'm Nasty](https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 1:31 |
 | 31 | [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 |
-| 32 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 |
-| 33 | [Speed It Up \(feat\. Rico Nasty\)](https://open.spotify.com/track/6B0nCPXnBSCUiQTF5IUa05) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Speed It Up \(feat\. Rico Nasty\)](https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa) | 2:23 |
+| 32 | [Speed It Up \(feat\. Rico Nasty\)](https://open.spotify.com/track/6B0nCPXnBSCUiQTF5IUa05) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Speed It Up \(feat\. Rico Nasty\)](https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa) | 2:23 |
+| 33 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 |
 | 34 | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p) | 3:19 |
 | 35 | [Blow Me](https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 3:21 |
 | 36 | [IPHONE](https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [IPHONE](https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3) | 2:38 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 | 43 | [SUGARPARENTS \(feat\. Rico Nasty\)](https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ONEPOINTFIVE](https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I) | 1:59 |
 | 44 | [FMU](https://open.spotify.com/track/5p84ePa35EvlMOADpwwogw) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SEXORCISM](https://open.spotify.com/album/4TI5JC2BNfGFqk9GeA86Hk) | 2:58 |
 | 45 | [High Heels \(feat\. Rico Nasty\)](https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Pink Is Better](https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf) | 2:35 |
-| 46 | [Let It Out](https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:28 |
-| 47 | [Key Lime OG](https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sugar Trap 2](https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt) | 3:01 |
+| 46 | [Key Lime OG](https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sugar Trap 2](https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt) | 3:01 |
+| 47 | [Let It Out](https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:28 |
 | 48 | [One On 5 \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/0geh0360Ns6t3i0HbOH6DF) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Jason Evigan](https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:11 |
 | 49 | [Girl Crush \(feat\. Rico Nasty\)](https://open.spotify.com/track/6Z81mZN4nLr179FrIl37dq) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [+/\-](https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA) | 3:48 |
 | 50 | [Cold](https://open.spotify.com/track/4Onanh2sbZQKTGH8KvWzxS) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:33 |
 
-Snapshot ID: `aHGlgAAAAACeG4Sju9WNXIRNOERYifBI`
+Snapshot ID: `aHL3AAAAAADaIKhw8ssN7WLD5B7JyTqa`

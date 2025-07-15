@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Irmãs de Pau
+> Songs from LGBTQIA+ artists\. Cover: Aiko
 
 1,554 songs - 3 day 12 hr 1 min
 

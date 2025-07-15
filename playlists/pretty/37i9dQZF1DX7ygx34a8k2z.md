@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,206 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,353 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 58 | [Seether](https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:16 |
 | 59 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(Remastered and Expanded Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 |
 | 60 | [Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Ladies and gentlemen we are floating in space](https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun) | 3:54 |
-| 61 | [No Distance Left to Run](https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 3:28 |
-| 62 | [The Way We Get By](https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Kill the Moonlight](https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i) | 2:39 |
+| 61 | [The Way We Get By](https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Kill the Moonlight](https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i) | 2:39 |
+| 62 | [No Distance Left to Run](https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 3:28 |
 | 63 | [Brick](https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 4:31 |
 | 64 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 |
 | 65 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 82 | [Sugar Kane](https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Dirty](https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD) | 5:57 |
 | 83 | [Shady Lane](https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners](https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h) | 3:50 |
 | 84 | [Feed the Tree](https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:29 |
-| 85 | [Plainclothes Man](https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c) | [Heatmiser](https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo) | [Mic City Sons](https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL) | 3:28 |
-| 86 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
+| 85 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
+| 86 | [Plainclothes Man](https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c) | [Heatmiser](https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo) | [Mic City Sons](https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL) | 3:28 |
 | 87 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
 | 88 | [Game Of Pricks](https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:33 |
 | 89 | [Iron Man](https://open.spotify.com/track/2cpJAVteVpeXFCiOgjcx7m) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 4:19 |

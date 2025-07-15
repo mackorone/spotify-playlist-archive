@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2588797,
+  "num_followers": 2588715,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,30 @@
     {
       "added_at": "2025-07-11 04:00:27",
       "album": {
+        "name": "Gyrate (ft. Wreckno)",
+        "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        },
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Gyrate (ft. Wreckno)",
+      "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
+    },
+    {
+      "added_at": "2025-07-11 04:00:27",
+      "album": {
         "name": "Burial (feat. Pusha T, Moody Good, TrollPhace)",
         "url": "https://open.spotify.com/album/3rOzXYxXqBUcw3u131mrjE"
       },
@@ -887,30 +911,6 @@
       "duration_ms": 226849,
       "name": "Burial (feat. Pusha T, Moody Good, TrollPhace)",
       "url": "https://open.spotify.com/track/7DHX1Ng0V186U2idfFfjGi"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Gyrate (ft. Wreckno)",
-        "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Quackson",
-          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
-        },
-        {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Gyrate (ft. Wreckno)",
-      "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
     },
     {
       "added_at": "2025-07-11 04:00:27",
@@ -1355,26 +1355,18 @@
     {
       "added_at": "2025-07-11 04:00:27",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
+        "name": "RATS",
+        "url": "https://open.spotify.com/album/05ICsCw7Q4bjHsxhekDb3V"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Warrior Queen",
-          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
         }
       ],
-      "duration_ms": 251862,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
+      "duration_ms": 193714,
+      "name": "RATS",
+      "url": "https://open.spotify.com/track/4ukKRCVyEr8HsGS93RPuH8"
     },
     {
       "added_at": "2025-07-11 04:00:27",
@@ -1399,18 +1391,26 @@
     {
       "added_at": "2025-07-11 04:00:27",
       "album": {
-        "name": "RATS",
-        "url": "https://open.spotify.com/album/05ICsCw7Q4bjHsxhekDb3V"
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
       },
       "artists": [
         {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Warrior Queen",
+          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
         }
       ],
-      "duration_ms": 193714,
-      "name": "RATS",
-      "url": "https://open.spotify.com/track/4ukKRCVyEr8HsGS93RPuH8"
+      "duration_ms": 251862,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
     },
     {
       "added_at": "2025-07-11 04:00:27",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2025-07-11 04:00:27",
       "album": {
+        "name": "Mind Pluck",
+        "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        }
+      ],
+      "duration_ms": 270857,
+      "name": "Mind Pluck",
+      "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
+    },
+    {
+      "added_at": "2025-07-11 04:00:27",
+      "album": {
         "name": "Head Banger",
         "url": "https://open.spotify.com/album/4nzDinBKYwN8dWjlq4P9uj"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 168793,
       "name": "Head Banger",
       "url": "https://open.spotify.com/track/6QxZiw8PpWCH1w5Hg3233x"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Mind Pluck",
-        "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "HOL!",
-          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
-        }
-      ],
-      "duration_ms": 270857,
-      "name": "Mind Pluck",
-      "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
     },
     {
       "added_at": "2025-07-11 04:00:27",

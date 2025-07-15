@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: Chris Else en Chanelle Else
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,864 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,872 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 32 | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 |
 | 33 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 |
 | 34 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 |
-| 35 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 |
-| 36 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
+| 35 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
+| 36 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 |
 | 37 | [Good Times & Tan Lines](https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Good Times & Tan Lines](https://open.spotify.com/album/1DZO09ac5XmLpt0Utimknk) | 2:40 |
 | 38 | [DEVIL YOU KNOW](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [DEVIL YOU KNOW](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 |
 | 39 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 |
 | 40 | [Options](https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Options](https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04) | 2:49 |
-| 41 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 |
-| 42 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
+| 41 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
+| 42 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 |
 | 43 | [Ashes](https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Ashes](https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg) | 3:03 |
 | 44 | [2 Pair](https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [2 Pair](https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi) | 2:31 |
 | 45 | [Bottle Rockets \(feat\. Hootie & The Blowfish\)](https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29), [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Bottle Rockets \(feat\. Hootie & The Blowfish\)](https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB) | 3:55 |

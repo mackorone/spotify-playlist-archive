@@ -1,13 +1,29 @@
 {
   "description": "Discover new artists on the horizon this 2025. Cover: BGYO\n",
-  "num_followers": 134123,
+  "num_followers": 134127,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4fMwAAAACKA99hUfl1/4KLSRQA1j82",
+  "snapshot_id": "aHS1WwAAAABkV4moc/m2rPZOyrfLWwon",
   "tracks": [
+    {
+      "added_at": "2025-07-14 07:44:27",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0pm3nGgzGYqIpbvdPR4M3a"
+      },
+      "artists": [
+        {
+          "name": "Justin Vasquez",
+          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
+        }
+      ],
+      "duration_ms": 234324,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6bDW6rxCjoxk8wcrkevKXL"
+    },
     {
       "added_at": "2025-06-27 04:33:55",
       "album": {

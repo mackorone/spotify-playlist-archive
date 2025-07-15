@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 39319,
+  "num_followers": 39346,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAfx96oBosNyuqaFMEW1Lki",
+  "snapshot_id": "aHL3AAAAAABy8Q+L++efr/sNEVWx31eP",
   "tracks": [
     {
       "added_at": null,
@@ -103,18 +103,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+        "name": "Prince of the Street",
+        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
       "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 218657,
-      "name": "Pidgin & English",
-      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
+      "duration_ms": 125106,
+      "name": "Oshimiri",
+      "url": "https://open.spotify.com/track/2i5PqDEsME85JezRrq6BJy"
     },
     {
       "added_at": null,
@@ -135,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prince of the Street",
-        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
       "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 125106,
-      "name": "Oshimiri",
-      "url": "https://open.spotify.com/track/2i5PqDEsME85JezRrq6BJy"
+      "duration_ms": 218657,
+      "name": "Pidgin & English",
+      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
     },
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/731NDNG7VQOA2KBnS43jqr"
+      "duration_ms": 191976,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
     },
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/731NDNG7VQOA2KBnS43jqr"
     },
     {
       "added_at": null,
@@ -243,26 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 188985,
-      "name": "GWAGWALADA",
-      "url": "https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4"
+      "duration_ms": 164557,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
       "added_at": null,
@@ -283,18 +275,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+      "duration_ms": 188985,
+      "name": "GWAGWALADA",
+      "url": "https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4"
     },
     {
       "added_at": null,
@@ -462,11 +462,15 @@
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/7eo9YPXQqZjB1DxYAnvHqy"
+      "duration_ms": 194954,
+      "name": "Regret (feat. 2Baba)",
+      "url": "https://open.spotify.com/track/4RkuFGsIae9AGdGnxIQTGx"
     },
     {
       "added_at": null,
@@ -511,46 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cold Outside",
-        "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Cold Outside",
-      "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 194954,
-      "name": "Regret (feat. 2Baba)",
-      "url": "https://open.spotify.com/track/4RkuFGsIae9AGdGnxIQTGx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lenu (Remix)",
         "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
       },
@@ -567,6 +531,42 @@
       "duration_ms": 213266,
       "name": "Lenu - Remix",
       "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 149481,
+      "name": "Sweet Tea (Aduke)",
+      "url": "https://open.spotify.com/track/7eo9YPXQqZjB1DxYAnvHqy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cold Outside",
+        "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Cold Outside",
+      "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Made Me Do It",
-        "url": "https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2"
-      },
-      "artists": [
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 196008,
-      "name": "Love Made Me Do It",
-      "url": "https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ATSG, Vol. 1",
         "url": "https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/1IcnpAY3JjK8b0dkpCZjdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Made Me Do It",
+        "url": "https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 196008,
+      "name": "Love Made Me Do It",
+      "url": "https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7"
     },
     {
       "added_at": null,

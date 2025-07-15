@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 BLACKPINK, TWICE, Tyla, GIVĒON, Burna Boy, WurtS, imase and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,441 likes - 99 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,453 likes - 99 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 |
 | 2 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
-| 3 | [SWAG](https://open.spotify.com/track/3WQ5w7ruC3c861lHXF9Gs2) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:30 |
+| 3 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
 | 4 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
 | 5 | [どうかしてる](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [どうかしてる](https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI) | 2:30 |
 | 6 | [ミスター・ムーンライト](https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミスター・ムーンライト](https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X) | 3:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 98 | [MUJINA](https://open.spotify.com/track/2SJHuP6cmfN6XLfHct82L9) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN), [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [YANT](https://open.spotify.com/album/5YJPyTbUCKFNekAWzN1Sij) | 4:00 |
 | 99 | [Tennis Bracelet](https://open.spotify.com/track/0ZCmVf5BIgmWNj1vcqAjJo) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Tennis Bracelet](https://open.spotify.com/album/0Jy6YjC6L3BdWKU3GIKSKV) | 3:28 |
 
-Snapshot ID: `aHC4xQAAAAA1cG1uosMY92/eavG06/xG`
+Snapshot ID: `aHS2GgAAAACqE8MsfotjgXpjJaL50rZL`

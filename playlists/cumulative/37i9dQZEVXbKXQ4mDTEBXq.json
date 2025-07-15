@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 180250,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG"
@@ -5759,6 +5759,24 @@
     },
     {
       "album": {
+        "name": "THIS IS FOR",
+        "url": "https://open.spotify.com/album/02dUOPB3MtmV5fawzaZiq6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131097,
+      "name": "THIS IS FOR",
+      "url": "https://open.spotify.com/track/3598iBWrS4JhJqP5tHlpVK"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
         "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
       },
@@ -7552,7 +7570,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 198933,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4QIKSlDV5YIjr0kqT1Ad32"
@@ -7624,7 +7642,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5LkmpgQYtwHtuvASgnLBe1"
@@ -10274,7 +10292,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 307066,
       "name": "\u70b9\u63cf\u306e\u5504",
       "url": "https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV"
@@ -10362,7 +10380,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 307120,
       "name": "\u70b9\u63cf\u306e\u5504",
       "url": "https://open.spotify.com/track/7Md0Rk4s9khBtVpSD03bWl"

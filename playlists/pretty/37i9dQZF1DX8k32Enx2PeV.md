@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,756 likes - 110 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,767 likes - 110 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 66 | [Sun a Shine](https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv) | [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Sun a Shine](https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3) | 2:52 |
 | 67 | [Cosas del Destino](https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cosas del Destino](https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3) | 3:34 |
 | 68 | [Yo Quisiera](https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Yo Quisiera](https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09) | 2:57 |
-| 69 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
-| 70 | [Azul](https://open.spotify.com/track/6GXiF7VKiCC4dZRQyWu8Sj) | [La Beat Machine](https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6) | [Azul](https://open.spotify.com/album/1m41idRHu1CBWPGwQpXiWd) | 3:22 |
+| 69 | [Azul](https://open.spotify.com/track/6GXiF7VKiCC4dZRQyWu8Sj) | [La Beat Machine](https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6) | [Azul](https://open.spotify.com/album/1m41idRHu1CBWPGwQpXiWd) | 3:22 |
+| 70 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
 | 71 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
 | 72 | [Ese Dinero](https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Ese Dinero](https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT) | 3:58 |
 | 73 | [Un Poco Menos Idiota](https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Poco Menos Idiota](https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI) | 3:45 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 76 | [Pa' que lo bailen \- Radio Edit](https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Pa' que lo bailen \(Radio Edit\)](https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb) | 3:14 |
 | 77 | [No Avanzan \(feat\. Luis Eduardo Acústico\)](https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp) | [Tostao](https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT), [Luis Eduardo Acústico](https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm) | [No Avanzan \(feat\. Luis Eduardo Acústico\)](https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l) | 2:51 |
 | 78 | [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 |
-| 79 | [XODÓ](https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD) | [JBot & Tuti](https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX) | [XODÓ](https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo) | 2:37 |
-| 80 | [Mudanza](https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Mudanza](https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt) | 3:32 |
+| 79 | [Mudanza](https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Mudanza](https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt) | 3:32 |
+| 80 | [XODÓ](https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD) | [JBot & Tuti](https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX) | [XODÓ](https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo) | 2:37 |
 | 81 | [Ma Vie](https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt) | [Valerianä](https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs) | [Ma Vie](https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8) | 2:32 |
 | 82 | [Museo](https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Museo](https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB) | 2:45 |
 | 83 | [Como Fuego](https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Sol Y Lluvia](https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7) | 3:04 |

@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1249515,
+  "num_followers": 1249563,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAD5mwE0xGLAXpqtl3WTV1V5",
+  "snapshot_id": "aHL3AAAAAABbupT2GNhaYZcpieWVogWa",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stories Of Surrender EP",
-        "url": "https://open.spotify.com/album/5WSdpMxWXt6B0yoExeXSba"
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
       },
       "artists": [
-        {
-          "name": "Bono",
-          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
-        },
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 232758,
-      "name": "Sunday Bloody Sunday - Stories Of Surrender Version",
-      "url": "https://open.spotify.com/track/3galkS27ZZpCSG4TvVYotg"
+      "duration_ms": 276800,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
+        "name": "Stories Of Surrender EP",
+        "url": "https://open.spotify.com/album/5WSdpMxWXt6B0yoExeXSba"
       },
       "artists": [
+        {
+          "name": "Bono",
+          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
+        },
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 276800,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr"
+      "duration_ms": 232758,
+      "name": "Sunday Bloody Sunday - Stories Of Surrender Version",
+      "url": "https://open.spotify.com/track/3galkS27ZZpCSG4TvVYotg"
     },
     {
       "added_at": null,

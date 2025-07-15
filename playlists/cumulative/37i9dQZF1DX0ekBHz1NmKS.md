@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,938 songs - 4 day 4 hr 24 min
+1,939 songs - 4 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Forever](https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz) | [AMADEUS](https://open.spotify.com/artist/2t7THYoDAV1wXEmsp7HNH1) | [Forever](https://open.spotify.com/album/5nkPAhhUXp9FQlsQSC4fD4) | 2:50 | 2022-04-28 | 2022-07-28 |
 | [Forever Is Not That Long](https://open.spotify.com/track/7jNodDaB30i6W03yxzhBgQ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP), [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Forever Is Not That Long](https://open.spotify.com/album/0T1ISornBJUnYNnrYRI4Ju) | 4:18 | 2025-02-06 | 2025-05-08 |
 | [Forget about her](https://open.spotify.com/track/1rG5cppCcbTtzLfnSq7QFt) | [Sanna Martinez](https://open.spotify.com/artist/0z4mzMTeYkA6xdybmSgdkn) | [Forget about her](https://open.spotify.com/album/1GTGUDjYetYoqWMPU5mBxl) | 3:51 | 2024-02-08 | 2024-02-25 |
+| [Forgive, Forget](https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Forgive, Forget](https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE) | 2:49 | 2025-07-14 |  |
 | [Fortare](https://open.spotify.com/track/0LYN3OvXOZ7rTUOWKj72Pc) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Where Strippers Go To Die](https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf) | 2:59 | 2025-04-10 |  |
 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 | 2024-10-10 | 2025-04-18 |
 | [Framåt](https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Framåt](https://open.spotify.com/album/6xEyVshiedA5zL2uUrGGig) | 2:58 | 2023-03-30 | 2023-10-20 |
@@ -876,7 +877,7 @@
 | [I’m His, He’s Mine](https://open.spotify.com/track/4ssi26oVcUXWLooc1Ac0Ni) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Younger](https://open.spotify.com/album/7akLNZ7EOOAZuNqNEc2zNA) | 2:39 | 2024-01-25 | 2024-02-23 |
 | [I’m Not a Boy](https://open.spotify.com/track/1MCqZiyILK5yKITelASw7a) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [I’m Not a Boy](https://open.spotify.com/album/1SHRLt3g7yrOZT9TG7Ffep) | 2:32 | 2025-01-30 | 2025-05-30 |
 | [Ja](https://open.spotify.com/track/7l7xxZPc59AS2ZELHnrLul) | [Jasmine Kara](https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj) | [Ja](https://open.spotify.com/album/21daaQE9MppIykDklxl4wk) | 3:10 | 2022-05-05 | 2022-07-28 |
-| [Ja visst gör det ont](https://open.spotify.com/track/4Iz9mYKm1If0cX5WdKGlCz) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Ja visst gör det ont](https://open.spotify.com/album/1vPi8ZtpnKZyoyv2qDZuOK) | 3:17 | 2025-05-01 |  |
+| [Ja visst gör det ont](https://open.spotify.com/track/4Iz9mYKm1If0cX5WdKGlCz) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Ja visst gör det ont](https://open.spotify.com/album/1vPi8ZtpnKZyoyv2qDZuOK) | 3:17 | 2025-05-01 | 2025-07-15 |
 | [Jag borde gå](https://open.spotify.com/track/2v9FTezxTq2caERaOKGgdr) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jag borde gå](https://open.spotify.com/album/4qFOfgIEz5MkWQCi5renDw) | 3:37 | 2024-10-10 | 2025-02-22 |
 | [Jag drömmer mig fri](https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Jag drömmer mig fri](https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe) | 3:11 | 2024-05-23 | 2024-06-21 |
 | [Jag har en sång](https://open.spotify.com/track/5EEBaNtTSxGAFDDvF4u0to) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Jag har en sång](https://open.spotify.com/album/54APrhPiWgvMab1fFU8wiJ) | 1:12 | 2021-12-16 | 2022-05-10 |

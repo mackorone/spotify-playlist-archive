@@ -1,6 +1,6 @@
 {
   "description": "Warm familiar pop you know and love.",
-  "num_followers": 7701652,
+  "num_followers": 7701906,
   "original_name": "Soft Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-03-08 22:08:49",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2025-03-08 22:08:49",
+      "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
-    },
-    {
-      "added_at": "2025-03-08 22:08:49",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2025-03-08 22:08:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-03-08 22:08:49",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
-    },
-    {
-      "added_at": "2025-03-08 22:08:49",
-      "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2025-03-08 22:08:49",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
     },
     {
       "added_at": "2025-03-08 22:08:49",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2025-03-08 22:08:49",
       "album": {
-        "name": "Until I Found You (Em Beihold Version)",
-        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2025-03-08 22:08:49",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2025-03-08 22:08:49",
+      "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
       "added_at": "2025-03-08 22:08:49",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-03-08 22:08:49",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
-    },
-    {
-      "added_at": "2025-03-08 22:08:49",
-      "album": {
         "name": "Be Not Nobody",
         "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2025-03-08 22:08:49",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 206458,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2025-03-08 22:08:49",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2025-03-08 22:08:49",
       "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+    },
+    {
+      "added_at": "2025-03-08 22:08:49",
+      "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-03-08 22:08:49",
       "album": {
-        "name": "Camino Palmero",
-        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
-    },
-    {
-      "added_at": "2025-03-08 22:08:49",
-      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 198370,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
+    },
+    {
+      "added_at": "2025-03-08 22:08:49",
+      "album": {
+        "name": "Camino Palmero",
+        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
       "added_at": "2025-03-08 22:08:49",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-03-08 22:08:49",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
-    },
-    {
-      "added_at": "2025-03-08 22:08:49",
-      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    },
+    {
+      "added_at": "2025-03-08 22:08:49",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2025-03-08 22:08:49",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-03-08 22:08:49",
       "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
-    },
-    {
-      "added_at": "2025-03-08 22:08:49",
-      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2025-03-08 22:08:49",
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
       "added_at": "2025-03-08 22:08:49",

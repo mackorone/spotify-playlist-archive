@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,592 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,620 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 18 | [응급실](https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx) | [Izi](https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf) | [izi 1집](https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8) | 3:46 |
 | 19 | [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy \(feat\. 정인 Jung In\)](https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Hexagonal](https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS) | 4:44 |
 | 20 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 |
-| 21 | [Hot Issue](https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Hot Issue](https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62) | 3:28 |
-| 22 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
+| 21 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
+| 22 | [Hot Issue](https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Hot Issue](https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62) | 3:28 |
 | 23 | [Kissing You](https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 3:19 |
 | 24 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 |
 | 25 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 33 | [애인만들기](https://open.spotify.com/track/7oEnx3neiNUlJRwBadUhAS) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 Best Collection \(Original Television Soundtrack\)](https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7) | 3:15 |
 | 34 | [Me to You, You to Me](https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ) | [Jatanpung](https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5) | [A bicycle Ride](https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg) | 3:42 |
 | 35 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 |
-| 36 | [So Cool](https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SO COOL](https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO) | 3:21 |
-| 37 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
+| 36 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
+| 37 | [So Cool](https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SO COOL](https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO) | 3:21 |
 | 38 | [화장을 고치고](https://open.spotify.com/track/0e70x113268aBzaBaNHmrR) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Wax02 : 화장을 고치고](https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6) | 4:10 |
 | 39 | [Sweet Dream](https://open.spotify.com/track/2gx9ARIznyZBYa6YyWD5fo) | [Jang Na\-ra](https://open.spotify.com/artist/2ToVzDfnPIfgFiqkXbLsYN) | [Sweet Dream](https://open.spotify.com/album/5VfVPotg5IHge0C8PFb5Dt) | 3:56 |
 | 40 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 77 | [My love has faded away](https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [My love has faded away](https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB) | 3:40 |
 | 78 | [I drink again](https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:05 |
 | 79 | [When flowering spring comes](https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [SOUL FOOD](https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q) | 4:44 |
-| 80 | [날 그만 잊어요](https://open.spotify.com/track/48019yKa8kJowllkqICDIi) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [It's Different](https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf) | 4:31 |
-| 81 | [I Love You](https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [I Love You](https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq) | 4:06 |
+| 80 | [I Love You](https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [I Love You](https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq) | 4:06 |
+| 81 | [날 그만 잊어요](https://open.spotify.com/track/48019yKa8kJowllkqICDIi) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [It's Different](https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf) | 4:31 |
 | 82 | [Fly \(feat\. Amin\. J\)](https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Amin\. J](https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:21 |
 | 83 | [너의 곁으로](https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [Lovers in Paris \(Original Television Soundtrack\)](https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii) | 4:09 |
 | 84 | [Wild Eyes](https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [HEY, COME ON! \- The 4th Album](https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul) | 3:21 |
 | 85 | [Hi\~](https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Hi\~](https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho) | 3:27 |
 | 86 | [Dropping the Tears](https://open.spotify.com/track/0WHzRzinRoUzW7vX7xhSLD) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Dropping the Tears](https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol) | 4:17 |
-| 87 | [I say "I love you" again](https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Homecoming](https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d) | 4:47 |
-| 88 | [챔피언](https://open.spotify.com/track/2ZlQBBouYjp0h3g3aGhLoh) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [REMAKE & MIX No\. 18](https://open.spotify.com/album/2xdJzg2ig5qzKFxZOR3CLa) | 4:26 |
+| 87 | [챔피언](https://open.spotify.com/track/2ZlQBBouYjp0h3g3aGhLoh) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [REMAKE & MIX No\. 18](https://open.spotify.com/album/2xdJzg2ig5qzKFxZOR3CLa) | 4:26 |
+| 88 | [I say "I love you" again](https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Homecoming](https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d) | 4:47 |
 | 89 | [I Guess I Loved You \- 2016 Version](https://open.spotify.com/track/3CRYykOC8kHuSUWKPOmpgN) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [REMIND](https://open.spotify.com/album/2wA8OXIv1JXX9kTY2ddfR4) | 3:52 |
 | 90 | [Seulpun honjatmal](https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Gugip: C.J.2002](https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs) | 4:20 |
 | 91 | [Ice Cream](https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 3:36 |

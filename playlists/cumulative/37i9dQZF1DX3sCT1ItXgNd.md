@@ -2,9 +2,9 @@
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
-> Lo mejor del pop en español\. Foto: Juan Magán, Lucho RK
+> Lo mejor del pop en español\. Foto: Kapo
 
-762 songs - 1 day 14 hr 12 min
+763 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Con Solo una Sonrisa](https://open.spotify.com/track/6mu9zsveVti5Tf4gVs0LLR) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV) | [Con Solo una Sonrisa](https://open.spotify.com/album/5PsdC4KHAN21WOZN0sW8zP) | 3:54 | 2023-10-27 | 2023-11-14 |
 | [CONEXIÓN PSÍQUICA](https://open.spotify.com/track/6rWIHEedAYET828v7QY22S) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:40 | 2025-05-29 |  |
 | [Conmigo no lloras](https://open.spotify.com/track/2AGGQ8sSLALwFtuY0VuQQ9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Conmigo no lloras](https://open.spotify.com/album/2DsQL94YqBZRU5I7w93tl0) | 3:22 | 2025-07-08 |  |
+| [Contigo](https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Contigo](https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt) | 2:37 | 2025-07-14 |  |
 | [Contigo](https://open.spotify.com/track/5Txf0ApheFvyRr1s4DxMb5) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Contigo](https://open.spotify.com/album/3f9adgFbEoT4p73iJTP41t) | 2:39 | 2024-11-21 |  |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-15 | 2024-05-24 |
 | [Contrato](https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Contrato](https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno) | 3:24 | 2024-06-21 | 2024-06-29 |
@@ -760,7 +761,7 @@
 | [YO y TÚ](https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [YO y TÚ](https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM) | 3:18 | 2025-06-17 |  |
 | [Ysilandia](https://open.spotify.com/track/1Uiees22RmVuFaGrbdCbR5) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Ysilandia](https://open.spotify.com/album/3P2TJ5AUSNb0yCdXqX9QvZ) | 3:37 | 2025-02-17 | 2025-02-25 |
 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 | 2024-09-23 | 2024-10-01 |
-| [Zombies](https://open.spotify.com/track/14bBGNYwyVZlG0WZbV50kS) | [De Rancho](https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k) | [Zombies](https://open.spotify.com/album/1AMxRKdcR4LdrZAThfk73N) | 2:43 | 2025-07-08 |  |
+| [Zombies](https://open.spotify.com/track/14bBGNYwyVZlG0WZbV50kS) | [De Rancho](https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k) | [Zombies](https://open.spotify.com/album/1AMxRKdcR4LdrZAThfk73N) | 2:43 | 2025-07-08 | 2025-07-15 |
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-04-01 | 2024-08-30 |
 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 | 2024-07-19 | 2025-01-21 |
 | [¿Por Qué Soy Así?](https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué Soy Así?](https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2) | 3:09 | 2024-10-04 | 2024-10-15 |

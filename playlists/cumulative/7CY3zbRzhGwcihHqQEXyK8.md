@@ -4,16 +4,20 @@
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-676 songs - 1 day 11 hr 8 min
+680 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#1 pink fox](https://open.spotify.com/track/3P5yrwfvPY9TVY31CYsksq) | [foxxlust](https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco) | [sparkle dog anthem ii](https://open.spotify.com/album/2Eak1ciFVO1uToQE9y50VY) | 2:25 | 2024-12-16 |  |
 | [\#bdsmclubstar](https://open.spotify.com/track/3CqUJo38KcPfX2hUzfVWfT) | [Yoru Tsuki](https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq) | [top secret mixtape](https://open.spotify.com/album/1lvJ0gDR2bpcZ6B8To1SYU) | 2:15 | 2024-12-16 |  |
 | [\#FAMOUS!](https://open.spotify.com/track/09lSy5U4lP9r6LGn6jNSCh) | [foxxlust](https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco) | [SPARKLEDOG ANTHEM!](https://open.spotify.com/album/2bQAO8VAUvSZ8QKNdoa5pV) | 2:53 | 2024-12-16 |  |
+| [09/10/20](https://open.spotify.com/track/0cAdbW89vqd8Tm8zA5FIhh) | [Trigore](https://open.spotify.com/artist/0rdJ0VosKZEdMEmdotoHNO) | [Dd/Mm/yy](https://open.spotify.com/album/0oiWVvOeepwQHdjyEtuuuq) | 1:40 | 2025-07-14 |  |
 | [100 Years](https://open.spotify.com/track/01gDbVhFC9R8YVZqUOwbfo) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [100 Years](https://open.spotify.com/album/25zp7kjuPeaZFwV7mJF8Jr) | 3:45 | 2025-04-01 |  |
 | [100 Years](https://open.spotify.com/track/1dv3PakdOZd9bCvUZNrwdF) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Clover](https://open.spotify.com/album/30hjQn1MkKIEfd6qjkZKbS) | 3:45 | 2025-04-01 |  |
 | [12 Inch \- Rocco vs\. Bass\-T Remix](https://open.spotify.com/track/2cUVeUViGahpAZZWNBZjJs) | [Niels De Vries](https://open.spotify.com/artist/34semg4gV4qr1BkozcOfPO), [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP), [BASS\-T](https://open.spotify.com/artist/2baAhPRbRkAH58XGCBD8HG) | [15 Years of Aqualoop Records](https://open.spotify.com/album/4hk6lC8BaKhn88EFFjxqG5) | 3:38 | 2024-12-16 |  |
+| [16/10/20](https://open.spotify.com/track/6L7Dk0Vyurf49wTmG7ukHl) | [Trigore](https://open.spotify.com/artist/0rdJ0VosKZEdMEmdotoHNO) | [Dd/Mm/yy](https://open.spotify.com/album/0oiWVvOeepwQHdjyEtuuuq) | 1:10 | 2025-07-14 |  |
+| [20/09/20](https://open.spotify.com/track/46sgCQIsCPYh9bFa9pvKT2) | [Trigore](https://open.spotify.com/artist/0rdJ0VosKZEdMEmdotoHNO) | [Dd/Mm/yy](https://open.spotify.com/album/0oiWVvOeepwQHdjyEtuuuq) | 1:16 | 2025-07-14 |  |
+| [21/09/20](https://open.spotify.com/track/6ZLJ9aTzT6gIheuxHmroez) | [Trigore](https://open.spotify.com/artist/0rdJ0VosKZEdMEmdotoHNO) | [Dd/Mm/yy](https://open.spotify.com/album/0oiWVvOeepwQHdjyEtuuuq) | 1:20 | 2025-07-14 |  |
 | [2319](https://open.spotify.com/track/4gzfkilB3jDuOwWlUghq6x) | [SAIGA12](https://open.spotify.com/artist/0F49Yj7KAapV4PV8rZtVbl), [BlUE SKUll](https://open.spotify.com/artist/6qwccsxQTHlg5hD7R1kQoY) | [SKINNY DIPPIN AT THA MOTEL 6](https://open.spotify.com/album/3QHyPYp0SBoEsUUqtsWfKj) | 2:20 | 2024-12-27 |  |
 | [4 Bid in Attraction](https://open.spotify.com/track/6tb3leiOAb2EqRLMweC4ln) | [Corey Feldman](https://open.spotify.com/artist/1hzKfT0k54Cn1HgxoOTZP9), [Kaya Jones](https://open.spotify.com/artist/0iDe84H9rzwWtZH3aSrPH3) | [Angelic 2 the Core : Angelic Funkadelic / Angelic Rockadelic](https://open.spotify.com/album/1HulL4NikuGieoJQUBJJL9) | 4:04 | 2024-12-15 |  |
 | [5 missed calls 7 missed texts](https://open.spotify.com/track/7bUbFAgTLslTS6sbA2fbkc) | [ilyhiryu](https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2), [asht0nn](https://open.spotify.com/artist/1MGwr7cxRdJJZkHPbJUwuA), [bloodpup](https://open.spotify.com/artist/5KQhg7yiciKdEkGHMJcl6H) | [5 missed calls 7 missed texts](https://open.spotify.com/album/1xo5WIkGrMw9Kjcqef6mhM) | 2:09 | 2024-12-16 |  |

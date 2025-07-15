@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. for all you rock'n'roll stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,206 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,211 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 28 | [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 |
 | 29 | [I Can Talk](https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:55 |
 | 30 | [Black Magic](https://open.spotify.com/track/243b3t0P416vtdmxRllHEV) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [The Amazons \(Deluxe\)](https://open.spotify.com/album/2vsawVLAVvyQ8Oqu190Qbo) | 4:31 |
-| 31 | [Zero](https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 4:25 |
-| 32 | [Cave Song](https://open.spotify.com/track/2lxqOVJzuS0s1SgulAvkav) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Cave Song \- EP](https://open.spotify.com/album/4Ot58H0rbFZycunXoYQKTT) | 2:21 |
+| 31 | [Cave Song](https://open.spotify.com/track/2lxqOVJzuS0s1SgulAvkav) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Cave Song \- EP](https://open.spotify.com/album/4Ot58H0rbFZycunXoYQKTT) | 2:21 |
+| 32 | [Zero](https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 4:25 |
 | 33 | [Got You](https://open.spotify.com/track/48vErDbNdjwhwGkNUQBoLt) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Amyl and The Sniffers](https://open.spotify.com/album/78lob7vtivvo4vm41e362A) | 2:18 |
 | 34 | [Howdon Aldi Death Queue](https://open.spotify.com/track/5305FSV0HgZDeC0QwYxhVd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 1:57 |
 | 35 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |

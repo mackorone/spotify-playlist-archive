@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,423 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,627 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 33 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
 | 34 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q) | 3:06 |
 | 35 | [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 |
-| 36 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
-| 37 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 |
+| 36 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 |
+| 37 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
 | 38 | [Scream](https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 4:48 |
 | 39 | [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 |
 | 40 | [how it starts](https://open.spotify.com/track/510YEKitz3E6ejFbw8rmIB) | [elijah](https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy) | [how it starts](https://open.spotify.com/album/1GXkS6OirBCJ37LYCSWfFI) | 3:33 |
-| 41 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
-| 42 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
-| 43 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 |
+| 41 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 |
+| 42 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
+| 43 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
 | 44 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 |
 | 45 | [one day](https://open.spotify.com/track/72eNA0R1yKAWOH8Z599i47) | [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC), [Grimzlee](https://open.spotify.com/artist/2cjwLVLbN1d5WaMZg5Em2g), [Skill Syrup](https://open.spotify.com/artist/7FvspmKAf0OXZbxx2A15hW) | [one day](https://open.spotify.com/album/5zY67Arwn1TAUgkvmLpWf3) | 2:34 |
 | 46 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 60 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
 | 61 | [Chokehold](https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Chokehold](https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl) | 5:04 |
 | 62 | [Phrygian](https://open.spotify.com/track/5ySpBqLgqeDONh96HKv0kL) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [break//neck](https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV) | 3:00 |
-| 63 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
-| 64 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 |
+| 63 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 |
+| 64 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
 | 65 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 |
 | 66 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 |
 | 67 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 |

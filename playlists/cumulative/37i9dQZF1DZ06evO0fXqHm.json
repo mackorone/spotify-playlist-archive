@@ -674,6 +674,32 @@
     {
       "album": {
         "name": "Faixa Rosa",
+        "url": "https://open.spotify.com/album/2ael06nHA8uSXPg0VGfdYT"
+      },
+      "artists": [
+        {
+          "name": "O Muriel",
+          "url": "https://open.spotify.com/artist/4tuEa306iAefne5kgwLFnD"
+        },
+        {
+          "name": "Guilherme Silva",
+          "url": "https://open.spotify.com/artist/46NHIGaIM5YNY9Wu1kIqvP"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152585,
+      "name": "Faixa Rosa",
+      "url": "https://open.spotify.com/track/13vwyl3TDjtZ0Pe1kDvYGJ"
+    },
+    {
+      "album": {
+        "name": "Faixa Rosa",
         "url": "https://open.spotify.com/album/5QhZPID8iGKDZCJmEXYH53"
       },
       "artists": [
@@ -688,7 +714,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 137458,
       "name": "Faixa Rosa",
       "url": "https://open.spotify.com/track/0ZYSljU1MYbCJ5zlRPmZZL"
@@ -1434,7 +1460,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 224500,
       "name": "Olha Beb\u00ea",
       "url": "https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC"
@@ -2212,7 +2238,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 121846,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/6vqr49lCwlODxmWEdb091P"

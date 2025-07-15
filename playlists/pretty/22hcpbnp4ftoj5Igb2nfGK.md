@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 
 > pretty flippin&\#x27; peak ;\)
 
-[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 94 songs - 5 hr 13 min
+[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 95 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,6 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 | 92 | [Life's a Bitch \(feat\. AZ & Olu Dara\)](https://open.spotify.com/track/2LhhnqrHPWvXYveZVHLKrd) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Olu Dara](https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:30 |
 | 93 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 |
 | 94 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 |
+| 95 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 |
 
-Snapshot ID: `AAAF87AsrQsUyYJwePCCrb0hkF+v7uXD`
+Snapshot ID: `AAAF9PY01acIN3EGX+W/d2FFGeCujRv/`

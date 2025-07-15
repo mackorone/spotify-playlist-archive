@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,009 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,003 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 44 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 |
 | 45 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 |
 | 46 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 |
-| 47 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 |
-| 48 | [Frágil](https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Frágil](https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR) | 4:23 |
+| 47 | [Frágil](https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Frágil](https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR) | 4:23 |
+| 48 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 |
 | 49 | [Solo tú](https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [Solo tú](https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65) | 4:07 |
 | 50 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
 | 51 | [Lockdownska](https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Lockdownska](https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P) | 3:39 |

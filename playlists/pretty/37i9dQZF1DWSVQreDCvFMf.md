@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: JERGE
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,674 likes - 103 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,736 likes - 103 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alay Kapwa](https://open.spotify.com/track/0EhqzN5m29ghtmCiAojESv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Alay Kapwa](https://open.spotify.com/album/30TTzRYxVEhPpi1Rokp5T3) | 4:31 |
+| 1 | [Sa Kapwa Ko Ay Alay](https://open.spotify.com/track/0EhqzN5m29ghtmCiAojESv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Kapwa Ko Ay Alay](https://open.spotify.com/album/30TTzRYxVEhPpi1Rokp5T3) | 4:31 |
 | 2 | [Ano Ba Talaga Tayo? \(feat\. Janine Berdin\)](https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ano Ba Talaga Tayo? \(feat\. Janine Berdin\)](https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF) | 4:12 |
 | 3 | [Buwan](https://open.spotify.com/track/1xBx7Cp6LdR4cOLFxeBzXH) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Drama Queen TV](https://open.spotify.com/album/0sdkv7teigvtyJgI9wj6CH) | 4:48 |
 | 4 | [Home](https://open.spotify.com/track/6bDW6rxCjoxk8wcrkevKXL) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Home](https://open.spotify.com/album/0pm3nGgzGYqIpbvdPR4M3a) | 3:54 |

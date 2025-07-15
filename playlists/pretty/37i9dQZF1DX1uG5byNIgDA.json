@@ -1,6 +1,6 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 220002,
+  "num_followers": 220016,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-07-11 00:50:51",
       "album": {
-        "name": "The Chase",
-        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 178900,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
-    },
-    {
-      "added_at": "2025-07-11 00:50:51",
-      "album": {
         "name": "Perfect Night",
         "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2025-07-11 00:50:51",
       "album": {
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 178900,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
+    },
+    {
+      "added_at": "2025-07-11 00:50:51",
+      "album": {
         "name": "HOT SAUCE",
         "url": "https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 147807,
       "name": "HOT SAUCE",
       "url": "https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE"
+    },
+    {
+      "added_at": "2025-07-11 00:50:51",
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 182224,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
     },
     {
       "added_at": "2025-07-11 00:50:51",
@@ -435,22 +451,6 @@
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
-    },
-    {
-      "added_at": "2025-07-11 00:50:51",
-      "album": {
-        "name": "ROCK-STAR",
-        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 182224,
-      "name": "LALALALA",
-      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
     },
     {
       "added_at": "2025-07-11 00:50:51",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-07-11 00:50:51",
       "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
-      },
-      "artists": [
-        {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t"
-    },
-    {
-      "added_at": "2025-07-11 00:50:51",
-      "album": {
         "name": "From Our 20's",
         "url": "https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2025-07-11 00:50:51",
       "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
         }
       ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+      "duration_ms": 205026,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t"
     },
     {
       "added_at": "2025-07-11 00:50:51",
@@ -863,6 +847,22 @@
       "duration_ms": 174216,
       "name": "FLOWER",
       "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
+    },
+    {
+      "added_at": "2025-07-11 00:50:51",
+      "album": {
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "added_at": "2025-07-11 00:50:51",

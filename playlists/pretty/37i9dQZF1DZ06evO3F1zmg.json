@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 41647,
+  "num_followers": 41652,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAASFgfHbObVrpbU3Gy9YwRY",
+  "snapshot_id": "aHL3AAAAAABNCa9+WDFqudffvoDWiZbF",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shake It Fast (WSWF Original Vol.3)",
+        "url": "https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Shake It Fast (Prod. THE HUB)",
+      "url": "https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Between Us (The Mixers Edition)",
         "url": "https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 147386,
       "name": "That Girl (feat. Saweetie)",
       "url": "https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shake It Fast (WSWF Original Vol.3)",
-        "url": "https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Shake It Fast (Prod. THE HUB)",
-      "url": "https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Richtivities",
+        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 176401,
+      "name": "Richtivities",
+      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 214536,
       "name": "Move (feat. Saweetie)",
       "url": "https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richtivities",
-        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 176401,
-      "name": "Richtivities",
-      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Come First (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
-      },
-      "artists": [
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 191254,
-      "name": "You Come First (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Certified Pop",
         "url": "https://open.spotify.com/album/2TzLHxrnjTNkOA53atXq8t"
       },
@@ -827,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+        "name": "You Come First (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 171235,
-      "name": "Tip Toes (feat. Quavo)",
-      "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
+      "duration_ms": 191254,
+      "name": "You Come First (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
     },
     {
       "added_at": null,
@@ -887,6 +867,26 @@
       "duration_ms": 118551,
       "name": "Do It For The Bay",
       "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "Tip Toes (feat. Quavo)",
+      "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
     },
     {
       "added_at": null,

@@ -98,7 +98,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 228735,
       "name": "A Beira Mar",
       "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 197667,
       "name": "A\u00ed \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
@@ -536,10 +536,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 185741,
       "name": "Brinca Comigo",
       "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+    },
+    {
+      "album": {
+        "name": "Busy",
+        "url": "https://open.spotify.com/album/6M9oPmqJzL4j4rQ2kZPPzu"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155238,
+      "name": "Busy",
+      "url": "https://open.spotify.com/track/1DVdbIySidKt0RdRrh7gg1"
     },
     {
       "album": {
@@ -562,7 +584,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 235800,
       "name": "B\u00f3ra",
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
@@ -602,7 +624,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 140000,
       "name": "Cabo Verde",
       "url": "https://open.spotify.com/track/3Fg2CQSsb4ltRakh7KWmG9"
@@ -813,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Chakra",
+        "url": "https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul"
+      },
+      "artists": [
+        {
+          "name": "Mim\u00ec",
+          "url": "https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "Chakra",
+      "url": "https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6"
+    },
+    {
+      "album": {
         "name": "Change Your Mind (feat. Shaboozey)",
         "url": "https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M"
       },
@@ -854,7 +894,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 155512,
       "name": "Ch\u00e1",
       "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
@@ -1194,7 +1234,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 164007,
       "name": "Desacelera",
       "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
@@ -1486,6 +1526,24 @@
       "duration_ms": 145454,
       "name": "em santa",
       "url": "https://open.spotify.com/track/5TGZX3PqtdyIXKMS3GapxW"
+    },
+    {
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "ENCORE",
+      "url": "https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU"
     },
     {
       "album": {
@@ -1811,6 +1869,28 @@
     },
     {
       "album": {
+        "name": "GUILT TRIPPIN (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153400,
+      "name": "GUILT TRIPPIN (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
+    },
+    {
+      "album": {
         "name": "Hipnose",
         "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
       },
@@ -1886,6 +1966,28 @@
       "duration_ms": 182500,
       "name": "Hoje",
       "url": "https://open.spotify.com/track/7ajsegzcb0VzobtfArvw4L"
+    },
+    {
+      "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216621,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
     },
     {
       "album": {
@@ -2799,6 +2901,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Que T\u00fa",
+        "url": "https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197081,
+      "name": "M\u00e1s Que T\u00fa",
+      "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
+    },
+    {
+      "album": {
         "name": "Um Pequeno \u00c1lbum de Natal",
         "url": "https://open.spotify.com/album/2Wo40ErDS87wfkSbGqxt5O"
       },
@@ -2832,7 +2956,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Natureza",
       "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
@@ -3836,7 +3960,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 149575,
       "name": "Quem Me Guia",
       "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
@@ -4656,7 +4780,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 155294,
       "name": "TocToc",
       "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
@@ -4686,6 +4810,24 @@
       "duration_ms": 162333,
       "name": "Toda Experiente",
       "url": "https://open.spotify.com/track/3R3kxryQs7QABbhT89oiPd"
+    },
+    {
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189456,
+      "name": "top diesel",
+      "url": "https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN"
     },
     {
       "album": {
@@ -4766,10 +4908,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 215572,
       "name": "T\u00f4 Aqui de Novo",
       "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+    },
+    {
+      "album": {
+        "name": "Un Afrito",
+        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Un Afrito",
+      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
     },
     {
       "album": {
@@ -4828,7 +4988,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 214193,
       "name": "VER\u00c3O",
       "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
@@ -5044,7 +5204,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 134705,
       "name": "\u00c1GUA DE COCO",
       "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
@@ -5088,7 +5248,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "\u00c1guas Passadas",
       "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"

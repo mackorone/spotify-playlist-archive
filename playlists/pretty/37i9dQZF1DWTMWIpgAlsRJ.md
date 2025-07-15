@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest EA SPORTS FC tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,887 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,912 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 16 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
 | 17 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 |
 | 18 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 |
-| 19 | [Live in the Moment](https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 |
-| 20 | [Love Me Again](https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk) | 3:59 |
+| 19 | [Love Me Again](https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk) | 3:59 |
+| 20 | [Live in the Moment](https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 |
 | 21 | [High And Low](https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines \(Deluxe\)](https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP) | 3:44 |
 | 22 | [Walk](https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Love + War](https://open.spotify.com/album/5W5oxg0Z2aFfbudPakSHqH) | 3:34 |
 | 23 | [Tighten Up](https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:31 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 34 | [Fools Gold \- Remastered 2009](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 |
 | 35 | [Black & Gold](https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Black & Gold](https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7) | 4:34 |
 | 36 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 |
-| 37 | [Take Your Mama](https://open.spotify.com/track/6hy7ONYlFybtQ1bX6eoXlt) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4) | 4:31 |
-| 38 | [Cobrastyle \(feat\. Mad Cobra\)](https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Fresh](https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5) | 2:59 |
+| 37 | [Cobrastyle \(feat\. Mad Cobra\)](https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Fresh](https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5) | 2:59 |
+| 38 | [Take Your Mama](https://open.spotify.com/track/6hy7ONYlFybtQ1bX6eoXlt) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4) | 4:31 |
 | 39 | [Shine A Light](https://open.spotify.com/track/1fDtoTPDyzkNOfFIRXxsC5) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Shine A Light](https://open.spotify.com/album/5dHZd6w1IlNc4W0JInztkG) | 3:45 |
 | 40 | [No Problem](https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:10 |
 | 41 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 87 | [16 Years](https://open.spotify.com/track/3GncyQAqKMwlSVhyM31Lsu) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Be Impressive](https://open.spotify.com/album/689bhllQWGeODWheOb9Ejt) | 3:45 |
 | 88 | [Gold Guns Girls](https://open.spotify.com/track/7y6yueMgmCFLAdUg7Eq1N2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/2wx95OdyKPntJDvEQkjtq5) | 4:05 |
 | 89 | [Send Them Off!](https://open.spotify.com/track/5AAU5Ov1CEesKwWS2uzQji) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Send Them Off!](https://open.spotify.com/album/0sm6aqm1zr6rkROVIKICJd) | 3:20 |
-| 90 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 |
-| 91 | [Cocoon](https://open.spotify.com/track/2W1NDIRXfBnIxBcnTIxE7p) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/2RySzAMRGrSnXYDf1lY5Ay) | 3:56 |
-| 92 | [It's Strange](https://open.spotify.com/track/0NxHMGOA8vwPD0x8MmXnp7) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Strange](https://open.spotify.com/album/65kmQuUqkUbglq0S707HXN) | 4:05 |
+| 90 | [It's Strange](https://open.spotify.com/track/0NxHMGOA8vwPD0x8MmXnp7) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Strange](https://open.spotify.com/album/65kmQuUqkUbglq0S707HXN) | 4:05 |
+| 91 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 |
+| 92 | [Cocoon](https://open.spotify.com/track/2W1NDIRXfBnIxBcnTIxE7p) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/2RySzAMRGrSnXYDf1lY5Ay) | 3:56 |
 | 93 | [Offence](https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:48 |
 | 94 | [Levanta e Anda](https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp) | 2:30 |
 | 95 | [Êfemera](https://open.spotify.com/track/0iRIYx90xEgqfbFcwzrtFc) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Efêmera](https://open.spotify.com/album/4jZncyAcIndHAVVlYG4vDk) | 3:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: LAUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,523 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,529 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 56 | [Shades Of Gray](https://open.spotify.com/track/5jakKyB7OiOSPyTrbypdpm) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Shades Of Gray](https://open.spotify.com/album/7DI6EfquW5vUuYWuav9mlU) | 3:00 |
 | 57 | [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 |
 | 58 | [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 |
-| 59 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 |
-| 60 | [Акація](https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Акація](https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk) | 2:45 |
+| 59 | [Акація](https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Акація](https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk) | 2:45 |
+| 60 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 |
 | 61 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 62 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 |
 | 63 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 66 | [Smoking Cherry](https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Smoking Cherry](https://open.spotify.com/album/7hMpzKT3n8J30U8aClUan8) | 4:40 |
 | 67 | [Балкони](https://open.spotify.com/track/2lzFiA4s2GfjRFDomh8oYD) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Балкони](https://open.spotify.com/album/1Zkwp9SEuVoAqZb62NITZe) | 2:57 |
 | 68 | [Невже](https://open.spotify.com/track/1dRwGgYCwrpVX9qJMMfEvw) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Невже](https://open.spotify.com/album/5mUBIsjrd0LoeeVidf6JeI) | 3:01 |
-| 69 | [Sound of Bloom](https://open.spotify.com/track/1EcSuTMIVcLNnqq4TrPaTe) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Sound of Bloom](https://open.spotify.com/album/2Vf1VA6WCue48dtWNRJiCr) | 3:00 |
-| 70 | [Різні](https://open.spotify.com/track/41SjxgeszHB9sHIDF8uv0z) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0) | [Різні](https://open.spotify.com/album/66H5dnzRkTXifMuwP4355H) | 3:14 |
+| 69 | [Різні](https://open.spotify.com/track/41SjxgeszHB9sHIDF8uv0z) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0) | [Різні](https://open.spotify.com/album/66H5dnzRkTXifMuwP4355H) | 3:14 |
+| 70 | [Sound of Bloom](https://open.spotify.com/track/1EcSuTMIVcLNnqq4TrPaTe) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Sound of Bloom](https://open.spotify.com/album/2Vf1VA6WCue48dtWNRJiCr) | 3:00 |
 
 Snapshot ID: `aHDNbgAAAADKpKeCMAUt5QbWoHcoOc6P`

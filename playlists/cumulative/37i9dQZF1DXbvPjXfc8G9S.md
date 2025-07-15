@@ -4,7 +4,7 @@
 
 > Los mejores éxitos de hoy en Colombia\. Foto: KAROL G
 
-411 songs - 22 hr 29 min
+412 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 | 2024-05-03 | 2024-08-02 |
 | [AFTER PARTY](https://open.spotify.com/track/2dJBk3D3vAqj3hnULBYny6) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [AFTER PARTY](https://open.spotify.com/album/2kNNMnHh6XovIPMNA2mIzU) | 3:30 | 2023-03-17 | 2023-04-14 |
 | [ALAKRAN](https://open.spotify.com/track/2Yc3MHpZ9R5UCIz78E20AQ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 1:30 | 2023-12-07 | 2024-06-14 |
+| [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 | 2025-07-14 |  |
 | [Algo Que Se Quede](https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 3:40 | 2023-02-16 | 2025-03-22 |
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2023-05-04 | 2025-02-15 |
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2023-04-13 | 2023-06-16 |
@@ -114,7 +115,7 @@
 | [EMPELOTICA](https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EMPELOTICA](https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg) | 3:10 | 2024-02-29 | 2024-06-14 |
 | [En La De Ella](https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [En La De Ella](https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH) | 3:50 | 2023-02-16 | 2023-03-11 |
 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 | 2024-11-01 | 2024-11-23 |
-| [Encantadora](https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:00 | 2025-03-28 |  |
+| [Encantadora](https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:00 | 2025-03-28 | 2025-07-15 |
 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2023-02-16 | 2024-04-19 |
 | [Es Un Secreto](https://open.spotify.com/track/1AddbBdKFz8wdqatGVSsYS) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Cipote Carnaval 2011](https://open.spotify.com/album/14zQ8tAtR4VKcFjIvxop3l) | 3:12 | 2024-04-04 | 2025-01-18 |
 | [Escápate Conmigo \- Remix](https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Escápate Conmigo \(Remix\)](https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy) | 2:47 | 2023-04-27 | 2024-05-18 |

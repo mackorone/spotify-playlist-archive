@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > freshly squeezed indie pop 🥤 cover: anna of the north
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,214 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,216 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

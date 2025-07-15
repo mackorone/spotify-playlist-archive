@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\.  Kapak: Afra x Sefo
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,088 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,254 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 29 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 |
 | 30 | [HAİNSİN](https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [HAİNSİN](https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx) | 1:57 |
 | 31 | [BİTMİYOR](https://open.spotify.com/track/4gqiqccm2NNQcdIUkEDEiM) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [BİTMİYOR](https://open.spotify.com/album/3iakmZwZXRumlipk4r5D1S) | 3:24 |
-| 32 | [HA HA HA HA](https://open.spotify.com/track/46EVmz3fZglNWoo2uyRkMu) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [HA HA HA HA](https://open.spotify.com/album/5cQ0A1z9Xlpi2M4RLGO8Xz) | 1:42 |
-| 33 | [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 |
-| 34 | [Farzet](https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Ben Yaşarım](https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR) | 4:09 |
-| 35 | [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 |
-| 36 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 |
+| 32 | [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 |
+| 33 | [HA HA HA HA](https://open.spotify.com/track/46EVmz3fZglNWoo2uyRkMu) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [HA HA HA HA](https://open.spotify.com/album/5cQ0A1z9Xlpi2M4RLGO8Xz) | 1:42 |
+| 34 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 |
+| 35 | [Farzet](https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Ben Yaşarım](https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR) | 4:09 |
+| 36 | [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 |
 | 37 | [Sigara](https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Perdeler](https://open.spotify.com/album/5cx3XHwc4WNml8uhO7LM3y) | 4:54 |
-| 38 | [MAŞALLAH](https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [MAŞALLAH](https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON) | 2:17 |
-| 39 | [Bu Yaz](https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Bu Yaz](https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N) | 3:02 |
-| 40 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 |
-| 41 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 |
-| 42 | [Uzaktan](https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Bende Bi' Aşk Var](https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u) | 3:39 |
-| 43 | [Ey Aşk](https://open.spotify.com/track/5rElOY8KtcQFqlSZ7hgEuC) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 4:07 |
+| 38 | [Ey Aşk](https://open.spotify.com/track/5rElOY8KtcQFqlSZ7hgEuC) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 4:07 |
+| 39 | [MAŞALLAH](https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [MAŞALLAH](https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON) | 2:17 |
+| 40 | [Bu Yaz](https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Bu Yaz](https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N) | 3:02 |
+| 41 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 |
+| 42 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 |
+| 43 | [Uzaktan](https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Bende Bi' Aşk Var](https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u) | 3:39 |
 | 44 | [MARALIM](https://open.spotify.com/track/2WDQgqHMnbMSvYqNPJ1IIb) | [Maral](https://open.spotify.com/artist/2JcW80GkUeqlA9HGHNVugP) | [MARALIM](https://open.spotify.com/album/0Gg74PqzDIPUiXmB2dYTfT) | 2:22 |
 | 45 | [Bağışla](https://open.spotify.com/track/43Kpm3kz8904r3DCvrCx5h) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Bağışla](https://open.spotify.com/album/2se3g3MA4orPR1OI5TjWOP) | 3:37 |
-| 46 | [Çık Artık Aklımdan](https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Çık Artık Aklımdan](https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt) | 3:44 |
+| 46 | [RUJ](https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [RUJ](https://open.spotify.com/album/0uDGWW5KwPWZz7uffY647c) | 3:08 |
 | 47 | [Yalan](https://open.spotify.com/track/2uniCPIy7f5Mi2AEfvQz7z) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Yalan](https://open.spotify.com/album/3nrLd9Q4s516grX2S04rZy) | 4:26 |
-| 48 | [RUJ](https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [RUJ](https://open.spotify.com/album/0uDGWW5KwPWZz7uffY647c) | 3:08 |
-| 49 | [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 |
-| 50 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 |
+| 48 | [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 |
+| 49 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 |
+| 50 | [Çık Artık Aklımdan](https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Çık Artık Aklımdan](https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt) | 3:44 |
 
 Snapshot ID: `aHAp1QAAAAASgH3VS91k+1SaC0/MdDLG`

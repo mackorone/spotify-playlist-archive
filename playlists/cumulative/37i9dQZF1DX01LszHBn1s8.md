@@ -4,7 +4,7 @@
 
 > gonna be, gonna be 💛⭐️👑⚜️ golden ⚜️👑⭐️💛
 
-1,629 songs - 3 day 13 hr 51 min
+1,630 songs - 3 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-08-29 | 2025-01-08 |
 | [ALL MY FELLAS](https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ALL MY FELLAS](https://open.spotify.com/album/7eLQnewAuacJFug06cN6Er) | 2:21 | 2023-10-27 | 2025-01-08 |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-23 |  |
-| [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 | 2025-07-07 |  |
+| [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 | 2025-07-07 | 2025-07-15 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-17 | 2025-01-08 |
 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 | 2022-07-28 | 2023-01-06 |
 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2022-05-19 | 2025-01-08 |
@@ -1169,6 +1169,7 @@
 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 | 2022-05-19 | 2024-04-19 |
 | [Promiscuous](https://open.spotify.com/track/5xQdClLbYAsSlQAN1d7OC6) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Trending Now Volume 13](https://open.spotify.com/album/55cpIO2Bckrz35ZTS27EzR) | 4:02 | 2022-11-10 | 2022-11-13 |
 | [PSYCHO](https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [PSYCHO](https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O) | 2:42 | 2022-09-08 | 2022-09-13 |
+| [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine](https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0) | 4:06 | 2025-07-14 |  |
 | [Pure Imagination \(from "Wonka"\)](https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:07 | 2023-12-14 | 2025-01-08 |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-19 | 2024-05-10 |
 | [Pushin P](https://open.spotify.com/track/46nTvkhLN9xQEVW7Q5Ojp2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Tic Tac \- Just Rap](https://open.spotify.com/album/2kuMO80WivhU5AtqlgpqK9) | 2:16 | 2022-11-10 | 2022-11-13 |

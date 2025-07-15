@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 259175,
+  "num_followers": 259228,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAWOsNC9axd18yyADvSOKRO",
+  "snapshot_id": "aHL3AAAAAACdtGPr8+Je50KqdpPnvUrR",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Oh U Went (feat. Drake)",
+      "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 165066,
       "name": "Bubbly (with Drake & Travis Scott)",
       "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Oh U Went (feat. Drake)",
-      "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
     },
     {
       "added_at": null,
@@ -955,30 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS BEFORE RODEO",
-        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 272772,
-      "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
-      "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime Language",
         "url": "https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf"
       },
@@ -1007,18 +983,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "JEFFERY",
-        "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H"
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
       "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 236293,
-      "name": "Wyclef Jean",
-      "url": "https://open.spotify.com/track/55OdqrG8WLmsYyY1jijD9b"
+      "duration_ms": 272772,
+      "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
+      "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
     },
     {
       "added_at": null,
@@ -1035,6 +1019,22 @@
       "duration_ms": 236586,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2BAmF6QyK5IYEOp1TFmt0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JEFFERY",
+        "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "Wyclef Jean",
+      "url": "https://open.spotify.com/track/55OdqrG8WLmsYyY1jijD9b"
     },
     {
       "added_at": null,

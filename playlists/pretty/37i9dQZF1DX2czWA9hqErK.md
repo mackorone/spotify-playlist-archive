@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > For lazy days and cosy nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,349,982 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,349,906 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 10 | [Cherish](https://open.spotify.com/track/2eh3xk8BufBNoW9gnnMgAM) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Gramarye](https://open.spotify.com/album/4pb1CggtOYd2EAko22VJ6C) | 2:31 |
 | 11 | [In This Room](https://open.spotify.com/track/0iugfm61MXlEQvYmFhgWtp) | [Ryan McMullan](https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G) | [In This Room \- EP](https://open.spotify.com/album/02nRWWSavnbiiUjRJ3M5Cr) | 3:51 |
 | 12 | [Crying Is My Superpower](https://open.spotify.com/track/6idvp9twFDAvotIZI6lAMe) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 2:01 |
-| 13 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 |
+| 13 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 |
 | 14 | [Old Recliners](https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:41 |
 | 15 | [Easy Does It](https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Easy Does It](https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz) | 4:07 |
 | 16 | [Millennium](https://open.spotify.com/track/51Uj8b5Oi1YY7ayhM4lDoN) | [Celeste Madden](https://open.spotify.com/artist/3o0nlRLCgJxu7fUwDsvGiB) | [Millennium](https://open.spotify.com/album/2Nsxxy2YWTJNGFnhd3hmT9) | 4:06 |
 | 17 | [Leaving You](https://open.spotify.com/track/7l3XkFbTgakJZgMFC3wHiW) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool \(Deluxe Edition\)](https://open.spotify.com/album/0k5PHXVakV1aq3UmacxELa) | 3:18 |
-| 18 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 |
+| 18 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 |
 | 19 | [Puppy](https://open.spotify.com/track/02F70YYcqNe7jVKG3Ouc24) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Puppy](https://open.spotify.com/album/5ZHcZ1NL9P0YIxuhc74hOC) | 3:32 |
 | 20 | [coming back again](https://open.spotify.com/track/2pLq8Z1tfSsgPBk4WsbFJU) | [flypaper](https://open.spotify.com/artist/6DGJSti9lo5LEmYC4P1eQZ) | [big nada / another orbit](https://open.spotify.com/album/3wFMbmxhG93grrgPh17OwP) | 3:13 |
 | 21 | [America Forever \(with Maisie Peters & Carol Ades\)](https://open.spotify.com/track/4exBSFyP1m02FKSVzz4LpF) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin +](https://open.spotify.com/album/5T0OkyozqrjKiBoQPX8BIC) | 4:02 |
@@ -82,18 +82,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 72 | [to be seen](https://open.spotify.com/track/2cRShN9bomoLuFfeR7CaD0) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [to be seen](https://open.spotify.com/album/5JJnU438NU09ZVv4OuoYCQ) | 3:23 |
 | 73 | [Andromeda](https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:15 |
 | 74 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
-| 75 | [Begin Again](https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Begin Again](https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU) | 3:05 |
+| 75 | [Lungs](https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Lungs](https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ) | 3:57 |
 | 76 | [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 |
-| 77 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
-| 78 | [Lungs](https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Lungs](https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ) | 3:57 |
+| 77 | [Begin Again](https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Begin Again](https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU) | 3:05 |
+| 78 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
 | 79 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 |
 | 80 | [The Boy Who Can't Be Named](https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [The Boy Who Can't Be Named](https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z) | 3:31 |
 | 81 | [Caroline](https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 3:20 |
 | 82 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
 | 83 | [Be Still](https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Be Still](https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg) | 4:01 |
 | 84 | [Fade Into A Dream](https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c) | 2:51 |
-| 85 | [steal my soul](https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [steal my soul](https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH) | 2:21 |
-| 86 | [Easy](https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Easy](https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK) | 2:49 |
+| 85 | [Easy](https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Easy](https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK) | 2:49 |
+| 86 | [steal my soul](https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [steal my soul](https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH) | 2:21 |
 | 87 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 |
 | 88 | [Miles](https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Miles](https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK) | 2:35 |
 | 89 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 93 | [A Wonder Day](https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [A Wonder Day](https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z) | 3:29 |
 | 94 | [Fall on Me](https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Fall on Me](https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot) | 3:36 |
 | 95 | [guilty](https://open.spotify.com/track/3RKi7aE2RwbJAAx9SujV6L) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [guilty](https://open.spotify.com/album/0eCE4PH89sq8oZz0yWGqjd) | 2:48 |
-| 96 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
-| 97 | [walking on air](https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [damn, look at the view !](https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8) | 3:37 |
-| 98 | [Over and Over](https://open.spotify.com/track/6vnPpO4fF6FvjGysp7yWNh) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Over and Over](https://open.spotify.com/album/31TTw2uKYx1sfvXTZe3WvJ) | 3:14 |
-| 99 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
+| 96 | [walking on air](https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [damn, look at the view !](https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8) | 3:37 |
+| 97 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
+| 98 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
+| 99 | [Over and Over](https://open.spotify.com/track/6vnPpO4fF6FvjGysp7yWNh) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Over and Over](https://open.spotify.com/album/31TTw2uKYx1sfvXTZe3WvJ) | 3:14 |
 | 100 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
 
 Snapshot ID: `aG0gYQAAAADLV6S8DN0J0V/2lQNl8Rqr`

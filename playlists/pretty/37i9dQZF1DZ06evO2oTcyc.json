@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 221037,
+  "num_followers": 221085,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAABYmEqO1PQOGhgeM2qoBQ2K",
+  "snapshot_id": "aHL3AAAAAAALd2vp4luwstXqjMshQme8",
   "tracks": [
     {
       "added_at": null,
@@ -267,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
       "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Calling My Spirit",
-      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF"
     },
     {
       "added_at": null,
@@ -299,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
       "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 220779,
-      "name": "Silent Hill",
-      "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF"
+      "duration_ms": 152000,
+      "name": "Calling My Spirit",
+      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter VI",
         "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 172490,
       "name": "Alone In The Studio With My Gun (feat. mgk, Kodak Black)",
       "url": "https://open.spotify.com/track/7uGBxHPuPrz9YvYssdcqhI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Institution",
-        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 183562,
+      "name": "Shake Back",
+      "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skrt",
         "url": "https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS"
       },
@@ -531,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Institution",
-        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+        "name": "Senseless",
+        "url": "https://open.spotify.com/album/1Kb6HgD9hML4dsu2meKGqJ"
       },
       "artists": [
         {
@@ -540,9 +556,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 183562,
-      "name": "Shake Back",
-      "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
+      "duration_ms": 143857,
+      "name": "Senseless",
+      "url": "https://open.spotify.com/track/3zzzVTaq2evjtfz4SryuaE"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
       "duration_ms": 170413,
       "name": "hibachi (feat. Kodak Black & 21 Savage)",
       "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Senseless",
-        "url": "https://open.spotify.com/album/1Kb6HgD9hML4dsu2meKGqJ"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 143857,
-      "name": "Senseless",
-      "url": "https://open.spotify.com/track/3zzzVTaq2evjtfz4SryuaE"
     },
     {
       "added_at": null,
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 214781,
-      "name": "Coolin and Booted",
-      "url": "https://open.spotify.com/track/1Nh5WUisukhSNgwXLRoyZf"
+      "duration_ms": 168312,
+      "name": "Day for Day",
+      "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
     },
     {
       "added_at": null,

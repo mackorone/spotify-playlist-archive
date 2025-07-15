@@ -296,7 +296,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 198300,
       "name": "2+2",
       "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 219642,
       "name": "AMARTE DUELE",
       "url": "https://open.spotify.com/track/513pK1MrQqWnzD1ZeanQOT"
@@ -12020,7 +12020,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 165918,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/3Hm0cLZmR9CIAt7IYpkJBT"
@@ -18630,7 +18630,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 97606,
       "name": "Montagem Bandido - Slowed",
       "url": "https://open.spotify.com/track/2spuCBVvQyCsQFHIiie8gP"
@@ -20126,6 +20126,24 @@
       "duration_ms": 162857,
       "name": "No Me Cansare",
       "url": "https://open.spotify.com/track/7syffZQA1dpkQelMckldEw"
+    },
+    {
+      "album": {
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/60rNhUilqoMluUK1skNtPg"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190449,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/58Bus8hzPubXFBYelGrVMZ"
     },
     {
       "album": {
@@ -24696,7 +24714,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 99194,
       "name": "RITMO DE VERAO - SLOWED",
       "url": "https://open.spotify.com/track/344ilORk7mOQH1BbiufL9w"
@@ -26732,7 +26750,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "Soldado Del Amor",
       "url": "https://open.spotify.com/track/16dYwcyV6Yl0GaYP3kD4dE"
@@ -29178,7 +29196,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 201230,
       "name": "Tipo Nino Vs Kabrinha",
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
@@ -31270,7 +31288,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 210047,
       "name": "Verano Rosa",
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
@@ -32092,6 +32110,24 @@
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
+    },
+    {
+      "album": {
+        "name": "we never dated",
+        "url": "https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196931,
+      "name": "we never dated",
+      "url": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
     },
     {
       "album": {

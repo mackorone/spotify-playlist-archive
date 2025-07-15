@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Adrian Khalif, Dipha Barus
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,851 likes - 145 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,848 likes - 145 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

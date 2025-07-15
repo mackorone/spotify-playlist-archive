@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Meja Kunta & Harmonize",
-  "num_followers": 6327,
+  "num_followers": 6333,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-07-10 23:59:03",
       "album": {
-        "name": "Sawa Nitaacha",
-        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 218197,
-      "name": "Sawa Nitaacha",
-      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
-    },
-    {
-      "added_at": "2025-07-10 23:59:03",
-      "album": {
         "name": "Cheusi Cheupe (feat. Meja Kunta)",
         "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
       },
@@ -939,22 +923,18 @@
     {
       "added_at": "2025-07-10 23:59:03",
       "album": {
-        "name": "Sina",
-        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
+        "name": "Sawa Nitaacha",
+        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
       },
       "artists": [
         {
-          "name": "Malkia Karen",
-          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
         }
       ],
-      "duration_ms": 298358,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+      "duration_ms": 218197,
+      "name": "Sawa Nitaacha",
+      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2025-07-10 23:59:03",
@@ -991,6 +971,26 @@
       "duration_ms": 252043,
       "name": "Stress",
       "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
+    },
+    {
+      "added_at": "2025-07-10 23:59:03",
+      "album": {
+        "name": "Sina",
+        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
+      },
+      "artists": [
+        {
+          "name": "Malkia Karen",
+          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 298358,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
     },
     {
       "added_at": "2025-07-10 23:59:03",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2025-07-10 23:59:03",
       "album": {
-        "name": "Kizimkazi",
-        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
+        "name": "UTAMUWA BAKHRESA",
+        "url": "https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc"
       },
       "artists": [
         {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+          "name": "Dogo Elisha",
+          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
         }
       ],
-      "duration_ms": 233226,
-      "name": "Kizimkazi",
-      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
+      "duration_ms": 277812,
+      "name": "UTAMUWA BAKHRESA",
+      "url": "https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV"
     },
     {
       "added_at": "2025-07-10 23:59:03",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-07-10 23:59:03",
       "album": {
-        "name": "UTAMUWA BAKHRESA",
-        "url": "https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc"
+        "name": "Kizimkazi",
+        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
       },
       "artists": [
         {
-          "name": "Dogo Elisha",
-          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         }
       ],
-      "duration_ms": 277812,
-      "name": "UTAMUWA BAKHRESA",
-      "url": "https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV"
+      "duration_ms": 233226,
+      "name": "Kizimkazi",
+      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
     },
     {
       "added_at": "2025-07-10 23:59:03",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-07-10 23:59:03",
       "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
-      },
-      "artists": [
-        {
-          "name": "Snura",
-          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Chura",
-      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
-    },
-    {
-      "added_at": "2025-07-10 23:59:03",
-      "album": {
         "name": "Wapambe",
         "url": "https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie"
       },
@@ -1171,22 +1155,18 @@
     {
       "added_at": "2025-07-10 23:59:03",
       "album": {
-        "name": "Kupendwa Raha",
-        "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
       },
       "artists": [
         {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        },
-        {
-          "name": "Dogo Jully",
-          "url": "https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ"
+          "name": "Snura",
+          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
         }
       ],
-      "duration_ms": 304986,
-      "name": "Kupendwa Raha",
-      "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
+      "duration_ms": 272933,
+      "name": "Chura",
+      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
     },
     {
       "added_at": "2025-07-10 23:59:03",
@@ -1215,26 +1195,6 @@
     {
       "added_at": "2025-07-10 23:59:03",
       "album": {
-        "name": "Siyo Shida Zangu",
-        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        },
-        {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
-        }
-      ],
-      "duration_ms": 239612,
-      "name": "Siyo Shida Zangu",
-      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
-    },
-    {
-      "added_at": "2025-07-10 23:59:03",
-      "album": {
         "name": "Niite Mbwa",
         "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
       },
@@ -1255,6 +1215,46 @@
     {
       "added_at": "2025-07-10 23:59:03",
       "album": {
+        "name": "Siyo Shida Zangu",
+        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+        }
+      ],
+      "duration_ms": 239612,
+      "name": "Siyo Shida Zangu",
+      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
+    },
+    {
+      "added_at": "2025-07-10 23:59:03",
+      "album": {
+        "name": "Kupendwa Raha",
+        "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
+      },
+      "artists": [
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        },
+        {
+          "name": "Dogo Jully",
+          "url": "https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ"
+        }
+      ],
+      "duration_ms": 304986,
+      "name": "Kupendwa Raha",
+      "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
+    },
+    {
+      "added_at": "2025-07-10 23:59:03",
+      "album": {
         "name": "Shemeji",
         "url": "https://open.spotify.com/album/47v6siumRINvjj2CzonVxx"
       },
@@ -1267,26 +1267,6 @@
       "duration_ms": 195080,
       "name": "Shemeji",
       "url": "https://open.spotify.com/track/5nFg4Fk4GtDV9N7cjUN6A6"
-    },
-    {
-      "added_at": "2025-07-10 23:59:03",
-      "album": {
-        "name": "Viburi",
-        "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
-      },
-      "artists": [
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        },
-        {
-          "name": "Chief Becka",
-          "url": "https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6"
-        }
-      ],
-      "duration_ms": 201967,
-      "name": "Viburi",
-      "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
     },
     {
       "added_at": "2025-07-10 23:59:03",
@@ -1331,22 +1311,6 @@
     {
       "added_at": "2025-07-10 23:59:03",
       "album": {
-        "name": "Kijumbe",
-        "url": "https://open.spotify.com/album/6NeSkmP1ZnyKfREKffX2GG"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        }
-      ],
-      "duration_ms": 202997,
-      "name": "Kijumbe",
-      "url": "https://open.spotify.com/track/1MGBGAtm8wgYaRPBkhnRKq"
-    },
-    {
-      "added_at": "2025-07-10 23:59:03",
-      "album": {
         "name": "Happy birthday",
         "url": "https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp"
       },
@@ -1363,6 +1327,22 @@
       "duration_ms": 211957,
       "name": "Happy birthday",
       "url": "https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc"
+    },
+    {
+      "added_at": "2025-07-10 23:59:03",
+      "album": {
+        "name": "Kijumbe",
+        "url": "https://open.spotify.com/album/6NeSkmP1ZnyKfREKffX2GG"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        }
+      ],
+      "duration_ms": 202997,
+      "name": "Kijumbe",
+      "url": "https://open.spotify.com/track/1MGBGAtm8wgYaRPBkhnRKq"
     },
     {
       "added_at": "2025-07-10 23:59:03",
@@ -1399,6 +1379,22 @@
       "duration_ms": 243997,
       "name": "Wapo",
       "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
+    },
+    {
+      "added_at": "2025-07-10 23:59:03",
+      "album": {
+        "name": "Chura Wangu",
+        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Chura Wangu",
+      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
     }
   ],
   "unique_name": "Singeli Sounds",

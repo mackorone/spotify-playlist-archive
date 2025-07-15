@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,586 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,609 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 20 | [Looking Back](https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Looking Back](https://open.spotify.com/album/5phyDbVHyJHbh8X5iRtL6h) | 3:55 |
 | 21 | [popcorn nights](https://open.spotify.com/track/3zIg70E1b4dXlK2zFSPHlF) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [popcorn nights](https://open.spotify.com/album/3c4Hal6qduUYmKYuz5ca3H) | 3:39 |
 | 22 | [this is what space feels like](https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what space feels like](https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP) | 3:03 |
-| 23 | [Air Maxes](https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Air Maxes](https://open.spotify.com/album/3uJi79dqEa5suZaCg5DTGK) | 3:01 |
-| 24 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
+| 23 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
+| 24 | [Air Maxes](https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Air Maxes](https://open.spotify.com/album/3uJi79dqEa5suZaCg5DTGK) | 3:01 |
 | 25 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 26 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 27 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 30 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
 | 31 | [Before & After You](https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Before & After You](https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc) | 3:48 |
 | 32 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 |
-| 33 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
-| 34 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
+| 33 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
+| 34 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
 | 35 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |
 | 36 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 |
 | 37 | [Blue](https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Blue](https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W) | 2:33 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 40 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 |
 | 41 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 |
 | 42 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 |
-| 43 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
-| 44 | [エイリアンズ](https://open.spotify.com/track/5NclFtKE9l08xM8XhDKyzx) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [3](https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH) | 6:04 |
+| 43 | [エイリアンズ](https://open.spotify.com/track/5NclFtKE9l08xM8XhDKyzx) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [3](https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH) | 6:04 |
+| 44 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
 | 45 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
 | 46 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 |
 | 47 | [IS THIS LOVE \(Piano Ver.\)](https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:36 |

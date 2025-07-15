@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 52338,
+  "num_followers": 52355,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACy6GPILITlv7T9yWqd+YRZ",
+  "snapshot_id": "aHL3AAAAAAAB04DNuE79Sh4ZF0YKWBnY",
   "tracks": [
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 240379,
-      "name": "Thief",
-      "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
+      "duration_ms": 170080,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/1MQKhg5Kbn3cd07LQ5JPRK"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 170080,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/1MQKhg5Kbn3cd07LQ5JPRK"
+      "duration_ms": 240379,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
     },
     {
       "added_at": null,
@@ -687,26 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOME?",
-        "url": "https://open.spotify.com/album/4yCHmmmhJDMVgHO1nC9gZo"
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
       },
       "artists": [
         {
-          "name": "Wretch 32",
-          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
-        },
-        {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Benjamin A.D",
-          "url": "https://open.spotify.com/artist/4UWmplYALfjUhWM6jZ8ftN"
         }
       ],
-      "duration_ms": 261510,
-      "name": "Black and British (feat. Little Simz & Benjamin AD)",
-      "url": "https://open.spotify.com/track/2emMsRy56TTkzPY6MZ2YlG"
+      "duration_ms": 135322,
+      "name": "you should call mum",
+      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
     },
     {
       "added_at": null,
@@ -727,18 +719,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+        "name": "HOME?",
+        "url": "https://open.spotify.com/album/4yCHmmmhJDMVgHO1nC9gZo"
       },
       "artists": [
         {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        },
+        {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Benjamin A.D",
+          "url": "https://open.spotify.com/artist/4UWmplYALfjUhWM6jZ8ftN"
         }
       ],
-      "duration_ms": 135322,
-      "name": "you should call mum",
-      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
+      "duration_ms": 261510,
+      "name": "Black and British (feat. Little Simz & Benjamin AD)",
+      "url": "https://open.spotify.com/track/2emMsRy56TTkzPY6MZ2YlG"
     },
     {
       "added_at": null,

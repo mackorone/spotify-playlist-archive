@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 310 songs - 17 hr 31 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 311 songs - 17 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -318,5 +318,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 308 | [far,far,far](https://open.spotify.com/track/6rDLIrDt0xoJ96HWMHeCRv) | [中瀬ミル](https://open.spotify.com/artist/2ex6VXn9KNqoAZJEBBrDIF) | [i m u](https://open.spotify.com/album/0JMMMAPIGznddf3Iv3a6e5) | 3:33 |
 | 309 | [Wine Red Night](https://open.spotify.com/track/5ODlBOueVnoq2WXbPFV85G) | [Vivanz Eden](https://open.spotify.com/artist/0NbuSxqoBPVOSn5dm7cM3I) | [Wine Red Night](https://open.spotify.com/album/30Eg5Z9eLHIVpQ2FySN9DU) | 2:56 |
 | 310 | [witch trial](https://open.spotify.com/track/5v9f1ZftJVVWV6Hg2FwYov) | [Len](https://open.spotify.com/artist/6oMfS8fHX0CyDwRptywVjr), [否](https://open.spotify.com/artist/57Rl65o9Q40FfEWqgc05tx) | [witch trial](https://open.spotify.com/album/5F8hbFbQ6gLDkhwYaoGI4t) | 2:36 |
+| 311 | [ムーンライトロマンス](https://open.spotify.com/track/3p1mXMqfdh9Ehff5nFXm95) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [朝の迎え方](https://open.spotify.com/album/1DQo11k6IX9kBk3j7ZeCIb) | 3:08 |
 
-Snapshot ID: `AAAJHQcJi0eTSX7nWOzIKE3inT4of6U8`
+Snapshot ID: `AAAJHmFb4oYhG5A4A8X5bmCY+qcu+uil`

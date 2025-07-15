@@ -330,7 +330,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 174910,
       "name": "1&Only",
       "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
@@ -4228,7 +4228,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 396026,
       "name": "Atlantyda",
       "url": "https://open.spotify.com/track/0ChvWY0uRIGvXfhqvv8jC1"
@@ -8268,6 +8268,28 @@
     {
       "album": {
         "name": "Brainrot Rap",
+        "url": "https://open.spotify.com/album/25fU5Gw0ucnI8TJIJWMRpW"
+      },
+      "artists": [
+        {
+          "name": "gabeonline69",
+          "url": "https://open.spotify.com/artist/3MZxGG5IWvDPb24KBMhVvU"
+        },
+        {
+          "name": "dollvirus",
+          "url": "https://open.spotify.com/artist/5liv83SEtVPOdFn1RUQraW"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93307,
+      "name": "Brainrot Rap",
+      "url": "https://open.spotify.com/track/747A2KvthMaSaP1jIpJa71"
+    },
+    {
+      "album": {
+        "name": "Brainrot Rap",
         "url": "https://open.spotify.com/album/5EOEg1DMghP3NxU0UyRZaf"
       },
       "artists": [
@@ -8278,7 +8300,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 93307,
       "name": "Brainrot Rap",
       "url": "https://open.spotify.com/track/12IBfEYE39tcG4En89ktNO"
@@ -11006,7 +11028,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 281346,
       "name": "Cigarety",
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
@@ -15870,7 +15892,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 173509,
       "name": "Dust on the Wind",
       "url": "https://open.spotify.com/track/6XSXBSAQk226KmzZi5WCsR"
@@ -18804,7 +18826,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 150480,
       "name": "Fire Fire",
       "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
@@ -33828,7 +33850,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Ma Tnsani (Yalla Habibi)",
       "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
@@ -42250,7 +42272,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 254734,
       "name": "Now and at the Hour of Our Death (feat. BONES)",
       "url": "https://open.spotify.com/track/5g3PPNIHL5yMci2pio9ZoI"
@@ -48449,6 +48471,24 @@
     },
     {
       "album": {
+        "name": "Loop Daddy",
+        "url": "https://open.spotify.com/album/0xMNn8fv5werLCd75k3k9N"
+      },
+      "artists": [
+        {
+          "name": "Marc Rebillet",
+          "url": "https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176594,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/53XZJuiMSI94CFpvjHoLIf"
+    },
+    {
+      "album": {
         "name": "Ready To Fly",
         "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
       },
@@ -54366,7 +54406,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 174246,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4O0dlJnPKQNRzh1J1pGpKg"
@@ -62666,7 +62706,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 169818,
       "name": "Vielleicht Vielleicht - Holy Priest & elMefti Remix",
       "url": "https://open.spotify.com/track/4pRAG3h4ZTfyEhRMytddzd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,712 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,752 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 96 | [Preciosa](https://open.spotify.com/track/6lruDosJz30DwXkz1hxytg) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:43 |
 | 97 | [Soy Un Novato](https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:15 |
 | 98 | [No Sé Por Qué](https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 2:49 |
-| 99 | [Un Pobre Sonador](https://open.spotify.com/track/0mHrYy6JzpFFDkIOd0q7js) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Tejano Mix](https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg) | 3:42 |
+| 99 | [Paloma Sin Nidal](https://open.spotify.com/track/5phyOuyAYmqiYwRemC9qS8) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:45 |
 | 100 | [I Could Fall In Love](https://open.spotify.com/track/3BK927dUqOGro6GtXO3e2S) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Lo Mejor De…](https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f) | 4:41 |
 
 Snapshot ID: `ZjMTHAAAAAAH9JhuIYk1QMhF0DsR2JY+`

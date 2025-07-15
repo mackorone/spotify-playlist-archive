@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,279 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,295 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 66 | [La Gloria de Dios \(feat\. Evaluna Montaner\)](https://open.spotify.com/track/2SXA7iCdyfpIr2fpsYpf8U) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Viajero Frecuente](https://open.spotify.com/album/1bTNKPf95iD8ltYReGkVrS) | 6:21 |
 | 67 | [Esta Ausencia](https://open.spotify.com/track/0phL00aOVS9nHhvd5Vodei) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Bulería](https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu) | 4:35 |
 | 68 | [Perdóname](https://open.spotify.com/track/5vr2aeKPuH8koWDcjRvlEn) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:11 |
-| 69 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
-| 70 | [Es Mejor Así \(feat\. Reik\) \- Primera Fila \- Live Version](https://open.spotify.com/track/3hK9u5GThJt0pIm1Q6rZAt) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:38 |
+| 69 | [Es Mejor Así \(feat\. Reik\) \- Primera Fila \- Live Version](https://open.spotify.com/track/3hK9u5GThJt0pIm1Q6rZAt) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:38 |
+| 70 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
 | 71 | [Dame tu aire](https://open.spotify.com/track/7b7wNlZPexrJ95FiN5KQ3Q) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:01 |
 | 72 | [Un Buen Perdedor](https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:54 |
 | 73 | [O Me Voy O Te Vas](https://open.spotify.com/track/5HfJ5uKjuwike6nQxN5H3X) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [40 Años](https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh) | 4:51 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 94 | [Labios Compartidos](https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Six Pack: Maná \- EP](https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28) | 5:17 |
 | 95 | [Te Enamoraste de Ti](https://open.spotify.com/track/3gBzsI7YDTcvfTFCRHEuom) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:27 |
 | 96 | [Te Necesito \(Déjà Vu\)](https://open.spotify.com/track/7FiJDEUzVyXPZHtmq2B98U) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [3 A.M\. \(Deluxe\)](https://open.spotify.com/album/2zx3DYhlTX0ALhbEDUnbnA) | 3:32 |
-| 97 | [Celos](https://open.spotify.com/track/0NYWDlaBz5ejU8N8g8GRFV) | [Andy & Lucas](https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L) | [Desde mi barrio](https://open.spotify.com/album/0EbhhaDDfuXXz2lkUHDcxP) | 3:52 |
-| 98 | [Mentira](https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Solo Bolero](https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch) | 4:43 |
+| 97 | [Mentira](https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Solo Bolero](https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch) | 4:43 |
+| 98 | [Celos](https://open.spotify.com/track/0NYWDlaBz5ejU8N8g8GRFV) | [Andy & Lucas](https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L) | [Desde mi barrio](https://open.spotify.com/album/0EbhhaDDfuXXz2lkUHDcxP) | 3:52 |
 | 99 | [Cuidarte el Alma](https://open.spotify.com/track/71nUOi1nLOt5KppAIeA8X4) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Sincero](https://open.spotify.com/album/03dnIimGspec4sucffQWLO) | 4:12 |
 | 100 | [Cóseme](https://open.spotify.com/track/3GZVmPWbACE4yvZbfEM70u) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [CoverKM Recopilatorio](https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v) | 4:00 |
 

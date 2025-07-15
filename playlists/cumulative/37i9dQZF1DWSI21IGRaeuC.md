@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-702 songs - 2 day 4 hr 36 min
+703 songs - 2 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [En El Alma](https://open.spotify.com/track/1dKgKHVQbzRhli8w8CyhfY) | [MEDITERANE](https://open.spotify.com/artist/4vR71H3X6ElW2XnP6Ggwhq) | [En El Alma](https://open.spotify.com/album/7CdzaH04OIHp6TMYYMy7NE) | 3:19 | 2025-07-04 |  |
 | [Encoding](https://open.spotify.com/track/2fnS9uEeunmh1NwlkmSGqb) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu) | [Encoding EP](https://open.spotify.com/album/7m526KE380DYpcaItIMVad) | 6:03 | 2022-06-03 | 2022-07-29 |
 | [Energy](https://open.spotify.com/track/3h2DNWJn3GLNVhBQKpgxpK) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [YM006](https://open.spotify.com/album/0UtLUMq1i1r8nwbYNTkO3V) | 6:31 | 2022-06-03 | 2022-07-22 |
-| [Energy](https://open.spotify.com/track/2nO2Pmv90puM60ERb0TdJ3) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Energy](https://open.spotify.com/album/6ReUSeSt1CT9LxFSC79qlL) | 2:54 | 2025-03-21 |  |
+| [Energy](https://open.spotify.com/track/2nO2Pmv90puM60ERb0TdJ3) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Energy](https://open.spotify.com/album/6ReUSeSt1CT9LxFSC79qlL) | 2:54 | 2025-03-21 | 2025-07-15 |
 | [Energy Cycle \- Original Mix](https://open.spotify.com/track/1HXgcCM0nzG8PVA2frKZC7) | [Funk Cartel](https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0) | [Energy Cycle EP](https://open.spotify.com/album/2g69nxboMvYo8zUmotb8dz) | 6:33 | 2024-10-18 | 2024-12-24 |
 | [Epoch](https://open.spotify.com/track/3to939IJ6dXfs3z77WsJZR) | [DAETOR](https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt) | [Epoch EP](https://open.spotify.com/album/1LJYZMOenxFQjnBDokaDHl) | 3:26 | 2025-04-04 |  |
 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 | 2023-07-14 | 2025-03-01 |
@@ -199,6 +199,7 @@
 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 | 2022-07-08 | 2023-05-27 |
 | [Fia](https://open.spotify.com/track/5TREoPShL4tfACMEbHxuzL) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX), [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil) | [Fia](https://open.spotify.com/album/7DgEWcG8Ra9VtejKVfxw7t) | 8:03 | 2022-06-03 | 2022-07-29 |
 | [First Light](https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd) | [Pedro Borlado](https://open.spotify.com/artist/4uPPVg3u7IDBNqcDSNsJA7) | [First Light](https://open.spotify.com/album/6X5dCT7VZAJOz4bKnAzGEC) | 3:58 | 2024-11-13 | 2025-05-31 |
+| [Fixation](https://open.spotify.com/track/2gLdBNejY6h6WTIveyF3gz) | [Tommy Phillips](https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW) | [Fixation EP](https://open.spotify.com/album/7cyD6KMHKXrhOYLXZhkKUI) | 4:22 | 2025-07-14 |  |
 | [Flashback feat\. Forrest](https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q) | [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Hush Hush EP](https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ) | 4:03 | 2022-07-08 | 2023-11-04 |
 | [Flawless](https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Flawless](https://open.spotify.com/album/6rEA4FyIVN0s5pTj8M8d0R) | 3:20 | 2024-08-23 | 2025-06-10 |
 | [Flimmerlicht](https://open.spotify.com/track/3FFiXXnu93YSE7wnWJJd9b) | [Vossberg](https://open.spotify.com/artist/2aztkMjmS8uRYHVejM5QhD) | [Flimmerlicht](https://open.spotify.com/album/1W3okC2t5kZbS5iMrTaIIg) | 5:02 | 2024-01-12 | 2024-02-03 |

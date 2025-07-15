@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Martin Castillo
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,204 likes - 173 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,228 likes - 173 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

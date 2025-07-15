@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ"
       },
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 156440,
       "name": "MACHINE GIRL",
       "url": "https://open.spotify.com/track/6l5OYL8pvH402wTVXjtTYO"

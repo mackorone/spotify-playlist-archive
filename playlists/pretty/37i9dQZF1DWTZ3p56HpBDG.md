@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Akshara
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,849 likes - 89 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,867 likes - 89 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

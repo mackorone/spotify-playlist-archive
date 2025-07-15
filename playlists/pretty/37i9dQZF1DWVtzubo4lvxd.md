@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,160 likes - 75 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,158 likes - 75 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 12 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 |
 | 13 | [Rocking Chair](https://open.spotify.com/track/4PrHSXjTmED07FiLQnpnXK) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Rocking Chair](https://open.spotify.com/album/1AMq0iQTk9wIwTrbfEne7e) | 2:20 |
 | 14 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 |
-| 15 | [Myth](https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Myth](https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s) | 1:55 |
+| 15 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 |
 | 16 | [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 |
-| 17 | [Stellar Journey](https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Stellar Journey](https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW) | 3:07 |
-| 18 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 |
+| 17 | [Myth](https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Myth](https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s) | 1:55 |
+| 18 | [Stellar Journey](https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Stellar Journey](https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW) | 3:07 |
 | 19 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
 | 20 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
 | 21 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 |
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 45 | [End Credits](https://open.spotify.com/track/0IQGNx2y8xUec752lNCUQk) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [End Credits](https://open.spotify.com/album/2COxCYzeNwCOcAQSGu80Fg) | 2:52 |
 | 46 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 |
 | 47 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
-| 48 | [Afloat](https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:28 |
-| 49 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 |
+| 48 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 |
+| 49 | [Afloat](https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:28 |
 | 50 | [ridley road](https://open.spotify.com/track/4F3obAUvUPgEmPWiFIaMvi) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [ridley road](https://open.spotify.com/album/06OqKg0tT2nX1oUqmbLVe6) | 2:24 |
 | 51 | [aigo](https://open.spotify.com/track/6fkrNwyHgSU1oaNUqRbFZh) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [aigo](https://open.spotify.com/album/23QUwYqYmJJ8oFU9zLWqa3) | 2:24 |
 | 52 | [Cloudy](https://open.spotify.com/track/6QvqzWJY96PZXEOdDpGdP7) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Cloudy](https://open.spotify.com/album/4fabio6xe0XUscomxRu8rl) | 2:32 |
 | 53 | [August](https://open.spotify.com/track/6WnEp9XsKFq5n88FzFT20Z) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P) | [Loops](https://open.spotify.com/album/7LdkHMP8fcMyfo85r1HvKJ) | 1:54 |
-| 54 | [Hope](https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Hope](https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl) | 2:21 |
-| 55 | [Vintage Erotica](https://open.spotify.com/track/6BrwbWbyecVwH7twX6pbm7) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Vintage Erotica](https://open.spotify.com/album/6RnTk4M9GwvyfCAzFGC41Q) | 2:13 |
+| 54 | [Vintage Erotica](https://open.spotify.com/track/6BrwbWbyecVwH7twX6pbm7) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Vintage Erotica](https://open.spotify.com/album/6RnTk4M9GwvyfCAzFGC41Q) | 2:13 |
+| 55 | [Hope](https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Hope](https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl) | 2:21 |
 | 56 | [Desire](https://open.spotify.com/track/5BMDnItXLkEKbVhDJlM1DE) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:11 |
 | 57 | [Dont.Be.Afraid.](https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk) | [DVLTVN](https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb) | [The Blyat Tapes,Vol.1](https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu) | 1:25 |
 | 58 | [Waffle Date](https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Waffle Date](https://open.spotify.com/album/4wMHT93kypp3DEwsNHQ7Yr) | 2:31 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 64 | [Cherry Pie Jam](https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ) | [Hollow Clouds](https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh) | [Cherry Pie Jam](https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl) | 3:37 |
 | 65 | [Life](https://open.spotify.com/track/5Pxb3DpymMiRl8JDiOXTPE) | [Lost Son](https://open.spotify.com/artist/0hcPMmuJcGcRhzAzYRrWVF) | [Life](https://open.spotify.com/album/766qimmxJrU3wXg0coClg9) | 1:19 |
 | 66 | [passage](https://open.spotify.com/track/5x6NyRDJl3AZ53oaYAH23o) | [linanthem](https://open.spotify.com/artist/0HrxevJVGTEFBWFfAc88H3) | [passage](https://open.spotify.com/album/3pE40Iu2rLeYQWMQK1Mh2D) | 2:34 |
-| 67 | [Rose Garden](https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:06 |
-| 68 | [End Of Day Bop](https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [End Of Day Bop](https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2) | 2:40 |
+| 67 | [End Of Day Bop](https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [End Of Day Bop](https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2) | 2:40 |
+| 68 | [Rose Garden](https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:06 |
 | 69 | [Kamada](https://open.spotify.com/track/1XktyM1GKgmZ7gNKDMBSyC) | [Butterscotch](https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD) | [Kamada](https://open.spotify.com/album/7xvKSspZYZ8vbHQe8DjGTh) | 1:54 |
 | 70 | [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 |
 | 71 | [Fuji.](https://open.spotify.com/track/2xWavyjB5Nif5Cy8lRLX4Q) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Swimming](https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L) | 1:48 |
 | 72 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
 | 73 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
 | 74 | [Jacaranda](https://open.spotify.com/track/6V8p59npenZZ2HaryaII9r) | [Lofi Coffee](https://open.spotify.com/artist/4lzccanVi9wOfGrXhRLlGY), [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Jacaranda](https://open.spotify.com/album/11KVHT49O592ahjmQ0yjL4) | 2:47 |
-| 75 | [Cerveza](https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Cerveza](https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel) | 2:59 |
+| 75 | [Milk & Cookies](https://open.spotify.com/track/2TUxk6Lbcj0le79LGO4eQ6) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Milk & Cookies](https://open.spotify.com/album/0J7mljOriS30XDELsyKJp6) | 2:04 |
 
 Snapshot ID: `ZfBnpAAAAACLuoDkaygIc9lwZdBRr2+S`

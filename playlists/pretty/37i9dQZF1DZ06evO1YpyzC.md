@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,786 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,809 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 4 | [2 Pair](https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [2 Pair](https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi) | 2:31 |
 | 5 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
 | 6 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 |
-| 7 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 |
-| 8 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 |
-| 9 | [Haunted](https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:24 |
-| 10 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 |
+| 7 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 |
+| 8 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 |
+| 9 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 |
+| 10 | [Haunted](https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:24 |
 | 11 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 |
 | 12 | [Famous Friends](https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 2:46 |
 | 13 | [Memory](https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Memory](https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk) | 2:33 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 39 | [Found You](https://open.spotify.com/track/4iLeL1aYGcQBsYcWIhXIUO) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:11 |
 | 40 | [Take Me Home \(with Kane Brown\)](https://open.spotify.com/track/4pMRIhO6qGmtEIBurzIutp) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Restless Road \- EP](https://open.spotify.com/album/62I9tBq8kkMS3qxT1dtDgh) | 3:21 |
 | 41 | [Start a Fire](https://open.spotify.com/track/0cMDPpAmkf6W7em2POM8eu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 2:54 |
-| 42 | [Country Classic](https://open.spotify.com/track/2iQ9sF1pVNmYLIv8fHhYPb) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:55 |
-| 43 | [Worship You](https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Mixtape Vol\. 1 \- EP](https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38) | 3:25 |
+| 42 | [Worship You](https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Mixtape Vol\. 1 \- EP](https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38) | 3:25 |
+| 43 | [Country Classic](https://open.spotify.com/track/2iQ9sF1pVNmYLIv8fHhYPb) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:55 |
 | 44 | [Thunder in the Rain](https://open.spotify.com/track/1A8s182NfOT6dOXjPsWfTn) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 2:44 |
 | 45 | [Go Around](https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:23 |
 | 46 | [There Goes My Everything](https://open.spotify.com/track/6oJe2ZmepeYTtsHedYwwLr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Chapter 1 \- EP](https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 49 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
 | 50 | [Leave You Alone](https://open.spotify.com/track/3J5UxKE5206of6TwawC4M8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:34 |
 
-Snapshot ID: `aHGlgAAAAAACe9bJWVqyRstfGDwGffA3`
+Snapshot ID: `aHL3AAAAAACBEkzA7WTYSOvvENoxs4NL`

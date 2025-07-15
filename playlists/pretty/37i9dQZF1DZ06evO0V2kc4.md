@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,096 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,103 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 45 | [God Is God](https://open.spotify.com/track/5eKQFLU9s7vVtZKvza2on8) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters](https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM) | 3:29 |
 | 46 | [Mama, You Been on My Mind \- Live at Philharmonic Hall, New York, NY \- October 1964](https://open.spotify.com/track/48p7zj5Ief2UIzbNWAMfPN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Bootleg Volume 6: Bob Dylan Live 1964 \- Concert At Philharmonic Hall](https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY) | 3:05 |
 | 47 | [We Shall Overcome \- Live](https://open.spotify.com/track/3lM2es3TbqmWjOGAx35fyh) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 3:32 |
-| 48 | [No Woman No Cry \- Live](https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI) | 3:45 |
+| 48 | [Wildwood Flower](https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:37 |
 | 49 | [If I Wrote You](https://open.spotify.com/track/2kJfMLleWp1UgC5HlGBHi1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters](https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM) | 3:28 |
-| 50 | [Wildwood Flower](https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:37 |
+| 50 | [No Woman No Cry \- Live](https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI) | 3:45 |
 
-Snapshot ID: `aHGlgAAAAADJnq9/Fvona8q6LbiDtiUN`
+Snapshot ID: `aHL3AAAAAADwUo90FOJPLmMwBlTSWn26`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,810 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,818 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 42 | [I'd Like To Walk Around In Your Mind](https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:15 |
 | 43 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 |
 | 44 | [to Perth, before the border closes](https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [to Perth, before the border closes](https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS) | 2:56 |
-| 45 | [Sierra Vista](https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sierra Vista](https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr) | 2:35 |
-| 46 | [Sway](https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
+| 45 | [Sway](https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
+| 46 | [Sierra Vista](https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sierra Vista](https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr) | 2:35 |
 | 47 | [Lovers to Strangers](https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Lovers to Strangers](https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN) | 2:54 |
 | 48 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
 | 49 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 59 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 |
 | 60 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
 | 61 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 |
-| 62 | [People Always Change](https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:16 |
-| 63 | [wasting your love](https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [wasting your love](https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF) | 2:43 |
+| 62 | [wasting your love](https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [wasting your love](https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF) | 2:43 |
+| 63 | [People Always Change](https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:16 |
 | 64 | [Blouse \- Recorded At Electric Lady Studios](https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:13 |
 | 65 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 |
 | 66 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 75 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
 | 76 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 |
 | 77 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
-| 78 | [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 |
-| 79 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
+| 78 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
+| 79 | [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 |
 | 80 | [Evergreen](https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Evergreen](https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf) | 2:30 |
 | 81 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
 | 82 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 93 | [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 |
 | 94 | [Ribcage](https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Ribcage](https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34) | 2:57 |
 | 95 | [tap](https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [tap](https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np) | 4:31 |
-| 96 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 |
-| 97 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
+| 96 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
+| 97 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 |
 | 98 | [Scorpions Don't Live Forever](https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Scorpions Don't Live Forever](https://open.spotify.com/album/01UB7yLLhdvHKtETrr0VgM) | 4:32 |
 | 99 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 |
 | 100 | [Shove](https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Shove](https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb) | 2:39 |
@@ -116,10 +116,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 106 | [Every Woman](https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:27 |
 | 107 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 |
 | 108 | [Blindsided](https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF) | 3:42 |
-| 109 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 |
-| 110 | [Dark](https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Dark](https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1) | 3:13 |
-| 111 | [Blue Moon \(with paris jackson\)](https://open.spotify.com/track/4u49em2HjO33qX3CkGCzNZ) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Blue Moon \(with paris jackson\)](https://open.spotify.com/album/1kNrj1GRY8WziMDBaruSnU) | 2:29 |
-| 112 | [I'm In Love](https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [I'm In Love](https://open.spotify.com/album/2LxN7gXANSe2A8kZUIPZI7) | 3:22 |
+| 109 | [Dark](https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Dark](https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1) | 3:13 |
+| 110 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 |
+| 111 | [I'm In Love](https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [I'm In Love](https://open.spotify.com/album/2LxN7gXANSe2A8kZUIPZI7) | 3:22 |
+| 112 | [Blue Moon \(with paris jackson\)](https://open.spotify.com/track/4u49em2HjO33qX3CkGCzNZ) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Blue Moon \(with paris jackson\)](https://open.spotify.com/album/1kNrj1GRY8WziMDBaruSnU) | 2:29 |
 | 113 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 |
 | 114 | [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 |
 | 115 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 121 | [Backyard Lover](https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Backyard Lover](https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg) | 5:28 |
 | 122 | [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 |
 | 123 | [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 |
-| 124 | [All of This Beauty](https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [All of This Beauty](https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja) | 2:08 |
-| 125 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 |
+| 124 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 |
+| 125 | [All of This Beauty](https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [All of This Beauty](https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja) | 2:08 |
 
 Snapshot ID: `Zy2a0AAAAABTWHxjgZVk+UXIGnovHSOL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zbZrYRGVam.md) - [plain]
 
 > The Songs of Summer 2025 as chosen by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,419 likes - 30 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,716 likes - 30 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

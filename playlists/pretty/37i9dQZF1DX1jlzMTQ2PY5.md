@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,002 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,030 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 47 | [Malkia](https://open.spotify.com/track/45n3JtqEm1v2j6bmG77ywg) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Malkia](https://open.spotify.com/album/1MEdQSsJgrmaVsiNQcQCoU) | 3:01 |
 | 48 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
 | 49 | [Persevere \- DJ Mix](https://open.spotify.com/track/4A9iw9nUasJggoVtCR4pgq) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn) | [Persevere \(DJ Mix\)](https://open.spotify.com/album/6JaRQcJyiN9imsELimLefK) | 5:28 |
-| 50 | [PCT](https://open.spotify.com/track/3mTmzCTqoNWDFOJzz65u12) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN) | [PCT](https://open.spotify.com/album/6ckP32sIkdFQOtOuAuj4p3) | 4:16 |
+| 50 | [Only You](https://open.spotify.com/track/14wbsRn4dzYtLE4QVhI0qB) | [Aperio](https://open.spotify.com/artist/7p6ffz42sYfufojFrfIDlX), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Only You](https://open.spotify.com/album/1pU3nDxtgVciYzPQMhFAj8) | 4:34 |
 
 Snapshot ID: `aGan2AAAAAAFY9EOJIrAvIAezRh1I4x9`

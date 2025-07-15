@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: KAFFKIEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,894 likes - 74 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,908 likes - 74 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Capri Sonne](https://open.spotify.com/track/5biCRSNDhZvHSuLosdlJm5) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Capri Sonne](https://open.spotify.com/album/6Lc47SBTfL7P471YXTyD3s) | 3:12 |
 | 2 | [2 Teile](https://open.spotify.com/track/02xssYg4dSe6YUBzyPai4B) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [2 Teile](https://open.spotify.com/album/7Dp26d94eVaqz8uRWmjhqw) | 2:57 |
-| 3 | [Kommst du vorbei](https://open.spotify.com/track/1S8DPjb8gCjDxU0jrXMjPb) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Kommst du vorbei](https://open.spotify.com/album/3QhiCdOkc6bFLKuwcul2VU) | 2:53 |
-| 4 | [Einfach sein](https://open.spotify.com/track/79ZfFZxU80HL49D6QdoaAU) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Einfach sein](https://open.spotify.com/album/0309n4dzi1kqWpZwXEabae) | 2:45 |
-| 5 | [Frei](https://open.spotify.com/track/4BguFKjpssDGdARiq5vVmn) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Frei](https://open.spotify.com/album/0Rm9O8tSZrjRwr4SAfYXOr) | 2:19 |
-| 6 | [gladiolen](https://open.spotify.com/track/1XObGR5yiTCQDANRyxddSB) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [gladiolen](https://open.spotify.com/album/2bqh2nCPi1TQACW7e9aHP8) | 1:44 |
-| 7 | [Sommersprossenzeit](https://open.spotify.com/track/3oMztnovVLeOS9NArSklLi) | [Strob](https://open.spotify.com/artist/0JP5ABLaBXOg8HFsxUoPzC), [zuender](https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW) | [Sommersprossenzeit](https://open.spotify.com/album/3XWpVEUSWlrMYtTb5MoYxx) | 2:25 |
-| 8 | [frieden](https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [frieden](https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku) | 2:45 |
+| 3 | [Frei](https://open.spotify.com/track/4BguFKjpssDGdARiq5vVmn) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Frei](https://open.spotify.com/album/0Rm9O8tSZrjRwr4SAfYXOr) | 2:19 |
+| 4 | [Sommersprossenzeit](https://open.spotify.com/track/3oMztnovVLeOS9NArSklLi) | [Strob](https://open.spotify.com/artist/0JP5ABLaBXOg8HFsxUoPzC), [zuender](https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW) | [Sommersprossenzeit](https://open.spotify.com/album/3XWpVEUSWlrMYtTb5MoYxx) | 2:25 |
+| 5 | [frieden](https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [frieden](https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku) | 2:45 |
+| 6 | [Einfach sein](https://open.spotify.com/track/79ZfFZxU80HL49D6QdoaAU) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Einfach sein](https://open.spotify.com/album/0309n4dzi1kqWpZwXEabae) | 2:45 |
+| 7 | [gladiolen](https://open.spotify.com/track/1XObGR5yiTCQDANRyxddSB) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [gladiolen](https://open.spotify.com/album/2bqh2nCPi1TQACW7e9aHP8) | 1:44 |
+| 8 | [Kommst du vorbei](https://open.spotify.com/track/1S8DPjb8gCjDxU0jrXMjPb) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Kommst du vorbei](https://open.spotify.com/album/3QhiCdOkc6bFLKuwcul2VU) | 2:53 |
 | 9 | [Mittelfinger an die Welt](https://open.spotify.com/track/45tBd0y6RzCjxsvvhXtu36) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Mittelfinger an die Welt](https://open.spotify.com/album/3byCUpqK0ejOy6F31HUG5P) | 3:05 |
 | 10 | [Coming of Age in der Dystopie](https://open.spotify.com/track/6XH8yM6T1Re1e0OBGlGi8Y) | [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [Coming of Age in der Dystopie](https://open.spotify.com/album/6a89nXdHT79MuhzJVPERbo) | 2:20 |
 | 11 | [Tango](https://open.spotify.com/track/1XbP4kn5CSYvv1if1rQGbF) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tango](https://open.spotify.com/album/3lEXcCAZXNRYYkgyZIaio2) | 2:09 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 73 | [Isar](https://open.spotify.com/track/3GGRoEdpCINzqIGs9fSGZ8) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Isar](https://open.spotify.com/album/4NsVJ3lui5cPD1OGB2NBW6) | 2:30 |
 | 74 | [Verlieben](https://open.spotify.com/track/1tHnYCUqIsTE7Gm5iTpSPt) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb), [DJ8080](https://open.spotify.com/artist/6Q9FyxLr2DWH9G4hN491uS) | [Verlieben](https://open.spotify.com/album/4lb0Rp9rM42upmmb1t8JYu) | 1:55 |
 
-Snapshot ID: `aHC6XwAAAACDCla4A6nCwNERctpj6sO3`
+Snapshot ID: `aHT0oAAAAABem1NaI/hltAQYEP21lr4k`

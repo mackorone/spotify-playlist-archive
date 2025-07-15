@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: John Glacier
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,633 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,629 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 13 | [sit with you \(pain\)](https://open.spotify.com/track/1QBeq423x9hTeJI6IGLPl4) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [sit with you \(pain\)](https://open.spotify.com/album/6ibXSghXvbjtGG95JEsdqm) | 3:15 |
 | 14 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
 | 15 | [Silk And Velvet](https://open.spotify.com/track/5uMlfVjrj8Jr5tTxaNati8) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Silk and Velvet](https://open.spotify.com/album/6hOSMLuIWwf6nkTJjP4ZnR) | 2:32 |
-| 16 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
+| 16 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 |
 | 17 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 |
 | 18 | [Max Potential](https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Max Potential](https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU) | 3:52 |
-| 19 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 |
+| 19 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
 | 20 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
 | 21 | [i cant tell \(love my money\)](https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle) | 2:43 |
 | 22 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 36 | [Heartthrob](https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Heartthrob](https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP) | 3:13 |
 | 37 | [Flood](https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Flood](https://open.spotify.com/album/2W71nSL9RnbhRvnlwDlmT1) | 2:47 |
 | 38 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 |
-| 39 | [T.H.](https://open.spotify.com/track/7Cj2Buxud8yjgRCdRW6VUs) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 4:46 |
+| 39 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
 | 40 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
-| 41 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
+| 41 | [T.H.](https://open.spotify.com/track/7Cj2Buxud8yjgRCdRW6VUs) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 4:46 |
 | 42 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
 | 43 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
 | 44 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 |

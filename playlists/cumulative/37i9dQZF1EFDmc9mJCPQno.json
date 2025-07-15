@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "committed to a bit",
+        "url": "https://open.spotify.com/album/7pzCbXIKBn1wqJSNI8icip"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "death",
+      "url": "https://open.spotify.com/track/2VrMoRFZLk2NYuZpfxC06B"
+    },
+    {
+      "album": {
         "name": "The Drama",
         "url": "https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ"
       },

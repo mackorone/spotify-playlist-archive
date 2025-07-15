@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,433 likes - 43 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,472 likes - 43 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 19 | [CALIFORNIA SUNSET](https://open.spotify.com/track/7Jw2UlbClhyuWzmfv9yWtD) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:03 |
 | 20 | [Belicosa](https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Belicosa](https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD) | 2:58 |
 | 21 | [Bien High](https://open.spotify.com/track/1vuaoGdmz8yVNcucQ5Rq2q) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Bien High](https://open.spotify.com/album/5lcssTyl6yVlMSVQUyPDJa) | 3:27 |
-| 22 | [Mas Alto Que El Everest](https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Mas Alto Que El Everest](https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb) | 3:01 |
+| 22 | [Que Loco Es](https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Que Loco Es](https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr) | 3:22 |
 | 23 | [0 SENTIMIENTOS](https://open.spotify.com/track/1aBgobDtEToIQvHmjaMD1x) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:15 |
-| 24 | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 |
-| 25 | [Que Loco Es](https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Que Loco Es](https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr) | 3:22 |
+| 24 | [Mas Alto Que El Everest](https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Mas Alto Que El Everest](https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb) | 3:01 |
+| 25 | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 |
 | 26 | [Traigo Una 40](https://open.spotify.com/track/7hDeIf4zAccZaGEaAALBDh) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Disfrutando El Proceso](https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa) | 3:12 |
 | 27 | [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 |
 | 28 | [Vibras](https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vibras](https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF) | 2:44 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 36 | [Una Última Ocasión](https://open.spotify.com/track/1C6WlgKPr1f4WDMy4MkzBU) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Una Última Ocasión](https://open.spotify.com/album/7HMRedku7U6wK6qoh0KgQv) | 3:36 |
 | 37 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Te Amo \(Para Siempre\)](https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE) | 3:47 |
 | 38 | [Ya No Siento Nada](https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Ya No Siento Nada](https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8) | 2:26 |
-| 39 | [Mala Mia](https://open.spotify.com/track/5rfaKvcf8Dcj2bvRBCRdUn) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:32 |
+| 39 | [Modo On](https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
 | 40 | [Alla En Lynwood \- En Vivo](https://open.spotify.com/track/00yHdOJRayC728xYDY7ioe) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Alla En Lynwood \(En Vivo\)](https://open.spotify.com/album/0OhdTL3qbFHUo6Qo2fc7Ul) | 3:23 |
-| 41 | [Modo On](https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
+| 41 | [Mala Mia](https://open.spotify.com/track/5rfaKvcf8Dcj2bvRBCRdUn) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:32 |
 | 42 | [Flow Criminal](https://open.spotify.com/track/2qH76OVzQR5AAexNHhrFEj) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
 | 43 | [Yo Si Vengo De Las Calles](https://open.spotify.com/track/2cyhNfHLJtCcrpQIXFcV52) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 3:18 |
 
-Snapshot ID: `aHGlgAAAAAA541srPH7ePOZhvqHdH01V`
+Snapshot ID: `aHL3AAAAAAAkKhFooV0/+lYNIfKd78iv`

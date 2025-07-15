@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20905,
+  "num_followers": 20914,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAABrA1h5QL4mwr7SM2BNajWG",
+  "snapshot_id": "aHL3AAAAAACVR7EQYEcogUDh9UIeoEwW",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Em Fervente Ora\u00e7\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 296053,
       "name": "Jesus At The Center (Bonus Track) - Acoustic",
       "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Em Fervente Ora\u00e7\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 278840,
-      "name": "Eu Me Rendo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd"
+      "duration_ms": 254253,
+      "name": "Me Atraiu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 254253,
-      "name": "Me Atraiu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
+      "duration_ms": 278840,
+      "name": "Eu Me Rendo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd"
     },
     {
       "added_at": null,

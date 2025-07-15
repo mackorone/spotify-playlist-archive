@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 491189,
+  "num_followers": 491252,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
+        "name": "M & J",
+        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Joe le taxi",
+      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
         "name": "Calog3ro",
         "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 223333,
       "name": "Face \u00e0 la mer",
       "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
-        "name": "M & J",
-        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Joe le taxi",
-      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Claudio Cap\u00e9o (Version deluxe)",
-        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
+        "name": "aim\u00e9e",
+        "url": "https://open.spotify.com/album/6BDmnvL4iyvqfXR4OtDZ2r"
       },
       "artists": [
         {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Un homme debout",
-      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
+      "duration_ms": 199546,
+      "name": "Nous",
+      "url": "https://open.spotify.com/track/5KURaCww90G5JWY3HAZ5tn"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "aim\u00e9e",
-        "url": "https://open.spotify.com/album/6BDmnvL4iyvqfXR4OtDZ2r"
+        "name": "Claudio Cap\u00e9o (Version deluxe)",
+        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
       },
       "artists": [
         {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
         }
       ],
-      "duration_ms": 199546,
-      "name": "Nous",
-      "url": "https://open.spotify.com/track/5KURaCww90G5JWY3HAZ5tn"
+      "duration_ms": 206373,
+      "name": "Un homme debout",
+      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
     },
     {
       "added_at": "2024-10-21 08:32:27",

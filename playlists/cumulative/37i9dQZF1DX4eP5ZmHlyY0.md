@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: SUPER JUNIOR
 
-646 songs - 1 day 11 hr 48 min
+648 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,9 +84,10 @@
 | [BREATHE](https://open.spotify.com/track/2P5bbp7BeVtrECPJaN8AFO) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : SPUR](https://open.spotify.com/album/34AWJLKuS7vDo9WvPSd6rE) | 3:03 | 2025-04-04 | 2025-06-25 |
 | [BREMEN](https://open.spotify.com/track/2INxMYYnLdxmB16I45lB4E) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/7wYlDlMNbNRnyxhGzF660D) | 3:48 | 2024-01-16 | 2024-02-07 |
 | [Broken Party](https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Broken Party](https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL) | 2:57 | 2025-04-29 |  |
+| [BTTF](https://open.spotify.com/track/4gkiXKGyp4PnHnOO70q8bK) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Go Back To The Future](https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM) | 3:00 | 2025-07-14 |  |
 | [BUCK \(feat\. Diljit Dosanjh\)](https://open.spotify.com/track/70sREIqvDuuHKXSjmWMysS) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [BUCK \(feat\. Diljit Dosanjh\)](https://open.spotify.com/album/29xxo6iJM8mqwKYWTHCu06) | 2:43 | 2025-05-08 | 2025-06-13 |
 | [BURN](https://open.spotify.com/track/0mLlgmGGR4X03gsyu8pz4i) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [BURN](https://open.spotify.com/album/22poX10gy30tj7vqUDTKyz) | 3:40 | 2025-02-11 | 2025-04-05 |
-| [Burning Love](https://open.spotify.com/track/6k8JvngETY2MTjTMWKJV4M) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Lilo & Stitch \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3x0XUj1f9DrO20JC9yUDwY) | 2:46 | 2025-06-04 |  |
+| [Burning Love](https://open.spotify.com/track/6k8JvngETY2MTjTMWKJV4M) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Lilo & Stitch \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3x0XUj1f9DrO20JC9yUDwY) | 2:46 | 2025-06-04 | 2025-07-15 |
 | [Butterflies](https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Social Path / Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW) | 3:10 | 2023-11-23 | 2023-12-20 |
 | [Butterfly](https://open.spotify.com/track/6EX2u3rBDR606W9N37iglB) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [Butterfly](https://open.spotify.com/album/4yi5BI3qDbbMKo4hbaEwv7) | 3:00 | 2025-03-06 | 2025-04-24 |
 | [Calendar](https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Calendar](https://open.spotify.com/album/4B6DzQsVrjXtZmxYUlJ9SE) | 3:38 | 2023-12-19 | 2024-01-17 |
@@ -466,7 +467,7 @@
 | [Songbird \- Japanese Ver.](https://open.spotify.com/track/3SCRXReEFR5yhw5jnMA0zE) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/19BPGMIrtPZlPx4LMLQmb2) | 3:01 | 2024-06-25 | 2024-07-31 |
 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 | 2023-11-23 | 2024-02-28 |
 | [Spacecraft](https://open.spotify.com/track/0zSghGGFtB2riQEwUUrU96) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Spacecraft](https://open.spotify.com/album/2NOfMu6QwFqseghQm1OMEw) | 3:13 | 2025-02-04 | 2025-04-24 |
-| [Sparkle Summer](https://open.spotify.com/track/69dL4ZFvQFW0Aq0OHnMkTu) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Sparkle Summer](https://open.spotify.com/album/4jA7yKF3SEALY8YmmCPzw1) | 3:10 | 2025-07-08 |  |
+| [Sparkle Summer](https://open.spotify.com/track/69dL4ZFvQFW0Aq0OHnMkTu) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Sparkle Summer](https://open.spotify.com/album/4jA7yKF3SEALY8YmmCPzw1) | 3:10 | 2025-07-08 | 2025-07-15 |
 | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/track/3DBD5ycENXcDM3D86h7G5K) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bear Knuckle](https://open.spotify.com/artist/2NebavOcCJEGrt0wFUjDnO) | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/album/4OVmL13BgYxXgsH2ruGGNz) | 4:01 | 2023-12-21 | 2024-01-20 |
 | [Stage of the Universe](https://open.spotify.com/track/1fICTXN9i47EpvMKvVDILq) | [EBiDAN \(恵比寿学園男子部\)](https://open.spotify.com/artist/4jtwvvkDVrBZosFsvbSLXm) | [Stage of the Universe](https://open.spotify.com/album/75LIHQCfDT4otXAhczkn9z) | 3:33 | 2024-01-02 | 2024-01-10 |
 | [STARBOYS](https://open.spotify.com/track/1t4pem876QGWXXaBKLktMR) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [STARBOYS](https://open.spotify.com/album/5Q33AkiYXkiY7wqRq2MmeY) | 3:28 | 2023-11-23 | 2023-12-06 |
@@ -530,6 +531,7 @@
 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 | 2023-11-23 | 2024-05-19 |
 | [Unfreeze](https://open.spotify.com/track/7Ko3Ark4s7OL7sQIo1ToHR) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [RE: Full of Youth](https://open.spotify.com/album/1vlehuBlbn5SqCzpaoRICu) | 3:11 | 2025-03-31 | 2025-07-11 |
 | [Universe](https://open.spotify.com/track/61bFionfXJxkMit23Rvu5H) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [D's WAVE](https://open.spotify.com/album/3HI2arleNFka7BTes75U83) | 3:47 | 2025-04-08 | 2025-07-04 |
+| [Up All Night](https://open.spotify.com/track/2652PzGxxU8jzARLLubmjD) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Up All Night](https://open.spotify.com/album/0L0CetqAg2aiFsC5lHBbyh) | 3:35 | 2025-07-14 |  |
 | [Use Your Body](https://open.spotify.com/track/5jJanCOrDYbqfWO85B6XzJ) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [Use Your Body / E\-NERGY BOYS](https://open.spotify.com/album/7pVVu6AwIlArQyTUq8jpqu) | 2:59 | 2024-02-20 | 2024-03-13 |
 | [UV](https://open.spotify.com/track/6eKBXC5KEbiS3gNLgWWtyk) | [MASHIHO](https://open.spotify.com/artist/0pxEGHaPCDvpHEyXGc7xlc) | [ULTRA VIOLET](https://open.spotify.com/album/5JJb0PsoRNXCTNVU1leKiq) | 2:47 | 2025-03-25 | 2025-05-30 |
 | [Vanilla](https://open.spotify.com/track/40Sa8TQixEoPFU7kosThge) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [BEST OF A.B.C\-Z](https://open.spotify.com/album/0yk8RjLmJXhB9S5A0czgN1) | 4:43 | 2024-04-30 | 2024-05-15 |

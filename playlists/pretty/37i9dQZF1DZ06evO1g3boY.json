@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 172989,
+  "num_followers": 172983,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAWaTFBDh2OjOP0vjF/avt8",
+  "snapshot_id": "aHL3AAAAAACOfCGSwPeFJ+zRK3yntZp4",
   "tracks": [
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Amor \u00c9 Tudo de Bom",
-        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
-      },
-      "artists": [
-        {
-          "name": "Mundo Bita",
-          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "O Amor \u00c9 Tudo de Bom",
-      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 249373,
       "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
       "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Amor \u00c9 Tudo de Bom",
+        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
+      },
+      "artists": [
+        {
+          "name": "Mundo Bita",
+          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "O Amor \u00c9 Tudo de Bom",
+      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
     },
     {
       "added_at": null,
@@ -923,6 +923,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Oi Compadre - Ao Vivo",
+      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Sou a Mar\u00e9 Viva",
         "url": "https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe"
       },
@@ -947,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Criolo E Emicida Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
       },
@@ -983,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AmarElo - Ao Vivo",
         "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 305213,
       "name": "9nha / Eu Gosto Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock In Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
-      },
-      "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Oi Compadre - Ao Vivo",
-      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
     },
     {
       "added_at": null,
@@ -1091,6 +1091,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AmarElo - Ao Vivo",
         "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 338250,
       "name": "AmarElo (Sample: Sujeito de Sorte - Belchior) - Ao Vivo",
       "url": "https://open.spotify.com/track/7EMNOr4AZYSpSSkc8pGtzI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 176920,
-      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
     },
     {
       "added_at": null,

@@ -98,7 +98,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 194935,
       "name": "American Me",
       "url": "https://open.spotify.com/track/5F3xdzFq5PZeBsQ281WCml"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 204866,
       "name": "Double Barrel",
       "url": "https://open.spotify.com/track/7G44SyqP1cQqyeKcje7f3k"
@@ -1184,10 +1184,40 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 168364,
       "name": "Hero",
       "url": "https://open.spotify.com/track/2Ffk1ykh4yfruyAtmv3l12"
+    },
+    {
+      "album": {
+        "name": "Richmond Hill (Deluxe)",
+        "url": "https://open.spotify.com/album/7JtfLXwpLU5iJjUl9hnGih"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168364,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/6yTv6yhbPdR013Ag4WyJ3u"
     },
     {
       "album": {
@@ -1406,7 +1436,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 181943,
       "name": "Jordan Theory",
       "url": "https://open.spotify.com/track/67FChHdbytnwnCnz6LSiT2"
@@ -1484,7 +1514,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 188710,
       "name": "Kings",
       "url": "https://open.spotify.com/track/6b8ftCJXOdx922FW2KKOSB"
@@ -2160,7 +2190,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 184186,
       "name": "P.P.E.",
       "url": "https://open.spotify.com/track/43GQ5j2D2OlWApA8RxJaK0"
@@ -3032,7 +3062,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 231755,
       "name": "Wi\u0119zie\u0144 W\u0142asnych Granic",
       "url": "https://open.spotify.com/track/1L525mhtifli4X9LroMYLx"

@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 138197,
+  "num_followers": 138206,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAA0mnnxReCJwUEKkEnapeOJ",
+  "snapshot_id": "aHL3AAAAAADRyCWUp81QzVTUW2npY7C/",
   "tracks": [
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 158800,
-      "name": "Fan Mail - Remastered",
-      "url": "https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ"
+      "duration_ms": 174639,
+      "name": "Doom or Destiny",
+      "url": "https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Fan Mail - Remastered",
+      "url": "https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pollinator",
         "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 174639,
-      "name": "Doom or Destiny",
-      "url": "https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n"
+      "duration_ms": 259493,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
     },
     {
       "added_at": null,
@@ -728,9 +744,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 259493,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
+      "duration_ms": 246586,
+      "name": "Already Naked",
+      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
       "duration_ms": 185716,
       "name": "Heart of Glass",
       "url": "https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Already Naked",
-      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
     },
     {
       "added_at": null,

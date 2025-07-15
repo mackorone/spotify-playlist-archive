@@ -4,7 +4,7 @@
 
 > Essential tunes for time with the family.
 
-222 songs - 16 hr 41 min
+224 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 | 2023-06-16 |  |
 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 | 2023-06-16 | 2023-08-31 |
 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2023-06-16 |  |
+| [Boots on the Ground](https://open.spotify.com/track/3cycM517xaQKXyUhcCEuN6) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp) | [Boots on the Ground](https://open.spotify.com/album/0u6U3JM9VGWgXyz6mESTii) | 3:23 | 2025-07-14 |  |
 | [Bout It, Bout It II](https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt) | [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW), [Mia X](https://open.spotify.com/artist/2d9xPZQzgCr6ObcDkUmjLu) | [Ice Cream Man](https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL) | 5:08 | 2023-08-30 | 2023-10-21 |
 | [Boyz\-N\-The\-Hood \- Remix](https://open.spotify.com/track/3JdyhQORbJkCWT8xfLd8gD) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [DJ Yella](https://open.spotify.com/artist/1Wfh3Tz3xOB4JjqTk2zT5K) | [Eazy\-Duz\-It](https://open.spotify.com/album/2glPhGd3WXbnNttSdOOr2e) | 6:19 | 2023-08-30 | 2023-10-21 |
 | [Breathe](https://open.spotify.com/track/7fuoqve1SOEBmhc2PoQTF0) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Real Talk \(123\)](https://open.spotify.com/album/0852dsZQyLOGmvotlvOvoA) | 4:28 | 2023-08-30 | 2023-10-21 |
@@ -46,6 +47,7 @@
 | [Bustin' Loose](https://open.spotify.com/track/2iXA7lqR3Ne3Enkcl1YDWO) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [The Best of Chuck Brown](https://open.spotify.com/album/2GMvrVJXmEzu6SoDJKMNdg) | 7:41 | 2021-07-01 | 2022-07-29 |
 | [Bustin' Loose](https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [Bustin' Loose](https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub) | 7:42 | 2021-07-01 | 2023-06-17 |
 | [Can We Talk](https://open.spotify.com/track/3eRE1KwnUma75nu1HhoNY4) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [I'm Ready](https://open.spotify.com/album/4oMHSoFd6DKPVMVb8uiZYv) | 4:44 | 2023-06-16 |  |
+| [Can't Get Enough](https://open.spotify.com/track/1Ly3sQABkGYruk0s8XF6US) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Between Friends](https://open.spotify.com/album/3fWRZINvsj236ZaWNo6g9J) | 3:49 | 2025-07-14 |  |
 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 | 2023-06-16 |  |
 | [Candy](https://open.spotify.com/track/0Aj8EagrPfDoOe5OlUdrLC) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 5:39 | 2020-07-23 |  |
 | [Candy Rain \- Heavy D & TrakMasterz Mix](https://open.spotify.com/track/0JHwHqPlca9zCnGnQenAEW) | [Soul For Real](https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK), [Heavy D](https://open.spotify.com/artist/4AwNnh5SdnB3VGSZ0GPG4H) | [Candy Rain \(Remixes\)](https://open.spotify.com/album/3ScLM7m1Lu2xScRrYqEOlU) | 4:21 | 2021-07-01 | 2023-06-17 |
@@ -97,7 +99,7 @@
 | [Happy Feelin's](https://open.spotify.com/track/2YQ4R8eICy851TjCdFYUSd) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [The Greatest Hits: Lifelines Volume 1](https://open.spotify.com/album/7Gh4T19qT1cT1ypL5J16X6) | 7:12 | 2021-07-01 | 2023-10-21 |
 | [Hard Knock Life \(Ghetto Anthem\)](https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 3:58 | 2023-08-30 | 2023-10-21 |
 | [Hey Mr\. D.J.](https://open.spotify.com/track/7fs4v7plEu5CIsoOt9lLk8) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [90s R&B](https://open.spotify.com/album/3um3nlao5NXo5HgnhAroun) | 4:11 | 2021-07-01 | 2022-11-13 |
-| [Hey Mr\. D.J.](https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 4:12 | 2021-07-01 |  |
+| [Hey Mr\. D.J.](https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 4:12 | 2021-07-01 | 2025-07-15 |
 | [Hey Mr\. DJ](https://open.spotify.com/track/4Mm3eNo7eb6SM5TS6yLvwJ) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Soul Sisters](https://open.spotify.com/album/5VljSlqVFj6AlttWE82WC2) | 4:12 | 2021-07-01 | 2022-07-29 |
 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 | 2020-07-23 |  |
 | [I Got 5 On It](https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG) | [Luniz](https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x), [Michael Marshall](https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn) | [Operation Stackola](https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb) | 4:13 | 2023-08-30 | 2023-10-21 |
@@ -229,6 +231,6 @@
 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 | 2020-07-23 |  |
 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 | 2023-06-16 |  |
 | [Workin' Day and Night](https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 5:13 | 2023-06-16 |  |
-| [Yearning For Your Love](https://open.spotify.com/track/1kSxm4vU26W5xSUdnPUkyB) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band III](https://open.spotify.com/album/3L3I4Bjtm23rTstzrYIB49) | 5:40 | 2023-06-16 |  |
+| [Yearning For Your Love](https://open.spotify.com/track/1kSxm4vU26W5xSUdnPUkyB) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band III](https://open.spotify.com/album/3L3I4Bjtm23rTstzrYIB49) | 5:40 | 2023-06-16 | 2025-07-15 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rosa de Saron
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,504 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,534 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 42 | [Na Corte do Egito \- Ao Vivo](https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Na Corte do Egito \(Ao Vivo\)](https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz) | 4:44 |
 | 43 | [O Meu Lugar](https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [O Meu Lugar](https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2) | 4:05 |
 | 44 | [Na Contramão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 |
-| 45 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 |
-| 46 | [Pródigo](https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Pródigo](https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH) | 3:54 |
+| 45 | [Pródigo](https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Pródigo](https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH) | 3:54 |
+| 46 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 |
 | 47 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |
 | 48 | [Nova criatura \(AO VIVO\)](https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 5:09 |
 | 49 | [Falhas \- Ao Vivo](https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn) | [Daniel Juan](https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH) | [Falhas \(Ao Vivo\)](https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714) | 6:19 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 53 | [O Começo, o Fim e o Meio](https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [O Começo, o Fim e o Meio](https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ) | 4:07 |
 | 54 | [Celebre \- Ao Vivo](https://open.spotify.com/track/39wHeXI2eShSnVgCLtSlw0) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Celebre \(Ao Vivo\)](https://open.spotify.com/album/7fLGb5p4a1mFroUMKDFtqY) | 4:09 |
 | 55 | [Até o Fim](https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow) | [Ana Diniz](https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm) | [Até o Fim](https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72) | 4:00 |
-| 56 | [Imerecido Amor](https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ) | [DANNIEL GOMES](https://open.spotify.com/artist/4Zj9qtiwRFwaMyejsvlctD), [Novo Eu](https://open.spotify.com/artist/6lpIp6l3aq3X5G4jsPl3Ci), [EURRITMIA](https://open.spotify.com/artist/6hJGAFT3bWQXFblgRtJVgT) | [Imerecido Amor](https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E) | 3:10 |
+| 56 | [Quebre as Correntes](https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k) | [Quebre as Correntes](https://open.spotify.com/album/1fto84wZULJvDxB44FccKm) | 4:08 |
 | 57 | [Só na Sua Graça](https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod) | [Lenha Music](https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO) | [Só na Sua Graça](https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0) | 4:18 |
-| 58 | [Quebre as Correntes](https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k) | [Quebre as Correntes](https://open.spotify.com/album/1fto84wZULJvDxB44FccKm) | 4:08 |
+| 58 | [Imerecido Amor](https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ) | [DANNIEL GOMES](https://open.spotify.com/artist/4Zj9qtiwRFwaMyejsvlctD), [Novo Eu](https://open.spotify.com/artist/6lpIp6l3aq3X5G4jsPl3Ci), [EURRITMIA](https://open.spotify.com/artist/6hJGAFT3bWQXFblgRtJVgT) | [Imerecido Amor](https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E) | 3:10 |
 | 59 | [Ele é o Senhor \- Ao Vivo](https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm) | [Siloé Music](https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL) | [Ele é o Senhor \(Ao Vivo\)](https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU) | 7:41 |
 | 60 | [Me Deixa](https://open.spotify.com/track/7o5GLOR6dHfRKcPwJdARGo) | [Em Um](https://open.spotify.com/artist/3FQdrcZWCcXiofG7Pn4jx2) | [Me Deixa](https://open.spotify.com/album/5cCRbKpQUP23wd9VD6l52e) | 5:33 |
 | 61 | [Maranata \(Trono\)](https://open.spotify.com/track/607mQzTrTUaQCMyzSd5hQo) | [Igor Pinheiro de Lima](https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku), [Lari Lindstron](https://open.spotify.com/artist/15JLGAUpRQL7mhsxj2CdDd) | [Maranata \(Trono\)](https://open.spotify.com/album/5LqVnPYwTlK5BPgK347wuw) | 5:03 |

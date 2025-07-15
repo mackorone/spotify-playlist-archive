@@ -4,7 +4,7 @@
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 54 min
+92 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7MGXwJHmW6l38uVkAQFuCQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:52 | 2023-03-10 |  |
 | [Mi Meta Contigo \- Versión Mariachi](https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Meta Contigo \(Versión Mariachi\)](https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg) | 3:08 | 2023-03-10 |  |
 | [Mis Noches Sin Ti](https://open.spotify.com/track/1Q1pPLnJqsWHSIu4H5rOHI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:24 | 2023-03-10 | 2024-10-08 |
-| [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 | 2023-03-10 |  |
+| [Morí](https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:44 | 2025-07-15 |  |
+| [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 | 2023-03-10 | 2025-07-15 |
 | [Nada de Ti](https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nada de Ti](https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q) | 3:43 | 2023-08-27 |  |
 | [Nadie Como Tú](https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nadie Como Tú](https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1) | 3:30 | 2023-08-19 |  |
 | [No Pidas Perdón](https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Pidas Perdón](https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT) | 3:04 | 2025-04-13 |  |

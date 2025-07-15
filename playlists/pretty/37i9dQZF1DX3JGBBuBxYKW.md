@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,134 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,152 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 62 | [No Vuelvas Más](https://open.spotify.com/track/2ydMhW1slL16Q7Marq1T9a) | [MEIMI](https://open.spotify.com/artist/5PDJUZrrWeGjQ3F0TeHDp2) | [No Vuelvas Más](https://open.spotify.com/album/24dcU2IVa7vjvcXrxOxeYa) | 3:22 |
 | 63 | [Perdoname](https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Perdoname](https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI) | 3:37 |
 | 64 | [Tengo Que Colgar](https://open.spotify.com/track/3qBxTt340PgI9vHuDxaPgt) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Tengo Que Colgar](https://open.spotify.com/album/1hvpBLTZPlDAXN5AReC92e) | 3:13 |
-| 65 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
+| 65 | [No Te Vayas Corazon](https://open.spotify.com/track/3v0sMPPtovPNwDpAtLpfhf) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Nº 1](https://open.spotify.com/album/6d3DZcUcdsMgFIyGB91FN5) | 3:14 |
 
 Snapshot ID: `Z9zWSgAAAADkeWQFLFtM+0TDhwi+u7tm`

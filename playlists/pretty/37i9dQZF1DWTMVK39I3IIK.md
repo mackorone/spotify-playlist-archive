@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸   Asta Brix
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,657 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,669 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,20 +60,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 50 | [Ghosted](https://open.spotify.com/track/1jJIJqxbAEAIUa15BuJVxa) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Too Bad We Grow Up](https://open.spotify.com/album/3JEsGLchf4cPvjSud2EefH) | 3:13 |
 | 51 | [HJEM FRA MÅNEN \(feat\. PRISMA\)](https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2), [PRISMA](https://open.spotify.com/artist/5b02TpKt4S8eb9f7Smg8Au) | [DRØMMEHUG](https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV) | 2:48 |
 | 52 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 |
-| 53 | [Life Witness](https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Life Witness](https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm) | 2:25 |
-| 54 | [Sætter Alt På Spil](https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Sætter Alt På Spil](https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA) | 3:17 |
-| 55 | [Vores Forhandling](https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Vores Forhandling](https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR) | 2:29 |
-| 56 | [Hvad Med Mig](https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [August](https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb) | 3:15 |
+| 53 | [Hvad Med Mig](https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [August](https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb) | 3:15 |
+| 54 | [Vores Forhandling](https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Vores Forhandling](https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR) | 2:29 |
+| 55 | [Sætter Alt På Spil](https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Sætter Alt På Spil](https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA) | 3:17 |
+| 56 | [Life Witness](https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Life Witness](https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm) | 2:25 |
 | 57 | [Words for Myself](https://open.spotify.com/track/0n0iTPcp4RMXnVN6ZdEEGe) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Words for Myself](https://open.spotify.com/album/4YDcP1HZt5vETOWs765m3Z) | 2:10 |
 | 58 | [Det sker alt for tit](https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Det sker alt for tit](https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB) | 3:07 |
 | 59 | [HAR DET MAX](https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [HAR DET MAX](https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3) | 1:47 |
 | 60 | [Kun for os](https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Kun for os](https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc) | 3:20 |
 | 61 | [Mi Amor](https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Før Jeg Falder](https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9) | 3:16 |
-| 62 | [Uden At Tænke På Dig](https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:54 |
-| 63 | [Blød](https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Blød](https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O) | 2:21 |
-| 64 | [ZAMINA](https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [ZAMINA](https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT) | 3:12 |
-| 65 | [Carpe Diem](https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Carpe Diem](https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN) | 2:58 |
-| 66 | [Gennemsku Mig Nu](https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [grib mig hvis jeg falder](https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj) | 3:13 |
+| 62 | [Blød](https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Blød](https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O) | 2:21 |
+| 63 | [ZAMINA](https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [ZAMINA](https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT) | 3:12 |
+| 64 | [Uden At Tænke På Dig](https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:54 |
+| 65 | [Gennemsku Mig Nu](https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [grib mig hvis jeg falder](https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj) | 3:13 |
+| 66 | [Carpe Diem](https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Carpe Diem](https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN) | 2:58 |
 | 67 | [PAPI](https://open.spotify.com/track/5PrXiCU1agpgbMwzdCCVpe) | [Isaac Kasule](https://open.spotify.com/artist/05H8WnuJP9pO3p7VSV0cZh) | [PAPI](https://open.spotify.com/album/77euwhnB4tyjvObh6ag1N7) | 2:15 |
 | 68 | [Fri mand](https://open.spotify.com/track/5FAAsjvJYsNE64tbNwTPT9) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Fri mand](https://open.spotify.com/album/0A0bpSED85vWCLuX5NqKyJ) | 2:49 |
 | 69 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 |

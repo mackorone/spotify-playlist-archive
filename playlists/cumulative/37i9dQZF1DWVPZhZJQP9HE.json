@@ -10441,6 +10441,32 @@
     },
     {
       "album": {
+        "name": "Poi Sollure",
+        "url": "https://open.spotify.com/album/1EriG5EbkkhjjgRAbBpWGG"
+      },
+      "artists": [
+        {
+          "name": "SATTHIA",
+          "url": "https://open.spotify.com/artist/5mHPapKjRFXq1IdaFDnHW9"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Vikadakavi",
+          "url": "https://open.spotify.com/artist/5CltItuqVMPGvYll5tPDz7"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260400,
+      "name": "Poi Sollure",
+      "url": "https://open.spotify.com/track/1HwRiAIVRGN7bcHq8pyAYW"
+    },
+    {
+      "album": {
         "name": "Poidhana",
         "url": "https://open.spotify.com/album/2vGdxvemzIKac1YXhLoEFP"
       },
@@ -10650,7 +10676,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 225000,
       "name": "Poova Vaa",
       "url": "https://open.spotify.com/track/4c6Tbb385V3rjjxklLvlnE"

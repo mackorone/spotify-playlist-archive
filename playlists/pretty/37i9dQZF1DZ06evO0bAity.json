@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACYNNejDYvuz+PvD4af/sce",
+  "snapshot_id": "aHL3AAAAAABcgWubBdGEkpv4dav/Jb9e",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MURDER ME (DZ Deathrays Remix)",
-        "url": "https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl"
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
       },
       "artists": [
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        },
         {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 245009,
-      "name": "MURDER ME - DZ Deathrays Remix",
-      "url": "https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs"
+      "duration_ms": 200760,
+      "name": "King B",
+      "url": "https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM"
     },
     {
       "added_at": null,
@@ -219,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+        "name": "MURDER ME (DZ Deathrays Remix)",
+        "url": "https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl"
       },
       "artists": [
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+        },
         {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 200760,
-      "name": "King B",
-      "url": "https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM"
+      "duration_ms": 245009,
+      "name": "MURDER ME - DZ Deathrays Remix",
+      "url": "https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs"
     },
     {
       "added_at": null,
@@ -247,6 +247,22 @@
       "duration_ms": 161461,
       "name": "Pollyanna",
       "url": "https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 136933,
+      "name": "Shadow Walk",
+      "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
     },
     {
       "added_at": null,
@@ -283,38 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 136933,
-      "name": "Shadow Walk",
-      "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Positive Rising: Part 1",
         "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
@@ -327,22 +311,6 @@
       "duration_ms": 189053,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 191653,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP"
     },
     {
       "added_at": null,
@@ -363,6 +331,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 191653,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 211600,
       "name": "Reflective Skull",
       "url": "https://open.spotify.com/track/65Xbss8BBrwYSpcIQXSCTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Eat You Up",
+      "url": "https://open.spotify.com/track/4IdkJYJlNwXydIMR7VeYF9"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Eat You Up",
-      "url": "https://open.spotify.com/track/4IdkJYJlNwXydIMR7VeYF9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Positive Rising: Part 1",
         "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 212440,
       "name": "Still No Change",
       "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 135373,
+      "name": "Tuff Luck",
+      "url": "https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 135373,
-      "name": "Tuff Luck",
-      "url": "https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Front Row Hustle",
         "url": "https://open.spotify.com/album/09TdDGWBeDqdEx4TjZkDPk"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 223499,
       "name": "Front Row Hustle",
       "url": "https://open.spotify.com/track/0JNmthvbaoZlUaHfhpBo4V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Hope for the Best",
+      "url": "https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Hope for the Best",
-      "url": "https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloody Lovely",
         "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
       },
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "Play Dead Until You're Dead",
+      "url": "https://open.spotify.com/track/1n8eG2CaqtEIrxPj2ijG6l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
       },
@@ -612,25 +628,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 252906,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/7rqT91xTSrCx2pzjBvBYZ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ReWiggled",
-        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 75568,
-      "name": "Hot Potato",
-      "url": "https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S"
+      "duration_ms": 211426,
+      "name": "Black Rat",
+      "url": "https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodstreams",
-        "url": "https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX"
+        "name": "ReWiggled",
+        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 242973,
-      "name": "Play Dead Until You're Dead",
-      "url": "https://open.spotify.com/track/1n8eG2CaqtEIrxPj2ijG6l"
+      "duration_ms": 75568,
+      "name": "Hot Potato",
+      "url": "https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising (Pt. 1)",
-        "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 258053,
-      "name": "A Lot To Lose",
-      "url": "https://open.spotify.com/track/0yg4geNtQ7tlHUS08q1txz"
+      "duration_ms": 172400,
+      "name": "Cops / Capacity",
+      "url": "https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodstreams",
-        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Cops / Capacity",
-      "url": "https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP"
+      "duration_ms": 264600,
+      "name": "Hypercolour",
+      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 264600,
-      "name": "Hypercolour",
-      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
+      "duration_ms": 235080,
+      "name": "Gebbie Street",
+      "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodstreams",
-        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 235080,
-      "name": "Gebbie Street",
-      "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
+      "duration_ms": 258053,
+      "name": "A Lot To Lose",
+      "url": "https://open.spotify.com/track/6RztnbZ0tlFTeNpghqo29X"
     },
     {
       "added_at": null,

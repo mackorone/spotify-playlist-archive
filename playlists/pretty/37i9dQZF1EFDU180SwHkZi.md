@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 118 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 118 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 52 | [Give Up](https://open.spotify.com/track/3zXuytlXSsiL4CNmJIA5VS) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Quarter Life Crisis](https://open.spotify.com/album/4DTZ4p8XB7SeXAPLYwzb6A) | 4:08 |
 | 53 | [Cope](https://open.spotify.com/track/2MyUXJbj196Hv3zdWUivXp) | [Not Famous](https://open.spotify.com/artist/2iKfppgaY3Er8HpZWh4rBt) | [Cope](https://open.spotify.com/album/3TYKjOUpuQo1iV4NShBPPN) | 2:46 |
 | 54 | [random acts of violence](https://open.spotify.com/track/6L3Jegh2xmwXaDC8AVRrXy) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/3i6absni01kvSBR0Ppa9oA) | 2:01 |
-| 55 | [The End](https://open.spotify.com/track/0OwqAGjxNnCSjKpVKwFxyZ) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Quarter Life Crisis](https://open.spotify.com/album/4DTZ4p8XB7SeXAPLYwzb6A) | 3:46 |
-| 56 | [Subho Shaam](https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Subho Shaam](https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ) | 2:56 |
+| 55 | [Subho Shaam](https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Subho Shaam](https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ) | 2:56 |
+| 56 | [The End](https://open.spotify.com/track/0OwqAGjxNnCSjKpVKwFxyZ) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Quarter Life Crisis](https://open.spotify.com/album/4DTZ4p8XB7SeXAPLYwzb6A) | 3:46 |
 | 57 | [Show Me](https://open.spotify.com/track/604BDNGxzL9IyKMFODcZpV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Wedding Season \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv) | 2:44 |
 | 58 | [Double Standards](https://open.spotify.com/track/4tHM9DzWtj0P0ZTZzEuaP5) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 2:49 |
 | 59 | [Hypochondriac](https://open.spotify.com/track/3gz1k8QjOsAvkpQlkhmDM8) | [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [Hypochondriac](https://open.spotify.com/album/7ENl3nfDJl9totzRCLUyZA) | 3:01 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 87 | [destiny](https://open.spotify.com/track/0oFRVM6JnZErcgiSb8DVnS) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [shy](https://open.spotify.com/album/6FGjEG944AvGqK1hBThw7l) | 2:48 |
 | 88 | [On My Way](https://open.spotify.com/track/2L7znrw7LWoDI4ESnxF2Yl) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:58 |
 | 89 | [Lost](https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:39 |
-| 90 | [Nautanki](https://open.spotify.com/track/7Fvcb6tJ3SDyi8KNCa9cRC) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Nautanki](https://open.spotify.com/album/2K5wWX8prJG98gdA5fgITA) | 2:41 |
-| 91 | [What In The World \(feat\. NATURE\)](https://open.spotify.com/track/6SQTv4pqlFzbofosQGAX69) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [What In The World \(feat\. NATURE\)](https://open.spotify.com/album/4TS8s49jue6a2xcmGk9ejN) | 3:18 |
-| 92 | [Senti](https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [Senti](https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4) | 2:53 |
+| 90 | [Senti](https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [Senti](https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4) | 2:53 |
+| 91 | [Nautanki](https://open.spotify.com/track/7Fvcb6tJ3SDyi8KNCa9cRC) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Nautanki](https://open.spotify.com/album/2K5wWX8prJG98gdA5fgITA) | 2:41 |
+| 92 | [What In The World \(feat\. NATURE\)](https://open.spotify.com/track/6SQTv4pqlFzbofosQGAX69) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [What In The World \(feat\. NATURE\)](https://open.spotify.com/album/4TS8s49jue6a2xcmGk9ejN) | 3:18 |
 | 93 | [Pick It Up](https://open.spotify.com/track/6NwCRGuQvKoYfUdmnzxGZw) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:26 |
 | 94 | [Burned Out](https://open.spotify.com/track/3Aofkcqfh8ebCQ6YiMxfpM) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Naquita D'souza](https://open.spotify.com/artist/1zgVFfNaXfoa3tDYKMuOEq) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:51 |
 | 95 | [Wild & Free](https://open.spotify.com/track/05Sb9KO8eHqAHeUSSzLlfT) | [Alma Mater](https://open.spotify.com/artist/16YKNdADpeH4T6V9QLXR70) | [Wild & Free](https://open.spotify.com/album/48XSx8Zm25U8yXvg1xDOSx) | 2:24 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 117 | [Jump To It](https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:34 |
 | 118 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 
-Snapshot ID: `Ab2slAAAAACfbCSq8KpUw+jgWFGtPV6+`
+Snapshot ID: `Ab2yNAAAAACzpSXZoSXMdj4tPmUikyOg`

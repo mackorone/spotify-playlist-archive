@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,262 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,276 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 69 | [Ela](https://open.spotify.com/track/19A90nikDUdfC8DLPSmrPD) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [World](https://open.spotify.com/album/5bmAakNQkQTopPnicgwWGf) | 3:04 |
 | 70 | [Blusa da High](https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [Blusa da High](https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG) | 2:40 |
 | 71 | [7AM](https://open.spotify.com/track/7kxPKFydPwupNiqBeKRWXK) | [Font](https://open.spotify.com/artist/2VxhcBCTUs11LYhPpA62S1) | [7AM](https://open.spotify.com/album/2jsUAX35AS9G9AYRjOJPEB) | 2:52 |
-| 72 | [200Km/H](https://open.spotify.com/track/7lXSVhYIHoYdX3vtdj55fh) | [CARTE](https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [O Amor é uma Corrida](https://open.spotify.com/album/4m84gXVeya6qesszhQzRpy) | 2:56 |
+| 72 | [200Km/H](https://open.spotify.com/track/7lXSVhYIHoYdX3vtdj55fh) | [CARTE](https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [O Amor é uma Corrida](https://open.spotify.com/album/4m84gXVeya6qesszhQzRpy) | 2:56 |
 | 73 | [BDDS](https://open.spotify.com/track/0fFUDx0R7Wsa5zLDM7V2oN) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [BDDS](https://open.spotify.com/album/2Ukn6x5IgCJdeYhxQKNapc) | 3:43 |
 | 74 | [Trem Love](https://open.spotify.com/track/18J80UBzRenZdUmeaAoRd1) | [Lord ADL](https://open.spotify.com/artist/7phpDFUX97M0DTGIcjXKRk), [Y4AN](https://open.spotify.com/artist/2OsxRuxAhOdJi6EfD9RX6b) | [O Amor Depois da Guerra II](https://open.spotify.com/album/46QGJx6uI4Q3p1ZC50RSck) | 3:37 |
 | 75 | [Só por Essa Noite](https://open.spotify.com/track/2VD1sXwbJEWsfJX4ZRSHYA) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Nandela](https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [Só por Essa Noite](https://open.spotify.com/album/6TbQKxOD27HGaPDd0PXClr) | 2:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari BLACKPINK, Justin Bieber, Tyla, Isyana Sarasvati dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,615 likes - 129 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,645 likes - 129 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

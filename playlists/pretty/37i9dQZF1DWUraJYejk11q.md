@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,720 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,725 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 16 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
 | 17 | [Data Passenger](https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Data Passenger EP](https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia) | 5:07 |
 | 18 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
-| 19 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
-| 20 | [Virtual Forrest](https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4) | [Unblinded Society](https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp) | [Us, In Between The Blinded](https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT) | 2:37 |
+| 19 | [Virtual Forrest](https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4) | [Unblinded Society](https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp) | [Us, In Between The Blinded](https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT) | 2:37 |
+| 20 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
 | 21 | [Wendorlan \- Original Mix](https://open.spotify.com/track/60pUN8FYqcux6VuOO9vmhF) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Dostrotime](https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI) | 6:19 |
 | 22 | [Praha](https://open.spotify.com/track/4PKcsaOmKOrfVXCJCqDOIK) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B), [TM404](https://open.spotify.com/artist/14mCD4JJYKhPl2nLqrjkZ7) | [In The Afterworld](https://open.spotify.com/album/02iBaExXa9p10DT4JlwSU0) | 4:59 |
 | 23 | [BET YOU NEVER](https://open.spotify.com/track/1jhXnfRck8f08uzcFU21nh) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [OUTSPOKEN](https://open.spotify.com/album/5oUji37vIpvyDw1TlsKOLK) | 3:51 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 36 | [In Your Head \- Subxet Remix](https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [SUBXET](https://open.spotify.com/artist/2qhMUAZvXDDWWpukApVXwX) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 4:47 |
 | 37 | [Promises](https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM) | [Sunareht](https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O), [Le Dom](https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P) | [Promises](https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON) | 3:46 |
 | 38 | [ITSAME \[group hugg\]](https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [ITSAME](https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx) | 7:41 |
-| 39 | [Hondo \(Remix\)](https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Hondo \(Remix\)](https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn) | 5:21 |
-| 40 | [Yesterday Faded \- Edit](https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf) | 4:02 |
+| 39 | [Yesterday Faded \- Edit](https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf) | 4:02 |
+| 40 | [Hondo \(Remix\)](https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Hondo \(Remix\)](https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn) | 5:21 |
 | 41 | [realcopy](https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T) | [derek muro](https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY) | [chronopolis](https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q) | 3:13 |
 | 42 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
 | 43 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |

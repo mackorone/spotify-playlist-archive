@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Tyreek McDole
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,562 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,582 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

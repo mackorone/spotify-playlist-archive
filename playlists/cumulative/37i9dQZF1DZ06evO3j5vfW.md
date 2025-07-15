@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-141 songs - 7 hr 28 min
+142 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Holy](https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Holy](https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz) | 4:15 | 2024-09-22 | 2025-03-16 |
 | [Holy \- Nicky Romero & Almero Festival Edit](https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Holy \(Nicky Romero & Almero Festival Edit\)](https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI) | 3:43 | 2025-03-16 |  |
 | [Hot Summer Nights](https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Hot Summer Nights](https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ) | 2:38 | 2022-09-10 |  |
-| [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb) | 3:28 | 2021-12-20 |  |
+| [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/1lpGsHdCpWiTvrFitLakBo) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 3:28 | 2025-07-15 |  |
+| [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb) | 3:28 | 2021-12-20 | 2025-07-15 |
 | [I Hope That It Hurts](https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [I Hope That It Hurts](https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck) | 2:40 | 2022-08-13 | 2024-03-18 |
 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 | 2021-12-20 |  |
 | [I See](https://open.spotify.com/track/3IOvs8528ie9laMQO4PLPD) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I See](https://open.spotify.com/album/7GbPBsYoV0tXFhnXThsVcQ) | 2:34 | 2021-12-20 | 2023-01-26 |

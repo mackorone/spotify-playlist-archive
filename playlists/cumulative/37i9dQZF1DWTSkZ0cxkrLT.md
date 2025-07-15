@@ -4,7 +4,7 @@
 
 > Música ideal para tomar el té y relajar.
 
-196 songs - 11 hr 34 min
+197 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 | 2023-08-18 | 2023-10-21 |
 | [Je ne t'aime plus](https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 2:02 | 2023-08-18 | 2024-04-19 |
 | [la cueca del canario \(V.2\)](https://open.spotify.com/track/6sag5Wk8UyskYYsqmHKezw) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [Las Guitarras de Miguel Molina](https://open.spotify.com/artist/3cH9CZDCrox6lx1mahJNC5) | [la cueca del canario \(V.2\)](https://open.spotify.com/album/4wYdWEHOi6bM3bteCU7Bjb) | 2:01 | 2025-02-07 | 2025-03-17 |
+| [La de la Despedida](https://open.spotify.com/track/1EPJSt35BxtZZ34BuM6nTh) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [La de la Despedida](https://open.spotify.com/album/6EYazplNhKexl2BN9kc9wb) | 3:49 | 2025-07-14 |  |
 | [La Fiesta](https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM), [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [La Fiesta](https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J) | 3:12 | 2024-11-05 | 2024-12-06 |
 | [La Luna de Neuquén](https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Destilar](https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh) | 4:20 | 2023-08-18 |  |
 | [La Noche](https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [La Noche](https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn) | 3:57 | 2024-08-29 | 2024-10-07 |
@@ -150,7 +151,7 @@
 | [Primavera](https://open.spotify.com/track/5Fganr8l64dNUWpk2622uD) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [MILLONES](https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH) | 3:52 | 2023-11-10 | 2024-04-19 |
 | [Puntos Equidistantes \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Puntos Equidistantes \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D) | 3:47 | 2023-12-01 | 2025-01-10 |
 | [Pétalo de sal](https://open.spotify.com/track/4v60Go3RguqbsNxZbag2mK) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Pétalo de sal](https://open.spotify.com/album/47rjAhbKvYLWneD4xLp6c5) | 3:22 | 2024-05-31 | 2024-09-07 |
-| [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 | 2023-10-20 |  |
+| [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 | 2023-10-20 | 2025-07-15 |
 | [Quiero Mejor](https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Quiero Mejor](https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1) | 3:03 | 2024-03-01 |  |
 | [Recuerdos de Ypacaraí](https://open.spotify.com/track/5sHhACecsUVICpq4Geeejj) | [Luna Sujatovich](https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Recuerdos de Ypacaraí](https://open.spotify.com/album/3JFlzUbyftC2j34IoK4cyG) | 4:27 | 2024-03-08 | 2024-06-01 |
 | [Sampa](https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Juan Falú](https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH) | [Sampa](https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf) | 4:29 | 2024-11-05 | 2024-12-11 |

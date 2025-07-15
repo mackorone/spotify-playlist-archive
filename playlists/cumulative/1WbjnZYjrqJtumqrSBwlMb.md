@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,129 songs - 2 day 20 hr 58 min
+1,131 songs - 2 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Goodbye, Old Friend](https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:44 | 2025-05-16 |  |
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2022-07-16 |  |
 | [Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:57 | 2022-01-22 |  |
+| [Grave](https://open.spotify.com/track/5iSdtklaHGhsLtWZDgFUiB) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Grave](https://open.spotify.com/album/1t4PKLoXYU9PSXdlSvzqq7) | 3:11 | 2025-07-14 |  |
 | [Guess What Bitch, We Back Hoe!](https://open.spotify.com/track/7uF9nK3u0OB1dWW5ee9qxC) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 2:58 | 2023-07-11 |  |
 | [GUESS WHO?](https://open.spotify.com/track/0vSUCwrhwDSEOnhjLRSVOe) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD III](https://open.spotify.com/album/75KQkIcV2XhO8qygJgvE4I) | 3:04 | 2023-11-22 |  |
 | [GUESS WHO?](https://open.spotify.com/track/1haMSbJQ1nOYb0ri8X3MCb) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 3:04 | 2024-02-16 |  |
@@ -571,6 +572,7 @@
 | [Little Monster](https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:32 | 2022-05-19 |  |
 | [Little Things](https://open.spotify.com/track/5BghvS5F4hQlpCs4BKb1P8) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:29 | 2024-06-29 |  |
 | [Live at the Swamp](https://open.spotify.com/track/2muShsusjxQTjqB8P6J7KZ) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:14 | 2020-04-02 |  |
+| [Live Forever \- Remastered](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:36 | 2025-07-14 |  |
 | [LIVE LIKE THIS](https://open.spotify.com/track/22dSEtld6YeFTSnltvTbqD) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [LIVE LIKE THIS](https://open.spotify.com/album/4TiEYgIpDnzJEnjHbcKtnD) | 2:12 | 2021-10-02 |  |
 | [Loaded](https://open.spotify.com/track/091QeYor0DTf2kdhkKk3xk) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Coup De Grace](https://open.spotify.com/album/6aeQVwrZZu7wDpFMtTApyC) | 3:18 | 2021-01-24 |  |
 | [Locket](https://open.spotify.com/track/2vfPsGhqMbqmhjMGQ52dYf) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR) | 5:18 | 2024-06-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,963 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,960 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 31 | [Powder Blue](https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 2:23 |
 | 32 | [Weed Instead of Roses](https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Like a Rose](https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf) | 3:19 |
 | 33 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 |
-| 34 | [I'll Be the One](https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [My Gospel](https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK) | 4:21 |
-| 35 | [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 |
+| 34 | [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 |
+| 35 | [I'll Be the One](https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [My Gospel](https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK) | 4:21 |
 | 36 | [Giddy Up](https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Giddy Up](https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl) | 3:01 |
 | 37 | [Jeremiah](https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:04 |
 | 38 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 77 | [True Love's Face](https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [True Love's Face](https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK) | 3:20 |
 | 78 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Love All Night \(Work All Day\)](https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt) | 3:33 |
 | 79 | [Marriage Ain't the End of Being Lonely](https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Magnolia Queen](https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B) | 3:46 |
-| 80 | [Margo](https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Margo](https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk) | 3:40 |
-| 81 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 |
+| 80 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 |
+| 81 | [Margo](https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Margo](https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk) | 3:40 |
 | 82 | [Flat Top Guitar](https://open.spotify.com/track/5XMZFXDY5DQOSFLsW1ykDy) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Bright Shadow](https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO) | 2:50 |
 | 83 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 |
 | 84 | [You Don't Own Me](https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [You Don't Own Me](https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe) | 2:48 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 93 | [Buddies](https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk) | [Lauren Barth](https://open.spotify.com/artist/21aYYkFIsLevgFeEFKbiC1) | [The Oklahoma Room at Folk Alliance 2017](https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF) | 3:22 |
 | 94 | [Walkin' After Midnight](https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv) | 2:34 |
 | 95 | [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 |
-| 96 | [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 |
+| 96 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 |
 | 97 | [Half a Heart Keychain](https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Half a Heart Keychain](https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j) | 3:20 |
-| 98 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 |
+| 98 | [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 |
 | 99 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 |
 | 100 | [Happy Man](https://open.spotify.com/track/1qxX6y9aYFx4OykdlnzA2s) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Happy Man](https://open.spotify.com/album/5RMDvDiSQwkiK7Ja7EgXhI) | 2:59 |
 

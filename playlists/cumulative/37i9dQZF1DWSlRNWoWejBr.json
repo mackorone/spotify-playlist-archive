@@ -5879,6 +5879,32 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Me Confunde",
+        "url": "https://open.spotify.com/album/6EkWSfzgIooUSbicFtd8ap"
+      },
+      "artists": [
+        {
+          "name": "MC LZ",
+          "url": "https://open.spotify.com/artist/1f5NWqPf5riYVQ7fSg0J6r"
+        },
+        {
+          "name": "DJ Dalmata",
+          "url": "https://open.spotify.com/artist/6wEw1yzgKz5AZIaDVm6jgo"
+        },
+        {
+          "name": "Dj Ramos",
+          "url": "https://open.spotify.com/artist/6BwFX7JGuwiVyXihur4p4A"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "N\u00e3o Me Confunde",
+      "url": "https://open.spotify.com/track/5O2aNB9Wk3t4D88vP89A0f"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Vou Namorar",
         "url": "https://open.spotify.com/album/6cxPIxP5f3LBtDcTzz9YhV"
       },
@@ -5986,7 +6012,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 107194,
       "name": "OF THE KING THE POWER FUNK ZN",
       "url": "https://open.spotify.com/track/6zW7jHpPgZs4UpBWO3kfxp"

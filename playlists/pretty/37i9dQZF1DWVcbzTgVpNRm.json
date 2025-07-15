@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee",
-  "num_followers": 2097034,
+  "num_followers": 2097276,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-12-17 17:19:22",
       "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "added_at": "2024-12-17 17:19:22",
+      "album": {
         "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2024-12-17 17:19:22",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2024-12-17 17:19:22",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-12-17 17:19:22",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2024-12-17 17:19:22",
-      "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 202866,
       "name": "Na De Na",
       "url": "https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp"
+    },
+    {
+      "added_at": "2024-12-17 17:19:22",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2024-12-17 17:19:22",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-12-17 17:19:22",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
-    },
-    {
-      "added_at": "2024-12-17 17:19:22",
-      "album": {
         "name": "Para Tucancillos y Tucancillas",
         "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 199080,
       "name": "La Chona",
       "url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy"
+    },
+    {
+      "added_at": "2024-12-17 17:19:22",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
     },
     {
       "added_at": "2024-12-17 17:19:22",

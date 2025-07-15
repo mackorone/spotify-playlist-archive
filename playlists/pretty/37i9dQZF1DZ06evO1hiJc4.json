@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 152089,
+  "num_followers": 152102,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAA6zVj3kflIxlsFw4H99Mp7",
+  "snapshot_id": "aHL3AAAAAACGvVehOivKYx+4SRiPzwSp",
   "tracks": [
     {
       "added_at": null,
@@ -459,34 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
-        "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "LSD",
-          "url": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "Heaven Can Wait (feat. Sia, Diplo, and Labrinth)",
-      "url": "https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Almost Dry",
         "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },
@@ -511,6 +483,34 @@
       "duration_ms": 261907,
       "name": "I Pray For You (feat. Labrinth & MALICE)",
       "url": "https://open.spotify.com/track/7HsG7U7aQhafXqa41dBxlK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
+        "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "LSD",
+          "url": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "Heaven Can Wait (feat. Sia, Diplo, and Labrinth)",
+      "url": "https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy"
     },
     {
       "added_at": null,
@@ -615,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
       },
       "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 150222,
-      "name": "Power Couple",
-      "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
+      "duration_ms": 240960,
+      "name": "To Be Human (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
     },
     {
       "added_at": null,
@@ -647,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
       "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 240960,
-      "name": "To Be Human (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
+      "duration_ms": 150222,
+      "name": "Power Couple",
+      "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
     },
     {
       "added_at": null,

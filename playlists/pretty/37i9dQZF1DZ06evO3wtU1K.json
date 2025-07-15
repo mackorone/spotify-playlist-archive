@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36347,
+  "num_followers": 36352,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADskJkva+B9J1iBS0NHlexL",
+  "snapshot_id": "aHL3AAAAAAAnW4dU3Js472njXRSNyLAo",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 262124,
+      "name": "Burdens Down - Live",
+      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Watch The Sun (Deluxe)",
         "url": "https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 262124,
-      "name": "Burdens Down - Live",
-      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 85568,
-      "name": "Agnus Dei - Live",
-      "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Place Live",
         "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
@@ -827,22 +811,6 @@
       "duration_ms": 183866,
       "name": "I Love This Place - Live",
       "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 369840,
-      "name": "Grace - Live",
-      "url": "https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59"
     },
     {
       "added_at": null,
@@ -871,6 +839,38 @@
       "duration_ms": 204601,
       "name": "Together (We'll Get Through This)",
       "url": "https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 369840,
+      "name": "Grace - Live",
+      "url": "https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 85568,
+      "name": "Agnus Dei - Live",
+      "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
     },
     {
       "added_at": null,

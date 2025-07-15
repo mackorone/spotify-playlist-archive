@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,665 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,720 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 33 | [Um Lugar à Mesa](https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Um Lugar à Mesa](https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4) | 4:00 |
 | 34 | [Não Abandone A Sua Cruz](https://open.spotify.com/track/7pIT9PFk9D5cxhQY0Oyst3) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Não Abandone A Sua Cruz](https://open.spotify.com/album/4YZoJui558VjalC4qj8URZ) | 4:05 |
 | 35 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
-| 36 | [De Volta à Inocência](https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [De Volta à Inocência](https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf) | 4:48 |
-| 37 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |
-| 38 | [Trajetória](https://open.spotify.com/track/64mFWof8nKdLgHpFSSDbEf) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Trajetória](https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi) | 3:53 |
+| 36 | [Trajetória](https://open.spotify.com/track/64mFWof8nKdLgHpFSSDbEf) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Trajetória](https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi) | 3:53 |
+| 37 | [De Volta à Inocência](https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [De Volta à Inocência](https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf) | 4:48 |
+| 38 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |
 | 39 | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Carlos Henrique](https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r) | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73) | 3:35 |
 | 40 | [Aumente o Som \- Ao Vivo](https://open.spotify.com/track/3wzqDgOr0AN57nNIRDa8xP) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Aumente o Som \(Ao Vivo\)](https://open.spotify.com/album/36RFBF5WzYevP63BKWjYAF) | 6:00 |
 | 41 | [Tá Chorando Por Quê? \- Ao Vivo](https://open.spotify.com/track/68BauEEnD5SZeIjoPorwEF) | [Sabrina Bernardes](https://open.spotify.com/artist/4H7rc2IOBNVXg9yAIgZ4uV), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Tá Chorando Por Quê? \(Ao Vivo\)](https://open.spotify.com/album/42bBUPfS1dzXucB3KaBrBc) | 4:57 |

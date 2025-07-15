@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 138917,
+  "num_followers": 138939,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAD+4FOXVK++zGFlwkhFSZCY",
+  "snapshot_id": "aHL3AAAAAADUz86lzPNbHiH/kzF/0p+4",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Are My King (Amazing Love) [Spotify Singles]",
-        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
+        "name": "Arriving",
+        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 254443,
-      "name": "You Are My King (Amazing Love) - Spotify Singles",
-      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
+      "duration_ms": 237986,
+      "name": "Indescribable",
+      "url": "https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriving",
-        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
+        "name": "You Are My King (Amazing Love) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 237986,
-      "name": "Indescribable",
-      "url": "https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT"
+      "duration_ms": 254443,
+      "name": "You Are My King (Amazing Love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Roar",
-        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
+        "name": "Hello Love",
+        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 266000,
-      "name": "Nobody Loves Me Like You",
-      "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
+      "duration_ms": 229680,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Love",
-        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
+        "name": "Holy Roar",
+        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 229680,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
+      "duration_ms": 266000,
+      "name": "Nobody Loves Me Like You",
+      "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pour Over Me - Worship Together Live 2001",
-        "url": "https://open.spotify.com/album/154cvVNb9uaBEqztlz6rmv"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 338026,
-      "name": "Give Us Clean Hands - Pour Over Me Album Version",
-      "url": "https://open.spotify.com/track/2jjyMzq3pvknVSBeSzjck6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Roar",
         "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 250800,
       "name": "Resurrection Power",
       "url": "https://open.spotify.com/track/2MxWMPW8E1p8B0Wcc5ypfU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pour Over Me - Worship Together Live 2001",
+        "url": "https://open.spotify.com/album/154cvVNb9uaBEqztlz6rmv"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 338026,
+      "name": "Give Us Clean Hands - Pour Over Me Album Version",
+      "url": "https://open.spotify.com/track/2jjyMzq3pvknVSBeSzjck6"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Roar",
         "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 293733,
       "name": "Praise Him Forever",
       "url": "https://open.spotify.com/track/62shNor7VDjzBx8SC9YTPm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE"
     },
     {
       "added_at": null,

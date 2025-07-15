@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,405 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,518 likes - 125 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 86 | [Si No Te Hubieras Ido](https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Si No Te Hubieras Ido](https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD) | 4:52 |
 | 87 | [Homenaje A Los Bukis](https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [Homenaje A Los Bukis](https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K) | 10:19 |
 | 88 | [Necesito una Compañera](https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Necesito una Compañera](https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l) | 3:06 |
-| 89 | [No Puedo Olvidarlo](https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 3:27 |
+| 89 | [Prefiero Ir Sola](https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 3:20 |
 | 90 | [Poquito A Poco](https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Después De Hoy](https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4) | 2:54 |
 | 91 | [Como fui a enamorarme de ti](https://open.spotify.com/track/6ZtlLTjNCmFK8rO14BL1vh) | [Banda Llano Verde](https://open.spotify.com/artist/4NqXy0nQDsW6dHrS4KSG54) | [Como fui a enamorarme de ti](https://open.spotify.com/album/5gTPhW1jEwW02Ngtc0yhLx) | 3:54 |
 | 92 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:03 |
 | 93 | [Necesito Una Compañera](https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [Necesito Una Compañera](https://open.spotify.com/album/1OZ7ft4l7WygLuF8AUJ80A) | 4:02 |
-| 94 | [Prefiero Ir Sola](https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 3:20 |
+| 94 | [No Puedo Olvidarlo](https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 3:27 |
 | 95 | [Se Va Muriendo Mi Alma \- En Vivo](https://open.spotify.com/track/4VinpEidS9wmMuqmljyd21) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6) | 3:51 |
 | 96 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/0WwP5kBrbmp3Or469SbSwR) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:39 |
 | 97 | [Morenita](https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 2:42 |
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 119 | [Cuando Te Acuerdes De Mi](https://open.spotify.com/track/45eKmLp6uFaMQAY2oHihIt) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Marco Antonio Solís](https://open.spotify.com/album/3SmxMoLAhe29pR4LNsVkcA) | 4:31 |
 | 120 | [Ladrón De Buena Suerte](https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:31 |
 | 121 | [Para Que Seas Feliz](https://open.spotify.com/track/67v0HTNTkJmbhxOipBunXe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9) | 4:49 |
-| 122 | [Recuerdos, Tristeza Y Soledad](https://open.spotify.com/track/2KFmDh82VngNDLjk5HUMVu) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9) | 4:25 |
-| 123 | [Así Como Te Conocí](https://open.spotify.com/track/6xQGFNUwaPUsdIfmmzzRcr) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9) | 4:19 |
-| 124 | [Si Te Pudiera Mentir](https://open.spotify.com/track/7ILswjhqdnwT4MiKBZH4yS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 4:21 |
+| 122 | [Así Como Te Conocí](https://open.spotify.com/track/6xQGFNUwaPUsdIfmmzzRcr) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9) | 4:19 |
+| 123 | [Si Te Pudiera Mentir](https://open.spotify.com/track/7ILswjhqdnwT4MiKBZH4yS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 4:21 |
+| 124 | [Tres Semanas](https://open.spotify.com/track/1OqcfMMZrkxtQFRXFhk2j6) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tres Semanas](https://open.spotify.com/album/2St0cnAHnTIvGeigZz5wkJ) | 3:39 |
 | 125 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:27 |
 
 Snapshot ID: `Z5J8qgAAAAABPH+hUiuYIn4vZmFNvQi2`

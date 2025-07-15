@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,753 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,808 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
 | 50 | [Pirocada Quente](https://open.spotify.com/track/2Z1DmmPWD3Lm0dWAxMfjxG) | [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [Pirocada Quente](https://open.spotify.com/album/1KhJdFsGysry0ClG5S8t16) | 3:15 |
 
-Snapshot ID: `MAcoKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MAh5qAAAAAAAAAAAAAAAAAAAAAAAAGVu`

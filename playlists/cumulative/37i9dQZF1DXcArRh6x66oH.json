@@ -5073,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "Roughnecks",
+        "url": "https://open.spotify.com/album/3My03QNOIblMPlbgT2xzhJ"
+      },
+      "artists": [
+        {
+          "name": "Briscoe",
+          "url": "https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247461,
+      "name": "Roughnecks",
+      "url": "https://open.spotify.com/track/0WqwM4Zl2cbrjFncfL9fT5"
+    },
+    {
+      "album": {
         "name": "Run Away High",
         "url": "https://open.spotify.com/album/06mk4vdbCFKD3K3sIEpEd6"
       },

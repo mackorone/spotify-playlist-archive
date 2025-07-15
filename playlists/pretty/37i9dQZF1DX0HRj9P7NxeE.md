@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,753,959 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,754,264 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 21 | [BOP \(feat\. GloRilla\)](https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:22 |
 | 22 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
 | 23 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 |
-| 24 | [Shake Dat Ass \(Twerk Song\)](https://open.spotify.com/track/1vkpe29DP5EvAxYnWVq5C1) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Too Slippery](https://open.spotify.com/album/3ESmtTRJZkIjPShkV48tdL) | 3:17 |
+| 24 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
 | 25 | [Wanna Be \(with Megan Thee Stallion & Cardi B\) \- Remix](https://open.spotify.com/track/2WaOQ9TCXEpoAMVzT9GUJt) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wanna Be \(with Megan Thee Stallion & Cardi B\) \[Remix\]](https://open.spotify.com/album/49cRdNg9oX8XyiIVe45BK3) | 3:44 |
 | 26 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
 | 27 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
-| 28 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
+| 28 | [Shake Dat Ass \(Twerk Song\)](https://open.spotify.com/track/1vkpe29DP5EvAxYnWVq5C1) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Too Slippery](https://open.spotify.com/album/3ESmtTRJZkIjPShkV48tdL) | 3:17 |
 | 29 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 |
 | 30 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 |
 | 31 | [Megan's Piano](https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 |

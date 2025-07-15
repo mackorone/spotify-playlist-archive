@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,544 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,556 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,15 +29,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 19 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
 | 20 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
 | 21 | [Cacharpaya Del Indio](https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu) | [Jorge Rico](https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp) | [A Journey To The Andes](https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P) | 4:56 |
-| 22 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
-| 23 | [Tatalitu \(Chuntunqui\)](https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD) | [Inti Punchai](https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r) | [Musica De Bolivia](https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC) | 3:57 |
+| 22 | [Tatalitu \(Chuntunqui\)](https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD) | [Inti Punchai](https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r) | [Musica De Bolivia](https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC) | 3:57 |
+| 23 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
 | 24 | [Sajsahuaman](https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8), [Yuri Ortuño León](https://open.spotify.com/artist/1Tez0X3Wh9zSosZpCyoeLw), [Rafael Arias Paz](https://open.spotify.com/artist/6byGBND3MbJ7xGjDwU0LaZ), [Orlando Jiménez](https://open.spotify.com/artist/09rYyheZjqeOn8sXUfk8Yh), [Raúl Muriel](https://open.spotify.com/artist/2sHM5euYwk4aMqhiT8MZCM) | [No Vuelvo a Amar \(feat\. Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel\) \[Bolivia y Su Folklore\]](https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY) | 2:42 |
 | 25 | [Puñales](https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Puñales](https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m) | 2:50 |
 | 26 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
 | 27 | [Gente Mariposa](https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Aurora](https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7) | 5:17 |
 | 28 | [Arriba Quemando el Sol](https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Maryta de Humahuaca](https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc) | [Arriba Quemando el Sol](https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv) | 3:28 |
-| 29 | [Sueño en Paraguay \- El Búho Remix](https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansará \(Remixed\)](https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd) | 3:59 |
-| 30 | [Panorama ayacuchano](https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Guitarra y Canto del Ande](https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1) | 5:41 |
+| 29 | [Panorama ayacuchano](https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Guitarra y Canto del Ande](https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1) | 5:41 |
+| 30 | [Sueño en Paraguay \- El Búho Remix](https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansará \(Remixed\)](https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd) | 3:59 |
 | 31 | [De Barrio](https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0) | [M.A.K.U SoundSystem](https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh) | [Mezcla](https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa) | 5:51 |
 | 32 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 |
 | 33 | [Kintsugi](https://open.spotify.com/track/2kJSKfA6jrrXxqmDZoWLvt) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [Kintsugi](https://open.spotify.com/album/6CBtxsXQQKQO5jiCpysjMw) | 3:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,481,880 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,482,149 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 25 | [Heaven](https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 3:56 |
 | 26 | [Planet Caravan](https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:03 |
 | 27 | [Voice of the Soul](https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [The Sound of Perseverance \- Reissue](https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB) | 3:43 |
-| 28 | [When A Blind Man Cries \- Remastered](https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:29 |
+| 28 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
 | 29 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
-| 30 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
+| 30 | [When A Blind Man Cries \- Remastered](https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:29 |
 | 31 | [Blackbird](https://open.spotify.com/track/2o4AknH1hXnleCRW2rH45w) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/0Fk4lWAADmFMmuW6jp6xyE) | 7:58 |
 | 32 | [Another Day](https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 4:23 |
 | 33 | [Zoe Jane](https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 4:36 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 89 | [In a Darkened Room](https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:55 |
 | 90 | [Always](https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4) | 5:53 |
 | 91 | [Last Drop Falls](https://open.spotify.com/track/4bSetRYOPYAMlLc9mgEGr0) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Silence](https://open.spotify.com/album/491aVcQHmKwGjVego5VI15) | 5:13 |
-| 92 | [Winterdreams](https://open.spotify.com/track/2t8exWxl59Eix9hodoDmhG) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas) | 4:52 |
-| 93 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm) | 5:54 |
-| 94 | [Amazing](https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:56 |
-| 95 | [Send Me An Angel](https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 4:33 |
-| 96 | [Fly To The Angels](https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 4:32 |
-| 97 | [The Temple Of The King](https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow \(Remastered\)](https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u) | 4:42 |
-| 98 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
-| 99 | [Changes](https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2009 Remastered Version\)](https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh) | 4:42 |
-| 100 | [Wind Of Change](https://open.spotify.com/track/4YJ4n7DsZhR5hrnsMfn6zV) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Deadly Sting: The Mercury Years](https://open.spotify.com/album/6aiwtadb1HB5ImfuFgX4r7) | 5:13 |
+| 92 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm) | 5:54 |
+| 93 | [Send Me An Angel](https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 4:33 |
+| 94 | [Winterdreams](https://open.spotify.com/track/2t8exWxl59Eix9hodoDmhG) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas) | 4:52 |
+| 95 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
+| 96 | [Amazing](https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:56 |
+| 97 | [Fly To The Angels](https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 4:32 |
+| 98 | [Wind Of Change](https://open.spotify.com/track/4YJ4n7DsZhR5hrnsMfn6zV) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Deadly Sting: The Mercury Years](https://open.spotify.com/album/6aiwtadb1HB5ImfuFgX4r7) | 5:13 |
+| 99 | [The Temple Of The King](https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow \(Remastered\)](https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u) | 4:42 |
+| 100 | [Changes](https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2009 Remastered Version\)](https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh) | 4:42 |
 
 Snapshot ID: `ZmcjJwAAAADxgXG7Mhy/wsuyVfOm2xdY`

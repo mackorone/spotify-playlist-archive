@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-3,077 songs - 6 day 22 hr 24 min
+3,078 songs - 6 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1589,7 +1589,7 @@
 | [Malbec](https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m) | 4:24 | 2024-07-09 | 2024-07-21 |
 | [Maldito](https://open.spotify.com/track/46RQeQbRjY5UTYIDRy9u8H) | [La Más Draga](https://open.spotify.com/artist/0iZvvcKPBin4qEadXvO0Rm), [Raquel Martínez](https://open.spotify.com/artist/5rczhENu5q9I55oJJrl9rv), [Yari Mejía](https://open.spotify.com/artist/6aM9CkEsHuOVMRePFYPAPs) | [La Más Draga 5](https://open.spotify.com/album/5wPzOARB46RkEBRYAsjwj1) | 2:56 | 2022-11-01 | 2022-11-03 |
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-06-10 | 2025-07-02 |
-| [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2025-07-12 |  |
+| [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2025-07-12 | 2025-07-15 |
 | [Mamacita \(feat\. Rich Homie Quan & Young Thug\)](https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 4:32 | 2024-08-30 | 2024-09-01 |
 | [Mami](https://open.spotify.com/track/4b5ZoCVJhm6CZFeEwgqTP4) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Mami](https://open.spotify.com/album/4QWnhJfLTrD0fPDmU6SeES) | 3:00 | 2024-09-10 | 2024-10-08 |
 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:17 | 2024-06-04 | 2024-07-01 |
@@ -2198,6 +2198,7 @@
 | [Público](https://open.spotify.com/track/1PzvsHLUbLRsXuKTDvgJPW) | [Urba y Rome](https://open.spotify.com/artist/73Lhk4XucX7BDRL82Zngs5), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Público](https://open.spotify.com/album/4XGIgwrl39ycvPyRqmZGJQ) | 3:25 | 2022-04-16 | 2022-04-18 |
 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 | 2024-10-08 | 2024-11-29 |
 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 | 2023-09-06 | 2023-10-31 |
+| [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 | 2025-07-14 |  |
 | [Que Bendición](https://open.spotify.com/track/7ix8mj4GsqJBjx7ndn8hBC) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Que Bendición](https://open.spotify.com/album/3g4yazlUAzhkxuCVe1x5hB) | 2:29 | 2024-02-14 | 2024-02-19 |
 | [Que Chulada \(En vivo\)](https://open.spotify.com/track/0EiUeRwMQOJF3MllMJSTnp) | [Alexis Garcilazo](https://open.spotify.com/artist/5tHu8TW9KdNoJPvltlE8uo) | [Que Chulada](https://open.spotify.com/album/35HE2PSxlcKtIIkkC1bagQ) | 2:16 | 2023-03-27 | 2023-06-12 |
 | [Que Daría](https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:32 | 2022-06-21 | 2022-07-20 |

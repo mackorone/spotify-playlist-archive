@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1886058,
+  "num_followers": 1886421,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAB28H+VBrZjiqrx4Uj54ZDV",
+  "snapshot_id": "aHL3AAAAAAD7FWU6RnX32zy0iRdPE6W7",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 252262,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 243906,
       "name": "Chains & Whips",
       "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 252262,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "King Kunta",
+      "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 190373,
       "name": "GOOD CREDIT (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Pimp A Butterfly",
-        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "King Kunta",
-      "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
     },
     {
       "added_at": null,
@@ -723,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Poetic Justice",
+      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 190053,
       "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Poetic Justice",
-      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
     },
     {
       "added_at": null,

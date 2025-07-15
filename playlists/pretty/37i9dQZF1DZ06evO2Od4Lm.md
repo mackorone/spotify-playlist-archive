@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,474 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,509 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 49 | [Shade I'll Never See](https://open.spotify.com/track/0jllpyj5FhtLgb7Txj7oxv) | [Denison Witmer](https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Anything At All](https://open.spotify.com/album/1pBsqSt6LWcEf9nIQHMWya) | 3:12 |
 | 50 | [Flint \(For the Unemployed and Underpaid\)](https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:43 |
 
-Snapshot ID: `aHGlgAAAAAALR112FAEy5RtGpjXnLd5+`
+Snapshot ID: `aHL3AAAAAABRYezFeEL0F2t/okgnqw7J`

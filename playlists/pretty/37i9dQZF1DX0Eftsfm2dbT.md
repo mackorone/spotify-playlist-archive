@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: JUMADIBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,849 likes - 96 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,844 likes - 96 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

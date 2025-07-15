@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: Good Neighbours",
-  "num_followers": 1190320,
+  "num_followers": 1190170,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHCMSAAAAADa0TFzI5Vc2SB/Nbx1gODu",
+  "snapshot_id": "aHW/+AAAAAA8JkA3/EQJgnhkUZ3bJQqm",
   "tracks": [
     {
       "added_at": "2025-07-11 04:00:08",
@@ -459,6 +459,30 @@
       "duration_ms": 174634,
       "name": "Rejects",
       "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
+    },
+    {
+      "added_at": "2025-07-11 04:00:08",
+      "album": {
+        "name": "SINS (with Sueco & WesGhost)",
+        "url": "https://open.spotify.com/album/5r5oU1Zx0paGlnx0PfryqZ"
+      },
+      "artists": [
+        {
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        },
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "duration_ms": 232498,
+      "name": "SINS (with Sueco & WesGhost)",
+      "url": "https://open.spotify.com/track/2YUrjNtdRSDVR35IBiyLlq"
     },
     {
       "added_at": "2025-07-11 04:00:08",
@@ -1095,30 +1119,6 @@
       "duration_ms": 320523,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc"
-    },
-    {
-      "added_at": "2025-07-11 04:00:08",
-      "album": {
-        "name": "SINS (with Sueco & WesGhost)",
-        "url": "https://open.spotify.com/album/5r5oU1Zx0paGlnx0PfryqZ"
-      },
-      "artists": [
-        {
-          "name": "Red Leather",
-          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        },
-        {
-          "name": "WesGhost",
-          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
-        }
-      ],
-      "duration_ms": 232498,
-      "name": "SINS (with Sueco & WesGhost)",
-      "url": "https://open.spotify.com/track/2YUrjNtdRSDVR35IBiyLlq"
     },
     {
       "added_at": "2025-07-11 04:00:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,761 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,786 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 23 | [Eu te Amo](https://open.spotify.com/track/3r9MGWtEhYs21v7HGpDa2X) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Melk Vilar](https://open.spotify.com/artist/6jNeGEo4cKvVRmsKwwJyvN) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 4:17 |
 | 24 | [Escolhi Te Esperar](https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Cabelo solto \- Playback](https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg) | 3:56 |
 | 25 | [Disse Sim](https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Disse Sim](https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y) | 3:21 |
-| 26 | [Pra Sempre](https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j) | [Thiago Grulha](https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu) | [Somos Iguais \(Ao Vivo\)](https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER) | 2:35 |
-| 27 | [Isso é Amor](https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 3:52 |
+| 26 | [Isso é Amor](https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 3:52 |
+| 27 | [Pra Sempre](https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j) | [Thiago Grulha](https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu) | [Somos Iguais \(Ao Vivo\)](https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER) | 2:35 |
 | 28 | [À Moda Antiga](https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U) | [À Moda Antiga](https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB) | 3:02 |
 | 29 | [Encontrar Você](https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Thamiriz](https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM) | [Encontrar Você](https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij) | 3:55 |
 | 30 | [Só Você](https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Só Você](https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ) | 3:45 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 55 | [Canção do Amor](https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Canção do Amor](https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD) | 3:28 |
 | 56 | [Prometo](https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Sobre o Amor](https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn) | 2:52 |
 | 57 | [Amar pra Sempre](https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Amar pra Sempre](https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR) | 4:45 |
-| 58 | [Um Pedacinho do Céu](https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Um Pedacinho do Céu](https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG) | 3:53 |
-| 59 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
+| 58 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
+| 59 | [Um Pedacinho do Céu](https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Um Pedacinho do Céu](https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG) | 3:53 |
 | 60 | [Chave do Amor](https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL) | [Kelwin Ramos](https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4), [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Chave do Amor](https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp) | 3:10 |
 | 61 | [Por Favor](https://open.spotify.com/track/0DEV0GiQpOWptidS9t7WNY) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [D.R\. Desfrutando a Relação](https://open.spotify.com/album/2nvHgivR5Eufk3rDQbpuX3) | 3:47 |
 | 62 | [Amor Sem Limites](https://open.spotify.com/track/1BUk7jF8F7peNqQhnCHRaS) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Um Novo Tempo](https://open.spotify.com/album/2yKqbPEloAzH6Z8fZqwcMD) | 3:39 |

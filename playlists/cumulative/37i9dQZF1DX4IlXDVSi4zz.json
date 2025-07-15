@@ -1543,6 +1543,32 @@
     },
     {
       "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Alexis Roberts",
+          "url": "https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250664,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi"
+    },
+    {
+      "album": {
         "name": "Famax",
         "url": "https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI"
       },
@@ -5164,7 +5190,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 247384,
       "name": "Sungazing - Electronic Mix",
       "url": "https://open.spotify.com/track/0H72o8QdyYc57jNkvYwfAX"

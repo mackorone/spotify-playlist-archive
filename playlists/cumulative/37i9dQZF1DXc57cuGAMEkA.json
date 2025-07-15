@@ -36751,6 +36751,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "album": {
         "name": "XEONWORLDVIEW DELUXE",
         "url": "https://open.spotify.com/album/2P7wUQVBdSXHsCGfSViugP"
       },
@@ -155836,7 +155854,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 150239,
       "name": "SWAG",
       "url": "https://open.spotify.com/track/3WQ5w7ruC3c861lHXF9Gs2"

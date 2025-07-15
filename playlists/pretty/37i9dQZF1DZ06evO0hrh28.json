@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 247649,
+  "num_followers": 247727,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADn164eejOdfW9VwST7LtVJ",
+  "snapshot_id": "aHL3AAAAAADEAF2cZrT4fQEiYAiCheRQ",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chain",
-        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 139518,
-      "name": "La Chain",
-      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
+      "duration_ms": 149471,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
+        "name": "La Chain",
+        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 149471,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
+      "duration_ms": 139518,
+      "name": "La Chain",
+      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
     },
     {
       "added_at": null,

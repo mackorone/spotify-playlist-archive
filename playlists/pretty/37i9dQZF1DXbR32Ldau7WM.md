@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now!  Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,289 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,324 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,20 +87,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 77 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 78 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 79 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 |
-| 80 | [強火](https://open.spotify.com/track/0mh1ueH9o75o0mt6bqk4Sp) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [強火](https://open.spotify.com/album/4KrIjV9nRPuWrHuO69xWzw) | 3:28 |
-| 81 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
+| 80 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
+| 81 | [強火](https://open.spotify.com/track/0mh1ueH9o75o0mt6bqk4Sp) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [強火](https://open.spotify.com/album/4KrIjV9nRPuWrHuO69xWzw) | 3:28 |
 | 82 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
 | 83 | [UN\-APEX](https://open.spotify.com/track/0jmMSb8fGqcn7gKQ7vfdNj) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [UN\-APEX](https://open.spotify.com/album/09xKEYd8CymEeCNANki8Sl) | 4:20 |
 | 84 | [Puppets Can’t Control You](https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can't Control You](https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR) | 3:14 |
-| 85 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
-| 86 | [春の嵐](https://open.spotify.com/track/5OZAEbUCMvJFdZiNM5RJwr) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [春の嵐](https://open.spotify.com/album/56E3hBtUr13pElaE9XPDTO) | 4:35 |
+| 85 | [春の嵐](https://open.spotify.com/track/5OZAEbUCMvJFdZiNM5RJwr) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [春の嵐](https://open.spotify.com/album/56E3hBtUr13pElaE9XPDTO) | 4:35 |
+| 86 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
 | 87 | [まなざし](https://open.spotify.com/track/34rgAQrt4DPNWsqPmlbp4X) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [まなざし](https://open.spotify.com/album/7DRWQF6oyTznbAQHZbz4gQ) | 4:18 |
 | 88 | [ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero](https://open.spotify.com/track/4vLhi74fctCnK4OFbiiS6P) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 3:06 |
 | 89 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
-| 90 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 |
-| 91 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
-| 92 | [超える](https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [超える](https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE) | 4:02 |
-| 93 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 |
+| 90 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
+| 91 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 |
+| 92 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 |
+| 93 | [超える](https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [超える](https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE) | 4:02 |
 | 94 | [狂乱 Hey Kids!!](https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9) | 4:10 |
 | 95 | [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 |
 | 96 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 |

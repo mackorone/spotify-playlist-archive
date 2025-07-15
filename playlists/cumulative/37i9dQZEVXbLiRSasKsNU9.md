@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-4,002 songs - 8 day 20 hr 41 min
+4,003 songs - 8 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,7 +716,7 @@
 | [Chill Like That](https://open.spotify.com/track/6rLyDeWcz8GDRkg8F9SqgL) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/7ssIu39mDWLqnDO70JPn4n) | 2:58 | 2022-10-16 | 2022-10-22 |
 | [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [Kairas](https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH) | 3:46 | 2024-01-09 | 2024-01-12 |
 | [Chipi Chipi Chapa Chapa Dubidubidu](https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC) | 3:46 | 2024-01-13 | 2024-01-18 |
-| [Chirapunji](https://open.spotify.com/track/3NncVbpKJ91HPpI5TUIugV) | [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi) | [Chirapunji](https://open.spotify.com/album/626TXwCa6PtZCdXv8yubvQ) | 2:40 | 2025-07-01 |  |
+| [Chirapunji](https://open.spotify.com/track/3NncVbpKJ91HPpI5TUIugV) | [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi) | [Chirapunji](https://open.spotify.com/album/626TXwCa6PtZCdXv8yubvQ) | 2:40 | 2025-07-01 | 2025-07-15 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-08-09 | 2024-08-14 |
 | [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 | 2024-08-06 | 2024-08-10 |
 | [Chola Chola](https://open.spotify.com/track/27nzJVsvXqXyeMIcVxvB54) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [VM Mahalingam](https://open.spotify.com/artist/3qjzGkAGKsCkJOieWWRz8k), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 3:39 | 2022-10-09 | 2022-10-14 |
@@ -1044,6 +1044,7 @@
 | [ecstacy](https://open.spotify.com/track/2CIlKt4lRwAAUx5fYgCBxN) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy](https://open.spotify.com/album/1xCyOqwylZT5Syi5LwHF4q) | 1:36 | 2023-09-29 | 2023-10-21 |
 | [ecstacy \(slowed\)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(slowed\)](https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi) | 1:59 | 2023-09-10 | 2023-11-12 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-06-01 | 2022-06-08 |
+| [Ehsaas](https://open.spotify.com/track/5PetOhEX9N0oyBB0Keqobv) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Duha Shah](https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt) | [Ehsaas](https://open.spotify.com/album/12ShvJkszHFeRxDuZz2OYk) | 3:53 | 2025-07-14 |  |
 | [Ei Moto Táxi](https://open.spotify.com/track/3maK7XfMybZF8gO2bltuDG) | [Mc Monik do pix](https://open.spotify.com/artist/6DpNrfbj0tD4MQlCPipDaf), [DJ Fabricio Satisfaction](https://open.spotify.com/artist/3vK8tLmV0wh0mo4O1BN2oI), [DJ Luan Indiscutivel](https://open.spotify.com/artist/0ulHnN48lSv9jPnJp086uR) | [Ei Moto Táxi](https://open.spotify.com/album/5QlKVH6TE9oXTQgM5XxfVF) | 2:52 | 2024-06-13 | 2024-06-26 |
 | [Ek Din Aap Yun Hum Se Chin Jaenge](https://open.spotify.com/track/79539g2vAxCKc5BcYeg0yf) | [Ahmed Nadeem](https://open.spotify.com/artist/3ero2pjcsaUOT7iL7gG9tj) | [Ek Din Aap Yun Hum Se Chin Jaenge](https://open.spotify.com/album/4Y5mFT4RPpz0SkeHY5Ukh9) | 2:28 | 2022-11-03 | 2022-11-10 |
 | [Ektarfa](https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Ektarfa](https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS) | 3:50 | 2022-06-14 | 2022-06-24 |

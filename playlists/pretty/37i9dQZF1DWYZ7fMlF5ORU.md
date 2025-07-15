@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,305 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,360 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 17 | [Pela Fé](https://open.spotify.com/track/1ifIvrgG2yMsS1scACHuLu) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Laboratório Do Groove](https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem) | 4:11 |
 | 18 | [Tudo Posso](https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Lucas Augusto](https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR) | [Tudo Posso](https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ) | 6:37 |
 | 19 | [Atenção \- Ao Vivo](https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r) | [Atenção \(Ao Vivo\)](https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87) | 3:18 |
-| 20 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
-| 21 | [Eu Sou De Jesus](https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 3:32 |
+| 20 | [Eu Sou De Jesus](https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 3:32 |
+| 21 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
 | 22 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
 | 23 | [Ele é Exaltado](https://open.spotify.com/track/4azlxzbtyRcnxBB2bDwaZ6) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Ele é Exaltado](https://open.spotify.com/album/624cqcbuC4W1xu3WECphWq) | 3:17 |
 | 24 | [Sossegai \- Ao Vivo](https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Piano e Voz, Amigos e Pertences 3a \(Ao Vivo\)](https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF) | 5:32 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 32 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo) | [Pablo Simplicio](https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5) | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4) | 2:49 |
 | 33 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 |
 | 34 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
-| 35 | [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 |
-| 36 | [Mulher de Ló \(AO VIVO\)](https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 3:57 |
+| 35 | [Mulher de Ló \(AO VIVO\)](https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 3:57 |
+| 36 | [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 |
 | 37 | [Aleluia](https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Aleluia](https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI) | 2:51 |
 | 38 | [Celebre a Vida](https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr) | [Bira Santos](https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM) | [Celebre a Vida](https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf) | 4:04 |
 | 39 | [Alegria](https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Alegria](https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho) | 4:13 |

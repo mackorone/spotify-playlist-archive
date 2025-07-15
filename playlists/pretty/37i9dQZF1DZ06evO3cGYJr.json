@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADeuXLD2yarCEkN6qdzZdON",
+  "snapshot_id": "aHL3AAAAAAC4oCvvwjR8kz1zWkAgE4S2",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i don't think you understand what i mean",
-        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 236870,
-      "name": "Temporary Forever",
-      "url": "https://open.spotify.com/track/6b30rJ7Nhx3EdIzVToFBjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HALCYON",
         "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 162420,
       "name": "NOT_ALIVE//NOT_DEAD",
       "url": "https://open.spotify.com/track/6lFdELrYB1fLkVCAXJSMwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i don't think you understand what i mean",
+        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 180425,
+      "name": "nine forty-five",
+      "url": "https://open.spotify.com/track/24fvzEgCw2rBjyBsvb2tAb"
     },
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1DK (VIP)",
+        "url": "https://open.spotify.com/album/6GlPv4lRRz1puLwtRLmxXw"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 180001,
+      "name": "1DK (VIP)",
+      "url": "https://open.spotify.com/track/2k7vfrGY1qL9RBbqumtDfG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i don't think you understand what i mean",
         "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
       },
@@ -208,25 +224,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 180425,
-      "name": "nine forty-five",
-      "url": "https://open.spotify.com/track/24fvzEgCw2rBjyBsvb2tAb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "maybe i need to know myself",
-        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Futile",
-      "url": "https://open.spotify.com/track/0sLzwYsGIiUZsZ9Kvil7ih"
+      "duration_ms": 236870,
+      "name": "Temporary Forever",
+      "url": "https://open.spotify.com/track/6b30rJ7Nhx3EdIzVToFBjg"
     },
     {
       "added_at": null,
@@ -251,42 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Xernia (2021 Version)",
-        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 220996,
-      "name": "Outlaw - 2021 Version",
-      "url": "https://open.spotify.com/track/3mXHDTc9NAkNcsi6KFWzUh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i don't think you understand what i mean",
-        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        },
-        {
-          "name": "Torralba",
-          "url": "https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP"
-        }
-      ],
-      "duration_ms": 186472,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/093kQYdOiuVxAeFzyrtXf6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "maybe i need to know myself",
         "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
       },
@@ -296,29 +260,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Filter",
-      "url": "https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tired brain analysis",
-        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        },
-        {
-          "name": "vemaol",
-          "url": "https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Break my brain",
-      "url": "https://open.spotify.com/track/4oGRoXvedZfVkhyl6gKJQG"
+      "duration_ms": 260000,
+      "name": "Futile",
+      "url": "https://open.spotify.com/track/0sLzwYsGIiUZsZ9Kvil7ih"
     },
     {
       "added_at": null,
@@ -355,8 +299,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "better than i was",
-        "url": "https://open.spotify.com/album/2JpRnpearfI5QTXvhHCrsX"
+        "name": "tired brain analysis",
+        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        },
+        {
+          "name": "vemaol",
+          "url": "https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Break my brain",
+      "url": "https://open.spotify.com/track/4oGRoXvedZfVkhyl6gKJQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maybe i need to know myself",
+        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
       },
       "artists": [
         {
@@ -364,9 +328,105 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 204800,
-      "name": "better than i was",
-      "url": "https://open.spotify.com/track/0HLs9ktjeINGigUq6i1hAP"
+      "duration_ms": 173000,
+      "name": "Filter",
+      "url": "https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xernia (2021 Version)",
+        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 221113,
+      "name": "City Lines - 2021 Version",
+      "url": "https://open.spotify.com/track/3p4vObjU7Er7Hh27vPGMgN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i don't think you understand what i mean",
+        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 159195,
+      "name": "DON'TTALKTOME",
+      "url": "https://open.spotify.com/track/1YT0JOxLvBmlwoem61kQoO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "tired brain analysis",
+        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Fragments of your presence",
+      "url": "https://open.spotify.com/track/1dU3LM9sT5brDXG8C7aXZA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maybe i need to know myself",
+        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 296206,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/1OwctdSAK19GSLfpsz9eir"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xernia (2021 Version)",
+        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 220996,
+      "name": "Outlaw - 2021 Version",
+      "url": "https://open.spotify.com/track/3mXHDTc9NAkNcsi6KFWzUh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i don't think you understand what i mean",
+        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 205565,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/2QqDOV1Mh0Dg8ngWu9zFqu"
     },
     {
       "added_at": null,
@@ -387,6 +447,22 @@
       "duration_ms": 184000,
       "name": "Give it up",
       "url": "https://open.spotify.com/track/4XaaW3qfaXeHqbFfazrJnj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "better than i was",
+        "url": "https://open.spotify.com/album/2JpRnpearfI5QTXvhHCrsX"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "better than i was",
+      "url": "https://open.spotify.com/track/0HLs9ktjeINGigUq6i1hAP"
     },
     {
       "added_at": null,
@@ -414,79 +490,15 @@
         {
           "name": "Learke",
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 205565,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/2QqDOV1Mh0Dg8ngWu9zFqu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "maybe i need to know myself",
-        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 296206,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/1OwctdSAK19GSLfpsz9eir"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tired brain analysis",
-        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         },
         {
           "name": "Torralba",
           "url": "https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP"
         }
       ],
-      "duration_ms": 164343,
-      "name": "Out of stock (Do what you gotta!)",
-      "url": "https://open.spotify.com/track/5uEPsTNTphBctaYyTPGeQm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Xernia (2021 Version)",
-        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 219769,
-      "name": "U_KNOWN - 2021 Version",
-      "url": "https://open.spotify.com/track/2FrS1ydBBI5gPeFSQOL1HN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i don't think you understand what i mean",
-        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 159195,
-      "name": "DON'TTALKTOME",
-      "url": "https://open.spotify.com/track/1YT0JOxLvBmlwoem61kQoO"
+      "duration_ms": 186472,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/093kQYdOiuVxAeFzyrtXf6"
     },
     {
       "added_at": null,
@@ -536,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 221113,
-      "name": "City Lines - 2021 Version",
-      "url": "https://open.spotify.com/track/3p4vObjU7Er7Hh27vPGMgN"
+      "duration_ms": 219769,
+      "name": "U_KNOWN - 2021 Version",
+      "url": "https://open.spotify.com/track/2FrS1ydBBI5gPeFSQOL1HN"
     },
     {
       "added_at": null,
@@ -555,22 +567,6 @@
       "duration_ms": 156610,
       "name": "So long (waiting 4 this)",
       "url": "https://open.spotify.com/track/3TjtBqwPubJxR2NmXSPJUD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1DK (VIP)",
-        "url": "https://open.spotify.com/album/7EpNxupjnO9Dl9kFF7PSm8"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 180001,
-      "name": "1DK - VIP",
-      "url": "https://open.spotify.com/track/7yfSOtlbjbS2FYLu8oELVD"
     },
     {
       "added_at": null,

@@ -4,11 +4,12 @@
 
 > the glasto IT girl\. JADE at <a href="https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi">Glastonbury 2025</a> 🪽
 
-113 songs - 5 hr 59 min
+114 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15 Minutes](https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:11 | 2025-05-08 |  |
+| [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2025-06-30 |  |
 | [9\-5](https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [11:11](https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ) | 2:35 | 2025-05-08 | 2025-07-01 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2025-05-08 |  |
 | [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 | 2025-05-08 | 2025-06-17 |
@@ -70,7 +71,7 @@
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-05-08 |  |
 | [LoveDrug](https://open.spotify.com/track/3hcivoswCVR8LZkHR8MYA5) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:13 | 2025-06-16 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2025-05-08 |  |
-| [MACHINE GIRL](https://open.spotify.com/track/6l5OYL8pvH402wTVXjtTYO) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [MACHINE GIRL](https://open.spotify.com/album/0KkwEi1iuPDwmFI9FInQW8) | 2:36 | 2025-06-30 |  |
+| [MACHINE GIRL](https://open.spotify.com/track/6l5OYL8pvH402wTVXjtTYO) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [MACHINE GIRL](https://open.spotify.com/album/0KkwEi1iuPDwmFI9FInQW8) | 2:36 | 2025-06-30 | 2025-07-15 |
 | [MAGAZINE](https://open.spotify.com/track/5wbEHn2qQKIRhgpJfQALfT) | [Dom Valentino](https://open.spotify.com/artist/1eWXBPrs5K5aZXTIWdIlPe), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz), [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [MAGAZINE](https://open.spotify.com/album/2DKo9yZZu0qjDhdaxtLBpr) | 3:57 | 2025-05-21 | 2025-06-06 |
 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 | 2025-05-08 |  |
 | [Money is Everything](https://open.spotify.com/track/0yKuz6SU0TN3ViDaydV9ti) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:02 | 2025-06-16 |  |

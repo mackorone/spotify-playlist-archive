@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,525 likes - 106 songs - 6 hr 13 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,523 likes - 107 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 104 | [YOU & I](https://open.spotify.com/track/6cgOdelOyLpjdcOl811Z9t) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [YOU & I](https://open.spotify.com/album/29MLRMFFGmRPxHJ93JeHhZ) | 3:51 |
 | 105 | [Hate It When It's You](https://open.spotify.com/track/6ARHAMBOpkkQBVNHmTRxiX) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Hate It When It's You](https://open.spotify.com/album/0GLWXYcVqqiWSNaqunDzVC) | 3:49 |
 | 106 | [OBSESSION \(FENIK Remix\)](https://open.spotify.com/track/4URCRlWuh2b38S5qMvj9on) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [FENIK](https://open.spotify.com/artist/3xA33zcSOXlZUcK6n8MxiM) | [OBSESSION \(FENIK Remix\)](https://open.spotify.com/album/6gVQHwIlKFud7CbIzVGkCB) | 3:06 |
+| 107 | [I WANNA KNOW](https://open.spotify.com/track/6UXqR3MQtiW0pX6Ozl43KY) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [I WANNA KNOW](https://open.spotify.com/album/2JX1nPMEBCUAb8zHGGscPa) | 2:27 |
 
-Snapshot ID: `AAAqio+RFBtJDbbD3qypcH9vUevSg2va`
+Snapshot ID: `AAAqi/jNrTq6C32dfhTKRQJn8wS00sdF`

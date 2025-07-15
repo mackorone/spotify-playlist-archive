@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill Korean R&B music\. \(Cover: Moon Sujin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,643 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,560 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 64 | [Candy](https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:47 |
 | 65 | [Magic \(Feat\. JULIE of KISS OF LIFE\)](https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [JULIE](https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:26 |
 | 66 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 |
-| 67 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 |
+| 67 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
 | 68 | [jellyfish](https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [jellyfish](https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC) | 2:37 |
-| 69 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
+| 69 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 |
 | 70 | [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 |
 | 71 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
 | 72 | [Chi\-Ka](https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Chi\-Ka](https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb) | 3:23 |

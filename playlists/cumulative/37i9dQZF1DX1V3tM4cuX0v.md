@@ -4,7 +4,7 @@
 
 > Найпопулярніші пісні сьогодення\. Обкладинка: Drevo
 
-133 songs - 6 hr 34 min
+134 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Houdini](https://open.spotify.com/track/6vw2M02LT3otGUoK4ZqHwx) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/0oxsySb03ku7RpJmH2raGC) | 3:47 | 2024-06-27 | 2024-07-27 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-06-27 |  |
 | [if u think i'm pretty](https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:08 | 2024-06-27 | 2024-10-01 |
+| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-14 |  |
 | [Lighter](https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter](https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror) | 2:55 | 2025-05-19 | 2025-07-08 |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-13 | 2025-05-20 |
 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2024-06-27 |  |
@@ -107,7 +108,7 @@
 | [Обиратиму себе](https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ) | [MELOVIN](https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL), [iSKra](https://open.spotify.com/artist/2eaguEJBVEQVZhim3JryHD) | [Обиратиму себе](https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm) | 3:12 | 2024-09-30 | 2025-02-18 |
 | [Олєг](https://open.spotify.com/track/40y6wpbyTXB2DGzaBrLC7f) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Олєг](https://open.spotify.com/album/6lOzQGmj0BlD3fz5YDY3o2) | 2:57 | 2025-06-26 |  |
 | [Особистий рай](https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F) | [Геля Зозуля](https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Особистий рай](https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY) | 3:05 | 2024-11-04 |  |
-| [Падав туман](https://open.spotify.com/track/4iDo6Oc2MYmMLW7nSizVlR) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Падав туман](https://open.spotify.com/album/6ClQIVMyqrTqPSnHypvd9Y) | 3:08 | 2025-07-07 |  |
+| [Падав туман](https://open.spotify.com/track/4iDo6Oc2MYmMLW7nSizVlR) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Падав туман](https://open.spotify.com/album/6ClQIVMyqrTqPSnHypvd9Y) | 3:08 | 2025-07-07 | 2025-07-15 |
 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 | 2024-06-27 | 2025-01-31 |
 | [Погляд](https://open.spotify.com/track/66Xj2OpnDALdW0G509b9yY) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [SOBOL'](https://open.spotify.com/artist/2tzrAdVhSe0qIQBpedBCHh) | [Погляд](https://open.spotify.com/album/2U3ecGQPqMwXz4vSOps8Td) | 2:56 | 2024-06-27 | 2024-12-13 |
 | [ПОДОЛЯНОЧКА \(GET UP\)](https://open.spotify.com/track/0OO0cxW5gSaL1EggeW1Bj0) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [ПОДОЛЯНОЧКА \(GET UP\)](https://open.spotify.com/album/0ZAHrT36fotzrEuhClUXhG) | 2:58 | 2024-06-27 | 2024-07-27 |

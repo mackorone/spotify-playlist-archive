@@ -1458,12 +1458,12 @@
       },
       "artists": [
         {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        },
-        {
           "name": "Gerry Mulligan",
           "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
         }
       ],
       "date_added": "2023-08-23",
@@ -7080,7 +7080,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "It's Always You - Vocal Version",
       "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
@@ -7866,6 +7866,24 @@
       "duration_ms": 234573,
       "name": "Long Ago And Far Away",
       "url": "https://open.spotify.com/track/47g4fOuXxI3ri3YSCMt532"
+    },
+    {
+      "album": {
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224266,
+      "name": "Lou's Blues",
+      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
     },
     {
       "album": {
@@ -12268,7 +12286,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 312293,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit"
@@ -13756,7 +13774,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 166760,
       "name": "Time After Time - Vocal Version",
       "url": "https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d"

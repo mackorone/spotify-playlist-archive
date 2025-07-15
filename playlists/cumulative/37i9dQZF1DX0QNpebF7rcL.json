@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Christone \"Kingfish\" Ingram",
+  "description": "The best in blues right now. Cover: Jon Batiste",
   "name": "Got Blues",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 174886,
       "name": "Animal In Me",
       "url": "https://open.spotify.com/track/0FIeSr04FRgHFAQsDDlaqo"
@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "BIG MONEY",
+        "url": "https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154174,
+      "name": "BIG MONEY",
+      "url": "https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2"
+    },
+    {
+      "album": {
         "name": "Big Women",
         "url": "https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt"
       },
@@ -928,6 +946,24 @@
       "duration_ms": 248081,
       "name": "Blues All Around",
       "url": "https://open.spotify.com/track/1cs8jvOVEgaCiKwpjhLxIf"
+    },
+    {
+      "album": {
+        "name": "Blues Chase The Blues Away",
+        "url": "https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289600,
+      "name": "Blues Chase The Blues Away",
+      "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
     },
     {
       "album": {
@@ -2224,7 +2260,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 225760,
       "name": "Endless Highway",
       "url": "https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU"
@@ -3460,7 +3496,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 263653,
       "name": "How Blues Is That (feat. Joe Walsh)",
       "url": "https://open.spotify.com/track/1CHQ1JVroIwvFF4uyIzp5V"
@@ -3503,6 +3539,24 @@
     },
     {
       "album": {
+        "name": "How The Other Half Lives",
+        "url": "https://open.spotify.com/album/4yaViO5s6jOCiTHr96OD0D"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173951,
+      "name": "How The Other Half Lives",
+      "url": "https://open.spotify.com/track/5IOyWe1H6KNUKDsMB90COG"
+    },
+    {
+      "album": {
         "name": "Human Decency",
         "url": "https://open.spotify.com/album/5OassCcLEpK9Ge2MFQvdT1"
       },
@@ -3514,7 +3568,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 229603,
       "name": "Human Decency",
       "url": "https://open.spotify.com/track/6FJuXe1j7UcQQmGKRoCtu4"
@@ -4658,6 +4712,32 @@
       "duration_ms": 151919,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt"
+    },
+    {
+      "album": {
+        "name": "Sinners (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        },
+        {
+          "name": "Miles Caton",
+          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197906,
+      "name": "Last Time (I Seen the Sun)",
+      "url": "https://open.spotify.com/track/7MEpmTSCARpgFdj2Q9Q2d6"
     },
     {
       "album": {

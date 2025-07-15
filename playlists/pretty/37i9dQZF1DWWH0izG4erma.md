@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Treaty Oak Revival
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,086 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,168 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 81 | [Cottonmouth \(Rock Mix\)](https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Cottonmouth \(Rock Mix\) \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL) | 2:45 |
 | 82 | [Cuckoo](https://open.spotify.com/track/3qGtdBULj8YlGAYYrPhUJF) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:28 |
 | 83 | [Lips Of An Angel](https://open.spotify.com/track/6CmzMi95AEhOLIFKOF98ln) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ), [Austin John Winkler](https://open.spotify.com/artist/7qxZtX9UNGo338GpLJsSjP) | [Lips Of An Angel](https://open.spotify.com/album/4XjC54w13spoXJeJpFrYLv) | 4:09 |
-| 84 | [Happy Never After](https://open.spotify.com/track/022yiRKZI9ZNJIV4bEA3fR) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Happy Never After](https://open.spotify.com/album/2Jf7dwFtZjdrUL0RDnn8Y6) | 2:46 |
-| 85 | [Dirt Road When I Die](https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dirt Road When I Die \- EP](https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM) | 2:54 |
+| 84 | [Dirt Road When I Die](https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dirt Road When I Die \- EP](https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM) | 2:54 |
+| 85 | [Happy Never After](https://open.spotify.com/track/022yiRKZI9ZNJIV4bEA3fR) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Happy Never After](https://open.spotify.com/album/2Jf7dwFtZjdrUL0RDnn8Y6) | 2:46 |
 | 86 | [Midnight Dancer](https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf) | [Aaron McBee](https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA) | [If I Know You](https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr) | 2:43 |
 | 87 | [5AM](https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [5AM](https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu) | 3:07 |
 | 88 | [Made For This](https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Made For This](https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T) | 3:43 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 90 | [I'm Not For Everyone](https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I'm Not For Everyone](https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr) | 2:52 |
 | 91 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
 | 92 | [Middle Finger Motto](https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Middle Finger Motto](https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU) | 2:51 |
-| 93 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
-| 94 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
+| 93 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
+| 94 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
 | 95 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
 | 96 | [Demon or Ghost \(feat\. Underoath\)](https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Demon or Ghost \(feat\. Underoath\)](https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb) | 3:35 |
 | 97 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,801 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,802 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 49 | [Cosas Del Amor \- En Vivo](https://open.spotify.com/track/2qI8I5XpG5sjhjzlxsp06j) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Luis Padilla](https://open.spotify.com/artist/02lRteeUjXQmfEppmNO7pV) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:50 |
 | 50 | [No Sé Por Qué](https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 2:49 |
 
-Snapshot ID: `aHGlgAAAAADlcKj440FEVzs5V2T2tpwf`
+Snapshot ID: `aHL3AAAAAAAoHu/6r29JcKbeqozd1PR+`

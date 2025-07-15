@@ -4,7 +4,7 @@
 
 > Weekly update for Indie releases\. Cover: néomí \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist\)
 
-506 songs - 1 day 5 hr 34 min
+507 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Unicorn](https://open.spotify.com/track/5CcWCddzMfT89UIpTSVvvT) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Unicorn](https://open.spotify.com/album/2lOkKWJrhy0Fyy5YDyx1wl) | 3:36 | 2025-05-26 |  |
 | [Use A Friend](https://open.spotify.com/track/7fGzH1N3Hv3TZOuscdSLvn) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Only Making It Worse](https://open.spotify.com/album/6W7mdEoe0lAIDFIhAYf8cx) | 3:18 | 2025-05-09 |  |
 | [Vacuum](https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU) | [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4) | [Arrow, Four](https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz) | 3:35 | 2024-12-18 | 2025-03-14 |
+| [Vision](https://open.spotify.com/track/3iet8NSu6S6ZbSTS8EMUsC) | [Julia Mandoki](https://open.spotify.com/artist/6AlnyvngKEFg1hVQ6Pl8vR) | [Vision](https://open.spotify.com/album/1wH2O2N6a7Z24QIYvu4Tej) | 4:21 | 2025-07-14 |  |
 | [Voices In My Head](https://open.spotify.com/track/1hwjsnf6pG8q20oLH5ihSI) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [i just want next year to be better](https://open.spotify.com/album/0kRjwojrO13TouynamNnac) | 3:15 | 2025-01-06 | 2025-03-22 |
 | [Wake Up With You \(WUWU\)](https://open.spotify.com/track/1wo2tSP1qZcryzCSNZ3htC) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Wake Up With You \(WUWU\)](https://open.spotify.com/album/6DORT5jfOBMzqZFC6634cU) | 3:09 | 2024-10-03 | 2025-01-07 |
 | [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 | 2025-03-28 | 2025-06-06 |

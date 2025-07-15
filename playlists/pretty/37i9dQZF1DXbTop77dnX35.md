@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy, Tyla, Reekado Banks, Odeal  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,342 likes - 86 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,419 likes - 86 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 75 | [How Come](https://open.spotify.com/track/7d72HwYzbRfE88VxND0G3H) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Sir Holly](https://open.spotify.com/artist/5rBADkprH6l9WlLLffvAwS), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3) | [How Come](https://open.spotify.com/album/3VWBZHDY7xHaa1ka4oqquS) | 4:55 |
 | 76 | [Ride On](https://open.spotify.com/track/1dbIKtqZKYf9Cd1NVj371b) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Ride On / Not There Yet](https://open.spotify.com/album/7uErdR5nk4QQ1bSXFS7J54) | 3:01 |
 | 77 | [My Eyes Only](https://open.spotify.com/track/7mv4wRz8dRTDu2HHpbAcpp) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65), [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G) | [My Eyes Only](https://open.spotify.com/album/1519mAvBfGSzgkDqTE9eOT) | 3:31 |
-| 78 | [JAM](https://open.spotify.com/track/28BTxLq7gwSY4AQ0xzJKqU) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH), [spuﬀy](https://open.spotify.com/artist/3gHWkgtHyfz1e4eQxSx4eO) | [JAM](https://open.spotify.com/album/4gIIVIrIK8RnSOChYSVhsv) | 1:45 |
+| 78 | [JAM](https://open.spotify.com/track/28BTxLq7gwSY4AQ0xzJKqU) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH), [spuffy](https://open.spotify.com/artist/0A2OlzZYSc8Eu1Gn9GXmTi) | [JAM](https://open.spotify.com/album/4gIIVIrIK8RnSOChYSVhsv) | 1:45 |
 | 79 | [Show Off](https://open.spotify.com/track/6ZaxDgxnclzrSbFsk34r94) | [Zaiam](https://open.spotify.com/artist/7i6MEWvLdLXG8XdE3blFdN) | [One in Town](https://open.spotify.com/album/6WngnYslHJyUpVOOLzON40) | 2:19 |
 | 80 | [Make Sense](https://open.spotify.com/track/3GxSWEKvqclRzYbbwjOccz) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [Make Sense](https://open.spotify.com/album/3C5J0IIauNn5vJjpvewkWq) | 3:04 |
 | 81 | [Know U](https://open.spotify.com/track/2JxPFFqOOaRWQnQ4iqpEmF) | [TAYKATRIP](https://open.spotify.com/artist/31I01TL25gP5IiHHh0Xjez) | [Lost & Found](https://open.spotify.com/album/4n0pZ3ecHgGlNEKg9ZTncp) | 3:41 |

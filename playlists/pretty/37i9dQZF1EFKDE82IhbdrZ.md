@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 106 | [That Old Truck](https://open.spotify.com/track/0kjnvAqQvdjN69aDTGlceq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:32 |
 | 107 | [Who Are You](https://open.spotify.com/track/2TfhZlAqAuxDrSQSeyZj1o) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:56 |
 | 108 | [Fuqboi](https://open.spotify.com/track/2C3dOmuQnOb28WVPvIToWQ) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:07 |
-| 109 | [One More \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3KSDI400G4Ykh7HjAYS7sP) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 3:16 |
-| 110 | [Amazing](https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:55 |
+| 109 | [Amazing](https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:55 |
+| 110 | [One More \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3KSDI400G4Ykh7HjAYS7sP) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 3:16 |
 | 111 | [What It Is](https://open.spotify.com/track/0w3A7y2EJ8awXWMUtftue5) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 5:25 |
 | 112 | [If You Leave Me](https://open.spotify.com/track/4tTb7uAXFqI84T3ZIDBhxf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:59 |
 | 113 | [Kill My Time](https://open.spotify.com/track/58obITYpGOduWc109gWitx) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:55 |
@@ -239,8 +239,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 229 | [Somewhere We Can Be Alone](https://open.spotify.com/track/4JD8cPfPPjkyc8wAeHur1h) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:02 |
 | 230 | [Thula Ungakhlai \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/4mU0YSUlZ0RvXMapVj6kYx) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK) | 0:47 |
 | 231 | [Satisfaction](https://open.spotify.com/track/4POgJyUTI7mVfw82rDK209) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [All Out EP](https://open.spotify.com/album/2MtXlZW7qER88eQvxojeaR) | 5:07 |
-| 232 | [When Loving You](https://open.spotify.com/track/7hH5PKMBwBGyC6PGeRKuVy) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Love Center](https://open.spotify.com/album/2y5JTyJ84CYPR2EbFuKDCv) | 4:12 |
-| 233 | [LOS NARCOS](https://open.spotify.com/track/1lG27QZJVXbVieXyi8gHKl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 1:54 |
+| 232 | [LOS NARCOS](https://open.spotify.com/track/1lG27QZJVXbVieXyi8gHKl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 1:54 |
+| 233 | [When Loving You](https://open.spotify.com/track/7hH5PKMBwBGyC6PGeRKuVy) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Love Center](https://open.spotify.com/album/2y5JTyJ84CYPR2EbFuKDCv) | 4:12 |
 | 234 | [I'm F\*\*\*ed Up \- Main Version \- explicit](https://open.spotify.com/track/1uUs2Z0S6AI6CLImiDCRSH) | [Dolla](https://open.spotify.com/artist/5Gc3IYdgY3PVcuf8FPMxDI) | [I'm F\*\*\*ed Up \(Main Version \- explicit\)](https://open.spotify.com/album/5xnWvkUkDjKC3Y6dnL2Aq9) | 3:27 |
 | 235 | [Put Some Music On](https://open.spotify.com/track/4hOdYMuz63sbWjiV0CucOi) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Twenty](https://open.spotify.com/album/03DEKGkvYKs8PQhhCLkuAa) | 4:14 |
 | 236 | [Lost Myslf](https://open.spotify.com/track/1Q8mNKvVCpfsm8WGKMeKQ9) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 3:21 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab2slAAAAABV4SHzTUKhawK1dHb+uzKr`
+Snapshot ID: `Ab2ycAAAAACTuTFHZJdmBEmAHsCbqDei`

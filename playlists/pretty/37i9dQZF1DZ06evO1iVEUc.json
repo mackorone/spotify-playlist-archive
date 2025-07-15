@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25471,
+  "num_followers": 25475,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAVHTUttjdwXvaUHsfGGb3F",
+  "snapshot_id": "aHL3AAAAAAC8mxvOCNuoauja5k5aSqwL",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "High",
-      "url": "https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 245400,
       "name": "Lovers' Ghetto",
       "url": "https://open.spotify.com/track/7wZ1Sk4ySUKhy821HXIaQb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Amazing: An All-Star Tribute To Luther Vandross",
-        "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 322360,
-      "name": "Since I Lost My Baby",
-      "url": "https://open.spotify.com/track/60sfBPovUoGakpff86kf9F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 214866,
       "name": "You Don't Love Me",
       "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Amazing: An All-Star Tribute To Luther Vandross",
+        "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 322360,
+      "name": "Since I Lost My Baby",
+      "url": "https://open.spotify.com/track/60sfBPovUoGakpff86kf9F"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
@@ -684,13 +684,13 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         },
         {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          "name": "Dave Hollister",
+          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
         }
       ],
-      "duration_ms": 199893,
-      "name": "The Gym",
-      "url": "https://open.spotify.com/track/5aCV1ShX2YWtYICZc1qBTK"
+      "duration_ms": 243641,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
     },
     {
       "added_at": null,
@@ -711,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 209345,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
+      "duration_ms": 199893,
+      "name": "The Gym",
+      "url": "https://open.spotify.com/track/5aCV1ShX2YWtYICZc1qBTK"
     },
     {
       "added_at": null,
@@ -747,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
@@ -756,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 235773,
-      "name": "U-Haul",
-      "url": "https://open.spotify.com/track/2iENV2zVh4k4JH3gV9SBk7"
+      "duration_ms": 209345,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
     },
     {
       "added_at": null,
@@ -779,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Dave Hollister",
-          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
         }
       ],
-      "duration_ms": 243641,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
+      "duration_ms": 235773,
+      "name": "U-Haul",
+      "url": "https://open.spotify.com/track/2iENV2zVh4k4JH3gV9SBk7"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 35293,
-      "name": "Stoned Love (Intro)",
-      "url": "https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm"
+      "duration_ms": 222570,
+      "name": "Forget About Me",
+      "url": "https://open.spotify.com/track/42hNrPluWAiCOULra1Ckpz"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 222570,
-      "name": "Forget About Me",
-      "url": "https://open.spotify.com/track/42hNrPluWAiCOULra1Ckpz"
+      "duration_ms": 35293,
+      "name": "Stoned Love (Intro)",
+      "url": "https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 176426,
-      "name": "Red, Red Wine",
-      "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
+      "duration_ms": 195211,
+      "name": "Dollar Bill",
+      "url": "https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5"
     }
   ],
   "unique_name": "This Is Angie Stone",

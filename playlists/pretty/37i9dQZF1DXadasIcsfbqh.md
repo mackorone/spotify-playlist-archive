@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Diplo and Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,776 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,889 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 90 | [Hurt \(with Jelly Roll\)](https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hurt \(with Jelly Roll\)](https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3) | 2:36 |
 | 91 | [Paying For It](https://open.spotify.com/track/4um0dlscaZs2xkSbH72pP2) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Paying For It](https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX) | 3:11 |
 | 92 | [Please Please Please \- Acoustic](https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1) | 3:01 |
-| 93 | [I’m Movin’ On](https://open.spotify.com/track/53IX4MOIyOZQnKy6a3JnaX) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [I'm Movin' On](https://open.spotify.com/album/7FQLBkD3mdfh2UiLzhvNnN) | 3:44 |
+| 93 | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P) | 3:47 |
 | 94 | [Bottle’s Bout Dead \(feat\. ERNEST\)](https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil \(Deluxe\)](https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF) | 2:30 |
-| 95 | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P) | 3:47 |
+| 95 | [I’m Movin’ On](https://open.spotify.com/track/53IX4MOIyOZQnKy6a3JnaX) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [I'm Movin' On](https://open.spotify.com/album/7FQLBkD3mdfh2UiLzhvNnN) | 3:44 |
 | 96 | [Praise the Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 |
 | 97 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
 | 98 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 |

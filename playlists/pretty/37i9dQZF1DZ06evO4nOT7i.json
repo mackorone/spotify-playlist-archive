@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 380914,
+  "num_followers": 380947,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAABX2hs7tI6dclU+xW8bj9CK",
+  "snapshot_id": "aHL3AAAAAACc/mLZ3DOf/LkmNRDRNWmP",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
         "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 228762,
       "name": "Rearrange My World",
       "url": "https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
     },
     {
       "added_at": null,

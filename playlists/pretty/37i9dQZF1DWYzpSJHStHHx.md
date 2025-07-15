@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,382 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,399 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 46 | [twenty bucks \(the friend song\)](https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V) | [boxboys](https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9) | [twenty bucks \(the friend song\)](https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB) | 1:53 |
 | 47 | [Rocketship](https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Rocketship](https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj) | 1:56 |
 | 48 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 |
-| 49 | [Change The Film](https://open.spotify.com/track/6rHmQDbXRDUzVwI7t1o6pR) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [Change The Film](https://open.spotify.com/album/0OvMIMyoOE3T6S4GeOTXEF) | 2:47 |
+| 49 | [Recycle](https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI) | [loren north](https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr) | [Recycle](https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2) | 3:24 |
 | 50 | [I AM NOT SO TALL](https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [I AM NOT SO TALL](https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U) | 2:54 |
-| 51 | [Recycle](https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI) | [loren north](https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr) | [Recycle](https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2) | 3:24 |
+| 51 | [Change The Film](https://open.spotify.com/track/6rHmQDbXRDUzVwI7t1o6pR) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [Change The Film](https://open.spotify.com/album/0OvMIMyoOE3T6S4GeOTXEF) | 2:47 |
 | 52 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
 | 53 | [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:32 |
 | 54 | [Out Of Here](https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Out Of Here](https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx) | 2:31 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 61 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
 | 62 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
 | 63 | [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 |
-| 64 | [Fair Warning](https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp) | [Mac Krol](https://open.spotify.com/artist/17G6PVRcbdHfWBhPRijvSs), [Mike Krol](https://open.spotify.com/artist/2c34ZzVmfwzsNHc05x3uzR), [Mac McCaughan](https://open.spotify.com/artist/3pLUCmcxLXGeLoYI5rw3O4) | ["For Some Other Reason" b/w "Fair Warning" and "What Would You Say?"](https://open.spotify.com/album/2gjY76SBe8JhzNisgdB4uk) | 2:27 |
-| 65 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
+| 64 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
+| 65 | [Fair Warning](https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp) | [Mac Krol](https://open.spotify.com/artist/17G6PVRcbdHfWBhPRijvSs), [Mike Krol](https://open.spotify.com/artist/2c34ZzVmfwzsNHc05x3uzR), [Mac McCaughan](https://open.spotify.com/artist/3pLUCmcxLXGeLoYI5rw3O4) | ["For Some Other Reason" b/w "Fair Warning" and "What Would You Say?"](https://open.spotify.com/album/2gjY76SBe8JhzNisgdB4uk) | 2:27 |
 | 66 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
 | 67 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
-| 68 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
-| 69 | [Fever Dream](https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2) | [Jimmy Cloud](https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv), [Willy Sinclair](https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ) | [Fever Dream](https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5) | 2:20 |
+| 68 | [Fever Dream](https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2) | [Jimmy Cloud](https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv), [Willy Sinclair](https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ) | [Fever Dream](https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5) | 2:20 |
+| 69 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
 | 70 | [Surfin' Detective](https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3) | [The Meerkats](https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB) | [Surfin' Detective](https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi) | 4:56 |
 | 71 | [Heat Stroke](https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA) | [Heat Wave](https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s) | [Heat Stroke](https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR) | 3:27 |
 | 72 | [Stained Glass Curtain](https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ) | [Conflict at Serenity Pools](https://open.spotify.com/artist/2NbYmPv7Un2A0cNOY2uZDd) | [Stained Glass Curtain](https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L) | 2:50 |

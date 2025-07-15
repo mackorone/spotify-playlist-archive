@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,390 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,556 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 15 | [La Sunamita](https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ), [Alex Marquez Oficial](https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt) | [La Sunamita](https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N) | 12:53 |
 | 16 | [Me Dice Que Me Ama](https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 4:01 |
 | 17 | [Supe Que Me Amabas](https://open.spotify.com/track/36e4Sr0dXiyzjVeBWv8cON) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Mas Que Un Anhelo](https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ) | 4:51 |
-| 18 | [Suelto](https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Suelto](https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS) | 4:21 |
-| 19 | [Esta Cayendo](https://open.spotify.com/track/6XXn8f7bPRT2hP4j5nYbcJ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [El Dios De Lo Imposible](https://open.spotify.com/album/73YrJY6JBx5bBJjDmcJ7WU) | 4:42 |
+| 18 | [Esta Cayendo](https://open.spotify.com/track/6XXn8f7bPRT2hP4j5nYbcJ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [El Dios De Lo Imposible](https://open.spotify.com/album/73YrJY6JBx5bBJjDmcJ7WU) | 4:42 |
+| 19 | [Suelto](https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Suelto](https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS) | 4:21 |
 | 20 | [1000 Pedazos](https://open.spotify.com/track/0BJbrz72CTsOG6wqwEKxTa) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Louie Abrego](https://open.spotify.com/artist/7JziUvazVZhoqI0PmAcyHj) | [KINTSUGI](https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo) | 4:12 |
 | 21 | [Levanto Mis Manos](https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Jesús Siempre Llega a Tiempo](https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40) | 5:19 |
 | 22 | [Dame Tus Ojos](https://open.spotify.com/track/3HZCMyuazaSOLgXexcMASl) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Mas Que Un Anhelo](https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ) | 3:34 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 76 | [Eres Mi Padre](https://open.spotify.com/track/0FxQAc8hF5Uk6p0UJj53qh) | [David Letelier](https://open.spotify.com/artist/7pvsdhmhLDOCBwbPbhrB0R) | [Eres Mi Padre \- Single](https://open.spotify.com/album/4SOLXXP9srioMIIX4a3TrF) | 9:04 |
 | 77 | [Glorioso Día](https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd) | [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Glorioso Día](https://open.spotify.com/album/79lisODI2SlbY69xklS6kE) | 7:10 |
 | 78 | [Bendecir Tu Nombre](https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Bendecir Tu Nombre](https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9) | 4:26 |
-| 79 | [Sólo a Ti Jesús](https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Sólo a Ti Jesús](https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc) | 3:36 |
-| 80 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |
+| 79 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |
+| 80 | [Sólo a Ti Jesús](https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Sólo a Ti Jesús](https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc) | 3:36 |
 | 81 | [Mareas \(todo a su tiempo\)](https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Mareas](https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia) | 3:53 |
 | 82 | [Me enamoré](https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai) | [Jonathan Giménez](https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G) | [Me enamoré](https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5) | 4:06 |
 | 83 | [Me Sumerjo en Ti](https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Me Sumerjo en Ti](https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4) | 3:22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 55258,
+  "num_followers": 55303,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADKpcaskIe71H+zHu5EMCIf",
+  "snapshot_id": "aHL3AAAAAABQvmjHKlCyfF+aIkTT7Nn9",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homesick For Heaven",
-        "url": "https://open.spotify.com/album/7u9KebbEd6OIu74RbeVLSX"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Homesick For Heaven",
-      "url": "https://open.spotify.com/track/4XKxQUkr1OW2DQD2geloRS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 327000,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homesick For Heaven",
+        "url": "https://open.spotify.com/album/7u9KebbEd6OIu74RbeVLSX"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Homesick For Heaven",
+      "url": "https://open.spotify.com/track/4XKxQUkr1OW2DQD2geloRS"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/4UyZLGgzMu6jDcVAre7NhO"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 289333,
-      "name": "My All in All",
-      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
+      "duration_ms": 360666,
+      "name": "Song Of The Saints",
+      "url": "https://open.spotify.com/track/2ya8YwRadzYVOUzzIfidFH"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "My All in All",
+      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -635,6 +651,22 @@
       "duration_ms": 231400,
       "name": "Song In My Soul (feat. Hollyn)",
       "url": "https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worthy Of My Song",
+        "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 371640,
+      "name": "Worthy Of My Song",
+      "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
     },
     {
       "added_at": null,
@@ -667,22 +699,6 @@
       "duration_ms": 244546,
       "name": "Heaven Song",
       "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worthy Of My Song",
-        "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 371640,
-      "name": "Worthy Of My Song",
-      "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
     },
     {
       "added_at": null,
@@ -735,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/4UyZLGgzMu6jDcVAre7NhO"
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
       },
       "artists": [
         {
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 360666,
-      "name": "Song Of The Saints",
-      "url": "https://open.spotify.com/track/2ya8YwRadzYVOUzzIfidFH"
+      "duration_ms": 249413,
+      "name": "Cannons",
+      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
     },
     {
       "added_at": null,
@@ -767,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+        "name": "Living Hope (The House Sessions)",
+        "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
       },
       "artists": [
         {
@@ -776,9 +792,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 249413,
-      "name": "Cannons",
-      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
+      "duration_ms": 394626,
+      "name": "How Great Is Your Love",
+      "url": "https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 298026,
       "name": "Divine Romance",
       "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living Hope (The House Sessions)",
-        "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 394626,
-      "name": "How Great Is Your Love",
-      "url": "https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17"
     },
     {
       "added_at": null,

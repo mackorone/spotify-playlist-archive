@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-566 songs - 23 hr 28 min
+567 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [ginza](https://open.spotify.com/track/7napq1DUIYBfFbOxbtRKUu) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/6HIANT2xXqqWtThAX1fXdu) | 2:36 | 2022-06-30 | 2022-07-29 |
 | [Glassy Wave](https://open.spotify.com/track/497tQqdZm2EXvOvRim673I) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/7uwNE4i944rSd3hVlEPUap) | 2:00 | 2023-09-28 | 2023-11-09 |
 | [Glassy Wave](https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu) | 2:00 | 2023-09-28 | 2023-09-30 |
-| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 |  |
+| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 | 2025-07-15 |
 | [golden hour](https://open.spotify.com/track/6vW3cxpUmK3pjyB1GXIu7N) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [golden hour](https://open.spotify.com/album/6dA0ItWZ4CtzsPKTwYvwma) | 1:55 | 2019-05-26\* | 2019-06-15 |
 | [Golden State](https://open.spotify.com/track/1QEHwRNmwnmRnoSokEXvLe) | [Sonus Vibes](https://open.spotify.com/artist/3Lj74BC4DEJSQxE6eWujUa), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Odyssey](https://open.spotify.com/album/1PlCw0Zm0vDHYx3LUASH6h) | 1:48 | 2021-12-16 | 2022-04-21 |
 | [Goldrush](https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td) | 2:08 | 2023-08-17 | 2023-08-29 |
@@ -240,7 +240,7 @@
 | [Its Rainy](https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 2:08 | 2019-05-26\* |  |
 | [Ja\(zz\)mmin](https://open.spotify.com/track/1O8cvz2DsqkIHjUBOPtipS) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Ja\(zz\)mmin](https://open.spotify.com/album/1Kfn4jp9vTt669Ghuw45gW) | 2:01 | 2024-04-12 | 2024-04-19 |
 | [Ja\(zz\)mmin](https://open.spotify.com/track/24KCZicSfQoj496yIIyiTr) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Ja\(zz\)mmin](https://open.spotify.com/album/1QfstQ2VOEcmJKSFIl7ImW) | 2:01 | 2021-06-13 | 2022-07-27 |
-| [Jasmine Tea](https://open.spotify.com/track/4Gr7YJGPPGIe5tfdu5hyzf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Jasmine Tea](https://open.spotify.com/album/0AnnxGRdg76g5N4GehMSLq) | 2:06 | 2020-06-29 |  |
+| [Jasmine Tea](https://open.spotify.com/track/4Gr7YJGPPGIe5tfdu5hyzf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Jasmine Tea](https://open.spotify.com/album/0AnnxGRdg76g5N4GehMSLq) | 2:06 | 2020-06-29 | 2025-07-15 |
 | [Jazz Apple](https://open.spotify.com/track/1X4FlTe5ECNONBfbUWcpXf) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Jazz Apple](https://open.spotify.com/album/3HS9hq92Zdyuh6i52kmn0w) | 2:20 | 2020-06-29 | 2022-11-21 |
 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 | 2022-07-28 | 2024-04-19 |
 | [Jazz Neko](https://open.spotify.com/track/49j4lOcuvvZfzixq12K6QR) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Jazz Neko](https://open.spotify.com/album/2RmRQMaWxREHFSyoS1F4O2) | 2:32 | 2021-09-11 | 2022-07-29 |
@@ -566,7 +566,7 @@
 | [Woodstock](https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [dryhope](https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Woodstock](https://open.spotify.com/album/7gSflGtYJSDOcgCfaUEnGE) | 2:45 | 2020-06-19 |  |
 | [wunnation](https://open.spotify.com/track/5MDfhCCTQlIgz2JugdcCXx) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [0.2](https://open.spotify.com/album/0KY09V02sg1UpM893scHXS) | 2:37 | 2019-05-26\* | 2019-06-15 |
 | [Yesterday](https://open.spotify.com/track/0Vg1lQpk2IHk2JU8UfAa5d) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Love Japan](https://open.spotify.com/album/1JKqsdbwfOK1233EOT67ZM) | 1:11 | 2019-05-26\* | 2021-07-31 |
-| [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 | 2025-07-13 |
+| [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 |  |
 | [You and I](https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm) | [MANTIS](https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa) | [GeGe E.P.](https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX) | 3:32 | 2023-08-31 |  |
 | [Yugure](https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Yugure](https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ) | 2:06 | 2025-01-10 |  |
 | [zen](https://open.spotify.com/track/5jpqTv9D0BFsaYa0SkMbNx) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi), [OONOO](https://open.spotify.com/artist/3N0ZLLAp4RBTBt2zMlRUiw), [botanik](https://open.spotify.com/artist/0KvCRbWbiJwKJWTYGrKi81) | [zen](https://open.spotify.com/album/4BF3jUWMuRqxlqp9ZCRaVx) | 2:37 | 2024-06-14 | 2024-10-05 |
@@ -574,5 +574,6 @@
 | [Zimzilla](https://open.spotify.com/track/5KBh3fUwv6xrDFO6wZzmFI) | [Mad Q](https://open.spotify.com/artist/7IxHBmCE0jN2vhoLKQSZR6) | [Zimzilla](https://open.spotify.com/album/5LVHMBwC8BMucytnEejcTj) | 3:28 | 2019-05-26\* | 2019-08-13 |
 | [夜桜](https://open.spotify.com/track/5p0XdPnjJGBe3939Ythxil) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夜桜](https://open.spotify.com/album/0sZamxxWUgGiRSDf98w8KE) | 2:06 | 2022-04-07 | 2022-07-28 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-10 | 2022-07-29 |
+| [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 | 2025-07-11 |  |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

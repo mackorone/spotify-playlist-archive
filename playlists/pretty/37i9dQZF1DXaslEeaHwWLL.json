@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 74972,
+  "num_followers": 75034,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
@@ -159,26 +159,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Si Tu Novio Te Deja Sola",
-        "url": "https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Si Tu Novio Te Deja Sola",
-      "url": "https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "VIVES",
         "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 194742,
       "name": "Robarte un Beso",
       "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "Si Tu Novio Te Deja Sola",
+        "url": "https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Si Tu Novio Te Deja Sola",
+      "url": "https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq"
     },
     {
       "added_at": "2024-07-13 01:15:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 
 > This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,726 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,730 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 11 | [Jenny of Oldstones](https://open.spotify.com/track/2YmIcPF20FEaQd8qwTK8zm) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 2:30 |
 | 12 | [The North Remembers](https://open.spotify.com/track/4ASe4ZKyRZi7PTfarkYGww) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 2:33 |
 | 13 | [Home](https://open.spotify.com/track/0PmH79CmZR3HCvTukh4Nge) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:30 |
-| 14 | [Dr\. Ford](https://open.spotify.com/track/1pm8TqG9dNIcMGTQNzjYh9) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:30 |
+| 14 | [I Am Hers, She Is Mine](https://open.spotify.com/track/0VCGSZGmYAmtj6at7gREwe) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6) | 2:18 |
 | 15 | [The Last of the Starks](https://open.spotify.com/track/4fXqpIzgHDBhylBBOLOKVX) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 4:52 |
-| 16 | [I Am Hers, She Is Mine](https://open.spotify.com/track/0VCGSZGmYAmtj6at7gREwe) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6) | 2:18 |
+| 16 | [Dr\. Ford](https://open.spotify.com/track/1pm8TqG9dNIcMGTQNzjYh9) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:30 |
 | 17 | [Winter Is Here](https://open.spotify.com/track/3fYO6sRqHy1BdF8EiLGyop) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:54 |
 | 18 | [The Power of Prophecy](https://open.spotify.com/track/3EkwCXyPeH6xGs23tVnJJy) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 2:36 |
 | 19 | [The Night King](https://open.spotify.com/track/1aDklx1GaBqHFowCzz63wU) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 8:50 |
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 21 | [Dragonstone](https://open.spotify.com/track/65KG1BEtR85y2cvIaukuaO) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 5:06 |
 | 22 | [You Know Nothing](https://open.spotify.com/track/0KKPRgsM7LkJqhYgofhgkO) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 3:19 |
 | 23 | [The Prince That Was Promised](https://open.spotify.com/track/5HSQJnJ9Y2yjI9Y2oX6sgl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 4:34 |
-| 24 | [Kill Them All](https://open.spotify.com/track/4m3Irk2mc25kcmJC2uqGlL) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 2:35 |
+| 24 | [King Of The North](https://open.spotify.com/track/27tYMG6SdydZhJMYjIUpR1) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:28 |
 | 25 | [All Must Choose](https://open.spotify.com/track/71g5Rk5G0FAj0Y1hcfjaXq) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 4:44 |
 | 26 | [The Children](https://open.spotify.com/track/3TMbKB8CN7PHHWDvbrkEOv) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 2:41 |
 | 27 | [Dark Wings, Dark Words](https://open.spotify.com/track/2YZy9wVrWyWIGJK7LsJbgZ) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 2:47 |
-| 28 | [King Of The North](https://open.spotify.com/track/27tYMG6SdydZhJMYjIUpR1) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:28 |
+| 28 | [Kill Them All](https://open.spotify.com/track/4m3Irk2mc25kcmJC2uqGlL) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 2:35 |
 | 29 | [A Knight of the Seven Kingdoms](https://open.spotify.com/track/0uURGp4Fsf5hMn2vMORmah) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 1:59 |
 | 30 | [Blood of My Blood](https://open.spotify.com/track/7kMr7gQm5lzvwlc5VZHgMO) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 3:35 |
 | 31 | [Heir to Winterfell](https://open.spotify.com/track/6hL134phTqx5bNFcVtbSyq) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 49 | [Exit Music \(For a Film\)](https://open.spotify.com/track/2fp70dCeAE5WvnC2en1j4b) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 4:26 |
 | 50 | [Shall We Begin?](https://open.spotify.com/track/6Rlybp1JsE3GUjYp5rC0mo) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 1:24 |
 
-Snapshot ID: `aHGlgAAAAAASETkQW0dGi/avw/KUqsQC`
+Snapshot ID: `aHL3AAAAAADQwnY3FLUDdkeFKVBMhk0x`

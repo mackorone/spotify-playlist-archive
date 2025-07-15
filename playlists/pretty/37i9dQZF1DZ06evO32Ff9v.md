@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,704 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,743 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 33 | [Estratega de Guerra](https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 4:07 |
 | 34 | [El Chato](https://open.spotify.com/track/0uNazwI0XPyMqVw4LOsOUt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [El Chato](https://open.spotify.com/album/1pcmtSkSvsZX2anSkn5zsI) | 3:33 |
 | 35 | [Los Vargas](https://open.spotify.com/track/4DnK6AzeP5qfRff5ngA0KQ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 2:21 |
-| 36 | [La Pluma De Wax](https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Tite Chavez](https://open.spotify.com/artist/4NR2FtlNRz6XpiXIeMPw0Q) | [La Pluma De Wax](https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g) | 2:39 |
-| 37 | [No Son Caricaturas](https://open.spotify.com/track/3DiUJWoWuCbxqBdHAYYGt7) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [No Son Caricaturas](https://open.spotify.com/album/4kIdCDTBEwE0aH19xyWdmt) | 3:22 |
+| 36 | [No Son Caricaturas](https://open.spotify.com/track/3DiUJWoWuCbxqBdHAYYGt7) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [No Son Caricaturas](https://open.spotify.com/album/4kIdCDTBEwE0aH19xyWdmt) | 3:22 |
+| 37 | [La Pluma De Wax](https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Tite Chavez](https://open.spotify.com/artist/4NR2FtlNRz6XpiXIeMPw0Q) | [La Pluma De Wax](https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g) | 2:39 |
 | 38 | [El Michoacano](https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 3:44 |
 | 39 | [Andares](https://open.spotify.com/track/1HteRXTExneqPT4b62Vkmf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [El Filly Y Sus Aliados](https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt) | [Andares](https://open.spotify.com/album/3VZIepgxFPJVhurSNpy80p) | 2:31 |
 | 40 | [Sacandole Cuentas](https://open.spotify.com/track/2Kq027U4uFxcbMolvib7Nw) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Sacandole Cuentas](https://open.spotify.com/album/0vlcVWWLFeHE40u4oDKHdt) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [Desde Mañana](https://open.spotify.com/track/14kS4GlsFQGGc480lGfmW4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Desde Mañana](https://open.spotify.com/album/0sY4rfTBN58ZjQC7S14SlR) | 3:28 |
 | 50 | [Que Casualidad](https://open.spotify.com/track/4ijcJd0qbM3i51wVAdoiMt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Que Casualidad](https://open.spotify.com/album/40AK5iEvmLqAYdWLKaBWDV) | 3:39 |
 
-Snapshot ID: `aHGlgAAAAAAXUaG8iZuwZxRpxJ/gxtXU`
+Snapshot ID: `aHL3AAAAAABFzkYJqleN/bn9vRh4GT+P`

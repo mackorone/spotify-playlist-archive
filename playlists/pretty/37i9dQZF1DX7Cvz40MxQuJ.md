@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 
 > it’s giving medieval castlecore✨🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,942 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,036 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

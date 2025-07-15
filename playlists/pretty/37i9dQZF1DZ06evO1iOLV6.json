@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 11419,
+  "num_followers": 11423,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACWekf0g/O9dL2pYsVExDyU",
+  "snapshot_id": "aHL3AAAAAADogvfIQ3q1TQcXzKPyD5QW",
   "tracks": [
     {
       "added_at": null,
@@ -27,30 +27,6 @@
       "duration_ms": 177318,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Devil Wears White",
-        "url": "https://open.spotify.com/album/3BR3nIfDHdX3Nn38JgJHY1"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 190488,
-      "name": "Devil Wears White",
-      "url": "https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr"
     },
     {
       "added_at": null,
@@ -87,6 +63,30 @@
       "duration_ms": 204654,
       "name": "Particula",
       "url": "https://open.spotify.com/track/2mZLaQDdLplafm3Y5HMr51"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Devil Wears White",
+        "url": "https://open.spotify.com/album/3BR3nIfDHdX3Nn38JgJHY1"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 190488,
+      "name": "Devil Wears White",
+      "url": "https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr"
     },
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+        "name": "Suh Different",
+        "url": "https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 199198,
-      "name": "Abule",
-      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
+      "duration_ms": 218488,
+      "name": "Suh Different",
+      "url": "https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suh Different",
-        "url": "https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7"
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 218488,
-      "name": "Suh Different",
-      "url": "https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5"
+      "duration_ms": 199198,
+      "name": "Abule",
+      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
     },
     {
       "added_at": null,
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Golden Boy",
         "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 217710,
       "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
       "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Something Nice",
-      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma girl",
-        "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
-      },
-      "artists": [
-        {
-          "name": "Toofan",
-          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Ma girl",
-      "url": "https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "W.E.E.D.",
         "url": "https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY"
       },
@@ -903,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma girl",
+        "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Ma girl",
+      "url": "https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wilmer",
         "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 224597,
       "name": "Wilmer (feat. Bera)",
       "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 260146,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr"
     },
     {
       "added_at": null,
@@ -943,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD"
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
       "artists": [
         {
@@ -952,9 +968,9 @@
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 260146,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr"
+      "duration_ms": 208355,
+      "name": "Hal\u00e9 Hal\u00e9",
+      "url": "https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH"
     },
     {
       "added_at": null,
@@ -975,22 +991,6 @@
       "duration_ms": 153057,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 208355,
-      "name": "Hal\u00e9 Hal\u00e9",
-      "url": "https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 232027,
+      "name": "G.O.E",
+      "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 194417,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 232027,
-      "name": "G.O.E",
-      "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
     }
   ],
   "unique_name": "This Is Patoranking",

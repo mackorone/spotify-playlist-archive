@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,929,462 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,928,998 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 71 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
 | 72 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 |
 | 73 | [Stephanie](https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw) | [Stephanie](https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk) | 3:08 |
-| 74 | [We Are The People \- ARTBAT Remix](https://open.spotify.com/track/0L6223jyrD2qFSxSmjpEMP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [We Are The People \(ARTBAT Remix\)](https://open.spotify.com/album/60byCifK9JXAUwNzbpfSS2) | 3:58 |
-| 75 | [Mission](https://open.spotify.com/track/6iVHwPKzB5hN1jSCOHMw8z) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Mission](https://open.spotify.com/album/40O6jxEr7BR4qpMsqovjNx) | 1:58 |
-| 76 | [Satisfaction](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT) | 2:35 |
+| 74 | [Satisfaction](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT) | 2:35 |
+| 75 | [We Are The People \- ARTBAT Remix](https://open.spotify.com/track/0L6223jyrD2qFSxSmjpEMP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [We Are The People \(ARTBAT Remix\)](https://open.spotify.com/album/60byCifK9JXAUwNzbpfSS2) | 3:58 |
+| 76 | [Mission](https://open.spotify.com/track/6iVHwPKzB5hN1jSCOHMw8z) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Mission](https://open.spotify.com/album/40O6jxEr7BR4qpMsqovjNx) | 1:58 |
 | 77 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
 | 78 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
 | 79 | [Hollow \(feat\. Bonn\)](https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hollow \(feat\. Bonn\)](https://open.spotify.com/album/62cNVQX5G5tM6n302goHbL) | 3:20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 6315,
+  "num_followers": 6317,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAA8EiZf/RZFoPlCokEbPELi",
+  "snapshot_id": "aHL3AAAAAADFdXy6Faa6qFmcQb9etTx+",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tokrom",
+        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 384773,
+      "name": "Tokrom",
+      "url": "https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obi Ate Meso Buo",
         "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 248493,
       "name": "Adepa Hye Adepa Mu",
       "url": "https://open.spotify.com/track/5ds48ZOnVldBlcUudozuaF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tokrom",
-        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 384773,
-      "name": "Tokrom",
-      "url": "https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 386089,
-      "name": "S\u025bsee Wo Se",
-      "url": "https://open.spotify.com/track/3bm3TifQ8suct6OfRd0lJM"
+      "duration_ms": 317701,
+      "name": "Anidaso Woho Ma Obiara",
+      "url": "https://open.spotify.com/track/3foSzTyAH65I38QAUl3GQs"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 317701,
-      "name": "Anidaso Woho Ma Obiara",
-      "url": "https://open.spotify.com/track/3foSzTyAH65I38QAUl3GQs"
+      "duration_ms": 386089,
+      "name": "S\u025bsee Wo Se",
+      "url": "https://open.spotify.com/track/3bm3TifQ8suct6OfRd0lJM"
     },
     {
       "added_at": null,

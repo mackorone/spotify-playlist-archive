@@ -1,6 +1,6 @@
 {
   "description": "that\u2019s how it's supposed to be. living young, wild and free!!!!!",
-  "num_followers": 2671339,
+  "num_followers": 2671111,
   "original_name": "young, wild & free",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "Ditto",
-        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Ditto",
-      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -695,6 +695,26 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "Beautiful People (feat. Khalid)",
+        "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Beautiful People (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller x Polo G)",
         "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "Beautiful People (feat. Khalid)",
-        "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Beautiful People (feat. Khalid)",
-      "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
         "name": "Born To Be Yours",
         "url": "https://open.spotify.com/album/31J0UqxAkl9utyC0L59Mae"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 193320,
       "name": "Born To Be Yours",
       "url": "https://open.spotify.com/track/0kHyKhJMukHEPfeh8s7rdM"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "Levitating (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "TIM",
-        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 277261,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 192000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 277261,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
     },
     {
       "added_at": "2024-02-12 16:10:18",

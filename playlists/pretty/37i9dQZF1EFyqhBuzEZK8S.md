@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,244 likes - 327 songs - 20 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,256 likes - 327 songs - 20 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 43 | [Out Of The Woods](https://open.spotify.com/track/0qUnBLZ8bJqUNEeQgayL9t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:55 |
 | 44 | [Death By A Thousand Cuts](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:18 |
 | 45 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 |
-| 46 | [Brave](https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:40 |
-| 47 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
+| 46 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
+| 47 | [Brave](https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:40 |
 | 48 | [gold rush](https://open.spotify.com/track/5BK0uqwY9DNfZ630STAEaq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:05 |
 | 49 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
 | 50 | [I Think He Knows](https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:53 |
@@ -221,8 +221,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 211 | [Sugarboy](https://open.spotify.com/track/35TIanClNm1DxcyREpNC7g) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:01 |
 | 212 | [You Make It Easy](https://open.spotify.com/track/6smjTvYyBqTD71vXyJZviN) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 2:56 |
 | 213 | [Keeping A Secret](https://open.spotify.com/track/7CoZlkSFHX1UqdJ1S90pc8) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Love, Simon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JHZTusMlrbbTBC3xHt2Gw) | 3:25 |
-| 214 | [Corpus Christi](https://open.spotify.com/track/7Hkwpt3GaRntiCrbCyJ4BN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:52 |
-| 215 | [Tights On My Boat](https://open.spotify.com/track/2iA9BkvtzkdGT4wxqqwzKh) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:02 |
+| 214 | [Tights On My Boat](https://open.spotify.com/track/2iA9BkvtzkdGT4wxqqwzKh) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:02 |
+| 215 | [Corpus Christi](https://open.spotify.com/track/7Hkwpt3GaRntiCrbCyJ4BN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:52 |
 | 216 | [Barlights](https://open.spotify.com/track/0wkDejjx6fJhdPilVnvYMP) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 4:17 |
 | 217 | [Foreign Girls](https://open.spotify.com/track/7taGa7J1rarzpRgukrnkMk) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 4:02 |
 | 218 | [Never Fall In Love](https://open.spotify.com/track/1f6zTjO9xqaRRbs1p9H4r6) | [Jack Antonoff](https://open.spotify.com/artist/414TS3VqZf1XPCBixdmX9n), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Love, Simon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JHZTusMlrbbTBC3xHt2Gw) | 3:36 |
@@ -336,4 +336,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 326 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 | 327 | [What the Fuck \- Live](https://open.spotify.com/track/57C1sRLazYPpOl9HAWuU7H) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Before Shane Went to Bangkok: FUN\. LIVE in the USA](https://open.spotify.com/album/5RXUNQwcgpWLFUqhvwoY8F) | 6:42 |
 
-Snapshot ID: `Ab2slAAAAADSRNomAtiNzceu2+S41WIE`
+Snapshot ID: `Ab2ycAAAAACDpHiftFoQiEHCb1tGWzQM`

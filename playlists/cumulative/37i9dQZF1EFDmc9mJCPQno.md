@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 6 hr 46 min
+129 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cruel To Be Kind](https://open.spotify.com/track/6TrwwLTF6FqnqIqgwDb2SB) | [Ea Kaya](https://open.spotify.com/artist/2cMDCP6zOLaPPbOXMD4193) | [Cruel To Be Kind](https://open.spotify.com/album/2Y5krCslXIJ2BGz6LNU3sP) | 2:53 | 2024-07-03 |  |
 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 | 2025-02-27 |  |
 | [Cut You Off](https://open.spotify.com/track/4TlqVWqSCEEyNHhlEOtMvE) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Experience\)](https://open.spotify.com/album/2gX0nMFSbHtcCY6F2GGgU4) | 2:53 | 2024-07-03 |  |
+| [death](https://open.spotify.com/track/2VrMoRFZLk2NYuZpfxC06B) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [committed to a bit](https://open.spotify.com/album/7pzCbXIKBn1wqJSNI8icip) | 3:44 | 2025-07-14 |  |
 | [Declaration](https://open.spotify.com/track/5h3sUmbwEdFkxejGryYhj6) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:38 | 2024-07-03 |  |
 | [Devil](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Devil](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) | 2:57 | 2024-07-03 |  |
 | [Do You Even Think About Me?](https://open.spotify.com/track/3NJnIRaWen01KswFmcCxX6) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:16 | 2025-03-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 
 > in a dim, dusty library, reading your novel, and thinking of that special someone
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,446 likes - 85 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,540 likes - 85 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 | 69 | [I'm Confessin'](https://open.spotify.com/track/7isKcNmNuuDEK2I8iFhe7h) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:39 |
 | 70 | [Desmond Blue \- 2001 Remastered](https://open.spotify.com/track/11m9dTmaDfP5HNQ5kQT0om) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 3:37 |
 | 71 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0oeUGF5YJJrH8I8dNKTLvl) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Or Bareket](https://open.spotify.com/artist/7hRyRSyX5ki2vDzjfedv3j) | [Conner's Days](https://open.spotify.com/album/6oVWqfFOSjt1W0tlMmLudj) | 4:22 |
-| 72 | [What's The Rush](https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 3:42 |
+| 72 | [What's The Rush](https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 3:42 |
 | 73 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Everybody Knows](https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C) | 3:04 |
 | 74 | [Time After Time](https://open.spotify.com/track/7Fuue9FNvmjCURoQb8kaL8) | [Hank Mobley Sextet](https://open.spotify.com/artist/1BrXbX50aZHFBnHNwGB3KI) | [Hank](https://open.spotify.com/album/35ona1ri21vJHi7dWYyh7z) | 6:45 |
 | 75 | [I'm A Fool To Want You \- Remastered 2006](https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:12 |

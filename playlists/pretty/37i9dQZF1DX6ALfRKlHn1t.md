@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149,095 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,440 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 67 | [Sweet Danger](https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sweet Danger](https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2) | 2:40 |
 | 68 | [Barrio Hustle](https://open.spotify.com/track/6UK4epTqVwWpeFfslXecth) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:14 |
 | 69 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
-| 70 | [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 |
-| 71 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
+| 70 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
+| 71 | [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 |
 | 72 | [Kinky](https://open.spotify.com/track/2kIDECuRDbagrRqLOY3Mnm) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [1](https://open.spotify.com/album/76OFhgPO6W6WMwm6KlKX0Y) | 2:14 |
 | 73 | [Rescue Me](https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Rescue Me](https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8) | 2:52 |
 | 74 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 |

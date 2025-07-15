@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Homegrown talent feat\. Jessica Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,671 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,675 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Big Star](https://open.spotify.com/track/3DNGZZFDLOOvUc6v5aX24g) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Big Star](https://open.spotify.com/album/1Geweu0ryMaaDo1X92n1aR) | 3:34 |
-| 2 | [MOVIE STAR](https://open.spotify.com/track/3iDIXnTTy0xOiyAalKFPtJ) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [MOVIE STAR](https://open.spotify.com/album/1R3K5mJt6wBOA7y1npEplA) | 2:05 |
-| 3 | [Follow Excitement!](https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Follow Excitement!](https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX) | 2:28 |
-| 4 | [Last Time](https://open.spotify.com/track/3AyaFXej7BWZikIM22qEpi) | [Leah Cleaver](https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM) | [Last Time](https://open.spotify.com/album/6gyyB0lK7tYkRvRIfA99dr) | 3:15 |
-| 5 | [Hotel Delilah](https://open.spotify.com/track/1wAqj59abDOcMAI2Jj3ZWM) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:25 |
-| 6 | [right on the money](https://open.spotify.com/track/0GN9p3uPq4p3OTi7Tltsi6) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [right on the money](https://open.spotify.com/album/2kabo6OeJnvQzvfzJ0ubhG) | 2:38 |
-| 7 | [Steep](https://open.spotify.com/track/5hgLQwotAYS52Pq9cR6rqq) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Ladybug](https://open.spotify.com/album/43ysMhPPbGWW5eXS0risKq) | 2:57 |
-| 8 | [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 |
-| 9 | [ROCKNROLL](https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ROCKNROLL](https://open.spotify.com/album/6YZrNliHSuIg4tbI1vc27j) | 2:29 |
-| 10 | [Man In The Middle](https://open.spotify.com/track/0JEsYciJ7ESWOckO7cSf4P) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Man In The Middle](https://open.spotify.com/album/2BheTCgK4PPKbqxxZSyc7M) | 3:30 |
+| 2 | [Hotel Delilah](https://open.spotify.com/track/1wAqj59abDOcMAI2Jj3ZWM) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:25 |
+| 3 | [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 |
+| 4 | [ROCKNROLL](https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ROCKNROLL](https://open.spotify.com/album/6YZrNliHSuIg4tbI1vc27j) | 2:29 |
+| 5 | [Man In The Middle](https://open.spotify.com/track/0JEsYciJ7ESWOckO7cSf4P) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Man In The Middle](https://open.spotify.com/album/2BheTCgK4PPKbqxxZSyc7M) | 3:30 |
+| 6 | [MOVIE STAR](https://open.spotify.com/track/3iDIXnTTy0xOiyAalKFPtJ) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [MOVIE STAR](https://open.spotify.com/album/1R3K5mJt6wBOA7y1npEplA) | 2:05 |
+| 7 | [Follow Excitement!](https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Follow Excitement!](https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX) | 2:28 |
+| 8 | [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 |
+| 9 | [Steep](https://open.spotify.com/track/5hgLQwotAYS52Pq9cR6rqq) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Ladybug](https://open.spotify.com/album/43ysMhPPbGWW5eXS0risKq) | 2:57 |
+| 10 | [Last Time](https://open.spotify.com/track/3AyaFXej7BWZikIM22qEpi) | [Leah Cleaver](https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM) | [Last Time](https://open.spotify.com/album/6gyyB0lK7tYkRvRIfA99dr) | 3:15 |
 | 11 | [The Highlands](https://open.spotify.com/track/30ytgFw6dKIvuzfrgK4Nhd) | [Annabel Jones](https://open.spotify.com/artist/5koilOAvfuLq4O2yc9UWft) | [Forgiveness](https://open.spotify.com/album/20DhWiUjiS5xziDIXcds4E) | 3:13 |
-| 12 | [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 |
-| 13 | [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 |
+| 12 | [right on the money](https://open.spotify.com/track/0GN9p3uPq4p3OTi7Tltsi6) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [right on the money](https://open.spotify.com/album/2kabo6OeJnvQzvfzJ0ubhG) | 2:38 |
+| 13 | [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 |
 | 14 | [GOSSIP GIRL](https://open.spotify.com/track/1z68IZmNgAZEHY57VxGSRM) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [GOSSIP GIRL](https://open.spotify.com/album/5C3gU76Ru06RkMuSWHA7wp) | 2:10 |
 | 15 | [new friends](https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [new friends](https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt) | 2:45 |
 | 16 | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/track/0dC9OuZL5Qh70N37wtwGHJ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/album/1QTFFa1qM6luiHOk5ey5ue) | 3:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 69 | [naked](https://open.spotify.com/track/4WV5x9dXa0jRCdzYhN5VyA) | [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [naked](https://open.spotify.com/album/2yGNwA8lOIOV9SSxA9f5GC) | 3:07 |
 | 70 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 |
 
-Snapshot ID: `aHDxeQAAAABkX46tRLFQuWOgoKia9lG+`
+Snapshot ID: `aHTDugAAAADqmgRUdWLhNb9KnUQ2GGXa`

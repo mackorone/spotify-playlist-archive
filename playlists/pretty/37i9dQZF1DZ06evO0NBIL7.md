@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 
 > This is Fangclub\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,465 likes - 28 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,464 likes - 28 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,19 +22,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 12 | [Bad Words](https://open.spotify.com/track/01lrUfvimjGgJTA4sat6kU) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 4:27 |
 | 13 | [Viva Violent](https://open.spotify.com/track/6q4clEp8vrma0ywWTys1u4) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:32 |
 | 14 | [Exit Oblivion](https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [all good](https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes) | 3:30 |
-| 15 | [Sweater Forever](https://open.spotify.com/track/10YXcqDShIS3lewg8ldRw2) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 4:01 |
+| 15 | [Heart Is A Landmine](https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:20 |
 | 16 | [Role Models](https://open.spotify.com/track/5dDguee73zfJMY9zmG0euw) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:24 |
 | 17 | [Heavy Handed](https://open.spotify.com/track/0KVdDZCYaEidgt0PY2TuBU) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:15 |
 | 18 | [Coma Happy](https://open.spotify.com/track/3PRA9QSYQjNJk5EGEiIlLS) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Coma Happy](https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn) | 3:46 |
-| 19 | [Heart Is A Landmine](https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:20 |
+| 19 | [Sweater Forever](https://open.spotify.com/track/10YXcqDShIS3lewg8ldRw2) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 4:01 |
 | 20 | [Lightning](https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:41 |
 | 21 | [Kingdumb](https://open.spotify.com/track/7IbR89c0eXe2INNW2brzqK) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:11 |
-| 22 | [Psycho \- Demo](https://open.spotify.com/track/7wzUVLEfDMTHZZaxae04fs) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Bullet Head](https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG) | 2:58 |
+| 22 | [Young Blood](https://open.spotify.com/track/2FGDUtevCco1pUEzomho3z) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Bullet Head](https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG) | 2:43 |
 | 23 | [High](https://open.spotify.com/track/12RaagYNB2IjIDzE7fRFKe) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:23 |
-| 24 | [Better To Forget](https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:52 |
+| 24 | [Bullet Head](https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 2:00 |
 | 25 | [Inside Joke](https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Coma Happy](https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn) | 3:07 |
-| 26 | [Young Blood](https://open.spotify.com/track/2FGDUtevCco1pUEzomho3z) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Bullet Head](https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG) | 2:43 |
+| 26 | [Psycho \- Demo](https://open.spotify.com/track/7wzUVLEfDMTHZZaxae04fs) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Bullet Head](https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG) | 2:58 |
 | 27 | [Smother](https://open.spotify.com/track/0UyJzQAVx5FS31p4JXqddU) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 2:45 |
-| 28 | [Bullet Head](https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 2:00 |
+| 28 | [Better To Forget](https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:52 |
 
-Snapshot ID: `aHGlgAAAAACoxk+IVjSJ1e0e0l6kAErH`
+Snapshot ID: `aHL3AAAAAABjYCCs1OpO8ELOh+QAQVsJ`

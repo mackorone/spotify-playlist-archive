@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 
 > El amor no se escucha, se siente...
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,889 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,950 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 67 | [Si Me Dejas Ahora](https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 4:32 |
 | 68 | [Caminar de Tu Mano \(feat\. Fonseca\)](https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Eres la Persona Correcta en el Momento Equivocado \(Deluxe Edition\)](https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr) | 3:26 |
 | 69 | [Te Equivocaste](https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
-| 70 | [Aunque Sea Un Momento](https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Contra el Viento](https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr) | 3:39 |
-| 71 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
+| 70 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
+| 71 | [Aunque Sea Un Momento](https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Contra el Viento](https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr) | 3:39 |
 | 72 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
 | 73 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
 | 74 | [Entra en Mi Vida](https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:09 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 97 | [Mientes](https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mientes](https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX) | 2:40 |
 | 98 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 |
 | 99 | [Sincerándome](https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 3:39 |
-| 100 | [Cuarto De Hotel \- Canción Original de El Secreto Del Orfebre](https://open.spotify.com/track/2zU8pHOx5mpATlzfmf2qC6) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Cuarto De Hotel \(Canción Original de El Secreto Del Orfebre\)](https://open.spotify.com/album/4gXU7oRmwGK8dh6Zjmi4Nq) | 2:57 |
+| 100 | [Caballero](https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Caballero](https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C) | 3:48 |
 
 Snapshot ID: `aHCu2wAAAABPSfQlbZKehtc08nLRtGzI`

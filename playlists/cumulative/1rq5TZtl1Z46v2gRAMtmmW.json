@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231737,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q"
+    },
+    {
+      "album": {
         "name": "CHROMA 001",
         "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
       },
@@ -5388,6 +5406,24 @@
       "duration_ms": 206095,
       "name": "Night Sculpture",
       "url": "https://open.spotify.com/track/6ZCx2AjyhVmQhjOBkgFXnl"
+    },
+    {
+      "album": {
+        "name": "NNeed U",
+        "url": "https://open.spotify.com/album/1JOFUxYXfdlvz3GfL7LFUD"
+      },
+      "artists": [
+        {
+          "name": "Sim Fane",
+          "url": "https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284444,
+      "name": "NNeed U",
+      "url": "https://open.spotify.com/track/6V7etlptf86aDDwjOKFEPG"
     },
     {
       "album": {

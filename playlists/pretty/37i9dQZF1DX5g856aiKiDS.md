@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,962 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,990 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 17 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
 | 18 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 |
 | 19 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 |
-| 20 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
-| 21 | [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 |
+| 20 | [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 |
+| 21 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
 | 22 | [2 O' CLOCK](https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [2 O' CLOCK](https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil) | 2:32 |
 | 23 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 | 24 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 |

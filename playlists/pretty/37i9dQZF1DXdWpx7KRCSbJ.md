@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,159 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,105 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 37 | [Coladinha em Mim \- Ao Vivo](https://open.spotify.com/track/2lN3l0jHCjVulwdPX6NvUn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Coladinha em Mim \(Ao Vivo\)](https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA) | 2:50 |
 | 38 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
 | 39 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 |
-| 40 | [Vem \- Ao Vivo](https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Laje 67 \(Ao Vivo\)](https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u) | 3:14 |
-| 41 | [Pode Me Bloquear](https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H) | [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Batidão Do Playboy 2](https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn) | 3:08 |
+| 40 | [Pode Me Bloquear](https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H) | [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Batidão Do Playboy 2](https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn) | 3:08 |
+| 41 | [Vem \- Ao Vivo](https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Laje 67 \(Ao Vivo\)](https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u) | 3:14 |
 | 42 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
 | 43 | [Terra Sem CEP \- Ao Vivo](https://open.spotify.com/track/2U94QDSo9N4e1iXrjo7KAB) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:57 |
 | 44 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 65 | [Século 21](https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Século 21](https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7) | 2:47 |
 | 66 | [Pagodão in the Usa](https://open.spotify.com/track/0innc8nhrzOD2So8Chekvi) | [Ventura](https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF), [DJ Nardini](https://open.spotify.com/artist/1zGxPsrLbk8aVWBRmdQD9E) | [Quarenight](https://open.spotify.com/album/3LEo6WorscdkYEUYBedWud) | 2:32 |
 | 67 | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X) | 2:41 |
-| 68 | [Deixe\-Me Ir \- Kiko Franco e Woak Remix](https://open.spotify.com/track/19kNNsdVTF4Bq06Oxv8WhT) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2), [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb) | [Deixe\-Me Ir \(Kiko Franco e Woak Remix\)](https://open.spotify.com/album/6zG3uIr7njYZBzXe2s2juU) | 3:34 |
-| 69 | [Até Ex Duvida \(feat\. Maiara & Maraisa\) \- Ao Vivo](https://open.spotify.com/track/3twpVbHfTCpgHNlStxfpzx) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Day e Lara \(...\) \[Ao Vivo\]](https://open.spotify.com/album/4ijQqGz1C1a8JtKBykhYsj) | 2:37 |
+| 68 | [Até Ex Duvida \(feat\. Maiara & Maraisa\) \- Ao Vivo](https://open.spotify.com/track/3twpVbHfTCpgHNlStxfpzx) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Day e Lara \(...\) \[Ao Vivo\]](https://open.spotify.com/album/4ijQqGz1C1a8JtKBykhYsj) | 2:37 |
+| 69 | [Deixe\-Me Ir \- Kiko Franco e Woak Remix](https://open.spotify.com/track/19kNNsdVTF4Bq06Oxv8WhT) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2), [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb) | [Deixe\-Me Ir \(Kiko Franco e Woak Remix\)](https://open.spotify.com/album/6zG3uIr7njYZBzXe2s2juU) | 3:34 |
 | 70 | [Qualidade De Vida \- Ao Vivo](https://open.spotify.com/track/5Wmg5LPPJnbMsKA9fthM3l) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Qualidade De Vida \(Ao Vivo\)](https://open.spotify.com/album/2zfqph70lkdj2EXP6IzrZq) | 2:34 |
 
 Snapshot ID: `ZIxZ8QAAAAAY/n362nV32eTk/46x2XMj`

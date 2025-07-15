@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1641784,
+  "num_followers": 1641781,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACer0ZFkPvtwT41WkO76NLb",
+  "snapshot_id": "aHL3AAAAAADOqYWbfpRdNAY+26s5QXpN",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Dancing in love",
-      "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different World",
         "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 222320,
       "name": "Lost Control",
       "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Dancing in love",
+      "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different World",
         "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 198880,
       "name": "All Falls Down (feat. Juliander)",
       "url": "https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
       "added_at": null,
@@ -947,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 165388,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
     },
     {
       "added_at": null,

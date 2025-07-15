@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 
 > This is Bailey Zimmerman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,024 likes - 27 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,057 likes - 27 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 | 9 | [Never Comin' Home](https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Never Comin' Home](https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8) | 3:14 |
 | 10 | [New To Country](https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [New To Country](https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr) | 2:57 |
 | 11 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |
-| 12 | [Waiting](https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:37 |
-| 13 | [Someone In This Room \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 3:20 |
+| 12 | [Someone In This Room \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 3:20 |
+| 13 | [Waiting](https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:37 |
 | 14 | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE) | 3:14 |
 | 15 | [Where It Ends](https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:59 |
 | 16 | [Change](https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Change](https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB) | 3:08 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 | 26 | [Won’t Back Down \(feat\. YoungBoy Never Broke Again, Bailey Zimmerman & Dermot Kennedy\) \- Sped Up](https://open.spotify.com/track/43KSFGpSKun6AX5GxKvQCR) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [FAST X \(Sped Up / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO) | 2:15 |
 | 27 | [From The Fall](https://open.spotify.com/track/1NYf23TIqL4hyIw8rppZ2S) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:48 |
 
-Snapshot ID: `aHGlgAAAAAAbDNPGc2kQ2Yrk/yMVGxGv`
+Snapshot ID: `aHL3AAAAAAAJs62L0qZLrqvth2qqsqqW`

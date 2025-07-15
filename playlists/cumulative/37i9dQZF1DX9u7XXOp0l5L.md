@@ -4,11 +4,11 @@
 
 > Non\-stop een goed gevoel!
 
-256 songs - 16 hr 2 min
+257 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Feels Like\) Heaven](https://open.spotify.com/track/41Laec0pItedzpw2D8HWYp) | [Fiction Factory](https://open.spotify.com/artist/6T6T5RCps6bHzTSDq8pyFj) | [Throw The Warped Wheel Out](https://open.spotify.com/album/04HMu1DvCSfkS5vqctgjUp) | 3:33 | 2025-02-25 |  |
+| [\(Feels Like\) Heaven](https://open.spotify.com/track/41Laec0pItedzpw2D8HWYp) | [Fiction Factory](https://open.spotify.com/artist/6T6T5RCps6bHzTSDq8pyFj) | [Throw The Warped Wheel Out](https://open.spotify.com/album/04HMu1DvCSfkS5vqctgjUp) | 3:33 | 2025-02-25 | 2025-07-15 |
 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 | 2024-09-27 | 2024-11-22 |
 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 | 2019-07-09 | 2024-04-19 |
 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 | 2019-07-09 |  |
@@ -65,6 +65,7 @@
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2020-04-18 |  |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2024-07-26 |  |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2019-07-09 | 2024-04-19 |
+| [Disco Inferno \- Edit](https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Playlist: The Best Of The Trammps](https://open.spotify.com/album/2fbPRtAt1i5f68lZegx1iB) | 3:35 | 2025-05-07 |  |
 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2019-07-09 |  |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 | 2019-07-09 | 2024-04-19 |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2020-01-26 |  |

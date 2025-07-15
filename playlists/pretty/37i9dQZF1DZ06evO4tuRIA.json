@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 96908,
+  "num_followers": 96966,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAC/2qMN/2dzulBvJEpz/eAZ",
+  "snapshot_id": "aHL3AAAAAAD5LeMevXCk3kfnXQ0+XuaQ",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duetos Con La Clika",
-        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 218500,
-      "name": "Ojos De Maniaco",
-      "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
+      "duration_ms": 174205,
+      "name": "Plata",
+      "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
     },
     {
       "added_at": null,
@@ -91,22 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+        "name": "Duetos Con La Clika",
+        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 174205,
-      "name": "Plata",
-      "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
+      "duration_ms": 218500,
+      "name": "Ojos De Maniaco",
+      "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
     },
     {
       "added_at": null,
@@ -367,30 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
-        }
-      ],
-      "duration_ms": 172316,
-      "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
-      "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4-20-20",
         "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
       },
@@ -411,6 +387,30 @@
       "duration_ms": 180082,
       "name": "Soy Lo Que Soy",
       "url": "https://open.spotify.com/track/1l3pEeeJygmbS1yVnrd7Cq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        }
+      ],
+      "duration_ms": 172316,
+      "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
+      "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Michoacan",
-        "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 162375,
-      "name": "Soy de Michoacan",
-      "url": "https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L7X",
         "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 159509,
       "name": "LOS ESPA\u00d1OLES",
       "url": "https://open.spotify.com/track/4jZT0NW8huOQWBbtmdsNuY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy de Michoacan",
+        "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 162375,
+      "name": "Soy de Michoacan",
+      "url": "https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L7X",
+        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "UN WOODCITO",
+      "url": "https://open.spotify.com/track/53TUjlPBTgpsuNxesGx6Gs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Disney",
         "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L7X",
-        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "UN WOODCITO",
-      "url": "https://open.spotify.com/track/53TUjlPBTgpsuNxesGx6Gs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Charal",
         "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
       },
@@ -627,26 +627,6 @@
       "duration_ms": 202026,
       "name": "El Charal",
       "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 194929,
-      "name": "Chevrolet 4X4",
-      "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
     },
     {
       "added_at": null,
@@ -687,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 194929,
+      "name": "Chevrolet 4X4",
+      "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAKABELICOS",
         "url": "https://open.spotify.com/album/4P1pjWEiQGkzBap2NLa0ei"
       },
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L7X",
+        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 129791,
+      "name": "ME VALE LO QUE DIGAN",
+      "url": "https://open.spotify.com/track/21iCh1TEu9d6Q4y2eWklHQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Niveleando Cuh II",
         "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
       },
@@ -739,26 +755,6 @@
       "duration_ms": 164790,
       "name": "De Bajo Perfil",
       "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L7X",
-        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 150143,
-      "name": "EN VERGUIZA",
-      "url": "https://open.spotify.com/track/21Kwv0vWICbiM5OBSzGDuH"
     },
     {
       "added_at": null,
@@ -811,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "L7X",
+        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 150143,
+      "name": "EN VERGUIZA",
+      "url": "https://open.spotify.com/track/21Kwv0vWICbiM5OBSzGDuH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 145375,
       "name": "Seguimos Dando Lata",
       "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L7X",
-        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 129791,
-      "name": "ME VALE LO QUE DIGAN",
-      "url": "https://open.spotify.com/track/21iCh1TEu9d6Q4y2eWklHQ"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "El Que Me Cerr\u00f3 la Puerta",
-      "url": "https://open.spotify.com/track/3meYy69YC7gKmHgTJGq7Q4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Madrugada",
         "url": "https://open.spotify.com/album/6bcJJPXLOd0mpMc3eV6NYv"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 177661,
       "name": "La Madrugada",
       "url": "https://open.spotify.com/track/1YjkB7y1ab01bX0e7YtE9Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "El Que Me Cerr\u00f3 la Puerta",
+      "url": "https://open.spotify.com/track/3meYy69YC7gKmHgTJGq7Q4"
     },
     {
       "added_at": null,

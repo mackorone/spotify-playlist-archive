@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,892 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,881 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 47 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
 | 48 | [Casanova](https://open.spotify.com/track/3MvAbg1lc0SC7Qi1UOvrpg) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Casanova](https://open.spotify.com/album/696HC3UABKkKCfHnZGEhCs) | 2:35 |
 | 49 | [Tides](https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Mirage Morning](https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ) | 2:42 |
-| 50 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
-| 51 | [You Don't Know How to Drive](https://open.spotify.com/track/10eGximnbByN1OCjAS4IoZ) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [You Don't Know How to Drive](https://open.spotify.com/album/5Ul7nxr0KsPt4vde0Ue5zY) | 3:15 |
+| 50 | [You Don't Know How to Drive](https://open.spotify.com/track/10eGximnbByN1OCjAS4IoZ) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [You Don't Know How to Drive](https://open.spotify.com/album/5Ul7nxr0KsPt4vde0Ue5zY) | 3:15 |
+| 51 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
 | 52 | [Like You](https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Like You](https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6) | 2:53 |
 | 53 | [Highroll](https://open.spotify.com/track/4eaXS4949afO8LgaF4rzZO) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Highroll](https://open.spotify.com/album/2Kaxgrdx5WnASCgyIRlII4) | 3:01 |
 | 54 | [Highness](https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3) | [Nosoyo](https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs) | [Highness](https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5) | 3:13 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 77 | [Non\-Breakable Space](https://open.spotify.com/track/47YQlBQsQv1CfHi1E1Lnq8) | [Small Fires](https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc) | [All This Noise](https://open.spotify.com/album/1s352S6claWIYeJ0bvwyrq) | 3:43 |
 | 78 | [Amsterdam](https://open.spotify.com/track/0NfRaEBCHoEmwNDrpmtGoP) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Amsterdam](https://open.spotify.com/album/43gKGAue0Die8iUBwnAG7W) | 3:25 |
 | 79 | [Parasols](https://open.spotify.com/track/2pbIIJf26jXuS70UbDsdD0) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Parasols](https://open.spotify.com/album/0u6JSuef88Gk0cD2cKJxgF) | 3:19 |
-| 80 | [Wonderful Life](https://open.spotify.com/track/1x4KLJQkSp7Zukk4Xjx98q) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/2xH369QbqwYtRNDhJZvbuF) | 3:19 |
-| 81 | [Lovers](https://open.spotify.com/track/6AccHVZg9yVxPv6TbEF4Lw) | [KEØMA](https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U) | [Lovers](https://open.spotify.com/album/17iM8xirzqQOAm4w7zZd6D) | 3:06 |
+| 80 | [Lovers](https://open.spotify.com/track/6AccHVZg9yVxPv6TbEF4Lw) | [KEØMA](https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U) | [Lovers](https://open.spotify.com/album/17iM8xirzqQOAm4w7zZd6D) | 3:06 |
+| 81 | [Wonderful Life](https://open.spotify.com/track/1x4KLJQkSp7Zukk4Xjx98q) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/2xH369QbqwYtRNDhJZvbuF) | 3:19 |
 | 82 | [Waiting for a Sign](https://open.spotify.com/track/6cZArZnUd1oNPMX5vFyRSF) | [Peter The Human Boy](https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw), [Joe Traxler](https://open.spotify.com/artist/6uKhANzXcfTiGJ9ulZDBno) | [Waiting for a Sign](https://open.spotify.com/album/6wkzOEFkPUQs8DFqmlosVz) | 2:58 |
 | 83 | [Power of Denial](https://open.spotify.com/track/6gKEM5PLDjH2WsInN5JroT) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Power of Denial](https://open.spotify.com/album/6Evnriuz8ieQypvk4V2OJT) | 5:14 |
 | 84 | [Never Been To Paris](https://open.spotify.com/track/0wQiELbg5RrxhoRUIxV2ZC) | [Two Year Vacation](https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ) | [Never Been To Paris](https://open.spotify.com/album/2S4uiLncV1WCwLcPcDxF7t) | 3:01 |
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 86 | [Calm Me Down](https://open.spotify.com/track/2hTeAOEUwcFJATk3c8mUGN) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Calm Me Down](https://open.spotify.com/album/7CWCUEK92DRBxcKuDkb7Xk) | 3:05 |
 | 87 | [You Are Entering The Human Heart](https://open.spotify.com/track/4BenuknMGlePyfb7VcJinW) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [You Are Entering The Human Heart](https://open.spotify.com/album/3vVoyRVSZHm55WiywJQ6c9) | 3:22 |
 | 88 | [Take Me Out](https://open.spotify.com/track/3QfDceqmFnYDJi87fwI3lK) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Take Me Out](https://open.spotify.com/album/2YCBz7N0Lrdagv6Fym6a8e) | 4:55 |
-| 89 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 |
-| 90 | [Divine](https://open.spotify.com/track/06eMGYbD8sbYmxaQ11KWNM) | [Good Wilson](https://open.spotify.com/artist/72tmD7IO0OwXgkswzuURye) | [Divine](https://open.spotify.com/album/3TRXJ67MWVvbi1kVXm7ICe) | 3:23 |
-| 91 | [Geometric](https://open.spotify.com/track/0IRAtFcPIqysHbfNAfArgK) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Geometric](https://open.spotify.com/album/5ARMVAvzgckxtlo09wDi17) | 3:17 |
-| 92 | [Feel It All](https://open.spotify.com/track/26SdeD5OY1YzFsDQCNnCIp) | [Kita Menari](https://open.spotify.com/artist/1noOoapXyyCG1nYTH436qw) | [Feel It All](https://open.spotify.com/album/7p4YxLifRcs95dxZo8aVXd) | 4:07 |
+| 89 | [Divine](https://open.spotify.com/track/06eMGYbD8sbYmxaQ11KWNM) | [Good Wilson](https://open.spotify.com/artist/72tmD7IO0OwXgkswzuURye) | [Divine](https://open.spotify.com/album/3TRXJ67MWVvbi1kVXm7ICe) | 3:23 |
+| 90 | [Geometric](https://open.spotify.com/track/0IRAtFcPIqysHbfNAfArgK) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Geometric](https://open.spotify.com/album/5ARMVAvzgckxtlo09wDi17) | 3:17 |
+| 91 | [Feel It All](https://open.spotify.com/track/26SdeD5OY1YzFsDQCNnCIp) | [Kita Menari](https://open.spotify.com/artist/1noOoapXyyCG1nYTH436qw) | [Feel It All](https://open.spotify.com/album/7p4YxLifRcs95dxZo8aVXd) | 4:07 |
+| 92 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 |
 | 93 | [All Because of You](https://open.spotify.com/track/2NArIqQMcyBNQkxlZY7esf) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [All Because of You](https://open.spotify.com/album/2Dv9PDFyQ0fvZxw7b3h2W8) | 3:47 |
 | 94 | [Sixth Gear](https://open.spotify.com/track/3qRW8jmfgjhqGQZePnNiD4) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Sixth Gear](https://open.spotify.com/album/4mtghzQfcOaIqXaQ72qEek) | 3:17 |
 | 95 | [Are You OK?](https://open.spotify.com/track/13AYk3zwAtSuuu1t9GTf7n) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/1wLarLGfSpVvudyJE7BiG9) | 4:23 |

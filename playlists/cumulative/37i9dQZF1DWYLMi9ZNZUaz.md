@@ -4,7 +4,7 @@
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-300 songs - 17 hr 35 min
+301 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Cypher Mashup \(Onionn\. Remix\) \(live from GENfest 23\)](https://open.spotify.com/track/4Kz929bdICFzsdlY8m8Vn5) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Onionn.](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [Low G \(live from GENfest 23\)](https://open.spotify.com/album/3fcl86ADbtIA0u9GPPX9kr) | 2:58 | 2024-01-11 | 2024-02-03 |
 | [Càng Cua](https://open.spotify.com/track/6zrQLaZG0OlT63oUDwFKri) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Càng Cua](https://open.spotify.com/album/6MuNwqjIXFTqiAp7gDMG6F) | 2:19 | 2023-11-14 | 2024-10-04 |
 | [Cá Mập Con](https://open.spotify.com/track/2ZaNDguKgghsZ1LRlbCZNv) | [Mason Nguyen](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31), [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [Hipz](https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0) | [Cá Mập Con](https://open.spotify.com/album/14qCKKMXKpVIWkFz9q4U1l) | 2:55 | 2024-12-22 | 2025-01-08 |
+| [Còn Ai Ngoài Anh Với Em](https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Cho Bảo](https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9) | 4:04 | 2025-07-10 |  |
 | [Có Em](https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg) | 3:38 | 2023-10-19 | 2024-04-19 |
 | [Có Lẽ Anh Chưa Từng](https://open.spotify.com/track/1n5vwy1usk9prr2Yuh9Lt8) | [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Có Lẽ Anh Chưa Từng](https://open.spotify.com/album/3hgXb4KBABOU4IHPpfODp2) | 4:54 | 2024-06-03 | 2024-06-07 |
 | [Có đau thì đau một mình](https://open.spotify.com/track/37od1g713ZvI32VA2diR9L) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [Có đau thì đau một mình](https://open.spotify.com/album/0CUpq5X4lU88UaDjg04HjJ) | 3:30 | 2023-10-19 | 2023-11-10 |
@@ -242,7 +243,7 @@
 | [Thanh Âm Da Vàng](https://open.spotify.com/track/3YW5gvoQ2H77ftMq1ME2pu) | [Lãng](https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83) | [Thanh Âm Da Vàng](https://open.spotify.com/album/6yxagIj4s5Ic2grT8J2MbM) | 3:00 | 2025-05-13 | 2025-05-16 |
 | [thap trap tu do \- remix](https://open.spotify.com/track/4IjFRncpS1t5cXKDzs68Iy) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [thap trap tu do \(remix\)](https://open.spotify.com/album/4ptD1JJgSXmsTtiRlv4JQu) | 2:29 | 2025-04-17 | 2025-05-10 |
 | [Thay Đổi](https://open.spotify.com/track/3tJC3m7HJ6Y5XoKGEkc5vt) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz) | [An](https://open.spotify.com/album/0J9ZJ2vnTHm4NpzKVE779w) | 3:15 | 2024-06-12 | 2024-06-18 |
-| [The One For Me](https://open.spotify.com/track/3eJr9Z8KZuOTRblAeJi2zB) | [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [THE ONE](https://open.spotify.com/album/1qdmgU35Clg7RPfMShUNkN) | 3:59 | 2025-07-10 |  |
+| [The One For Me](https://open.spotify.com/track/3eJr9Z8KZuOTRblAeJi2zB) | [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [THE ONE](https://open.spotify.com/album/1qdmgU35Clg7RPfMShUNkN) | 3:59 | 2025-07-10 | 2025-07-15 |
 | [Thiêu Thân](https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Sofia](https://open.spotify.com/artist/0obXkAXG0Ivhjj6TK6QZfd), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Thiêu Thân](https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9) | 3:18 | 2024-06-12 | 2025-03-24 |
 | [Thèn Chóa](https://open.spotify.com/track/1wG0HYACxdu3Kdz3mI4ca6) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 4:04 | 2024-11-28 | 2025-02-07 |
 | [Thích Chơi Hong?](https://open.spotify.com/track/0KTBczlyQ93sWe4T1DGjnH) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh) | [Thích Chơi Hong?](https://open.spotify.com/album/7K2OqXtLOw35RI2cIc79wD) | 2:55 | 2024-06-30 | 2024-07-12 |

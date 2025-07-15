@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Burna Boy, Justin Bieber, Gazo et Miki  au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,454 likes - 102 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,439 likes - 102 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

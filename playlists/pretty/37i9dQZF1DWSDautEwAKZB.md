@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,370 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,369 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 67 | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n) | 2:50 |
 | 68 | [La Tirana \- Spotify Singles](https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:12 |
 | 69 | [i don't think i love you anymore \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5ktZjdvIKoO18PPtPRTAuD) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 4:12 |
-| 70 | [Bestia Pequeña \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Spotify Singles](https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS) | 3:01 |
+| 70 | [Lizard \(Alternate Universe\) \- Spotify Singles](https://open.spotify.com/track/1CGKhnXxoyXZa2PLQdYW1X) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 2:51 |
 
 Snapshot ID: `ZywDPAAAAADjd5/uRp0WlSDD7mXaclb6`

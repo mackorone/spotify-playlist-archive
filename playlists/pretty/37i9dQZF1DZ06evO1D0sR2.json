@@ -1,12 +1,12 @@
 {
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
-  "num_followers": 3048,
+  "num_followers": 3051,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAB41Sc1DDPjJYB7CCVOOr2i",
+  "snapshot_id": "aHL3AAAAAABInrHskCaWc0oPY0gvF0p3",
   "tracks": [
     {
       "added_at": null,
@@ -943,30 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Victory",
-        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 402946,
-      "name": "Awe Of You",
-      "url": "https://open.spotify.com/track/7Mef0xVylvlkTW8hB7l6fl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe Again, Vol. II",
         "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
       },
@@ -995,8 +971,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
       "artists": [
         {
@@ -1004,13 +980,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Chris House",
-          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
         }
       ],
-      "duration_ms": 552369,
-      "name": "I Am Thankful",
-      "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
+      "duration_ms": 402946,
+      "name": "Awe Of You",
+      "url": "https://open.spotify.com/track/7Mef0xVylvlkTW8hB7l6fl"
     },
     {
       "added_at": null,
@@ -1035,22 +1015,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Sound",
-        "url": "https://open.spotify.com/album/2KmdWOkXROfYS4NGeKp7yk"
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
       },
       "artists": [
         {
-          "name": "Full Gospel Baptist Church Fellowship International Ministry of Worship",
-          "url": "https://open.spotify.com/artist/6PJVrZQUx2azXg7XcVagYW"
-        },
-        {
           "name": "JJ Hairston",
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Chris House",
+          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
         }
       ],
-      "duration_ms": 395426,
-      "name": "You Reign",
-      "url": "https://open.spotify.com/track/19fFT5cKOgn6lgqdVGCESu"
+      "duration_ms": 552369,
+      "name": "I Am Thankful",
+      "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
     },
     {
       "added_at": null,
@@ -1071,6 +1051,26 @@
       "duration_ms": 421772,
       "name": "All You've Done (feat. Cristabel Clack)",
       "url": "https://open.spotify.com/track/12oM3bJN1uFHVLO509Qo96"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Sound",
+        "url": "https://open.spotify.com/album/2KmdWOkXROfYS4NGeKp7yk"
+      },
+      "artists": [
+        {
+          "name": "Full Gospel Baptist Church Fellowship International Ministry of Worship",
+          "url": "https://open.spotify.com/artist/6PJVrZQUx2azXg7XcVagYW"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 395426,
+      "name": "You Reign",
+      "url": "https://open.spotify.com/track/19fFT5cKOgn6lgqdVGCESu"
     }
   ],
   "unique_name": "This Is JJ Hairston",

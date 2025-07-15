@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 177875,
+  "num_followers": 177810,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Hills of Mexico",
-        "url": "https://open.spotify.com/album/6mk8W1blzNv0y8maWcwjVN"
-      },
-      "artists": [
-        {
-          "name": "Jake Xerxes Fussell",
-          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
-        }
-      ],
-      "duration_ms": 351193,
-      "name": "Hills of Mexico",
-      "url": "https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Over That Road I'm Bound",
         "url": "https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 224066,
       "name": "Over That Road I'm Bound To Go",
       "url": "https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Hills of Mexico",
+        "url": "https://open.spotify.com/album/6mk8W1blzNv0y8maWcwjVN"
+      },
+      "artists": [
+        {
+          "name": "Jake Xerxes Fussell",
+          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
+        }
+      ],
+      "duration_ms": 351193,
+      "name": "Hills of Mexico",
+      "url": "https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "In the Kingdom of Dreams",
-        "url": "https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7"
-      },
-      "artists": [
-        {
-          "name": "Ian Felice",
-          "url": "https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "In the Kingdom of Dreams",
-      "url": "https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 234253,
       "name": "Love Will Win the War",
       "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "In the Kingdom of Dreams",
+        "url": "https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7"
+      },
+      "artists": [
+        {
+          "name": "Ian Felice",
+          "url": "https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "In the Kingdom of Dreams",
+      "url": "https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "From Where I Started",
-        "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
-      },
-      "artists": [
-        {
-          "name": "Sera Cahoone",
-          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Time to Give",
-      "url": "https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Pacific Northwest Bound",
         "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 173786,
       "name": "Pacific Northwest Bound",
       "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "From Where I Started",
+        "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
+      },
+      "artists": [
+        {
+          "name": "Sera Cahoone",
+          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Time to Give",
+      "url": "https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO"
     },
     {
       "added_at": "2024-11-15 05:00:00",

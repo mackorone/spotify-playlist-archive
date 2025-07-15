@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,308 likes - 73 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,316 likes - 73 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 3 | [Midnight Stuff](https://open.spotify.com/track/2MGJydjBonGOlIzDQZL3dQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Midnight Stuff](https://open.spotify.com/album/0Vcjo60rQ38NPW8MLsG6gG) | 2:09 |
 | 4 | [empty beach](https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [empty beach](https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx) | 2:33 |
 | 5 | [ghee](https://open.spotify.com/track/2tIuYjDRwnJfJEt4uDEjRl) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [ghee](https://open.spotify.com/album/2u7bj6y7s28vB8Vsa0QhCg) | 3:00 |
-| 6 | [machine](https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng) | [aroramo](https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr) | [machine](https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz) | 2:08 |
-| 7 | [Dream Drift](https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Dream Drift](https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi) | 2:04 |
+| 6 | [Dream Drift](https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Dream Drift](https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi) | 2:04 |
+| 7 | [machine](https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng) | [aroramo](https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr) | [machine](https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz) | 2:08 |
 | 8 | [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 |
 | 9 | [what´s my name](https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [what´s my name](https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG) | 1:52 |
 | 10 | [Big Fish](https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Big Fish](https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT) | 2:35 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 45 | [dawn to dawn](https://open.spotify.com/track/40LJYr9L3F8r2I1AXiV2QA) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [dawn to dawn](https://open.spotify.com/album/0BKPWdx8EYZxf81MCjot5C) | 2:31 |
 | 46 | [Golden Spices](https://open.spotify.com/track/4fqT0kNekNtRVzGu6Ln5bB) | [Bandarr](https://open.spotify.com/artist/7rOTQynBDwYkAxZpy9bSEi) | [Porcelain Nebula](https://open.spotify.com/album/1OE5DSycVW3eHCONqFsPAc) | 2:40 |
 | 47 | [mirror maze](https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [mirror maze](https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp) | 2:28 |
-| 48 | [Hopefull Afterall](https://open.spotify.com/track/5SphZD6nqBV1BRkqH0hl10) | [sienna whisper](https://open.spotify.com/artist/6QXEwlJU7oOCVoSYTuoYk0) | [Hopefull Afterall](https://open.spotify.com/album/2EBAgVcsdxHA9eJkxmNTag) | 2:14 |
-| 49 | [decorate](https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [decorate](https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt) | 2:25 |
+| 48 | [decorate](https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [decorate](https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt) | 2:25 |
+| 49 | [Hopefull Afterall](https://open.spotify.com/track/5SphZD6nqBV1BRkqH0hl10) | [sienna whisper](https://open.spotify.com/artist/6QXEwlJU7oOCVoSYTuoYk0) | [Hopefull Afterall](https://open.spotify.com/album/2EBAgVcsdxHA9eJkxmNTag) | 2:14 |
 | 50 | [nothing to lose](https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [nothing to lose](https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm) | 2:32 |
 | 51 | [triple sun](https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [triple sun](https://open.spotify.com/album/4mG00rSaqK95YPPnA4ZmQV) | 1:53 |
 | 52 | [fika](https://open.spotify.com/track/3HcQcCDKDa5a1rRhH7fsPn) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [fika](https://open.spotify.com/album/0DqHffRxIV0AoPVIl6uZJq) | 1:44 |

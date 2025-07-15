@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-591 songs - 1 day 10 hr 51 min
+592 songs - 1 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Cure \(Acoustic\)](https://open.spotify.com/track/5TX18to7ocePDq2vztymUC) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Cure \(Acoustic\)](https://open.spotify.com/album/25JiPiAO6AghQ1V5GHt9hQ) | 4:21 | 2024-04-12 | 2024-05-10 |
 | [Cure \- Acoustic](https://open.spotify.com/track/3NO4k1Yn1jAci7nliKSKp9) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Cure \(Acoustic\)](https://open.spotify.com/album/0zu1VYYyrXYevuYOSUibPp) | 4:21 | 2023-10-19 | 2024-04-19 |
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG) | 4:04 | 2022-03-17 | 2022-08-07 |
+| [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 | 2025-07-11 |  |
 | [Damn Right \(feat\. Childish Gambino & Kali Uchis\)](https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:50 | 2025-03-06 | 2025-06-28 |
 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 | 2022-01-27 |  |
 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 | 2024-10-11 | 2025-03-22 |
@@ -212,7 +213,7 @@
 | [Heartbroke](https://open.spotify.com/track/7BC86RVLmnKJiB0ruLBYlP) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Heartbroke](https://open.spotify.com/album/6ZShnJZy7k6nsX41Gtfdnv) | 3:03 | 2022-03-24 | 2022-03-31 |
 | [Heaven's Here \[Feat\. Ant Clemons\]](https://open.spotify.com/track/1pOWS33ZgNoQRX9zw2jUXi) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 3:57 | 2022-02-24 | 2022-07-22 |
 | [Henny & Gingerale](https://open.spotify.com/track/2ubWMkupre71UroJq7NWkc) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Henny & Gingerale](https://open.spotify.com/album/5hY88uCfuWZcPPwBXOrOVQ) | 4:15 | 2022-03-24 | 2022-04-13 |
-| [Her \(Feat\. Zion.T\)](https://open.spotify.com/track/2ZzrfN3WJf8oKopPshisl1) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [City View / Her](https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW) | 2:56 | 2025-07-11 |  |
+| [Her \(Feat\. Zion.T\)](https://open.spotify.com/track/2ZzrfN3WJf8oKopPshisl1) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [City View / Her](https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW) | 2:56 | 2025-07-11 | 2025-07-15 |
 | [Here to Dance](https://open.spotify.com/track/5ElEhRmLYwWWyUtGrMgRwi) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Here to Dance](https://open.spotify.com/album/0fkb53G3ACQvajjgSV8sd9) | 3:07 | 2022-01-06 | 2022-06-28 |
 | [Hey Girl](https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 3:35 | 2024-08-09 | 2024-09-12 |
 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 | 2025-02-09 | 2025-04-05 |

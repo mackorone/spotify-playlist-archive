@@ -4,7 +4,7 @@
 
 > CURATED BY COLE SWINDELL\-\- these are his country essentials! Keep checking back to see who will curate next! This is the best of country!
 
-355 songs - 21 hr 25 min
+356 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Church On Cumberland Road](https://open.spotify.com/track/1Sqe82k1NRzxZsLOOBAHTH) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:08 | 2025-06-30 |  |
 | [Cloudbusting \- 2018 Remaster](https://open.spotify.com/track/0cuMpt0w9ahbhJl0R2fbkY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:09 | 2022-05-05 | 2023-02-18 |
 | [Cold Beer & Country Music](https://open.spotify.com/track/18NLDIUv9K3XWdCbUSxffi) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:06 | 2024-09-04 | 2025-04-26 |
+| [Cole Swindell Takes Over the Country Essentials 2025 Playlist!](https://open.spotify.com/episode/1lrlaPXrWz6JmKGd6SlXCX) | [Topsify](https://open.spotify.com/show/0sv18JZgOQr2m1eXWF7sKJ) | [Topsify](https://open.spotify.com/album/0sv18JZgOQr2m1eXWF7sKJ) | 0:22 | 2025-07-14 |  |
 | [Come On, Let's Go](https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:04 | 2024-09-04 | 2025-04-26 |
 | [Come Pick Me Up](https://open.spotify.com/track/0IOuitntGDvCwO3GAMdOu8) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [I'll See You In My Dreams](https://open.spotify.com/album/6EislLSM2rnb6dmdAGc1t3) | 4:16 | 2024-09-20 | 2025-04-26 |
 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 | 2022-05-05 | 2023-02-18 |

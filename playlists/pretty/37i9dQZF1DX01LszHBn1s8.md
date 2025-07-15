@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > gonna be, gonna be 💛⭐️👑⚜️ golden ⚜️👑⭐️💛
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,458 likes - 118 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,523 likes - 118 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,19 +12,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 2 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 3 | [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 |
 | 4 | [TYRANT](https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:10 |
-| 5 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 |
-| 6 | [Om](https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3) | [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu) | [Om](https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM) | 4:08 |
+| 5 | [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine](https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0) | 4:06 |
+| 6 | [Chicken Banana](https://open.spotify.com/track/2DW0Mowto3hrXkFBQt0nye) | [Crazy Music Channel](https://open.spotify.com/artist/2Y6bsT6oxjAhpghYTlUpXG) | [Chicken Banana](https://open.spotify.com/album/2pbyB0m8GNItw3xdHjuB0k) | 2:12 |
 | 7 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
 | 8 | [new friends](https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [new friends](https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt) | 2:45 |
-| 9 | [Chicken Banana](https://open.spotify.com/track/2DW0Mowto3hrXkFBQt0nye) | [Crazy Music Channel](https://open.spotify.com/artist/2Y6bsT6oxjAhpghYTlUpXG) | [Chicken Banana](https://open.spotify.com/album/2pbyB0m8GNItw3xdHjuB0k) | 2:12 |
-| 10 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
-| 11 | [Okay](https://open.spotify.com/track/0PZqKacVnXfPTvEfiMzOue) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Okay](https://open.spotify.com/album/2vUbpXF7UY8dWL6d3Y3CpY) | 2:45 |
-| 12 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 |
-| 13 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 |
-| 14 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
-| 15 | [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 |
-| 16 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
-| 17 | [Dame Tu Cosita](https://open.spotify.com/track/5tq6gO0LuNjmo9SRT1UcMv) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Dame Tu Cosita](https://open.spotify.com/album/1a82dRyyxsHvpzcpIDUtqT) | 2:32 |
+| 9 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
+| 10 | [Om](https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3) | [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu) | [Om](https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM) | 4:08 |
+| 11 | [Dame Tu Cosita](https://open.spotify.com/track/5tq6gO0LuNjmo9SRT1UcMv) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Dame Tu Cosita](https://open.spotify.com/album/1a82dRyyxsHvpzcpIDUtqT) | 2:32 |
+| 12 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
+| 13 | [Okay](https://open.spotify.com/track/0PZqKacVnXfPTvEfiMzOue) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Okay](https://open.spotify.com/album/2vUbpXF7UY8dWL6d3Y3CpY) | 2:45 |
+| 14 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 |
+| 15 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 |
+| 16 | [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 |
+| 17 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 18 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 19 | [Sue me](https://open.spotify.com/track/6ah4mee54hPyycKICthl5B) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Sue me](https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq) | 2:50 |
 | 20 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 117 | [Girls](https://open.spotify.com/track/3Hxv2EYJcBjiN96yJi6djY) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/30wCOCKeicLp3ErOHhkBAb) | 1:59 |
 | 118 | [Vem är jag utan dig](https://open.spotify.com/track/7AsJ01kktOQwx6Ud1281TC) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:17 |
 
-Snapshot ID: `aG0v4QAAAACVfwWbr2pi7EXF5sokffE5`
+Snapshot ID: `aHUdEQAAAACfK4fUA40dXxNGhMbFcdaa`

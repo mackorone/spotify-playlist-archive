@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y92Yr.md) - [plain]
 | 7 | [Die Young](https://open.spotify.com/track/1dGsmX6TryxdBHfBzzZ1eK) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:45 |
 | 8 | [Bitter](https://open.spotify.com/track/0xd9Nf9PQTrssA4wHH4z2v) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Bitter](https://open.spotify.com/album/1Iqh1x0Baen1U2c725rd7M) | 4:02 |
 | 9 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 |
-| 10 | [Good Hurt](https://open.spotify.com/track/4iNjaWFTovBFg8vTfGdXpZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:12 |
+| 10 | [Sugar High](https://open.spotify.com/track/1dqJRtnoU6vZj23txgerYQ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:39 |
 | 11 | [HOT TO GO!](https://open.spotify.com/track/3j6CeoBBlm40Msn1JE1SPD) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:04 |
-| 12 | [Sugar High](https://open.spotify.com/track/1dqJRtnoU6vZj23txgerYQ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:39 |
+| 12 | [Good Hurt](https://open.spotify.com/track/4iNjaWFTovBFg8vTfGdXpZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:12 |
 | 13 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 |
 | 14 | [Meantime](https://open.spotify.com/track/1L3fMJNX5WUJ865uU406Vz) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:03 |
 | 15 | [Naked In Manhattan](https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:31 |
 | 16 | [Bad for You](https://open.spotify.com/track/68njXuc0Fj7kzR70Ad0Wav) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:52 |
 
-Snapshot ID: `aHGlgAAAAACwEdm0oA8jSfQhu/4u/hm1`
+Snapshot ID: `aHL3AAAAAABzBXWfrupFsrXUC5C5rM2p`

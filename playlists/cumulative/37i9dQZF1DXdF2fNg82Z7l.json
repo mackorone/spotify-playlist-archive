@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a strictly smooth mood...cover:",
+  "description": "a strictly smooth mood...cover: Kehlani",
   "name": "Raw Silk ",
   "tracks": [
     {
@@ -1857,6 +1857,28 @@
     },
     {
       "album": {
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245520,
+      "name": "Impatient",
+      "url": "https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ"
+    },
+    {
+      "album": {
         "name": "In The Cut",
         "url": "https://open.spotify.com/album/3twfz6TmgAdrEZ5bkZkYYq"
       },
@@ -2118,7 +2140,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 183552,
       "name": "Lookin",
       "url": "https://open.spotify.com/track/1UAmQe8EwpxQ80OfYVD13z"
@@ -3631,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "The Celestial Suite",
+        "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Shameful Game",
+      "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
+    },
+    {
+      "album": {
         "name": "SHINE (with SiR)",
         "url": "https://open.spotify.com/album/41oaGXdQll9lAxJAwoZrlm"
       },
@@ -4546,7 +4586,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 258724,
       "name": "Trust the Feeling",
       "url": "https://open.spotify.com/track/4H8g9s4VgIhZBcnfCyR63e"

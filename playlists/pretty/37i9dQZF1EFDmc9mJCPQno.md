@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196 likes - 111 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,197 likes - 112 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 106 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 |
 | 107 | [no one cares](https://open.spotify.com/track/0aQXCpOF4zFstiNhWAGtXD) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [no one cares](https://open.spotify.com/album/05YHG0o3540O1xXDSAyx0j) | 3:00 |
 | 108 | [Mom Song](https://open.spotify.com/track/2Y5HIRHkFnrgr81Bt4mWsV) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 2:35 |
-| 109 | [Wrong](https://open.spotify.com/track/5FWCrwlmk1Kq1jy8khhxvA) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Heavy Love](https://open.spotify.com/album/4g30lAhSUDEOUhs4Izez2s) | 3:12 |
-| 110 | [Off\-World](https://open.spotify.com/track/7actzHWTsZYrimLJtDUGEC) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Off\-World](https://open.spotify.com/album/4ffjvDRam4xYWMy85hNtdb) | 3:40 |
-| 111 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
+| 109 | [death](https://open.spotify.com/track/2VrMoRFZLk2NYuZpfxC06B) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [committed to a bit](https://open.spotify.com/album/7pzCbXIKBn1wqJSNI8icip) | 3:44 |
+| 110 | [Wrong](https://open.spotify.com/track/5FWCrwlmk1Kq1jy8khhxvA) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Heavy Love](https://open.spotify.com/album/4g30lAhSUDEOUhs4Izez2s) | 3:12 |
+| 111 | [Off\-World](https://open.spotify.com/track/7actzHWTsZYrimLJtDUGEC) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Off\-World](https://open.spotify.com/album/4ffjvDRam4xYWMy85hNtdb) | 3:40 |
+| 112 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `Ab2slAAAAADQ/Z+qbR2RJqT4POAycJNh`
+Snapshot ID: `Ab2yNAAAAAB5V2J53VYI2IZ28ul5k2e9`

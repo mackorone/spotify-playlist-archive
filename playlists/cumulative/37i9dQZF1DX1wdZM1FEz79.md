@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 백아\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: GYE0M\(겸\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-589 songs - 1 day 10 hr 48 min
+590 songs - 1 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Another Day](https://open.spotify.com/track/01UPzueYKNIRn4R9l5neB5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:46 | 2021-12-10 | 2022-07-24 |
 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-08 | 2024-04-19 |
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-04-21 | 2024-05-06 |
-| [apocalyptic serenade](https://open.spotify.com/track/11MEiPi0ktNXIFctbcYNar) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [apocalyptic serenade](https://open.spotify.com/album/0LozFO673nlo2eaRgSrr9B) | 4:28 | 2025-05-13 |  |
+| [apocalyptic serenade](https://open.spotify.com/track/11MEiPi0ktNXIFctbcYNar) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [apocalyptic serenade](https://open.spotify.com/album/0LozFO673nlo2eaRgSrr9B) | 4:28 | 2025-05-13 | 2025-07-15 |
 | [Apricot](https://open.spotify.com/track/7aNOH4B73XDeLOL1yGhwU5) | [ONEE](https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI) | [Indifferent People](https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6) | 3:15 | 2022-01-13 | 2022-02-07 |
 | [Ash \- Acoustic](https://open.spotify.com/track/3YLKumEaNPhR9ylIJLFXyv) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Ash \(Acoustic\)](https://open.spotify.com/album/4hFFT091ahBzpl6YHrHzgB) | 2:05 | 2025-06-09 | 2025-06-20 |
 | [At the end of the day](https://open.spotify.com/track/0nJLLHH6Y3iOe5uGou2m6s) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [At the end of the day](https://open.spotify.com/album/6arlyz7d91rjANtfyPQ1t6) | 3:55 | 2022-03-31 | 2022-04-15 |
@@ -392,6 +392,7 @@
 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 | 2025-04-02 |
 | [Scent of the day](https://open.spotify.com/track/0xu3l9eS4OMm4wsBi9a6Nj) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Scent of the day](https://open.spotify.com/album/5HHhZ7N9Rz5UPXG6AJQ1Xg) | 4:37 | 2021-12-10 | 2022-06-17 |
 | [Scuba Dive](https://open.spotify.com/track/0aIkp7YICMumTzACe9wX8e) | [Yyeon](https://open.spotify.com/artist/0qmWztaNn9Nrriuo0aP4uR) | [Summer Acoustic Pt.1](https://open.spotify.com/album/64v0Y4TY344141AWCOJYNo) | 2:36 | 2025-07-11 |  |
+| [Seawater](https://open.spotify.com/track/4ZUQdbXvLUn3LHAjYxci0k) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Though We Adrift](https://open.spotify.com/album/2YFgkaictuYC288Ijr8LTd) | 3:40 | 2025-07-14 |  |
 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 | 2022-07-08 | 2024-04-19 |
 | [See you \- with Noair, Nason](https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG) | 3:06 | 2021-12-10 | 2022-07-29 |
 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [조은세](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 | 2023-01-25 | 2023-02-25 |

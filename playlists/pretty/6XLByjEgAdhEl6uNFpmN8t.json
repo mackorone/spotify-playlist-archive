@@ -6,7 +6,7 @@
     "name": "solo",
     "url": "https://open.spotify.com/user/vida_bence"
   },
-  "snapshot_id": "AAAAzK+xUtDkAdTrZaz/vwD6b67ljuQN",
+  "snapshot_id": "AAAAzmZMTrBqAPq398Xk7HVh2J9SkRFS",
   "tracks": [
     {
       "added_at": "2024-10-17 10:14:13",
@@ -1963,6 +1963,46 @@
       "duration_ms": 143428,
       "name": "Mulatozok - Intro",
       "url": "https://open.spotify.com/track/54TkoWzZy8JL2Mr8KELnOF"
+    },
+    {
+      "added_at": "2025-07-14 16:59:58",
+      "album": {
+        "name": "BALATONLELLE",
+        "url": "https://open.spotify.com/album/4HVPxCSlwV9lPGel1WhBsg"
+      },
+      "artists": [
+        {
+          "name": "JANA",
+          "url": "https://open.spotify.com/artist/3sVMPCOGrvv6saKNwgMiQd"
+        },
+        {
+          "name": "PEAK",
+          "url": "https://open.spotify.com/artist/1lsPHMjIgJVvD2eHD2uHym"
+        }
+      ],
+      "duration_ms": 195299,
+      "name": "BALATONLELLE",
+      "url": "https://open.spotify.com/track/3IItzNiCPdW55CxkFMLqpR"
+    },
+    {
+      "added_at": "2025-07-14 17:24:36",
+      "album": {
+        "name": "PLEKNI",
+        "url": "https://open.spotify.com/album/67bo12Vu3mBmLrRUuHFk7J"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "PLEKNI",
+      "url": "https://open.spotify.com/track/2fbc4RDPWdcZC5NVHYGWOA"
     }
   ],
   "unique_name": "Halo (2)",

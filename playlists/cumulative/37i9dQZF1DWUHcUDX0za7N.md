@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Dremo
 
-614 songs - 1 day 4 hr 53 min
+615 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [Left Right](https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1) | [Left Right](https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK) | 2:40 | 2024-03-22 | 2024-11-22 |
 | [Legendary](https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:27 | 2022-06-23 | 2023-06-03 |
 | [LEGOLAS](https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:49 | 2025-04-04 |  |
-| [LET ME BE](https://open.spotify.com/track/3tL4lxj4zfhbJTCCVOT6Lr) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MELÖVIA](https://open.spotify.com/album/43l2ygGjBGaT1sN7uZBJ74) | 2:29 | 2025-05-30 |  |
+| [LET ME BE](https://open.spotify.com/track/3tL4lxj4zfhbJTCCVOT6Lr) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MELÖVIA](https://open.spotify.com/album/43l2ygGjBGaT1sN7uZBJ74) | 2:29 | 2025-05-30 | 2025-07-15 |
 | [Let Me Go](https://open.spotify.com/track/5erVR1Kb81BQH02BowvXH4) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm) | [Let Me Go](https://open.spotify.com/album/2VwqhYq2mHTDtHPwYYNxab) | 1:53 | 2025-02-14 | 2025-03-02 |
 | [LETTER 222 DELE](https://open.spotify.com/track/5Mbo8cFWYs0Ww2MvoMWdwV) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [ROCK, PAPER, SCISSORS](https://open.spotify.com/album/6PeVBL2DDJgqkVyNUaHy2j) | 2:40 | 2024-10-25 | 2024-11-16 |
 | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA) | 2:18 | 2022-11-15 | 2024-07-19 |
@@ -549,6 +549,7 @@
 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 | 2022-07-21 | 2023-06-17 |
 | [The Love Song \(feat\. Wande Coal\)](https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 2:56 | 2022-08-18 | 2023-06-17 |
 | [The Matter](https://open.spotify.com/track/5aa9lpv9FjrNBgbomqCH82) | [BIGBIRD KUTI](https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [The Matter](https://open.spotify.com/album/167kMuV6WEgDCGvKZNJqTF) | 2:33 | 2025-04-18 | 2025-05-17 |
+| [The Shift \(feat\. Cruel Santino, Knucks & Jeriq\)](https://open.spotify.com/track/7pSD2G8uLfbnWpK7DEnr3E) | [Vivendii Sound](https://open.spotify.com/artist/21rC8LSfXexS7tyaK9tbum), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [The Shift \(feat\. Cruel Santino, Knucks & Jeriq\)](https://open.spotify.com/album/7kxwXRVkyYBzn3UgzmUdhP) | 3:00 | 2025-07-11 |  |
 | [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 | 2025-03-28 |  |
 | [This is Nigeria](https://open.spotify.com/track/1HmPO8ao2uu6opMJDW24DA) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [This Is Nigeria](https://open.spotify.com/album/6ewbR4ceFzG5PFAK1ckPSu) | 3:28 | 2024-09-13 | 2024-09-20 |
 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 | 2024-09-27 | 2025-06-14 |

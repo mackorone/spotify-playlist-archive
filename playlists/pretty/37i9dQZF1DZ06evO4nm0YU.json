@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 176426,
+  "num_followers": 176474,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAABurReHR8+U2Mk5iFXS3Ejt",
+  "snapshot_id": "aHL3AAAAAAB8ftZfqJERrTZwgJk9YCi5",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 427560,
+      "name": "Al\u00e9jate",
+      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 295480,
       "name": "Te Conozco",
       "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Sabio",
-        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 427560,
-      "name": "Al\u00e9jate",
-      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 337680,
-      "name": "No Me Llores M\u00e1s",
-      "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 242386,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 337680,
+      "name": "No Me Llores M\u00e1s",
+      "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
     },
     {
       "added_at": null,
@@ -923,22 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guisando: Doing A Job (Remastered 2025)",
-        "url": "https://open.spotify.com/album/43hcbyQ8jVEzgHY2pMPpJa"
+        "name": "Dia De Ayer",
+        "url": "https://open.spotify.com/album/5CjN1hidT7zC2QhMy6gyfI"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Joeski",
+          "url": "https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7"
         },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 431857,
-      "name": "No Me Den Candela - Remastered 2025",
-      "url": "https://open.spotify.com/track/2B69mVmaUZqzL3XrklfgKT"
+      "duration_ms": 206827,
+      "name": "Dia De Ayer",
+      "url": "https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs"
     }
   ],
   "unique_name": "This Is H\u00e9ctor Lavoe",

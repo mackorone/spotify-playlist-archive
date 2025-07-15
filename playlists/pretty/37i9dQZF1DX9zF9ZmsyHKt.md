@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,274 likes - 65 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,317 likes - 65 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 11 | [Aquele Alguém \- Ao Vivo](https://open.spotify.com/track/1nAD91gB0vCiMUPS0D90tZ) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Aquele Alguém \(Ao Vivo\)](https://open.spotify.com/album/5exAOaD06kYTFxUfPDdLDp) | 2:54 |
 | 12 | [Com Ela \- Ao Vivo](https://open.spotify.com/track/5Y6U6voFXgqGXF9l35DHfG) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Com Ela \(Ao Vivo\)](https://open.spotify.com/album/2MQF0vQMUOEzBhO9pP6gVr) | 2:34 |
 | 13 | [Pra Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso na Amazônia \- Bloco 1 \(Ao Vivo\)](https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn) | 4:19 |
-| 14 | [Tic Tac](https://open.spotify.com/track/5LPazgtTZDkx73NjcMnZgx) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:32 |
+| 14 | [Pra Me Conquistar](https://open.spotify.com/track/11tQHWsy9QSi9Ml69ldeng) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo Que Conquistou o Brasil \- Vol.03](https://open.spotify.com/album/75BR3zxW4J4g4fnXsHKGY3) | 2:58 |
 | 15 | [Ultima Vez](https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8) | [Billy Brasil](https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx), [Batidão do Melody](https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6) | [Ultima Vez](https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn) | 3:39 |
 | 16 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 |
 | 17 | [Ruby](https://open.spotify.com/track/7c7wzn285HbPuZzmhz7z1i) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:14 |
 | 18 | [Vem Curtir Com Jackson](https://open.spotify.com/track/5irR7SwEE5M0YqKGL7XiW9) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:49 |
-| 19 | [Pra Me Conquistar](https://open.spotify.com/track/11tQHWsy9QSi9Ml69ldeng) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo Que Conquistou o Brasil \- Vol.03](https://open.spotify.com/album/75BR3zxW4J4g4fnXsHKGY3) | 2:58 |
-| 20 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 |
-| 21 | [Imagem do Prazer](https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg) | [Banda POP Show](https://open.spotify.com/artist/5mW39VdCIwXOmfW5Tdn6T7) | [Imagem do Prazer](https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks) | 3:40 |
+| 19 | [Tic Tac](https://open.spotify.com/track/5LPazgtTZDkx73NjcMnZgx) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:32 |
+| 20 | [Imagem do Prazer](https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg) | [Banda POP Show](https://open.spotify.com/artist/5mW39VdCIwXOmfW5Tdn6T7) | [Imagem do Prazer](https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks) | 3:40 |
+| 21 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 |
 | 22 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |
 | 23 | [Galera da Golada](https://open.spotify.com/track/1nOi7O71UVjCPS4AT1BLDQ) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:31 |
 | 24 | [Disse Adeus](https://open.spotify.com/track/6naHDFlQZ1TvcPYN0Uasgm) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 4:10 |

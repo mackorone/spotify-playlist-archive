@@ -483,6 +483,22 @@
     {
       "added_at": "2025-07-11 05:30:21",
       "album": {
+        "name": "Party Everyday",
+        "url": "https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 137681,
+      "name": "Party Everyday",
+      "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
+    },
+    {
+      "added_at": "2025-07-11 05:30:21",
+      "album": {
         "name": "nada s\u00e9rio",
         "url": "https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 166153,
       "name": "nada s\u00e9rio",
       "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
-    },
-    {
-      "added_at": "2025-07-11 05:30:21",
-      "album": {
-        "name": "Party Everyday",
-        "url": "https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 137681,
-      "name": "Party Everyday",
-      "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
     },
     {
       "added_at": "2025-07-11 05:30:21",

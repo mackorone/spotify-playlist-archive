@@ -1,12 +1,12 @@
 {
   "description": "gonna be, gonna be \ud83d\udc9b\u2b50\ufe0f\ud83d\udc51\u269c\ufe0f golden \u269c\ufe0f\ud83d\udc51\u2b50\ufe0f\ud83d\udc9b",
-  "num_followers": 264458,
+  "num_followers": 264523,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG0v4QAAAACVfwWbr2pi7EXF5sokffE5",
+  "snapshot_id": "aHUdEQAAAACfK4fUA40dXxNGhMbFcdaa",
   "tracks": [
     {
       "added_at": "2025-07-03 08:45:05",
@@ -97,36 +97,40 @@
       "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
     },
     {
-      "added_at": "2025-07-07 07:46:20",
+      "added_at": "2025-07-14 15:06:57",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+        "name": "Soft Machine",
+        "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 322000,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM"
+      "duration_ms": 246786,
+      "name": "Punkrocker (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
     },
     {
       "added_at": "2025-07-03 08:45:05",
       "album": {
-        "name": "Om",
-        "url": "https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM"
+        "name": "Chicken Banana",
+        "url": "https://open.spotify.com/album/2pbyB0m8GNItw3xdHjuB0k"
       },
       "artists": [
         {
-          "name": "Niklas Str\u00f6mstedt",
-          "url": "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
+          "name": "Crazy Music Channel",
+          "url": "https://open.spotify.com/artist/2Y6bsT6oxjAhpghYTlUpXG"
         }
       ],
-      "duration_ms": 248066,
-      "name": "Om",
-      "url": "https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3"
+      "duration_ms": 132948,
+      "name": "Chicken Banana",
+      "url": "https://open.spotify.com/track/2DW0Mowto3hrXkFBQt0nye"
     },
     {
       "added_at": "2025-07-03 08:45:05",
@@ -161,22 +165,6 @@
       "url": "https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ"
     },
     {
-      "added_at": "2025-07-03 08:45:05",
-      "album": {
-        "name": "Chicken Banana",
-        "url": "https://open.spotify.com/album/2pbyB0m8GNItw3xdHjuB0k"
-      },
-      "artists": [
-        {
-          "name": "Crazy Music Channel",
-          "url": "https://open.spotify.com/artist/2Y6bsT6oxjAhpghYTlUpXG"
-        }
-      ],
-      "duration_ms": 132948,
-      "name": "Chicken Banana",
-      "url": "https://open.spotify.com/track/2DW0Mowto3hrXkFBQt0nye"
-    },
-    {
       "added_at": "2025-07-08 14:49:05",
       "album": {
         "name": "No Broke Boys",
@@ -195,6 +183,58 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-07-03 08:45:05",
+      "album": {
+        "name": "Om",
+        "url": "https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM"
+      },
+      "artists": [
+        {
+          "name": "Niklas Str\u00f6mstedt",
+          "url": "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Om",
+      "url": "https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3"
+    },
+    {
+      "added_at": "2025-07-03 08:45:05",
+      "album": {
+        "name": "Dame Tu Cosita",
+        "url": "https://open.spotify.com/album/1a82dRyyxsHvpzcpIDUtqT"
+      },
+      "artists": [
+        {
+          "name": "El Chombo",
+          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Cutty Ranks",
+          "url": "https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Dame Tu Cosita",
+      "url": "https://open.spotify.com/track/5tq6gO0LuNjmo9SRT1UcMv"
+    },
+    {
+      "added_at": "2025-07-03 08:45:05",
+      "album": {
+        "name": "Connie Francis Sings Second Hand Love & Other Hits",
+        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 142520,
+      "name": "Pretty Little Baby",
+      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
     },
     {
       "added_at": "2025-07-08 14:49:05",
@@ -247,22 +287,6 @@
     {
       "added_at": "2025-07-03 08:45:05",
       "album": {
-        "name": "Connie Francis Sings Second Hand Love & Other Hits",
-        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 142520,
-      "name": "Pretty Little Baby",
-      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
-    },
-    {
-      "added_at": "2025-07-03 08:45:05",
-      "album": {
         "name": "Bitters\u00fc\u00df",
         "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
       },
@@ -295,26 +319,6 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2025-07-03 08:45:05",
-      "album": {
-        "name": "Dame Tu Cosita",
-        "url": "https://open.spotify.com/album/1a82dRyyxsHvpzcpIDUtqT"
-      },
-      "artists": [
-        {
-          "name": "El Chombo",
-          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
-        },
-        {
-          "name": "Cutty Ranks",
-          "url": "https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Dame Tu Cosita",
-      "url": "https://open.spotify.com/track/5tq6gO0LuNjmo9SRT1UcMv"
     },
     {
       "added_at": "2025-07-03 08:45:05",

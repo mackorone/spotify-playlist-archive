@@ -375,6 +375,32 @@
     },
     {
       "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222986,
+      "name": "2000 EXCURSION",
+      "url": "https://open.spotify.com/track/6Gp3pYkydEOkl8EHHJxa9s"
+    },
+    {
+      "album": {
         "name": "Learning to Crawl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
       },
@@ -7068,10 +7094,36 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 451320,
       "name": "Champagne Supernova - Remastered",
       "url": "https://open.spotify.com/track/2A7GGXmTlXuH9LOvBXgOX4"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184789,
+      "name": "CHAMPAIN & VACAY",
+      "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
     },
     {
       "album": {
@@ -11526,6 +11578,24 @@
       "duration_ms": 207068,
       "name": "Dumb Love",
       "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238249,
+      "name": "DUMBO",
+      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
     },
     {
       "album": {
@@ -20400,7 +20470,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -20888,6 +20958,28 @@
       "duration_ms": 201168,
       "name": "Khabib",
       "url": "https://open.spotify.com/track/2ZVSjes0VFYg9uJu4olsi4"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170498,
+      "name": "KICK OUT",
+      "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
     },
     {
       "album": {
@@ -22044,7 +22136,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
@@ -31874,7 +31966,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
@@ -33042,7 +33134,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -33488,7 +33580,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 168000,
       "name": "Say My Name - Remix",
       "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
@@ -34314,7 +34406,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -35153,6 +35245,48 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Saja Boys",
+          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "Neckwav",
+          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+        },
+        {
+          "name": "Danny Chung",
+          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+        },
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        },
+        {
+          "name": "samUIL Lee",
+          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150686,
+      "name": "Soda Pop",
+      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
@@ -35336,7 +35470,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
@@ -37342,7 +37476,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 284866,
       "name": "Supersonic - Remastered",
       "url": "https://open.spotify.com/track/2djolYhefiXcUcmkebKweB"
@@ -38822,7 +38956,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
@@ -43388,7 +43522,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 194324,
       "name": "What Did I Miss?",
       "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"

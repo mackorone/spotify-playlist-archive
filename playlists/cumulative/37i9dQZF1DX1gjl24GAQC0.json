@@ -2161,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "Go Back To The Future",
+        "url": "https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184026,
+      "name": "CHILLER",
+      "url": "https://open.spotify.com/track/0PNOA20FfXz8c1KVaon1ei"
+    },
+    {
+      "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
       },
@@ -9820,7 +9838,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 165013,
       "name": "SET NET G0?!",
       "url": "https://open.spotify.com/track/6caqFtBxhs0Ms2fW5YDb1f"

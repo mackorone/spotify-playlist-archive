@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "BALATONLELLE",
+        "url": "https://open.spotify.com/album/4HVPxCSlwV9lPGel1WhBsg"
+      },
+      "artists": [
+        {
+          "name": "JANA",
+          "url": "https://open.spotify.com/artist/3sVMPCOGrvv6saKNwgMiQd"
+        },
+        {
+          "name": "PEAK",
+          "url": "https://open.spotify.com/artist/1lsPHMjIgJVvD2eHD2uHym"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195299,
+      "name": "BALATONLELLE",
+      "url": "https://open.spotify.com/track/3IItzNiCPdW55CxkFMLqpR"
+    },
+    {
+      "album": {
         "name": "Bambi",
         "url": "https://open.spotify.com/album/7GokiCOPcgKDsWaXUkjqli"
       },
@@ -1450,6 +1472,28 @@
       "duration_ms": 153157,
       "name": "Piaszag",
       "url": "https://open.spotify.com/track/0Yjl1FrlHwu4nhgEm92GSk"
+    },
+    {
+      "album": {
+        "name": "PLEKNI",
+        "url": "https://open.spotify.com/album/67bo12Vu3mBmLrRUuHFk7J"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173653,
+      "name": "PLEKNI",
+      "url": "https://open.spotify.com/track/2fbc4RDPWdcZC5NVHYGWOA"
     },
     {
       "album": {

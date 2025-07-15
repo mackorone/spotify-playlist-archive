@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,775 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,792 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 34 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0mbN6sStNZ9yb2twaffP20) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Girl](https://open.spotify.com/album/4nPSFdPtaZwp7oyy5bTumn) | 6:19 |
 | 35 | [Hustler](https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:43 |
 | 36 | [& Down](https://open.spotify.com/track/3TMwHtO5c4jlnnFZK8MuBH) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Oi Oi Oi](https://open.spotify.com/album/5McKybquvC9GQ3Ppifsmxf) | 4:18 |
-| 37 | [Banquet \- Phones Disco Edit](https://open.spotify.com/track/3ZQK3zrHOHFZtgvIL6W2eW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm Remixed](https://open.spotify.com/album/73gLi25b8sQukoOreAL9x5) | 5:24 |
-| 38 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
+| 37 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
+| 38 | [Banquet \- Phones Disco Edit](https://open.spotify.com/track/3ZQK3zrHOHFZtgvIL6W2eW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm Remixed](https://open.spotify.com/album/73gLi25b8sQukoOreAL9x5) | 5:24 |
 | 39 | [Mars](https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Mars](https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B) | 4:21 |
 | 40 | [Sleep Deprivation](https://open.spotify.com/track/2E1ZDtrJtsWdkyIbPDwFTu) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 4:58 |
 | 41 | [Bad Girls \- Switch Remix](https://open.spotify.com/track/2T1LMzbf3Ui5nv0Im5lmGV) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Bad Girls \(The Remixes\)](https://open.spotify.com/album/1JV2adHIREQSZWTCrn6CbW) | 3:23 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 69 | [Forever \(Van She Tech Remix\)](https://open.spotify.com/track/22OFfgww7iv1fYhSC3A8w3) | [Walter Meego](https://open.spotify.com/artist/2JfrljViGl4PxMfa3Fd6kS) | [Indie\_structable](https://open.spotify.com/album/05Xl91MDBtpibflg0EmHrg) | 4:20 |
 | 70 | [Let Me Back Up \- Crookers Tetsujin Remix](https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF) | [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [From Then Until Now](https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF) | 5:51 |
 | 71 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 |
-| 72 | [Disco Shoes \- Electrixx Mix](https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo) | [Acid Jacks](https://open.spotify.com/artist/3Gcp6oFkW9YAQxE6XgWU1w) | [Disco Shoes](https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT) | 5:41 |
-| 73 | [Intro](https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running \- Single](https://open.spotify.com/album/6Ps0YLiG5zpgsqx5kBPIul) | 4:54 |
+| 72 | [Intro](https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running \- Single](https://open.spotify.com/album/6Ps0YLiG5zpgsqx5kBPIul) | 4:54 |
+| 73 | [Disco Shoes \- Electrixx Mix](https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo) | [Acid Jacks](https://open.spotify.com/artist/3Gcp6oFkW9YAQxE6XgWU1w) | [Disco Shoes](https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT) | 5:41 |
 | 74 | [Crimewave](https://open.spotify.com/track/4xymOOdANFwko4RpeR961e) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Crystal Castles](https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC) | 4:18 |
 | 75 | [Paris \(Aeroplane Remix\)](https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1) | 7:45 |
 

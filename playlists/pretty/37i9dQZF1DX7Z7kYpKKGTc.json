@@ -1,6 +1,6 @@
 {
   "description": "The romantic side of classic rock and metal",
-  "num_followers": 898177,
+  "num_followers": 898596,
   "original_name": "Rock Love Songs",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-04-08 12:39:04",
       "album": {
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2025-04-08 12:39:04",
+      "album": {
         "name": "Heartbeat City (Expanded Edition)",
         "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 234332,
       "name": "Drive - 2017 Remaster",
       "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
-    },
-    {
-      "added_at": "2025-04-08 12:39:04",
-      "album": {
-        "name": "Trash",
-        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
     },
     {
       "added_at": "2025-04-08 12:39:04",

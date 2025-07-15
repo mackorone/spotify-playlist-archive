@@ -1,13 +1,2750 @@
 {
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs\">E.Y. \"Yip\" Harburg</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
-  "num_followers": 117,
+  "num_followers": 118,
   "original_name": "Written By E.Y. \"Yip\" Harburg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ab2slAAAAADUHYzZjwCyBOmACZjs+EJ+",
-  "tracks": [],
+  "snapshot_id": "Ab2yNAAAAADDpflQWueAZIjmSOqAeYiA",
+  "tracks": [
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The War Years (1941-1947)",
+        "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+        }
+      ],
+      "duration_ms": 160133,
+      "name": "It's Only A Paper Moon",
+      "url": "https://open.spotify.com/track/373yGkNo74RZgmQgTiR8xK"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Give Him The Ooh-La-La (Expanded Edition)",
+        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/3KT0SEsaO5RuzQv1pIKDEx"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Old Devil Moon",
+      "url": "https://open.spotify.com/track/0hdNrtu4z3lHfP4YQOZUny"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Giant Steps (Mono)",
+        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 360835,
+      "name": "Spiral - Mono",
+      "url": "https://open.spotify.com/track/6je0YNzNoeqXpKpTaL98Hu"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Love & the Lack Thereof",
+        "url": "https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6"
+      },
+      "artists": [
+        {
+          "name": "Kat Gang",
+          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
+        }
+      ],
+      "duration_ms": 373946,
+      "name": "Then I'll Be Tired of You",
+      "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Brother Can You Spare a Dime?",
+      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "When We Were Young (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4UEflkcJLDZ7Nu0tB6YHFT"
+      },
+      "artists": [
+        {
+          "name": "John Lundvik",
+          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+        }
+      ],
+      "duration_ms": 286550,
+      "name": "When We Were Young - Acoustic Version",
+      "url": "https://open.spotify.com/track/118Y7quq16kBeHmCR2dQ0d"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 192306,
+      "name": "My One And Only Love - Remastered",
+      "url": "https://open.spotify.com/track/6DHuDz9Rnz5beUnOijThjH"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Look To The Rainbow",
+        "url": "https://open.spotify.com/album/2C6vaaU6Jwx5JQe3qhG0OD"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "Look To The Rainbow",
+      "url": "https://open.spotify.com/track/29bY7nEpgxmDjP6R4CamIx"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile",
+          "url": "https://open.spotify.com/artist/5lLwrwVHGlErj8cObYCWyi"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "Pretty As A Picture - Remastered 1996",
+      "url": "https://open.spotify.com/track/7omhSfHyh2upy3qBdkg8Wn"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 127840,
+      "name": "I Hear Music",
+      "url": "https://open.spotify.com/track/34J3MjWH6gkYJkWMgBSN2b"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Standard Time Vol. 3: The Resolution Of Romance",
+        "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "How Are Things In Glocca Morra",
+      "url": "https://open.spotify.com/track/25AgHnaNE690kE8aw0UjZf"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Frizzante!!",
+        "url": "https://open.spotify.com/album/20m2cws4UxgjZhh9cbkF5F"
+      },
+      "artists": [
+        {
+          "name": "Matthieu Bor\u00e9",
+          "url": "https://open.spotify.com/artist/7h1EiObXYjl5sTSP2PrnNg"
+        }
+      ],
+      "duration_ms": 98500,
+      "name": "I Love to Singa",
+      "url": "https://open.spotify.com/track/64pAIZRz6PYxIU7vpvL1jT"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Gaslight Varieties: Early 20th-Century Favourites",
+        "url": "https://open.spotify.com/album/2p42htFJTQGqFmGETp2H7N"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Singers",
+          "url": "https://open.spotify.com/artist/2q1BpivZcLgh0hx6goxnfc"
+        }
+      ],
+      "duration_ms": 142965,
+      "name": "Oh! Dem Golden Slippers",
+      "url": "https://open.spotify.com/track/4SwVJu2QnXN4CfZ0e9cymU"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Peter, Paul and Mary Album",
+        "url": "https://open.spotify.com/album/3pUe8UnX9kRYd33QJn9R1c"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "Hurry Sundown",
+      "url": "https://open.spotify.com/track/0Uj04jzL63xl9QGd16S2Rt"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Finian's Rainbow O.S.T.",
+        "url": "https://open.spotify.com/album/0375wsHcEPui3qIEdELcnz"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "duration_ms": 251813,
+      "name": "Prelude / Look to the Rainbow (Main Title)",
+      "url": "https://open.spotify.com/track/2sIUBSBzVmDtineGcJulzZ"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Crystal Bells",
+        "url": "https://open.spotify.com/album/4fZwXAJ6Cuhq50lt3xqfnj"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Philip Catherine",
+          "url": "https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn"
+        },
+        {
+          "name": "Jean-Louis Rassinfosse",
+          "url": "https://open.spotify.com/artist/50m2KVom2r1LcmDxWWkieg"
+        }
+      ],
+      "duration_ms": 459266,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/1XDUza3VLMTLIGVe6w3SOO"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7z4swnKEpFmnm0hfA8kuEa"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "The Eagle And Me",
+      "url": "https://open.spotify.com/track/2iIsGaeYTO3Vb8B9mX0FgM"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Sinatra \u201965",
+        "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "When I'm Not Near The Girl I Love",
+      "url": "https://open.spotify.com/track/2p6sMTDDGKKIHAlBrcAb7R"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Harold Arlen Song Book",
+        "url": "https://open.spotify.com/album/2yprBiSeLBqwoPdDNl5kbI"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 240546,
+      "name": "Let's Take A Walk Around The Block",
+      "url": "https://open.spotify.com/track/4vP9xQG8Ny2B1MaNQG1iRg"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Finian's Rainbow O.S.T.",
+        "url": "https://open.spotify.com/album/0375wsHcEPui3qIEdELcnz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Steele",
+          "url": "https://open.spotify.com/artist/2eUMWLKLpPyMWuTgoMgEG6"
+        },
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Something Sort of Grandish",
+      "url": "https://open.spotify.com/track/537rXttYripbcR94JtJVIn"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Standard Time / Different Stages",
+        "url": "https://open.spotify.com/album/300J5MSJ4LYwFTQ7lL3oQs"
+      },
+      "artists": [
+        {
+          "name": "Sam Harris",
+          "url": "https://open.spotify.com/artist/1wgHeGxtfZgPb864FoDm2u"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "Satan's Li'l Lamb - Americana",
+      "url": "https://open.spotify.com/track/6tafwZaVzjNajPAkgPZ2AI"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "There's Two Sides to Every Story",
+        "url": "https://open.spotify.com/album/2h0guLYfqx2MfiusyEW3Hw"
+      },
+      "artists": [
+        {
+          "name": "Dick Powell",
+          "url": "https://open.spotify.com/artist/5hGZNLPNm2t3W0v28geOIK"
+        }
+      ],
+      "duration_ms": 177145,
+      "name": "Speaking of the Weather",
+      "url": "https://open.spotify.com/track/0imL7I7SodvEK2xu05zk1k"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Karibe Taki",
+        "url": "https://open.spotify.com/album/7cqYxuWIUQljEvJFPpFjrx"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 197026,
+      "name": "Najala's Lament",
+      "url": "https://open.spotify.com/track/28bEUfw7k21RWbEcNvgWpg"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Tony Bennett Sings A String Of Harold Arlen",
+        "url": "https://open.spotify.com/album/6MYMgEXvAzClsDSFRaKDNr"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 248226,
+      "name": "What Good Does It Do",
+      "url": "https://open.spotify.com/track/4WNQLcFZlZsrDx4oYAg9bC"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Finian's Rainbow O.S.T.",
+        "url": "https://open.spotify.com/album/0375wsHcEPui3qIEdELcnz"
+      },
+      "artists": [
+        {
+          "name": "Don Francks, Petula Clark, The Ken Darby Singers & Ensemble",
+          "url": "https://open.spotify.com/artist/7qOGemAIDYygyheayfg88x"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "That Great Come-And-Get-It Day",
+      "url": "https://open.spotify.com/track/1dhcOmCoVjGwMZ2CdbC2wN"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Capitol Vaults Collection",
+        "url": "https://open.spotify.com/album/1pQORO53AVvYinNFHJV2nh"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mercer",
+          "url": "https://open.spotify.com/artist/5cBHm2CXrbncYIDzrxF4Vi"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Evelina",
+      "url": "https://open.spotify.com/track/2S3aLcCEL2YA4e7NJ75BXc"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "It's Psychological",
+        "url": "https://open.spotify.com/album/2HkHr535cDoHhH65n1Kj3d"
+      },
+      "artists": [
+        {
+          "name": "Richard Himber and his Orchestra",
+          "url": "https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN"
+        },
+        {
+          "name": "Joey Nash",
+          "url": "https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "What Can You Say In A Love Song",
+      "url": "https://open.spotify.com/track/5CsT1NY94gGCpqfC67P3OG"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Great Girl Singers, Sing 22 Original Hits",
+        "url": "https://open.spotify.com/album/3SqfrPAdRK1EvTxFvpI4Px"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 128573,
+      "name": "Love, Nuts And Noodles",
+      "url": "https://open.spotify.com/track/26qNObJ1H20gRDfdr1n7rj"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Song Is You",
+        "url": "https://open.spotify.com/album/4Oueg97h9XCM0p5urdChlq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Tommy Dorsey",
+          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "The World is in My Arms (From Hold On To Your Hats\") - 1994 Remastered",
+      "url": "https://open.spotify.com/track/1WMGUCAOZkvQIhKx2kVWzG"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "At Long Last Love",
+        "url": "https://open.spotify.com/album/1AlZDpYXP1ppvFs5Zwr2vT"
+      },
+      "artists": [
+        {
+          "name": "Blue Barron & His Orchestra",
+          "url": "https://open.spotify.com/artist/6eXuANzEDfPG5dHo69H3et"
+        },
+        {
+          "name": "Charlie Fisher",
+          "url": "https://open.spotify.com/artist/33xHRggEtheyESYR6ro72K"
+        }
+      ],
+      "duration_ms": 137306,
+      "name": "Fancy Meeting You",
+      "url": "https://open.spotify.com/track/2WfLzZJSEXPQQYbC95kvoM"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Sings... Me And The Blues",
+        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "You Started Something",
+      "url": "https://open.spotify.com/track/0wbtEPr28v4IddQRolT1nI"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "I Could Go On Singing",
+        "url": "https://open.spotify.com/album/4K3LwY94osMX4P5UrmXI7G"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "I Could Go On Singing (Till The Cows Come Home)",
+      "url": "https://open.spotify.com/track/4L6ESJK5pTUL8Apb84M3E3"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Let's See What Happens",
+        "url": "https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr"
+      },
+      "artists": [
+        {
+          "name": "Kate Baldwin",
+          "url": "https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa"
+        }
+      ],
+      "duration_ms": 275213,
+      "name": "Paris is a Lonely Town",
+      "url": "https://open.spotify.com/track/4pGzL03XRZL9OdMSFz9ZGK"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Finian's Rainbow O.S.T.",
+        "url": "https://open.spotify.com/album/0375wsHcEPui3qIEdELcnz"
+      },
+      "artists": [
+        {
+          "name": "Finian's Rainbow O.S.T.",
+          "url": "https://open.spotify.com/artist/31bUWJ4F3YFXRxT3l9NERu"
+        }
+      ],
+      "duration_ms": 94160,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3ZBO5tl9uCkdLgbVrrYA4t"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Gay Purr-ee O.S.T.",
+        "url": "https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz"
+      },
+      "artists": [
+        {
+          "name": "Gay Purr-ee - Paul Frees & The Mellow Men",
+          "url": "https://open.spotify.com/artist/4iIEozgOeTVFZKEtvXgaX6"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "The Money Cat - Remastered Version",
+      "url": "https://open.spotify.com/track/0w4IVn9zI4d9HgRxBbkSLq"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Gay Purr-ee O.S.T.",
+        "url": "https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "Little Drops of Rain - Remastered Version",
+      "url": "https://open.spotify.com/track/4jgiuuZQTarUsCzffzOmQ3"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Finian's Rainbow O.S.T.",
+        "url": "https://open.spotify.com/album/0375wsHcEPui3qIEdELcnz"
+      },
+      "artists": [
+        {
+          "name": "Keenan Wynn, Avon Long, Jester Hairston & Roy Glenn",
+          "url": "https://open.spotify.com/artist/0GClMY6XiKaXqIjf9ykBo6"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "The Begat",
+      "url": "https://open.spotify.com/track/5T8pCYH82M4aoVJ6Exx7CJ"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Teddi King, Live at The Painted Pony",
+        "url": "https://open.spotify.com/album/6sMYdzmRwcCsdYZN3mbPHD"
+      },
+      "artists": [
+        {
+          "name": "Teddi King/John Meyer",
+          "url": "https://open.spotify.com/artist/6IhptixFXSsZosa9MWOrYZ"
+        }
+      ],
+      "duration_ms": 136693,
+      "name": "Fun To Be Fooled",
+      "url": "https://open.spotify.com/track/00L8X3IhFXxBnGRDPmKoYC"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Liza! Liza!",
+        "url": "https://open.spotify.com/album/025PqLfRjCiI8ZkmsqTSm2"
+      },
+      "artists": [
+        {
+          "name": "Liza Minnelli",
+          "url": "https://open.spotify.com/artist/3lQpSzdPxoF1FYk7ilbe37"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "I Knew Him When",
+      "url": "https://open.spotify.com/track/2LK0oc64jXwI4gSSjCw9jg"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Finian's Rainbow (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1"
+      },
+      "artists": [
+        {
+          "name": "Burton Lane",
+          "url": "https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA"
+        },
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        },
+        {
+          "name": "Terri White",
+          "url": "https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN"
+        },
+        {
+          "name": "Guy Davis",
+          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Necessity",
+      "url": "https://open.spotify.com/track/6JQhnxuPYMFUgqshRD9QYd"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Finian's Rainbow (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1"
+      },
+      "artists": [
+        {
+          "name": "Burton Lane",
+          "url": "https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA"
+        },
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        },
+        {
+          "name": "Jim Norton",
+          "url": "https://open.spotify.com/artist/3vIOYTxzWZMXnPJl0G7O0r"
+        },
+        {
+          "name": "Kate Baldwin",
+          "url": "https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa"
+        }
+      ],
+      "duration_ms": 334253,
+      "name": "When the Idle Poor Become the Idle Rich",
+      "url": "https://open.spotify.com/track/4IqJDmH7yZhoCoDCKaL4AR"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Finian's Rainbow O.S.T.",
+        "url": "https://open.spotify.com/album/0375wsHcEPui3qIEdELcnz"
+      },
+      "artists": [
+        {
+          "name": "Finian's Rainbow - Warner Bros. Orchestra",
+          "url": "https://open.spotify.com/artist/2ga6WwcN4IyFrXz0Z3jDSF"
+        }
+      ],
+      "duration_ms": 160840,
+      "name": "Rain Dance Ballet",
+      "url": "https://open.spotify.com/track/0tFq1gYM9ctdxshldzbAsc"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Gay Purr-ee O.S.T.",
+        "url": "https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz"
+      },
+      "artists": [
+        {
+          "name": "Gay Purr-ee - Judy Garland",
+          "url": "https://open.spotify.com/artist/3GszhfhNYHgpvh1kYQv884"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "Roses Red, Violets Blue - Remastered Version",
+      "url": "https://open.spotify.com/track/2Vjw8cQQYuNFiiEUP5qush"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Soft Swingin' Jazz",
+        "url": "https://open.spotify.com/album/5y7Fo0kiEgygwf9etVCvVR"
+      },
+      "artists": [
+        {
+          "name": "Joe Newman Quartet",
+          "url": "https://open.spotify.com/artist/7e29pysxsk9TJh3Ak0kEAs"
+        },
+        {
+          "name": "Shirley Scott",
+          "url": "https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI"
+        }
+      ],
+      "duration_ms": 181653,
+      "name": "The Farmer's Daughter",
+      "url": "https://open.spotify.com/track/05toqbP0hhm6F7IaD4x2Mb"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Story Of John Henry... A Musical Narrative",
+        "url": "https://open.spotify.com/album/66z5jhUnq0p2Nh1ChBoYdu"
+      },
+      "artists": [
+        {
+          "name": "Josh White",
+          "url": "https://open.spotify.com/artist/0nZxdWJcomHivMW1UwCKQb"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Free and Equal Blues",
+      "url": "https://open.spotify.com/track/6lhdFMZRCRwPGvwYe4bXcP"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Gay Purr-ee O.S.T.",
+        "url": "https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz"
+      },
+      "artists": [
+        {
+          "name": "Gay Purr-ee - Robert Goulet",
+          "url": "https://open.spotify.com/artist/3VvHG57lT5KbYI8ZIMGTh9"
+        }
+      ],
+      "duration_ms": 69040,
+      "name": "Mewette - Remastered Version",
+      "url": "https://open.spotify.com/track/3y3zhrwmKd9T5oIOu4DGJR"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Dorsey Brothers",
+        "url": "https://open.spotify.com/album/2UfILZ3cxaEgaXYjeikYEe"
+      },
+      "artists": [
+        {
+          "name": "Tommy Dorsey / Jimmy Dorsey",
+          "url": "https://open.spotify.com/artist/4gRI1O2PDMRfIV1pFShRcj"
+        }
+      ],
+      "duration_ms": 195976,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/32TC1Ay0ccXZz8zSTHq5Jx"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Parole e Musica (Remastered)",
+        "url": "https://open.spotify.com/album/1ffmxhGfRhJCqJct1EHFzd"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        },
+        {
+          "name": "Piero Umiliani Orchestra",
+          "url": "https://open.spotify.com/artist/2DLRB2aWi2k6WXZT3ZemFY"
+        }
+      ],
+      "duration_ms": 38769,
+      "name": "Aprile a Paris",
+      "url": "https://open.spotify.com/track/6O51AsHiwhCtlDICQmgJtg"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Legends - Deanna Durbin",
+        "url": "https://open.spotify.com/album/4OvGOMfmfx3BAz7vHIcECH"
+      },
+      "artists": [
+        {
+          "name": "Deanna Durbin",
+          "url": "https://open.spotify.com/artist/3DgG8fJMf9FZlbRXIwfu2a"
+        }
+      ],
+      "duration_ms": 220473,
+      "name": "Can't Help Singing (from Can't Help Singing)",
+      "url": "https://open.spotify.com/track/2lFuNnS5RAaoOKsCq92acR"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast",
+          "url": "https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Birds Enchantment",
+      "url": "https://open.spotify.com/track/2K6LqhtH2Gm0F4KA9UsCet"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Change Of Scenery",
+        "url": "https://open.spotify.com/album/027UEzorpvpgU68jNZoedH"
+      },
+      "artists": [
+        {
+          "name": "Ethel Ennis",
+          "url": "https://open.spotify.com/artist/7yLgG0ocThlvnzWk4uOOUC"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Thrill Me",
+      "url": "https://open.spotify.com/track/6QTEluyhJiABjh1ZnXnZJ0"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "New York 1935-1937, Vol. A",
+        "url": "https://open.spotify.com/album/4kP8rDV2ynkWMMNDKjJbD2"
+      },
+      "artists": [
+        {
+          "name": "Cab Calloway",
+          "url": "https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Save Me, Sister",
+      "url": "https://open.spotify.com/track/4VNNNyKb5VhrkCeSkW3Nvy"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Finian's Rainbow (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1"
+      },
+      "artists": [
+        {
+          "name": "Burton Lane",
+          "url": "https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA"
+        },
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Dance of the Golden Crock",
+      "url": "https://open.spotify.com/track/4dSvDe7ncbjhJkUH3hVeX7"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Gay Purr-ee O.S.T.",
+        "url": "https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz"
+      },
+      "artists": [
+        {
+          "name": "Gay Purr-ee - Robert Goulet, Red Buttons & The Mellow Men",
+          "url": "https://open.spotify.com/artist/2lUvRQVG4WLyNjI0OV7hsS"
+        }
+      ],
+      "duration_ms": 168506,
+      "name": "Bubbles - Remastered Version",
+      "url": "https://open.spotify.com/track/17Zu3LHy5OCrOU1ffJs0xD"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast",
+          "url": "https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs"
+        }
+      ],
+      "duration_ms": 79000,
+      "name": "Najla's Song Of Joy",
+      "url": "https://open.spotify.com/track/2BRGwFXYgsxRCfC7rNjqly"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "He Walked On",
+        "url": "https://open.spotify.com/album/1gXwOtD1sj3fGXROIgtAUa"
+      },
+      "artists": [
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "The Same Boat, Brother",
+      "url": "https://open.spotify.com/track/1xxhUCYBJqNaFnkqzwFbJT"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Let's See What Happens",
+        "url": "https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr"
+      },
+      "artists": [
+        {
+          "name": "Kate Baldwin",
+          "url": "https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Here's to Your Illusions",
+      "url": "https://open.spotify.com/track/1KwwoClXnNPbpLFDSICTSd"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Priceless Jazz: Gil Evans",
+        "url": "https://open.spotify.com/album/2Vrg0gyuBxMq1oGkibbRiO"
+      },
+      "artists": [
+        {
+          "name": "The Gil Evans Orchestra",
+          "url": "https://open.spotify.com/artist/0NSaDbZ3bVycmiRGhVvjyX"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "duration_ms": 350466,
+      "name": "Push De Button",
+      "url": "https://open.spotify.com/track/5IetPwmlKV0hGhJTwEPGlC"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Fancy Meeting You: The Lyrics of E.Y. Harburg",
+        "url": "https://open.spotify.com/album/5drwA5NfMBe7PffKWNhHA5"
+      },
+      "artists": [
+        {
+          "name": "Phillip Officer",
+          "url": "https://open.spotify.com/artist/0brtQbWvSZWzmCZi48wY02"
+        }
+      ],
+      "duration_ms": 143710,
+      "name": "There's a Great Day Coming, Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/3notXi5vdKj2gdUD7QtMfr"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Judy Garland: Recordings from the M-G-M Films (Motion Picture Soundtrack Anthology)",
+        "url": "https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "duration_ms": 162173,
+      "name": "Tom, Tom, the Piper's Son (from \"Presenting Lily Mars\") - 2022 Remaster",
+      "url": "https://open.spotify.com/track/48GRePQCk5Un0bx3OlW3GJ"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Lee Wiley Sings the Songs of Rodgers & Hart and Arlen",
+        "url": "https://open.spotify.com/album/7HuNr6dhCNdTfy1DIbAnjN"
+      },
+      "artists": [
+        {
+          "name": "Lee Wiley",
+          "url": "https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3"
+        }
+      ],
+      "duration_ms": 172662,
+      "name": "Moanin' in the Mornin'",
+      "url": "https://open.spotify.com/track/0r0JilaUrO2Iuj4tPHp81K"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast",
+          "url": "https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs"
+        }
+      ],
+      "duration_ms": 161773,
+      "name": "You Too Can Be A Puppet",
+      "url": "https://open.spotify.com/track/7EynNRh4CbZgEYY7OpTGeI"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Judy Garland: Recordings from the M-G-M Films (Motion Picture Soundtrack Anthology)",
+        "url": "https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        },
+        {
+          "name": "MGM Studio Chorus",
+          "url": "https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW"
+        }
+      ],
+      "duration_ms": 292960,
+      "name": "Paging Mr. Greenback (from \"Presenting Lily Mars\") - 2022 Remaster",
+      "url": "https://open.spotify.com/track/0P0kFkvKLrBFg6EJ3VTOGR"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Sings",
+        "url": "https://open.spotify.com/album/6SocC1DXkXVXMb99IMZZWT"
+      },
+      "artists": [
+        {
+          "name": "Julie Andrews",
+          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+        }
+      ],
+      "duration_ms": 146440,
+      "name": "You're A Builder Upper",
+      "url": "https://open.spotify.com/track/0ovSNExdiQqOYM9tOy6Sza"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Red Velvet & Music for Romance",
+        "url": "https://open.spotify.com/album/6cprjtzpZgq032Z7lbBQXN"
+      },
+      "artists": [
+        {
+          "name": "Stanley Black",
+          "url": "https://open.spotify.com/artist/7ICtJI0WkGw8bQB2ELzHjk"
+        }
+      ],
+      "duration_ms": 152626,
+      "name": "Isn't It Heavenly?",
+      "url": "https://open.spotify.com/track/2U7E8bQieCckLEorEuDoGu"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Plays Harold Arlen's Music from Jamaica",
+        "url": "https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X"
+      },
+      "artists": [
+        {
+          "name": "Phineas Newborn Jr.",
+          "url": "https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Little Biscuit",
+      "url": "https://open.spotify.com/track/5u9L0jeyoN4ri0x3mWWg3t"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Let's See What Happens",
+        "url": "https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr"
+      },
+      "artists": [
+        {
+          "name": "Kate Baldwin",
+          "url": "https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa"
+        }
+      ],
+      "duration_ms": 183240,
+      "name": "I Don't Think I'll End It All Today",
+      "url": "https://open.spotify.com/track/1RqQQsHAO0Adfkn6xGyZCi"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Golden Voice Of Denna Durbin",
+        "url": "https://open.spotify.com/album/3zIcrbNSY6ovfsun3oddFb"
+      },
+      "artists": [
+        {
+          "name": "Deanna Durbin",
+          "url": "https://open.spotify.com/artist/3DgG8fJMf9FZlbRXIwfu2a"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Any Moment Now",
+      "url": "https://open.spotify.com/track/2UzbkZBVvQCjwPZTwKoPde"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast",
+          "url": "https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs"
+        }
+      ],
+      "duration_ms": 70880,
+      "name": "Flahooley",
+      "url": "https://open.spotify.com/track/6EBbGJgMeDJCp5IBgCa3gB"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Sing Me A Swing Song",
+        "url": "https://open.spotify.com/album/0IPTjh7ZZB3jL8WWS78wqw"
+      },
+      "artists": [
+        {
+          "name": "Bobby Short",
+          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
+        }
+      ],
+      "duration_ms": 133653,
+      "name": "Don't Let It Get You Down",
+      "url": "https://open.spotify.com/track/1a9rx3CzfPT4M0g1iEmGu3"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "There's Two Sides to Every Story",
+        "url": "https://open.spotify.com/album/2h0guLYfqx2MfiusyEW3Hw"
+      },
+      "artists": [
+        {
+          "name": "Dick Powell",
+          "url": "https://open.spotify.com/artist/5hGZNLPNm2t3W0v28geOIK"
+        }
+      ],
+      "duration_ms": 149908,
+      "name": "Let's Put Our Heads Together",
+      "url": "https://open.spotify.com/track/55eZdjrzbSDCdyGldVjeXW"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Plays Harold Arlen's Music from Jamaica",
+        "url": "https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X"
+      },
+      "artists": [
+        {
+          "name": "Phineas Newborn Jr.",
+          "url": "https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Hooray for de Yankee Dollar",
+      "url": "https://open.spotify.com/track/3h7omHLyeyHZxUEXGyTdmw"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Plays Harold Arlen's Music from Jamaica",
+        "url": "https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X"
+      },
+      "artists": [
+        {
+          "name": "Phineas Newborn Jr.",
+          "url": "https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "For Every Fish",
+      "url": "https://open.spotify.com/track/3AmHpajlAdhKPKO42JoHyh"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Welcome to My Dream",
+        "url": "https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o"
+      },
+      "artists": [
+        {
+          "name": "Woody Herman & His Orchestra",
+          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
+        }
+      ],
+      "duration_ms": 201252,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/0ntszQBXc1b3ycd7JIl0Lk"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Stormy Weather (The Audio Pearls Collection)",
+        "url": "https://open.spotify.com/album/0cKZt5KRdA8bTF1eyi2p3b"
+      },
+      "artists": [
+        {
+          "name": "Lena Horne",
+          "url": "https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Pretty to Walk With - Remastered",
+      "url": "https://open.spotify.com/track/6cG8Uv5r9xr8Fe2OQz93T7"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "On A Rainy Afternoon",
+        "url": "https://open.spotify.com/album/5ocPP1VrAqo2U90Zk6M3Z8"
+      },
+      "artists": [
+        {
+          "name": "Tony Perkins",
+          "url": "https://open.spotify.com/artist/4j0oWDYbPngcqzx9ITgamM"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "The World Is Your Balloon",
+      "url": "https://open.spotify.com/track/4UCBxakKsfnebOzzGq5B9V"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast",
+          "url": "https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "BG Bigelow Inc",
+      "url": "https://open.spotify.com/track/37E1kD4lEzT18bAGEPKWMM"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast",
+          "url": "https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "The Springtime Cometh",
+      "url": "https://open.spotify.com/track/5sik8XJlWHjqVq8xnpT5as"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Anthology (1925-1936)",
+        "url": "https://open.spotify.com/album/4AW133ZOLu4rAaImOP4cbE"
+      },
+      "artists": [
+        {
+          "name": "The Boswell Sisters",
+          "url": "https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN"
+        }
+      ],
+      "duration_ms": 98012,
+      "name": "Strange As It Seems",
+      "url": "https://open.spotify.com/track/0LOxAo3BsLuUe0smgNEnYA"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Last Legacy of E.Y. Harburg",
+        "url": "https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347"
+      },
+      "artists": [
+        {
+          "name": "Alan O'Day",
+          "url": "https://open.spotify.com/artist/63f6RFsOlwDMnAuDwjB58Y"
+        }
+      ],
+      "duration_ms": 206811,
+      "name": "Drivin' and Dreamin'",
+      "url": "https://open.spotify.com/track/6ZPYXoReVWFvkk0nvpzIlr"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Complete Jazz Series 1944 - 1945",
+        "url": "https://open.spotify.com/album/2e8ORYGG9dsPdknPWvIy3C"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "A Penny For Your Thoughts (09-?-45)",
+      "url": "https://open.spotify.com/track/6GatfPHao8fud312oMEoh8"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Dawn Upshaw Sings Vernon Duke",
+        "url": "https://open.spotify.com/album/3iGXOiy5OSuJAahFNDABoH"
+      },
+      "artists": [
+        {
+          "name": "Vernon Duke",
+          "url": "https://open.spotify.com/artist/66wHlBv24mr1yH7F4aF6yk"
+        },
+        {
+          "name": "Dawn Upshaw",
+          "url": "https://open.spotify.com/artist/1EgV7b93j6hvI1Suiegi74"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Water Under the Bridge",
+      "url": "https://open.spotify.com/track/1aZTEwlHUCkuJswWgsbIqU"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Plays Harold Arlen's Music from Jamaica",
+        "url": "https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X"
+      },
+      "artists": [
+        {
+          "name": "Phineas Newborn Jr.",
+          "url": "https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Pity the Sunset",
+      "url": "https://open.spotify.com/track/6pT3ZNzRrFQf9In8I5n9az"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast",
+          "url": "https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs"
+        }
+      ],
+      "duration_ms": 108360,
+      "name": "Come Back Little Genie",
+      "url": "https://open.spotify.com/track/35w06UlqiwoB3oKGQiYTz5"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "A Jazzman's Broadway",
+        "url": "https://open.spotify.com/album/5SEsCrm4WLGEHtjDYxoykW"
+      },
+      "artists": [
+        {
+          "name": "Cy Coleman",
+          "url": "https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L"
+        },
+        {
+          "name": "Skeeter Best",
+          "url": "https://open.spotify.com/artist/3AyFUxfuZMSclzNPUXOFYh"
+        },
+        {
+          "name": "Aaron Bell",
+          "url": "https://open.spotify.com/artist/2C4GwKBbDeAiRsvObIeWJS"
+        },
+        {
+          "name": "Romeo Penque",
+          "url": "https://open.spotify.com/artist/29U83154MYdAnCmh6VJp1n"
+        },
+        {
+          "name": "Osie Johnson",
+          "url": "https://open.spotify.com/artist/2CYAlie3PicoM8mtJ5PekE"
+        },
+        {
+          "name": "Ray Mosca",
+          "url": "https://open.spotify.com/artist/41zU5oECx5IdTMVWOrzC7u"
+        }
+      ],
+      "duration_ms": 135293,
+      "name": "Monkey in the Mango Tree (From \"Jamaica\")",
+      "url": "https://open.spotify.com/track/0Y9eRy9CpNUY8hISU7tAYB"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "Cyril Ritchard",
+          "url": "https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr"
+        }
+      ],
+      "duration_ms": 111480,
+      "name": "Never Be-Devil the Devil",
+      "url": "https://open.spotify.com/track/3aiAhR8kQMlHNJlJIDOWof"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Hollywood Songbook",
+        "url": "https://open.spotify.com/album/5kyzmyNGPGm8yw3Hw3xJFY"
+      },
+      "artists": [
+        {
+          "name": "Dick Hyman",
+          "url": "https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT"
+        }
+      ],
+      "duration_ms": 146626,
+      "name": "In Your Own Quiet Way",
+      "url": "https://open.spotify.com/track/2SnR0Rq9PHrV8abh7Cgand"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast Of 'Flahooley",
+          "url": "https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ"
+        }
+      ],
+      "duration_ms": 35226,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/3oQNtgqaAHBs8AFrfJRErL"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Last Legacy of E.Y. Harburg",
+        "url": "https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347"
+      },
+      "artists": [
+        {
+          "name": "Philip Springer",
+          "url": "https://open.spotify.com/artist/0lgHB1AXXpT8hVY6WUDJcQ"
+        }
+      ],
+      "duration_ms": 188097,
+      "name": "Wild Red Cherry River",
+      "url": "https://open.spotify.com/track/1W4DIn3g2fWCQrv5o1eXd3"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Wizard of Oz (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2KzyelryS6nT7x2vDOxPlF"
+      },
+      "artists": [
+        {
+          "name": "Lorraine Bridges",
+          "url": "https://open.spotify.com/artist/11dQ5fkYEEb5L29ZWUSgZQ"
+        },
+        {
+          "name": "Betty Rome",
+          "url": "https://open.spotify.com/artist/0Ba3mNylLdK0plFIjMzdUY"
+        },
+        {
+          "name": "Carol Tevis",
+          "url": "https://open.spotify.com/artist/0g8MHpGh8R1zF95HCoyECj"
+        }
+      ],
+      "duration_ms": 23373,
+      "name": "The Lullaby League",
+      "url": "https://open.spotify.com/track/7zhfCPO28DolprDzfFNw26"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Vic Damone Collection",
+        "url": "https://open.spotify.com/album/44WQaczmxqkkEROQaN51V3"
+      },
+      "artists": [
+        {
+          "name": "Vic Damone",
+          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
+        },
+        {
+          "name": "Johnny Williams & His Orchestra",
+          "url": "https://open.spotify.com/artist/3OIuCFPKQf8H8rSbI7YaYo"
+        }
+      ],
+      "duration_ms": 168386,
+      "name": "Adrift On A Star (with Johnny Williams & His Orchestra) - Single Version",
+      "url": "https://open.spotify.com/track/3LOBp68eiLITgsIdAxeggH"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Life Begins at 8:40",
+        "url": "https://open.spotify.com/album/0pMUpjTUpcNkLMpar7D5fo"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        },
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        },
+        {
+          "name": "Ira Gershwin",
+          "url": "https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV"
+        },
+        {
+          "name": "Christopher Fitzgerald",
+          "url": "https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII"
+        },
+        {
+          "name": "Brad Oscar",
+          "url": "https://open.spotify.com/artist/3K1DDIrvoPOfSDkZtM23Fz"
+        },
+        {
+          "name": "Faith Prince",
+          "url": "https://open.spotify.com/artist/1lrPNYVtvuiB3lmOjbyJc9"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/1gkco6koF7eYTZDGIByNwQ"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Jamaica (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2aNrKWJGmEJyFld2QleeI7"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montalban",
+          "url": "https://open.spotify.com/artist/1I7f2VtT0KjfvYhZCz1vG1"
+        },
+        {
+          "name": "Augustine Rios",
+          "url": "https://open.spotify.com/artist/5GSp5Dj19TpeH6ajec03bC"
+        },
+        {
+          "name": "Jamaica Ensemble",
+          "url": "https://open.spotify.com/artist/2PrILzqFQnPyVpy19oWBXm"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "Incompatibility",
+      "url": "https://open.spotify.com/track/5fb44pZicDEcOhdlCkWjQ9"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Vintage Broadway",
+        "url": "https://open.spotify.com/album/72WwoUjAwgsLbpqIgu0sGw"
+      },
+      "artists": [
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        },
+        {
+          "name": "Burton Lane",
+          "url": "https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA"
+        },
+        {
+          "name": "Richard Hayman",
+          "url": "https://open.spotify.com/artist/68tBK9r9zdViB8V73G5SA9"
+        },
+        {
+          "name": "Richard Hayman Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2SDs98YfrEGBbh5PK98HvL"
+        }
+      ],
+      "duration_ms": 505000,
+      "name": "Finian's Rainbow",
+      "url": "https://open.spotify.com/track/1mtDTd4bP1R9h3wTW9XOK8"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Jamaica (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2aNrKWJGmEJyFld2QleeI7"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montalban",
+          "url": "https://open.spotify.com/artist/1I7f2VtT0KjfvYhZCz1vG1"
+        },
+        {
+          "name": "Jamaica Ensemble",
+          "url": "https://open.spotify.com/artist/2PrILzqFQnPyVpy19oWBXm"
+        }
+      ],
+      "duration_ms": 100666,
+      "name": "Savannah",
+      "url": "https://open.spotify.com/track/5nCSmCzPEiRxYj2ZbHhnZV"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast",
+          "url": "https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs"
+        }
+      ],
+      "duration_ms": 100733,
+      "name": "Spirit Of Capsulanti",
+      "url": "https://open.spotify.com/track/3UHo8Z0OeWh8U58JWDGDvl"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast",
+          "url": "https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs"
+        }
+      ],
+      "duration_ms": 101746,
+      "name": "Jump Little Chillun'",
+      "url": "https://open.spotify.com/track/6CMUjymlod20BbHTYxFD7n"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Life Begins at 8:40",
+        "url": "https://open.spotify.com/album/0pMUpjTUpcNkLMpar7D5fo"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        },
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        },
+        {
+          "name": "Ira Gershwin",
+          "url": "https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV"
+        },
+        {
+          "name": "Christopher Fitzgerald",
+          "url": "https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII"
+        },
+        {
+          "name": "Jessica Stone",
+          "url": "https://open.spotify.com/artist/7LqVU6rPQIAyrXa693LBvA"
+        },
+        {
+          "name": "Life Begins At 8:40 Ensemble",
+          "url": "https://open.spotify.com/artist/572zWa1Ubku0cS0mWaFWNx"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "All the Elks and Masons",
+      "url": "https://open.spotify.com/track/4tE4IU3mjgUx0EIV4kxSuk"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast",
+          "url": "https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs"
+        }
+      ],
+      "duration_ms": 54906,
+      "name": "No More Flahooleys",
+      "url": "https://open.spotify.com/track/6rwk0Bt1R8cAxA1cdpM0VQ"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "Dran Seitz",
+          "url": "https://open.spotify.com/artist/4z7pLsvRSRtqFye0rbG4xs"
+        },
+        {
+          "name": "Bruce Yarnell",
+          "url": "https://open.spotify.com/artist/71f1m1S8hZ0J0ofpB050Vi"
+        }
+      ],
+      "duration_ms": 159813,
+      "name": "The Happiest Girl in the World",
+      "url": "https://open.spotify.com/track/1m0TS40nRJ4bGPI1bt89G7"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "Cyril Ritchard",
+          "url": "https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr"
+        },
+        {
+          "name": "The Happiest Girl In The World Ensemble",
+          "url": "https://open.spotify.com/artist/6p5k1yzxlF3tzhuI949z8j"
+        }
+      ],
+      "duration_ms": 130826,
+      "name": "Never Trust a Virgin",
+      "url": "https://open.spotify.com/track/6qQlBgCaBmIInb2kJbKhSp"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Jamaica (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2aNrKWJGmEJyFld2QleeI7"
+      },
+      "artists": [
+        {
+          "name": "Adelaide Hall",
+          "url": "https://open.spotify.com/artist/2KNWLhYlWnBjBJPVqFzqmI"
+        },
+        {
+          "name": "Augustine Rios",
+          "url": "https://open.spotify.com/artist/5GSp5Dj19TpeH6ajec03bC"
+        },
+        {
+          "name": "Jamaica Ensemble",
+          "url": "https://open.spotify.com/artist/2PrILzqFQnPyVpy19oWBXm"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "Savannah's Wedding Day",
+      "url": "https://open.spotify.com/track/2mN3fXIYr23BS9XJS3bpiT"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Art Deco Series: The Crooners",
+        "url": "https://open.spotify.com/album/7aUYCMmg4f2QC2wTdRfPsw"
+      },
+      "artists": [
+        {
+          "name": "Harlan Lattimore",
+          "url": "https://open.spotify.com/artist/6duMdRTLHOSiawChnRsoqc"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "How Do You Do It?",
+      "url": "https://open.spotify.com/track/2CG3acTynVaJNismnFQG0n"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Harold Sings Arlen (With Friend)",
+        "url": "https://open.spotify.com/album/7gKHukqC50on673pzPsxhq"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "In the Shade of the New Apple Tree",
+      "url": "https://open.spotify.com/track/6KodPm0skQZqVXSi9cSIiD"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast Of 'Flahooley",
+          "url": "https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ"
+        }
+      ],
+      "duration_ms": 53200,
+      "name": "Consternation",
+      "url": "https://open.spotify.com/track/61plzvIApD4JcK824d9UMx"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "Bruce Yarnell",
+          "url": "https://open.spotify.com/artist/71f1m1S8hZ0J0ofpB050Vi"
+        }
+      ],
+      "duration_ms": 103546,
+      "name": "Five Minutes of Spring",
+      "url": "https://open.spotify.com/track/5z5SPHiG3Nbt7HlrFGXQJj"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "Cyril Ritchard",
+          "url": "https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr"
+        },
+        {
+          "name": "Janice Rule",
+          "url": "https://open.spotify.com/artist/0Jj6ZBoSkG9LN6J52d3RaJ"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Vive la Virtue!",
+      "url": "https://open.spotify.com/track/0APU0D5VkQaGbZbZObeFUv"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Darling of the Day (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0MYz0i97HpwYTndAYPH9hy"
+      },
+      "artists": [
+        {
+          "name": "Peter Woodthorpe",
+          "url": "https://open.spotify.com/artist/2FR1OWHwJPdNA9Du5QAOJZ"
+        },
+        {
+          "name": "Brenda Forbes",
+          "url": "https://open.spotify.com/artist/6I6fQwrU7zN8eqWr8zjOaW"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "Panache",
+      "url": "https://open.spotify.com/track/28yxvJHM1l7ioramC7tP8Y"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "Dran Seitz",
+          "url": "https://open.spotify.com/artist/4z7pLsvRSRtqFye0rbG4xs"
+        }
+      ],
+      "duration_ms": 114266,
+      "name": "Shall We Say Farewell?",
+      "url": "https://open.spotify.com/track/5VihG3dpWA2pwnm1RuTtiO"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Music of Harold Arlen: 1955 Walden Sessions",
+        "url": "https://open.spotify.com/album/1gO5Wki7OMJns4bYNl1Ch3"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        },
+        {
+          "name": "Artist Unknown",
+          "url": "https://open.spotify.com/artist/6gjAbs229sNHhSskJpQ2mG"
+        }
+      ],
+      "duration_ms": 191533,
+      "name": "T'Morra', T'Morra'",
+      "url": "https://open.spotify.com/track/6Q4lBlr8JI3y5kceTTDh83"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Finian's Rainbow (Irish Repertory Theatre Cast Recording)",
+        "url": "https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB"
+      },
+      "artists": [
+        {
+          "name": "John Sloman",
+          "url": "https://open.spotify.com/artist/46oXrgAsxd69gnFGJ14ImQ"
+        },
+        {
+          "name": "Malcolm Gets",
+          "url": "https://open.spotify.com/artist/4j0BEjh7PckU3efYXd1wUG"
+        }
+      ],
+      "duration_ms": 115466,
+      "name": "Fiddle Faddle",
+      "url": "https://open.spotify.com/track/0mIDOIIQZlcqA9xujafVZL"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Marni Nixon Sings Classic Kern",
+        "url": "https://open.spotify.com/album/4fg5ia3eWNep8PxPLcS7NI"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Mayorga",
+          "url": "https://open.spotify.com/artist/0GKgesLVMWQCSZGtWsX7vH"
+        },
+        {
+          "name": "Jerome Kern",
+          "url": "https://open.spotify.com/artist/09E7wcrEyqU2n1rnhzVT0h"
+        },
+        {
+          "name": "Marni Nixon",
+          "url": "https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ"
+        }
+      ],
+      "duration_ms": 99400,
+      "name": "I'll Follow Your Smile (arr. L. Mayorga)",
+      "url": "https://open.spotify.com/track/6Bryms0Y5QOnaxVVCVZWj2"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Remastered Classics, Vol. 234: Al Jolson",
+        "url": "https://open.spotify.com/album/6UFQ8p3IkdCn6nj2fhzWJV"
+      },
+      "artists": [
+        {
+          "name": "Al Jolson",
+          "url": "https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa"
+        }
+      ],
+      "duration_ms": 163091,
+      "name": "God's Country (Remastered 2022)",
+      "url": "https://open.spotify.com/track/4j6CpdQi6vaMe5i4OhCAZq"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Live in Amsterdam",
+        "url": "https://open.spotify.com/album/2JMszcPZ3kjKhLAhoxaFZ8"
+      },
+      "artists": [
+        {
+          "name": "The Tito Puente Big Band",
+          "url": "https://open.spotify.com/artist/3nCQBUim6T34SLO4n1NKmR"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "La Vieja Luna",
+      "url": "https://open.spotify.com/track/5i4qSKV6TPEMTXJDEIzazx"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "Janice Rule",
+          "url": "https://open.spotify.com/artist/0Jj6ZBoSkG9LN6J52d3RaJ"
+        },
+        {
+          "name": "The Happiest Girl In The World Ensemble",
+          "url": "https://open.spotify.com/artist/6p5k1yzxlF3tzhuI949z8j"
+        }
+      ],
+      "duration_ms": 127013,
+      "name": "Whatever That May Be",
+      "url": "https://open.spotify.com/track/02owUdlPG20wF59xIfDEO4"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "Janice Rule",
+          "url": "https://open.spotify.com/artist/0Jj6ZBoSkG9LN6J52d3RaJ"
+        },
+        {
+          "name": "The Happiest Girl In The World Ensemble",
+          "url": "https://open.spotify.com/artist/6p5k1yzxlF3tzhuI949z8j"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Eureka",
+      "url": "https://open.spotify.com/track/0s7XW2APmJZ4dkm64glXA3"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "Nancy Windsor",
+          "url": "https://open.spotify.com/artist/6M2KbCkkNLFfDReLpM92wI"
+        },
+        {
+          "name": "Dran Seitz",
+          "url": "https://open.spotify.com/artist/4z7pLsvRSRtqFye0rbG4xs"
+        },
+        {
+          "name": "The Happiest Girl In The World Ensemble",
+          "url": "https://open.spotify.com/artist/6p5k1yzxlF3tzhuI949z8j"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "How Soon, Oh Moon?",
+      "url": "https://open.spotify.com/track/5Im9wabSCegETFYTOKpyij"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "Dran Seitz",
+          "url": "https://open.spotify.com/artist/4z7pLsvRSRtqFye0rbG4xs"
+        },
+        {
+          "name": "The Happiest Girl In The World Ensemble",
+          "url": "https://open.spotify.com/artist/6p5k1yzxlF3tzhuI949z8j"
+        }
+      ],
+      "duration_ms": 96986,
+      "name": "The Oath",
+      "url": "https://open.spotify.com/track/5ycLr7nu9LaLDbpAvKLbFx"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "The Happiest Girl In The World Ensemble",
+          "url": "https://open.spotify.com/artist/6p5k1yzxlF3tzhuI949z8j"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "That'll Be the Day",
+      "url": "https://open.spotify.com/track/6OSw3CtAPoRpNb5jMIqnOd"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Life Begins at 8:40",
+        "url": "https://open.spotify.com/album/0pMUpjTUpcNkLMpar7D5fo"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        },
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        },
+        {
+          "name": "Ira Gershwin",
+          "url": "https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV"
+        },
+        {
+          "name": "Rebecca Luker",
+          "url": "https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if"
+        },
+        {
+          "name": "Life Begins At 8:40 Female Ensemble",
+          "url": "https://open.spotify.com/artist/5kQzZmgvJiXpFzuCiFcyKn"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "It Was Long Ago",
+      "url": "https://open.spotify.com/track/22ZSfGoOTX7rX9at7fFPtA"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "The Happiest Girl In The World Ensemble",
+          "url": "https://open.spotify.com/artist/6p5k1yzxlF3tzhuI949z8j"
+        }
+      ],
+      "duration_ms": 48773,
+      "name": "Entrance of the Courtesans",
+      "url": "https://open.spotify.com/track/4fr400MKjJMH1hUXYKkF2D"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Adrift on a Star",
+        "url": "https://open.spotify.com/album/5jO7QEEhFanvlmvzd7paHL"
+      },
+      "artists": [
+        {
+          "name": "Dan Barker",
+          "url": "https://open.spotify.com/artist/5Fq2r51kJNpXrzGEstsLKh"
+        }
+      ],
+      "duration_ms": 185320,
+      "name": "One Sweet Morning",
+      "url": "https://open.spotify.com/track/3TXbtWS4v6mKQm1qf5uC0N"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Life Begins at 8:40",
+        "url": "https://open.spotify.com/album/0pMUpjTUpcNkLMpar7D5fo"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        },
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        },
+        {
+          "name": "Ira Gershwin",
+          "url": "https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV"
+        },
+        {
+          "name": "Graham Rowat",
+          "url": "https://open.spotify.com/artist/2Muh2fj7Evx6KhujQ1ed9C"
+        },
+        {
+          "name": "Brad Oscar",
+          "url": "https://open.spotify.com/artist/3K1DDIrvoPOfSDkZtM23Fz"
+        },
+        {
+          "name": "Faith Prince",
+          "url": "https://open.spotify.com/artist/1lrPNYVtvuiB3lmOjbyJc9"
+        },
+        {
+          "name": "Christopher Fitzgerald",
+          "url": "https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII"
+        },
+        {
+          "name": "Jessica Stone",
+          "url": "https://open.spotify.com/artist/7LqVU6rPQIAyrXa693LBvA"
+        },
+        {
+          "name": "Life Begins At 8:40 Ensemble",
+          "url": "https://open.spotify.com/artist/572zWa1Ubku0cS0mWaFWNx"
+        }
+      ],
+      "duration_ms": 377933,
+      "name": "Life Begins at City Hall",
+      "url": "https://open.spotify.com/track/1PywZe2GFc7Ln3IoFYJLI0"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Bloomer Girl (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd"
+      },
+      "artists": [
+        {
+          "name": "Celeste Holm",
+          "url": "https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "It Was Good Enough for Grandma",
+      "url": "https://open.spotify.com/track/46YYzZT4lWVL4zeLZhZnhD"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/1TtOgp76fvy8Sc98IaBuXx"
+      },
+      "artists": [
+        {
+          "name": "Jack Jenney",
+          "url": "https://open.spotify.com/artist/62dZK565BSdyRwiD6a2KPy"
+        }
+      ],
+      "duration_ms": 147226,
+      "name": "I've Gone Romantic On You",
+      "url": "https://open.spotify.com/track/0xYUPOWBo1JkoyjnprXSK3"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Bloomer Girl (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd"
+      },
+      "artists": [
+        {
+          "name": "Celeste Holm",
+          "url": "https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ"
+        }
+      ],
+      "duration_ms": 200866,
+      "name": "Sunday in Cicero Falls",
+      "url": "https://open.spotify.com/track/5Kjnja1AN7NzSNDrKMBgY0"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "I'm Confused, Therefore I Am",
+        "url": "https://open.spotify.com/album/4ncC3FE8AaibowTISkFUtq"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Crane",
+          "url": "https://open.spotify.com/artist/2RC2BxcroaVm1XXaR5t87d"
+        }
+      ],
+      "duration_ms": 250373,
+      "name": "Napoleon's A Pastry",
+      "url": "https://open.spotify.com/track/7G75sxDTlJZGenltun6qS0"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Bloomer Girl (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd"
+      },
+      "artists": [
+        {
+          "name": "Celeste Holm",
+          "url": "https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ"
+        }
+      ],
+      "duration_ms": 195626,
+      "name": "The Rakish Young Man with the Whiskahs",
+      "url": "https://open.spotify.com/track/1zySHyAUFSbiADrZ8D7EVM"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Bloomer Girl (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd"
+      },
+      "artists": [
+        {
+          "name": "Mabel Taliaferro",
+          "url": "https://open.spotify.com/artist/6gRyDyEeAhnP9ULECHOsjG"
+        },
+        {
+          "name": "David Brooks",
+          "url": "https://open.spotify.com/artist/2RFwsEgg8cc5h5LygnB4Zs"
+        }
+      ],
+      "duration_ms": 164146,
+      "name": "Welcome Hinges",
+      "url": "https://open.spotify.com/track/5sTSjad3ZN3gOSJJU78sLz"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Bloomer Girl (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd"
+      },
+      "artists": [
+        {
+          "name": "Joan McCracken",
+          "url": "https://open.spotify.com/artist/0fXFItzsugYaL1Ee2PMwO0"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Never Was Born",
+      "url": "https://open.spotify.com/track/4e1nNIkE2ZDebHnsm6cLyq"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Bloomer Girl (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        }
+      ],
+      "duration_ms": 76146,
+      "name": "Man for Sale",
+      "url": "https://open.spotify.com/track/4tmy7MJeg5TZZlWtXghTMb"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Bloomer Girl (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd"
+      },
+      "artists": [
+        {
+          "name": "Hubert Dilworth",
+          "url": "https://open.spotify.com/artist/5OZa0iy6rCDE0DcjN92TBi"
+        },
+        {
+          "name": "Richard Huey",
+          "url": "https://open.spotify.com/artist/3T4pCSIeL104D6ELmWvqeP"
+        },
+        {
+          "name": "Dooley Wilson",
+          "url": "https://open.spotify.com/artist/16X8T4VdzB9sHrYSSpIEVB"
+        }
+      ],
+      "duration_ms": 313440,
+      "name": "I Got a Song",
+      "url": "https://open.spotify.com/track/5JS8gweKWdJvNhFeHG1QB2"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Two of a Kind: Leslie Hutchinson & Helen Forrest",
+        "url": "https://open.spotify.com/album/4RVL3CzR3kA1rbUdu7gf5V"
+      },
+      "artists": [
+        {
+          "name": "Leslie Hutchinson",
+          "url": "https://open.spotify.com/artist/453I7yV0T8T3WfOgnupSru"
+        }
+      ],
+      "duration_ms": 189364,
+      "name": "Dusty Shoes",
+      "url": "https://open.spotify.com/track/5VAifRTKS28serMlKNTEjk"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Bloomer Girl (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd"
+      },
+      "artists": [
+        {
+          "name": "Toni Hart",
+          "url": "https://open.spotify.com/artist/2KVOqll0LjBIBf4CQoAfjG"
+        }
+      ],
+      "duration_ms": 114453,
+      "name": "Liza Crossing the Ice",
+      "url": "https://open.spotify.com/track/3zZ3tmzNHoFleGGavyVRJ8"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Arlen, Berlin, Gershwin, Rodgers And Hart",
+        "url": "https://open.spotify.com/album/5MkZ8tH9GAQPrfCI95GPiR"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen & E.Y. Harburg",
+          "url": "https://open.spotify.com/artist/5EnuL6cT11qbEZDeGkIQ6p"
+        },
+        {
+          "name": "Karie L Kerner",
+          "url": "https://open.spotify.com/artist/0RZbptzEPJGRadumBiTXEK"
+        }
+      ],
+      "duration_ms": 114506,
+      "name": "The Silent Spring",
+      "url": "https://open.spotify.com/track/4h3phM00ye2mPNlApzsLb8"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Vintage & Rare the Songs of Harold Arlen, Vol. 2: Hit the Road to Dreamland",
+        "url": "https://open.spotify.com/album/1L7YXDVutt5aGIDoxBK55H"
+      },
+      "artists": [
+        {
+          "name": "Ken Greves",
+          "url": "https://open.spotify.com/artist/0EbaLciV1bPmSAAUXPhAif"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "There's a Sweet Wind Blowin' My Way",
+      "url": "https://open.spotify.com/track/2YXJ7hsI81ytP7laCFmbHI"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Best OLIVIA DE HAVILLAND Early Movie Themes, Vol. 1",
+        "url": "https://open.spotify.com/album/1slkBt8QzYVb57LWkRgVOC"
+      },
+      "artists": [
+        {
+          "name": "Nan Wynn",
+          "url": "https://open.spotify.com/artist/01fbAIanLsfk95sETzqHdh"
+        }
+      ],
+      "duration_ms": 141978,
+      "name": "Honorable Moon - Princess O'Rourke, 1943",
+      "url": "https://open.spotify.com/track/5SQyDZHDvhNa2uuA5DXqWV"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Last Legacy of E.Y. Harburg",
+        "url": "https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347"
+      },
+      "artists": [
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        }
+      ],
+      "duration_ms": 152938,
+      "name": "Hitchhikers",
+      "url": "https://open.spotify.com/track/5R3S3kSGEJLizz3pX20US5"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Last Legacy of E.Y. Harburg",
+        "url": "https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347"
+      },
+      "artists": [
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        }
+      ],
+      "duration_ms": 172687,
+      "name": "Edelaine",
+      "url": "https://open.spotify.com/track/44Jj8bvEXzw6uJDzr9yHf1"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Easy Come, Easy Go",
+        "url": "https://open.spotify.com/album/0jr1afpuTiRR1RazK1DusV"
+      },
+      "artists": [
+        {
+          "name": "Linda Kosut",
+          "url": "https://open.spotify.com/artist/2j5zebFol9mkkaXvpZutaU"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Foolish Baby",
+      "url": "https://open.spotify.com/track/3y5jzyy40ev08n9Kkn45hM"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Arlen Magic",
+        "url": "https://open.spotify.com/album/2PIEp4cjSXpwIrXuOWUQGS"
+      },
+      "artists": [
+        {
+          "name": "David Keith Jones",
+          "url": "https://open.spotify.com/artist/6SyTOcW49ejsWCJmHvtBE7"
+        }
+      ],
+      "duration_ms": 192725,
+      "name": "Promise Me Not to Love Me",
+      "url": "https://open.spotify.com/track/4Jz1jNsPwGIKNJAiDNmrwJ"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Last Legacy of E.Y. Harburg",
+        "url": "https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 204540,
+      "name": "Love Comes in Many Different Colors",
+      "url": "https://open.spotify.com/track/6oCa6nwRN629cbkc7brTwE"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Last Legacy of E.Y. Harburg",
+        "url": "https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347"
+      },
+      "artists": [
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        }
+      ],
+      "duration_ms": 196408,
+      "name": "Crazy Old World",
+      "url": "https://open.spotify.com/track/4nRDzupVtLnkjwZ5W4nZrq"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "The Last Legacy of E.Y. Harburg",
+        "url": "https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347"
+      },
+      "artists": [
+        {
+          "name": "Claire Birmingham",
+          "url": "https://open.spotify.com/artist/5uDqbqaIdbxDDqVdi3djLp"
+        }
+      ],
+      "duration_ms": 222440,
+      "name": "Change of Sky",
+      "url": "https://open.spotify.com/track/0jBVPa1mnX69b24S9vllp5"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Hot Moonlight!",
+        "url": "https://open.spotify.com/album/1ZLQuU85AeAFOsiFaj2ERv"
+      },
+      "artists": [
+        {
+          "name": "Karen Lynn Gorney",
+          "url": "https://open.spotify.com/artist/2bDhh9tS9JjGOUVZYjRkho"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Ah, But Is It Love?",
+      "url": "https://open.spotify.com/track/3TkWXUYypEvDLc1d9q0uFr"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Hot Moonlight!",
+        "url": "https://open.spotify.com/album/1ZLQuU85AeAFOsiFaj2ERv"
+      },
+      "artists": [
+        {
+          "name": "Karen Lynn Gorney",
+          "url": "https://open.spotify.com/artist/2bDhh9tS9JjGOUVZYjRkho"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Hot Moonlight",
+      "url": "https://open.spotify.com/track/3XDEtILipdstPlK9y5mp2W"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Dana Suesse",
+        "url": "https://open.spotify.com/album/2XowS7W11kPn1JPXNzVqo0"
+      },
+      "artists": [
+        {
+          "name": "Dana Suesse",
+          "url": "https://open.spotify.com/artist/7z6gHumB3WriLbqxXN1Gp8"
+        }
+      ],
+      "duration_ms": 200074,
+      "name": "Moon About Town",
+      "url": "https://open.spotify.com/track/2QPvN92YXJ7LnKrfNKCdrz"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Dana Suesse",
+        "url": "https://open.spotify.com/album/2XowS7W11kPn1JPXNzVqo0"
+      },
+      "artists": [
+        {
+          "name": "Dana Suesse",
+          "url": "https://open.spotify.com/artist/7z6gHumB3WriLbqxXN1Gp8"
+        }
+      ],
+      "duration_ms": 182548,
+      "name": "Missouri Misery",
+      "url": "https://open.spotify.com/track/4U5W2lN3u71BKc9RSKrF80"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast Of 'Flahooley",
+          "url": "https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ"
+        }
+      ],
+      "duration_ms": 26013,
+      "name": "Inner-Office Scene",
+      "url": "https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT"
+    },
+    {
+      "added_at": "2025-07-14 03:00:21",
+      "album": {
+        "name": "Flahooley (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast Of 'Flahooley",
+          "url": "https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ"
+        }
+      ],
+      "duration_ms": 24733,
+      "name": "Telephone Switchboard Scene",
+      "url": "https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt"
+    }
+  ],
   "unique_name": "Written By E.Y. \"Yip\" Harburg",
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFA5bLxifCVBV"
 }

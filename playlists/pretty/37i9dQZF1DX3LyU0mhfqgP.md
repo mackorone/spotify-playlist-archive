@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Irmãs de Pau
+> Songs from LGBTQIA+ artists\. Cover: Aiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,013 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,934 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [QUEIMANDO ICE](https://open.spotify.com/track/2RfHXxlkGUXSs1m9UJQZXz) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Gambiarra Chic, Pt\. 2](https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi) | 3:54 |
-| 2 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
-| 3 | [EL GORDO](https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:36 |
-| 4 | [best case scenario](https://open.spotify.com/track/21AOXDUXhfx1RwIDVSgAnD) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [it's hard to be a fish](https://open.spotify.com/album/7Ld81qBy0TNl13Rxgoq07N) | 3:36 |
-| 5 | [A Little Bit Wild](https://open.spotify.com/track/7rZmBZLfhgh000Zcureczx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [A Little Bit Wild](https://open.spotify.com/album/2f0s9vLtRtfpLvvvbRPMze) | 3:16 |
-| 6 | [Reina de la Selva](https://open.spotify.com/track/4F4lnH2wzZB2LLRHBcRsri) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Inmersión](https://open.spotify.com/album/7GzlsTZ6h5tURFxCZ2DFc0) | 3:21 |
-| 7 | [Sommarland](https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo) | 2:43 |
-| 8 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
-| 9 | [Quédate Aquí](https://open.spotify.com/track/4L1GtckTxah0GmJfTBuq76) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Canciones del Corazón](https://open.spotify.com/album/2cgTOtTT4pJARi9rpRQpcq) | 2:45 |
-| 10 | [I Need A Minute](https://open.spotify.com/track/7wMmSsa9dJIAIP6Ml59vh2) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [I Need a Minute](https://open.spotify.com/album/5Nw5cq1vgZMA19XV62PUBK) | 2:33 |
+| 1 | [I Need A Minute](https://open.spotify.com/track/7wMmSsa9dJIAIP6Ml59vh2) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [I Need a Minute](https://open.spotify.com/album/5Nw5cq1vgZMA19XV62PUBK) | 2:33 |
+| 2 | [QUEIMANDO ICE](https://open.spotify.com/track/2RfHXxlkGUXSs1m9UJQZXz) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Gambiarra Chic, Pt\. 2](https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi) | 3:54 |
+| 3 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
+| 4 | [EL GORDO](https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:36 |
+| 5 | [best case scenario](https://open.spotify.com/track/21AOXDUXhfx1RwIDVSgAnD) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [it's hard to be a fish](https://open.spotify.com/album/7Ld81qBy0TNl13Rxgoq07N) | 3:36 |
+| 6 | [A Little Bit Wild](https://open.spotify.com/track/7rZmBZLfhgh000Zcureczx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [A Little Bit Wild](https://open.spotify.com/album/2f0s9vLtRtfpLvvvbRPMze) | 3:16 |
+| 7 | [Reina de la Selva](https://open.spotify.com/track/4F4lnH2wzZB2LLRHBcRsri) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Inmersión](https://open.spotify.com/album/7GzlsTZ6h5tURFxCZ2DFc0) | 3:21 |
+| 8 | [Sommarland](https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo) | 2:43 |
+| 9 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
+| 10 | [Quédate Aquí](https://open.spotify.com/track/4L1GtckTxah0GmJfTBuq76) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Canciones del Corazón](https://open.spotify.com/album/2cgTOtTT4pJARi9rpRQpcq) | 2:45 |
 | 11 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
 | 12 | [Krasnoludki](https://open.spotify.com/track/2zkrbub73Y4oGFwrgrBg6r) | [vgtbl.pl](https://open.spotify.com/artist/2kMcRNBgbx6szpteePrGew), [Franek Warzywa](https://open.spotify.com/artist/4gh7DVwvptUXnKdHUpTsZ9), [Młody Budda](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c) | [Krasnoludki](https://open.spotify.com/album/2vzB4Y4Dopi4gHAbKxSfE3) | 2:27 |
 | 13 | [Oko Boma Nga](https://open.spotify.com/track/3gzcjxH87nTFtSCR9IC1Pj) | [Titica](https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s), [Rebo](https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb), [Kyaku Kyadaff](https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9) | [Oko Boma Nga](https://open.spotify.com/album/5z3GoDjxQ2UgubeHUh5Otp) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Róża](https://open.spotify.com/track/6eMb3cPoLTEfa7u8w4TSrE) | [Kochliwa Magda](https://open.spotify.com/artist/2cVWL2Lcr1E38bdn265vaG), [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8), [Lulu](https://open.spotify.com/artist/4vobEJ4kSKRGljl6ih2ZRR) | [Róża](https://open.spotify.com/album/1DIiPl34Fbae4bvcrQ8RMr) | 3:24 |
 | 50 | [Mrs Thomas](https://open.spotify.com/track/53RGmdd994Q2B65CphWwQC) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Mrs Thomas](https://open.spotify.com/album/0ubE6U59PiQM4fgehn5cp4) | 3:08 |
 
-Snapshot ID: `aGyJwAAAAADkojZNz+4VOPaZYSYSQERf`
+Snapshot ID: `aHXEOgAAAABkc2ODuwk2kYuMQTBcTFCA`

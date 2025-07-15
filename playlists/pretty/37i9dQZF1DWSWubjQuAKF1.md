@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Gaba Kościug
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,375 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,374 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 29 | [Na części pierwsze](https://open.spotify.com/track/3B63eSVNQC2AOYjWR5vWwV) | [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD) | [PO FAKCIE](https://open.spotify.com/album/4JecW1pAXfshamrTxIvlv6) | 3:06 |
 | 30 | [BOOM](https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [BOOM](https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ) | 2:44 |
 | 31 | [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 |
-| 32 | [KEEP IT COOL](https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [KEEP IT COOL](https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz) | 2:53 |
-| 33 | [Need 2](https://open.spotify.com/track/2XOTQLxng9rBeHw2jHNqDY) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [Need 2](https://open.spotify.com/album/65LTuhV9Kiufno0XuD6OsN) | 2:40 |
-| 34 | [SOS](https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [SOS](https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt) | 2:51 |
-| 35 | [pod kinem ars](https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [pod kinem ars/kraków](https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP) | 2:39 |
-| 36 | [Escape](https://open.spotify.com/track/2Dlc3NKzeU8xybT6R8iQm0) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Phatrax](https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7) | [Escape](https://open.spotify.com/album/2S1RHUOQRRqDPkVmxVSLHA) | 2:33 |
-| 37 | [Psy](https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Psy](https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB) | 3:20 |
+| 32 | [Need 2](https://open.spotify.com/track/2XOTQLxng9rBeHw2jHNqDY) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [Need 2](https://open.spotify.com/album/65LTuhV9Kiufno0XuD6OsN) | 2:40 |
+| 33 | [SOS](https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [SOS](https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt) | 2:51 |
+| 34 | [KEEP IT COOL](https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [KEEP IT COOL](https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz) | 2:53 |
+| 35 | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn) | 3:37 |
+| 36 | [pod kinem ars](https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [pod kinem ars/kraków](https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP) | 2:39 |
+| 37 | [Escape](https://open.spotify.com/track/2Dlc3NKzeU8xybT6R8iQm0) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Phatrax](https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7) | [Escape](https://open.spotify.com/album/2S1RHUOQRRqDPkVmxVSLHA) | 2:33 |
 | 38 | [jeszcze raz](https://open.spotify.com/track/1zxUcEhaqPbgmryzP9Q6fu) | [DJ BLIK](https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [jeszcze raz](https://open.spotify.com/album/0cxn6C6Yk2zEZlRn2EVHg5) | 3:40 |
-| 39 | [Jeszcze raz](https://open.spotify.com/track/6n6sEKy1885BNIXiapog4E) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Jeszcze raz](https://open.spotify.com/album/1RsZtOTCP3XVv240LxDrhb) | 2:32 |
-| 40 | [mam dosyć striptiz clubów](https://open.spotify.com/track/77JAlSRiYQX3Hy5je6eZvo) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [mam dosyć striptiz clubów](https://open.spotify.com/album/29WqQEVn3lINejm16UYxUx) | 3:49 |
-| 41 | [Letni](https://open.spotify.com/track/1jjkob4b4R34GxNVHSvg0X) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Letni](https://open.spotify.com/album/5W1OECvmOy8qTp3FAYdYWj) | 2:28 |
-| 42 | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn) | 3:37 |
-| 43 | [Róże](https://open.spotify.com/track/7KwoToBk5yZ3sDTOuFEI9F) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Róże](https://open.spotify.com/album/1OFjjOlwaioMt9YqGZHNRb) | 2:31 |
-| 44 | [Ja Wciąż Ciebie Też](https://open.spotify.com/track/3m6l0Eb3aGWjXudwTj5lAW) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Ja Wciąż Ciebie Też](https://open.spotify.com/album/1g03Banzzmo1Cah8DPE6MG) | 2:31 |
+| 39 | [Psy](https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Psy](https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB) | 3:20 |
+| 40 | [Jeszcze raz](https://open.spotify.com/track/6n6sEKy1885BNIXiapog4E) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Jeszcze raz](https://open.spotify.com/album/1RsZtOTCP3XVv240LxDrhb) | 2:32 |
+| 41 | [mam dosyć striptiz clubów](https://open.spotify.com/track/77JAlSRiYQX3Hy5je6eZvo) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [mam dosyć striptiz clubów](https://open.spotify.com/album/29WqQEVn3lINejm16UYxUx) | 3:49 |
+| 42 | [Letni](https://open.spotify.com/track/1jjkob4b4R34GxNVHSvg0X) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Letni](https://open.spotify.com/album/5W1OECvmOy8qTp3FAYdYWj) | 2:28 |
+| 43 | [Ja Wciąż Ciebie Też](https://open.spotify.com/track/3m6l0Eb3aGWjXudwTj5lAW) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Ja Wciąż Ciebie Też](https://open.spotify.com/album/1g03Banzzmo1Cah8DPE6MG) | 2:31 |
+| 44 | [Róże](https://open.spotify.com/track/7KwoToBk5yZ3sDTOuFEI9F) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Róże](https://open.spotify.com/album/1OFjjOlwaioMt9YqGZHNRb) | 2:31 |
 | 45 | [come over?](https://open.spotify.com/track/5Y1REJUiVtJGGUAqTEphWz) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [come over?](https://open.spotify.com/album/41DUwYHE0GETfovi2havgJ) | 2:40 |
 | 46 | [Ciarki](https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Ciarki](https://open.spotify.com/album/4a3miPuMVYQHWvjev8qMHy) | 3:52 |
 | 47 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 |

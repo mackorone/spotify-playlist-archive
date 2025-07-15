@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: Tr33",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u6797\u4fca\u5091 (JJ Lin) x A-Lin",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 226000,
       "name": "555 666 888 33",
       "url": "https://open.spotify.com/track/2HBJ5IB7F1N7QQhIT9PNLc"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 184568,
       "name": "DIY",
       "url": "https://open.spotify.com/track/396C5MhxOw8DYPQwmvahe7"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 194838,
       "name": "Six Degrees",
       "url": "https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq"
@@ -4861,6 +4861,24 @@
     },
     {
       "album": {
+        "name": "\u53cd\u8986\u62c9\u626f",
+        "url": "https://open.spotify.com/album/00ZZJIk8UrLsl1cS0GHB0E"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176153,
+      "name": "\u53cd\u8986\u62c9\u626f",
+      "url": "https://open.spotify.com/track/3zFr8ABoWIJm1u4UdSnpmu"
+    },
+    {
+      "album": {
         "name": "\u53e5\u53e5\u5728\u8bf4\u522b\u8d70",
         "url": "https://open.spotify.com/album/55pXprs1pUmPowtoiMXOvw"
       },
@@ -5445,6 +5463,28 @@
     },
     {
       "album": {
+        "name": "\u5728\u6708\u8755\u88e1\u62b1\u7dca\u6211",
+        "url": "https://open.spotify.com/album/1cZm2NJIWKwOEynkSUEjQK"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256351,
+      "name": "\u5728\u6708\u8755\u88e1\u62b1\u7dca\u6211",
+      "url": "https://open.spotify.com/track/6H4A3Vbro8pwPN091VHQzj"
+    },
+    {
+      "album": {
         "name": "\u5728\u6771\u4eac\u8def\u4e0a",
         "url": "https://open.spotify.com/album/4onxYSkCAWK2rJubQ8bSEe"
       },
@@ -5886,7 +5926,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 205511,
       "name": "\u597d\u7cdf\u7cd5\u7684\u6d3e\u5c0d",
       "url": "https://open.spotify.com/track/081dRa4rGp9moHohanrZLN"
@@ -10278,7 +10318,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 256605,
       "name": "\u6b4c\u8ff7",
       "url": "https://open.spotify.com/track/7bFtn9LgyeJIfRtqGN1hC0"
@@ -12491,6 +12531,24 @@
     },
     {
       "album": {
+        "name": "\u81ea\u5df1\u4e00\u500b\u4eba",
+        "url": "https://open.spotify.com/album/4msKtvuvLM2xtpeGSfsLLc"
+      },
+      "artists": [
+        {
+          "name": "Sherman Zhuo",
+          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246337,
+      "name": "\u81ea\u5df1\u4e00\u500b\u4eba",
+      "url": "https://open.spotify.com/track/7vRvzhbkXkviVczo1UNBKc"
+    },
+    {
+      "album": {
         "name": "\u81f4\u672a\u6765\u7684\u4f60\u6211",
         "url": "https://open.spotify.com/album/2WMZcM0pamvmVmUlPuKv41"
       },
@@ -12690,6 +12748,24 @@
       "duration_ms": 251624,
       "name": "\u82b1\u5b63",
       "url": "https://open.spotify.com/track/4meqN8UgbPZsauQRBDMqtD"
+    },
+    {
+      "album": {
+        "name": "\u516b\u65b9\u4f86\u8ca1\u4e4b\u6c5f\u8239\u5165\u6d77 (Stacks from All Sides\uff1aFresh Off the Boat)",
+        "url": "https://open.spotify.com/album/4Jw2JJa6yqFTxLqau9Z3UN"
+      },
+      "artists": [
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186725,
+      "name": "\u82b1\u6591\u868a",
+      "url": "https://open.spotify.com/track/6BPO5uXhmI2Qq04zGQuhuz"
     },
     {
       "album": {
@@ -15052,6 +15128,24 @@
       "duration_ms": 280781,
       "name": "\u9ece\u660e\u6240\u9858 (\u96fb\u8996\u5287\u300a\u6697\u591c\u8207\u9ece\u660e\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/5NyNYth3JHzPrxYcApZZri"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5011\u5c31\u50cf\u90a3\u4e9b\u8981\u547d\u7684\u50bb\u74dc",
+        "url": "https://open.spotify.com/album/3ZswervhsAwTbWS8Z1c4WB"
+      },
+      "artists": [
+        {
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "\u9ed1\u591c\u72c2\u5954",
+      "url": "https://open.spotify.com/track/4rCpwGXcaoNejahMl7BbFQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,199 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,289 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 24 | [Jorge Cazares](https://open.spotify.com/track/7uyg1D20KT3R5tRlLSkkqJ) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:06 |
 | 25 | [Coquio Castro](https://open.spotify.com/track/58kdEzKW2J51TzU1CGUIUf) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Mi Mexico Querido](https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz) | 3:39 |
 | 26 | [Tino Quintero](https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 3:46 |
-| 27 | [El Pávido Návido](https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Recordando A Chalino](https://open.spotify.com/album/0p091X45za7loFjKaHPLaj) | 2:54 |
-| 28 | [Corrido De Rosalino](https://open.spotify.com/track/10TR4FENX2vDT599CGc8ls) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Canta Corridos Al Estilo Culiacán](https://open.spotify.com/album/23yzFm7WENzQArdhWNGoQK) | 2:41 |
+| 27 | [Corrido De Rosalino](https://open.spotify.com/track/10TR4FENX2vDT599CGc8ls) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Canta Corridos Al Estilo Culiacán](https://open.spotify.com/album/23yzFm7WENzQArdhWNGoQK) | 2:41 |
+| 28 | [El Pávido Návido](https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Recordando A Chalino](https://open.spotify.com/album/0p091X45za7loFjKaHPLaj) | 2:54 |
 | 29 | [El Pitallón](https://open.spotify.com/track/2HvtcMIVVKLyiRekISxGk3) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:46 |
 | 30 | [María De La Luz](https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Con Mariachi](https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e) | 4:02 |
 | 31 | [Mario Portillo](https://open.spotify.com/track/0HXYmIG0cO3y0ASrZiezJx) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 49 | [Reto a la Muerte](https://open.spotify.com/track/1U7RVWs5oFa3e3eHN06W5F) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [20 Exitos](https://open.spotify.com/album/0nJ38JGt1eAIQx6PZ3wDk2) | 3:01 |
 | 50 | [Por Una Rencilla Vieja](https://open.spotify.com/track/2CMcLBaFgUFVkMeHnyhNGR) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Chalino Sánchez y Cornelio Reyna, Vol\. 2](https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8) | 3:38 |
 
-Snapshot ID: `aHGlgAAAAACJi3Xmxyc63c5ef//GlwKy`
+Snapshot ID: `aHL3AAAAAACvjcLkU8ly9PGBXGZc9g5O`

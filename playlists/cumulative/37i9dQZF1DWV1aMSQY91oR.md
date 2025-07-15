@@ -4,7 +4,7 @@
 
 > The latest hip\-hop, refreshed weekly\.  Cover: TOBi
 
-3,883 songs - 7 day 17 hr 44 min
+3,884 songs - 7 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [1982 \(with Curren$y & LE$\)](https://open.spotify.com/track/4OTmDHEUGop3Qw1GAXm3F9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw) | [1982 \(with Curren$y & LE$\)](https://open.spotify.com/album/1VY0UoPeaR3V7P4sA55KnW) | 3:46 | 2024-08-16 | 2024-09-14 |
 | [1st Of The Month](https://open.spotify.com/track/4bRJEAQgyFfRDvv8QAVWsx) | [TJ Porter](https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4), [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [1st Of The Month](https://open.spotify.com/album/3jWOfoZhLrSChZbwd3Gk8I) | 2:10 | 2024-02-02 | 2024-02-10 |
 | [2 C’s \(with Jeremih\)](https://open.spotify.com/track/4zC23Rh3fJ85f7hSsPqDby) | [Murf Dilly](https://open.spotify.com/artist/25F6WUx2LWdLepEu8Eh86K), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [2 C’s \(with Jeremih\)](https://open.spotify.com/album/5ror06Vkzmdj0mfDfIEbFG) | 2:07 | 2023-04-14 | 2023-04-22 |
-| [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 | 2025-06-13 |  |
+| [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 | 2025-06-13 | 2025-07-15 |
 | [2 Rich](https://open.spotify.com/track/17pVnCsKY27lq2TZWsN8cu) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [2 Rich](https://open.spotify.com/album/2bHcnR3ccRuVxjd6EQHUBP) | 2:04 | 2025-02-14 | 2025-02-22 |
 | [2'CY](https://open.spotify.com/track/3R0SI46gC5a9BfFKXtbtSo) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [2'CY](https://open.spotify.com/album/1OeImrfH0v0zDItzvbov9y) | 2:59 | 2023-11-10 | 2023-11-18 |
 | [2\-3 Zone](https://open.spotify.com/track/61stjy8wXtCR3prmF6JEpm) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [2\-3 Zone](https://open.spotify.com/album/2v2ohqVKWPDDfXpVMfuBK8) | 2:59 | 2024-02-23 | 2024-03-02 |
@@ -1789,6 +1789,7 @@
 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 | 2023-10-27 | 2023-10-29 |
 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS) | 2:22 | 2023-10-27 | 2023-11-11 |
 | [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 | 2024-03-22 | 2024-04-06 |
+| [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 | 2025-07-14 |  |
 | [KiCKIN](https://open.spotify.com/track/26XkW38w3jSTVDiul4XO5c) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [KiCKIN](https://open.spotify.com/album/51HW3FtsiuLI3sYGFWDfXs) | 2:22 | 2024-09-13 | 2024-09-28 |
 | [KiKi \(What Would Drizzy Say?\)](https://open.spotify.com/track/1H0IdGNAKBXQnPD7SBZJfo) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [KiKi \(What Would Drizzy Say?\)](https://open.spotify.com/album/3OuaEHWzoAJ903v3E9VZW4) | 2:49 | 2024-04-12 | 2024-05-04 |
 | [Kilimanjaro \(feat\. Oxlade\)](https://open.spotify.com/track/4nCECWieTv9JvVINUprF9U) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Young Kingz II](https://open.spotify.com/album/7Il92ktSZCVhB1LIyViwn4) | 3:22 | 2025-02-07 | 2025-02-15 |

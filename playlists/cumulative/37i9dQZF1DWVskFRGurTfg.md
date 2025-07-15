@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con Rels B.
 
-1,095 songs - 2 day 11 hr 55 min
+1,096 songs - 2 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [AKrusi](https://open.spotify.com/track/35lOpuKOGUJ97PROkLFcY8) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [AKrusi](https://open.spotify.com/album/4e5NylzUAwctbVlT7h1ruo) | 4:07 | 2024-04-04 | 2024-05-25 |
 | [AL BORDE](https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [511](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X) | 2:28 | 2023-04-20 | 2023-08-11 |
 | [ALAKRAN](https://open.spotify.com/track/2Yc3MHpZ9R5UCIz78E20AQ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 1:30 | 2024-02-02 | 2024-04-05 |
+| [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 | 2025-07-14 |  |
 | [Alegría](https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Alegría](https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq) | 2:45 | 2024-08-16 | 2025-04-08 |
 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 | 2023-04-13 | 2023-05-06 |
 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 | 2022-09-02 | 2022-09-24 |
@@ -712,7 +713,7 @@
 | [OHH BABY](https://open.spotify.com/track/4yaaJjSiZKDby86zsbFAd4) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [OHH BABY](https://open.spotify.com/album/5nzTg7XAPNrQlj9EQyBVgX) | 2:30 | 2023-10-06 | 2023-12-08 |
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-06-14 | 2025-06-07 |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-06-09 | 2022-08-27 |
-| [Ojalá](https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Ojalá](https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS) | 2:36 | 2025-05-16 |  |
+| [Ojalá](https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Ojalá](https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS) | 2:36 | 2025-05-16 | 2025-07-15 |
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2022-10-28 | 2022-12-21 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-09 | 2023-01-13 |
 | [Ojitos Rojos \- Remix](https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojitos Rojos \(Remix\)](https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv) | 3:23 | 2023-06-23 | 2023-10-14 |

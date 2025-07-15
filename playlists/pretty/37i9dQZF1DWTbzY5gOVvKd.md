@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,282 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,397 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 39 | [My Romance](https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:42 |
 | 40 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 |
 | 41 | [I'll Be Seeing You](https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 6:07 |
-| 42 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 |
-| 43 | [Till There Was You](https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Till There Was You](https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR) | 3:53 |
+| 42 | [Till There Was You](https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Till There Was You](https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR) | 3:53 |
+| 43 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 |
 | 44 | [All The Things You Are](https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 4:37 |
 | 45 | [Autumn In New York \(feat\. Chris Potter, Bill Cunliffe & Vinnie Colaiuta\)](https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC) | [Andy James](https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [An Evening with/ Andy James & John Patitucci](https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl) | 4:23 |
 | 46 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 |

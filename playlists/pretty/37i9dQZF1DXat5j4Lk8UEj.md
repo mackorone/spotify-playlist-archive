@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,986 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,966 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 45 | [Down in the Country](https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2) | 3:34 |
 | 46 | [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 |
 | 47 | [Signs of Life](https://open.spotify.com/track/15ZSEpaU6Q8YJLcld0hEqt) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 5:00 |
-| 48 | [It's Been a While](https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [It's Been a While](https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf) | 4:06 |
-| 49 | [If I Was](https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Ever Since I Lost My Mind](https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A) | 4:26 |
+| 48 | [If I Was](https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Ever Since I Lost My Mind](https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A) | 4:26 |
+| 49 | [It's Been a While](https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [It's Been a While](https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf) | 4:06 |
 | 50 | [reason to live](https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [reason to live](https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP) | 2:30 |
-| 51 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 |
-| 52 | [Love Love Love](https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl) | 3:42 |
-| 53 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
-| 54 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
+| 51 | [Love Love Love](https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl) | 3:42 |
+| 52 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 |
+| 53 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
+| 54 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
 | 55 | [Statues in the Garden \(Arras\)](https://open.spotify.com/track/14BcEAdv3OkOXYjGIk7jTZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Statues in the Garden \(Arras\)](https://open.spotify.com/album/4Cf7oXjw0tqlDEdAqqOlLM) | 3:56 |
 | 56 | [Feel Like Going Home \(OurVinyl Sessions\)](https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Miko Marks \| OurVinyl Sessions](https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR) | 4:41 |
 | 57 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 68 | [Drive You Home](https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Drive You Home](https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX) | 3:00 |
 | 69 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 |
 | 70 | [Good Time](https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Good Time](https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW) | 5:33 |
-| 71 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
-| 72 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 |
+| 71 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 |
+| 72 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
 | 73 | [Love At Your Convenience](https://open.spotify.com/track/5RmYeDWwImW4OC63UQsbG0) | [The Ghost of Paul Revere](https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG) | [Love At Your Convenience](https://open.spotify.com/album/60a4GdYNRT135ejymVVsCt) | 3:33 |
 | 74 | [Lucky Ones](https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Lifted](https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq) | 3:55 |
 | 75 | [River Wider](https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [River Wider](https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD) | 3:15 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 95 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 |
 | 96 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
 | 97 | [Heavy Metal Heart](https://open.spotify.com/track/5lLImAUUwxvZgR5ttivI7M) | [The Blessing Business](https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet) | [Heavy Metal Heart](https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx) | 4:32 |
-| 98 | [Desert Queen](https://open.spotify.com/track/4g1bRcq02BlS4iDckImXcl) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Desert Queen](https://open.spotify.com/album/0tNctr3388dHq7f1iZYwHI) | 4:42 |
-| 99 | [99.9%](https://open.spotify.com/track/24rE4xbH7mCWVpI2zy76HW) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [99.9%](https://open.spotify.com/album/6H157SVqv2Ghl6VvgGEwaZ) | 2:49 |
+| 98 | [99.9%](https://open.spotify.com/track/24rE4xbH7mCWVpI2zy76HW) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [99.9%](https://open.spotify.com/album/6H157SVqv2Ghl6VvgGEwaZ) | 2:49 |
+| 99 | [Desert Queen](https://open.spotify.com/track/4g1bRcq02BlS4iDckImXcl) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Desert Queen](https://open.spotify.com/album/0tNctr3388dHq7f1iZYwHI) | 4:42 |
 | 100 | [I Shouldn't Go Anywhere](https://open.spotify.com/track/0nZitUFjpGHGpsi317SJFM) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 3:43 |
 
 Snapshot ID: `Z6WTcAAAAAC1QHb9tZ8c6XTDTySSPVRb`

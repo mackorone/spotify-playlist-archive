@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-269 songs - 16 hr 21 min
+270 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1 DAY 2 LATE](https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [GEMINI](https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8) | 3:37 | 2025-03-04 |  |
 | [1x1](https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [1x1](https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv) | 3:24 | 2023-05-17 | 2023-08-18 |
 | [2 Go](https://open.spotify.com/track/6bEreC7Z1UdHbMC7JDhcwm) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [2 Go](https://open.spotify.com/album/6ZRtBlfIqF1NOySOUrjz2p) | 4:06 | 2025-05-07 |  |
+| [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 | 2025-06-03 |  |
 | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/track/4iBSUZhhcXU5sh8haot91w) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/album/5NLqeErirxjepCcE7uvrLT) | 5:19 | 2023-09-21 | 2023-11-17 |
 | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/track/7Jkka9vkLDhKoB7zlzVvM5) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/album/6FsAeOl2J8a52BRIPEULqM) | 5:19 | 2023-08-31 | 2023-09-28 |
 | [Alive](https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Alive](https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc) | 5:34 | 2022-12-01 | 2025-04-02 |
@@ -251,7 +252,7 @@
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/78CrWTmzkDNQodFtV6kJIa) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/1iiXBkAFITzUQhBiuYqWQh) | 2:39 | 2024-02-01 |  |
 | [To Be Loved](https://open.spotify.com/track/4LAhq9Q52LlwdpKxjaRzms) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [To Be Loved](https://open.spotify.com/album/33ggnxVpDG4VspkNbJsxiu) | 2:51 | 2024-02-01 | 2024-08-23 |
 | [Together](https://open.spotify.com/track/3w9Gddx38ouMryZzm1tWe0) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Together](https://open.spotify.com/album/4ACDfqTP2MvJ7oSFRT1z11) | 2:38 | 2025-02-05 | 2025-03-05 |
-| [TOMMY](https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [TOMMY](https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1) | 3:32 | 2023-07-30 |  |
+| [TOMMY](https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [TOMMY](https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1) | 3:32 | 2023-07-30 | 2025-07-15 |
 | [Tonic \(Edit\)](https://open.spotify.com/track/4b9disSqE7Yvxgpo4W7lB5) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Tonic](https://open.spotify.com/album/4xbLjgXZNRWrMhWcWe7ww1) | 4:39 | 2024-01-18 | 2024-08-23 |
 | [Touch](https://open.spotify.com/track/35va3avWAmS4HMKANASOEp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 3:26 | 2023-09-21 | 2024-04-19 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/1rySZnvbDyYKuNcbToWoDK) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6qPjJY1vQCBKCzDJxQuvhJ) | 3:26 | 2025-02-05 | 2025-05-07 |

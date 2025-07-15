@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,354 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,391 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 6 | [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 |
 | 7 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 |
 | 8 | [Bul Beni](https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bul Beni](https://open.spotify.com/album/2M1LgLBJVDPsiYRGHwDfoQ) | 2:34 |
-| 9 | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/track/5h1Zdr8ghV5RaWjtdfVo8w) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8) | 3:18 |
-| 10 | [Bi Sonraki Hayatımda Gel](https://open.spotify.com/track/4q9DUJOFEJJtFXB4mtePhV) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl) | 2:47 |
+| 9 | [Bi Sonraki Hayatımda Gel](https://open.spotify.com/track/4q9DUJOFEJJtFXB4mtePhV) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl) | 2:47 |
+| 10 | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/track/5h1Zdr8ghV5RaWjtdfVo8w) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8) | 3:18 |
 | 11 | [ARABA](https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [ARABA](https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6) | 1:31 |
 | 12 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 |
 | 13 | [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 |

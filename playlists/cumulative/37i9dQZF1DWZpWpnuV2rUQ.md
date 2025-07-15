@@ -4,7 +4,7 @@
 
 > Hits virales, tendencias y challenges del futuro.
 
-572 songs - 1 day 6 hr 31 min
+574 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-09 | 2024-04-27 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-03-19 | 2024-07-30 |
 | [Maléfica](https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Maléfica](https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO) | 3:03 | 2023-09-29 | 2023-12-20 |
+| [Mambinho Brasileño](https://open.spotify.com/track/0c27qjzqEgMLMnWTl5bCU8) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4) | [Mambinho Brasileño](https://open.spotify.com/album/072mxyTA0YJiOxk61aID0u) | 3:28 | 2025-07-14 |  |
 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 | 2024-02-23 | 2025-05-17 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-29 | 2024-11-12 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-27 |  |
@@ -417,6 +418,7 @@
 | [Princesa](https://open.spotify.com/track/3PtMYYDnXPbJAli2Oo4hYs) | [Margarita](https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG), [Rey](https://open.spotify.com/artist/1NpwHTlQGGdu5iqK2xBw0O) | [Margarita, que tu cuento valga la pena \(Soundtrack oficial de la serie\)](https://open.spotify.com/album/6hMariaWwzwxApp7afAca5) | 2:52 | 2024-10-22 | 2025-04-16 |
 | [PRINCESITA DE ...](https://open.spotify.com/track/7pNzulQGBP6v2g4A2KnAJ6) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:42 | 2023-12-19 | 2024-05-21 |
 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 | 2025-05-29 |  |
+| [PUSH4FUN](https://open.spotify.com/track/7BYgwR65lD2iL2eAiuU4GS) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [PUSH4FUN](https://open.spotify.com/album/1OOqUyG6p5wmXH5RfnOHRE) | 3:22 | 2025-07-14 |  |
 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 | 2024-10-17 | 2025-05-30 |
 | [Que a Pasao](https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao](https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo) | 2:05 | 2023-12-19 | 2024-01-27 |
 | [Que Fluya](https://open.spotify.com/track/2edb2SIakC6HADUz6s34hS) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [LAS LETRAS YA NO IMPORTAN](https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3) | 4:22 | 2024-03-19 | 2024-05-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Cris Mj Natanael Cano, KAROL G, Bad Bunny, and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,698,473 likes - 61 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,697,375 likes - 61 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Sefo x Demet Akalın
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,605,538 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,606,018 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 |
 | 2 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 |
-| 3 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
-| 4 | [Kalpsiz](https://open.spotify.com/track/2ciOT2HoX5rjkARUQiO0P6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Kalpsiz](https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS) | 3:00 |
-| 5 | [Kendine Dünya](https://open.spotify.com/track/5eGbBcz7DKfV0uIl7jX8Dr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Kendine Dünya](https://open.spotify.com/album/6ifpbsUnG5sthrxVyYFHdp) | 3:21 |
-| 6 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 |
-| 7 | [Sen Kaldın](https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:32 |
-| 8 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 |
+| 3 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
+| 4 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
+| 5 | [Kalpsiz](https://open.spotify.com/track/2ciOT2HoX5rjkARUQiO0P6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Kalpsiz](https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS) | 3:00 |
+| 6 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 |
+| 7 | [Kendine Dünya](https://open.spotify.com/track/5eGbBcz7DKfV0uIl7jX8Dr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Kendine Dünya](https://open.spotify.com/album/6ifpbsUnG5sthrxVyYFHdp) | 3:21 |
+| 8 | [Ara Beni Lütfen](https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Festival](https://open.spotify.com/album/6IsCf9WYDZrS0lQkFnwmCi) | 4:39 |
 | 9 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
-| 10 | [Snap](https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Snap](https://open.spotify.com/album/4PJ5Iewz7PoUCRe7QKGHRq) | 2:29 |
-| 11 | [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 |
-| 12 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
-| 13 | [MERMER](https://open.spotify.com/track/4UzAPluTbjdlyyhfE00REO) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [SÖZDE KİMSELER SEVMİYOR](https://open.spotify.com/album/5ifZ1o8QqQVdtcXkuxrwhS) | 1:18 |
-| 14 | [Ara Beni Lütfen](https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Festival](https://open.spotify.com/album/6IsCf9WYDZrS0lQkFnwmCi) | 4:39 |
+| 10 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 |
+| 11 | [Sen Kaldın](https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:32 |
+| 12 | [Snap](https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Snap](https://open.spotify.com/album/4PJ5Iewz7PoUCRe7QKGHRq) | 2:29 |
+| 13 | [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 |
+| 14 | [MERMER](https://open.spotify.com/track/4UzAPluTbjdlyyhfE00REO) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [SÖZDE KİMSELER SEVMİYOR](https://open.spotify.com/album/5ifZ1o8QqQVdtcXkuxrwhS) | 1:18 |
 | 15 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 |
 | 16 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 |
 | 17 | [HAİNSİN](https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [HAİNSİN](https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 49 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 |
 | 50 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 |
 
-Snapshot ID: `aHAp1AAAAACHJXd1BMM8TuXsBjjwagI2`
+Snapshot ID: `aHTB+AAAAAAvXglIU1KXXqp2c22PMXnO`

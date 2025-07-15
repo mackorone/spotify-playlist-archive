@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: jo0ji
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,163 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,169 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 73 | [Sketch](https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Sketch](https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU) | 4:26 |
 | 74 | [宵祭り \- Yoimatsuri](https://open.spotify.com/track/1L4TyLYs0cP5wgaMEGtLeG) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [宵祭り \- Yoimatsuri](https://open.spotify.com/album/1hUjBCokqHvkouvYJrDiOF) | 3:28 |
 | 75 | [後悔史](https://open.spotify.com/track/5XuZZQWCtLglKAAe1Tt1ph) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [後悔史](https://open.spotify.com/album/3Zq1ApCERbdxujr272P2IW) | 4:20 |
-| 76 | [DON'T FORGET MY NAME](https://open.spotify.com/track/1q4yrx2dy6o11kkYgPfwKh) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [DON'T FORGET MY NAME](https://open.spotify.com/album/2fCJiH9OvWuVVz75C9A5UQ) | 3:21 |
+| 76 | [Nerd](https://open.spotify.com/track/58enSgNcXIbpVlMZvgojOw) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Nerd](https://open.spotify.com/album/3tv0cOXvWrXyDoVRwFHHP9) | 3:29 |
 | 77 | [ぱらいそ](https://open.spotify.com/track/428vfWii2yP680un6tby9J) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [「残像の愛し方、或いはそれによって産み落ちた自身の歪さを、受け入れる為に僕たちが過ごす寄る辺の無い幾つかの日々について。」](https://open.spotify.com/album/09CXKOHMVftqI3MhkLc6MU) | 3:38 |
-| 78 | [Nerd](https://open.spotify.com/track/58enSgNcXIbpVlMZvgojOw) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Nerd](https://open.spotify.com/album/3tv0cOXvWrXyDoVRwFHHP9) | 3:29 |
+| 78 | [filled](https://open.spotify.com/track/7xTxvfqzbIcByhItCgUDB6) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [filled](https://open.spotify.com/album/6YGpmClZfMmUFcL2ZNR027) | 3:45 |
 | 79 | [ベルガモット](https://open.spotify.com/track/1b6pgyzY5v6O6yewSXd9ZI) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [ベルガモット](https://open.spotify.com/album/5YrdVkrc1xudPpVvSpFyhn) | 3:16 |
 | 80 | [他人り事](https://open.spotify.com/track/0KYXg1hOpgvJK9H48VZq7M) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [航海士](https://open.spotify.com/album/4pOGjkXw9tTpX8dLsN5OpB) | 3:40 |
-| 81 | [わをん](https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [わをん](https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2) | 4:30 |
-| 82 | [filled](https://open.spotify.com/track/7xTxvfqzbIcByhItCgUDB6) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [filled](https://open.spotify.com/album/6YGpmClZfMmUFcL2ZNR027) | 3:45 |
+| 81 | [DON'T FORGET MY NAME](https://open.spotify.com/track/1q4yrx2dy6o11kkYgPfwKh) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [DON'T FORGET MY NAME](https://open.spotify.com/album/2fCJiH9OvWuVVz75C9A5UQ) | 3:21 |
+| 82 | [わをん](https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [わをん](https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2) | 4:30 |
 | 83 | [Baby Steps](https://open.spotify.com/track/3GHBPdLwu6yy60XBrRXaAQ) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [Baby Steps](https://open.spotify.com/album/7iyuhZV5145lbgkvwkqAy2) | 2:46 |
 | 84 | [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 |
 | 85 | [ユーモア](https://open.spotify.com/track/11PjPUWOqFDsuMllKqGZsB) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ユーモア](https://open.spotify.com/album/2eHiBlntcUdCv5nGbGv8Vm) | 4:27 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 92 | [それもいいね](https://open.spotify.com/track/1WFz6fKir02eals80pQnKP) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [それもいいね](https://open.spotify.com/album/2lm3ZvNiyyKfI5Jrt5EIOn) | 3:19 |
 | 93 | [Summer Love](https://open.spotify.com/track/0ny48ucaT7xrXu8Ne1wKnS) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Valley Girl](https://open.spotify.com/album/5sG81zYvaFgjGLlEsoEjqb) | 2:48 |
 | 94 | [恋心は踊る](https://open.spotify.com/track/4YbaGfMsfQi4Jj4mgQ0Qf2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [恋心は踊る](https://open.spotify.com/album/2dSc5CdE0noNk8UYjdQvZP) | 4:47 |
-| 95 | [淡色の幸せ](https://open.spotify.com/track/5jSRMO6rx1Glgi1gGkmZb2) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [淡色の幸せ](https://open.spotify.com/album/0s7qVBb38s7Hx9UFP4EAGG) | 3:05 |
-| 96 | [伝言](https://open.spotify.com/track/7uUVK6nOtPPazkG8OEtnZs) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [×L×C×A×](https://open.spotify.com/album/7EJIvSY1MzWygiuQn6o02a) | 2:50 |
+| 95 | [伝言](https://open.spotify.com/track/7uUVK6nOtPPazkG8OEtnZs) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [×L×C×A×](https://open.spotify.com/album/7EJIvSY1MzWygiuQn6o02a) | 2:50 |
+| 96 | [淡色の幸せ](https://open.spotify.com/track/5jSRMO6rx1Glgi1gGkmZb2) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [淡色の幸せ](https://open.spotify.com/album/0s7qVBb38s7Hx9UFP4EAGG) | 3:05 |
 | 97 | [愛は罠](https://open.spotify.com/track/02Vt4VKSg4luOsdCdyPof2) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [愛は罠](https://open.spotify.com/album/2im9tKQhqcjG8jefWqPQJo) | 3:56 |
-| 98 | [ずっと作りかけのラブソング](https://open.spotify.com/track/03V7l3oKPFHtdLeHdIZVba) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [ずっと作りかけのラブソング](https://open.spotify.com/album/6rf24Fc6PJ5oBbcmwxWfY1) | 4:57 |
+| 98 | [Kagome Kagome](https://open.spotify.com/track/7jxgUPV1rXpPEBEltKxDRl) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Kagome Kagome](https://open.spotify.com/album/0b3DYc1SdkD9sSiUTKlmOs) | 2:57 |
 | 99 | [ベガとアルタイル \-once a year\-](https://open.spotify.com/track/5M2RkYqQ1ci5UgD7Ij0wze) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ベガとアルタイル \-once a year\-](https://open.spotify.com/album/7DoMEN9ZHsZtAOSKs82L2I) | 4:00 |
-| 100 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 |
+| 100 | [ずっと作りかけのラブソング](https://open.spotify.com/track/03V7l3oKPFHtdLeHdIZVba) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [ずっと作りかけのラブソング](https://open.spotify.com/album/6rf24Fc6PJ5oBbcmwxWfY1) | 4:57 |
 
 Snapshot ID: `aG1jjAAAAACr7SWeNXEufJZc96wzH+Tm`

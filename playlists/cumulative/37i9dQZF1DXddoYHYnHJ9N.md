@@ -4,7 +4,7 @@
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: Mehringer
 
-126 songs - 6 hr 16 min
+127 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Cry For Me](https://open.spotify.com/track/7a0RHaJoqL2Sjf0gra68Pc) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 3:44 | 2025-02-03 | 2025-03-18 |
 | [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 | 2025-02-03 |  |
 | [Dealer](https://open.spotify.com/track/2wMFX5mdyz7RVzxUr8o9Ql) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Dealer](https://open.spotify.com/album/75K2OKdnhDWARooA6QCwRe) | 2:09 | 2024-07-01 | 2024-08-20 |
-| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-16 |  |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-16 | 2025-07-15 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-28 | 2024-11-19 |
 | [Doktor \- Torz](https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:58 | 2024-07-01 | 2025-02-04 |
 | [Don't Be Afraid](https://open.spotify.com/track/5qxPTaUYRmfwJdYWbQ9j2W) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Don't Be Afraid](https://open.spotify.com/album/5uN3XLrt5SwVjN9fwvfh2I) | 2:52 | 2025-03-31 | 2025-05-06 |
@@ -56,6 +56,7 @@
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-07-15 | 2024-11-05 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-01 | 2025-06-03 |
 | [introvertált dal](https://open.spotify.com/track/2SoIhnJXdHp8oo0w9pktub) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [introvertált dal](https://open.spotify.com/album/6ZRIaIZEYI7HBPNPKmeAXw) | 2:49 | 2024-07-01 | 2025-04-01 |
+| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-14 |  |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-06-02 |  |
 | [Jézus kérlek hívjál fel](https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ) | [Zakeus](https://open.spotify.com/artist/50lp8qhb7cVGIj7YpCQ16B) | [Jézus kérlek hívjál fel](https://open.spotify.com/album/0FUvBz087oUFhM6EslUWBI) | 2:40 | 2024-10-07 | 2024-12-03 |
 | [kapu](https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 2:46 | 2024-07-01 | 2024-11-05 |
@@ -122,7 +123,7 @@
 | [Taxi](https://open.spotify.com/track/49ZZaqFCTTmSnOQGBzKZp9) | [Wellhello](https://open.spotify.com/artist/4URlJ0EofF5gUvCGDtxr3m), [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Taxi](https://open.spotify.com/album/3lkXm481QaqMSRr85oxokl) | 2:25 | 2025-05-19 | 2025-06-25 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-16 | 2025-05-20 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-09 | 2024-12-03 |
-| [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-05-26 |  |
+| [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-05-26 | 2025-07-15 |
 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 | 2024-07-01 | 2025-02-11 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-07-01 | 2024-09-17 |
 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 | 2025-05-05 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 385664,
+  "num_followers": 385663,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
         "name": "Kings Of Crunk",
         "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 217666,
       "name": "Black and Yellow",
       "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 308120,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
       "added_at": "2024-07-15 15:51:37",

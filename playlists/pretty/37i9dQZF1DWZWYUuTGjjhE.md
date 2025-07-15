@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,462 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,468 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 46 | [\(Today I Met\) The Boy I'm Gonna Marry](https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Sound Of Love: The Very Best Of Darlene Love](https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU) | 2:46 |
 | 47 | [To Sir with Love](https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [To Sir With Love](https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3) | 2:46 |
 | 48 | [You've Lost That Lovin' Feelin' \- Single Version](https://open.spotify.com/track/3no0tiiQldD3LnsxwVtnnk) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [You've Lost That Lovin' Feelin'](https://open.spotify.com/album/2709noR52E7iVM5zNTsfXL) | 3:44 |
-| 49 | [Chapel Of Love](https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:47 |
-| 50 | [The Locomotion](https://open.spotify.com/track/53UXqZaarqFPAFEy7dT1m1) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Playlist: The Best Of Little Eva](https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n) | 2:19 |
+| 49 | [The Locomotion](https://open.spotify.com/track/53UXqZaarqFPAFEy7dT1m1) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Playlist: The Best Of Little Eva](https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n) | 2:19 |
+| 50 | [Chapel Of Love](https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:47 |
 | 51 | [Spanish Eyes](https://open.spotify.com/track/3CFx8SBSwY8Q1IplDTQ6kB) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [Premium Gold Collection](https://open.spotify.com/album/7gpbWojUBxKgHZyIhcFcMW) | 2:46 |
 | 52 | [What A Man](https://open.spotify.com/track/20fHsQJ6sXz6EFN3VTPpOD) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [Stax 50th Anniversary](https://open.spotify.com/album/0inBSwF5qDv8OUM6BHq396) | 2:40 |
 | 53 | [In the Midnight Hour \- 2006 Remaster; Single Version](https://open.spotify.com/track/5MautHWld06c5TWLB4aO3Z) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Definitive Wilson Pickett](https://open.spotify.com/album/17FdHJftJNKodn2rDqjDoS) | 2:28 |

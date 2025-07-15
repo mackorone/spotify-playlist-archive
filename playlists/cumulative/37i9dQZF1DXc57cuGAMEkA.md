@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 BLACKPINK, TWICE, Tyla, GIVĒON, Burna Boy, WurtS, imase and more!
 
-10,258 songs - 23 day 20 hr 47 min
+10,259 songs - 23 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1847,6 +1847,7 @@
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2024-08-29 | 2024-09-06 |
 | [Daijoubu Desu](https://open.spotify.com/track/5H5lr2tSCUgUUZHOGAh91m) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Daijoubu Desu](https://open.spotify.com/album/3pZa7BlQQabiAqEunrmaR6) | 3:19 | 2024-09-12 | 2024-09-20 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2024-07-12 |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-14 |  |
 | [DAISOUSA](https://open.spotify.com/track/2OBuTJXshnHCAG1TmepxsH) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R), [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [XEONWORLDVIEW DELUXE](https://open.spotify.com/album/2P7wUQVBdSXHsCGfSViugP) | 3:06 | 2023-04-20 | 2023-04-22 |
 | [DAISOUSA](https://open.spotify.com/track/6f7YVYvULG8tqxuHsyX1fn) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R), [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [XEONWORLDVIEW DELUXE](https://open.spotify.com/album/4STcpyi6XeFKNhYoDPXVVz) | 3:06 | 2023-04-20 | 2023-04-28 |
 | [Daisy](https://open.spotify.com/track/2JbCczQEgM6iy83vk31Xep) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Daisy](https://open.spotify.com/album/1H1TTfk9WgDaDQWERetC7U) | 3:16 | 2025-05-15 | 2025-05-23 |
@@ -7816,7 +7817,7 @@
 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2023-10-19 | 2023-11-11 |
 | [SUVY THEATERS](https://open.spotify.com/track/6FTZImGnoJO5I8eq6XmDOU) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [SUVY THEATERS](https://open.spotify.com/album/1hhVyW4Otx5eMHxqWETkH7) | 2:28 | 2024-06-13 | 2024-06-21 |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-12 | 2025-06-20 |
-| [SWAG](https://open.spotify.com/track/3WQ5w7ruC3c861lHXF9Gs2) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:30 | 2025-07-11 |  |
+| [SWAG](https://open.spotify.com/track/3WQ5w7ruC3c861lHXF9Gs2) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:30 | 2025-07-11 | 2025-07-15 |
 | [Swallow My Tears](https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Swallow My Tears](https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8) | 2:54 | 2024-10-24 | 2024-11-01 |
 | [Swallow This](https://open.spotify.com/track/2E7DeUw137nP81KgHWns9D) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Swallow This](https://open.spotify.com/album/5Qs7xaSy2n64WKlwe8bA3H) | 3:42 | 2025-04-03 | 2025-04-11 |
 | [Swamp](https://open.spotify.com/track/2uWlL56OdmgMy9eCMTUZmN) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Swamp](https://open.spotify.com/album/1a5lsd68rw7esELngC2OUm) | 2:56 | 2024-08-16 | 2024-08-23 |

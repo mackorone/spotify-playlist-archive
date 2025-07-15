@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 140381,
+  "num_followers": 140409,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-07-11 05:44:23",
       "album": {
+        "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
+        "url": "https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 276870,
+      "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
+      "url": "https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1"
+    },
+    {
+      "added_at": "2025-07-11 05:44:23",
+      "album": {
         "name": "Gaveta",
         "url": "https://open.spotify.com/album/3DDhp8UHXbfqCdlhhaX2KP"
       },
@@ -831,38 +847,6 @@
     {
       "added_at": "2025-07-11 05:44:23",
       "album": {
-        "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
-        "url": "https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 276870,
-      "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
-      "url": "https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1"
-    },
-    {
-      "added_at": "2025-07-11 05:44:23",
-      "album": {
-        "name": "itaja\u00ed",
-        "url": "https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF"
-      },
-      "artists": [
-        {
-          "name": "Sim\u00e3o",
-          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
-        }
-      ],
-      "duration_ms": 152811,
-      "name": "itaja\u00ed",
-      "url": "https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8"
-    },
-    {
-      "added_at": "2025-07-11 05:44:23",
-      "album": {
         "name": "DUDA BEAT & NANDO REIS",
         "url": "https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 262550,
       "name": "O Segundo Sol",
       "url": "https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K"
+    },
+    {
+      "added_at": "2025-07-11 05:44:23",
+      "album": {
+        "name": "itaja\u00ed",
+        "url": "https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+        }
+      ],
+      "duration_ms": 152811,
+      "name": "itaja\u00ed",
+      "url": "https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8"
     },
     {
       "added_at": "2025-07-11 05:44:23",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-07-11 05:44:23",
       "album": {
-        "name": "Sol de S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
-      },
-      "artists": [
-        {
-          "name": "Jay Horsth",
-          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Sol de S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
-    },
-    {
-      "added_at": "2025-07-11 05:44:23",
-      "album": {
         "name": "I'll see you later",
         "url": "https://open.spotify.com/album/0bKXyHQsadqalpwxarGB5I"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2025-07-11 05:44:23",
       "album": {
+        "name": "Sol de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
+      },
+      "artists": [
+        {
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Sol de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
+    },
+    {
+      "added_at": "2025-07-11 05:44:23",
+      "album": {
         "name": "Mesma Sensa\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500"
       },
@@ -951,26 +951,6 @@
       "duration_ms": 194547,
       "name": "Mesma Sensa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f"
-    },
-    {
-      "added_at": "2025-07-11 05:44:23",
-      "album": {
-        "name": "Varanda dos Palpites",
-        "url": "https://open.spotify.com/album/3vMBt9c6LGUvwbZ7e3J1HD"
-      },
-      "artists": [
-        {
-          "name": "Joaquim",
-          "url": "https://open.spotify.com/artist/2whUuDjJvXiJqxVhYhsnSr"
-        },
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 239827,
-      "name": "Falta",
-      "url": "https://open.spotify.com/track/4GxYuiyGijRuGslaPLl2MJ"
     },
     {
       "added_at": "2025-07-11 05:44:23",
@@ -991,6 +971,26 @@
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
+    },
+    {
+      "added_at": "2025-07-11 05:44:23",
+      "album": {
+        "name": "Varanda dos Palpites",
+        "url": "https://open.spotify.com/album/3vMBt9c6LGUvwbZ7e3J1HD"
+      },
+      "artists": [
+        {
+          "name": "Joaquim",
+          "url": "https://open.spotify.com/artist/2whUuDjJvXiJqxVhYhsnSr"
+        },
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 239827,
+      "name": "Falta",
+      "url": "https://open.spotify.com/track/4GxYuiyGijRuGslaPLl2MJ"
     },
     {
       "added_at": "2025-07-11 05:44:23",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2025-07-11 05:44:23",
       "album": {
-        "name": "His Three Daughters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO"
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
       "artists": [
         {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
         }
       ],
-      "duration_ms": 210614,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2"
+      "duration_ms": 223593,
+      "name": "A\u00e7a\u00ed",
+      "url": "https://open.spotify.com/track/6K73fSY0NIXJ39rBXw5Nf3"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

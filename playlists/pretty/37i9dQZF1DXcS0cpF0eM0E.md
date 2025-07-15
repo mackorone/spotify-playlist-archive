@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcS0cpF0eM0E.md) - [plain]
 
 > <a href="spotify:artist:3J8gnwzixjNXj5gM6a7h93">Eli Escobar</a>'s favorite tracks\. Updated regularly\. Curated by Eli Escobar\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,538 likes - 67 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,542 likes - 67 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

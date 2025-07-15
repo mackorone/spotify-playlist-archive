@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-994 songs - 2 day 2 hr 35 min
+996 songs - 2 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-10 | 2024-11-23 |
 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 | 2025-06-19 |  |
 | [Halleluja](https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Halleluja](https://open.spotify.com/album/6oG0r4B68LY1oQIe8rQJuv) | 2:37 | 2025-01-17 | 2025-03-14 |
+| [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 | 2025-07-14 |  |
 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 | 2025-06-19 |  |
 | [han e done](https://open.spotify.com/track/4X7OxzooUwGd8wQTYtLWKk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [han e done](https://open.spotify.com/album/0otIfMs1Ie7jSBOvqnecDy) | 2:39 | 2025-01-23 | 2025-03-21 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 | 2025-04-11 |
@@ -457,6 +458,7 @@
 | [Jellyfish](https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Jellyfish](https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi) | 3:06 | 2025-07-10 |  |
 | [Jobba](https://open.spotify.com/track/4vrPc2YtsWzhB8K2t9S9WP) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Jobba](https://open.spotify.com/album/3XAs2lplnR6bzHWrxHIwwa) | 2:41 | 2025-03-27 | 2025-04-25 |
 | [Josephine](https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Josephine](https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH) | 3:43 | 2024-09-13 | 2024-10-25 |
+| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-14 |  |
 | [June](https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj) | 3:18 | 2024-09-26 | 2024-10-25 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-06-02 |  |
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-21 | 2025-05-02 |

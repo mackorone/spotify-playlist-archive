@@ -1,6 +1,6 @@
 {
   "description": "Easy listening pop that feels sunny wherever you are ",
-  "num_followers": 927378,
+  "num_followers": 928292,
   "original_name": "Sunny Day",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-06-25 03:01:58",
       "album": {
+        "name": "True Believers",
+        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
+    },
+    {
+      "added_at": "2025-06-25 03:01:58",
+      "album": {
         "name": "Kansas Anymore (The Longest Goodbye)",
         "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
-    },
-    {
-      "added_at": "2025-06-25 03:01:58",
-      "album": {
-        "name": "True Believers",
-        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
     },
     {
       "added_at": "2025-06-25 03:01:58",

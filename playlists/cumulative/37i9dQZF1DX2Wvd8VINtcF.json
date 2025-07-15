@@ -8593,6 +8593,24 @@
     },
     {
       "album": {
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
+    },
+    {
+      "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },

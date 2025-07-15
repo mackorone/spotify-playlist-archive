@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1647867,
+  "num_followers": 1647936,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAC5W3tTKZjA39aBps8Y9FXU",
+  "snapshot_id": "aHL3AAAAAACLnVKg7IpvKxEMLWifUlGL",
   "tracks": [
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 167361,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/38VkGQ4Sumz99xja6TCs7z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 174729,
       "name": "Blastoff (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2EL58P9iKGM5L2sO203i5y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 167361,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/38VkGQ4Sumz99xja6TCs7z"
     },
     {
       "added_at": null,

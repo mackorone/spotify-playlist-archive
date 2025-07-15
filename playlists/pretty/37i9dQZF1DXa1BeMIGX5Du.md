@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,839 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,842 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Take Off](https://open.spotify.com/track/5j6LhSiMbjnjPx40bOKyhP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Take Off](https://open.spotify.com/album/2K8pzXgfSA1euc7xiBqnom) | 3:22 |
-| 2 | [Flicker](https://open.spotify.com/track/6IKIBXhk00Fjw3FnThgcLB) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Flicker](https://open.spotify.com/album/2b1jvG1C9t49L6toD1k9RX) | 3:14 |
-| 3 | [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 |
-| 4 | [Feel It All \(Willow's Song\)](https://open.spotify.com/track/3dX9bqoYbTZkoPK8ngw3rB) | [Brook St](https://open.spotify.com/artist/0XWlE5RXufPoqsxJgzrrfZ) | [Feel It All \(Willow's Song\)](https://open.spotify.com/album/4InqVLJwYKo5wMnaXggF6Z) | 2:59 |
-| 5 | [Home To Me](https://open.spotify.com/track/2CQeLwGc9a6ns2QZO3l5Pw) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Home To Me](https://open.spotify.com/album/7HD0Q0832lldGZStiz2emp) | 3:06 |
-| 6 | [Sabino](https://open.spotify.com/track/7tAwTZKnOEihan9q6rhuzR) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sabino](https://open.spotify.com/album/6GIofJVOnkodSIjAofbYbe) | 3:33 |
-| 7 | [Little Less Lonely](https://open.spotify.com/track/7pR2S2bVN8RP7B5mfevdKa) | [Jenny Mitchell](https://open.spotify.com/artist/4nuqPXV9cR0OGDbYw0Zwj9) | [Forest House](https://open.spotify.com/album/4fKXOHw9FPeyEPfv3Pi3gx) | 3:51 |
-| 8 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 |
-| 9 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
-| 10 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 |
-| 11 | [Insect Bite](https://open.spotify.com/track/7IuZzy0YM0Y1G1PH2OlslB) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W), [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Insect Bite](https://open.spotify.com/album/74MVxgqg2d4XyAelJTCuTU) | 3:51 |
-| 12 | [Afterlight](https://open.spotify.com/track/3jChBg7p7eTv79tABlKKKk) | [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU) | [Afterlight](https://open.spotify.com/album/0UGHroSXa66KBE5AWBUUdK) | 2:35 |
-| 13 | [Marlay Park](https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 3:44 |
-| 14 | [Kitchen Flowers](https://open.spotify.com/track/3AnnOEoPNIX18poepK9kcw) | [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [Kitchen Flowers](https://open.spotify.com/album/40nWV4tr80TjQsWE0AaeQU) | 2:23 |
-| 15 | [Wherever You Are](https://open.spotify.com/track/3BCFoto6dd5e5001q5YhqJ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Wherever You Are](https://open.spotify.com/album/1HgEAeacUjkt2NlLgOiSm9) | 4:10 |
+| 1 | [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 |
+| 2 | [Take Off](https://open.spotify.com/track/5j6LhSiMbjnjPx40bOKyhP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Take Off](https://open.spotify.com/album/2K8pzXgfSA1euc7xiBqnom) | 3:22 |
+| 3 | [Sabino](https://open.spotify.com/track/7tAwTZKnOEihan9q6rhuzR) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sabino](https://open.spotify.com/album/6GIofJVOnkodSIjAofbYbe) | 3:33 |
+| 4 | [Home To Me](https://open.spotify.com/track/2CQeLwGc9a6ns2QZO3l5Pw) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Home To Me](https://open.spotify.com/album/7HD0Q0832lldGZStiz2emp) | 3:06 |
+| 5 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 |
+| 6 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 |
+| 7 | [Flicker](https://open.spotify.com/track/6IKIBXhk00Fjw3FnThgcLB) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Flicker](https://open.spotify.com/album/2b1jvG1C9t49L6toD1k9RX) | 3:14 |
+| 8 | [Little Less Lonely](https://open.spotify.com/track/7pR2S2bVN8RP7B5mfevdKa) | [Jenny Mitchell](https://open.spotify.com/artist/4nuqPXV9cR0OGDbYw0Zwj9) | [Forest House](https://open.spotify.com/album/4fKXOHw9FPeyEPfv3Pi3gx) | 3:51 |
+| 9 | [Feel It All \(Willow's Song\)](https://open.spotify.com/track/3dX9bqoYbTZkoPK8ngw3rB) | [Brook St](https://open.spotify.com/artist/0XWlE5RXufPoqsxJgzrrfZ) | [Feel It All \(Willow's Song\)](https://open.spotify.com/album/4InqVLJwYKo5wMnaXggF6Z) | 2:59 |
+| 10 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
+| 11 | [Wherever You Are](https://open.spotify.com/track/3BCFoto6dd5e5001q5YhqJ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Wherever You Are](https://open.spotify.com/album/1HgEAeacUjkt2NlLgOiSm9) | 4:10 |
+| 12 | [Marlay Park](https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 3:44 |
+| 13 | [Insect Bite](https://open.spotify.com/track/7IuZzy0YM0Y1G1PH2OlslB) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W), [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Insect Bite](https://open.spotify.com/album/74MVxgqg2d4XyAelJTCuTU) | 3:51 |
+| 14 | [Afterlight](https://open.spotify.com/track/3jChBg7p7eTv79tABlKKKk) | [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU) | [Afterlight](https://open.spotify.com/album/0UGHroSXa66KBE5AWBUUdK) | 2:35 |
+| 15 | [Kitchen Flowers](https://open.spotify.com/track/3AnnOEoPNIX18poepK9kcw) | [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [Kitchen Flowers](https://open.spotify.com/album/40nWV4tr80TjQsWE0AaeQU) | 2:23 |
 | 16 | [Raindrops](https://open.spotify.com/track/3eMf2Hy7xiFWu7e6K8ZOeS) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [It's Lovely To Have You Here: Extended Stay](https://open.spotify.com/album/2lIUVPA23AFgUKwOcwMTxc) | 4:15 |
 | 17 | [Blue](https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Blue](https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb) | 3:22 |
 | 18 | [Some Things Distinct & Some Things Whole](https://open.spotify.com/track/35yUrXoiylgFOca4BZzV7E) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Some Things Distinct & Some Things Whole](https://open.spotify.com/album/02n2TUl1uJvtVb16eup0jS) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [Stay Awake](https://open.spotify.com/track/3Fcdwu4gMqd0eAlC9thpKo) | [Patrick James](https://open.spotify.com/artist/02rbtsxmzmlWKtEZ4DLZr8) | [Stay Awake](https://open.spotify.com/album/6Z8AubnDokmqjdzELuqg3t) | 1:59 |
 | 100 | [Good Fight](https://open.spotify.com/track/1VXbLiiSGBNmOPHYrkAiRw) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Marmalade](https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8) | 3:43 |
 
-Snapshot ID: `aGKYaAAAAABdVWJPNSUoyQOdbODEOR7j`
+Snapshot ID: `aHUNZQAAAAAKiNbFGWPCcfVAEWzMmLqk`

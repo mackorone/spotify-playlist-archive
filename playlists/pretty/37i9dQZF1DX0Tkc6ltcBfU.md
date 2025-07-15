@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,254,580 likes - 103 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,254,669 likes - 103 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 2 | [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 |
 | 3 | [Outfit \(with 21 Savage\)](https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 2:57 |
 | 4 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
-| 5 | [WHERE WAS YOU](https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:32 |
+| 5 | [WHERE WAS YOU](https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:32 |
 | 6 | [Kickboxer](https://open.spotify.com/track/1DZVU51224wv6TtRvAzmaZ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Kickboxer](https://open.spotify.com/album/7jX65RgVNEKN649tBrLEAn) | 3:50 |
 | 7 | [Bunna Summa](https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Bunna Summa](https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK) | 2:27 |
 | 8 | [Pink Molly \(with YTB Fatt & Loe Shimmy\)](https://open.spotify.com/track/060miZu0j7prc7K4FvSNrx) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Let Me Fly \(Deluxe\)](https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7) | 2:39 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 20 | [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 |
 | 21 | [Last Cry \(feat\. Lil Poppa\)](https://open.spotify.com/track/5bJw7ok2x1TaOsiJFV73ub) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [I Am What They Don't See](https://open.spotify.com/album/0fwHYFfizNbuPcPLNTlwER) | 3:48 |
 | 22 | [Cracc at 15](https://open.spotify.com/track/7lT55VQx6iDOyjeBUtOgn2) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Cracc at 15](https://open.spotify.com/album/29CItd12cIaW1aXHTKeYca) | 2:58 |
-| 23 | [FLORIDA FLOW](https://open.spotify.com/track/4vqwVaEqLNWo3UXhQi5IFH) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 5:28 |
+| 23 | [FLORIDA FLOW](https://open.spotify.com/track/4vqwVaEqLNWo3UXhQi5IFH) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 5:28 |
 | 24 | [Get To It](https://open.spotify.com/track/3oVaB0zGYE4caqSm3X9rKq) | [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm) | [Get To It](https://open.spotify.com/album/0VJrt8JBZWfvBgVRP8Jedn) | 2:28 |
 | 25 | [Voices](https://open.spotify.com/track/0TeyADr2CzTOdwfsZCKn3c) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Voices / Psycho](https://open.spotify.com/album/3hUnq084DKurIS1RMU9srZ) | 3:36 |
 | 26 | [Fuk Dat Lu Lu \(freestyle\)](https://open.spotify.com/track/7cSdlXPeOenVGTVDmttjdI) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [BOTH WAYS \(Deluxe\)](https://open.spotify.com/album/3OKrBNG5j0zJP0cgs2p98c) | 1:57 |

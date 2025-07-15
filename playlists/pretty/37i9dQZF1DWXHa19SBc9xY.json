@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 112961,
+  "num_followers": 113004,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2025-07-11 05:45:25",
       "album": {
-        "name": "Vamos Fugir",
-        "url": "https://open.spotify.com/album/1XMCafTPAmjhYI7F8nuCvv"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        }
-      ],
-      "duration_ms": 241825,
-      "name": "Vamos Fugir",
-      "url": "https://open.spotify.com/track/79zYUn0eJrYl9nJWAtzp3E"
-    },
-    {
-      "added_at": "2025-07-11 05:45:25",
-      "album": {
         "name": "Banho de Mar",
         "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 169531,
       "name": "Banho de Mar",
       "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
+    },
+    {
+      "added_at": "2025-07-11 05:45:25",
+      "album": {
+        "name": "Vamos Fugir",
+        "url": "https://open.spotify.com/album/1XMCafTPAmjhYI7F8nuCvv"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "duration_ms": 241825,
+      "name": "Vamos Fugir",
+      "url": "https://open.spotify.com/track/79zYUn0eJrYl9nJWAtzp3E"
     },
     {
       "added_at": "2025-07-11 05:45:25",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-07-11 05:45:25",
       "album": {
-        "name": "Caf\u00e9 Da MaLu",
-        "url": "https://open.spotify.com/album/67YGP2kKjYUIX5o7L4nty3"
-      },
-      "artists": [
-        {
-          "name": "MaLu",
-          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Farol Das Estrelas",
-      "url": "https://open.spotify.com/track/4PN2Yi1mnWn2S29mfW97uA"
-    },
-    {
-      "added_at": "2025-07-11 05:45:25",
-      "album": {
         "name": "Dend\u00ea",
         "url": "https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 286320,
       "name": "Dend\u00ea",
       "url": "https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY"
+    },
+    {
+      "added_at": "2025-07-11 05:45:25",
+      "album": {
+        "name": "Caf\u00e9 Da MaLu",
+        "url": "https://open.spotify.com/album/67YGP2kKjYUIX5o7L4nty3"
+      },
+      "artists": [
+        {
+          "name": "MaLu",
+          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Farol Das Estrelas",
+      "url": "https://open.spotify.com/track/4PN2Yi1mnWn2S29mfW97uA"
     },
     {
       "added_at": "2025-07-11 05:45:25",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-07-11 05:45:25",
       "album": {
-        "name": "Atr\u00e1s do Pared\u00e3o",
-        "url": "https://open.spotify.com/album/4Sxugxaro4A5vKGDKWjM13"
-      },
-      "artists": [
-        {
-          "name": "Tom Rezende",
-          "url": "https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI"
-        }
-      ],
-      "duration_ms": 170140,
-      "name": "Atr\u00e1s do Pared\u00e3o",
-      "url": "https://open.spotify.com/track/4O6i8ct2I0HtUmZVUBlDjZ"
-    },
-    {
-      "added_at": "2025-07-11 05:45:25",
-      "album": {
         "name": "Manh\u00e3",
         "url": "https://open.spotify.com/album/7KeOzMbG53zD6klOJ9Ezga"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 182680,
       "name": "Manh\u00e3",
       "url": "https://open.spotify.com/track/4Xi1snyepODSQMlDSkm3DB"
+    },
+    {
+      "added_at": "2025-07-11 05:45:25",
+      "album": {
+        "name": "Atr\u00e1s do Pared\u00e3o",
+        "url": "https://open.spotify.com/album/4Sxugxaro4A5vKGDKWjM13"
+      },
+      "artists": [
+        {
+          "name": "Tom Rezende",
+          "url": "https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI"
+        }
+      ],
+      "duration_ms": 170140,
+      "name": "Atr\u00e1s do Pared\u00e3o",
+      "url": "https://open.spotify.com/track/4O6i8ct2I0HtUmZVUBlDjZ"
     },
     {
       "added_at": "2025-07-11 05:45:25",

@@ -2,9 +2,9 @@
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: Natanael Cano
+> Today's top Latin hits, elevando nuestra música\. Cover: Bad Bunny
 
-878 songs - 1 day 22 hr 41 min
+879 songs - 1 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 | 2023-04-14 | 2023-07-02 |
 | [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-24 | 2023-04-16 |
 | [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-20 | 2023-02-18 |
+| [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 | 2025-07-14 |  |
 | [Alegría](https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Alegría](https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq) | 2:45 | 2024-08-23 | 2024-10-12 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-26 | 2024-09-07 |
 | [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-10 | 2025-01-25 |
@@ -235,7 +236,7 @@
 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 | 2022-08-12 | 2022-12-02 |
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2022-07-29 | 2022-09-03 |
 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 | 2023-09-15 | 2023-09-30 |
-| [El vino de tu boca](https://open.spotify.com/track/7hUJOJ6aF45Y7kbx9Xf0qX) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [¿Y ahora qué?](https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI) | 2:48 | 2025-06-06 |  |
+| [El vino de tu boca](https://open.spotify.com/track/7hUJOJ6aF45Y7kbx9Xf0qX) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [¿Y ahora qué?](https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI) | 2:48 | 2025-06-06 | 2025-07-15 |
 | [El Último Beso](https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [El Último Beso](https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg) | 3:17 | 2022-09-16 | 2023-01-06 |
 | [Ella \- Remix](https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Ella \(Remix\)](https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH) | 5:30 | 2021-12-17 | 2022-03-18 |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-03-24 | 2023-10-28 |

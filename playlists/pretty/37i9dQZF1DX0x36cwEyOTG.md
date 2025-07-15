@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,248 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,190 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 10 | [Arrows](https://open.spotify.com/track/4QcDhDJkTBRjv4hNXtftcf) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 2:29 |
 | 11 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
 | 12 | [Petrichor](https://open.spotify.com/track/1RWRfknqqgTNNPO1EoP7Wo) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:20 |
-| 13 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
-| 14 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
+| 13 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
+| 14 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
 | 15 | [Siren](https://open.spotify.com/track/0b62y1bXn7ru5HTlqAfgk5) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 4:08 |
 | 16 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
 | 17 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
 | 18 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
-| 19 | [Statue Of A Woman](https://open.spotify.com/track/6b68aviQQgq22JuK2CDno6) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 1:57 |
-| 20 | [Bird](https://open.spotify.com/track/14nWsmzymZ6MV9TDhaH2SV) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Bird](https://open.spotify.com/album/63XRrL5aFeflpDkzeYF5dD) | 3:39 |
+| 19 | [Bird](https://open.spotify.com/track/14nWsmzymZ6MV9TDhaH2SV) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Bird](https://open.spotify.com/album/63XRrL5aFeflpDkzeYF5dD) | 3:39 |
+| 20 | [Statue Of A Woman](https://open.spotify.com/track/6b68aviQQgq22JuK2CDno6) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 1:57 |
 | 21 | [Undone](https://open.spotify.com/track/5H2Mf22OhaswQNHZwb7q5h) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 5:03 |
 | 22 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
 | 23 | [Atom 6](https://open.spotify.com/track/4Hctp8jfbMwLTchI6o3vDc) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atom 6](https://open.spotify.com/album/0Ve7BbpsthPeae1D7UGul9) | 1:12 |

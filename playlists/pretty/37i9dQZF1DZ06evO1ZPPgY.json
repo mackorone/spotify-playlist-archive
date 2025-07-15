@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 228233,
+  "num_followers": 228278,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAABtYeWXFZGmHBetrt84bthQ",
+  "snapshot_id": "aHL3AAAAAAAGeS0xMckDBXNraRZHIPSP",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Don't Make Me Wait Too Long",
-      "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barry White Sings For Someone You Love",
         "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 433226,
       "name": "Playing Your Game, Baby",
       "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Don't Make Me Wait Too Long",
+      "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Love Makin' Music",
-      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 299226,
       "name": "I Love You More Than Anything (In This World Girl)",
       "url": "https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Love Makin' Music",
+      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
     },
     {
       "added_at": null,

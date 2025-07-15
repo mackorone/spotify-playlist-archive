@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 206177,
+  "num_followers": 206168,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00f3n Rojo",
+          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Los Rockeros Van al Infierno",
+      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 209373,
       "name": "El nuevo camino del hombre",
       "url": "https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00f3n Rojo",
-          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Los Rockeros Van al Infierno",
-      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Sentir Metalero",
+        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
+      },
+      "artists": [
+        {
+          "name": "Aonikenk",
+          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
+        }
+      ],
+      "duration_ms": 256360,
+      "name": "Cacique Yatel",
+      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "Nulo",
         "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 198893,
       "name": "Pueblos erguidos",
       "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Sentir Metalero",
-        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
-      },
-      "artists": [
-        {
-          "name": "Aonikenk",
-          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
-        }
-      ],
-      "duration_ms": 256360,
-      "name": "Cacique Yatel",
-      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Radix Nebul\u00e6",
-        "url": "https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX"
-      },
-      "artists": [
-        {
-          "name": "SYRACUS\u00c6",
-          "url": "https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Exoplanets",
-      "url": "https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Carnage Drinking Party",
         "url": "https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 170161,
       "name": "Poseido Por Mezcal",
       "url": "https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Radix Nebul\u00e6",
+        "url": "https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX"
+      },
+      "artists": [
+        {
+          "name": "SYRACUS\u00c6",
+          "url": "https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Exoplanets",
+      "url": "https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t"
     },
     {
       "added_at": "2023-04-28 03:00:00",

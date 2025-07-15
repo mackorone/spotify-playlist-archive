@@ -2,7 +2,7 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\.  Cover: <a href="spotify:artist:16rCzZOMQX7P8Kmn5YKexI">Mahalia</a>
+> A melting pot of Caribbean culture\.  Cover: Vybz Kartel, Drake and Popcaan
 
 233 songs - 11 hr 35 min
 
@@ -152,9 +152,9 @@
 | [Pain](https://open.spotify.com/track/35EA4qhMpmAIgSQRiRs003) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Jay\-A](https://open.spotify.com/artist/5r2Kld5dP5nqJOq4H1sZEb), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Pain](https://open.spotify.com/album/3jD6oTDa6OkYqKHQC8p0rP) | 3:30 | 2024-08-29 | 2024-09-14 |
 | [PARDY \- Road Mix](https://open.spotify.com/track/7ksaZiIN0xGny4iS3sHqFP) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [One Degree Hotter](https://open.spotify.com/album/79pkMBFXLF3RGt2I1Z6Y54) | 7:03 | 2025-02-28 | 2025-03-08 |
 | [Party Next Door](https://open.spotify.com/track/4uIuf9PyfooM5yr90oeCs2) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [IamNuhRush](https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE) | [Party Next Door](https://open.spotify.com/album/0Z0GucmnsdB60DmhSa8drt) | 2:43 | 2025-05-23 | 2025-05-31 |
-| [Passenger Princess](https://open.spotify.com/track/3K0Brj5efNDnuanUlQACq7) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Passenger Princess](https://open.spotify.com/album/4aO1h3geLdTrYrl612pf6g) | 2:30 | 2025-07-11 |  |
+| [Passenger Princess](https://open.spotify.com/track/3K0Brj5efNDnuanUlQACq7) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Passenger Princess](https://open.spotify.com/album/4aO1h3geLdTrYrl612pf6g) | 2:30 | 2025-07-11 |  |
 | [Payroll](https://open.spotify.com/track/08lpmcULw7gi6VQ9DhrqIX) | [The 9ine](https://open.spotify.com/artist/25f1NjILSP7owhgqIQNOPg) | [Payroll](https://open.spotify.com/album/0RRzVs6vxZ5s3JzJA6jMoE) | 2:22 | 2024-08-29 |  |
-| [PBT](https://open.spotify.com/track/5820PtzfB116EIALe50F6t) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:10 | 2025-07-13 |  |
+| [PBT](https://open.spotify.com/track/5820PtzfB116EIALe50F6t) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:10 | 2025-07-13 |  |
 | [PDF](https://open.spotify.com/track/63fzTn3xge4fU2BsUdfCDQ) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 2:08 | 2024-12-06 | 2025-03-01 |
 | [Peace Of Mind](https://open.spotify.com/track/46VyHNlKO0z2tojSP3cj4y) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Peace Of Mind](https://open.spotify.com/album/1EblK0o5TPZ3b1gMLnoTup) | 3:42 | 2025-05-16 |  |
 | [People](https://open.spotify.com/track/0cB5rK28HIRJPQKXO8yr5n) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [People](https://open.spotify.com/album/6hjKalpx3WZEIppyCrBF9R) | 3:00 | 2025-07-11 |  |

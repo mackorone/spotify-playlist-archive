@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,358 likes - 117 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,356 likes - 110 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 3 | [Zizou](https://open.spotify.com/track/04svnAvyB0gCeLzLGlzHkQ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Zizou](https://open.spotify.com/album/2YSsbdos0JCYpsBmt059xU) | 2:30 |
 | 4 | [Ay Ay](https://open.spotify.com/track/1qlad6gBZhkhmKd7atFusg) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Ay Ay](https://open.spotify.com/album/6oZzJqin2VPwNydQyZiF4s) | 2:25 |
 | 5 | [Ela Ela](https://open.spotify.com/track/0DfEzYx0Tgl2kb9pBN2QJ3) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Ela Ela](https://open.spotify.com/album/5A6uIJ2NQ8wSdEwTmZYbfT) | 2:35 |
-| 6 | [SANTORINI](https://open.spotify.com/track/60m76b2KtiQfbc3iIqOOoi) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [SANTORINI](https://open.spotify.com/album/7LYspAMESaqeSiy9pHXtH7) | 2:20 |
+| 6 | [FRIO](https://open.spotify.com/track/00TnItR3PcrcAdr5eXtPtj) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [SONDURE](https://open.spotify.com/artist/24UMSNeejy6uKN8e9LMnsH) | [FRIO](https://open.spotify.com/album/7CQ1ZPZDB2FiqCTkailPkb) | 3:07 |
 | 7 | [Jealousy](https://open.spotify.com/track/4X96ldR3otbbjtuTGgp1Fo) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Jealousy](https://open.spotify.com/album/5sWftiBrgMfkkNO0lnyl0j) | 2:24 |
-| 8 | [FRIO](https://open.spotify.com/track/00TnItR3PcrcAdr5eXtPtj) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [SONDURE](https://open.spotify.com/artist/24UMSNeejy6uKN8e9LMnsH) | [FRIO](https://open.spotify.com/album/7CQ1ZPZDB2FiqCTkailPkb) | 3:07 |
+| 8 | [SANTORINI](https://open.spotify.com/track/60m76b2KtiQfbc3iIqOOoi) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [SANTORINI](https://open.spotify.com/album/7LYspAMESaqeSiy9pHXtH7) | 2:20 |
 | 9 | [Déjà vu](https://open.spotify.com/track/5IfmDyNY5E6icqVPcWlR19) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Déjà vu](https://open.spotify.com/album/10nP5xolUoRzTBhKnSG2n4) | 2:52 |
 | 10 | [BESVIKEN](https://open.spotify.com/track/18UZvAJzIRLEvF50BF75Ku) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [BESVIKEN](https://open.spotify.com/album/4Js13CEsNrOS03BCSfpucf) | 2:37 |
 | 11 | [Wahala](https://open.spotify.com/track/5PrtZSMj0U4PeRrDm4mPys) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Wahala](https://open.spotify.com/album/1eNQleILFY7Y6DQWHhYJkq) | 2:11 |
-| 12 | [12TRE](https://open.spotify.com/track/4fWLZG09La6mqWwuScH598) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [4njuice](https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP) | [12TRE](https://open.spotify.com/album/3jA6Md3gWoa6Fo54YCFIPW) | 1:58 |
-| 13 | [SELEKTIV](https://open.spotify.com/track/3Xpl09nP0KomaQnZGf4k4E) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [SELEKTIV](https://open.spotify.com/album/3kDQgOuY9NdGYxgfPyWpuu) | 2:06 |
-| 14 | [Saknar dig](https://open.spotify.com/track/01K09DenrI93KSReYQ3Ker) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Saknar dig](https://open.spotify.com/album/5so730AUFfHSIhzRZikFXj) | 2:08 |
+| 12 | [Saknar dig](https://open.spotify.com/track/01K09DenrI93KSReYQ3Ker) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Saknar dig](https://open.spotify.com/album/5so730AUFfHSIhzRZikFXj) | 2:08 |
+| 13 | [12TRE](https://open.spotify.com/track/4fWLZG09La6mqWwuScH598) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [4njuice](https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP) | [12TRE](https://open.spotify.com/album/3jA6Md3gWoa6Fo54YCFIPW) | 1:58 |
+| 14 | [SELEKTIV](https://open.spotify.com/track/3Xpl09nP0KomaQnZGf4k4E) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [SELEKTIV](https://open.spotify.com/album/3kDQgOuY9NdGYxgfPyWpuu) | 2:06 |
 | 15 | [Båda](https://open.spotify.com/track/3zZLfszBUlDjj98bHU48xu) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW) | [Båda](https://open.spotify.com/album/25VkEI6z5odoSCkZETJDaA) | 2:24 |
 | 16 | [Kiss & tell \(mama\)](https://open.spotify.com/track/3D1JPDsasyo87wP8IYYAKG) | [Roman](https://open.spotify.com/artist/6nSyvCv3zRnxU9Q3QUNBrZ) | [Kiss & tell \(mama\)](https://open.spotify.com/album/3vvKewPJ6TWG54EpPjFXOh) | 2:04 |
 | 17 | [GENERATION GAZA](https://open.spotify.com/track/3etIkAcIVS0ZbDkpPSyYUx) | [Generationgaza](https://open.spotify.com/artist/4iwYA9j3VRNvFiw89POFgc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [GENERATION GAZA](https://open.spotify.com/album/0cbRTSSdMxLoiIyJK3dyQD) | 3:21 |
@@ -118,12 +118,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 108 | [Arkham](https://open.spotify.com/track/6YjFisyjPDGlnRrcrLzONy) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [Gotham City](https://open.spotify.com/album/1kkflwAQvmPS5jRexAyOKA) | 1:45 |
 | 109 | [PRATGLAD](https://open.spotify.com/track/7HPPZdfQj2QMbVD2vIIciX) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [PRATGLAD](https://open.spotify.com/album/3F3q3b2vrhTigpbZIlO64G) | 2:05 |
 | 110 | [STEPPAZ](https://open.spotify.com/track/5nHFYpquLV3grYfrUyPklT) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [STEPPAZ](https://open.spotify.com/album/22L22FRQP5lD9J1dKcGB5O) | 2:32 |
-| 111 | [Gazoline](https://open.spotify.com/track/0zP1wI28RN8DrePmgE6TUa) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP) | [Gonatt](https://open.spotify.com/album/0Q8ofv6Ve9GF3ypwMc50me) | 2:30 |
-| 112 | [In & Out](https://open.spotify.com/track/4sqOblDzBHDAuYFgeWeRLq) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [In & Out](https://open.spotify.com/album/21yu803fqJ9OG9E18eRcs1) | 1:57 |
-| 113 | [AJ AJ AJ](https://open.spotify.com/track/3TNv4Sys3ZbBAbcT7mcBgG) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [AJ AJ AJ](https://open.spotify.com/album/1u48CncP4lh3Fiyhz49U9t) | 2:24 |
-| 114 | [Don Julio](https://open.spotify.com/track/17XpwVB67mYAaYjKtoOpP3) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Don Julio](https://open.spotify.com/album/2RmBJrwoTQsw5Dm3kRtWWk) | 2:18 |
-| 115 | [2 STICKS](https://open.spotify.com/track/19USkbUSQOfW0E2WHsEnGj) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [2 STICKS](https://open.spotify.com/album/5Y8ZGwmmi6QDVL9iknnir0) | 2:15 |
-| 116 | [ÄNGLAR & DEMONER](https://open.spotify.com/track/3ad340IgxWc1dnHnbZjEDx) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [ÄNGLAR & DEMONER](https://open.spotify.com/album/5XBX1DDu4Lbipvhn6mM0Xk) | 2:40 |
-| 117 | [Låter Dig Gå](https://open.spotify.com/track/6nS8ssWeodzcBic4L3ILtF) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Låter Dig Gå](https://open.spotify.com/album/1zbCtimxs5Ar5Aot3jh9Re) | 2:31 |
 
-Snapshot ID: `aHA38gAAAACyJeNJrhanPI7gwEqObq2c`
+Snapshot ID: `aHSqRgAAAABuFcX/Eny6Eqio1pxODExk`

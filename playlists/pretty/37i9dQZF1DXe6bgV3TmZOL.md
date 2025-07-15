@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,467,970 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,468,216 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 26 | [Unbreakable](https://open.spotify.com/track/2aCDSwEeyqRbTI0iaroTWZ) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Unbreakable](https://open.spotify.com/album/3akqEprag6eKeObpB2iB44) | 4:49 |
 | 27 | [Undead](https://open.spotify.com/track/5wBLDkxVvclanSitx5jq8e) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Swan Songs](https://open.spotify.com/album/2UYxjXHKm1JDT6JA7OSeR6) | 4:25 |
 | 28 | [Your Betrayal](https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb) | 4:51 |
-| 29 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 |
-| 30 | [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 |
+| 29 | [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 |
+| 30 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 |
 | 31 | [Kool\-Aid](https://open.spotify.com/track/0hpWmAB3L0OJ3VBeMkOQUu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 3:48 |
 | 32 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 |
 | 33 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 39 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
 | 40 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 |
 | 41 | [V.A.N](https://open.spotify.com/track/2WtFbotxC95UD2r1RzE036) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 4:34 |
-| 42 | [Oblivion](https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Oblivion](https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X) | 8:19 |
-| 43 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 2:44 |
+| 42 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 2:44 |
+| 43 | [Oblivion](https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Oblivion](https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X) | 8:19 |
 | 44 | [Dance Macabre](https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:39 |
 | 45 | [Welcome To The Circus](https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:16 |
 | 46 | [Jambi](https://open.spotify.com/track/2gbPu2QNqhnnqtfK3yyeZ0) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 7:28 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 63 | [Lost in a Wave](https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Lost in the Waves](https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt) | 3:44 |
 | 64 | [Did My Time](https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 4:04 |
 | 65 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
-| 66 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
-| 67 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 |
+| 66 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 |
+| 67 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
 | 68 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 69 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 70 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |

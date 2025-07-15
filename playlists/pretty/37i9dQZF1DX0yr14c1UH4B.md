@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > The ultimate songbook with The Favors ✍️
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,952 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,951 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 |
-| 2 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 |
-| 3 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
-| 4 | [The Highlands](https://open.spotify.com/track/30ytgFw6dKIvuzfrgK4Nhd) | [Annabel Jones](https://open.spotify.com/artist/5koilOAvfuLq4O2yc9UWft) | [Forgiveness](https://open.spotify.com/album/20DhWiUjiS5xziDIXcds4E) | 3:13 |
-| 5 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 |
-| 6 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |
-| 7 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 |
-| 8 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
+| 1 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
+| 2 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 |
+| 3 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
+| 4 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 |
+| 5 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 |
+| 6 | [The Highlands](https://open.spotify.com/track/30ytgFw6dKIvuzfrgK4Nhd) | [Annabel Jones](https://open.spotify.com/artist/5koilOAvfuLq4O2yc9UWft) | [Forgiveness](https://open.spotify.com/album/20DhWiUjiS5xziDIXcds4E) | 3:13 |
+| 7 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |
+| 8 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 |
 | 9 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 |
 | 10 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
 | 11 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 99 | [Losing My Mind](https://open.spotify.com/track/5YxMvYBYtj9QFzuV994qF2) | [Joe Devlin](https://open.spotify.com/artist/6zvaBH9XesIrlYqkC4w6ze) | [Losing My Mind](https://open.spotify.com/album/2sZ7yK4FT8OWCucOhTT3X1) | 3:20 |
 | 100 | [My Way](https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [My Way](https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO) | 3:33 |
 
-Snapshot ID: `aHBF+QAAAACCHrYz8nqB8JPYS780/ywr`
+Snapshot ID: `aHTDPAAAAADE3X4ZkQCwEwDThyhE1Crv`

@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 834088,
+  "num_followers": 834180,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAC1/hJL0lBAWe3RWzLbx7rY",
+  "snapshot_id": "aHL3AAAAAABAQaKcrQ5aljdG0j1h8Ceg",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariposa Traicionera",
-        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 243307,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Llorar",
         "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 240240,
       "name": "Se Me Va La Voz",
       "url": "https://open.spotify.com/track/4QubLlsaYXoQH3CxGxuTry"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariposa Traicionera",
+        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 243307,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/0zRc5cHuMrulujN8t1XbYE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Est\u00e1 Doliendo",
         "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 202941,
       "name": "Me Est\u00e1 Doliendo",
       "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/0zRc5cHuMrulujN8t1XbYE"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viento A Favor",
-        "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "No Se Me Hace F\u00e1cil",
-      "url": "https://open.spotify.com/track/0c6xdgPkihXqWFGx0CpVkU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dos Mundos - Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 220333,
       "name": "Ma\u00f1ana Es Para Siempre",
       "url": "https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viento A Favor",
+        "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "No Se Me Hace F\u00e1cil",
+      "url": "https://open.spotify.com/track/0c6xdgPkihXqWFGx0CpVkU"
     },
     {
       "added_at": null,

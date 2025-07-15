@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,360 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,426 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 25 | [Blue Moon \- 1999 Remastered](https://open.spotify.com/track/5RLzsVW6UNiV2YrOlKwzNN) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Swingin' Session!!! And More \(Remastered / Expanded Edition\)](https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF) | 2:51 |
 | 26 | [Witchcraft](https://open.spotify.com/track/7HH8xXMzlPp5BRVqySUVbl) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 2:53 |
 | 27 | [The Girl From Ipanema \- 2008 Remastered](https://open.spotify.com/track/3NdHYXQK5gkFFEZvSMVVj6) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 3:14 |
-| 28 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 |
-| 29 | [Days Of Wine And Roses](https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 2:15 |
+| 28 | [Days Of Wine And Roses](https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 2:15 |
+| 29 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 |
 | 30 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 2:57 |
 | 31 | [Quiet Nights of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/1FdulvpRiLgkseCz7RrNOR) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:45 |
 | 32 | [For Once In My Life](https://open.spotify.com/track/3FsrG1TIB79ONER5Fr1cCt) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 49 | [All Of Me \- Remastered 1998](https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Swing Easy!](https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7) | 2:06 |
 | 50 | [Young At Heart](https://open.spotify.com/track/4AdqsEH40jfERiDkzyY0Ur) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 2:50 |
 
-Snapshot ID: `aHGlgAAAAABrZlvIuVW4DjhqoUg7FX/1`
+Snapshot ID: `aHL3AAAAAACfdIBfXRs2Vke4J3AtRz4/`

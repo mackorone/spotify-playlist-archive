@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,749 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,770 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,35 +53,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 43 | [那女孩對我說](https://open.spotify.com/track/5Gip2UwE4f8L4MQWsvcvfA) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [\#2019還在聽](https://open.spotify.com/album/0687JPYolanYGONrSkOZtK) | 4:28 |
 | 44 | [你不會一輩子的愛上我](https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [你不會一輩子的愛上我](https://open.spotify.com/album/0FjMxaIatcw3nOgc9osLif) | 3:17 |
 | 45 | [我又想你了](https://open.spotify.com/track/1VqPm8KwaEnW0cbEYAzKwx) | [h3R3](https://open.spotify.com/artist/4FJh673hcQ7J6VMQVa7aD1) | [我又想你了](https://open.spotify.com/album/3MMGvETXaUyKMrMINriN4U) | 2:33 |
-| 46 | [想悄悄住進你的靈魂 \(電視劇《難哄》插曲\)](https://open.spotify.com/track/23y0POoEllY2LM9EwWJ3ab) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [想悄悄住進你的靈魂](https://open.spotify.com/album/7AceFgFxvjH64hBcGZsB6d) | 4:01 |
-| 47 | [一起寂寞 Lonely Duet](https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [一起寂寞 Lonely Duet](https://open.spotify.com/album/4G3e7irPXOurk3SQHkq3a9) | 3:41 |
+| 46 | [一起寂寞 Lonely Duet](https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [一起寂寞 Lonely Duet](https://open.spotify.com/album/4G3e7irPXOurk3SQHkq3a9) | 3:41 |
+| 47 | [想悄悄住進你的靈魂 \(電視劇《難哄》插曲\)](https://open.spotify.com/track/23y0POoEllY2LM9EwWJ3ab) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [想悄悄住進你的靈魂](https://open.spotify.com/album/7AceFgFxvjH64hBcGZsB6d) | 4:01 |
 | 48 | [我們到底算什麼](https://open.spotify.com/track/3SSUUro7FoNAWQEa01xtZY) | [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [躍](https://open.spotify.com/album/6BhcCeMEBlIwhafSD05aS8) | 3:47 |
 | 49 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 |
 | 50 | [隔著螢幕想念你](https://open.spotify.com/track/2UG57mASKdND4iQaS8EH1y) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [隔著螢幕想念你](https://open.spotify.com/album/14X0jLPKuLpJUa3YH8wpeC) | 3:04 |
-| 51 | [結局很瘦](https://open.spotify.com/track/4tBOMSTGOyNeAX83lyqru6) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [結局很瘦](https://open.spotify.com/album/4rp1tnWuQl8fA685WTX5vq) | 3:32 |
-| 52 | [愛情怎麼了嗎](https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愛情怎麼了嗎](https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40) | 4:08 |
+| 51 | [愛情怎麼了嗎](https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愛情怎麼了嗎](https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40) | 4:08 |
+| 52 | [結局很瘦](https://open.spotify.com/track/4tBOMSTGOyNeAX83lyqru6) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [結局很瘦](https://open.spotify.com/album/4rp1tnWuQl8fA685WTX5vq) | 3:32 |
 | 53 | [不該](https://open.spotify.com/track/3mf3pzDv9DCO0QDVh7bUL4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [周杰倫的床邊故事](https://open.spotify.com/album/0ByfRfYXHHhGjsXEabfDmf) | 4:51 |
 | 54 | [沒有我的以後](https://open.spotify.com/track/4qeJCSBH6FA2tAUcPEDoEl) | [Sharon Kwan](https://open.spotify.com/artist/1D4GTYNzBKdUrK1wyzTmyt) | [沒有我的以後](https://open.spotify.com/album/2O28M6R3nbe65ej3BzIx0q) | 3:31 |
-| 55 | [11](https://open.spotify.com/track/4TJ4AEPBhqj9xYykVBU4GL) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [11](https://open.spotify.com/album/0xlWjniRpsQDTfF9mCNGWS) | 3:48 |
-| 56 | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/track/7EzeNbQHT6DHxQty56qsbN) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/album/7Kb83jUcj0vHErIIascKw6) | 4:43 |
+| 55 | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/track/7EzeNbQHT6DHxQty56qsbN) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/album/7Kb83jUcj0vHErIIascKw6) | 4:43 |
+| 56 | [11](https://open.spotify.com/track/4TJ4AEPBhqj9xYykVBU4GL) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [11](https://open.spotify.com/album/0xlWjniRpsQDTfF9mCNGWS) | 3:48 |
 | 57 | [封鎖線 \- 電影《山忌黃衣小飛俠》片尾曲](https://open.spotify.com/track/19qfZRL0wSiEXLcttvg5pm) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [封鎖線 \- 電影《山忌黃衣小飛俠》片尾曲](https://open.spotify.com/album/0FtgPWglWqnWIS9XalJZDK) | 3:58 |
 | 58 | [天黑請閉眼](https://open.spotify.com/track/0bIbgooxvBkww2ZGeu8VMR) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [天黑請閉眼](https://open.spotify.com/album/4Rx7JsvDZWfL07FV9qchPX) | 4:46 |
-| 59 | [醒來發現你不在\(電影《平行青春的我們》中文主題曲\)](https://open.spotify.com/track/3mMLVZHJg20OTzZ9SoJ38j) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [醒來發現你不在\(電影《平行青春的我們》中文主題曲\)](https://open.spotify.com/album/430GKv9cMlBrv51jdPmqub) | 3:28 |
-| 60 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 |
-| 61 | [受夠](https://open.spotify.com/track/5JLLWtgBLRxpd4MRkGAm74) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 5:31 |
+| 59 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 |
+| 60 | [受夠](https://open.spotify.com/track/5JLLWtgBLRxpd4MRkGAm74) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 5:31 |
+| 61 | [醒來發現你不在\(電影《平行青春的我們》中文主題曲\)](https://open.spotify.com/track/3mMLVZHJg20OTzZ9SoJ38j) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [醒來發現你不在\(電影《平行青春的我們》中文主題曲\)](https://open.spotify.com/album/430GKv9cMlBrv51jdPmqub) | 3:28 |
 | 62 | [生日晚餐](https://open.spotify.com/track/30VXBKujwGZ8aQyh8W3Hkw) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [生日晚餐](https://open.spotify.com/album/6OAhRnrNviz9Bb2ZqBesU5) | 3:46 |
 | 63 | [備胎 \(feat\. Eetu Kalavainen\)](https://open.spotify.com/track/6OuBzoZm0GHYzPNGlvB3yx) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Eetu Kalavainen](https://open.spotify.com/artist/2gmrjqnmYgLobcr15nJR3O) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 4:32 |
-| 64 | [我知道你也不是那麼快樂](https://open.spotify.com/track/43dXQ2NZFd6ifeQMAlaRkQ) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [我知道你也不是那麼快樂](https://open.spotify.com/album/7r1vUFrQLCu17TVppUiXmr) | 3:19 |
-| 65 | [還是愛錯](https://open.spotify.com/track/1X42y2V1zBc938IRMrMGxd) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [還是愛錯](https://open.spotify.com/album/4zXlxHK4ksEgVcOPQvII9b) | 3:58 |
-| 66 | [想念你想我](https://open.spotify.com/track/48shm8jmaY2daKSe4gSKP6) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [想念你想我](https://open.spotify.com/album/7KonHhAjwbnVzzK9B2XCy0) | 4:00 |
+| 64 | [還是愛錯](https://open.spotify.com/track/1X42y2V1zBc938IRMrMGxd) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [還是愛錯](https://open.spotify.com/album/4zXlxHK4ksEgVcOPQvII9b) | 3:58 |
+| 65 | [想念你想我](https://open.spotify.com/track/48shm8jmaY2daKSe4gSKP6) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [想念你想我](https://open.spotify.com/album/7KonHhAjwbnVzzK9B2XCy0) | 4:00 |
+| 66 | [我知道你也不是那麼快樂](https://open.spotify.com/track/43dXQ2NZFd6ifeQMAlaRkQ) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [我知道你也不是那麼快樂](https://open.spotify.com/album/7r1vUFrQLCu17TVppUiXmr) | 3:19 |
 | 67 | [那些晚安](https://open.spotify.com/track/0a9HgLLjSRWUuWtECjAux7) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [那些晚安](https://open.spotify.com/album/2rUgTz1rpwdUuSdg4hetUx) | 3:32 |
-| 68 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
+| 68 | [做我的初戀](https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [做我的初戀](https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY) | 2:57 |
 | 69 | [一直都在 \- 《我的麻吉4個鬼》電影主題曲](https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [一直都在 \(《我的麻吉4個鬼》電影主題曲\)](https://open.spotify.com/album/4QhjNVOF6Fjbmmr7ujQv7a) | 3:41 |
-| 70 | [因為你 所以我](https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [因為你 所以我](https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt) | 4:41 |
-| 71 | [愛了](https://open.spotify.com/track/7AMKmzAOQlulJxEh5lcklH) | [Julia Peng](https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77) | [完整的大人](https://open.spotify.com/album/3Z6lfj0EwYrmF1BNhwAquo) | 4:00 |
-| 72 | [做我的初戀](https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [做我的初戀](https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY) | 2:57 |
+| 70 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
+| 71 | [因為你 所以我](https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [因為你 所以我](https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt) | 4:41 |
+| 72 | [愛了](https://open.spotify.com/track/7AMKmzAOQlulJxEh5lcklH) | [Julia Peng](https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77) | [完整的大人](https://open.spotify.com/album/3Z6lfj0EwYrmF1BNhwAquo) | 4:00 |
 | 73 | [九彎十八拐](https://open.spotify.com/track/6d1URgz5bJSIsCPsVyvItQ) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [玫瑰憑證2](https://open.spotify.com/album/017iTtfHd9gyexhcifiahe) | 3:46 |
 | 74 | [忠孝東路走九遍](https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [忠孝東路走九遍](https://open.spotify.com/album/4QFQFIpq2drStUz2yPphHw) | 4:52 |
-| 75 | [為你寫下這首情歌](https://open.spotify.com/track/7nQUCbkxmQpuhXLugmLffu) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [為你寫下這首情歌](https://open.spotify.com/album/7clyQmQE4BgF0XULsArbiZ) | 4:01 |
+| 75 | [名字](https://open.spotify.com/track/2xP7OHLvsj2XJgVb5qbFUK) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [名字](https://open.spotify.com/album/57aoNt9kmpzov7sBNSmPNq) | 4:26 |
 
 Snapshot ID: `aG/jlgAAAABYVC+pHHYNPBVJ0jLuP9qQ`

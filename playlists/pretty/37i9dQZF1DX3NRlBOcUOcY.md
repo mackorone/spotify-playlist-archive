@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,502 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,513 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 66 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
 | 67 | [Guaro con Ron](https://open.spotify.com/track/09Hf0Ef5ViOn3o6BIrmNwM) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Guaro con Ron](https://open.spotify.com/album/77QMET8x0AvIlMarJmLZU2) | 2:28 |
 | 68 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 |
-| 69 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
-| 70 | [SUAVEMENTE](https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [SUAVEMENTE](https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT) | 2:22 |
+| 69 | [SUAVEMENTE](https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [SUAVEMENTE](https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT) | 2:22 |
+| 70 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
 | 71 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 |
 | 72 | [Brinca \(Acuario\)](https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl) | 3:39 |
 | 73 | [COMO TÚ](https://open.spotify.com/track/0CvqywquA1KKut69KVSYF2) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [FORAJIDOS](https://open.spotify.com/album/5oRQWG2GplLWiMA7I1rDzb) | 2:36 |

@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 7345,
+  "num_followers": 7349,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "For the Love of God",
-        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 228134,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Miracle No Dey Tire Jesus",
         "url": "https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 166000,
       "name": "Miracle No Dey Tire Jesus",
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "For the Love of God",
+        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 228134,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "Heaven Changes Everything",
-        "url": "https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Heaven Changes Everything",
-      "url": "https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Abandoned (Original)",
         "url": "https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 304757,
       "name": "Abandoned - Original",
       "url": "https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "Heaven Changes Everything",
+        "url": "https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Heaven Changes Everything",
+      "url": "https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "My God Can",
-        "url": "https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "My God Can",
-      "url": "https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Moy\u2019 Oyingcwele (Live)",
         "url": "https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 500087,
       "name": "Moy\u2019 Oyingcwele (Live)",
       "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "My God Can",
+        "url": "https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "My God Can",
+      "url": "https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP"
     },
     {
       "added_at": "2024-12-05 23:59:00",

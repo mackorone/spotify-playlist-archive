@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Viviann Baeza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,126 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,164 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 62 | [Aún Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aún Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 |
 | 63 | [Diamante](https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamante](https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il) | 2:38 |
 | 64 | [Ni Pedo](https://open.spotify.com/track/3WLdR3ObZtUiFwZgr8n7pE) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Ni Pedo](https://open.spotify.com/album/1V9Cd1r9p6u1oDGuHriLsF) | 2:22 |
-| 65 | [Las Morras](https://open.spotify.com/track/5fmPKuO8EhL4OdOuanUjIa) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Las Morras](https://open.spotify.com/album/1hUbp2MmNLyqivPFkvYrYw) | 3:17 |
-| 66 | [Dejémoslo Así](https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Dejémoslo Así](https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1) | 3:29 |
+| 65 | [Dejémoslo Así](https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Dejémoslo Así](https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1) | 3:29 |
+| 66 | [Las Morras](https://open.spotify.com/track/5fmPKuO8EhL4OdOuanUjIa) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Las Morras](https://open.spotify.com/album/1hUbp2MmNLyqivPFkvYrYw) | 3:17 |
 | 67 | [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 |
 | 68 | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge) | 8:49 |
-| 69 | [Jódete](https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pa’Delante](https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4) | 3:10 |
-| 70 | [Estan Lloviendo Lagrimas](https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Graciela Beltran 14 Super Exitos](https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS) | 3:06 |
+| 69 | [Estan Lloviendo Lagrimas](https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Graciela Beltran 14 Super Exitos](https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS) | 3:06 |
+| 70 | [Jódete](https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pa’Delante](https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4) | 3:10 |
 | 71 | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q) | 2:46 |
 | 72 | [Deja Que Salga la Luna \- En Vivo](https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Deja Que Salga la Luna \(En Vivo\)](https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY) | 3:17 |
 | 73 | [Yo Te Extrañaré](https://open.spotify.com/track/5eaoQpGpFBQrMUjWk3lruo) | [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB), [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Yo Te Extrañaré](https://open.spotify.com/album/39CrI0ILTQ6Ia0zHaBNpda) | 4:50 |

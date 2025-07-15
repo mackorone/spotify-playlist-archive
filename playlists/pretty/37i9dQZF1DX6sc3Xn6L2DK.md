@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,611 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,620 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 50 | [Love Can Find You Anywhere](https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Love Can Find You Anywhere](https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24) | 3:39 |
 | 51 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
 | 52 | [The Wolf](https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg) | [Gill Landry](https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh) | [Skeleton at the Banquet](https://open.spotify.com/album/6sbJZndXlSLENEZDP9h6yV) | 4:54 |
-| 53 | [Are You Listening?](https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Are You Listening?](https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O) | 3:18 |
-| 54 | [Make My Mind Up](https://open.spotify.com/track/1xCLVikxgsHqwKjGCrqAyB) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 3:31 |
+| 53 | [Make My Mind Up](https://open.spotify.com/track/1xCLVikxgsHqwKjGCrqAyB) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 3:31 |
+| 54 | [Are You Listening?](https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Are You Listening?](https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O) | 3:18 |
 | 55 | [Breakfast](https://open.spotify.com/track/4FDGp2BcZSmT9dZucG4ksY) | [Darrin Bradbury](https://open.spotify.com/artist/7azO8ieqy1sOm6LkfHtH9w) | [Talking Dogs & Atom Bombs](https://open.spotify.com/album/3UTuOx53762H0mBIfB49Ma) | 3:06 |
 | 56 | [Civilized Hell](https://open.spotify.com/track/4QO2PpZDTP0Loy9YOrKCNW) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 4:50 |
 | 57 | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X) | [Jeremy Fetzer](https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r) | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX) | 3:58 |

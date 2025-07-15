@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,870 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,058 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 21 | [A Simple Song](https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:36 |
 | 22 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 |
 | 23 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:38 |
-| 24 | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b) | 5:00 |
+| 24 | [Only Thing That’s Gone](https://open.spotify.com/track/0cLZboiFzp3rgYnPz33IJX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Dangerous: The Double Album](https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T) | 3:16 |
 | 25 | [Hard Livin'](https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 2:59 |
-| 26 | [Only Thing That’s Gone](https://open.spotify.com/track/0cLZboiFzp3rgYnPz33IJX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Dangerous: The Double Album](https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T) | 3:16 |
+| 26 | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b) | 5:00 |
 | 27 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
 | 28 | [Without Your Love](https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:51 |
 | 29 | [Nobody To Blame](https://open.spotify.com/track/4WRRCuJYRq7gUKiupxVH9W) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 49 | [Amanda \(feat\. Morgane Stapleton\)](https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX) | [Gentle Giants: The Songs of Don Williams](https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt) | 3:02 |
 | 50 | [Honky Tonk Hall Of Fame](https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Cowboys And Dreamers](https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ) | 3:09 |
 
-Snapshot ID: `aHGlgAAAAACoXJ99skB7hCoMjxRQiKO0`
+Snapshot ID: `aHL3AAAAAAAVxX1X4aswalTv5bCgsPMG`

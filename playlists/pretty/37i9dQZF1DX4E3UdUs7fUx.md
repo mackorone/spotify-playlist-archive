@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,131,926 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,131,451 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 95 | [Carry You](https://open.spotify.com/track/1MwdkGVOmlOEj13DBQHPuJ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Carry You](https://open.spotify.com/album/33XfLlgdcBspajzKFuTQcb) | 4:33 |
 | 96 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 |
 | 97 | [If We Were Vampires](https://open.spotify.com/track/7o8Fe4IHujZWCSV6c84kln) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [If We Were Vampires](https://open.spotify.com/album/4mwBBYV7dU6LbnOWKdIk1k) | 3:35 |
-| 98 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
-| 99 | [Lights Off](https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 3:52 |
-| 100 | [Hate the Way You Love Me](https://open.spotify.com/track/4SEgyVuHzincvWDvypjasT) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/30TiWcFsV6As1N6d6L8wJ0) | 4:03 |
+| 98 | [Warped Window](https://open.spotify.com/track/0C0ESa1ZZ5taXaYUxwnvx9) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ) | 4:55 |
+| 99 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
+| 100 | [Lights Off](https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 3:52 |
 
 Snapshot ID: `ZsilKwAAAACYULFLP0r+WgzSVTR2bMav`

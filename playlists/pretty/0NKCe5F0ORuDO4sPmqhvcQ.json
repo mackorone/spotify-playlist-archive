@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening ",
-  "num_followers": 20525,
+  "num_followers": 20523,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqio+RFBtJDbbD3qypcH9vUevSg2va",
+  "snapshot_id": "AAAqi/jNrTq6C32dfhTKRQJn8wS00sdF",
   "tracks": [
     {
       "added_at": "2025-07-02 22:34:12",
@@ -2051,6 +2051,26 @@
       "duration_ms": 186766,
       "name": "OBSESSION (FENIK Remix)",
       "url": "https://open.spotify.com/track/4URCRlWuh2b38S5qMvj9on"
+    },
+    {
+      "added_at": "2025-07-14 23:48:18",
+      "album": {
+        "name": "I WANNA KNOW",
+        "url": "https://open.spotify.com/album/2JX1nPMEBCUAb8zHGGscPa"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "TIMID.",
+          "url": "https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "I WANNA KNOW",
+      "url": "https://open.spotify.com/track/6UXqR3MQtiW0pX6Ozl43KY"
     }
   ],
   "unique_name": "Moving Castle Monthly",

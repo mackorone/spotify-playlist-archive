@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Drake, Travis Scott and The Clipse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,017,186 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,016,032 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 |
+| 1 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 |
 | 2 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 |
 | 3 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
-| 4 | [Chains & Whips](https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:03 |
+| 4 | [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 |
 | 5 | [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 |
-| 6 | [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 |
+| 6 | [Chains & Whips](https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:03 |
 | 7 | [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 |
 | 8 | [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 |
 | 9 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
-| 10 | [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 |
-| 11 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 |
+| 10 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 |
+| 11 | [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 |
 | 12 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
 | 13 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
 | 14 | [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 |
 | 50 | [The Bell](https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [The Bell](https://open.spotify.com/album/5XV8k6l2wiRruhyE9eEVvk) | 2:44 |
 
-Snapshot ID: `aHMvwwAAAACz1rOp6QjVB5SJD29gckkf`
+Snapshot ID: `aHVRDAAAAAC2Kvyyj3Ed6FS+zbKbnGDD`

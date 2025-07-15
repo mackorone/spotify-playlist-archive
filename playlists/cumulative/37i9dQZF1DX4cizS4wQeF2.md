@@ -2,9 +2,9 @@
 
 ### [Romcom](https://open.spotify.com/playlist/37i9dQZF1DX4cizS4wQeF2)
 
-> love me, love me not ❤️❤️
+> “My Mr\. Darcy\. My Rochester\. My … Felix.” ❤️ Cover: Jess and Felix in Too Much
 
-132 songs - 8 hr 6 min
+134 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2022-12-31 |  |
 | [Accidentally In Love](https://open.spotify.com/track/4ccM2xBxicGigjLqt6A0YY) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Accidentally In Love](https://open.spotify.com/album/70NalxU5fQaMxOpe0T69Ob) | 3:08 | 2022-12-31 |  |
 | [All You Wanted](https://open.spotify.com/track/0kr6d8wHDQPlzuET33NVn6) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:37 | 2022-12-31 |  |
+| [Are You with Me Now?](https://open.spotify.com/track/7JSKAwskeR9SGtwJdarODc) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Mug Museum](https://open.spotify.com/album/5xXP2gI8U35p389RggZW6O) | 4:20 | 2025-07-14 |  |
 | [Autumn Leaves \- Remastered 1987](https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:40 | 2023-10-24 | 2025-03-22 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-12 | 2024-09-13 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-07-05 | 2025-02-11 |
@@ -22,6 +23,7 @@
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2024-05-07 | 2024-05-14 |
 | [Breakfast At Tiffany's](https://open.spotify.com/track/3GpdNg7Krt9vjc6tgDoKe1) | [Deep Blue Something](https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407) | [Home](https://open.spotify.com/album/0f3MAWN7G0RtC7UT6lj6x9) | 4:17 | 2024-02-09 | 2025-02-11 |
 | [Breakfast At Tiffany's](https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn) | [Deep Blue Something](https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407) | [Home](https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO) | 4:17 | 2024-01-22 | 2024-04-19 |
+| [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 | 2025-07-14 |  |
 | [Can't Take My Eyes off You](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:23 | 2022-12-31 |  |
 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2022-12-31 | 2023-06-09 |
 | [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 | 2025-05-27 |  |
@@ -103,7 +105,7 @@
 | [Starry Eyed \(with Chelsea Cutler\)](https://open.spotify.com/track/4qPEcB7tDrrGu0eheFa6H4) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Starry Eyed \(with Chelsea Cutler\)](https://open.spotify.com/album/2DWfZUkKHwa4IA9bqUnjIj) | 2:16 | 2025-05-30 |  |
 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 | 2022-12-31 |  |
 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 | 2022-12-31 |  |
-| [Sunset Blvd](https://open.spotify.com/track/39BA4c8Zai94CKOmONweKY) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 2:47 | 2025-03-24 |  |
+| [Sunset Blvd](https://open.spotify.com/track/39BA4c8Zai94CKOmONweKY) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 2:47 | 2025-03-24 | 2025-07-15 |
 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 | 2022-12-31 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-09-12 | 2025-02-11 |
 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2024-05-25 | 2024-07-11 |

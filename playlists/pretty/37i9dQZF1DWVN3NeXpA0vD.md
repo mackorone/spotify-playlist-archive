@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 
 > D vitaminin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,527 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,528 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 | 53 | [Free Woman](https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:11 |
 | 54 | [Heart to Break](https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Heart to Break](https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD) | 3:45 |
 | 55 | [Instagram](https://open.spotify.com/track/0U6bQIAh6MCGo1xjbIIx2S) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Instagram](https://open.spotify.com/album/7FTzcNdsKhMe53orWXsai8) | 3:04 |
-| 56 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 |
-| 57 | [Y U Gotta B Like That](https://open.spotify.com/track/45StvejYUdIsyUwqdZ7iJM) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Y U Gotta B Like That](https://open.spotify.com/album/7ErSfjONTrLqmvrJanrtcK) | 2:34 |
+| 56 | [Y U Gotta B Like That](https://open.spotify.com/track/45StvejYUdIsyUwqdZ7iJM) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Y U Gotta B Like That](https://open.spotify.com/album/7ErSfjONTrLqmvrJanrtcK) | 2:34 |
+| 57 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 |
 | 58 | [No Judgement](https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:56 |
 | 59 | [Let It Be Me \(feat\. Ava Max\)](https://open.spotify.com/track/2F83FxNVkK6PPMHuYnwyVc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 2:52 |
 | 60 | [go with u](https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:51 |

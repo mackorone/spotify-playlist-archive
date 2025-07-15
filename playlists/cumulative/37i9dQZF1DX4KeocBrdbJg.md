@@ -4,7 +4,7 @@
 
 > lo mejor nunca se sube
 
-760 songs - 1 day 16 hr 57 min
+761 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-03-06 | 2025-02-15 |
 | [Ahí Estaré Yo](https://open.spotify.com/track/54gaPLcsCWmPUmrgpib9mS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Camino del Amor](https://open.spotify.com/album/1fvaT1qOl0H0gAHk5RHbts) | 3:20 | 2022-08-16 | 2022-10-02 |
 | [AIRE](https://open.spotify.com/track/3AO2yiueYmT0YBa4ZNP7JM) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [EROZ](https://open.spotify.com/album/3c44ghd24WoMZVB5N4SfjE) | 3:10 | 2025-01-14 | 2025-02-07 |
+| [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 | 2025-07-14 |  |
 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 | 2023-06-07 | 2025-05-02 |
 | [Algo Me Gusta De Ti](https://open.spotify.com/track/3nDNXKBb5fRTuQXpeowWTT) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:35 | 2022-08-12 | 2023-03-25 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-05 | 2025-03-01 |
@@ -79,7 +80,7 @@
 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 | 2023-07-25 | 2023-09-08 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-26 | 2023-11-10 |
 | [BATTERY OPERATED](https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [BATTERY OPERATED](https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v) | 2:07 | 2025-04-02 | 2025-05-07 |
-| [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-11-14 |  |
+| [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-11-14 | 2025-07-15 |
 | [Beat Automotivo Tan Tan Tan Viral](https://open.spotify.com/track/0MW3v87yrCJGoPRZHBqTgc) | [WZ Beat](https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9) | [Beat Automotivo Tan Tan Tan Viral](https://open.spotify.com/album/7gfEv2zyRfosdeySbAUFnK) | 1:07 | 2022-07-29 | 2022-09-24 |
 | [Beautiful Day \(Thank You for Sunshine\)](https://open.spotify.com/track/1z5r6Rpcc1BreRtYALBncX) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [Beautiful Day \(Thank You for Sunshine\)](https://open.spotify.com/album/015qoIa2tAE8CETpsNIpqv) | 2:48 | 2023-02-10 | 2023-09-08 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-09 | 2025-01-15 |

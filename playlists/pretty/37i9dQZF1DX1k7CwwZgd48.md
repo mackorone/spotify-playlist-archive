@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k7CwwZgd48.md) - [plain]
 
 > Our editors' picks for the best Música Mexicana songs of the year! \#SpotifyWrapped Cover: Tito Double P & Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,273 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,375 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

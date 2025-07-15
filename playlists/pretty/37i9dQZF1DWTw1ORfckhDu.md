@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Jore & Zpoppa, DAVI ja Turisti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,564 likes - 54 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,584 likes - 54 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 9 | [Supermalli](https://open.spotify.com/track/0aLV2IaAn79c588GyX2udS) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp) | [Supermalli](https://open.spotify.com/album/0bu0wwgLUGXvmqDV4LSbvD) | 3:01 |
 | 10 | [Innovaattori](https://open.spotify.com/track/38ttg6L4jKJAdfJnfs6wU1) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Innovaattori](https://open.spotify.com/album/47ROMB4iVumr9midsb8owJ) | 2:54 |
 | 11 | [Rastat \(feat\. Jukka Poika\)](https://open.spotify.com/track/04URb3phAOfTFNB5f8pyEm) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Rastat / Nelson Mandela \(feat\. Jukka Poika\)](https://open.spotify.com/album/140ZYIlhbrz18KaTvD394H) | 3:00 |
-| 12 | [Ei taas](https://open.spotify.com/track/4SNRIDk1FcJKeCo3OfFDJh) | [remynotagain](https://open.spotify.com/artist/0EJmMsog45db72sHJI4Ga4), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Ei taas](https://open.spotify.com/album/36xwZG98W4hhxdR9BwuE8S) | 3:07 |
+| 12 | [Ei taas](https://open.spotify.com/track/4SNRIDk1FcJKeCo3OfFDJh) | [remynotagain](https://open.spotify.com/artist/0EJmMsog45db72sHJI4Ga4), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Ei taas](https://open.spotify.com/album/36xwZG98W4hhxdR9BwuE8S) | 3:07 |
 | 13 | [Säätänää](https://open.spotify.com/track/0oaKMTjVA3KQR5xBn4NeTe) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Säätänää](https://open.spotify.com/album/1E5ySghfEKXG4kkgzqvL5J) | 2:30 |
 | 14 | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/track/6PWCKV8BtCneJCDOAlwyDr) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/album/41JGibvkIPYPQheqaE8nhi) | 3:11 |
 | 15 | [2 tone \(feat\. Ares\)](https://open.spotify.com/track/5Fggrl5jqihP50JYhFUeLt) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [2 tone \(feat\. Ares\)](https://open.spotify.com/album/6GvQ3Y54cSOMg5bQOekotv) | 2:59 |

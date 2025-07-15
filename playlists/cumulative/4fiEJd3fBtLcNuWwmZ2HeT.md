@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-314 songs - 17 hr 48 min
+315 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [ヘイヴン](https://open.spotify.com/track/6aTSQHD767wxox2zqpUWj1) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [ヘイヴン](https://open.spotify.com/album/7tnjWKvtu1FFvWxjgXDYTW) | 3:23 | 2025-03-18 |  |
 | [ベビ・デビ](https://open.spotify.com/track/1tkjaxBJW8qAkBXPfxRrAy) | [CULUA](https://open.spotify.com/artist/3sQqFA3jHUjGGUoUvwX7B2) | [ベビ・デビ](https://open.spotify.com/album/0ByoLvApyMJSHqY0echmtF) | 2:56 | 2025-01-13 |  |
 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 | 2024-09-08 |  |
+| [ムーンライトロマンス](https://open.spotify.com/track/3p1mXMqfdh9Ehff5nFXm95) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [朝の迎え方](https://open.spotify.com/album/1DQo11k6IX9kBk3j7ZeCIb) | 3:08 | 2025-07-14 |  |
 | [メンヘラじゃないもん!](https://open.spotify.com/track/24E0iUwAK5CI2uUxucydxe) | [勇魚](https://open.spotify.com/artist/515c1YJxPvInDVwQbFvPvf) | [メンヘラじゃないもん!](https://open.spotify.com/album/1YO5k5RbPMiXCOp8YQG0vk) | 3:16 | 2024-08-06 |  |
 | [ラグトレイン](https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ウェザーステーション](https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd) | 4:12 | 2022-11-25 |  |
 | [ラストリゾート](https://open.spotify.com/track/5HcOVExZgUjPubONiRs7JB) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [幽霊東京 \(digital edition\)](https://open.spotify.com/album/6nYldEYDHm0Qjd5Cxhv321) | 3:08 | 2024-09-16 |  |

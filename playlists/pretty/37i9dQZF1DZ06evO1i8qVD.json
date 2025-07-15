@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 36490,
+  "num_followers": 36523,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADrHy3aLhduKpE4sASqQdYC",
+  "snapshot_id": "aHL3AAAAAAAm8SW+qV/SZykpg+/+uLTs",
   "tracks": [
     {
       "added_at": null,
@@ -447,18 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+        "name": "Skin Deep Deluxe Version",
+        "url": "https://open.spotify.com/album/3PSiKvI79K1aoayA3Z7xfV"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
         }
       ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+      "duration_ms": 268906,
+      "name": "Skin Deep (feat. Derek Trucks)",
+      "url": "https://open.spotify.com/track/3R11aqnxH9nlrxyAPV3A3Q"
     },
     {
       "added_at": null,
@@ -495,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skin Deep Deluxe Version",
-        "url": "https://open.spotify.com/album/3PSiKvI79K1aoayA3Z7xfV"
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
         }
       ],
-      "duration_ms": 268906,
-      "name": "Skin Deep (feat. Derek Trucks)",
-      "url": "https://open.spotify.com/track/3R11aqnxH9nlrxyAPV3A3Q"
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues",
-        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 135546,
-      "name": "Messin' with the Kid",
-      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 275680,
       "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
       "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buddy Guy & Junior Wells Play The Blues",
+        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 135546,
+      "name": "Messin' with the Kid",
+      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 505906,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bring 'Em In",
         "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 296280,
       "name": "I've Got Dreams To Remember",
       "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 505906,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Blues Don't Lie",
+        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "Blues Don't Lie",
+      "url": "https://open.spotify.com/track/1xyW8n2IfWReOvGWkc0A57"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 277906,
       "name": "Where The Blues Begins (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blues Don't Lie",
-        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "Blues Don't Lie",
-      "url": "https://open.spotify.com/track/1xyW8n2IfWReOvGWkc0A57"
     },
     {
       "added_at": null,

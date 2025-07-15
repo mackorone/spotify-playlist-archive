@@ -1,13 +1,29 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Aftershine",
-  "num_followers": 40716,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Elsa Japasal",
+  "num_followers": 40718,
   "original_name": "RADAR Indonesia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFREpQAAAADZe1WF4Chxq+bmdysjPKwI",
+  "snapshot_id": "aHXB3gAAAAChRFmb3kHCHqkasvetgyeI",
   "tracks": [
+    {
+      "added_at": "2025-05-29 17:00:31",
+      "album": {
+        "name": "Pernah Dicinta",
+        "url": "https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ"
+      },
+      "artists": [
+        {
+          "name": "Elsa Japasal",
+          "url": "https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "Pernah Dicinta",
+      "url": "https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V"
+    },
     {
       "added_at": "2025-06-16 08:53:42",
       "album": {
@@ -195,22 +211,6 @@
     {
       "added_at": "2025-05-29 17:00:31",
       "album": {
-        "name": "Pernah Dicinta",
-        "url": "https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ"
-      },
-      "artists": [
-        {
-          "name": "Elsa Japasal",
-          "url": "https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "Pernah Dicinta",
-      "url": "https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V"
-    },
-    {
-      "added_at": "2025-05-29 17:00:31",
-      "album": {
         "name": "Apakah Kita Hanya Bercanda?",
         "url": "https://open.spotify.com/album/60ggqycnsEMeAHWpI42i7M"
       },
@@ -327,6 +327,26 @@
     {
       "added_at": "2025-05-29 17:00:31",
       "album": {
+        "name": "Sebelum Merayakan",
+        "url": "https://open.spotify.com/album/1MX1RStzJR8jkIHNjcn9Si"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        },
+        {
+          "name": "Elsa Japasal",
+          "url": "https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB"
+        }
+      ],
+      "duration_ms": 218214,
+      "name": "Menunggu Giliran",
+      "url": "https://open.spotify.com/track/4i9rbztGgYtIYo6jSaYCvq"
+    },
+    {
+      "added_at": "2025-05-29 17:00:31",
+      "album": {
         "name": "Angin Rindu",
         "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 254099,
       "name": "Cukup Aku",
       "url": "https://open.spotify.com/track/5Jgh4Lp2Fa0HZC1tQOZ2iD"
-    },
-    {
-      "added_at": "2025-05-29 17:00:31",
-      "album": {
-        "name": "Sebelum Merayakan",
-        "url": "https://open.spotify.com/album/1MX1RStzJR8jkIHNjcn9Si"
-      },
-      "artists": [
-        {
-          "name": "For Revenge",
-          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
-        },
-        {
-          "name": "Elsa Japasal",
-          "url": "https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB"
-        }
-      ],
-      "duration_ms": 218214,
-      "name": "Menunggu Giliran",
-      "url": "https://open.spotify.com/track/4i9rbztGgYtIYo6jSaYCvq"
     },
     {
       "added_at": "2025-05-29 17:00:31",

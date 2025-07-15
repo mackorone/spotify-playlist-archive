@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 463599,
+  "num_followers": 463668,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAdMAPhSvJQ2XvbPVxeK8zQ",
+  "snapshot_id": "aHL3AAAAAABn0xERuDGIsmhb0ZEUU/VW",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 223853,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/59NC8SuXPiSaiYL69XQ4dt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 288600,
       "name": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",
       "url": "https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 223853,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/59NC8SuXPiSaiYL69XQ4dt"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am Not A Human Being II (Deluxe)",
-        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Rich As Fuck",
-      "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here I Am (Deluxe Version)",
         "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 230560,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am Not A Human Being II (Deluxe)",
+        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Rich As Fuck",
+      "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
     },
     {
       "added_at": null,

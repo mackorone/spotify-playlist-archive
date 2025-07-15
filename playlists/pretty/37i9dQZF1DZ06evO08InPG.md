@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,472 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,487 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 29 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 |
 | 30 | [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 |
 | 31 | [Bulldozer](https://open.spotify.com/track/6T5xfC1iWSXttGlq3rTtNo) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 4:35 |
-| 32 | [Bastards](https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 5:04 |
-| 33 | [Killers & Kings](https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 4:32 |
+| 32 | [Killers & Kings](https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 4:32 |
+| 33 | [Bastards](https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 5:04 |
 | 34 | [A Thousand Lies](https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 6:13 |
 | 35 | [Beautiful Mourning](https://open.spotify.com/track/5Cs6AftcanvD6Ib7YJ1otT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 4:46 |
 | 36 | [SLAUGHTER THE MARTYR](https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 10:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 49 | [The Rage to Overcome](https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:46 |
 | 50 | [This Is the End](https://open.spotify.com/track/6uRyY0aHPXEqvV1fiRn7Iq) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 6:11 |
 
-Snapshot ID: `aHGlgAAAAAAErpcEbKhWgaBuCYFk9tIi`
+Snapshot ID: `aHL3AAAAAAC06tvNXxBpK5yoZdICHlIB`

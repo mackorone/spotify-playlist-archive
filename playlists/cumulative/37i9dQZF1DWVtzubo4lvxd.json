@@ -722,7 +722,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 179250,
       "name": "Cerveza",
       "url": "https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6"
@@ -3054,6 +3054,24 @@
       "duration_ms": 179491,
       "name": "Mangal (Instrumental)",
       "url": "https://open.spotify.com/track/4o72yrtOHZLASTR8vzCdmH"
+    },
+    {
+      "album": {
+        "name": "Milk & Cookies",
+        "url": "https://open.spotify.com/album/0J7mljOriS30XDELsyKJp6"
+      },
+      "artists": [
+        {
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "Milk & Cookies",
+      "url": "https://open.spotify.com/track/2TUxk6Lbcj0le79LGO4eQ6"
     },
     {
       "album": {

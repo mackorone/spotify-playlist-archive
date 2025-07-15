@@ -4,7 +4,7 @@
 
 > أحسن أغاني البوب المغربي مجموعين في بوبستارز
 
-188 songs - 10 hr 9 min
+189 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [El 7ob Sa3b](https://open.spotify.com/track/4MN8tKKz1Sld1OhJPemc5G) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [El 7ob Sa3b](https://open.spotify.com/album/2G28Q9Sn9WWgPFuCd5fWU8) | 2:22 | 2023-11-28 | 2024-06-01 |
 | [El Hob Saaib](https://open.spotify.com/track/4bYW1TxbDO22wBTOIIMUwC) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [El Hob Saaib](https://open.spotify.com/album/4W5cxfCoUq7Tym9sJ3qaBO) | 3:36 | 2023-07-13 | 2024-10-07 |
 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 | 2023-07-07 | 2023-12-22 |
+| [Ensa](https://open.spotify.com/track/0gqQVtw4Dhc1jTXCcxa01U) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Ensa](https://open.spotify.com/album/263tszRzCdApk9Z0WktOQz) | 3:17 | 2025-07-14 |  |
 | [Favori](https://open.spotify.com/track/48kp069SRdTvuGFobRyhlQ) | [Yasmine Belkacem](https://open.spotify.com/artist/7EmOe92RLgv1axv2KyxGVR), [Tarek Kadem](https://open.spotify.com/artist/43BDWBOkq6wZHr9UNmqSHw) | [Favori](https://open.spotify.com/album/3nGqVqbJSdDkM6ma5NGpO6) | 3:20 | 2023-12-21 | 2024-05-17 |
 | [FEL HAWA SAWA](https://open.spotify.com/track/6dWnQFvP0rj5VgTdKEHtBE) | [Larbi Imghrane](https://open.spotify.com/artist/1YVSmUGMeeVFoA54ZX1vvg), [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [FEL HAWA SAWA](https://open.spotify.com/album/07uJOfbHCHwkQ3x3hlW1Es) | 3:12 | 2023-11-30 | 2024-11-22 |
 | [Flouka](https://open.spotify.com/track/6qJsZS6HgNROEQ8CMYzaeV) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Flouka](https://open.spotify.com/album/7qBXcxkVVtw24cLXDiinIn) | 3:14 | 2024-12-26 | 2025-04-18 |
@@ -158,7 +159,7 @@
 | [Riwayti](https://open.spotify.com/track/4XQkwvPiEGYEBMcWc5aHSl) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Riwayti](https://open.spotify.com/album/5R8cYev493v26BiliSAklk) | 3:05 | 2024-11-27 |  |
 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 | 2023-07-07 | 2025-05-23 |
 | [Rouhani](https://open.spotify.com/track/2417U3M1EmTIU34xpBEfA0) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Rouhani](https://open.spotify.com/album/0557ejgFhXB7KOb4K2ryt0) | 3:01 | 2023-07-07 | 2024-08-17 |
-| [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 | 2024-01-25 |  |
+| [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 | 2024-01-25 | 2025-07-15 |
 | [RWINI](https://open.spotify.com/track/4KtR6eHxOOQ3cE8ZwVeYS9) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [RWINI](https://open.spotify.com/album/3G0HZxflIGREjKgKHGcOh3) | 4:01 | 2025-05-15 |  |
 | [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 | 2023-07-07 | 2024-04-08 |
 | [Seddit Lbibane](https://open.spotify.com/track/19qSodZXmR2GqMwzLvLYlJ) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Seddit Lbibane](https://open.spotify.com/album/60T0APAz9FUAKMJcpfpxjt) | 3:08 | 2023-07-07 | 2024-01-26 |

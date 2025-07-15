@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11257,
+  "num_followers": 11258,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAB38f9GEXq9WS+BYkdl42uf",
+  "snapshot_id": "aHL3AAAAAABHCjyKGP9FLlGQ5JaYZm/+",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "eye2eye (Jai Wolf Remix)",
-        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "eye2eye - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost (feat. Chelsea Jade)",
         "url": "https://open.spotify.com/album/4mob4bXDH8B9fBkbesET3C"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 241040,
       "name": "Lost (feat. Chelsea Jade)",
       "url": "https://open.spotify.com/track/14ToOTiyJ6nLYNZb2Sa5WR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "eye2eye (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "eye2eye - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hikikomori",
-        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 162171,
-      "name": "Hikikomori - Demo",
-      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parachute Remixes",
         "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 249360,
       "name": "Drivin Thru the Night - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 162171,
+      "name": "Hikikomori - Demo",
+      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Heaven Is Calling",
-      "url": "https://open.spotify.com/track/7AQsECqHNK4QfO7LDKqiAm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tennis Skirt (feat. Ella Boh) [Demo]",
         "url": "https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh) - Demo",
       "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/7AQsECqHNK4QfO7LDKqiAm"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
-        }
-      ],
-      "duration_ms": 283764,
-      "name": "Red Eye (feat. rei brown)",
-      "url": "https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The End (Jai Wolf Club Babu Remix)",
         "url": "https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 229928,
       "name": "In The End - Jai Wolf Club Babu Remix",
       "url": "https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "duration_ms": 283764,
+      "name": "Red Eye (feat. rei brown)",
+      "url": "https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4"
     },
     {
       "added_at": null,

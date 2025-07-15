@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Jagdish, Ayaan, Damini
 
-376 songs - 22 hr 32 min
+377 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Harini](https://open.spotify.com/track/3nL7CA4hvqVr99agCJyhSC) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/1K7Kn0GkjGNVCLhzywriiG) | 3:56 | 2023-05-22 | 2024-01-04 |
 | [Hate Oddhu](https://open.spotify.com/track/4RUkcsgECnfHaAk0OEjwdE) | [brownkiddreams](https://open.spotify.com/artist/2RJmN0J5H4v0i9SQ0wDrPY) | [Hate Oddhu](https://open.spotify.com/album/5AyQhXTsHcYQ502zlGZ3ct) | 2:37 | 2024-10-10 | 2025-05-30 |
 | [HeartBeat](https://open.spotify.com/track/4YjVV0SrnWx8RwTf71IXTx) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [HeartBeat](https://open.spotify.com/album/31NQaNaV1DapEitznBvGpA) | 2:15 | 2024-08-23 | 2025-03-06 |
+| [Hello](https://open.spotify.com/track/5z13m9YeRbmnrA6btb7S6S) | [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Hello](https://open.spotify.com/album/2XpTMKVcEsI1jJFtY6zMlN) | 2:55 | 2025-07-14 |  |
 | [Hello Chittamma](https://open.spotify.com/track/08JFxXy4ERFQFZAcEu8y86) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Hello Chittamma](https://open.spotify.com/album/3HaCAI70bGfKoAwrVpgUD8) | 2:27 | 2025-01-27 |  |
 | [Hello Madam Sridevi](https://open.spotify.com/track/0mkjF6AQ6QZomWsfb4fjIT) | [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Hello Madam Sridevi](https://open.spotify.com/album/1zwSc8LpI4KuBuww9trZKF) | 4:36 | 2025-02-13 |  |
 | [hello master!](https://open.spotify.com/track/0djwARp8JriBrVLMokz83Z) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb), [Stanley Sajeev](https://open.spotify.com/artist/01hzMpU7t0rLILKgBo0Sau) | [hello master!](https://open.spotify.com/album/6kXrq2yivg13UPq0nEHAsx) | 2:54 | 2024-05-10 | 2024-08-14 |
@@ -223,7 +224,7 @@
 | [Ninnu Cheraga](https://open.spotify.com/track/0KFpBnnR9yAgFrlqje5xHy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Ninnu Cheraga](https://open.spotify.com/album/2pBaIGMAS4SsoKHxBPAbok) | 3:07 | 2024-04-25 |  |
 | [Noi](https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0) | [Noi](https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V) | 4:45 | 2023-03-06 | 2023-11-21 |
 | [Nuv Lenide](https://open.spotify.com/track/0Cz5N91JbdypWxGoQMCSLd) | [K S Harisankar](https://open.spotify.com/artist/5xChfd59lzEVrY85cCQHeU) | [Nuv Lenide](https://open.spotify.com/album/2YTVIdEEygqyJF969Va698) | 3:43 | 2022-07-18 | 2023-05-23 |
-| [Nuvva Nuvva](https://open.spotify.com/track/1MeL5yFopGk5o4TYxFRhtQ) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM) | [Nuvva Nuvva](https://open.spotify.com/album/42rQhTsW9TqHZOjhErIhTi) | 2:38 | 2025-04-29 |  |
+| [Nuvva Nuvva](https://open.spotify.com/track/1MeL5yFopGk5o4TYxFRhtQ) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM) | [Nuvva Nuvva](https://open.spotify.com/album/42rQhTsW9TqHZOjhErIhTi) | 2:38 | 2025-04-29 | 2025-07-15 |
 | [Nuvvamma](https://open.spotify.com/track/1VATC6zT8q1GodfCoNBnce) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nuvvamma](https://open.spotify.com/album/0jZaHcLOsgapAaMEttISus) | 4:21 | 2024-04-01 |  |
 | [Nuvve Kada Na Pranam](https://open.spotify.com/track/2qi73fWzCmtgf6ObJEvliy) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nuvve Kada Na Pranam](https://open.spotify.com/album/5mBu2KuE00fe7FBxUKyXR2) | 3:50 | 2023-08-29 | 2023-09-23 |
 | [Nuvve Naa Lokam](https://open.spotify.com/track/7F1p60yC1Gb7De3omM8335) | [Pavan Kumar Harisomayajula](https://open.spotify.com/artist/1AATURikxHdk3SN6OEcF5l) | [Nuvve Naa Lokam](https://open.spotify.com/album/2kjrdeVEGpLxC4KIrQSxz6) | 4:27 | 2023-07-10 | 2023-07-25 |

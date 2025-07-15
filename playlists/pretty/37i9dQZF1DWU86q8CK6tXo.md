@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,942 likes - 56 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,945 likes - 56 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 35 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |
 | 36 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 |
 | 37 | [Dancehall](https://open.spotify.com/track/3XcM7tSvGt8lHtmUkLibWU) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Dancehall](https://open.spotify.com/album/6ejhPZLlGjXOxUEu1GN9tm) | 2:42 |
-| 38 | [HAKiA](https://open.spotify.com/track/2R7tJQlT37TxQ1jzu9ez7K) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [HAKiA](https://open.spotify.com/album/0KqrVcGMXFMESOIj071ZIi) | 2:13 |
-| 39 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 |
+| 38 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 |
+| 39 | [HAKiA](https://open.spotify.com/track/2R7tJQlT37TxQ1jzu9ez7K) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [HAKiA](https://open.spotify.com/album/0KqrVcGMXFMESOIj071ZIi) | 2:13 |
 | 40 | [Ain't Sad About It](https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Ain't Sad About It](https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq) | 3:43 |
 | 41 | [Sex, Drugs, & Country Music](https://open.spotify.com/track/7FzbROJvb1vzrwnmkK5EC5) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Sex, Drugs, & Country Music](https://open.spotify.com/album/759caALCZeFt6jTB2eKMv8) | 3:37 |
 | 42 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 |
@@ -63,6 +63,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 53 | [I'm in Love](https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Planting by the Signs](https://open.spotify.com/album/38zMhd9RDzHVfklw3BKM7t) | 3:42 |
 | 54 | [Hole In A Frame](https://open.spotify.com/track/0yhZkGZwcvcnUCfJ6MulaT) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bloodless](https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h) | 3:03 |
 | 55 | [The Whole Thing](https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Whole Thing](https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n) | 3:51 |
-| 56 | [Pajamas](https://open.spotify.com/track/3svAabqImjfGaLARJDuFg0) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [Pajamas](https://open.spotify.com/album/3KqPQgeeJyuWSl5naBFh1o) | 2:36 |
+| 56 | [sofocón](https://open.spotify.com/track/53Ox636iTlznBrMT3FH8Jd) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [sofocón](https://open.spotify.com/album/03scjA6OFm6LUFQQa8dOOy) | 2:26 |
 
 Snapshot ID: `aGNdTgAAAABOJjm0fDEAxxBzfU4X+U5n`

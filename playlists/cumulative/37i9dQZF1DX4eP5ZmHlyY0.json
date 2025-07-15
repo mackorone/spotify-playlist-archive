@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "Go Back To The Future",
+        "url": "https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "BTTF",
+      "url": "https://open.spotify.com/track/4gkiXKGyp4PnHnOO70q8bK"
+    },
+    {
+      "album": {
         "name": "BUCK (feat. Diljit Dosanjh)",
         "url": "https://open.spotify.com/album/29xxo6iJM8mqwKYWTHCu06"
       },
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 166653,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/6k8JvngETY2MTjTMWKJV4M"
@@ -8592,7 +8610,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 190450,
       "name": "Sparkle Summer",
       "url": "https://open.spotify.com/track/69dL4ZFvQFW0Aq0OHnMkTu"
@@ -9798,6 +9816,24 @@
       "duration_ms": 227293,
       "name": "Universe",
       "url": "https://open.spotify.com/track/61bFionfXJxkMit23Rvu5H"
+    },
+    {
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/0L0CetqAg2aiFsC5lHBbyh"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215667,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/2652PzGxxU8jzARLLubmjD"
     },
     {
       "album": {

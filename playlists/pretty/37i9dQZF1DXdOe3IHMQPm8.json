@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pa perrear y carretear non stop!",
-  "num_followers": 145262,
+  "num_followers": 145257,
   "original_name": "Carrete",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-06-27 21:03:06",
       "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+    },
+    {
+      "added_at": "2025-06-27 21:03:06",
+      "album": {
         "name": "INTER SHIBUYA (FERXXO EDITION)",
         "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 145120,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/2WrqTrNIHqfcMCgmEo0A7E"
-    },
-    {
-      "added_at": "2025-06-27 21:03:06",
-      "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2025-06-27 21:03:06",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-27 21:03:06",
       "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
-    },
-    {
-      "added_at": "2025-06-27 21:03:06",
-      "album": {
         "name": "El Efecto (Remix)",
         "url": "https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 289898,
       "name": "El Efecto - Remix",
       "url": "https://open.spotify.com/track/74j34STf8L6uADnTN69ohv"
+    },
+    {
+      "added_at": "2025-06-27 21:03:06",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
     },
     {
       "added_at": "2025-06-27 21:03:06",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2025-06-27 21:03:06",
       "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/70VKqWL5FWgipcGP9ugXBw"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/4pN7yDeBmmAud5lBtuCsVs"
+    },
+    {
+      "added_at": "2025-06-27 21:03:06",
+      "album": {
         "name": "PAPI JUANCHO",
         "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 248345,
       "name": "Parce (feat. Justin Quiles)",
       "url": "https://open.spotify.com/track/4RJz8NfIe09gpKMiRUWKhJ"
-    },
-    {
-      "added_at": "2025-06-27 21:03:06",
-      "album": {
-        "name": "Caliente",
-        "url": "https://open.spotify.com/album/70VKqWL5FWgipcGP9ugXBw"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/4pN7yDeBmmAud5lBtuCsVs"
     },
     {
       "added_at": "2025-06-27 21:03:06",
@@ -1759,30 +1759,6 @@
     {
       "added_at": "2025-06-27 21:03:06",
       "album": {
-        "name": "Pantysito",
-        "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "Pantysito",
-      "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
-    },
-    {
-      "added_at": "2025-06-27 21:03:06",
-      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -1811,6 +1787,30 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "added_at": "2025-06-27 21:03:06",
+      "album": {
+        "name": "Pantysito",
+        "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "Pantysito",
+      "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
     },
     {
       "added_at": "2025-06-27 21:03:06",
@@ -1867,18 +1867,22 @@
     {
       "added_at": "2025-06-27 21:03:06",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
+      "duration_ms": 174482,
+      "name": "TUS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
     },
     {
       "added_at": "2025-06-27 21:03:06",
@@ -1903,22 +1907,18 @@
     {
       "added_at": "2025-06-27 21:03:06",
       "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 174482,
-      "name": "TUS L\u00c1GRIMAS",
-      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
     },
     {
       "added_at": "2025-06-27 21:03:06",
@@ -1999,26 +1999,6 @@
     {
       "added_at": "2025-06-27 21:03:06",
       "album": {
-        "name": "The Love & Sex Tape",
-        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 252162,
-      "name": "Mojando Asientos (feat. Feid)",
-      "url": "https://open.spotify.com/track/6lV9cTvioGWqRXSgfjAUGL"
-    },
-    {
-      "added_at": "2025-06-27 21:03:06",
-      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -2059,6 +2039,26 @@
       "duration_ms": 261665,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
+    },
+    {
+      "added_at": "2025-06-27 21:03:06",
+      "album": {
+        "name": "The Love & Sex Tape",
+        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 252162,
+      "name": "Mojando Asientos (feat. Feid)",
+      "url": "https://open.spotify.com/track/6lV9cTvioGWqRXSgfjAUGL"
     },
     {
       "added_at": "2025-06-27 21:03:06",

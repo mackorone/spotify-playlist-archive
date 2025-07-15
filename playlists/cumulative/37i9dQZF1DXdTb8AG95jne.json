@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \ud55c\ub85c\ub85c) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: sunwoojunga(\uc120\uc6b0\uc815\uc544)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 178266,
       "name": "3108",
       "url": "https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK"
@@ -2649,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "City Dream (amin X Urban City)",
+        "url": "https://open.spotify.com/album/0jGAFBe1lAM4DrU2DFhpDQ"
+      },
+      "artists": [
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "City Dream",
+      "url": "https://open.spotify.com/track/4LbXsiuvy88MC5qS3tMJn8"
+    },
+    {
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/2TJmQDLlBkXQiMLI9H6gG6"
       },
@@ -3940,7 +3958,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 231476,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/3dSCkpgpRjNMdNRT9l2qlw"
@@ -4056,6 +4074,24 @@
       "duration_ms": 150653,
       "name": "Earth Is Flat",
       "url": "https://open.spotify.com/track/0TJLtj4BvtXs7kc1rThrbq"
+    },
+    {
+      "album": {
+        "name": "ease",
+        "url": "https://open.spotify.com/album/7y0O4fVqSwFSaPgpahelAU"
+      },
+      "artists": [
+        {
+          "name": "Ghim Reezn",
+          "url": "https://open.spotify.com/artist/6sA91BD6gLqVE0tyyxx5zI"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132249,
+      "name": "ease",
+      "url": "https://open.spotify.com/track/2UuBsH8yc2HWsZgYwQFGuR"
     },
     {
       "album": {
@@ -9365,6 +9401,24 @@
     },
     {
       "album": {
+        "name": "Our Movie OST Part.7",
+        "url": "https://open.spotify.com/album/7kE9hNetvTJ8ASszOXeZl0"
+      },
+      "artists": [
+        {
+          "name": "DASUTT",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Love Me More (Our Movie : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/0UURDHnOn086dSgpsniO2a"
+    },
+    {
+      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/3k9RocwRCD9q5HS1Io53s3"
       },
@@ -11286,7 +11340,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 258000,
       "name": "on the water",
       "url": "https://open.spotify.com/track/57iBg2TwwGsRRxK48uBNBI"
@@ -12486,7 +12540,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 160466,
       "name": "Rawww",
       "url": "https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6"
@@ -16740,6 +16794,24 @@
       "duration_ms": 255013,
       "name": "Wandering",
       "url": "https://open.spotify.com/track/2qDoBvu7ro7yTB2K6xGyZK"
+    },
+    {
+      "album": {
+        "name": "chan rahn",
+        "url": "https://open.spotify.com/album/08ycfz9dlemNhACZARGF8M"
+      },
+      "artists": [
+        {
+          "name": "sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226026,
+      "name": "WANT IT!",
+      "url": "https://open.spotify.com/track/3AGtmUsltzQt3K66tns6uM"
     },
     {
       "album": {

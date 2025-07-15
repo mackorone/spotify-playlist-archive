@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,036 likes - 75 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,133 likes - 75 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 27 | [Quiero Morir En Tu Piel](https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [El Original Y Unico](https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU) | 6:16 |
 | 28 | [Me Fallaste](https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Platino: Eddie Santiago](https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s) | 5:03 |
 | 29 | [Me Niegas Tanto Amor](https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 4:44 |
-| 30 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
-| 31 | [Lobo Domesticado](https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:50 |
+| 30 | [Lobo Domesticado](https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:50 |
+| 31 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
 | 32 | [Lo Que Pasó Entre Tú y Yo Pasó](https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Colección De Oro](https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo) | 4:38 |
 | 33 | [Desnúdate Mujer](https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Voy Pa'Encima](https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML) | 4:47 |
 | 34 | [Quiero Saber](https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:29 |

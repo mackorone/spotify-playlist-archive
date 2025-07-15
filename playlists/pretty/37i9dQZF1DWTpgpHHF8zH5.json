@@ -1,6 +1,6 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata \u2728",
-  "num_followers": 332101,
+  "num_followers": 332093,
   "original_name": "Operazione Buonumore",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,22 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
     },
     {
       "added_at": "2025-05-09 08:11:46",
@@ -523,22 +527,18 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 228000,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2025-05-09 08:11:46",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217783,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
-    },
-    {
-      "added_at": "2025-05-09 08:11:46",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -607,6 +591,26 @@
       "duration_ms": 201173,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+    },
+    {
+      "added_at": "2025-05-09 08:11:46",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 155588,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
     },
     {
       "added_at": "2025-05-09 08:11:46",
@@ -631,22 +635,18 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 155588,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "added_at": "2025-05-09 08:11:46",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 153205,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
+    },
+    {
+      "added_at": "2025-05-09 08:11:46",
+      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2025-05-09 08:11:46",
-      "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 153205,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
     },
     {
       "added_at": "2025-05-09 08:11:46",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 217408,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
-    },
-    {
-      "added_at": "2025-05-09 08:11:46",
-      "album": {
         "name": "Zanaka (Deluxe)",
         "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 248986,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "added_at": "2025-05-09 08:11:46",
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 217408,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2025-05-09 08:11:46",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
-        "name": "Love On",
-        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 181650,
-      "name": "Love On",
-      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
-    },
-    {
-      "added_at": "2025-05-09 08:11:46",
-      "album": {
         "name": "THE SPEED OF NOW Part 1",
         "url": "https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/3X7H1FAiWAW937WvsFeMhe"
+    },
+    {
+      "added_at": "2025-05-09 08:11:46",
+      "album": {
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
     },
     {
       "added_at": "2025-05-09 08:11:46",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 169041,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
-    },
-    {
-      "added_at": "2025-05-09 08:11:46",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 163680,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
+    },
+    {
+      "added_at": "2025-05-09 08:11:46",
+      "album": {
+        "name": "Dance You Outta My Head",
+        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
+      },
+      "artists": [
+        {
+          "name": "Cat Janice",
+          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
+        }
+      ],
+      "duration_ms": 202508,
+      "name": "Dance You Outta My Head",
+      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
     }
   ],
   "unique_name": "Operazione Buonumore",

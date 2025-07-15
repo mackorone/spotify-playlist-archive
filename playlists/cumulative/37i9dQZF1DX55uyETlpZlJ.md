@@ -2,9 +2,9 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-525 songs - 1 day 5 hr 27 min
+526 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Alemaari](https://open.spotify.com/track/1vEAKvg8MTsLE1bXnIXAJu) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV), [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy) | [Alemaari](https://open.spotify.com/album/15vbphiLpF98dJshJkVfhQ) | 3:40 | 2025-04-21 |  |
 | [Alive](https://open.spotify.com/track/6fTBrgN6MgDU4wsjv1jewf) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Alive](https://open.spotify.com/album/2yVUXFVHUNWFFJ8f571ltz) | 3:31 | 2024-05-24 | 2024-11-06 |
 | [Alladsro](https://open.spotify.com/track/5VcLXHP9BQXJpxKYRLLe5E) | [PS Praveen](https://open.spotify.com/artist/2Dl133Jk9EdG3Z8lKbTMle) | [Alladsro](https://open.spotify.com/album/1Xxq3dTXHid0SEifag64gu) | 3:56 | 2023-08-25 | 2023-09-22 |
-| [Alochane](https://open.spotify.com/track/76b6XWSPuXZUhyxz5JShhE) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Sukeerth Shetty](https://open.spotify.com/artist/6uqYgNPvEW86Ek9oVLXOlo), [Thanusha KM](https://open.spotify.com/artist/0MCXq3V1499mItuvVRmGdl) | [Alochane](https://open.spotify.com/album/3GK6rmUrTMqsQWo4WiR1wG) | 3:43 | 2025-02-18 |  |
+| [Alochane](https://open.spotify.com/track/76b6XWSPuXZUhyxz5JShhE) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Sukeerth Shetty](https://open.spotify.com/artist/6uqYgNPvEW86Ek9oVLXOlo), [Thanusha KM](https://open.spotify.com/artist/0MCXq3V1499mItuvVRmGdl) | [Alochane](https://open.spotify.com/album/3GK6rmUrTMqsQWo4WiR1wG) | 3:43 | 2025-02-18 | 2025-07-15 |
 | [AMADA](https://open.spotify.com/track/5hyRMNjIVnHK4cvkjddsCG) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Sukeerth Shetty](https://open.spotify.com/artist/6uqYgNPvEW86Ek9oVLXOlo), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [AMADA](https://open.spotify.com/album/12q9qvqT21dpZAr3z4sMY3) | 4:24 | 2024-04-01 | 2024-10-02 |
 | [Amalu](https://open.spotify.com/track/6wQcIY7csh8pNjdRIPpGsS) | [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Amalu](https://open.spotify.com/album/28JRQOBgS56TdjewpaFYk9) | 2:16 | 2024-07-11 | 2025-02-01 |
 | [Amanattu](https://open.spotify.com/track/1Bkaf0mflMvZRoUtKKrJrH) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Carnival Crooks](https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q) | [AMANATTU](https://open.spotify.com/album/1u8MNiIXdIKpAoJ3gFZE2K) | 3:26 | 2025-05-20 |  |
@@ -405,6 +405,7 @@
 | [Olave](https://open.spotify.com/track/58M7CKziZOVtMsXkRYH5GY) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/097cY3W3vTxc59lHJO8OCf) | 3:02 | 2023-11-20 | 2024-04-19 |
 | [Olave](https://open.spotify.com/track/5Be0E8MXsPkceRpnD9nV7n) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO) | 3:02 | 2023-11-20 | 2024-05-14 |
 | [Olave Manasiga](https://open.spotify.com/track/3IACS9yiWikZUQRt4usjaQ) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Olave Manasiga](https://open.spotify.com/album/0jHmdudtk8RXjuFGnVk2fX) | 4:10 | 2023-09-20 | 2024-04-05 |
+| [Olavu](https://open.spotify.com/track/4SCFv88gmWoEpjylL8R8z6) | [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96), [Patrick Abraham](https://open.spotify.com/artist/7MOkNn8q8v8oSHFT9auvvF), [Pramod Aravind](https://open.spotify.com/artist/3vRzP9IPjO7EINczxzSUrH) | [Olavu](https://open.spotify.com/album/4Bc8zUz977bKMTUJWgXmh0) | 2:06 | 2025-07-14 |  |
 | [Om Jyotir Gamaya](https://open.spotify.com/track/0uKhhlEvlbwkArSwctjsWx) | [Chiego Amar](https://open.spotify.com/artist/71mccoXKVfa5LQPtBaYvUV), [Harsha](https://open.spotify.com/artist/2OZA6iLdjczigsuaPcue8v), [Airsha](https://open.spotify.com/artist/6PGfEs5HJoxipIzwAX5HAJ) | [Om Jyotir Gamaya](https://open.spotify.com/album/3GeY0hc2I944RpFzviNhsk) | 4:52 | 2025-02-26 |  |
 | [Om Shanthi](https://open.spotify.com/track/67t2UVOfHoLnaK8H0tPLFS) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Om Shanthi](https://open.spotify.com/album/4HbP3otnFzkM4CKzASQedH) | 2:38 | 2024-08-19 | 2025-02-27 |
 | [Omme Nee Nanage](https://open.spotify.com/track/3E2XCnmVjZdpisYfHL1Ewf) | [Swaroop Ramesh](https://open.spotify.com/artist/6d0aG9002M0Y7me7eBWL0y), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Omme Nee Nanage](https://open.spotify.com/album/5QnUKIJmZmwHT7gfqRIFSp) | 5:17 | 2023-07-24 | 2024-02-01 |

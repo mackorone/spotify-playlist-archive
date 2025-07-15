@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Alessia Cara
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,678 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,668 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 18 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
 | 19 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 |
 | 20 | [drivers license \- Spotify Singles](https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 4:22 |
-| 21 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
-| 22 | [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP) | 3:57 |
+| 21 | [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP) | 3:57 |
+| 22 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 23 | [Delicate \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:48 |
 | 24 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 |
 | 25 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 82 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 |
 | 83 | [Young Dumb & Broke \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/28rT3OwXdw4VF1MPYIk1P6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 3:49 |
 | 84 | [Hey Ya! \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 3:04 |
-| 85 | [Redbone \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Spotify Singles](https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic) | 3:22 |
+| 85 | [Billie Jean \- Spotify Singles](https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Spotify Singles](https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ) | 4:08 |
 | 86 | [Tequila \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 2:54 |
-| 87 | [Billie Jean \- Spotify Singles](https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Spotify Singles](https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ) | 4:08 |
+| 87 | [Redbone \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Spotify Singles](https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic) | 3:22 |
 | 88 | [July \- Spotify Singles](https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 2:37 |
 | 89 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 |
 | 90 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 |

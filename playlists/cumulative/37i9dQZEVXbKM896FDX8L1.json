@@ -870,7 +870,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -5532,7 +5532,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 175384,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
@@ -12856,7 +12856,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
@@ -23340,7 +23340,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 230769,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/49x1GZ66GEXQkdXD8Bc7LR"
@@ -29048,7 +29048,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/5x0vMSYCBjsRg0gA8BBEUG"
@@ -29070,7 +29070,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -32148,7 +32148,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 241688,
       "name": "Take Me To Church",
       "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
@@ -32962,6 +32962,24 @@
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270213,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
     },
     {
       "album": {
@@ -35908,7 +35926,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

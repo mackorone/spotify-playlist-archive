@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Molly Tuttle
 
-1,929 songs - 4 day 8 hr 24 min
+1,930 songs - 4 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1285,7 +1285,7 @@
 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 | 2022-06-01 | 2022-07-07 |
 | [Paint The Town Blue](https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Paint The Town Blue](https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ) | 3:05 | 2023-11-08 | 2023-11-30 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2025-03-05 | 2025-03-19 |
-| [Pajamas](https://open.spotify.com/track/3svAabqImjfGaLARJDuFg0) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [Pajamas](https://open.spotify.com/album/3KqPQgeeJyuWSl5naBFh1o) | 2:36 | 2025-06-04 |  |
+| [Pajamas](https://open.spotify.com/track/3svAabqImjfGaLARJDuFg0) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [Pajamas](https://open.spotify.com/album/3KqPQgeeJyuWSl5naBFh1o) | 2:36 | 2025-06-04 | 2025-07-15 |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-04-05 | 2023-05-04 |
 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 | 2021-12-01 | 2022-01-06 |
 | [Papasito](https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:47 | 2025-07-01 |  |
@@ -1537,6 +1537,7 @@
 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 | 2024-10-01 | 2024-11-02 |
 | [So What?](https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:38 | 2025-01-17 | 2025-04-23 |
 | [Sock It 2 Me](https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sock It 2 Me](https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35) | 3:21 | 2022-08-03 | 2022-09-09 |
+| [sofocón](https://open.spotify.com/track/53Ox636iTlznBrMT3FH8Jd) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [sofocón](https://open.spotify.com/album/03scjA6OFm6LUFQQa8dOOy) | 2:26 | 2025-07-01 |  |
 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 | 2023-08-02 | 2023-09-07 |
 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 | 2024-11-01 | 2024-12-05 |
 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 | 2022-11-30 | 2023-01-05 |

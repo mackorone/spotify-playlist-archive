@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,228 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,244 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 21 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
 | 22 | [Staplegun](https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql) | [Baby Guts](https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR) | [gasoline](https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh) | 1:54 |
 | 23 | [Nvr Pass](https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP) | [She/Her/hers](https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg) | [Grrrl Angst](https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP) | 3:50 |
-| 24 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
-| 25 | [She's so Lovely](https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp) | [The Butchies](https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9) | [Make Yr Life](https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ) | 3:22 |
+| 24 | [She's so Lovely](https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp) | [The Butchies](https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9) | [Make Yr Life](https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ) | 3:22 |
+| 25 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
 | 26 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
 | 27 | [Fem in a Black Leather Jacket](https://open.spotify.com/track/7Gjze5dPQjujzoHGOQReWT) | [Pansy Division](https://open.spotify.com/artist/5OyEfwMlXpCWU8dWVENGgm) | [Undressed](https://open.spotify.com/album/3FQM6XQYuV0CMKzs1jTTBF) | 2:04 |
 | 28 | [Blood](https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS) | [Butch Baby](https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr) | [Stoned Butch Blues](https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn) | 2:47 |
-| 29 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
-| 30 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
+| 29 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
+| 30 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
 | 31 | [Tinder Girl](https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:17 |
 | 32 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
 | 33 | [Wrong Bathroom](https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS) | [Tribe 8](https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn) | [Snarkism](https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP) | 2:55 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 69 | [Take Another](https://open.spotify.com/track/3S7KVKmwbxYbN41tltqZdT) | [Size Of Sadness](https://open.spotify.com/artist/2YuRANSZU5LahqGdk7cM5y) | [Little Trauma Things](https://open.spotify.com/album/37iLVqvAeUeTsXiDlYxKR5) | 3:00 |
 | 70 | [What You Do for Love](https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [What You Do for Love](https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr) | 3:20 |
 | 71 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 |
-| 72 | [Famous](https://open.spotify.com/track/1tvpEck0Jz4LPRr4sWAgWe) | [SATE](https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7) | [The Fool](https://open.spotify.com/album/1QRY1A2qQyp33rCTWpyV3W) | 3:16 |
-| 73 | [Damage](https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV) | [Steady Damage](https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk) | 3:07 |
+| 72 | [Damage](https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV) | [Steady Damage](https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk) | 3:07 |
+| 73 | [Famous](https://open.spotify.com/track/1tvpEck0Jz4LPRr4sWAgWe) | [SATE](https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7) | [The Fool](https://open.spotify.com/album/1QRY1A2qQyp33rCTWpyV3W) | 3:16 |
 | 74 | [Boys Wanna Be Her](https://open.spotify.com/track/47PLgd0njLIMcyLuQOOlEn) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/7xCGkKOjMAcKqUE5ggdntD) | 3:55 |
 | 75 | [Fences](https://open.spotify.com/track/1xFzQ7lZeNZkaXeozVWb79) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Fences](https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj) | 3:58 |
 | 76 | [I Hate the Weekend](https://open.spotify.com/track/7M1Wssdqgsl8CHFedtehTb) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [Lost Time](https://open.spotify.com/album/4vwTDSKpekqB7fEKvifutT) | 2:05 |

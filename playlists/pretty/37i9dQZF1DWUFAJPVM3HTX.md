@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0toaL49WhSJAPcTs94NCJt?si=dHWRSPStRFCdP9TX\_6nY2A"> MAXX MOOR</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,966 likes - 591 songs - 1 day 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,975 likes - 591 songs - 1 day 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

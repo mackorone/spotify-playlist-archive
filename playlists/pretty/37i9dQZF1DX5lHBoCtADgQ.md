@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,609 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,638 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 44 | [Challa](https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Challa](https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA) | 3:09 |
 | 45 | [Jagga](https://open.spotify.com/track/3FPP8CPjv5Show7rV5xQKN) | [Sarbjit Cheema](https://open.spotify.com/artist/67MuCsoVbUNiltSTIzIq9E) | [Haani](https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ) | 4:03 |
 | 46 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |
-| 47 | [Tere Jeya Hor Disda](https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [Tere Jeya Hor Disda](https://open.spotify.com/album/7n5DGiPi4rR8yBnH3I8osc) | 4:35 |
-| 48 | [Ambarsare Di](https://open.spotify.com/track/0cuHoVfzNqehCcphBZCp0w) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Wedding Songs Of Punjab Volume 2](https://open.spotify.com/album/7Dvz3aKaHGcrfRu761tfd2) | 4:19 |
+| 47 | [Ambarsare Di](https://open.spotify.com/track/0cuHoVfzNqehCcphBZCp0w) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Wedding Songs Of Punjab Volume 2](https://open.spotify.com/album/7Dvz3aKaHGcrfRu761tfd2) | 4:19 |
+| 48 | [Tere Jeya Hor Disda](https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [Tere Jeya Hor Disda](https://open.spotify.com/album/7n5DGiPi4rR8yBnH3I8osc) | 4:35 |
 | 49 | [\(Boliyan\) Geetan Da Guldasta](https://open.spotify.com/track/5PBB2DjqraVp7tdPlaZyD2) | [Surjit Bindrakhia](https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX) | [The King \(Greatest Hits\)](https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH) | 4:58 |
 | 50 | [Buhe Bariyan](https://open.spotify.com/track/2S7jQnlsEVgMpNyZzPPwgK) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v) | [Buhe Bariyan](https://open.spotify.com/album/5vpSmKJ6pSPcGqLfHGfmpU) | 3:21 |
 

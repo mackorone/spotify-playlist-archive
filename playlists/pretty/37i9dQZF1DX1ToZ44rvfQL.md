@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 
 > Porque el asado se prende con música.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,621 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,649 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 | 52 | [Toco Y Me Voy](https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:09 |
 | 53 | [De Nada Sirve](https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:57 |
 | 54 | [El Final Es En Donde Partí](https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:36 |
-| 55 | [Al lado del camino](https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 5:26 |
-| 56 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
+| 55 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
+| 56 | [Al lado del camino](https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 5:26 |
 | 57 | [Waitin'](https://open.spotify.com/track/6EjUn5quLcTVFBUGLGwGwA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 2:48 |
 | 58 | [Padre Nuestro](https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:32 |
 | 59 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 | 75 | [Todos Locos](https://open.spotify.com/track/20j3mg8wGS2d3HbTrYWLsk) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:22 |
 | 76 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/291JIUH9vV7qveI5F3n8JQ) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Otras Canciones](https://open.spotify.com/album/7puiKW3huokZs5qtYK4o0K) | 3:48 |
 | 77 | [No Necesito Nada](https://open.spotify.com/track/5A44iIZenvd56WXWCO9K5K) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Este Fuerte Viento Que Sopla](https://open.spotify.com/album/6HyHimLPwJgAVkpH7fc8gb) | 4:24 |
-| 78 | [Arruinarse \(feat\. Airbag\) \- En Vivo En River Plate](https://open.spotify.com/track/7GSS3AEO9emTV5yXJ66V0i) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU), [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Arruinarse \(feat\. Airbag\) \[En Vivo En River Plate\]](https://open.spotify.com/album/28d02LdDvtRAuB3oojgsQ0) | 5:49 |
-| 79 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
+| 78 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
+| 79 | [Arruinarse \(feat\. Airbag\) \- En Vivo En River Plate](https://open.spotify.com/track/7GSS3AEO9emTV5yXJ66V0i) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU), [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Arruinarse \(feat\. Airbag\) \[En Vivo En River Plate\]](https://open.spotify.com/album/28d02LdDvtRAuB3oojgsQ0) | 5:49 |
 | 80 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
 | 81 | [Ella](https://open.spotify.com/track/5pQsZbRuL4PIdOy8P7BqWK) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:34 |
 | 82 | [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 | 96 | [Ya No Sos Igual](https://open.spotify.com/track/1gom5NgPAZQOjpVLyh4HML) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Valentin Alsina](https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC) | 3:02 |
 | 97 | [El Arriero](https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [La Era De La Boludez](https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx) | 6:38 |
 | 98 | [Culpable O No](https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Culpable O No](https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas) | 4:13 |
-| 99 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 |
-| 100 | [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 |
+| 99 | [No Te Imaginas](https://open.spotify.com/track/6l0ClSGxF3VwZIvxseYERY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [No Te Imaginas](https://open.spotify.com/album/3HVgc5TzbVgLBA77uOevdv) | 3:26 |
+| 100 | [Y Lo Que Quiero Es Que Pises Sin El Suelo](https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuentos Decapitados](https://open.spotify.com/album/4agUniovdijNcGf3blcYQM) | 3:12 |
 
 Snapshot ID: `aB1vywAAAADigqpkV+omq/aZMyBJQa0/`

@@ -293,6 +293,32 @@
     },
     {
       "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222986,
+      "name": "2000 EXCURSION",
+      "url": "https://open.spotify.com/track/6Gp3pYkydEOkl8EHHJxa9s"
+    },
+    {
+      "album": {
         "name": "202",
         "url": "https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6"
       },
@@ -1010,7 +1036,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 182500,
       "name": "A Nossa Dan\u00e7a",
       "url": "https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf"
@@ -3024,7 +3050,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -4716,7 +4742,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 205934,
       "name": "B\u00ean\u00e7\u00e3o (feat. Van Zee & Bispo)",
       "url": "https://open.spotify.com/track/5VOhg3dqCqRGWwKXF6DLLW"
@@ -4836,7 +4862,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 158326,
       "name": "Cacau",
       "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
@@ -5236,7 +5262,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
@@ -5830,6 +5856,32 @@
       "duration_ms": 336511,
       "name": "Champagne Poetry",
       "url": "https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184789,
+      "name": "CHAMPAIN & VACAY",
+      "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
     },
     {
       "album": {
@@ -9271,6 +9323,24 @@
     },
     {
       "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238249,
+      "name": "DUMBO",
+      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -12570,7 +12640,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -16158,6 +16228,28 @@
       "duration_ms": 174083,
       "name": "KEYS TO MY LIFE",
       "url": "https://open.spotify.com/track/3aZSvXuZt8ymQeixzFQM9W"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170498,
+      "name": "KICK OUT",
+      "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
     },
     {
       "album": {
@@ -19806,6 +19898,24 @@
       "duration_ms": 136695,
       "name": "Mist\u00e9rios",
       "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174532,
+      "name": "MM3",
+      "url": "https://open.spotify.com/track/2D8i2yY8z3kB5gRaUJ5weK"
     },
     {
       "album": {
@@ -25808,7 +25918,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 106685,
       "name": "Rebolando",
       "url": "https://open.spotify.com/track/17xyLNjsAkAbMRzZl8eOJX"
@@ -27484,7 +27594,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 147221,
       "name": "Senta e Cala a Boca",
       "url": "https://open.spotify.com/track/2ZrC9CTs01XkbFPtLbpHzl"
@@ -33046,7 +33156,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -33250,6 +33360,28 @@
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144841,
+      "name": "VELOUR",
+      "url": "https://open.spotify.com/track/56jNpLhqZaI5IfJwwMdkRQ"
     },
     {
       "album": {
@@ -34246,6 +34378,32 @@
       "duration_ms": 144765,
       "name": "Where U @",
       "url": "https://open.spotify.com/track/27YnktnfLRoQzUQ7fEQqjA"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272941,
+      "name": "WHERE WAS YOU",
+      "url": "https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe"
     },
     {
       "album": {

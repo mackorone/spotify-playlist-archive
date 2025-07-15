@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Dremo
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,608 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,641 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 31 | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 |
 | 32 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 |
 | 33 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
-| 34 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 |
-| 35 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
+| 34 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
+| 35 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 |
 | 36 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |
 | 37 | [Lazy Baby](https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lazy Baby](https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh) | 2:06 |
 | 38 | [Amen](https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Amen](https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ) | 2:52 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 66 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 |
 | 67 | [Mr Heartbreaker](https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Mr Heartbreaker](https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f) | 2:55 |
 | 68 | [Chocolate & Caramel](https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhad Boi](https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm) | 2:41 |
-| 69 | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/album/7554y1U2CikUTRafTXj29N) | 3:01 |
-| 70 | [LET ME BE](https://open.spotify.com/track/3tL4lxj4zfhbJTCCVOT6Lr) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MELÖVIA](https://open.spotify.com/album/43l2ygGjBGaT1sN7uZBJ74) | 2:29 |
+| 69 | [The Shift \(feat\. Cruel Santino, Knucks & Jeriq\)](https://open.spotify.com/track/7pSD2G8uLfbnWpK7DEnr3E) | [Vivendii Sound](https://open.spotify.com/artist/21rC8LSfXexS7tyaK9tbum), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [The Shift \(feat\. Cruel Santino, Knucks & Jeriq\)](https://open.spotify.com/album/7kxwXRVkyYBzn3UgzmUdhP) | 3:00 |
+| 70 | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/album/7554y1U2CikUTRafTXj29N) | 3:01 |
 
 Snapshot ID: `aHBUWAAAAADvvsS44TLYg/PraoztToIO`

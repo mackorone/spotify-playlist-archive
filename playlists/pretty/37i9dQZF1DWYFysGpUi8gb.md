@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > underground and experimental\. greetings from geese.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,514 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,494 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

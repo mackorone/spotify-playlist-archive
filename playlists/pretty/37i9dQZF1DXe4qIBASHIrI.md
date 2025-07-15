@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,367 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,407 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 73 | [Marginado](https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Marginado](https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF) | 3:24 |
 | 74 | [El Ultimo](https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq) | [Los Odio!](https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v) | [Los Odio](https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC) | 3:35 |
 | 75 | [Sentado Aquí](https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [Sentado Aquí](https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp) | 4:20 |
-| 76 | [Berlin](https://open.spotify.com/track/0Lyn5aCdsCPyAncbsXQ9R2) | [Abominables](https://open.spotify.com/artist/6ElfvyeHfdy1g7lbshtn0f) | [Recuerdos del Futuro](https://open.spotify.com/album/4iuoEd83VdyP4fEjj5QtLe) | 3:24 |
-| 77 | [Sixteen](https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO) | [Los Super Elegantes](https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36) | [Los Super Elegantes Ep](https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di) | 3:45 |
+| 76 | [Sixteen](https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO) | [Los Super Elegantes](https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36) | [Los Super Elegantes Ep](https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di) | 3:45 |
+| 77 | [Berlin](https://open.spotify.com/track/0Lyn5aCdsCPyAncbsXQ9R2) | [Abominables](https://open.spotify.com/artist/6ElfvyeHfdy1g7lbshtn0f) | [Recuerdos del Futuro](https://open.spotify.com/album/4iuoEd83VdyP4fEjj5QtLe) | 3:24 |
 | 78 | [Mi Chica](https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [La Fiesta de la Forma](https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey) | 6:51 |
 | 79 | [Chubaca Tiene un Secreto](https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [Levantate Sakuraba](https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS) | 3:33 |
 | 80 | [Los Bajos Fondos](https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 2:53 |

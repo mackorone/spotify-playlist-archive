@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "ALAMBRE P\u00faA",
+        "url": "https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146017,
+      "name": "ALAMBRE P\u00faA",
+      "url": "https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG"
+    },
+    {
+      "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
       },
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"

@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 128290,
+  "num_followers": 128325,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "Harleys In Hawaii",
+      "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 217099,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Harleys In Hawaii",
-      "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Hush Hush; Hush Hush",
         "url": "https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 252093,
       "name": "Hush Hush; Hush Hush / I Will Survive - Medley",
       "url": "https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 288960,
-      "name": "Dance In The Dark",
-      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Rebel Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 227480,
       "name": "Bitch I'm Madonna",
       "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "Dance In The Dark",
+      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272813,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Bubblebath",
         "url": "https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 205693,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Demi",
-        "url": "https://open.spotify.com/album/5v2YP7qaJJsOuWwojxUti8"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "Neon Lights",
-      "url": "https://open.spotify.com/track/1WINLcGPEw9jDs2z0zLKIU"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 202640,
       "name": "Hair Body Face",
       "url": "https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Demi",
+        "url": "https://open.spotify.com/album/5v2YP7qaJJsOuWwojxUti8"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "Neon Lights",
+      "url": "https://open.spotify.com/track/1WINLcGPEw9jDs2z0zLKIU"
     },
     {
       "added_at": "2024-06-02 21:23:10",

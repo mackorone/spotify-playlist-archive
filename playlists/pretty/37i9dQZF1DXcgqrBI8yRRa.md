@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > As heard on the FYP\.  Cover: Mavo
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,164 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,194 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

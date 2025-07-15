@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,106 likes - 270 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,107 likes - 270 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 64 | [I Can't Hear You No More](https://open.spotify.com/track/0eDpq3XyvGUyrf01jfUSCy) | [Russ Ballard](https://open.spotify.com/artist/1TOvAjOdz0YBx2wVRlBvFA) | [Russ Ballard](https://open.spotify.com/album/1hGYJPEaXCWmspAjcQQfEC) | 5:52 |
 | 65 | [All Life Long \(Edit\)](https://open.spotify.com/track/1tTr4Sp2vbbVwntgk1QStr) | [Freiboitar](https://open.spotify.com/artist/1HcMKF2zXr12XNvN95DKvA), [Jackie Queens](https://open.spotify.com/artist/2Fn9Ex39hElfpqz6HyUgwY) | [All Life Long](https://open.spotify.com/album/5qADZLOscQ71a0EPCmiu0l) | 3:23 |
 | 66 | [Believe In Humanity](https://open.spotify.com/track/1yl0FJKBVzqU9jhdvyDPo0) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 3:19 |
-| 67 | [Mexican Divorce \- Single Version](https://open.spotify.com/track/11riJrU1R8Mx2okH11JRxd) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:35 |
-| 68 | [Hung On You](https://open.spotify.com/track/4HHI8Bjcxt6gsRpgAp9B7w) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Back To Back](https://open.spotify.com/album/0EDQbxkH9D3X5EFl1o18Yc) | 3:24 |
+| 67 | [Hung On You](https://open.spotify.com/track/4HHI8Bjcxt6gsRpgAp9B7w) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Back To Back](https://open.spotify.com/album/0EDQbxkH9D3X5EFl1o18Yc) | 3:24 |
+| 68 | [Mexican Divorce \- Single Version](https://open.spotify.com/track/11riJrU1R8Mx2okH11JRxd) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:35 |
 | 69 | [At the Club \- Single Version](https://open.spotify.com/track/2O5tP6uuOZBhVwDeO4T6Hk) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [I'll Take You Where the Music's Playing](https://open.spotify.com/album/6e1doqX3DiZ9FKO4R1Yj2O) | 2:59 |
 | 70 | [Sweet Young Thing \- Original Stereo Version; 2006 Remaster](https://open.spotify.com/track/0BQOQg32KHdWJro82n4EDX) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h) | 1:56 |
 | 71 | [Walkin' With My Angel](https://open.spotify.com/track/4SRMCUgrwNFN7vUHvyMS7l) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:19 |
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 137 | [I Won't Be](https://open.spotify.com/track/6PYPAsGS9m3G3VIj2Tq4hy) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/7cirEMVoNE7n6FOgqk9rzZ) | 2:07 |
 | 138 | [Screaming and Yelling](https://open.spotify.com/track/2oM2lFz3AscyEWb3aT5nj0) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:16 |
 | 139 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 |
-| 140 | [What Have You Got to Lose](https://open.spotify.com/track/75TZ0xBZiHI09OHm3fu9JR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:30 |
-| 141 | [I Can't Stop Talking about You](https://open.spotify.com/track/1S3HwyddiVAR18ZYOqxRZ8) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Greatest Hits Vol\. 2](https://open.spotify.com/album/4hKXMzhgsG1YMUMBHTEEB8) | 2:07 |
+| 140 | [I Can't Stop Talking about You](https://open.spotify.com/track/1S3HwyddiVAR18ZYOqxRZ8) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Greatest Hits Vol\. 2](https://open.spotify.com/album/4hKXMzhgsG1YMUMBHTEEB8) | 2:07 |
+| 141 | [What Have You Got to Lose](https://open.spotify.com/track/75TZ0xBZiHI09OHm3fu9JR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:30 |
 | 142 | [Raspberry Jam](https://open.spotify.com/track/4MeARHhXvNJ2hhbkTSj7O3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:34 |
 | 143 | [Like Little Children \- Demo](https://open.spotify.com/track/6lnEZVZbgjIF2ZZ3bsSGak) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:12 |
 | 144 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 269 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 270 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Ab2slAAAAADmPNCJ7m+mZP09mibWAZxd`
+Snapshot ID: `Ab2ycAAAAAAQRnRol90FQaps4BEqChOx`

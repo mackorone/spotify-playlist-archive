@@ -4,7 +4,7 @@
 
 > Rochelle Jordan's got that big energy.
 
-528 songs - 1 day 2 hr 11 min
+529 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [Slide](https://open.spotify.com/track/2Hc6RM9TyaL3gfRla0Gegq) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Slide](https://open.spotify.com/album/1ouCQgTJioODJSEmuaF3ml) | 2:09 | 2024-03-08 | 2024-04-19 |
 | [Sloppy Seconds \(Ick Pt\. 2\)](https://open.spotify.com/track/00WnaHagi3KLsrbs20OFVt) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Sloppy Seconds \(Ick Pt\. 2\)](https://open.spotify.com/album/4tl8geDZIbp8ZZNTwpwzDc) | 2:42 | 2023-11-24 | 2023-12-09 |
 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 | 2025-05-30 |  |
-| [Slow It Down](https://open.spotify.com/track/3JTC90D1iRNiZXrx0dXjxY) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Slow It Down](https://open.spotify.com/album/5NGCqTX8GRdofyWSOXFsfi) | 2:05 | 2025-03-28 |  |
+| [Slow It Down](https://open.spotify.com/track/3JTC90D1iRNiZXrx0dXjxY) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Slow It Down](https://open.spotify.com/album/5NGCqTX8GRdofyWSOXFsfi) | 2:05 | 2025-03-28 | 2025-07-15 |
 | [Snap My Finger \(feat\. PinkPantheress\)](https://open.spotify.com/track/6rPPngIRwwQYUwuv048TKe) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [TIMELESS](https://open.spotify.com/album/4kPTj6wYQUYtgBOZb1E6Pg) | 3:21 | 2024-11-15 |  |
 | [So Mi Like It](https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 | 2023-08-18 | 2023-09-16 |
 | [Soft Spot](https://open.spotify.com/track/3sbjKDEYkBs4q9oLYV0Q88) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/1q60X7MvRXKggMB3h2xJof) | 4:22 | 2024-12-31 |  |
@@ -465,6 +465,7 @@
 | [Te Amo \- Edit](https://open.spotify.com/track/69JlMZToANJYhT4XpyU22n) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Te Amo](https://open.spotify.com/album/0f2HfdSKcEnq9dkNFo9XRc) | 2:31 | 2024-12-13 | 2025-01-01 |
 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-02-09 | 2024-06-01 |
 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 | 2023-10-06 | 2023-12-02 |
+| [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 | 2025-07-14 |  |
 | [the moves](https://open.spotify.com/track/121Kzji5Fa2d1qUx7c5aDn) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [the moves](https://open.spotify.com/album/3ofgvl8eypgF4s6MTZLQkg) | 2:45 | 2023-08-18 | 2023-09-02 |
 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 | 2025-05-02 |  |
 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-26 | 2024-05-18 |

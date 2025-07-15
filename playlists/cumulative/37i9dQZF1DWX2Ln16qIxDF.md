@@ -4,7 +4,7 @@
 
 > Canciones que tenes que esuchar  📸 Duki
 
-830 songs - 1 day 18 hr 26 min
+831 songs - 1 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ahí Ahí \(feat\. L\-Gante y La T y la M\) \- Remix](https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Ahí Ahí \(feat\. L\-Gante y La T y la M\) \[Remix\]](https://open.spotify.com/album/5FFJnLghKYOcGmovytmUGy) | 4:13 | 2024-01-24 | 2024-06-08 |
 | [AKrusi](https://open.spotify.com/track/35lOpuKOGUJ97PROkLFcY8) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [AKrusi](https://open.spotify.com/album/4e5NylzUAwctbVlT7h1ruo) | 4:07 | 2024-04-05 | 2024-05-04 |
 | [AL BORDE](https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [511](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X) | 2:28 | 2023-05-12 | 2023-08-05 |
+| [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 | 2025-07-14 |  |
 | [Alas De Papel](https://open.spotify.com/track/4TtJ19MjslA4AK6BP6rfYx) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Alas De Papel](https://open.spotify.com/album/2ILyPmIrCL6LKoGGGX0nqK) | 2:58 | 2024-08-09 | 2025-03-15 |
 | [Alegría](https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Alegría](https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq) | 2:45 | 2024-08-09 | 2025-06-28 |
 | [ALGUIEN MÁS \(With Yami Safdie\)](https://open.spotify.com/track/0YeGf9akfyIq3FyKL1rkPl) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:21 | 2023-08-18 | 2023-09-02 |

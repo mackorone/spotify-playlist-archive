@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 101 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 |
 | 102 | [Butterflies](https://open.spotify.com/track/0Ns9MYv0gL70HRkyiBSNgZ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things](https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe) | 3:00 |
 | 103 | [Stay In Bed](https://open.spotify.com/track/6tmA6I8aay97Aj0F0mRA2f) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 3:35 |
-| 104 | [BAD](https://open.spotify.com/track/5ZlduQgpSRumIfGzbHeiLg) | [Alexx Mack](https://open.spotify.com/artist/56SybfJx38GvQ7nM4ezPnZ) | [Like We're Famous](https://open.spotify.com/album/0R4mVnaeofJvTlbf7yr0Qq) | 3:47 |
-| 105 | [WHEREVER YOU ARE](https://open.spotify.com/track/56UFnN1OLTcOiH1hjquSZe) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 3:45 |
+| 104 | [WHEREVER YOU ARE](https://open.spotify.com/track/56UFnN1OLTcOiH1hjquSZe) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 3:45 |
+| 105 | [BAD](https://open.spotify.com/track/5ZlduQgpSRumIfGzbHeiLg) | [Alexx Mack](https://open.spotify.com/artist/56SybfJx38GvQ7nM4ezPnZ) | [Like We're Famous](https://open.spotify.com/album/0R4mVnaeofJvTlbf7yr0Qq) | 3:47 |
 | 106 | [Under The Surface](https://open.spotify.com/track/04F4XeHY510ZpZamRqQEU2) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 3:15 |
 | 107 | [BOYS](https://open.spotify.com/track/3eOIjdurn3lxeOMn90L8Fn) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [BOYS](https://open.spotify.com/album/3VtKNel48q9NVpK6vJ66qB) | 2:55 |
 | 108 | [Pace Yourself](https://open.spotify.com/track/0MvqfZ64k279BTGvIxuLm0) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 2:54 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 138 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 139 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Ab2slAAAAADYvuMJLmGqnjPcj80I+IdP`
+Snapshot ID: `Ab2ycAAAAABgNbYcWRhvpavQCXiR90pP`

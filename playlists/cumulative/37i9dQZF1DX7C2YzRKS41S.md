@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-460 songs - 1 day 3 hr 7 min
+461 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Até Aprender](https://open.spotify.com/track/1xHkiApXo80f6mFx5m1j0R) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Até Aprender](https://open.spotify.com/album/1z7vnN6zPwCmMCFNROCGKf) | 2:23 | 2021-12-24 | 2022-07-25 |
 | [Até o Sol Aparecer](https://open.spotify.com/track/1cffPepIm6Lu941dLTu07m) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Até o Sol Aparecer](https://open.spotify.com/album/57Yk3ZdMMRE0gu7aP4dkrV) | 2:40 | 2025-05-09 |  |
 | [Até Passar](https://open.spotify.com/track/0dOs2Cfs8qMNxHKGbmaJW1) | [Roberta Spitaletti](https://open.spotify.com/artist/246vHPMJEUdW98vKTz1vLB) | [Até Passar](https://open.spotify.com/album/3uRpUDi8UtvnnMw1uShlAy) | 3:49 | 2022-03-25 | 2022-06-03 |
+| [Açaí](https://open.spotify.com/track/6K73fSY0NIXJ39rBXw5Nf3) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:43 | 2025-07-11 |  |
 | [Bagagem de Mão](https://open.spotify.com/track/4TBlLieSDbEMehcXSmN8jD) | [Felipe de Vas](https://open.spotify.com/artist/6xLykp525OSRgP7of3iWVp) | [Bagagem de Mão](https://open.spotify.com/album/1RMn8Wo4cR74trYqgikqoR) | 3:02 | 2022-03-04 | 2022-06-13 |
 | [Balé Confusão](https://open.spotify.com/track/4DZBnaDBSk5TOPMuwPfFDV) | [Paulo Ohana](https://open.spotify.com/artist/3f9cXdDfm0WiprbKUH6712) | [Alfarrábios](https://open.spotify.com/album/5puaud9nloIhNawJeJVBiZ) | 4:22 | 2021-12-24 | 2022-06-06 |
 | [Barco No Seu Mar](https://open.spotify.com/track/3Tnrv3tsK9IUtMbwibB3Fy) | [Rafa Martins](https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o) | [Barco No Seu Mar](https://open.spotify.com/album/1BzlF4CXvACWpwn3iQlfxT) | 2:25 | 2021-12-24 | 2022-07-21 |
@@ -204,7 +205,7 @@
 | [I'll see you later](https://open.spotify.com/track/1leqFlJyuvHWSqlmk6DTjW) | [Giulia Camargo](https://open.spotify.com/artist/4u64fJgN0bH3Xzf1Prwg5E), [Jacob Mey](https://open.spotify.com/artist/2I1AeFez28mu7X7Bek4aj5) | [I'll see you later](https://open.spotify.com/album/0bKXyHQsadqalpwxarGB5I) | 3:45 | 2025-07-11 |  |
 | [Ilustração](https://open.spotify.com/track/67gKjKI5PMBgUWTYmXa2Yf) | [Jaffar Bambirra](https://open.spotify.com/artist/7fKgOWFmEK3tIokXoTaXV5) | [Ilustração](https://open.spotify.com/album/4b9bgPJYL0keoE67LGYv1g) | 3:47 | 2021-12-24 | 2022-07-28 |
 | [Imaginário](https://open.spotify.com/track/5RsjEJZda5J49PKRxnAi4t) | [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw) | [Imaginário](https://open.spotify.com/album/6NRYZW2NSJbzycvCi9YKGH) | 3:14 | 2022-03-25 | 2022-04-21 |
-| [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 | 2024-09-20 |  |
+| [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 | 2024-09-20 | 2025-07-15 |
 | [INCONSCIENTEMENTE](https://open.spotify.com/track/5KMi5R3gNyYFID5OzHA4iG) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [INCONSCIENTEMENTE](https://open.spotify.com/album/20zy3AllALKXGUvrosORrE) | 2:22 | 2022-04-29 | 2022-07-28 |
 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 | 2021-12-24 |  |
 | [Japão](https://open.spotify.com/track/2AK1IHG1OarphQqcCp2CXI) | [Lucas Guido](https://open.spotify.com/artist/5pJkGvrkBHgUADZ2f44jP1) | [Japão](https://open.spotify.com/album/3AakEFLFU3Fau6LTraQ2G1) | 3:00 | 2022-03-25 | 2022-04-25 |

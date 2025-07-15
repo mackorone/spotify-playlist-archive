@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 226487,
+  "num_followers": 226498,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADFrm3DYVO0kj6hAJbwoTnW",
+  "snapshot_id": "aHL3AAAAAAA3GUUGAIuBA2o7Mk9k14GD",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Round 2 (feat. MC Davo) - Single",
         "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 201000,
       "name": "Round 2",
       "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis",
+        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Acostumbraste",
-        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "Te Acostumbraste",
-      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mijo\u2026 \u00bfy la novia?",
         "url": "https://open.spotify.com/album/4EXuUB10jPvlUnmQ28Iv2u"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 188855,
       "name": "Mijo\u2026 \u00bfy la novia?",
       "url": "https://open.spotify.com/track/27Qf1TpvAk59kURJkoOuJB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Acostumbraste",
+        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Te Acostumbraste",
+      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
     },
     {
       "added_at": null,
@@ -1079,26 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Ad\u00e1n Zapata",
-          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
-        }
-      ],
-      "duration_ms": 190435,
-      "name": "Aparentan (feat. Ad\u00e1n Zapata)",
-      "url": "https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psicosis",
         "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
       },
@@ -1115,18 +1095,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
       "artists": [
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Ad\u00e1n Zapata",
+          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
         }
       ],
-      "duration_ms": 221146,
-      "name": "Andamos De Parranda",
-      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
+      "duration_ms": 190435,
+      "name": "Aparentan (feat. Ad\u00e1n Zapata)",
+      "url": "https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU"
     },
     {
       "added_at": null,
@@ -1151,6 +1135,22 @@
       "duration_ms": 216263,
       "name": "Lo Que Antes Eramos",
       "url": "https://open.spotify.com/track/0W9CE8nRywgykCOnz8mVvE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Andamos De Parranda",
+      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 440367,
+  "num_followers": 440386,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-08-30 04:59:00",
       "album": {
-        "name": "Yo x Ti, Tu x Mi",
-        "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Yo x Ti, Tu x Mi",
-      "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
-    },
-    {
-      "added_at": "2024-08-30 04:59:00",
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 208236,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL"
+    },
+    {
+      "added_at": "2024-08-30 04:59:00",
+      "album": {
+        "name": "Yo x Ti, Tu x Mi",
+        "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Yo x Ti, Tu x Mi",
+      "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
     },
     {
       "added_at": "2024-08-30 04:59:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-08-30 04:59:00",
       "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 186255,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi"
+    },
+    {
+      "added_at": "2024-08-30 04:59:00",
+      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 181845,
       "name": "Detente",
       "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
-    },
-    {
-      "added_at": "2024-08-30 04:59:00",
-      "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 186255,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi"
     },
     {
       "added_at": "2024-08-30 04:59:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-08-30 04:59:00",
       "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217546,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
+    },
+    {
+      "added_at": "2024-08-30 04:59:00",
+      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
-    },
-    {
-      "added_at": "2024-08-30 04:59:00",
-      "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217546,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
     },
     {
       "added_at": "2024-08-30 04:59:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-08-30 04:59:00",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 206606,
-      "name": "Falsas Promesas",
-      "url": "https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN"
-    },
-    {
-      "added_at": "2024-08-30 04:59:00",
-      "album": {
         "name": "Whiskey y Coco",
         "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 186477,
       "name": "Whiskey y Coco",
       "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
+    },
+    {
+      "added_at": "2024-08-30 04:59:00",
+      "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 206606,
+      "name": "Falsas Promesas",
+      "url": "https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN"
     },
     {
       "added_at": "2024-08-30 04:59:00",

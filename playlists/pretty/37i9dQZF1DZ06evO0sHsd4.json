@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 15433,
+  "num_followers": 15472,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAA541srPH7ePOZhvqHdH01V",
+  "snapshot_id": "aHL3AAAAAAAkKhFooV0/+lYNIfKd78iv",
   "tracks": [
     {
       "added_at": null,
@@ -435,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Alto Que El Everest",
-        "url": "https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb"
+        "name": "Que Loco Es",
+        "url": "https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr"
       },
       "artists": [
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         }
       ],
-      "duration_ms": 181824,
-      "name": "Mas Alto Que El Everest",
-      "url": "https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp"
+      "duration_ms": 202666,
+      "name": "Que Loco Es",
+      "url": "https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk"
     },
     {
       "added_at": null,
@@ -467,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Alto Que El Everest",
+        "url": "https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 181824,
+      "name": "Mas Alto Que El Everest",
+      "url": "https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
         "url": "https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 158000,
       "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
       "url": "https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Loco Es",
-        "url": "https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Que Loco Es",
-      "url": "https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Mala Mia",
-      "url": "https://open.spotify.com/track/5rfaKvcf8Dcj2bvRBCRdUn"
+      "duration_ms": 136000,
+      "name": "Modo On",
+      "url": "https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Modo On",
-      "url": "https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB"
+      "duration_ms": 152000,
+      "name": "Mala Mia",
+      "url": "https://open.spotify.com/track/5rfaKvcf8Dcj2bvRBCRdUn"
     },
     {
       "added_at": null,

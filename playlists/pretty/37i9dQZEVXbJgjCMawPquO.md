@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,411 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,413 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [444](https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [444](https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16) | 2:55 |
 | 50 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 |
 
-Snapshot ID: `MAcoKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MAh5qAAAAAAAAAAAAAAAAAAAAAAAAGVu`

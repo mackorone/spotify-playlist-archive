@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-222 songs - 12 hr 4 min
+223 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Sans toi](https://open.spotify.com/track/7jRXuAMoc8mtQiSmG25Ptp) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 3:01 | 2024-02-27 |  |
 | [Sax](https://open.spotify.com/track/2IFl6p0LoIfIZOn5IaxZOO) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:56 | 2024-02-27 |  |
 | [See You Again](https://open.spotify.com/track/1rssm0lgmiUJnUwQ166kZA) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:20 | 2025-01-09 | 2025-04-12 |
-| [SEESAW](https://open.spotify.com/track/3M0UuKUBJhEaPdfgGqTMl5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/02dUOPB3MtmV5fawzaZiq6) | 3:30 | 2025-07-13 |  |
+| [SEESAW](https://open.spotify.com/track/21Ou57aSTKECHs3zedyFLd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 3:30 | 2025-07-14 |  |
+| [SEESAW](https://open.spotify.com/track/3M0UuKUBJhEaPdfgGqTMl5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/02dUOPB3MtmV5fawzaZiq6) | 3:30 | 2025-07-13 | 2025-07-15 |
 | [Shake It](https://open.spotify.com/track/2N4H9UltvUUDpLmXuD8E1F) | [Dam'Edge](https://open.spotify.com/artist/6hMsRQVUBmM4FfRw0thDad), [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Shake It](https://open.spotify.com/album/2amUj6bzIUyOhDBJXiKR2U) | 3:26 | 2024-02-27 |  |
 | [Show Me](https://open.spotify.com/track/7JJ7S5bgyGFf0OUU0ftSyt) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 5:02 | 2024-02-27 |  |
 | [Side Effects](https://open.spotify.com/track/776xH04Us0YBTdspg6C1cP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Side Effects](https://open.spotify.com/album/3G8C4K6QdaeYeGmzUdp4gw) | 3:08 | 2024-02-27 |  |

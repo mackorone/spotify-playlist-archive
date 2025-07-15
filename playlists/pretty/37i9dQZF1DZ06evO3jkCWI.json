@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 186705,
+  "num_followers": 186749,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAADMfeWwGt8eSDAdfW0zUyEH",
+  "snapshot_id": "aHL3AAAAAACbPQIxZz7Ck06k2b6aib5k",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Mi Caballo Pobre",
-      "url": "https://open.spotify.com/track/6SQfZKwce4nGuMwrcVwK8C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Laurita Garza",
         "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 188800,
       "name": "Rosalinda",
       "url": "https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Mi Caballo Pobre",
+      "url": "https://open.spotify.com/track/6SQfZKwce4nGuMwrcVwK8C"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jate Llevar",
-        "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        },
-        {
-          "name": "Oscar Iv\u00e1n Trev\u00edno",
-          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "En El \u00daltimo Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Laurita Garza",
         "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
@@ -675,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Vete Con El",
-      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -707,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros Volumen 2",
-        "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
       "artists": [
         {
@@ -716,9 +680,29 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 184533,
-      "name": "Para Ti Mi Amor",
-      "url": "https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk"
+      "duration_ms": 168160,
+      "name": "Vete Con El",
+      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e9jate Llevar",
+        "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        },
+        {
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "En El \u00daltimo Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 151333,
       "name": "Mi Flor De Naranjo",
       "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros Volumen 2",
+        "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Para Ti Mi Amor",
+      "url": "https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk"
     },
     {
       "added_at": null,

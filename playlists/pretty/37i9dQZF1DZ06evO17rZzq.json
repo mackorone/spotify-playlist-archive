@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAcOu/a/Pp25TfqKb0b4Kt6",
+  "snapshot_id": "aHL3AAAAAADRMKJhs5AaVxHlyV0vn7Ah",
   "tracks": [
     {
       "added_at": null,
@@ -971,18 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OOP",
-        "url": "https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ"
+        "name": "Not Yours (Remix)",
+        "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
       },
       "artists": [
+        {
+          "name": "Vae Vanilla",
+          "url": "https://open.spotify.com/artist/5C41pFQJ6ht276z97Wh6xb"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 130813,
-      "name": "OOP",
-      "url": "https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB"
+      "duration_ms": 130295,
+      "name": "Not Yours (Remix)",
+      "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
     }
   ],
   "unique_name": "This Is Kaliii",

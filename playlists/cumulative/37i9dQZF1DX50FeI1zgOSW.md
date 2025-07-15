@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Keethan
 
-564 songs - 1 day 8 hr 6 min
+565 songs - 1 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Saachiputta](https://open.spotify.com/track/2gUBjuDabesGhgGTclXAsv) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Saachiputta](https://open.spotify.com/album/3FFouNCICwhq5CSJC1jg6H) | 3:16 | 2025-02-07 | 2025-04-19 |
 | [Saadal](https://open.spotify.com/track/5IqJfqrZ9l07B69jGSQrE6) | [The songs of society](https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U), [Caleb steven raj](https://open.spotify.com/artist/4F13u1RHzEcTRpFlMwHhxd) | [Saadal](https://open.spotify.com/album/5NPiNlQ8DE9hGDKTDd906N) | 4:22 | 2024-03-17 | 2024-10-12 |
 | [SAALAIYIL MEGANGAL](https://open.spotify.com/track/3HdlHwNLuOGzuKhJZxj56t) | [Manikandan murali](https://open.spotify.com/artist/0VUmwMAVcspZlS7a0ELgLg), [Arun Vallalar](https://open.spotify.com/artist/6SC8MaDiyES41AOLRIJquY) | [SAALAIYIL MEGANGAL](https://open.spotify.com/album/2d4AEmwD1z0j5ZJoKvgPuG) | 2:12 | 2024-02-15 | 2024-03-05 |
+| [Sakara Kati](https://open.spotify.com/track/0OvejIBBqjCIrg1BNe2fpg) | [Bhuvanesh Selvanesan](https://open.spotify.com/artist/6Zv8qFORCOlUV0pogS2vP4), [Arjun Muralidharan](https://open.spotify.com/artist/634iLUrDyXGlNzvhsAiPNH) | [Sakara Kati](https://open.spotify.com/album/1EmbmqHrbWX8FMRRgsYRd3) | 4:08 | 2025-07-14 |  |
 | [Sakhiye](https://open.spotify.com/track/4bSXdsi3xVKZk4kYFKCaE3) | [Salman Koroth](https://open.spotify.com/artist/3NmWvHbLeja1KL716ZByRS), [Christy George](https://open.spotify.com/artist/1YBMgy2O1RtGlVZN1Bx81W) | [Sakhiye](https://open.spotify.com/album/2HNmyGd1C9SUGyQ2FR1Emt) | 4:03 | 2024-11-19 | 2025-02-11 |
 | [Samanilai Velicham \- Radio Edit](https://open.spotify.com/track/2AWqwQGWhedo5lWP59pLcB) | [The songs of society](https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U), [Caleb steven raj](https://open.spotify.com/artist/4F13u1RHzEcTRpFlMwHhxd) | [Samanilai Velicham \- Radio Edit](https://open.spotify.com/album/0n2uzjQ9d036fyBcJp81da) | 4:30 | 2024-02-19 | 2024-05-21 |
 | [Santhosham](https://open.spotify.com/track/7gocHLwMiHYistuL6IRvPC) | [Sasi The Don](https://open.spotify.com/artist/6APAnfUdrwL4p3SKl733Q8) | [Santhosham](https://open.spotify.com/album/79tK2NhrdB5Q2g1hFA906K) | 3:17 | 2025-01-17 | 2025-04-02 |
@@ -519,7 +520,7 @@
 | [Vaadi Nenjukulla](https://open.spotify.com/track/38n3uNqlKbqSVfMUmRgi08) | [Ajees](https://open.spotify.com/artist/0KmDf97GDps7NgF7TXFrO1), [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc) | [Vaadi Nenjukulla](https://open.spotify.com/album/4w8PnoaGOk64ocgSLKl9sW) | 4:10 | 2023-08-11 | 2024-04-13 |
 | [Vaaichol](https://open.spotify.com/track/0KFnezn8C0B7cobeFeLsdQ) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Vaaichol](https://open.spotify.com/album/01GjdmCewDOpKZz9qWZxSb) | 3:03 | 2023-12-18 | 2023-12-22 |
 | [Vaan Vizhamal](https://open.spotify.com/track/6l1TSNQzFHExSfxtFfkTaA) | [Pranav Muniraj](https://open.spotify.com/artist/4Y4vxCuihUYyfcZlYuTmXp) | [Vaan Vizhamal](https://open.spotify.com/album/3c8WZnYAzjVQ8l7PQ45PXa) | 5:55 | 2025-04-24 | 2025-06-24 |
-| [Vaanaai Naam](https://open.spotify.com/track/7bnvjefUzxgtIqGxyQcqsR) | [Nishad G](https://open.spotify.com/artist/4TFk73Ah5yIrc6fSamHkF6), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anjana Rajagopalan](https://open.spotify.com/artist/108rmJvAaYolTjeqDao0x4), [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Life Until 23](https://open.spotify.com/album/5zjjOgr3KgPlfREtqWtMu1) | 4:40 | 2025-04-24 |  |
+| [Vaanaai Naam](https://open.spotify.com/track/7bnvjefUzxgtIqGxyQcqsR) | [Nishad G](https://open.spotify.com/artist/4TFk73Ah5yIrc6fSamHkF6), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anjana Rajagopalan](https://open.spotify.com/artist/108rmJvAaYolTjeqDao0x4), [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Life Until 23](https://open.spotify.com/album/5zjjOgr3KgPlfREtqWtMu1) | 4:40 | 2025-04-24 | 2025-07-15 |
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-04-03 | 2023-06-24 |
 | [Vaanavil Niraikava](https://open.spotify.com/track/25ubcWEzWuOm4nb2IFQVrs) | [Surya Srini](https://open.spotify.com/artist/4tFeh0q2MQjHjcZZZBkzTZ), [Swathi Ramachandran](https://open.spotify.com/artist/1CMNk9Dj9LnPTskACXf6p8) | [Vaanavil Niraikava](https://open.spotify.com/album/1aPEw9PFTwaabMyK9ruHaI) | 4:00 | 2024-07-30 | 2024-09-14 |
 | [Vaanjai](https://open.spotify.com/track/4WpCKdwnolpO1xMWaQNPm4) | [Ungal Nachi](https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB) | [Vaanjai](https://open.spotify.com/album/40GCGd3W4oLHKJo8jDWuA2) | 3:20 | 2025-06-05 |  |

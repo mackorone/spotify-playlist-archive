@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 333294,
+  "num_followers": 333340,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAArjLOOHa9blVQpZMyuIGSD",
+  "snapshot_id": "aHL3AAAAAAD51jxvnq/EvlqHl/ws1Or1",
   "tracks": [
     {
       "added_at": null,
@@ -647,58 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
-        "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Secuestro De Amor (En Vivo)",
-      "url": "https://open.spotify.com/track/1oIgvLYxxowV3Lh4UljRGC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 233431,
-      "name": "El Guero Palma",
-      "url": "https://open.spotify.com/track/6p9oaClC7aKEfUPGlvozCM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tucanes De Plata ... Tucanazos Censurados",
-        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 164320,
-      "name": "El Doctor Del Pueblo",
-      "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Las Pongo",
         "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
       },
@@ -719,6 +667,58 @@
       "duration_ms": 191353,
       "name": "Yo Las Pongo",
       "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
+        "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Secuestro De Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/1oIgvLYxxowV3Lh4UljRGC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tucanes De Plata ... Tucanazos Censurados",
+        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 164320,
+      "name": "El Doctor Del Pueblo",
+      "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 233431,
+      "name": "El Guero Palma",
+      "url": "https://open.spotify.com/track/6p9oaClC7aKEfUPGlvozCM"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 141871,
+      "name": "El Jefe X",
+      "url": "https://open.spotify.com/track/3Hz5spi5hUGARyqggjkz2L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 216256,
       "name": "Me Gusta Vivir De Noche (En Vivo)",
       "url": "https://open.spotify.com/track/2tJGoNNJZ6Vi0wBwiFUPSG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 141871,
-      "name": "El Jefe X",
-      "url": "https://open.spotify.com/track/3Hz5spi5hUGARyqggjkz2L"
     },
     {
       "added_at": null,

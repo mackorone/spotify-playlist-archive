@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAA2B35cspZJw5qyoZjnkim",
+  "snapshot_id": "aHL3AAAAAABpyN2BIaQzCmcgvH/obKm/",
   "tracks": [
     {
       "added_at": null,
@@ -291,42 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 212803,
-      "name": "Al\u00e9rgica",
-      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 186628,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Ya Sabemos",
         "url": "https://open.spotify.com/album/0DFY26ziXu4HvSIC3Mi3KS"
       },
@@ -347,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contundente",
         "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 192827,
       "name": "Hoy Dame el Gusto",
       "url": "https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 212803,
+      "name": "Al\u00e9rgica",
+      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Tanto Es Tantito?",
-        "url": "https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F"
+        "name": "La Mejor Versi\u00f3n de Mi",
+        "url": "https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 221554,
-      "name": "Qu\u00e9 Tanto Es Tantito?",
-      "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
+      "duration_ms": 137120,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mejor Versi\u00f3n de Mi",
-        "url": "https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO"
+        "name": "Qu\u00e9 Tanto Es Tantito?",
+        "url": "https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 137120,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW"
+      "duration_ms": 221554,
+      "name": "Qu\u00e9 Tanto Es Tantito?",
+      "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
     },
     {
       "added_at": null,

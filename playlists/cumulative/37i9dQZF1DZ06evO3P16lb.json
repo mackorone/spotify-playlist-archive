@@ -332,7 +332,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 196022,
       "name": "El Amor Perfecto",
       "url": "https://open.spotify.com/track/5Kg8hGm0Hpya8UveUTElKz"
@@ -730,10 +730,28 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 151846,
       "name": "Pa' Dentro - Versi\u00f3n Banda",
       "url": "https://open.spotify.com/track/0wSUDHaUc7peRqea2B8Rg6"
+    },
+    {
+      "album": {
+        "name": "Pa' Dentro",
+        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152160,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
     },
     {
       "album": {

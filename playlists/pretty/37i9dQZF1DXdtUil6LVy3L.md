@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,308 likes - 94 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,307 likes - 94 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 15 | [The Christmas Waltz](https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [The Christmas Waltz](https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX) | 1:40 |
 | 16 | [In the Bleak Midwinter](https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:27 |
 | 17 | [The Winter Song](https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Christmas Kiss](https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc) | 2:31 |
-| 18 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
-| 19 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 |
+| 18 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 |
+| 19 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
 | 20 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
 | 21 | [O Holy Night](https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [O Holy Night](https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8) | 3:58 |
 | 22 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 38 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c) | 2:29 |
 | 39 | [Hard Candy Christmas](https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC) | 2:55 |
 | 40 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 |
-| 41 | [What Are You Doing New Years Eve?](https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [What Are You Doing New Years Eve?](https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c) | 4:41 |
-| 42 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 |
+| 41 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 |
+| 42 | [What Are You Doing New Years Eve?](https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [What Are You Doing New Years Eve?](https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c) | 4:41 |
 | 43 | [Still, Still, Still](https://open.spotify.com/track/1L0op2aXXuCnWsGT8ltTMW) | [Kyle Mendes Jazz Trio](https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2) | [I'll Be Home For Christmas](https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS) | 2:21 |
 | 44 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 |
 | 45 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/7A7CHS1v0c0uy6Yf89lXI2) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [I've Got My Love To Keep Me Warm](https://open.spotify.com/album/5aB8qoGTXzpnlE7XSxCFdJ) | 3:00 |

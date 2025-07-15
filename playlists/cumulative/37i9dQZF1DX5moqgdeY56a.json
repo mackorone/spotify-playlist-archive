@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 173360,
       "name": "Corrido De Lucio Vazquez",
       "url": "https://open.spotify.com/track/4buc6mP4u0kRTtl9g3EIWF"
@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Antonio Aguilar",
+        "url": "https://open.spotify.com/album/5xIuzXWaDXy846HsilboT4"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227985,
+      "name": "El Dicharachero",
+      "url": "https://open.spotify.com/track/7rrI1azXQCCGoZqWrCKorE"
+    },
+    {
+      "album": {
         "name": "Rancher\u00edsimo, Vol. 2",
         "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
       },
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 195117,
       "name": "El Hijo Desobediente",
       "url": "https://open.spotify.com/track/7mgm1NtgPgemOFsopkCszE"
@@ -2640,7 +2658,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 187582,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/1chSz5xnUaIdL1WEaYZQZC"

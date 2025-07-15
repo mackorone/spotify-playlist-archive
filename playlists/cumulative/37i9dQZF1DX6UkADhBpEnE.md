@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-911 songs - 2 day 1 hr 46 min
+912 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-05-16 | 2023-11-10 |
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-02-13 |  |
 | [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 | 2023-02-02 | 2024-02-16 |
+| [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/track/0VdikQbDdOqxdWQyYsLmne) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Kim Chaewon of LE SSERAFIM](https://open.spotify.com/artist/39j6wByxxNDb92rODch4mT) | [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/album/1Ct91vpCofv1WLTmhNeFK7) | 2:44 | 2025-07-10 |  |
 | [butterflies \(From Barbie The Album\)](https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [butterflies \(From Barbie The Album\)](https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg) | 2:16 | 2023-07-20 | 2023-07-28 |
 | [By The End Of The Night](https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [By The End Of The Night](https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq) | 3:08 | 2023-03-23 | 2023-03-31 |
 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-06-01 | 2023-07-12 |
@@ -693,7 +694,7 @@
 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 | 2024-07-18 | 2024-08-29 |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-04-03 | 2025-07-11 |
 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:22 | 2023-07-27 | 2023-08-02 |
-| [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-09-06 |  |
+| [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-09-06 | 2025-07-15 |
 | [Valentine and Youth](https://open.spotify.com/track/0X3gRxgqfvts6uMVvvBbYI) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Valentine and Youth](https://open.spotify.com/album/6dJ7LpA1XYbHxVDKPFRCXl) | 3:11 | 2025-01-30 | 2025-02-21 |
 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 | 2024-02-22 | 2024-04-13 |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-11 | 2024-04-19 |

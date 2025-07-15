@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per quando stai così \( ͡° ʖ̯ ͡°\) \(mgk in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,778 likes - 112 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,780 likes - 112 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: FLO & KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,436 likes - 275 songs - 14 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,549 likes - 275 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

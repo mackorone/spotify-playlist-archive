@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: jo0ji
 
-732 songs - 1 day 22 hr 8 min
+733 songs - 1 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Junction](https://open.spotify.com/track/3eP0fjxn85bGPxFyGLDlx9) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [Junction](https://open.spotify.com/album/2GUCMsriNCtBbP5PA4c3ov) | 3:20 | 2025-07-08 |  |
 | [Just a Piece Gone](https://open.spotify.com/track/5LH7ogIThL6mpADboJuvdV) | [Skirt](https://open.spotify.com/artist/08mohCeV7TXJ7EASM6u6Cc) | [Special](https://open.spotify.com/album/6rPq3mEjL1uw3L6xOnEVdK) | 2:52 | 2025-05-13 | 2025-05-22 |
 | [KAGEROU](https://open.spotify.com/track/55BserbXWxRpQNONiaBhjp) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [Pulsatilla cernua](https://open.spotify.com/album/3o7lBZIpr8OQZx8DMJgnOk) | 5:04 | 2025-06-17 |  |
+| [Kagome Kagome](https://open.spotify.com/track/7jxgUPV1rXpPEBEltKxDRl) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Kagome Kagome](https://open.spotify.com/album/0b3DYc1SdkD9sSiUTKlmOs) | 2:57 | 2025-07-08 |  |
 | [Kanjosen](https://open.spotify.com/track/11DftyWHTW6I98qXKCILTV) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Kanjosen](https://open.spotify.com/album/7sMDPBdQCV1TltX7y9gsjC) | 3:39 | 2025-04-22 | 2025-05-07 |
 | [Kimi to hoshi ni negaiwo](https://open.spotify.com/track/1YNGY9DVqenMZZsAjEO5OM) | [Kanau Matsumura](https://open.spotify.com/artist/03dBLURxQxZxLkYKteHBEN) | [Kimi to hoshi ni negaiwo](https://open.spotify.com/album/4dmO08gScb9b729ymQ50b7) | 4:30 | 2025-04-22 | 2025-04-30 |
 | [Kindle a Fire](https://open.spotify.com/track/6VjbZQc8quqogbtczeZoU4) | [Skirt](https://open.spotify.com/artist/08mohCeV7TXJ7EASM6u6Cc) | [Kindle a Fire](https://open.spotify.com/album/3km9P5EJVozjWBeedMeKHR) | 3:04 | 2024-12-03 | 2024-12-25 |
@@ -432,7 +433,7 @@
 | [オートバイ](https://open.spotify.com/track/1bM3A3MWfIimzfbTHpXMjk) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [Tree](https://open.spotify.com/album/3VSpG9QwOEz4k3nrtRBgKG) | 4:22 | 2024-07-30 | 2024-08-07 |
 | [カウボウイの口癖](https://open.spotify.com/track/4EsBi4kGvP0mpb1hbazGcc) | [井上園子](https://open.spotify.com/artist/1CrUJuV3FPAvDK7do7QQRm) | [カウボウイの口癖](https://open.spotify.com/album/7mIrZufHdh5n2LN6pZQs74) | 5:26 | 2024-07-09 | 2024-07-17 |
 | [カオリイロ](https://open.spotify.com/track/6cqZ8zMvO1pBlj9yWghSTl) | [森山 あこ](https://open.spotify.com/artist/2nWPih0o54HHqZQSTxIJb8) | [クリップ](https://open.spotify.com/album/0PWeVQie64UDhsXjgvRoAC) | 3:44 | 2025-05-27 | 2025-06-04 |
-| [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 | 2024-12-24 |  |
+| [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 | 2024-12-24 | 2025-07-15 |
 | [カバ公園](https://open.spotify.com/track/3m8O98mTpGW2w6xDD7rByN) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Pedigree](https://open.spotify.com/album/6kGpkbKfNBCEA7kkvdEzTM) | 5:03 | 2024-10-08 | 2024-10-23 |
 | [カルト](https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [カルト](https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb) | 3:48 | 2024-07-02 | 2024-08-21 |
 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-07-26 | 2024-12-25 |

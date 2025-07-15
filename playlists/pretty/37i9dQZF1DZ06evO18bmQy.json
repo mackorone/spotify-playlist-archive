@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 208218,
+  "num_followers": 208257,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACPDuGm/AH9vqH/n+yRdQyj",
+  "snapshot_id": "aHL3AAAAAAD5/b1kWQVrCS6q10FaEHki",
   "tracks": [
     {
       "added_at": null,
@@ -479,50 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOIS Quebrada Inteligente",
-        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Preto Rico, Nunca Liso!",
-      "url": "https://open.spotify.com/track/0ZXfo727MxNxotmJXIqaG4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
-        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 179930,
-      "name": "REAL DEMAIS",
-      "url": "https://open.spotify.com/track/3fWqG2AylwBmcXlS9tqrsB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Wesley Alem\u00e3o 2",
         "url": "https://open.spotify.com/album/5dkZyGLNPmRGjmGfMsrDk9"
       },
@@ -595,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
+        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 179930,
+      "name": "REAL DEMAIS",
+      "url": "https://open.spotify.com/track/3fWqG2AylwBmcXlS9tqrsB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O MENINO QUE QUERIA SER DEUS",
         "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 329008,
       "name": "JUNHO DE 94",
       "url": "https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOIS Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Preto Rico, Nunca Liso!",
+      "url": "https://open.spotify.com/track/0ZXfo727MxNxotmJXIqaG4"
     },
     {
       "added_at": null,

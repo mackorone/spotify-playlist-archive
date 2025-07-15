@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,511 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,510 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 44 | [Solace](https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Solace](https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP) | 2:42 |
 | 45 | [Dulces Sueños](https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Dulces Sueños](https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA) | 4:05 |
 | 46 | [The Breath Inside the Breath](https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 5:25 |
-| 47 | [schemering](https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG) | [Jaidy Thissen](https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT) | [schemering](https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq) | 2:04 |
-| 48 | [anywhere](https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [unspoken](https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI) | 2:39 |
+| 47 | [anywhere](https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [unspoken](https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI) | 2:39 |
+| 48 | [schemering](https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG) | [Jaidy Thissen](https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT) | [schemering](https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq) | 2:04 |
 | 49 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 |
 | 50 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
 | 51 | [Symphony Of Heaven](https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D), [Entspannungsmusik](https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J), [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN) | [Calm Moments Piano Music](https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn) | 2:10 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 67 | [The Ones Left Behind](https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [The Ones Left Behind](https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh) | 2:28 |
 | 68 | [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 |
 | 69 | [Inside Out](https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V) | [Borghild Wenn](https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7) | [Inside Out](https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7) | 2:32 |
-| 70 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
-| 71 | [Danny](https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Broadchurch \(Music From The Original TV Series\)](https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR) | 4:23 |
+| 70 | [Danny](https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Broadchurch \(Music From The Original TV Series\)](https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR) | 4:23 |
+| 71 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
 | 72 | [Heavenly Walk](https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Heavenly Walk](https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS) | 4:44 |
 | 73 | [Long Ride](https://open.spotify.com/track/19TByZROgOouJ9uc4VPaSb) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D), [Entspannungsmusik](https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J), [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN) | [Calm Moments Piano Music](https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn) | 2:30 |
 | 74 | [Canon in D](https://open.spotify.com/track/5b7rilZzZG7QbiaXiMyWqz) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 5:11 |

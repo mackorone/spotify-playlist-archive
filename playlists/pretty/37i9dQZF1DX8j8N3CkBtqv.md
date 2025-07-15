@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring "aswekeepsearching" and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,351 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,371 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 39 | [ESWY](https://open.spotify.com/track/1yazBO7fdWNDUcr3uuRbTr) | [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [ESWY](https://open.spotify.com/album/0cOUvMbQkmW7xMYTAwBUPI) | 2:59 |
 | 40 | [Birha](https://open.spotify.com/track/7dLAGyOgd1gbwuNAck0E0l) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Shaurya Saxena](https://open.spotify.com/artist/15YoAoQ9jr1YyDSgcTQXsf), [Pin Drop Music](https://open.spotify.com/artist/6K3RnXxEha4B4Gj3pjZLsx) | [Birha](https://open.spotify.com/album/37V6tuJiSBxtp025zl9TZu) | 3:27 |
 | 41 | [Man Chala](https://open.spotify.com/track/6zKfCYrWM2XrfNLWuG4AKZ) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Man Chala](https://open.spotify.com/album/5IXf34YiswjRZ3ETAHlCc6) | 2:59 |
-| 42 | [Seelan Ki Khushboo](https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Seelan Ki Khushboo](https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f) | 3:32 |
-| 43 | [Barbaadi](https://open.spotify.com/track/7G9x4ydZVnZBASY6Y8Ey3k) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Jakhar](https://open.spotify.com/artist/5ixfE5Gruh9c4sCudjTzNk) | [Barbaadi](https://open.spotify.com/album/18sCJIWlucwrqdnazaVKKl) | 3:03 |
-| 44 | [Jhoom Jhoom](https://open.spotify.com/track/0rdoFMxuzx24AsnvfHjBEx) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Ayesha Mukherjee](https://open.spotify.com/artist/6UmnySzyIpaZjAu6Rs5lA0), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [Jhoom Jhoom](https://open.spotify.com/album/1DNtCbU6N2lKue5fNTqbQT) | 3:15 |
-| 45 | [Ye Lo](https://open.spotify.com/track/4GXz04z6A7G6NnR8KrGDiX) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Ye Lo](https://open.spotify.com/album/3bY5IS2Ai41yYscIoDvuND) | 5:19 |
+| 42 | [Barbaadi](https://open.spotify.com/track/7G9x4ydZVnZBASY6Y8Ey3k) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Jakhar](https://open.spotify.com/artist/5ixfE5Gruh9c4sCudjTzNk) | [Barbaadi](https://open.spotify.com/album/18sCJIWlucwrqdnazaVKKl) | 3:03 |
+| 43 | [Ye Lo](https://open.spotify.com/track/4GXz04z6A7G6NnR8KrGDiX) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Ye Lo](https://open.spotify.com/album/3bY5IS2Ai41yYscIoDvuND) | 5:19 |
+| 44 | [Seelan Ki Khushboo](https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Seelan Ki Khushboo](https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f) | 3:32 |
+| 45 | [Jhoom Jhoom](https://open.spotify.com/track/0rdoFMxuzx24AsnvfHjBEx) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Ayesha Mukherjee](https://open.spotify.com/artist/6UmnySzyIpaZjAu6Rs5lA0), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [Jhoom Jhoom](https://open.spotify.com/album/1DNtCbU6N2lKue5fNTqbQT) | 3:15 |
 | 46 | [Jab Mila Tu](https://open.spotify.com/track/6y7GIEEmOatGnxZzVdGd8W) | [Arya Salvi](https://open.spotify.com/artist/4qDaKljCW1TrVRkOK3sXHF) | [Jab Mila Tu](https://open.spotify.com/album/5H76HdKdMHZKElVD6k3bHU) | 2:38 |
 | 47 | [Tujhe Dekhun Toh \(From "Samaaj \- Dance Narrative"\)](https://open.spotify.com/track/6nMbTSuTPMA2hjPvzpKRMF) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9) | [Samaaj \- Dance Narrative](https://open.spotify.com/album/59p8TnLnbzqXYhTGD1xzfM) | 3:41 |
 | 48 | [Fizayen](https://open.spotify.com/track/5KW82dijsE2Gw3dP7Rn62w) | [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Fizayen](https://open.spotify.com/album/6a5usnCX7OSRSReqsVti6W) | 3:27 |

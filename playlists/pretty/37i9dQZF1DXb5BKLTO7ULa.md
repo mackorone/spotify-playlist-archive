@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: AFROJACK, Justin Bieber, Burna Boy, Olivia Dean en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,202 likes - 98 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,188 likes - 98 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 97 | [Dure Dag](https://open.spotify.com/track/2bMezqQqqGLYlH9qyPpyG8) | [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os) | [Dure Dag](https://open.spotify.com/album/4TLN6xEf9Koewi6R8M3CO9) | 2:32 |
 | 98 | [Nu Je Niet Meer Op Me Wacht](https://open.spotify.com/track/4j6ycDf5rOaPXp1BYAQeD1) | [Emma Luca](https://open.spotify.com/artist/3ijcW9QMa7wkBs1ACGpdcs) | [Nu Je Niet Meer Op Me Wacht](https://open.spotify.com/album/4PADRHCc39RpqqaHaErjR7) | 2:25 |
 
-Snapshot ID: `aHCexAAAAAApqwu9KtIDcpSnBtvAGWBA`
+Snapshot ID: `aHTXBQAAAAByMkU9cixEKu0X6qQCz+tV`

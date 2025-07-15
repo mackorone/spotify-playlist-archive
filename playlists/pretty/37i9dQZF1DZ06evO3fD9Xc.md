@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,810 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,807 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 23 | [Buena Señal](https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Buena Señal](https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e) | 3:06 |
 | 24 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
 | 25 | [No Le Hago Falta](https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 2:33 |
-| 26 | [Tu Postura](https://open.spotify.com/track/7HQukhNUX9auhsatuRIaVs) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 4:03 |
-| 27 | [El Triste](https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Triste](https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6) | 4:23 |
+| 26 | [El Triste](https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Triste](https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6) | 4:23 |
+| 27 | [Tu Postura](https://open.spotify.com/track/7HQukhNUX9auhsatuRIaVs) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 4:03 |
 | 28 | [Adios Amor](https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:44 |
 | 29 | [Seremos](https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:16 |
 | 30 | [Tengo Que Colgar](https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 4:02 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 43 | [Me Va A Extrañar](https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 4:09 |
 | 44 | [Mi Sorpresa Fuiste Tú](https://open.spotify.com/track/3UncEao5y2QXGbDFaDsMQl) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:59 |
 | 45 | [Para No Pensar En Ti](https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:29 |
-| 46 | [Yo Te Extrañaré](https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Yo Te Extrañaré](https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20) | 4:55 |
-| 47 | [La Marea](https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Marea](https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0) | 4:15 |
+| 46 | [La Marea](https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Marea](https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0) | 4:15 |
+| 47 | [Yo Te Extrañaré](https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Yo Te Extrañaré](https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20) | 4:55 |
 | 48 | [Mentirme](https://open.spotify.com/track/0EdF6zXLaN1RePAQouS6sT) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/7iDQeCKHlXuSlCR46lzriR) | 3:08 |
 | 49 | [Cuando Caiga La Noche](https://open.spotify.com/track/25xtqmANsVCuTfdoEHMnAv) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:21 |
 | 50 | [Mentiras](https://open.spotify.com/track/7qnImhMiu7IBw233XIl3Aa) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mudanzas](https://open.spotify.com/album/5rvG8IAlVaJRtUHLzaGtyv) | 3:43 |
 
-Snapshot ID: `aHGlgAAAAACC9tB2PUdl1a/C4IRuYBm2`
+Snapshot ID: `aHL3AAAAAAD90a+4lCGw6kC+bPMCay/+`

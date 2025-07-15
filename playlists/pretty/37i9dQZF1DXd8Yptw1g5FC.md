@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Tuğba Yurt ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,257 likes - 127 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,268 likes - 127 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 105 | [LA LA LA](https://open.spotify.com/track/0KTtO5y6qF8CM2ZkYrAhFv) | [Oz\-E](https://open.spotify.com/artist/0sHeD7zeD4Qy1FoiVl43be) | [LA LA LA](https://open.spotify.com/album/1GkAb7j7EjwUBIAwXuQWsE) | 2:26 |
 | 106 | [My Lovah](https://open.spotify.com/track/5egPrXmX0jNPfuwLELQIc9) | [Bahoz & Baran](https://open.spotify.com/artist/4cP6d9sa9B21WHO3MvtOP6) | [My Lovah](https://open.spotify.com/album/597L0OfTLyH48F4DKHFK8O) | 2:45 |
 | 107 | [Susma](https://open.spotify.com/track/2Sf43g65LW4k95ElLTrUGE) | [Alp](https://open.spotify.com/artist/2bXWJxfHUlLr2h5oxVxTo6) | [Susma](https://open.spotify.com/album/33Easu7Lo52KvjGHQb9Jy8) | 3:32 |
-| 108 | [Güvenmem Sana](https://open.spotify.com/track/3zGATf6Iiq6vlIlI1g9CXk) | [8PLUS](https://open.spotify.com/artist/6ZVNHYtlM3sryj0oSofBeB), [Kement](https://open.spotify.com/artist/0YKSaT2874OUGLhm6l7OTi) | [Güvenmem Sana](https://open.spotify.com/album/7cTSZVyr3wU8IFY8Bb1pqT) | 2:39 |
+| 108 | [GÜVENMEM SANA](https://open.spotify.com/track/3zGATf6Iiq6vlIlI1g9CXk) | [8PLUS](https://open.spotify.com/artist/6ZVNHYtlM3sryj0oSofBeB), [Kement](https://open.spotify.com/artist/0YKSaT2874OUGLhm6l7OTi) | [GÜVENMEM SANA](https://open.spotify.com/album/7cTSZVyr3wU8IFY8Bb1pqT) | 2:39 |
 | 109 | [MANZARA](https://open.spotify.com/track/3WgKaGQrfHtzAZap7YDcFl) | [Ulash](https://open.spotify.com/artist/6TgQ7HscX1n1Caz14b9Qos) | [MANZARA](https://open.spotify.com/album/4ulHI9b7sIADCpJAQQf1qn) | 2:03 |
 | 110 | [RELAX](https://open.spotify.com/track/1qtwMb7yM83tT0aGmyzDi2) | [Colt NS](https://open.spotify.com/artist/5LwtZHjbGBwDx83IwoV2fI), [Clyon](https://open.spotify.com/artist/0NZZphvIKAxQBtEOqOphDq) | [RELAX](https://open.spotify.com/album/45Fna68TkMWm0PfnbFtgG0) | 2:29 |
 | 111 | [Agua Y Paz \(feat\. Elisa Gold\)](https://open.spotify.com/track/79mGOsW9F0XMpWq5g2pqQy) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Elisa Gold](https://open.spotify.com/artist/6Lu0XdMBPAbHIbFjLMQEFp) | [Agua Y Paz \(feat\. Elisa Gold\)](https://open.spotify.com/album/4Gmtm6zXDmz9PbV2XYNVpW) | 2:39 |

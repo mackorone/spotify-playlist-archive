@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,168 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,193 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 43 | [Cinglés](https://open.spotify.com/track/47D4jhH08KvIh0cDCT66Jv) | [Enhancer](https://open.spotify.com/artist/1ZMwAUWdG4agL20Lxsv5Ah) | [Street Trash](https://open.spotify.com/album/5H5wogwt7titOvQyo6r1rS) | 3:20 |
 | 44 | [Chirac En Prison](https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:55 |
 | 45 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 |
-| 46 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:28 |
-| 47 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
+| 46 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
+| 47 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:28 |
 | 48 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
-| 49 | [Regarde\-moi](https://open.spotify.com/track/6Fo0iSM2LaVTCLS3WkTXgz) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7), [Jean Baptiste Mory](https://open.spotify.com/artist/1U8rYQJV2ZRLToXUNElojh), [Greg Baudrier](https://open.spotify.com/artist/7GuuhlWi6XzX44SqqS9hHR), [Emmanuel Baroux](https://open.spotify.com/artist/4GLhnY37gfDwczctnvppiB), [Franck Pilant](https://open.spotify.com/artist/6dVTsBmqhIN3K2lPOg11N5), [Frédéric Franchitti](https://open.spotify.com/artist/3CFp5YtgEajDtIcDUJ420F) | [De jour comme de nuit](https://open.spotify.com/album/2Qstn4PgalHk3b9w6YFJI0) | 4:00 |
-| 50 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
+| 49 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
+| 50 | [Regarde\-moi](https://open.spotify.com/track/6Fo0iSM2LaVTCLS3WkTXgz) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7), [Jean Baptiste Mory](https://open.spotify.com/artist/1U8rYQJV2ZRLToXUNElojh), [Greg Baudrier](https://open.spotify.com/artist/7GuuhlWi6XzX44SqqS9hHR), [Emmanuel Baroux](https://open.spotify.com/artist/4GLhnY37gfDwczctnvppiB), [Franck Pilant](https://open.spotify.com/artist/6dVTsBmqhIN3K2lPOg11N5), [Frédéric Franchitti](https://open.spotify.com/artist/3CFp5YtgEajDtIcDUJ420F) | [De jour comme de nuit](https://open.spotify.com/album/2Qstn4PgalHk3b9w6YFJI0) | 4:00 |
 
 Snapshot ID: `ZnnPXwAAAABv4KO2+kCCFhslZxGrwfA0`

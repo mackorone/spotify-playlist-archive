@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: SHAF
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,516 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,556 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Blue Pappi
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,270 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,288 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

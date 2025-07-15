@@ -1,18 +1,110 @@
 {
   "description": "<a href=\"spotify:artist:3M3wTTCDwicRubwMyHyEDy\"> Shygirl</a>'s favorite tracks. Updated regularly. Curated by Shygirl. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 60624,
+  "num_followers": 60628,
   "original_name": "Shygirl's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCO7SAAAAAAaQ8lYLLvZA8siE0a+Nc9e",
+  "snapshot_id": "aHUmUAAAAABeT/WzPgp6VNuX3Xy5Rvtm",
   "tracks": [
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
-        "name": "Wifey Riddim (Club Shy VIP)",
-        "url": "https://open.spotify.com/album/1Pl7Kz7TR2xIe02ZA0U3QT"
+        "name": "Sugar (feat. Shygirl)",
+        "url": "https://open.spotify.com/album/1QTFFa1qM6luiHOk5ey5ue"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 184624,
+      "name": "Sugar (feat. Shygirl)",
+      "url": "https://open.spotify.com/track/0dC9OuZL5Qh70N37wtwGHJ"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "On and On (You Lie)",
+        "url": "https://open.spotify.com/album/1QcTNjKIb9rhEWEUFNRXJc"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        }
+      ],
+      "duration_ms": 360106,
+      "name": "On and On (You Lie)",
+      "url": "https://open.spotify.com/track/3zmDvXRbTjHGhJgfe2SPXa"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "On The Beach",
+        "url": "https://open.spotify.com/album/6KrzhYHM6iHMzTMbCTO9du"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 256859,
+      "name": "On The Beach (from DEATH STRANDING 2: ON THE BEACH)",
+      "url": "https://open.spotify.com/track/72R7Qzj6kVw44ndWnFZzKK"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "JUST LIKE THAT",
+        "url": "https://open.spotify.com/album/17TnIfkzfNJncBdlDmxNRc"
+      },
+      "artists": [
+        {
+          "name": "Hedo Hydr8",
+          "url": "https://open.spotify.com/artist/0mFX3iiZ8QzpLTKRJ34LZr"
+        },
+        {
+          "name": "Entra\u00f1as",
+          "url": "https://open.spotify.com/artist/5yWDRD9Mxe9b50KZl61gJX"
+        }
+      ],
+      "duration_ms": 287323,
+      "name": "SEX! - Entra\u00f1as Remix",
+      "url": "https://open.spotify.com/track/3i60Y7RLKfsGBi5DE9QC4k"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "Room 2 RMX",
+        "url": "https://open.spotify.com/album/40MuSzLbGfsOmfkYoSPhSz"
       },
       "artists": [
         {
@@ -24,36 +116,64 @@
           "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
         },
         {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+          "name": "George Daniel",
+          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
         },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 218007,
-      "name": "Wifey Riddim - Club Shy VIP",
-      "url": "https://open.spotify.com/track/4JQYfyvCYEVcFDhesomIWR"
+      "duration_ms": 168736,
+      "name": "Wifey Riddim (feat. Jorja Smith & SadBoi) - George Daniel Remix",
+      "url": "https://open.spotify.com/track/0I6yVHMBVnH62NsaUY3NMb"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
-        "name": "The Way I Love You",
-        "url": "https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj"
+        "name": "Polo",
+        "url": "https://open.spotify.com/album/2ffckMinRVzIozuYrMWLjM"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 203813,
-      "name": "The Way I Love You",
-      "url": "https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky"
+      "duration_ms": 151302,
+      "name": "Polo",
+      "url": "https://open.spotify.com/track/1kIaWGC4L8NhLYGh0rZg6z"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "Expression On Your Face",
+        "url": "https://open.spotify.com/album/0SylYxgzz1dgwuN4ItVB3u"
+      },
+      "artists": [
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 173321,
+      "name": "Expression On Your Face",
+      "url": "https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "B.S.A.S. (Si Alguna Vez te Sent\u00eds Sola de Noche)",
         "url": "https://open.spotify.com/album/6LlR84Vm0bGpNxU1ZKE5Tr"
@@ -77,23 +197,31 @@
       "url": "https://open.spotify.com/track/5NHTGOuIM4GnLCoPTYnlvW"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
-        "name": "Bon Bon",
-        "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
+        "name": "NSYNC (feat. BEAM)",
+        "url": "https://open.spotify.com/album/2kXJciD20GygzPzqAWAaeA"
       },
       "artists": [
         {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "LYZZA",
+          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Bon Bon",
-      "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
+      "duration_ms": 142914,
+      "name": "Blue Sky (feat. LYZZA & SadBoi)",
+      "url": "https://open.spotify.com/track/3N4y4q2FtNyoM369niWqZW"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Pretty Little Problem",
         "url": "https://open.spotify.com/album/3eENZeLN29UMWJS8vSZ4vW"
@@ -109,7 +237,7 @@
       "url": "https://open.spotify.com/track/1FEC0MOeQ81n22lRujfwTk"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "CLUB GRASA",
         "url": "https://open.spotify.com/album/72bmHBiYWuPDOZ1GphH2IR"
@@ -129,7 +257,31 @@
       "url": "https://open.spotify.com/track/73CsQwvIPOLX05Kwo5TaNN"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "BONITO ROUBO",
+        "url": "https://open.spotify.com/album/60D7ZBhjh31TQemniWRWhj"
+      },
+      "artists": [
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "DJ LYVIXRA",
+          "url": "https://open.spotify.com/artist/1Q3YEzih7Pe8D7NekTkxWQ"
+        },
+        {
+          "name": "Hugomasked",
+          "url": "https://open.spotify.com/artist/00VYBvDTEt0xgYpHHnuexG"
+        }
+      ],
+      "duration_ms": 97961,
+      "name": "BONITO ROUBO",
+      "url": "https://open.spotify.com/track/5bUzX2zh99Wg0fFHIEiSAN"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Maria Magdalena",
         "url": "https://open.spotify.com/album/1DKKKM3Xh5XxF6jrhyQMS8"
@@ -149,51 +301,31 @@
       "url": "https://open.spotify.com/track/2TVqEfs20W2rfg0EDAW1MD"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
-        "name": "Immaculate (Club Shy VIP)",
-        "url": "https://open.spotify.com/album/63fSAb9nsynltrjl9FY7j5"
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         },
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
         }
       ],
-      "duration_ms": 185075,
-      "name": "Immaculate - Club Shy VIP",
-      "url": "https://open.spotify.com/track/09zbCWxXiMJKnm5uaaCC0a"
+      "duration_ms": 165857,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
-      "album": {
-        "name": "Te Ense\u00f1o (feat. Mayah Alkhateri)",
-        "url": "https://open.spotify.com/album/2Sa16PcTP2YYWo5rXfTteY"
-      },
-      "artists": [
-        {
-          "name": "VVUTURA",
-          "url": "https://open.spotify.com/artist/2c1GhPGES39PeWs9E1g9EW"
-        },
-        {
-          "name": "Mayah Alkhateri",
-          "url": "https://open.spotify.com/artist/6pRSMw1aD3tZ6oL214hU71"
-        }
-      ],
-      "duration_ms": 149746,
-      "name": "Te Ense\u00f1o (feat. Mayah Alkhateri)",
-      "url": "https://open.spotify.com/track/5NGQO1JGVP3uoh3YiQCtyb"
-    },
-    {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "RAWR",
         "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
@@ -209,7 +341,7 @@
       "url": "https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "PC Music, Vol. 1",
         "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
@@ -225,7 +357,27 @@
       "url": "https://open.spotify.com/track/0H2JbHiyX4wt06SLxtgcw3"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "D.A.N.C.E (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "D.A.N.C.E - From F1\u00ae The Movie",
+      "url": "https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Telenovela",
         "url": "https://open.spotify.com/album/1Q5JipjRZaKHd0bffGDWgV"
@@ -241,7 +393,7 @@
       "url": "https://open.spotify.com/track/3eSNnf8880O0DONvxYaFTp"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L"
@@ -257,7 +409,7 @@
       "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Louder, Please",
         "url": "https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG"
@@ -273,7 +425,7 @@
       "url": "https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "TDJ002 DELUXE",
         "url": "https://open.spotify.com/album/6Bni8QVdMurBYVtt3625xQ"
@@ -293,7 +445,7 @@
       "url": "https://open.spotify.com/track/2wC5MC7ya0YtiMPi11zIgn"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "2 People",
         "url": "https://open.spotify.com/album/56jX2KOYclnrIZBkGnKx0n"
@@ -309,7 +461,7 @@
       "url": "https://open.spotify.com/track/0AiqTeoOFBmoQ3KF0Tq62B"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "SI QUIERES",
         "url": "https://open.spotify.com/album/10abBenjM5Q4ZLGsq3qNnS"
@@ -325,7 +477,7 @@
       "url": "https://open.spotify.com/track/5D4dCLzLPENujlx7fXLLP4"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Becoming Remixed",
         "url": "https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1"
@@ -345,7 +497,7 @@
       "url": "https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Raul Bigode",
         "url": "https://open.spotify.com/album/6rj9KeF0JCFaJql2PCAI07"
@@ -361,7 +513,7 @@
       "url": "https://open.spotify.com/track/7IJ5A5BMRBWzHVQ4ZZnQAn"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Beauts",
         "url": "https://open.spotify.com/album/3GfyPxKDjv0GnI326bLlAF"
@@ -377,7 +529,7 @@
       "url": "https://open.spotify.com/track/53FAWqgmYsPJx1vvmMgRz4"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Amour",
         "url": "https://open.spotify.com/album/05U0IswNO4kXVYPJuhA4wR"
@@ -393,7 +545,7 @@
       "url": "https://open.spotify.com/track/7cKxS8BuAl0bteeHc1c8V7"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3XzlRX9BQTzU97GFnorCE7"
@@ -417,7 +569,7 @@
       "url": "https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Island 54",
         "url": "https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB"
@@ -437,7 +589,7 @@
       "url": "https://open.spotify.com/track/3lMepcTtQixtD73XPhLA0a"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Putita Boutique (I Love Music) [Remixed by EQ]",
         "url": "https://open.spotify.com/album/5MeBaaOsbTDzPq9pDsa5b8"
@@ -461,7 +613,7 @@
       "url": "https://open.spotify.com/track/0eqoM9dLPwamCnp76z6kry"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Tapped In",
         "url": "https://open.spotify.com/album/5P4StdsCaY7WBUoe9AB5h7"
@@ -481,7 +633,7 @@
       "url": "https://open.spotify.com/track/1AqnpgnQVVZXmkvJrloc24"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Putita Boutique (Only Fire Remix)",
         "url": "https://open.spotify.com/album/6Fu8GsQNM6yHLgcIbNItFG"
@@ -505,7 +657,7 @@
       "url": "https://open.spotify.com/track/4qfvnjicPX7AEotSSwGCTD"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "epistolares",
         "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
@@ -525,7 +677,7 @@
       "url": "https://open.spotify.com/track/41P9Z83VHtkpVYfpmDlkAA"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Angelo",
         "url": "https://open.spotify.com/album/56kRUeySmlEnOhY4qxm3jV"
@@ -541,7 +693,7 @@
       "url": "https://open.spotify.com/track/1RE8javMEgvmP2dgnKOtgq"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Shark Brain / Dolphin",
         "url": "https://open.spotify.com/album/1RTKS3ogUg57xDJaiW7dBj"
@@ -561,7 +713,7 @@
       "url": "https://open.spotify.com/track/1bzpFAFvucnsqFwqRB4XHk"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "FTRW!",
         "url": "https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR"
@@ -577,7 +729,7 @@
       "url": "https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "HooHooHoo",
         "url": "https://open.spotify.com/album/7lGmDW32RDSh3tx3US5FlP"
@@ -593,7 +745,7 @@
       "url": "https://open.spotify.com/track/58F73soDs7qmO3tfOeZUhB"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "selecta 002",
         "url": "https://open.spotify.com/album/07pr8juqXraD4u2baLrXEE"
@@ -609,7 +761,31 @@
       "url": "https://open.spotify.com/track/6BTCpYcmwGBk4BVgdxQ5ZA"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "Room 2 RMX",
+        "url": "https://open.spotify.com/album/40MuSzLbGfsOmfkYoSPhSz"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        }
+      ],
+      "duration_ms": 135942,
+      "name": "Je M'appelle - Florentino Remix",
+      "url": "https://open.spotify.com/track/7vZSIc0xjsOXtcLmQRr2bm"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Fuzil dos Drake",
         "url": "https://open.spotify.com/album/2USFjeWFO7EsglsNGRXfgL"
@@ -629,7 +805,7 @@
       "url": "https://open.spotify.com/track/2mxRRv19stAPY5Abi9JRHs"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Trip 2 Brazil",
         "url": "https://open.spotify.com/album/48o3p2p88HTSaiH8lKpgZ3"
@@ -653,7 +829,7 @@
       "url": "https://open.spotify.com/track/0FrR0bn1T1kei89hlz6R7u"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Pressure Funk",
         "url": "https://open.spotify.com/album/2jAP12BrQVeagmfAmjJLtf"
@@ -677,7 +853,39 @@
       "url": "https://open.spotify.com/track/0ym4t4jfTIL9peXg9rvrGP"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "Room 2 RMX",
+        "url": "https://open.spotify.com/album/40MuSzLbGfsOmfkYoSPhSz"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 257052,
+      "name": "True Religion (feat. Isabella Lovestory & PinkPantheress) - DJ Gigola Remix",
+      "url": "https://open.spotify.com/track/668YxseDG2gvNdMkADekYs"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "BREAK IT DOWN (ON THE BASSLINE)",
         "url": "https://open.spotify.com/album/35HrIn0UbaHzkoLNMusEo1"
@@ -697,7 +905,7 @@
       "url": "https://open.spotify.com/track/1poGDt4f2MB2q9m1lsBwAB"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Sexy",
         "url": "https://open.spotify.com/album/63McTMWQqhbjJ9VUH46Tob"
@@ -713,7 +921,7 @@
       "url": "https://open.spotify.com/track/5otjyptz6ykhmFGUYbIqoC"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
@@ -733,7 +941,7 @@
       "url": "https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "CHEGOU 3",
         "url": "https://open.spotify.com/album/2TXJsjOcHDvMfOCn1FAJ3P"
@@ -753,7 +961,7 @@
       "url": "https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Yosemite",
         "url": "https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d"
@@ -773,7 +981,7 @@
       "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
@@ -789,7 +997,7 @@
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/4S8Ok3HJyCDUSEPJV4kpIR"
@@ -809,7 +1017,7 @@
       "url": "https://open.spotify.com/track/4zsmbCgzPCS93IWeZlnBSZ"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Reinforced Presents: Maximum Style & JB Rose - Keep the Fire",
         "url": "https://open.spotify.com/album/30rqoaNf63IygyPhbkuFAy"
@@ -829,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6sw17Uso3eldlcNdHdeK5m"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "TAKE ME A_PART, THE REMIXES",
         "url": "https://open.spotify.com/album/5S5ZRw92uGjaWUlIDPIlPY"
@@ -849,7 +1057,7 @@
       "url": "https://open.spotify.com/track/0pO8YwXGjixwYbEEaifaCL"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
@@ -865,7 +1073,7 @@
       "url": "https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Mirror (feat. Jessy Lanza & Yaeji)",
         "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
@@ -881,7 +1089,7 @@
       "url": "https://open.spotify.com/track/4TIGnzJXzipFtVBtXuASfb"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Body Beat",
         "url": "https://open.spotify.com/album/7JGTe36pDv9qlUAKrII5O6"
@@ -897,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
@@ -921,7 +1129,7 @@
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "v.i.p. - very important pony",
         "url": "https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL"
@@ -941,7 +1149,27 @@
       "url": "https://open.spotify.com/track/2vkkkaDiOamN4sNcCgsTE1"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "Closer To The Floor",
+        "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/2qr85rlFy9DofhdurRv3pb"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK"
@@ -961,7 +1189,7 @@
       "url": "https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "father",
         "url": "https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v"
@@ -977,7 +1205,7 @@
       "url": "https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Magnetic Man",
         "url": "https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr"
@@ -997,7 +1225,7 @@
       "url": "https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "to hell with it (Remixes)",
         "url": "https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb"
@@ -1017,7 +1245,7 @@
       "url": "https://open.spotify.com/track/7LiSEDSNgSSBkFLDZlsLIm"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Bikinis and Trackies",
         "url": "https://open.spotify.com/album/6WsFthfrDQuLxlvu5uYWW3"
@@ -1033,7 +1261,7 @@
       "url": "https://open.spotify.com/track/1Ujt4crD2WYcFh30ecuBrg"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Curve 1",
         "url": "https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo"
@@ -1049,7 +1277,7 @@
       "url": "https://open.spotify.com/track/48TPDeEe9Cg7Edy5RcC0xr"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "Higher (dh2 remixes)",
         "url": "https://open.spotify.com/album/3ByAiluejAJa9y8YN8Kdhf"
@@ -1069,7 +1297,7 @@
       "url": "https://open.spotify.com/track/272LexcV5XDL1bSzYz5r1p"
     },
     {
-      "added_at": "2025-05-13 21:36:08",
+      "added_at": "2025-07-14 15:46:24",
       "album": {
         "name": "SATISFY",
         "url": "https://open.spotify.com/album/6pTszhm2TxKPaAplNDzdtM"
@@ -1087,6 +1315,98 @@
       "duration_ms": 165812,
       "name": "SATISFY",
       "url": "https://open.spotify.com/track/3yHwfHQn3qU1WLTLSw7VL8"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "Crocodile Tears",
+        "url": "https://open.spotify.com/album/7HJyZTmBNV8GUH1xqwjCBC"
+      },
+      "artists": [
+        {
+          "name": "GRADES",
+          "url": "https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY"
+        }
+      ],
+      "duration_ms": 168692,
+      "name": "Crocodile Tears - Radio Edit",
+      "url": "https://open.spotify.com/track/6IFcU2q3H8WPf2eSAu3nVL"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/6eGTF5Of9yZlptghLQ0cuD"
+      },
+      "artists": [
+        {
+          "name": "Cydnee with a C",
+          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
+        }
+      ],
+      "duration_ms": 158150,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/0ANKs2ux7dvLMdbmu5EpYk"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "Pink Champagne",
+        "url": "https://open.spotify.com/album/1FpjLDaIW3i3ixmJNwLKe3"
+      },
+      "artists": [
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        },
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/6cdnvvsb2CmlzFb2WBD7op"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "NSYNC (feat. BEAM)",
+        "url": "https://open.spotify.com/album/2kXJciD20GygzPzqAWAaeA"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 143613,
+      "name": "NSYNC (feat. BEAM)",
+      "url": "https://open.spotify.com/track/3mZvLHvCRhY1WNvMIQ8QS7"
+    },
+    {
+      "added_at": "2025-07-14 15:46:24",
+      "album": {
+        "name": "There Is Something I Can\u2019t Find (feat. Mayah Alkhateri)",
+        "url": "https://open.spotify.com/album/6tK7Dyy8xl325QT0u8ziQb"
+      },
+      "artists": [
+        {
+          "name": "KARL F RIVAS",
+          "url": "https://open.spotify.com/artist/2wyfVm9NWgVasdW7iFbYOK"
+        },
+        {
+          "name": "Mayah Alkhateri",
+          "url": "https://open.spotify.com/artist/6pRSMw1aD3tZ6oL214hU71"
+        }
+      ],
+      "duration_ms": 208975,
+      "name": "There Is Something I Can\u2019t Find (feat. Mayah Alkhateri)",
+      "url": "https://open.spotify.com/track/4cSb7yKcrJGK8vYOd91FdR"
     }
   ],
   "unique_name": "Shygirl's track IDs",

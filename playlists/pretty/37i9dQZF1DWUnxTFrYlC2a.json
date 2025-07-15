@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udd0as\u00fabele sin miedo, s\u00fabele hasta que reviente \ud83d\udd0a",
-  "num_followers": 193983,
+  "num_followers": 194140,
   "original_name": "q truene la bocina",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
-        "name": "CONTIGO (with Ti\u00ebsto)",
-        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "CONTIGO (with Ti\u00ebsto)",
-      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 175532,
       "name": "La Nena",
       "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
-        "name": "Cant\u00e1ndole al Amor, Vol. 2",
-        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 301441,
-      "name": "T\u00fa Con El",
-      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 295533,
       "name": "Mis Ojos Lloran Por Ti",
       "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
+        "name": "Cant\u00e1ndole al Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 301441,
+      "name": "T\u00fa Con El",
+      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -1539,6 +1539,30 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
+        "name": "DEMBOW B\u00c9LICO",
+        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 126522,
+      "name": "DEMBOW B\u00c9LICO",
+      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -1563,30 +1587,6 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
-        "name": "DEMBOW B\u00c9LICO",
-        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 126522,
-      "name": "DEMBOW B\u00c9LICO",
-      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
+        "name": "Timbiriche 7",
+        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Con Todos Menos Conmigo",
+      "url": "https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
-        "name": "Timbiriche 7",
-        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Con Todos Menos Conmigo",
-      "url": "https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 238747,
+      "name": "Ch\u00fantaros Style",
+      "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
         "name": "Proyecto X",
         "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 158036,
       "name": "Proyecto X",
       "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 238747,
-      "name": "Ch\u00fantaros Style",
-      "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
     },
     {
       "added_at": "2025-01-05 16:08:32",

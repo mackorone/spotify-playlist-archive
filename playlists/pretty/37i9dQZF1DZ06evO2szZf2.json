@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35170,
+  "num_followers": 35175,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACNc/fLiG2b47dtD6MrLqsr",
+  "snapshot_id": "aHL3AAAAAADRmGZ++xGRjTgmBJlRmN4h",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 213994,
       "name": "Mundo da Fama",
       "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Se T\u00e1 Maravilhosa",
-        "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
-      },
-      "artists": [
-        {
-          "name": "Mc Lipi",
-          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Como Se T\u00e1 Maravilhosa",
-      "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J\u00e1 Fui o Amor da sua Vida",
         "url": "https://open.spotify.com/album/7iSuTXWW52Brxz2jBNlHdR"
       },
@@ -959,6 +939,50 @@
       "duration_ms": 125567,
       "name": "J\u00e1 Fui o Amor da sua Vida",
       "url": "https://open.spotify.com/track/4dAT5YcOnoFkaFLOIQA2eM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Se T\u00e1 Maravilhosa",
+        "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
+      },
+      "artists": [
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Como Se T\u00e1 Maravilhosa",
+      "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Cara do Abacaxi Classic",
+        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
+      },
+      "artists": [
+        {
+          "name": "Patrick DJ",
+          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
     },
     {
       "added_at": null,
@@ -999,30 +1023,6 @@
       "duration_ms": 119347,
       "name": "Pede Que Eu Te Dou",
       "url": "https://open.spotify.com/track/1X7sV26NBlBgPexQNZRYMw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Cara do Abacaxi Classic",
-        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
-      },
-      "artists": [
-        {
-          "name": "Patrick DJ",
-          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
     },
     {
       "added_at": null,
@@ -1115,6 +1115,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado Arrochadeira",
+        "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
+      },
+      "artists": [
+        {
+          "name": "Dj Kevin Armstrong",
+          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 108387,
+      "name": "De 38 Carregado Arrochadeira (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De 38 Carregado Arrochadeira",
-        "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
-      },
-      "artists": [
-        {
-          "name": "Dj Kevin Armstrong",
-          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 108387,
-      "name": "De 38 Carregado Arrochadeira (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
     },
     {
       "added_at": null,
@@ -1339,26 +1339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seu Bigodin",
-        "url": "https://open.spotify.com/album/1i2GBSSt27S0AdeZMyJlk4"
-      },
-      "artists": [
-        {
-          "name": "Dj Kevin Armstrong",
-          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 113777,
-      "name": "Seu Bigodin",
-      "url": "https://open.spotify.com/track/4zmbRguBOA4QEf1ehps1l1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quarentena do Trator",
         "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 133100,
       "name": "Vuco Vuco",
       "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piseiro Tiktok 2.0 #Viral",
+        "url": "https://open.spotify.com/album/3UC2qKHaqpM0Hq5Q6UvM86"
+      },
+      "artists": [
+        {
+          "name": "Yrlan Costa",
+          "url": "https://open.spotify.com/artist/6xw3J3zMVz7ge5oAdko1CN"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 157933,
+      "name": "S\u00f3 Colocadinha",
+      "url": "https://open.spotify.com/track/3xBtiampAoM5x457TcHl9U"
     },
     {
       "added_at": null,
@@ -1399,6 +1399,26 @@
       "duration_ms": 241777,
       "name": "Mochila nas Costas / Empurra Empurra",
       "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seu Bigodin",
+        "url": "https://open.spotify.com/album/1i2GBSSt27S0AdeZMyJlk4"
+      },
+      "artists": [
+        {
+          "name": "Dj Kevin Armstrong",
+          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 113777,
+      "name": "Seu Bigodin",
+      "url": "https://open.spotify.com/track/4zmbRguBOA4QEf1ehps1l1"
     },
     {
       "added_at": null,
@@ -1439,26 +1459,6 @@
       "duration_ms": 139403,
       "name": "Sexo Sem Estresse",
       "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piseiro Tiktok 2.0 #Viral",
-        "url": "https://open.spotify.com/album/3UC2qKHaqpM0Hq5Q6UvM86"
-      },
-      "artists": [
-        {
-          "name": "Yrlan Costa",
-          "url": "https://open.spotify.com/artist/6xw3J3zMVz7ge5oAdko1CN"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 157933,
-      "name": "S\u00f3 Colocadinha",
-      "url": "https://open.spotify.com/track/3xBtiampAoM5x457TcHl9U"
     },
     {
       "added_at": null,

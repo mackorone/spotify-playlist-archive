@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-326 songs - 19 hr 27 min
+327 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Eskimo](https://open.spotify.com/track/78FRJd1KwrS9YVCoSunbsv) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN), [Kast](https://open.spotify.com/artist/6WLAalXCIN6c4BTXBGIe18), [Hyperactive World](https://open.spotify.com/artist/1cD4j4ONkF6a7wHQH1HxmJ) | [Eskimo](https://open.spotify.com/album/1Y0kZHSeN822nNHFHd6gIg) | 2:12 | 2025-05-29 |  |
 | [Euphoria](https://open.spotify.com/track/6WW1qsUVy1i73rWizr3dw2) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/3cNusUNyI88Y2sCgTBN4mU) | 3:12 | 2023-04-04 | 2023-08-11 |
 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 | 2022-04-15 | 2023-03-04 |
+| [Every Night's A Party](https://open.spotify.com/track/3KV8k1LcSn37OT5DVNSPKk) | [Firewire](https://open.spotify.com/artist/2iOcMOLs9f1iaxxDVYgqcp) | [Every Night's A Party](https://open.spotify.com/album/7EeaCOmFlLVyCL3e87zzxa) | 2:14 | 2025-07-03 |  |
 | [Eww](https://open.spotify.com/track/7LliyCcHRU5OQEj2Ob2LPf) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Eww/Losing](https://open.spotify.com/album/14t4zR0Hx6ez04yQuAK4U3) | 3:55 | 2022-04-15 | 2022-07-29 |
 | [Eyes On You \- Burt Cope Remix](https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [SOULSTATE](https://open.spotify.com/artist/00v8euXAAgPonp3i5g92ds), [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Eyes On You \(Burt Cope Remix\)](https://open.spotify.com/album/7HPosCxuP8Ew0Pz9Asc9d7) | 2:40 | 2024-03-01 | 2025-03-28 |
 | [Fallin](https://open.spotify.com/track/7efJW4yGZrj2j3Vhfr3Ylw) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE) | [Fallin](https://open.spotify.com/album/4CWuwshxlc0fplo8JjyMSm) | 3:02 | 2025-05-01 |  |
@@ -231,7 +232,7 @@
 | [Outside](https://open.spotify.com/track/78mhGfx5ufq5CHGXxMpNFX) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN), [K Dot](https://open.spotify.com/artist/76jXqVvxWJNHFGF5DDkVjb), [Hyperactive World](https://open.spotify.com/artist/1cD4j4ONkF6a7wHQH1HxmJ) | [Outside](https://open.spotify.com/album/6Ef5d2ZDy9gUOJcQyFIJZd) | 1:51 | 2025-06-20 |  |
 | [Over](https://open.spotify.com/track/3hctz1DZDroVD2i26nGtLQ) | [Penfld](https://open.spotify.com/artist/0ZcCXqoqA3t1pJiK3kiFbZ), [Joshua Blu](https://open.spotify.com/artist/1HF6XJU6BW3gu4vL4rxkd5) | [Over / Holding On](https://open.spotify.com/album/6JsTt3BENeBQSdVhEfj5TH) | 4:33 | 2022-11-26 | 2023-11-05 |
 | [Over You](https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Over You](https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr) | 3:07 | 2022-04-22 | 2023-12-22 |
-| [Overrated](https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Overrated](https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g) | 3:47 | 2023-08-24 |  |
+| [Overrated](https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Overrated](https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g) | 3:47 | 2023-08-24 | 2025-07-15 |
 | [P.S 2023 \(Bassline Remix\)](https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt) | [Burgaboy](https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda), [Lauren Mason](https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh) | [P.S Remix \(2023\)](https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft) | 3:24 | 2024-03-01 |  |
 | [Party Right](https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Party Right / Snake Charmer](https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx) | 3:36 | 2022-07-14 | 2025-04-27 |
 | [Party Starter \(feat\. Slick Don\)](https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Seshame Street EP](https://open.spotify.com/album/2Jg5nvzzGeKzulWY9vC3u6) | 3:01 | 2024-04-05 | 2025-04-27 |

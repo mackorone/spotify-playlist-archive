@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Aftershine
+> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Elsa Japasal
 
 278 songs - 18 hr 5 min
 

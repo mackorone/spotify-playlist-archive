@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,576 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,587 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 41 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 |
 | 42 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 |
 | 43 | [I\`m Firefly](https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I\`m Firefly](https://open.spotify.com/album/1GJArSrDSNTyWeTvGeenAT) | 3:35 |
-| 44 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
-| 45 | [DrunKen Confession](https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [DrunKen Confession](https://open.spotify.com/album/0IwBuSyXreDfgarE0TaAix) | 3:47 |
+| 44 | [DrunKen Confession](https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [DrunKen Confession](https://open.spotify.com/album/0IwBuSyXreDfgarE0TaAix) | 3:47 |
+| 45 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
 | 46 | [Can't Get Over You](https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Queen of Tears \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd) | 4:05 |
 | 47 | [Dandelion](https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Dandelion](https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO) | 4:34 |
 | 48 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 64 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
 | 65 | [COVID\-19 \(feat\. SUPERBEE\)](https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [COVID\-19](https://open.spotify.com/album/1RKCttAVNGpm1pTar0drh5) | 3:16 |
 | 66 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
-| 67 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 |
-| 68 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
+| 67 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
+| 68 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 |
 | 69 | [I Miss You So Much](https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Miss You So Much](https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM) | 3:36 |
 | 70 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 |
 | 71 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 75 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 |
 | 76 | [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 |
 | 77 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 |
-| 78 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
-| 79 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 |
+| 78 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 |
+| 79 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
 | 80 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
 
 Snapshot ID: `aG8cXgAAAABVnPZtssVXeGdpI6ViNTOr`

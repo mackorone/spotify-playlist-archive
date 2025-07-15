@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-656 songs - 1 day 14 hr 17 min
+657 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Marginalia \#181](https://open.spotify.com/track/6tH8WF8vtsJZn8fziscVXq) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#181](https://open.spotify.com/album/4hwb1r1XKuxn3gAS3VTr8i) | 3:28 | 2024-11-14 | 2025-01-12 |
 | [Mario's Cafe](https://open.spotify.com/track/0DphBni42F0bpa2E7ptWjV) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [So Tough](https://open.spotify.com/album/2FTeecYAHUqD087fRHHuNF) | 4:37 | 2024-06-02 | 2024-07-12 |
 | [Mario's Flaming Whiskers III](https://open.spotify.com/track/3Bktyrnmrdw05133ofR9Dl) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 2:30 | 2024-08-02 | 2024-09-08 |
+| [May Sun](https://open.spotify.com/track/19JUTxqb12ibfHLhFuyYod) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [Dark Eyes](https://open.spotify.com/album/3zGibhhlf6j9YRjJ5D8rcd) | 2:47 | 2025-07-14 |  |
 | [Me and My Arrow](https://open.spotify.com/track/5KjRITicSHJM88w3U9LwLM) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [The Point!](https://open.spotify.com/album/6Y7Or7kCbTUjnzv40TyU63) | 2:05 | 2024-11-13 | 2025-01-12 |
 | [Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:09 | 2024-06-14 | 2024-07-12 |
 | [Memory Foam](https://open.spotify.com/track/30RssVq7KiJHl7E6cFDdre) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Imaginations](https://open.spotify.com/album/3wyZNkNP8tUegRaPWV1lap) | 3:44 | 2025-04-20 | 2025-05-09 |

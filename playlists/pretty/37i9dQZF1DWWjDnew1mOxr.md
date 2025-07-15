@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: James Marriott
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,923 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,935 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 21 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 |
 | 22 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 |
 | 23 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
-| 24 | [This Place](https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [We Get By](https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW) | 3:14 |
-| 25 | [Gary](https://open.spotify.com/track/59EKMmwwDJxtEw6EjMVeaT) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t) | 2:30 |
+| 24 | [Gary](https://open.spotify.com/track/59EKMmwwDJxtEw6EjMVeaT) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t) | 2:30 |
+| 25 | [This Place](https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [We Get By](https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW) | 3:14 |
 | 26 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 |
 | 27 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 |
 | 28 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 58 | [Like No Other](https://open.spotify.com/track/65wlzirUN6886hIFivbF4p) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Like No Other](https://open.spotify.com/album/4aGXRRp2KhnNG4esidkYrl) | 2:20 |
 | 59 | [Millionaires](https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 3:00 |
 | 60 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
-| 61 | [My Favourite Monster](https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [My Favourite Monster](https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu) | 3:58 |
-| 62 | [Can't Say No](https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Can't Say No](https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN) | 3:12 |
+| 61 | [Can't Say No](https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Can't Say No](https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN) | 3:12 |
+| 62 | [My Favourite Monster](https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [My Favourite Monster](https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu) | 3:58 |
 | 63 | [Let's Leave Together](https://open.spotify.com/track/28p6cPTSRglxJjKYZQeJVH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Death & Love, Pt\. 1](https://open.spotify.com/album/2ZA4Mn83aCyCEa9Cz3UfgK) | 3:20 |
 | 64 | [Perfect Me](https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Perfect Me](https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL) | 3:10 |
 | 65 | [Stay Up](https://open.spotify.com/track/7i2ZntdYyNmcGnptw8Dhbw) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Stay Up](https://open.spotify.com/album/5J7fJeUi0ouBt8y4QWJYyY) | 3:17 |
-| 66 | [The Patch Where Nothing Grows](https://open.spotify.com/track/59VU90DtASSleE9kfo7P6s) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Patch Where Nothing Grows](https://open.spotify.com/album/1XUxgHgsoEhfKUteLsdguO) | 3:17 |
-| 67 | [Mr & Mrs Human Race](https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Mr & Mrs Human Race](https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H) | 2:55 |
-| 68 | [Not Like The Rest](https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Not Like The Rest](https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb) | 3:14 |
-| 69 | [American Nights & English Mornings](https://open.spotify.com/track/46xG9c1QESN8uKQiL8f3YA) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [American Nights & English Mornings](https://open.spotify.com/album/4jeyDNsaj16dLsDIVsVp09) | 3:14 |
+| 66 | [Mr & Mrs Human Race](https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Mr & Mrs Human Race](https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H) | 2:55 |
+| 67 | [Not Like The Rest](https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Not Like The Rest](https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb) | 3:14 |
+| 68 | [American Nights & English Mornings](https://open.spotify.com/track/46xG9c1QESN8uKQiL8f3YA) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [American Nights & English Mornings](https://open.spotify.com/album/4jeyDNsaj16dLsDIVsVp09) | 3:14 |
+| 69 | [The Patch Where Nothing Grows](https://open.spotify.com/track/59VU90DtASSleE9kfo7P6s) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Patch Where Nothing Grows](https://open.spotify.com/album/1XUxgHgsoEhfKUteLsdguO) | 3:17 |
 | 70 | [Glasgow](https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:34 |
 | 71 | [Lucy](https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Lucy](https://open.spotify.com/album/3uRlTeGvjVcrNYk1mqJTgf) | 4:20 |
 | 72 | [Bliss](https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi), [Fears](https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT) | [Bliss](https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu) | 3:51 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 95 | [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 |
 | 96 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 |
 | 97 | [Dirty White](https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Dirty White Lies](https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0) | 2:59 |
-| 98 | [Unreal](https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Unreal](https://open.spotify.com/album/2LRXY4nFzm45nyViByPHkW) | 3:03 |
-| 99 | [City Streets](https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [City Streets](https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk) | 3:26 |
+| 98 | [City Streets](https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [City Streets](https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk) | 3:26 |
+| 99 | [Unreal](https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Unreal](https://open.spotify.com/album/2LRXY4nFzm45nyViByPHkW) | 3:03 |
 | 100 | [15 Minutes In The Algorithm](https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [What's Rock And Roll?](https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD) | 3:13 |
 
 Snapshot ID: `aFifKgAAAABlyQVaxP5A9BJ79Prdm+mj`

@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 118526,
+  "num_followers": 118555,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 182226,
+      "name": "Pata Pata",
+      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
         "name": "Love & Death",
         "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 316866,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 182226,
-      "name": "Pata Pata",
-      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
     },
     {
       "added_at": "2025-03-14 05:25:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy summer 2025 ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,067 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,074 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

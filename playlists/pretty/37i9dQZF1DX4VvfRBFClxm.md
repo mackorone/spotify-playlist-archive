@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,481,443 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,481,405 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 78 | [Too Much To Ask \- Acoustic](https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask \(Acoustic\)](https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up) | 3:41 |
 | 79 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 |
 | 80 | [Tee Shirt \- Soundtrack Version](https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Tee Shirt](https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD) | 2:39 |
-| 81 | [Sapling](https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 4:17 |
-| 82 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 |
+| 81 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 |
+| 82 | [Sapling](https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 4:17 |
 | 83 | [Your Song \- Acoustic](https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song \(Acoustic\)](https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ) | 3:01 |
 | 84 | [Can't See Straight \- Acoustic](https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Can't See Straight \(Acoustic\)](https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj) | 3:08 |
 | 85 | [Morning Breeze](https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [GREY](https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI) | 3:14 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 107 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 |
 | 108 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
 | 109 | [Chemicals \- Acoustic](https://open.spotify.com/track/6VwJchlkgjGbjU1SMyvwBN) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:54 |
-| 110 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
-| 111 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 |
+| 110 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 |
+| 111 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
 | 112 | [Craving \- Acoustic Version](https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Craving \(Acoustic\)](https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO) | 3:46 |
 | 113 | [Nana](https://open.spotify.com/track/1JmLA5HZ7Wp7L8DNctLpUW) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:56 |
 | 114 | [Old Friends](https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Old Friends](https://open.spotify.com/album/2zpHfAiut6wqmWNS3McrxI) | 3:33 |

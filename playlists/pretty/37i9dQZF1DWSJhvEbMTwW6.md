@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,895 likes - 125 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,105 likes - 125 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 8 | [Dejaría Todo Por Ti](https://open.spotify.com/track/6fPy5IoY51w6H8d3mVGyJH) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Dejaría Todo Por Ti](https://open.spotify.com/album/530kw8TBF5bskmwavhKoEf) | 3:21 |
 | 9 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:57 |
 | 10 | [Marimba y Acordeón](https://open.spotify.com/track/3ErtRTSe19O3hTGyQUJd1G) | [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Marimba y Acordeón](https://open.spotify.com/album/2W0TKAsiPjDzmqUn9CflX0) | 2:18 |
-| 11 | [Amor Regresa](https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:33 |
-| 12 | [Tus Mentiras](https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Tus Mentiras](https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ) | 4:13 |
+| 11 | [Tus Mentiras](https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Tus Mentiras](https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ) | 4:13 |
+| 12 | [Amor Regresa](https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:33 |
 | 13 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
 | 14 | [Deja Una Rosa En Tu Balcón](https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Hasta La Eternidad \(Clásicos Digitalizados\)](https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN) | 3:59 |
 | 15 | [Te Espero en el Cielo](https://open.spotify.com/track/2g1XCPG2kO8VeUMXWLsQLN) | [La Sonora Cañonera](https://open.spotify.com/artist/0wkdyY6A8F2q6krgWyrdAC) | [Tarjeta de Invitación](https://open.spotify.com/album/7pvoIdjqLxmEwstHNRmXPh) | 3:23 |
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 32 | [Corazón Adolorido](https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 3:50 |
 | 33 | [Las Mujers No Se Acaban](https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX), [Grupo Kien? Los reyes del sabor](https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:30 |
 | 34 | [Como Agua en las Manos](https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P) | [Junior Klan](https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI) | [Exitos, Vol\. 1](https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1) | 2:42 |
-| 35 | [El Afilador](https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn) | [Grupo Carabo](https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv) | [Grito En Silencio](https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS) | 3:35 |
-| 36 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
+| 35 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
+| 36 | [El Afilador](https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn) | [Grupo Carabo](https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv) | [Grito En Silencio](https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS) | 3:35 |
 | 37 | [Suave Y Tierno](https://open.spotify.com/track/1boomhGAEyfVaMiODGyate) | [Grupo Klaz Y Keroz](https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC) | [Formas De Amor](https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH) | 4:07 |
 | 38 | [No Puedo Olvidarte](https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [No Puedo Olvidarte](https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS) | 5:31 |
-| 39 | [Amigos Nunca](https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:06 |
-| 40 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
+| 39 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
+| 40 | [Amigos Nunca](https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:06 |
 | 41 | [Ilusión](https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H) | [Cuerdas De Venezuela](https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy) | [Ilusión y Más Ilusión](https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9) | 2:57 |
 | 42 | [Caricias \- Acaríciame](https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p) | [Los Javugoh](https://open.spotify.com/artist/6WpqijLQ174As9uCl0RbP5) | [Toquin en América](https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj) | 3:27 |
 | 43 | [Palabras No](https://open.spotify.com/track/75LiifjwTF6cpyVILANf4q) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Palabras No](https://open.spotify.com/album/6nyVwXMNI2h6NdbpKB11av) | 4:09 |

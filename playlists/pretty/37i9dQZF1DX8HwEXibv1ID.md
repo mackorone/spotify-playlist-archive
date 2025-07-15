@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,390 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,417 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

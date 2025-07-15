@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 302125,
+  "num_followers": 302284,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAACOkRXJuLfiP4zFU5qubmTV",
+  "snapshot_id": "aHL3AAAAAAAcnhuh5J9qP21e47+k/pn4",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "She",
+      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter VI",
         "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 229759,
       "name": "Sharks (feat. Jelly Roll, Big Sean)",
       "url": "https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "She",
-      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
     },
     {
       "added_at": null,

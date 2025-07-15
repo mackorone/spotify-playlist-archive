@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Justin Bieber, Larissa Lambert, Drake, Dean Lewis, Olivia Dean, G Flip, Tyla + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,615 likes - 95 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,637 likes - 95 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 94 | [Seven Lonely Days](https://open.spotify.com/track/7ih07AxV0yWeX1WvdptEUT) | [Death by Denim](https://open.spotify.com/artist/1OXpN0Unpw1Xrpws4tIpUF) | [Seven Lonely Days](https://open.spotify.com/album/5LYhaojcAUdSYE4kctw9oX) | 3:16 |
 | 95 | [Desiderium](https://open.spotify.com/track/2AOT4JW09ckUzGmefJXMS1) | [Devilskin](https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd) | [RE\-EVOLUTION](https://open.spotify.com/album/64IXzILTw4ZBOlydHWWLSN) | 3:15 |
 
-Snapshot ID: `aHCMXwAAAAC06i/2JKMMY0+cifMZoUi4`
+Snapshot ID: `aHWIbQAAAABpVr7dOnQzX0AL82mEbbHM`

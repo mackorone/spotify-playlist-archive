@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui  🌻 Cover: IRBIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,914 likes - 117 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,915 likes - 117 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240 likes - 72 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 72 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 15 | [CLASSICO](https://open.spotify.com/track/2kxFdDHh6BM0892RzpvA7u) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [CLASSICO](https://open.spotify.com/album/1uJhaFnc580OWUORK9HJpG) | 3:01 |
 | 16 | [Drama](https://open.spotify.com/track/5THILFqD2wJquN3U4la6PS) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [Drama](https://open.spotify.com/album/68c8XhtNLFN9SPm9O4M9vW) | 2:32 |
 | 17 | [Perfect on Me](https://open.spotify.com/track/3aABZMfYArSNlD1muV1wsK) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Perfect on Me](https://open.spotify.com/album/6y79bH31Bg9wxSeNRTl5WL) | 2:44 |
-| 18 | [Straitjacket](https://open.spotify.com/track/5gu2zPGXuqs4otf3wNtXVb) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Straitjacket](https://open.spotify.com/album/1DZ20T7S0sdkbLgpPPiXlU) | 3:00 |
-| 19 | [Little Dreaming](https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6FJ9yGyRou6MzvOePLeIJe) | 3:23 |
+| 18 | [Little Dreaming](https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6FJ9yGyRou6MzvOePLeIJe) | 3:23 |
+| 19 | [Straitjacket](https://open.spotify.com/track/5gu2zPGXuqs4otf3wNtXVb) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Straitjacket](https://open.spotify.com/album/1DZ20T7S0sdkbLgpPPiXlU) | 3:00 |
 | 20 | [Short Ride](https://open.spotify.com/track/12BQS3wg7tkb6HySjhxDHX) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Short Ride](https://open.spotify.com/album/5GTjzOsKk8R250oKqgvmEg) | 2:49 |
 | 21 | [Love U in the Morning](https://open.spotify.com/track/7BpW1HOQwPaGhgWvb5pCuo) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [Love U in the Morning](https://open.spotify.com/album/260wOGFQmUPEAALaIhvt0Q) | 2:44 |
 | 22 | [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 71 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
 | 72 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `Ab2slAAAAABGwUt2RcRDAKbHHb3RyZTv`
+Snapshot ID: `Ab2ycAAAAADeMsFTbWQlsd6bQJLR24li`

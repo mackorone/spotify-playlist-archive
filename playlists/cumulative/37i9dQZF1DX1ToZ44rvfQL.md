@@ -4,7 +4,7 @@
 
 > Porque el asado se prende con música.
 
-187 songs - 12 hr 34 min
+188 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt) | 4:38 | 2023-06-15 | 2023-09-23 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/291JIUH9vV7qveI5F3n8JQ) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Otras Canciones](https://open.spotify.com/album/7puiKW3huokZs5qtYK4o0K) | 3:48 | 2023-05-15 |  |
 | [No Necesito Nada](https://open.spotify.com/track/5A44iIZenvd56WXWCO9K5K) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Este Fuerte Viento Que Sopla](https://open.spotify.com/album/6HyHimLPwJgAVkpH7fc8gb) | 4:24 | 2024-04-15 |  |
+| [No Te Imaginas](https://open.spotify.com/track/6l0ClSGxF3VwZIvxseYERY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [No Te Imaginas](https://open.spotify.com/album/3HVgc5TzbVgLBA77uOevdv) | 3:26 | 2025-05-09 |  |
 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 | 2025-02-21 |  |
 | [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 | 2024-01-11 |  |
 | [Nunca quise](https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:20 | 2023-05-15 |  |
@@ -157,7 +158,7 @@
 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 | 2023-05-15 |  |
 | [Señal](https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Mienten](https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR) | 4:37 | 2023-06-15 | 2023-08-26 |
 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 | 2023-05-15 |  |
-| [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 | 2024-05-24 |  |
+| [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 | 2024-05-24 | 2025-07-15 |
 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 | 2023-09-22 |  |
 | [Sin Principio Ni Final](https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Sueño Dorado](https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh) | 3:51 | 2023-05-15 |  |
 | [Solo voy](https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [SHOC](https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz) | 4:15 | 2023-05-15 |  |
@@ -185,11 +186,11 @@
 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 | 2023-05-15 |  |
 | [Vencedores Vencidos](https://open.spotify.com/track/1nYD14iq9R9CBUK8UvBjkK) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Un Baión para el Ojo Idiota](https://open.spotify.com/album/6ETDkXNvthotL4pKkXFg4L) | 3:28 | 2024-01-11 | 2024-04-09 |
 | [Vencedores Vencidos](https://open.spotify.com/track/7EFMYtN7FFFNLzxOa9OgGC) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Un Baión para el Ojo Idiota](https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5) | 3:28 | 2023-05-19 | 2023-10-07 |
-| [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2023-05-15 |  |
+| [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2023-05-15 | 2025-07-15 |
 | [Verano del 92](https://open.spotify.com/track/4NVKKVu4lMvxelWoH6G0JB) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 7:10 | 2023-12-21 | 2024-01-14 |
 | [Verte Reír](https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:26 | 2023-05-19 |  |
 | [Waitin'](https://open.spotify.com/track/6EjUn5quLcTVFBUGLGwGwA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 2:48 | 2024-04-15 |  |
-| [Y Lo Que Quiero Es Que Pises Sin El Suelo](https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuentos Decapitados](https://open.spotify.com/album/4agUniovdijNcGf3blcYQM) | 3:12 | 2024-11-14 | 2025-07-14 |
+| [Y Lo Que Quiero Es Que Pises Sin El Suelo](https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuentos Decapitados](https://open.spotify.com/album/4agUniovdijNcGf3blcYQM) | 3:12 | 2024-11-14 |  |
 | [Ya No Sos Igual](https://open.spotify.com/track/1gom5NgPAZQOjpVLyh4HML) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Valentin Alsina](https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC) | 3:02 | 2024-04-15 |  |
 | [Yendo a la Casa de Damián](https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW) | 4:14 | 2023-05-15 | 2024-04-19 |
 | [Yo Ya Sé](https://open.spotify.com/track/79thbxA6OpIUMVu8mROice) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 2:03 | 2024-09-13 | 2024-12-17 |

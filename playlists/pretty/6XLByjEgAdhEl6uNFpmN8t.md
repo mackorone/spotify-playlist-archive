@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 
 > 
 
-[solo](https://open.spotify.com/user/vida_bence) - 1 like - 109 songs - 5 hr 32 min
+[solo](https://open.spotify.com/user/vida_bence) - 1 like - 111 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 | 107 | [Bőrdzseki](https://open.spotify.com/track/0Q7svGLDz6ENSjCKFm3cWr) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:42 |
 | 108 | [SÖTÉT](https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [SÖTÉT](https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z) | 2:24 |
 | 109 | [Mulatozok \- Intro](https://open.spotify.com/track/54TkoWzZy8JL2Mr8KELnOF) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:23 |
+| 110 | [BALATONLELLE](https://open.spotify.com/track/3IItzNiCPdW55CxkFMLqpR) | [JANA](https://open.spotify.com/artist/3sVMPCOGrvv6saKNwgMiQd), [PEAK](https://open.spotify.com/artist/1lsPHMjIgJVvD2eHD2uHym) | [BALATONLELLE](https://open.spotify.com/album/4HVPxCSlwV9lPGel1WhBsg) | 3:15 |
+| 111 | [PLEKNI](https://open.spotify.com/track/2fbc4RDPWdcZC5NVHYGWOA) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [PLEKNI](https://open.spotify.com/album/67bo12Vu3mBmLrRUuHFk7J) | 2:53 |
 
-Snapshot ID: `AAAAzK+xUtDkAdTrZaz/vwD6b67ljuQN`
+Snapshot ID: `AAAAzmZMTrBqAPq398Xk7HVh2J9SkRFS`

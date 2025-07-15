@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Kapo
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,475 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,523 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

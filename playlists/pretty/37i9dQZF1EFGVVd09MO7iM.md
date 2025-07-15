@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,186 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,184 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `Ab2slAAAAADUHYzZjwCyBOmACZjs+EJ+`
+Snapshot ID: `Ab2yNAAAAADUHYzZjwCyBOmACZjs+EJ+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnnLLPsf7sZ.md) - [plain]
 
 > The official playlist for We The People, streaming on Netflix July 4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,033 likes - 15 songs - 47 min 35 sec
+[Spotify](https://open.spotify.com/user/spotify) - 17,031 likes - 15 songs - 47 min 35 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

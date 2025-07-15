@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Natalia Lacunza, Quevedo, Duki, y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,162 likes - 69 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,193 likes - 69 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

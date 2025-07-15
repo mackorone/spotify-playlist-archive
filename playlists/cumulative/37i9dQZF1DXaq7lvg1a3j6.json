@@ -1811,6 +1811,28 @@
     },
     {
       "album": {
+        "name": "Nachdi (From \"Son Of Sardaar 2\")",
+        "url": "https://open.spotify.com/album/1krF7cLVCC3AzDSJDg34Yv"
+      },
+      "artists": [
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157076,
+      "name": "Nachdi (From \"Son Of Sardaar 2\")",
+      "url": "https://open.spotify.com/track/5plhRq2ZCy6sH671phdjbd"
+    },
+    {
+      "album": {
         "name": "Jab We Met",
         "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
       },
@@ -2180,7 +2202,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 174107,
       "name": "Raula Raula",
       "url": "https://open.spotify.com/track/59wwFmFLincPeHJZMp7wZ2"

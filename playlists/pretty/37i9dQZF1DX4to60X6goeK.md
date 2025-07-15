@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: skantia
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,849 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,879 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 35 | [No Excuses \- Hedex Remix](https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [No Excuses \(Hedex Remix\)](https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4) | 2:43 |
 | 36 | [LOUDER](https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [LOUDER](https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD) | 3:42 |
 | 37 | [Round + Round](https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Round + Round](https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9) | 2:38 |
-| 38 | [Satellite \- SOTA Remix](https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Satellite \(SOTA Remix\)](https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ) | 2:57 |
-| 39 | [BODY DROP \(Won't Stop\)](https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [BODY DROP \(Won't Stop\)](https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A) | 3:44 |
+| 38 | [BODY DROP \(Won't Stop\)](https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [BODY DROP \(Won't Stop\)](https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A) | 3:44 |
+| 39 | [Satellite \- SOTA Remix](https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Satellite \(SOTA Remix\)](https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ) | 2:57 |
 | 40 | [Come Around](https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Come Around](https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O) | 3:48 |
 | 41 | [Ice Cold](https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Jman](https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm) | [Ice Cold](https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV) | 2:03 |
 | 42 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |

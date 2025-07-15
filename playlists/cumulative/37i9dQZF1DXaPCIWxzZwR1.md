@@ -4,7 +4,7 @@
 
 > next gen pop<br/><br/>Cover: Reneé Rapp
 
-2,247 songs - 4 day 13 hr 44 min
+2,248 songs - 4 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,7 +564,7 @@
 | [Don't Know About The World](https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Don't Know About The World](https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP) | 2:23 | 2023-09-15 | 2023-10-21 |
 | [don't leave](https://open.spotify.com/track/7rVJxAAj8zEHOOGg3t4T0Q) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [don't leave](https://open.spotify.com/album/3JUkRAqaZemIi1SE3dF1xy) | 2:24 | 2021-05-08 | 2021-05-29 |
 | [Don't Leave Yet](https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Don't Leave Yet](https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj) | 2:45 | 2023-08-11 | 2023-09-09 |
-| [Don't Let Go](https://open.spotify.com/track/5bMdfSrxswyycOunsnHX9s) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Don't Let Go](https://open.spotify.com/album/1SDQYjiB3TT1hEw78WwQGQ) | 3:00 | 2024-09-13 |  |
+| [Don't Let Go](https://open.spotify.com/track/5bMdfSrxswyycOunsnHX9s) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Don't Let Go](https://open.spotify.com/album/1SDQYjiB3TT1hEw78WwQGQ) | 3:00 | 2024-09-13 | 2025-07-15 |
 | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo) | 2:48 | 2024-03-01 | 2024-03-23 |
 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 | 2021-11-27 | 2022-06-25 |
 | [Don't Need A Man](https://open.spotify.com/track/0frVq7ypwqVdroMcrlyr5e) | [Liv Grace Blue](https://open.spotify.com/artist/5Cb72YLWR9MV0z46xNpmEl) | [Don't Need A Man](https://open.spotify.com/album/6Z7bYtuGfAFehZEpKF2XED) | 2:29 | 2021-03-31 | 2021-07-10 |
@@ -1863,6 +1863,7 @@
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-21 | 2021-10-02 |
 | [Summer so hot](https://open.spotify.com/track/3zNe3xToIc07PYAuQboqhq) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Summer so hot](https://open.spotify.com/album/7GfvDon5u02GU3TbTOl1J1) | 2:46 | 2024-06-21 | 2024-11-16 |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-19 | 2024-08-17 |
+| [Summer Uptown](https://open.spotify.com/track/7t98lQEVYPP58rkubC03Mh) | [jasontheween](https://open.spotify.com/artist/56z8RFFEGWfUFHzvgv70SB), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Summer Uptown](https://open.spotify.com/album/085rPTSE58Xz9xAUYcfVeZ) | 2:35 | 2025-07-14 |  |
 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 | 2021-05-22 | 2021-08-21 |
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2024-05-24 | 2024-06-08 |
 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 | 2023-03-24 | 2023-09-16 |

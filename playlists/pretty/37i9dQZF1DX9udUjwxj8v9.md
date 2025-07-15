@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,047 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,037 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 16 | [Swing de Campo Grande](https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:09 |
 | 17 | [Haja Amor](https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46) | [Luiz Caldas](https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh) | [Lá Vem O Guarda](https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l) | 3:35 |
 | 18 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 |
-| 19 | [Raiz de Todo Bem \- Ao Vivo](https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Saulo Ao Vivo](https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk) | 3:25 |
-| 20 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
+| 19 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
+| 20 | [Raiz de Todo Bem \- Ao Vivo](https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Saulo Ao Vivo](https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk) | 3:25 |
 | 21 | [Vai Passar](https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG) | 6:11 |
 | 22 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
 | 23 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 36 | [História Para Ninar Gente Grande](https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x) | [Marquinho Art'Samba](https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh), [Estação Primeira de Mangueira](https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0) | [Sambas De Enredo Das Escolas De Samba 2019](https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr) | 4:31 |
 | 37 | [Rapunzel \- Ao Vivo](https://open.spotify.com/track/2WtbM5MmLJI9toBOfcvWu2) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS) | 3:39 |
 | 38 | [Diga Que Valeu \- Ao Vivo](https://open.spotify.com/track/6hJkTyrjoHdndSHprRDnH0) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:16 |
-| 39 | [A Vida É Festa](https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Aconteceu](https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ) | 3:52 |
-| 40 | [Masculino E Feminino](https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Maxximum \- Pepeu Gomes E Baby Consuelo](https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl) | 3:44 |
+| 39 | [Masculino E Feminino](https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Maxximum \- Pepeu Gomes E Baby Consuelo](https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl) | 3:44 |
+| 40 | [A Vida É Festa](https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Aconteceu](https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ) | 3:52 |
 | 41 | [Bloco Do Prazer](https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 3:03 |
 | 42 | [Chuva, Suor E Cerveja](https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 3:24 |
 | 43 | [Zé Do Caroço](https://open.spotify.com/track/0zVtuNNT7kTeRhuq9DE1fb) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Raizes Do Samba](https://open.spotify.com/album/0VWK9vBkLWyAG0XlFQKPwF) | 3:26 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 46 | [O Carnaval Quem É Que Faz?](https://open.spotify.com/track/2TPCINjlzZ9Hbp0tCRQC2b) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [BaianaSystem](https://open.spotify.com/album/1oAU4OkP63pBrWTvLPGlRS) | 4:23 |
 | 47 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
 | 48 | [Taj Mahal](https://open.spotify.com/track/1aLapJuVyaunImwQiPxETz) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben Jor \- iCollection](https://open.spotify.com/album/3kqTi0mxbXfk9Bh3kx5fhk) | 4:56 |
-| 49 | [Estação da Luz](https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Estação da Luz](https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO) | 3:22 |
-| 50 | [Pegando Fogo](https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 2:38 |
+| 49 | [Pegando Fogo](https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 2:38 |
+| 50 | [Estação da Luz](https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Estação da Luz](https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO) | 3:22 |
 
 Snapshot ID: `aHB+NwAAAAB6PJzPSRAWit2FH7U3C95D`

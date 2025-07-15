@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 647796,
+  "num_followers": 647821,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAqfgnwgjteNjlqPaPFjDSv",
+  "snapshot_id": "aHL3AAAAAAC7oYSUfHn0Qg0vx9wxR3vR",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "Tougher Than the Rest",
+      "url": "https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 216253,
       "name": "Sandpaper (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "Tougher Than the Rest",
-      "url": "https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Waitin' On A Sunny Day",
-      "url": "https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 254840,
       "name": "Brilliant Disguise",
       "url": "https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Waitin' On A Sunny Day",
+      "url": "https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 245360,
-      "name": "Lonesome Day",
-      "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
+      "duration_ms": 205146,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 205146,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
+      "duration_ms": 245360,
+      "name": "Lonesome Day",
+      "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adelita",
-        "url": "https://open.spotify.com/album/6q5Rn9TfFBYqvknRmyNlHQ"
+        "name": "The Ghost Of Tom Joad",
+        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 277546,
-      "name": "Adelita",
-      "url": "https://open.spotify.com/track/5LCRHTTI17T53OcGEamGwJ"
+      "duration_ms": 232533,
+      "name": "Youngstown",
+      "url": "https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Of Tom Joad",
-        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+        "name": "Adelita",
+        "url": "https://open.spotify.com/album/6q5Rn9TfFBYqvknRmyNlHQ"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Youngstown",
-      "url": "https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA"
+      "duration_ms": 277546,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/5LCRHTTI17T53OcGEamGwJ"
     },
     {
       "added_at": null,

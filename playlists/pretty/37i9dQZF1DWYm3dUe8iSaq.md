@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,448 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,481 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 7 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 |
 | 8 | [Diamonds & Roses](https://open.spotify.com/track/5dQ1oSOiGzfPPbPpzWTT7Y) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Diamonds & Roses](https://open.spotify.com/album/6zWSQlnZvg7Tr8Koz3BMI6) | 2:45 |
 | 9 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
-| 10 | [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 |
-| 11 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 |
+| 10 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 |
+| 11 | [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 |
 | 12 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 |
 | 13 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 |
 | 14 | [Marlay Park](https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 3:44 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 71 | [The Hopefuls](https://open.spotify.com/track/5Gj9gSkK5UggPA9rqKOSsD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [The Diary of Living](https://open.spotify.com/album/1TnFGuknfiulSWC69uDq3r) | 3:25 |
 | 72 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
 | 73 | [Lose](https://open.spotify.com/track/6qNC7GRaDTrfZya3k4DLfV) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Lose](https://open.spotify.com/album/5DgdTn8PkuVCuoHp1XdDap) | 3:15 |
-| 74 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
-| 75 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
+| 74 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
+| 75 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
 | 76 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
 | 77 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
 | 78 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |

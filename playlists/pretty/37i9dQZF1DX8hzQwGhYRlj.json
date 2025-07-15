@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 38679,
+  "num_followers": 38684,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -447,30 +447,6 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
-        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
-        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Sakari Oramo",
-          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 604400,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: IV. Andante - Allegro molto e risoluto",
-      "url": "https://open.spotify.com/track/721hCedr4F2gAuaV3Okfzn"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
         "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
         "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 243000,
       "name": "Holberg Suite, Op. 40: 5. Rigaudon (Allegro con brio)",
       "url": "https://open.spotify.com/track/2fPsJT9Q1d5ferqW3brhQP"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
+        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
+        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "duration_ms": 604400,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: IV. Andante - Allegro molto e risoluto",
+      "url": "https://open.spotify.com/track/721hCedr4F2gAuaV3Okfzn"
     },
     {
       "added_at": "2025-07-04 11:59:56",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Lyric Pieces Book V, Op. 54: VI. Bellringing",
-      "url": "https://open.spotify.com/track/5qcM4MqtNkPQZoKncxM4NW"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -679,6 +659,26 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Lyric Pieces Book V, Op. 54: VI. Bellringing",
+      "url": "https://open.spotify.com/track/5qcM4MqtNkPQZoKncxM4NW"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
         "name": "Grieg: Piano Concerto, 6 Lyric Pieces - Liszt: Piano Concerto No. 2",
         "url": "https://open.spotify.com/album/1jcvJYlu0jBIIpk6oEFbJ8"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 279346,
       "name": "Grieg: Lyric Pieces, Book 8, Op. 65: No. 1, From Early Years",
       "url": "https://open.spotify.com/track/30p9Ei9sW2VvtzUdHHskRY"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
+        "name": "Gerhard Oppitz Plays Grieg",
+        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
+      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
     },
     {
       "added_at": "2025-07-04 11:59:56",
@@ -719,26 +739,6 @@
       "duration_ms": 606493,
       "name": "Grieg: Cello Sonata in A Minor, Op. 36: I. Allegro agitato",
       "url": "https://open.spotify.com/track/3h1ato75I6NuK3atUWeQen"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
-        "name": "Gerhard Oppitz Plays Grieg",
-        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
-      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
     },
     {
       "added_at": "2025-07-04 11:59:56",

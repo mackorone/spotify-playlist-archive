@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Royal 44)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: HAON(\uae40\ud558\uc628))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 261120,
       "name": "BYE BYE BYE (feat. Sion)",
       "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
@@ -3828,7 +3828,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 142000,
       "name": "Dream girl",
       "url": "https://open.spotify.com/track/4k032jvIta00Jak0i9z90R"
@@ -6310,6 +6310,24 @@
       "duration_ms": 238986,
       "name": "humming",
       "url": "https://open.spotify.com/track/5eSSmwPYI3JAfEvFXIVFRh"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Hundred Reasons",
+      "url": "https://open.spotify.com/track/2A1YVk2cVTJt2luDUnbEsW"
     },
     {
       "album": {
@@ -12870,6 +12888,28 @@
       "duration_ms": 203826,
       "name": "Shy (eh o)",
       "url": "https://open.spotify.com/track/5UPrxc9ewxFRaSGMPkad3O"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Signal Violation (feat. Heize)",
+      "url": "https://open.spotify.com/track/3TruIRyNIJHFSJQkEsrqDZ"
     },
     {
       "album": {

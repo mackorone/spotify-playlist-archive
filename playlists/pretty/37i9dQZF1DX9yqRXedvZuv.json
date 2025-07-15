@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1860,
+  "num_followers": 1859,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Butterfly Doors",
+        "url": "https://open.spotify.com/album/2xnbz07xbVryLEPAfKvv5j"
+      },
+      "artists": [
+        {
+          "name": "Onlybino!",
+          "url": "https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF"
+        }
+      ],
+      "duration_ms": 112336,
+      "name": "Butterfly Doors",
+      "url": "https://open.spotify.com/track/4QbB0QbO9BtwgIGn7k9ZMI"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 269727,
       "name": "lost souls (with Brent Faiyaz)",
       "url": "https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Butterfly Doors",
-        "url": "https://open.spotify.com/album/2xnbz07xbVryLEPAfKvv5j"
-      },
-      "artists": [
-        {
-          "name": "Onlybino!",
-          "url": "https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF"
-        }
-      ],
-      "duration_ms": 112336,
-      "name": "Butterfly Doors",
-      "url": "https://open.spotify.com/track/4QbB0QbO9BtwgIGn7k9ZMI"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "4NEM",
-        "url": "https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 248372,
-      "name": "Yes Sir",
-      "url": "https://open.spotify.com/track/104mFOY5wuBms2wwEC14Qk"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Mo Thugs Records Presents: West Coast Bangers, Vol. 2",
         "url": "https://open.spotify.com/album/7I4OrohyqzbTrkMCoyhBEV"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 398207,
       "name": "Cartoon",
       "url": "https://open.spotify.com/track/31Yebmn7gDvxc0yjRV8M5t"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "4NEM",
+        "url": "https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 248372,
+      "name": "Yes Sir",
+      "url": "https://open.spotify.com/track/104mFOY5wuBms2wwEC14Qk"
     },
     {
       "added_at": "2022-10-01 17:37:57",

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-675 songs - 1 day 13 hr 58 min
+676 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 | 2022-10-05 | 2023-06-23 |
 | [i luv ur smile](https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD) | [Harrisun](https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A) | [i luv ur smile](https://open.spotify.com/album/19ADS40GUeLlNCa7Rbk2gP) | 4:07 | 2023-08-11 | 2024-03-23 |
 | [I See You \(with Marc E\. Bassy\)](https://open.spotify.com/track/2Z8PrOwTgFVP6kJNtPTkMq) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [I See You \(with Marc E\. Bassy\)](https://open.spotify.com/album/0R5neGxstfsw1hZpjFSHcm) | 2:53 | 2022-03-09 | 2022-03-31 |
+| [I WANNA KNOW](https://open.spotify.com/track/6UXqR3MQtiW0pX6Ozl43KY) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [I WANNA KNOW](https://open.spotify.com/album/2JX1nPMEBCUAb8zHGGscPa) | 2:27 | 2025-07-14 |  |
 | [I Want You 2 \(Stay\) \- Slow Magic Remix](https://open.spotify.com/track/45VQ9bNqtFe99XJb2NyTPq) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [ILLENIUM \(Remixes\)](https://open.spotify.com/album/6Ugig0sDdLrKGBW7j1skPO) | 3:56 | 2023-09-29 | 2024-08-07 |
 | [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 | 2022-08-12 | 2023-01-30 |
 | [i'll be there](https://open.spotify.com/track/2oRO0TDoMyhowADpRKqexD) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [i'll be there](https://open.spotify.com/album/591MuZEfnrMQfVtIv270WE) | 2:37 | 2022-12-12 |  |

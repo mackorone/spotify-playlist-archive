@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 50673,
+  "num_followers": 50684,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAA0TKOtl/ROdf5AfLf4FrDo",
+  "snapshot_id": "aHL3AAAAAACP9ISItCp/aFqO0uZKTWee",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Mad Love (I Want You To Love Me) - Single Version",
+      "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 277080,
       "name": "Train Fare Home - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
       "url": "https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 183880,
-      "name": "Mad Love (I Want You To Love Me) - Single Version",
-      "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
     },
     {
       "added_at": null,

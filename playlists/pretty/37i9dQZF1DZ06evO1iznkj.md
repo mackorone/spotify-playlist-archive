@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,889 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,956 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 37 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
 | 38 | [Heat \(feat\. Gunna\)](https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:52 |
 | 39 | [NASTY GIRL / ON CAMERA](https://open.spotify.com/track/2f8y4CuG57UJEmkG3ujd0D) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:50 |
-| 40 | [STREET SWEEPER \(feat\. Future\)](https://open.spotify.com/track/3pjzb1lnMOJbWbghMGSp23) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 3:12 |
-| 41 | [idk that bitch \(feat\. G Herbo\)](https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:30 |
+| 40 | [idk that bitch \(feat\. G Herbo\)](https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:30 |
+| 41 | [STREET SWEEPER \(feat\. Future\)](https://open.spotify.com/track/3pjzb1lnMOJbWbghMGSp23) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 3:12 |
 | 42 | [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 |
 | 43 | [His & Hers \(feat\. Don Toliver & Lil Uzi Vert\)](https://open.spotify.com/track/5LKIZ4UTKebSE5VFbLSQnr) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver & Lil Uzi Vert\)](https://open.spotify.com/album/6FJQeinfF6MQckQ0HbTRxe) | 3:44 |
 | 44 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 49 | [Surf \(feat\. Gunna\)](https://open.spotify.com/track/6igOR5QCn09zAVF2ikZjsV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:04 |
 | 50 | [Heatin Up \(feat\. Gunna\)](https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:57 |
 
-Snapshot ID: `aHGlgAAAAABM/+YrgDT3aDGgAjqdpCax`
+Snapshot ID: `aHL3AAAAAAAu7nDs0Azm7RH/Ucxlmt0o`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAABq85PcGsPg8NBhjcOsjbO+",
+  "snapshot_id": "aHL3AAAAAACjRuhGtgz4lqncfK4l8M9K",
   "tracks": [
     {
       "added_at": null,
@@ -548,21 +548,25 @@
       },
       "artists": [
         {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        },
-        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Utkarsh Ambudkar",
+          "url": "https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN"
+        },
+        {
+          "name": "Dul\u00e9 Hill",
+          "url": "https://open.spotify.com/artist/4iLOFMymd0SD6ToHoSlZFo"
         },
         {
           "name": "Lulu Is a Rhinoceros",
           "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
         }
       ],
-      "duration_ms": 131682,
-      "name": "Start the Day Again",
-      "url": "https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f"
+      "duration_ms": 181644,
+      "name": "The Perfect Me (Finale)",
+      "url": "https://open.spotify.com/track/0RXgQc5EtRMQHs9jveAcPk"
     },
     {
       "added_at": null,
@@ -632,25 +636,21 @@
       },
       "artists": [
         {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        },
+        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Utkarsh Ambudkar",
-          "url": "https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN"
-        },
-        {
-          "name": "Dul\u00e9 Hill",
-          "url": "https://open.spotify.com/artist/4iLOFMymd0SD6ToHoSlZFo"
         },
         {
           "name": "Lulu Is a Rhinoceros",
           "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
         }
       ],
-      "duration_ms": 181644,
-      "name": "The Perfect Me (Finale)",
-      "url": "https://open.spotify.com/track/0RXgQc5EtRMQHs9jveAcPk"
+      "duration_ms": 131682,
+      "name": "Start the Day Again",
+      "url": "https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f"
     },
     {
       "added_at": null,

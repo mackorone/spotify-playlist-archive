@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105433,
+  "num_followers": 105436,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-07-11 08:21:39",
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "GO BABY",
+      "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
+    },
+    {
+      "added_at": "2025-07-11 08:21:39",
+      "album": {
         "name": "American Heart",
         "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
       },
@@ -479,6 +495,22 @@
       "duration_ms": 190320,
       "name": "Mr Electric Blue",
       "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
+    },
+    {
+      "added_at": "2025-07-11 08:21:39",
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
     },
     {
       "added_at": "2025-07-11 08:21:39",
@@ -519,22 +551,6 @@
     {
       "added_at": "2025-07-11 08:21:39",
       "album": {
-        "name": "Survive",
-        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 225211,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
-    },
-    {
-      "added_at": "2025-07-11 08:21:39",
-      "album": {
         "name": "Fame is a Gun",
         "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
-    },
-    {
-      "added_at": "2025-07-11 08:21:39",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "GO BABY",
-      "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
     },
     {
       "added_at": "2025-07-11 08:21:39",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-07-11 08:21:39",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
-    },
-    {
-      "added_at": "2025-07-11 08:21:39",
-      "album": {
         "name": "BLISS",
         "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 164000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "added_at": "2025-07-11 08:21:39",
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
       "added_at": "2025-07-11 08:21:39",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-07-11 08:21:39",
       "album": {
-        "name": "Momma Song",
-        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Momma Song",
-      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
-    },
-    {
-      "added_at": "2025-07-11 08:21:39",
-      "album": {
         "name": "Fuck Me Eyes",
         "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 364800,
       "name": "Fuck Me Eyes",
       "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
+    },
+    {
+      "added_at": "2025-07-11 08:21:39",
+      "album": {
+        "name": "Momma Song",
+        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
     },
     {
       "added_at": "2025-07-11 08:21:39",
@@ -967,18 +967,18 @@
     {
       "added_at": "2025-07-11 08:21:39",
       "album": {
-        "name": "Superman",
-        "url": "https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P"
+        "name": "vampire diaries",
+        "url": "https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 188200,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV"
+      "duration_ms": 155347,
+      "name": "vampire diaries",
+      "url": "https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ"
     },
     {
       "added_at": "2025-07-11 08:21:39",
@@ -995,6 +995,22 @@
       "duration_ms": 176923,
       "name": "Wet, Hot American Dream",
       "url": "https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ"
+    },
+    {
+      "added_at": "2025-07-11 08:21:39",
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV"
     },
     {
       "added_at": "2025-07-11 08:21:39",
@@ -1083,22 +1099,6 @@
       "duration_ms": 155495,
       "name": "Invincible - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
-    },
-    {
-      "added_at": "2025-07-11 08:21:39",
-      "album": {
-        "name": "vampire diaries",
-        "url": "https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 155347,
-      "name": "vampire diaries",
-      "url": "https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ"
     },
     {
       "added_at": "2025-07-11 08:21:39",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-07-11 08:21:39",
       "album": {
+        "name": "10 ud af 10",
+        "url": "https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "duration_ms": 150705,
+      "name": "10 ud af 10",
+      "url": "https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM"
+    },
+    {
+      "added_at": "2025-07-11 08:21:39",
+      "album": {
         "name": "Sinners (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 213480,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/39SiqHAtZp7H5yDlRVkM4U"
-    },
-    {
-      "added_at": "2025-07-11 08:21:39",
-      "album": {
-        "name": "10 ud af 10",
-        "url": "https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p"
-      },
-      "artists": [
-        {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
-        }
-      ],
-      "duration_ms": 150705,
-      "name": "10 ud af 10",
-      "url": "https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM"
     },
     {
       "added_at": "2025-07-11 08:21:39",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-07-11 08:21:39",
       "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "added_at": "2025-07-11 08:21:39",
+      "album": {
         "name": "New Country (feat. Blake Shelton)",
         "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
       },
@@ -1371,26 +1387,22 @@
     {
       "added_at": "2025-07-11 08:21:39",
       "album": {
-        "name": "Air Maxes",
-        "url": "https://open.spotify.com/album/3uJi79dqEa5suZaCg5DTGK"
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         },
         {
-          "name": "Shady Nasty",
-          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 181172,
-      "name": "Air Maxes",
-      "url": "https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA"
+      "duration_ms": 172081,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
     },
     {
       "added_at": "2025-07-11 08:21:39",
@@ -1407,34 +1419,6 @@
       "duration_ms": 162585,
       "name": "\u00c5boulevarden",
       "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
-    },
-    {
-      "added_at": "2025-07-11 08:21:39",
-      "album": {
-        "name": "Go Masala (feat. Klamfyr, USSEL & NIKLAS)",
-        "url": "https://open.spotify.com/album/2MakWMmtxOss5xGFoahraL"
-      },
-      "artists": [
-        {
-          "name": "Rune Rask",
-          "url": "https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0"
-        },
-        {
-          "name": "Klamfyr",
-          "url": "https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS"
-        },
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        },
-        {
-          "name": "Niklas",
-          "url": "https://open.spotify.com/artist/5W02tXnCnuB2Hy5x1fNHsf"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Go Masala (feat. Klamfyr, USSEL & NIKLAS)",
-      "url": "https://open.spotify.com/track/6ugWrKsKjxSiKmbkTVQD8c"
     }
   ],
   "unique_name": "De nye",

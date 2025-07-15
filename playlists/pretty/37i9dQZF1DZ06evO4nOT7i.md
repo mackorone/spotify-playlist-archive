@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nOT7i.md) - [plain]
 
 > This is Rex Orange County\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,914 likes - 46 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,947 likes - 46 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nOT7i.md) - [plain]
 | 3 | [Best Friend](https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW) | 4:22 |
 | 4 | [Happiness](https://open.spotify.com/track/7aSyG7cskkG3zhfO2JLxq3) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT) | 4:39 |
 | 5 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 |
-| 6 | [Rearrange My World](https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 3:48 |
-| 7 | [AMAZING](https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:29 |
+| 6 | [AMAZING](https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:29 |
+| 7 | [Rearrange My World](https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 3:48 |
 | 8 | [Television / So Far So Good](https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT) | 4:22 |
 | 9 | [Sunflower](https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE) | 4:12 |
 | 10 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nOT7i.md) - [plain]
 | 45 | [Know Love](https://open.spotify.com/track/6EyMjnZqL89XVWWM1jT4Ci) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 4:01 |
 | 46 | [Paradise](https://open.spotify.com/track/0AOc5dG23RCMvXTi47aLdl) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 3:37 |
 
-Snapshot ID: `aHGlgAAAAABX2hs7tI6dclU+xW8bj9CK`
+Snapshot ID: `aHL3AAAAAACc/mLZ3DOf/LkmNRDRNWmP`

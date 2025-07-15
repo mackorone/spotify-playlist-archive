@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Kae Tempest
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,066 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,072 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 19 | [Ain't I Good For You](https://open.spotify.com/track/77WEFz4sR98WRO01patyZm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Ain't I Good For You](https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb) | 2:41 |
 | 20 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
 | 21 | [time to go](https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [time to go](https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p) | 3:29 |
-| 22 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 |
-| 23 | [My Girl](https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [My Girl](https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09) | 2:58 |
-| 24 | [Fly With Me](https://open.spotify.com/track/4SGqihGXIxMMRpZeDsyEfS) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Fly With Me](https://open.spotify.com/album/1kp8BBWEumGAbp4z6qJ4op) | 1:42 |
-| 25 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 |
+| 22 | [My Girl](https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [My Girl](https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09) | 2:58 |
+| 23 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 |
+| 24 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 |
+| 25 | [Fly With Me](https://open.spotify.com/track/4SGqihGXIxMMRpZeDsyEfS) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Fly With Me](https://open.spotify.com/album/1kp8BBWEumGAbp4z6qJ4op) | 1:42 |
 | 26 | [Straight Drop X5](https://open.spotify.com/track/3kUbJTF3u2Ge4j4IzCwlz5) | [Asco](https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r) | [Straight Drop X5](https://open.spotify.com/album/7Kj7DByiJxyuUIfCHqYrTe) | 3:26 |
 | 27 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
 | 28 | [Date Nite](https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Date Nite](https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP) | 2:31 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 45 | [What Can I Say](https://open.spotify.com/track/6HVlPPWZcwAQOtvPbNnJMI) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [What Can I Say](https://open.spotify.com/album/3VO4UKvjQDYYseML7IyGJN) | 2:42 |
 | 46 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 |
 | 47 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 |
-| 48 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 |
-| 49 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
+| 48 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
+| 49 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 |
 | 50 | [wanted](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 |
 | 51 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
 | 52 | [Angel Patience](https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Angel Patience](https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp) | 3:33 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 56 | [19](https://open.spotify.com/track/7uCtddSloI5jRSUWUdbEyY) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [19](https://open.spotify.com/album/5bQoKnUIUOkARXThz4uRAK) | 3:25 |
 | 57 | [Fit ID](https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Fit ID](https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt) | 2:38 |
 | 58 | [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 |
-| 59 | [WHITE NOISE](https://open.spotify.com/track/5HT8TOYAhw3sfvqZowrVMH) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [WHITE NOISE](https://open.spotify.com/album/1Ed7eYD0Z6o1BZU5p5mjtd) | 3:12 |
-| 60 | [ROSTER](https://open.spotify.com/track/6FnezcbAmX7tOMF4hSi71K) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o), [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [\#\#MOTIONMUZIK](https://open.spotify.com/album/31poFvXB8ciLoUulSDsbgM) | 2:14 |
+| 59 | [ROSTER](https://open.spotify.com/track/6FnezcbAmX7tOMF4hSi71K) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o), [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [\#\#MOTIONMUZIK](https://open.spotify.com/album/31poFvXB8ciLoUulSDsbgM) | 2:14 |
+| 60 | [WHITE NOISE](https://open.spotify.com/track/5HT8TOYAhw3sfvqZowrVMH) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [WHITE NOISE](https://open.spotify.com/album/1Ed7eYD0Z6o1BZU5p5mjtd) | 3:12 |
 
 Snapshot ID: `aGcLgQAAAAAGRRmV1RSr/JJkAnopNB7c`

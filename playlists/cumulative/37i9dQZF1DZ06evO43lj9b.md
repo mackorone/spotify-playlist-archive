@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-55 songs - 4 hr 3 min
+56 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,11 +38,12 @@
 | [Liquid Love](https://open.spotify.com/track/1uOgZkPPwGgya04nRoM1wy) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 4:46 | 2025-03-11 |  |
 | [Love Will Bring Us Back Together](https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:55 | 2025-07-02 |  |
 | [Love Will Bring Us Back Together](https://open.spotify.com/track/5yw2PVkZ9ttCVsBlDBIOb2) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Fever](https://open.spotify.com/album/7hAg1MAB7TPe6IEDKk2SUD) | 6:01 | 2025-03-11 | 2025-07-02 |
-| [Mystery of Love](https://open.spotify.com/track/30SaZGpgPzSPrOvXb5ygYw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Virgin Ubiquity: Unreleased Recordings 1976 \- 1981](https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU) | 3:51 | 2025-04-14 |  |
+| [Mystery of Love](https://open.spotify.com/track/30SaZGpgPzSPrOvXb5ygYw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Virgin Ubiquity: Unreleased Recordings 1976 \- 1981](https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU) | 3:51 | 2025-04-14 | 2025-07-15 |
 | [Mystic Voyage](https://open.spotify.com/track/6eGghCgGqV7xo7FrU0hjcB) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Brighter Day](https://open.spotify.com/album/6OPYx8TIsbGLZQAvCddKNh) | 4:13 | 2025-03-11 |  |
 | [Mystic Voyage](https://open.spotify.com/track/7jFpUEw5rRjSfoUBC6kwWw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 3:42 | 2025-03-11 |  |
 | [Papa Was A Rolling Stone](https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:33 | 2025-03-11 |  |
 | [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 | 2025-03-11 |  |
+| [Proceed II](https://open.spotify.com/track/4h8tPJddGifuAKtgCnqRDj) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Do You Want More?!!!??! \(Deluxe Version\)](https://open.spotify.com/album/4CUBkEbEXZnhuOjFfaWcg9) | 5:47 | 2025-07-15 |  |
 | [Red, Black & Green](https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 4:40 | 2025-03-11 |  |
 | [Rise](https://open.spotify.com/track/0MaQuFkyOav01SbKFARhQF) | [Richard Earnshaw](https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In Time](https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E) | 6:16 | 2025-03-11 |  |
 | [Running Away](https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 4:00 | 2025-03-11 |  |

@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 93208,
+  "num_followers": 93240,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Que Beleza",
+        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Flora Matos Vs. Stereodubs",
         "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 147466,
       "name": "Pretin (Ver\u00e3o, Pt. 1)",
       "url": "https://open.spotify.com/track/4kDGFnLmcAxlWuBpxnQbJz"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Que Beleza",
-        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
     },
     {
       "added_at": "2022-09-22 18:13:04",

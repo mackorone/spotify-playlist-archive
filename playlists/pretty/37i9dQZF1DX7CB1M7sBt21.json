@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 71368,
+  "num_followers": 71390,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Never Be Lonely",
-        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 134570,
-      "name": "Never Be Lonely",
-      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "In My Bones",
         "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 156126,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Never Be Lonely",
+        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 134570,
+      "name": "Never Be Lonely",
+      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
     },
     {
       "added_at": "2024-08-29 22:00:00",

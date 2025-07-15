@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495,868 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495,838 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 48 | [High On My Lows](https://open.spotify.com/track/1kCJ1s8wtiXF3OK3dwQIcG) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [High On My Lows](https://open.spotify.com/album/0hMq2OW2LKUNWGcM1p5VeP) | 2:58 |
 | 49 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 |
 | 50 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
-| 51 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
-| 52 | [Stella Brown](https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 3:06 |
+| 51 | [Stella Brown](https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 3:06 |
+| 52 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 53 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 |
 | 54 | [Explode!](https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Grief Chapter](https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU) | 2:31 |
 | 55 | [Giving Up](https://open.spotify.com/track/1MDkdfWPIaV4YZ2vnJyDB7) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Giving Up](https://open.spotify.com/album/6CAtz3dRGq2NS42PdqieCf) | 3:14 |
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 85 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 |
 | 86 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
 | 87 | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 |
-| 88 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
-| 89 | [Brighter Day](https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Brighter Day](https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT) | 3:13 |
+| 88 | [Brighter Day](https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Brighter Day](https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT) | 3:13 |
+| 89 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
 | 90 | [Subliminal](https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Subliminal](https://open.spotify.com/album/70z6aeKugkiOwBEpVjkjuj) | 2:45 |
-| 91 | [WHAT THE HELL](https://open.spotify.com/track/3E3s4xXjmt43Bl1SIC3ij7) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL) | 2:52 |
-| 92 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
+| 91 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
+| 92 | [WHAT THE HELL](https://open.spotify.com/track/3E3s4xXjmt43Bl1SIC3ij7) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL) | 2:52 |
 | 93 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 |
 | 94 | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2) | 3:19 |
 | 95 | [Control](https://open.spotify.com/track/6TDl9RlC2udRlAyxDwEm7H) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Birthday Boy](https://open.spotify.com/album/05eCZ53ezt3hInqJu980ro) | 3:04 |

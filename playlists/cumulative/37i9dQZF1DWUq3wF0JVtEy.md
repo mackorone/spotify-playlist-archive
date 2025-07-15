@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-544 songs - 1 day 2 hr 30 min
+545 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Miami \(Öwnboss Extended Remix\) \[feat\. Nile Rodgers\]](https://open.spotify.com/track/3lUJNlIFgP9lvunZIqgZH3) | [Lola Audreys](https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Miami \(Öwnboss Remix\) \[feat\. Nile Rodgers\]](https://open.spotify.com/album/2HTCGfMaVGgW5MJJaGH3oJ) | 3:45 | 2023-01-06 | 2023-07-04 |
 | [Midnight](https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Midnight](https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3) | 3:19 | 2022-07-22 | 2023-05-13 |
 | [Midnight Trip](https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Midnight Trip](https://open.spotify.com/album/6HNCtwAe16YWpp2i5HKbk6) | 3:14 | 2024-11-08 |  |
-| [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 | 2023-11-24 |  |
+| [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 | 2023-11-24 | 2025-07-15 |
 | [Mini Skirt](https://open.spotify.com/track/4L5aysnpEXU7YtRU8HQ3GI) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Mini Skirt](https://open.spotify.com/album/77EIwM8PC7uBqEqDH6MFW3) | 2:31 | 2023-11-10 | 2024-02-24 |
 | [MIRRORS](https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [MIRRORS](https://open.spotify.com/album/05z888GjArijqttcX87svP) | 2:37 | 2022-11-18 | 2023-11-18 |
 | [Molotov](https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Molotov](https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e) | 2:58 | 2023-03-10 | 2023-06-25 |
@@ -461,6 +461,7 @@
 | [Sirens](https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Sirens](https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH) | 2:30 | 2025-07-04 |  |
 | [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 | 2021-10-29 | 2022-11-12 |
 | [Smack That](https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [CJ.](https://open.spotify.com/artist/1EUvNOgSHmGTn7sAkKGopj) | [Smack That](https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ) | 2:40 | 2023-04-21 |  |
+| [Small Talk](https://open.spotify.com/track/1Geetz5pLP3lLd7QdeZ00b) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Small Talk](https://open.spotify.com/album/587wpTy72AnjZU8aWFEbWo) | 2:01 | 2025-07-11 |  |
 | [So We Go \- Martin Jensen Edit](https://open.spotify.com/track/0cWDechbo7Tmf6nk0QRLhI) | [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [So We Go \(Martin Jensen Edit\)](https://open.spotify.com/album/1Dh413qT2GcFUGdcRqJZB6) | 2:24 | 2021-10-29 | 2022-08-06 |
 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 | 2022-07-29 |  |
 | [Something's about to go down](https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Something's about to go down](https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK) | 3:35 | 2021-10-29 | 2022-12-17 |

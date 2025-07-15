@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,814 likes - 115 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,953 likes - 115 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 50 | [Summer Breeze](https://open.spotify.com/track/5i6CpkeePD4aKacf0cmZqg) | [The Main Ingredient](https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm) | [Euphrates River \(Bonus Track Version\)](https://open.spotify.com/album/0QAgVwKBZAZFMkCDzmmBBj) | 4:16 |
 | 51 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX) | 2:30 |
 | 52 | [Take What's Given](https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What's Given](https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F) | 2:54 |
-| 53 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 |
-| 54 | [Great Big Bundle Of Love](https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Brenton Wood's 18 Best](https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa) | 2:18 |
+| 53 | [Great Big Bundle Of Love](https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Brenton Wood's 18 Best](https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa) | 2:18 |
+| 54 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 |
 | 55 | [All I Really Wanna Do](https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [All I Really Wanna Do](https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks) | 3:42 |
 | 56 | [Dream Free](https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 4:18 |
 | 57 | [Two Trees](https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 4:10 |
@@ -106,13 +106,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 96 | [U Got Me](https://open.spotify.com/track/7L4NuySQbbajDBD8ozjn04) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [The Midst of Things](https://open.spotify.com/album/2ayfyjguop22nTbxg5puSZ) | 3:26 |
 | 97 | [Find Somebody to Love](https://open.spotify.com/track/7D4mBnlIlSG7VBvAljjkZS) | [Dante Elephante](https://open.spotify.com/artist/3RdlkFPALHduIIZSinXgJZ) | [Mid\-Century Modern Romance](https://open.spotify.com/album/3lquhZzldiNKkeBxSEDUuJ) | 3:12 |
 | 98 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
-| 99 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 |
-| 100 | [Tell Me With Your Eyes \(Just Be You\)](https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108) | [Rob Galbraith](https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc) | [Damn It All](https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd) | 3:47 |
+| 99 | [Tell Me With Your Eyes \(Just Be You\)](https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108) | [Rob Galbraith](https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc) | [Damn It All](https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd) | 3:47 |
+| 100 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 |
 | 101 | [Somebody New](https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie Sings \(45th Anniversary Edition\)](https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A) | 2:56 |
 | 102 | [Progress](https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty) | [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U), [Yim Yames](https://open.spotify.com/artist/3xYTLiIPIJU3KPFB8tqFSd) | [The Road From Memphis \(Deluxe Edition\)](https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY) | 3:19 |
 | 103 | [Kathy and Paul](https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6) | [Long Island Railroad](https://open.spotify.com/artist/2zZSQmUEnIliGJRClpPb70), [Smushie](https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH), [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA) | [Kathy and Paul](https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C) | 2:54 |
-| 104 | [Oh Honey](https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm) | 3:30 |
-| 105 | [Coolhand](https://open.spotify.com/track/3HkISVjNOvVrHmHZpKgkdE) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Coolhand](https://open.spotify.com/album/5ttfJqE5cQ9U0ffPuVOePK) | 3:38 |
+| 104 | [Coolhand](https://open.spotify.com/track/3HkISVjNOvVrHmHZpKgkdE) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Coolhand](https://open.spotify.com/album/5ttfJqE5cQ9U0ffPuVOePK) | 3:38 |
+| 105 | [Oh Honey](https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm) | 3:30 |
 | 106 | [Someone Else](https://open.spotify.com/track/5sGub8Btll3qnMlKinrpz4) | [Henry Wolfe](https://open.spotify.com/artist/2YFql5yrx8t4yrCVzvD8Cn) | [Linda Vista](https://open.spotify.com/album/3EVXpkAnYCI2YhlRAceg5g) | 4:04 |
 | 107 | [Complete Annihilation!](https://open.spotify.com/track/252brHktw7kGAdCCahQpW8) | [Smushie](https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH) | [Complete Annihilation!](https://open.spotify.com/album/60frpW79j23XuMagTCBBMB) | 5:01 |
 | 108 | [Born Too Late](https://open.spotify.com/track/2f79cCVgumma4V11XQEhAu) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Warm Blanket](https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS) | 4:41 |

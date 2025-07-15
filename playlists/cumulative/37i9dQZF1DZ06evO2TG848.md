@@ -4,7 +4,7 @@
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-104 songs - 4 hr 11 min
+105 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bravery](https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:26 | 2023-08-31 |  |
 | [Brokeback Mountain 1](https://open.spotify.com/track/3xJLmXbWr5u2XXhZuuNtd9) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N) | 2:30 | 2025-06-30 |  |
 | [Brokeback Mountain 1](https://open.spotify.com/track/2MMboiwtvpKYz1jyB0FUnK) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 2:32 | 2023-08-31 | 2025-06-30 |
+| [Brokeback Mountain 2](https://open.spotify.com/track/5kgQk3nXmgrd0UeC7440ac) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N) | 1:56 | 2025-07-15 |  |
 | [Brokeback Mountain 2](https://open.spotify.com/track/56zGM574ZkZqiU4E2IVjJ3) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:59 | 2024-02-10 | 2025-04-25 |
 | [Calmamente](https://open.spotify.com/track/0plusgVzCSjJIN69OVi99w) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Qhapaq Ñan](https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce) | 1:29 | 2023-12-13 | 2025-01-18 |
 | [Can Things Be Better?](https://open.spotify.com/track/4picv6NPkhMDEBNTk8uenV) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [21 Grams \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VjqWzO8AsxgpOhjnbzJTr) | 1:19 | 2024-01-11 | 2024-04-21 |
@@ -42,7 +43,7 @@
 | [Del Pago \- 2024 Remaster](https://open.spotify.com/track/5KsGluEh4MblJ078mjzbcB) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:02 | 2024-05-14 | 2024-10-23 |
 | [Deportation/Iguazu](https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 4:49 | 2024-03-02 |  |
 | [Dream Of Higher Altitudes](https://open.spotify.com/track/0s26mtu36zpnnNRVZd7keR) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Nanga Parbat \(Original Soundtrack\)](https://open.spotify.com/album/2YKag72MOjVzBuGtZUUsEa) | 1:15 | 2023-08-31 | 2024-05-11 |
-| [Echoes of Yesterday](https://open.spotify.com/track/3SdZRmDUioL8nqyq0Q7TSB) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 2 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv) | 1:07 | 2025-06-11 |  |
+| [Echoes of Yesterday](https://open.spotify.com/track/3SdZRmDUioL8nqyq0Q7TSB) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 2 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv) | 1:07 | 2025-06-11 | 2025-07-15 |
 | [Ecstasy \(feat\. Gustavo Santaolalla\)](https://open.spotify.com/track/4siJiqVmN1sO5bZDDQSawE) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 2 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv) | 6:14 | 2025-05-28 |  |
 | [Ella](https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 1:40 | 2023-08-31 |  |
 | [Fleeting](https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us \- Vol\. 2 \(Video Game Soundtrack\)](https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV) | 3:00 | 2024-02-10 |  |

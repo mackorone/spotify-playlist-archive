@@ -1,6 +1,6 @@
 {
   "description": "why so hot?",
-  "num_followers": 22763,
+  "num_followers": 22764,
   "original_name": "very hot",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,26 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2025-02-21 01:51:21",
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 189109,
       "name": "The Lazy Song",
       "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
-    },
-    {
-      "added_at": "2025-02-21 01:51:21",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
     },
     {
       "added_at": "2025-02-21 01:51:21",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "us. (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
-    },
-    {
-      "added_at": "2025-02-21 01:51:21",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -883,18 +863,22 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Slow Dancing in a Burning Room",
-      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
       "added_at": "2025-02-21 01:51:21",
@@ -911,6 +895,22 @@
       "duration_ms": 181506,
       "name": "THE SHADE",
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
+    },
+    {
+      "added_at": "2025-02-21 01:51:21",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
     },
     {
       "added_at": "2025-02-21 01:51:21",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2025-02-21 01:51:21",
-      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+    },
+    {
+      "added_at": "2025-02-21 01:51:21",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2025-02-21 01:51:21",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+    },
+    {
+      "added_at": "2025-02-21 01:51:21",
+      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB"
-    },
-    {
-      "added_at": "2025-02-21 01:51:21",
-      "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 193260,
-      "name": "Drunk-Dazed",
-      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
     },
     {
       "added_at": "2025-02-21 01:51:21",

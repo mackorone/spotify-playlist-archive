@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 5918,
+  "num_followers": 5933,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAYKho29HXpoGaJM+y6vON+",
+  "snapshot_id": "aHL3AAAAAADNCBwbAVarpdw9kcsQjzap",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pay Me",
-        "url": "https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll"
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
       "artists": [
         {
-          "name": "Panaache",
-          "url": "https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27"
-        },
-        {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 127529,
-      "name": "Pay Me",
-      "url": "https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI"
+      "duration_ms": 164571,
+      "name": "Play (feat. Fave)",
+      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
     },
     {
       "added_at": null,
@@ -367,22 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+        "name": "Pay Me",
+        "url": "https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll"
       },
       "artists": [
         {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+          "name": "Panaache",
+          "url": "https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27"
         },
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Play (feat. Fave)",
-      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
+      "duration_ms": 127529,
+      "name": "Pay Me",
+      "url": "https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ali (Remix)",
         "url": "https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 202301,
       "name": "Ali (Remix)",
       "url": "https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adura",
-        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Adura",
-      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
     },
     {
       "added_at": null,

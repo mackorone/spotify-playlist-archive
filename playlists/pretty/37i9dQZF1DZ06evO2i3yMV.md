@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,505 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,506 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 39 | [For My Eternal, Oh Dream My Treasure](https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 2:49 |
 | 40 | [Love That Never \- IMANU Remix](https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH) | 3:34 |
 | 41 | [Soul to Seoul](https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 3:29 |
-| 42 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 |
-| 43 | [Renter's Anthem](https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:58 |
+| 42 | [Sci Fi \- Polar Youth Remix](https://open.spotify.com/track/0otrVay0LC541ZquwIKpZh) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Polar Youth](https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6) | [Eternal Reverie Remixes](https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo) | 3:07 |
+| 43 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 |
 | 44 | [Sweet Day](https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:36 |
-| 45 | [NO WAY](https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [NO WAY](https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x) | 3:24 |
-| 46 | [Sci Fi \- Polar Youth Remix](https://open.spotify.com/track/0otrVay0LC541ZquwIKpZh) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Polar Youth](https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6) | [Eternal Reverie Remixes](https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo) | 3:07 |
-| 47 | [Fried for the Night](https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:11 |
-| 48 | [Bright Shadows](https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:50 |
-| 49 | [Early to Dawn \(feat\. Selah Sue\)](https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 3:38 |
+| 45 | [Renter's Anthem](https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:58 |
+| 46 | [NO WAY](https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [NO WAY](https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x) | 3:24 |
+| 47 | [Bright Shadows](https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:50 |
+| 48 | [Early to Dawn \(feat\. Selah Sue\)](https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 3:38 |
+| 49 | [Fried for the Night](https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:11 |
 | 50 | [Dream Chorus](https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Dream Chorus](https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ) | 2:19 |
 
-Snapshot ID: `aHGlgAAAAAD9jJvbioenI2K+e9q7vKr4`
+Snapshot ID: `aHL3AAAAAABWcxs6ElJNj1UBWdR6yJxE`

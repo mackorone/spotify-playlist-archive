@@ -5,6 +5,60 @@
   "tracks": [
     {
       "album": {
+        "name": "000",
+        "url": "https://open.spotify.com/album/6MtMuRQEPwhMtckZALQwhR"
+      },
+      "artists": [
+        {
+          "name": "Lotic",
+          "url": "https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "000",
+      "url": "https://open.spotify.com/track/0D2SfY0x63lBhO6vC1U8jk"
+    },
+    {
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/1N52ygzGWJNoQLLN61U5dH"
+      },
+      "artists": [
+        {
+          "name": "Lotic",
+          "url": "https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "001.01",
+      "url": "https://open.spotify.com/track/6ZnfOSzpmtfubLVFiWmARr"
+    },
+    {
+      "album": {
+        "name": "002",
+        "url": "https://open.spotify.com/album/4Mygysr2ngbO5glIoLT1PT"
+      },
+      "artists": [
+        {
+          "name": "Lotic",
+          "url": "https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200888,
+      "name": "002.01 Let's Keep Pushing Through",
+      "url": "https://open.spotify.com/track/5qu3absBdkAxvW9Fmc3BKn"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/7neio4srvDRACrUSTdpMMf"
       },
@@ -34,7 +88,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 78222,
       "name": "A Reason",
       "url": "https://open.spotify.com/track/5hzqgjAIcQRdgQEyWuLkns"
@@ -110,7 +164,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 266277,
       "name": "Basics",
       "url": "https://open.spotify.com/track/6aNoPNaFEQDwKwuCzSAAkz"
@@ -350,7 +404,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 142222,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/3UrgzK9grHFR13O3WkiTLD"
@@ -559,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Damsel in Distress II",
+        "url": "https://open.spotify.com/album/4Qd57UF5lLuCxKniC8HsKE"
+      },
+      "artists": [
+        {
+          "name": "Lotic",
+          "url": "https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451000,
+      "name": "Damsel in Distress II",
+      "url": "https://open.spotify.com/track/6jpP0NtvZML3m2U8mWhxm9"
+    },
+    {
+      "album": {
         "name": "Como El Viento, Vuelve",
         "url": "https://open.spotify.com/album/4wzr8PFNtJWdU9yxqzHGbJ"
       },
@@ -650,6 +722,28 @@
       "duration_ms": 195520,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/5TxwSZehxrjoWLWeqvKpO3"
+    },
+    {
+      "album": {
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/4kLwbcuHJiJ6pMu3AyI2tk"
+      },
+      "artists": [
+        {
+          "name": "Andrea Carax",
+          "url": "https://open.spotify.com/artist/09KsWxNuWlya6rRvipzD5d"
+        },
+        {
+          "name": "Denali Nova",
+          "url": "https://open.spotify.com/artist/2Gn5hGorxkf9vEPPltGgfR"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162222,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/0Dx24XLhK5DbPUiNVfChc1"
     },
     {
       "album": {
@@ -862,7 +956,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 140000,
       "name": "Funny",
       "url": "https://open.spotify.com/track/4nuDDf6CLzze9sboDvGDTB"
@@ -1426,7 +1520,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 176000,
       "name": "MAY B U",
       "url": "https://open.spotify.com/track/3Uo5X78TTAuKfmz8P9AMfw"
@@ -1546,7 +1640,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 218666,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/7I3cma9FLToYN48pQfjGcn"
@@ -1568,7 +1662,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 134735,
       "name": "Nice Guy",
       "url": "https://open.spotify.com/track/5cThMoFV6XK0xCqEcNg6Jw"
@@ -1818,7 +1912,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 315692,
       "name": "Persistence",
       "url": "https://open.spotify.com/track/3PDwFwqXJAVhpTdKNakIK1"
@@ -1890,7 +1984,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 118000,
       "name": "Power (Just the Beats)",
       "url": "https://open.spotify.com/track/5eefVqLkbtR2WcCByO3FOa"
@@ -2014,7 +2108,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 58666,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/0EwfJ9zb2e0XYw87qQHCfe"
@@ -2072,7 +2166,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 170000,
       "name": "R\u00e9gime des Fleurs",
       "url": "https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp"
@@ -2352,7 +2446,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 137142,
       "name": "STAND BACK",
       "url": "https://open.spotify.com/track/4jK2loL0NeRIXT5u084b9V"
@@ -2526,7 +2620,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 257000,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/428wQF4vaqbvd9EGOPc4yo"
@@ -2562,7 +2656,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 177280,
       "name": "The Richest Garden in your Memory",
       "url": "https://open.spotify.com/track/5Snt7YJiJj5kGd1mSOiQtg"
@@ -2788,7 +2882,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 192848,
       "name": "UPP",
       "url": "https://open.spotify.com/track/11MHYvBOYGE98chs0XFbYB"

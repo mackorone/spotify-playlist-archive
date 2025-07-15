@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: disiz
 
-3,405 songs - 7 day 12 hr 1 min
+3,406 songs - 7 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Abimé](https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Goumin](https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF) | 2:34 | 2024-03-29 | 2024-05-21 |
 | [Absent](https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Absent](https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5) | 2:59 | 2024-11-08 | 2025-02-08 |
 | [Accros au danger](https://open.spotify.com/track/3lND2zJZoRWVMGf64mlXVQ) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Accros au danger](https://open.spotify.com/album/5gJTHu8d1TKftds8XTuVMg) | 2:38 | 2024-03-29 | 2024-04-06 |
-| [ACT 7](https://open.spotify.com/track/4Zgiqd8twiWV0XelwVolqQ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [ACT 7](https://open.spotify.com/album/4dl21seQMmtemAddp1actc) | 1:52 | 2025-05-23 |  |
+| [ACT 7](https://open.spotify.com/track/4Zgiqd8twiWV0XelwVolqQ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [ACT 7](https://open.spotify.com/album/4dl21seQMmtemAddp1actc) | 1:52 | 2025-05-23 | 2025-07-15 |
 | [Adam et Ève](https://open.spotify.com/track/6lIS3KKWdBTVMhgDE1uPcR) | [Diane Dufresne](https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs), [Michel Cusson](https://open.spotify.com/artist/0sr8isXfaYaHEZ5NBMWRP0) | [État de siège](https://open.spotify.com/album/1Vg7ghT9KCVbtE29gJurBE) | 5:30 | 2024-10-11 | 2024-10-19 |
 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 | 2023-09-22 | 2023-09-30 |
 | [Addictocrate](https://open.spotify.com/track/0KULVVQEKPVL2Ve4g4ri34) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Addictocrate](https://open.spotify.com/album/508sRFnLjCW27sJsleXuOm) | 2:38 | 2023-04-21 | 2023-06-03 |
@@ -2971,6 +2971,7 @@
 | [Tache d'encre](https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Tache d'encre](https://open.spotify.com/album/0yYien414Z46D8nNVjFj9d) | 3:12 | 2023-08-18 | 2023-08-26 |
 | [Tailler la route](https://open.spotify.com/track/1QVJOUGl1L8or594MDDuts) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg) | [Tailler la route](https://open.spotify.com/album/3s91oeMeDBxVZ3kv62wJC8) | 3:45 | 2022-09-16 | 2022-10-01 |
 | [Talk to Me](https://open.spotify.com/track/3wIs8BR2FV54qB6KFmS77c) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [RAP CLUB](https://open.spotify.com/album/2ta47Dlv3WNRu9dyR3anZ9) | 3:00 | 2023-11-17 | 2023-12-02 |
+| [Tana](https://open.spotify.com/track/2n39DVdBByJDt3CJNtEcwN) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Insomnia](https://open.spotify.com/album/2uurVfRTEefeoaMYulDTGU) | 2:36 | 2025-07-11 |  |
 | [Tandem](https://open.spotify.com/track/30nckYPABarwP1tgpdbA4C) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Tandem](https://open.spotify.com/album/5uSaewtVB2BYOpE3J1A1SL) | 4:56 | 2023-02-17 | 2023-03-04 |
 | [Tangible](https://open.spotify.com/track/0tbHNrfv5BgdGYhOSZqHWQ) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [D.O.U.X](https://open.spotify.com/album/0SQpyQBquvWkA8cHU2kdxv) | 4:00 | 2024-09-13 | 2024-09-21 |
 | [TANNANCE](https://open.spotify.com/track/2p74T4FWsclCtwapawzKns) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Micro](https://open.spotify.com/artist/6fIKBMQsifEPji0NkpoLml) | [438](https://open.spotify.com/album/3r1jlLQDGr9fcc0VVC2NT2) | 4:00 | 2023-12-01 | 2023-12-16 |

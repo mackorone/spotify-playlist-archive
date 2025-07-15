@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,251 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,253 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 45 | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/track/2bOLPLmnHoC8qAdsjSvRL8) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 6:41 |
 | 46 | [Ngoại ô buồn](https://open.spotify.com/track/3YPk1P3F4qnlnTCN1lrhJh) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuyệt phẩm Tuấn Vũ](https://open.spotify.com/album/1irQ9Llxt2PKrQgx0Cxujh) | 4:40 |
 | 47 | [Đò chiều](https://open.spotify.com/track/69ZuBaYz156wMPgIJKbLHi) | [Thanh Phong](https://open.spotify.com/artist/3zir1qGiUwDRJlez2949oc), [Phương Hồng Quế](https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap) | [Trúc Phương \- Ông Hoàng Của Dòng Nhạc Bolero](https://open.spotify.com/album/0wLJdOiBX8PE4Yg6tUUzqx) | 5:05 |
-| 48 | [Lạnh trọn đêm mưa](https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk) | [Lưu Hồng](https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB) | [Mưa Rừng](https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq) | 4:29 |
-| 49 | [Pho Dem](https://open.spotify.com/track/5iQuBfaljFa5W5W2QpGici) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 6:01 |
+| 48 | [Pho Dem](https://open.spotify.com/track/5iQuBfaljFa5W5W2QpGici) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 6:01 |
+| 49 | [Lạnh trọn đêm mưa](https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk) | [Lưu Hồng](https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB) | [Mưa Rừng](https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq) | 4:29 |
 | 50 | [Cho Vừa Lòng Em](https://open.spotify.com/track/6GNpeqpRmnw1vd7Qwikxur) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Đêm Tâm Sự \(Khúc Tình Xưa 3\)](https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV) | 5:18 |
 
 Snapshot ID: `aEarSgAAAAC8B4bxFB68M1S6fortSKhF`

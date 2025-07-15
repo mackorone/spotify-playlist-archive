@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 
 > This is Benson Boone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,837 likes - 31 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,434 likes - 31 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,19 +25,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 | 15 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
 | 16 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 |
 | 17 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 |
-| 18 | [Reminds Me Of You](https://open.spotify.com/track/7LHy7Dcts0UDZ6kXa9TgkE) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:58 |
-| 19 | [ROOM FOR 2](https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [ROOM FOR 2](https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz) | 2:31 |
-| 20 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
+| 18 | [Young American Heart](https://open.spotify.com/track/7gBoKtmVpD4QQ0AJHjpo5L) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:52 |
+| 19 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
+| 20 | [ROOM FOR 2](https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [ROOM FOR 2](https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz) | 2:31 |
 | 21 | [Be Someone](https://open.spotify.com/track/1j2iMeSWdsEP5ITCrZqbIL) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:44 |
-| 22 | [Wanted Man](https://open.spotify.com/track/3HBJNBuAHKhQXcQ8nnVvXX) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:55 |
+| 22 | [Reminds Me Of You](https://open.spotify.com/track/7LHy7Dcts0UDZ6kXa9TgkE) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:58 |
 | 23 | [Coffee Cake](https://open.spotify.com/track/31XxRxQ4g4mVkHoJwhCJ5z) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:06 |
 | 24 | [Let Me Go](https://open.spotify.com/track/4X27CYcGvCfy75TkVJehSG) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:39 |
 | 25 | [What Was](https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [What Was](https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T) | 3:35 |
-| 26 | [Young American Heart](https://open.spotify.com/track/7gBoKtmVpD4QQ0AJHjpo5L) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:52 |
+| 26 | [Wanted Man](https://open.spotify.com/track/3HBJNBuAHKhQXcQ8nnVvXX) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:55 |
 | 27 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 |
 | 28 | [Work of Art](https://open.spotify.com/track/0CmN570l8ZwQpI70oV8Avg) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:49 |
 | 29 | [Better Alone](https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Better Alone](https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD) | 3:29 |
 | 30 | [Lovely Darling](https://open.spotify.com/track/7JQfzB0Idz7zXvTRnvqggu) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 2:52 |
 | 31 | [Empty Heart Shaped Box](https://open.spotify.com/track/0bZdTyIER1CKRpdHXa579G) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:56 |
 
-Snapshot ID: `aHGlgAAAAADSRMHhCcw/kgaJ+UufmMCT`
+Snapshot ID: `aHL3AAAAAABPACw0Qjp7SmC1ee4KrTiT`

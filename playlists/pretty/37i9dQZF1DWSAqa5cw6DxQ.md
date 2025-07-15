@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,396 likes - 110 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,430 likes - 110 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

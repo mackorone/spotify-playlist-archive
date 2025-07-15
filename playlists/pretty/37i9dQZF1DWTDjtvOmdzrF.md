@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,165 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,207 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 36 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 |
 | 37 | [Tresno liyane](https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno liyane](https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE) | 4:50 |
 | 38 | [Resah](https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 4:00 |
-| 39 | [Kusut](https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:20 |
-| 40 | [Asmalibrasi](https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Asmalibrasi](https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw) | 4:14 |
+| 39 | [Asmalibrasi](https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Asmalibrasi](https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw) | 4:14 |
+| 40 | [Kusut](https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:20 |
 | 41 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 |
 | 42 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 |
 | 43 | [Tolong](https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tolong](https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47) | 4:10 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 70 | [Bicara \(feat\. Monita Tahalea\)](https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Memory Lane](https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C) | 3:56 |
 | 71 | [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 |
 | 72 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
-| 73 | [Lagunya Begini, Nadanya Begitu](https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet) | [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [Sekilas Info](https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh) | 5:50 |
-| 74 | [Kau Cantik Hari Ini](https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr) | [Lobow](https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib) | [Terus Bersinar](https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG) | 4:44 |
+| 73 | [Kau Cantik Hari Ini](https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr) | [Lobow](https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib) | [Terus Bersinar](https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG) | 4:44 |
+| 74 | [Lagunya Begini, Nadanya Begitu](https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet) | [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [Sekilas Info](https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh) | 5:50 |
 | 75 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
 
 Snapshot ID: `aBlFFgAAAAAX3kTXTDpCllQH2fwLsm1W`

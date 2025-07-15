@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,557 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,590 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 36 | [L'aurora](https://open.spotify.com/track/22jJTOMRp6aJrLROjDzcz4) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Humberto Gatica](https://open.spotify.com/artist/67K364KAVvBthhmq70ct4h) | [Dove c'è musica](https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX) | 5:35 |
 | 37 | [Casi Amor \(Quasi amore\) \- Remastered 2021](https://open.spotify.com/track/4x7OBTM0w4VgXd5sVaEdjS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 5:05 |
 | 38 | [A Medio Camino \- Remastered 2021](https://open.spotify.com/track/2Pt9kY02ODStk0n20FlEEM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias \(2021 Remastered Version\)](https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf) | 5:47 |
-| 39 | [Vita Ce N'è](https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:11 |
-| 40 | [Amarti è l'immenso per me](https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Antonella Bucci](https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL) | [In Ogni Senso](https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD) | 4:24 |
+| 39 | [Amarti è l'immenso per me](https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Antonella Bucci](https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL) | [In Ogni Senso](https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD) | 4:24 |
+| 40 | [Vita Ce N'è](https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:11 |
 | 41 | [Un Segundo de Paz](https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Spanish Version\)](https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye) | 4:36 |
 | 42 | [No Estamos Solos](https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [e2](https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a) | 3:42 |
 | 43 | [Ahora Tu \- Remastered 2021](https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Heroes De hoy \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 49 | [Ma che bello questo amore](https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [In Certi Momenti](https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd) | 4:09 |
 | 50 | [Ama](https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:23 |
 
-Snapshot ID: `aHGlgAAAAABLSFLz0bzHBPEmbbitb6U9`
+Snapshot ID: `aHL3AAAAAADgd4tzEWUy7elpc7RqwNjO`

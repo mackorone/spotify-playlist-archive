@@ -4,7 +4,7 @@
 
 > pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>.
 
-545 songs - 1 day 4 hr 47 min
+547 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 | 2025-05-29 |
 | [CTRL + ALT + DEL](https://open.spotify.com/track/6GhNoBDswPDTPAO30EuJ9W) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return](https://open.spotify.com/album/3HhSAMFNWSx71lfinnXPFz) | 2:33 | 2024-07-09 | 2024-09-28 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-11-06 | 2023-11-25 |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-14 |  |
 | [DAMAGE](https://open.spotify.com/track/0kQWK9I3NRCuxRLuuGsv8X) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [A6](https://open.spotify.com/album/29ggbvlcCPiVSzVoPG1Axs) | 3:21 | 2025-05-05 |  |
 | [DAMAGE](https://open.spotify.com/track/5x7Xv7v0UO5BPDGas3Zyak) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [DAMAGE](https://open.spotify.com/album/4omVNZeB8EhBJKOVwntP3j) | 3:21 | 2024-09-27 | 2025-02-08 |
 | [Dance Alone](https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Dance Alone](https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8) | 3:04 | 2023-12-01 | 2024-08-03 |
@@ -473,6 +474,7 @@
 | [Tattoos](https://open.spotify.com/track/4p1i3nnCvKtkMWWx7EuKQ7) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Tattoos](https://open.spotify.com/album/7bkPBBnOZeGCYZRLYMSUZF) | 2:45 | 2024-02-09 | 2024-07-27 |
 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 | 2024-03-01 | 2024-07-10 |
 | [That Don't Impress Me Much \- International Mix](https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:59 | 2024-07-26 | 2024-09-10 |
+| [That's So True \- Spotify Singles](https://open.spotify.com/track/39aMRjb5zKxNmYT4B0ztcW) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Spotify Singles](https://open.spotify.com/album/4tmb09xLH9FzEz45jAVhwE) | 2:47 | 2025-07-14 |  |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-18 |  |
 | [The Birds](https://open.spotify.com/track/56Gdp4KNxEE8owRsZvAPuC) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [The Birds](https://open.spotify.com/album/1sAcHNDWJsKilDLzxBlBSF) | 2:27 | 2023-11-06 | 2024-02-17 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-03-08 |  |

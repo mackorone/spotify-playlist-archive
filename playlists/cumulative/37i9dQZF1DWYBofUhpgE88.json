@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Musica per non smettere mai di crederci \ud83c\udfc6 \ud83d\udcaa\ud83c\udfcb\ufe0f  ",
+  "description": "Jannik Sinner, il primo Italiano a vincere Wimbledon \ud83c\udfc6 \ud83c\udfbe",
   "name": "ADRENALINA",
   "tracks": [
     {
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 165468,
       "name": "Body (feat. Tima Dee)",
       "url": "https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 175293,
       "name": "COME UN TUONO (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 188785,
       "name": "HO VOGLIA DI TE",
       "url": "https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp"
@@ -3016,6 +3016,24 @@
       "duration_ms": 171717,
       "name": "It's That Time - FISHER Remix",
       "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
+    },
+    {
+      "album": {
+        "name": "JANNIK SIPPER",
+        "url": "https://open.spotify.com/album/5cohPWuQYVNPSstPJkV8ty"
+      },
+      "artists": [
+        {
+          "name": "DrefGold",
+          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130142,
+      "name": "JANNIK SIPPER",
+      "url": "https://open.spotify.com/track/3szKaPYLfIE3wljxdEkMKs"
     },
     {
       "album": {
@@ -3844,7 +3862,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 145766,
       "name": "Marianela (Que Pasa)",
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
@@ -5603,6 +5621,24 @@
     },
     {
       "album": {
+        "name": "Man of the Year",
+        "url": "https://open.spotify.com/album/5xJdeEZGQxF8KXVOlEQHj2"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208979,
+      "name": "Shake Body",
+      "url": "https://open.spotify.com/track/1agLiWjSBYSTsKZLudOunC"
+    },
+    {
+      "album": {
         "name": "Shakerando",
         "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
       },
@@ -5690,6 +5726,42 @@
       "duration_ms": 199000,
       "name": "Simba",
       "url": "https://open.spotify.com/track/69d3X2Nv5AWHUeTktfOqpV"
+    },
+    {
+      "album": {
+        "name": "Mentre Los Angeles Brucia (Bonus)",
+        "url": "https://open.spotify.com/album/0bXXnGT7RghELWV1h81SjA"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160360,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0tL6pTifJgo8ldjRmaJnnK"
+    },
+    {
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/3O6VSdQElvi8Eq1iYbvFMS"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176625,
+      "name": "SINNER",
+      "url": "https://open.spotify.com/track/7Iiw9C8gu4NdbBKUNDkeKD"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [New Music Friday Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC)
 
-> New music from Justin Bieber, BLACKPINK, Masdo, 3P, CLAUDIA, empty page., Tyla, and more!
+> New music from Justin Bieber, BLACKPINK, Masdo, CLAUDIA, empty page., Tyla, and more!
 
 16,725 songs - 38 day 7 hr 8 min
 
@@ -16658,7 +16658,7 @@
 | [野生](https://open.spotify.com/track/5IRw2AXnPVzQCNwNulD843) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [野生](https://open.spotify.com/album/01uFo7ZroCYizAlV7I4V5m) | 3:57 | 2023-12-22 | 2023-12-30 |
 | [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 | 2023-08-24 | 2023-09-01 |
 | [錯的不會是你](https://open.spotify.com/track/3NUUIBHFZR5aaqGYCjm3ox) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN) | [溫室裡沒有花](https://open.spotify.com/album/3nPvnBrHtBSPNCRl4EoJGX) | 4:17 | 2023-11-30 | 2023-12-08 |
-| [鑫](https://open.spotify.com/track/2nLehOVwPMgHvUXofnzqZX) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/4OXlHVTC0Wf4MkAQfEw2xQ) | 4:07 | 2025-07-10 |  |
+| [鑫](https://open.spotify.com/track/2nLehOVwPMgHvUXofnzqZX) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/4OXlHVTC0Wf4MkAQfEw2xQ) | 4:07 | 2025-07-10 | 2025-07-15 |
 | [错爱 \(新传媒戏剧《庭外的一角》主题曲\)](https://open.spotify.com/track/3PK7DfmT1JbMI8L4qMduZN) | [Desmond Tan](https://open.spotify.com/artist/7bMzjTyXEwpjGIH2MmjiKj) | [错爱 \(新传媒戏剧《庭外的一角》主题曲\)](https://open.spotify.com/album/7sx8VFyrCH3hvaTH0ICcBo) | 3:19 | 2025-04-24 | 2025-05-02 |
 | [错过](https://open.spotify.com/track/099YTMOk0bGpsjUCdR7DZp) | [黄诗棋](https://open.spotify.com/artist/045qylibJAjv32coRRoTDM), [颜东奇](https://open.spotify.com/artist/4fcGOO3t3Lu8BTTAQQrGbP) | [错过](https://open.spotify.com/album/0nErr5I8nb7zaF9u7FuUs6) | 4:27 | 2024-08-15 | 2024-08-23 |
 | [锦鲤](https://open.spotify.com/track/5KUiBhW5P4zq5Gn2N40MQ9) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [锦鲤](https://open.spotify.com/album/2Dmtue2dBfoZNqTr6GLKh9) | 2:39 | 2025-01-09 | 2025-01-17 |

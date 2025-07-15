@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷  Abel Pintos
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,071 likes - 85 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,117 likes - 85 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 50 | [Motivos](https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:01 |
 | 51 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 |
 | 52 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
-| 53 | [Mientes](https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mientes](https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX) | 2:40 |
+| 53 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 |
 | 54 | [Loco en el Desierto](https://open.spotify.com/track/392fECmnYZTQjL97hqEElg) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conociendo Rusia](https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT) | 4:17 |
-| 55 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 |
+| 55 | [Mientes](https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mientes](https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX) | 2:40 |
 | 56 | [Carnavalintro](https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Otro](https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p) | 3:10 |
 | 57 | [Todo el Día Así](https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Todo el Día Así](https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR) | 3:35 |
 | 58 | [Para Siempre](https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:32 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 577660,
+  "num_followers": 577758,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHGlgAAAAAAomB88sEs0UcjFtFsmhtHH",
+  "snapshot_id": "aHL3AAAAAABYtYi8tBUU5/z+COcmpe5P",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Highway 61 Revisited",
-      "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
       },
@@ -435,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
       "artists": [
         {
@@ -444,9 +428,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 271360,
-      "name": "Masters of War",
-      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
+      "duration_ms": 205826,
+      "name": "Highway 61 Revisited",
+      "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
       "duration_ms": 296133,
       "name": "Forever Young - Slow Version",
       "url": "https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Morning",
-        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "If Not for You",
-      "url": "https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Secret Of Life: Partners, Volume 2",
         "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 232751,
       "name": "The Very Thought Of You (with Bob Dylan)",
       "url": "https://open.spotify.com/track/11D9S73itV15ZGvlaCIL0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "If Not for You",
+      "url": "https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "She Belongs to Me",
-      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street-Legal",
         "url": "https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U"
       },
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
       "artists": [
         {
@@ -768,9 +752,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 356226,
-      "name": "Tombstone Blues",
-      "url": "https://open.spotify.com/track/5JqsRFZYDtIK5Rgeuzd2Jv"
+      "duration_ms": 166706,
+      "name": "She Belongs to Me",
+      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
       "duration_ms": 304306,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 356226,
+      "name": "Tombstone Blues",
+      "url": "https://open.spotify.com/track/5JqsRFZYDtIK5Rgeuzd2Jv"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 327466,
-      "name": "Queen Jane Approximately",
-      "url": "https://open.spotify.com/track/0c2DAekH6ZEnHhf8dM1leK"
+      "duration_ms": 143066,
+      "name": "I Threw It All Away",
+      "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
     }
   ],
   "unique_name": "This Is Bob Dylan",

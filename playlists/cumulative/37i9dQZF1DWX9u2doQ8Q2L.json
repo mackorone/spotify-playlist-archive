@@ -28175,6 +28175,24 @@
     },
     {
       "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202181,
+      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
+    },
+    {
+      "album": {
         "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
       },
@@ -29020,7 +29038,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 210470,
       "name": "\u50d5\u3089\u306e\u884c\u9032\u66f2",
       "url": "https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E"

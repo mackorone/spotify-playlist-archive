@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 791832,
+  "num_followers": 791980,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Motown: The Complete No. 1's",
         "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 164693,
       "name": "I Never Loved A Man [The Way I Love You]",
       "url": "https://open.spotify.com/track/3zyDPAVCR5FQuvkzV0vs5e"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2"
     },
     {
       "added_at": "2024-07-02 22:47:47",

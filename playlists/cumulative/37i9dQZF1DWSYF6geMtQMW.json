@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "\u05e0\u05d3\u05d1 \u05d7\u05e0\u05e6\u05d9\u05e1",
+        "url": "https://open.spotify.com/album/7ADHZpgopDu4l7C1RWSgC9"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05d3\u05d1 \u05d7\u05e0\u05e6\u05d9\u05e1",
+          "url": "https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167330,
+      "name": "\u05d0\u05e0\u05d9 \u05de\u05e1\u05ea\u05d5\u05d1\u05d1",
+      "url": "https://open.spotify.com/track/7362lWsAM9fv1ZF3tjNG1K"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05ea \u05dc\u05d0 \u05d9\u05d5\u05d3\u05e2\u05ea \u05db\u05de\u05d4 \u05e9\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da",
         "url": "https://open.spotify.com/album/5oVtGh11SKW9cnaltFyxaW"
       },
@@ -1403,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "\u05d2\u05df \u05e2\u05d3\u05df",
+        "url": "https://open.spotify.com/album/2M7a0WjH1ZmKdFw0TJYxjM"
+      },
+      "artists": [
+        {
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163695,
+      "name": "\u05d2\u05df \u05e2\u05d3\u05df",
+      "url": "https://open.spotify.com/track/1qavga0IqdclZ5l21FC821"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05d5\u05e9\u05e8 \u05db\u05d4\u05df",
         "url": "https://open.spotify.com/album/1a8ERuwhbeXpbFF7TKReFX"
       },
@@ -1450,7 +1486,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 198605,
       "name": "\u05d4\u05d7\u05d3\u05e8 \u05de\u05e1\u05ea\u05d5\u05d1\u05d1",
       "url": "https://open.spotify.com/track/5MjRIL2ySrPGoATyTk2ZT9"
@@ -1725,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "\u05d9\u05d5\u05e9\u05d1 \u05dc\u05d9 \u05e2\u05dc \u05d4\u05dc\u05d1",
+        "url": "https://open.spotify.com/album/2JQkBoNvfZwe2yOW5T0iMJ"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138813,
+      "name": "\u05d9\u05d5\u05e9\u05d1 \u05dc\u05d9 \u05e2\u05dc \u05d4\u05dc\u05d1",
+      "url": "https://open.spotify.com/track/3BX9e9v3D01YUuQUbN225e"
+    },
+    {
+      "album": {
         "name": "\u05db\u05d5\u05db\u05d1\u05d9\u05dd",
         "url": "https://open.spotify.com/album/14Ve7iPxyRWwM0tA3KHIhi"
       },
@@ -1990,7 +2044,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 240400,
       "name": "\u05de\u05d4 \u05e9\u05dc\u05d0 \u05d4\u05e1\u05e4\u05e7\u05ea\u05d9 \u05dc\u05d5\u05de\u05e8",
       "url": "https://open.spotify.com/track/1sWQxzPFWCtOBvqww2YFex"
@@ -2870,7 +2924,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-15",
       "duration_ms": 167218,
       "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
       "url": "https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx"

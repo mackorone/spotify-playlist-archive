@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-195 songs - 11 hr 18 min
+196 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Kelna Mnenjar](https://open.spotify.com/track/0KGZNoR5kZ1aUw83pfunng) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kelna Mnenjar](https://open.spotify.com/album/3cPQv8RJQYIShkRDMhaO2R) | 3:10 | 2022-05-04 | 2023-03-14 |
 | [khallina N3esh](https://open.spotify.com/track/7qq9gkXMLG64zEnqTn2s9o) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [khallina N3esh](https://open.spotify.com/album/4bUVYFe5LEtKByQcKmRvQg) | 3:29 | 2022-06-20 | 2024-10-09 |
 | [Khedi El Ghamrat](https://open.spotify.com/track/65nzInq9ZyybOT7QN5kmk9) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Khedi El Ghamrat](https://open.spotify.com/album/7tDPiW6WjlY15ymIHUFbEW) | 4:13 | 2024-02-29 |  |
+| [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 | 2025-07-14 |  |
 | [Koun](https://open.spotify.com/track/3mlQfTMo8VmL3l8tXjAX8j) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Koun](https://open.spotify.com/album/3VHCM2iQcOgqHgHcHJmwqv) | 3:23 | 2023-03-13 | 2025-03-20 |
 | [La Akher Dakka](https://open.spotify.com/track/000tjH40F2n9sejp5LwAhV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [La Akher Dakka](https://open.spotify.com/album/2GJ8iNMaVPTzW59RPACjaQ) | 3:07 | 2024-05-21 |  |
 | [La Ouyounak El Helwin](https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounak El Helwin](https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA) | 3:42 | 2022-05-04 | 2022-06-05 |

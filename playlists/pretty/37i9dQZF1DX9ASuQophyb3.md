@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Mert Demir
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,518,615 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,518,908 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 |
-| 2 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
-| 3 | [Kafayı Yaktım](https://open.spotify.com/track/5u0zy8RMeAa0F778XRxYO6) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Yalan Dolan](https://open.spotify.com/album/20MU09DJjpeHTZRgUg2HCq) | 3:31 |
+| 1 | [Kafayı Yaktım](https://open.spotify.com/track/5u0zy8RMeAa0F778XRxYO6) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Yalan Dolan](https://open.spotify.com/album/20MU09DJjpeHTZRgUg2HCq) | 3:31 |
+| 2 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 |
+| 3 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
 | 4 | [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 |
-| 5 | [Durup Dururken](https://open.spotify.com/track/0aaIt2mbVvIhxoM8GhqyIk) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Durup Dururken](https://open.spotify.com/album/4KaJSLDTkDQDiKMvBuvKwT) | 2:16 |
-| 6 | [Bir Yol](https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bir Yol](https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG) | 2:28 |
-| 7 | [Duymuyor Beni](https://open.spotify.com/track/5WW1DoKTUataphGlJZNRUq) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Duymuyor Beni](https://open.spotify.com/album/3asOVgkMchNY4aukd8f90a) | 2:39 |
-| 8 | [Kalpsiz](https://open.spotify.com/track/2ciOT2HoX5rjkARUQiO0P6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Kalpsiz](https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS) | 3:00 |
+| 5 | [Kalpsiz](https://open.spotify.com/track/2ciOT2HoX5rjkARUQiO0P6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Kalpsiz](https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS) | 3:00 |
+| 6 | [Durup Dururken](https://open.spotify.com/track/0aaIt2mbVvIhxoM8GhqyIk) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Durup Dururken](https://open.spotify.com/album/4KaJSLDTkDQDiKMvBuvKwT) | 2:16 |
+| 7 | [Bir Yol](https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bir Yol](https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG) | 2:28 |
+| 8 | [Duymuyor Beni](https://open.spotify.com/track/5WW1DoKTUataphGlJZNRUq) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Duymuyor Beni](https://open.spotify.com/album/3asOVgkMchNY4aukd8f90a) | 2:39 |
 | 9 | [Aklım Seferde](https://open.spotify.com/track/6tSElGbzRF94AguIjnJC8G) | [Nükhet Duru](https://open.spotify.com/artist/7HLLY3hnsKLpq6bq3OwNNe) | [Aklım Seferde](https://open.spotify.com/album/5iSmXu8u9dAejQcD4daPVe) | 4:17 |
 | 10 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 |
 | 11 | [Aklım Hep Onda](https://open.spotify.com/track/3e95JlOEKVfoebYjEFC5Dj) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Aklım Hep Onda](https://open.spotify.com/album/1eecP8iu3v4vdRThMfGE9T) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 49 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 |
 | 50 | [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 |
 
-Snapshot ID: `aHAp1QAAAACyfbJaGs99v1faWxY9wF2S`
+Snapshot ID: `aHTCHQAAAACyhP7Mn0ZZpsHcamlykE00`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,422 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,448 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 40 | [Double](https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Double](https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e) | 2:48 |
 | 41 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 |
 | 42 | [Kowope](https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Kowope](https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh) | 3:31 |
-| 43 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 |
-| 44 | [My Brother](https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [My Brother](https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6) | 2:38 |
+| 43 | [My Brother](https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [My Brother](https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6) | 2:38 |
+| 44 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 |
 | 45 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
 | 46 | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC) | 2:49 |
 | 47 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 |
