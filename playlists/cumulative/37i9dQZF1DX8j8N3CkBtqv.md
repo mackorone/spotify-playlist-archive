@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring "aswekeepsearching" and other exciting artists.
 
-1,105 songs - 2 day 12 hr 27 min
+1,106 songs - 2 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Dil Besabar](https://open.spotify.com/track/5Mlk1gsJU9Qq4eqhfyQbrg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya Verma](https://open.spotify.com/artist/0z2Q1aIitrkM1yf7n8RcpT) | [Dil Besabar](https://open.spotify.com/album/06uoaelB6yCxzSUEr5KufN) | 3:01 | 2024-02-09 | 2024-06-08 |
 | [Dil Bezubaan](https://open.spotify.com/track/1SyK2174siAsDzqvguTzpE) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Dil Bezubaan](https://open.spotify.com/album/2U90RzBiJJGL0epkGdyqIH) | 3:07 | 2023-04-14 | 2023-06-24 |
 | [Dil Gaye Ja](https://open.spotify.com/track/26glf0z6oKPzZB742D6LTT) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn) | [Subah Ke Taare](https://open.spotify.com/album/0ysTWzXqgUdfk15ZHZsYye) | 3:38 | 2024-02-09 | 2024-04-19 |
+| [Dil Haara](https://open.spotify.com/track/5pgTjsE4IYxXiF5g6jqAnK) | [Samarth Swarup](https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Dil Haara](https://open.spotify.com/album/2DdVb1u3H6v6V5wophwAfP) | 2:53 | 2025-07-11 |  |
 | [Dil Hi Hai Tu](https://open.spotify.com/track/30soAEn42xylI7qSql7GKU) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Dil Hi Hai Tu](https://open.spotify.com/album/7rJEC3UuNNcJnCQNKKPAS6) | 3:10 | 2024-12-06 | 2025-04-19 |
 | [Dil Hi To Hai](https://open.spotify.com/track/7zBgwvwMEdFmTIOxYCoM3X) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Dil Hi To Hai](https://open.spotify.com/album/6gdK76yyTXbwBgRbPP5Ii5) | 2:38 | 2023-10-06 | 2023-11-18 |
 | [Dil Ho Tum](https://open.spotify.com/track/4z0cWwPjd0rOkBl0HhyIH6) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Dil Ho Tum](https://open.spotify.com/album/30ArQwlmCra7hvdeQR5FsF) | 2:38 | 2023-04-14 | 2023-06-17 |
@@ -647,7 +648,7 @@
 | [Mehfilein](https://open.spotify.com/track/0PHoyLbOsXTV8jtD7fWZKr) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshu Soni](https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p) | [Mehfilein](https://open.spotify.com/album/2X8DlB3za1eLymLoI0PqAJ) | 3:17 | 2024-04-19 | 2024-06-29 |
 | [Mehfooz](https://open.spotify.com/track/63PBLCusJc0ZMaKSA0pfex) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Mehfooz](https://open.spotify.com/album/774XcXabwenOF4KYWhy9xe) | 2:40 | 2024-11-08 | 2024-11-30 |
 | [MEHFOOZ](https://open.spotify.com/track/5rfOUeUYRc7VHnbFgczTQI) | [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Shreya](https://open.spotify.com/artist/4rSaLcdoKWIZiJOsUJzeCT) | [MEHFOOZ](https://open.spotify.com/album/47M5qZnaJ8bKLBhEHj5hII) | 3:01 | 2024-09-06 | 2024-10-19 |
-| [Mehfooz Rakh](https://open.spotify.com/track/7lebXT1ac1B47vOO8AW0yn) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Mehfooz Rakh](https://open.spotify.com/album/1TeIPtXAsPLdTwGRJXYSlU) | 3:37 | 2025-04-18 |  |
+| [Mehfooz Rakh](https://open.spotify.com/track/7lebXT1ac1B47vOO8AW0yn) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Mehfooz Rakh](https://open.spotify.com/album/1TeIPtXAsPLdTwGRJXYSlU) | 3:37 | 2025-04-18 | 2025-07-16 |
 | [Mehsoos](https://open.spotify.com/track/1CpPNLb6wX0VRDki8JsFuu) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Mehsoos](https://open.spotify.com/album/1A01ciWQAlggJKclr8GOPX) | 6:35 | 2023-12-08 | 2024-01-20 |
 | [Mein Tera Hojaau](https://open.spotify.com/track/2cbq58YcyyWQx92ccTEWPy) | [The Kabir](https://open.spotify.com/artist/6yPhcGRmraBwXnqANykgQS), [Sayli Kamble](https://open.spotify.com/artist/4bjftmzN2eJwJMxinRq6lD), [BYG BASS](https://open.spotify.com/artist/7qScqy8QkqngHWUluAWVux) | [Mein Tera Hojaau](https://open.spotify.com/album/7IevyEJ5ATBeRpBytWmGbA) | 3:40 | 2025-03-07 | 2025-03-10 |
 | [Melt](https://open.spotify.com/track/5I8LXURY4AJdZHtsUfxGlx) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Melt](https://open.spotify.com/album/3Bkkh7N0ia6j5PhpDTQlkt) | 2:52 | 2023-08-25 | 2023-10-07 |

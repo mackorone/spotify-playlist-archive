@@ -30381,6 +30381,24 @@
     },
     {
       "album": {
+        "name": "Tearing Away",
+        "url": "https://open.spotify.com/album/31eSDEO04EOL8SeiCJdgdE"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170750,
+      "name": "Tearing Away",
+      "url": "https://open.spotify.com/track/77yVVQ6nZMCOWB0FGUMOsH"
+    },
+    {
+      "album": {
         "name": "Tears Are Falling",
         "url": "https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn"
       },

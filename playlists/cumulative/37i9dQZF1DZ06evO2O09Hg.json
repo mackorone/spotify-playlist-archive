@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Legends Never Die (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208360,
+      "name": "All Life Long",
+      "url": "https://open.spotify.com/track/7mSNtdW0ibJwhaoI2y6RAv"
+    },
+    {
+      "album": {
         "name": "All Night (BTS World Original Soundtrack) (Pt. 3)",
         "url": "https://open.spotify.com/album/53kVAgb2mQMuvNQrtFrMRN"
       },
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 259672,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"

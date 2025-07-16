@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 175429,
+  "num_followers": 175462,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAADkZTnOsFP8lgwlQ9L9CjBH",
+  "snapshot_id": "aHRIgAAAAACqlRx+jquc3M4x3r5osJiE",
   "tracks": [
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3xOE5ciDmfQ0VY3WahE0eJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 193151,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Valentine",
-        "url": "https://open.spotify.com/album/67Cir5qRQdHrd3Zxwdk4FZ"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Toxic Valentine",
-      "url": "https://open.spotify.com/track/0reDMKFg0nKaGUKqS3YUG0"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+        "name": "Toxic Valentine",
+        "url": "https://open.spotify.com/album/67Cir5qRQdHrd3Zxwdk4FZ"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 181720,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3xOE5ciDmfQ0VY3WahE0eJ"
+      "duration_ms": 172280,
+      "name": "Toxic Valentine",
+      "url": "https://open.spotify.com/track/0reDMKFg0nKaGUKqS3YUG0"
     }
   ],
   "unique_name": "This Is All Time Low",

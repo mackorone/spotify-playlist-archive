@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,807 likes - 32 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,808 likes - 32 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 | 16 | [No Wolf Like The Present](https://open.spotify.com/track/0LbD8kPWxh8kyce8RoC4T7) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:39 |
 | 17 | [Invalid Litter Dept.](https://open.spotify.com/track/003EH00EjWXmkmNMpQH1Sv) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 6:05 |
 | 18 | [Hulahoop Wounds](https://open.spotify.com/track/3uwAwOdZubXp2xdN8t85cw) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:24 |
-| 19 | [Ursa Minor](https://open.spotify.com/track/6xfIRp2iifXKbNYOUsLY76) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 3:22 |
+| 19 | [198d](https://open.spotify.com/track/4YvaVYEOZdrpwd6HlalDXO) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 4:04 |
 | 20 | [Pendulum In A Peasant Dress](https://open.spotify.com/track/2Io9R14w2r1ZkrZJSAw9T6) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:41 |
 | 21 | [Cosmonaut](https://open.spotify.com/track/4rLFh3Mt36EZHB6C2ytNi3) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 3:23 |
 | 22 | [Pickpocket](https://open.spotify.com/track/7tXHRWpHsYH8Yy8w7v4N7d) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 2:38 |
-| 23 | [198d](https://open.spotify.com/track/4YvaVYEOZdrpwd6HlalDXO) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 4:04 |
+| 23 | [Ursa Minor](https://open.spotify.com/track/6xfIRp2iifXKbNYOUsLY76) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 3:22 |
 | 24 | [Initiation](https://open.spotify.com/track/5R2mTACdp1umG0oEAF4HOg) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 3:26 |
 | 25 | [Tilting At The Univendor](https://open.spotify.com/track/31tEi0FX1c4bABw8yDNiRu) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:26 |
 | 26 | [Catacomb](https://open.spotify.com/track/57ZTyoRXlwQrhXZuq0cfCQ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Catacomb](https://open.spotify.com/album/6rMTnk6gBiqzqKIvn1Ruj1) | 3:44 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 | 31 | [Ticklish](https://open.spotify.com/track/52u5f5h1sARj7zEmHi2o6G) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 4:35 |
 | 32 | [Skips on the Record](https://open.spotify.com/track/20kCEEuKQotTCJjUxSiT4z) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 3:07 |
 
-Snapshot ID: `aHL3AAAAAAAtI9i5p0NDTxz1h+LBHjMC`
+Snapshot ID: `aHRIgAAAAAAymWo7XUCuUDDtWusBWcbJ`

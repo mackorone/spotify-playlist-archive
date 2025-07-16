@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-831 songs - 2 day 11 hr 2 min
+832 songs - 2 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,9 +250,10 @@
 | [Existe Uma Voz](https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Existe Uma Voz](https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer) | 3:45 | 2023-02-23 |  |
 | [Eyinda](https://open.spotify.com/track/3issc0A63VHDCSM0T7ivqb) | [YAV](https://open.spotify.com/artist/0FPEPzFlzd8FQntkneXgOZ) | [Eruption \- EP](https://open.spotify.com/album/4cj8CHtJCdW0qjX7HxNExH) | 3:23 | 2024-04-30 | 2024-07-27 |
 | [Fana](https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4hvZXIyD1dcy1EAr5G6CcS) | 4:14 | 2024-04-09 | 2024-07-15 |
+| [Faut Pas Fâcher](https://open.spotify.com/track/7IIdpOnUp1e5s56pvXPxZF) | [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9), [Neyl](https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Faut Pas Fâcher](https://open.spotify.com/album/0iXngKfoH4fVxCLDuA7BYr) | 3:36 | 2025-07-11 |  |
 | [Faux savage](https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 2:23 | 2022-09-23 |  |
 | [Feira Jacobina](https://open.spotify.com/track/78UVMDmyok0Ah1wCO29b3B) | [Bando À Flor da Pele](https://open.spotify.com/artist/5n4I6U8npI8W21YgOlHG7u) | [Feira Jacobina](https://open.spotify.com/album/5VvaMDbGcgThJFFP47oXwg) | 5:14 | 2021-10-06 | 2022-04-17 |
-| [Felony](https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:17 | 2021-10-06 |  |
+| [Felony](https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:17 | 2021-10-06 | 2025-07-16 |
 | [Festa na Praia](https://open.spotify.com/track/0Is39OnMsWNLRoWomgVbne) | [Bandé\-Gamboa](https://open.spotify.com/artist/0GvJLG8dgOx1tLGSXJW4Kf) | [Festa na Praia](https://open.spotify.com/album/2CThhhWYRRGGG4MOIYlEGs) | 4:11 | 2021-10-06 | 2022-04-19 |
 | [Fighting Slowly](https://open.spotify.com/track/4BPmWt2dEIP0ygttCwLBq6) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Ayuune Sule](https://open.spotify.com/artist/1BCpaANNqLwc9rEBNt0KrL) | [Fighting Slowly](https://open.spotify.com/album/7vXFAnHHFWDPECJLi89PPk) | 5:22 | 2021-10-06 | 2022-07-29 |
 | [Filibusteros](https://open.spotify.com/track/4Q5fXlW4pCg2MlmPRjXANp) | [Hektombe](https://open.spotify.com/artist/1IJq0H8jAxPSeGSh2q0jPK) | [Filibusteros](https://open.spotify.com/album/6Co7dfsIvfkwughSqAg8vC) | 7:30 | 2021-10-06 | 2022-06-09 |

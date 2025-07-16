@@ -4,7 +4,7 @@
 
 > Gentle ambient for a calm baby during bath time, playtime or baby massage.
 
-342 songs - 16 hr 26 min
+346 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Guiding you home](https://open.spotify.com/track/4huwJgphs4FrI3GZC8KtoC) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Guiding you home](https://open.spotify.com/album/5enmq1CDENGCWIbGBpfUIH) | 2:43 | 2025-05-06 |  |
 | [Harmonium Sanctum](https://open.spotify.com/track/3sJA5Sj9LKI9f7fN8kSkeb) | [Aya Morata](https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L) | [Harmonium Sanctum](https://open.spotify.com/album/0ImkQDDWaWt0AtFSLjjQ7A) | 3:24 | 2023-10-10 |  |
 | [Heal and Rest](https://open.spotify.com/track/4QXwiGI9TO3FtIEfdVRSTU) | [Luna Serenity](https://open.spotify.com/artist/6NjcHrItY1c8OnFcY70avf) | [Heal and Rest](https://open.spotify.com/album/0JsRHDa9vnqPPo2LJXqt9d) | 3:31 | 2025-03-19 |  |
+| [Heartbeats](https://open.spotify.com/track/3RLOFh5RpwGTzottgmSWHw) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Heartbeats](https://open.spotify.com/album/51sNUzx3WSp3WkcLZems8y) | 2:53 | 2025-07-15 |  |
 | [Heim](https://open.spotify.com/track/2ZlSZlqejnLEk2vrXqNSn2) | [Otri Jochumsson](https://open.spotify.com/artist/4x8y3T6YzB4qB3MKPZT0mh) | [Heim](https://open.spotify.com/album/7hGn9qNZuGzlJQLkhX3lfy) | 2:50 | 2023-10-10 | 2024-07-18 |
 | [Heima](https://open.spotify.com/track/6cb2ZbtBESjuwhKawvm9qg) | [Ronja Mair](https://open.spotify.com/artist/6ZUyQlJPTDM23KGIdnivNH) | [Heima](https://open.spotify.com/album/17h1RYnKGZhwoMYVDyWHAb) | 2:38 | 2023-03-31 | 2024-04-10 |
 | [Hiemal](https://open.spotify.com/track/7EZKkc9CWvBoB52E2g2rFP) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Hiemal](https://open.spotify.com/album/7oKLhCmpADNtLE1j2v8f3i) | 2:47 | 2023-03-10 | 2023-08-12 |
@@ -226,6 +227,7 @@
 | [Pilgrimage](https://open.spotify.com/track/1zezNbZhyMmqWNrhOplWCW) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Pilgrimage](https://open.spotify.com/album/5AwVLeZaasm9k837iDF71g) | 2:50 | 2023-09-08 |  |
 | [Places](https://open.spotify.com/track/1iRJz2iWf8HAlWbQ9BV4Fo) | [Arlo Leclerc](https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g) | [Places](https://open.spotify.com/album/2U19uunCKFVUeqDclfeZAb) | 2:47 | 2025-02-13 |  |
 | [Plein De Vie](https://open.spotify.com/track/7h3fcy1pUvEGtF2Nxmf4wo) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Plein De Vie](https://open.spotify.com/album/2cXCpvru1xID8Y4tWfP4oN) | 2:55 | 2023-08-11 |  |
+| [Pneuma](https://open.spotify.com/track/6w2fk3XTV0RcnH3EVlSxZ3) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Pneuma](https://open.spotify.com/album/5GV9WrxUcfTpwJoagsr3fl) | 2:14 | 2025-07-15 |  |
 | [Pojď se mnou](https://open.spotify.com/track/1s8Nw1IcBENpU7pIGOH8Uk) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Pojď se mnou](https://open.spotify.com/album/5fTi5LgFPvSVBBEMAJRL6s) | 3:05 | 2023-03-10 | 2023-08-12 |
 | [Ponderosa](https://open.spotify.com/track/5uLwuiDxMzH5bmeNIStkpG) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Ponderosa](https://open.spotify.com/album/3bRDDJYtuT0O6uMzvgZJSn) | 3:02 | 2024-06-10 | 2024-09-14 |
 | [Portraits](https://open.spotify.com/track/2vJYKssYiqnnShwk1B5yfM) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Portraits](https://open.spotify.com/album/1Yak5ZbFLQbRx6xxuuFd4T) | 3:04 | 2025-03-19 |  |
@@ -279,6 +281,7 @@
 | [Sleep Bound](https://open.spotify.com/track/7omhwqtcygm5YRNEvdNeR8) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Sleep Bound](https://open.spotify.com/album/5XmXpiBBJCEvOX5KrkN059) | 2:40 | 2025-03-19 |  |
 | [Sleep Loop](https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Sleep Loop](https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM) | 2:40 | 2023-03-10 | 2024-03-16 |
 | [Slumberism](https://open.spotify.com/track/7pnr5tNNmB7EibF2ClbJ3M) | [Erastox](https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd) | [Slumberism](https://open.spotify.com/album/1czUeCsPgac17RpwBagdUq) | 3:11 | 2024-11-07 | 2024-12-04 |
+| [Soft and Warm](https://open.spotify.com/track/7IwF2srLrQFhY64GHbG2AC) | [Himlavalv](https://open.spotify.com/artist/4lFZjO0NQUgvQLC8G6J8uC) | [Soft and Warm](https://open.spotify.com/album/7ohG3WhIEOlZz1lle1P2ZR) | 2:58 | 2025-07-15 |  |
 | [Soft Ardour](https://open.spotify.com/track/1iL1vDGQ1OAf8wW5lqzXMa) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Soft Ardour](https://open.spotify.com/album/0BTuhivz5n6te5nMjtMENN) | 2:31 | 2023-03-10 | 2024-03-16 |
 | [Soft Embers](https://open.spotify.com/track/2lvegAaaXi1MF1p8KP4gXn) | [drifting / sleeping](https://open.spotify.com/artist/1QbKvEZTsVgSaRP8vTO2TH) | [Soft Embers](https://open.spotify.com/album/0PmaChR0y62a2Sk5mcYvuc) | 2:12 | 2024-09-13 |  |
 | [Soft Red Bunk](https://open.spotify.com/track/2MAS4wdXkuqRmIkMmzZaQB) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Soft Red Bunk](https://open.spotify.com/album/2sNghMXOciUYE1gvsOaIli) | 3:06 | 2025-01-09 |  |
@@ -343,6 +346,7 @@
 | [We Belong Here](https://open.spotify.com/track/0F6iu3jm5bJpTsyDKSaE4a) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [We Belong Here](https://open.spotify.com/album/5X9ocpEU3hId5Xqi2sHAEa) | 3:02 | 2023-08-11 | 2024-07-18 |
 | [When The Day Fades](https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [When The Day Fades](https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4) | 2:31 | 2024-02-14 |  |
 | [Where Silence Blooms](https://open.spotify.com/track/1DMfaj2Hd76uZpNy0P5AbC) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Where Silence Blooms](https://open.spotify.com/album/5IOUPPxB5zUFqCEWV6r0wT) | 2:45 | 2025-02-13 |  |
+| [Whisper](https://open.spotify.com/track/4fEUNBAYaMKJu1D1UFc1Fc) | [Sky Sailor](https://open.spotify.com/artist/1wNyUBqk3zMlwfuyoiCIzS) | [Whisper](https://open.spotify.com/album/5JQWjQovUWGWxbeGYIRpb5) | 2:51 | 2025-07-15 |  |
 | [White Light](https://open.spotify.com/track/2qNIMwchO5TxqW4cTvo3Nj) | [Sofia Garcia](https://open.spotify.com/artist/513qG0sPNTxFlWOkWyFpGi) | [White Light](https://open.spotify.com/album/2Ym5H1BXss2y4JJouKv2sc) | 2:16 | 2025-03-19 |  |
 | [Wider Purpose](https://open.spotify.com/track/4R5tfiuzHBNvUh71998qJM) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Wider Purpose](https://open.spotify.com/album/7hAwWhV1BZVOql2EPChZVk) | 2:43 | 2024-01-23 |  |
 | [Windless](https://open.spotify.com/track/6fIG5NvcmuBGcHgweSi072) | [Softstone](https://open.spotify.com/artist/3DNoZjqVYNsFyUJ4fczCyo) | [Windless](https://open.spotify.com/album/4NWnsUt3Vo2cd2Ky9W6NLn) | 2:50 | 2023-09-08 | 2024-09-14 |

@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb?si=hRifC1aNTbCGfMwf7zIAlQ">RCEE</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7mi1AGiEnSHxEshIruGZEc?si=WX2kwGuyTvO2B3Nf\_xM5\-w">Kiddy Kat</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,507 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,516 likes - 71 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Agenda](https://open.spotify.com/track/6GRVM5wxyW45UMpgreSWW6) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Agenda](https://open.spotify.com/album/1WJBC1VH6AkS5JXChdxcf1) | 2:16 |
-| 2 | [Malome](https://open.spotify.com/track/1FNkjvrxmAWEests4qk8vX) | [Kiddy Kat](https://open.spotify.com/artist/7mi1AGiEnSHxEshIruGZEc) | [MORWA WA MPHERI](https://open.spotify.com/album/4lK7i4RkkGVQjtSBE1RsFt) | 3:39 |
-| 3 | [better](https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K) | [Afamefuna](https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG), [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [i.r.l](https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH) | 3:51 |
-| 4 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
+| 1 | [Malome](https://open.spotify.com/track/1FNkjvrxmAWEests4qk8vX) | [Kiddy Kat](https://open.spotify.com/artist/7mi1AGiEnSHxEshIruGZEc) | [MORWA WA MPHERI](https://open.spotify.com/album/4lK7i4RkkGVQjtSBE1RsFt) | 3:39 |
+| 2 | [Agenda](https://open.spotify.com/track/6GRVM5wxyW45UMpgreSWW6) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Agenda](https://open.spotify.com/album/1WJBC1VH6AkS5JXChdxcf1) | 2:16 |
+| 3 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
+| 4 | [better](https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K) | [Afamefuna](https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG), [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [i.r.l](https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH) | 3:51 |
 | 5 | [tears water my garden](https://open.spotify.com/track/37cnPtuVrmQiWzJWhXQ1t7) | [nostalgiclegend](https://open.spotify.com/artist/3uFHqCG2upcBFspDduHuRx), [OrahDae](https://open.spotify.com/artist/24h2OlaHJVuoEZ7naH8Xc7) | [tears water my garden](https://open.spotify.com/album/4XV75WSejdJE5vyeeUugl6) | 3:03 |
 | 6 | [BMB \(Be My Baby\)](https://open.spotify.com/track/53UX7O9CVsStlmDJ6JxPoW) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [BMB \(Be My Baby\)](https://open.spotify.com/album/7hAxhFNm53bIbzNbarbs5f) | 3:04 |
 | 7 | [Safe](https://open.spotify.com/track/6tPzBJptprIjA8hk4ir3rz) | [Kotrell](https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS) | [Safe](https://open.spotify.com/album/41y0S7UNgrEpuMeCOavaR0) | 3:33 |
@@ -78,5 +78,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 68 | [GOLIATH](https://open.spotify.com/track/5cI5ynzXU4SsRql9dKYnmR) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/12BoH0Ap35t0UyiuSXTMQC) | 2:34 |
 | 69 | [Flowers](https://open.spotify.com/track/3ilP9ixF3L5wM9dJWTaSid) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Flowers](https://open.spotify.com/album/2wHdzPoNzGCKToVOwfpVIM) | 2:18 |
 | 70 | [PTSD](https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI) | [PTSD](https://open.spotify.com/album/7y7BPELlPwXptFNCS4MGMC) | 2:50 |
+| 71 | [Serwaa Akoto](https://open.spotify.com/track/0eaLGnHVVYS97BjiuQDqgn) | [Sablar](https://open.spotify.com/artist/0do4yoWrGKWLS0qNjKG2uV) | [Serwaa Akoto](https://open.spotify.com/album/4HgVZVouszetQxLvi70iDW) | 2:50 |
 
-Snapshot ID: `aG5X7QAAAACX9DdoPDbQ46RHGcaQ6fwp`
+Snapshot ID: `aHbdkQAAAAAl9Zza6YKeCF2EO+vV5x5G`

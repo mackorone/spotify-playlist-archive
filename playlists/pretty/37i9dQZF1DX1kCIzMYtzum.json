@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99 with AFROJACK, Martin Garrix, David Guetta, and Am\u00e9l",
-  "num_followers": 388737,
+  "num_followers": 389185,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-07-11 04:00:25",
       "album": {
-        "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
-        "url": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 208159,
-      "name": "Forever Yours - Tim\u2019s 2016 Ibiza Version",
-      "url": "https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT"
-    },
-    {
-      "added_at": "2025-07-11 04:00:25",
-      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+    },
+    {
+      "added_at": "2025-07-11 04:00:25",
+      "album": {
+        "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
+        "url": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 208159,
+      "name": "Forever Yours - Tim\u2019s 2016 Ibiza Version",
+      "url": "https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT"
     },
     {
       "added_at": "2025-07-11 04:00:25",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2025-07-11 04:00:25",
       "album": {
-        "name": "The End Of Genesys",
-        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Luke Steele",
-          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
-        }
-      ],
-      "duration_ms": 190726,
-      "name": "Human Now (feat. Luke Steele)",
-      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
-    },
-    {
-      "added_at": "2025-07-11 04:00:25",
-      "album": {
         "name": "Carry You",
         "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 215930,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
+    },
+    {
+      "added_at": "2025-07-11 04:00:25",
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Luke Steele",
+          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
+        }
+      ],
+      "duration_ms": 190726,
+      "name": "Human Now (feat. Luke Steele)",
+      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
     },
     {
       "added_at": "2025-07-11 04:00:25",
@@ -1943,6 +1943,30 @@
     {
       "added_at": "2025-07-11 04:00:25",
       "album": {
+        "name": "Born To Be Lonely",
+        "url": "https://open.spotify.com/album/2bo04wJjiFwDR4g7n1tBr3"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 143010,
+      "name": "Born To Be Lonely",
+      "url": "https://open.spotify.com/track/64jxrtV3U1jWXAleUxlIIx"
+    },
+    {
+      "added_at": "2025-07-11 04:00:25",
+      "album": {
         "name": "HiROQUEST 3: Paragon",
         "url": "https://open.spotify.com/album/0SZQbOi7KSqnvTu6l7d9YR"
       },
@@ -1967,26 +1991,6 @@
     {
       "added_at": "2025-07-11 04:00:25",
       "album": {
-        "name": "All For Love",
-        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
-    },
-    {
-      "added_at": "2025-07-11 04:00:25",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4"
       },
@@ -2003,6 +2007,26 @@
       "duration_ms": 150027,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p"
+    },
+    {
+      "added_at": "2025-07-11 04:00:25",
+      "album": {
+        "name": "All For Love",
+        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
     },
     {
       "added_at": "2025-07-11 04:00:25",
@@ -2071,26 +2095,6 @@
     {
       "added_at": "2025-07-11 04:00:25",
       "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 180540,
-      "name": "Hypnotized (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
-    },
-    {
-      "added_at": "2025-07-11 04:00:25",
-      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/0jqUzeynq0OFvfiRxidGfE"
       },
@@ -2107,6 +2111,22 @@
       "duration_ms": 214070,
       "name": "Culture",
       "url": "https://open.spotify.com/track/1tf1bJWmA54TDD3F0tdZy2"
+    },
+    {
+      "added_at": "2025-07-11 04:00:25",
+      "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 231591,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
     },
     {
       "added_at": "2025-07-11 04:00:25",
@@ -2139,42 +2159,22 @@
     {
       "added_at": "2025-07-11 04:00:25",
       "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 231591,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
-    },
-    {
-      "added_at": "2025-07-11 04:00:25",
-      "album": {
-        "name": "Born To Be Lonely",
-        "url": "https://open.spotify.com/album/2bo04wJjiFwDR4g7n1tBr3"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 143010,
-      "name": "Born To Be Lonely",
-      "url": "https://open.spotify.com/track/64jxrtV3U1jWXAleUxlIIx"
+      "duration_ms": 180540,
+      "name": "Hypnotized (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
     }
   ],
   "unique_name": "EDM 2025",

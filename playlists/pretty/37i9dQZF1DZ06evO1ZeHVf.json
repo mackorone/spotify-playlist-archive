@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 49766,
+  "num_followers": 49795,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAAAfzWuYP7KKNkhHI8J7bNGh",
+  "snapshot_id": "aHRIgAAAAAA4OKbnIOaoWSja3G2kxhKI",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 335200,
-      "name": "Holy Spirit, Come Fill This Place",
-      "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
@@ -364,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 282426,
-      "name": "Comforter",
-      "url": "https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX"
+      "duration_ms": 190600,
+      "name": "He's Not On His Knees Yet",
+      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
     },
     {
       "added_at": null,
@@ -387,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 335200,
+      "name": "Holy Spirit, Come Fill This Place",
+      "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 282426,
+      "name": "Comforter",
+      "url": "https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 219333,
       "name": "A Heart Like Yours",
       "url": "https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "He's Not On His Knees Yet",
-      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Alone In The Presence",
-      "url": "https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting To Exhale",
         "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 266786,
       "name": "Count On Me - from \"Waiting to Exhale\" - Original Soundtrack",
       "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Alone In The Presence",
+      "url": "https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71"
     },
     {
       "added_at": null,

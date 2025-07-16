@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125194,
+  "num_followers": 125191,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUVpCVgEA9hUIMfpZLHEbISETmDwgq",
+  "snapshot_id": "AAAUV3l4qf5v+S7njg76W0hPerPApbrX",
   "tracks": [
+    {
+      "added_at": "2025-07-15 14:41:07",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1sei2WhOugKDlw77NEP7Bp"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/29lzIVp4Q0x9iG7nJKatHC"
+    },
     {
       "added_at": "2025-07-14 14:46:20",
       "album": {

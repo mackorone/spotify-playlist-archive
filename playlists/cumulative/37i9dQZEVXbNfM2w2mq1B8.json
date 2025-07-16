@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "2000 Excursion",
+        "url": "https://open.spotify.com/album/3DL7tqrKjVIJKD83eryeWA"
+      },
+      "artists": [
+        {
+          "name": "BOYS JACK 2",
+          "url": "https://open.spotify.com/artist/0F8keAM2QD313pCUDfxSMy"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217770,
+      "name": "2000 Excursion",
+      "url": "https://open.spotify.com/track/2k9swn5eu6iPFNTEBuDOEa"
+    },
+    {
+      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
@@ -260,7 +278,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 222986,
       "name": "2000 EXCURSION",
       "url": "https://open.spotify.com/track/6Gp3pYkydEOkl8EHHJxa9s"
@@ -2620,7 +2638,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -3362,7 +3380,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 234654,
       "name": "BEEP BEEP",
       "url": "https://open.spotify.com/track/3LjZ6PqqXfwkcnLOkgLGKI"
@@ -5602,10 +5620,6 @@
         {
           "name": "Don Toliver",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
         }
       ],
       "date_added": "2025-07-14",
@@ -6270,7 +6284,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 272410,
       "name": "CONTEST",
       "url": "https://open.spotify.com/track/7ydu79RLStYQTOi1OM6Dvg"
@@ -15392,7 +15406,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 184630,
       "name": "ILMB (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
@@ -15428,7 +15442,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 207760,
       "name": "Imame li vrazka",
       "url": "https://open.spotify.com/track/3XNlp4fJs4W7jbeYDfD3aD"
@@ -16808,10 +16822,6 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "date_added": "2025-07-14",
@@ -20114,7 +20124,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
@@ -20266,7 +20276,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 165142,
       "name": "Milkyway",
       "url": "https://open.spotify.com/track/3dZvjnXX0kBOdsiF3lboNJ"
@@ -20554,7 +20564,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 174532,
       "name": "MM3",
       "url": "https://open.spotify.com/track/2D8i2yY8z3kB5gRaUJ5weK"
@@ -22414,7 +22424,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 129603,
       "name": "NO COMMENTS",
       "url": "https://open.spotify.com/track/22f5gVlJXlTRSCezQDISFn"
@@ -23452,7 +23462,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 183320,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/22itRNJ0N4sB8RSeofp7pW"
@@ -24822,7 +24832,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 215625,
       "name": "Polujivi",
       "url": "https://open.spotify.com/track/5USdMIrRxaU3vnKaPxqj1C"
@@ -25964,7 +25974,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -27648,7 +27658,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -27958,7 +27968,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 239999,
       "name": "Shimmy",
       "url": "https://open.spotify.com/track/3AZGF9eV68DnDbhWDWGBzn"
@@ -34058,7 +34068,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 144841,
       "name": "VELOUR",
       "url": "https://open.spotify.com/track/56jNpLhqZaI5IfJwwMdkRQ"
@@ -39552,7 +39562,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 188780,
       "name": "\u041c\u0435\u0440\u0430\u043a\u043b\u0438\u044f",
       "url": "https://open.spotify.com/track/0b2D7UMjaaIYJndNYBbdRU"
@@ -39938,7 +39948,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 163448,
       "name": "\u041d\u0430\u043b\u0435\u0439",
       "url": "https://open.spotify.com/track/3cZTfGt9LFi9j4apzfvx0l"
@@ -39994,7 +40004,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "\u041d\u0430\u0448\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/1fTNb11PK6Ode6hx4bC8pl"
@@ -41460,7 +41470,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 211578,
       "name": "\u0420\u0430\u0437\u043a\u0430\u0436\u0438 \u045d",
       "url": "https://open.spotify.com/track/21z8pee2qYV0SzbqQCb72g"
@@ -42328,7 +42338,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 236838,
       "name": "\u0422\u0443\u043a-\u0422\u0430\u043c",
       "url": "https://open.spotify.com/track/49Wp0NALmAsMBkaXYzd8ur"

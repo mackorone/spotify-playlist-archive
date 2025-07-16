@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-545 songs - 1 day 2 hr 32 min
+546 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [I Wanna Talk](https://open.spotify.com/track/0ql60H0AnQOdxiC7Oh3pJN) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [I Wanna Talk](https://open.spotify.com/album/5Xd5xwTvOltxDikPLTEcw5) | 2:57 | 2024-10-04 | 2025-04-09 |
 | [I WANT](https://open.spotify.com/track/6tkQHOd8Wgf2ZpecK9sXGs) | [G\-Pol](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Lambi](https://open.spotify.com/artist/0kcZZU0MJOYaosYfTfAa0H) | [I WANT](https://open.spotify.com/album/3TxoC4oZUoxlGAXa6qNfWO) | 2:50 | 2022-01-21 | 2022-02-02 |
 | [I'm a Man](https://open.spotify.com/track/3zzzMsXOCCkPAFr2zbmKzY) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Faiolli](https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO) | [I'm a Man](https://open.spotify.com/album/3N9SCz8ypCUZ9KL07wv6EQ) | 2:47 | 2025-05-30 |  |
-| [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 | 2023-08-04 |  |
+| [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 | 2023-08-04 | 2025-07-16 |
 | [IDGAF](https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Rell Rock](https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq) | [IDGAF](https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG) | 3:00 | 2022-06-10 |  |
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 | 2023-01-06 |
 | [ILY](https://open.spotify.com/track/3vE4BK9rlQRRCnuguRTCuT) | [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [BASS RELATED VOL\. 1](https://open.spotify.com/album/6atF5QM5DJdbqtJqFlyLsN) | 2:48 | 2024-11-08 | 2025-05-04 |
@@ -403,6 +403,7 @@
 | [PLAY](https://open.spotify.com/track/6KJii4Z1j0jq22RXbn03RO) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [BLK OUT](https://open.spotify.com/artist/1F2dvP18rgi7Zdvn5HlM3l) | [PLAY](https://open.spotify.com/album/3OztyMCjBI1EvHvnpmiyv8) | 2:01 | 2023-12-15 | 2024-01-13 |
 | [Play By My Rules](https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Play By My Rules](https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p) | 3:37 | 2022-01-28 | 2022-08-27 |
 | [Poison](https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Poison](https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT) | 3:24 | 2021-10-29 | 2022-11-12 |
+| [Poison Ivy](https://open.spotify.com/track/68DQ6HkS9A7WxDnAobzeIC) | [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Poison Ivy](https://open.spotify.com/album/3aRfCgXhT54GQq2UxxFdYB) | 4:03 | 2025-07-11 |  |
 | [Policia](https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Policia](https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM) | 3:31 | 2022-04-29 | 2023-04-23 |
 | [Polkadots \- Space Ducks Remix](https://open.spotify.com/track/46GApbYIGs6koLAyQOGpXY) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Space Ducks](https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6) | [Polkadots \(Space Ducks Remix\)](https://open.spotify.com/album/24hTmcsPboY8XnViWduUfz) | 2:18 | 2023-07-14 | 2023-08-14 |
 | [Pop That](https://open.spotify.com/track/2VEl3fZmYeoJacH1Sn4DS2) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Pop That](https://open.spotify.com/album/14t75m8JmscI68WH2AqqC8) | 2:14 | 2023-07-14 | 2023-12-02 |

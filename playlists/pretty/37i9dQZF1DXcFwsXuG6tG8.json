@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 19608,
+  "num_followers": 19620,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-06-13 04:00:47",
       "album": {
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+    },
+    {
+      "added_at": "2025-06-13 04:00:47",
+      "album": {
         "name": "neo roneo",
         "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 166705,
       "name": "neo roneo",
       "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
-    },
-    {
-      "added_at": "2025-06-13 04:00:47",
-      "album": {
-        "name": "Me Lo Merezco",
-        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Me Lo Merezco",
-      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
       "added_at": "2025-06-13 04:00:47",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-06-13 04:00:47",
       "album": {
-        "name": "Green Love",
-        "url": "https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "Green Love",
-      "url": "https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp"
-    },
-    {
-      "added_at": "2025-06-13 04:00:47",
-      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2025-06-13 04:00:47",
       "album": {
-        "name": "Vida Nueva",
-        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
+        "name": "Green Love",
+        "url": "https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
         }
       ],
-      "duration_ms": 169375,
-      "name": "Vida Nueva",
-      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
+      "duration_ms": 144240,
+      "name": "Green Love",
+      "url": "https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp"
     },
     {
       "added_at": "2025-06-13 04:00:47",
@@ -927,6 +911,22 @@
       "duration_ms": 140930,
       "name": "una ni\u00f1a de Venezuela",
       "url": "https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX"
+    },
+    {
+      "added_at": "2025-06-13 04:00:47",
+      "album": {
+        "name": "Vida Nueva",
+        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 169375,
+      "name": "Vida Nueva",
+      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
     },
     {
       "added_at": "2025-06-13 04:00:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne?si=b1IUNbQpQeCM5Sqg54MtPw">Famous Pluto</a>, <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=AUGdwiZTSfGyp5PAiZR1HQ">Shallipopi</a>, <a href="https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd?si=\-5lTEh5RT3qVrK6K0\-K1Vg">Zerrydl</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,131 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,136 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

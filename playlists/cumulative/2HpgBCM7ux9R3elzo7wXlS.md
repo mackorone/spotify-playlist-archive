@@ -4,7 +4,7 @@
 
 > All of it
 
-884 songs - 2 day 7 hr 10 min
+885 songs - 2 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Katana Zero \(Ost\-Version\)](https://open.spotify.com/track/5x6yDsLXVjZK3yqQGtmNH4) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Katana Zero \(Original Soundtrack\)](https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK) | 5:47 | 2025-06-02 |  |
 | [Kepler\-22b](https://open.spotify.com/track/1d7amkMBfY5jwDaVYpWKUv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 3:12 | 2025-06-02 |  |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2025-06-02 |  |
+| [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 | 2025-07-16 |  |
 | [Kids See Ghosts](https://open.spotify.com/track/2I3dW2dCBZAJGj5X21E53k) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 4:05 | 2025-06-02 |  |
 | [Killer](https://open.spotify.com/track/21YiaS85ngOoYT773cMFlW) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Diamond is unbreakable O.S.T Vol.2 \-Good Night Morioh Cho\- Music by Yugo Kanno](https://open.spotify.com/album/6EjSwMnJ4X9QEbyxJJoKiT) | 3:03 | 2025-06-02 |  |
 | [King Kunta](https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:54 | 2025-06-02 |  |

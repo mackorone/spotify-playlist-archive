@@ -4,7 +4,7 @@
 
 > Neue Musik von Justin Bieber, Jazeek, Esther Graf, BLACKPINK und mehr!
 
-5,470 songs - 11 day 4 hr 5 min
+5,470 songs - 11 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5006,7 +5006,7 @@
 | [Vibe](https://open.spotify.com/track/1Es6wQuqBmr3padfRkU0Qf) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [French Sisters](https://open.spotify.com/artist/1I4EE5ur08rtlTb3v0gbtc) | [Vibe](https://open.spotify.com/album/441igrrcXohUmzVRsilfMs) | 2:18 | 2024-09-12 | 2024-09-20 |
 | [Victoria](https://open.spotify.com/track/5CkhyCtC9h6dlhgbYTDngg) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Victoria](https://open.spotify.com/album/3fFlaIr9zh0AK3BwEP9i7x) | 2:12 | 2024-10-24 | 2024-11-01 |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-06-19 | 2025-06-27 |
-| [Victory Lap Two](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 2:33 | 2025-07-10 |  |
+| [Victory Lap Three](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 3:28 | 2025-07-10 |  |
 | [VIDA \(feat\. Ninho & Morad\)](https://open.spotify.com/track/1zfBApK5OdvVU9t1tFZ8uG) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [La G World, Pt.1](https://open.spotify.com/album/1WedA6VtCNpsTI3LYGOA9q) | 4:07 | 2025-06-12 | 2025-06-20 |
 | [VIEL GESEHEN](https://open.spotify.com/track/25nqp9CoZjUNk70cimVpta) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [VIEL GESEHEN](https://open.spotify.com/album/0awhKTwOXQS3feafU2Klyj) | 2:58 | 2024-07-11 | 2024-07-19 |
 | [VIELLEICHT](https://open.spotify.com/track/4NqH9ZnItxXVgpK5Gszy2h) | [CHRIS](https://open.spotify.com/artist/5KFGB68TTW3x2GFT8o00rL) | [VIELLEICHT](https://open.spotify.com/album/5Q1YrRETKea8XecWMzTv04) | 2:11 | 2024-09-12 | 2024-09-20 |

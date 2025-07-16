@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,922 likes - 40 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,176 likes - 40 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 31 | [Funk Da Montanha \- Super Slowed](https://open.spotify.com/track/4gjg9hB5q4xWjJ9EelppL2) | [chipbagov](https://open.spotify.com/artist/0sd6x399jllqi3BqxgBvlw), [SCARIONIX](https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb), [IMMORTAL PLAYA](https://open.spotify.com/artist/0zVxxogKTboGS2y5aQ8EvU) | [Funk Da Montanha](https://open.spotify.com/album/1lIRnJM73zVgEWVE8oCxnb) | 1:47 |
 | 32 | [PSL \- Slowed](https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [PSL](https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq) | 2:21 |
 | 33 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
-| 34 | [BRAIN \(feat\. Artemas\)](https://open.spotify.com/track/7fGAhyEwT2RPPJeRHNeiC1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [BRAIN \(feat\. Artemas\)](https://open.spotify.com/album/03HMvLm0qOaRM6xOygXM30) | 2:39 |
-| 35 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
+| 34 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
+| 35 | [BRAIN \(feat\. Artemas\)](https://open.spotify.com/track/7fGAhyEwT2RPPJeRHNeiC1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [BRAIN \(feat\. Artemas\)](https://open.spotify.com/album/03HMvLm0qOaRM6xOygXM30) | 2:39 |
 | 36 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 37 | [AUTOMOTIVO EMPURRA](https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [AUTOMOTIVO EMPURRA](https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr) | 1:12 |
 | 38 | [z\-beta 2 \- Super Slowed](https://open.spotify.com/track/5WMrHMfkarliApsXvwUTrh) | [qaraqshy](https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9), [MC LONE](https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj) | [z\-beta 2](https://open.spotify.com/album/6dRJ8zaG9oTGrwpfu0Itld) | 1:34 |

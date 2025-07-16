@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329 likes - 47 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330 likes - 47 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 20 | [Pancho Villa](https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:57 |
 | 21 | [Mexicanos](https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Izzy93](https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 1:47 |
 | 22 | [Con Un Toque](https://open.spotify.com/track/4avwcBPGnQpkm9ZE2OCMCG) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Con Un Toque](https://open.spotify.com/album/7iZGyAz2CVYjw8ePLhqpqB) | 2:53 |
-| 23 | [3 Noches](https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:15 |
-| 24 | [El Drogadito](https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Shrt Lyfe](https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 1:45 |
+| 23 | [El Drogadito](https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Shrt Lyfe](https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 1:45 |
+| 24 | [3 Noches](https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:15 |
 | 25 | [Touring Tx](https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:39 |
 | 26 | [Nave 687](https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nave 687](https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8) | 3:27 |
 | 27 | [Cassius Clay](https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Godspeed](https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy) | 2:35 |
 | 28 | [Pa los Hombres](https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Andy Hernandez](https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:04 |
 | 29 | [RVD](https://open.spotify.com/track/011I1gMWFeHO1dMaWamVdr) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:49 |
-| 30 | [FTNSWL](https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [FTNSWL](https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO) | 2:51 |
-| 31 | [Tequila](https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO) | [N.E Mafio](https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Tequila](https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x) | 3:19 |
+| 30 | [Tequila](https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO) | [N.E Mafio](https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Tequila](https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x) | 3:19 |
+| 31 | [FTNSWL](https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [FTNSWL](https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO) | 2:51 |
 | 32 | [Alpaca Hearts](https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Alpaca Hearts](https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt) | 3:18 |
 | 33 | [Big Chains](https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [HOODLUM](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ), [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:40 |
 | 34 | [Pa Mi Gente](https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Prolifek](https://open.spotify.com/artist/702sOLRskZxAkEH1czvwQX), [Sam King](https://open.spotify.com/artist/0VymO8inS4wKgGtfeQpT3r) | [Pa Mi Gente](https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X) | 4:21 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 46 | [Made a 10 When I Woke Up \[screwed version\]](https://open.spotify.com/track/6rap5jqI6kXreSfRrRUdT8) | [HOODLUM](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Purple Files \[Screwed Version\]](https://open.spotify.com/album/7LSXnSH9Wxob3yvooKRlc7) | 2:08 |
 | 47 | [Bo Bundy On A Dirt Road](https://open.spotify.com/track/5pWflj63E3oq6BCIl8QJ2P) | [TheWaterBoyz710](https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [BeatZoff](https://open.spotify.com/artist/4iRztXXKqHE0Dz031YFkD1), [Country BoyZ 710](https://open.spotify.com/artist/4MduDZb0JOHTWQRAhE3AWT) | [Bo Bundy On A Dirt Road](https://open.spotify.com/album/4b0ycCQXMVbdCbWKQXI2xR) | 2:24 |
 
-Snapshot ID: `aHL3AAAAAACgzccHuV5SMU18CtFVPvUh`
+Snapshot ID: `aHRIgAAAAABEGuwNkBd8/b4A2gmFF8VD`

@@ -879,6 +879,32 @@
     },
     {
       "album": {
+        "name": "Metro ... In Dino (Side B)",
+        "url": "https://open.spotify.com/album/0Xenz5qY7LXiUVHvEQDoWr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "Sandeep Shrivastava",
+          "url": "https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242047,
+      "name": "Aur Mohabbat Kitni Karoon - Reprise",
+      "url": "https://open.spotify.com/track/0d2VNQNLaNPwx195QyBPel"
+    },
+    {
+      "album": {
         "name": "Awaara",
         "url": "https://open.spotify.com/album/3IdThrYvDFw688tR3DxfCF"
       },
@@ -7596,12 +7622,24 @@
       },
       "artists": [
         {
+          "name": "Tejwant Kittu",
+          "url": "https://open.spotify.com/artist/1GSqodugPYZMLW4n3SfKLp"
+        },
+        {
           "name": "Jaani",
           "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
         },
         {
           "name": "Neha Kakkar",
           "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Balkar Sidhu",
+          "url": "https://open.spotify.com/artist/6uBqTShUAXu6jwhxxvhuhZ"
+        },
+        {
+          "name": "Albela Brar",
+          "url": "https://open.spotify.com/artist/1ldXYAW0X4M90ZQyOe4GRL"
         }
       ],
       "date_added": "2025-07-14",
@@ -9912,7 +9950,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 215342,
       "name": "Saawariya",
       "url": "https://open.spotify.com/track/6oJcnd3IJBrJzGeJDCxfvA"

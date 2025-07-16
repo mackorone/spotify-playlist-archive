@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,263 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,300 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 46 | [A Little Light](https://open.spotify.com/track/74LJN9lVkbpVRXnZOLKttx) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [A Little Light](https://open.spotify.com/album/2qlhs0qXQ3PMWzsPHpPwhC) | 3:39 |
 | 47 | [closer](https://open.spotify.com/track/0OXZJHPmDYIyVaJ5nHM8YB) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [awakening](https://open.spotify.com/album/3AjLPYEKAkjxUZPKEKiXlv) | 2:07 |
 | 48 | [SUMMER](https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [SUMMER](https://open.spotify.com/album/42lZ7fs6ZVYjOvpXvbhUu1) | 2:25 |
-| 49 | [Made for This](https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Made for This](https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc) | 3:03 |
-| 50 | [Drives](https://open.spotify.com/track/3olQqumBrebhLCjZXtpE3D) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Drives](https://open.spotify.com/album/2PtkfjPzEs5UevBQYztU0b) | 3:03 |
-| 51 | [That Thank You Song!](https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [That Thank You Song!](https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR) | 3:06 |
+| 49 | [Drives](https://open.spotify.com/track/3olQqumBrebhLCjZXtpE3D) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Drives](https://open.spotify.com/album/2PtkfjPzEs5UevBQYztU0b) | 3:03 |
+| 50 | [That Thank You Song!](https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [That Thank You Song!](https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR) | 3:06 |
+| 51 | [Made for This](https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Made for This](https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc) | 3:03 |
 | 52 | [This Love](https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [This Love](https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC) | 3:17 |
 | 53 | [Tee It Up](https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tee It Up](https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0) | 2:29 |
 | 54 | [Abacus](https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Abacus](https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1) | 2:03 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 67 | [Awesome](https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA) | [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Awesome](https://open.spotify.com/album/0uWIKYtMsCNMlYMNyCcvBt) | 3:38 |
 | 68 | [fix my eyes](https://open.spotify.com/track/6Ep2zX7LwsYw1eMDZu0Ukx) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [fix my eyes](https://open.spotify.com/album/3nKZNJHgK4Gw4mOsrcMi0I) | 2:33 |
 | 69 | [Good Feeling \- Live](https://open.spotify.com/track/0bJ3hmRDGCMLM6fOcHygq1) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Live\)](https://open.spotify.com/album/7g2I02ahVqOq019UvjtGbF) | 4:49 |
-| 70 | [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 |
-| 71 | [Sweeter](https://open.spotify.com/track/5JhK3XsKHNrfejHmonKTto) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Sweeter](https://open.spotify.com/album/43y1ttbhckLH6AV9i8oR0q) | 3:36 |
+| 70 | [Sweeter](https://open.spotify.com/track/5JhK3XsKHNrfejHmonKTto) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Sweeter](https://open.spotify.com/album/43y1ttbhckLH6AV9i8oR0q) | 3:36 |
+| 71 | [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 |
 | 72 | [Waterfall](https://open.spotify.com/track/5R41ZubwtDGxn4xpBZBV1g) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [Waterfall](https://open.spotify.com/album/3ew62PEhImRBloBn44GS1V) | 2:32 |
 | 73 | [Crazy](https://open.spotify.com/track/4VRYsx7ppmuqEQAfb2oiZT) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Crazy](https://open.spotify.com/album/1DCt4nbVPNIcCZLhbDiUb8) | 3:08 |
 | 74 | [When I Say Yes](https://open.spotify.com/track/09wek0QXMM5ZjZ2B3JAcp4) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [When I Say Yes](https://open.spotify.com/album/4zZYF6eOE6JAdox1MQJUCp) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 
 > Our editor's picks for the biggest Drum & Bass bangers of 2024\. Cover: Charlotte Plank
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,299 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,346 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 | 30 | [Spend The Night](https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Spend The Night](https://open.spotify.com/album/78JrRQCZ8HppWoAXBkHBe7) | 3:07 |
 | 31 | [Demons](https://open.spotify.com/track/7HdJns0LuaRiJSxf1UJXp4) | [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v), [Genetics](https://open.spotify.com/artist/2TtirRFdqoWG9avOqFKGWI), [Elle Exxe](https://open.spotify.com/artist/4Y8MTcJjGJ2pHoLVLf9Dpa) | [Demons](https://open.spotify.com/album/6qJPepGszwBKTYGb6CvqY8) | 2:59 |
 | 32 | [Double Vision](https://open.spotify.com/track/2pfyDztdrbcvB3ommeiCSR) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t) | [Double Vision](https://open.spotify.com/album/4BqyUjSItakCqDyxWqBbxk) | 2:11 |
-| 33 | [Bring Me Joy](https://open.spotify.com/track/7f8EzmXuroHbrt9K8sLSEz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Bring Me Joy](https://open.spotify.com/album/3RPePHCPxwFxltpXQLZhOU) | 2:25 |
+| 33 | [Bring Me Joy \(with Karen Harding\)](https://open.spotify.com/track/7f8EzmXuroHbrt9K8sLSEz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Bring Me Joy \(with Karen Harding\)](https://open.spotify.com/album/3RPePHCPxwFxltpXQLZhOU) | 2:25 |
 | 34 | [Sleepwalking \(feat\. Songer\)](https://open.spotify.com/track/160BnJrlHjlswLWBmi8mOz) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Sleepwalking \(feat\. Songer\)](https://open.spotify.com/album/0bkRVje5m0kIefrwE4eY7M) | 2:58 |
 | 35 | [After Party](https://open.spotify.com/track/1XNQJZ8CfaTNIowJsaotvn) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [After Party](https://open.spotify.com/album/4JjIY6lalquagylMmJxOSW) | 2:53 |
 | 36 | [Never Alone](https://open.spotify.com/track/7ddjdWld2iDF5jblH2Hkzg) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Never Alone](https://open.spotify.com/album/0d3IZo3W37A9NHYLydpuZq) | 3:25 |

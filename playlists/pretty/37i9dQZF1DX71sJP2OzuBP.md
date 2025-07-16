@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,831 likes - 116 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,834 likes - 116 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [在月蝕裡抱緊我](https://open.spotify.com/track/6H4A3Vbro8pwPN091VHQzj) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [在月蝕裡抱緊我](https://open.spotify.com/album/1cZm2NJIWKwOEynkSUEjQK) | 4:16 |
 | 2 | [黑夜狂奔](https://open.spotify.com/track/4rCpwGXcaoNejahMl7BbFQ) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我們就像那些要命的傻瓜](https://open.spotify.com/album/3ZswervhsAwTbWS8Z1c4WB) | 5:20 |
-| 3 | [挽救](https://open.spotify.com/track/5SxiAhTj3rzpQDV63gZLgc) | [李玖哲](https://open.spotify.com/artist/3HMfFU4ob3JJRPTcVaeLFX) | [挽救](https://open.spotify.com/album/2J9KjLU0yYnGLAWXxxMToy) | 3:31 |
+| 3 | [挽救](https://open.spotify.com/track/5SxiAhTj3rzpQDV63gZLgc) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [挽救](https://open.spotify.com/album/2J9KjLU0yYnGLAWXxxMToy) | 3:31 |
 | 4 | [反覆拉扯](https://open.spotify.com/track/3zFr8ABoWIJm1u4UdSnpmu) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [反覆拉扯](https://open.spotify.com/album/00ZZJIk8UrLsl1cS0GHB0E) | 2:56 |
 | 5 | [若無你我欲去佗位](https://open.spotify.com/track/76EfpqmO6JUL2TTR1SIGwz) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [若無你我欲去佗位](https://open.spotify.com/album/62aFcrZppdH6tQqYX5ncIQ) | 3:41 |
 | 6 | [Superwoman](https://open.spotify.com/track/6PHzegfHzlMmdOS5wvRBUY) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Superwoman](https://open.spotify.com/album/0yUasFhwn94QbEgsqDBw9q) | 2:36 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 285607,
+  "num_followers": 285643,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAADyPg6XvK2bCJg52h5+0Vnl",
+  "snapshot_id": "aHRIgAAAAADwFStLcc2blfnmsg3fscMA",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lenny",
-        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Dig In",
-      "url": "https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 293466,
       "name": "Eleutheria",
       "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lenny",
+        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Dig In",
+      "url": "https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Minister Of Rock 'N Roll",
-      "url": "https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ride (Edit)",
         "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 220310,
       "name": "Ride (Edit)",
       "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Minister Of Rock 'N Roll",
+      "url": "https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raise Vibration",
         "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 282400,
       "name": "Here to Love",
       "url": "https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
     },
     {
       "added_at": null,

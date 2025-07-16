@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 172261,
+  "num_followers": 172304,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -567,18 +567,22 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Whiskey On You (Acoustic)",
-        "url": "https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr"
+        "name": "Half Of Me (Acoustic)",
+        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 179530,
-      "name": "Whiskey On You - Acoustic",
-      "url": "https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj"
+      "duration_ms": 175639,
+      "name": "Half Of Me - Acoustic",
+      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -599,22 +603,18 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Half Of Me (Acoustic)",
-        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
+        "name": "Whiskey On You (Acoustic)",
+        "url": "https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 175639,
-      "name": "Half Of Me - Acoustic",
-      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
+      "duration_ms": 179530,
+      "name": "Whiskey On You - Acoustic",
+      "url": "https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Heartbreaker (Acoustic)",
-        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Acoustic",
-      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "Dance With You (Acoustic)",
         "url": "https://open.spotify.com/album/3XqasHAHTOSZkFUtX4frj0"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 190235,
       "name": "Dance With You - Acoustic",
       "url": "https://open.spotify.com/track/4Hr2ypEKFXox6oxw9dTkSS"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "Heartbreaker (Acoustic)",
+        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Acoustic",
+      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "Breakups (Acoustic)",
         "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 227693,
       "name": "Breakups - Acoustic",
       "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Almost Maybes (Acoustic)",
-        "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179907,
-      "name": "Almost Maybes - Acoustic",
-      "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "You, Me, And Whiskey (Acoustic)",
         "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 187361,
       "name": "You, Me, And Whiskey - Acoustic",
       "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "Almost Maybes (Acoustic)",
+        "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179907,
+      "name": "Almost Maybes - Acoustic",
+      "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Drive You Out Of My Mind (Dark Room Edition)",
-        "url": "https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg"
+        "name": "Breakin' in Boots (Stripped)",
+        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
       },
       "artists": [
         {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
         }
       ],
-      "duration_ms": 234310,
-      "name": "Drive You Out Of My Mind - Dark Room Edition",
-      "url": "https://open.spotify.com/track/422L8K9qMnljsXBxrk7G7D"
+      "duration_ms": 154173,
+      "name": "Breakin' in Boots - Stripped",
+      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Breakin' in Boots (Stripped)",
-        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
+        "name": "Drive You Out Of My Mind (Dark Room Edition)",
+        "url": "https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg"
       },
       "artists": [
         {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
         }
       ],
-      "duration_ms": 154173,
-      "name": "Breakin' in Boots - Stripped",
-      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
+      "duration_ms": 234310,
+      "name": "Drive You Out Of My Mind - Dark Room Edition",
+      "url": "https://open.spotify.com/track/422L8K9qMnljsXBxrk7G7D"
     },
     {
       "added_at": "2025-04-11 04:00:33",

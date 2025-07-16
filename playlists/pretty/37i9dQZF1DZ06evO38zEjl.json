@@ -1,12 +1,12 @@
 {
   "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
-  "num_followers": 3239,
+  "num_followers": 3237,
   "original_name": "This Is Jon Hassell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAAAD+602ztfSveU3bM0AoxO+",
+  "snapshot_id": "aHRIgAAAAABAJyOD9vJ6jfAekMi8oeGH",
   "tracks": [
     {
       "added_at": null,
@@ -503,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+        "name": "Pink Noir",
+        "url": "https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB"
       },
       "artists": [
+        {
+          "name": "David Toop",
+          "url": "https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC"
+        },
         {
           "name": "Jon Hassell",
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 384256,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/4JMozDRCLvmpEPI7s84zX5"
+      "duration_ms": 563026,
+      "name": "Slow Loris Versus Poison Snail",
+      "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
     },
     {
       "added_at": null,
@@ -535,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Noir",
-        "url": "https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB"
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
       },
       "artists": [
-        {
-          "name": "David Toop",
-          "url": "https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC"
-        },
         {
           "name": "Jon Hassell",
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 563026,
-      "name": "Slow Loris Versus Poison Snail",
-      "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
+      "duration_ms": 384256,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/4JMozDRCLvmpEPI7s84zX5"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seeing Through Sound (Pentimento Volume Two)",
-        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "Reykjavik",
-      "url": "https://open.spotify.com/track/0A4uK12VvfptV5QTJinuV6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aka / Darbari / Java",
         "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
       },
@@ -643,34 +627,6 @@
       "duration_ms": 220533,
       "name": "Empire V",
       "url": "https://open.spotify.com/track/0KB13CC3lwVUmO8B324xBF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Surgeon of the Nightsky Restores Dead Things by the Power of Sound",
-        "url": "https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "J.A. Deane",
-          "url": "https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3"
-        },
-        {
-          "name": "Jean-Philippe Rykiel",
-          "url": "https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn"
-        },
-        {
-          "name": "Michael Brook",
-          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
-        }
-      ],
-      "duration_ms": 520400,
-      "name": "Paris II",
-      "url": "https://open.spotify.com/track/0OdTzWhSs2tNhHPGSzyj40"
     },
     {
       "added_at": null,
@@ -703,6 +659,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Surgeon of the Nightsky Restores Dead Things by the Power of Sound",
+        "url": "https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "J.A. Deane",
+          "url": "https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3"
+        },
+        {
+          "name": "Jean-Philippe Rykiel",
+          "url": "https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn"
+        },
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+        }
+      ],
+      "duration_ms": 520400,
+      "name": "Paris II",
+      "url": "https://open.spotify.com/track/0OdTzWhSs2tNhHPGSzyj40"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "Reykjavik",
+      "url": "https://open.spotify.com/track/0A4uK12VvfptV5QTJinuV6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 453120,
+      "name": "Wing Melodies",
+      "url": "https://open.spotify.com/track/3nWWMBKHbfhQGZOYHKynKb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siwan",
         "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 256533,
       "name": "Ayshyin Raquin",
       "url": "https://open.spotify.com/track/4w72TCoWaoE11mynCinysb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Power Spot",
-        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 453120,
-      "name": "Wing Melodies",
-      "url": "https://open.spotify.com/track/3nWWMBKHbfhQGZOYHKynKb"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 409693,
+      "name": "Solaire",
+      "url": "https://open.spotify.com/track/7Le2FN7uEVuHdbaxvxMTH4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siwan",
         "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 145560,
       "name": "Ya Andalucin",
       "url": "https://open.spotify.com/track/47DrzRMA800FMIMRi5eBsB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Power Spot",
-        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 409693,
-      "name": "Solaire",
-      "url": "https://open.spotify.com/track/7Le2FN7uEVuHdbaxvxMTH4"
     },
     {
       "added_at": null,
@@ -872,37 +872,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 293973,
-      "name": "Empire II",
-      "url": "https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopies",
-        "url": "https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7"
-      },
-      "artists": [
-        {
-          "name": "Hadouk Trio",
-          "url": "https://open.spotify.com/artist/6LGJztKkpc9F9yNpPSh8Js"
-        },
-        {
-          "name": "Didier Malherbe",
-          "url": "https://open.spotify.com/artist/29ZPj7LSaUStGFCPyivcOl"
-        },
-        {
-          "name": "Loy Ehrlich",
-          "url": "https://open.spotify.com/artist/1Y21TMXwcmh3J7ScCMRQdH"
-        },
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "Parasol Blanc, pt. 1",
-      "url": "https://open.spotify.com/track/6v5duRp0Su1k7s8GNqrfns"
+      "duration_ms": 429133,
+      "name": "Empire III",
+      "url": "https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg"
     },
     {
       "added_at": null,
@@ -919,6 +891,26 @@
       "duration_ms": 320266,
       "name": "Air",
       "url": "https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 1290160,
+      "name": "Charm (Over \"Burundi Cloud\")",
+      "url": "https://open.spotify.com/track/5V5NS2wWOiu9uOPDVOgwOT"
     },
     {
       "added_at": null,
@@ -948,9 +940,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 429133,
-      "name": "Empire III",
-      "url": "https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg"
+      "duration_ms": 293973,
+      "name": "Empire II",
+      "url": "https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO"
     }
   ],
   "unique_name": "This Is Jon Hassell",

@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "1973",
+        "url": "https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285595,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd"
+    },
+    {
+      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/1V5rQaT0Ib4cHyr37QWs7M"
       },
@@ -4006,7 +4028,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 204419,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
@@ -4636,7 +4658,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 156850,
       "name": "can't hold the light",
       "url": "https://open.spotify.com/track/4DBmErhbpFFYN1ugnu4wCy"
@@ -27566,6 +27588,24 @@
       "duration_ms": 143774,
       "name": "self-love",
       "url": "https://open.spotify.com/track/20Qufms0u6e9mHprf81SzX"
+    },
+    {
+      "album": {
+        "name": "Senses of Comfort",
+        "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191946,
+      "name": "Senses of Comfort",
+      "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
     },
     {
       "album": {

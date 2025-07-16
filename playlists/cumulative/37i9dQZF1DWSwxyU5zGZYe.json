@@ -313,6 +313,32 @@
     },
     {
       "album": {
+        "name": "Metro ... In Dino (Side B)",
+        "url": "https://open.spotify.com/album/0Xenz5qY7LXiUVHvEQDoWr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "Sandeep Shrivastava",
+          "url": "https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242047,
+      "name": "Aur Mohabbat Kitni Karoon - Reprise",
+      "url": "https://open.spotify.com/track/0d2VNQNLaNPwx195QyBPel"
+    },
+    {
+      "album": {
         "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr"
       },
@@ -670,7 +696,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 253973,
       "name": "Dil Ghabraye (From \"I Want To Talk\")",
       "url": "https://open.spotify.com/track/6Or8GnbeZSnqN4CnKVSuqn"
@@ -1984,7 +2010,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 242135,
       "name": "Mann Ye Mera - Rewind",
       "url": "https://open.spotify.com/track/0TpGvB9n2zCVR43q0jeOf1"
@@ -3760,6 +3786,40 @@
       "duration_ms": 312820,
       "name": "Woh Din (From \"Chhichhore\")",
       "url": "https://open.spotify.com/track/6QPFWNUw9iGFZAXgqecunp"
+    },
+    {
+      "album": {
+        "name": "Metro ... In Dino (Side B)",
+        "url": "https://open.spotify.com/album/0Xenz5qY7LXiUVHvEQDoWr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Momin Khan Momin",
+          "url": "https://open.spotify.com/artist/6mSgZSuRPbUjQzZ9LpiPRR"
+        },
+        {
+          "name": "Sandeep Shrivastava",
+          "url": "https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259065,
+      "name": "Yaad - Encore",
+      "url": "https://open.spotify.com/track/5k9v32MhOyQuF2PekV5EjI"
     },
     {
       "album": {

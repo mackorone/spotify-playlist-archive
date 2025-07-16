@@ -1,6 +1,6 @@
 {
   "description": "Remember these?",
-  "num_followers": 1333609,
+  "num_followers": 1333747,
   "original_name": "One-Hit Wonders",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-03-27 15:59:38",
       "album": {
+        "name": "Liebling (France version)",
+        "url": "https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP"
+      },
+      "artists": [
+        {
+          "name": "Andreas Johnson",
+          "url": "https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB"
+    },
+    {
+      "added_at": "2024-03-27 15:59:38",
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 234400,
       "name": "Starlight - Radio Edit",
       "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
-    },
-    {
-      "added_at": "2024-03-27 15:59:38",
-      "album": {
-        "name": "Liebling (France version)",
-        "url": "https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP"
-      },
-      "artists": [
-        {
-          "name": "Andreas Johnson",
-          "url": "https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB"
     },
     {
       "added_at": "2024-03-27 15:59:38",

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: disiz
 
-3,406 songs - 7 day 12 hr 3 min
+3,407 songs - 7 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2200,7 +2200,7 @@
 | [Nous](https://open.spotify.com/track/0ER7xvqBT0pPjlNN6aR2RF) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [On ira](https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ) | 2:12 | 2022-01-21 | 2022-02-05 |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-04-07 | 2023-05-13 |
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-05-17 | 2024-07-13 |
-| [Nouveau jour](https://open.spotify.com/track/7yRk1Wz8zcP3Oq8Y6osHHi) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Nouveau jour](https://open.spotify.com/album/0Ex2lKs81gEUxA9Xbe8S8p) | 2:06 | 2025-06-27 |  |
+| [Nouveau jour](https://open.spotify.com/track/7yRk1Wz8zcP3Oq8Y6osHHi) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Nouveau jour](https://open.spotify.com/album/0Ex2lKs81gEUxA9Xbe8S8p) | 2:06 | 2025-06-27 | 2025-07-16 |
 | [NOUVEAU OPPS](https://open.spotify.com/track/1qsD8ypRfaWclvlng2acJQ) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [LA VIE CONTINUE](https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI) | 3:37 | 2024-10-25 | 2024-12-21 |
 | [Nouvelle administration](https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u) | 3:18 | 2023-02-03 | 2023-02-18 |
 | [Nouvelle Vague](https://open.spotify.com/track/12kBPE64F24yAAACOg1LsI) | [Jalouse](https://open.spotify.com/artist/0XYVwgLGzOvJLhdIn4lzm5) | [Nouvelle Vague](https://open.spotify.com/album/5rGSU1o3d4yw0I82ZxIXKo) | 3:38 | 2022-10-14 | 2022-10-29 |
@@ -3239,6 +3239,7 @@
 | [Vertige](https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Vertige](https://open.spotify.com/album/2yoSmS2boP6CbLhUlZPciN) | 3:45 | 2022-07-01 | 2022-07-23 |
 | [Vestiges](https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Vestiges](https://open.spotify.com/album/4fqmaHHAlnPDNc8FyTzVXv) | 4:04 | 2022-04-15 | 2022-04-29 |
 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 | 2023-08-25 | 2023-09-02 |
+| [VHS](https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [VHS](https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c) | 3:15 | 2025-07-11 |  |
 | [VIAUVILLE](https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [VIAUVILLE](https://open.spotify.com/album/6sKwsxSZk7W17bbYE7jwf6) | 4:28 | 2023-12-01 | 2023-12-09 |
 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 | 2023-06-23 | 2023-09-09 |
 | [Vice](https://open.spotify.com/track/1CQw290cl4D8c4di4z6RrW) | [Renzo Rivolta](https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O) | [Vice](https://open.spotify.com/album/0nI95YjB1bnyE0LUIa5ycz) | 3:45 | 2024-09-20 | 2024-09-28 |

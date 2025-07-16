@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Sous\-Sol en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,794 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,791 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 10 | [el mundo no se acaba si te vas](https://open.spotify.com/track/7hZqQVzxR1zXOczT2zNJMD) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [mi mundo kawaii](https://open.spotify.com/album/3OaTo7T5LVBfIVc5DtuOIN) | 2:56 |
 | 11 | [todas las veces](https://open.spotify.com/track/0ewXHTVuuJ2vi4DKzTyHNQ) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [todas las veces](https://open.spotify.com/album/4K0r165T0jVW6YhieiyGgj) | 2:50 |
 | 12 | [La Ciudad](https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Ciudad](https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO) | 3:33 |
-| 13 | [Suenos Rotos](https://open.spotify.com/track/66nJmbwRrvcRec2JvgWcNH) | [RAMSI](https://open.spotify.com/artist/2yrRZayfrT5J9U7GZ9AYfK), [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Sueños rotos](https://open.spotify.com/album/5sRhy8Zd3BIrXL5n2uHTRI) | 2:39 |
+| 13 | [Sueños Rotos](https://open.spotify.com/track/66nJmbwRrvcRec2JvgWcNH) | [RAMSI](https://open.spotify.com/artist/2yrRZayfrT5J9U7GZ9AYfK), [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Sueños Rotos](https://open.spotify.com/album/5sRhy8Zd3BIrXL5n2uHTRI) | 2:39 |
 | 14 | [Mañana Hablamos \(1154\)](https://open.spotify.com/track/4LNmjN9PJZkr9oWkaP8sDv) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Mañana Hablamos \(1154\)](https://open.spotify.com/album/1qzbJceoJvo2evgoBZVAIV) | 3:08 |
 | 15 | [vienes o vas?](https://open.spotify.com/track/2zDJ3vv52l9dKjAM7BUnLN) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [vienes o vas?](https://open.spotify.com/album/43485os867PpeGvfNwp5bB) | 2:33 |
 | 16 | [pijama.](https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 2:38 |

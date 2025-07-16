@@ -4,7 +4,7 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 28 min
+110 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [nine forty\-five](https://open.spotify.com/track/24fvzEgCw2rBjyBsvb2tAb) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:00 | 2025-06-13 |  |
 | [nine forty\-five](https://open.spotify.com/track/2QgWTuCGjygT6O6EpTBqqu) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:00 | 2024-12-14 | 2025-06-13 |
 | [NOT\_ALIVE//NOT\_DEAD](https://open.spotify.com/track/1dPgMMtJEMqlze4CgbXQTc) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [N0\_L4T3NCY: HALCYON PT\. IV](https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm) | 2:42 | 2025-04-02 | 2025-04-05 |
-| [NOT\_ALIVE//NOT\_DEAD](https://open.spotify.com/track/6lFdELrYB1fLkVCAXJSMwU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:42 | 2024-12-14 |  |
+| [NOT\_ALIVE//NOT\_DEAD](https://open.spotify.com/track/2httQkD46z4v7zpKFJh1NF) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NOT\_ALIVE//NOT\_DEAD](https://open.spotify.com/album/5Kee9b1Z0m6UmVYoi6Zhmy) | 2:42 | 2025-07-16 |  |
+| [NOT\_ALIVE//NOT\_DEAD](https://open.spotify.com/track/6lFdELrYB1fLkVCAXJSMwU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:42 | 2024-12-14 | 2025-07-16 |
 | [Out of stock \(Do what you gotta!\)](https://open.spotify.com/track/5qDDpvcDmO4oqlkp5H2xab) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:44 | 2025-03-24 | 2025-06-06 |
 | [Out of stock \(Do what you gotta!\)](https://open.spotify.com/track/5uEPsTNTphBctaYyTPGeQm) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 2:44 | 2025-06-11 | 2025-07-15 |
 | [Outlaw \- 2021 Version](https://open.spotify.com/track/3mXHDTc9NAkNcsi6KFWzUh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:40 | 2025-01-10 |  |
@@ -92,7 +93,8 @@
 | [Ramblings of the Lost Man \- 2021 Version](https://open.spotify.com/track/1nFMcGlbCsw6yqz7pSDyzh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:05 | 2025-01-06 | 2025-06-20 |
 | [Re:Start \- 2021 Version](https://open.spotify.com/track/3TJ2wxqp3kShbKczbVc2D0) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 2:26 | 2024-12-14 |  |
 | [Rewind](https://open.spotify.com/track/68Gp6rEh4esguX6AMMN7VU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:13 | 2024-12-14 | 2025-06-09 |
-| [secrets \- natural accent version](https://open.spotify.com/track/0n0NOHtckswKyJWlP3r7aj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM) | 3:49 | 2024-12-14 |  |
+| [secrets](https://open.spotify.com/track/3m4aTcX05179QxhphJVL2T) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/46yGNn4DLG05H0d7UMycEq) | 3:49 | 2025-07-16 |  |
+| [secrets \- natural accent version](https://open.spotify.com/track/0n0NOHtckswKyJWlP3r7aj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM) | 3:49 | 2024-12-14 | 2025-07-16 |
 | [Secrets\_album\_ver.wav!](https://open.spotify.com/track/2nfBvGCsdZbIHdnQhSPNMZ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:36 | 2025-03-23 | 2025-06-09 |
 | [Secrets\_album\_ver.wav!](https://open.spotify.com/track/6r3WYwbRitpY1OrBUYTKZy) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 3:36 | 2025-06-09 | 2025-07-03 |
 | [So long \(waiting 4 this\)](https://open.spotify.com/track/3TjtBqwPubJxR2NmXSPJUD) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [So long \(waiting 4 this\)](https://open.spotify.com/album/04IwqTy1euUxr2XGKlu53Z) | 2:36 | 2024-12-14 |  |

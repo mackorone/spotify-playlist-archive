@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,731 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,750 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 61 | [La Noche Sin Ti](https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh) | [Mariel Trimaglio](https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu) | [La Noche Sin Ti](https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU) | 4:44 |
 | 62 | [El Mentiroso](https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Celso Duarte](https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 3:23 |
 | 63 | [Vuelve a Sonar](https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Vuelve a Sonar](https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL) | 2:44 |
-| 64 | [Por el Río Volveré](https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl) | [Victoria Birchner](https://open.spotify.com/artist/3WK96n89Ph8hEufWDG5DeS), [Franco Luciani](https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy) | [Memoria del Viento](https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt) | 4:03 |
-| 65 | [Viene Clareando](https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7) | [Leda Valladares](https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34), [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Entre Valles y Quebradas](https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A) | 3:31 |
-| 66 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 |
+| 64 | [Viene Clareando](https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7) | [Leda Valladares](https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34), [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Entre Valles y Quebradas](https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A) | 3:31 |
+| 65 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 |
+| 66 | [Por el Río Volveré](https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl) | [Victoria Birchner](https://open.spotify.com/artist/3WK96n89Ph8hEufWDG5DeS), [Franco Luciani](https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy) | [Memoria del Viento](https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt) | 4:03 |
 | 67 | [Pétalo de Sal](https://open.spotify.com/track/4ivf9l9t9Mnbg5wB20wI7c) | [Vero Marjbein](https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi) | [Buscando el sol](https://open.spotify.com/album/0z6ZovAkZ1nhmWwZx6KBqT) | 3:15 |
 | 68 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
 | 69 | [Tierra, Tan Sólo](https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Tierra, Tan Sólo](https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar) | 3:52 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 92 | [Quisiera Amarte Menos](https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3) | [Nacha Roldán](https://open.spotify.com/artist/5ecl4cSr8UkV7VAgBuQmYh) | [Joyas](https://open.spotify.com/album/4Dk2z9Sx44XUr4LKRsxPI3) | 3:09 |
 | 93 | [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 |
 | 94 | [Zamba de Anta](https://open.spotify.com/track/3W5eRlepqJgN9YcYJIfamc) | [Marián Farias Gómez](https://open.spotify.com/artist/31aTmNTOHYqSou2S0pLure) | [Para ir a buscarte](https://open.spotify.com/album/6bVLW63mb9Po1U0tpiENM9) | 4:34 |
-| 95 | [Lavandera Chaguanca](https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s) | [Luna Monti](https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd) | [Dentro, El Silencio](https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw) | 5:20 |
-| 96 | [Esa Musiquita](https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v) | [Marilí Machado](https://open.spotify.com/artist/38ikTZxvFSdHLo3EIodMRI) | [A Mercedes, Vol\. II](https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7) | 3:22 |
+| 95 | [Esa Musiquita](https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v) | [Marilí Machado](https://open.spotify.com/artist/38ikTZxvFSdHLo3EIodMRI) | [A Mercedes, Vol\. II](https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7) | 3:22 |
+| 96 | [Lavandera Chaguanca](https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s) | [Luna Monti](https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd) | [Dentro, El Silencio](https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw) | 5:20 |
 | 97 | [Guanuqueando](https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Guanuqueando](https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB) | 4:19 |
-| 98 | [Romance de la luna tucumana](https://open.spotify.com/track/4OKwLQZOP6IRuCvdKVwUK3) | [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Desnudando el corazón](https://open.spotify.com/album/71H7JoIcmwgwRnhu6KhEfY) | 4:11 |
-| 99 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
+| 98 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
+| 99 | [Romance de la luna tucumana](https://open.spotify.com/track/4OKwLQZOP6IRuCvdKVwUK3) | [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Desnudando el corazón](https://open.spotify.com/album/71H7JoIcmwgwRnhu6KhEfY) | 4:11 |
 | 100 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
 
 Snapshot ID: `Zxf5CAAAAAAhLpANQaW02NDxnke9+DI8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con day2k en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,693 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,632 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 8 | [Destello de belleza](https://open.spotify.com/track/3k9U7mDJt0ZfcHzyWoPWkA) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Destello de belleza](https://open.spotify.com/album/0RCCG49nGccORKaZAEhBi2) | 3:12 |
 | 9 | [Ahora](https://open.spotify.com/track/0ca8ttkk2OQ2LVhwez4IFi) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Ahora](https://open.spotify.com/album/2RV0pC0lMKa9N3duuB3W5z) | 3:00 |
 | 10 | [Crónica de una vida](https://open.spotify.com/track/1o5UADYohmOUBoqe38SNGk) | [Jaxho](https://open.spotify.com/artist/0KEOYaMwjec0pNYa19P8Gt), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Crónica de una vida](https://open.spotify.com/album/6SkRkWajha2kNA5yoOs96t) | 4:15 |
-| 11 | [Suenos Rotos](https://open.spotify.com/track/66nJmbwRrvcRec2JvgWcNH) | [RAMSI](https://open.spotify.com/artist/2yrRZayfrT5J9U7GZ9AYfK), [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Sueños rotos](https://open.spotify.com/album/5sRhy8Zd3BIrXL5n2uHTRI) | 2:39 |
+| 11 | [Sueños Rotos](https://open.spotify.com/track/66nJmbwRrvcRec2JvgWcNH) | [RAMSI](https://open.spotify.com/artist/2yrRZayfrT5J9U7GZ9AYfK), [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Sueños Rotos](https://open.spotify.com/album/5sRhy8Zd3BIrXL5n2uHTRI) | 2:39 |
 | 12 | [Triste Corazón](https://open.spotify.com/track/6eZgAnHVYKQiNx0jIOIlBT) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8), [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Triste Corazón](https://open.spotify.com/album/4CM9h2r8M62EOc7yxiPl6V) | 3:37 |
 | 13 | [Nada podrá alcanzarte](https://open.spotify.com/track/0TpfAqSmuh1wHzWhfgiudB) | [Humano En Tránsito](https://open.spotify.com/artist/5NEHbkbEfjsmzdpXDKXIxb), [Martinache](https://open.spotify.com/artist/4aHhZeD2xMKgaumEPUgJKw) | [Nada podrá alcanzarte](https://open.spotify.com/album/1tWsXxnHaWCHlLbVvo5NLD) | 3:31 |
 | 14 | [TODO TODO TODO](https://open.spotify.com/track/74voeL9s0m0Us3KK6mDw8e) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [DINAMITA](https://open.spotify.com/album/6xrvwYsIJuvW9XaAuAtbuh) | 3:32 |

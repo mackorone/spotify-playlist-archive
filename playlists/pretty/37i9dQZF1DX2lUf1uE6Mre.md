@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Loredana
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,741 likes - 90 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,777 likes - 90 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

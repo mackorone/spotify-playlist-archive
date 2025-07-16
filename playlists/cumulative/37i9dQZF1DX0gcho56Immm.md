@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Acopia
 
-136 songs - 7 hr 41 min
+137 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY) | 2:22 | 2025-05-08 |  |
 | [Qw4nt0hmW3b](https://open.spotify.com/track/33hWWAHK22EVzZ7Lyry51z) | [Discovery Zone](https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt), [E/T](https://open.spotify.com/artist/546bJduW9d8xAi9Wc3nWC9) | [Supernatural](https://open.spotify.com/album/17n8tO0Sm5ahYvvVqONHBr) | 6:51 | 2025-07-11 |  |
 | [Rivet Gun](https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Rivet Gun](https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2) | 2:17 | 2025-04-29 |  |
-| [Roll the dice](https://open.spotify.com/track/1lg1XJk0XHBfeqT389cfcJ) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Roll the dice](https://open.spotify.com/album/21zZA3rsn2kmFoCRmpIUrt) | 2:07 | 2025-04-10 |  |
+| [Roll the dice](https://open.spotify.com/track/1lg1XJk0XHBfeqT389cfcJ) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Roll the dice](https://open.spotify.com/album/21zZA3rsn2kmFoCRmpIUrt) | 2:07 | 2025-04-10 | 2025-07-16 |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-06-26 |  |
 | [Sacrificial Code](https://open.spotify.com/track/18xisk5Sg6dJVobPvDovNp) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw) | 5:29 | 2025-05-08 |  |
 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 | 2025-05-01 |  |
@@ -124,6 +124,7 @@
 | [The artist is absent \- 89 seconds rewrite](https://open.spotify.com/track/2ukYn5UsXjyaTskqf8x9Xe) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [The artist is absent](https://open.spotify.com/album/7egg349kHYANI2fdTjQXSk) | 2:35 | 2025-04-03 |  |
 | [the end or the beginning idk \- trentemøller Remix](https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [the end or the beginning idk \(trentemøller Remix\)](https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv) | 3:38 | 2025-05-29 |  |
 | [The Future](https://open.spotify.com/track/1aaGeVnP4r66IgNvVoyL6T) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [The Future](https://open.spotify.com/album/5VGi3079D9C2xp1bggAujV) | 4:13 | 2025-04-24 |  |
+| [The Longest Sleep](https://open.spotify.com/track/0rKK8Xj27S7L4tAB9EBYHX) | [Ssaliva](https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB) | [I'm the One with No Soul](https://open.spotify.com/album/0yZpBY7dvRB4cUHtuvB0uQ) | 3:53 | 2025-07-15 |  |
 | [The One in Front of the Sun](https://open.spotify.com/track/2axEsEvh4uIfPNgPrhxew5) | [Spivak](https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx) | [Violences](https://open.spotify.com/album/50fGBMmPLU994MXKGDUQN1) | 4:47 | 2025-03-13 |  |
 | [The Turning Ground](https://open.spotify.com/track/6F7j171ZkccR3gA57cLqRR) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [On The Turning Ground](https://open.spotify.com/album/7GAK47rAg2VuMb47HOXdK2) | 4:25 | 2025-05-08 |  |
 | [TMN](https://open.spotify.com/track/1atGiLsGuzJ5SduA6vVvrG) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [TMN](https://open.spotify.com/album/0yLlTZNuMUYqCx8zktCIWD) | 2:51 | 2025-05-08 | 2025-05-16 |

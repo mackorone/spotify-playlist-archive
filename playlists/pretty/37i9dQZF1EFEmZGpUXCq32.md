@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 80 | [Benediction](https://open.spotify.com/track/6RrWOUtOeWb4GpJiSrg8NG) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:40 |
 | 81 | [Go Down](https://open.spotify.com/track/6QWerSSM3jBxJpw3k2gd3w) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 4:21 |
 | 82 | [Shoutin Music](https://open.spotify.com/track/3zvHWHUDaEu8Z8jv1OIZHT) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 2:26 |
-| 83 | [Heart](https://open.spotify.com/track/7hzyYvGrZ7nA7jZjvISbEp) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 8:58 |
-| 84 | [Offering Song](https://open.spotify.com/track/1TO38Lo4ETmbWLiQ1kfuef) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:47 |
+| 83 | [Offering Song](https://open.spotify.com/track/1TO38Lo4ETmbWLiQ1kfuef) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:47 |
+| 84 | [Heart](https://open.spotify.com/track/7hzyYvGrZ7nA7jZjvISbEp) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 8:58 |
 | 85 | [Christmas Boogie](https://open.spotify.com/track/3qfGYjWVbvgfxrGRtZSbuL) | [Trilogy](https://open.spotify.com/artist/3c24oOZo7a3mchm4okumqw), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas Uncovered](https://open.spotify.com/album/70AfPOE4qUXzqrzwG3o5ut) | 2:58 |
 | 86 | [Be Or Busy \(Mukthi\)](https://open.spotify.com/track/2WMQeI39yiHAy97t8V9IEo) | [Sadhguru](https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Eternal Echoes](https://open.spotify.com/album/6EM63wmKINZdwud5zUiOmb) | 2:53 |
 | 87 | [Gotcha Now](https://open.spotify.com/track/2kxdAwQFiWie1WfhgJWCvX) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:10 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 96 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 97 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `Ab2yNAAAAABihUtxti7fh6YPU+4ds7fc`
+Snapshot ID: `Ab231AAAAABQotF8f5zWn6Xd4lv91TKc`

@@ -90715,6 +90715,24 @@
     },
     {
       "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/0lLCE3UPVvppCmTL0sy8e9"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288200,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/6QnApmZYvUbrwkDbhqULJS"
+    },
+    {
+      "album": {
         "name": "\u79e6 \u57fa\u535a\u3068\u6620\u753b\u4e3b\u984c\u6b4c",
         "url": "https://open.spotify.com/album/0zeDfA7UQ5jPFhZCHUoiRY"
       },

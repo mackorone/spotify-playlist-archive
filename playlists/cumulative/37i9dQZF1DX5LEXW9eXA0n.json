@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \uc774\ud64d\uae30) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \uc190\uc774\uc9c0\uc720) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -4208,7 +4208,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 264133,
       "name": "Counting Our Kisses",
       "url": "https://open.spotify.com/track/0P5KS6WhrZFEMeCkDMQ4Cb"
@@ -9606,7 +9606,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 219626,
       "name": "I loved you",
       "url": "https://open.spotify.com/track/2b0SYEIB9QyJlnPLmypkgl"
@@ -21435,6 +21435,24 @@
     },
     {
       "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2RsiFm71wIdvLj7rwWYRoD"
+      },
+      "artists": [
+        {
+          "name": "Son E Ji U(Son Seung yeon,Lee Ye joon,Ji Se hee,U Sung eun)",
+          "url": "https://open.spotify.com/artist/2b0J5M0DnvBq0UcqpU0wBv"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224026,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/1lvcsObmN9xiD3AtDLfROo"
+    },
+    {
+      "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
       },
@@ -24840,6 +24858,24 @@
       "duration_ms": 219533,
       "name": "When we broke up",
       "url": "https://open.spotify.com/track/501ycObHaXtbolUtWvqPi0"
+    },
+    {
+      "album": {
+        "name": "Head over Heels, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5RH88dyB79lPDgIytTZNwc"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "When we meet again",
+      "url": "https://open.spotify.com/track/6gQk1uAnn2hRujlUKmqydC"
     },
     {
       "album": {

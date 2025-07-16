@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "PERCENT",
+        "url": "https://open.spotify.com/album/4de5hT5ZhXjpGXvwsLsZNW"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "ANIMALS",
+      "url": "https://open.spotify.com/track/2LjgOlNuY9yXWK8bz1I5L6"
+    },
+    {
+      "album": {
         "name": "The Chaos Chapter: FREEZE",
         "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
       },
@@ -5336,7 +5354,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 202026,
       "name": "Dear",
       "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
@@ -7037,6 +7055,24 @@
     },
     {
       "album": {
+        "name": "CHAMELEON",
+        "url": "https://open.spotify.com/album/61lFO56ewu4yjeGKc8UnA5"
+      },
+      "artists": [
+        {
+          "name": "YOON SAN-HA (ASTRO)",
+          "url": "https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "EXTRA VIRGIN",
+      "url": "https://open.spotify.com/track/6jl087OUMBa74HMWRNcCtK"
+    },
+    {
+      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/7KgsAlBnzkH1vyYluTUtUd"
       },
@@ -8082,7 +8118,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 156506,
       "name": "FREEZE",
       "url": "https://open.spotify.com/track/3eCsrRgvTNzCSrGUESA5OX"
@@ -22246,7 +22282,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 184013,
       "name": "TILT",
       "url": "https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR"
@@ -24268,10 +24304,28 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 221266,
       "name": "When the Day Comes",
       "url": "https://open.spotify.com/track/60DwXD4XZgBGMRwViDqBm6"
+    },
+    {
+      "album": {
+        "name": "Head over Heels, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5RH88dyB79lPDgIytTZNwc"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "When we meet again",
+      "url": "https://open.spotify.com/track/6gQk1uAnn2hRujlUKmqydC"
     },
     {
       "album": {
@@ -25056,6 +25110,24 @@
       "duration_ms": 198500,
       "name": "You",
       "url": "https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5"
+    },
+    {
+      "album": {
+        "name": "YOU AND I",
+        "url": "https://open.spotify.com/album/4MoiswkE556lt1PuCCOUIE"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "YOU AND I",
+      "url": "https://open.spotify.com/track/2hHOqDemKev23WuLV8Rhwv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,384 songs - 19 day 4 hr 37 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,385 songs - 19 day 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7392,5 +7392,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7382 | [2022 World Championship Theme](https://open.spotify.com/track/3gZyjgWdEibTsQFEmGiSSk) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [2022 World Championship Theme](https://open.spotify.com/album/4kJhEHkg1ggweXBa45GhPf) | 3:25 |
 | 7383 | [나 가거든](https://open.spotify.com/track/697iSASa9UXARX0baUqREG) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Yangpa The Best Album \- PI..ANWHA](https://open.spotify.com/album/6QPy92SsNFM5I8yQnNcFRk) | 5:26 |
 | 7384 | [Goose's Dream \(Original\)](https://open.spotify.com/track/5nWhMu5iSKmibvr0uMQmWd) | [Insooni](https://open.spotify.com/artist/5jGYA5Yz8Tt8UFx5jbtxTy) | [Goose's Dream/To All Dreamers](https://open.spotify.com/album/7t69eXfrQb8fY51q8EvMQe) | 5:42 |
+| 7385 | [Rain](https://open.spotify.com/track/6QnApmZYvUbrwkDbhqULJS) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Dead End](https://open.spotify.com/album/0lLCE3UPVvppCmTL0sy8e9) | 4:48 |
 
-Snapshot ID: `AAAHkBGixvR6ulK+Va+cnDKlbDyKlCwA`
+Snapshot ID: `AAAHkVSp5ZEb1xrjuYeu6dWxcAqjH7u0`

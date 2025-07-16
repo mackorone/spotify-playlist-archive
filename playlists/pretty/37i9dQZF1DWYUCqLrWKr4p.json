@@ -1,6 +1,6 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 243429,
+  "num_followers": 243501,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-14 11:25:03",
       "album": {
-        "name": "The Complete United Artists Singles",
-        "url": "https://open.spotify.com/album/4hwFFfpDp28EYWbVZoZ9pi"
-      },
-      "artists": [
-        {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/74i6ZrnR1WzZsuc3qrJg7I"
-    },
-    {
-      "added_at": "2024-07-14 11:25:03",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 141746,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
+    },
+    {
+      "added_at": "2024-07-14 11:25:03",
+      "album": {
+        "name": "The Complete United Artists Singles",
+        "url": "https://open.spotify.com/album/4hwFFfpDp28EYWbVZoZ9pi"
+      },
+      "artists": [
+        {
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/74i6ZrnR1WzZsuc3qrJg7I"
     },
     {
       "added_at": "2024-07-14 11:25:03",

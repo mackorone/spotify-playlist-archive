@@ -4,7 +4,7 @@
 
 > Kali\-B: قلي قلي كييييييف\. الغلاف
 
-52 songs - 2 hr 29 min
+53 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alhamdullah](https://open.spotify.com/track/2SPbO7VAo7JPHV1aQVNNn4) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Alhamdullah](https://open.spotify.com/album/3Gs23JBSqQR7YIXzsyTg6Y) | 3:05 | 2024-06-24 |  |
 | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/album/1oOFKHuth7o9cNeAZp3ms0) | 4:16 | 2024-06-24 |  |
 | [Barcelona \(Freedom Music\)](https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Barcelona \(Freedom Music\)](https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls) | 3:14 | 2024-07-10 |  |
-| [Beautiful](https://open.spotify.com/track/33kN7MSsfmxCG4HT2vn7j8) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Beautiful](https://open.spotify.com/album/7EFMPafpTIPs0V2RsNhF9T) | 2:20 | 2024-06-24 |  |
+| [Beautiful](https://open.spotify.com/track/33kN7MSsfmxCG4HT2vn7j8) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Beautiful](https://open.spotify.com/album/7EFMPafpTIPs0V2RsNhF9T) | 2:20 | 2024-06-24 | 2025-07-16 |
 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 | 2024-06-24 |  |
 | [Fat Mat](https://open.spotify.com/track/7wbPRhgplVbjlTCprcLgl7) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Fat Mat](https://open.spotify.com/album/41gPrdRfvW8yEjGFFWQGrX) | 2:44 | 2024-09-19 |  |
 | [FLOATING](https://open.spotify.com/track/6dH6sNqJ0V70apdyR7mMSZ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS) | [Floating](https://open.spotify.com/album/2VRJeL1urQDxXkIvPCCa6s) | 3:11 | 2024-06-24 | 2025-04-30 |
@@ -42,7 +42,7 @@
 | [Shampoo](https://open.spotify.com/track/4qPsQJxMOREpkJcWz8OggA) | [Dr.Slim](https://open.spotify.com/artist/4Rb8AeljgYsMU3YW6D1asy) | [Shampoo](https://open.spotify.com/album/0BqtNn7UOpSUow10X2uG3I) | 2:40 | 2025-05-12 |  |
 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 | 2024-06-24 |  |
 | [SRT](https://open.spotify.com/track/6heHtvgHYZ4VgmRXYwcjtQ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Rissi Tempo](https://open.spotify.com/artist/43xRhVBpsVIj6XqUcpEmA2) | [SRT](https://open.spotify.com/album/2QJOXagj621ALebtT8BKN0) | 3:20 | 2024-06-24 |  |
-| [Theeb](https://open.spotify.com/track/1LiiKjHg9vlk3592zUThYM) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Theeb](https://open.spotify.com/album/4G7QlmmtmBm8MZSZ0FgNbQ) | 2:06 | 2024-06-24 |  |
+| [Theeb](https://open.spotify.com/track/1LiiKjHg9vlk3592zUThYM) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Theeb](https://open.spotify.com/album/4G7QlmmtmBm8MZSZ0FgNbQ) | 2:06 | 2024-06-24 | 2025-07-16 |
 | [Triple The Sauce](https://open.spotify.com/track/1NHtfF16W0LPm5dKUOKqWf) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt), [Kriracha](https://open.spotify.com/artist/5TSJcirRznrsWng7uyvnGA) | [Triple The Sauce](https://open.spotify.com/album/1uEpenVJB0tqIVpTbi7Ssd) | 2:04 | 2024-06-24 | 2024-07-11 |
 | [Tsunami](https://open.spotify.com/track/4iZEVee6FqyJLey77O9IjE) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [Dr Slim](https://open.spotify.com/artist/3kElM4OngfmVhwYognqJij) | [Tsunami](https://open.spotify.com/album/5j4JPKExPkOcAGW441a2oK) | 2:57 | 2024-09-19 |  |
 | [Wala Shai](https://open.spotify.com/track/4tGcsPIxrrwDm6DWZf0MCY) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 2:50 | 2024-06-24 |  |
@@ -57,6 +57,7 @@
 | [شفت](https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [شفت](https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX) | 2:03 | 2024-06-24 |  |
 | [صح](https://open.spotify.com/track/7mHSueNmkXUzHCv4JPgNsc) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [صح](https://open.spotify.com/album/4eGrg3GVEalY2zyXtXV7e0) | 1:46 | 2025-02-26 |  |
 | [فويقو](https://open.spotify.com/track/4LWi9iKjOWbFnL21uqts6G) | [Abdullah Trill](https://open.spotify.com/artist/0RdQVXvBEJSwpdfMfwfHOD) | [فويقو](https://open.spotify.com/album/2iCQwd97pVX6TR4jzE2IE0) | 2:12 | 2024-06-24 |  |
+| [مسحور](https://open.spotify.com/track/0MJMaxxSuinoVGYHRRafYb) | [74 Original Suppa](https://open.spotify.com/artist/74KWopgkBxKlwFCAa6UawR), [DEE PRODUCTION](https://open.spotify.com/artist/2yLjdrrnFBawKrwLrNLyi7) | [مسحور](https://open.spotify.com/album/3GuIbvqUW4jLxPywacsCAq) | 2:02 | 2025-07-15 |  |
 | [نور و ظلمة](https://open.spotify.com/track/7Ch8thcNJEUIPZX607DNtu) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C) | [نور و ظلمة](https://open.spotify.com/album/2RBEKWZkAz61GIKJCKG8fz) | 2:44 | 2024-06-24 |  |
 | [ولا على بالي](https://open.spotify.com/track/4fFlBKt5bsLqEDBHOUtjwe) | [Al9ine](https://open.spotify.com/artist/0La66xyJsTyYMmXvh4ZW2o) | [ولا على بالي](https://open.spotify.com/album/6VrheuHCALL2N5QtBh2g2c) | 3:03 | 2024-06-24 |  |
 | [يمّر الوقت](https://open.spotify.com/track/7yZjHD4eP38V5bHOgPmbAL) | [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [يمّر الوقت](https://open.spotify.com/album/30XQSYHG2tSLkh0tkibG8a) | 2:31 | 2024-11-26 |  |

@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Justin Bieber, GIMS, Tyla, Jazeek and more.
 
-18,419 songs - 38 day 4 hr 11 min
+18,419 songs - 38 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16916,7 +16916,7 @@
 | [Victoria Line \- DJ Antoine vs Mad Mark 2k24 Remix](https://open.spotify.com/track/6FhsAGqhgWfcqhoaIjfiwa) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad), [Mad Mark](https://open.spotify.com/artist/3yBEHAINorE3uSvsCmyCwQ), [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Victoria Line \(DJ Antoine vs Mad Mark 2k24 Remix\)](https://open.spotify.com/album/5Sbh75cGTrON4UEumFz0e5) | 3:40 | 2023-11-30 | 2023-12-08 |
 | [victoria's secret \(feat\. Tony Effe\)](https://open.spotify.com/track/5V23eJS0UViOQ3vZcACHsv) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [victoria's secret \(feat\. Tony Effe\)](https://open.spotify.com/album/2pE4SGeEyGs4EJY3AYPA70) | 3:14 | 2025-05-29 | 2025-06-06 |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-06-19 | 2025-06-27 |
-| [Victory Lap Two](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 2:33 | 2025-07-10 |  |
+| [Victory Lap Three](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 3:28 | 2025-07-10 |  |
 | [VIDA \(feat\. Ninho & Morad\)](https://open.spotify.com/track/1zfBApK5OdvVU9t1tFZ8uG) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [La G World, Pt.1](https://open.spotify.com/album/1WedA6VtCNpsTI3LYGOA9q) | 4:07 | 2025-06-12 | 2025-06-20 |
 | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 | 2023-07-06 | 2023-07-14 |
 | [Video Game](https://open.spotify.com/track/7hxvtoeqFq0XDJUYSj85Wb) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [Video Game](https://open.spotify.com/album/2mtAZEnebFShYsnDexbcHk) | 3:00 | 2022-06-09 | 2022-06-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Cardec Drums
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,731 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,752 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 25 | [Sino de Ti](https://open.spotify.com/track/0DgyTjgPU5LIE8P597Hv1h) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Sino de Ti](https://open.spotify.com/album/49kXTEoI8SRhkS1dxP1mIU) | 2:50 |
 | 26 | [Visionario 2.0](https://open.spotify.com/track/1rrDQr4bghABATuVKqB2u8) | [Tommy Bueno](https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR), [Snail Lake](https://open.spotify.com/artist/4ykoG2iZk0tSbojpH88lSP) | [Visionario 2.0](https://open.spotify.com/album/4N1wKn1vyTOGb8kUgw041n) | 2:38 |
 | 27 | [Gracias](https://open.spotify.com/track/1vbxljUiVWuKTsbt04VFQx) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Gracias](https://open.spotify.com/album/5LhnKDEfNXW2fZoRXusH4w) | 5:23 |
-| 28 | [UH UH \(Freestyle\)](https://open.spotify.com/track/4CeCNd0EQZJI6Mr2nDg59m) | [Jay Changer](https://open.spotify.com/artist/7cXH8pSV3AYABFqSIB4AvX), [Sseven](https://open.spotify.com/artist/33IMnaNU9SaQ0iLQQkhsbw) | [UH UH \(Freestyle\)](https://open.spotify.com/album/1fSsGx6WNVPKyJASHZDvK0) | 2:48 |
+| 28 | [UH UH \(Freestyle\)](https://open.spotify.com/track/4CeCNd0EQZJI6Mr2nDg59m) | [Jay Changer Sseven](https://open.spotify.com/artist/2UTPrtzMSVQQXKumru0jgN) | [UH UH \(Freestyle\)](https://open.spotify.com/album/1fSsGx6WNVPKyJASHZDvK0) | 2:48 |
 | 29 | [Mayordomo de la rima](https://open.spotify.com/track/6TtCtlCj6Kgkk28u8l18xP) | [Elemento](https://open.spotify.com/artist/18cY0XRBki7XQXG2Sd5Fwd), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Mayordomo de la rima](https://open.spotify.com/album/0G6ws0de5h8jxFqeVlPpJO) | 4:03 |
 | 30 | [Preocupado Por Quién?](https://open.spotify.com/track/6yFmXt81sn9MfwkNHUYo6e) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [El Nene](https://open.spotify.com/album/1Y394HV6hXzZpJml9gqGXL) | 3:54 |
 | 31 | [ALGORITMO](https://open.spotify.com/track/76XrMB2iE4Mgrixsb6JhGk) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [ALGORITMO](https://open.spotify.com/album/1xdW6wh8UZMX5Dg2IJo0hv) | 3:28 |

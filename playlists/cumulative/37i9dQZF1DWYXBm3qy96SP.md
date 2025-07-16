@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Good Charlotte
 
-1,628 songs - 3 day 21 hr 47 min
+1,629 songs - 3 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1325,7 +1325,7 @@
 | [Stuck In The Heat](https://open.spotify.com/track/765LpfOB7pBklA0X34LbHB) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [At Least I Tried](https://open.spotify.com/album/2SEw3hXvE9tlEPh3ki3LiU) | 2:03 | 2023-11-30 | 2023-12-08 |
 | [SUBURBIA CALLING](https://open.spotify.com/track/0sRMZbWkH1G5XVFt3NZbE1) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [SUBURBIA CALLING](https://open.spotify.com/album/5GEpjub1ldAz72kvL6kyVh) | 2:49 | 2024-04-25 | 2024-06-21 |
 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-06 | 2025-06-27 |
-| [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT) | 3:44 | 2024-11-07 |  |
+| [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT) | 3:44 | 2024-11-07 | 2025-07-16 |
 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 | 2025-06-12 |  |
 | [Sugar Babies](https://open.spotify.com/track/6V58G3yLOvUNI4TFuJzkbw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Sugar Babies](https://open.spotify.com/album/4u8VfWQis8Lq1EMi0wQlSv) | 5:45 | 2023-05-18 | 2023-06-09 |
 | [Sugarcat](https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Sugarcat](https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP) | 2:54 | 2025-04-03 | 2025-05-08 |
@@ -1363,6 +1363,7 @@
 | [TAKING THEM DOWN](https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [TAKING THEM DOWN](https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU) | 2:52 | 2023-06-15 | 2024-09-27 |
 | [Tangerine](https://open.spotify.com/track/6zxovpxhuNQwQBVv52gioP) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Tangerine](https://open.spotify.com/album/6gpNZaAhggcDoW6PIPWtll) | 2:36 | 2023-08-31 | 2023-09-08 |
 | [TATTOOS & U](https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [CYCLES](https://open.spotify.com/album/1T1eS3I0K7NC7BmnHQ7PL4) | 1:58 | 2025-06-19 | 2025-07-09 |
+| [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 | 2025-07-10 |  |
 | [Tea On The Kettle](https://open.spotify.com/track/60nHhF2dqeYxbqyZr4X59o) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Playing Favorites](https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq) | 2:36 | 2024-02-29 | 2024-05-03 |
 | [Teammate](https://open.spotify.com/track/6oe9BWZghsNUwkW6Aoj7D8) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Teammate](https://open.spotify.com/album/7Jpq1oFykeP7uHE8zC9Gia) | 3:21 | 2023-07-06 | 2023-07-14 |
 | [TECHNIUM](https://open.spotify.com/track/5Pk2Fy0i0BuzfGaCFpB9DB) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx), [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [TECHNIUM](https://open.spotify.com/album/50pfFA6Pb0ZNn97fZy07SX) | 3:04 | 2024-08-01 | 2024-10-11 |

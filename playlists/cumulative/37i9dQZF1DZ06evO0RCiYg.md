@@ -4,11 +4,11 @@
 
 > This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 43 min
+86 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#WHERESTHELOVE](https://open.spotify.com/track/61pl7NmpG9R2KamTBAy5Yo) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [\#WHERESTHELOVE](https://open.spotify.com/album/2RiLLqGSyYhC3QMk8F0wUu) | 5:25 | 2023-07-28 |  |
+| [\#WHERESTHELOVE](https://open.spotify.com/track/61pl7NmpG9R2KamTBAy5Yo) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [\#WHERESTHELOVE](https://open.spotify.com/album/2RiLLqGSyYhC3QMk8F0wUu) | 5:25 | 2023-07-28 | 2025-07-16 |
 | [Alive](https://open.spotify.com/track/6R1E3mgWYUgXsEIYrRnZoA) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 5:03 | 2023-07-28 |  |
 | [Anxiety](https://open.spotify.com/track/716wcEhWeq3N1Id3L9mp6f) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 3:38 | 2023-07-28 |  |
 | [AUDIOS](https://open.spotify.com/track/4kkbe9uszaUnNY1b4xUfzs) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:40 | 2023-07-28 | 2023-11-11 |
@@ -59,6 +59,7 @@
 | [Missing You](https://open.spotify.com/track/4pLMepQdJY7IXkrgRAubSx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:34 | 2023-07-28 |  |
 | [MUEVELO](https://open.spotify.com/track/6r0bDGDS8JJShneQkMAzj1) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [MUEVELO](https://open.spotify.com/album/1JviwowNAeoLx0kQJ2A2h4) | 4:14 | 2023-07-28 |  |
 | [My Humps](https://open.spotify.com/track/20jYtEun4dUdYZ9foaOC48) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 5:26 | 2023-07-28 |  |
+| [My Humps \- JBroadway Remix](https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m) | [JBroadway](https://open.spotify.com/artist/6WdccSPsTJcEHFoSdWpYvh), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps \(JBroadway Remix\)](https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw) | 2:15 | 2025-07-16 |  |
 | [My Humps \- Single Version](https://open.spotify.com/track/4ThCFbTzk1ghQ3zcUUswtE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps](https://open.spotify.com/album/5gYvt08iJYSGmRnBRpXvUZ) | 4:10 | 2023-07-28 |  |
 | [NO MAÑANA](https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:41 | 2023-07-28 | 2025-06-08 |
 | [Party All The Time](https://open.spotify.com/track/6HEOkR22W4pJuKNpDwnSFC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:43 | 2024-05-25 |  |

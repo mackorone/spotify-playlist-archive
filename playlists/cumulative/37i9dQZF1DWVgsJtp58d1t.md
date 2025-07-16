@@ -4,7 +4,7 @@
 
 > Click into the feed to learn about what's going on in the world of Afro Adura\. Cover: <a href="spotify:artist:4zmZ8lVLzGc84S4v2B1rLx">Seyi Vibez</a>
 
-4,944 songs - 10 day 10 hr 34 min
+4,945 songs - 10 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -814,7 +814,7 @@
 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 | 2023-06-09 | 2024-01-13 |
 | [Champagne Shit \(feat\. Latto & Quavo\) \- Remix](https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Champagne Shit \(feat\. Latto & Quavo\) \[Remix\]](https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM) | 2:57 | 2023-10-06 | 2023-11-30 |
 | [Champagne Tears](https://open.spotify.com/track/68KMtOaV3uxUc639uTCoSw) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Champagne Tears](https://open.spotify.com/album/0KljOvQxT7RwZqJ8TdM9Py) | 2:12 | 2023-01-27 | 2023-02-18 |
-| [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-07-13 |  |
+| [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-07-13 |  |
 | [Champions](https://open.spotify.com/track/7ezboaARv4FY1k0WFoINWC) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Champions](https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn) | 4:02 | 2023-02-03 | 2023-02-25 |
 | [change](https://open.spotify.com/track/2kd5RRR696cC1lWIdDFWTY) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [change](https://open.spotify.com/album/4I0E9mBELs6a1OQ51GVH5i) | 3:01 | 2024-07-19 | 2024-08-03 |
 | [Change Me](https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:16 | 2024-10-25 | 2024-11-16 |
@@ -3218,6 +3218,7 @@
 | [Oxygen](https://open.spotify.com/track/2CVExiErX9MIVf7xXjNkWQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [Oxygen](https://open.spotify.com/album/19Adn1AtpuzHjpd3VlQKj7) | 3:34 | 2023-01-27 | 2023-02-11 |
 | [P&E \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/5BwI8Y8sZjDL3qAEqF76hA) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 2:30 | 2024-05-24 | 2024-07-19 |
 | [P.B.S.](https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 2:24 | 2025-05-09 |  |
+| [P.O.V.](https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:18 | 2025-07-15 |  |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2025-02-07 | 2025-02-15 |
 | [Pacer](https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Pacer](https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm) | 2:56 | 2023-09-22 | 2023-11-18 |
 | [Paid Up](https://open.spotify.com/track/2aA0qbQcyjoiQndtFI8xBE) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [UNI](https://open.spotify.com/album/2kMG44yBYjvrA9RKzVwv0O) | 2:40 | 2022-10-21 | 2022-11-05 |

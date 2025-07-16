@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXarsGtGJHPf.md) - [plain]
 
 > Enjoy the iconic K\-OSTs with the music videos \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,158 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,171 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

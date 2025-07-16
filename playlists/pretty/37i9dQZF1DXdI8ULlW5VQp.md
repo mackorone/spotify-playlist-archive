@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Jaxho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,327 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,316 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 8 | [El Triste](https://open.spotify.com/track/0u7u1vVxQHagcqOK1lANhL) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [El Triste](https://open.spotify.com/album/6ZvocIvlt006fUlDF1d7Nq) | 4:45 |
 | 9 | [llorandoenelclub\_100625\_v2](https://open.spotify.com/track/4a122VZ6nteagEdv1pVwGV) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [llorandoenelclub\_100625\_v2](https://open.spotify.com/album/73FHDk1GU3EhTYlFCM2qDU) | 2:28 |
 | 10 | [Odio Odiarme](https://open.spotify.com/track/3KACg25zaLJqra1gvIRLwX) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Odio Odiarme](https://open.spotify.com/album/7aTXNvIk94LtvPOVJq0Fbq) | 2:06 |
-| 11 | [Suenos Rotos](https://open.spotify.com/track/66nJmbwRrvcRec2JvgWcNH) | [RAMSI](https://open.spotify.com/artist/2yrRZayfrT5J9U7GZ9AYfK), [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Sueños rotos](https://open.spotify.com/album/5sRhy8Zd3BIrXL5n2uHTRI) | 2:39 |
+| 11 | [Sueños Rotos](https://open.spotify.com/track/66nJmbwRrvcRec2JvgWcNH) | [RAMSI](https://open.spotify.com/artist/2yrRZayfrT5J9U7GZ9AYfK), [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Sueños Rotos](https://open.spotify.com/album/5sRhy8Zd3BIrXL5n2uHTRI) | 2:39 |
 | 12 | [casa](https://open.spotify.com/track/2nDZ55g4KeSK0Ag8uYGIGh) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv), [quererla](https://open.spotify.com/artist/3A8otjHOijGTTcQgkN2gVM) | [casa](https://open.spotify.com/album/0OqK0Lchy8GNPaebrRsxbD) | 3:18 |
 | 13 | [Si te mentí](https://open.spotify.com/track/5wFWF4ykbDm9mXdLY5qmdc) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Si te mentí](https://open.spotify.com/album/1h5Ms3dB19s0Ne5bWT6Gqq) | 2:53 |
 | 14 | [todas las veces](https://open.spotify.com/track/0ewXHTVuuJ2vi4DKzTyHNQ) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [todas las veces](https://open.spotify.com/album/4K0r165T0jVW6YhieiyGgj) | 2:50 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 48 | [Yo Nunca Fui Tu Flaco](https://open.spotify.com/track/4NQCngk0WSnf47q5Ql3sAX) | [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [Yo Nunca Fui Tu Flaco](https://open.spotify.com/album/55YZvoQkX5O0VJ7uamdCfV) | 2:45 |
 | 49 | [Amor Eterno](https://open.spotify.com/track/1h84pMokuANUjHQe87sOnq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn), [Hijo de Lope](https://open.spotify.com/artist/6oFThPHvAjFpHTS7JnkgJ6) | [Amor Eterno](https://open.spotify.com/album/2vnXyDHxgdKmrPZ66vPuuB) | 4:24 |
 | 50 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 |
-| 51 | [febrero](https://open.spotify.com/track/5d80aeDtbjALCuBUENE9rf) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [febrero](https://open.spotify.com/album/5kVqa2z1cseI8PorTtmEAX) | 3:46 |
-| 52 | [Truco Viejo](https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Truco Viejo](https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY) | 2:54 |
+| 51 | [Truco Viejo](https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Truco Viejo](https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY) | 2:54 |
+| 52 | [febrero](https://open.spotify.com/track/5d80aeDtbjALCuBUENE9rf) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [febrero](https://open.spotify.com/album/5kVqa2z1cseI8PorTtmEAX) | 3:46 |
 | 53 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 |
 | 54 | [La Ciudad](https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Ciudad](https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO) | 3:33 |
 | 55 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 58 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 |
 | 59 | [Necios](https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj) | 2:42 |
 | 60 | [Ké MaL \- versión tierna](https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL \(versión tierna\)](https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt) | 4:17 |
-| 61 | [Medias tintas](https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Después del Norte](https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG) | 2:45 |
+| 61 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
 | 62 | [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 |
-| 63 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
+| 63 | [Medias tintas](https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Después del Norte](https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG) | 2:45 |
 | 64 | [Volver a Creer](https://open.spotify.com/track/3HrCUfC3oikCStUV7DeCGp) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Volver a Creer](https://open.spotify.com/album/79vM4z2ZJcCQTEFQSJ75tD) | 3:10 |
 | 65 | [Mantenme pendiente](https://open.spotify.com/track/1i2Rm2W5zoLN4ic5WUQDrn) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Mantenme pendiente](https://open.spotify.com/album/56LYIMOKqLka6eeM2orEEZ) | 4:24 |
 | 66 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |

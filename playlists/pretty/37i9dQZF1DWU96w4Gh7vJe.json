@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 580474,
+  "num_followers": 580479,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-07-08 05:45:00",
       "album": {
-        "name": "Marilag",
-        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 157692,
-      "name": "Marilag",
-      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
-    },
-    {
-      "added_at": "2025-07-08 05:45:00",
-      "album": {
         "name": "Naiilang",
         "url": "https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 247071,
       "name": "Naiilang",
       "url": "https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK"
+    },
+    {
+      "added_at": "2025-07-08 05:45:00",
+      "album": {
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
     },
     {
       "added_at": "2025-07-08 05:45:00",
@@ -127,58 +127,6 @@
     {
       "added_at": "2025-07-08 05:45:00",
       "album": {
-        "name": "sining (feat. Jay R)",
-        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        },
-        {
-          "name": "Jay R",
-          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "sining (feat. Jay R)",
-      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
-    },
-    {
-      "added_at": "2025-07-08 05:45:00",
-      "album": {
-        "name": "Imahe",
-        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
-      },
-      "artists": [
-        {
-          "name": "Magnus Haven",
-          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
-        }
-      ],
-      "duration_ms": 321817,
-      "name": "Imahe",
-      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
-    },
-    {
-      "added_at": "2025-07-08 05:45:00",
-      "album": {
-        "name": "Patutunguhan",
-        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Patutunguhan",
-      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
-    },
-    {
-      "added_at": "2025-07-08 05:45:00",
-      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -199,6 +147,58 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2025-07-08 05:45:00",
+      "album": {
+        "name": "sining (feat. Jay R)",
+        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "sining (feat. Jay R)",
+      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
+    },
+    {
+      "added_at": "2025-07-08 05:45:00",
+      "album": {
+        "name": "Patutunguhan",
+        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Patutunguhan",
+      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+    },
+    {
+      "added_at": "2025-07-08 05:45:00",
+      "album": {
+        "name": "Imahe",
+        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "duration_ms": 321817,
+      "name": "Imahe",
+      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
     },
     {
       "added_at": "2025-07-08 05:45:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-07-08 05:45:00",
       "album": {
-        "name": "Panata",
-        "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
-      },
-      "artists": [
-        {
-          "name": "Tothapi",
-          "url": "https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F"
-        }
-      ],
-      "duration_ms": 275893,
-      "name": "Panata",
-      "url": "https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ"
-    },
-    {
-      "added_at": "2025-07-08 05:45:00",
-      "album": {
         "name": "TORPE",
         "url": "https://open.spotify.com/album/5OPsL7uBEZtbHg0ZV2eUti"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 173500,
       "name": "TORPE",
       "url": "https://open.spotify.com/track/2nlD5OnCCotJVhOY2gGkEw"
+    },
+    {
+      "added_at": "2025-07-08 05:45:00",
+      "album": {
+        "name": "Panata",
+        "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
+      },
+      "artists": [
+        {
+          "name": "Tothapi",
+          "url": "https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Panata",
+      "url": "https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ"
     },
     {
       "added_at": "2025-07-08 05:45:00",

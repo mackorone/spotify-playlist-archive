@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,153 likes - 28 songs - 1 hr 57 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,149 likes - 29 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 26 | [So I Can See You](https://open.spotify.com/track/5ytSN7DOaQxcD6xekBr2hi) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [So I Can See You](https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo) | 3:04 |
 | 27 | [Dawn \- Raisa K Sunset Remix](https://open.spotify.com/track/3UmAc2ov9CpMzr2JeO2cCl) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei), [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9) | [So I Can See You \(Remixes\)](https://open.spotify.com/album/5FKCLvPPIlr7wwaDXaYbrE) | 3:42 |
 | 28 | [May Sun](https://open.spotify.com/track/19JUTxqb12ibfHLhFuyYod) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [Dark Eyes](https://open.spotify.com/album/3zGibhhlf6j9YRjJ5D8rcd) | 2:47 |
+| 29 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 |
 
-Snapshot ID: `AAAMz+brkTnM2UZ5ZFWat6mxNZ79XBA7`
+Snapshot ID: `AAAM0KoWCGpBIA3ldTRK59cISB+nAsqe`

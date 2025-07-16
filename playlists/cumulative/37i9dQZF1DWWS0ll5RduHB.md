@@ -4,7 +4,7 @@
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-106 songs - 6 hr 0 min
+109 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 | 2024-06-20 | 2025-01-10 |
 | [favourite jeans](https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [favourite jeans](https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW) | 3:28 | 2024-06-20 | 2025-05-23 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2024-06-20 |  |
-| [Friends](https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Friends](https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU) | 3:50 | 2025-06-05 |  |
+| [Friends](https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Friends](https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU) | 3:50 | 2025-06-05 | 2025-07-16 |
 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 | 2025-03-13 | 2025-06-06 |
 | [Glide](https://open.spotify.com/track/7e2polOF7Yjrs3eGiexCVW) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [Glide](https://open.spotify.com/album/1exJ4zN191WcU3Ok2OeOOT) | 2:38 | 2025-07-08 |  |
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-06-20 |  |
@@ -86,6 +86,8 @@
 | [Viva La Vida](https://open.spotify.com/track/1SLxVWqXo9zNrrDKRa3m1G) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/4Uo9tGSEkAUYHWfVGHhhZm) | 4:02 | 2024-10-09 | 2025-03-01 |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2024-06-20 |  |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-06-20 |  |
+| [where the sunlight glows](https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [where the sunlight glows](https://open.spotify.com/album/0otYOrLWaDQLZLo3WychLa) | 2:43 | 2025-07-15 |  |
+| [Wonderwall](https://open.spotify.com/track/1DadkoAI2gicYJfindPY20) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Time Flies...1994\-2009](https://open.spotify.com/album/6L5KBi1wt0rv1rA88kS1W4) | 4:19 | 2025-07-15 |  |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2024-06-20 | 2025-07-02 |
 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-05-22 |  |
 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2024-06-20 | 2025-07-09 |
@@ -93,10 +95,11 @@
 | [คิดดีไม่ได้เลย \(RIPE\) \- Japanese Version](https://open.spotify.com/track/4rG2gNvos9eFfnGpNyP8Kr) | [Benzkhaokhwan](https://open.spotify.com/artist/7yH4XTziOEA3lmES4RExCy) | [คิดดีไม่ได้เลย \(RIPE\) \[Japanese Version\]](https://open.spotify.com/album/4UVVn8UTFPnTSYXV7NF7w4) | 3:05 | 2025-05-22 |  |
 | [あの子とダンス \(feat\. chelmico\)](https://open.spotify.com/track/0gVOzW7v3JyWzcLlbz3T2G) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [あの子とダンス \(feat\. chelmico\)](https://open.spotify.com/album/1Cqv6zjMexgzqw91Q9WGJK) | 4:25 | 2024-09-02 | 2024-10-03 |
 | [あらわれないで](https://open.spotify.com/track/64SO6pPvPRA1MrdyepGx1p) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:57 | 2024-06-20 | 2025-01-10 |
-| [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 | 2025-06-03 |  |
+| [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 | 2025-06-03 | 2025-07-16 |
 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 | 2024-06-20 | 2025-02-03 |
 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ \- Single](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 | 2024-06-20 | 2025-01-10 |
-| [ときめきビーチ](https://open.spotify.com/track/32IIVetfPaWrKr0eXXaFiW) | [花想い](https://open.spotify.com/artist/74nDyelvbniQaGrB5D9QuQ) | [The Port](https://open.spotify.com/album/7H8Q71KjQNNyHLxndv6IeE) | 3:33 | 2025-07-02 |  |
+| [ときめきビーチ](https://open.spotify.com/track/32IIVetfPaWrKr0eXXaFiW) | [花想い](https://open.spotify.com/artist/74nDyelvbniQaGrB5D9QuQ) | [The Port](https://open.spotify.com/album/7H8Q71KjQNNyHLxndv6IeE) | 3:33 | 2025-07-02 | 2025-07-16 |
+| [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 | 2025-07-15 |  |
 | [アルコール](https://open.spotify.com/track/6dGZVFHH89faJ5cVm0rvFT) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [アルコール](https://open.spotify.com/album/1GroYMvealvEMklwge2hF2) | 3:21 | 2025-01-09 |  |
 | [アンバランスブレンド](https://open.spotify.com/track/0eCUAotdiI7XvEduXxBQFL) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アンバランスブレンド](https://open.spotify.com/album/5zIzgGviyLWvO61X3SkpHZ) | 5:19 | 2025-01-09 |  |
 | [サンダル](https://open.spotify.com/track/3LFJNwEvZ1wZmaTXOByCT8) | [花想い](https://open.spotify.com/artist/74nDyelvbniQaGrB5D9QuQ) | [サンダル](https://open.spotify.com/album/5kt21vnqezeXOYVYTLydbS) | 3:32 | 2025-05-22 | 2025-06-06 |

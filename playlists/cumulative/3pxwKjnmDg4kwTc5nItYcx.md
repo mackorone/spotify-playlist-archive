@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-839 songs - 1 day 21 hr 0 min
+840 songs - 1 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [Oh Brother](https://open.spotify.com/track/5buUWMp8lKM3FlbZXArhFa) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [Oh Brother](https://open.spotify.com/album/6EVhzUL0qQ5OgsD2eeUrtZ) | 2:56 | 2020-04-29 | 2021-05-12 |
 | [Oh My God](https://open.spotify.com/track/2U12JbtnFSYa5Av5wEcEDX) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Oh My God](https://open.spotify.com/album/4luKvo6ahaj8ZG9fAzQ6YO) | 3:07 | 2020-02-14 |  |
 | [OH! Not Again](https://open.spotify.com/track/5RtmIaz3UUmpdtpFJkfYT5) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [OH! Not Again](https://open.spotify.com/album/4o7f1qgkeQfwuKM5AAMnWl) | 2:58 | 2022-12-09 |  |
+| [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 | 2025-07-16 |  |
 | [Oil \(feat\. Stevie Nicks\)](https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:50 | 2023-02-23 |  |
 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-09 |  |
 | [Older](https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Older](https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP) | 2:44 | 2021-09-18 |  |

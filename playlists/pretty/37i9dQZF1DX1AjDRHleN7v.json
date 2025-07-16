@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 383749,
+  "num_followers": 383801,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
+        "name": "Flor de Aruanda",
+        "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "Flor de Aruanda",
+      "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
         "name": "Aeroporto (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 220147,
       "name": "Aeroporto - Ac\u00fastico",
       "url": "https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
-        "name": "Flor de Aruanda",
-        "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "Flor de Aruanda",
-      "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
+        "name": "Que Seja de Alegria",
+        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Que Seja de Alegria",
+      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
         "name": "Entre Borboletas e Avi\u00f5es",
         "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 207808,
       "name": "Rede no Coqueiro",
       "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
-        "name": "Que Seja de Alegria",
-        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Que Seja de Alegria",
-      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -599,26 +599,6 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "Brisa e Mar",
-        "url": "https://open.spotify.com/album/2ZjUzoMYq0dv7EjTETGNQN"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 192562,
-      "name": "Brisa e Mar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3k24pSrvDTQOuIIOHAQ85q"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
         "name": "Pipa",
         "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 181740,
       "name": "Pipa",
       "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "Brisa e Mar",
+        "url": "https://open.spotify.com/album/2ZjUzoMYq0dv7EjTETGNQN"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 192562,
+      "name": "Brisa e Mar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3k24pSrvDTQOuIIOHAQ85q"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "Magn\u00e9tica",
-        "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
-      },
-      "artists": [
-        {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
-        }
-      ],
-      "duration_ms": 196056,
-      "name": "Magn\u00e9tica",
-      "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
         "name": "Meu Destino \u00e9 o Litoral",
         "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 190250,
       "name": "Meu Destino \u00e9 o Litoral",
       "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "Magn\u00e9tica",
+        "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
+      },
+      "artists": [
+        {
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+        }
+      ],
+      "duration_ms": 196056,
+      "name": "Magn\u00e9tica",
+      "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "Filho do Mar",
-        "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
-      },
-      "artists": [
-        {
-          "name": "Banda Nossa Praia",
-          "url": "https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Filho do Mar",
-      "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
         "name": "Minha Ilha",
         "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 223157,
       "name": "Minha Ilha",
       "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "Filho do Mar",
+        "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
+      },
+      "artists": [
+        {
+          "name": "Banda Nossa Praia",
+          "url": "https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Filho do Mar",
+      "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
     },
     {
       "added_at": "2025-07-11 18:31:12",

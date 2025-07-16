@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Estevie",
-  "num_followers": 275530,
+  "num_followers": 275536,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-06-06 06:55:41",
       "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
+        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
+      },
+      "artists": [
+        {
+          "name": "Joe Rodriguez Y Su Grupo Latino",
+          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
+        }
+      ],
+      "duration_ms": 199447,
+      "name": "Cumbia de los Pobres",
+      "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
+    },
+    {
+      "added_at": "2025-06-06 06:55:41",
+      "album": {
         "name": "PA'L CORA EP. 01",
         "url": "https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 184864,
       "name": "Un Besito M\u00e1s",
       "url": "https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr"
-    },
-    {
-      "added_at": "2025-06-06 06:55:41",
-      "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
-        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
-      },
-      "artists": [
-        {
-          "name": "Joe Rodriguez Y Su Grupo Latino",
-          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
-        }
-      ],
-      "duration_ms": 199447,
-      "name": "Cumbia de los Pobres",
-      "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
     },
     {
       "added_at": "2025-06-06 06:55:41",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2025-06-06 06:55:41",
       "album": {
-        "name": "El Fantasma del Amor",
-        "url": "https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ternura Dinastia Toxqui",
-          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "El Fantasma del Amor",
-      "url": "https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH"
-    },
-    {
-      "added_at": "2025-06-06 06:55:41",
-      "album": {
         "name": "Coraz\u00f3n Tatuado",
         "url": "https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 199368,
       "name": "Coraz\u00f3n Tatuado",
       "url": "https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl"
+    },
+    {
+      "added_at": "2025-06-06 06:55:41",
+      "album": {
+        "name": "El Fantasma del Amor",
+        "url": "https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ternura Dinastia Toxqui",
+          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "El Fantasma del Amor",
+      "url": "https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH"
     }
   ],
   "unique_name": "Super Cumbias",

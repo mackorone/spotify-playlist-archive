@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,491 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,507 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 26 | [All I See](https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [TOLEDØ](https://open.spotify.com/artist/7sMwiJQWm6bcQrLb2PGgms) | [All I See](https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka) | 3:09 |
 | 27 | [amar t duele](https://open.spotify.com/track/3CwrAtQNT5y6uOd6WREZ2E) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [amar t duele](https://open.spotify.com/album/72usUOS1AxtEeQ3wtL1bXg) | 2:30 |
 | 28 | [Nocturna \- Remix](https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Nocturna \(Remix\)](https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH) | 3:55 |
-| 29 | [MAMI DÓNDESTÁS?](https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [MAMI DÓNDESTÁS?](https://open.spotify.com/album/6MT747J1IrkZCseX2Immmw) | 2:23 |
-| 30 | [LLORAR!](https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64) | [LLORAR!](https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4) | 1:47 |
+| 29 | [LLORAR!](https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64) | [LLORAR!](https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4) | 1:47 |
+| 30 | [MAMI DÓNDESTÁS?](https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [MAMI DÓNDESTÁS?](https://open.spotify.com/album/6MT747J1IrkZCseX2Immmw) | 2:23 |
 | 31 | [Veterinario](https://open.spotify.com/track/1MVW1Sf7Goytm4aZ8h7LqC) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Veterinario](https://open.spotify.com/album/4UQMRiTaIl1dYIUYNAtSyU) | 2:44 |
 | 32 | [3 Chakas \(Aferrados Al Culo\)](https://open.spotify.com/track/6coYvVbQYPGlpNBInFvJXS) | [Nasty Vato](https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Dulzón](https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q) | [El Aferrado](https://open.spotify.com/album/1mjSdq627mNj9Cc7aYjDoE) | 3:01 |
 | 33 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 70 | [Tropezar](https://open.spotify.com/track/4w3byyP9z4d9jm92ngRuI1) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Ausente](https://open.spotify.com/album/3JtrimyGOgrXVjvggjZYdy) | 2:44 |
 | 71 | [desintoxicar](https://open.spotify.com/track/3PjgeNbJtNnbfTgNNwN4PG) | [Montecarlo](https://open.spotify.com/artist/0cVSnXQu9AcTb6JvsgkbI0), [INTTI FR](https://open.spotify.com/artist/1eMe5uZzCa1kpBVdTn7mRB) | [desintoxicar](https://open.spotify.com/album/3yegZNxgoCqKNeuTG8j3nk) | 2:33 |
 | 72 | [Demasiado Tarde](https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Demasiado Tarde](https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z) | 2:45 |
-| 73 | [lady on my body!](https://open.spotify.com/track/5GjE3C4WbFMyZyl2WR03nM) | [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd), [Doe Slurp](https://open.spotify.com/artist/5zpttOqBXJ20cTZumJvN74) | [lady on my body!](https://open.spotify.com/album/0cyE6BSaloDqdLRqlHKZj1) | 2:23 |
-| 74 | [Vecinos](https://open.spotify.com/track/7zFT9RAdZE4ZG5EPttrm3A) | [Fabuloso](https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX), [Marcos Rigalt](https://open.spotify.com/artist/40O9UwUkJp3qnLcIsYScOl) | [Vecinos](https://open.spotify.com/album/3JouI8QedHiAixJIoJ7Ikg) | 2:32 |
-| 75 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
+| 73 | [No Quedan Más Intentos](https://open.spotify.com/track/7uIKxrKFYuwA6AbB8twqzB) | [Bateados](https://open.spotify.com/artist/2uAkVijNPFc9sP3aAnvv5a) | [No Quedan Más Intentos](https://open.spotify.com/album/5FHzCb9rvGokUXPwawcbCp) | 2:34 |
+| 74 | [lady on my body!](https://open.spotify.com/track/5GjE3C4WbFMyZyl2WR03nM) | [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd), [Doe Slurp](https://open.spotify.com/artist/5zpttOqBXJ20cTZumJvN74) | [lady on my body!](https://open.spotify.com/album/0cyE6BSaloDqdLRqlHKZj1) | 2:23 |
+| 75 | [Vecinos](https://open.spotify.com/track/7zFT9RAdZE4ZG5EPttrm3A) | [Fabuloso](https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX), [Marcos Rigalt](https://open.spotify.com/artist/40O9UwUkJp3qnLcIsYScOl) | [Vecinos](https://open.spotify.com/album/3JouI8QedHiAixJIoJ7Ikg) | 2:32 |
 
 Snapshot ID: `aF4zegAAAAD756WF9N/aLy1LG2jS2gUN`

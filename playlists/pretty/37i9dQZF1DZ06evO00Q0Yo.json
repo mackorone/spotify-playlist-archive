@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19509,
+  "num_followers": 19511,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAACFfklZDP7MoM/T843cBUEk",
+  "snapshot_id": "aHRIgAAAAACF8wPfynNyWM31VLuTZR45",
   "tracks": [
     {
       "added_at": null,
@@ -522,11 +522,15 @@
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
         }
       ],
-      "duration_ms": 138240,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
+      "duration_ms": 181417,
+      "name": "Hottie (feat. BabyFace Ray)",
+      "url": "https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ"
     },
     {
       "added_at": null,
@@ -598,15 +602,11 @@
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
         }
       ],
-      "duration_ms": 181417,
-      "name": "Hottie (feat. BabyFace Ray)",
-      "url": "https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ"
+      "duration_ms": 138240,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
     },
     {
       "added_at": null,
@@ -694,27 +694,15 @@
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roaring 20s",
-        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
-      },
-      "artists": [
+        },
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
         }
       ],
-      "duration_ms": 129145,
-      "name": "Roaring 20s",
-      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
+      "duration_ms": 173858,
+      "name": "New Me (feat. Anycia)",
+      "url": "https://open.spotify.com/track/3b1r6l4SX8j4TSN8f4OogB"
     },
     {
       "added_at": null,
@@ -743,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roaring 20s",
+        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 129145,
+      "name": "Roaring 20s",
+      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Still Here, Ho ?",
         "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
@@ -766,15 +770,11 @@
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
         }
       ],
-      "duration_ms": 173858,
-      "name": "New Me (feat. Anycia)",
-      "url": "https://open.spotify.com/track/3b1r6l4SX8j4TSN8f4OogB"
+      "duration_ms": 150293,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 56358,
+  "num_followers": 56353,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
+        "name": "Blessed By Association",
+        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee & The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM"
+        }
+      ],
+      "duration_ms": 299586,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
         "name": "Choirmaster",
         "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 243914,
       "name": "Release - Live/Edit",
       "url": "https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "Blessed By Association",
-        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
-      },
-      "artists": [
-        {
-          "name": "John P. Kee & The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM"
-        }
-      ],
-      "duration_ms": 299586,
-      "name": "At The Cross",
-      "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -803,30 +803,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Shirley Caesar and Friends",
-        "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        },
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        },
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 302120,
-      "name": "I Know It Was the Blood",
-      "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Cross Music",
         "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 338354,
       "name": "He Got Up (feat. Dorinda Clark Cole with Sean Tillery & Changed)",
       "url": "https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Shirley Caesar and Friends",
+        "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        },
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        },
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 302120,
+      "name": "I Know It Was the Blood",
+      "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
     },
     {
       "added_at": "2025-04-06 05:34:41",

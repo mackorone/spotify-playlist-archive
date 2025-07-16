@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,818 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,812 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 52 | [Pali się niebo](https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Pali się niebo](https://open.spotify.com/album/3Peq37g9q2t8aBEE5aAWvl) | 2:36 |
 | 53 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 |
 | 54 | [nadprzestrzenie](https://open.spotify.com/track/65ysPMey1kkR7Ccsxw5ZrZ) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [samoloty i nadprzestrzenie](https://open.spotify.com/album/0StAZ0TQ0RlUAxLOjXPne8) | 4:33 |
-| 55 | [Another Stone](https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:10 |
-| 56 | [słowa na K](https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [słowa na K](https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D) | 2:37 |
-| 57 | [Dość](https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Dość](https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu) | 2:14 |
+| 55 | [słowa na K](https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [słowa na K](https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D) | 2:37 |
+| 56 | [Dość](https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Dość](https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu) | 2:14 |
+| 57 | [Another Stone](https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:10 |
 | 58 | [sticky rice](https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [sticky rice](https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF) | 3:07 |
 | 59 | [Tacy sami](https://open.spotify.com/track/3BMOhoXlSUa3hOEgX6qxni) | [Tymoteusz](https://open.spotify.com/artist/6vmzxIxi1A7CfB52BhRVKS), [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh) | [Tacy sami](https://open.spotify.com/album/35Xx6b9gx0QywRgl40nVf2) | 4:05 |
 | 60 | [She's All Time \- feat\. Nina Nesbitt](https://open.spotify.com/track/29ZL829h4DMexvDZu1Ef1B) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Golden Wolf](https://open.spotify.com/album/5aa9sxMdhMppfnRWJQNT9C) | 3:14 |

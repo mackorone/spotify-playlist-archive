@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11588,
+  "num_followers": 11598,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -103,18 +103,22 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
+        "name": "GANADARA",
+        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
       "artists": [
         {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 159066,
-      "name": "Raincouver",
-      "url": "https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O"
+      "duration_ms": 203727,
+      "name": "GANADARA (Feat. IU)",
+      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -135,22 +139,18 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "GANADARA",
-        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
         }
       ],
-      "duration_ms": 203727,
-      "name": "GANADARA (Feat. IU)",
-      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+      "duration_ms": 159066,
+      "name": "Raincouver",
+      "url": "https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -255,26 +255,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Alone (Feat. LeeHi)",
-      "url": "https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "More ASH",
         "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 218250,
       "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
       "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Alone (Feat. LeeHi)",
+      "url": "https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -371,26 +371,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "MELOH",
-        "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
-      },
-      "artists": [
-        {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
-        },
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        }
-      ],
-      "duration_ms": 160104,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "Welcome to the Kicako House",
         "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 195375,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "MELOH",
+        "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
+      },
+      "artists": [
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "duration_ms": 160104,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -995,22 +995,22 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         },
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 186019,
-      "name": "Candy (Feat. Zion.T)",
-      "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

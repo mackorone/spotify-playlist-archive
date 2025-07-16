@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Syd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,436 likes - 168 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,395 likes - 168 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

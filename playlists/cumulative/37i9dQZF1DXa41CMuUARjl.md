@@ -4,7 +4,7 @@
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Jayda G, Chris Lake, DJ Daddy Trance, & more!
 
-29,614 songs - 75 day 5 hr 54 min
+29,614 songs - 75 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27478,7 +27478,7 @@
 | [Victory \(F.O.O.L Remix\)](https://open.spotify.com/track/6uOvYTdwIuKMs7Ci3C61Xb) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM), [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Victory \(F.O.O.L Remix\)](https://open.spotify.com/album/6ByWKss2Ip2gVGj9SWppGc) | 3:48 | 2021-01-01 | 2021-01-08 |
 | [Victory \(feat\. YBN Nahmir\)](https://open.spotify.com/track/7C3VpbZKJ1GVopCIpnSw2k) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Victory \(feat\. YBN Nahmir\)](https://open.spotify.com/album/4IG8bn3Gn7lgFpEWC7itxy) | 2:42 | 2021-09-11 | 2021-09-18 |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-06-20 | 2025-06-28 |
-| [Victory Lap Two](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 2:33 | 2025-07-11 |  |
+| [Victory Lap Three](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 3:28 | 2025-07-11 |  |
 | [Vienna \- Edit](https://open.spotify.com/track/3a9Db9EqzCZG7RiJlaeiX1) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i) | [Vienna \(Edit\)](https://open.spotify.com/album/1BgyJPvK4xVLYfmIEoH6Ju) | 3:08 | 2023-08-18 | 2023-08-26 |
 | [Viento](https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Viento EP](https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV) | 3:37 | 2024-12-20 | 2024-12-28 |
 | [Viento](https://open.spotify.com/track/4OIJAOZkj6ChEvSIzUKDmQ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Viento](https://open.spotify.com/album/33HL0gjp6NMr4Yn9skMj4s) | 2:20 | 2024-06-14 | 2024-06-22 |

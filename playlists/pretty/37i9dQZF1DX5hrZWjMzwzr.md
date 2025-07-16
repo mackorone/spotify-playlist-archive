@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,870 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,869 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 28 | [RING RING](https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [YARSKI](https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6) | [RING RING](https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc) | 2:36 |
 | 29 | [Znachor](https://open.spotify.com/track/39l5Izu23Frq6l8PE0JtaO) | [KęKę](https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj), [Nody Beats](https://open.spotify.com/artist/1yAGqHfZiNmD5XFqJJEXUI) | [04:01](https://open.spotify.com/album/0rMY6sS2J58oeblsjSWx1G) | 3:00 |
 | 30 | [Samolotowy tryb](https://open.spotify.com/track/0wKxfnayyQ1wa9WExvn4qF) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz) | [Samolotowy tryb](https://open.spotify.com/album/37JhQCkxQ23mA2uw349E3h) | 2:40 |
-| 31 | [INDICA](https://open.spotify.com/track/7hUFPuqd0dCGypZMbZWdPS) | [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh), [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [INDICA](https://open.spotify.com/album/0EBbd5arpiQ8oGtL59JTHh) | 3:30 |
-| 32 | [Vanitas](https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Vanitas](https://open.spotify.com/album/6d7MSutLjG62hZLhhObdx9) | 3:36 |
+| 31 | [Vanitas](https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Vanitas](https://open.spotify.com/album/6d7MSutLjG62hZLhhObdx9) | 3:36 |
+| 32 | [INDICA](https://open.spotify.com/track/7hUFPuqd0dCGypZMbZWdPS) | [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh), [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [INDICA](https://open.spotify.com/album/0EBbd5arpiQ8oGtL59JTHh) | 3:30 |
 | 33 | [JZWWZJ](https://open.spotify.com/track/6SHI61VemlOua5StSLM6sL) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [Czaha](https://open.spotify.com/artist/4QnVEkkzc4FkISFmri44MW), [DJ Gondek](https://open.spotify.com/artist/77rH9w8wnkKGNrKDSAFOsU) | [Życia Weteran](https://open.spotify.com/album/56axY2U9ujBdKqkPz7e07p) | 2:51 |
 | 34 | [INTRODESTRUKCJA](https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [INTRODESTRUKCJA](https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA) | 2:14 |
 | 35 | [Offwhite](https://open.spotify.com/track/75rO8VUFuUUsuLmpf1p6rk) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [DKanee](https://open.spotify.com/artist/4ixbLtejEaAWMmgOxKKew6) | [Offwhite](https://open.spotify.com/album/3FhUHjFhhWguRwjfoq68x1) | 2:22 |

@@ -1,6 +1,6 @@
 {
   "description": "Get your kids singing along with this fun playlist! They're sure to know these kid-friendly classics.",
-  "num_followers": 399829,
+  "num_followers": 399844,
   "original_name": "Sing Along",
   "owner": {
     "name": "Spotify",
@@ -117,6 +117,34 @@
       "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
     },
     {
+      "added_at": "2022-07-25 13:31:43",
+      "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Nathan Lane",
+          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
+        },
+        {
+          "name": "Ernie Sabella",
+          "url": "https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr"
+        },
+        {
+          "name": "Jason Weaver",
+          "url": "https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ"
+        },
+        {
+          "name": "Joseph Williams",
+          "url": "https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Hakuna Matata",
+      "url": "https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN"
+    },
+    {
       "added_at": "2023-11-08 20:23:20",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
@@ -155,34 +183,6 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
-    },
-    {
-      "added_at": "2022-07-25 13:31:43",
-      "album": {
-        "name": "The Lion King",
-        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
-      },
-      "artists": [
-        {
-          "name": "Nathan Lane",
-          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
-        },
-        {
-          "name": "Ernie Sabella",
-          "url": "https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr"
-        },
-        {
-          "name": "Jason Weaver",
-          "url": "https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ"
-        },
-        {
-          "name": "Joseph Williams",
-          "url": "https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Hakuna Matata",
-      "url": "https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN"
     },
     {
       "added_at": "2024-02-13 15:46:11",

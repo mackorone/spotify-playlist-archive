@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 90,960 likes - 216 songs - 9 hr 21 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 91,116 likes - 216 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 20 | [Jungle](https://open.spotify.com/track/4OjdjSC3daLXsixkIU4FGM) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD) | [Jungle](https://open.spotify.com/album/4KKZTPFuhaYhUVwbTz7xBa) | 2:28 |
 | 21 | [In My Life \(Oh Ayah\)](https://open.spotify.com/track/1LzvTGwdQEnAy9OexQ3TYs) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [AFRONOM](https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0), [vidi roca](https://open.spotify.com/artist/6jrFGWNf3MF89fhTbnCsBj) | [In My Life \(Oh Ayah\)](https://open.spotify.com/album/3hSEYCMqIsNEn263DkDO4l) | 2:41 |
 | 22 | [Obsession](https://open.spotify.com/track/6SmkZfOvzbF3nWMZZSOAhX) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [Obsession](https://open.spotify.com/album/4sLn7l3YLpwxfTpAB6wvBF) | 2:05 |
-| 23 | [Cigarette Daydreams](https://open.spotify.com/track/4xjj8Z3Rgu1ZEdKlBsk117) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Warm & Cold](https://open.spotify.com/artist/56qZnOS0zqyfUnJzZrsY9E) | [Cigarette Daydreams](https://open.spotify.com/album/7xanVq3fHOsfqQcplYz9zu) | 2:31 |
+| 23 | [Cigarette Daydreams](https://open.spotify.com/track/4xjj8Z3Rgu1ZEdKlBsk117) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Warm & Cold](https://open.spotify.com/artist/56qZnOS0zqyfUnJzZrsY9E), [Tim Goldn](https://open.spotify.com/artist/1sd8Wm3zt7VgoUMOO5Zfj3) | [Cigarette Daydreams](https://open.spotify.com/album/7xanVq3fHOsfqQcplYz9zu) | 2:31 |
 | 24 | [Azizam](https://open.spotify.com/track/1lIT2ZiOQetROcnkCRK4pf) | [merchant](https://open.spotify.com/artist/0UEupuqVP2mpTTyf6wcOBY), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Azizam](https://open.spotify.com/album/0dCOv6UquuE3j5zmOXU1pe) | 2:11 |
 | 25 | [Palm Tree](https://open.spotify.com/track/6B3koRzRhTCS28wA8R1wrb) | [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP) | [Palm Tree](https://open.spotify.com/album/5IOM7eE6kw7WeGHaJSIbd6) | 2:24 |
 | 26 | [Good Luck, Babe!](https://open.spotify.com/track/4DagUYA8Je4sXZW0i8ybsU) | [Zita](https://open.spotify.com/artist/4h1NpgpONZMVH8Gc8QPIEW), [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Good Luck, Babe!](https://open.spotify.com/album/7vUNxSB7M31dQ497l59wKI) | 2:58 |

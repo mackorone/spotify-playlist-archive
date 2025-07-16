@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Buscabulla.",
-  "num_followers": 168109,
+  "num_followers": 168105,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-05-30 04:00:30",
       "album": {
+        "name": "palacio <3",
+        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "palacio <3",
+      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
+    },
+    {
+      "added_at": "2025-05-30 04:00:30",
+      "album": {
         "name": "Q.I.S",
         "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 223910,
       "name": "Q.I.S - feat. maye",
       "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
-    },
-    {
-      "added_at": "2025-05-30 04:00:30",
-      "album": {
-        "name": "palacio <3",
-        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "palacio <3",
-      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
     },
     {
       "added_at": "2025-05-30 04:00:30",

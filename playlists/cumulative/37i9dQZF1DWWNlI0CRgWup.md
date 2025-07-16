@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Ino Casablanca
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Camille Yembe
 
-240 songs - 12 hr 19 min
+241 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 | 2025-06-19 |  |
 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 | 2021-12-02 | 2024-04-11 |
 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 | 2023-11-17 | 2024-04-11 |
+| [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 | 2025-07-15 |  |
 | [Crush](https://open.spotify.com/track/5xAZbiKC3j8IVU3XQUybZ4) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Crush](https://open.spotify.com/album/6UqCMBGylvsiza6n6F5e6U) | 3:12 | 2023-10-13 | 2024-03-12 |
 | [Crush](https://open.spotify.com/track/6KUSsnsYl1DVT2K6sHmsV7) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 3:14 | 2024-04-10 |  |
 | [D'où je viens](https://open.spotify.com/track/1jOCvDllWTUbLUQP2aQhIz) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Intérieur Vie](https://open.spotify.com/album/3mnH4p3JR7XSuQoQGmbMnx) | 2:49 | 2024-01-18 | 2024-04-11 |

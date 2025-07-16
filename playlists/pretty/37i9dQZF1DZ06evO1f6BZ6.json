@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 122132,
+  "num_followers": 122147,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAABixtLk0EPb5LUtC+5ArI0V",
+  "snapshot_id": "aHRIgAAAAAC6kMRt6wQSMoUnwOumeg6u",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Trailerhood",
+      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "35 mph Town",
+        "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 257120,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Trash With Money",
+        "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "A Little Too Late",
+      "url": "https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -647,54 +695,6 @@
       "duration_ms": 224456,
       "name": "Ships That Don\u2019t Come In",
       "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "35 mph Town",
-        "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 257120,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Trailerhood",
-      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Trash With Money",
-        "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Get Drunk And Be Somebody",
-      "url": "https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Walkin'",
-        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 260933,
-      "name": "We Were In Love",
-      "url": "https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
       },
@@ -776,9 +760,25 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 246320,
-      "name": "A Little Too Late",
-      "url": "https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU"
+      "duration_ms": 178840,
+      "name": "Get Drunk And Be Somebody",
+      "url": "https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Walkin'",
+        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 260933,
+      "name": "We Were In Love",
+      "url": "https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs"
     },
     {
       "added_at": null,

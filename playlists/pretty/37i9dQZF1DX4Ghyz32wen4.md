@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Jacinto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,256 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,240 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 51 | [LA FOTO](https://open.spotify.com/track/3M5cksDfuPEF68TZfPr76h) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [LA FOTO](https://open.spotify.com/album/7Hm5bpCKmGmuWwoIcQTCFb) | 2:26 |
 | 52 | [Corazón Puro](https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Corazón Puro](https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp) | 3:46 |
 | 53 | [Dejé de Amarte](https://open.spotify.com/track/4keqsGMfZx9nDqljpXzpvv) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Dejé de Amarte](https://open.spotify.com/album/1ozcTQkwntJtQlB6ZWJobm) | 3:08 |
-| 54 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7f57bgAVIYPXI6ykF3BSqa) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
+| 54 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
 | 55 | [Reloj](https://open.spotify.com/track/27K4nb7SxFSXIQQvk4jpz6) | [Bolishe One](https://open.spotify.com/artist/0xlPxX2JioH67ifjTQwQcA) | [Reloj](https://open.spotify.com/album/0tuuqFXRtrgaxMiGyeIzSH) | 3:29 |
 | 56 | [ESE VATO](https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ESE VATO](https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO) | 3:48 |
 | 57 | [Piscina](https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Piscina](https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0) | 3:45 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2775959,
+  "num_followers": 2775937,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAAB9fgpnmOTBAQBok0gq0y8R",
+  "snapshot_id": "aHRIgAAAAADp/QaJUo1BXTOJDz7xOCnX",
   "tracks": [
     {
       "added_at": null,
@@ -874,11 +874,15 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 179826,
-      "name": "No Option",
-      "url": "https://open.spotify.com/track/6M0IsaUX4GNyto4niSegfI"
+      "duration_ms": 234213,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/0H8XeaJunhvpBdBFIYi6Sh"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAABK3PJBEHDX0obG/0Cgif2+",
+  "snapshot_id": "aHRIgAAAAACPBC16y1vjAHbl2ngHp/P/",
   "tracks": [
     {
       "added_at": null,
@@ -251,30 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 218554,
-      "name": "Cry Together - Live",
-      "url": "https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Save the Children",
         "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
       },
@@ -287,6 +263,22 @@
       "duration_ms": 305600,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/0yinyTv5ecDZLLdzOcK2sI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "A Nice Girl Like You",
+      "url": "https://open.spotify.com/track/6XPrQp3jvE9YcGJf6XVfXx"
     },
     {
       "added_at": null,
@@ -307,18 +299,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
       "artists": [
         {
           "name": "The Intruders",
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 208760,
-      "name": "A Nice Girl Like You",
-      "url": "https://open.spotify.com/track/6XPrQp3jvE9YcGJf6XVfXx"
+      "duration_ms": 218554,
+      "name": "Cry Together - Live",
+      "url": "https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 312830,
-      "name": "The Love I Lost - Live",
-      "url": "https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1"
+      "duration_ms": 116050,
+      "name": "Harold Melvin's Blue Notes Band Introduction With MC - Live",
+      "url": "https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 175706,
-      "name": "Jack Be Nimble - Alternate Version",
-      "url": "https://open.spotify.com/track/1tNdYOP8DaMx3lmqjQnmWI"
+      "duration_ms": 133413,
+      "name": "Dance Boy",
+      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 116050,
-      "name": "Harold Melvin's Blue Notes Band Introduction With MC - Live",
-      "url": "https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb"
+      "duration_ms": 312830,
+      "name": "The Love I Lost - Live",
+      "url": "https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1"
     },
     {
       "added_at": null,
@@ -732,25 +732,29 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 133413,
-      "name": "Dance Boy",
-      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
+      "duration_ms": 175706,
+      "name": "Jack Be Nimble - Alternate Version",
+      "url": "https://open.spotify.com/track/1tNdYOP8DaMx3lmqjQnmWI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
       },
       "artists": [
         {
           "name": "The Intruders",
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Tommy Brown",
+          "url": "https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436"
         }
       ],
-      "duration_ms": 139726,
-      "name": "Just to Be",
-      "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
+      "duration_ms": 257333,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
     },
     {
       "added_at": null,
@@ -811,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
       },
       "artists": [
         {
           "name": "The Intruders",
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Tommy Brown",
-          "url": "https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436"
         }
       ],
-      "duration_ms": 257333,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
+      "duration_ms": 139726,
+      "name": "Just to Be",
+      "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
     },
     {
       "added_at": null,

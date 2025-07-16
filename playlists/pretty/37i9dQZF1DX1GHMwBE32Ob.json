@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Zlatan",
-  "num_followers": 99556,
+  "num_followers": 99658,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
+        "name": "Id.Me",
+        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "Id.Me",
+      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
+    },
+    {
+      "added_at": "2025-07-11 00:01:28",
+      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -751,26 +767,6 @@
       "duration_ms": 179478,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
-    },
-    {
-      "added_at": "2025-07-11 00:01:28",
-      "album": {
-        "name": "For Where?",
-        "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 113454,
-      "name": "For Where?",
-      "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
     },
     {
       "added_at": "2025-07-11 00:01:28",
@@ -791,18 +787,22 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
-        "name": "Id.Me",
-        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+        "name": "For Where?",
+        "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
       },
       "artists": [
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 169273,
-      "name": "Id.Me",
-      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
+      "duration_ms": 113454,
+      "name": "For Where?",
+      "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
     },
     {
       "added_at": "2025-07-11 00:01:28",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
-        "name": "Bon Appetit",
-        "url": "https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        }
-      ],
-      "duration_ms": 152068,
-      "name": "Bon Appetit",
-      "url": "https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5"
-    },
-    {
-      "added_at": "2025-07-11 00:01:28",
-      "album": {
         "name": "Wara Wara Szn",
         "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 180890,
       "name": "Cash",
       "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
+    },
+    {
+      "added_at": "2025-07-11 00:01:28",
+      "album": {
+        "name": "Bon Appetit",
+        "url": "https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "Bon Appetit",
+      "url": "https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5"
     },
     {
       "added_at": "2025-07-11 00:01:28",

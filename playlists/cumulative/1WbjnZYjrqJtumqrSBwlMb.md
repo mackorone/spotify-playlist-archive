@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,131 songs - 2 day 21 hr 6 min
+1,132 songs - 2 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Cemetery Drive](https://open.spotify.com/track/2cViIXIe8Pbd1sOJExMJlK) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:08 | 2022-03-11 |  |
 | [Census Designated](https://open.spotify.com/track/6HacgXCExkzS552ILfJTXu) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 | 2023-10-31 |  |
 | [Chagu's Sideturn](https://open.spotify.com/track/59JOMc9A6w8CkIHgs4kfNl) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:30 | 2022-05-16 |  |
+| [Champagne Supernova](https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 7:30 | 2025-07-15 |  |
 | [Change](https://open.spotify.com/track/3lLWczQgBellVnVUOxYmib) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 2:57 | 2022-09-17 |  |
 | [Change the Show](https://open.spotify.com/track/3aQDnCzHRnbtxw5TtbgTaG) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Change the Show](https://open.spotify.com/album/0dI32Mcr4eYerUWYWEuB28) | 2:29 | 2022-01-25 |  |
 | [Change the Show \- Acoustic Version](https://open.spotify.com/track/5AOE4fumeC53PHFQ9YNQN7) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Change the Show \(Acoustic Version\)](https://open.spotify.com/album/5XSOHpQ5pQpYEKVxalfpHK) | 2:12 | 2022-05-06 |  |

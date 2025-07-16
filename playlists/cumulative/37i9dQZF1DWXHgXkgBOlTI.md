@@ -2,9 +2,9 @@
 
 ### [Jazz Fusion Japan](https://open.spotify.com/playlist/37i9dQZF1DWXHgXkgBOlTI)
 
-> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Still Caravan
+> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: H ZETTRIO
 
-141 songs - 10 hr 43 min
+143 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,12 +25,13 @@
 | [Blue Bird](https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Synesthesia](https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8) | 5:09 | 2024-02-27 |  |
 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 | 2023-03-14 |  |
 | [Brand\-New Summer](https://open.spotify.com/track/0YMORVTChp1F09nDnH9lbx) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [Brand\-New Summer](https://open.spotify.com/album/67jBE2BWiCsGfBfe2qtcEE) | 3:53 | 2024-08-14 | 2024-11-04 |
-| [Break it Out](https://open.spotify.com/track/2Alpcm2uOw20QAxBmExDFf) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Break it Out](https://open.spotify.com/album/43EXZ6q0GFtLJDX6HyqSRm) | 4:10 | 2025-07-08 |  |
+| [Break it Out](https://open.spotify.com/track/2Alpcm2uOw20QAxBmExDFf) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Break it Out](https://open.spotify.com/album/43EXZ6q0GFtLJDX6HyqSRm) | 4:10 | 2025-07-08 | 2025-07-16 |
 | [Breeze and You \(Live Version\)](https://open.spotify.com/track/6yoOrydjbkvRv6XtnjnNC7) | [THE SQUARE](https://open.spotify.com/artist/1qLh5Luiu5DBNU3SeHcDwq) | [THE SQUARE YEAR END Live 20151226](https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU) | 5:10 | 2023-03-14 | 2024-02-11 |
 | [Bright Life](https://open.spotify.com/track/25zdJ8RT8SNYECanlVfIxS) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Bright Life](https://open.spotify.com/album/0MuMPY3X9rYDzK7CxBE3NU) | 4:15 | 2023-09-26 | 2023-10-28 |
 | [Bright Life](https://open.spotify.com/track/3tFdPeGlTKhsNr5B0U22sg) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Bright Life](https://open.spotify.com/album/6JCA7ZjG2Xj4YEaumqFN86) | 4:15 | 2024-02-27 | 2024-08-14 |
 | [Bright Life](https://open.spotify.com/track/6nboMcA31FtNfe2QBYaqZ4) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [M.R.I\_Mirai](https://open.spotify.com/album/1JlDJeBXxJqxAcbL5Sp7Vw) | 4:15 | 2023-10-17 | 2024-04-19 |
 | [Butterfly Effect](https://open.spotify.com/track/3A0idGLImgS8V6oxkBA0d4) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Butterfly](https://open.spotify.com/album/14bAA1BAUwfw6N2bFvtP4x) | 4:54 | 2023-03-14 | 2024-04-19 |
+| [Bypass](https://open.spotify.com/track/3ugl6jDQm3bdkHSJF9Xk2V) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Bypass](https://open.spotify.com/album/2sUWJPl0U2YxTOc2gxaacD) | 4:36 | 2025-07-15 |  |
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-13 |  |
 | [Cosmic Maze](https://open.spotify.com/track/119ny23uRdkV5mzqyZ0sr6) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Sunrise](https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc) | 4:44 | 2024-12-17 | 2025-02-21 |
 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 | 2023-09-05 |  |
@@ -101,7 +102,7 @@
 | [Slow Motion Town](https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Ovall](https://open.spotify.com/album/39LUARqc9kTewrotoWGHId) | 3:25 | 2023-03-14 |  |
 | [Sol Levante](https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [Defying](https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq) | 3:28 | 2024-10-09 |  |
 | [Solitude](https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO) | 4:16 | 2023-03-14 | 2024-04-19 |
-| [Space Candy Odyssey](https://open.spotify.com/track/6N6DuL19GBPLFE1V6eixI6) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Fragments](https://open.spotify.com/album/3M4O1cFkSMgEkjgn9q4Qrl) | 3:58 | 2025-06-03 |  |
+| [Space Candy Odyssey](https://open.spotify.com/track/6N6DuL19GBPLFE1V6eixI6) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Fragments](https://open.spotify.com/album/3M4O1cFkSMgEkjgn9q4Qrl) | 3:58 | 2025-06-03 | 2025-07-16 |
 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 | 2023-03-14 |  |
 | [spectres de mouse](https://open.spotify.com/track/0M372WfoAEvYSRjcczirDF) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5) | 3:20 | 2023-04-04 | 2024-04-19 |
 | [spectres de mouse](https://open.spotify.com/track/1ObG9Ewso0enlqOojHXzzs) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/7uLIqmPNnfmBd92Tz1apN2) | 3:20 | 2023-03-14 | 2023-04-30 |
@@ -123,6 +124,7 @@
 | [TODAY FOR TOMORROW](https://open.spotify.com/track/0U9H1eQwLJ2kj38YECFHmW) | [CASIOPEA\-P4](https://open.spotify.com/artist/3M2NJMriF7TX8Y7a04XJIq) | [NEW BEGINNING LIVE CD \(LIVE at EX THEATER ROPPONGI Dec.11.2022\)](https://open.spotify.com/album/2tKE9zMrM94q49najsX1Ff) | 4:48 | 2023-05-16 | 2023-11-22 |
 | [Tokyo](https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [DEEPER](https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL) | 4:18 | 2024-12-17 | 2025-05-10 |
 | [tokyo class](https://open.spotify.com/track/347ncFkne4BCG7q9ZFLHCb) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [debut](https://open.spotify.com/album/1zqQSutLk34XtF5jHWGCuj) | 4:52 | 2025-02-20 |  |
+| [Unbound feat.ユッコ・ミラー](https://open.spotify.com/track/0MEIZE5K8SNvcakYlL2bBm) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY), [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [Unbound feat.ユッコ・ミラー](https://open.spotify.com/album/2mHf5WhjpcxXhKf6Sld1LG) | 3:01 | 2025-07-15 |  |
 | [Vanish, Memoria](https://open.spotify.com/track/0ydSsuw2ZHOvxHz2nGnSKn) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [Vanish, Memoria](https://open.spotify.com/album/6NlA8uUULRclXbQLOFgicg) | 4:56 | 2023-07-04 | 2023-10-10 |
 | [Vanish, Memoria](https://open.spotify.com/track/28jUCkZborAa9z1EpqE7VW) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [Postpone](https://open.spotify.com/album/1geleGHJ4qLZkSmSeitCOa) | 4:56 | 2023-03-14 | 2023-07-06 |
 | [Vanish, Memoria](https://open.spotify.com/track/0aEiY6DWhcVpj4dLtR8GJq) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 5:02 | 2023-10-03 | 2024-01-31 |

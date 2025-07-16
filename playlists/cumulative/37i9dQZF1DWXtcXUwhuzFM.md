@@ -4,7 +4,7 @@
 
 > Uutta musiikkia KERZALTA ja Isac Elliotilta, The Rasmukselta, KIKILTÄ, Senyalta ja monelta muulta!
 
-6,828 songs - 15 day 0 hr 10 min
+6,829 songs - 15 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4509,6 +4509,7 @@
 | [Perfect Crime](https://open.spotify.com/track/5HavXKjua26Sg0OB8LY7YD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perfect Crime](https://open.spotify.com/album/6m8aWBP7ptNMPyt7W3NvRa) | 2:32 | 2025-06-19 | 2025-06-27 |
 | [Perfect Pinterest Garden](https://open.spotify.com/track/1VD9irJC3S3cyKrYoq9ymL) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy) | 2:28 | 2024-07-25 | 2024-08-02 |
 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-21 | 2024-11-29 |
+| [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 | 2025-07-11 |  |
 | [PERHOSEFEKTI](https://open.spotify.com/track/6XvwkdGEpivXPEaLJzrKya) | [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta), [Jeremiadi](https://open.spotify.com/artist/3vuO3Zr80bAdflByFusVvm), [Prossi](https://open.spotify.com/artist/2nbxWsmLAM0bvfGyRbNoGg), [ELISSA](https://open.spotify.com/artist/0SJDdX7zwqG0BtPkyR1jM4) | [PERHOSEFEKTI](https://open.spotify.com/album/5rURXUk7Nf76z9SP462tu7) | 3:34 | 2025-02-20 | 2025-02-28 |
 | [Perhosii](https://open.spotify.com/track/5fYg0vJEYDWOyxwzNn9QnU) | [JAVE](https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS) | [Perhosii](https://open.spotify.com/album/2kPQrpvuXUbuyTnaCCvN3B) | 2:48 | 2024-08-29 | 2024-09-06 |
 | [Periaatteessa onnellinen](https://open.spotify.com/track/1Ph4WJUA4KRC9MJxbikvat) | [The Stonewalls](https://open.spotify.com/artist/3Lb8xb895mxv1PW4ATbIJc), [Lauri Ketonen](https://open.spotify.com/artist/0COKPylAjot2zwI9ABkrd0) | [Periaatteessa onnellinen](https://open.spotify.com/album/0qatNBp4KY5SMzilMrnMvS) | 3:56 | 2024-05-09 | 2024-05-17 |

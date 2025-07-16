@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-784 songs - 1 day 14 hr 7 min
+785 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Guiding Hand](https://open.spotify.com/track/4TYEDIzZYJYamfv3NtndPD) | [Butterfly Wings](https://open.spotify.com/artist/0RMsyms4T0LXxotilnDJap) | [Over There](https://open.spotify.com/album/5v9tWyEWw5L1DBK1MnEdOt) | 2:56 | 2023-03-23 | 2024-02-09 |
 | [A New Tomorrow](https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [A New Tomorrow](https://open.spotify.com/album/4nEYU3MjOoJ360A2ovMH6r) | 2:52 | 2023-03-23 | 2024-02-09 |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2023-03-23 | 2024-05-05 |
-| [A Peaceful Space](https://open.spotify.com/track/2RGH3CpTwZac0WSu27KY74) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [A Peaceful Space](https://open.spotify.com/album/64CA3RsK23wuS4dWuVhsCL) | 2:46 | 2024-12-17 |  |
+| [A Peaceful Space](https://open.spotify.com/track/2RGH3CpTwZac0WSu27KY74) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [A Peaceful Space](https://open.spotify.com/album/64CA3RsK23wuS4dWuVhsCL) | 2:46 | 2024-12-17 | 2025-07-16 |
 | [A Solid State](https://open.spotify.com/track/0j7itsX7DkAsHJQQGL4XJe) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [A Solid State](https://open.spotify.com/album/31b43Zr4Eb7nNEnsX6GywM) | 2:53 | 2023-03-23 | 2024-03-21 |
 | [A Special Place](https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [A Special Place](https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB) | 2:26 | 2024-07-09 | 2025-01-09 |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2023-03-23 | 2024-05-05 |
@@ -406,6 +406,7 @@
 | [Lighthouse](https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Lighthouse](https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH) | 2:27 | 2024-11-05 | 2025-03-20 |
 | [Lights Out](https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD) | [Solene Edgar](https://open.spotify.com/artist/0fgYGY8NcvoPXNv21CLlul) | [Lights Out](https://open.spotify.com/album/721QaQS4R4vBzRX2gEAMyd) | 2:53 | 2023-03-23 | 2023-05-06 |
 | [Lihnida](https://open.spotify.com/track/6lRUeAsKuo25bXplm2EPqi) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Lihnida](https://open.spotify.com/album/1zWgumSEFMiooZwuCU7HnS) | 2:42 | 2025-04-09 |  |
+| [Limitless](https://open.spotify.com/track/5PPIGcWAaYcSJaITVgTmrC) | [luminique Revox](https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX) | [Limitless](https://open.spotify.com/album/37vaeK75NjbyVT4qYh3plN) | 2:44 | 2025-07-09 |  |
 | [Liquid Dream \- Piano Version](https://open.spotify.com/track/3ISWnR8CHeuUaghZXPbfRa) | [Alec Wynter](https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd) | [Liquid Dream \- Piano Version](https://open.spotify.com/album/5J3aYIH6tZuEVQuf1Jvl92) | 3:22 | 2023-03-23 | 2024-02-09 |
 | [Lithium](https://open.spotify.com/track/4emADcTdYDTuUtuqW6FgG1) | [Hudba Lyrika](https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7) | [Metalla Alcalica](https://open.spotify.com/album/0li3pN4Iz7QT0v7XAeygDK) | 2:54 | 2024-05-04 | 2024-07-12 |
 | [Ljusa Drömmar](https://open.spotify.com/track/5HkG3ZdLOVZQI4rpUdGZCa) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Ljusa Drömmar](https://open.spotify.com/album/2384yojNT2lobdTrGBbzuA) | 2:38 | 2023-03-23 | 2024-01-18 |

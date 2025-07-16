@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 이홍기\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 손이지유\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,514 songs - 4 day 2 hr 10 min
+1,516 songs - 4 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Confession Is Not Flashy](https://open.spotify.com/track/0q58M70BS6kq2q82rpwxcz) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0Z2dJ96Dei0wMA7Lz2dpgQ) | 3:48 | 2021-12-23 | 2022-06-20 |
 | [Could you come out for a second \(Prod\. YounToven\)](https://open.spotify.com/track/1tQ7LxGCwvAYFKsZZhBRZd) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Could you come out for a second \(Prod\. YounToven\)](https://open.spotify.com/album/1QzfVa9kZIc6PFvpIwtxFS) | 3:16 | 2023-11-02 | 2024-02-02 |
 | [Counting Days](https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Counting Days](https://open.spotify.com/album/0g3wLgXbtmTGUzakbUsrjc) | 3:56 | 2024-06-14 | 2025-03-13 |
-| [Counting Our Kisses](https://open.spotify.com/track/0P5KS6WhrZFEMeCkDMQ4Cb) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Counting Our Kisses](https://open.spotify.com/album/1SFd94O7cyapLA9CUKPhn4) | 4:24 | 2025-04-22 |  |
+| [Counting Our Kisses](https://open.spotify.com/track/0P5KS6WhrZFEMeCkDMQ4Cb) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Counting Our Kisses](https://open.spotify.com/album/1SFd94O7cyapLA9CUKPhn4) | 4:24 | 2025-04-22 | 2025-07-16 |
 | [Couple](https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Couple \- Special Single](https://open.spotify.com/album/5w9TtiYrHhiJsfVDrE5vWx) | 3:36 | 2025-03-26 | 2025-05-28 |
 | [Coward](https://open.spotify.com/track/2U9yHgZ9voJUFjcHinsspT) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Coward](https://open.spotify.com/album/4OYhJBKIM6yZGkEpTEOVe1) | 4:18 | 2025-03-13 |  |
 | [Crush on you](https://open.spotify.com/track/3TUPqVuyNK2mPeA9QmHygo) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Crush on you](https://open.spotify.com/album/15XmBCE8jEWzbqzD0Z1vuw) | 2:55 | 2023-09-14 | 2023-11-03 |
@@ -527,7 +527,7 @@
 | [I Love You](https://open.spotify.com/track/2HzeslUSiNrdKHjCmNTZqd) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I Love You](https://open.spotify.com/album/0fzyT7joLZb93kPsGFKNnK) | 4:22 | 2023-11-15 | 2024-05-01 |
 | [I love you even if it hurts](https://open.spotify.com/track/05xlBRlrtrvcpEjoTP9cdR) | [Seong Jae](https://open.spotify.com/artist/0Lyphom6vLudYCJwf5VQF5), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [I love you even if it hurts](https://open.spotify.com/album/16JjX5JoiLoYyXvBZDbplr) | 4:22 | 2023-03-27 | 2023-07-18 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/6XDfsMWnfJd46j3f0orVHF) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Patek on Wine](https://open.spotify.com/album/5iAaMl0I0jGIToPEKXABgf) | 3:20 | 2023-07-17 | 2023-10-28 |
-| [I loved you](https://open.spotify.com/track/2b0SYEIB9QyJlnPLmypkgl) | [Moon Seong Wook](https://open.spotify.com/artist/600dJXQTOPDyIrYFFDh0WH), [Lee Min Jeong](https://open.spotify.com/artist/6rZ7izhRHpfCY0FR03KrtT) | [I loved you](https://open.spotify.com/album/4UdyeUomhdmH1cJQ4fPqqH) | 3:39 | 2025-05-26 |  |
+| [I loved you](https://open.spotify.com/track/2b0SYEIB9QyJlnPLmypkgl) | [Moon Seong Wook](https://open.spotify.com/artist/600dJXQTOPDyIrYFFDh0WH), [Lee Min Jeong](https://open.spotify.com/artist/6rZ7izhRHpfCY0FR03KrtT) | [I loved you](https://open.spotify.com/album/4UdyeUomhdmH1cJQ4fPqqH) | 3:39 | 2025-05-26 | 2025-07-16 |
 | [I Loved You](https://open.spotify.com/track/6wFx5MqZDvrIQuncLuLevU) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [I Loved You](https://open.spotify.com/album/4iBqWq2GxnJOJC38fYauM5) | 3:56 | 2022-03-31 | 2022-06-16 |
 | [I Loved You](https://open.spotify.com/track/07prDTHALiKQn8dpPIXrW8) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [I Loved You](https://open.spotify.com/album/4byq8NnOCRHR1qju02hnHM) | 3:56 | 2022-10-07 | 2022-12-28 |
 | [I loved you more](https://open.spotify.com/track/0xEx7Et5BYTKBsr9sQAYrN) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [Love Interference 2021 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/3GVW7Wi7oyUp8CN1Qf2jXg) | 3:26 | 2022-04-12 | 2022-04-21 |
@@ -1167,6 +1167,7 @@
 | [Take Me Back In Time](https://open.spotify.com/track/4kclNUEfSlW8uJK9j0LQqt) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [,and](https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP) | 3:54 | 2022-10-26 | 2023-01-12 |
 | [Take me back in time](https://open.spotify.com/track/14uFap7YGvJau9WdPnNbs3) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Joseon Attorney \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/0ou0MnWdPJPX1MOIFtFn5T) | 4:35 | 2023-07-07 | 2023-10-20 |
 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 | 2021-12-20 | 2022-06-20 |
+| [Take My Hand](https://open.spotify.com/track/1lvcsObmN9xiD3AtDLfROo) | [Son E Ji U\(Son Seung yeon,Lee Ye joon,Ji Se hee,U Sung eun\)](https://open.spotify.com/artist/2b0J5M0DnvBq0UcqpU0wBv) | [Take My Hand](https://open.spotify.com/album/2RsiFm71wIdvLj7rwWYRoD) | 3:44 | 2025-07-15 |  |
 | [Talk To Me](https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Agency \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4) | 3:44 | 2023-01-20 | 2023-02-25 |
 | [Teach Me](https://open.spotify.com/track/32uP1g7yJzc4u0P3wf2meN) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [Moon Se Yoon](https://open.spotify.com/artist/0xD8ZN47ERtuZEbmCkwZ05) | [Teach Me](https://open.spotify.com/album/04mGBubZsH7Zjwp37o3nsq) | 3:31 | 2025-02-11 | 2025-05-26 |
 | [TEARS \(WEBTOON 'Discovery of Love' X HWANG CHI YEUL\)](https://open.spotify.com/track/0pRpX95wMdfhszOe7QkVYx) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [TEARS \(WEBTOON 'Discovery of Love' X HWANG CHI YEUL\)](https://open.spotify.com/album/5aXUCMv5HgCScCSUKhxVPT) | 3:51 | 2022-07-07 | 2022-10-08 |
@@ -1351,6 +1352,7 @@
 | [When The Rain Stops](https://open.spotify.com/track/50LZH2wZVwWpsHT4D8qBxR) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [The Law Cafe \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2fiweT7ROFobtMNyJpYko5) | 4:14 | 2022-09-21 | 2023-01-11 |
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2021-12-20 | 2022-07-08 |
 | [When we broke up](https://open.spotify.com/track/501ycObHaXtbolUtWvqPi0) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [When we broke up](https://open.spotify.com/album/6KJelVXFW876m9md40CDR1) | 3:39 | 2023-09-18 | 2023-11-14 |
+| [When we meet again](https://open.spotify.com/track/6gQk1uAnn2hRujlUKmqydC) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Head over Heels, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5RH88dyB79lPDgIytTZNwc) | 4:22 | 2025-07-15 |  |
 | [When We Were In Love](https://open.spotify.com/track/613Ixm4sbcHRZGKmGtLX9v) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'm](https://open.spotify.com/album/4AkitmQNFEc5iB0GrzYthy) | 4:14 | 2021-12-20 | 2022-06-26 |
 | [When we were together](https://open.spotify.com/track/2IyOkE4P1dF0fUjDn40oAJ) | [CLASSMATE](https://open.spotify.com/artist/2g61dDVF8H6bdFigHldp8R) | [When we were together](https://open.spotify.com/album/67NQMoLfX5wj1skqonZBml) | 4:22 | 2022-12-16 | 2023-02-09 |
 | [When We Were Us](https://open.spotify.com/track/2f4o2u8yAANvg3hQ8BNm4Q) | [SUPER JUNIOR\-K.R.Y.](https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F) | [When We Were Us \- The 1st Mini Album](https://open.spotify.com/album/0iUESqGVBginzy7gCYMvt2) | 4:07 | 2021-12-23 | 2022-05-06 |

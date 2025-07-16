@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-204 songs - 18 hr 16 min
+205 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,8 +206,9 @@
 | [Woh Nahi Mera Magar \(Male\)](https://open.spotify.com/track/5D89anW7HUv01m8jLHQZ7s) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghulam Ali Fantastic 5](https://open.spotify.com/album/2R5vh8gBTTZw1PhXFBgtZp) | 6:18 | 2023-12-12 | 2024-04-19 |
 | [Woh Nahi Mera Magar \- Male Vocals](https://open.spotify.com/track/6gcQXc18soxkl2hSJ99Rx9) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Ritu Johri](https://open.spotify.com/artist/0mwzaAy1Z7DMLAQgU1iHb1) | [Master Strokes \- Ghazals](https://open.spotify.com/album/11Mz0ZeiVztXLHHt2jythE) | 6:18 | 2021-12-01 | 2025-01-01 |
 | [Yeh Arzoo Thi Tujhe Gul Ke](https://open.spotify.com/track/4LIVQbroVmruOhX8aXqu6z) | [Amanat Ali Khan](https://open.spotify.com/artist/5s29c3wPnXfRXbSKAxhmr1) | [Ustad Amanat Ali Khan Sings Ghazals](https://open.spotify.com/album/0GSK5Cdz6xnE7K5OOPyOj9) | 4:34 | 2021-12-01 | 2023-06-06 |
-| [Yeh Baatein Jhooti Baatein Hain](https://open.spotify.com/track/314nObmsitTTA0xsw9twzu) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [His Best Ever Ghazals Collection Ghulam Ali, Vol\. 2](https://open.spotify.com/album/5XDut6gB7SY1mP7GUygty4) | 5:24 | 2024-12-31 |  |
+| [Yeh Baatein Jhooti Baatein Hain](https://open.spotify.com/track/314nObmsitTTA0xsw9twzu) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [His Best Ever Ghazals Collection Ghulam Ali, Vol\. 2](https://open.spotify.com/album/5XDut6gB7SY1mP7GUygty4) | 5:24 | 2024-12-31 | 2025-07-16 |
 | [Yeh Watan Tumhara Hai](https://open.spotify.com/track/1LotGrrDWUGHqC0b2viZUr) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ae Mere Des](https://open.spotify.com/album/4qqhhBFB4eGbKCyDwxZRXj) | 5:38 | 2021-12-01 | 2023-02-18 |
+| [Zamaana Lage \- Mood Shift](https://open.spotify.com/track/2KiPZtDxNXfiCuEFE2G1Co) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Qaisar\-Ul\-Jafri](https://open.spotify.com/artist/5SMMGwEnXqIWXvhfBfV6BD), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd) | [Metro ..\. In Dino \(Side B\)](https://open.spotify.com/album/0Xenz5qY7LXiUVHvEQDoWr) | 3:43 | 2025-07-15 |  |
 | [Zid](https://open.spotify.com/track/01zEqBcguhTPOWo0DZhjew) | [Yogita Godbole](https://open.spotify.com/artist/7HzJcu2wULiol2dXlEC9gg) | [Zid](https://open.spotify.com/album/4uabV43WtpLFd0QOI6xK3H) | 5:09 | 2023-03-28 | 2025-01-01 |
 | [Zid](https://open.spotify.com/track/08PBtue3SWYVlZqfbvQIE9) | [Yogita Godbole](https://open.spotify.com/artist/7HzJcu2wULiol2dXlEC9gg) | [Zid](https://open.spotify.com/album/2x4a52pauzSvhQnCI9DY6a) | 5:09 | 2024-02-09 | 2024-04-19 |
 | [Zikr](https://open.spotify.com/track/1XIlRRkIx6H3kcTrwO5RoX) | [Sharib Hashmi](https://open.spotify.com/artist/1MU1MnjAkAgRuLVwdajXPr) | [Zikr](https://open.spotify.com/album/7vaFZCYHyJsobB8E32m7Z8) | 2:50 | 2024-07-22 |  |

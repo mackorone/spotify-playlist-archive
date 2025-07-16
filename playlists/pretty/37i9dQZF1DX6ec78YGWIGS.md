@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: K4OS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,344 likes - 102 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,368 likes - 102 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

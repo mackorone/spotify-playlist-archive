@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 69112,
+  "num_followers": 69120,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAADExZBZR5Swjm+88+/eFaZF",
+  "snapshot_id": "aHRIgAAAAAC/ROfuEnCKzDr3an3azBlt",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Iko Iko (My Bestie) (feat. Small Jam)",
         "url": "https://open.spotify.com/album/73ikyU6v9zvR63RwjKWikR"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 175586,
       "name": "Iko Iko (My Bestie) (feat. Small Jam)",
       "url": "https://open.spotify.com/track/3pnxj3KnSjqO1Qkl2qLHIz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Se Jodi\u00f3",
-        "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 159655,
-      "name": "Esto Se Jodi\u00f3",
-      "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 138750,
       "name": "Dulce Soledad",
       "url": "https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esto Se Jodi\u00f3",
+        "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 159655,
+      "name": "Esto Se Jodi\u00f3",
+      "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 195470,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/42ch5aWgNSzXlTgNpWM2kY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gracias (Remix)",
         "url": "https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 253586,
       "name": "Gracias - Remix",
       "url": "https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 195470,
-      "name": "La Carretera",
-      "url": "https://open.spotify.com/track/42ch5aWgNSzXlTgNpWM2kY"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 192169,
-      "name": "Bandera Blanca",
-      "url": "https://open.spotify.com/track/3NNR3dPoW2B0M8HEM66TEo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 212092,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 192169,
+      "name": "Bandera Blanca",
+      "url": "https://open.spotify.com/track/3NNR3dPoW2B0M8HEM66TEo"
     },
     {
       "added_at": null,

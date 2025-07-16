@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-799 songs - 1 day 17 hr 18 min
+800 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [Know Better \(feat\. Lil' Mo & Vince Staples\)](https://open.spotify.com/track/6u7nuBZnO53vy8Kmpc6kEU) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 3:22 | 2024-09-06 | 2025-03-07 |
 | [Know Yourself](https://open.spotify.com/track/6wCbvwag0wNRBbhZuXwVpk) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [I Love It Here](https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK) | 3:48 | 2023-09-14 | 2023-09-29 |
 | [KOKA](https://open.spotify.com/track/4y0NPlpdWSE2YcRtSOVNhW) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [KOKA](https://open.spotify.com/album/42lOLtoRnq3ox0Ghz7DJht) | 2:37 | 2024-03-01 | 2024-05-09 |
-| [Ladies](https://open.spotify.com/track/3mXRxKuMj8DoSVR3G3Zyi4) | [The Majeek](https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8) | [The Majeekcian \(Vol\. 1\)](https://open.spotify.com/album/05LIPfZE7G6FPGvMGU1H12) | 2:21 | 2025-07-04 |  |
+| [Ladies](https://open.spotify.com/track/3mXRxKuMj8DoSVR3G3Zyi4) | [The Majeek](https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8) | [The Majeekcian \(Vol\. 1\)](https://open.spotify.com/album/05LIPfZE7G6FPGvMGU1H12) | 2:21 | 2025-07-04 | 2025-07-16 |
 | [Lagos Love Story](https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:35 | 2024-05-31 |  |
 | [Lagos Lovin'](https://open.spotify.com/track/0srNG0mElv2eDhMfuvwVlW) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Lagos Lovin'](https://open.spotify.com/album/13XnH8sdBpMAH3PBtDTaOv) | 3:43 | 2025-04-11 | 2025-05-30 |
 | [Lalalala](https://open.spotify.com/track/2i2IqwDNYuZj5rdMkJhdHF) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [Lalalala](https://open.spotify.com/album/3s7J1XOeBX15IXhh025coY) | 2:50 | 2024-04-05 | 2024-07-20 |
@@ -658,6 +658,7 @@
 | [Spell \- Remix](https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Spell \(Remix\)](https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW) | 2:53 | 2023-03-17 | 2024-08-26 |
 | [Start Me Up](https://open.spotify.com/track/6Ls2C5eTT6QC54FH2pYYnX) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Start Me Up](https://open.spotify.com/album/5GZeyHEYLp13qFIJOyHVVJ) | 3:03 | 2023-06-22 | 2023-08-04 |
 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 | 2022-08-12 | 2022-10-01 |
+| [Stay Home](https://open.spotify.com/track/7EHpanFygP4PvGj1XK5ZdZ) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Stay Home](https://open.spotify.com/album/2K5izQrAm5MsXpiZIGbiGi) | 2:37 | 2025-07-11 |  |
 | [STEADY](https://open.spotify.com/track/6erljwO8IBc86msFELW55d) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [STEADY](https://open.spotify.com/album/2lgrPBSWOKLh31tlL1Po1M) | 2:37 | 2024-07-26 | 2024-08-02 |
 | [Steady](https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Steady](https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM) | 3:44 | 2024-07-26 | 2024-09-13 |
 | [Storytime](https://open.spotify.com/track/0x6LQtNgrtznyaDJ5bPBrp) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Storytime](https://open.spotify.com/album/1MoX3r1GbmjH4VWZg1ERrX) | 2:37 | 2025-03-14 | 2025-04-18 |

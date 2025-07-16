@@ -257,6 +257,28 @@
     },
     {
       "album": {
+        "name": "By Any Means",
+        "url": "https://open.spotify.com/album/4PiGxfYKyIM3EGes3X5aU2"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "Doe B.",
+          "url": "https://open.spotify.com/artist/1kYVBCGgrauoBTagauOacj"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209278,
+      "name": "Amnesia (feat. Doe B)",
+      "url": "https://open.spotify.com/track/2ogFzfCjZUM9jLED5VNivu"
+    },
+    {
+      "album": {
         "name": "Back In Blood (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5"
       },
@@ -4710,7 +4732,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 134496,
       "name": "Voo Doo",
       "url": "https://open.spotify.com/track/7Lbuvj2QDW80Jb6HiGs8jX"

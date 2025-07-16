@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 628076,
+  "num_followers": 628119,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAAAlEKtetbrbTfWSE3GnURMk",
+  "snapshot_id": "aHRIgAAAAADIYtdbrMzoFccTlahbQwXt",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 312506,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney The Greatest Hits",
         "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 298106,
       "name": "Same Script, Different Cast",
       "url": "https://open.spotify.com/track/2vufJ1gR16JlpDiZGTrg0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 312506,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA"
     },
     {
       "added_at": null,

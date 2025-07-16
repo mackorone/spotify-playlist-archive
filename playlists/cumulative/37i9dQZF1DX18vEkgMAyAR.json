@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/1l9oYbtssYCsKBChiBseJm"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210226,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/67CZNsG3SQ1S8O2BsjTo4R"
+    },
+    {
+      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/2CqK9iuKQZP08okHT5kTOQ"
       },
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 282340,
       "name": "Rest",
       "url": "https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte"

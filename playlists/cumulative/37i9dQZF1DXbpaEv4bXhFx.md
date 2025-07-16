@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-242 songs - 14 hr 45 min
+244 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Because](https://open.spotify.com/track/6dc6iZ6Htwg0T1b2m9PO2L) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Because](https://open.spotify.com/album/2k5FNmZE4XTIf5h8W5sNsJ) | 3:28 | 2022-06-20 | 2022-06-28 |
 | [Because It's Raining](https://open.spotify.com/track/45wtKqTsplQDFyBd7lNgpu) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Because It's Raining](https://open.spotify.com/album/6XUJibvHZxh8N9YlAgK5YO) | 4:25 | 2025-07-08 |  |
 | [Because it's you](https://open.spotify.com/track/4R6vtch9Mb2a1xkZheaDZU) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [You Are My Spring OST Part 2](https://open.spotify.com/album/0hDpePbI4nFXfX5VAgBO3J) | 3:46 | 2022-06-20 | 2022-07-23 |
-| [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-06-20 |  |
+| [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-06-20 | 2025-07-16 |
 | [bird](https://open.spotify.com/track/3A6DKSDBG8DyP1nndA6VVG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [wave 0.01](https://open.spotify.com/album/3v2wQt26hJ3ricGPZ1kbld) | 3:36 | 2023-02-14 | 2024-04-19 |
 | [bird](https://open.spotify.com/track/4My7LoAyoRjvqHWWM2i1R4) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [wave 0.01](https://open.spotify.com/album/2yXHoZzQiKV8WZZhG9V3pb) | 3:36 | 2022-06-20 | 2022-06-26 |
 | [bittersweet](https://open.spotify.com/track/3JqgRqxVfoZXfDWYosS9ef) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [STOP OVER](https://open.spotify.com/album/6uDov9hyYO6A3IKH1bALL7) | 3:28 | 2022-06-20 | 2022-07-29 |
@@ -133,7 +133,7 @@
 | [My Ceiling Disappeared](https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:35 | 2022-06-20 | 2025-01-10 |
 | [My Day Is Full Of You](https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02Rqv4sMAds4LTlyWtojjz) | 3:40 | 2022-06-20 | 2022-07-06 |
 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King : Eternal Monarch, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 | 2022-07-22 | 2024-04-19 |
-| [My Home](https://open.spotify.com/track/4d3y4RHBHrQGZcoTAHsfcT) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [My Home](https://open.spotify.com/album/0HozvH2bWEQSkUXVZ0yuKL) | 3:36 | 2025-05-16 |  |
+| [My Home](https://open.spotify.com/track/4d3y4RHBHrQGZcoTAHsfcT) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [My Home](https://open.spotify.com/album/0HozvH2bWEQSkUXVZ0yuKL) | 3:36 | 2025-05-16 | 2025-07-16 |
 | [Next episode \(with Choi Jung Hoon of JANNABI\)](https://open.spotify.com/track/4h4Ibc1LSJmpLpVm0PBaPV) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:12 | 2022-06-20 | 2024-07-03 |
 | [Night Poem](https://open.spotify.com/track/0wKXfGgalZo8n7ooBj5ZWX) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Night Poem](https://open.spotify.com/album/202GLtwgD4zcl2jtzpR3mf) | 3:05 | 2022-06-20 | 2022-07-29 |
 | [Night Poem](https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Night Poem](https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU) | 3:05 | 2022-07-22 | 2023-07-26 |
@@ -174,6 +174,7 @@
 | [Rainy day \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Rainy day](https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2) | 3:38 | 2022-08-13 |  |
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 |  |
 | [RAINY DAYS](https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Hierarchy \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ) | 3:34 | 2024-07-02 |  |
+| [Rainy Night](https://open.spotify.com/track/57QysgprHQdtPBcAsBQpEt) | [Gyeongseo\(GyeongseoYeji\)](https://open.spotify.com/artist/49XlgwPu5F9Pgv7NImAvKA) | [Rainy Night](https://open.spotify.com/album/2VshuqJ3ZXHVsGdUPCbGZs) | 3:45 | 2025-07-15 |  |
 | [Rainy Saturday](https://open.spotify.com/track/2GmFwSUgGg8IQvLc0417AN) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Rainy Saturday](https://open.spotify.com/album/1Ew9gqTpDDL1HmwoKbHeI2) | 4:04 | 2022-06-20 | 2022-08-14 |
 | [Rainy Season](https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Rainy Season](https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf) | 3:42 | 2023-05-02 |  |
 | [Remind](https://open.spotify.com/track/6saQVRL70Dfs25G0y3S6M9) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Remind](https://open.spotify.com/album/1cli5zZQ2oP31DTO4U8Ybg) | 3:13 | 2022-06-20 | 2022-07-13 |
@@ -245,6 +246,7 @@
 | [부재](https://open.spotify.com/track/5FYlzhVc0DjOjBLmVDxHeY) | [새벽두시](https://open.spotify.com/artist/3amhjUtXBmRcWRP95ZqXxg) | [부재](https://open.spotify.com/album/2u6zEun4YhmDvkuWbm6Nmc) | 2:54 | 2022-07-08 | 2022-07-14 |
 | [불꽃, 놀이](https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [불꽃, 놀이](https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ) | 3:03 | 2024-08-09 | 2025-01-01 |
 | [비 오는 날](https://open.spotify.com/track/3way1Bx5wQvuMKuMKq0I5w) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [비 오는 날](https://open.spotify.com/album/6TCx3R4b6vUMkrbQqTNJJU) | 3:57 | 2022-07-08 | 2022-07-13 |
+| [비가 오는 날엔 Rainy day](https://open.spotify.com/track/5BvW5hrqgSSutKkN8JI2AC) | [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [비가 오는 날엔 Rainy day](https://open.spotify.com/album/40aM1IPqnK2vdaVSzf5QEE) | 3:24 | 2025-07-15 |  |
 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 | 2022-08-13 |  |
 | [빗소리 \- Acoustic](https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [음악 캠핑 갈래?](https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK) | 4:26 | 2022-06-29 |  |
 | [쏟아지는 비에](https://open.spotify.com/track/7hNmfopH2QKUSeCR6EhBss) | [Jeon Joo Hong 전주홍](https://open.spotify.com/artist/1bkeDrFoCknn3oyHstfBZr) | [쏟아지는 비에](https://open.spotify.com/album/5I8lsE4Vq1DTbQQUawT284) | 4:01 | 2022-06-20 | 2022-06-26 |

@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-955 songs - 1 day 23 hr 53 min
+956 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [20\-nånting](https://open.spotify.com/track/2xUPpHWbm8dCqhNqZtk7B6) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [20\-nånting](https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL) | 3:19 | 2023-10-05 | 2024-01-19 |
 | [2015](https://open.spotify.com/track/0P1TGA6W7GAng1a97T1ILG) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [2015](https://open.spotify.com/album/3NBxtU1YIACo3KYk8LLza4) | 2:59 | 2023-05-11 | 2023-07-14 |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-26 | 2022-09-09 |
-| [2CB](https://open.spotify.com/track/4v4544m9rPttWudGucbzAc) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [2CB](https://open.spotify.com/album/0x9hyJIBVJewDqzPnWQApB) | 3:07 | 2025-06-06 |  |
+| [2CB](https://open.spotify.com/track/4v4544m9rPttWudGucbzAc) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [2CB](https://open.spotify.com/album/0x9hyJIBVJewDqzPnWQApB) | 3:07 | 2025-06-06 | 2025-07-16 |
 | [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2021-12-16 | 2022-02-11 |
 | [2step \(feat\. 1.Cuz\)](https://open.spotify.com/track/4lzEs26mJHbvj9TIIJZPRS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2step \(feat\. 1.Cuz\)](https://open.spotify.com/album/57FHPyAprjWD6mXaY5gE1f) | 2:33 | 2022-05-08 | 2022-09-20 |
 | [30 personer](https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [30 personer](https://open.spotify.com/album/5AH0bUliZFOouNs1xoDNZ1) | 2:49 | 2022-01-20 | 2022-03-25 |
@@ -462,6 +462,7 @@
 | [JOLENE](https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:09 | 2024-04-02 | 2024-04-26 |
 | [Josefin](https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Josefin](https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk) | 3:34 | 2023-06-30 | 2023-11-01 |
 | [Julibarn](https://open.spotify.com/track/3KKJ0gfzfKfHOgKH8K9G5x) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Julibarn](https://open.spotify.com/album/4Z2DhkUJh87klzVawbKaEc) | 3:11 | 2023-10-26 | 2024-01-19 |
+| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-15 |  |
 | [JUMPSTART](https://open.spotify.com/track/7LnkcJhUZ0qs0HoyRm61xr) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [JUMPSTART](https://open.spotify.com/album/3tmkaAWU7c2g3BWQ7rdZpR) | 2:37 | 2022-11-03 | 2022-11-18 |
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-04 | 2023-05-11 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-06-04 |  |

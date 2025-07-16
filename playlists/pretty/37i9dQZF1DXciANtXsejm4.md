@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,724 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,828 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 75 | [La Segunda del Hombre del Acordeón](https://open.spotify.com/track/6GiqyOWzkol9gZsSIqLLxF) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k), [Gerardo Gross](https://open.spotify.com/artist/0xpHGyu4fPxDalDVfjb1Ni), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [La Segunda del Hombre del Acordeón](https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU) | 4:20 |
 | 76 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 |
 | 77 | [Enganchados 1 \(No la estoy pasando bien / El no es mejor que yo / No puedo con otra\)](https://open.spotify.com/track/6A58b2EXiYUGC9PJIyV2U2) | [Leo Mattioli y Trinidad](https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:58 |
-| 78 | [No Me Dolió](https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16) | [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [Abrázame](https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw) | 2:55 |
-| 79 | [A chillar a otra parte](https://open.spotify.com/track/4XTW9nuDuvGUObvZNpsYZu) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [25 Años \(Deluxe Edition\)](https://open.spotify.com/album/5Br3icgpgWZFf9Z4pKM7qx) | 2:00 |
+| 78 | [A chillar a otra parte](https://open.spotify.com/track/4XTW9nuDuvGUObvZNpsYZu) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [25 Años \(Deluxe Edition\)](https://open.spotify.com/album/5Br3icgpgWZFf9Z4pKM7qx) | 2:00 |
+| 79 | [No Me Dolió](https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16) | [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [Abrázame](https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw) | 2:55 |
 | 80 | [Vivo Pensando en ti](https://open.spotify.com/track/5GvCjJyuH91YhtEl9iKvlY) | [La Nueva Sensación](https://open.spotify.com/artist/0qgjKIM2Zd6fWKcYgwZmPE), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Vivo Pensando en ti](https://open.spotify.com/album/662eLNGODT9RQskLX0Y5Nx) | 3:58 |
 
 Snapshot ID: `Z9SYuwAAAABnYUL4eXpX/B4pmFyJgLtV`

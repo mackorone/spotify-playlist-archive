@@ -233,6 +233,28 @@
     },
     {
       "album": {
+        "name": "1-800",
+        "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Ironmouse",
+          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209515,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
+    },
+    {
+      "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
       },
@@ -5868,7 +5890,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 283413,
       "name": "Danseaza",
       "url": "https://open.spotify.com/track/5gAT4vNHad5sWQkAfRD6jj"
@@ -6232,7 +6254,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 75461,
       "name": "DIA DEL\u00cdCIA",
       "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
@@ -6592,6 +6614,24 @@
       "duration_ms": 243133,
       "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
       "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
+    },
+    {
+      "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2"
     },
     {
       "album": {
@@ -9055,6 +9095,40 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Rumi",
+          "url": "https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup"
+        },
+        {
+          "name": "Jinu",
+          "url": "https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187963,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
+    },
+    {
+      "album": {
         "name": "FRI(END)S",
         "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
       },
@@ -9284,6 +9358,28 @@
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
+    {
+      "album": {
+        "name": "FWU",
+        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
     },
     {
       "album": {
@@ -11390,7 +11486,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 199333,
       "name": "Huligani",
       "url": "https://open.spotify.com/track/7KhJMKLSxQWG98iMhCiYqX"
@@ -14965,6 +15061,24 @@
     },
     {
       "album": {
+        "name": "BEAUTIFUL CHAOS",
+        "url": "https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129683,
+      "name": "M.I.A",
+      "url": "https://open.spotify.com/track/4vyQ2NdodXhtMGsaaMBqSt"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -18200,7 +18314,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -18392,7 +18506,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 254734,
       "name": "Now and at the Hour of Our Death (feat. BONES)",
       "url": "https://open.spotify.com/track/5g3PPNIHL5yMci2pio9ZoI"
@@ -19907,6 +20021,28 @@
     },
     {
       "album": {
+        "name": "SRCE <3",
+        "url": "https://open.spotify.com/album/3gWUSePjD1Ftku7PoaHQ6u"
+      },
+      "artists": [
+        {
+          "name": "Mila Robert",
+          "url": "https://open.spotify.com/artist/5tLSSaTETr45nkqq42McjK"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Polujivi",
+      "url": "https://open.spotify.com/track/5USdMIrRxaU3vnKaPxqj1C"
+    },
+    {
+      "album": {
         "name": "Pop like this Pt. 2 (Slowed)",
         "url": "https://open.spotify.com/album/234kj0msMVe1QJN8D46ExH"
       },
@@ -19987,6 +20123,32 @@
     },
     {
       "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
+      },
+      "artists": [
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        },
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Positions",
+      "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
+    },
+    {
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
       },
@@ -20002,6 +20164,24 @@
       "duration_ms": 121089,
       "name": "poster boy",
       "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+    },
+    {
+      "album": {
+        "name": "SRCE <3",
+        "url": "https://open.spotify.com/album/3gWUSePjD1Ftku7PoaHQ6u"
+      },
+      "artists": [
+        {
+          "name": "Mila Robert",
+          "url": "https://open.spotify.com/artist/5tLSSaTETr45nkqq42McjK"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173382,
+      "name": "Povoda si ti",
+      "url": "https://open.spotify.com/track/7qKTriyjf8zZAJrxL1jb63"
     },
     {
       "album": {
@@ -23157,6 +23337,32 @@
     },
     {
       "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
       },
@@ -23454,7 +23660,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 150000,
       "name": "SONBAHAR",
       "url": "https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf"
@@ -23930,7 +24136,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 185942,
       "name": "stay",
       "url": "https://open.spotify.com/track/56PS9rUrkwa1TYG6l1Vb0v"
@@ -24906,10 +25112,28 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 181192,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
       "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+    },
+    {
+      "album": {
+        "name": "THIS IS FOR (DELUXE)",
+        "url": "https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180293,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
+      "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
     },
     {
       "album": {
@@ -27154,7 +27378,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 142328,
       "name": "Underdog (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/7KVT3NYXWguwJ0zzup1q1S"
@@ -27368,7 +27592,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -27430,7 +27654,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 83183,
       "name": "Vem Vem",
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
@@ -28196,7 +28420,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 196931,
       "name": "we never dated",
       "url": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
@@ -28756,7 +28980,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 157191,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
@@ -29366,6 +29590,28 @@
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
+    },
+    {
+      "album": {
+        "name": "Yerinde Dur",
+        "url": "https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Yerinde Dur",
+      "url": "https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI"
     },
     {
       "album": {
@@ -30928,7 +31174,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 212267,
       "name": "\u0414\u0430 \u043f\u043e\u0436\u0438\u0432\u0435\u044f",
       "url": "https://open.spotify.com/track/4F0dg6feGY0Xhv3b21zYGk"
@@ -31517,6 +31763,28 @@
     },
     {
       "album": {
+        "name": "\u0418 \u0422\u0412\u0410 \u0429\u0415 \u041c\u0418\u041d\u0415",
+        "url": "https://open.spotify.com/album/6UeMGkCAGy5VsqPZd68Vlt"
+      },
+      "artists": [
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        },
+        {
+          "name": "\u042e\u041b\u0418",
+          "url": "https://open.spotify.com/artist/6w4kbwCMM8hTrxbjwlX5i2"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173012,
+      "name": "\u0418 \u0422\u0412\u0410 \u0429\u0415 \u041c\u0418\u041d\u0415",
+      "url": "https://open.spotify.com/track/0n7iaR1CXxXIbarg2LwcCU"
+    },
+    {
+      "album": {
         "name": "\u0418\u043c\u0430\u043c \u0434\u0440\u0443\u0433",
         "url": "https://open.spotify.com/album/4MT10xsgUmRKvD1gfbGwHO"
       },
@@ -31598,6 +31866,28 @@
       "duration_ms": 181600,
       "name": "\u041a\u0430\u043a \u0434\u0430 \u0441\u043f\u0440\u0430 \u0434\u0430 \u0442\u0435 \u043e\u0431\u0438\u0447\u0430\u043c",
       "url": "https://open.spotify.com/track/7IUoCk6UqxhDGSKDYe88uR"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0430\u043f\u0443\u0447\u0438\u043d\u0430",
+        "url": "https://open.spotify.com/album/5HJ4d3WvoVRPrqyfIJUdZI"
+      },
+      "artists": [
+        {
+          "name": "DJ Damyan",
+          "url": "https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI"
+        },
+        {
+          "name": "Sofi Marinova",
+          "url": "https://open.spotify.com/artist/0uQufSOI58CZsze92brlhq"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "\u041a\u0430\u043f\u0443\u0447\u0438\u043d\u0430",
+      "url": "https://open.spotify.com/track/0dBBOeVLEIysM0EqCbO7dJ"
     },
     {
       "album": {
@@ -33536,6 +33826,28 @@
       "duration_ms": 162863,
       "name": "\u0421\u044a\u043b\u0437\u0438 \u041e\u0442 \u0412\u0440\u0430\u0433\u043e\u0432\u0435",
       "url": "https://open.spotify.com/track/3x1hXRwp1e3I0r0ZayR59j"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0430\u0437\u0438 \u0434\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
+        "url": "https://open.spotify.com/album/4BKWSEifxxparI4dOCRrcq"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213352,
+      "name": "\u0422\u0430\u0437\u0438 \u0434\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
+      "url": "https://open.spotify.com/track/4ZMpVZ52QE7EMJ35F5ReN2"
     },
     {
       "album": {

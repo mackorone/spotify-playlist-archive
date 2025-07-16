@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 148 | [The Music Never Ends](https://open.spotify.com/track/76hJ3vEgb6jUiYUEkiTmuQ) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [This is 嵐](https://open.spotify.com/album/1aGPwO93UYZ3OMtnVcekI6) | 4:04 |
 | 149 | [Pure](https://open.spotify.com/track/30O9CIEN4wG2fBMdRVbZUJ) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Brand New Moves](https://open.spotify.com/album/3jvOuQxO5i6MsBLU1UV3EN) | 4:18 |
 | 150 | [God Must Be Doing Cocaine](https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [God Must Be Doing Cocaine](https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7) | 3:14 |
-| 151 | [Doesn't Matter](https://open.spotify.com/track/3bJySSPfgLzsM7lLJyr90G) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [TOOGOODTOBETRUE \(feat\. Sufjan Stevens & Rebecca Sugar\)](https://open.spotify.com/album/2tZug3aKryBvtzJTfKqARf) | 3:28 |
-| 152 | [Might As Well Be Me](https://open.spotify.com/track/6oZ3hh7FI0bj2dUiF6OojO) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH) | 2:49 |
+| 151 | [Might As Well Be Me](https://open.spotify.com/track/6oZ3hh7FI0bj2dUiF6OojO) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH) | 2:49 |
+| 152 | [Doesn't Matter](https://open.spotify.com/track/3bJySSPfgLzsM7lLJyr90G) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [TOOGOODTOBETRUE \(feat\. Sufjan Stevens & Rebecca Sugar\)](https://open.spotify.com/album/2tZug3aKryBvtzJTfKqARf) | 3:28 |
 | 153 | [Overdrive](https://open.spotify.com/track/5BJ6XYpZGCGfsfqY6GFUNf) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:38 |
 | 154 | [Think About You](https://open.spotify.com/track/49wvp0zE6RvYuxUrCoHgl6) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Think About You](https://open.spotify.com/album/10NN47P7LBmv69ywf8rX5e) | 3:08 |
 | 155 | [Bliss](https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab2ycAAAAACTuTFHZJdmBEmAHsCbqDei`
+Snapshot ID: `Ab23ygAAAAB/Nab5M2nnQhWnMca4+Qjb`

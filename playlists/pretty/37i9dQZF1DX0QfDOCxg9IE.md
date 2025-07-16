@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,766 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,781 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 4 | [Noord Africano](https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Noord Africano](https://open.spotify.com/album/0QlNKFqSnmpdzcuqBYY4x0) | 2:47 |
 | 5 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
 | 6 | [Louloudi Tou Dromou](https://open.spotify.com/track/6XeFd9KCGi7zz5U9KHqCyx) | [Yorgos Rous](https://open.spotify.com/artist/28BigpvpUQr0WHhR7QzIep) | [Rous II](https://open.spotify.com/album/5pj0kkvgv1DQuzcnRjpSkD) | 3:54 |
-| 7 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 |
+| 7 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 |
 | 8 | [Taxidi](https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB) | [Marina Spanou](https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz) | [Mia Kaseta Gia Ton Dromo](https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg) | 4:52 |
 | 9 | [Fanaria](https://open.spotify.com/track/6lM8wgaCtzod83yWP1BmnK) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Fthina Tricks 3](https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK) | 3:09 |
 | 10 | [Xodepsta](https://open.spotify.com/track/2c6Mx7YzxZkPYoLRqNIZzv) | [JOJO](https://open.spotify.com/artist/7y3Vc1nVxf9MK2BXv5G3ul) | [Xodepsta](https://open.spotify.com/album/7jTtilK2ZUh0nesHzrAToA) | 2:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,429 likes - 65 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,447 likes - 65 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 26 | [The Wind Forest](https://open.spotify.com/track/1lXB18NE2eoJmVDh7yPK7H) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Piano Stories Best '88\-'08](https://open.spotify.com/album/5gEbcmOBaa2q8Tr670bFR7) | 4:54 |
 | 27 | [Silence](https://open.spotify.com/track/1ryPERKzpkuwFRFHWJDOj6) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ETUDE ～a Wish to the Moon～](https://open.spotify.com/album/40yhQ9lfcanVVJkHTvSd0q) | 4:30 |
 | 28 | [未知なる異世界](https://open.spotify.com/track/1SQIEVQlVcA9EI3uaWnNBD) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [映画『二ノ国』 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/2zQqC3s9NSCuDwQIAVb1FT) | 1:20 |
-| 29 | [「釣りバカ日誌2」メインテーマ](https://open.spotify.com/track/3smwcr91SQAqGrkaC7CoCb) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [釣りバカ日誌　ミュージックファイル　Vol.1](https://open.spotify.com/album/3uyXetK3iodSgBHW0rgYGq) | 2:47 |
+| 29 | [「釣りバカ日誌2」メインテーマ](https://open.spotify.com/track/3smwcr91SQAqGrkaC7CoCb) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [釣りバカ日誌 ミュージックファイル Vol.1](https://open.spotify.com/album/3uyXetK3iodSgBHW0rgYGq) | 2:47 |
 | 30 | [Links](https://open.spotify.com/track/0CGlkyWsGhwnd7VKBpP8JK) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [ミニマリズム](https://open.spotify.com/album/4o2DXsb3rM4PWU2DtWLVhL) | 5:53 |
 | 31 | [アシタカとサン](https://open.spotify.com/track/022qa8RJ1bDMVf5q9sxKwf) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ENCORE](https://open.spotify.com/album/5pSXHB3YxpvayU1byEzKTZ) | 3:57 |
 | 32 | [おくりびと ～memory～](https://open.spotify.com/track/5SVGaIMZ9kYxvFv5WjRdnS) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [おくりびと \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/3Cidt4JOBuoV9sO8aqkwVQ) | 4:07 |

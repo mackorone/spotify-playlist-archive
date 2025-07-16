@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,531 likes - 89 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,532 likes - 89 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

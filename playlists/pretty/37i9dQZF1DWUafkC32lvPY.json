@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 28492,
+  "num_followers": 28510,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "spirits",
+        "url": "https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm"
+      },
+      "artists": [
+        {
+          "name": "n o r m a l",
+          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
+        }
+      ],
+      "duration_ms": 137522,
+      "name": "spirits",
+      "url": "https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Cavaquinho",
         "url": "https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 138795,
       "name": "Cavaquinho",
       "url": "https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "spirits",
-        "url": "https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm"
-      },
-      "artists": [
-        {
-          "name": "n o r m a l",
-          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
-        }
-      ],
-      "duration_ms": 137522,
-      "name": "spirits",
-      "url": "https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -247,26 +247,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Moonlight Juice",
-        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "Shetafacker",
-          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
-        }
-      ],
-      "duration_ms": 147786,
-      "name": "Moonlight Juice",
-      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Barrio",
         "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 125861,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Moonlight Juice",
+        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "Shetafacker",
+          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
+        }
+      ],
+      "duration_ms": 147786,
+      "name": "Moonlight Juice",
+      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -651,6 +651,30 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "COMO ARRUINARTE LA VIDA",
+        "url": "https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Diego Franco",
+          "url": "https://open.spotify.com/artist/54unEwVLwrdvfz638XHDzY"
+        },
+        {
+          "name": "Federico Sanchez Flores",
+          "url": "https://open.spotify.com/artist/7DYagAejpAIigSoDirH0yT"
+        }
+      ],
+      "duration_ms": 127749,
+      "name": ":(",
+      "url": "https://open.spotify.com/track/1JrsBQYxkbLbGvCyo7dgmJ"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Ascendentes",
         "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
       },
@@ -687,30 +711,6 @@
       "duration_ms": 114418,
       "name": "Bossa De Flauta",
       "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "COMO ARRUINARTE LA VIDA",
-        "url": "https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Diego Franco",
-          "url": "https://open.spotify.com/artist/54unEwVLwrdvfz638XHDzY"
-        },
-        {
-          "name": "Federico Sanchez Flores",
-          "url": "https://open.spotify.com/artist/7DYagAejpAIigSoDirH0yT"
-        }
-      ],
-      "duration_ms": 127749,
-      "name": ":(",
-      "url": "https://open.spotify.com/track/1JrsBQYxkbLbGvCyo7dgmJ"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -851,18 +851,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "are you kidding?",
-        "url": "https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v"
+        "name": "Viendo el mundial con pap\u00e1",
+        "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 131091,
-      "name": "are you kidding?",
-      "url": "https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2"
+      "duration_ms": 129854,
+      "name": "Viendo el mundial con pap\u00e1",
+      "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -907,22 +911,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Viendo el mundial con pap\u00e1",
-        "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
+        "name": "are you kidding?",
+        "url": "https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 129854,
-      "name": "Viendo el mundial con pap\u00e1",
-      "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
+      "duration_ms": 131091,
+      "name": "are you kidding?",
+      "url": "https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "El D\u00eda M\u00e1s Largo",
+        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
+      },
+      "artists": [
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 146239,
+      "name": "Cholomuco",
+      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "La Belleza de lo Cotidiano",
         "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "El D\u00eda M\u00e1s Largo",
-        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
-      },
-      "artists": [
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 146239,
-      "name": "Cholomuco",
-      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Lofi Latino, Vol. 2",
         "url": "https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb"
       },
@@ -1063,26 +1063,6 @@
       "duration_ms": 138709,
       "name": "La Selva Nos Llama",
       "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "soltarte (instrumental)",
-        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        },
-        {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
-        }
-      ],
-      "duration_ms": 176202,
-      "name": "soltarte (instrumental)",
-      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1103,6 +1083,26 @@
       "duration_ms": 167857,
       "name": "Mi\u00e9rcoles Azul",
       "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "soltarte (instrumental)",
+        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        },
+        {
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
+        }
+      ],
+      "duration_ms": 176202,
+      "name": "soltarte (instrumental)",
+      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Guaran\u00ed Landscape",
-        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
-      },
-      "artists": [
-        {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
-        }
-      ],
-      "duration_ms": 189629,
-      "name": "Guaran\u00ed Landscape",
-      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Hora Azul",
         "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
       },
@@ -1195,22 +1179,6 @@
       "duration_ms": 165976,
       "name": "Lunes Azul",
       "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "un atardecer a tu lado",
-        "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
-      },
-      "artists": [
-        {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
-        }
-      ],
-      "duration_ms": 101065,
-      "name": "bailar contigo",
-      "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1235,18 +1203,34 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
+        "name": "Guaran\u00ed Landscape",
+        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
       },
       "artists": [
         {
-          "name": "L.Rey",
-          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
+      "duration_ms": 189629,
+      "name": "Guaran\u00ed Landscape",
+      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "un atardecer a tu lado",
+        "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
+      },
+      "artists": [
+        {
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+        }
+      ],
+      "duration_ms": 101065,
+      "name": "bailar contigo",
+      "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1263,6 +1247,22 @@
       "duration_ms": 168103,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
+      },
+      "artists": [
+        {
+          "name": "L.Rey",
+          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
-      },
-      "artists": [
-        {
-          "name": "Mariana Red",
-          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        }
-      ],
-      "duration_ms": 122250,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "100% Barztep",
         "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 116624,
       "name": "Break",
       "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
+      },
+      "artists": [
+        {
+          "name": "Mariana Red",
+          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        }
+      ],
+      "duration_ms": 122250,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "lucky monkey",
         "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 133333,
       "name": "lucky monkey",
       "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
     },
     {
       "added_at": "2025-04-04 04:00:19",

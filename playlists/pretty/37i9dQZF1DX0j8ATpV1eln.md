@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,883 likes - 87 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,884 likes - 87 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 62 | [リングオブドランカー](https://open.spotify.com/track/4RsRkT4lHhC8mA9XODdRGn) | [Tetsuya Kakihara](https://open.spotify.com/artist/1p3FN7q7Hd6AaVGOgyJMku) | [Circle of LIFE](https://open.spotify.com/album/4Pfa4j6GQWOJ6WTQy47vay) | 3:26 |
 | 63 | [君じゃなきゃダメみたい](https://open.spotify.com/track/3ampsSIgy89L2INLIp3ym3) | [Tomohisa Sako](https://open.spotify.com/artist/0wqa4zlg4Ru1nVJRrOlx5B) | [キミの耳にラブソングを](https://open.spotify.com/album/7J3tNqe5P6sJQdG4dWavZs) | 4:29 |
 | 64 | [MANKAI☆開花宣言 \- MANKAI STAGE SPRING Ver.](https://open.spotify.com/track/3MvmeSgTmNHfY8ne3ghFDx) | [春組](https://open.spotify.com/artist/7iRNvnpkgbo91eiIabx1aJ) | [MANKAI STAGE『A3!』Spring Troupe 満開の桜の下で](https://open.spotify.com/album/7vbWihVg7eF9IV7XUdiGXz) | 3:48 |
-| 65 | [私と、わたし](https://open.spotify.com/track/1I3qzeVrhFnvzoRTSAp9lg) | [上田桃夏](https://open.spotify.com/artist/3SIHbizkbUxIRtDlVY0OtH) | [私と、わたし](https://open.spotify.com/album/3m0DMn0ETvJ9RGXK5b54Gl) | 3:52 |
+| 65 | [私と、わたし](https://open.spotify.com/track/1I3qzeVrhFnvzoRTSAp9lg) | [Momoka Ueda](https://open.spotify.com/artist/3SIHbizkbUxIRtDlVY0OtH) | [私と、わたし](https://open.spotify.com/album/3m0DMn0ETvJ9RGXK5b54Gl) | 3:52 |
 | 66 | [フィッシュストーリー](https://open.spotify.com/track/3J2Sm65u3cDERWIJoKUTHi) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [フィッシュストーリー](https://open.spotify.com/album/4GBQaDl8PQfmS1tkZi9xDB) | 4:22 |
 | 67 | [サヨナラから始まる物語](https://open.spotify.com/track/0v4aUn7ToZ3Wx9QTOqYyHr) | [星見プロダクション](https://open.spotify.com/artist/1qu8WIATG5KzozEzjmDkx7) | [サヨナラから始まる物語](https://open.spotify.com/album/4vqT0FUhwmuiFVMXwjNvxl) | 3:37 |
 | 68 | [シンガロン進化論](https://open.spotify.com/track/47kJGOXCJZqgJhHhfpfODn) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [PROGRESS](https://open.spotify.com/album/6zLtC2ZFNrCvsEkq4VEdsX) | 3:24 |

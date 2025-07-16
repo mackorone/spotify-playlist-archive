@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-460 songs - 1 day 1 hr 29 min
+461 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Athens](https://open.spotify.com/track/4YKrRk2jraHkFuHcVaUvog) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi) | [Athens](https://open.spotify.com/album/3jFju6gf1gujqRGxGyeoHy) | 2:30 | 2021-12-16 | 2022-07-29 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-21 | 2023-12-15 |
 | [Bacc 2 Harlem](https://open.spotify.com/track/4GMQyTh4yglx08mb1Aci6y) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [2 Piece](https://open.spotify.com/album/4ETZDoRT2DmjIb3L2IUo57) | 3:06 | 2024-04-19 | 2024-09-08 |
+| [Bars and BBQs](https://open.spotify.com/track/0B0uNI2m1ACui50VLP3mcB) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Bars and BBQs](https://open.spotify.com/album/5QnYhS0d7Rdm51J1WAgFt5) | 2:45 | 2025-07-11 |  |
 | [Battiti in parole](https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso), [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [fusion.](https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54) | 3:40 | 2024-04-19 |  |
 | [bbhur](https://open.spotify.com/track/6rq7UM6Wwgo7NFm73NP2vD) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [bbhur](https://open.spotify.com/album/01WVU6MPHyU0I9ijmSPSxR) | 4:05 | 2024-10-10 | 2024-11-21 |
 | [Bear Trap](https://open.spotify.com/track/2eI39ZcdcjFiPvLQvJ1COb) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Bear Trap](https://open.spotify.com/album/0ckGmkDxDZeVpHZ8sP5G8P) | 2:50 | 2025-01-17 |  |
@@ -434,7 +435,7 @@
 | [Three Sixty](https://open.spotify.com/track/00Dl4SEgRut6XaLpOQH6Gk) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds) | [Nostalgia](https://open.spotify.com/album/11WVMvo2CIfz3kkqLjNkoJ) | 3:25 | 2022-12-15 | 2023-04-19 |
 | [Three Sixty](https://open.spotify.com/track/7weHEmlNuhX947gIGLfQgj) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds) | [Three Sixty](https://open.spotify.com/album/2tPcZr8ynVcgl95SHKk64n) | 3:25 | 2021-12-16 | 2022-11-13 |
 | [TMI](https://open.spotify.com/track/3gLlJykJzLrR8VH1opcFIr) | [Vikkie](https://open.spotify.com/artist/0ED4TBRpD2R4IVZpKr3swH), [BLK CLD](https://open.spotify.com/artist/4CRPuMo8QJ1IZjmz08S55o) | [TMI](https://open.spotify.com/album/2P3s2G6dsrKnRyJiLbpzqs) | 2:21 | 2024-06-18 | 2024-09-12 |
-| [To You \(feat\. Robert Glasper, Emi Secrest\)](https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Emi Secrest](https://open.spotify.com/artist/7b6tYoAAoGRMlr42ekCIRj) | [Ravenite Social Club](https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g) | 3:56 | 2024-08-30 |  |
+| [To You \(feat\. Robert Glasper, Emi Secrest\)](https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Emi Secrest](https://open.spotify.com/artist/7b6tYoAAoGRMlr42ekCIRj) | [Ravenite Social Club](https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g) | 3:56 | 2024-08-30 | 2025-07-16 |
 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 | 2024-05-17 |  |
 | [Trick Questions](https://open.spotify.com/track/4SwhF2yf6cIXOfMXJK2SEc) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Anti Lilly](https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn) | [Trick Questions](https://open.spotify.com/album/7LKr3ZpEyI8mcMASXs62kO) | 2:59 | 2021-12-16 | 2022-06-27 |
 | [Truth Serum](https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0) | [insyt.](https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O) | [Mi Casa, Su Casa](https://open.spotify.com/album/3wQtB5CllwkpIZSJgF52QW) | 1:57 | 2024-10-10 |  |

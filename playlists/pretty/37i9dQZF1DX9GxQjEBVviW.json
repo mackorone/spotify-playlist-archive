@@ -1,6 +1,6 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 242710,
+  "num_followers": 242763,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
-      },
-      "artists": [
-        {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Come Softly To Me",
-      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "All-Time Greatest Hits & More 1959-1965",
         "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 151560,
       "name": "This Magic Moment",
       "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+      },
+      "artists": [
+        {
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Come Softly To Me",
+      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
+        "name": "American Graffiti",
+        "url": "https://open.spotify.com/album/3ZQMECQRA5pu9YP6LtiiIC"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon & The Teenagers",
+          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Why Do Fools Fall In Love? - Single Version",
+      "url": "https://open.spotify.com/track/0QlHvmgHQ66FFaSbKkVYJM"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
         "name": "The Greatest Doo Wop",
         "url": "https://open.spotify.com/album/4RkJZbzTvIZOD3lyMUDYtv"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 141583,
       "name": "Speedoo",
       "url": "https://open.spotify.com/track/4UGr3S283MmxmRIq83xoWq"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
-        "name": "Jukebox One Hit Wonders",
-        "url": "https://open.spotify.com/album/7DtncHfVoKT9zAuP5s6FHE"
-      },
-      "artists": [
-        {
-          "name": "The Crests",
-          "url": "https://open.spotify.com/artist/64vw6q9ZBTop3Tf2ol1x4U"
-        }
-      ],
-      "duration_ms": 172460,
-      "name": "16 Candles",
-      "url": "https://open.spotify.com/track/4FgGZFdLekTIjocfAu9Mxd"
     }
   ],
   "unique_name": "Doo-Wop Dee Doo",

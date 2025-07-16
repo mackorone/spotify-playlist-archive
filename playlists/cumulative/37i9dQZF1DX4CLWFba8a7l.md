@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: ONEFOUR
 
-359 songs - 19 hr 57 min
+360 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Get 'Em Up](https://open.spotify.com/track/3WJXMqyJTVUoZbe73wDjYw) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Get 'Em Up](https://open.spotify.com/album/7kZnK7Or40Hoe7unZcfZMJ) | 2:51 | 2025-06-05 | 2025-06-13 |
 | [Get It Done](https://open.spotify.com/track/6qJ8Il5OThFcrOFj32xR32) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Get It Done](https://open.spotify.com/album/1Pn6IYJQWyRRPFEMKTEw5w) | 3:02 | 2025-07-03 | 2025-07-11 |
 | [Get Knocked Down](https://open.spotify.com/track/4QCYGQb57NVQvDvG6RKpQV) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Get Knocked Down](https://open.spotify.com/album/366i7YVWV8vUqgciOQSyw4) | 3:40 | 2025-05-01 | 2025-05-30 |
-| [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 | 2025-04-24 |  |
+| [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 | 2025-04-24 | 2025-07-16 |
 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 | 2025-01-23 |  |
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2024-05-31 | 2025-03-14 |
 | [Givin' It Up](https://open.spotify.com/track/7JlwEzDrrUCQyqS4bun7cG) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Givin' It Up](https://open.spotify.com/album/7lyQed6f1BtFe5Q5K9eRvR) | 3:25 | 2024-08-30 | 2024-11-14 |
@@ -214,6 +214,7 @@
 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 | 2024-07-18 | 2025-04-25 |
 | [NATURAL HABITAT](https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [NATURAL HABITAT](https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ) | 2:53 | 2024-05-31 | 2025-01-18 |
 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-03-27 |  |
+| [Never Coming Home \(feat\. SIX60\)](https://open.spotify.com/track/7f8vUzOeVBeKdm7d9Miis0) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Never Coming Home \(feat\. SIX60\)](https://open.spotify.com/album/0hoL3ByqmEuAArk3h9XYw7) | 4:05 | 2025-07-10 |  |
 | [Never Stop Loving You](https://open.spotify.com/track/47Je1AgGGoqiK1ERyARL5Y) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [DEFIANT](https://open.spotify.com/album/3VJorsrXq0rOUNkuvkJUdq) | 6:42 | 2025-06-05 | 2025-06-13 |
 | [Never Unlove](https://open.spotify.com/track/5DAh70C3AD3mt4LZY6cUXT) | [Ms\. Thandi](https://open.spotify.com/artist/0puWDWtG4G9xAJJ6JiZEfA), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Never Unlove](https://open.spotify.com/album/66amADLG6u8BsffjbDFIS4) | 3:16 | 2025-05-01 | 2025-05-09 |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-05-31 |  |

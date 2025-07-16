@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Narivetta",
-  "num_followers": 495267,
+  "num_followers": 495807,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHTDrAAAAAAV1jtwgo05q4+Bo7KYyyto",
+  "snapshot_id": "aHYFGQAAAAAdXLVWZjezA795VJgojcUa",
   "tracks": [
     {
       "added_at": "2025-05-07 08:53:45",
@@ -166,6 +166,10 @@
         {
           "name": "M. G. Sreekumar",
           "url": "https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt"
+        },
+        {
+          "name": "B.K. Harinarayanan",
+          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
         }
       ],
       "duration_ms": 354666,
@@ -255,6 +259,34 @@
       "duration_ms": 225865,
       "name": "Cheth Song (From \"Pravinkoodu Shappu\")",
       "url": "https://open.spotify.com/track/6zu3OZLSZqrHedlgvrdCPE"
+    },
+    {
+      "added_at": "2025-07-15 07:36:57",
+      "album": {
+        "name": "Mr. Marumakan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4gj91louLbVSbAxZRJphMU"
+      },
+      "artists": [
+        {
+          "name": "Suresh Peters",
+          "url": "https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45"
+        },
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        },
+        {
+          "name": "Rita",
+          "url": "https://open.spotify.com/artist/3iEcYh8j536C90OBKhRY61"
+        },
+        {
+          "name": "Naveen",
+          "url": "https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt"
+        }
+      ],
+      "duration_ms": 321506,
+      "name": "Maayo Maayo",
+      "url": "https://open.spotify.com/track/6vXFhqhAIXHGamBvqe2Ilc"
     },
     {
       "added_at": "2025-06-10 19:29:57",
@@ -1075,34 +1107,6 @@
       "duration_ms": 243133,
       "name": "Parudeesa - From \"Bheeshma Parvam\"",
       "url": "https://open.spotify.com/track/3atpk0CnzPpRVbzq3l3EMq"
-    },
-    {
-      "added_at": "2024-02-17 08:32:18",
-      "album": {
-        "name": "Mini Maharani (From \"Premalu\")",
-        "url": "https://open.spotify.com/album/3XaWEypWwOf68Z7GckamCG"
-      },
-      "artists": [
-        {
-          "name": "Vishnu Vijay",
-          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
-        },
-        {
-          "name": "Suhail Koya",
-          "url": "https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Vagu Mazan",
-          "url": "https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV"
-        }
-      ],
-      "duration_ms": 245276,
-      "name": "Mini Maharani (From \"Premalu\")",
-      "url": "https://open.spotify.com/track/2CPjVH7irjP1H9Na7VbhrN"
     },
     {
       "added_at": "2024-03-19 09:28:30",

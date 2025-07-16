@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Justin Bieber, GIMS, Tyla, Jazeek and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,160 likes - 108 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,167 likes - 108 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 90 | [girls will b girls](https://open.spotify.com/track/1fnwW4qRPdAPkhRqncgh5o) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [girls will b girls](https://open.spotify.com/album/2dAEsiFQQXwJDiTnJcrC5y) | 2:29 |
 | 91 | [The Way \(with XXXTENTACION\)](https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Legends Never Die \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18) | 3:50 |
 | 92 | [Bailando](https://open.spotify.com/track/5Zm0lM69GIVw45fXhaL167) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Bailando](https://open.spotify.com/album/5PXUWLnPxUVsaOt1gERTRx) | 2:15 |
-| 93 | [Victory Lap Two](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 2:33 |
+| 93 | [Victory Lap Three](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 3:28 |
 | 94 | [Kommst du vorbei](https://open.spotify.com/track/1S8DPjb8gCjDxU0jrXMjPb) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Kommst du vorbei](https://open.spotify.com/album/3QhiCdOkc6bFLKuwcul2VU) | 2:53 |
 | 95 | [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 |
 | 96 | [Sorgenkind](https://open.spotify.com/track/17ahy1zJy9VRb1EIIrSIBP) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Sorgenkind](https://open.spotify.com/album/7kB9VMzWNPrVNjFivvSigU) | 2:57 |

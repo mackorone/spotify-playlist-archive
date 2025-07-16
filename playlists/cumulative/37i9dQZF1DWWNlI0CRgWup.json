@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Ino Casablanca",
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Camille Yembe",
   "name": "RADAR FRANCE",
   "tracks": [
     {
@@ -856,6 +856,24 @@
       "duration_ms": 200357,
       "name": "COUP DE FOUDRE",
       "url": "https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs"
+    },
+    {
+      "album": {
+        "name": "Coups de soleil",
+        "url": "https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm"
+      },
+      "artists": [
+        {
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147907,
+      "name": "Coups de soleil",
+      "url": "https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX"
     },
     {
       "album": {

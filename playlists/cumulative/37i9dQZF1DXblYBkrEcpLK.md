@@ -2,9 +2,9 @@
 
 ### [Women of Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: ASCA
+> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: ClariS
 
-762 songs - 2 day 2 hr 28 min
+763 songs - 2 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [SHINOBI\-NAI](https://open.spotify.com/track/3oRk1VbEjfNF3FAyMHIbCo) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 3:31 | 2022-06-09 | 2022-07-19 |
 | [Shinshin Muso no Ken ni Nare](https://open.spotify.com/track/7p4RhJ9eryGdHeGnx467OS) | [羽前京香\(CV:鬼頭明里\)](https://open.spotify.com/artist/52ky9tegM9Sdirv6I8Ok1q) | [Shinshin Muso no Ken ni Nare](https://open.spotify.com/album/6RqGK1sg3VST4Ij28cWTIk) | 3:09 | 2024-01-18 | 2024-02-14 |
 | [Shiny day](https://open.spotify.com/track/5p4SyNJHFOkY7zTjUNtOqi) | [舞桜 from STARRY PLANET☆](https://open.spotify.com/artist/2SRrKpFyZQlcZpKguNFXEu), [らき from BEST FRIENDS!](https://open.spotify.com/artist/6rJjAKdKS0aH7G0a1nT9K5), [あいね from BEST FRIENDS!](https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3), [みお from BEST FRIENDS!](https://open.spotify.com/artist/7yCtHmaXb2JMePfcu2Vj67), [わか](https://open.spotify.com/artist/1zh5yvO4dDoZiGru8W7J3n), [るか](https://open.spotify.com/artist/7rCYAf0qUImNs8pqy04vzl), [せな](https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd), [れみ](https://open.spotify.com/artist/6Bi0J8wt4LKKhe97JIk4l5), [みき](https://open.spotify.com/artist/1qXzl19TBKdkjXKMOaqDSZ) | [アイカツ!シリーズ 10th Anniversary Album Vol.01「Ring Ring Carnival」](https://open.spotify.com/album/1QvMF8zo4vYf1eidom6ttu) | 3:35 | 2022-06-24 | 2022-07-28 |
-| [Shitsumon Koitte nandeshoka?](https://open.spotify.com/track/1326FQlUVBka5CAXiQFO1J) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [Shitsumon Koitte nandeshoka?](https://open.spotify.com/album/3M1bxF7NfXS2cWqTgJadkp) | 3:03 | 2025-05-01 |  |
+| [Shitsumon Koitte nandeshoka?](https://open.spotify.com/track/1326FQlUVBka5CAXiQFO1J) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [Shitsumon Koitte nandeshoka?](https://open.spotify.com/album/3M1bxF7NfXS2cWqTgJadkp) | 3:03 | 2025-05-01 | 2025-07-16 |
 | [Shocking Blue](https://open.spotify.com/track/145OU4a7G4LDxXHdFgYihs) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [水彩 〜aquaveil〜](https://open.spotify.com/album/3mZyjIzuaf2jygCr1CXzKc) | 3:57 | 2022-06-09 | 2022-06-20 |
 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 | 2022-07-28 | 2023-12-20 |
 | [Shooting Star](https://open.spotify.com/track/5CQckhFOdIUS1N4dAiFtNP) | [RAKURA](https://open.spotify.com/artist/3voKaAQ6dZPw9gMA7KOTcP) | [tint](https://open.spotify.com/album/5Y292CKdDGO2PEOHvGaAWe) | 2:37 | 2022-06-12 | 2022-07-27 |
@@ -371,6 +371,7 @@
 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 | 2022-06-09 | 2023-11-02 |
 | [U \- English Version](https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:03 | 2022-06-09 | 2024-02-14 |
 | [Ubugoe](https://open.spotify.com/track/67nn4UD5fNA3mr8x8OC32I) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Ubugoe](https://open.spotify.com/album/6qCvYCgfFoHewD2lhYcjRN) | 6:15 | 2022-07-07 | 2022-07-28 |
+| [Umitsuki](https://open.spotify.com/track/5sOBHWI4sOD97ehTuyOmje) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Umitsuki](https://open.spotify.com/album/1Ya70Aru87xcxmZTLuMs6F) | 4:00 | 2025-07-15 |  |
 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 | 2024-07-03 |  |
 | [Unraveling Love ～少しの勇気～](https://open.spotify.com/track/5md0Hl1syIT8yVFNGT5ivz) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [Unraveling Love ～少しの勇気～](https://open.spotify.com/album/1Rz0ltaSUekzygaaybSpf8) | 3:52 | 2023-11-07 | 2023-11-18 |
 | [Vanilla Solt](https://open.spotify.com/track/1FiF0IfGpgW77URtHBWqyU) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Best Album](https://open.spotify.com/album/0Dn3MxWI1u4fzRtXX955MD) | 5:04 | 2022-06-14 | 2022-06-22 |

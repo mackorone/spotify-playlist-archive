@@ -1,6 +1,6 @@
 {
   "description": "Upbeat songs that will get the whole family feelin' good!",
-  "num_followers": 8837,
+  "num_followers": 8838,
   "original_name": "Feeling Good",
   "owner": {
     "name": "Spotify",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/6K4chJALBBMYmXjwgvqahx"
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK"
       },
       "artists": [
         {
           "name": "BTS",
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/0t1kP63rueHleOhQkYSXFY"
+      "duration_ms": 229773,
+      "name": "Boy With Luv (feat. Halsey)",
+      "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
     },
     {
       "added_at": "2023-08-18 10:08:43",
@@ -1131,22 +1135,18 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
-        "name": "MAP OF THE SOUL : PERSONA",
-        "url": "https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK"
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/6K4chJALBBMYmXjwgvqahx"
       },
       "artists": [
         {
           "name": "BTS",
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 229773,
-      "name": "Boy With Luv (feat. Halsey)",
-      "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/0t1kP63rueHleOhQkYSXFY"
     },
     {
       "added_at": "2023-08-18 10:08:43",

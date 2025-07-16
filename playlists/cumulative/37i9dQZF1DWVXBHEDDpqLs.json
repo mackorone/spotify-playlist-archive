@@ -2095,6 +2095,28 @@
     },
     {
       "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/27AIBRCAd2OxJLnuVGpLTY"
+      },
+      "artists": [
+        {
+          "name": "Fold",
+          "url": "https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8"
+        },
+        {
+          "name": "cu.rve",
+          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291500,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/3B7DEjXs1lyFLHGqtxjSbq"
+    },
+    {
+      "album": {
         "name": "PAPADHD",
         "url": "https://open.spotify.com/album/3xSTiWi5vmorI5pNS3HhJ5"
       },
@@ -3474,7 +3496,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 160500,
       "name": "Diana",
       "url": "https://open.spotify.com/track/1R4rTvpBepK8GXTWVCzcx3"
@@ -4850,6 +4872,24 @@
       "duration_ms": 492267,
       "name": "Frekm, Pt. 2",
       "url": "https://open.spotify.com/track/4mZvW40n4uYK8f06Be7bxN"
+    },
+    {
+      "album": {
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/2SOtXYZzOZScgZmB1X6nEl"
+      },
+      "artists": [
+        {
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279680,
+      "name": "Frostbite",
+      "url": "https://open.spotify.com/track/3iIppdAcj5wFA1oOK090Yd"
     },
     {
       "album": {
@@ -12572,7 +12612,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 250859,
       "name": "Top Shotta",
       "url": "https://open.spotify.com/track/0FzkIzLle6uP0BHBj0iFHt"

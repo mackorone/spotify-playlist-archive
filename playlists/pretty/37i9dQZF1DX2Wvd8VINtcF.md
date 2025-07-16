@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨kwn✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,206 likes - 117 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,205 likes - 117 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

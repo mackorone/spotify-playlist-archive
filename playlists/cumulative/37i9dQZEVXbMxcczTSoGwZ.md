@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,688 songs - 5 day 21 hr 20 min
+2,689 songs - 5 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -924,6 +924,7 @@
 | [Jumala tai naapuri](https://open.spotify.com/track/22FL0hIr4N4YM4qDTe2EDw) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jumala tai naapuri](https://open.spotify.com/album/7Jqy38QCSP3NrCFxTkmy4d) | 3:21 | 2023-01-15 | 2023-01-20 |
 | [Jumalan selän takana](https://open.spotify.com/track/27eLu2vGzmGkpwjiWX1hqX) | [Pyhimys](https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Jumalan selän takana](https://open.spotify.com/album/5HJH9cMbOVO9eYd3Gau3ey) | 3:03 | 2022-12-03 | 2023-02-01 |
 | [Jumalan terve \(feat\. LAVV\)](https://open.spotify.com/track/0bnvukHoSfdKrIgVbHFiA8) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [LAVV](https://open.spotify.com/artist/3IniEdNsQX7ygA9ueGVfqW) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 3:19 | 2024-11-16 | 2024-11-18 |
+| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-15 |  |
 | [Junantuoma](https://open.spotify.com/track/40e8TR8DjJSpen3oPyfreL) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Se viimeinen kesä](https://open.spotify.com/album/6TG9XU23PKWwi3F3UkB4PH) | 3:11 | 2022-05-14 | 2022-05-16 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-03 |
 | [Juo \(feat\. Tasis\)](https://open.spotify.com/track/0p7XoJ1xnCmhiIXYUtNBBS) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B), [Tasis](https://open.spotify.com/artist/33jNX20zbFQbqTGKt0wsF9) | [Juo \(feat\. Tasis\)](https://open.spotify.com/album/1aE43Z2CPs3VtPbvb9y8oa) | 2:51 | 2021-06-20 | 2021-07-02 |
@@ -2528,7 +2529,7 @@
 | [Viimeinen kuulutus](https://open.spotify.com/track/1NKyomIMeDReZTpcZhJ0h7) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Viimeinen kuulutus](https://open.spotify.com/album/1PoLEGcjRHGA3hcNBpJEQz) | 3:11 | 2024-12-07 | 2025-01-11 |
 | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/track/6cbIICgbxjXqt90w3xMJrH) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/album/1ZonF7ec14BnRP96ifuD96) | 2:44 | 2024-07-06 | 2024-09-29 |
 | [Viimeinen tanssi](https://open.spotify.com/track/39yHmPnviyu4dxSqMU9SQ7) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Viimeinen tanssi](https://open.spotify.com/album/4in73tSouBxV3pESwjLT5M) | 3:42 | 2023-05-27 | 2023-09-24 |
-| [Viimeinen tanssi](https://open.spotify.com/track/643oAKTJRrWg6sd7Npc0Qk) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:42 | 2023-09-23 |  |
+| [Viimeinen tanssi](https://open.spotify.com/track/643oAKTJRrWg6sd7Npc0Qk) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:42 | 2023-09-23 | 2025-07-16 |
 | [Viimeinen tekoni](https://open.spotify.com/track/06G9w3cEqRAHaNhIgnefP3) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Sanon sen nyt ääneen](https://open.spotify.com/album/3Xd7lz68EkuMkm7uSDjYeb) | 2:39 | 2024-11-09 | 2024-11-15 |
 | [Viimeiset romantikot](https://open.spotify.com/track/37dGW3mmdqh6QX41CBuBYJ) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Viimeinen romantikko](https://open.spotify.com/album/7IosFLQa3Pp4HM0NEQkr5b) | 3:16 | 2021-09-26 | 2021-09-27 |
 | [Viimeisiä sanoja](https://open.spotify.com/track/3STatpBP2zJ1CTca7PRSKp) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Viimeisiä sanoja](https://open.spotify.com/album/6xI7ijnlOk4KAdfu5nUuD0) | 3:29 | 2023-02-11 | 2023-09-17 |

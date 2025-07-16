@@ -6954,7 +6954,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 153230,
       "name": "BORDEL",
       "url": "https://open.spotify.com/track/62fNVyXaqfWkWlDiDrGyw2"
@@ -8458,7 +8458,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 184789,
       "name": "CHAMPAIN & VACAY",
       "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
@@ -14254,7 +14254,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 163000,
       "name": "EUROVISION SONG",
       "url": "https://open.spotify.com/track/5QnoOIuKwKnJmnLlexBEAY"
@@ -27213,6 +27213,28 @@
     },
     {
       "album": {
+        "name": "BAD BOY 3 (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4Pq3pRbrmoahRSmPR28aTj"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154300,
+      "name": "MAZI",
+      "url": "https://open.spotify.com/track/1rcvGeIozgnRzLdsPQbhTd"
+    },
+    {
+      "album": {
         "name": "MADE UNDER PRESSURE",
         "url": "https://open.spotify.com/album/7LDIcqnXyqQtd3l6XUILwz"
       },
@@ -29634,7 +29656,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "MOU ZITAS",
       "url": "https://open.spotify.com/track/3Q3e0KMeCinQONCLJyO69X"
@@ -29690,7 +29712,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"

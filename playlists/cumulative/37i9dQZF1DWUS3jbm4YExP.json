@@ -4773,6 +4773,32 @@
     },
     {
       "album": {
+        "name": "Faut Pas F\u00e2cher",
+        "url": "https://open.spotify.com/album/0iXngKfoH4fVxCLDuA7BYr"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        },
+        {
+          "name": "Neyl",
+          "url": "https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD"
+        },
+        {
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Faut Pas F\u00e2cher",
+      "url": "https://open.spotify.com/track/7IIdpOnUp1e5s56pvXPxZF"
+    },
+    {
+      "album": {
         "name": "Miniatures de auto rhythm",
         "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
       },
@@ -4820,7 +4846,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 197172,
       "name": "Felony",
       "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"

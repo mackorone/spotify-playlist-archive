@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-07-11 06:17:55",
       "album": {
+        "name": "Perfectly",
+        "url": "https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 230797,
+      "name": "Perfectly",
+      "url": "https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg"
+    },
+    {
+      "added_at": "2025-07-11 06:17:55",
+      "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/7HkMD4BxwBZIqH8SABg43O"
       },

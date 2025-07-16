@@ -4,7 +4,7 @@
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-248 songs - 14 hr 37 min
+249 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Brrr Get$](https://open.spotify.com/track/4kiD38roQQBlqEGMyTJXXh) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [JOWOOCHAN](https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Show Me the Money 6 Episode 3](https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa) | 4:23 | 2022-06-03 | 2024-07-03 |
 | [Bruise](https://open.spotify.com/track/3A7lLlC45v16o5vKgeWIeI) | [Hahm Yechan](https://open.spotify.com/artist/43xPlVmF7ldz5cMXIFO82q) | [Bruise](https://open.spotify.com/album/5jI9pT85DXLdjp7slAE2GX) | 2:44 | 2022-05-23 | 2022-07-27 |
 | [By Your Side](https://open.spotify.com/track/0v8d3lAWxtrcvLRM4nzFpb) | [Sleepy](https://open.spotify.com/artist/5qp3vJC5OdDo1Zsrsl3sIR) | [By Your Side](https://open.spotify.com/album/11x3zXyqfvsSxLBZ0iU6l5) | 3:01 | 2022-05-23 | 2022-07-27 |
-| [Candy \(Feat\. Zion.T\)](https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Candy](https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa) | 3:06 | 2024-07-02 |  |
+| [Candy \(Feat\. Zion.T\)](https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Candy](https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa) | 3:06 | 2024-07-02 | 2025-07-16 |
 | [Champagne](https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:06 | 2022-05-23 | 2024-07-03 |
 | [Cherry Blossom](https://open.spotify.com/track/38IgdZHJTocWKxfEMDytEn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Cherry Blossom](https://open.spotify.com/album/2zee1zbiVi9SyM3nQZDyIL) | 4:04 | 2022-05-23 | 2022-07-29 |
 | [Cliché](https://open.spotify.com/track/7maoXaabrYqwTMPpHbx1Kl) | [Won Jang](https://open.spotify.com/artist/0qygfMwBnBWSto1ty1FmXS) | [Cliché](https://open.spotify.com/album/3MMfLd9Tr388dAryxUaJHN) | 3:44 | 2022-06-18 | 2022-06-30 |
@@ -157,6 +157,7 @@
 | [NoNo \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Show Me the Money 777 Semi Final](https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up) | 5:29 | 2022-07-22 | 2024-04-19 |
 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 | 2022-12-21 |  |
 | [OHAYO MY NIGHT](https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR), [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp) | [OHAYO MY NIGHT](https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8) | 3:58 | 2024-07-02 |  |
+| [On the street \(Feat\. ASH ISLAND\)](https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [On the street](https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU) | 3:29 | 2025-04-09 |  |
 | [ORIGINAL \(Feat\. Sion\) \(Prod\. R.Tee\)](https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:12 | 2023-01-03 | 2024-07-03 |
 | [Oscar](https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Golden](https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H1GHR : BLUE TAPE](https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ) | 3:08 | 2024-07-02 |  |
 | [Paid in seoul \(Feat\. Woo\)](https://open.spotify.com/track/0BbeyuHOVpNSsoADCQFpak) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:32 | 2022-06-03 | 2022-07-25 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy summer 2025 ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,074 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,085 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baille](https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Baille](https://open.spotify.com/album/3070nvzG2FbwF1H3oYmMFs) | 2:33 |
 | 2 | [Sun Is Rising](https://open.spotify.com/track/0PoUwYvKs4n36lSbVgHqjC) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG) | [Sun Is Rising](https://open.spotify.com/album/22NUPu3hXxi59AC1yJpNxk) | 1:59 |
-| 3 | [Mad World](https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Mad World](https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV) | 2:22 |
-| 4 | [Nice To Meet You](https://open.spotify.com/track/7aqMJXYWsY7VyrN7VwnDJQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [Feeve](https://open.spotify.com/artist/4rrjE7dP1gP5c8py2g4YFv) | [Nice To Meet You](https://open.spotify.com/album/7fqnsXle51dKCrmuqFwg14) | 2:18 |
+| 3 | [Nice To Meet You](https://open.spotify.com/track/7aqMJXYWsY7VyrN7VwnDJQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [Feeve](https://open.spotify.com/artist/4rrjE7dP1gP5c8py2g4YFv) | [Nice To Meet You](https://open.spotify.com/album/7fqnsXle51dKCrmuqFwg14) | 2:18 |
+| 4 | [Mad World](https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Mad World](https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV) | 2:22 |
 | 5 | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/track/3RQHMgJrpWmWaTNbB5svBx) | [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj), [Jorden Dux](https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/album/0nSnzGCV5AvTxOgO3weiou) | 2:04 |
 | 6 | [Home \(feat\. Colton Avery\)](https://open.spotify.com/track/0dCfYzXOi9msy1x9kY7Kw6) | [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Colton Avery](https://open.spotify.com/artist/4ofP6JslAsDOIaQSOfR8mV) | [Home \(feat\. Colton Avery\)](https://open.spotify.com/album/0pDDhfiuoKcLPEDfJdjIYO) | 2:27 |
 | 7 | [Waves \- :DARREN Remix](https://open.spotify.com/track/3o4evb4nIjAthxMify0LrF) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [:DARREN](https://open.spotify.com/artist/2qMQoOiPuxNiXRay6VE3Yf) | [Waves \(:DARREN Remix\)](https://open.spotify.com/album/3XeVEDhRpAfNoCH3O46gto) | 4:32 |

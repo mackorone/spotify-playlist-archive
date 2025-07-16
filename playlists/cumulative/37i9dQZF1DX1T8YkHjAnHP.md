@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-249 songs - 23 hr 16 min
+250 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Groove On](https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Groove On](https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ) | 3:29 | 2025-05-14 |  |
 | [Guinea Pig \- DJ Koze Remix Vocal Variation](https://open.spotify.com/track/6IWLTWOa8hvLMJkzrS223B) | [Ben Watt](https://open.spotify.com/artist/4RIOH6XCUt1Xr8NLUj2u66), [Julia Biel](https://open.spotify.com/artist/0yVDB69ZMFp6w9iSKXz4J9) | [Buzzin' Fly Anthology, Vol\. 4, 2009\-2010](https://open.spotify.com/album/64LQJTm5FO2uqE7qzCehal) | 7:36 | 2023-09-11 | 2025-05-15 |
 | [Heart feat\. Jeena](https://open.spotify.com/track/1piIOq3lLHXIR6IGJWK9Pn) | [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL), [Jeena](https://open.spotify.com/artist/1ZNSVOjstNMHE9EPiWFzJP) | [Human Strangers EP](https://open.spotify.com/album/6gytHVQlb9Zo8mD8ij2jZU) | 4:16 | 2024-09-06 |  |
+| [Heavy On My Mind feat\. SKYE \- Radio Edit](https://open.spotify.com/track/45C7A63DA4PMshgKYtCHxB) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Skye](https://open.spotify.com/artist/5e8LRy323xeJh0sGtifjGn) | [Heavy On My Mind feat\. SKYE](https://open.spotify.com/album/1MrykMJXH1JnBTDEFsYFgk) | 2:57 | 2025-07-15 |  |
 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 | 2022-08-02 | 2023-08-29 |
 | [Henna](https://open.spotify.com/track/1ObGyzfxrBrVSPNChYHRv1) | [Capoon](https://open.spotify.com/artist/6aO0WPJPV318xBCEVSJ5td) | [April EP](https://open.spotify.com/album/0cP1JVdGzZQTVV4WbbWt4P) | 6:19 | 2022-12-12 | 2023-11-05 |
 | [Henna](https://open.spotify.com/track/28GQ3bPbeW4UXJhqgE4irh) | [Capoon](https://open.spotify.com/artist/6aO0WPJPV318xBCEVSJ5td) | [April EP](https://open.spotify.com/album/1h685ErLqz0XTrWqyZSOBp) | 6:19 | 2023-10-23 | 2023-11-07 |

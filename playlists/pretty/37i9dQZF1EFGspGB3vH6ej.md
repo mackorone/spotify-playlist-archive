@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,296 likes - 250 songs - 17 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,297 likes - 250 songs - 17 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 68 | [Circles](https://open.spotify.com/track/7qUBGRnOfmAaaCC5ZAqPCG) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:30 |
 | 69 | [Heroe](https://open.spotify.com/track/5XBzK0sl4y38zHLojqSIMM) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/4AZuAL2kW50TJwHTNAvie2) | 4:17 |
 | 70 | [When I Saw You](https://open.spotify.com/track/3Iq58ceNpVxghuRWqMLGHy) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:23 |
-| 71 | [When Christmas Comes](https://open.spotify.com/track/1dTzXtog6vWqdLc7BgRScw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Merry Christmas \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/0cS9prZ8u3fdbc7lmtCaMV) | 4:46 |
-| 72 | [Giving Me Life \(feat\. Slick Rick & Blood Orange\)](https://open.spotify.com/track/5xpX9WrjPZyFkmaKonnzlT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 6:08 |
+| 71 | [Giving Me Life \(feat\. Slick Rick & Blood Orange\)](https://open.spotify.com/track/5xpX9WrjPZyFkmaKonnzlT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 6:08 |
+| 72 | [When Christmas Comes](https://open.spotify.com/track/1dTzXtog6vWqdLc7BgRScw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Merry Christmas \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/0cS9prZ8u3fdbc7lmtCaMV) | 4:46 |
 | 73 | [Head Over Heels \- James Roe Remix](https://open.spotify.com/track/11dhySFZw0ZslqkOYnPqak) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [James Roe](https://open.spotify.com/artist/4thaQBgJWwxUGFoxm7glpF) | [Head Over Heels \(James Roe Remix\)](https://open.spotify.com/album/3OJCysYeuhIA3rPbu7qLrU) | 3:04 |
 | 74 | [We Belong Together \- Remix](https://open.spotify.com/track/1utrsYxa4IA9zzpLdIxpHB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 4:25 |
 | 75 | [Melt Away](https://open.spotify.com/track/7c010UJj6NGc5QcM8EaIt3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:40 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 249 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 250 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `Ab2ycAAAAADnyC2FwK7Zu99ZQqwmCxf3`
+Snapshot ID: `Ab236AAAAAAshtvhQerjvsvn/GrPE6az`

@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "2000 Excursion",
+        "url": "https://open.spotify.com/album/3DL7tqrKjVIJKD83eryeWA"
+      },
+      "artists": [
+        {
+          "name": "BOYS JACK 2",
+          "url": "https://open.spotify.com/artist/0F8keAM2QD313pCUDfxSMy"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217770,
+      "name": "2000 Excursion",
+      "url": "https://open.spotify.com/track/2k9swn5eu6iPFNTEBuDOEa"
+    },
+    {
+      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
@@ -332,7 +350,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 222986,
       "name": "2000 EXCURSION",
       "url": "https://open.spotify.com/track/6Gp3pYkydEOkl8EHHJxa9s"
@@ -6420,7 +6438,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 173217,
       "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
       "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
@@ -7628,10 +7646,6 @@
         {
           "name": "Don Toliver",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
         }
       ],
       "date_added": "2025-07-14",
@@ -8442,7 +8456,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 272410,
       "name": "CONTEST",
       "url": "https://open.spotify.com/track/7ydu79RLStYQTOi1OM6Dvg"
@@ -9052,7 +9066,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -19804,7 +19818,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 78492,
       "name": "Interlude : Showtime",
       "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
@@ -21384,10 +21398,6 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "date_added": "2025-07-14",
@@ -21668,7 +21678,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 152805,
       "name": "Ko t\u0101?",
       "url": "https://open.spotify.com/track/6wB3XstB0c2yO2iMLKnCDg"
@@ -27200,7 +27210,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 174532,
       "name": "MM3",
       "url": "https://open.spotify.com/track/2D8i2yY8z3kB5gRaUJ5weK"
@@ -32240,7 +32250,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 173285,
       "name": "Pasarg' dievs",
       "url": "https://open.spotify.com/track/15mI8eh3ke97hPb8gZQxyh"
@@ -34120,7 +34130,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 206032,
       "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
       "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
@@ -35342,7 +35352,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -35360,7 +35370,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -40230,7 +40240,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 313626,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/0ZfByLXCeKchuj7zi1CJ0S"
@@ -42910,7 +42920,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 230880,
       "name": "The Sun, The Wine and You",
       "url": "https://open.spotify.com/track/6rYfWhx94NEPTxeaGQbHIx"
@@ -45758,7 +45768,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 186825,
       "name": "Vasara bez internetiem",
       "url": "https://open.spotify.com/track/3maYYnfz7XjjUvI9uwWLVv"
@@ -45838,7 +45848,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 144841,
       "name": "VELOUR",
       "url": "https://open.spotify.com/track/56jNpLhqZaI5IfJwwMdkRQ"

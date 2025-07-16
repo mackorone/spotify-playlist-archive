@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 419404,
+  "num_followers": 419463,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAABcF4LIS8f9vcFwPBcxqL0b",
+  "snapshot_id": "aHRIgAAAAABG0sp9zGl6izdNluG4ZpzV",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Coming For You",
-      "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 156000,
       "name": "Slim Pickens Does The Right Thing And Rides The Bomb To Hell",
       "url": "https://open.spotify.com/track/1feH81BVs89SplmcJzuh1F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Coming For You",
+      "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Defy You",
-      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Out For #1",
         "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Defy You",
+      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUPERCHARGED",
         "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ok, But This Is The Last Time (Piano Version)",
-        "url": "https://open.spotify.com/album/12G99PyLjvqZP8rgtVZxe4"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 207629,
-      "name": "Ok, But This Is The Last Time - Piano Version",
-      "url": "https://open.spotify.com/track/1ER7vCZkCWOhPVfq76PLcQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 241786,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ok, But This Is The Last Time (Piano Version)",
+        "url": "https://open.spotify.com/album/12G99PyLjvqZP8rgtVZxe4"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 207629,
+      "name": "Ok, But This Is The Last Time - Piano Version",
+      "url": "https://open.spotify.com/track/1ER7vCZkCWOhPVfq76PLcQ"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Kristy, Are You Doing Okay?",
-      "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 189813,
       "name": "Secrets From The Underground",
       "url": "https://open.spotify.com/track/1KblaMkte0ZEyk9k6kLW92"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Kristy, Are You Doing Okay?",
+      "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Takes Me Nowhere",
-      "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 142413,
       "name": "Dividing By Zero",
       "url": "https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Takes Me Nowhere",
+      "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
     },
     {
       "added_at": null,

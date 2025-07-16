@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Bars and BBQs",
+        "url": "https://open.spotify.com/album/5QnYhS0d7Rdm51J1WAgFt5"
+      },
+      "artists": [
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165813,
+      "name": "Bars and BBQs",
+      "url": "https://open.spotify.com/track/0B0uNI2m1ACui50VLP3mcB"
+    },
+    {
+      "album": {
         "name": "fusion.",
         "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
@@ -9748,7 +9766,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 236873,
       "name": "To You (feat. Robert Glasper, Emi Secrest)",
       "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"

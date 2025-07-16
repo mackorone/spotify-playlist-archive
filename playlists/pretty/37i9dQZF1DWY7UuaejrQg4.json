@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 89262,
+  "num_followers": 89284,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Lookalike",
+      "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "The Now Now",
         "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 197933,
       "name": "Humility (feat. George Benson)",
       "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Lookalike",
-      "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Pristine",
+      "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Safe In The Hands of Love",
         "url": "https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 278311,
       "name": "Licking An Orchid",
       "url": "https://open.spotify.com/track/3pihS07XVQEavaS9n7kObt"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "In the Sky",
-        "url": "https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE"
     }
   ],
   "unique_name": "Best of Indie 2018",

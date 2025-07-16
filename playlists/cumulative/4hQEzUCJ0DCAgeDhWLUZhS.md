@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-514 songs - 1 day 6 hr 8 min
+515 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Puppets Can’t Control You](https://open.spotify.com/track/1J5xY3cpHnTnfPTkUnktwI) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can’t Control You](https://open.spotify.com/album/5Sy2lygukJmycmwJ2sLr0K) | 3:14 | 2025-01-24 |  |
 | [Purge The Poison](https://open.spotify.com/track/1sy0mqUBREJx0A89UsIkIl) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Purge The Poison](https://open.spotify.com/album/4l15cBxcsMtKozzTLPsXnc) | 3:16 | 2021-04-16 | 2022-03-18 |
 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 | 2023-05-26 | 2025-06-04 |
+| [Rain Your Blood On Me](https://open.spotify.com/track/6JriCfDvNyAj4QmEG1HciK) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Rain Your Blood On Me](https://open.spotify.com/album/5nVX7E3Cu7dREQeBle4FRW) | 4:14 | 2025-07-16 |  |
 | [Ramona](https://open.spotify.com/track/5EfK3DZoPOzmVmN29GJKIm) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Ramona](https://open.spotify.com/album/5JKsvGrCimdMGjvuQGctG3) | 3:48 | 2020-11-03 | 2022-03-18 |
 | [Rat Child](https://open.spotify.com/track/66CEx5RXkj0REpMhl0CmQ5) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Rat Child](https://open.spotify.com/album/1tYVq6PBS2N0lEiZ8Hq4KE) | 5:01 | 2021-06-19 | 2022-03-18 |
 | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv) | 2:52 | 2022-01-21 | 2025-05-28 |

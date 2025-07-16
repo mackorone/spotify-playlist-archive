@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 647821,
+  "num_followers": 647852,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAAC7oYSUfHn0Qg0vx9wxR3vR",
+  "snapshot_id": "aHRIgAAAAAAsSzGI0Yc5D8bf6Y8LTECk",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "Tougher Than the Rest",
-      "url": "https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 216253,
       "name": "Sandpaper (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "Tougher Than the Rest",
+      "url": "https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "Brilliant Disguise",
-      "url": "https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rising",
         "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 256133,
       "name": "Waitin' On A Sunny Day",
       "url": "https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "Brilliant Disguise",
+      "url": "https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0"
     },
     {
       "added_at": null,
@@ -488,25 +488,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 82226,
-      "name": "Little Girl Like You",
-      "url": "https://open.spotify.com/track/28EWvSxtUKaTOzXjrc9Jwc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 245360,
-      "name": "Lonesome Day",
-      "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
+      "duration_ms": 233226,
+      "name": "Follow That Dream",
+      "url": "https://open.spotify.com/track/05bNV0j3tWX008cxkJA8YT"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
       "duration_ms": 237440,
       "name": "Prove It All Night",
       "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 245360,
+      "name": "Lonesome Day",
+      "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 233226,
-      "name": "Follow That Dream",
-      "url": "https://open.spotify.com/track/05bNV0j3tWX008cxkJA8YT"
+      "duration_ms": 82226,
+      "name": "Little Girl Like You",
+      "url": "https://open.spotify.com/track/28EWvSxtUKaTOzXjrc9Jwc"
     },
     {
       "added_at": null,

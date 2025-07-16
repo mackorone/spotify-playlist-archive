@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-230 songs - 17 hr 31 min
+231 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Main Tere Ishq Mein](https://open.spotify.com/track/1wHja2c6BNGxMDiNVkO1C5) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Loafer](https://open.spotify.com/album/5KF5oozgwfL60Ku9ND0elO) | 4:46 | 2024-04-08 |  |
 | [Main Zindagi Ka Saath Nibhata Chala Gaya](https://open.spotify.com/track/07Fwpys1NEj18b4LBoIeCy) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Hum Dono \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j7tLPiLgd645zG6qc5oit) | 3:50 | 2021-09-29 |  |
 | [Maine Tere Liye](https://open.spotify.com/track/0uiEephYATwDpp0DtBtf6d) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Anand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5YS9C9LtFu5GEIAFGfQZTJ) | 3:06 | 2021-09-29 |  |
-| [Mana Janab Ne Pukara Nahin](https://open.spotify.com/track/1vsR89NNnQ0YUxC4fZcoVA) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Paying Guest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6yqu6Rc7NqKZw9SSmTlLay) | 4:07 | 2023-05-02 |  |
+| [Mana Janab Ne Pukara Nahin](https://open.spotify.com/track/1vsR89NNnQ0YUxC4fZcoVA) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Paying Guest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6yqu6Rc7NqKZw9SSmTlLay) | 4:07 | 2023-05-02 | 2025-07-16 |
 | [Mera Joota Hai Japani](https://open.spotify.com/track/3ane0tGLYlOevmitYXQ9yy) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Shree 420](https://open.spotify.com/album/0WzbgAopzfxj49ucK5RXmE) | 4:28 | 2022-01-05 | 2022-07-23 |
 | [Mera Kuchh Samaan](https://open.spotify.com/track/1ktCVRr2DZdKpDmhEuHBq2) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Ijaazat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1WYIGp9ZDGLiv5DVsz1lMR) | 6:38 | 2021-09-29 | 2024-01-25 |
 | [Mera Saaya Saath Hoga \(From "Mera Saaya"\)](https://open.spotify.com/track/4XUPFhs4GiN3Mu1wv0MIcy) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lag Ja Gale \- Best of Lata Mangeshkar and Madan Mohan](https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow) | 6:03 | 2021-09-29 |  |
@@ -197,6 +197,7 @@
 | [Suhana Safar Aur Yeh Mausam](https://open.spotify.com/track/3V7K8wMXBKaf936CUDr3Bt) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Madhumati \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DUq0IMq75xMZuQpJKJSmm) | 3:49 | 2021-09-29 |  |
 | [Suhana Safar Aur Yeh Mausam](https://open.spotify.com/track/3zDclXNuaA2yd8SXBZ03VT) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Mukesh Ki Barfi](https://open.spotify.com/album/30AnFi0y2n2KZIHMzYhSWX) | 3:49 | 2024-04-08 | 2024-11-16 |
 | [Suhani Raat Dhal Chuki](https://open.spotify.com/track/1OTHxO5AO0XohUfKRRK03X) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Dulari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/48tk373peLIrbls4prqhzg) | 3:29 | 2022-01-05 | 2023-06-09 |
+| [Tadpaoge Tadpa Lo](https://open.spotify.com/track/0HYCmBzDv8QHEnT3mV16Hy) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Barkha](https://open.spotify.com/album/1yWQeyvUseGBpFEMpvl68Y) | 3:21 | 2025-07-15 |  |
 | [Tera Mujhse \- Aa Gale Lag Jaa / Soundtrack Version](https://open.spotify.com/track/32vCHGf7sTD261maALnCmt) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Sushma Shrestha](https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ) | [Mai Aur Tum](https://open.spotify.com/album/4hsD2SQIkVjyd2Sw0y2kbx) | 4:14 | 2023-05-02 | 2023-05-21 |
 | [Tera Mujhse \- From "Aa Gale Lag Jaa"](https://open.spotify.com/track/3Jj02N4CsUY8YAn2d03M4K) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Sushma Shrestha](https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Aa Gale Lag Jaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OnI8lR3OYG4XKSEtgudk2) | 4:14 | 2021-09-29 |  |
 | [Tera Mujhse \- From "Aa Gale Lag Jaa"](https://open.spotify.com/track/5ZitHRRotPvqopBbvmDUHi) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Sushma Shrestha](https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Kishore Kumar Most Loved Hits 2023](https://open.spotify.com/album/72yLAK3kpS2mktXo69c16J) | 4:14 | 2023-05-02 | 2024-04-19 |

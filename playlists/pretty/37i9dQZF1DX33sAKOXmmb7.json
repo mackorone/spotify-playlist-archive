@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 80257,
+  "num_followers": 80290,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Headlong",
-        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Far Too Good",
-      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "No Rain, No Rose",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 313078,
       "name": "I Am California",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Headlong",
+        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Far Too Good",
+      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "My Dearest Darkest Neighbor",
-        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "My Dearest Darkest Neighbor",
+        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Mangy Love",
-        "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
-      },
-      "artists": [
-        {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
-        }
-      ],
-      "duration_ms": 299671,
-      "name": "Bum Bum Bum",
-      "url": "https://open.spotify.com/track/5Ob2Wt2IifgoFrSFrBnRZJ"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Mangy Love",
+        "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 299671,
+      "name": "Bum Bum Bum",
+      "url": "https://open.spotify.com/track/5Ob2Wt2IifgoFrSFrBnRZJ"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Place I Left Behind",
-        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
-      },
-      "artists": [
-        {
-          "name": "The Deep Dark Woods",
-          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "The Place I Left Behind",
-      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 199853,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Place I Left Behind",
+        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
+      },
+      "artists": [
+        {
+          "name": "The Deep Dark Woods",
+          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "The Place I Left Behind",
+      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Love's Crushing Diamond",
-        "url": "https://open.spotify.com/album/63eYXtU9LBjEha4RIFeOsM"
-      },
-      "artists": [
-        {
-          "name": "Mutual Benefit",
-          "url": "https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea"
-        }
-      ],
-      "duration_ms": 305626,
-      "name": "Advanced Falconry",
-      "url": "https://open.spotify.com/track/6aA2LcC91SFaRgz0jPXZIa"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 271186,
       "name": "Live And Die",
       "url": "https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Love's Crushing Diamond",
+        "url": "https://open.spotify.com/album/63eYXtU9LBjEha4RIFeOsM"
+      },
+      "artists": [
+        {
+          "name": "Mutual Benefit",
+          "url": "https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea"
+        }
+      ],
+      "duration_ms": 305626,
+      "name": "Advanced Falconry",
+      "url": "https://open.spotify.com/track/6aA2LcC91SFaRgz0jPXZIa"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Been Listening",
-        "url": "https://open.spotify.com/album/6zhW0ymzbX1lgiJB2ptape"
-      },
-      "artists": [
-        {
-          "name": "Johnny Flynn",
-          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
-        },
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 254853,
-      "name": "The Water - feat. Laura Marling",
-      "url": "https://open.spotify.com/track/69FraOspp1B24ZFBqlUaoV"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "We the Common",
         "url": "https://open.spotify.com/album/5pwm1xcWT69NiRzZDwb1M1"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 156146,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/0WdfCa2a7iNxVDgsLnulyt"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Been Listening",
+        "url": "https://open.spotify.com/album/6zhW0ymzbX1lgiJB2ptape"
+      },
+      "artists": [
+        {
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
+        },
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 254853,
+      "name": "The Water - feat. Laura Marling",
+      "url": "https://open.spotify.com/track/69FraOspp1B24ZFBqlUaoV"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "White Lighter",
-        "url": "https://open.spotify.com/album/6wWfPxs1YJO21V4CqgTkCI"
-      },
-      "artists": [
-        {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6p6WlxIkeWH8yOYvciFfVl"
-        }
-      ],
-      "duration_ms": 243224,
-      "name": "Prosthetic Love",
-      "url": "https://open.spotify.com/track/4w7IW96rTnEQ6ZfnDfOozT"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Burst Apart",
         "url": "https://open.spotify.com/album/1VQq6vAHE5jKzvrRpizdx2"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 199865,
       "name": "I Don't Want Love",
       "url": "https://open.spotify.com/track/371oFaGHOqCmqRwx0XxEpo"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "White Lighter",
+        "url": "https://open.spotify.com/album/6wWfPxs1YJO21V4CqgTkCI"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6p6WlxIkeWH8yOYvciFfVl"
+        }
+      ],
+      "duration_ms": 243224,
+      "name": "Prosthetic Love",
+      "url": "https://open.spotify.com/track/4w7IW96rTnEQ6ZfnDfOozT"
     },
     {
       "added_at": "2024-08-28 14:05:36",

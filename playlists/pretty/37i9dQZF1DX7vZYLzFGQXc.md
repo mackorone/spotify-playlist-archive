@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김푸름 \(KIM PUREUM\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,779 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,781 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Listen to women at full volume. Cover: Sara Berki",
+  "description": "Listen to women at full volume. Cover: Kaylee Bell",
   "name": "EQUAL AU & NZ",
   "tracks": [
     {
@@ -366,6 +366,24 @@
       "duration_ms": 168624,
       "name": "ADELINE",
       "url": "https://open.spotify.com/track/5nyBSIq6IisubcU7xoPdoO"
+    },
+    {
+      "album": {
+        "name": "Adore Me",
+        "url": "https://open.spotify.com/album/7MU0A0HftyZLKZlExr8iAX"
+      },
+      "artists": [
+        {
+          "name": "Emily Wurramara",
+          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170566,
+      "name": "Adore Me",
+      "url": "https://open.spotify.com/track/3i3BPNx2LZtNK7thr7nYPk"
     },
     {
       "album": {
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 179681,
       "name": "Best Believe",
       "url": "https://open.spotify.com/track/4mt55zXhF2IyLbVhvsOLAb"
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 178770,
       "name": "Big Thoughts",
       "url": "https://open.spotify.com/track/0AFB7fRRCteQDHiKbBz3E7"
@@ -1466,6 +1484,24 @@
       "duration_ms": 194673,
       "name": "Black Cloud",
       "url": "https://open.spotify.com/track/7eKFpAosi1b37KQXHUVa7p"
+    },
+    {
+      "album": {
+        "name": "Blame It On Me",
+        "url": "https://open.spotify.com/album/5MFIzCR04bQxJDTfgbjbGY"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171147,
+      "name": "Blame It On Me",
+      "url": "https://open.spotify.com/track/6pZBCJsupkHOMqsLNKC2IH"
     },
     {
       "album": {
@@ -2166,7 +2202,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 292620,
       "name": "Can't Stand To Lose",
       "url": "https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs"
@@ -2220,7 +2256,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 157414,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG"
@@ -5634,7 +5670,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 199090,
       "name": "Girl on the Run",
       "url": "https://open.spotify.com/track/0vs3aUZFrub43yKs0lXUoV"
@@ -7401,6 +7437,24 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Go Home",
+        "url": "https://open.spotify.com/album/4N3Br72rwMUxSXZiBSOppL"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161782,
+      "name": "I Don't Wanna Go Home",
+      "url": "https://open.spotify.com/track/5JgVl5KixyY1fI2jsfoDt1"
+    },
+    {
+      "album": {
         "name": "I Get High",
         "url": "https://open.spotify.com/album/7EqCyZU3Fuv6tHAZ84JGTG"
       },
@@ -8617,6 +8671,24 @@
     },
     {
       "album": {
+        "name": "Kanana",
+        "url": "https://open.spotify.com/album/1xCw5CbamxGX0iWfQxLZky"
+      },
+      "artists": [
+        {
+          "name": "Bumpy",
+          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335958,
+      "name": "Kanana",
+      "url": "https://open.spotify.com/track/5KNbuqKLvnMkJpW29vcUgJ"
+    },
+    {
+      "album": {
         "name": "Karamata",
         "url": "https://open.spotify.com/album/3ATbcnGmSoHJm0ZhPWKuBt"
       },
@@ -8654,6 +8726,24 @@
       "duration_ms": 196000,
       "name": "Kawakawa",
       "url": "https://open.spotify.com/track/0UskdhhbACeXbohWfhzrt5"
+    },
+    {
+      "album": {
+        "name": "Cry About It",
+        "url": "https://open.spotify.com/album/7a3IwZ4Qiflsi0rrEYIEp9"
+      },
+      "artists": [
+        {
+          "name": "aleksiah",
+          "url": "https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161146,
+      "name": "Keep My Cool",
+      "url": "https://open.spotify.com/track/1jVgdNgIRhjCoJ4Pjbee0l"
     },
     {
       "album": {
@@ -8848,7 +8938,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 220662,
       "name": "Kiss Me Like You're Leaving",
       "url": "https://open.spotify.com/track/6rA5wCxRTEE5G2EWwrQY4e"
@@ -10018,6 +10108,24 @@
       "duration_ms": 190000,
       "name": "Mangos",
       "url": "https://open.spotify.com/track/2ckFO1sBiKvLQpuiB9jDaC"
+    },
+    {
+      "album": {
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/0sYOqV4dwy6dBs862Z4d89"
+      },
+      "artists": [
+        {
+          "name": "ILUKA",
+          "url": "https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/2EkbykDiLsmMBL5I27RH5e"
     },
     {
       "album": {
@@ -11852,7 +11960,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 222386,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/4xltSVuW1oEBr7jMiI4VLH"
@@ -12188,7 +12296,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 199380,
       "name": "Press Pause",
       "url": "https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ"
@@ -13663,6 +13771,24 @@
     },
     {
       "album": {
+        "name": "Slightly Below the Middle",
+        "url": "https://open.spotify.com/album/482NlLd6akGfyIlg2KqGh6"
+      },
+      "artists": [
+        {
+          "name": "Georgia Maq",
+          "url": "https://open.spotify.com/artist/5NeumLAB759fhEZ61o2Bed"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192357,
+      "name": "Slightly Below the Middle",
+      "url": "https://open.spotify.com/track/4iCHY1fIDHb1tJmJXr6iCE"
+    },
+    {
+      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/26KqpBmvqP47bBK734RAsM"
       },
@@ -15134,7 +15260,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 219812,
       "name": "The Hit",
       "url": "https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d"
@@ -15606,6 +15732,24 @@
       "duration_ms": 205599,
       "name": "Threads",
       "url": "https://open.spotify.com/track/15oHRVscvEQR8zBWzsMVjI"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/2JPBkJNbO1SOO3duRkJ4Md"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184436,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/2h1UMCTfPc3P2ko1D5tbNQ"
     },
     {
       "album": {
@@ -17484,6 +17628,24 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
+    },
+    {
+      "album": {
+        "name": "Your Villain",
+        "url": "https://open.spotify.com/album/6tOuaYl7fi4PzgCq5ehTaJ"
+      },
+      "artists": [
+        {
+          "name": "Molly Millington",
+          "url": "https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165011,
+      "name": "Your Villain",
+      "url": "https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx"
     },
     {
       "album": {

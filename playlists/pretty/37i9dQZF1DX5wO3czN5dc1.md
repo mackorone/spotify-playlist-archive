@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/4RYtjdGDorR1hFO3vjAdIO?si=fxLzEsNJTGWyQhpDnL\_8sA">Mbalenhle M</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,103 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,238 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

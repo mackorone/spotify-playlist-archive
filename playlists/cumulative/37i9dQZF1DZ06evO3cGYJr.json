@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "NOT_ALIVE//NOT_DEAD",
+        "url": "https://open.spotify.com/album/5Kee9b1Z0m6UmVYoi6Zhmy"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162420,
+      "name": "NOT_ALIVE//NOT_DEAD",
+      "url": "https://open.spotify.com/track/2httQkD46z4v7zpKFJh1NF"
+    },
+    {
+      "album": {
         "name": "HALCYON",
         "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
       },
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 162420,
       "name": "NOT_ALIVE//NOT_DEAD",
       "url": "https://open.spotify.com/track/6lFdELrYB1fLkVCAXJSMwU"
@@ -1586,6 +1604,24 @@
     {
       "album": {
         "name": "secrets!",
+        "url": "https://open.spotify.com/album/46yGNn4DLG05H0d7UMycEq"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229213,
+      "name": "secrets",
+      "url": "https://open.spotify.com/track/3m4aTcX05179QxhphJVL2T"
+    },
+    {
+      "album": {
+        "name": "secrets!",
         "url": "https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM"
       },
       "artists": [
@@ -1596,7 +1632,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 229213,
       "name": "secrets - natural accent version",
       "url": "https://open.spotify.com/track/0n0NOHtckswKyJWlP3r7aj"

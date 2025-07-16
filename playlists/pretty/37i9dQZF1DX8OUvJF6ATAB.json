@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 207310,
+  "num_followers": 207347,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
-      "added_at": "2024-09-04 14:50:14",
-      "album": {
-        "name": "th1 [evnslower]",
-        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 668246,
-      "name": "th1 [evnslower]",
-      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
-    },
-    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Gold Fiction Loop Garden",
@@ -279,6 +263,22 @@
       "duration_ms": 150045,
       "name": "Yellow Calcite",
       "url": "https://open.spotify.com/track/5eTpf3MIpOMYDbrrJNfTZQ"
+    },
+    {
+      "added_at": "2024-09-04 14:50:14",
+      "album": {
+        "name": "th1 [evnslower]",
+        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 668246,
+      "name": "th1 [evnslower]",
+      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
     },
     {
       "added_at": "2024-01-03 17:16:00",
@@ -911,38 +911,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Equivalents",
-        "url": "https://open.spotify.com/album/6U30ugActrLoDvKgESHFQs"
+        "name": "Caisson",
+        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
       },
       "artists": [
         {
           "name": "Loscil",
           "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        },
-        {
-          "name": "Secret Pyramid",
-          "url": "https://open.spotify.com/artist/1a4TAz1A8cp9SRNhOPXBM0"
         }
       ],
-      "duration_ms": 410133,
-      "name": "Equivalent 7",
-      "url": "https://open.spotify.com/track/2INERy7ISuQM07gKwjEVos"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Goatherder",
-        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
-      },
-      "artists": [
-        {
-          "name": "Capitol K",
-          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
-        }
-      ],
-      "duration_ms": 239794,
-      "name": "Landlocked",
-      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
+      "duration_ms": 469333,
+      "name": "Caisson",
+      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -959,6 +939,22 @@
       "duration_ms": 157312,
       "name": "Post Tropical Cyclone",
       "url": "https://open.spotify.com/track/2WkPJh5pGbUX0PDjrrNvmA"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Goatherder",
+        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
+      },
+      "artists": [
+        {
+          "name": "Capitol K",
+          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
+        }
+      ],
+      "duration_ms": 239794,
+      "name": "Landlocked",
+      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -995,18 +991,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Caisson",
-        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
+        "name": "Equivalents",
+        "url": "https://open.spotify.com/album/6U30ugActrLoDvKgESHFQs"
       },
       "artists": [
         {
           "name": "Loscil",
           "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        },
+        {
+          "name": "Secret Pyramid",
+          "url": "https://open.spotify.com/artist/1a4TAz1A8cp9SRNhOPXBM0"
         }
       ],
-      "duration_ms": 469333,
-      "name": "Caisson",
-      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
+      "duration_ms": 410133,
+      "name": "Equivalent 7",
+      "url": "https://open.spotify.com/track/2INERy7ISuQM07gKwjEVos"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Rest Easy",
+        "url": "https://open.spotify.com/album/2gRv2sAvdCDTC3irdT0qNJ"
+      },
+      "artists": [
+        {
+          "name": "Middle School",
+          "url": "https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB"
+        }
+      ],
+      "duration_ms": 157965,
+      "name": "Rest Easy",
+      "url": "https://open.spotify.com/track/22Qb7cWUbLMtdmBMnoG8qy"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Sequences",
         "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 548178,
       "name": "Mirror of Memories",
       "url": "https://open.spotify.com/track/0RHxI2zH3IIprnjJN5hhTf"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Rest Easy",
-        "url": "https://open.spotify.com/album/2gRv2sAvdCDTC3irdT0qNJ"
-      },
-      "artists": [
-        {
-          "name": "Middle School",
-          "url": "https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB"
-        }
-      ],
-      "duration_ms": 157965,
-      "name": "Rest Easy",
-      "url": "https://open.spotify.com/track/22Qb7cWUbLMtdmBMnoG8qy"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1161,6 +1161,22 @@
       "url": "https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On"
     },
     {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+      },
+      "artists": [
+        {
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Boreal",
+      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+    },
+    {
       "added_at": "2024-01-11 03:32:09",
       "album": {
         "name": "Solar Bridge",
@@ -1187,22 +1203,6 @@
       "duration_ms": 750293,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7os5F4kzYma6UM1zUMc7X8"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
-      },
-      "artists": [
-        {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Boreal",
-      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Signals Bulletin",
+        "url": "https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54"
+      },
+      "artists": [
+        {
+          "name": "ASUNA",
+          "url": "https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt"
+        },
+        {
+          "name": "Jan Jelinek",
+          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
+        }
+      ],
+      "duration_ms": 385998,
+      "name": "How A Spiral Works",
+      "url": "https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Picnic",
         "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
       },
@@ -1359,42 +1379,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Signals Bulletin",
-        "url": "https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54"
-      },
-      "artists": [
-        {
-          "name": "ASUNA",
-          "url": "https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt"
-        },
-        {
-          "name": "Jan Jelinek",
-          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
-        }
-      ],
-      "duration_ms": 385998,
-      "name": "How A Spiral Works",
-      "url": "https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Guidance in Dreams",
-        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
-      },
-      "artists": [
-        {
-          "name": "HEAVY CHEST",
-          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
-        }
-      ],
-      "duration_ms": 131879,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Endlessness",
         "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 199148,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Guidance in Dreams",
+        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
+      },
+      "artists": [
+        {
+          "name": "HEAVY CHEST",
+          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
+        }
+      ],
+      "duration_ms": 131879,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
     },
     {
-      "added_at": "2023-12-12 18:06:55",
-      "album": {
-        "name": "Twin Color (Extended Play No. 1)",
-        "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 358124,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/2o7fSWiT3vOVJEeJj8lQJE"
-    },
-    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "E2-XO",
@@ -1479,6 +1463,22 @@
       "duration_ms": 475965,
       "name": "XO 4 - Wolf 1061c",
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
+    },
+    {
+      "added_at": "2023-12-12 18:06:55",
+      "album": {
+        "name": "Twin Color (Extended Play No. 1)",
+        "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 358124,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/2o7fSWiT3vOVJEeJj8lQJE"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "The Long Count",
-        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
-      },
-      "artists": [
-        {
-          "name": "Debit",
-          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "1st Day",
-      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Light Splitting",
         "url": "https://open.spotify.com/album/1amD8zqzlpSivemeUCIylU"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Brancusi Sculpting Beyonce",
-        "url": "https://open.spotify.com/album/4IUTOlF0Hb0LRm2yfJUiId"
+        "name": "The Long Count",
+        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
       },
       "artists": [
         {
-          "name": "Lamin Fofana",
-          "url": "https://open.spotify.com/artist/6j6rR9uFQ6yYMDcxmqPMhf"
+          "name": "Debit",
+          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
         }
       ],
-      "duration_ms": 281714,
-      "name": "Searching For Memory",
-      "url": "https://open.spotify.com/track/47xKNeYXHnsFcISHzJpJxQ"
+      "duration_ms": 141500,
+      "name": "1st Day",
+      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Brancusi Sculpting Beyonce",
+        "url": "https://open.spotify.com/album/4IUTOlF0Hb0LRm2yfJUiId"
+      },
+      "artists": [
+        {
+          "name": "Lamin Fofana",
+          "url": "https://open.spotify.com/artist/6j6rR9uFQ6yYMDcxmqPMhf"
+        }
+      ],
+      "duration_ms": 281714,
+      "name": "Searching For Memory",
+      "url": "https://open.spotify.com/track/47xKNeYXHnsFcISHzJpJxQ"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Mammatus",
         "url": "https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5"
       },
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "A Biochemical Cascade",
-        "url": "https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt"
+        "name": "Limits",
+        "url": "https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu"
       },
       "artists": [
         {
-          "name": "Yann Novak",
-          "url": "https://open.spotify.com/artist/6OWE5QBb8V4viSlZLjJv0w"
+          "name": "Andrew Tasselmyer",
+          "url": "https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx"
         }
       ],
-      "duration_ms": 514000,
-      "name": "A Biochemical Cascade",
-      "url": "https://open.spotify.com/track/4L3vsz9MxEZ5kMiT6U8Yrm"
+      "duration_ms": 278000,
+      "name": "Possibilities",
+      "url": "https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V"
     }
   ],
   "unique_name": "Exospheres",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: DEBBY FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,067 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,076 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 68 | [Vespers](https://open.spotify.com/track/0dVe5DhGeNN2TUEtzQp63W) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/2I25MrGGWAIRtjjcZcf6xP) | 3:25 |
 | 69 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 |
 | 70 | [Bones And All](https://open.spotify.com/track/32NRHTXx7dWCBHaKtinsZ6) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [The Love I Showed You Was Yours To Keep](https://open.spotify.com/album/6mk2yI6dHBQSFlkFiuZXAn) | 3:14 |
-| 71 | [Unknown](https://open.spotify.com/track/1v2DncllklUbNrrXlTVd4h) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Unknown](https://open.spotify.com/album/67Su044sk5CBq6c6z03VEA) | 4:00 |
+| 71 | [Unknown](https://open.spotify.com/track/1v2DncllklUbNrrXlTVd4h) | [Verses GT](https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Unknown](https://open.spotify.com/album/67Su044sk5CBq6c6z03VEA) | 4:00 |
 | 72 | [Looking In from the Outside](https://open.spotify.com/track/5FH1xaoPF809A0kctXp3dj) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [100%WET](https://open.spotify.com/album/4hsQ77zmik94euR1aDkTUc) | 3:33 |
 | 73 | [I'm Your Dirt, I'm Your Love](https://open.spotify.com/track/72CUf7pWNkykpZ5dUxdGlb) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Jonatan](https://open.spotify.com/album/09N3Yw1yNAMNNXSUqnoV6l) | 2:51 |
 | 74 | [No Tengo Valor](https://open.spotify.com/track/16Eou1I5su9dxDKCYAVkmH) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [No Tengo Valor](https://open.spotify.com/album/7JvcNuFQT1h2e2IcyQUXhL) | 3:02 |

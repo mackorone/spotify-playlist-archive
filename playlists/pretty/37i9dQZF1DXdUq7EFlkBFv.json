@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 23582,
+  "num_followers": 23601,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "GD Anthem",
-        "url": "https://open.spotify.com/album/0vEwVgYvI4kNNLsszRi3zo"
-      },
-      "artists": [
-        {
-          "name": "Rooga",
-          "url": "https://open.spotify.com/artist/5zDlgTCrdCh2cFRX7nH8W1"
-        }
-      ],
-      "duration_ms": 190566,
-      "name": "GD Anthem",
-      "url": "https://open.spotify.com/track/0IAQb5BDqLI5ZlGVDiFArh"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Relentless (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 206533,
       "name": "Relentless (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "GD Anthem",
+        "url": "https://open.spotify.com/album/0vEwVgYvI4kNNLsszRi3zo"
+      },
+      "artists": [
+        {
+          "name": "Rooga",
+          "url": "https://open.spotify.com/artist/5zDlgTCrdCh2cFRX7nH8W1"
+        }
+      ],
+      "duration_ms": 190566,
+      "name": "GD Anthem",
+      "url": "https://open.spotify.com/track/0IAQb5BDqLI5ZlGVDiFArh"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 339249,
-      "name": "Off The Grid",
-      "url": "https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs"
+      "duration_ms": 297000,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
+      "duration_ms": 339249,
+      "name": "Off The Grid",
+      "url": "https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs"
     },
     {
       "added_at": "2022-10-01 16:17:17",

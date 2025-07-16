@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,566 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,756 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 45 | [Mirza](https://open.spotify.com/track/4YQW2LiQxh3efV2En95t6U) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Mirza](https://open.spotify.com/album/1ncdWtw7rFMrDYSI49bMWd) | 1:00 |
 | 46 | [Dekha Ji Dekha Maine](https://open.spotify.com/track/0SA1zJy9pTG3xMKmyhTWiH) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Dekha Ji Dekha Maine](https://open.spotify.com/album/63sBGKjucjka12r1vXvOnT) | 3:29 |
 | 47 | [PYAAR HUMARA](https://open.spotify.com/track/7y3qyt5vR7QBU51BFnfQ2q) | [KING](https://open.spotify.com/artist/2D6VatUrBCa9y4vmZNm3BI) | [PYAAR HUMARA](https://open.spotify.com/album/7syNlcl1mcB70xo3Y2sYyz) | 2:47 |
-| 48 | [Ghutt Ghutt](https://open.spotify.com/track/6Pli0rn0Z3Z11mQo6FIHGW) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Ghutt Ghutt](https://open.spotify.com/album/2fniIfHjJ8WjJ29Wr1D0lM) | 3:34 |
+| 48 | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/track/1mp0zS57ydCqZp9Tm4VvIy) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/album/2W6ZCzLC2pezmRYJQKbr2C) | 4:35 |
 | 49 | [Haaye Dard](https://open.spotify.com/track/5Guwp446UExa6M5SIibjfC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:56 |
-| 50 | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/track/1mp0zS57ydCqZp9Tm4VvIy) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/album/2W6ZCzLC2pezmRYJQKbr2C) | 4:35 |
+| 50 | [Ghutt Ghutt](https://open.spotify.com/track/6Pli0rn0Z3Z11mQo6FIHGW) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Ghutt Ghutt](https://open.spotify.com/album/2fniIfHjJ8WjJ29Wr1D0lM) | 3:34 |
 
-Snapshot ID: `aGy1kwAAAACT6uTu8pqXBJ34yux2B/yC`
+Snapshot ID: `aHZP2QAAAAC56RbdU+6jLIe5D6Jz+w/l`

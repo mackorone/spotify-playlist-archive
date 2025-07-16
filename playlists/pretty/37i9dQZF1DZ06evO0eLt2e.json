@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 30798,
+  "num_followers": 30804,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAABOjcISJ+x1BXFPdthwzzFE",
+  "snapshot_id": "aHRIgAAAAADiLukfHLWCX1gba+WHI6D9",
   "tracks": [
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Was a Capricorn",
-        "url": "https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs"
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 206960,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/6uMKkOEkPJRumFvAzo5nr9"
+      "duration_ms": 228000,
+      "name": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
+      "url": "https://open.spotify.com/track/0F56GAWK57E3iXohy9rCmT"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+        "name": "Jesus Was a Capricorn",
+        "url": "https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
-      "url": "https://open.spotify.com/track/0F56GAWK57E3iXohy9rCmT"
+      "duration_ms": 206960,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/6uMKkOEkPJRumFvAzo5nr9"
     },
     {
       "added_at": null,
@@ -807,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Lost Inside of You",
+      "url": "https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/3FikwA24sO6znBB98WYUs5"
       },
@@ -839,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Lost Inside of You",
-      "url": "https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -871,6 +871,38 @@
       "duration_ms": 178440,
       "name": "From the Bottle to the Bottom",
       "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highwayman 2",
+        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Songs That Make a Difference",
+      "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
     },
     {
       "added_at": null,
@@ -963,38 +995,6 @@
       "duration_ms": 241640,
       "name": "Boulder To Birmingham - Live",
       "url": "https://open.spotify.com/track/7BdOM9rzbOeyo7T1qZPMgQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highwayman 2",
-        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Songs That Make a Difference",
-      "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
     },
     {
       "added_at": null,
@@ -1215,6 +1215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Please Don't Tell Me How the Story Ends",
+      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Natural Act",
         "url": "https://open.spotify.com/album/2IvMbmUbKiExapaqMn3EWc"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 249520,
       "name": "Loving You Was Easier",
       "url": "https://open.spotify.com/track/13cL4LLa5jGliVReET6GRJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Please Don't Tell Me How the Story Ends",
-      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
     },
     {
       "added_at": null,
@@ -1300,9 +1300,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 152586,
-      "name": "Closer to the Bone",
-      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
     },
     {
       "added_at": null,
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+      "duration_ms": 152586,
+      "name": "Closer to the Bone",
+      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
     },
     {
       "added_at": null,

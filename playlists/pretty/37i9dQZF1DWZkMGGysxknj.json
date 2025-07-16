@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 855604,
+  "num_followers": 855445,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -719,26 +719,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Como Quisiera Quererte",
-        "url": "https://open.spotify.com/album/1zyxtpEhfxsb5QfpDzLReB"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 258036,
-      "name": "Como Quisiera Quererte",
-      "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Pumped Up Kicks (Acoustic Version)",
         "url": "https://open.spotify.com/album/5T7d2e1RIlkpU1h8hys6jE"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 174793,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Como Quisiera Quererte",
+        "url": "https://open.spotify.com/album/1zyxtpEhfxsb5QfpDzLReB"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 258036,
+      "name": "Como Quisiera Quererte",
+      "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Wayne Mack",
+        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Mack",
+          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
+        }
+      ],
+      "duration_ms": 193412,
+      "name": "Everything I wanted",
+      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 206557,
       "name": "Life on Mars",
       "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Wayne Mack",
-        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Mack",
-          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
-        }
-      ],
-      "duration_ms": 193412,
-      "name": "Everything I wanted",
-      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "If I Can't Have You",
-        "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Silva",
-          "url": "https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb"
-        }
-      ],
-      "duration_ms": 242776,
-      "name": "If I Can't Have You",
-      "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "New Rules",
         "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 194285,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "If I Can't Have You",
+        "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Silva",
+          "url": "https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb"
+        }
+      ],
+      "duration_ms": 242776,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
-      },
-      "artists": [
-        {
-          "name": "Praia Grande",
-          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
-        }
-      ],
-      "duration_ms": 225674,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
+      },
+      "artists": [
+        {
+          "name": "Praia Grande",
+          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
+        }
+      ],
+      "duration_ms": 225674,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
+      },
+      "artists": [
+        {
+          "name": "Nari",
+          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "La Marelle / Amarelinha",
         "url": "https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 182680,
       "name": "La Marelle / Amarelinha",
       "url": "https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
-      },
-      "artists": [
-        {
-          "name": "Nari",
-          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Sweet but Psycho",
-        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
-      },
-      "artists": [
-        {
-          "name": "Parker Jenkins",
-          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
-        }
-      ],
-      "duration_ms": 188712,
-      "name": "Sweet but Psycho - Acoustic",
-      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Where Our Hearts Will Go (To Providence)",
         "url": "https://open.spotify.com/album/4pou3y0tzhknpZFcY7yYQE"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 252874,
       "name": "Where Our Hearts Will Go (To Providence)",
       "url": "https://open.spotify.com/track/0CRIiLoZLK9WLCziBamUvH"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Sweet but Psycho",
+        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
+      },
+      "artists": [
+        {
+          "name": "Parker Jenkins",
+          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
+        }
+      ],
+      "duration_ms": 188712,
+      "name": "Sweet but Psycho - Acoustic",
+      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Hablar de M\u00e1s",
-        "url": "https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 214917,
-      "name": "Hablar de M\u00e1s",
-      "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 194310,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Hablar de M\u00e1s",
+        "url": "https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 214917,
+      "name": "Hablar de M\u00e1s",
+      "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2075,22 +2075,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Everyone's In Love With You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+          "name": "Moncaya",
+          "url": "https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Everyone's In Love With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+      "duration_ms": 214500,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2111,18 +2107,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
+        "name": "Everyone's In Love With You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
       "artists": [
         {
-          "name": "Moncaya",
-          "url": "https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
         }
       ],
-      "duration_ms": 214500,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
+      "duration_ms": 150000,
+      "name": "Everyone's In Love With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Lullabies for Adults & Children",
-        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
-      },
-      "artists": [
-        {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "Wake Up With the Sun",
-      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
       },
@@ -2175,18 +2159,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Two Lives EP",
-        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
         }
       ],
-      "duration_ms": 167892,
-      "name": "Is It Real - Acoustic",
-      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
+      "duration_ms": 156214,
+      "name": "Wake Up With the Sun",
+      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2203,6 +2187,22 @@
       "duration_ms": 195655,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/3Nwc1QErurM59nOfVMRRtA"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Two Lives EP",
+        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 167892,
+      "name": "Is It Real - Acoustic",
+      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Atlas: Seven",
-        "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 263124,
-      "name": "Atlas: Seven",
-      "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Una Forma de Energ\u00eda Que Ilumina las Cosas",
         "url": "https://open.spotify.com/album/0CiWilvMV56ugYkjd8Ct1O"
       },
@@ -2423,18 +2407,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Pink Pony Club",
-        "url": "https://open.spotify.com/album/45JWFeMS8yGuWb5Us1C42G"
+        "name": "Atlas: Seven",
+        "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
       },
       "artists": [
         {
-          "name": "NiCKY",
-          "url": "https://open.spotify.com/artist/5Eh8xW4ddb4IwGKlRfCBy4"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 280618,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/0N1xQEwViOsv84qWBlTFqV"
+      "duration_ms": 263124,
+      "name": "Atlas: Seven",
+      "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2471,6 +2455,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Pink Pony Club",
+        "url": "https://open.spotify.com/album/45JWFeMS8yGuWb5Us1C42G"
+      },
+      "artists": [
+        {
+          "name": "NiCKY",
+          "url": "https://open.spotify.com/artist/5Eh8xW4ddb4IwGKlRfCBy4"
+        }
+      ],
+      "duration_ms": 280618,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/0N1xQEwViOsv84qWBlTFqV"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Hacia El Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0sVRD9qXjjQIy9E6GY6XIY"
       },
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "x tu amor",
-        "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Zavala",
-          "url": "https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "x tu amor",
-      "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/6oT7TQdQ9UIMSlIq1628lT"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 242000,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "x tu amor",
+        "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Zavala",
+          "url": "https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "x tu amor",
+      "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
     },
     {
       "added_at": "2025-06-20 16:07:31",

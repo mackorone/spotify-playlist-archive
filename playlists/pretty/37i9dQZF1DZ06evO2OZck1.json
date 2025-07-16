@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 54569,
+  "num_followers": 54576,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAADr7SZk0PAeL5rZEaA52NZ6",
+  "snapshot_id": "aHRIgAAAAABbLXofqZoh2R5Fw+28k51n",
   "tracks": [
     {
       "added_at": null,
@@ -95,18 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokyo Calling",
-        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
+        "name": "\u9752\u6625\u6c38\u9060 (TV Size Edit)",
+        "url": "https://open.spotify.com/album/3H97bzx9tAiiLYYzbLCecx"
       },
       "artists": [
+        {
+          "name": "Shonan No Kaze",
+          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
+        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 191180,
-      "name": "Tokyo Calling",
-      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
+      "duration_ms": 92789,
+      "name": "\u9752\u6625\u6c38\u9060 - TV Size Edit",
+      "url": "https://open.spotify.com/track/3XkgvntDEDgIYmgeIwIYQn"
     },
     {
       "added_at": null,
@@ -127,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9752\u6625\u6c38\u9060 (TV Size Edit)",
-        "url": "https://open.spotify.com/album/3H97bzx9tAiiLYYzbLCecx"
+        "name": "Tokyo Calling",
+        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
       },
       "artists": [
-        {
-          "name": "Shonan No Kaze",
-          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
-        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 92789,
-      "name": "\u9752\u6625\u6c38\u9060 - TV Size Edit",
-      "url": "https://open.spotify.com/track/3XkgvntDEDgIYmgeIwIYQn"
+      "duration_ms": 191180,
+      "name": "Tokyo Calling",
+      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
     },
     {
       "added_at": null,
@@ -315,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 212863,
+      "name": "ARMSTRONG",
+      "url": "https://open.spotify.com/track/0HF7GyNStcRigbS0YGXuIX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
@@ -335,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICHIJIKIKOKU",
-        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "JANAINDAYO",
-      "url": "https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quesera sera",
         "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
       },
@@ -363,6 +367,22 @@
       "duration_ms": 213066,
       "name": "Quesera sera",
       "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "JANAINDAYO",
+      "url": "https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ"
     },
     {
       "added_at": null,
@@ -435,22 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HEAVYWEIGHT",
-        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
       "artists": [
         {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
-        {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 212863,
-      "name": "ARMSTRONG",
-      "url": "https://open.spotify.com/track/0HF7GyNStcRigbS0YGXuIX"
+      "duration_ms": 251866,
+      "name": "amayo no seppun",
+      "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
     },
     {
       "added_at": null,
@@ -471,26 +491,6 @@
       "duration_ms": 159306,
       "name": "Drama (feat. MILLI)",
       "url": "https://open.spotify.com/track/0sh3PY1clLciTdqxe5ZZge"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "amayo no seppun",
-      "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 278266,
+      "name": "rakuen nite watashi jigoku",
+      "url": "https://open.spotify.com/track/25NLUXr2EgWnyWckSfMUzG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SNACKTIME",
         "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "shiken zenya",
-      "url": "https://open.spotify.com/track/6JNvwvaHG3T2nuLRSI53Vr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 278266,
-      "name": "rakuen nite watashi jigoku",
-      "url": "https://open.spotify.com/track/25NLUXr2EgWnyWckSfMUzG"
+      "duration_ms": 258333,
+      "name": "shiken zenya",
+      "url": "https://open.spotify.com/track/6JNvwvaHG3T2nuLRSI53Vr"
     },
     {
       "added_at": null,

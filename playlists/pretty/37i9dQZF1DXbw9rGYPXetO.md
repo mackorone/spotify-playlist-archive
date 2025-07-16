@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > Hottest tracks from Coke Studio Bharat\. Cover: Dhanda Nyoliwala & Xvir Grewal
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,000 likes - 18 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,005 likes - 18 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

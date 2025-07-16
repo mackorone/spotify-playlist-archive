@@ -4,7 +4,7 @@
 
 > 
 
-7,438 songs - 19 day 7 hr 36 min
+7,439 songs - 19 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4555,6 +4555,7 @@
 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9) | 3:55 | 2025-01-15 |  |
 | [Raid \(feat\. MED\)](https://open.spotify.com/track/3KQh7ppbDxVjdJBtjvP5BU) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [MED](https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:30 | 2025-01-04 |  |
 | [Rain](https://open.spotify.com/track/0oc1bsAWCjIxDOzmHPBgYP) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Dead End](https://open.spotify.com/album/1DR3SrjL4u4y59DuIjWnlG) | 4:46 | 2025-01-03 |  |
+| [Rain](https://open.spotify.com/track/6QnApmZYvUbrwkDbhqULJS) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Dead End](https://open.spotify.com/album/0lLCE3UPVvppCmTL0sy8e9) | 4:48 | 2025-07-15 |  |
 | [Rain](https://open.spotify.com/track/39A5PCSeOopk2AIq2FHoxz) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [秦 基博と映画主題歌](https://open.spotify.com/album/0zeDfA7UQ5jPFhZCHUoiRY) | 4:53 | 2025-01-04 |  |
 | [RAIN](https://open.spotify.com/track/3kXV5d6PXZvNxs3SQ02yWD) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Lip](https://open.spotify.com/album/4URnSuDHWlAMwRc2oBTzYC) | 5:10 | 2025-01-15 |  |
 | [RAIN](https://open.spotify.com/track/7aCdXnpn7oPN1sz3i78t7x) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Lip](https://open.spotify.com/album/6yZiidnATIgSBcKsrjZxji) | 5:10 | 2025-05-17 |  |

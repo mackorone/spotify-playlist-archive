@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,496 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,506 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 43 | [Liberta\-me](https://open.spotify.com/track/6kNhJ3xdVnPeZKyo3Umjql) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 4:57 |
 | 44 | [Tua Face](https://open.spotify.com/track/20ULhBcBQ0WYvTRNXUdNrt) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Milagre](https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur) | 4:05 |
 | 45 | [Pastor](https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Thyago Fersil](https://open.spotify.com/artist/1NUvYKjjgjF7W8yMvu9Wta), [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR), [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [Marquinhos Menezes](https://open.spotify.com/artist/346ncC0fvMSVV75BR8LFf2), [Lilian Azevedo](https://open.spotify.com/artist/7g0oBs0qkjsNWaUNbYHk5N), [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Emerson Pinheiro](https://open.spotify.com/artist/3OEGZWy4uk8PmTVG9WpNxw), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 6:16 |
-| 46 | [Escreve](https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Escreve](https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2) | 4:35 |
+| 46 | [Imagine \(Ao Vivo\)](https://open.spotify.com/track/7i3FmPXzZ09XKSECqPSDLi) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Imagine \(Ao Vivo\)](https://open.spotify.com/album/70BXXPNfNXGXBT7P2vjh17) | 4:35 |
 | 47 | [Preciso de Uma Chance](https://open.spotify.com/track/5wGYqyGUDOA757piVlrJmb) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 3:45 |
-| 48 | [Imagine \(Ao Vivo\)](https://open.spotify.com/track/7i3FmPXzZ09XKSECqPSDLi) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Imagine \(Ao Vivo\)](https://open.spotify.com/album/70BXXPNfNXGXBT7P2vjh17) | 4:35 |
+| 48 | [Escreve](https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Escreve](https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2) | 4:35 |
 | 49 | [Vinho e Pão](https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Paixão de Cristo \- O Musical](https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO) | 3:13 |
 | 50 | [Tua Presença](https://open.spotify.com/track/60SpsytvLacA0rVAPeMdYs) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Milagre](https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur) | 4:40 |
 
-Snapshot ID: `aHL3AAAAAABPpWz5z1tSdJbkTLg7GzdM`
+Snapshot ID: `aHRIgAAAAADPuyZpBXHMMyB6SKuSaj6h`

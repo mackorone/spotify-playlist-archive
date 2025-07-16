@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 315816,
+  "num_followers": 315914,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -895,30 +895,6 @@
     {
       "added_at": "2025-05-23 03:01:24",
       "album": {
-        "name": "All One",
-        "url": "https://open.spotify.com/album/2lKHitO3IUyPXcHJDoJ29g"
-      },
-      "artists": [
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        },
-        {
-          "name": "Volcano On Mars",
-          "url": "https://open.spotify.com/artist/4zQwbmuw1EcxLjA4ItvWk4"
-        }
-      ],
-      "duration_ms": 223561,
-      "name": "All One",
-      "url": "https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx"
-    },
-    {
-      "added_at": "2025-05-23 03:01:24",
-      "album": {
         "name": "One in a Million (Alok Remix)",
         "url": "https://open.spotify.com/album/73bk5G6KNwb6gF1rjBXa4o"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 142816,
       "name": "One in a Million - Alok Remix",
       "url": "https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2"
+    },
+    {
+      "added_at": "2025-05-23 03:01:24",
+      "album": {
+        "name": "All One",
+        "url": "https://open.spotify.com/album/2lKHitO3IUyPXcHJDoJ29g"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        },
+        {
+          "name": "Volcano On Mars",
+          "url": "https://open.spotify.com/artist/4zQwbmuw1EcxLjA4ItvWk4"
+        }
+      ],
+      "duration_ms": 223561,
+      "name": "All One",
+      "url": "https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx"
     },
     {
       "added_at": "2025-05-23 03:01:24",

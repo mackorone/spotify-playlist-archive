@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks, via the South of Africa\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=6iGwwHUiTta65\-mO2QggHQ">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,997 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,998 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

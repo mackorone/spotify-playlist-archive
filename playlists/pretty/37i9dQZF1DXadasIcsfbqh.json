@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Diplo and Bailey Zimmerman",
-  "num_followers": 231889,
+  "num_followers": 232071,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-06-27 04:00:44",
       "album": {
+        "name": "Beautiful As You",
+        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 163894,
+      "name": "Beautiful As You",
+      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
+    },
+    {
+      "added_at": "2025-06-27 04:00:44",
+      "album": {
         "name": "Bed on Fire (with Ingrid Andress)",
         "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 228507,
       "name": "Bed on Fire (with Ingrid Andress)",
       "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
-    },
-    {
-      "added_at": "2025-06-27 04:00:44",
-      "album": {
-        "name": "Beautiful As You",
-        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 163894,
-      "name": "Beautiful As You",
-      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
     },
     {
       "added_at": "2025-06-27 04:00:44",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2025-06-27 04:00:44",
       "album": {
-        "name": "I'm Movin' On",
-        "url": "https://open.spotify.com/album/7FQLBkD3mdfh2UiLzhvNnN"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "I\u2019m Movin\u2019 On",
-      "url": "https://open.spotify.com/track/53IX4MOIyOZQnKy6a3JnaX"
-    },
-    {
-      "added_at": "2025-06-27 04:00:44",
-      "album": {
         "name": "Praise The Lord (feat. Thomas Rhett)",
         "url": "https://open.spotify.com/album/19IBYeeXLti2wekxA8913l"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 160289,
       "name": "Praise the Lord (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U"
+    },
+    {
+      "added_at": "2025-06-27 04:00:44",
+      "album": {
+        "name": "I'm Movin' On",
+        "url": "https://open.spotify.com/album/7FQLBkD3mdfh2UiLzhvNnN"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "I\u2019m Movin\u2019 On",
+      "url": "https://open.spotify.com/track/53IX4MOIyOZQnKy6a3JnaX"
     },
     {
       "added_at": "2025-06-27 04:00:44",

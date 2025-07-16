@@ -1,13 +1,29 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 496667,
+  "num_followers": 496690,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGI3bgAAAAD78ukpEdY2Q8ih2qL+RXfI",
+  "snapshot_id": "aHXMrgAAAACvU/k67mC3NirKLzwWLOq+",
   "tracks": [
+    {
+      "added_at": "2025-06-30 07:06:22",
+      "album": {
+        "name": "Forget Your Plan",
+        "url": "https://open.spotify.com/album/2nftdSlqgiJ2lN8hu3dCEr"
+      },
+      "artists": [
+        {
+          "name": "Adhitia Sofyan",
+          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
+        }
+      ],
+      "duration_ms": 401520,
+      "name": "Forget Jakarta",
+      "url": "https://open.spotify.com/track/4UucLisbPzUcqYCE6cQX2z"
+    },
     {
       "added_at": "2025-06-30 07:06:22",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 238416,
       "name": "Ruang Baru (From \"My Annoying Brother\")",
       "url": "https://open.spotify.com/track/3XHiujhh7sB8tTCwtI6YEI"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
-        "name": "Senopati in the Rain",
-        "url": "https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31"
-      },
-      "artists": [
-        {
-          "name": "Jordan Susanto",
-          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
-        }
-      ],
-      "duration_ms": 260790,
-      "name": "Senopati in the Rain",
-      "url": "https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/1zIXdMUZeCJ34l5ssKvyWy"
     },
     {
-      "added_at": "2025-06-30 07:06:22",
+      "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "Forget Your Plan",
-        "url": "https://open.spotify.com/album/2nftdSlqgiJ2lN8hu3dCEr"
+        "name": "Senopati in the Rain",
+        "url": "https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31"
       },
       "artists": [
         {
-          "name": "Adhitia Sofyan",
-          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
         }
       ],
-      "duration_ms": 401520,
-      "name": "Forget Jakarta",
-      "url": "https://open.spotify.com/track/4UucLisbPzUcqYCE6cQX2z"
+      "duration_ms": 260790,
+      "name": "Senopati in the Rain",
+      "url": "https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -335,6 +335,22 @@
       "duration_ms": 244813,
       "name": "Kawan (with Yoseph Sitompul, Bayu Risa, Ranya Badudu)",
       "url": "https://open.spotify.com/track/6oGAntrPuwI3pdaZ2i0VWB"
+    },
+    {
+      "added_at": "2025-07-15 03:36:14",
+      "album": {
+        "name": "Terbuang Dalam Waktu (Piano Version)",
+        "url": "https://open.spotify.com/album/7LkfHizyyoYevBmY53bklN"
+      },
+      "artists": [
+        {
+          "name": "Barasuara",
+          "url": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
+        }
+      ],
+      "duration_ms": 236377,
+      "name": "Terbuang Dalam Waktu - Piano Version",
+      "url": "https://open.spotify.com/track/5NWzJYPKmlV3Ft0HabUlBK"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -811,6 +827,22 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
+        "name": "Keajaiban",
+        "url": "https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j"
+      },
+      "artists": [
+        {
+          "name": "Reza Artamevia",
+          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+        }
+      ],
+      "duration_ms": 325973,
+      "name": "Satu Yang Tak Bisa Lepas",
+      "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
         "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
         "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
       },
@@ -823,22 +855,6 @@
       "duration_ms": 393072,
       "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
       "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
-        "name": "Seamin Tak Seiman",
-        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
-      },
-      "artists": [
-        {
-          "name": "Mahen",
-          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "Seamin Tak Seiman",
-      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -859,22 +875,6 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "Keajaiban",
-        "url": "https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j"
-      },
-      "artists": [
-        {
-          "name": "Reza Artamevia",
-          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
-        }
-      ],
-      "duration_ms": 325973,
-      "name": "Satu Yang Tak Bisa Lepas",
-      "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
         "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
         "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 249503,
       "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
       "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
+        "name": "Seamin Tak Seiman",
+        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
+      },
+      "artists": [
+        {
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+        }
+      ],
+      "duration_ms": 216448,
+      "name": "Seamin Tak Seiman",
+      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -959,22 +975,6 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "The Best of Dewa 19",
-        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "Kamulah Satu - Satunya",
-      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
         "name": "My Happy Life",
         "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 213213,
       "name": "Menghujam Jantungku",
       "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
+        "name": "The Best of Dewa 19",
+        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "Kamulah Satu - Satunya",
+      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -1171,6 +1187,22 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
+      },
+      "artists": [
+        {
+          "name": "Alexa",
+          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Jangan Kau Lepas",
+      "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
         "name": "Menghapus Jejakmu",
         "url": "https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq"
       },
@@ -1211,22 +1243,6 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "Alexa",
-        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
-      },
-      "artists": [
-        {
-          "name": "Alexa",
-          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Jangan Kau Lepas",
-      "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
         "name": "Ekspektasi",
         "url": "https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "Ello",
-        "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
-      },
-      "artists": [
-        {
-          "name": "Marcello Tahitoe",
-          "url": "https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Pergi Untuk Kembali",
-      "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
         "name": "semua, semua.",
         "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 201479,
       "name": "Kembalikanku",
       "url": "https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
+        "name": "Ello",
+        "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
+      },
+      "artists": [
+        {
+          "name": "Marcello Tahitoe",
+          "url": "https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "Pergi Untuk Kembali",
+      "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -1323,22 +1339,6 @@
       "duration_ms": 171626,
       "name": "Too Much Of A Good Thing",
       "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
-        "name": "Sunggu Indah",
-        "url": "https://open.spotify.com/album/4lsEBUgBu0KSVLxlQw4OyP"
-      },
-      "artists": [
-        {
-          "name": "Andy Ambarita",
-          "url": "https://open.spotify.com/artist/3D9NDcZAyhtQdEuDdqsAx6"
-        }
-      ],
-      "duration_ms": 338880,
-      "name": "Sunggu Indah",
-      "url": "https://open.spotify.com/track/16dSPNURystMsZIIWqNE6B"
     }
   ],
   "unique_name": "Santai Sejenak",

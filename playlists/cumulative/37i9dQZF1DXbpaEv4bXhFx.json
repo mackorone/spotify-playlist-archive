@@ -500,7 +500,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 234000,
       "name": "Beside",
       "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 216315,
       "name": "My Home",
       "url": "https://open.spotify.com/track/4d3y4RHBHrQGZcoTAHsfcT"
@@ -3142,6 +3142,24 @@
       "duration_ms": 214334,
       "name": "RAINY DAYS",
       "url": "https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny"
+    },
+    {
+      "album": {
+        "name": "Rainy Night",
+        "url": "https://open.spotify.com/album/2VshuqJ3ZXHVsGdUPCbGZs"
+      },
+      "artists": [
+        {
+          "name": "Gyeongseo(GyeongseoYeji)",
+          "url": "https://open.spotify.com/artist/49XlgwPu5F9Pgv7NImAvKA"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225626,
+      "name": "Rainy Night",
+      "url": "https://open.spotify.com/track/57QysgprHQdtPBcAsBQpEt"
     },
     {
       "album": {
@@ -4512,6 +4530,24 @@
       "duration_ms": 237226,
       "name": "\ube44 \uc624\ub294 \ub0a0",
       "url": "https://open.spotify.com/track/3way1Bx5wQvuMKuMKq0I5w"
+    },
+    {
+      "album": {
+        "name": "\ube44\uac00 \uc624\ub294 \ub0a0\uc5d4 Rainy day",
+        "url": "https://open.spotify.com/album/40aM1IPqnK2vdaVSzf5QEE"
+      },
+      "artists": [
+        {
+          "name": "Jea",
+          "url": "https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204010,
+      "name": "\ube44\uac00 \uc624\ub294 \ub0a0\uc5d4 Rainy day",
+      "url": "https://open.spotify.com/track/5BvW5hrqgSSutKkN8JI2AC"
     },
     {
       "album": {

@@ -5263,6 +5263,24 @@
     },
     {
       "album": {
+        "name": "Trao V\u1ec1 Anh",
+        "url": "https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q"
+      },
+      "artists": [
+        {
+          "name": "Juky San",
+          "url": "https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Trao V\u1ec1 Anh",
+      "url": "https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S"
+    },
+    {
+      "album": {
         "name": "VSTRA",
         "url": "https://open.spotify.com/album/168kYvrugeWAGTfIl7i4Ck"
       },
@@ -6686,7 +6704,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 153103,
       "name": "\u601d\u5ff5\u7684\u8f6e\u5ed3 Lovely Figures - Diiton Remix",
       "url": "https://open.spotify.com/track/112ygzMm6rPXheaxB9CxoE"

@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1430215,
+  "num_followers": 1430224,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAACTZUNiViZHPtDM8Jewcnr/",
+  "snapshot_id": "aHRIgAAAAADLI4owVb9bM6SaXdRC2twH",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Floating Through Space",
         "url": "https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 177800,
       "name": "Floating Through Space",
       "url": "https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn"
     },
     {
       "added_at": null,
@@ -971,22 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+        "name": "SHADYXV",
+        "url": "https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 136946,
-      "name": "Muddy Feet (feat. Sia)",
-      "url": "https://open.spotify.com/track/6QSR2OrZOICOXfFB5Wswt1"
+      "duration_ms": 301000,
+      "name": "Guts Over Fear",
+      "url": "https://open.spotify.com/track/3pAnZV3mgNKCABheAUatc3"
     }
   ],
   "unique_name": "This Is Sia",

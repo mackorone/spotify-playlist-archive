@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 5149,
+  "num_followers": 5192,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "S\u1ed0 KH\u00d4NG",
         "url": "https://open.spotify.com/album/2W8HAPjn7tl7pHXGZ8WZIe"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "If You Have To",
-        "url": "https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "If You Have To",
-      "url": "https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Bodhiria",
         "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
       },
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+        "name": "If You Have To",
+        "url": "https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p"
       },
       "artists": [
         {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+      "duration_ms": 199493,
+      "name": "If You Have To",
+      "url": "https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 190249,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Alcal\u00e1 Norte",
         "url": "https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "I Lied, I'm Sorry",
-        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
       },
       "artists": [
         {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 162300,
-      "name": "I Lied, I'm Sorry",
-      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+      "duration_ms": 190249,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1735,6 +1719,22 @@
       "duration_ms": 272152,
       "name": "Chuy\u1ec7n R\u1eb1ng",
       "url": "https://open.spotify.com/track/7oBUoEbCDF748UkHnLusUB"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "A Lot More Free",
-        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "Blue Eyed Constellation",
-      "url": "https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "A Lot More Free",
+        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "Blue Eyed Constellation",
+      "url": "https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 207307,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "THE RUSH",
-        "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 130515,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Forest Green (Deluxe)",
         "url": "https://open.spotify.com/album/0Jb9gNSi9ZuWoWB8gbsQQ7"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 138311,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/6a6JDEQbXdxkWFRIA0pRqL"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "THE RUSH",
+        "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 130515,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "I Don't Wanna Lose",
-        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Midnight Snack",
         "url": "https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 227231,
       "name": "Midnight Snack",
       "url": "https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "I Don't Wanna Lose",
+        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
     },
     {
       "added_at": "2025-05-19 03:00:14",

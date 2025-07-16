@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,652 likes - 108 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,740 likes - 108 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

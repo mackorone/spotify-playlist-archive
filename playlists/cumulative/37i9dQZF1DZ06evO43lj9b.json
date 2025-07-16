@@ -391,6 +391,28 @@
     },
     {
       "album": {
+        "name": "A Basement, A Red Light, & A Feelin', Vol. 2",
+        "url": "https://open.spotify.com/album/5hzi4K0UmEH0HXDl9Wuca1"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403800,
+      "name": "Good Vibrations - Kerri's Mad Mix",
+      "url": "https://open.spotify.com/track/4IcB22Vd7pYjqeO3qCgIk0"
+    },
+    {
+      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -746,7 +768,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 347250,
       "name": "Proceed II",
       "url": "https://open.spotify.com/track/4h8tPJddGifuAKtgCnqRDj"

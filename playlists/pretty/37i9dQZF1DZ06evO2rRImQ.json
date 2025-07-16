@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 200872,
+  "num_followers": 200879,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAAAV/ImSdC7iXrMS9Jvc6TFa",
+  "snapshot_id": "aHRIgAAAAABRXn80iKMafMSd3lA9z7ED",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ando Bien Pedo",
         "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 125746,
       "name": "La Escuelita",
       "url": "https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Banda Sinaloense los Recoditos",
+        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 150999,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Ti Solita",
         "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Sinaloense los Recoditos",
-        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 150999,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Pronostican Borracheras",
         "url": "https://open.spotify.com/album/2d1vtKw2auTTDRKYgnDMiW"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 141900,
       "name": "Se Pronostican Borracheras",
       "url": "https://open.spotify.com/track/2uODDcbfNeRYZ5iftW2iNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banda Sinaloense los Recoditos",
+        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 209571,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH"
     },
     {
       "added_at": null,
@@ -375,22 +391,6 @@
       "duration_ms": 157680,
       "name": "Me Est\u00e1 Tirando El Rollo",
       "url": "https://open.spotify.com/track/5v9LZ5q4vX0ybNUgSJtMin"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Banda Sinaloense los Recoditos",
-        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 209571,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ando Bien Pedo",
-        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 170306,
-      "name": "Extr\u00e1\u00f1ame",
-      "url": "https://open.spotify.com/track/77prsE4cK4WBVSiptghi1x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/02ppLOUh6pj8fV2JGEoLGN"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 161053,
       "name": "Aqu\u00ed Me Quedar\u00e9",
       "url": "https://open.spotify.com/track/485sSGINa482vFsad9LLpJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 170306,
+      "name": "Extr\u00e1\u00f1ame",
+      "url": "https://open.spotify.com/track/77prsE4cK4WBVSiptghi1x"
     },
     {
       "added_at": null,

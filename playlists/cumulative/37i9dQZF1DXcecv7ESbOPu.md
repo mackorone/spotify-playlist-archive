@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Justin Bieber, Sarettii, Olivia Dean och Wet Leg med flera\. Happy New Music Friday!
 
-19,890 songs - 42 day 21 hr 35 min
+19,891 songs - 42 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13423,6 +13423,7 @@
 | [Perfect Revenge](https://open.spotify.com/track/7eh46uUIwMCTs0XoU3Xm42) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Perfect Revenge](https://open.spotify.com/album/5Fmcrqw6XJEVeZ0YQ08Wnz) | 2:53 | 2024-06-06 | 2024-06-14 |
 | [Perfect Stranger](https://open.spotify.com/track/5ZLfgxU8yDwwMQXA2OSFlb) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfect Stranger](https://open.spotify.com/album/5gSD2ws5CGoFVoPWtcF4qL) | 3:17 | 2024-10-17 | 2024-10-25 |
 | [Perfect Weapon \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/6bXAnWuwWjNfojzisWI7vY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Perfect Weapon \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/7qyYyTiNHDrS32kdAWaVQ0) | 2:56 | 2022-02-03 | 2022-02-11 |
+| [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 | 2025-07-11 |  |
 | [Perfectly Broken](https://open.spotify.com/track/3Xx9gfUF7fd9tlffUrhxNi) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Perfectly Broken](https://open.spotify.com/album/5DGzH5tTCp8qWkR0trpPSZ) | 3:08 | 2022-09-29 | 2022-10-07 |
 | [Perfectly Damaged](https://open.spotify.com/track/35vbf6B5RQIzOOJ7yajHcb) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe), [The Agreement](https://open.spotify.com/artist/58zMbKIrvEB2M7ZcXeh4le) | [Perfectly Damaged](https://open.spotify.com/album/0mYdCkz4Ieesb953yuqF5K) | 3:37 | 2023-08-10 | 2023-08-18 |
 | [Performer](https://open.spotify.com/track/1fajhwklF3pSlWvdaaSWG3) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:14 | 2023-02-09 | 2023-02-17 |

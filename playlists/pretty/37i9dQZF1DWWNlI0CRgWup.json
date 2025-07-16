@@ -1,13 +1,29 @@
 {
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Ino Casablanca",
-  "num_followers": 107490,
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Camille Yembe",
+  "num_followers": 107488,
   "original_name": "RADAR FRANCE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFQEYwAAAADn8ZbNPip682xDuxgBP4Ge",
+  "snapshot_id": "aHZCygAAAAD24sdcPesg43BXd6MfoyFT",
   "tracks": [
+    {
+      "added_at": "2025-07-15 12:00:10",
+      "album": {
+        "name": "Coups de soleil",
+        "url": "https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm"
+      },
+      "artists": [
+        {
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
+        }
+      ],
+      "duration_ms": 147907,
+      "name": "Coups de soleil",
+      "url": "https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX"
+    },
     {
       "added_at": "2025-04-03 08:30:11",
       "album": {

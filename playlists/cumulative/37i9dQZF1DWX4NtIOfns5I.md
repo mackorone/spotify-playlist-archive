@@ -4,7 +4,7 @@
 
 > Kingfishr on the cover 🌻
 
-552 songs - 1 day 8 hr 55 min
+553 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Stick Season](https://open.spotify.com/track/7ibpNcYxrstM16ehN7OwbK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:02 | 2023-10-16 | 2024-04-06 |
 | [Stoned on the Highway](https://open.spotify.com/track/7FoLolx3AyrhzzF6qeLCdH) | [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E) | [Old Hobbies \(Revisited\)](https://open.spotify.com/album/4w6okqPJooHVzXY7keGzfl) | 3:25 | 2025-03-07 |  |
 | [Stones & Waves](https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Stones & Waves](https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ) | 3:10 | 2024-01-26 | 2024-05-11 |
+| [Stranger in You](https://open.spotify.com/track/79Qm6tKu2Min009TnLBiog) | [Ebril](https://open.spotify.com/artist/6p7XMnNGDeGqm0ZhgPtuFp) | [In Copula](https://open.spotify.com/album/03XG87zBTW2z2OVsFfXv09) | 2:13 | 2025-07-15 |  |
 | [Strangest Feeling](https://open.spotify.com/track/4ppKxtET7NORgNGxMCXY6a) | [Bonniesongs](https://open.spotify.com/artist/4l0pF7b69t1iGNbwfFZOKd) | [Strangest Feeling](https://open.spotify.com/album/7yseyiVWegHcUlc74AeqHB) | 4:32 | 2025-07-04 |  |
 | [Strawberry](https://open.spotify.com/track/04VpoApQUUPP9QB4aMRkdm) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Azalea, Holly](https://open.spotify.com/album/4Nha9f109qmJb2TeXAiJTS) | 3:09 | 2023-10-06 | 2023-12-09 |
 | [streetsigns](https://open.spotify.com/track/6WOYkYXFXy80r2GZlqSstW) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [streetsigns](https://open.spotify.com/album/3ytRP86zw3i2e7VK5dzfej) | 3:41 | 2023-11-17 | 2024-03-13 |

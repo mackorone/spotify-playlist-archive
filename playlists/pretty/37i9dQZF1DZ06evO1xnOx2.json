@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 608522,
+  "num_followers": 608672,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAADVqGo4GKxn4f17N/qXAef3",
+  "snapshot_id": "aHRIgAAAAACt2xaKBrWB8Wf8DzPlH4MZ",
   "tracks": [
     {
       "added_at": null,
@@ -340,15 +340,15 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Wasteland, Baby!",
-      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
+      "duration_ms": 206546,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth: Unending",
-        "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
+        "name": "Unreal Unearth: Unaired",
+        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 202937,
-      "name": "Hymn to Virgil",
-      "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
+      "duration_ms": 237200,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ"
     },
     {
       "added_at": null,
@@ -404,15 +404,15 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE"
+      "duration_ms": 266466,
+      "name": "Wasteland, Baby!",
+      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth: Unaired",
-        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
+        "name": "Unreal Unearth: Unending",
+        "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 237200,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ"
+      "duration_ms": 202937,
+      "name": "Hymn to Virgil",
+      "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Sessions (Live From Spotify, London)",
+        "url": "https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Take Me To Church - Live From Spotify, London",
+      "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The First Time Ever I Saw Your Face (with Hozier)",
         "url": "https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 273748,
       "name": "The First Time Ever I Saw Your Face (with Hozier)",
       "url": "https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Sessions (Live From Spotify, London)",
-        "url": "https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "Take Me To Church - Live From Spotify, London",
-      "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
     },
     {
       "added_at": null,

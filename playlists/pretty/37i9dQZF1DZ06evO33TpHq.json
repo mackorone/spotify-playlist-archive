@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 55303,
+  "num_followers": 55338,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAABQvmjHKlCyfF+aIkTT7Nn9",
+  "snapshot_id": "aHRIgAAAAAAjR1TmBbag5x2zQLR7b7/F",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/4UyZLGgzMu6jDcVAre7NhO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 360666,
+      "name": "Song Of The Saints",
+      "url": "https://open.spotify.com/track/2ya8YwRadzYVOUzzIfidFH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 382684,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/4UyZLGgzMu6jDcVAre7NhO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Song Of The Saints",
-      "url": "https://open.spotify.com/track/2ya8YwRadzYVOUzzIfidFH"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 260605,
-      "name": "HOMETOWN",
-      "url": "https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven & Earth",
         "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 244546,
       "name": "Heaven Song",
       "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 260605,
+      "name": "HOMETOWN",
+      "url": "https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a"
     },
     {
       "added_at": null,

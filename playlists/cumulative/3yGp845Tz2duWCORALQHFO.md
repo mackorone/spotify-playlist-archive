@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,381 songs - 7 day 15 hr 45 min
+3,382 songs - 7 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2704,6 +2704,7 @@
 | [SONG REQUEST](https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SONG REQUEST](https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz) | 3:24 | 2024-05-30 | 2024-06-08 |
 | [Sonidito](https://open.spotify.com/track/0a29WAeKCESk2E4UW88KMx) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Jdr](https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh), [Josh Cross](https://open.spotify.com/artist/66cZjnuixECARB5c02MfOD) | [Sonidito](https://open.spotify.com/album/3sfYd59pJDb2tJS9NNsvwt) | 2:14 | 2025-06-13 | 2025-06-21 |
 | [SOS](https://open.spotify.com/track/7pdI0NvmX1AstoqafRMcsb) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [SOS](https://open.spotify.com/album/2wX5pUWjQPYwkh5Z7sPT9b) | 3:04 | 2025-05-02 | 2025-05-10 |
+| [SOUL & BODY](https://open.spotify.com/track/1R851I4H0D2SSDNM2NMVcx) | [ALAN BAZE](https://open.spotify.com/artist/4HxZSS80MKQhfcbFesdBCO) | [SOUL & BODY](https://open.spotify.com/album/7o9sMiEqKz1abgwLTctYbi) | 3:35 | 2025-07-15 |  |
 | [Soul Brothers](https://open.spotify.com/track/6mE6pqGdN5gNdtGwaRFNec) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Soul Brothers](https://open.spotify.com/album/4mCOfkeVbi9quqPMi5GQEd) | 3:29 | 2025-06-06 | 2025-06-14 |
 | [SOUL VE55EL](https://open.spotify.com/track/0XyJDqQ6L4qZo7IBZFlD94) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [SOUL VE55EL](https://open.spotify.com/album/2quhHlNOIIGihAoNkaXNxw) | 4:09 | 2024-07-12 | 2024-07-19 |
 | [Sound of da Police \(with DES3ETT\)](https://open.spotify.com/track/3g3kOgJyakUFt8FClE2EbQ) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN) | [Sound of da Police \(with DES3ETT\)](https://open.spotify.com/album/19tOFbOwSqZkQONwDtxss9) | 2:07 | 2024-11-08 | 2024-11-16 |

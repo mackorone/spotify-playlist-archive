@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/4aFHZhWCuMYRW2hSHLoSOy"
+      },
+      "artists": [
+        {
+          "name": "Urban Mystic",
+          "url": "https://open.spotify.com/artist/1qn0COtzEiEinZ1xE3yfA0"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/2hNLKzFe1yvgYbqxYOxIja"
+    },
+    {
+      "album": {
         "name": "Satchmo Serenades",
         "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
@@ -1938,6 +1956,24 @@
       "duration_ms": 144000,
       "name": "A Tiempo",
       "url": "https://open.spotify.com/track/0yxkICdZGmhEXvMO9rrnmO"
+    },
+    {
+      "album": {
+        "name": "A trozos",
+        "url": "https://open.spotify.com/album/7mp3fWhb7d5vaF8eyfhwvR"
+      },
+      "artists": [
+        {
+          "name": "Maricelis Nogueras",
+          "url": "https://open.spotify.com/artist/2DYbGqnGylZr4q106BdQKM"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175797,
+      "name": "A trozos",
+      "url": "https://open.spotify.com/track/1tBECJS4vvsttCQ9Lm8JRm"
     },
     {
       "album": {
@@ -31136,7 +31172,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 194455,
       "name": "friends",
       "url": "https://open.spotify.com/track/71SlCHty5V1U1U6VXep0Iq"
@@ -50084,7 +50120,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 168666,
       "name": "Long For Nothing (I Got You)",
       "url": "https://open.spotify.com/track/2MuT1ro5zOHn2N4jvZohQZ"
@@ -67275,6 +67311,28 @@
     },
     {
       "album": {
+        "name": "Soft Machine (U.S. Version)",
+        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "Punkrocker (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
+    },
+    {
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -68888,7 +68946,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 199482,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/0jRa1MXycYoAVl0eKORz40"
@@ -83548,7 +83606,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"

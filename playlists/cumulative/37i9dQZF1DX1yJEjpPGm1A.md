@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-71 songs - 4 hr 40 min
+73 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 | 2024-12-19 |  |
 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 | 2024-12-19 |  |
 | [Confession Is Not Flashy](https://open.spotify.com/track/584hTOO20B2WKK8PjPB1Gw) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2D5vry1OpxezOMaUEkCGd3) | 3:48 | 2025-07-01 |  |
+| [Eternal Sunshine](https://open.spotify.com/track/6x54eQF63AZ6deVSsaL5a2) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:28 | 2025-07-15 |  |
 | [every moment with you](https://open.spotify.com/track/0a9YcS9sCCTBmN8ZTffX3p) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Jang Beom June 3rd](https://open.spotify.com/album/6sQXDlp5kXH6DKJuMYTqFc) | 3:59 | 2025-04-22 |  |
 | [Everyday with You](https://open.spotify.com/track/1KFlYzWk8EMJY94RzM84MC) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 | 2024-12-19 |  |
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2024-12-19 |  |
@@ -66,6 +67,7 @@
 | [With you](https://open.spotify.com/track/7FrabSVdfcPggA25gq3LJU) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [With you](https://open.spotify.com/album/7Hhn7y6LSD30X5Y0jYPWWi) | 3:43 | 2025-04-22 |  |
 | [Without You by My Side \(A New Song Called Wedding March\)](https://open.spotify.com/track/2Sp0ry7eBwsS69aYgAgYSe) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Jang Beom June 2nd Album](https://open.spotify.com/album/1U8qaip0Rmk0sh0V6QP5xJ) | 3:42 | 2025-06-17 |  |
 | [Would you marry me? \(Feat.Lee Joon,Yoon Du Jun of Highlight,Kwang Hee\)](https://open.spotify.com/track/62mRUa5ZdsbxBp9SNYFpYP) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q), [Lee Joon](https://open.spotify.com/artist/122DvZ07Rzf2ZNyCA6hCQM), [YOON DU JUN](https://open.spotify.com/artist/0bjyZMw6TzPhXSp2PoKXx7), [Kwang Hee](https://open.spotify.com/artist/4AhCk75N1AH6siWvLT5XF4) | [REPLY PROJECT Vol.1](https://open.spotify.com/album/07HuEKIT6Oh9r5V5Sf4piw) | 3:44 | 2025-04-15 |  |
+| [You're the prettiest to me](https://open.spotify.com/track/1JbvdwvlMVqB15xBMWidIo) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [You're the prettiest to me](https://open.spotify.com/album/1azG9sC2F6b0PUPSRzBcHr) | 3:50 | 2025-07-15 |  |
 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 | 2024-12-19 |  |
 | [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/1irsHnzK1oo5x0eWJ3pqKx) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 3:50 | 2024-12-19 |  |
 | [결혼](https://open.spotify.com/track/7olgzHJEJJX071QkCAqyno) | [이태후](https://open.spotify.com/artist/0qNzsXaVQZcpXoln9z5G7n) | [결혼](https://open.spotify.com/album/5ZJM04sy0ueL6fkRJ3kD9J) | 4:17 | 2024-12-19 |  |

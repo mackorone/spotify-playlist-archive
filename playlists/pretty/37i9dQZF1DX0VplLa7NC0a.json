@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 39011,
+  "num_followers": 39019,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -468,13 +468,25 @@
           "url": "https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC"
         },
         {
+          "name": "Catherine Malfitano",
+          "url": "https://open.spotify.com/artist/0jBk0BKRlgf7PB8zE78Q5C"
+        },
+        {
+          "name": "Gwynne Howell",
+          "url": "https://open.spotify.com/artist/7BS4d9amKBMOvlonNGx14U"
+        },
+        {
+          "name": "Robert Gambill",
+          "url": "https://open.spotify.com/artist/6NWJUGACMyrBEDOFGEUk9F"
+        },
+        {
           "name": "Orchestra del Maggio Musicale Fiorentino",
           "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
         }
       ],
-      "duration_ms": 283493,
-      "name": "Rossini: Stabat Mater: VII. Fac, ut portem Christi mortem",
-      "url": "https://open.spotify.com/track/5ZgFZ6eyspxp3bcAGiQGxw"
+      "duration_ms": 467600,
+      "name": "Rossini: Stabat Mater: VI. Sancta Mater, istud agas",
+      "url": "https://open.spotify.com/track/1pc8xQObemmXWPGMwUCwyR"
     },
     {
       "added_at": "2025-07-02 10:57:01",
@@ -496,25 +508,13 @@
           "url": "https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC"
         },
         {
-          "name": "Catherine Malfitano",
-          "url": "https://open.spotify.com/artist/0jBk0BKRlgf7PB8zE78Q5C"
-        },
-        {
-          "name": "Gwynne Howell",
-          "url": "https://open.spotify.com/artist/7BS4d9amKBMOvlonNGx14U"
-        },
-        {
-          "name": "Robert Gambill",
-          "url": "https://open.spotify.com/artist/6NWJUGACMyrBEDOFGEUk9F"
-        },
-        {
           "name": "Orchestra del Maggio Musicale Fiorentino",
           "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
         }
       ],
-      "duration_ms": 467600,
-      "name": "Rossini: Stabat Mater: VI. Sancta Mater, istud agas",
-      "url": "https://open.spotify.com/track/1pc8xQObemmXWPGMwUCwyR"
+      "duration_ms": 283493,
+      "name": "Rossini: Stabat Mater: VII. Fac, ut portem Christi mortem",
+      "url": "https://open.spotify.com/track/5ZgFZ6eyspxp3bcAGiQGxw"
     },
     {
       "added_at": "2025-07-02 10:57:01",
@@ -684,38 +684,6 @@
           "url": "https://open.spotify.com/artist/45TDHhSjYdkp1bSHmBL4SE"
         },
         {
-          "name": "Gerhild Romberger",
-          "url": "https://open.spotify.com/artist/0mb9VsFi4Q02ZyCeI5VJfr"
-        },
-        {
-          "name": "Munich Radio Orchestra",
-          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
-        }
-      ],
-      "duration_ms": 356653,
-      "name": "Stabat Mater: III. Quis est homo (Duet)",
-      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
-    },
-    {
-      "added_at": "2025-07-02 10:57:01",
-      "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
-        },
-        {
-          "name": "Rosa Feola",
-          "url": "https://open.spotify.com/artist/45TDHhSjYdkp1bSHmBL4SE"
-        },
-        {
           "name": "Bavarian Radio Chorus",
           "url": "https://open.spotify.com/artist/536pGG9V0mbcKOSgw37g4m"
         },
@@ -771,6 +739,38 @@
       "duration_ms": 670826,
       "name": "La Cenerentola, Act I: Quintet. Signore, una parola - Qui nel mio codice - Nel volto",
       "url": "https://open.spotify.com/track/3yJXZF4JDrUBpiQ8EWr2wP"
+    },
+    {
+      "added_at": "2025-07-02 10:57:01",
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        },
+        {
+          "name": "Rosa Feola",
+          "url": "https://open.spotify.com/artist/45TDHhSjYdkp1bSHmBL4SE"
+        },
+        {
+          "name": "Gerhild Romberger",
+          "url": "https://open.spotify.com/artist/0mb9VsFi4Q02ZyCeI5VJfr"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        }
+      ],
+      "duration_ms": 356653,
+      "name": "Stabat Mater: III. Quis est homo (Duet)",
+      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
     },
     {
       "added_at": "2025-07-02 10:57:01",

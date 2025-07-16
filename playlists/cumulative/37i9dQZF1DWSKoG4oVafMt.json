@@ -3561,6 +3561,36 @@
     },
     {
       "album": {
+        "name": "Curfew",
+        "url": "https://open.spotify.com/album/4vPo1DndgWvm8K7UcIbDx1"
+      },
+      "artists": [
+        {
+          "name": "Sangram Hanjra",
+          "url": "https://open.spotify.com/artist/0oo9nkY6Dw4SPHa8ucYtKB"
+        },
+        {
+          "name": "Gurman Kaur",
+          "url": "https://open.spotify.com/artist/0iRmn8NolcWtK7zcgtxFQ1"
+        },
+        {
+          "name": "Shawn",
+          "url": "https://open.spotify.com/artist/7AyhM12M2NRVrVWesXMq7P"
+        },
+        {
+          "name": "Raees",
+          "url": "https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188037,
+      "name": "Curfew",
+      "url": "https://open.spotify.com/track/3yxfJmnJJorxNr8EML6lFc"
+    },
+    {
+      "album": {
         "name": "Rise & Thrive",
         "url": "https://open.spotify.com/album/3xJ138iOiHm2HzN6622xah"
       },
@@ -9032,7 +9062,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 174421,
       "name": "Jogi",
       "url": "https://open.spotify.com/track/1XfBEzVsFJC0X8222Y6unk"
@@ -10343,6 +10373,28 @@
     },
     {
       "album": {
+        "name": "Kikran De Phull",
+        "url": "https://open.spotify.com/album/7cVzbQr4trRpNRTQLKGP57"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190276,
+      "name": "Kikran De Phull",
+      "url": "https://open.spotify.com/track/4lXSc0Dxyv4gfSDWF2p6Pw"
+    },
+    {
+      "album": {
         "name": "Kill Kure",
         "url": "https://open.spotify.com/album/0PHp8FjClTq3VQNPbUpAXo"
       },
@@ -10716,6 +10768,28 @@
       "duration_ms": 168750,
       "name": "Kya Ne Baatan",
       "url": "https://open.spotify.com/track/2wMijO0F9GGHDx1Ka1nDvW"
+    },
+    {
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/2cxliE80dsnWNg1lHAjXCz"
+      },
+      "artists": [
+        {
+          "name": "Burrah",
+          "url": "https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS"
+        },
+        {
+          "name": "Zero Chill",
+          "url": "https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196364,
+      "name": "Kyun Raatan Nu",
+      "url": "https://open.spotify.com/track/5zzE94Io9bd18dYfRYCVsA"
     },
     {
       "album": {
@@ -15722,7 +15796,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 242790,
       "name": "Putt Jattan Da",
       "url": "https://open.spotify.com/track/3TLtvu7Rv9SYFYD3MLvGzY"
@@ -21896,7 +21970,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 138367,
       "name": "Ve Ranjhana - From \"Heer Express\"",
       "url": "https://open.spotify.com/track/1014HrALiJTvFGxHpc40Fb"

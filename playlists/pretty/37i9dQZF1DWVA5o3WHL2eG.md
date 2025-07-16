@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: OSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,423 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,431 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
 | 36 | [Streets of Berlin](https://open.spotify.com/track/0Oe6sobbB0xxgUDC3KVQ4X) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Streets of Berlin EP](https://open.spotify.com/album/5JE10TDCkiBGXbflnlTvOh) | 6:42 |
 | 37 | [Cherry Blossom](https://open.spotify.com/track/1WzuSv5vdHtvA3hQNv0RJg) | [animat](https://open.spotify.com/artist/5LcZJ5jDHXAKIrnz4CuVhb) | [Cherry Blossom](https://open.spotify.com/album/3FzKM5OSyhtpI1EkVGr4O8) | 3:12 |
-| 38 | [Letter To The Editor](https://open.spotify.com/track/3KuIF2KOosGKAcFMEhvpAc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Letter To The Editor](https://open.spotify.com/album/57SkR3tCeZlq53f0zHlgIf) | 3:13 |
-| 39 | [Bla Bla Bla](https://open.spotify.com/track/5zsxFwHUQoGxxyR2nUB4oS) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Bla Bla Bla](https://open.spotify.com/album/3JtobBe3m80QzFgji9WuJc) | 2:05 |
+| 38 | [Bla Bla Bla](https://open.spotify.com/track/5zsxFwHUQoGxxyR2nUB4oS) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Bla Bla Bla](https://open.spotify.com/album/3JtobBe3m80QzFgji9WuJc) | 2:05 |
+| 39 | [Letter To The Editor](https://open.spotify.com/track/3KuIF2KOosGKAcFMEhvpAc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Letter To The Editor](https://open.spotify.com/album/57SkR3tCeZlq53f0zHlgIf) | 3:13 |
 | 40 | [es tut weh](https://open.spotify.com/track/5Id40ks3QNsSn3Pffw10vZ) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [es tut weh](https://open.spotify.com/album/2DgX7i7f6OGPjPhGDNGUKz) | 3:05 |
 | 41 | [glow up](https://open.spotify.com/track/4g2xUjGBedq9hlWeT7oS87) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [glow up](https://open.spotify.com/album/2vpzwXCgLvkWEsPGpxzUTi) | 1:59 |
 | 42 | [haha](https://open.spotify.com/track/7dFNL1uMQihYMxXRArmjV9) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2BPr6OlHJj2zKIvbbnWU1d) | 2:01 |
-| 43 | [Times We Will Remember](https://open.spotify.com/track/7bcPwgIrVMXxGYipvmOrie) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Times We Will Remember](https://open.spotify.com/album/34OBEZqZc7i8CzRS3edGeZ) | 3:11 |
-| 44 | [Starstruck](https://open.spotify.com/track/59kBx7BfPEANrVoO20v9cq) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 2:57 |
+| 43 | [Starstruck](https://open.spotify.com/track/59kBx7BfPEANrVoO20v9cq) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 2:57 |
+| 44 | [Times We Will Remember](https://open.spotify.com/track/7bcPwgIrVMXxGYipvmOrie) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Times We Will Remember](https://open.spotify.com/album/34OBEZqZc7i8CzRS3edGeZ) | 3:11 |
 | 45 | [Orangenbäume](https://open.spotify.com/track/5CcdmuLOtphmDxyXaPFqL5) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Orangenbäume](https://open.spotify.com/album/1pB1qhaiDTFkGqbjt6RJ98) | 2:04 |
 | 46 | [Hands Up](https://open.spotify.com/track/2iB8v9BKs76tvr42sAfk4H) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Look Mom! No Piano, Pt\. 1](https://open.spotify.com/album/15EG5lVNefy0DgkVqrc5lQ) | 6:41 |
 | 47 | [Silicone Mold](https://open.spotify.com/track/5laawOQLotQGCjP2IP5Yz6) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Silicone Mold](https://open.spotify.com/album/46rTeYoEFFpluo0Sq0JZdY) | 2:26 |
-| 48 | [Wenn die Stadt schläft](https://open.spotify.com/track/6HElf5HIlS9c644BJLPMoG) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Wenn die Stadt schläft](https://open.spotify.com/album/2E09awpdLFO7HmWG5IT6Nx) | 2:39 |
-| 49 | [Come Home](https://open.spotify.com/track/7sl0ahXt283MvN1Igktf6K) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Come Home](https://open.spotify.com/album/3d8EZYis9iz5EWU2ptVD4z) | 3:13 |
+| 48 | [Come Home](https://open.spotify.com/track/7sl0ahXt283MvN1Igktf6K) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Come Home](https://open.spotify.com/album/3d8EZYis9iz5EWU2ptVD4z) | 3:13 |
+| 49 | [Wenn die Stadt schläft](https://open.spotify.com/track/6HElf5HIlS9c644BJLPMoG) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Wenn die Stadt schläft](https://open.spotify.com/album/2E09awpdLFO7HmWG5IT6Nx) | 2:39 |
 | 50 | [Invisible](https://open.spotify.com/track/4zrwmTdCCgtnem7UlSz4Ah) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Invisible](https://open.spotify.com/album/0N8xcpseUPyGkgsLjpFebw) | 3:12 |
 
 Snapshot ID: `aGRaewAAAACTNljazmoAgZF0veSyWSJu`

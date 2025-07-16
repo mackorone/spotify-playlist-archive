@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia: Sayf, Emma Nolde, Glocky, camoufly, Carla Hero e Marte \(in cover\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,995 likes - 25 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,996 likes - 25 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

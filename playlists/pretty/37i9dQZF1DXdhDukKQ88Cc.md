@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,714 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,743 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 21 | [Langsom](https://open.spotify.com/track/5kGceOsJc3EP5BZ7a7OrvQ) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0), [Asta Brix](https://open.spotify.com/artist/7jdou2ayaa86lDotGOCwpg) | [HØJERE](https://open.spotify.com/album/1vhjwh1XoAqwaqQ2AMn0QO) | 2:59 |
 | 22 | [Frank Lucas](https://open.spotify.com/track/17Tn91cG7Dz0Fl78p6MRU5) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Frank Lucas](https://open.spotify.com/album/3hn4BBea2cZzLHRZzwdmv9) | 2:13 |
 | 23 | [illegalt \(feat\. Branco\)](https://open.spotify.com/track/5wApeIhHk1C0GbXBm2Yv7q) | [LARS](https://open.spotify.com/artist/3HVQBn5gaUiC8cwPwOb1ao), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [illegalt \(feat\. Branco\)](https://open.spotify.com/album/25kVS0EOUOzfpc9u6W7tiC) | 2:08 |
-| 24 | [RISKY](https://open.spotify.com/track/7BpwoWDzAVlj2RII5dtfAG) | [Tyrees Tyr](https://open.spotify.com/artist/7FXMEeXMVK0qPi84nttz1o) | [RISKY](https://open.spotify.com/album/64jddqsaTbstwj1gcxyMJp) | 2:01 |
+| 24 | [RISKY](https://open.spotify.com/track/7BpwoWDzAVlj2RII5dtfAG) | [Tyrees](https://open.spotify.com/artist/7FXMEeXMVK0qPi84nttz1o) | [RISKY](https://open.spotify.com/album/64jddqsaTbstwj1gcxyMJp) | 2:01 |
 | 25 | [Ryggen Mod Muren](https://open.spotify.com/track/5kCbaKeAqsStnSE4QXsvTo) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 3:04 |
 | 26 | [Til Stede](https://open.spotify.com/track/2VKs1Cvg89HfMHTfGtXbc4) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [ÆTEREN](https://open.spotify.com/album/5xV1bJjwvbWPGwWdVzKGB4) | 3:52 |
 | 27 | [Keem \(feat\. Benny Jamz\)](https://open.spotify.com/track/5mFQvwwjVjy1cO0HxxbsoR) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [24](https://open.spotify.com/album/4Z47LEsa5VjVEVB34qlHc8) | 3:15 |

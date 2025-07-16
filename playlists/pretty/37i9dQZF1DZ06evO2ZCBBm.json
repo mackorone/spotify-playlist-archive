@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 47950,
+  "num_followers": 47945,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAACBN50jE27AiTcGVUH+Da1w",
+  "snapshot_id": "aHRIgAAAAABX0ZOh9KpfuiUOjRbLia8H",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 120640,
-      "name": "Choke Me",
-      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artwork",
         "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
       },
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartwork",
-        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
       },
       "artists": [
         {
@@ -712,57 +696,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 184105,
-      "name": "Bloody Nose",
-      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 168891,
-      "name": "I Hate Everybody",
-      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartwork (Deluxe)",
-        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 184286,
-      "name": "River Stay",
-      "url": "https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artwork",
-        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "Sold My Soul",
-      "url": "https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc"
+      "duration_ms": 120640,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
     },
     {
       "added_at": null,
@@ -783,6 +719,70 @@
       "duration_ms": 171741,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 168891,
+      "name": "I Hate Everybody",
+      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "Sold My Soul",
+      "url": "https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 184286,
+      "name": "River Stay",
+      "url": "https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 184105,
+      "name": "Bloody Nose",
+      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
     },
     {
       "added_at": null,

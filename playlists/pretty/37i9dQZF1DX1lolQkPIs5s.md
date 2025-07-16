@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,573 likes - 104 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,572 likes - 104 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 28 | [Princess Problems](https://open.spotify.com/track/6VfvgM4Mp8usz7kEd6XRMy) | [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [Sakura Kiryu](https://open.spotify.com/artist/3QLBNnbajUaMIsnNO7pmnI) | [Disney's Snow White \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UN8YSbASj7qK3RL7cXqhj) | 2:18 |
 | 29 | [Love Is an Open Door \- Japanese Version](https://open.spotify.com/track/0L4hRnJisBHDuaYpH92Cnt) | [Sayaka Kanda](https://open.spotify.com/artist/0FYmss7VDzi6m3UATQMyab), [Eisuke Tsuda](https://open.spotify.com/artist/3bhT5ERbR7oHoZ6apz81cr) | [Frozen \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/48in9vaug9c3N6s1xdb0Uu) | 2:04 |
 | 30 | [Get Lost](https://open.spotify.com/track/2AT2MQhBIRNshNAMqoaTbG) | [Sonim](https://open.spotify.com/artist/20Bgr7lRent6GFaYfWay5Z) | [Moana 2 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sfMOMBaJJyCh9HXdjrocJ) | 3:04 |
-| 31 | [We're Back](https://open.spotify.com/track/4ccPytrpiAdtn7mFrNBGYP) | [Tomona Yabiku](https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm) | [Moana 2 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sfMOMBaJJyCh9HXdjrocJ) | 3:11 |
+| 31 | [We're Back](https://open.spotify.com/track/4ccPytrpiAdtn7mFrNBGYP) | [Tomona Yabiku](https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Moana 2 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sfMOMBaJJyCh9HXdjrocJ) | 3:11 |
 | 32 | [Can I Get A Chee Hoo?](https://open.spotify.com/track/4YV2XVjmC88uUCrjTaRt4k) | [Matsuya Onoe](https://open.spotify.com/artist/1oscjydxGcEEGBDMwkjHBl) | [Moana 2 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sfMOMBaJJyCh9HXdjrocJ) | 2:49 |
 | 33 | [Beyond \(End Credit Version\) \- From "Moana 2"/Japanese Soundtrack Version](https://open.spotify.com/track/5Vx6HQSKMyLItHfqrFszHU) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"/Japanese Soundtrack Version\]](https://open.spotify.com/album/0hyRZ5UY7OHiDtNBuqIvC5) | 3:16 |
 | 34 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |

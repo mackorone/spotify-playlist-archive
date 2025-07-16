@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy, Tyla, Reekado Banks, Odeal  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,419 likes - 86 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,510 likes - 86 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

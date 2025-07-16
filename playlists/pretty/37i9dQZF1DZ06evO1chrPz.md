@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,909 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,920 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Be Enthroned \(Live\)](https://open.spotify.com/track/4Q73DCRJjgfNP6cmW73Igw) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 8:05 |
 | 50 | [Promises Never Fail \(Live\)](https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Victory \(Live\)](https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz) | 4:57 |
 
-Snapshot ID: `aHL3AAAAAAAK2QsHvWFAo9hXy4FtqLjU`
+Snapshot ID: `aHRIgAAAAAD80+7/qVJj5VMjOFJfOK1g`

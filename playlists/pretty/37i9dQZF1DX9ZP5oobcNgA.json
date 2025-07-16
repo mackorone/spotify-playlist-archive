@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 139397,
+  "num_followers": 139446,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -763,34 +763,6 @@
     {
       "added_at": "2025-07-01 10:12:11",
       "album": {
-        "name": "Baroque Concertos",
-        "url": "https://open.spotify.com/album/4Z9GTf0uQit5gXi34Mvp2L"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Alison Balsom",
-          "url": "https://open.spotify.com/artist/44Z5ZP2F1omniNpGEdNDdt"
-        },
-        {
-          "name": "Pinnock\u2019s Players",
-          "url": "https://open.spotify.com/artist/4peV4scGjB4APji3O5shGs"
-        },
-        {
-          "name": "Trevor Pinnock",
-          "url": "https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Handel: Concerto grosso in D Major, HWV 323: III. Presto (Transcr. for Piccolo Trumpet and Baroque Orchestra by Simon Wright)",
-      "url": "https://open.spotify.com/track/7eM705mG5sOtYp28DDuVm6"
-    },
-    {
-      "added_at": "2025-07-01 10:12:11",
-      "album": {
         "name": "Handel: Water Music; Music For The Royal Fireworks",
         "url": "https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4"
       },
@@ -843,8 +815,8 @@
     {
       "added_at": "2025-07-01 10:12:11",
       "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+        "name": "Baroque Concertos",
+        "url": "https://open.spotify.com/album/4Z9GTf0uQit5gXi34Mvp2L"
       },
       "artists": [
         {
@@ -852,17 +824,21 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+          "name": "Alison Balsom",
+          "url": "https://open.spotify.com/artist/44Z5ZP2F1omniNpGEdNDdt"
         },
         {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+          "name": "Pinnock\u2019s Players",
+          "url": "https://open.spotify.com/artist/4peV4scGjB4APji3O5shGs"
+        },
+        {
+          "name": "Trevor Pinnock",
+          "url": "https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83"
         }
       ],
-      "duration_ms": 274866,
-      "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
-      "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
+      "duration_ms": 211200,
+      "name": "Handel: Concerto grosso in D Major, HWV 323: III. Presto (Transcr. for Piccolo Trumpet and Baroque Orchestra by Simon Wright)",
+      "url": "https://open.spotify.com/track/7eM705mG5sOtYp28DDuVm6"
     },
     {
       "added_at": "2025-07-01 10:12:11",
@@ -907,6 +883,30 @@
       "duration_ms": 332026,
       "name": "Let the Bright Seraphim (From \"Samson, HWV 57\")",
       "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
+    },
+    {
+      "added_at": "2025-07-01 10:12:11",
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 274866,
+      "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
+      "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
     },
     {
       "added_at": "2025-07-01 10:12:11",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2025-07-01 10:12:11",
       "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
+      "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
+    },
+    {
+      "added_at": "2025-07-01 10:12:11",
+      "album": {
         "name": "In War & Peace - Harmony through Music",
         "url": "https://open.spotify.com/album/1TjvQpGgD9gaEQbUt5inKM"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 332320,
       "name": "Handel: Rinaldo, HWV 7, Act 2: \"Lascia ch'io pianga\" (Almirena)",
       "url": "https://open.spotify.com/track/2Sbb5o2R6zci4L0xEQhsvK"
-    },
-    {
-      "added_at": "2025-07-01 10:12:11",
-      "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
-      "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
     },
     {
       "added_at": "2025-07-01 10:12:11",

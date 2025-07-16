@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 
 > This is Aventura\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,466 likes - 41 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,519 likes - 41 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 | 40 | [Alexandra / No Lo Perdona Dios / Amor Bonito / ¿cuándo Volverás? \- Live](https://open.spotify.com/track/6FFTFvSqtVID11P7o4yFwF) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Kings of Bachata: Sold Out at Madison Square Garden \(Live\)](https://open.spotify.com/album/3dYWBu4JKmTQ4WgsRUchkL) | 8:22 |
 | 41 | [No Lo Perdona Dios](https://open.spotify.com/track/5ERhiZwEhNFIeXEG6RstN9) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:32 |
 
-Snapshot ID: `aHL3AAAAAACtjcsaVhaPSpZO0p+tDNi+`
+Snapshot ID: `aHRIgAAAAAClFNO9M334+chCar2XDMsn`

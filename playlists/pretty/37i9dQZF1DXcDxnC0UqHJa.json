@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Timoth\u00e9e Chalamet in A Complete Unknown",
-  "num_followers": 460596,
+  "num_followers": 460531,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Lennon Bermuda",
-        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
-      },
-      "artists": [
-        {
-          "name": "Heather Nova",
-          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
-        }
-      ],
-      "duration_ms": 143547,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Come Give Me Love",
         "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 239643,
       "name": "Come Give Me Love",
       "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Lennon Bermuda",
+        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
+      },
+      "artists": [
+        {
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+        }
+      ],
+      "duration_ms": 143547,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 257941,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Live From BBC Radio 2",
         "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 218760,
       "name": "Perfect Places - Live From BBC Radio 2",
       "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 257941,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 138383,
-      "name": "Simple Man - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "The Covers",
         "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
       },
@@ -1139,6 +1123,42 @@
       "duration_ms": 196537,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 138383,
+      "name": "Simple Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "...but i'd rather be with you, too",
+        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 197790,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1171,26 +1191,6 @@
       "duration_ms": 191757,
       "name": "my future",
       "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "...but i'd rather be with you, too",
-        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 197790,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "good 4 u / Dooley's Farm (Spotify Singles)",
-        "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        }
-      ],
-      "duration_ms": 216343,
-      "name": "good 4 u - Spotify Sessions",
-      "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "good 4 u / Dooley's Farm (Spotify Singles)",
+        "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 216343,
+      "name": "good 4 u - Spotify Sessions",
+      "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 275880,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Turn! Turn! Turn!",
         "url": "https://open.spotify.com/album/1txZgoOwuTev3fr2tyISmC"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 177025,
       "name": "Turn! Turn! Turn!",
       "url": "https://open.spotify.com/track/4o0FifCtMZSnY8nwkbS5yp"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 275880,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 137314,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Driver 8",
         "url": "https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 215449,
       "name": "Driver 8",
       "url": "https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 137314,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
     },
     {
       "added_at": "2025-05-02 17:28:32",

@@ -4,7 +4,7 @@
 
 > Burna Boy, Justin Bieber, Gazo et Miki  au top des nouveautés de la semaine !
 
-5,470 songs - 11 day 20 hr 15 min
+5,471 songs - 11 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3800,6 +3800,7 @@
 | [Perfect Revenge](https://open.spotify.com/track/7eh46uUIwMCTs0XoU3Xm42) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Perfect Revenge](https://open.spotify.com/album/5Fmcrqw6XJEVeZ0YQ08Wnz) | 2:53 | 2024-06-06 | 2024-06-14 |
 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-21 | 2024-11-29 |
 | [Perfect Stranger](https://open.spotify.com/track/5ZLfgxU8yDwwMQXA2OSFlb) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfect Stranger](https://open.spotify.com/album/5gSD2ws5CGoFVoPWtcF4qL) | 3:17 | 2024-10-17 | 2024-10-25 |
+| [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 | 2025-07-11 |  |
 | [PERFORMANTE](https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [KINTSUGI](https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf) | 3:26 | 2025-02-28 | 2025-03-07 |
 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 | 2024-06-06 | 2024-06-21 |
 | [Personnage](https://open.spotify.com/track/01x60ZC18OqAV4XdLiKHu0) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Personnage](https://open.spotify.com/album/6NH8yi9HxTEIH4E5X6wEGH) | 2:35 | 2025-03-13 | 2025-03-21 |

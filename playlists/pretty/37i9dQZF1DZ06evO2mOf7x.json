@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46256,
+  "num_followers": 46262,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAAB3nUQoTbDxDXhT7hXmFm5W",
+  "snapshot_id": "aHRIgAAAAADb9OW0fR8i6m5Pk7Ri1aux",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 189453,
-      "name": "Ya No Te Creo Nada",
-      "url": "https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Besos Robados",
         "url": "https://open.spotify.com/album/2JeR32SGEMdyK2G7q8hCXn"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 157920,
       "name": "Besos Robados",
       "url": "https://open.spotify.com/track/4NuxmtOILyAJARALn4jkY7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 189453,
+      "name": "Ya No Te Creo Nada",
+      "url": "https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Regalo La Lluvia",
+        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Eso No Es De Hombres",
+      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 151973,
       "name": "No Me Amenaces",
       "url": "https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Regalo La Lluvia",
-        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Eso No Es De Hombres",
-      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
     },
     {
       "added_at": null,
@@ -819,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Volver\u00e9",
-        "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
+        "name": "Yo Soy La Mujer",
+        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
       },
       "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 192680,
-      "name": "No Volver\u00e9",
-      "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
+      "duration_ms": 198853,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/6kwg6ENvPRdscevp2XE8cR"
     },
     {
       "added_at": null,
@@ -855,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy La Mujer",
-        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
+        "name": "No Volver\u00e9",
+        "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
       },
       "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 198853,
-      "name": "Tu Ingratitud",
-      "url": "https://open.spotify.com/track/6kwg6ENvPRdscevp2XE8cR"
+      "duration_ms": 192680,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
     },
     {
       "added_at": null,

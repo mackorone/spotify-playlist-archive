@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-657 songs - 1 day 14 hr 20 min
+658 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Routiner](https://open.spotify.com/track/3ZoxV3vTrQGR5hcMND9sfs) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [Routiner / Postcard](https://open.spotify.com/album/76F53xQ0kSoAd9tgNFOg2o) | 3:22 | 2024-09-24 | 2024-11-14 |
 | [Ruas Da Cidade](https://open.spotify.com/track/32KdxaHZJrJVk6oNr4Odmg) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Clube Da Esquina 2](https://open.spotify.com/album/4mywaTqTdSJUikLyiVqjjX) | 3:02 | 2025-01-11 | 2025-03-02 |
 | [Rude Girl on Rotation](https://open.spotify.com/track/4EhV8FoOtNW8QfUelPoDhF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Lady On The Cusp](https://open.spotify.com/album/018Fb0iL812xrL5tR6MOzX) | 2:40 | 2024-07-12 | 2024-09-08 |
+| [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-07-15 |  |
 | [Sad Eyes \- Studio Outtake \- 1990](https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:47 | 2024-05-16 | 2024-07-12 |
 | [Safari](https://open.spotify.com/track/38K4MzpzkLyirD5nJNSfYS) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [My Dear Life](https://open.spotify.com/album/1S82OiBWv9ozsRalgCSI6l) | 7:08 | 2024-11-21 | 2025-01-12 |
 | [Sambinha](https://open.spotify.com/track/2EHXd5o9sBnGRhgSxULQYJ) | [Tenorio Jr.](https://open.spotify.com/artist/5RYHqDtvrm4QLsvcoOHmR9) | [Embalo](https://open.spotify.com/album/6nSnQ6vyh0glT2MqpLQmsO) | 2:44 | 2025-06-25 | 2025-07-04 |

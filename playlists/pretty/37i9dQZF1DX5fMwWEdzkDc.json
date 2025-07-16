@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 18620,
+  "num_followers": 18626,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Ames Room",
         "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 263079,
       "name": "Then Then Then",
       "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1039,34 +1039,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "The 3rd Masterpiece",
-        "url": "https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV"
+        "name": "Stand Alone",
+        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
       },
       "artists": [
         {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
         }
       ],
-      "duration_ms": 298237,
-      "name": "Partner for Life",
-      "url": "https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 Best Collection (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7"
-      },
-      "artists": [
-        {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "\ub0b4 \uba38\ub9ac\uac00 \ub098\ube60\uc11c",
-      "url": "https://open.spotify.com/track/1cKxbdfl0lytWFFMXsoCEA"
+      "duration_ms": 259213,
+      "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
+      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1087,18 +1071,34 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Stand Alone",
-        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
+        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 Best Collection (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7"
       },
       "artists": [
         {
-          "name": "Ha Dong Qn",
-          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
         }
       ],
-      "duration_ms": 259213,
-      "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
-      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
+      "duration_ms": 263040,
+      "name": "\ub0b4 \uba38\ub9ac\uac00 \ub098\ube60\uc11c",
+      "url": "https://open.spotify.com/track/1cKxbdfl0lytWFFMXsoCEA"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "The 3rd Masterpiece",
+        "url": "https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 298237,
+      "name": "Partner for Life",
+      "url": "https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Type B (1)",
         "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 222171,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "It's Different",
-        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Lovers in Paris (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
       },
       "artists": [
         {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 249352,
-      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
-      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
+      "duration_ms": 271893,
+      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1379,6 +1363,22 @@
       "duration_ms": 201866,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Lovers in Paris (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
+      },
+      "artists": [
+        {
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+        }
+      ],
+      "duration_ms": 249352,
+      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "To My Boyfriend",
-      "url": "https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The 3rd GENERATION (Special Album)",
         "url": "https://open.spotify.com/album/5EJQFPTIEU6J1KkBxr9wDI"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 269773,
       "name": "Can't (Feat. MIIII)",
       "url": "https://open.spotify.com/track/4attmsVheqtmK8TJMVHmdB"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "To My Boyfriend",
+      "url": "https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD"
     },
     {
       "added_at": "2024-08-05 16:59:31",

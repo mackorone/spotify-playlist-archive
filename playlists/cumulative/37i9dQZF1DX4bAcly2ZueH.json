@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "asobiba",
+        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
+      },
+      "artists": [
+        {
+          "name": "chanoma",
+          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "asobiba",
+      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
+    },
+    {
+      "album": {
         "name": "Autumn Stroll",
         "url": "https://open.spotify.com/album/71RSiCtz3tWtw3ddFU7auT"
       },
@@ -226,7 +244,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 170013,
       "name": "Ayayai",
       "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
@@ -306,7 +324,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 98000,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/05enoO7Z5prMUxbHEDJBt7"
@@ -774,7 +792,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 139823,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/2EBcFkIyG1gnCnlKqHaeYl"
@@ -897,6 +915,28 @@
     },
     {
       "album": {
+        "name": "falling asleep.",
+        "url": "https://open.spotify.com/album/4tKFwi75AtxxN1EaGC87gK"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
+          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
+        },
+        {
+          "name": "\u4e00\u670dtrack",
+          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "falling asleep.",
+      "url": "https://open.spotify.com/track/0X88c8pOrPZhuwBYe1lgWl"
+    },
+    {
+      "album": {
         "name": "Fantastic",
         "url": "https://open.spotify.com/album/0wbQoBc4b2zu8dCHnl9ou0"
       },
@@ -980,7 +1020,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 209779,
       "name": "Frontin' Me",
       "url": "https://open.spotify.com/track/6HwA2kWbv4EAZPs8iLNJgP"
@@ -2554,7 +2594,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 132203,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/1YalCeuariNJ4hlEjq6o3S"
@@ -2864,6 +2904,28 @@
       "duration_ms": 131200,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5SgkueQ89lqtDZOlZ31ssy"
+    },
+    {
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/0kAC2pYik4U4CQpG8q04RM"
+      },
+      "artists": [
+        {
+          "name": "Grey October Sound",
+          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+        },
+        {
+          "name": "Lil Garden",
+          "url": "https://open.spotify.com/artist/46My5CtvnznjwjdtpXontb"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120094,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/6SEzgR48UAdz38EB8Rt5hu"
     },
     {
       "album": {
@@ -3244,6 +3306,24 @@
       "duration_ms": 187118,
       "name": "three",
       "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
+    },
+    {
+      "album": {
+        "name": "tide sketch",
+        "url": "https://open.spotify.com/album/4n2xL62SCpwN2kuQWZ2DSm"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130908,
+      "name": "tide sketch",
+      "url": "https://open.spotify.com/track/3olx1vNPEziegPrjO44r8O"
     },
     {
       "album": {
@@ -3704,6 +3784,24 @@
       "duration_ms": 160000,
       "name": "\u5929\u4f7f Lo-fi (instrumentals)",
       "url": "https://open.spotify.com/track/5xLIyGfaVMe1mDG9Zd91be"
+    },
+    {
+      "album": {
+        "name": "\u5c71\u6708",
+        "url": "https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT"
+      },
+      "artists": [
+        {
+          "name": "\u7e54\u7530\u7950\u4eae",
+          "url": "https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "\u5c71\u6708",
+      "url": "https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4bAcly2ZueH"

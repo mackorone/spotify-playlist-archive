@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > Celebrating 10 years of  the best new music by independent artists and labels, updated every Wednesday\. Cover: Jo The Man The Music, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,640 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,639 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 26 | [vermis](https://open.spotify.com/track/7LlnGj6eWF37IaJKOuZmfH) | [westermann](https://open.spotify.com/artist/3CpxEgAzIvRyjyzRM8pWAc) | [vermis](https://open.spotify.com/album/4bHNkhRUd2Mu5yc0UxeWlE) | 7:25 |
 | 27 | [Fragen](https://open.spotify.com/track/174WGwOVvNtcICLYHJqN55) | [Ingrids Enkel](https://open.spotify.com/artist/27QSJBIlPVWlH6SymRjBjm) | [Fragen](https://open.spotify.com/album/4VT2gGPFkw2bQPNAz5k7G7) | 2:52 |
 | 28 | [Schwindelfrei](https://open.spotify.com/track/3dDbWa9kEF3NVNFqF1CK7q) | [Rika Bender](https://open.spotify.com/artist/5ksv2lgeAjX6jJhFbAnwxM) | [Schwindelfrei](https://open.spotify.com/album/6CVOb8ashHiV6go4LNRZy5) | 2:50 |
-| 29 | [Pray For Us](https://open.spotify.com/track/31Duh9kh3vAe7zejXzuAM2) | [Rachel Harlow](https://open.spotify.com/artist/7hWawcoMd95oUfAqK6pb7Z) | [Pray For Us](https://open.spotify.com/album/2oiy1FLMoKTHoPw8wDZTf5) | 3:58 |
+| 29 | [Pray For Us](https://open.spotify.com/track/31Duh9kh3vAe7zejXzuAM2) | [Rachel Harlow](https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r) | [Pray For Us](https://open.spotify.com/album/2oiy1FLMoKTHoPw8wDZTf5) | 3:58 |
 | 30 | [alles/nichts](https://open.spotify.com/track/0MJIjeTV8IZOVoJQfkYsPa) | [taal](https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs) | [alles/nichts](https://open.spotify.com/album/78TpHDvI3ih7Qspr5fIOg7) | 3:38 |
 | 31 | [Und ich lauf](https://open.spotify.com/track/02580fheyYmwita65q7p4f) | [Diemarcha](https://open.spotify.com/artist/4G46pAcigEr3mgoCxagjhl), [vini baby](https://open.spotify.com/artist/5mHIDxqRLcIu0iL5EG4gzz), [TUN](https://open.spotify.com/artist/6FjgaqFC2jqck5hiP5zdC0) | [Und ich lauf](https://open.spotify.com/album/6gWGVl93aFJUX98g4vMPg5) | 3:04 |
 | 32 | [TAGIOG](https://open.spotify.com/track/1Lfky5cQsG5oEfjInW9Ei4) | [Quicche](https://open.spotify.com/artist/2x6Up6chiUGsIGOYPqJSAR) | [TAGIOG](https://open.spotify.com/album/6KAHIcMI6fVhwNIxKRVVfF) | 2:54 |

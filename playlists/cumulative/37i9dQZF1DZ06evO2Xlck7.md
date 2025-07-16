@@ -9,9 +9,9 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Piece Of Mind](https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:05 | 2022-10-25 |  |
-| [Anywhere But Here](https://open.spotify.com/track/1BX0orhjFpGQCbSNtHUpyO) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 3:09 | 2023-08-03 |  |
+| [Anywhere But Here](https://open.spotify.com/track/1BX0orhjFpGQCbSNtHUpyO) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 3:09 | 2023-08-03 | 2025-07-16 |
 | [Anywhere But Here](https://open.spotify.com/track/2jPYuI2SRCueYfdrMntkCq) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/7yspkJ99ueJylCjxHGEH77) | 3:09 | 2022-10-25 | 2023-01-24 |
-| [Anywhere But Here](https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:09 | 2022-10-28 | 2025-02-11 |
+| [Anywhere But Here](https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:09 | 2022-10-28 |  |
 | [Back To Oblivion](https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:23 | 2022-10-25 |  |
 | [Back To Oblivion](https://open.spotify.com/track/6lmViGkDC9BbmBb5l856fl) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 3:23 | 2023-11-10 | 2025-01-05 |
 | [Bang That](https://open.spotify.com/track/3VcCv2mLj6xTZs39TBC4DB) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Bang That](https://open.spotify.com/album/2j68CXKPfydWEvs5DLmpLq) | 2:34 | 2024-03-15 | 2024-05-02 |

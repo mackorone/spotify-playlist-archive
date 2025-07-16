@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Ethel Cain
 
-717 songs - 1 day 21 hr 19 min
+718 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Holy Water](https://open.spotify.com/track/0y6YKUUfgrEAUqzCSTSS0j) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [True North](https://open.spotify.com/album/5CMPddM08M99BREQ7Rc5Tl) | 3:47 | 2021-06-03 | 2022-04-20 |
 | [home with you](https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:44 | 2021-06-03 | 2022-06-04 |
 | [Homecoming Song \(NNAMDÏ Remix\)](https://open.spotify.com/track/6KAOVH01YEKnlxPRELczyM) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/4UhF1TkUq0ZgBxKY7iDhD2) | 2:25 | 2021-06-03 | 2022-04-13 |
+| [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 | 2025-06-27 |  |
 | [HOMESICK](https://open.spotify.com/track/1LgtiOd4QwvRSrY6ebiaSW) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [HOMESICK](https://open.spotify.com/album/5z6Aa2gtISXvVSzrb1ZlYH) | 2:49 | 2024-10-25 | 2024-11-16 |
 | [Honey i](https://open.spotify.com/track/5XC0BOfy3Av2TVPPjegnPi) | [Maiya Blaney](https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl) | [Honey i](https://open.spotify.com/album/7bdlFOQaZ49BKLNtLV20FN) | 4:01 | 2025-05-02 |  |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 | 2023-07-22 |
@@ -499,7 +500,7 @@
 | [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 | 2022-06-24 | 2023-01-18 |
 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 | 2021-07-19 | 2022-05-20 |
 | [Pixel Affection](https://open.spotify.com/track/2SSRl4W3RcjD3VBINiZ5lZ) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/65dSTesHJdw1ZhWfHNsKZ9) | 3:39 | 2021-06-03 | 2022-07-15 |
-| [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2022-04-22 |  |
+| [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2022-04-22 | 2025-07-16 |
 | [pleaser](https://open.spotify.com/track/5ldacn9iR3yFtYLrj5N3un) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:48 | 2024-08-30 | 2024-09-14 |
 | [Plein Air](https://open.spotify.com/track/7d0x1E8uKCbIVIdInBqR5y) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [Plein Air](https://open.spotify.com/album/0KbFiJiGYIeX8ui5Gkmz1S) | 4:47 | 2024-09-13 | 2024-10-22 |
 | [Poison Arrow](https://open.spotify.com/track/2RWZiDpnwmXjiH0NPW1d3O) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Poison Arrow](https://open.spotify.com/album/2WWzSHKxSZ31NERBFALxVB) | 4:20 | 2021-06-03 | 2022-07-26 |

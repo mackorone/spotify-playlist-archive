@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-187 songs - 11 hr 46 min
+188 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Tunggu Aku](https://open.spotify.com/track/1lIGMeQY4mQRZmiZCGukDl) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Sendiri](https://open.spotify.com/album/3QIzUyXYgnKHDcPmoch1MR) | 3:22 | 2023-07-13 | 2024-11-14 |
 | [Tunggu Aku Di Jakarta](https://open.spotify.com/track/0Z0K5nZGqw8WuV4WOLxVnR) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 5:07 | 2022-12-13 |  |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-10-15 |  |
+| [We Always Together](https://open.spotify.com/track/5425TbNdPMsmlmn7PdiXqd) | [Gusti Irwan Wibowo](https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3), [Hifdzikhoir](https://open.spotify.com/artist/58C6H14yuEB7fMu5lninwB) | [ENDIKUP](https://open.spotify.com/album/2l0w55TW2pUVsaLR2RWvNK) | 4:11 | 2025-07-15 |  |
 | [Ya Sudahlah](https://open.spotify.com/track/0OjiV7FpVCrOIq53ZSH1EM) | [Bondan Prakoso](https://open.spotify.com/artist/7b4mucf6X53D3pEaY1jWl6), [Fade2Black](https://open.spotify.com/artist/6gvA9QkTBrrVgC61J4YaA8) | [For All](https://open.spotify.com/album/0LTNM8p3hEvAPbidxNtg7Q) | 4:14 | 2025-07-07 |  |
 | [Yang Kusayang](https://open.spotify.com/track/07u51YjzguLY8v8XHQaBMd) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Yang Kusayang](https://open.spotify.com/album/4sZAdMtWkGYd1wI643Y2on) | 4:22 | 2022-12-13 | 2023-09-21 |
 | [You](https://open.spotify.com/track/79xK6U9ebkeiE5W3n0ejAI) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [You](https://open.spotify.com/album/3PvrFFoalcNBqVhzrYPidR) | 4:04 | 2022-12-13 | 2023-01-10 |

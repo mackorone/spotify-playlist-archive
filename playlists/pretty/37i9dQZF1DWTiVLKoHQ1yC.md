@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,808 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,867 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 39 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 |
 | 40 | [Break My Love](https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Break My Love](https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y) | 4:20 |
 | 41 | [Quicksand \(Don't Go\)](https://open.spotify.com/track/31bZ1mzfyByfW5uPw1lxT7) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Quicksand \(Don't Go\)](https://open.spotify.com/album/0WCqTOZHxoqdZBkwuyXZEC) | 3:12 |
-| 42 | [Waiting on the World](https://open.spotify.com/track/3iP2Rwtbe5zBYSqI4ORAaN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Waiting on the World](https://open.spotify.com/album/1gTzdnIENgVnXUCPd2zaPz) | 3:53 |
-| 43 | [Martin](https://open.spotify.com/track/6o9cf8uFietnTZLtSGCvHH) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Bloom](https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid) | 3:49 |
-| 44 | [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 |
+| 42 | [Martin](https://open.spotify.com/track/6o9cf8uFietnTZLtSGCvHH) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Bloom](https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid) | 3:49 |
+| 43 | [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 |
+| 44 | [Waiting on the World](https://open.spotify.com/track/3iP2Rwtbe5zBYSqI4ORAaN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Waiting on the World](https://open.spotify.com/album/1gTzdnIENgVnXUCPd2zaPz) | 3:53 |
 | 45 | [Eusexua \- Anyma Remix](https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Eusexua \(Anyma Remix\)](https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN) | 3:18 |
 | 46 | [Es Vedrà](https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Es Vedrà](https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET) | 3:17 |
 | 47 | [Burn](https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk) | 3:04 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 56 | [Heard It All Before](https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX), [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Heard It All Before](https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH) | 2:54 |
 | 57 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
 | 58 | [Mojo](https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Mojo](https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d) | 3:18 |
-| 59 | [Iajo](https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Iajo](https://open.spotify.com/album/00D70fYsAp00LqwJuh6214) | 4:38 |
-| 60 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
+| 59 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
+| 60 | [Iajo](https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Iajo](https://open.spotify.com/album/00D70fYsAp00LqwJuh6214) | 4:38 |
 
 Snapshot ID: `aGcLhQAAAABmtxqHPuv3sx3xQ2CBSsAz`

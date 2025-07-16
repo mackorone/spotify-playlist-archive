@@ -4,7 +4,7 @@
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Juky San
 
-336 songs - 21 hr 12 min
+337 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 | 2021-12-07 | 2023-07-22 |
 | [thế giới không anh](https://open.spotify.com/track/4IpeOlxcNz1IFVvZ2ll7In) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [yesteryear](https://open.spotify.com/album/33EIrbMJq7O5fQ1WPcwaB4) | 4:19 | 2021-12-07 | 2023-02-07 |
 | [Tin Nhắn Sau Cùng](https://open.spotify.com/track/4P05WuzPnCN2vqH50RyrLt) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Chia Tay](https://open.spotify.com/album/4clb1rDsPU9TuBT2P5mZU2) | 3:07 | 2025-07-03 |  |
+| [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 | 2025-07-15 |  |
 | [Trái Tim Em Cũng Biết Đau](https://open.spotify.com/track/3xgG9C4ACPGQfYGjahrvVx) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [VSTRA](https://open.spotify.com/album/168kYvrugeWAGTfIl7i4Ck) | 3:05 | 2024-07-03 | 2024-08-01 |
 | [Trái đất ôm Mặt trời](https://open.spotify.com/track/4NTanSVXBkQ2NmDEbr2vLE) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Trái đất ôm Mặt trời](https://open.spotify.com/album/56L3SxM76dbmYCD1tOziHB) | 3:14 | 2025-07-03 |  |
 | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/4zFgUpC8z88A9aEo7dnRPN) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:19 | 2022-11-30 | 2023-12-09 |
@@ -343,6 +344,6 @@
 | [Đừng Nói Tôi Điên](https://open.spotify.com/track/2SBUmN7mgGikl6oESlNWS7) | [Thu Minh](https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5), [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Đừng Nói Tôi Điên](https://open.spotify.com/album/6mxpoaAVFBasybCf2NHaPN) | 4:30 | 2023-11-29 | 2024-03-06 |
 | [ƯỚC ANH TAN NÁT CON TIM](https://open.spotify.com/track/4r12MbGoZQBt6SQpFyFXq8) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [ƯỚC ANH TAN NÁT CON TIM](https://open.spotify.com/album/3rBSN7zMui46ss81lhh6zU) | 3:50 | 2024-09-10 | 2024-12-05 |
 | [ở nhà một mình](https://open.spotify.com/track/5r3mcoFfYljX47zAAlaGSQ) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh) | [ở nhà một mình](https://open.spotify.com/album/5UsZGUTh4OScmYkqy7Ydsj) | 3:17 | 2024-11-13 | 2024-12-05 |
-| [思念的轮廓 Lovely Figures \- Diiton Remix](https://open.spotify.com/track/112ygzMm6rPXheaxB9CxoE) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [SGN\-TPE Remix](https://open.spotify.com/album/50eofimeNMUDwVBwvAqLIM) | 2:33 | 2025-07-03 |  |
+| [思念的轮廓 Lovely Figures \- Diiton Remix](https://open.spotify.com/track/112ygzMm6rPXheaxB9CxoE) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [SGN\-TPE Remix](https://open.spotify.com/album/50eofimeNMUDwVBwvAqLIM) | 2:33 | 2025-07-03 | 2025-07-16 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

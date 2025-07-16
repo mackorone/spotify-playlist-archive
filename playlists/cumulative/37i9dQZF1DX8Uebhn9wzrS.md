@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,350 songs - 3 day 17 hr 35 min
+2,351 songs - 3 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,6 +692,7 @@
 | [Feeling Relaxed](https://open.spotify.com/track/3Xs7hvI1tofJ5KAwcHKzoO) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Feeling Relaxed](https://open.spotify.com/album/76Het5EiAMnghGM3B14KtR) | 2:08 | 2022-08-12 | 2022-12-17 |
 | [Feelings](https://open.spotify.com/track/2WssIKerucCL8Y1OSW5Kpe) | [Max Rolls](https://open.spotify.com/artist/26y4jZ3fN6x7BxjhaBggE7) | [LoFi Chill Universe](https://open.spotify.com/album/5rz4xOfz5mMVZp1l37CI2T) | 1:51 | 2022-09-02 | 2022-12-24 |
 | [Fellow Friend](https://open.spotify.com/track/1SDv213wb1dZLlvnadfU5R) | [Toppis Tom](https://open.spotify.com/artist/5Wd9JTpUMvXCit3ugNv0FV) | [Fellow Friend](https://open.spotify.com/album/2jBg3GOh3xl7b49XY2npN6) | 2:03 | 2022-04-15 | 2022-06-25 |
+| [felt cute might delete later](https://open.spotify.com/track/2xb0RZbOMPKK1IYdiym40k) | [Lonny serenity](https://open.spotify.com/artist/0mdQEEcxlhORVzpDA05vRn) | [felt cute might delete later](https://open.spotify.com/album/4wh6HDqI6ZKQSBAQBNyflQ) | 2:19 | 2025-07-11 |  |
 | [Felted Wool](https://open.spotify.com/track/1j51ge98kGmME62kKxFo4G) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [Testdrive](https://open.spotify.com/album/04759YuUbVbnSkpoOO47rP) | 3:17 | 2022-04-15 | 2022-07-22 |
 | [Fender Bender](https://open.spotify.com/track/6hogWoj5zE1i8pLS7pyXwz) | [Alkis Siokis](https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O) | [Fender Bender](https://open.spotify.com/album/2xhosSPWPwfqIfPLRCtDYT) | 2:39 | 2022-04-15 | 2022-12-17 |
 | [Fernvale](https://open.spotify.com/track/6lP0M5Lx3ME3TzRijzRwic) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [But First Coffee](https://open.spotify.com/album/07qI7oGYsBI3sWFyuh0JD6) | 1:26 | 2022-04-15 | 2022-05-27 |
@@ -798,7 +799,7 @@
 | [Galu](https://open.spotify.com/track/02lQKzdCsP0YeRDRjJunz7) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Maulu](https://open.spotify.com/album/6D3JN5dhSXj1YvaBzWL8dW) | 2:03 | 2022-04-15 | 2022-05-27 |
 | [Garden Araki](https://open.spotify.com/track/6aUu7XAvrwqJfOXkG3YLZ1) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [Garden Araki](https://open.spotify.com/album/4GrDO1XWWOXoKJ8kwAnyRD) | 2:23 | 2022-04-15 | 2022-09-23 |
 | [Garden Lights](https://open.spotify.com/track/5zSa6ekJG1FQSHPKS0v6c3) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Skengybeatz](https://open.spotify.com/artist/4RKXfmC9klLXN3SzDxmXJ1) | [Garden Lights](https://open.spotify.com/album/5XonElufDXSMydtnchCqtd) | 2:08 | 2022-10-07 | 2023-01-13 |
-| [Garden Nights](https://open.spotify.com/track/3O1z6rCu1U9M87RyJ9GGJb) | [Jinmenju](https://open.spotify.com/artist/0PdFH8ZeWFvUr0uXGd6MXd) | [Mirage](https://open.spotify.com/album/2ZDVyuWSJWMyquXj8ivOl7) | 2:02 | 2025-07-10 |  |
+| [Garden Nights](https://open.spotify.com/track/3O1z6rCu1U9M87RyJ9GGJb) | [Jinmenju](https://open.spotify.com/artist/0PdFH8ZeWFvUr0uXGd6MXd) | [Mirage](https://open.spotify.com/album/2ZDVyuWSJWMyquXj8ivOl7) | 2:02 | 2025-07-10 | 2025-07-16 |
 | [Garden Suitcase](https://open.spotify.com/track/7M7F46ZhsjjQrat1xsSBnZ) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Garden Suitcase](https://open.spotify.com/album/7xMTf3XHD0bDYg0qAybTry) | 2:31 | 2024-02-02 |  |
 | [Gas Guzzling](https://open.spotify.com/track/4S586yJKAg7TtGaA4SOLec) | [Sleepy Titan](https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL) | [Gas Guzzling](https://open.spotify.com/album/2pvO8YY1SwXuoyPvGSB0fS) | 2:21 | 2022-12-23 | 2024-09-07 |
 | [Gas Station Oasis](https://open.spotify.com/track/0XSfoUnf7HB5DEd2kIEAZV) | [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj) | [Gas Station Oasis](https://open.spotify.com/album/2P46J1xI0GgdfTOwnwt4uo) | 2:19 | 2023-03-08 | 2024-02-09 |

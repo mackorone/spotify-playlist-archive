@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,582 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,601 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 28 | [Thugged Out \(feat\. Kodak Black\)](https://open.spotify.com/track/0uRsQ1Q3ZPuXTEkEeUXNNf) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Just A Matter of Slime](https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx) | 3:06 |
 | 29 | [Don’t Leave Me](https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:36 |
 | 30 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/72ozIjVFHpAnKGcuYpCfb7) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 3:23 |
-| 31 | [GD Anthem](https://open.spotify.com/track/0IAQb5BDqLI5ZlGVDiFArh) | [Rooga](https://open.spotify.com/artist/5zDlgTCrdCh2cFRX7nH8W1) | [GD Anthem](https://open.spotify.com/album/0vEwVgYvI4kNNLsszRi3zo) | 3:10 |
-| 32 | [Relentless \(feat\. Lil Durk\)](https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1) | [Booka600](https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Relentless \(feat\. Lil Durk\)](https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu) | 3:26 |
+| 31 | [Relentless \(feat\. Lil Durk\)](https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1) | [Booka600](https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Relentless \(feat\. Lil Durk\)](https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu) | 3:26 |
+| 32 | [GD Anthem](https://open.spotify.com/track/0IAQb5BDqLI5ZlGVDiFArh) | [Rooga](https://open.spotify.com/artist/5zDlgTCrdCh2cFRX7nH8W1) | [GD Anthem](https://open.spotify.com/album/0vEwVgYvI4kNNLsszRi3zo) | 3:10 |
 | 33 | [Off\-White \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7) | [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Off\-White \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T) | 2:44 |
 | 34 | [Dirty K](https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:49 |
 | 35 | [Brush Em \(feat\. Rah Swish\)](https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 2:30 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 42 | [Demons \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/5QdnavjDzGRNHfQn23PlG8) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Demons \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/0Lwd1Jj6yJxpbDT1vHzC9m) | 2:58 |
 | 43 | [Senseless](https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT) | 2:23 |
 | 44 | [My Shit](https://open.spotify.com/track/1HmhJrabjvTHZlkKDUzZfX) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [My Shit](https://open.spotify.com/album/7C6YsJ2PYab0ydSTP7BQB2) | 2:00 |
-| 45 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 |
+| 45 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 |
 | 46 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 |
 | 47 | [Matt Hardy 999 \(feat\. Juice WRLD\)](https://open.spotify.com/track/4zbr7Cp3UB00FurUovPU03) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Trip At Knight](https://open.spotify.com/album/2CKiKnlmneU5Lr0aQLB83Q) | 3:08 |
 | 48 | [Harley Quinn](https://open.spotify.com/track/3TWnb13OgnxJH7h9lynmv2) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harley Quinn](https://open.spotify.com/album/6uW5KPszYl0JVmM0XXlWe4) | 2:52 |
-| 49 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 |
+| 49 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 |
 | 50 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 |
 
 Snapshot ID: `ZIsTtgAAAADxa7KpA88d9BwOfZuO9AAd`

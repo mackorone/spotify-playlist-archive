@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: SUPER JUNIOR \(슈퍼주니어\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: 윤산하\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-705 songs - 1 day 14 hr 44 min
+706 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Excalibur](https://open.spotify.com/track/1SLDcZRnr6zHJOsFqO9T8n) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom : PartⅠ\. Arthur](https://open.spotify.com/album/1Vf3hY3aLfTVhPLiXU8HR7) | 4:13 | 2022-03-30 | 2022-04-20 |
 | [EXIT](https://open.spotify.com/track/5pTMVpOuFCM1GYjI2Lm2r3) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 2](https://open.spotify.com/album/0oTCoSk1qZJ2LdiZ05sJC0) | 3:10 | 2021-12-08 | 2022-04-18 |
 | [Express Mode](https://open.spotify.com/track/1fDGN1BOe1eMgofgO6qxm0) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior25 \- The 12th Album](https://open.spotify.com/album/5tEaAx0Cb3PEOrErWE503a) | 3:08 | 2025-07-09 |  |
+| [EXTRA VIRGIN](https://open.spotify.com/track/6jl087OUMBa74HMWRNcCtK) | [YOON SAN\-HA \(ASTRO\)](https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW) | [CHAMELEON](https://open.spotify.com/album/61lFO56ewu4yjeGKc8UnA5) | 3:22 | 2025-07-15 |  |
 | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/album/2yyyLbIoQWvZXudDHeUkOd) | 3:34 | 2022-01-17 | 2022-07-25 |
 | [Fadeaway](https://open.spotify.com/track/3ckM6eeEiOc0iON56lKfDv) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Fadeaway \(From "GARBAGE TIME"\)](https://open.spotify.com/album/7phg7mzEHuthKyl6e4UvA7) | 2:52 | 2023-11-10 | 2023-12-22 |
 | [FAKE LOVE](https://open.spotify.com/track/3aW0ds4A4tSQDIp75FqWTo) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 4:02 | 2022-02-15 | 2022-05-15 |
@@ -454,7 +455,7 @@
 | [Nectar](https://open.spotify.com/track/6MEtGumgTXWquxH35osvEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.3 Love Letter](https://open.spotify.com/album/2DcHBijnoFP2tjuRGJ1L6F) | 3:04 | 2024-03-21 | 2024-05-09 |
 | [New Emotions](https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [13egin](https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W) | 2:44 | 2023-07-31 | 2023-08-17 |
 | [Next to Me](https://open.spotify.com/track/35pgNknwrEIUQByD7ZcGQH) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 飛上](https://open.spotify.com/album/5jiLdsyFP8bDMu2LcSL8e4) | 3:20 | 2023-05-18 | 2023-05-23 |
-| [Nice Guy](https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [19.99](https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF) | 2:44 | 2024-09-12 |  |
+| [Nice Guy](https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [19.99](https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF) | 2:44 | 2024-09-12 | 2025-07-16 |
 | [No Air](https://open.spotify.com/track/0mve4vxmwumqI6gnw7euma) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd MINI ALBUM \[THE ONLY\]](https://open.spotify.com/album/0OQZQq2066KZgauv3M24CK) | 4:04 | 2021-12-08 | 2022-07-24 |
 | [No Doubt](https://open.spotify.com/track/44hqFxUWsADWewEJELnncj) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:47 | 2024-11-11 |  |
 | [No More X](https://open.spotify.com/track/7ykZspJW8uY2Lx26zO3eBt) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [RE:ALIZE](https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy) | 2:58 | 2022-03-22 | 2022-06-15 |

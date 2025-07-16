@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYcwnCfuufL.md) - [plain]
 
 > 우리의 얼과 소리가 담긴 국악음악을 즐겨보세요\. \(커버: 엄유정\(Eom Yu Jeong\)\) \(Enjoy Korean national music with our spirit and sound.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,787 likes - 57 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,795 likes - 57 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 88800,
+  "num_followers": 88856,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHL3AAAAAACAzx7EGie7hjlSTcZpTi7r",
+  "snapshot_id": "aHRIgAAAAAB7dhpswCZ9LzApzNTnmE0I",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 283793,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 238767,
       "name": "Summertime (feat. Citizen Cope)",
       "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 283793,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 279323,
+      "name": "Just Another Dream",
+      "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easy to Love You",
         "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 279323,
-      "name": "Just Another Dream",
-      "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
@@ -627,30 +627,6 @@
       "duration_ms": 255986,
       "name": "Mind Block (with Eric Rachmany)",
       "url": "https://open.spotify.com/track/6aZGYH9pDOFew9SvIKwi5M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slow Ride",
-        "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 232444,
-      "name": "Slow Ride",
-      "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
     },
     {
       "added_at": null,
@@ -683,6 +659,30 @@
       "duration_ms": 255439,
       "name": "Heartland",
       "url": "https://open.spotify.com/track/4BG3BJjZ6g2tMOiFaawWEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slow Ride",
+        "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 232444,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
     },
     {
       "added_at": null,

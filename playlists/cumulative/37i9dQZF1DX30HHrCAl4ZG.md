@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Jay Som
 
-1,947 songs - 4 day 13 hr 42 min
+1,948 songs - 4 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1662,6 +1662,7 @@
 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 | 2021-06-07 | 2022-04-16 |
 | [Tea On The Kettle](https://open.spotify.com/track/60nHhF2dqeYxbqyZr4X59o) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Playing Favorites](https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq) | 2:36 | 2024-03-01 | 2024-03-16 |
 | [Teal](https://open.spotify.com/track/18eWVQXDPnRghOmYWvoThV) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Teal](https://open.spotify.com/album/4bKMQzd1vuZftMTcoEwqg0) | 3:10 | 2021-09-03 | 2022-04-21 |
+| [Tearing Away](https://open.spotify.com/track/77yVVQ6nZMCOWB0FGUMOsH) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Tearing Away](https://open.spotify.com/album/31eSDEO04EOL8SeiCJdgdE) | 2:50 | 2025-07-15 |  |
 | [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 | 2022-04-15 | 2022-07-02 |
 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 | 2023-07-14 | 2023-09-09 |
 | [Teenage Dream](https://open.spotify.com/track/4rssWNMsh5veaSUEydTAls) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Teenage Dream](https://open.spotify.com/album/7KGsbhfYrdhjLO7XPk04zs) | 3:51 | 2022-10-07 | 2022-10-29 |

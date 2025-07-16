@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: E.V.P",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 11",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 333106,
       "name": "03- Drill Cypher 2025 (feat. 999dobby, Tee Shyne, STACK THE PINK, Pxrge Trxxxper, Acchi Mello & Vega KfK)",
       "url": "https://open.spotify.com/track/2MWW0Zasn4VZFFORQYcyHA"
@@ -5344,7 +5344,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 236609,
       "name": "ENTERTAINERS",
       "url": "https://open.spotify.com/track/4QFPzrJkAZOggrZwiEyV5r"
@@ -7929,6 +7929,28 @@
     },
     {
       "album": {
+        "name": "HIKOUKI (feat. GOLD DIGGA)",
+        "url": "https://open.spotify.com/album/6YNCx8q6UTD3SWLRYec98b"
+      },
+      "artists": [
+        {
+          "name": "S.I.",
+          "url": "https://open.spotify.com/artist/6QecK8nUAIENxu5IpJESNh"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "HIKOUKI (feat. GOLD DIGGA)",
+      "url": "https://open.spotify.com/track/1dSU3ve1ay6vAingAFNttQ"
+    },
+    {
+      "album": {
         "name": "HO CHI MINH",
         "url": "https://open.spotify.com/album/1SZyd3TorNwEbEceUaU9EI"
       },
@@ -10023,6 +10045,28 @@
     },
     {
       "album": {
+        "name": "LET ME SEE",
+        "url": "https://open.spotify.com/album/2f2bkEmhshdYEdB0ZD4Dg9"
+      },
+      "artists": [
+        {
+          "name": "Hanemii",
+          "url": "https://open.spotify.com/artist/7un3CBibLdJpaUssEQ0eny"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144982,
+      "name": "LET ME SEE",
+      "url": "https://open.spotify.com/track/0jXfA51fa8JfcMDuC2Jv5Z"
+    },
+    {
+      "album": {
         "name": "Let you go",
         "url": "https://open.spotify.com/album/0VZbeB2NTobCpofkbOA8la"
       },
@@ -10557,6 +10601,24 @@
     },
     {
       "album": {
+        "name": "Lost Night",
+        "url": "https://open.spotify.com/album/3U0lXpDvmE1MQ71DIAUIyh"
+      },
+      "artists": [
+        {
+          "name": "YELLASOMA",
+          "url": "https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153391,
+      "name": "Lost Night",
+      "url": "https://open.spotify.com/track/1dL40UUQtAksPt0aOTBggk"
+    },
+    {
+      "album": {
         "name": "VARIOUS TAPE",
         "url": "https://open.spotify.com/album/6scau8PfKZuX284je50V3O"
       },
@@ -10994,6 +11056,28 @@
       "duration_ms": 182680,
       "name": "Me>Enemy",
       "url": "https://open.spotify.com/track/1NKcyIqpr8wScUPYA5qFC3"
+    },
+    {
+      "album": {
+        "name": "Meaning of Life",
+        "url": "https://open.spotify.com/album/5mrdqjWGMBt0agdlpTKgY1"
+      },
+      "artists": [
+        {
+          "name": "Bardin Beatz",
+          "url": "https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA"
+        },
+        {
+          "name": "Reezzz",
+          "url": "https://open.spotify.com/artist/2CBQbNDtyueIwxGN3GszVc"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "Meaning of Life",
+      "url": "https://open.spotify.com/track/6QIgZ5CfAmmKRdKh6MLDE9"
     },
     {
       "album": {
@@ -11748,7 +11832,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 183000,
       "name": "Nanishiteru?",
       "url": "https://open.spotify.com/track/1OgQCm898YAryLgIKDiJhf"
@@ -13854,7 +13938,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 147692,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/79vJfTslCd0TwEzZgcuBX6"
@@ -15302,7 +15386,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 189090,
       "name": "Seaside Hotel",
       "url": "https://open.spotify.com/track/7CBQguJVxiJD54eRdhfU5z"
@@ -16000,6 +16084,28 @@
       "duration_ms": 133942,
       "name": "Slay",
       "url": "https://open.spotify.com/track/21t9ehfKXn12MVZOWjb0vu"
+    },
+    {
+      "album": {
+        "name": "Sleek Bun",
+        "url": "https://open.spotify.com/album/2fQA7IpQgRoabeLgnjF1e4"
+      },
+      "artists": [
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        },
+        {
+          "name": "Yog*",
+          "url": "https://open.spotify.com/artist/4Yu1jfEQO3TLm9sT1JapUw"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127535,
+      "name": "Sleek Bun",
+      "url": "https://open.spotify.com/track/6FsCCWKaOznJfZCHXNUfbb"
     },
     {
       "album": {
@@ -17108,7 +17214,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 153136,
       "name": "TEST (feat. GOLD DIGGA)",
       "url": "https://open.spotify.com/track/3QTNVZEKkw7tnRoDckJNKl"
@@ -17166,7 +17272,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 99113,
       "name": "That's Why",
       "url": "https://open.spotify.com/track/3ZKm0mht01RukwRnOnUOIB"
@@ -17298,6 +17404,28 @@
       "duration_ms": 152573,
       "name": "The Rose",
       "url": "https://open.spotify.com/track/1yzvhrIJOCUylHFcDsNKSO"
+    },
+    {
+      "album": {
+        "name": "Theory of Art",
+        "url": "https://open.spotify.com/album/0wIcx8DTXWVE54A9fHl7Vw"
+      },
+      "artists": [
+        {
+          "name": "11",
+          "url": "https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa"
+        },
+        {
+          "name": "CETLO",
+          "url": "https://open.spotify.com/artist/3YGNbHE4it0XzWGHPKyk5Z"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225135,
+      "name": "Theory of Art",
+      "url": "https://open.spotify.com/track/0jkh1pACPgITZzFYz5mmd4"
     },
     {
       "album": {
@@ -18086,6 +18214,24 @@
       "duration_ms": 196680,
       "name": "Very Very Rare",
       "url": "https://open.spotify.com/track/2VYapRk2F1lbDCiA3vD8wq"
+    },
+    {
+      "album": {
+        "name": "Vibin'",
+        "url": "https://open.spotify.com/album/7e8331YdslhPUrtFWb7NoT"
+      },
+      "artists": [
+        {
+          "name": "TOKINE",
+          "url": "https://open.spotify.com/artist/3Tg1uV8PDqrVWiPHOBZumU"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Vibin'",
+      "url": "https://open.spotify.com/track/2K77C9SjqlcSFceL6KzYsC"
     },
     {
       "album": {
@@ -20246,7 +20392,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 159120,
       "name": "\u5927\u6f01",
       "url": "https://open.spotify.com/track/7gBbP15PmK3KyaSjbEBM0A"
@@ -20641,6 +20787,24 @@
     },
     {
       "album": {
+        "name": "\u77e5\u308b\u304b",
+        "url": "https://open.spotify.com/album/1rsPBeG9tdPTbQsKf4we8X"
+      },
+      "artists": [
+        {
+          "name": "qweity",
+          "url": "https://open.spotify.com/artist/0FA9EdlIFrZ49mRCNmm7wD"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "\u77e5\u308b\u304b",
+      "url": "https://open.spotify.com/track/0OPXFB3nIhETY0Y6jMSv4E"
+    },
+    {
+      "album": {
         "name": "\u7b2c\u6551\u6761",
         "url": "https://open.spotify.com/album/7phcQamybNqbWXszHenikP"
       },
@@ -20930,6 +21094,24 @@
       "duration_ms": 159428,
       "name": "\u8abf\u5b50\u3044\u3044",
       "url": "https://open.spotify.com/track/7lnCUxVDaXYUBb4ySnn8E2"
+    },
+    {
+      "album": {
+        "name": "\u8cfd",
+        "url": "https://open.spotify.com/album/6JyBNKeUoChdWONN50gCZt"
+      },
+      "artists": [
+        {
+          "name": "shai",
+          "url": "https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155244,
+      "name": "\u8cfd",
+      "url": "https://open.spotify.com/track/6cGxgzGICj2OV8BLd3PYrk"
     },
     {
       "album": {

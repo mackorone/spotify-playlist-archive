@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,400 likes - 275 songs - 22 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,425 likes - 275 songs - 22 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 38 | [Arrival](https://open.spotify.com/track/2viTyPYxXYaPDF2ktsI5QN) | [Lodzy](https://open.spotify.com/artist/210SAMFdPHWUdxUdrtLMnt) | [Arrival](https://open.spotify.com/album/5JOfkQJiThzaywp0yMH1bU) | 4:26 |
 | 39 | [Duo Pulse](https://open.spotify.com/track/02Jy2accvqFUfr8TmFWleS) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Duo Pulse](https://open.spotify.com/album/0PJgxCPlMtCFHg4VCrNOy3) | 4:16 |
 | 40 | [Hot Heads](https://open.spotify.com/track/4YOMzu7qpiOgGU0WIWg0pu) | [Ensemble Entendu](https://open.spotify.com/artist/3JNqNGzv0kjQOFUmkYOvUc) | [Hot Heads](https://open.spotify.com/album/67IzmdsZJzgDezhYVd1SKx) | 7:00 |
-| 41 | [Unknown](https://open.spotify.com/track/1v2DncllklUbNrrXlTVd4h) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Unknown](https://open.spotify.com/album/67Su044sk5CBq6c6z03VEA) | 4:00 |
+| 41 | [Unknown](https://open.spotify.com/track/1v2DncllklUbNrrXlTVd4h) | [Verses GT](https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Unknown](https://open.spotify.com/album/67Su044sk5CBq6c6z03VEA) | 4:00 |
 | 42 | [005 MAGIK](https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm) | [ONYX GARDEN](https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx) | [FLOATING / 005 MAGIK](https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa) | 3:36 |
 | 43 | [You took me in](https://open.spotify.com/track/4fDkXhzgQlyxw3ZmHivc3F) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Linked](https://open.spotify.com/album/4G32kJIxQlduHOsvpijhGL) | 6:10 |
 | 44 | [Arpeggi](https://open.spotify.com/track/5c30Lqd4zY3dpMK2usb9yU) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7) | 4:45 |

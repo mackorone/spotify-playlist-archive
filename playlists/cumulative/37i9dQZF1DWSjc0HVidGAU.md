@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of GOOD BOY\. \(굿보이의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-24 songs - 1 hr 16 min
+25 songs - 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 | 2025-06-11 |  |
 | [Time Lapse](https://open.spotify.com/track/54XrNRY4jPnzAVamPvuA7o) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0a0LC99zZ0UArr1fFrt49U) | 3:22 | 2025-07-07 |  |
 | [Very Good](https://open.spotify.com/track/6svBgFCnXYst3N8OJJ1XAB) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Very Good](https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww) | 3:20 | 2025-06-11 |  |
+| [Waterfall](https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm) | 3:17 | 2025-07-15 |  |
 | [With Your Love](https://open.spotify.com/track/7Il5jEgeqJmhVRCvcw7f1a) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2J5G4nG3Yld22VHOGA90Lq) | 3:55 | 2025-06-16 |  |
 
 \*This playlist was first scraped on 2025-06-12. Prior content cannot be recovered.

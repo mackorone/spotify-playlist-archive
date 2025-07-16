@@ -527,6 +527,32 @@
     },
     {
       "album": {
+        "name": "Bollera",
+        "url": "https://open.spotify.com/album/7DSL0AxTYtjZf3Y5yHaCIJ"
+      },
+      "artists": [
+        {
+          "name": "La Mare",
+          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
+        },
+        {
+          "name": "Roba Estesa",
+          "url": "https://open.spotify.com/artist/3VzGOFrX7MDtLe2Wfndgjt"
+        },
+        {
+          "name": "Xerach",
+          "url": "https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162789,
+      "name": "Bollera",
+      "url": "https://open.spotify.com/track/4xHXFX1nXCNGi6pRUKYkub"
+    },
+    {
+      "album": {
         "name": "BOMBEROS",
         "url": "https://open.spotify.com/album/3lS6litcoyERbZEcK4gv0O"
       },
@@ -816,7 +842,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 178125,
       "name": "costa brava",
       "url": "https://open.spotify.com/track/7MmdTcUDVkk0TkD1ImJOVj"

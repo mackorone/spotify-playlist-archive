@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-504 songs - 1 day 7 hr 9 min
+505 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [The Mask And The Mirror](https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [The Great Big Lie](https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8) | 3:09 | 2023-06-02 |  |
 | [The Middle](https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Life Is Good on the Open Road](https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh) | 4:28 | 2023-04-14 | 2023-07-22 |
 | [The Middle](https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [The Middle](https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct) | 4:28 | 2021-10-01 | 2023-04-20 |
+| [The Mountains Are Callin'](https://open.spotify.com/track/7IbMnaUQ7kKof3JI61AOBc) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [The Mountains Are Callin'](https://open.spotify.com/album/12jUdJq8imT7iyuHbPmVvn) | 3:51 | 2025-07-15 |  |
 | [The New Ground](https://open.spotify.com/track/6yljyecBkeP42NOhPzuJpH) | [Kristin Andreassen](https://open.spotify.com/artist/4ZmoZRx6S8AvKtFuRGIVSX) | [Gondolier](https://open.spotify.com/album/7FqccxROWYb0YQ3rg97ggN) | 3:26 | 2021-10-01 |  |
 | [The Painter's Folly](https://open.spotify.com/track/4DNmmgSWnx2LdqW2gupLrb) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [The Painter's Folly](https://open.spotify.com/album/3CjhogJEk8FdhgzbqLIbjz) | 3:24 | 2024-07-26 | 2025-02-15 |
 | [The Rain Done Fell on Me, Pt\. 1](https://open.spotify.com/track/5sxEhQimCSJ6ntaNTCk1y7) | [Justin Golden](https://open.spotify.com/artist/0UJMXL1jlszq1XqzM9MOAl) | [The Rain Done Fell on Me, Pt\. 1](https://open.spotify.com/album/290GEbcFq3xbG49BNYy0N9) | 2:23 | 2024-05-10 |  |

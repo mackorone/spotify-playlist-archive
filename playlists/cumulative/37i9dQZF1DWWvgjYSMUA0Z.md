@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-352 songs - 18 hr 29 min
+356 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Divine](https://open.spotify.com/track/66wXImRKuhTGpZ69DvZg7B) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Divine](https://open.spotify.com/album/6OrR8pnQUICQns5IRJVPay) | 4:05 | 2022-09-13 | 2023-04-06 |
 | [Dream Vision](https://open.spotify.com/track/6Gq98qETyw5wYA9y0zyyPV) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Dream Vision](https://open.spotify.com/album/3siMOt2YviDaqAubEpPixV) | 2:43 | 2025-01-14 |  |
 | [Dreams Heal](https://open.spotify.com/track/61Sd5YUadsBv0q1QwZ0DYq) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Dreams Heal](https://open.spotify.com/album/1hkbk6voyHzvJHIguKWGLJ) | 3:11 | 2025-01-14 |  |
+| [Dreams of Another](https://open.spotify.com/track/3pOOs5JqVXvvZFwOeEb1g6) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Dreams of Another](https://open.spotify.com/album/27GczgpVr1V4JtHWfNtbaS) | 2:46 | 2025-07-15 |  |
 | [Drift and Dream](https://open.spotify.com/track/098LbZ8UzF9IPPSRK7ueLx) | [Aitne](https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO) | [Drift and Dream](https://open.spotify.com/album/2jaiwGfSgvBLZlg150X363) | 3:23 | 2025-05-14 |  |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2021-12-22 | 2025-02-19 |
 | [Drishti](https://open.spotify.com/track/1rv5kg8rscXfJppwwXW2oe) | [Indigo](https://open.spotify.com/artist/0fYIsfdNUC9BUwy2XycilE) | [Drishti](https://open.spotify.com/album/47R5a1mzc9h1lsRnaqkhua) | 2:41 | 2024-07-13 |  |
@@ -152,6 +153,7 @@
 | [In jouw armen](https://open.spotify.com/track/27U2vAXaXKEFo3oaqYFqq3) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In jouw armen](https://open.spotify.com/album/0R7SDTTsNQOpxGKM5PVKKm) | 3:10 | 2021-12-22 | 2025-02-19 |
 | [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 | 2022-12-09 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2021-12-22 | 2024-11-23 |
+| [Indigo Evening](https://open.spotify.com/track/6gBPXoHpg9B8fxMJfg4K2S) | [Avvaken](https://open.spotify.com/artist/3V4slVRtEqnIeps8KRgnRG) | [Indigo Evening](https://open.spotify.com/album/3WNzH65tlcPGZsrDK9XyZ5) | 3:04 | 2025-07-15 |  |
 | [Indo no kaze](https://open.spotify.com/track/6iNn6uDm8SHrBfl26uwUyv) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Indo no kaze](https://open.spotify.com/album/1HHSnRNU1sAnfA9cI3IIvV) | 3:00 | 2024-05-11 |  |
 | [Inner Light](https://open.spotify.com/track/3UcFd72FxgwGIx06dkiiQj) | [Dhyana Shanti](https://open.spotify.com/artist/1rvsjGGOVf6ZfpJqFVJdxK) | [Inner Light](https://open.spotify.com/album/20SXPR0toNoObnd2erRMvu) | 3:04 | 2024-05-11 |  |
 | [Inner Sanctuary](https://open.spotify.com/track/2JeWYGes9TZw0kpdbAryUi) | [Emerald Echoes](https://open.spotify.com/artist/5CUinaptB4WfiCrpv5WVpP) | [Inner Sanctuary](https://open.spotify.com/album/56j9lBApRqvFSJXTQdMCex) | 3:12 | 2024-05-11 |  |
@@ -279,6 +281,7 @@
 | [Shimmer](https://open.spotify.com/track/2GFGWVc42MIAd3jdI6WlJF) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Shimmer](https://open.spotify.com/album/4zkNPikCAPWeCQJBh7VjvW) | 3:20 | 2025-01-14 | 2025-03-27 |
 | [Signs](https://open.spotify.com/track/0s0XDmu4WwVfkCxqit6nDO) | [L'air](https://open.spotify.com/artist/48mOczJJlQ7xa3UuJeOnAd) | [Signs](https://open.spotify.com/album/3WsLc45xgRUjymIN6F9Gl4) | 2:36 | 2025-01-14 |  |
 | [Signs Of Life](https://open.spotify.com/track/0UDoXifu2rd9J25FgbYiSJ) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Signs Of Life](https://open.spotify.com/album/3pm52kadp5DClaRVbLMW2S) | 2:55 | 2024-03-08 | 2025-02-19 |
+| [Silent Aurora](https://open.spotify.com/track/3mpAyQ4QANg2RXImWKvqDH) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Silent Aurora](https://open.spotify.com/album/34spoj4NANjQSWpPQuCNGn) | 3:13 | 2025-07-15 |  |
 | [Silent Solution](https://open.spotify.com/track/1ckaT9aUOZbUStGwWLVzQF) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Silent Solution](https://open.spotify.com/album/26PXA4uPCpyhdh6lg3zXJO) | 2:24 | 2023-08-04 | 2025-03-27 |
 | [Silhouettes of Life](https://open.spotify.com/track/7DzPB5vFhzxbFeN2VXg1jt) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Silhouettes of Life](https://open.spotify.com/album/5FqD43pSxsaZQh3FnTo3Nc) | 2:31 | 2024-07-13 |  |
 | [Sitar Sunshine](https://open.spotify.com/track/1BrUISehjHjDiXNvnDUzJI) | [Lumara](https://open.spotify.com/artist/1IFpiv3qvu1L2SDxCDhNsK) | [Sitar Sunshine](https://open.spotify.com/album/2pQiRViMjCdl1y9ynPK4U2) | 3:31 | 2024-05-11 | 2024-08-22 |
@@ -286,6 +289,7 @@
 | [Sleep Will Come](https://open.spotify.com/track/2VcLfRb7hy51r3t3yv63cH) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Sleep Will Come](https://open.spotify.com/album/2xc4v5uB9IPgdh345J4oIh) | 2:53 | 2022-09-30 | 2023-04-14 |
 | [Slow](https://open.spotify.com/track/4C18P7OaNo271fYNnbpoVR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Slow](https://open.spotify.com/album/1wNUZDyBD23Omaly7HaOql) | 2:40 | 2021-12-22 | 2024-08-22 |
 | [So Far From Earth](https://open.spotify.com/track/4LUjaGIUsdxaWz5CFtj0u9) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter Two](https://open.spotify.com/album/5aAUw2eurzQtThb2g4dDvr) | 3:09 | 2021-12-22 | 2024-10-19 |
+| [Soft Glow \(432Hz\)](https://open.spotify.com/track/1N3zuxOnvLbCDfDvrsv3ST) | [Atmosfeel](https://open.spotify.com/artist/04MoCfKDs263ULEoka1Gyy) | [Soft Glow \(432Hz\)](https://open.spotify.com/album/3AQhmItCysLebW9yMCxgz0) | 2:58 | 2025-07-15 |  |
 | [Soft Rays](https://open.spotify.com/track/1YhSbspYxHcaEdbl3faWno) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Soft Rays](https://open.spotify.com/album/1FRbznRmaHORqPniW6aSqB) | 2:50 | 2025-03-07 |  |
 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Lunasette](https://open.spotify.com/artist/4llg8iirvoMBMFQHXUkusG) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2021-12-22 | 2024-11-23 |
 | [Solara](https://open.spotify.com/track/74TPlSj21G7l0hdNg1xzg0) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Solara](https://open.spotify.com/album/2RAE8pTI6Zkl8BSwnhNwva) | 3:30 | 2025-06-23 |  |

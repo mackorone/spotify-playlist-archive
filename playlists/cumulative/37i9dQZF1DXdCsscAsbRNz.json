@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Aimai",
+        "url": "https://open.spotify.com/album/55K7pJ3R8LSvNhPU9akT5m"
+      },
+      "artists": [
+        {
+          "name": "Hello Artemisia!",
+          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131112,
+      "name": "Aimai",
+      "url": "https://open.spotify.com/track/5Y0zD7CZqb13bjjFld0z79"
+    },
+    {
+      "album": {
         "name": "All Around Us",
         "url": "https://open.spotify.com/album/2wL1Qgbzh1v5NDF4kpMbQC"
       },
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 183000,
       "name": "Centered",
       "url": "https://open.spotify.com/track/2tSUPdYj7CcdiQHrHgqmjZ"
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 187200,
       "name": "Divine",
       "url": "https://open.spotify.com/track/5mdvqfYB4Efy14X88LtTB5"
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 191304,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/05iwmG7u1JEo0MMZ2XEoIq"
@@ -3214,7 +3232,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 194375,
       "name": "Hidden Path",
       "url": "https://open.spotify.com/track/2lCPESbQg9A5FVGqJsADxi"
@@ -3689,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/51NBoP5ymYt2sOFaj3F17f"
+      },
+      "artists": [
+        {
+          "name": "Elm Lake",
+          "url": "https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160490,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/3liIip321tJq5GFgFfcGc7"
+    },
+    {
+      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/2Wwk3drx26O3zV0B9rr7RK"
       },
@@ -3862,7 +3898,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 258963,
       "name": "Lake Oconee",
       "url": "https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH"
@@ -3956,6 +3992,24 @@
       "duration_ms": 194014,
       "name": "Lights",
       "url": "https://open.spotify.com/track/5plhWnhwmDY9WWNCCmM73D"
+    },
+    {
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/2tanYHMrC9Qv0BoUdkSpKR"
+      },
+      "artists": [
+        {
+          "name": "Airin",
+          "url": "https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/6Zsj4JKRcLyCl1KBMEAa3H"
     },
     {
       "album": {
@@ -5302,7 +5356,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 175880,
       "name": "Peaceful Instant",
       "url": "https://open.spotify.com/track/2u4RqOtADvonosxhSdS8eZ"
@@ -5410,7 +5464,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 180750,
       "name": "Phosphenes",
       "url": "https://open.spotify.com/track/7zCXE5rdGmk2YzsSWuhO8I"
@@ -6094,7 +6148,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 134715,
       "name": "Shizuka",
       "url": "https://open.spotify.com/track/6HT1n99x9rmGRQd2lbszzI"
@@ -6116,6 +6170,24 @@
       "duration_ms": 207500,
       "name": "Sidereus",
       "url": "https://open.spotify.com/track/1jp80qB36x0WCV1zPHRq31"
+    },
+    {
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/6tDgQIQWUxWqMMkxiy6UAZ"
+      },
+      "artists": [
+        {
+          "name": "S\u00f6mngrus",
+          "url": "https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106800,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/6dTgL8EQy07BDYSkB3B1hd"
     },
     {
       "album": {
@@ -6242,6 +6314,24 @@
       "duration_ms": 185779,
       "name": "Simulacrum",
       "url": "https://open.spotify.com/track/4wEbipetGjPZ1YFGT2v34O"
+    },
+    {
+      "album": {
+        "name": "Singular",
+        "url": "https://open.spotify.com/album/2u2c3gG9eInRCAtci7AyIM"
+      },
+      "artists": [
+        {
+          "name": "Sasha Coleman",
+          "url": "https://open.spotify.com/artist/48h7ZhLv7ZR1D1HFUcA7oO"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164956,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/1rfv9eJSXDzHlPjWmE5xCh"
     },
     {
       "album": {
@@ -6749,6 +6839,24 @@
     },
     {
       "album": {
+        "name": "Starlights",
+        "url": "https://open.spotify.com/album/4ZN0LhVFpgWoyIB14EugwN"
+      },
+      "artists": [
+        {
+          "name": "Somnolentia",
+          "url": "https://open.spotify.com/artist/1k7mX5EwakP9gbdCyulnJ1"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Starlights",
+      "url": "https://open.spotify.com/track/59lmJK8GiB1XiEm4goEZ7Z"
+    },
+    {
+      "album": {
         "name": "Starlit Wonders",
         "url": "https://open.spotify.com/album/6EWxTdxZ5VM9YiFUkKpB2r"
       },
@@ -7077,6 +7185,24 @@
     },
     {
       "album": {
+        "name": "Terra Rising",
+        "url": "https://open.spotify.com/album/5TLR2kYeCbKcJDQ69xxrIb"
+      },
+      "artists": [
+        {
+          "name": "Ephemeral Odyssey",
+          "url": "https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Terra Rising",
+      "url": "https://open.spotify.com/track/0o7sCb9knktXCpVDRsEWv3"
+    },
+    {
+      "album": {
         "name": "The Book of Jen",
         "url": "https://open.spotify.com/album/02TTz5Zlr3FHrlmEdDqab6"
       },
@@ -7326,6 +7452,24 @@
       "duration_ms": 130912,
       "name": "The Quiet Hours",
       "url": "https://open.spotify.com/track/40M4T2bzYllLK4DzSPCGPy"
+    },
+    {
+      "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/6dVvEmW1yxccq33wBqpCb3"
+      },
+      "artists": [
+        {
+          "name": "Echo River",
+          "url": "https://open.spotify.com/artist/1ytRxYe87vfftgDbZ9kGw8"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235460,
+      "name": "The Return",
+      "url": "https://open.spotify.com/track/5jJPUauvwb8FH6nElcdawu"
     },
     {
       "album": {

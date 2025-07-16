@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-16",
       "duration_ms": 176514,
       "name": "Get Started",
       "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
@@ -3866,6 +3866,28 @@
       "duration_ms": 165522,
       "name": "Need You Around",
       "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
+    },
+    {
+      "album": {
+        "name": "Never Coming Home (feat. SIX60)",
+        "url": "https://open.spotify.com/album/0hoL3ByqmEuAArk3h9XYw7"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        },
+        {
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245731,
+      "name": "Never Coming Home (feat. SIX60)",
+      "url": "https://open.spotify.com/track/7f8vUzOeVBeKdm7d9Miis0"
     },
     {
       "album": {
