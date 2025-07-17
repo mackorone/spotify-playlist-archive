@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-216 songs - 10 hr 53 min
+220 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [As Time Passes By](https://open.spotify.com/track/7KojnmCNcvHP0uTbw3ZZ8Z) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [As Time Passes By](https://open.spotify.com/album/663yqKc7AQSnZuBhw1x2yi) | 2:50 | 2024-07-16 |  |
 | [Ascend](https://open.spotify.com/track/2hItKZtonkrYjLtJ4LJi8n) | [tonin](https://open.spotify.com/artist/6vh92pGd0glJjM8j9xgQZG) | [Ascend](https://open.spotify.com/album/5xgEDd5nse8DRA1BRh34a0) | 3:01 | 2025-05-06 |  |
 | [Astra](https://open.spotify.com/track/0iiuaPoDanmPiJ8LqGmw8v) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Astra](https://open.spotify.com/album/58jgMwZ6Tv8a8I9tzf4VAY) | 2:48 | 2023-10-20 |  |
+| [Astral Harp](https://open.spotify.com/track/04187uVRiaudzaTvBXLPGp) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Astral Harp](https://open.spotify.com/album/1zN7jjcVw4TusA9A3eBqkA) | 2:37 | 2025-07-16 |  |
 | [Astral Mountains](https://open.spotify.com/track/3p24rvJ2tPVnAqAikNfTcA) | [Aden Cloud](https://open.spotify.com/artist/1X13YqlCwaDIj1uvC36gln) | [Astral Mountains](https://open.spotify.com/album/0SdXknphzK0DvfaxLEFpPP) | 3:03 | 2024-07-16 | 2025-05-07 |
 | [Atardecer](https://open.spotify.com/track/0FWNmkCXKuB7hjIQFdrWiq) | [Cote Saldias](https://open.spotify.com/artist/4RRzVF5BxmGPnK6698MSJn) | [Atardecer](https://open.spotify.com/album/2oxPuCTe0vf7QkS9gZSoXN) | 1:17 | 2022-08-10 | 2023-10-05 |
 | [Atlas](https://open.spotify.com/track/4tFBDuOX4pZdkWdbkzoVyn) | [Valéry Guilloux](https://open.spotify.com/artist/75SvP483ULjCCmGKmGnBL7) | [Atlas](https://open.spotify.com/album/2UvM2y3BZu9c2T5BhS0FzD) | 3:26 | 2024-07-16 |  |
@@ -111,6 +112,7 @@
 | [lodges](https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [lodges](https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5) | 3:51 | 2023-01-05 |  |
 | [Love Is The Tune](https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Love Is The Tune](https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ) | 3:40 | 2022-05-11 | 2024-08-30 |
 | [Lyre Somnium](https://open.spotify.com/track/3s2MaM2LfWjkl4lWL49pGj) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Lyre Somnium](https://open.spotify.com/album/4QOwg5GTMocVvx4fCBeGlk) | 2:45 | 2024-07-16 |  |
+| [Lyrical Dream](https://open.spotify.com/track/4tCmmdvZ0pJiEe2PhgG7P0) | [Jnana Flow](https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52) | [Lyrical Dream](https://open.spotify.com/album/6TW1Fg4GaO88OJvCHa6pRz) | 2:47 | 2025-07-16 |  |
 | [L´unico Mondo](https://open.spotify.com/track/0GapXKIQZFt1bxbZ6m2QHN) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [L´unico Mondo](https://open.spotify.com/album/3OTgcKoceFHbQPoSXTMx6D) | 2:37 | 2024-07-16 |  |
 | [Marsh of Rhudlands](https://open.spotify.com/track/3OTSlT6GJg2cDcxfs9bMQ2) | [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/0Pk1Nevws7Ry5gZ6ghqYbt) | 3:11 | 2022-07-18 | 2024-04-19 |
 | [Marsh of Rhudlands](https://open.spotify.com/track/4VcJfNEKOuqWgj32L4yn4u) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/5juxWbAu431jd0NqDlklHh) | 3:11 | 2022-05-11 | 2024-07-17 |
@@ -164,6 +166,7 @@
 | [Relaxing Harp](https://open.spotify.com/track/6BdDlXdELLGgLlSD9fxodd) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w), [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Relaxing Musics](https://open.spotify.com/artist/4yfZySvyTem0vYS7RiaGyD) | [The Harp of Heaven Relaxing Healing Harps Musics](https://open.spotify.com/album/1NBsYTU5EvP55o3mqhzbR9) | 2:45 | 2022-05-11 | 2024-07-17 |
 | [Relaxing Harp](https://open.spotify.com/track/3BnRMdI0hOH4SO3YWYCkem) | [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [The Harp of Heaven Relaxing Healing Harps Musics](https://open.spotify.com/album/1s7dbimo6JmbOmlJNekmV6) | 2:46 | 2022-08-10 | 2024-04-19 |
 | [Relieving](https://open.spotify.com/track/2DWYBGBzNQKQ7sB1IJDnRz) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Relieving](https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0) | 3:37 | 2023-09-20 |  |
+| [Returning Gently](https://open.spotify.com/track/0szLXWwlIPhE6QzdzJkGaG) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Returning Gently](https://open.spotify.com/album/1foJInQP4GkHHqtqA0s05v) | 2:47 | 2025-07-16 |  |
 | [Reverie Harp](https://open.spotify.com/track/4oPOb70QTYN7aG8h8ndYOr) | [Caiharice](https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn) | [Reverie Harp](https://open.spotify.com/album/36I1Jwr7psMzCm4vO0GAx5) | 3:13 | 2024-07-16 |  |
 | [River Flows in You](https://open.spotify.com/track/2gvxgyu4TVOizX3KMrlKmL) | [Moldan Sevoni](https://open.spotify.com/artist/3G8BggMGTr06vVbV3WyBhP) | [Cinematic Harp](https://open.spotify.com/album/7niYLEnTIdgTYILsjaKlJ4) | 2:53 | 2022-05-11 | 2023-11-25 |
 | [Rosemary](https://open.spotify.com/track/2ZlFfgNXTEVfqPOk20mzQ5) | [Laurence Furr](https://open.spotify.com/artist/24tme04aimWOpZKvAcKogM) | [Portraits](https://open.spotify.com/album/4OJyeOfgd44Byen2ENCjnN) | 3:21 | 2024-09-04 |  |
@@ -222,6 +225,7 @@
 | [Written on the Sky](https://open.spotify.com/track/0I6Pbgf7fjPMqu3Ah9jOhI) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp), [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Actus Tragicus](https://open.spotify.com/album/5y3BawuYMUk0iOdKsAepdr) | 2:02 | 2023-02-10 | 2023-03-25 |
 | [Written on the Sky](https://open.spotify.com/track/0x1sDBH8c2eAqmBSjwv4yd) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Spring](https://open.spotify.com/album/1JY1BKv5rj8ILQvHdz2Aaw) | 2:02 | 2023-03-09 | 2024-04-19 |
 | [Written on the Sky](https://open.spotify.com/track/23Gjcxh2nK5cy1EnToKaCL) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Billow Gently](https://open.spotify.com/album/12A7tN2PisImkNMTb7es9f) | 2:02 | 2023-03-09 | 2023-04-14 |
+| [Yoake no Shijima](https://open.spotify.com/track/6frrsilqjGjy2Jeverywlw) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Yoake no Shijima](https://open.spotify.com/album/1fInc0eCJ2FLkOoqJLImyZ) | 2:28 | 2025-07-16 |  |
 | [Zinnia](https://open.spotify.com/track/4MgyFMLMPvaFgc9UmUgpVt) | [Astral Equations](https://open.spotify.com/artist/1Fzp7IB3LGYPLv1Xbot6ZM) | [Zinnia](https://open.spotify.com/album/22i7ONKuIruRnxv9EbHzXb) | 2:44 | 2024-11-14 |  |
 | [Éclat de Lune](https://open.spotify.com/track/4l5CBtTsPHCuYPi9aQUH3T) | [Liam Callahan](https://open.spotify.com/artist/0S7H10WFzeRISS2m79iSCs) | [Éclat de Lune](https://open.spotify.com/album/6U6ocrwHMyqMxHgtt6ktfr) | 2:52 | 2024-12-20 |  |
 

@@ -4,7 +4,7 @@
 
 > Tutte le migliori nuove uscite indie sono qui  🌻 Cover: IRBIS
 
-678 songs - 1 day 10 hr 9 min
+679 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 | 2025-07-03 |  |
 | [Olio e sale](https://open.spotify.com/track/3q0mHQFdcJtx8eQYiYCUNz) | [Nelea](https://open.spotify.com/artist/1aTfJXQZb2gZf2FyooWust) | [Olio e sale](https://open.spotify.com/album/58gLtG2Y46pi8iW7MQPRQp) | 3:01 | 2024-10-24 | 2024-10-31 |
 | [Ombre cinesi](https://open.spotify.com/track/4SVJ6nRLY5VnFbEoj7umEl) | [Serendipity](https://open.spotify.com/artist/7li89GwMwzotfj0bKmNW8R) | [Ombre cinesi](https://open.spotify.com/album/1PB1xLHk7Dw4ayPZzFfxUM) | 2:49 | 2025-06-05 |  |
+| [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP) | 3:03 | 2025-07-16 |  |
 | [Ondeggiando](https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Ondeggiando](https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y) | 2:34 | 2024-09-26 | 2024-12-18 |
 | [Onitsuka Brown](https://open.spotify.com/track/6fX5AQ32hJ19TzExdeKSYi) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Onitsuka Brown](https://open.spotify.com/album/6e3kHhcWsFiZ61D4Ik1vvw) | 2:53 | 2025-05-15 | 2025-07-04 |
 | [Online mania](https://open.spotify.com/track/5YUZ82vVnNxQvYO5Sm76xF) | [Bordoluna](https://open.spotify.com/artist/1jGUIzgQgepOORubWNkMuq) | [Morte speedrun](https://open.spotify.com/album/0KWq82fvqLdlL9lDvYy0q2) | 3:35 | 2025-01-30 | 2025-03-28 |

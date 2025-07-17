@@ -4,7 +4,7 @@
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-448 songs - 1 day 2 hr 53 min
+449 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,8 +281,9 @@
 | [Openness](https://open.spotify.com/track/4UoPQ2JPcVLpb3J45ddOyK) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Openness](https://open.spotify.com/album/5fThzHVAwnDedRdlqsQQTc) | 3:19 | 2025-06-20 |  |
 | [Oracle](https://open.spotify.com/track/4CSAKHKH4rT0C3AGg5SMfF) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Oracle](https://open.spotify.com/album/23zFZD3Zh8m2PGQCRi1WxA) | 2:49 | 2025-07-03 |  |
 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 | 2021-10-16 | 2024-04-19 |
-| [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 | 2022-01-07 |  |
+| [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 | 2022-01-07 | 2025-07-17 |
 | [Out Of The Past](https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Love Is Colder Than Death](https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb) | 3:33 | 2025-05-30 |  |
+| [Over Ocean Waves](https://open.spotify.com/track/6W7VUWThQ9N0UQKH0ooqwx) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Over Ocean Waves](https://open.spotify.com/album/6T2ubYn6HkoPJ3mVy3rLyR) | 4:10 | 2025-07-03 |  |
 | [P a r a l l a x](https://open.spotify.com/track/5cWpQKs9O72HG4cYYZyiv9) | [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf) | [Parallax](https://open.spotify.com/album/40LaUfA7iILyLnjZOxnst0) | 4:16 | 2022-03-30 | 2025-04-20 |
 | [Parallel 9](https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 7:15 | 2021-10-16 | 2025-07-04 |
 | [Passages](https://open.spotify.com/track/0d4eOwlQzOc5bmed9kqLQb) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Passages](https://open.spotify.com/album/2RIolYrKkkc3ZEGHSwUSCV) | 2:26 | 2021-10-16 | 2022-09-26 |

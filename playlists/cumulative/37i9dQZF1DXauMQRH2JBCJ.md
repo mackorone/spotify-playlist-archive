@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-140 songs - 7 hr 10 min
+141 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Did I Mention](https://open.spotify.com/track/1YekSxsAlGlYvm9zjLsKdh) | [Jeff Lewis](https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z), [Mitchell Hope](https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 2:33 | 2024-11-04 |  |
 | [Don't Go Breaking My Heart \- From "Chicken Little"/Soundtrack Version](https://open.spotify.com/track/52nSf9QgQrQphbJv1ssF2Z) | [Runt of the Litter](https://open.spotify.com/artist/0d1adB2baUQbq6D9xlQZ16), [Foxy Loxy](https://open.spotify.com/artist/6pZE2bLEfbqNJBoob82x4K), [Chicken Little](https://open.spotify.com/artist/2G0KshUNR4nyMJrre61dIa), [Buck Cluck](https://open.spotify.com/artist/2QLIFqNZ6ik7xoyPgrkcDr), [Abby Mallard](https://open.spotify.com/artist/6aSf2DXkTRBCDPrVT5j3Xe), [Fish Out of Water](https://open.spotify.com/artist/3d4OixBeZFNIPyRX2M3VMJ), [Mayor Turkey Lurkey](https://open.spotify.com/artist/71JJNrmX5y3tfgPH29Fuhq), [Mr\. Woolensworth](https://open.spotify.com/artist/4ta66UrsS071lVaTuorgHY) | [Chicken Little](https://open.spotify.com/album/3Z93u37mCvyowExFmHR6Bc) | 1:53 | 2022-03-16 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 | 2022-03-16 |  |
+| [Dream Come True](https://open.spotify.com/track/0kh3Vsiqf3LWNP7dIMxqYO) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn), [Malachi Barton](https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 4: Dawn of the Vampires \(Original Soundtrack\)](https://open.spotify.com/album/6Pbfaaiw90G9rK2mhmSd4Q) | 3:18 | 2025-07-16 |  |
 | [En Mi Corazón Estarás](https://open.spotify.com/track/4OIp3u67j4xFlsTRlDmpKf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp), [Merche Macaria](https://open.spotify.com/artist/3EpcaEm4CiGeEAhHymp7TV) | [Tarzan \(Banda Sonora Original\)](https://open.spotify.com/album/7wU1QpssLayUhbh9AO6lkm) | 1:39 | 2025-02-07 |  |
 | [Feels Like Love \- Soundtrack](https://open.spotify.com/track/7Fm2ZvBSGBO6RGjQ93SU2b) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [The Cheetah Girls: One World](https://open.spotify.com/album/6H9FjLFzCgX485reYmS3c3) | 3:45 | 2025-02-14 |  |
 | [Fixer Upper \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/5covTs92HnHJwAWrXF7l14) | [Maia Wilson](https://open.spotify.com/artist/5FghcZFWriEQFftyizgKEU), [Cast \- Frozen](https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:02 | 2025-02-14 |  |

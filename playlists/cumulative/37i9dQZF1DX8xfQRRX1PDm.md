@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
+> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Bad Newz
 
 259 songs - 15 hr 12 min
 

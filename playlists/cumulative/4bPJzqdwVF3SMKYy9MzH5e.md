@@ -4,7 +4,7 @@
 
 > 
 
-2,208 songs - 4 day 22 hr 30 min
+2,215 songs - 4 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -856,6 +856,7 @@
 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 | 2022-04-21 |  |
 | [help\_urself](https://open.spotify.com/track/1lethytswFEKkvfNIjdCC1) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [help\_urself](https://open.spotify.com/album/6GT4vCgq2pjorkbu3pNYlf) | 2:19 | 2021-08-05 |  |
 | [help\_urself \- breakcore](https://open.spotify.com/track/3mfO4NyNl1sW4WabTejw4y) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [help\_urself \(Alternates\)](https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46) | 1:58 | 2022-05-23 |  |
+| [Here Tonight](https://open.spotify.com/track/0gAhUXqYphJt5iFmYkowAf) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Doss](https://open.spotify.com/album/4xjMqQEOwrmNySKz6WVOcG) | 4:44 | 2025-07-17 |  |
 | [Hero!](https://open.spotify.com/track/509NzRvzuITtt1q6YAGGmd) | [11vx](https://open.spotify.com/artist/3xJ0g1VQ4uwT7memVHGG4g) | [Hero!](https://open.spotify.com/album/0tmoLmvFuMQl6SqOZqVMQ2) | 1:11 | 2023-01-05 |  |
 | [Heroin](https://open.spotify.com/track/7lSdUlVf8k6kxklKkskb1m) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 5:55 | 2021-08-05 |  |
 | [Heroine](https://open.spotify.com/track/6N2rMGXBhNZ6slxJcp1E7z) | [Dutch Disorder](https://open.spotify.com/artist/134MabV7tKukLyF9Xagk8A) | [Heroine](https://open.spotify.com/album/3BTiGQ2JLPTsmbpu58GnnZ) | 3:01 | 2024-10-14 |  |
@@ -1154,6 +1155,7 @@
 | [lolil0 0pz](https://open.spotify.com/track/07eryPE73luKeSE4X5JHNC) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [Tomboyish Love for Soda Pop and Apple Sweets \(Digipak\)](https://open.spotify.com/album/4jfA37vKuQQ67J4E0UgynB) | 3:19 | 2022-02-04 |  |
 | [Longview](https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:53 | 2021-08-05 |  |
 | [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 | 2021-09-15 |  |
+| [Look \- All Night Mix](https://open.spotify.com/track/6f76PH2ajKmwzqE9B2QPy3) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [4 New Hit Songs \*Remixes](https://open.spotify.com/album/5wpmAoT9ZcBQ1YAcloFVhj) | 2:42 | 2025-07-17 |  |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2021-08-05 |  |
 | [Looming.Sorrow.Descent](https://open.spotify.com/track/66ttdhLCg7CXzJmfDFVLnM) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Skitzofrenia Simulation](https://open.spotify.com/album/1xPlkO690CiBEwodg1HaN7) | 5:18 | 2021-08-24 |  |
 | [Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8) | [Puzzle](https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V) | [X Hail](https://open.spotify.com/album/5EeK2ioXWQelWsAvtr7EUL) | 2:57 | 2025-06-14 |  |
@@ -1201,6 +1203,7 @@
 | [MADRE](https://open.spotify.com/track/20ubMMwoL8zs9hDZ149aPl) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:01 | 2024-08-26 |  |
 | [Magdalena](https://open.spotify.com/track/47HJ7biEuVZxoPkauczu2R) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 4:06 | 2023-06-06 |  |
 | [Maggot](https://open.spotify.com/track/7ArllcQI3c3ee43yKFSwBs) | [Slutever](https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD) | [Almost Famous](https://open.spotify.com/album/5SGUqZHITOwMZMrIBv07nN) | 2:26 | 2022-12-25 |  |
+| [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:01 | 2025-07-17 |  |
 | [MAKE IT MINE](https://open.spotify.com/track/4WnxgTTFsaJ7Fhh4CQbevQ) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [MAKE IT MINE](https://open.spotify.com/album/1P02N6AY2tk7mKlU5tjANK) | 2:10 | 2021-08-05 |  |
 | [make up](https://open.spotify.com/track/27356GVuMPFWiJSZCragoM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:20 | 2021-08-05 |  |
 | [Make You Mine](https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Make You Mine](https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214) | 3:52 | 2021-08-05 |  |
@@ -1372,6 +1375,7 @@
 | [No No No](https://open.spotify.com/track/5mZB7pYtcAPo7wo5DtW939) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [No No No](https://open.spotify.com/album/2yMZG60giAh24Zh9RjYaBO) | 3:01 | 2021-08-05 |  |
 | [NO NO NO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4QYUJMUK0LJzhnM9wzowyq) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [NO NO NO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/7BFzz8Ki3DKyq72SLaTpDb) | 3:28 | 2025-04-17 |  |
 | [No Respect](https://open.spotify.com/track/79AUzwoSKowuUO5i9DYfal) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V) | 2:32 | 2022-06-13 |  |
+| [No Type](https://open.spotify.com/track/4scpF6J5uMBvoh6sFB7EL1) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:20 | 2025-07-17 |  |
 | [No Wind Resistance!](https://open.spotify.com/track/0EFdjJZzlyl950oBmPnolV) | [Kinneret](https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ) | [No Wind Resistance!](https://open.spotify.com/album/5VmCu6wLflO93ApJwCjo3d) | 3:18 | 2021-08-05 |  |
 | [no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [i will be my own hell because there is a devil inside my body](https://open.spotify.com/album/2jhCAgWyKLEHgu5eQ7LiQZ) | 2:32 | 2022-04-09 |  |
 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 | 2022-04-26 |  |
@@ -1697,6 +1701,7 @@
 | [Sex Talk](https://open.spotify.com/track/6hbg57wH6SyIDnPzwLeeXc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:11 | 2021-08-05 |  |
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2022-02-04 |  |
 | [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 | 2022-02-18 |  |
+| [Sfire 7](https://open.spotify.com/track/57raKVKlm6ofEoCCJJvTsY) | [Sfire](https://open.spotify.com/artist/1DrfvAYR9EE93iN2z9mVKE) | [Sfire 6/7](https://open.spotify.com/album/7FZS02CQATRKUtZbRCitrY) | 2:29 | 2025-07-17 |  |
 | [Sgt\. Pepper's Lonely Hearts Club Band \- Remastered 2009](https://open.spotify.com/track/4fUKE8EULjQdHF4zb0M8FO) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:02 | 2021-08-05 |  |
 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-08-12 |  |
 | [Shadow Lady](https://open.spotify.com/track/6MwjuU4eG0nStUUnlGwhCr) | [Portwave](https://open.spotify.com/artist/5g97nXsHBZDyY6wPKckqLc) | [Shadow Lady](https://open.spotify.com/album/1cKogHs7vouENZkTBmzAfR) | 5:02 | 2021-08-05 |  |
@@ -1804,6 +1809,7 @@
 | [Stay](https://open.spotify.com/track/74y1VgzL668hynrvA59WQB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR) | 2:45 | 2025-04-29 |  |
 | [STAY AWAY](https://open.spotify.com/track/3vDinFBFhPsTykopZhZuoi) | [6EJOU](https://open.spotify.com/artist/1k0U51DXyjFk4YnLZUIMP9) | [STAY AWAY](https://open.spotify.com/album/1cIhasMqR2uxzWLRYkRpzb) | 5:24 | 2024-10-06 |  |
 | [stay\_w\_me](https://open.spotify.com/track/6tKUMn27YjNOxxjttkI40A) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [stay\_w\_me](https://open.spotify.com/album/6tdL42Aa8sREKhNt4t1oNS) | 2:16 | 2023-08-09 |  |
+| [Stereo Love](https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/774YoW7RL5qzrPdZFi8xJE) | 3:05 | 2025-07-17 |  |
 | [STFU!](https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:23 | 2022-02-18 |  |
 | [Stigmata Martyr](https://open.spotify.com/track/4dga7PnLJ870cfrXevpMDi) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:41 | 2022-05-18 |  |
 | [still feel.](https://open.spotify.com/track/4EcYqXGZ1MOl7gBLcRO9Ya) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [still feel.](https://open.spotify.com/album/4RTurpeSKtgEAvSeEehsiO) | 4:07 | 2022-02-04 |  |
@@ -1943,6 +1949,7 @@
 | [The Technogaia Accelerates Technology And You!](https://open.spotify.com/track/3GgawMNjv4Oppa0XQ7FnmP) | [Kaizo Slumber](https://open.spotify.com/artist/2UUvyxJDBsg7jnRwMAxNND) | [The Kaizo Manifesto](https://open.spotify.com/album/2nrxw6vRiM5Lb0WIeCV48O) | 2:44 | 2023-06-01 |  |
 | [The Thin Grey Line](https://open.spotify.com/track/1d966178PJg6b4kcXqoYF3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 1:45 | 2024-08-10 |  |
 | [The Things You Do \(To Me\)](https://open.spotify.com/track/51H50p8CKpFxwmtUwOP8Rp) | [Mark Whalen](https://open.spotify.com/artist/190DHPJLNML45FthZiizQi) | [Someone to Be](https://open.spotify.com/album/5ZMwVSpdyVDHg5044cIUes) | 5:03 | 2021-08-05 |  |
+| [The Way I Feel](https://open.spotify.com/track/5wf74zcM2rvFuLPA1ybEY5) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Doss](https://open.spotify.com/album/4xjMqQEOwrmNySKz6WVOcG) | 4:26 | 2025-07-17 |  |
 | [The Way Things Change](https://open.spotify.com/track/1kLXQonNqsJxCPFkUet3pV) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [The Way Things Change](https://open.spotify.com/album/3SaySnFE2GUU02BsUcfTIx) | 4:08 | 2021-08-05 |  |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2023-01-14 |  |
 | [Them Changes](https://open.spotify.com/track/4u8031pTkTODbRaDCbx8Yv) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [The Beyond / Where the Giants Roam](https://open.spotify.com/album/1atZ1TiIPZZec0oiyY1mBl) | 3:07 | 2021-08-05 |  |

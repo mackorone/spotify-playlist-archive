@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Burna Boy, Justin Bieber, Tyla, KMAT and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,009 likes - 94 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,038 likes - 94 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 18 | [Love Theory](https://open.spotify.com/track/0bZk2SKsbkdeWskMZ3fPUQ) | [Judy Jay](https://open.spotify.com/artist/5q8RThTZw42cwyqNGBnUIA), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX) | [Love Theory](https://open.spotify.com/album/6zEA4NTSlgfwDCPgLCX2iL) | 8:02 |
 | 19 | [I WANNA WIN \- from the Short Film "Red Clay"](https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [I WANNA WIN \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/39GdbIA43YHkD02Gih3GjX) | 2:48 |
 | 20 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 |
-| 21 | [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:18 |
+| 21 | [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:17 |
 | 22 | [Juicy](https://open.spotify.com/track/1WCpEyjjDF6qqzxVtuVcoR) | [Rouge](https://open.spotify.com/artist/3fv7gh6JODBTpz7uS0aTnS), [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Moozlie](https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU) | [Juicy](https://open.spotify.com/album/6AQbYU29wxmpVzuATbw1UA) | 3:51 |
 | 23 | [Maami](https://open.spotify.com/track/1pGlMq4KhvvATHvET7SQVv) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [The Game Needs You](https://open.spotify.com/album/6ugTlnX34eEh3pmI7sTXD2) | 3:00 |
 | 24 | [Unconditional](https://open.spotify.com/track/5AdS5p0hYS4dlKbJz0tMwj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Unconditional](https://open.spotify.com/album/3Xhu2pzTBMZeX89QTMx8eX) | 2:51 |

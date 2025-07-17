@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-801 songs - 2 day 13 hr 57 min
+802 songs - 2 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Blue Veil](https://open.spotify.com/track/35wu2nJIWGYcrYpiU8YwKv) | [MINGUSS](https://open.spotify.com/artist/0Wi9SAuoikRmCf9XZ9Q752), [Manuel Göttsching](https://open.spotify.com/artist/38KMWWA4MPJ6VxlO9kx6CU) | [The Farthest Desert](https://open.spotify.com/album/0MIC1Osvy5D8NkbcpLuqcS) | 9:20 | 2022-04-07 | 2022-07-24 |
 | [Bottom Water](https://open.spotify.com/track/2qKLeaQoH7Scbc3S4viXSb) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [人工池](https://open.spotify.com/album/2rgjJrqik6cTXfBy9zxt0n) | 4:40 | 2022-03-31 | 2022-07-29 |
 | [Breathing Earth II](https://open.spotify.com/track/7sXLIAaURPqQXNv8mt0BxL) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Healing Collection: Quiet Comfort](https://open.spotify.com/album/4MFXS23gbKuJnROJ6RfS8b) | 7:04 | 2022-03-31 | 2022-07-17 |
-| [Breathless](https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w), [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Breathless](https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w) | 3:05 | 2024-12-10 |  |
+| [Breathless](https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w), [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Breathless](https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w) | 3:05 | 2024-12-10 | 2025-07-17 |
 | [Breeding Tank](https://open.spotify.com/track/32rKfOIBR1arX5g3nQBS8E) | [Metome](https://open.spotify.com/artist/4EdG3DOqirA5Jpz9SfugWO) | [Dialect](https://open.spotify.com/album/2aEA2AMYDwItnVHb2W7KDO) | 5:02 | 2022-03-31 | 2022-05-30 |
 | [Breeding Tank](https://open.spotify.com/track/6xpANjnTCTtFo3bcwf5wmb) | [Metome](https://open.spotify.com/artist/4EdG3DOqirA5Jpz9SfugWO) | [Dialect](https://open.spotify.com/album/4GFinj2zqedcGcLNszGMRl) | 5:02 | 2022-03-31 | 2022-06-08 |
 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 | 2025-05-27 | 2025-07-12 |
@@ -629,6 +629,7 @@
 | [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 | 2022-03-31 | 2024-02-09 |
 | [Station 2](https://open.spotify.com/track/0qCXR6lzIKES8nbIClOYTt) | [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr), [Hanna Benn](https://open.spotify.com/artist/3f311Nvt0uimtZzFtleUiA), [Janie Cowan](https://open.spotify.com/artist/0Gof2YXoYi1mFZgSrHfMKS), [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT), [Stuart Hyatt](https://open.spotify.com/artist/3bm83rD8JWMvdkSj87RJ1l), [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D), [Pick a Piper](https://open.spotify.com/artist/6so2HBfVIUPwfjZPtXM1DB) | [Stations](https://open.spotify.com/album/3Ex5Lf74vziMVVkP2y6Rwp) | 2:56 | 2022-03-31 | 2022-07-23 |
 | [Stella](https://open.spotify.com/track/3x9kKGucIO4qBhvc3y9qE8) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [PASSION](https://open.spotify.com/album/7zDwBr55zeXkyVTrdU87sC) | 3:47 | 2022-03-31 | 2022-04-27 |
+| [stem](https://open.spotify.com/track/2BZYwQG4Wq6OJ4jrJWFSpM) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [stem/curve](https://open.spotify.com/album/0LA0xleiV1U14SQRNgIV8l) | 1:49 | 2025-07-11 |  |
 | [Still](https://open.spotify.com/track/2DtCfVLzprasJJAoMDjNI9) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Yusura](https://open.spotify.com/album/5fRSAdCnY5pSSUKi8pNrU9) | 3:37 | 2022-03-30 | 2022-06-19 |
 | [Still Dreaming](https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:27 | 2024-05-09 | 2024-12-06 |
 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 | 2022-03-31 | 2025-03-05 |

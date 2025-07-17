@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 52400,
+  "num_followers": 52463,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHRIgAAAAACmMgkM0ElOFkXcgSmE6SCS",
+  "snapshot_id": "aHWaAAAAAAC43u9pvBUNeHUO/7flurq/",
   "tracks": [
     {
       "added_at": null,
@@ -67,8 +67,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv"
       },
       "artists": [
         {
@@ -78,27 +78,7 @@
       ],
       "duration_ms": 199209,
       "name": "Good News",
-      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197403,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
+      "url": "https://open.spotify.com/track/5VHRiH48pBB008CAkrIBwP"
     },
     {
       "added_at": null,
@@ -164,7 +144,7 @@
       "added_at": null,
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv"
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
       "artists": [
         {
@@ -172,13 +152,13 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         },
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 156721,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/213uaappJODsexwkR9rxhS"
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
     },
     {
       "added_at": null,
@@ -243,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Bar Song (Tipsy) [Remix]",
-        "url": "https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah"
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv"
       },
       "artists": [
         {
@@ -252,13 +232,13 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 163863,
-      "name": "A Bar Song (Tipsy) [Remix}",
-      "url": "https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr"
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/213uaappJODsexwkR9rxhS"
     },
     {
       "added_at": null,
@@ -295,6 +275,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Bar Song (Tipsy) [Remix]",
+        "url": "https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 163863,
+      "name": "A Bar Song (Tipsy) [Remix}",
+      "url": "https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fire and Gasoline - A COLORS ENCORE",
         "url": "https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v"
       },
@@ -311,26 +311,6 @@
       "duration_ms": 191162,
       "name": "Fire and Gasoline - A COLORS ENCORE",
       "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "Start a Riot",
-      "url": "https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9"
     },
     {
       "added_at": null,
@@ -371,6 +351,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "Start a Riot",
+      "url": "https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 145321,
       "name": "Chrome - Bonus",
       "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Wrangler",
-        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Golden Child",
-      "url": "https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX"
     },
     {
       "added_at": null,
@@ -435,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lady Wrangler",
+        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Golden Child",
+      "url": "https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 164616,
       "name": "Hail Mary",
       "url": "https://open.spotify.com/track/3dbSXSqBQJFuQVgJ5pRIfL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Another Me",
-        "url": "https://open.spotify.com/album/5wK7WdNdAqiAqYPNrc1v2f"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "Another Me",
-      "url": "https://open.spotify.com/track/2r1nHvs8nYieO2BFbvrTU4"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Another Me",
+        "url": "https://open.spotify.com/album/5wK7WdNdAqiAqYPNrc1v2f"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Another Me",
+      "url": "https://open.spotify.com/track/2r1nHvs8nYieO2BFbvrTU4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Jett",
-        "url": "https://open.spotify.com/album/14LGfuq3keIxyKIJYQIPWT"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 246883,
-      "name": "Joan Jett",
-      "url": "https://open.spotify.com/track/4JJVcjQ4G6F76QUYxqlpN3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cowboys Live Forever, Outlaws Never Die",
         "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 148215,
       "name": "GAS!",
       "url": "https://open.spotify.com/track/7FJNM5i0qKjFfCtw18QVAU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Jett",
+        "url": "https://open.spotify.com/album/14LGfuq3keIxyKIJYQIPWT"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 246883,
+      "name": "Joan Jett",
+      "url": "https://open.spotify.com/track/4JJVcjQ4G6F76QUYxqlpN3"
     },
     {
       "added_at": null,

@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 162181,
       "name": "On Point",
       "url": "https://open.spotify.com/track/0vVByFRK4THSNqff1SS7rV"
@@ -5184,6 +5184,28 @@
       "duration_ms": 195360,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T"
+    },
+    {
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/7gMXxTwci6ZbBPrF2eaftn"
+      },
+      "artists": [
+        {
+          "name": "Veer Sandhu",
+          "url": "https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ"
+        },
+        {
+          "name": "Jind",
+          "url": "https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147094,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/18935F4vHOp5tE19qhijCI"
     },
     {
       "album": {

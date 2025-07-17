@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-567 songs - 1 day 7 hr 48 min
+568 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Bandh Aankhein](https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Bandh Aankhein](https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG) | 3:24 | 2024-10-04 | 2024-10-25 |
 | [Banja Beimaan](https://open.spotify.com/track/4F6hIftaEtiZqX7O9qohUo) | [Siddharth Agarwal](https://open.spotify.com/artist/0khYzwgAKUdtcnxx3ETNRs) | [Banja Beimaan](https://open.spotify.com/album/5iiyu8Old8pPtzM0HULCVE) | 4:32 | 2023-05-17 | 2023-06-21 |
 | [Barf](https://open.spotify.com/track/4RjsIBmaoenrJ3SX4k5b9i) | [Ana Rehman](https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Barf](https://open.spotify.com/album/4RTmstfIDxfHpKjnEjbscI) | 3:12 | 2024-08-27 | 2024-10-12 |
+| [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 | 2025-07-16 |  |
 | [Barsa Hai](https://open.spotify.com/track/0dWakILE5r3Zt3M0mCDSDP) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4) | [Barsa Hai](https://open.spotify.com/album/1ZUkEiW26xpKQsfHzy8Fwf) | 3:17 | 2024-08-10 | 2024-09-03 |
 | [Barsaat Aa Gayi \- Acoustic](https://open.spotify.com/track/3u2TfgGswNKiTuBMB8cIXe) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Hina Khan](https://open.spotify.com/artist/4xKss8ZlA5A4abTQpqynah) | [Barsaat Aa Gayi \(Acoustic\)](https://open.spotify.com/album/1nOjUyG49pdq4P20pv7Nam) | 3:36 | 2023-09-21 | 2023-11-06 |
 | [Bas Hum Yaha](https://open.spotify.com/track/5aT7J46t6jz1qUzMv8xXgG) | [Gaurav Prasad](https://open.spotify.com/artist/50UXkbx3OJnv57kDuYq4go), [KREITTON](https://open.spotify.com/artist/4y0XL6sCyRwXqdIhMLipNz), [Ayush Dolas](https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk) | [Bas Hum Yaha](https://open.spotify.com/album/2GGsM7tiXBfIfW3xtJTZv3) | 3:27 | 2025-06-16 |  |
@@ -424,7 +425,7 @@
 | [Ruk Jaa Na](https://open.spotify.com/track/2aEl1z5EE2Bg2TikPlpKi6) | [Suraj Nag](https://open.spotify.com/artist/2vX0pNOuin4A2xIM1Uy28d), [Shubham Upreti](https://open.spotify.com/artist/6Fry19RYWfGOZYEU45YlgD) | [Ruk Jaa Na](https://open.spotify.com/album/3lg2PEHytqFvvOr7fIDJJz) | 2:45 | 2024-10-23 | 2024-11-21 |
 | [Ruqsat](https://open.spotify.com/track/3ZSazSSWUTgoPiCtVU9wVz) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI) | [Ruqsat](https://open.spotify.com/album/0T6Dy2GvUJFZpOhJ4IxvaE) | 3:39 | 2024-01-08 | 2024-03-14 |
 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 | 2023-06-14 | 2023-08-05 |
-| [Saare Badal](https://open.spotify.com/track/5MTi1rw6cAtPKY4SuyRYh5) | [Abhi Abhi](https://open.spotify.com/artist/636FbaY38o2XgzBNr1Rq8Z) | [Saare Badal](https://open.spotify.com/album/1RYWtFD73pspXEkm2v04ZA) | 3:30 | 2025-03-21 |  |
+| [Saare Badal](https://open.spotify.com/track/5MTi1rw6cAtPKY4SuyRYh5) | [Abhi Abhi](https://open.spotify.com/artist/636FbaY38o2XgzBNr1Rq8Z) | [Saare Badal](https://open.spotify.com/album/1RYWtFD73pspXEkm2v04ZA) | 3:30 | 2025-03-21 | 2025-07-17 |
 | [Saari Umar](https://open.spotify.com/track/2H3Ybag8WuTdoaGVMCDqRl) | [Harish Budhwani](https://open.spotify.com/artist/1Gl7igag9ejxcepMCPDg4H) | [Saari Umar](https://open.spotify.com/album/4CLPALqNL9TZnE3gOIQ3C5) | 4:34 | 2023-05-17 | 2023-06-07 |
 | [Sab Kuch Mera \- Deep Heart](https://open.spotify.com/track/1VyPLU5X6p38r1IPMRLvgg) | [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Mann](https://open.spotify.com/artist/7744LvLjHQ5gxVAA6CQJ79) | [Sab Kuch Mera \(Deep Heart\)](https://open.spotify.com/album/7EkrO0mqn5b16y10sFELow) | 2:07 | 2024-06-27 | 2024-07-27 |
 | [Sabr](https://open.spotify.com/track/3ONSKtGBGpK6i5Jx2KP2z9) | [Vedang](https://open.spotify.com/artist/6dip5H4Q9s5YCe85f8YI1M), [Shanu](https://open.spotify.com/artist/7bGdQInMWCOfjCYHqIfkbd), [Tan9oCharlie](https://open.spotify.com/artist/3WfqkiO5V1y9bEyDYIewL2) | [Sabr](https://open.spotify.com/album/4kO5031LstP65h2it5mrrl) | 2:13 | 2024-06-27 | 2024-08-11 |

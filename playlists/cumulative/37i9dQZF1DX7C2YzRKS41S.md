@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-461 songs - 1 day 3 hr 10 min
+462 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Calma](https://open.spotify.com/track/5zMHggqhl3ZMiQ9VbbNsbx) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [Calma](https://open.spotify.com/album/3bVdgjWqzwCgH7AGy3IsPV) | 2:52 | 2021-12-24 | 2022-07-28 |
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2021-12-24 | 2025-07-14 |
 | [Caminheiro e o Vento](https://open.spotify.com/track/36AydDtnGFxVLtv2EfAxbG) | [Quando Inhambú Cantou no Meu Quintal](https://open.spotify.com/artist/2Uht0OhNqeeDjmGiV3SI4V) | [Quando Inhambú Cantou no Meu Quintal](https://open.spotify.com/album/51qU0lJl1RipMVRViRlKS3) | 3:08 | 2022-03-25 | 2022-04-17 |
-| [CAMINHOS SELVAGENS](https://open.spotify.com/track/4AlbAuPmB9wUg9Z0J1NKVj) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [CAMINHOS SELVAGENS](https://open.spotify.com/album/6XWoCk6aNwbco5mE2QrPy1) | 3:32 | 2025-05-16 |  |
+| [CAMINHOS SELVAGENS](https://open.spotify.com/track/4AlbAuPmB9wUg9Z0J1NKVj) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [CAMINHOS SELVAGENS](https://open.spotify.com/album/6XWoCk6aNwbco5mE2QrPy1) | 3:32 | 2025-05-16 | 2025-07-17 |
 | [Caravanas](https://open.spotify.com/track/2b6pcRFFwMcNaYcwMDdTDU) | [Caio Moraes](https://open.spotify.com/artist/14Jbls7E295huaHCPaJVHM), [Fábio Pereira](https://open.spotify.com/artist/1cGnAZbX1Jd06kXTcY50yF) | [Caravanas](https://open.spotify.com/album/5SgSHUEDAAbuTVmOPXXQG7) | 5:57 | 2021-12-24 | 2022-05-14 |
 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 | 2022-03-25 | 2025-02-22 |
 | [Carnaval](https://open.spotify.com/track/5DiZmQVIqQhGaaIJmT0nIO) | [Valentin](https://open.spotify.com/artist/25VoPjFx405WzNspA0BDw9) | [Carnaval](https://open.spotify.com/album/5CUm5GDPwrqjHzHDAIzB05) | 3:31 | 2022-03-25 | 2022-04-21 |
@@ -447,6 +447,7 @@
 | [Velha Manta](https://open.spotify.com/track/5BbN7RnU2aZY6dV4TMZjhA) | [Marcelo Siri](https://open.spotify.com/artist/3qbLRPpAfZBgk6YDeWXtyZ) | [Fantasias dos Submundos](https://open.spotify.com/album/42QhUySn0dNghk5pGjcmMT) | 5:16 | 2021-12-24 | 2022-06-18 |
 | [Veneno](https://open.spotify.com/track/4pCe10FbydPpDaWPWVtSv2) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:25 | 2022-03-25 | 2022-04-17 |
 | [Venha Pra Ficar \(Ao Vivo\)](https://open.spotify.com/track/2TJGBHGZWqKhpnvbYpjzWv) | [Folk na Kombi](https://open.spotify.com/artist/643HPBsV6hqQU4QQ5BFJbK) | [Venha Pra Ficar \(Ao Vivo\)](https://open.spotify.com/album/4TExTRSleoTBDLUttgQZbk) | 3:34 | 2021-12-24 | 2022-06-21 |
+| [Ventos do Norte](https://open.spotify.com/track/3gb0YLxvukLud99JAvymKw) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 2:41 | 2025-07-11 |  |
 | [Verão](https://open.spotify.com/track/5rNcfma0PgkCMgJCbsdJEW) | [Ixã](https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf) | [Verão](https://open.spotify.com/album/3POD3iBXKuBTdaEDncqj4q) | 3:35 | 2023-01-13 | 2023-04-16 |
 | [vi você passando hoje](https://open.spotify.com/track/2DO4o2qvvFIXPw3rQ6H4Iv) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [vi você passando hoje](https://open.spotify.com/album/7DDwCMi1FmhoQPYepZy2Hs) | 3:01 | 2022-03-25 | 2022-04-21 |
 | [Viagem Perdida](https://open.spotify.com/track/6XAaA5z3y7C9gHoWW8g4id) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Slap Sessions](https://open.spotify.com/album/4OUVJBnYrmvaLLUImtSgAT) | 5:00 | 2022-04-06 | 2022-04-21 |

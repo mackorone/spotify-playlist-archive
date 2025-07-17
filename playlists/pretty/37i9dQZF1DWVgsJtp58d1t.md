@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Click into the feed to learn about what's going on in the world of Afro Adura\. Cover: <a href="spotify:artist:4zmZ8lVLzGc84S4v2B1rLx">Seyi Vibez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,143 likes - 166 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,069 likes - 166 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lo que necesita cualquier verbena veraniega.
 
-258 songs - 16 hr 25 min
+259 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2022-08-11 |  |
 | [Candela](https://open.spotify.com/track/1SkrlJrTEbMP0UF1zBMZ1J) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 3:55 | 2023-06-09 |  |
 | [Cannabis](https://open.spotify.com/track/0DjSa6czo5ywsf6iCtZW5A) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/2AfAFiYuMD6XYFIaUiVNcf) | 4:25 | 2025-07-02 |  |
-| [Canta y Sé Feliz](https://open.spotify.com/track/5hhfm9pW7uJXsFx3mjkMHY) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 2:51 | 2025-07-02 |  |
+| [Canta y Sé Feliz](https://open.spotify.com/track/5hhfm9pW7uJXsFx3mjkMHY) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 2:51 | 2025-07-02 | 2025-07-17 |
 | [Carnaval, Carnaval](https://open.spotify.com/track/4ndlMtp9aIsvFBmiLRaDNq) | [Georgie Dann](https://open.spotify.com/artist/3mvKi0X95xuOuFItofQEHY) | [Macumba y Otros Tremendos Exitos](https://open.spotify.com/album/5omrf9RhgyGsSSEpgMop1o) | 2:55 | 2024-06-18 | 2025-04-12 |
 | [Chantaje \(feat\. Maluma\)](https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 | 2022-08-11 | 2023-06-10 |
 | [Cheerleader \(Felix Jaehn Remix\) \- Radio Edit](https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:00 | 2023-06-09 |  |
@@ -131,6 +131,7 @@
 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:23 | 2022-08-11 |  |
 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0IyV1yeHgtypXLzv7OcCHR) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Premios Tu Música](https://open.spotify.com/album/0t03gLUCjACcOswjMJW3Vg) | 3:25 | 2022-08-11 | 2022-11-13 |
 | [La Luna y el Toro](https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt) | [El Matador](https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG) | [La Luna y el Toro \(Made In Spain\)](https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10) | 4:27 | 2023-06-09 |  |
+| [La Luna y el Toro](https://open.spotify.com/track/2TSqg5ilfbL4SwIHAfoi2S) | [Los Centellas](https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG) | [Por Amor al Arte](https://open.spotify.com/album/6eOfC1f9x0jEbE2kQUJ9LI) | 5:16 | 2025-07-02 |  |
 | [La Mordidita \(feat\. Yotuel\)](https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [A Quien Quiera Escuchar \(Deluxe Edition\)](https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9) | 3:31 | 2022-08-11 |  |
 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 | 2022-08-11 | 2023-06-10 |
 | [La Tortura \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:32 | 2022-08-11 |  |

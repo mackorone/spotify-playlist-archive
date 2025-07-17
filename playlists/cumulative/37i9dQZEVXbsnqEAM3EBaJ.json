@@ -19318,7 +19318,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 242862,
       "name": "Heavy Metal Shakedown - Extended Version",
       "url": "https://open.spotify.com/track/4ya0CrBIOHnsI2T288b6rC"
@@ -47115,6 +47115,28 @@
     },
     {
       "album": {
+        "name": "Tchaikovsky: The Seasons, Op. 37a: V. May. White Nights. Andantino",
+        "url": "https://open.spotify.com/album/7Gr6278qnI8b29n0P4Y0Ob"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253613,
+      "name": "The Seasons, Op. 37a: V. May. White Nights. Andantino",
+      "url": "https://open.spotify.com/track/23uaaJ3l8qiKJOW8rQGvBc"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: The Seasons, Op. 37a: VI. June. Barcarolle",
         "url": "https://open.spotify.com/album/1n1EFvyLZ1j5H7D2qMTXDA"
       },
@@ -47376,7 +47398,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 359000,
       "name": "The Sleeping Beauty Concert Suite (Arr. Pletnev for Piano): IV. Andante",
       "url": "https://open.spotify.com/track/0vMO8685dz5eX2gOUGs7Hl"
@@ -47584,7 +47606,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 493538,
       "name": "The Time Machine",
       "url": "https://open.spotify.com/track/37DoJctVJ7C8wgL2S6h0Ie"

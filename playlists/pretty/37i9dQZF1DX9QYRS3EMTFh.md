@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : TKS 2G
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,220 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,365 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 8 | [Bouwéy](https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr) | [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we), [Theomaa](https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6) | [CHORD](https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc) | 2:37 |
 | 9 | [Arrête Ça](https://open.spotify.com/track/5cTa6P1quWLaowvnW26EHk) | [Le Jèm'ss](https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Arrête Ça](https://open.spotify.com/album/7skH28li6NGYsKdil3YDHZ) | 2:28 |
 | 10 | [Money Pull Up](https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [Money Pull Up](https://open.spotify.com/album/6OntrtGTUwdWI0aH3Codpn) | 2:08 |
-| 11 | [Bétiz nonm](https://open.spotify.com/track/6hLgZeKxgeQf4KxOQKCgnh) | [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg), [Yanishi](https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x), [Yoann Infinity](https://open.spotify.com/artist/2oa2t4VkM63v9U0hyWSj1X) | [Bétiz nonm](https://open.spotify.com/album/5jI1BBQN1w7o2jtx3txNMG) | 2:34 |
+| 11 | [Bétiz nonm](https://open.spotify.com/track/6hLgZeKxgeQf4KxOQKCgnh) | [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg), [Yanishi](https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x) | [Bétiz nonm](https://open.spotify.com/album/5jI1BBQN1w7o2jtx3txNMG) | 2:34 |
 | 12 | [Alpha](https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 2:48 |
 | 13 | [Fou Le Bordel](https://open.spotify.com/track/5O5wQzUnWQt5xAoO6It04e) | [Alyssa](https://open.spotify.com/artist/56CuEF8lZebCc0uzFQrGLD), [Noelia](https://open.spotify.com/artist/1wdVL1PASa1NzPexn8iN6i), [K\-Rosif](https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV), [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8) | [Fou Le Bordel](https://open.spotify.com/album/0uxpr8jsQoXlHK6KUc6vxP) | 2:18 |
 | 14 | [La piraterie](https://open.spotify.com/track/6sJncGrdz5lcomB5D2Te9C) | [K\-Rosif](https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV), [BIGDA](https://open.spotify.com/artist/7zVRNjTpd96uUDsDbRr879), [Loeil](https://open.spotify.com/artist/4AOjG0hai0eDiUdy1TEuaN) | [La piraterie](https://open.spotify.com/album/1AEqrjs8dvbBH8mmE7U9Zy) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,339 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,372 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 70 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
 | 71 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 | 72 | [Tou Off](https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Tou Off](https://open.spotify.com/album/1UQdAkoiFLFlNPKpk7WREn) | 2:44 |
-| 73 | [Abraço Mudo](https://open.spotify.com/track/6s0ygOgYNkTFjYxbb6tA6n) | [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Abraço Mudo](https://open.spotify.com/album/6N7nGVIuzgLBgtQfL4F7nF) | 2:23 |
+| 73 | [PARA SEMPRE](https://open.spotify.com/track/7e0BMVyh5I0imv2MlAOo3d) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [PARA SEMPRE](https://open.spotify.com/album/7ja21jiOzYFy1r3K4EueHN) | 3:03 |
 | 74 | [Só Pra Mim](https://open.spotify.com/track/086BFApQhJolDewBka9jit) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Só Pra Mim](https://open.spotify.com/album/4dc0uwZofhKRr0zfVHWXl4) | 3:06 |
-| 75 | [PARA SEMPRE](https://open.spotify.com/track/7e0BMVyh5I0imv2MlAOo3d) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [PARA SEMPRE](https://open.spotify.com/album/7ja21jiOzYFy1r3K4EueHN) | 3:03 |
+| 75 | [Abraço Mudo](https://open.spotify.com/track/6s0ygOgYNkTFjYxbb6tA6n) | [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Abraço Mudo](https://open.spotify.com/album/6N7nGVIuzgLBgtQfL4F7nF) | 2:23 |
 
 Snapshot ID: `aHBF+wAAAAB3Mt8GWelF7CXooYIOqLJ6`

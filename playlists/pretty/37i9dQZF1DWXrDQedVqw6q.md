@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,491 likes - 115 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,525 likes - 115 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 114 | [Appalachia Borealis](https://open.spotify.com/track/7t9CBs8UgSpUOuKmst0UTe) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [Appalachia Borealis](https://open.spotify.com/album/6CGLtIg3MR7NfDINHlZCm8) | 3:34 |
 | 115 | [Wanderstop Part 1](https://open.spotify.com/track/4VMUh61jfChVRAnO4RLrsZ) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Wanderstop](https://open.spotify.com/album/051vvnKIC9VaY8vw4R2s0y) | 2:42 |
 
-Snapshot ID: `aG51SgAAAAAvQb0sirK/OIXdASKvQRxj`
+Snapshot ID: `aHf5+gAAAADokrN+XOOiItj6CQAHJey5`

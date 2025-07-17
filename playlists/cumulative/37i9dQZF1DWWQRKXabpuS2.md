@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد
 
-417 songs - 1 day 4 hr 40 min
+418 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Ma Aaraf Qadry](https://open.spotify.com/track/0OFnsKz5QuApnBoxHsylT5) | [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL) | [Ma Aaraf Qadry](https://open.spotify.com/album/4J95aQ00slYUW70bzAG8Tb) | 3:40 | 2021-12-23 | 2022-02-11 |
 | [Ma Anah Sdood](https://open.spotify.com/track/6IT8O67TCo3OKHaYTD4pKc) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Ma Anah Sdood](https://open.spotify.com/album/332L1H9wptriEuWQ2Zl7Fm) | 3:45 | 2021-12-23 | 2022-02-25 |
 | [Ma Fagadtek](https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ma Fagadtek](https://open.spotify.com/album/1lUyJAzJODzhayn4dll1QX) | 3:59 | 2023-09-15 | 2024-05-02 |
-| [Ma Hada Bali](https://open.spotify.com/track/644MDyPPMgMakcnzlccWNM) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ma Hada Bali](https://open.spotify.com/album/5crkJgLXpiyDdcRhQGUS4O) | 5:02 | 2024-10-03 |  |
+| [Ma Hada Bali](https://open.spotify.com/track/644MDyPPMgMakcnzlccWNM) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ma Hada Bali](https://open.spotify.com/album/5crkJgLXpiyDdcRhQGUS4O) | 5:02 | 2024-10-03 | 2025-07-17 |
 | [Ma Qeltelak](https://open.spotify.com/track/2xaE1hGY1KtsShvzZqKyLm) | [Abdallah Al Rowaished](https://open.spotify.com/artist/0CSS4q3XMMetWbMq6CE3FB) | [Ma Qeltelak](https://open.spotify.com/album/0tTkJqBFC2Z4JlXNms7zNr) | 5:48 | 2024-07-18 | 2025-04-11 |
 | [Maalem Hanini](https://open.spotify.com/track/6hvVKdAx1d38usGQnah5bw) | [Borhan](https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi) | [Maalem Hanini](https://open.spotify.com/album/5KJOZBysIetUuFHf0fbynP) | 3:51 | 2024-05-17 | 2025-02-15 |
 | [Maashar Al Oshag](https://open.spotify.com/track/6ICQlcNHmIY6JTf4pTNCkJ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Layali Dehrab](https://open.spotify.com/artist/5Jm0HiIbPtXDptk9iWN9uf) | [Maashar AlOshag](https://open.spotify.com/album/4SVOCuVTPM93lStypg1RuG) | 3:32 | 2022-08-22 | 2023-03-15 |
@@ -392,6 +392,7 @@
 | [قلب ناسيني](https://open.spotify.com/track/6Z4kadPlbhC6nE5MxP8C81) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [الأرض](https://open.spotify.com/album/3qtM8m7WDIl4lhrmKjCMTp) | 4:48 | 2023-09-30 | 2023-10-09 |
 | [قلب ناسيني](https://open.spotify.com/track/3JyFw5gHP8pxsudyl1kltg) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 4:48 | 2023-09-30 | 2024-04-19 |
 | [قنبلة إحساس](https://open.spotify.com/track/0lDi9nTx3SASFv5a8F8cFB) | [Hind](https://open.spotify.com/artist/1fkTlg87igh6cosmAa3TYE) | [قنبلة إحساس](https://open.spotify.com/album/60Gz2RE67SNNpXstHuAB69) | 2:44 | 2025-04-07 | 2025-07-01 |
+| [كل ما بغيت](https://open.spotify.com/track/1aKoHSI8NrQ6oxG5aoO98J) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [كل ما بغيت](https://open.spotify.com/album/3RpdGoFAU2TsKvdz3bnGNr) | 3:20 | 2025-07-16 |  |
 | [لبيه](https://open.spotify.com/track/0CZtin5PSGzCCHp0cxjHTT) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [لبيه](https://open.spotify.com/album/2julMTVNHEdU3D0vHOpyAd) | 3:47 | 2023-06-30 | 2024-02-01 |
 | [ليلة وصالك](https://open.spotify.com/track/6BCDeCmDw39YPG2L4T1nGM) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC) | [ليلة وصالك](https://open.spotify.com/album/5j5SPlaI0ERnjeQdu0EzMZ) | 5:40 | 2024-02-21 | 2024-04-19 |
 | [ما عاد](https://open.spotify.com/track/3Q9oZAr2wdgKsLcjGoOh95) | [Aseel Abu Baker](https://open.spotify.com/artist/3IaW9Q8ws0dqIRKaoBDUdf) | [سيّد الغِيَّاب](https://open.spotify.com/album/6s52Skp6kp1DGVumkwm9lb) | 5:31 | 2025-02-18 | 2025-07-01 |

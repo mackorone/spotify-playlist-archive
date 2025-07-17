@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Clara Lima, VIETNÃ
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,224 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,233 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 13 | [Filho Pródigo](https://open.spotify.com/track/7hA5YGYS0tml6CFc8jv6vn) | [f.b.o](https://open.spotify.com/artist/1ac7vvl78LVq0f2sIjyEpU), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Filho Pródigo](https://open.spotify.com/album/01CsnOi81XA5BiLxEtwE9R) | 2:24 |
 | 14 | [DUALIDADE](https://open.spotify.com/track/4TF3V6LQIDTdvx9gVZSMZw) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Ramon Calixto](https://open.spotify.com/artist/57LISFynxucEx3WF6Iqxq8) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:24 |
 | 15 | [Subversiva](https://open.spotify.com/track/5fZNWp1WG34spCEuGTc3F0) | [BIONE](https://open.spotify.com/artist/2rezeeC5zV7kCkdjqT1nGz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Subversiva](https://open.spotify.com/album/0rCHPBTLyjjhaQktBysqFp) | 2:52 |
-| 16 | [O Sonho de Brida](https://open.spotify.com/track/3hgdjjUE7JKyo7o7xOyX9q) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Até A Última Rima](https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E) | 3:18 |
+| 16 | [O Sonho de Brida](https://open.spotify.com/track/3hgdjjUE7JKyo7o7xOyX9q) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Até A Última Rima](https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E) | 3:17 |
 | 17 | [Promessa](https://open.spotify.com/track/6PDNMJ0X2e35RJqEsHbycF) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 2:47 |
 | 18 | [Visões](https://open.spotify.com/track/298ionVvjnAHlD0IqYVYfC) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:43 |
 | 19 | [Quem Ta De Olho Sabe](https://open.spotify.com/track/1xE80pgXzTylPRgq2ZIzWx) | [DJ Ajamu](https://open.spotify.com/artist/1E00YVO37Se7cWzAlkLTI9), [Thig](https://open.spotify.com/artist/2GI2PtmyEPvAhrv4rFnA3b) | [Quem tá de olho sabe](https://open.spotify.com/album/3VbFyEaAQGVthA6zBBdng7) | 4:16 |

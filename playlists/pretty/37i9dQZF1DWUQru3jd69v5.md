@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > IvanBi in cover della playlist con il futuro del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,045 likes - 76 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,037 likes - 76 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

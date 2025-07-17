@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 346952,
+  "num_followers": 346959,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "I Thank God",
+        "url": "https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU"
+      },
+      "artists": [
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        }
+      ],
+      "duration_ms": 221739,
+      "name": "I Thank God",
+      "url": "https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Praise Be",
         "url": "https://open.spotify.com/album/6Bh9t9Kvj3hXRKTxp3uLhV"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 251298,
       "name": "Praise Be",
       "url": "https://open.spotify.com/track/2klPK27AzVuTb9qRIetfOq"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "I Thank God",
-        "url": "https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU"
-      },
-      "artists": [
-        {
-          "name": "Genavieve Linkowski",
-          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
-        }
-      ],
-      "duration_ms": 221739,
-      "name": "I Thank God",
-      "url": "https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 242432,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Yesterday, Today, & Tomorrow",
         "url": "https://open.spotify.com/album/7sWR7CaR6enqGNpvjYBzbP"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 202333,
       "name": "Yesterday, Today, & Tomorrow",
       "url": "https://open.spotify.com/track/1LJsJnjyc4TvEhNNzfS5Vb"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 242432,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Quench This Love",
-        "url": "https://open.spotify.com/album/1bYB5g35kfJhiqkmTCDUR5"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Quench This Love",
-      "url": "https://open.spotify.com/track/19w9r9vWXOgomOlCTXczNr"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "This is How I Thank The Lord (Acoustic)",
         "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 178548,
       "name": "This Is How I Thank The Lord - Acoustic",
       "url": "https://open.spotify.com/track/0Kqcdnl7PM85xSNF2NHFKH"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Quench This Love",
+        "url": "https://open.spotify.com/album/1bYB5g35kfJhiqkmTCDUR5"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Quench This Love",
+      "url": "https://open.spotify.com/track/19w9r9vWXOgomOlCTXczNr"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Onward & Upward",
-        "url": "https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 290831,
-      "name": "Digital Death",
-      "url": "https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Love Who I Am",
         "url": "https://open.spotify.com/album/5UIgdBGKJHRsYgUh44vno1"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 233198,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/5O4XktnGcZlRw1Eqtg5BNJ"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Onward & Upward",
+        "url": "https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 290831,
+      "name": "Digital Death",
+      "url": "https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "With My Lips",
-        "url": "https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "With My Lips",
-      "url": "https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Goodbye Yesterday",
         "url": "https://open.spotify.com/album/3wrSWEbC9DSO09KnV9bDoI"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "With My Lips",
+        "url": "https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "With My Lips",
+      "url": "https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Prayers Filled With Praises (ambient)",
         "url": "https://open.spotify.com/album/3BSgd7ZNA7MwVlJS8VUd5F"
       },
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Be Still and Know",
+        "url": "https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 283346,
+      "name": "Be Still and Know",
+      "url": "https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Precious Gold",
         "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 216400,
       "name": "Precious Gold",
       "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Be Still and Know",
-        "url": "https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 283346,
-      "name": "Be Still and Know",
-      "url": "https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1079,26 +1079,6 @@
       "duration_ms": 200015,
       "name": "My Cry",
       "url": "https://open.spotify.com/track/1MU4Ce6tNV7AlpTitDyBcm"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "God You Are",
-        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 265286,
-      "name": "God You Are (feat. Josh Baldwin)",
-      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1143,6 +1123,26 @@
       "duration_ms": 559206,
       "name": "Surrendered",
       "url": "https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "God You Are",
+        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 265286,
+      "name": "God You Are (feat. Josh Baldwin)",
+      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Trust In God (Acoustic)",
+        "url": "https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 307247,
+      "name": "Trust In God - Acoustic",
+      "url": "https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "You Are Fullness",
         "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
@@ -1259,26 +1275,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "You Are My Salvation",
-        "url": "https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Austin Sebek",
-          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
-        }
-      ],
-      "duration_ms": 182437,
-      "name": "You Are My Salvation",
-      "url": "https://open.spotify.com/track/2GTziTqyy9epimNQqO9Mn4"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Sparrows (Acoustic)",
         "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
       },
@@ -1295,18 +1291,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Trust In God (Acoustic)",
-        "url": "https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay"
+        "name": "You Are My Salvation",
+        "url": "https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd"
       },
       "artists": [
         {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Austin Sebek",
+          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
         }
       ],
-      "duration_ms": 307247,
-      "name": "Trust In God - Acoustic",
-      "url": "https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO"
+      "duration_ms": 182437,
+      "name": "You Are My Salvation",
+      "url": "https://open.spotify.com/track/2GTziTqyy9epimNQqO9Mn4"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Lord I Need You",
+        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 197930,
+      "name": "Lord I Need You",
+      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Life Again",
         "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Lord I Need You",
-        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
+        "name": "Conquering Eden",
+        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
       },
       "artists": [
         {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+          "name": "Cam Sakkara",
+          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
         }
       ],
-      "duration_ms": 197930,
-      "name": "Lord I Need You",
-      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
+      "duration_ms": 240337,
+      "name": "One Too Many Reasons",
+      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1595,22 +1611,6 @@
       "duration_ms": 259875,
       "name": "I Don't Have Much - Acoustic",
       "url": "https://open.spotify.com/track/3GhH76hVaJTOVGSBR683Vi"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Conquering Eden",
-        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
-      },
-      "artists": [
-        {
-          "name": "Cam Sakkara",
-          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
-        }
-      ],
-      "duration_ms": 240337,
-      "name": "One Too Many Reasons",
-      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Be Still and Know His Name (Even the Wind and the Waves)",
-        "url": "https://open.spotify.com/album/64szHbQOTmhNi0w5Bl8PsV"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 199378,
-      "name": "Be Still and Know His Name (Even the Wind and the Waves)",
-      "url": "https://open.spotify.com/track/3VA7CpYINh4vDtaitU90az"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Sanctuary (Live from Ocean Way)",
         "url": "https://open.spotify.com/album/4IgmJsW7w50QBm7ywRHp9Z"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 233709,
       "name": "Sanctuary - Live from Ocean Way",
       "url": "https://open.spotify.com/track/5H2SMaHabl8CZue8O6NQDX"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Be Still and Know His Name (Even the Wind and the Waves)",
+        "url": "https://open.spotify.com/album/64szHbQOTmhNi0w5Bl8PsV"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 199378,
+      "name": "Be Still and Know His Name (Even the Wind and the Waves)",
+      "url": "https://open.spotify.com/track/3VA7CpYINh4vDtaitU90az"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1747,22 +1747,18 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Closer to Heaven",
-        "url": "https://open.spotify.com/album/3t6aAyFnQDL57BHpCOKKbN"
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm"
       },
       "artists": [
         {
-          "name": "Gelka",
-          "url": "https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF"
-        },
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+          "name": "Kid in Flight",
+          "url": "https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT"
         }
       ],
-      "duration_ms": 196515,
-      "name": "Closer to Heaven",
-      "url": "https://open.spotify.com/track/7ygoUlBTpmN7TAnHT4g90U"
+      "duration_ms": 159868,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z"
     }
   ],
   "unique_name": "Be Still",

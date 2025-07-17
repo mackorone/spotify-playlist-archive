@@ -735,6 +735,28 @@
     },
     {
       "album": {
+        "name": "Barkha",
+        "url": "https://open.spotify.com/album/3zYUJ3RX2SUFpUjbgPB5oQ"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265618,
+      "name": "Barkha",
+      "url": "https://open.spotify.com/track/7ti3X29bBAU1rJZ9sXnqPx"
+    },
+    {
+      "album": {
         "name": "Bekhayali (Arijit Singh Version) [From \"Kabir Singh\"]",
         "url": "https://open.spotify.com/album/5OXCK2FlyxVIuLr4BRg0Lw"
       },
@@ -1702,7 +1724,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 276281,
       "name": "Jaaniya",
       "url": "https://open.spotify.com/track/5dsF6MLU1w4tBvQiivZC9X"

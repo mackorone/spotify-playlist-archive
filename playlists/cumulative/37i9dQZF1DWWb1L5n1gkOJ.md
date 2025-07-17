@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-227 songs - 10 hr 50 min
+228 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-10-12 |  |
 | [Light Exchange](https://open.spotify.com/track/5hLAokmTQygtp0y7zv7JQd) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Light Exchange](https://open.spotify.com/album/2pB8PegCi5DbA2eSMK10Gg) | 3:18 | 2025-05-06 |  |
 | [Limerence](https://open.spotify.com/track/4Nxdvb7Jk9TJCCCUc5wEgk) | [Albert Lockwood](https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY) | [Limerence](https://open.spotify.com/album/7snyOPCc8KNIgAp4L92vLv) | 3:10 | 2023-03-23 |  |
+| [long lost](https://open.spotify.com/track/7L2ofInqnrSisKJxVPGE6K) | [eternal](https://open.spotify.com/artist/4wGMrwZjdj39HPuCm3Ui6U) | [long lost](https://open.spotify.com/album/2gQ3teUEg1TVZVubUji8Bn) | 2:08 | 2025-07-16 |  |
 | [Lost In Thought](https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 1:55 | 2022-11-22 | 2023-07-29 |
 | [Lucens](https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Lucens](https://open.spotify.com/album/0zUwEUIDjzDsBGleRn90EY) | 2:18 | 2022-10-12 | 2023-03-04 |
 | [Lucent Depth](https://open.spotify.com/track/63G4au8JSvBWv1Wm0FzeOy) | [Crimson Sky Theory](https://open.spotify.com/artist/6lmN6QFoGJ1WF04TwUwKws) | [Lucent Depth](https://open.spotify.com/album/1ptSF6H6nvUuTbL0rElDla) | 2:21 | 2025-01-21 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 40816,
+  "num_followers": 40835,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Grandes de la Cumbia Tropical",
-        "url": "https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 212952,
-      "name": "Mar de Emociones",
-      "url": "https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "La Orquesta Que Impone El Ritmo",
         "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 243840,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Grandes de la Cumbia Tropical",
+        "url": "https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 212952,
+      "name": "Mar de Emociones",
+      "url": "https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1014,11 +1014,15 @@
         {
           "name": "Los Ocho De Colombia",
           "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        },
+        {
+          "name": "\u00c9der Ortega",
+          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
         }
       ],
-      "duration_ms": 212821,
-      "name": "Mu\u00f1eca Linda",
-      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
+      "duration_ms": 286531,
+      "name": "La Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/5rx9dwFBBqjR9xc1cn5iWW"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1098,15 +1102,11 @@
         {
           "name": "Los Ocho De Colombia",
           "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
-        },
-        {
-          "name": "\u00c9der Ortega",
-          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
         }
       ],
-      "duration_ms": 286531,
-      "name": "La Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/5rx9dwFBBqjR9xc1cn5iWW"
+      "duration_ms": 212821,
+      "name": "Mu\u00f1eca Linda",
+      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Nemus del Pac\u00edfico",
-        "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
-      },
-      "artists": [
-        {
-          "name": "Los Nemus Del Pacifico",
-          "url": "https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "El Debilitao",
-      "url": "https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de Fruko: \u00c9xitos",
         "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 242346,
       "name": "El Ausente",
       "url": "https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de los Nemus del Pac\u00edfico",
+        "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
+      },
+      "artists": [
+        {
+          "name": "Los Nemus Del Pacifico",
+          "url": "https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "El Debilitao",
+      "url": "https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 148536,
-      "name": "La Ca\u00f1a de Azucar",
-      "url": "https://open.spotify.com/track/6YVqeg5JlwwJkECyUmHPmo"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de Fruko: \u00c9xitos",
         "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 301720,
       "name": "Los Charcos",
       "url": "https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 148536,
+      "name": "La Ca\u00f1a de Azucar",
+      "url": "https://open.spotify.com/track/6YVqeg5JlwwJkECyUmHPmo"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
+        "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
+      },
+      "artists": [
+        {
+          "name": "Chico Cervantes Y Su Banda",
+          "url": "https://open.spotify.com/artist/1TayRnurziz0kiOlY1itt8"
+        },
+        {
+          "name": "Pacho Tob\u00edo y Chico",
+          "url": "https://open.spotify.com/artist/0UlIHCZFLktB5yGPFwQudm"
+        }
+      ],
+      "duration_ms": 342959,
+      "name": "Qui\u00e9reme, Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 295879,
       "name": "Bebiendo y Llorando",
       "url": "https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
-        "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
-      },
-      "artists": [
-        {
-          "name": "Chico Cervantes Y Su Banda",
-          "url": "https://open.spotify.com/artist/1TayRnurziz0kiOlY1itt8"
-        },
-        {
-          "name": "Pacho Tob\u00edo y Chico",
-          "url": "https://open.spotify.com/artist/0UlIHCZFLktB5yGPFwQudm"
-        }
-      ],
-      "duration_ms": 342959,
-      "name": "Qui\u00e9reme, Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22"
     },
     {
       "added_at": "2024-07-12 23:11:55",

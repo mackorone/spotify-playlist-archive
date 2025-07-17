@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Angel Du$t
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,611 likes - 126 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,629 likes - 126 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

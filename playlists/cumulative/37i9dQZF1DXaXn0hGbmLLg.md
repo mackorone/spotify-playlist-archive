@@ -2,9 +2,9 @@
 
 ### [EQUAL Benelux](https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg)
 
-> Listen to women at full volume! Benelux ambassador: <a href="spotify:artist:1EZhPZUiU6c52gOAZLIcR2">Dylisa</a>
+> EQUAL x 7FEST: Where women take the stage\. Listen to women at full volume!  Cover: <a href="spotify:artist:1EZhPZUiU6c52gOAZLIcR2">Dylisa</a>
 
-2,529 songs - 5 day 12 hr 36 min
+2,530 songs - 5 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,7 +830,7 @@
 | [Helder](https://open.spotify.com/track/12UPFDkEv0yW7quLCTze44) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Helder](https://open.spotify.com/album/0ZhIFPsMmwsF5GtpgK2plV) | 2:14 | 2023-01-03 | 2023-02-01 |
 | [Heling](https://open.spotify.com/track/79WaMgt0AKB74sqqPo9Kdw) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Heling](https://open.spotify.com/album/2oDzb0tTK7Iy3kLA8xlf4E) | 2:19 | 2024-08-06 | 2025-01-08 |
 | [Hell Dog](https://open.spotify.com/track/4ZbNVJFXu7rJ1BEEcomxuk) | [bwana](https://open.spotify.com/artist/36ObPHoO5D8bWQIPnZBlKL) | [Hell Dog](https://open.spotify.com/album/0T7pVKcvJZo1MUBX6aFXV4) | 3:49 | 2025-02-04 | 2025-03-05 |
-| [Hemel Op Aarde](https://open.spotify.com/track/4q7lyUwBAMDvoFH1Godk4M) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Hemel Op Aarde](https://open.spotify.com/album/36ceG2RfvMNRfcmCDiMy4Q) | 3:08 | 2025-04-01 | 2025-05-07 |
+| [Hemel Op Aarde](https://open.spotify.com/track/4q7lyUwBAMDvoFH1Godk4M) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Hemel Op Aarde](https://open.spotify.com/album/36ceG2RfvMNRfcmCDiMy4Q) | 3:08 | 2025-04-01 |  |
 | [Hennessy](https://open.spotify.com/track/6ul5jDiS2JyzgWbOZo11Ge) | [Janice Fierce](https://open.spotify.com/artist/1XawxWRplTvDLEK8TzgWbJ), [Rasta G](https://open.spotify.com/artist/3H6ZVTVTLVj3X9nY3oGFkk) | [Hennessy](https://open.spotify.com/album/4sxVCmOMNSSWmHKqvuRWCR) | 2:45 | 2023-11-07 | 2023-11-30 |
 | [HENNY OUT THE LIMO](https://open.spotify.com/track/1ygPMEhncIBBwVCzJg1iFm) | [Zulu Green](https://open.spotify.com/artist/7qJsaBWWq4Gv0ifq68P9iC) | [HENNY OUT THE LIMO](https://open.spotify.com/album/2gfQZOvUBfaSz2drTgiXQp) | 3:03 | 2024-02-06 | 2024-03-06 |
 | [here's my feelings](https://open.spotify.com/track/4gR6MQZKiXKauq1q89r7If) | [Willa May](https://open.spotify.com/artist/5smZ1XehM7ONrlex3pYXBk) | [here's my feelings](https://open.spotify.com/album/4FtyWKye6PPyOwtsnQaMBb) | 3:06 | 2021-12-07 | 2022-01-06 |
@@ -1111,7 +1111,7 @@
 | [Jong en Oud](https://open.spotify.com/track/5kIPY47f8V1BVMIA8JzGZu) | [Noor](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Jong en Oud](https://open.spotify.com/album/4wJS0Eh2JuvwG8NCyvlYiP) | 2:38 | 2022-11-01 | 2022-11-30 |
 | [josie](https://open.spotify.com/track/48iE8EnH8L9ZHnpDtkovwg) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [josie](https://open.spotify.com/album/3KFvqxdQSAnmJCsbToEzEk) | 2:56 | 2025-06-03 | 2025-07-02 |
 | [JoyRide](https://open.spotify.com/track/1zwz2ZRQg5tuBrJjOtSSCo) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6) | [JoyRide](https://open.spotify.com/album/7fuye6A5quwHWNmHUwykEo) | 2:31 | 2024-05-07 | 2024-06-05 |
-| [JUDGEN](https://open.spotify.com/track/5CDn4HpxWhnesTPiDe1YS4) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [JUDGEN](https://open.spotify.com/album/7gxl8zmvNachXge4toNN0e) | 2:50 | 2024-11-05 | 2024-12-04 |
+| [JUDGEN](https://open.spotify.com/track/5CDn4HpxWhnesTPiDe1YS4) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [JUDGEN](https://open.spotify.com/album/7gxl8zmvNachXge4toNN0e) | 2:50 | 2024-11-05 |  |
 | [Juice Voor Je Ziel](https://open.spotify.com/track/7vLUqQuhAyNsXgwYRZsBLy) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Juice Voor Je Ziel](https://open.spotify.com/album/58om4xOUZjb2DfY04YTjuc) | 3:38 | 2024-05-07 | 2024-06-05 |
 | [Jump](https://open.spotify.com/track/5xbDu8CkhxVqCH1bwAu5nk) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [Jump](https://open.spotify.com/album/5IdAx6YL1PaXE2oCe8N8lO) | 3:24 | 2023-04-04 | 2023-05-03 |
 | [Jumping Jack Flash](https://open.spotify.com/track/6TyVaJ39UT73UYeQf1HkrF) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Jumping Jack Flash](https://open.spotify.com/album/2N4BNToSpuCKq5ibAQDyc9) | 2:48 | 2023-07-04 | 2023-08-02 |
@@ -2025,6 +2025,7 @@
 | [Sugarcoating](https://open.spotify.com/track/5yuP7geEdwhGCww3dEgtr2) | [Crybabies](https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8) | [Sugarcoating](https://open.spotify.com/album/26iPo34TgS5CYexUPYODFX) | 4:26 | 2025-04-01 | 2025-05-07 |
 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 | 2024-05-07 | 2024-06-05 |
 | [Summer](https://open.spotify.com/track/1llDpXM2Ix0GCi2Rx1FQZq) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Summer](https://open.spotify.com/album/0kQH2ATD7f47TmhG0lSJkN) | 3:07 | 2023-02-28 | 2023-04-05 |
+| [Summer Love](https://open.spotify.com/track/0YjXevB90M9K34TOx4q02S) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Summer Love](https://open.spotify.com/album/4VDwEXL99iyW8h5irzXg8S) | 2:35 | 2025-07-16 |  |
 | [Summerlove](https://open.spotify.com/track/4NYW5QDoVtzl0WfKfd96qD) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Dance Dance \(Don't Go\)](https://open.spotify.com/album/4D5ZRbx0gRMbd0Nf81qG8m) | 2:21 | 2023-07-04 | 2024-01-11 |
 | [SUN](https://open.spotify.com/track/0jGNYm72oVfKksSNtegn57) | [XXJULÍA](https://open.spotify.com/artist/00B42fUMqvYLmXc4H7Ciyi), [Mariji](https://open.spotify.com/artist/4yWy9OzNlfl1Mv8jw7HCXR) | [SUN](https://open.spotify.com/album/4jajslnuLvwXU8L63jsjOr) | 2:18 | 2025-03-04 | 2025-04-02 |
 | [Sun Goddess](https://open.spotify.com/track/1WKU8knQzXvFw4LZEcZvs3) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Mc Melodee](https://open.spotify.com/artist/0JlylEmvQDSl60PLkYe9r8) | [Sun Goddess](https://open.spotify.com/album/1pSGxoyRxrml3sWmNeFrwd) | 2:32 | 2022-05-03 | 2022-06-01 |

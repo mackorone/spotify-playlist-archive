@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 
 > 90년대 모두의 마음을 사로 잡았던 추억의 록 발라드를 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,881 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,900 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 71 | [사랑의 시](https://open.spotify.com/track/6K60nJi0wMt6XcPvhGbQLP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Love Is Time Sixth Sense](https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ) | 3:45 |
 | 72 | [Never Ending Story](https://open.spotify.com/track/6Qa7ooyOGYyf9oHA0I9Ay3) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [He's Coming](https://open.spotify.com/album/79G1oGLZPcyQAyPBRb8HJi) | 4:59 |
 | 73 | [애인…있어요](https://open.spotify.com/track/4hDdZkmUuBiM8mQSGXeY75) | [Lee Eun Mi](https://open.spotify.com/artist/57Rbh9mF8Peu1jOPRawGHW) | [이은미 LIVE CONCERT 가슴이 뛴다](https://open.spotify.com/album/2zFdzuOnmYvh9fKJgRpOIm) | 4:18 |
-| 74 | [유죄](https://open.spotify.com/track/2Fzib85o1G4S7l9wfsdh5N) | [Kim Hyun Sung](https://open.spotify.com/artist/2OlQF7o8Cos9ruBAYxfy7I) | [Kim Hyun Sung 2 Solo Album](https://open.spotify.com/album/6XzRIR8BeeCUXypxgpTv6M) | 4:05 |
+| 74 | [유죄](https://open.spotify.com/track/2Fzib85o1G4S7l9wfsdh5N) | [김현성](https://open.spotify.com/artist/05HCRWM8qQ2JHQrciIpX8p) | [Kim Hyun Sung 2 Solo Album](https://open.spotify.com/album/6XzRIR8BeeCUXypxgpTv6M) | 4:05 |
 | 75 | [You](https://open.spotify.com/track/532BkP20KoyCq7ehziah0N) | [Kim SangMin](https://open.spotify.com/artist/1qUM2ze6aqsBM8eIUDJlqo) | [Face](https://open.spotify.com/album/5DKVM7qALIPE2dsiPP6spX) | 4:38 |
 
 Snapshot ID: `ZIsVggAAAAATM1Xt9u/d6BF3uiKdZN6e`

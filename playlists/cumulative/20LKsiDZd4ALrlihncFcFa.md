@@ -2,7 +2,7 @@
 
 ### [90s ALTERNATIVE ROCK](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
 
-> 1990s alt rock \| 90s alt rock \| 90s alternative rock \| 90s hits \| grunge \| b\-sides \| deep cuts \| rock classics \| 90s throwbacks \| punk \| indie \| early 90s \| late 90s \| alice in chains \| foo fighters \| korn \| pearl jam \| rage against the machine \| tool \| dave matthews band \| incubus
+> alt rock \| 1990s alt rock \| 90s alt rock \| 90s alternative rock \| 90s hits \| grunge \| b\-sides \| deep cuts \| rock classics \| 90s throwbacks \| punk \| indie \| early 90s \| late 90s \| alice in chains \| foo fighters \| korn \| pearl jam \| rage against the machine \| tool \| dave matthews band \| incubus
 
 253 songs - 17 hr 38 min
 

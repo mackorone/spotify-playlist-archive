@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Narivetta",
-  "num_followers": 495807,
+  "num_followers": 496398,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHYFGQAAAAAdXLVWZjezA795VJgojcUa",
+  "snapshot_id": "aHdyqAAAAAB2AVfDTJM5/cRYOZQJRwhk",
   "tracks": [
     {
       "added_at": "2025-05-07 08:53:45",
@@ -53,6 +53,26 @@
       "url": "https://open.spotify.com/track/3NncVbpKJ91HPpI5TUIugV"
     },
     {
+      "added_at": "2025-07-14 08:45:32",
+      "album": {
+        "name": "Ray",
+        "url": "https://open.spotify.com/album/0oritKj3ppZGOmU91yYsDL"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 358929,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/7yyPe2eJRKxdwS0h3LDovO"
+    },
+    {
       "added_at": "2025-07-14 08:44:00",
       "album": {
         "name": "MAUNA LOA",
@@ -73,24 +93,28 @@
       "url": "https://open.spotify.com/track/7gqmoEWBvt6srOCDgTMEHM"
     },
     {
-      "added_at": "2025-07-14 08:45:32",
+      "added_at": "2025-06-23 10:08:09",
       "album": {
-        "name": "Ray",
-        "url": "https://open.spotify.com/album/0oritKj3ppZGOmU91yYsDL"
+        "name": "NERA",
+        "url": "https://open.spotify.com/album/6Tik6XH6wdBJ5dsEbnknQd"
       },
       "artists": [
         {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
         },
         {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
         }
       ],
-      "duration_ms": 358929,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/7yyPe2eJRKxdwS0h3LDovO"
+      "duration_ms": 213818,
+      "name": "NERA",
+      "url": "https://open.spotify.com/track/2sypL2XZpCV20M7mtVzesC"
     },
     {
       "added_at": "2025-07-14 08:44:00",
@@ -355,30 +379,6 @@
       "duration_ms": 197915,
       "name": "Heart Attack - From \"Painkili\"",
       "url": "https://open.spotify.com/track/0zKgFkG0MwdBt9iSVj1zmv"
-    },
-    {
-      "added_at": "2025-06-23 10:08:09",
-      "album": {
-        "name": "NERA",
-        "url": "https://open.spotify.com/album/6Tik6XH6wdBJ5dsEbnknQd"
-      },
-      "artists": [
-        {
-          "name": "ARJN",
-          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
-        },
-        {
-          "name": "KDS",
-          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
-        },
-        {
-          "name": "RONN",
-          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "NERA",
-      "url": "https://open.spotify.com/track/2sypL2XZpCV20M7mtVzesC"
     },
     {
       "added_at": "2025-03-17 05:14:43",

@@ -4,12 +4,13 @@
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-99 songs - 5 hr 7 min
+100 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [199 Hz \- Beta Sinus](https://open.spotify.com/track/2RRbBXjwzhpvTVakO2s7nk) | [Healing Yoga Meditation Music Consort](https://open.spotify.com/artist/38PxQFwKE257tcBkgrr9lb), [Gentle Instrumental Music Paradise](https://open.spotify.com/artist/21XKjuPImIZ82r6lvJPvH5) | [Healing Yoga Meditation 128 Hz\-606 Hz: Solfeggio Bliss, Opening Chakras, Soothing Frequencies for Insomnia Cure, Chakra Relaxation](https://open.spotify.com/album/5pRaImzAiq5lEIsJZAu1hO) | 3:46 | 2022-09-06 |  |
 | [30 Hz: Binaural Beats \(Beta Waves\)](https://open.spotify.com/track/1FEF3YNOw8lIX6dMf2exvO) | [Miracle Healing Tones TP](https://open.spotify.com/artist/63kwdbdX8dCCyiJGJTlIM1), [Solfeggio Frequencies TP](https://open.spotify.com/artist/2LJBMojG5pw23egZt0hOAw) | [30 Hz: Binaural Beats \(Beta Waves\)](https://open.spotify.com/album/1byB0uRoP12fbeHiYLx9Uk) | 2:25 | 2023-11-17 |  |
+| [Alpha Binaural Astral Echoes](https://open.spotify.com/track/54Hz2H60d33HYOcCaoUk6w) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Alpha Binaural Astral Echoes](https://open.spotify.com/album/7ve26rcVcrU2aRtrhbmluB) | 2:50 | 2025-07-16 |  |
 | [Angel Plucks Delta D sinus 72\-75hz](https://open.spotify.com/track/4p62bc6ng2sXwyHJT0M6Qv) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Angel Plucks Delta D sinus 72\-75hz](https://open.spotify.com/album/1j9nwoR1nMCvj7J8RNRGXY) | 2:42 | 2024-02-14 | 2024-03-09 |
 | [Appreciation \(Beta 105 Hz \- 121 Hz\)](https://open.spotify.com/track/7vrlLqv2HhIWT4Yhpu9byI) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Wonder Falls & Appreciation \(Binaural Beta\)](https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS) | 3:43 | 2023-01-13 |  |
 | [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/track/2AFdAp6PnYcJdiEknVrMp7) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/album/7raltftxJk9fINtP88U8KT) | 2:39 | 2024-01-24 | 2024-03-09 |

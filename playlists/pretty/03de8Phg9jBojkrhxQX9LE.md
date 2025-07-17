@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,527 likes - 150 songs - 8 hr 9 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,526 likes - 150 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 5 | [Our Time](https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Our Time](https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz) | 2:41 |
 | 6 | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/track/0dC9OuZL5Qh70N37wtwGHJ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/album/1QTFFa1qM6luiHOk5ey5ue) | 3:04 |
 | 7 | [Cola](https://open.spotify.com/track/3p6xT3Nw30yeAxjggwz5Tt) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Life of a Wallflower, Vol\. 2 \(Bonus Tracks\)](https://open.spotify.com/album/7bvPeNk8uGMLPrLPMEaU8s) | 1:59 |
-| 8 | [House Music Is For Nerds \(feat\. Kyle Kidd\)](https://open.spotify.com/track/0pO7T9FQefapxby3YXS8Cv) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Kyle Kidd](https://open.spotify.com/artist/54CbRzfCA8R3NkCJE77lvB) | [Lets ‘Av It Right!](https://open.spotify.com/album/4QTwl3IRXIxGWCdHJSdkEm) | 2:51 |
+| 8 | [House Music Is For Nerds \(feat\. Kyle Kidd\)](https://open.spotify.com/track/0pO7T9FQefapxby3YXS8Cv) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Kyle Kidd](https://open.spotify.com/artist/4X5Nbu5dWoMABqM0KORu9d) | [Lets ‘Av It Right!](https://open.spotify.com/album/4QTwl3IRXIxGWCdHJSdkEm) | 2:51 |
 | 9 | [Snakeyes](https://open.spotify.com/track/1rFgk0Ns7rXQF17y0raWf6) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Snakeyes](https://open.spotify.com/album/0v6UQFtp3LgMMJhivKhsJW) | 2:44 |
 | 10 | [All Your Love](https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [All Your Love](https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD) | 2:08 |
 | 11 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 |

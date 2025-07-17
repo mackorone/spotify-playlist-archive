@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Anora",
+  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Superman",
   "name": "needle drop",
   "tracks": [
     {
@@ -162,6 +162,24 @@
       "duration_ms": 176000,
       "name": "Anyone But You",
       "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
+    },
+    {
+      "album": {
+        "name": "Mug Museum",
+        "url": "https://open.spotify.com/album/5xXP2gI8U35p389RggZW6O"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260573,
+      "name": "Are You with Me Now?",
+      "url": "https://open.spotify.com/track/7JSKAwskeR9SGtwJdarODc"
     },
     {
       "album": {
@@ -1518,7 +1536,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr"
@@ -1785,6 +1803,28 @@
     },
     {
       "album": {
+        "name": "Soft Machine (U.S. Version)",
+        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "Punkrocker (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
+    },
+    {
+      "album": {
         "name": "Queer (Original Score)",
         "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
       },
@@ -1822,7 +1862,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 188674,
       "name": "Red",
       "url": "https://open.spotify.com/track/2SIq8DBT8ezjxarFag8Sf8"
@@ -2224,7 +2264,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 151395,
       "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
@@ -2606,6 +2646,28 @@
       "duration_ms": 241307,
       "name": "You Belong With Me",
       "url": "https://open.spotify.com/track/6dpjJIWTgTJQyviasKWjk4"
+    },
+    {
+      "album": {
+        "name": "You Found Me",
+        "url": "https://open.spotify.com/album/2jTjNvShtOPHj5PK1Bv4YQ"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253601,
+      "name": "You Found Me (From the Netflix Series \"Too Much\")",
+      "url": "https://open.spotify.com/track/7Jyt9tIVvp3hB0HPFfMA6P"
     },
     {
       "album": {

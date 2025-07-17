@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: imase",
-  "num_followers": 63168,
+  "num_followers": 63171,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-07-15 17:30:59",
       "album": {
+        "name": "\u30cf\u30ec\u306e\u65e5\u306b - Harenohini",
+        "url": "https://open.spotify.com/album/3aaRYkHau7tGCBcVMAlTWY"
+      },
+      "artists": [
+        {
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+        }
+      ],
+      "duration_ms": 277289,
+      "name": "\u30cf\u30ec\u306e\u65e5\u306b - Harenohini",
+      "url": "https://open.spotify.com/track/41bU6Anbt3NPBdGLzpEcal"
+    },
+    {
+      "added_at": "2025-07-15 17:30:59",
+      "album": {
         "name": "\u611b\u3068\u304b\u3002",
         "url": "https://open.spotify.com/album/1YHyYjUNSTLgTRGAj8JOCp"
       },
@@ -911,34 +927,18 @@
     {
       "added_at": "2025-07-15 17:30:59",
       "album": {
-        "name": "\u30cf\u30ec\u306e\u65e5\u306b - Harenohini",
-        "url": "https://open.spotify.com/album/3aaRYkHau7tGCBcVMAlTWY"
+        "name": "\u3053\u306e\u4e16\u754c\u306b\u56fd\u304c\u7121\u304b\u3063\u305f\u3089",
+        "url": "https://open.spotify.com/album/3xew462pPgsDMWwwCC5lut"
       },
       "artists": [
         {
-          "name": "\u6c50\u308c\u3044\u3089",
-          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
         }
       ],
-      "duration_ms": 277289,
-      "name": "\u30cf\u30ec\u306e\u65e5\u306b - Harenohini",
-      "url": "https://open.spotify.com/track/41bU6Anbt3NPBdGLzpEcal"
-    },
-    {
-      "added_at": "2025-07-15 17:30:59",
-      "album": {
-        "name": "First Love - From THE FIRST TAKE",
-        "url": "https://open.spotify.com/album/7II3p3ywdOAWBMqxfUvltE"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "First Love - From THE FIRST TAKE",
-      "url": "https://open.spotify.com/track/3yABENcVFND5P17ezdw1Dr"
+      "duration_ms": 259704,
+      "name": "\u3053\u306e\u4e16\u754c\u306b\u56fd\u304c\u7121\u304b\u3063\u305f\u3089",
+      "url": "https://open.spotify.com/track/129vY7oCXRRzEeb8PETl6H"
     },
     {
       "added_at": "2025-07-15 17:30:59",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-07-15 17:30:59",
       "album": {
-        "name": "\u3053\u306e\u4e16\u754c\u306b\u56fd\u304c\u7121\u304b\u3063\u305f\u3089",
-        "url": "https://open.spotify.com/album/3xew462pPgsDMWwwCC5lut"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
-        }
-      ],
-      "duration_ms": 259704,
-      "name": "\u3053\u306e\u4e16\u754c\u306b\u56fd\u304c\u7121\u304b\u3063\u305f\u3089",
-      "url": "https://open.spotify.com/track/129vY7oCXRRzEeb8PETl6H"
-    },
-    {
-      "added_at": "2025-07-15 17:30:59",
-      "album": {
         "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
         "url": "https://open.spotify.com/album/5scniruALOkj4WOg3xDHuR"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 217988,
       "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/53NuLWR6rTIO2IqQ4x1Skx"
+    },
+    {
+      "added_at": "2025-07-15 17:30:59",
+      "album": {
+        "name": "First Love - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/7II3p3ywdOAWBMqxfUvltE"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "First Love - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/3yABENcVFND5P17ezdw1Dr"
     },
     {
       "added_at": "2025-07-15 17:30:59",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-07-15 17:30:59",
       "album": {
-        "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
-        "url": "https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
-      "url": "https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1"
-    },
-    {
-      "added_at": "2025-07-15 17:30:59",
-      "album": {
         "name": "\u5bb5\u796d\u308a - Yoimatsuri",
         "url": "https://open.spotify.com/album/1hUjBCokqHvkouvYJrDiOF"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 208205,
       "name": "\u5bb5\u796d\u308a - Yoimatsuri",
       "url": "https://open.spotify.com/track/1L4TyLYs0cP5wgaMEGtLeG"
+    },
+    {
+      "added_at": "2025-07-15 17:30:59",
+      "album": {
+        "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
+        "url": "https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
+      "url": "https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1"
     },
     {
       "added_at": "2025-07-15 17:30:59",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-07-15 17:30:59",
       "album": {
-        "name": "\u822a\u6d77\u58eb",
-        "url": "https://open.spotify.com/album/4pOGjkXw9tTpX8dLsN5OpB"
-      },
-      "artists": [
-        {
-          "name": "Tani Yuuki",
-          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "\u4ed6\u4eba\u308a\u4e8b",
-      "url": "https://open.spotify.com/track/0KYXg1hOpgvJK9H48VZq7M"
-    },
-    {
-      "added_at": "2025-07-15 17:30:59",
-      "album": {
         "name": "filled",
         "url": "https://open.spotify.com/album/6YGpmClZfMmUFcL2ZNR027"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 225053,
       "name": "filled",
       "url": "https://open.spotify.com/track/7xTxvfqzbIcByhItCgUDB6"
+    },
+    {
+      "added_at": "2025-07-15 17:30:59",
+      "album": {
+        "name": "\u822a\u6d77\u58eb",
+        "url": "https://open.spotify.com/album/4pOGjkXw9tTpX8dLsN5OpB"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "\u4ed6\u4eba\u308a\u4e8b",
+      "url": "https://open.spotify.com/track/0KYXg1hOpgvJK9H48VZq7M"
     },
     {
       "added_at": "2025-07-15 17:30:59",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-07-15 17:30:59",
       "album": {
-        "name": "DON'T FORGET MY NAME",
-        "url": "https://open.spotify.com/album/2fCJiH9OvWuVVz75C9A5UQ"
-      },
-      "artists": [
-        {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "DON'T FORGET MY NAME",
-      "url": "https://open.spotify.com/track/1q4yrx2dy6o11kkYgPfwKh"
-    },
-    {
-      "added_at": "2025-07-15 17:30:59",
-      "album": {
         "name": "\u308f\u3092\u3093",
         "url": "https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2025-07-15 17:30:59",
       "album": {
-        "name": "\u5f8c\u6094\u53f2",
-        "url": "https://open.spotify.com/album/3Zq1ApCERbdxujr272P2IW"
+        "name": "DON'T FORGET MY NAME",
+        "url": "https://open.spotify.com/album/2fCJiH9OvWuVVz75C9A5UQ"
       },
       "artists": [
         {
-          "name": "Tani Yuuki",
-          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
         }
       ],
-      "duration_ms": 260833,
-      "name": "\u5f8c\u6094\u53f2",
-      "url": "https://open.spotify.com/track/5XuZZQWCtLglKAAe1Tt1ph"
+      "duration_ms": 201880,
+      "name": "DON'T FORGET MY NAME",
+      "url": "https://open.spotify.com/track/1q4yrx2dy6o11kkYgPfwKh"
     },
     {
       "added_at": "2025-07-15 17:30:59",
@@ -1307,6 +1291,22 @@
       "duration_ms": 166933,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/3GHBPdLwu6yy60XBrRXaAQ"
+    },
+    {
+      "added_at": "2025-07-15 17:30:59",
+      "album": {
+        "name": "\u5f8c\u6094\u53f2",
+        "url": "https://open.spotify.com/album/3Zq1ApCERbdxujr272P2IW"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "duration_ms": 260833,
+      "name": "\u5f8c\u6094\u53f2",
+      "url": "https://open.spotify.com/track/5XuZZQWCtLglKAAe1Tt1ph"
     },
     {
       "added_at": "2025-07-15 17:30:59",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-07-15 17:30:59",
       "album": {
-        "name": "Eureka",
-        "url": "https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Eureka",
-      "url": "https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir"
-    },
-    {
-      "added_at": "2025-07-15 17:30:59",
-      "album": {
         "name": "Kagome Kagome",
         "url": "https://open.spotify.com/album/0b3DYc1SdkD9sSiUTKlmOs"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 177464,
       "name": "Kagome Kagome",
       "url": "https://open.spotify.com/track/7jxgUPV1rXpPEBEltKxDRl"
+    },
+    {
+      "added_at": "2025-07-15 17:30:59",
+      "album": {
+        "name": "Eureka",
+        "url": "https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 211333,
+      "name": "Eureka",
+      "url": "https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir"
     },
     {
       "added_at": "2025-07-15 17:30:59",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-07-15 17:30:59",
       "album": {
-        "name": "\u6de1\u8272\u306e\u5e78\u305b",
-        "url": "https://open.spotify.com/album/0s7qVBb38s7Hx9UFP4EAGG"
-      },
-      "artists": [
-        {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
-        }
-      ],
-      "duration_ms": 185001,
-      "name": "\u6de1\u8272\u306e\u5e78\u305b",
-      "url": "https://open.spotify.com/track/5jSRMO6rx1Glgi1gGkmZb2"
-    },
-    {
-      "added_at": "2025-07-15 17:30:59",
-      "album": {
         "name": "\u00d7L\u00d7C\u00d7A\u00d7",
         "url": "https://open.spotify.com/album/7EJIvSY1MzWygiuQn6o02a"
       },
@@ -1499,18 +1483,34 @@
     {
       "added_at": "2025-07-15 17:30:59",
       "album": {
-        "name": "\u611b\u306f\u7f60",
-        "url": "https://open.spotify.com/album/2im9tKQhqcjG8jefWqPQJo"
+        "name": "\u6de1\u8272\u306e\u5e78\u305b",
+        "url": "https://open.spotify.com/album/0s7qVBb38s7Hx9UFP4EAGG"
       },
       "artists": [
         {
-          "name": "satomoka",
-          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
         }
       ],
-      "duration_ms": 236797,
-      "name": "\u611b\u306f\u7f60",
-      "url": "https://open.spotify.com/track/02Vt4VKSg4luOsdCdyPof2"
+      "duration_ms": 185001,
+      "name": "\u6de1\u8272\u306e\u5e78\u305b",
+      "url": "https://open.spotify.com/track/5jSRMO6rx1Glgi1gGkmZb2"
+    },
+    {
+      "added_at": "2025-07-15 17:30:59",
+      "album": {
+        "name": "LUCKY",
+        "url": "https://open.spotify.com/album/5n23bJMXQyVCVVkKWumfEg"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 209514,
+      "name": "LUCKY",
+      "url": "https://open.spotify.com/track/5EutOJtNnuuIiyKsI1PfLi"
     },
     {
       "added_at": "2025-07-15 17:30:59",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-07-15 17:30:59",
       "album": {
+        "name": "\u611b\u306f\u7f60",
+        "url": "https://open.spotify.com/album/2im9tKQhqcjG8jefWqPQJo"
+      },
+      "artists": [
+        {
+          "name": "satomoka",
+          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
+        }
+      ],
+      "duration_ms": 236797,
+      "name": "\u611b\u306f\u7f60",
+      "url": "https://open.spotify.com/track/02Vt4VKSg4luOsdCdyPof2"
+    },
+    {
+      "added_at": "2025-07-15 17:30:59",
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/1oyGotUkD2WNFVJ6PalpOx"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 161599,
       "name": "Star",
       "url": "https://open.spotify.com/track/4Dk5X3OTEHIOPYUL5x2tgP"
-    },
-    {
-      "added_at": "2025-07-15 17:30:59",
-      "album": {
-        "name": "LUCKY",
-        "url": "https://open.spotify.com/album/5n23bJMXQyVCVVkKWumfEg"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 209514,
-      "name": "LUCKY",
-      "url": "https://open.spotify.com/track/5EutOJtNnuuIiyKsI1PfLi"
     },
     {
       "added_at": "2025-07-15 17:30:59",

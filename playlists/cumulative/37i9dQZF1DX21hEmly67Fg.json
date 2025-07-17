@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/5d0gGP14gTqjaj8nDYaO7B"
+      },
+      "artists": [
+        {
+          "name": "Elias Vondrel",
+          "url": "https://open.spotify.com/artist/7CScgz7clKsQIR0K85fgWc"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176320,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/0kQvjf9Fjxw8WYTycCaqke"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/6EeXlJ4epMi8gvTvnlsFTJ"
       },
@@ -1375,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5HDmnUQ5FPjf2ubKiFPggD"
+      },
+      "artists": [
+        {
+          "name": "Tierra Sonora",
+          "url": "https://open.spotify.com/artist/5A1O45cYVPyJU5ZHS9VieF"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156550,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/7q7NXdrgOPlt5r7ZjHrMnZ"
+    },
+    {
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/6DgzorRqPflcNX5Gip8ta3"
       },
@@ -2005,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Greatest Love of All",
+        "url": "https://open.spotify.com/album/3Y6F2WfgDbL2aVWUxH0AuI"
+      },
+      "artists": [
+        {
+          "name": "Velvet Pines",
+          "url": "https://open.spotify.com/artist/2LD1CbmqGxPI5l13pMDITB"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Greatest Love of All",
+      "url": "https://open.spotify.com/track/340phg9lmDxOZ40GWxHa0a"
+    },
+    {
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf"
       },
@@ -2124,10 +2178,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 181656,
       "name": "Have I Told You Lately",
       "url": "https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8"
+    },
+    {
+      "album": {
+        "name": "Have I Told You Lately",
+        "url": "https://open.spotify.com/album/1gaEWbAsmrSj5VkYiLlpCD"
+      },
+      "artists": [
+        {
+          "name": "Petal & Thorn",
+          "url": "https://open.spotify.com/artist/3Ul2PMlam8P1icRAZJlAUM"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "Have I Told You Lately",
+      "url": "https://open.spotify.com/track/26cYvqWgbdkYlWShiSW46W"
     },
     {
       "album": {
@@ -2495,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "I Like The Way You Kiss Me",
+        "url": "https://open.spotify.com/album/3AZPbvlsX6hnqSfKpGOaQm"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3n Araujo",
+          "url": "https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132173,
+      "name": "I Like The Way You Kiss Me",
+      "url": "https://open.spotify.com/track/7aiQKTfHBuCtlGCfarM2uM"
+    },
+    {
+      "album": {
         "name": "I love you, I'm sorry",
         "url": "https://open.spotify.com/album/35aDCfbOCuJU1tDhjv2vwp"
       },
@@ -2582,7 +2672,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 228000,
       "name": "I'm Not the Only One",
       "url": "https://open.spotify.com/track/2NoZtslvJanrcruU5Ih2be"
@@ -2838,6 +2928,24 @@
       "duration_ms": 208100,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko"
+    },
+    {
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/7ikzDkebkQG3SnjAL6RR4k"
+      },
+      "artists": [
+        {
+          "name": "Saffron R\u00edos",
+          "url": "https://open.spotify.com/artist/1CduUxwo2umFLnf2AQrr7l"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157324,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/7EeBlNuzI6kEFZ9sWumH3W"
     },
     {
       "album": {
@@ -3140,10 +3248,28 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 187375,
       "name": "Messy",
       "url": "https://open.spotify.com/track/1XYqTUJrWQ1RbpYNw3C8kr"
+    },
+    {
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2eI3EnkFvNs950naBZWZFL"
+      },
+      "artists": [
+        {
+          "name": "Emma Lorents",
+          "url": "https://open.spotify.com/artist/2Oa3OJROOoFrIZCPV8Tegc"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215513,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/2ANTI6TG8iFWFkL5GuoRVy"
     },
     {
       "album": {
@@ -3554,7 +3680,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 182950,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/09lSfcBUDhinOxgJXPxFeF"
@@ -4553,6 +4679,42 @@
     },
     {
       "album": {
+        "name": "Take On Me",
+        "url": "https://open.spotify.com/album/6GDZJ2TpJkiszY7Pa8w3Hy"
+      },
+      "artists": [
+        {
+          "name": "The Enneagrams",
+          "url": "https://open.spotify.com/artist/6hSPm8hejwOjSWxFT1BCHJ"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168290,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/74UtJoT0MPK3AmYKyCQ5xp"
+    },
+    {
+      "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/2R6ug7LF0HpicvY0sqfqqW"
+      },
+      "artists": [
+        {
+          "name": "Jonka Tribute",
+          "url": "https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155002,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/6ExrfUQYEIgNVDRfGgoQD6"
+    },
+    {
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/4mSPv9m5vsDzPjzxocDbDt"
       },
@@ -5288,7 +5450,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 220599,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/1Sv0ki8acURIMVQzKKu7NK"
@@ -5450,7 +5612,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 131735,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/0y1sd3xVFcmWb3wRAyGp53"
@@ -5486,7 +5648,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 195816,
       "name": "You Are Not Alone",
       "url": "https://open.spotify.com/track/1cIeaqYDfdLuNK6lI1jkre"
@@ -5580,6 +5742,24 @@
       "duration_ms": 190478,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/61iDbuI3Skfhn7vIRtLjZE"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4TSnb3sfdwgYxfR7rXszY0"
+      },
+      "artists": [
+        {
+          "name": "Elias Vondrel",
+          "url": "https://open.spotify.com/artist/7CScgz7clKsQIR0K85fgWc"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167787,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/14zFfWr5uLYc0AbSEo6psx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX21hEmly67Fg"

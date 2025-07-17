@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 244800,
       "name": "Give Me Your Forever",
       "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "HSP",
+        "url": "https://open.spotify.com/album/4ZQm7J0Jb7rCtw7CRbkbBy"
+      },
+      "artists": [
+        {
+          "name": "Purples n' Oranges",
+          "url": "https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264605,
+      "name": "HSP",
+      "url": "https://open.spotify.com/track/03WtEgVEYY2p55mzoYLFg7"
+    },
+    {
+      "album": {
         "name": "Infinite Dream",
         "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
       },
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 171200,
       "name": "I Quit Drinking",
       "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
@@ -3676,6 +3694,24 @@
       "duration_ms": 154841,
       "name": "this is what forever feels like (with Nick Jonas)",
       "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
+    },
+    {
+      "album": {
+        "name": "Tina",
+        "url": "https://open.spotify.com/album/2JA1bALgbEnecph30pm1bc"
+      },
+      "artists": [
+        {
+          "name": "Ren Bugash",
+          "url": "https://open.spotify.com/artist/5KuDdMpdzVoH8hRnxKOKlj"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Tina",
+      "url": "https://open.spotify.com/track/3h44D1XQCCtte7wtJJ9jyT"
     },
     {
       "album": {

@@ -15097,6 +15097,32 @@
     },
     {
       "album": {
+        "name": "Telefone",
+        "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Akenya",
+          "url": "https://open.spotify.com/artist/2pHQOZq131jMXYSTjP3Ncx"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183135,
+      "name": "Reality Check",
+      "url": "https://open.spotify.com/track/4mWqmihBqG4EBRe86NheY6"
+    },
+    {
+      "album": {
         "name": "Street Lottery Reloaded",
         "url": "https://open.spotify.com/album/2ICKltX9OGtxTfHVYtpzCH"
       },
@@ -16710,7 +16736,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 128156,
       "name": "Snotty Rock!",
       "url": "https://open.spotify.com/track/3PiH2mknilvIyEQaUgqZ3M"
@@ -19432,6 +19458,24 @@
       "duration_ms": 186474,
       "name": "U Should Know",
       "url": "https://open.spotify.com/track/5bfKhDxMWi5Yd2B4OBYdHg"
+    },
+    {
+      "album": {
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166549,
+      "name": "U Turn",
+      "url": "https://open.spotify.com/track/3m4uDi8X57XVTzAjb9btNh"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 23546,
+  "num_followers": 23549,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Princesses nubiennes",
+        "url": "https://open.spotify.com/album/18Tc3CrTP3lb8nMJnoRGSK"
+      },
+      "artists": [
+        {
+          "name": "Les Nubians",
+          "url": "https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Demain jazz",
+      "url": "https://open.spotify.com/track/5cU5fWOztxf1YFmXVh7Oe6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Plead The .45th",
         "url": "https://open.spotify.com/album/1QB0b5cp5WiUxuMRqw7JeY"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 140470,
       "name": "Plead The .45th",
       "url": "https://open.spotify.com/track/6AwbQI2M4BYZXAE5RoxzTW"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Princesses nubiennes",
-        "url": "https://open.spotify.com/album/18Tc3CrTP3lb8nMJnoRGSK"
-      },
-      "artists": [
-        {
-          "name": "Les Nubians",
-          "url": "https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Demain jazz",
-      "url": "https://open.spotify.com/track/5cU5fWOztxf1YFmXVh7Oe6"
     },
     {
       "added_at": "2022-10-01 16:00:00",

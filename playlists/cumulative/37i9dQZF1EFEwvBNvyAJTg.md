@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-248 songs - 13 hr 33 min
+249 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [No Angel](https://open.spotify.com/track/4neipBD8hA1q2g1FS9hgAC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:06 | 2024-06-13 |  |
 | [No Broken Hearts \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4qULqxfCRhJAXVc75UupQB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [No Broken Hearts \(feat\. Nicki Minaj\)](https://open.spotify.com/album/11jAMg5CsXfhmwe0A8BIU2) | 3:59 | 2024-06-13 |  |
 | [No Can Do](https://open.spotify.com/track/66UqoMiEdnzUH5BjYpzs4r) | [Kashief Lindo](https://open.spotify.com/artist/5OUbkehpd3H7pV8DKcQlNt) | [What Kinda World](https://open.spotify.com/album/048zkHSlgu1BOzKnDMmuFl) | 3:17 | 2024-06-13 | 2025-06-28 |
-| [No Can Do](https://open.spotify.com/track/6c16C54Rhziuxp473czKcZ) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Catfights and Spotlights](https://open.spotify.com/album/3brpDH7FmImzQU5PmOHmHb) | 3:09 | 2025-06-27 |  |
+| [No Can Do](https://open.spotify.com/track/6c16C54Rhziuxp473czKcZ) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Catfights and Spotlights](https://open.spotify.com/album/3brpDH7FmImzQU5PmOHmHb) | 3:09 | 2025-06-27 | 2025-07-17 |
 | [Nobody But You](https://open.spotify.com/track/0HZ8o8lOp8sKtcnv3ngaOJ) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [The Collection \- Studio Albums / B Sides / Live](https://open.spotify.com/album/197iwLK0pIw6IAfcqMPyQ7) | 4:10 | 2025-07-09 |  |
 | [Nobody but You](https://open.spotify.com/track/3xc9WGY2CSKSxjY7YhVnEl) | [Nadeah](https://open.spotify.com/artist/0aTt9pxnOoozI8UoyJ7jSc) | [Venus Gets Even \(International Version\)](https://open.spotify.com/album/0Nyk48bnfHK6KEgQ1a1SjP) | 5:43 | 2024-06-13 | 2025-07-10 |
 | [Nothing Compares](https://open.spotify.com/track/0XVgY7qVIVmlTe8OzoOoHL) | [Marshall Marshall](https://open.spotify.com/artist/3f5eDe7KfH3eTCc94eJCad) | [In Awe of You](https://open.spotify.com/album/6Gzenp1AwlhrOqiVAx45M5) | 2:53 | 2025-01-09 | 2025-04-12 |
@@ -194,6 +194,7 @@
 | [Say No More \(feat\. Ellenor\)](https://open.spotify.com/track/4JbeTykkOPSKsFoqJLF4Iw) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Ellenor](https://open.spotify.com/artist/0REqgP6J3j3gr32k7dn4VF) | [Say No More \(feat\. Ellenor\)](https://open.spotify.com/album/2k5DUuBioR17x2FaMBvg8g) | 2:26 | 2025-05-31 |  |
 | [Say You Do](https://open.spotify.com/track/74jDFju8j3sX1yQJeLdJ6O) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 | 2024-06-13 |  |
 | [September Rose](https://open.spotify.com/track/2RIE736kkO0hLZ4Y3auCL2) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [September Rose](https://open.spotify.com/album/5HaNyMxVqfJQHygG2bjIJr) | 3:41 | 2024-06-13 |  |
+| [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 | 2025-07-16 |  |
 | [Showgirl](https://open.spotify.com/track/5eYQZSQPlLHHc1bLL0UmO5) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:46 | 2024-06-13 |  |
 | [Sicko](https://open.spotify.com/track/1HviCfLLU3yd7SktE1AmvO) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:32 | 2024-06-13 |  |
 | [Side Effects](https://open.spotify.com/track/2aAksX61WFBUxWayOhEDJn) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:33 | 2024-09-14 |  |

@@ -1437,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "PERCENT",
+        "url": "https://open.spotify.com/album/4de5hT5ZhXjpGXvwsLsZNW"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/0vq0jeNuAKYryydXzZUoYw"
+    },
+    {
+      "album": {
         "name": "SK8 KID (feat. JJANGYOU)",
         "url": "https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf"
       },

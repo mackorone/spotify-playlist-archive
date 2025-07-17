@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 232 songs - 12 hr 51 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 235 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,5 +240,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 230 | [Tyla](https://open.spotify.com/track/71ntODiMqKLIyFFmw1Kj5M) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm) | 2:03 |
 | 231 | [Rocket Love](https://open.spotify.com/track/1jieqFxetPlw4Hri77DQJ6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Complete Stevie Wonder](https://open.spotify.com/album/3wV75jagiyMRezq1LOCh1I) | 4:39 |
 | 232 | [Un Lugar En El Sol \(A Place In The Sun\) \- Spanish Version](https://open.spotify.com/track/155LYHjfuIXpQUb8DEce8G) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Complete Stevie Wonder](https://open.spotify.com/album/3wV75jagiyMRezq1LOCh1I) | 3:14 |
+| 233 | [Reality Check](https://open.spotify.com/track/4mWqmihBqG4EBRe86NheY6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Akenya](https://open.spotify.com/artist/2pHQOZq131jMXYSTjP3Ncx) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 3:03 |
+| 234 | [U Turn](https://open.spotify.com/track/3m4uDi8X57XVTzAjb9btNh) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Pieces of a Man](https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a) | 2:46 |
+| 235 | [Snotty Rock!](https://open.spotify.com/track/3PiH2mknilvIyEQaUgqZ3M) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SNOTTY WORLD](https://open.spotify.com/album/4WsroDqYcqI1DpRgRAwqF2) | 2:08 |
 
-Snapshot ID: `AAAesUmx9XP3qdBF28SZaCavvOCNej6K`
+Snapshot ID: `AAAetMhs0l2AO96I7wv7Oiy0Q7wdtgJV`

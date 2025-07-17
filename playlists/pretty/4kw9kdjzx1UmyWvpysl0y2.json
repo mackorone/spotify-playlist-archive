@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125191,
+  "num_followers": 125187,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUV3l4qf5v+S7njg76W0hPerPApbrX",
+  "snapshot_id": "AAAUWfxNLeRGM24p14H3B9DDEpg62F/t",
   "tracks": [
+    {
+      "added_at": "2025-07-16 14:02:18",
+      "album": {
+        "name": "collide",
+        "url": "https://open.spotify.com/album/5GdP1B6qEllUcmClyHMLh2"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/4ZiRO3AgPASOA3t5Jad3oJ"
+    },
     {
       "added_at": "2025-07-15 14:41:07",
       "album": {
@@ -1131,46 +1147,6 @@
       "duration_ms": 104000,
       "name": "Golden Leaves - Sarah Watson Rework",
       "url": "https://open.spotify.com/track/2GwHBZRnbyXBxdsCbeexho"
-    },
-    {
-      "added_at": "2025-04-24 19:39:38",
-      "album": {
-        "name": "cheemistry",
-        "url": "https://open.spotify.com/album/5euhcmT7aP4W7mrL9JWlPy"
-      },
-      "artists": [
-        {
-          "name": "Zachz Winner",
-          "url": "https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV"
-        }
-      ],
-      "duration_ms": 116404,
-      "name": "cheemistry",
-      "url": "https://open.spotify.com/track/43GqjsNEuDm8wVdJZdwLWO"
-    },
-    {
-      "added_at": "2025-04-23 17:13:41",
-      "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/0oS0q47PgZZNLTTb2s4Kn9"
-      },
-      "artists": [
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        },
-        {
-          "name": "GILLIAD",
-          "url": "https://open.spotify.com/artist/6AKiapdvTAXauBNZ7DxS3z"
-        },
-        {
-          "name": "Nina Sung",
-          "url": "https://open.spotify.com/artist/3IDGSw4dPbHMSnd93gkeXG"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/0hdbVFC6rzm2oqt1D7Zgn0"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

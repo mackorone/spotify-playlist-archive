@@ -475,6 +475,40 @@
     },
     {
       "album": {
+        "name": "The Mail Man (Original Master Peace)",
+        "url": "https://open.spotify.com/album/114ZMnc0KTYGO7bLz0o0dX"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "The Click",
+          "url": "https://open.spotify.com/artist/3s1xcekYgnSkBm8QK1uBYD"
+        },
+        {
+          "name": "Suga T",
+          "url": "https://open.spotify.com/artist/4cX9ggFy3pBFNyJOoVQCHF"
+        },
+        {
+          "name": "D-Shott",
+          "url": "https://open.spotify.com/artist/09MQBKHQESWzA2FuEUD3WL"
+        },
+        {
+          "name": "B-Legit",
+          "url": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288297,
+      "name": "Captain Save A Hoe",
+      "url": "https://open.spotify.com/track/4ixD6bSwnSlzuBrd2c80vI"
+    },
+    {
+      "album": {
         "name": "Leftoverture (Expanded Edition)",
         "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
       },
@@ -1292,7 +1326,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 368226,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM"

@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 118584,
+  "num_followers": 118628,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,42 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
+        "name": "Neria",
+        "url": "https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2"
+      },
+      "artists": [
+        {
+          "name": "Oliver Mtukudzi",
+          "url": "https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 357181,
+      "name": "Neria",
+      "url": "https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
+        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
+        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "duration_ms": 199067,
+      "name": "Dancing Time",
+      "url": "https://open.spotify.com/track/6GIBtvIijjv5EzlgEO04I7"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
         "name": "Sibongile",
         "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
       },
@@ -631,42 +667,6 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/7lSNZV9U8D7BnzwTIM8zlG"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "In Harmony",
-        "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Afrika 70",
-          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
-        }
-      ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
     }
   ],
   "unique_name": "Classic Afropop",

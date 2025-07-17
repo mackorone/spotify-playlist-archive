@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 26922,
+  "num_followers": 26928,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHRIgAAAAAD8kSil/j2Q1JeC9OoqAKT0",
+  "snapshot_id": "aHWaAAAAAAD3m3ZOhAAuqQeiwqaLPoHC",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddy",
-        "url": "https://open.spotify.com/album/0GVbdxlqXpgq9fLFZ6CRIm"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 205681,
-      "name": "Buddy",
-      "url": "https://open.spotify.com/track/4REC1ugNoqID6npg121UVv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockin' the World",
         "url": "https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 190973,
       "name": "Last Moment",
       "url": "https://open.spotify.com/track/3D8n3PE8BAEfji0q1lw75q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buddy",
+        "url": "https://open.spotify.com/album/0GVbdxlqXpgq9fLFZ6CRIm"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 205681,
+      "name": "Buddy",
+      "url": "https://open.spotify.com/track/4REC1ugNoqID6npg121UVv"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 240533,
-      "name": "Little Summer",
-      "url": "https://open.spotify.com/track/3VCel9SsPYeZMQvvz0pNQS"
+      "duration_ms": 243320,
+      "name": "0 GAME",
+      "url": "https://open.spotify.com/track/0zqjHT5SlLl8ZVzVHhZPCR"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 243320,
-      "name": "0 GAME",
-      "url": "https://open.spotify.com/track/0zqjHT5SlLl8ZVzVHhZPCR"
+      "duration_ms": 240533,
+      "name": "Little Summer",
+      "url": "https://open.spotify.com/track/3VCel9SsPYeZMQvvz0pNQS"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8f4d\uff5eWadachi\uff5e",
-        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
-      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KINGDOM",
         "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 300173,
       "name": "\u541b\u304c\u3044\u305f\u590f",
       "url": "https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8f4d\uff5eWadachi\uff5e",
+        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
     },
     {
       "added_at": null,

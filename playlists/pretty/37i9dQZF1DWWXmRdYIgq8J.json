@@ -1,6 +1,6 @@
 {
   "description": "Tropical tunes from the Indo-Caribbean diaspora.",
-  "num_followers": 24169,
+  "num_followers": 24172,
   "original_name": "Pass The Chutney",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-06-02 06:51:49",
       "album": {
+        "name": "Love You Again",
+        "url": "https://open.spotify.com/album/1yPhTWthx8zbzFfI9CxOmC"
+      },
+      "artists": [
+        {
+          "name": "Ki & the Band",
+          "url": "https://open.spotify.com/artist/0z79pZtEi1CkDICY4Q5ZxW"
+        }
+      ],
+      "duration_ms": 196571,
+      "name": "Love You Again",
+      "url": "https://open.spotify.com/track/1yH3Gb72AWXlTpJbbr4Amf"
+    },
+    {
+      "added_at": "2025-06-02 06:51:49",
+      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/37rSCs6ZzJegxd4645i67x"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 168960,
       "name": "Bend",
       "url": "https://open.spotify.com/track/0g7wbLkY6PV1or9n6oIskt"
-    },
-    {
-      "added_at": "2025-06-02 06:51:49",
-      "album": {
-        "name": "Love You Again",
-        "url": "https://open.spotify.com/album/1yPhTWthx8zbzFfI9CxOmC"
-      },
-      "artists": [
-        {
-          "name": "Ki & the Band",
-          "url": "https://open.spotify.com/artist/0z79pZtEi1CkDICY4Q5ZxW"
-        }
-      ],
-      "duration_ms": 196571,
-      "name": "Love You Again",
-      "url": "https://open.spotify.com/track/1yH3Gb72AWXlTpJbbr4Amf"
     },
     {
       "added_at": "2025-06-02 06:51:49",

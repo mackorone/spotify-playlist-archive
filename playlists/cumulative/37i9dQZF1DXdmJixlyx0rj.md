@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: KONA\)
+> New & best K\-Electronic music is here\. \(Cover: HYO\)
 
-245 songs - 13 hr 59 min
+246 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Ridin' \- IMLAY Remix](https://open.spotify.com/track/2oQmOWx2DCkYm8uKuk5iVG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:34 | 2024-04-05 | 2024-06-29 |
 | [Ridin' \- Will Not Fear Remix](https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:00 | 2024-04-05 |  |
 | [RIZZ \(Feat\. Shiming\)](https://open.spotify.com/track/7cWC1q8f426vmtro2koJEW) | [GENRE](https://open.spotify.com/artist/7xngEjHguzjoE5TNIaz7fi) | [RIZZ](https://open.spotify.com/album/2ceC2lixSUBa1IH7xbEr43) | 2:43 | 2025-04-09 | 2025-07-15 |
-| [Romeo & Juliet \(ZEE Remix\)](https://open.spotify.com/track/2Amy8o61cSDREo18jQDNAa) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Romeo & Juliet \(ZEE Remix\)](https://open.spotify.com/album/0yKfzfVChOkRt0axInunfl) | 3:06 | 2025-07-15 |  |
+| [Romeo & Juliet \(ZEE Remix\)](https://open.spotify.com/track/2Amy8o61cSDREo18jQDNAa) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Romeo & Juliet \(ZEE Remix\)](https://open.spotify.com/album/0yKfzfVChOkRt0axInunfl) | 3:06 | 2025-07-15 | 2025-07-17 |
 | [Rule The World](https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5) | [JEFFREY SUTORIUS](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Mbush](https://open.spotify.com/artist/6oi7xPIPaIqg9yChAS52Bf), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Rule The World](https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59) | 2:26 | 2024-06-28 | 2025-04-12 |
 | [Safe & Sound](https://open.spotify.com/track/2KTOYyhh0oZg5o1KNlSi7G) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Safe & Sound](https://open.spotify.com/album/5hLFHhE569P6t5YAotQB9Z) | 2:42 | 2024-06-28 | 2025-02-11 |
 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 | 2024-06-07 |  |
@@ -250,6 +250,7 @@
 | [Worries](https://open.spotify.com/track/2r8ZUEFWiviLOOBYIxzWt6) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY) | 7:48 | 2024-04-05 | 2024-06-29 |
 | [WOW](https://open.spotify.com/track/2tSQ6Y5ZQ3llad801vHf5R) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [WOW](https://open.spotify.com/album/7unPe6VwxSHfIJ1uLgp8NW) | 3:03 | 2024-08-14 | 2024-08-23 |
 | [WOW \- LOOZBONE Remix](https://open.spotify.com/track/06NfGPl3kaMThvjVkTAKsx) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9), [LOOZBONE](https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx) | [WOW \- LOOZBONE Remix](https://open.spotify.com/album/7FyKRzrMcvyusu8r5u2LmZ) | 3:16 | 2024-08-10 | 2024-08-17 |
+| [YES](https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [YES](https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE) | 2:58 | 2025-07-16 |  |
 | [Young Again](https://open.spotify.com/track/0EQ599Ifl0DBLMcrTvv7Iu) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Young Again](https://open.spotify.com/album/04A2MlzNmWlnAVYCm9lR7f) | 2:53 | 2024-04-05 | 2024-06-08 |
 | [Your Face](https://open.spotify.com/track/4I0iEpmX812wvEbv2l0q96) | [Forest Music](https://open.spotify.com/artist/7JDHEXYj47HQeeH2ziOPt8) | [Your Face](https://open.spotify.com/album/5yM1envtfaw7hfcIj8gLjT) | 2:39 | 2024-08-10 | 2024-08-15 |
 | [가시권 \(Heart Raider\) \(Inst.\)](https://open.spotify.com/track/5biUKJ4FpDlaFaUBffcX5T) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [4study4work4inst Vol.2](https://open.spotify.com/album/5bLmEt6fMUTRAZGfZDtmzu) | 2:59 | 2025-02-11 |  |

@@ -4,7 +4,7 @@
 
 > Ai que bandida Joan, baby BAM BAM 🎸
 
-341 songs - 18 hr 2 min
+342 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Gente Intelligente \(con Franco126\)](https://open.spotify.com/track/4mJgnqp92FEPiyYKJnvv43) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [Gente Intelligente \(con Franco126\)](https://open.spotify.com/album/1gnJenLUhUxVXhT8yTBSeW) | 3:12 | 2025-07-03 |  |
 | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/track/73L86FIIQk4iQBARHArhaA) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [B\-CROMA](https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS) | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/album/0D6bgRc96ZW45n5qTmZjZq) | 3:35 | 2024-09-26 | 2025-04-11 |
 | [giochi di gambe](https://open.spotify.com/track/4RclMoJbe5IpT8kFRYt6XF) | [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [giochi di gambe](https://open.spotify.com/album/38eTG1JnsbCs7FoVWFNA7m) | 3:18 | 2025-04-17 | 2025-07-04 |
-| [Girotondo \(feat\. Gio Evan\)](https://open.spotify.com/track/4MVYJcHU7fFaZz0fALp4fc) | [Legno](https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy), [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Piccola abitante di Saturno](https://open.spotify.com/album/0UQpvfjR1GJ7XnMI4ZRpmg) | 2:30 | 2025-04-24 |  |
+| [Girotondo \(feat\. Gio Evan\)](https://open.spotify.com/track/4MVYJcHU7fFaZz0fALp4fc) | [Legno](https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy), [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Piccola abitante di Saturno](https://open.spotify.com/album/0UQpvfjR1GJ7XnMI4ZRpmg) | 2:30 | 2025-04-24 | 2025-07-17 |
 | [Giura](https://open.spotify.com/track/2R5t2eZcBd0HTuthZChjSN) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Long Story Short](https://open.spotify.com/album/5AYVsYQIJRgxdDTOGxrVFL) | 3:00 | 2024-06-27 | 2024-07-05 |
 | [Give me love](https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:34 | 2024-10-17 | 2025-03-28 |
 | [Grattacieli meteoriti gli angeli](https://open.spotify.com/track/5p319BfcZtPd7Y8FOGB3yH) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [INDI](https://open.spotify.com/album/54HzLTohLottYBCmkjD41S) | 3:24 | 2025-01-23 |  |
@@ -219,6 +219,7 @@
 | [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2025-05-19 | 2025-06-27 |
 | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/track/1NZsIGqB8N4BgRtBcRP1WT) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/album/52Nws4hSiY3CoOvkKdBARm) | 2:55 | 2024-06-27 | 2024-07-12 |
 | [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 | 2025-06-26 |  |
+| [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP) | 3:03 | 2025-07-16 |  |
 | [ORA È MEGLIO DI PRIMA](https://open.spotify.com/track/5YZn5YMJKYbLRSs3je4VNe) | [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [UOMINI CANI GABBIANI](https://open.spotify.com/album/5urlFBStLo9AKj8DQUHDf0) | 5:42 | 2025-06-26 |  |
 | [Orfeo](https://open.spotify.com/track/5qMQwD5JaI3E0qOIBVOQZI) | [Nicolò Carnesi](https://open.spotify.com/artist/0ZGHrDv9xsaEJgRzfKLLQE) | [Orfeo](https://open.spotify.com/album/2ZpznI7fHKFkBx2P8auq2A) | 5:19 | 2025-05-08 | 2025-05-30 |
 | [OSSA ROTTE](https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [OSSA ROTTE](https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9) | 2:53 | 2024-06-27 | 2025-04-18 |

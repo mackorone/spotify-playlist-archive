@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 
 > Gentle Ambient piano to help you fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,301,173 likes - 250 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,301,112 likes - 250 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 | 20 | [Lost in Midnight Blue](https://open.spotify.com/track/5nirCNBBC16XYO7TRlDupj) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Lost in Midnight Blue](https://open.spotify.com/album/5BY9mwH09wXka7PU1RZV1p) | 2:48 |
 | 21 | [Lunar Hope](https://open.spotify.com/track/49GSahFoqXRaNbES3wvR7X) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Lunar Hope](https://open.spotify.com/album/7tAOYyL9NivXMaSu1ytmWz) | 3:10 |
 | 22 | [Mane](https://open.spotify.com/track/1VPuoTekZ0B8VyztiDq9aZ) | [Dilandi](https://open.spotify.com/artist/1xSGkHt0BPJIKiExI3Fw3d) | [Mane](https://open.spotify.com/album/7ftforu0vPwsKTwyPZKIFv) | 2:49 |
-| 23 | [Sympa](https://open.spotify.com/track/4tsoU0ExMe36q2iwSITO5M) | [Drift State](https://open.spotify.com/artist/4SfF4brNdtcM85Lp1pAOCX) | [Sympa](https://open.spotify.com/album/1PpMPDDydNSamGvbb8GULJ) | 2:21 |
+| 23 | [Sympa](https://open.spotify.com/track/4tsoU0ExMe36q2iwSITO5M) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Sympa](https://open.spotify.com/album/1PpMPDDydNSamGvbb8GULJ) | 2:21 |
 | 24 | [Harmonic Haze](https://open.spotify.com/track/3FGFNoIyjM3mij5XOcSK8K) | [Somniare](https://open.spotify.com/artist/2upTpHOyJdpbwlQABrjhQn) | [Harmonic Haze](https://open.spotify.com/album/5ofxhR5PP2k1zX1CbxfV4J) | 2:22 |
 | 25 | [Aglow](https://open.spotify.com/track/3Kggpo27AEkYep2LsGWVse) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [Aglow](https://open.spotify.com/album/4bAFwcpEMDShRoeUjCLEZ0) | 2:28 |
 | 26 | [Candescent](https://open.spotify.com/track/5wJmaU8KKuAsHXa0aM7fQW) | [Vincent Novaes](https://open.spotify.com/artist/1bWtods7s54SaWI5MyYTFA) | [Candescent](https://open.spotify.com/album/7CRvmXMdOHRVkkfSUX8elo) | 2:34 |

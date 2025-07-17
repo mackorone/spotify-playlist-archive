@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: B Jack$
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,576 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,545 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 20 | [Tears 4 Years](https://open.spotify.com/track/20wVmKaNIaZgb4w5ewSzaM) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Tears 4 Years](https://open.spotify.com/album/7oIIm9kZr3KtiMhDCjlQGG) | 2:16 |
 | 21 | [No Free Sauce](https://open.spotify.com/track/4TMNofYa2J5bLwHFEtU2Rs) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [No Guest List](https://open.spotify.com/album/2xTeGaKSGR9TG8JWjA4HOx) | 3:01 |
 | 22 | [Damage Control \(feat\. Wale\)](https://open.spotify.com/track/3GqSx8cUqM4iC12tAiE62O) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Damage Control \(feat\. Wale\)](https://open.spotify.com/album/56TM7J9s2CJzz8bHHtAbi4) | 1:36 |
-| 23 | [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:18 |
+| 23 | [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:17 |
 | 24 | [Woke Up](https://open.spotify.com/track/21CsEAX3X8wiWjtqedsRNb) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Woke Up](https://open.spotify.com/album/77FxQyGZyd38qKM0HKy8Q6) | 2:14 |
 | 25 | [Play This At My Funeral \(feat\. Polo G\)](https://open.spotify.com/track/18DirfOJqccIkUhpM7xGei) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Play This At My Funeral \(feat\. Polo G\)](https://open.spotify.com/album/1fQPG4pKNciAdSXZUeMqFA) | 3:06 |
 | 26 | [Take Me Home](https://open.spotify.com/track/6lm7hdT7tPvmO72O7exFQ2) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Take Me Home](https://open.spotify.com/album/579iBt3JrAVRlSaivWWf42) | 3:35 |

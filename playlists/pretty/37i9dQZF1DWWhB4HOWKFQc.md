@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: HUNTR/X, EJAE, AUDREY NUNA,  REI AMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,443,758 likes - 117 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,444,074 likes - 117 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

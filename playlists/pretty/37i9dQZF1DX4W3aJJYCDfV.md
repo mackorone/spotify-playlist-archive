@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Justin Bieber, Olivia Dean, Wolf Alice and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,983 likes - 119 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,003 likes - 119 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 108 | [God Loves When You're Dancing](https://open.spotify.com/track/5V0NHPKnWPID3uSu3qMtOt) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [God Loves When You're Dancing](https://open.spotify.com/album/0NSossGPF4S7c60AacPQJE) | 5:13 |
 | 109 | [Ms Her](https://open.spotify.com/track/7DDCFV4TTUAFmWpLsjMGxI) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Ms Her](https://open.spotify.com/album/1Xe6caGQaWLb8hfqI2dB79) | 3:31 |
 | 110 | [Oh My God](https://open.spotify.com/track/1y2I4EtPUy8L89AL6Q6h0D) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [Oh My God](https://open.spotify.com/album/04hwrnsbyM9eQZxXZLyoLV) | 5:09 |
-| 111 | [House Music Is For Nerds \(feat\. Kyle Kidd\)](https://open.spotify.com/track/0pO7T9FQefapxby3YXS8Cv) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Kyle Kidd](https://open.spotify.com/artist/54CbRzfCA8R3NkCJE77lvB) | [Lets ‘Av It Right!](https://open.spotify.com/album/4QTwl3IRXIxGWCdHJSdkEm) | 2:51 |
+| 111 | [House Music Is For Nerds \(feat\. Kyle Kidd\)](https://open.spotify.com/track/0pO7T9FQefapxby3YXS8Cv) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Kyle Kidd](https://open.spotify.com/artist/4X5Nbu5dWoMABqM0KORu9d) | [Lets ‘Av It Right!](https://open.spotify.com/album/4QTwl3IRXIxGWCdHJSdkEm) | 2:51 |
 | 112 | [feel again](https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv) | [Storm Henshaw](https://open.spotify.com/artist/3vn8pE5glXLXdNnTwRdjTs) | [feel again](https://open.spotify.com/album/6BeTd0G4G41eny0rUfn0T4) | 3:25 |
 | 113 | [I Might](https://open.spotify.com/track/59gNKwpIr61xdzCmqnlO6l) | [Saam Sultan](https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93) | [I Might](https://open.spotify.com/album/3C7Sh6qf0RuvLKJbAAEcK5) | 3:26 |
 | 114 | [slightest change](https://open.spotify.com/track/3zy5YWchAiKdMFZGwWAqpP) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [slightest change](https://open.spotify.com/album/5ruQjOepodGAl64NNmiYri) | 3:05 |

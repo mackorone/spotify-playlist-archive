@@ -2,9 +2,9 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Durand Jones & The Indications
+> A new take on a classic sound\. Cover: Jon Batiste
 
-521 songs - 1 day 7 hr 21 min
+523 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Berries \- So Sweet Version](https://open.spotify.com/track/2yoTmNrAgoIEyJJvSaPfzM) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Berries \(So Sweet Version\)](https://open.spotify.com/album/3FH2HT8ax3xAggb7etHnrF) | 4:32 | 2024-04-19 | 2024-05-25 |
 | [Better Than This](https://open.spotify.com/track/0uJcPad9H1tQzxslEBQtlu) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Better Than This](https://open.spotify.com/album/4QgY2HVCC3Ljwprc7cjQqE) | 2:59 | 2024-03-22 | 2024-06-08 |
 | [Better Than You](https://open.spotify.com/track/4oVDopGdLrWqBIpzpRhCqV) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Better Than You](https://open.spotify.com/album/6jzbKJUEQvyalgM0aZzfaH) | 3:14 | 2023-01-27 | 2023-06-03 |
+| [BIG MONEY](https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [BIG MONEY](https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH) | 2:34 | 2025-07-16 |  |
 | [Black Heart](https://open.spotify.com/track/6lTZctflz7IxPbWKXGJVVS) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Bury Me](https://open.spotify.com/album/30t9ltSIwCagrzwMSHHnZb) | 2:54 | 2021-12-03 | 2023-01-28 |
 | [Blast Off](https://open.spotify.com/track/2NqyjfDXy0XfXCSPXMsKzi) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:44 | 2021-11-12 | 2022-11-14 |
 | [Blast Off](https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:44 | 2021-11-12 | 2023-01-28 |
@@ -182,7 +183,7 @@
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2021-07-09 | 2023-04-30 |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 | 2021-07-09 | 2024-03-30 |
 | [Human \(feat\. Vince Harder & Louis Baker\)](https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M), [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Human \(feat\. Vince Harder & Louis Baker\)](https://open.spotify.com/album/1OR9HNKkrsXXDyY5u98HYD) | 3:16 | 2021-12-17 | 2022-11-14 |
-| [I Can Never Get Enough](https://open.spotify.com/track/33cuVbRvIALN64Dat6U5eV) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [I Can Never Get Enough](https://open.spotify.com/album/07VSGcPb90GbQu67lIr3Kk) | 3:04 | 2024-04-12 |  |
+| [I Can Never Get Enough](https://open.spotify.com/track/33cuVbRvIALN64Dat6U5eV) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [I Can Never Get Enough](https://open.spotify.com/album/07VSGcPb90GbQu67lIr3Kk) | 3:04 | 2024-04-12 | 2025-07-17 |
 | [I Can't Get You Out Of My Mind](https://open.spotify.com/track/0ip8o1lEyLkuG6M4HieVpq) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [I Can't Get You Out Of My Mind](https://open.spotify.com/album/0IiBKeJR3hLccDd2fj4Ogo) | 4:04 | 2025-01-24 |  |
 | [I Do](https://open.spotify.com/track/2ROGRLF59VgUst8a6f6oez) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:00 | 2022-01-28 | 2022-07-29 |
 | [i found a diamond](https://open.spotify.com/track/3oRbkpNDMAIfwaLgWg6yco) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [i found a diamond](https://open.spotify.com/album/2DtOE3ffS4sZakYgD3VMIm) | 4:08 | 2023-06-30 | 2023-07-29 |
@@ -289,6 +290,7 @@
 | [MARY \- A COLORS SHOW](https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY \- A COLORS SHOW](https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C) | 3:24 | 2024-02-23 |  |
 | [Maybe It's You](https://open.spotify.com/track/7kFgKExxDFZJghA6Q4kCUR) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Maybe It's You](https://open.spotify.com/album/2K52HJlE1DOY5JgVMAr4Xz) | 3:54 | 2025-05-09 |  |
 | [Me Or Her](https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Me Or Her](https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ) | 2:50 | 2022-08-09 | 2022-09-17 |
+| [Mercy \(That's What I Need\)](https://open.spotify.com/track/4YVWELbeGxouolTFosIh1Q) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Mercy \(That's What I Need\)](https://open.spotify.com/album/6YMz645x19HGzD92sLbuR6) | 3:09 | 2025-07-16 |  |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-01-14 | 2022-07-29 |
 | [Miss Strut](https://open.spotify.com/track/2jdi8zHvx1crcnIy049p78) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Miss Strut](https://open.spotify.com/album/1RsS0tnVbAeiNuJHClpGDc) | 2:41 | 2024-09-06 | 2024-09-21 |
 | [Mom Of Mine](https://open.spotify.com/track/3mc5EOf4tjQpmVG7ZFsWyv) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Mom Of Mine](https://open.spotify.com/album/3yLcGl1XWkFgvyxos4d0iN) | 3:07 | 2024-05-10 |  |
@@ -493,7 +495,7 @@
 | [Warpaint](https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Warpaint](https://open.spotify.com/album/2MkJIYLt4fz2SDSozVntDD) | 4:50 | 2022-03-21 | 2022-07-29 |
 | [Way You Shine](https://open.spotify.com/track/5RlgjfMCs8KW0AtkqRvyZM) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Way You Shine](https://open.spotify.com/album/0sfmf3mJc7rgaGg3CZXmRv) | 3:10 | 2024-07-26 | 2025-02-08 |
 | [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 | 2025-05-16 |  |
-| [We Got This \- 7'' Version](https://open.spotify.com/track/4OQMZBaOgEvAcXI8NMWEz7) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [We Got This](https://open.spotify.com/album/79Utq6WQvxX0OkODgZEfDO) | 2:57 | 2025-01-03 |  |
+| [We Got This \- 7'' Version](https://open.spotify.com/track/4OQMZBaOgEvAcXI8NMWEz7) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [We Got This](https://open.spotify.com/album/79Utq6WQvxX0OkODgZEfDO) | 2:57 | 2025-01-03 | 2025-07-17 |
 | [WELCOME TO THE PARTY](https://open.spotify.com/track/4OkWdZXL16atg1qaUbqaaz) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN COMMUNION](https://open.spotify.com/album/0HZ86tsiLEjdDxvlH2nqhz) | 2:41 | 2023-07-28 | 2024-01-27 |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-02-18 |
 | [What More Can I Do](https://open.spotify.com/track/5Dp7CfpvcRYCamP1MTXxN1) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [What More Can I Do](https://open.spotify.com/album/4d0s8nBxKeOgJPTDylVz2j) | 2:17 | 2024-06-21 | 2025-04-05 |

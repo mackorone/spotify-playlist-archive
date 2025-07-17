@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "BTR",
+        "url": "https://open.spotify.com/album/61e5Oi0ewB4IWP3mNSnfJx"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220466,
+      "name": "Any Kind of Guy",
+      "url": "https://open.spotify.com/track/3YEmVyZ4TJVn5dO5bTTb9U"
+    },
+    {
+      "album": {
         "name": "Squidtastic",
         "url": "https://open.spotify.com/album/0YksPVYor2eHo7ILCTAxJs"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvLAVPovEAe.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/bigtiggershow/">Big Tigger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,710 likes - 49 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,742 likes - 49 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

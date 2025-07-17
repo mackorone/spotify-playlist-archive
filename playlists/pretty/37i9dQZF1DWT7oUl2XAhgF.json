@@ -1,13 +1,45 @@
 {
-  "description": "A new take on a classic sound. Cover: Durand Jones & The Indications",
-  "num_followers": 367231,
+  "description": "A new take on a classic sound. Cover: Jon Batiste",
+  "num_followers": 367307,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdR0wAAAAAbbrTiDQE9YokuO0gDA4KB",
+  "snapshot_id": "aHfMTwAAAACbjmUTWBS+rbxhE4mdxU+P",
   "tracks": [
+    {
+      "added_at": "2025-07-16 15:59:11",
+      "album": {
+        "name": "BIG MONEY",
+        "url": "https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 154174,
+      "name": "BIG MONEY",
+      "url": "https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2"
+    },
+    {
+      "added_at": "2025-07-16 15:59:11",
+      "album": {
+        "name": "Mercy (That's What I Need)",
+        "url": "https://open.spotify.com/album/6YMz645x19HGzD92sLbuR6"
+      },
+      "artists": [
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        }
+      ],
+      "duration_ms": 189243,
+      "name": "Mercy (That's What I Need)",
+      "url": "https://open.spotify.com/track/4YVWELbeGxouolTFosIh1Q"
+    },
     {
       "added_at": "2025-06-27 04:00:27",
       "album": {
@@ -649,22 +681,6 @@
       "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
-      "added_at": "2025-01-03 05:00:20",
-      "album": {
-        "name": "We Got This",
-        "url": "https://open.spotify.com/album/79Utq6WQvxX0OkODgZEfDO"
-      },
-      "artists": [
-        {
-          "name": "Beatchild",
-          "url": "https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "We Got This - 7'' Version",
-      "url": "https://open.spotify.com/track/4OQMZBaOgEvAcXI8NMWEz7"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Love Moves Slow",
@@ -1235,22 +1251,6 @@
       "duration_ms": 195600,
       "name": "In Limbo",
       "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "I Can Never Get Enough",
-        "url": "https://open.spotify.com/album/07VSGcPb90GbQu67lIr3Kk"
-      },
-      "artists": [
-        {
-          "name": "Dylan Chambers",
-          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "I Can Never Get Enough",
-      "url": "https://open.spotify.com/track/33cuVbRvIALN64Dat6U5eV"
     },
     {
       "added_at": "2024-04-19 04:01:00",

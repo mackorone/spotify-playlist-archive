@@ -4,7 +4,7 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-179 songs - 11 hr 3 min
+180 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Meditation And Intuition](https://open.spotify.com/track/2rNzShbJy2hJkbzT3L6jmn) | [Coherent Minds](https://open.spotify.com/artist/2wuDW0csRaqdUSMDeqMm9E) | [Meditation And Intuition](https://open.spotify.com/album/7JoBVf5TObZ4x5ODUYAEpQ) | 2:53 | 2023-03-08 |  |
 | [Melting Snow](https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Buddha's Dream](https://open.spotify.com/album/4I6REoU5dcDWZts0uMiFbH) | 7:11 | 2022-07-18 | 2024-10-25 |
 | [Mesmeric Quietude](https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4) | [Wes Gold](https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH) | [Mesmeric Quietude](https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9) | 2:29 | 2023-02-10 |  |
+| [Midnight Marigold](https://open.spotify.com/track/40iRfqbLQVC1mNBth7BNu1) | [Plasma Radio](https://open.spotify.com/artist/4OODiWwXTyAfi1emkANcI6) | [Midnight Marigold](https://open.spotify.com/album/6gzGNYgwHQY8H43wLFkTqD) | 3:48 | 2025-07-16 |  |
 | [Mirage](https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Mirage](https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx) | 2:18 | 2024-07-17 |  |
 | [Mirrors](https://open.spotify.com/track/6MZ1N2y8tdws6NoYmS9mMe) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V), [Carlo Minuta](https://open.spotify.com/artist/04cP6qBKH2rTpfylxtnlWO) | [Mirrors](https://open.spotify.com/album/3WZnQkHKY2L0g4lE0sAVwF) | 3:44 | 2023-01-13 | 2023-02-11 |
 | [Morning Clarity](https://open.spotify.com/track/3CAPK6ARot8aIxX2XcoLLA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Morning Clarity](https://open.spotify.com/album/2qT2WMGMgqYXuBGB3UBIJA) | 3:02 | 2023-04-26 |  |

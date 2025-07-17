@@ -1,6 +1,6 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 79765,
+  "num_followers": 79755,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "X Christmas",
-        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
-      },
-      "artists": [
-        {
-          "name": "Capital Lights",
-          "url": "https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "His Favorite Christmas Story",
-      "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas Every Day",
         "url": "https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 226019,
       "name": "Christmas Every Day",
       "url": "https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "X Christmas",
+        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
+      },
+      "artists": [
+        {
+          "name": "Capital Lights",
+          "url": "https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "His Favorite Christmas Story",
+      "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Medium Rare",
-        "url": "https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 137346,
-      "name": "This Time of Year",
-      "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "The Human Highlight Reel",
         "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 184880,
       "name": "Decemberism",
       "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Medium Rare",
+        "url": "https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 137346,
+      "name": "This Time of Year",
+      "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "A More Angry Than Naughty Kamakazi Christmas",
+        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
+      },
+      "artists": [
+        {
+          "name": "Kamakazi",
+          "url": "https://open.spotify.com/artist/1W2uHVFphPSyLk7zuL5Y8J"
+        }
+      ],
+      "duration_ms": 52250,
+      "name": "It's Beginning to Look a Lot Like Shitmas",
+      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Shatner Claus",
         "url": "https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "A More Angry Than Naughty Kamakazi Christmas",
-        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
-      },
-      "artists": [
-        {
-          "name": "Kamakazi",
-          "url": "https://open.spotify.com/artist/1W2uHVFphPSyLk7zuL5Y8J"
-        }
-      ],
-      "duration_ms": 52250,
-      "name": "It's Beginning to Look a Lot Like Shitmas",
-      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Under the Mistletoe",
         "url": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG"
       },
@@ -803,38 +803,6 @@
       "duration_ms": 178228,
       "name": "Under the Mistletoe",
       "url": "https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Black Christmas",
-        "url": "https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9"
-      },
-      "artists": [
-        {
-          "name": "Poly Styrene",
-          "url": "https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Black Christmas",
-      "url": "https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Christma-ska",
-        "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -855,18 +823,34 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+        "name": "Christma-ska",
+        "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
       },
       "artists": [
         {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
         }
       ],
-      "duration_ms": 177640,
-      "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
-      "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"
+      "duration_ms": 192440,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Black Christmas",
+        "url": "https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9"
+      },
+      "artists": [
+        {
+          "name": "Poly Styrene",
+          "url": "https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Black Christmas",
+      "url": "https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -883,6 +867,22 @@
       "duration_ms": 164746,
       "name": "Merry Flippin' Christmas (Happy Freakin' New Year)",
       "url": "https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
+      "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Punk Rawk Christmas",
-        "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
-      },
-      "artists": [
-        {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
-        }
-      ],
-      "duration_ms": 220593,
-      "name": "Another Christmas",
-      "url": "https://open.spotify.com/track/7wTUURwHvDfAfUPHPaxhei"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Piebald Presents To You, A Musical Christmas Adventure",
         "url": "https://open.spotify.com/album/6GoRZ10QREhvW1aYcc9eSL"
       },
@@ -955,22 +939,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "A Very Skatune Christmas",
-        "url": "https://open.spotify.com/album/4VuImTk4cMf4ldCxsAnOI0"
+        "name": "Punk Rawk Christmas",
+        "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
       },
       "artists": [
         {
-          "name": "Skatune Network",
-          "url": "https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC"
-        },
-        {
-          "name": "GET TUFF",
-          "url": "https://open.spotify.com/artist/3uA4mUI9kQS9b7muYR48Sy"
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
         }
       ],
-      "duration_ms": 200149,
-      "name": "What Do the Lonely Do at Christmas?",
-      "url": "https://open.spotify.com/track/3DRLW9bDml1uWxxD51xWHy"
+      "duration_ms": 220593,
+      "name": "Another Christmas",
+      "url": "https://open.spotify.com/track/7wTUURwHvDfAfUPHPaxhei"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1039,6 +1019,26 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "A Very Skatune Christmas",
+        "url": "https://open.spotify.com/album/4VuImTk4cMf4ldCxsAnOI0"
+      },
+      "artists": [
+        {
+          "name": "Skatune Network",
+          "url": "https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC"
+        },
+        {
+          "name": "GET TUFF",
+          "url": "https://open.spotify.com/artist/3uA4mUI9kQS9b7muYR48Sy"
+        }
+      ],
+      "duration_ms": 200149,
+      "name": "What Do the Lonely Do at Christmas?",
+      "url": "https://open.spotify.com/track/3DRLW9bDml1uWxxD51xWHy"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Christmas Lullaby",
         "url": "https://open.spotify.com/album/4QCofUG55C0lck6URon2Pn"
       },
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "This Could Be Christmas",
+        "url": "https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye"
+      },
+      "artists": [
+        {
+          "name": "The So So Glos",
+          "url": "https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP"
+        },
+        {
+          "name": "Spider Stacy",
+          "url": "https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu"
+        }
+      ],
+      "duration_ms": 291191,
+      "name": "This Could Be Christmas",
+      "url": "https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Happy Christmas: A Tooth And Nail Christmas",
         "url": "https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 132509,
       "name": "Christmas is Canceled",
       "url": "https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "This Could Be Christmas",
-        "url": "https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye"
-      },
-      "artists": [
-        {
-          "name": "The So So Glos",
-          "url": "https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP"
-        },
-        {
-          "name": "Spider Stacy",
-          "url": "https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu"
-        }
-      ],
-      "duration_ms": 291191,
-      "name": "This Could Be Christmas",
-      "url": "https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "We Wish You a Merry Christmas / Jingle Bells (Short Edit)",
-        "url": "https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b"
-      },
-      "artists": [
-        {
-          "name": "Normahl",
-          "url": "https://open.spotify.com/artist/4A3ZGNdTWn4w4Aw6VFqoJm"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "We Wish You a Merry Christmas / Jingle Bells - Short Edit",
-      "url": "https://open.spotify.com/track/1UsnscOXO3MEGrl3TBP6AS"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Single All the Way",
         "url": "https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Cards",
-        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
+        "name": "We Wish You a Merry Christmas / Jingle Bells (Short Edit)",
+        "url": "https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b"
       },
       "artists": [
         {
-          "name": "Spoke Too Soon",
-          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
+          "name": "Normahl",
+          "url": "https://open.spotify.com/artist/4A3ZGNdTWn4w4Aw6VFqoJm"
         }
       ],
-      "duration_ms": 246074,
-      "name": "Christmas Cards",
-      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
+      "duration_ms": 126857,
+      "name": "We Wish You a Merry Christmas / Jingle Bells - Short Edit",
+      "url": "https://open.spotify.com/track/1UsnscOXO3MEGrl3TBP6AS"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Christmas Cards",
+        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
+      },
+      "artists": [
+        {
+          "name": "Spoke Too Soon",
+          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
+        }
+      ],
+      "duration_ms": 246074,
+      "name": "Christmas Cards",
+      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Cool Tide Carrolls",
         "url": "https://open.spotify.com/album/6TpqnjXLkdjjjzhnvKkHSg"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 150136,
       "name": "Rum Nogs",
       "url": "https://open.spotify.com/track/0DGfcRKLwqAJQX4k426sJ6"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/29aNPKWP6qj82lg3VsR0TI"
+      },
+      "artists": [
+        {
+          "name": "Future Idiots",
+          "url": "https://open.spotify.com/artist/7oaD5pgWwQwvx4S8wmSkHD"
+        }
+      ],
+      "duration_ms": 209812,
+      "name": "It's Christmas Time",
+      "url": "https://open.spotify.com/track/5MeLTAb32ZbEyvPZ7bcnI5"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1283,22 +1299,6 @@
       "duration_ms": 213034,
       "name": "December (again) [feat. Mark Hoppus]",
       "url": "https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "It's Christmas Time",
-        "url": "https://open.spotify.com/album/29aNPKWP6qj82lg3VsR0TI"
-      },
-      "artists": [
-        {
-          "name": "Future Idiots",
-          "url": "https://open.spotify.com/artist/7oaD5pgWwQwvx4S8wmSkHD"
-        }
-      ],
-      "duration_ms": 209812,
-      "name": "It's Christmas Time",
-      "url": "https://open.spotify.com/track/5MeLTAb32ZbEyvPZ7bcnI5"
     },
     {
       "added_at": "2023-11-18 13:41:26",

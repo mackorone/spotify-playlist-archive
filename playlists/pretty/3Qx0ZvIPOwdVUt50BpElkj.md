@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Qx0ZvIPOwdVUt50BpElkj.md) - [plain]
 
 > Celebrating Black believers and their sounds that shaped us, brought to you by Scene in Black and Frequency.
 
-[HBO Max](https://open.spotify.com/user/ss3mmbj4859e4gzwxd1yqgzmc) - 87 likes - 65 songs - 4 hr 40 min
+[HBO Max](https://open.spotify.com/user/ss3mmbj4859e4gzwxd1yqgzmc) - 86 likes - 65 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

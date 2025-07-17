@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 99886,
+  "num_followers": 99960,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Sunday Blues",
+        "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
+      },
+      "artists": [
+        {
+          "name": "Langa Mavuso",
+          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
+        }
+      ],
+      "duration_ms": 225382,
+      "name": "Sunday Blues",
+      "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Zawadi (feat. Dadiposlim)",
         "url": "https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 210750,
       "name": "Zawadi (feat. Dadiposlim)",
       "url": "https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Sunday Blues",
-        "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
-      },
-      "artists": [
-        {
-          "name": "Langa Mavuso",
-          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
-        }
-      ],
-      "duration_ms": 225382,
-      "name": "Sunday Blues",
-      "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Break Through",
-        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 246884,
-      "name": "Mansa",
-      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 295285,
       "name": "Nakufa",
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Break Through",
+        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 246884,
+      "name": "Mansa",
+      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1427,30 +1427,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "FOU DE TOi",
-        "url": "https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x"
-      },
-      "artists": [
-        {
-          "name": "ELEMENT Ele\u00e9eH",
-          "url": "https://open.spotify.com/artist/1YtfiLJ8nbB9hKlD4QpPMU"
-        },
-        {
-          "name": "Ross Kana",
-          "url": "https://open.spotify.com/artist/20k1olYrrwKk6vYxqdTBIE"
-        },
-        {
-          "name": "Bruce Melodie",
-          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
-        }
-      ],
-      "duration_ms": 237812,
-      "name": "FOU DE TOi",
-      "url": "https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "ODO",
         "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
       },
@@ -1463,22 +1439,6 @@
       "duration_ms": 198620,
       "name": "ODO",
       "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1519,6 +1479,46 @@
       "duration_ms": 246822,
       "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
       "url": "https://open.spotify.com/track/0HnlM5zv18lM1gKIxOiW96"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "FOU DE TOi",
+        "url": "https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x"
+      },
+      "artists": [
+        {
+          "name": "ELEMENT Ele\u00e9eH",
+          "url": "https://open.spotify.com/artist/1YtfiLJ8nbB9hKlD4QpPMU"
+        },
+        {
+          "name": "Ross Kana",
+          "url": "https://open.spotify.com/artist/20k1olYrrwKk6vYxqdTBIE"
+        },
+        {
+          "name": "Bruce Melodie",
+          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
+        }
+      ],
+      "duration_ms": 237812,
+      "name": "FOU DE TOi",
+      "url": "https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Wahu Classics",
+        "url": "https://open.spotify.com/album/0cu2ZwMtnug5JX2hIFpJY2"
+      },
+      "artists": [
+        {
+          "name": "Wahu",
+          "url": "https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq"
+        }
+      ],
+      "duration_ms": 260838,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/73EVyhT9Wq0diDaasJi9yu"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Slave Becomes A King",
         "url": "https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 205691,
       "name": "Loyalty (feat. Marioo & Nandy)",
       "url": "https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Wahu Classics",
-        "url": "https://open.spotify.com/album/0cu2ZwMtnug5JX2hIFpJY2"
-      },
-      "artists": [
-        {
-          "name": "Wahu",
-          "url": "https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq"
-        }
-      ],
-      "duration_ms": 260838,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/73EVyhT9Wq0diDaasJi9yu"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 220890,
       "name": "Me Ne Woa",
       "url": "https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2025-07-11 08:09:25",

@@ -9019,6 +9019,24 @@
     },
     {
       "album": {
+        "name": "YII",
+        "url": "https://open.spotify.com/album/3qXlczTvXetMbYniaTFptQ"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100179,
+      "name": "YII",
+      "url": "https://open.spotify.com/track/1EhF99dqdrPeXTIqwJz7Xt"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b"
       },

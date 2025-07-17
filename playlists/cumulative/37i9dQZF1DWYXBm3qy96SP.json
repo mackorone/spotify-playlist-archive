@@ -6399,6 +6399,24 @@
     },
     {
       "album": {
+        "name": "Creature In The Black Night",
+        "url": "https://open.spotify.com/album/2YWEecYJkLwMbNOG1o4cap"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "Creature In The Black Night",
+      "url": "https://open.spotify.com/track/4kMBP4BSFB0vNYQDVGiJq6"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
       },
@@ -22204,7 +22222,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 236800,
       "name": "Satanized",
       "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"

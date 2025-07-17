@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 
 > The ultimate collection of D&B bangers 💥
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,385 likes - 74 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,427 likes - 74 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Gaba Kościug
 
-521 songs - 1 day 1 hr 17 min
+522 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Nie ze mną](https://open.spotify.com/track/6faAGWMBcX76s25R8QxDwf) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Nie ze mną](https://open.spotify.com/album/7hJStuNFMi5tpEZ94bKAit) | 2:43 | 2024-06-28 | 2024-07-19 |
 | [NIE ZNASZ JEJ](https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ](https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1) | 2:34 | 2024-06-28 | 2024-11-22 |
 | [NIE ZNASZ JEJ \- Acoustic](https://open.spotify.com/track/4TyX7rWOyWbrF8EImwPTff) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ \(Acoustic\)](https://open.spotify.com/album/0ME8iWPExzNtMALCVPpVrJ) | 2:30 | 2024-07-18 | 2024-12-07 |
-| [NIEBA](https://open.spotify.com/track/12kODAZcfMh99l0AitMXFC) | [NAUTOFON](https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [NIEBA](https://open.spotify.com/album/0ZkBawe69ftL7Eiv5eeJu9) | 2:57 | 2025-06-05 |  |
+| [NIEBA](https://open.spotify.com/track/12kODAZcfMh99l0AitMXFC) | [NAUTOFON](https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [NIEBA](https://open.spotify.com/album/0ZkBawe69ftL7Eiv5eeJu9) | 2:57 | 2025-06-05 | 2025-07-17 |
 | [Niebezpiecznie mi](https://open.spotify.com/track/5xi57gTzYxZ7LuSR5FglaT) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [Niebezpiecznie mi](https://open.spotify.com/album/4kC9nmSSW6BlPKI06bD23F) | 4:16 | 2024-06-28 | 2024-07-19 |
 | [Nieboskłon](https://open.spotify.com/track/5zLdBe3yVkWpu6lSsp2Xme) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Nieboskłon](https://open.spotify.com/album/53fKRn1YK40EyjLcUNoTl8) | 3:28 | 2025-04-10 | 2025-04-18 |
 | [Niedosyt](https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 2:47 | 2024-06-28 | 2024-07-05 |
@@ -462,6 +462,7 @@
 | [Trudne Sprawy](https://open.spotify.com/track/6Q2WAqL4XIOpzGfkfe2Czf) | [Agata Świderska](https://open.spotify.com/artist/414dGfJGuwiD326ebm9dfC) | [Trudne Sprawy](https://open.spotify.com/album/4uRovYXvNxkOJ1PDp1c6ND) | 2:08 | 2024-08-01 | 2024-11-22 |
 | [Trust Issues](https://open.spotify.com/track/1PEY0rrb2d8Ic5f4hCPCkX) | [Teo](https://open.spotify.com/artist/75KRhZ6OWTAF6alZRfM90S) | [Trust Issues](https://open.spotify.com/album/4Nwbv0UxHNuSeK4pKAoJjs) | 2:49 | 2025-03-27 | 2025-04-04 |
 | [Ty to Ja](https://open.spotify.com/track/44XvWHUZcYWvzMWhqhYLl6) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Ty to Ja](https://open.spotify.com/album/5DqH7F3PynlPtXYx6sqX7K) | 3:33 | 2025-02-27 | 2025-05-09 |
+| [Tylko gest](https://open.spotify.com/track/2cHOEJcqGGNv3GVDxgF579) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Tylko gest](https://open.spotify.com/album/2V3hRzPgs0MW2TaHaInnny) | 3:08 | 2025-07-10 |  |
 | [Tylko na moment](https://open.spotify.com/track/1EjWpkR2JATl6hgQyOPwsO) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Tylko na moment](https://open.spotify.com/album/74Uk3H4hRvzyyo6aTEK6mv) | 1:58 | 2024-06-28 | 2024-08-23 |
 | [U Want Me Anyway](https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [U Want Me Anyway](https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4) | 3:20 | 2025-03-20 | 2025-06-28 |
 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 | 2025-04-24 |  |

@@ -876,7 +876,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 172862,
       "name": "BLACKLIST",
       "url": "https://open.spotify.com/track/7iFPpFyRIErmhqslTbHlCl"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 173023,
       "name": "Cobra Pretty",
       "url": "https://open.spotify.com/track/4RKXeDimD0AUIxPNdBrKcN"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 196206,
       "name": "Docteur - Spotify Singles",
       "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
@@ -2190,7 +2190,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 138507,
       "name": "F.Y.P",
       "url": "https://open.spotify.com/track/2DLoq9DzEs6Tp9403HBKGg"
@@ -2244,7 +2244,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 151063,
       "name": "FASMA",
       "url": "https://open.spotify.com/track/7l2fdBuvtRt4tyWO8qtsR0"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 128000,
       "name": "Go",
       "url": "https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5"
@@ -3397,6 +3397,28 @@
     },
     {
       "album": {
+        "name": "KHABAR 3AJIL",
+        "url": "https://open.spotify.com/album/2KfypDc0IBYDcYkmNvMtGh"
+      },
+      "artists": [
+        {
+          "name": "YEAH HUSS!",
+          "url": "https://open.spotify.com/artist/0EHwmNauSVSrWCuOrtSocl"
+        },
+        {
+          "name": "Kartman",
+          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172207,
+      "name": "KHABAR 3AJIL",
+      "url": "https://open.spotify.com/track/3Z9oxiRrHAKm2wKUGxQdpc"
+    },
+    {
+      "album": {
         "name": "Black Butterfly",
         "url": "https://open.spotify.com/album/3UfBMouFDIiNaMhtd1Jnza"
       },
@@ -3466,7 +3488,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 207428,
       "name": "Kola Lila",
       "url": "https://open.spotify.com/track/2VqhFDBSEwU19GdTWs4Ehf"
@@ -3510,6 +3532,32 @@
       "duration_ms": 202526,
       "name": "KOUDOUROU",
       "url": "https://open.spotify.com/track/4Wx54faWzcpENP6oEST3Fv"
+    },
+    {
+      "album": {
+        "name": "Koulchi Dial Allah",
+        "url": "https://open.spotify.com/album/2ot0LJmlCgjB8ml3oFK6OL"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177185,
+      "name": "Koulchi Dial Alah",
+      "url": "https://open.spotify.com/track/3JKgfoiKyBdxF2sw2lPNUH"
     },
     {
       "album": {
@@ -4661,6 +4709,24 @@
     },
     {
       "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "MOON",
+      "url": "https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt"
+    },
+    {
+      "album": {
         "name": "Mouja",
         "url": "https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw"
       },
@@ -5236,7 +5302,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 164000,
       "name": "Papiers",
       "url": "https://open.spotify.com/track/5wlHxud11fPNBjYMMppCAY"
@@ -5774,7 +5840,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 180744,
       "name": "Rassi (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/4MqDpQPykbFcJeF8xruknN"
@@ -5919,6 +5985,24 @@
     },
     {
       "album": {
+        "name": "Sabrine",
+        "url": "https://open.spotify.com/album/7F8AGhPRsETl0HApPPhFLK"
+      },
+      "artists": [
+        {
+          "name": "21 Tach",
+          "url": "https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Sabrine",
+      "url": "https://open.spotify.com/track/2pl7M15413P7S23MWadlee"
+    },
+    {
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/3M1KeYIDCrT8rAQRgUnOdK"
       },
@@ -5984,7 +6068,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 180000,
       "name": "SAKA",
       "url": "https://open.spotify.com/track/4YxQW5226q4oacUOSbfIFS"
@@ -6863,6 +6947,24 @@
     },
     {
       "album": {
+        "name": "Tesseract.",
+        "url": "https://open.spotify.com/album/2J5nvs01e78AwE6WCDWl1q"
+      },
+      "artists": [
+        {
+          "name": "GCFOREAL",
+          "url": "https://open.spotify.com/artist/7d85jErT1HPgYMQqMiwbDv"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123630,
+      "name": "Tesseract.",
+      "url": "https://open.spotify.com/track/7oj4kiXHha22qTVp0FWOLI"
+    },
+    {
+      "album": {
         "name": "Thomas Shelby",
         "url": "https://open.spotify.com/album/1XRC7ogai7kx6xVFvNwAeU"
       },
@@ -7204,6 +7306,28 @@
       "duration_ms": 143958,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX"
+    },
+    {
+      "album": {
+        "name": "violet",
+        "url": "https://open.spotify.com/album/598wiKlgE2ZgHMOhV9uMRe"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        },
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/2e8xfkiNnTxWeUcuM37nco"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-711 songs - 2 day 20 hr 30 min
+712 songs - 2 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-03-22 | 2023-07-01 |
 | [Matthew Keeps Me Pirrie](https://open.spotify.com/track/2ZYGLQ89EATPCZcLsHEowa) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Matthew Keeps Me Pirrie](https://open.spotify.com/album/2ilvzpDDnNQWbvgoSQZ4xF) | 6:42 | 2019-10-10 | 2019-11-09 |
 | [Mayhem](https://open.spotify.com/track/6OJKnaeNbqSgamGZ6IIGz1) | [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [Mayhem EP](https://open.spotify.com/album/0adw9asM0RMlE4bIqc3LBB) | 7:44 | 2021-10-10 | 2021-10-11 |
-| [Memories](https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Memories](https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0) | 3:35 | 2025-04-11 |  |
+| [Memories](https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Memories](https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0) | 3:35 | 2025-04-11 | 2025-07-17 |
 | [Menora](https://open.spotify.com/track/6JbEVzpVtACMzP7lniEpoP) | [AfterU](https://open.spotify.com/artist/2fNO3q7sugPNKqSD1ra9TE), [Leibo & Zarhi](https://open.spotify.com/artist/1HYgV0V9YzC2iYTA6vuHkI) | [MenorAnna](https://open.spotify.com/album/7i8fYPZGhLDynDKqqLljgE) | 7:20 | 2019-09-19 | 2020-01-13 |
 | [Mesopotamia](https://open.spotify.com/track/24wkID8UHARIJLeKAkcjq6) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Mesopotamia](https://open.spotify.com/album/1bJJ1flQQjW6hWPGSjG4b6) | 3:20 | 2021-02-03 | 2021-03-23 |
 | [Metamorphoses](https://open.spotify.com/track/26DlNiM65CQpLZ7iW2QBNE) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Metamorphoses](https://open.spotify.com/album/670k1I7dtojjK2eO1UVU59) | 3:17 | 2019-10-25 | 2020-03-15 |
@@ -526,6 +526,7 @@
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 | 2024-05-31 | 2025-04-02 |
 | [Sektor](https://open.spotify.com/track/7ieGiNeMBSoAomdAAuOt6r) | [Marius Drescher](https://open.spotify.com/artist/4oU99ab1DTNIF3a9RHmnhf) | [Sektor](https://open.spotify.com/album/4gdGrl8AllxmdA0fU3p5vG) | 7:15 | 2019-08-29 | 2019-12-22 |
+| [Senses of Comfort](https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Senses of Comfort](https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6) | 3:11 | 2025-07-11 |  |
 | [Seraphina](https://open.spotify.com/track/7z34hBre7xaecEJkcoA2mE) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Seraphina EP](https://open.spotify.com/album/6AqYAOl7A25dwO4m4SHVV7) | 7:24 | 2024-07-19 | 2024-07-27 |
 | [Serenade \- Radio Edit](https://open.spotify.com/track/3WrUwFdVmsQGJ15ytGFNw8) | [Tom Demac](https://open.spotify.com/artist/3758ZYkL9uiug7nHTQNWcP) | [Serenade](https://open.spotify.com/album/22fyTTuxua996UoZk41lft) | 5:03 | 2019-08-06\* | 2019-09-19 |
 | [Serendipity \- Niconé & Dirty Doering Remix](https://open.spotify.com/track/0YnlF7Vg46KDnhw72U5E1b) | [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs), [Isabel Sesma](https://open.spotify.com/artist/1PuVLpqkfMOATQGiZZrzb6), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [It All Depends Remixes](https://open.spotify.com/album/0fVSt89rZkhirkNEgfoFp2) | 7:18 | 2020-01-16 | 2020-07-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC?si=OLmMmWTlQmahkjHMhJO6OQ">Brenda Mtambo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,194 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,259 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

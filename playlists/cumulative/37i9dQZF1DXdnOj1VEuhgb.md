@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Mavi x Murda
 
-659 songs - 1 day 5 hr 54 min
+660 songs - 1 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [911 CARRERA](https://open.spotify.com/track/08janBFz0chrnHnnYOelOj) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [911 CARRERA](https://open.spotify.com/album/0UcZOH1YeIiWFESMB4qtBf) | 1:44 | 2024-03-28 | 2024-04-12 |
 | [9mm](https://open.spotify.com/track/4X5si99I9YSbJ12g2yL6gh) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [9mm](https://open.spotify.com/album/48z19Z1hAbwHucnqX1UemL) | 3:17 | 2024-10-24 | 2025-05-09 |
 | [A La Carte](https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [A La Carte](https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD) | 2:35 | 2023-12-14 | 2024-11-01 |
-| [Abi](https://open.spotify.com/track/3PvejbwsK0P1ksknZMOJV0) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB) | [Abi](https://open.spotify.com/album/2s9KYdvAzuqokxj5BklLln) | 2:40 | 2025-06-26 |  |
+| [Abi](https://open.spotify.com/track/3PvejbwsK0P1ksknZMOJV0) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB) | [Abi](https://open.spotify.com/album/2s9KYdvAzuqokxj5BklLln) | 2:40 | 2025-06-26 | 2025-07-17 |
 | [Acaba](https://open.spotify.com/track/2sEB5QNEI7b1OLAzg72g9u) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [kış uykusu 2](https://open.spotify.com/album/69JSvFUKfGBFKLcC5s1jrf) | 3:13 | 2023-11-09 | 2023-12-14 |
 | [AFACAN](https://open.spotify.com/track/4wcgZ4tW9FJIf7npjESE72) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [AFACAN](https://open.spotify.com/album/2E4vqnsYlAgWK2fr7qeehR) | 2:12 | 2025-05-22 | 2025-06-27 |
 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 | 2023-01-12 | 2024-02-23 |
@@ -194,6 +194,7 @@
 | [ESTAFURLA](https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [ESTAFURLA](https://open.spotify.com/album/3iyn3IpyDYMy3myhSUWxXz) | 1:38 | 2023-01-19 | 2023-03-18 |
 | [EXTENDO](https://open.spotify.com/track/3reGUYKxAJMkZGEzWM8c5d) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [EXTENDO](https://open.spotify.com/album/7yLc5gd9QLV7N4z5HoU3Ig) | 2:26 | 2025-01-23 | 2025-05-02 |
 | [Extrovert](https://open.spotify.com/track/3eiLwTPzJTFd0GowvO7H2g) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Bipolar](https://open.spotify.com/album/0ab5RvaLZtVjorEZZ10Oor) | 3:10 | 2025-06-26 |  |
+| [EĞME BOYUN](https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [EĞME BOYUN](https://open.spotify.com/album/5TuSM8yyEhxMHqA8Oe5DSV) | 2:54 | 2025-07-16 |  |
 | [FACEAPP](https://open.spotify.com/track/67rxR1i70IVDkea4pzwVaF) | [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m), [ERU](https://open.spotify.com/artist/3ijnQoOmFlFrGvYgUZC8tq), [Berkay Duman](https://open.spotify.com/artist/797U4xKy4p5Vi8vpWzJRD6) | [FACEAPP](https://open.spotify.com/album/1a6JCzbpC95pRYhT81vC3Q) | 3:09 | 2024-07-25 | 2024-08-09 |
 | [FaceTime](https://open.spotify.com/track/74DINrGM1LeuauHZYELfDg) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [FaceTime](https://open.spotify.com/album/5qMUWVPjDCt6kr3pTOiYLr) | 3:00 | 2024-08-29 | 2024-10-25 |
 | [FALLEN](https://open.spotify.com/track/0Z8tA2Z3OZNgTeddaI9lat) | [Tepki](https://open.spotify.com/artist/5DtQ3MpxpzAyDvgMNFWN1r) | [FALLEN](https://open.spotify.com/album/0V3uA2HJdt0h5SjLQ1PUeS) | 2:20 | 2023-09-21 | 2023-10-06 |

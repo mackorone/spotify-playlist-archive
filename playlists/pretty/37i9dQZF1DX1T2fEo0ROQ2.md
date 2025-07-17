@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,211 likes - 260 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,264 likes - 260 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 32 | [Meadows](https://open.spotify.com/track/5KDFmnvxpCPLpcitnYGZ8Q) | [Ethereal Nocturne](https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV) | [Meadows](https://open.spotify.com/album/0y1XQ6qiQ5tCrSYRcJlWQ9) | 2:33 |
 | 33 | [Shining Star](https://open.spotify.com/track/0qcLXF6T4KAZrfHY0reorP) | [Koma](https://open.spotify.com/artist/74UZVMMnRA5yLeGJarnV49) | [Shining Star](https://open.spotify.com/album/4UtEclQewf5u5eCVv128MB) | 2:37 |
 | 34 | [Time Flows](https://open.spotify.com/track/6fjmwOXnvcBYoNnROyI2rK) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Time Flows](https://open.spotify.com/album/05QCkz7CLCtAMcBBU5gb1U) | 2:18 |
-| 35 | [Lethe](https://open.spotify.com/track/6Cmb7gj7OucjhOUZ7nm7YU) | [Drift State](https://open.spotify.com/artist/4SfF4brNdtcM85Lp1pAOCX) | [Lethe](https://open.spotify.com/album/4xYHFpYfmR8XMjhQw24CkO) | 2:39 |
+| 35 | [Lethe](https://open.spotify.com/track/6Cmb7gj7OucjhOUZ7nm7YU) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Lethe](https://open.spotify.com/album/4xYHFpYfmR8XMjhQw24CkO) | 2:39 |
 | 36 | [Ethereal Meadows](https://open.spotify.com/track/0v6R1afLNw8t7ufW4BCiFx) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Ethereal Meadows](https://open.spotify.com/album/6whFzOOh14qZsC0hKXvFUT) | 3:12 |
 | 37 | [Lucent Dawn](https://open.spotify.com/track/0juX8bP0u09C1dTNzanItI) | [Slow Journey](https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW) | [Lucent Dawn](https://open.spotify.com/album/6tTbuxEpF0kMyNTLETgZiS) | 2:31 |
 | 38 | [Ocean’s Embrace](https://open.spotify.com/track/7DRcwhh0kCHZ9wBoKZVIN6) | [Moon Waves](https://open.spotify.com/artist/4culOc37QVV7jSX09VKt96) | [Ocean’s Embrace](https://open.spotify.com/album/28cAFeRoMePBZhZMxebi4g) | 2:15 |

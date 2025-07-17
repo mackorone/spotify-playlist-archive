@@ -4,7 +4,7 @@
 
 > 
 
-1,082 songs - 2 day 6 hr 15 min
+1,084 songs - 2 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,6 +778,7 @@
 | [Real Sisters](https://open.spotify.com/track/5GhJq5J9ZWIEDZdyw7EWzt) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 2:53 | 2024-12-03 | 2025-05-21 |
 | [Real Spill](https://open.spotify.com/track/4OkFBMU18NidtaefaTjUq1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 3:18 | 2022-10-14 | 2023-12-14 |
 | [Real Talk \(feat\. Future\)](https://open.spotify.com/track/4aA3OzTBHR9cUKM8zILpqA) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:02 | 2024-12-17 | 2025-05-21 |
+| [Reality Check](https://open.spotify.com/track/4mWqmihBqG4EBRe86NheY6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Akenya](https://open.spotify.com/artist/2pHQOZq131jMXYSTjP3Ncx) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 3:03 | 2025-07-16 |  |
 | [Really Real](https://open.spotify.com/track/7jLhffXVyuXTcLvmSIOj2t) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery Reloaded](https://open.spotify.com/album/2ICKltX9OGtxTfHVYtpzCH) | 3:07 | 2024-12-23 | 2025-05-21 |
 | [Really Rich](https://open.spotify.com/track/1jV5VZj7T5ZhhB4gygT7w0) | [Kankan](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 1:36 | 2022-07-28 |  |
 | [Rebuke](https://open.spotify.com/track/56dcNOb2HEjZfPEaNP9Vze) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [KAYTRAMINÉ](https://open.spotify.com/album/0iAbMGXKXGfmtmneJrsNcl) | 1:58 | 2025-03-14 | 2025-05-21 |
@@ -861,7 +862,7 @@
 | [Smile \(with The Weeknd\)](https://open.spotify.com/track/6wQlQrTY5mVS8EGaFZVwVF) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:16 | 2022-07-13 | 2023-05-09 |
 | [Smoke Strong](https://open.spotify.com/track/4ysh4U8WPIuKS8Ff1ttSaS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Sincerely, Kentrell](https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd) | 2:15 | 2022-08-15 | 2024-03-05 |
 | [Smooktobër](https://open.spotify.com/track/3K1SLqfHyHsLA0oxKpUsYf) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:55 | 2024-02-29 | 2024-04-24 |
-| [Snotty Rock!](https://open.spotify.com/track/3PiH2mknilvIyEQaUgqZ3M) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SNOTTY WORLD](https://open.spotify.com/album/4WsroDqYcqI1DpRgRAwqF2) | 2:08 | 2022-10-28 | 2023-05-09 |
+| [Snotty Rock!](https://open.spotify.com/track/3PiH2mknilvIyEQaUgqZ3M) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SNOTTY WORLD](https://open.spotify.com/album/4WsroDqYcqI1DpRgRAwqF2) | 2:08 | 2022-10-28 |  |
 | [Snotty Run!](https://open.spotify.com/track/5hLQyZcmPXrWsCcmvG1iuT) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:46 | 2022-10-24 | 2023-12-14 |
 | [So Long](https://open.spotify.com/track/6rDltuPAqCUFqt6VEdNqdY) | [Kankan](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [My Way / So Long](https://open.spotify.com/album/3J282Cn3CsSq3vQrPCZ457) | 1:56 | 2024-11-05 | 2025-05-21 |
 | [So Messy](https://open.spotify.com/track/5xKWzb7qzaRvTQ8OSfmOWR) | [GOONIE](https://open.spotify.com/artist/2Z8HHweJsQ0WDusmOsqozg) | [So Messy](https://open.spotify.com/album/5pcdj525dihZGZFEvwIVVe) | 2:02 | 2023-02-28 | 2023-12-14 |
@@ -1003,6 +1004,7 @@
 | [U Say \(feat\. Tyler, The Creator & Jay Prince\)](https://open.spotify.com/track/2p37Mfy2PWajgOS3i2aaep) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Diaspora](https://open.spotify.com/album/790qROmQ1y4aPEYLcSkScH) | 3:21 | 2025-06-25 |  |
 | [U Should Know](https://open.spotify.com/track/17vVm6v7GE2tP2KRVbCwqv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:06 | 2024-02-16 | 2024-04-24 |
 | [U Should Know](https://open.spotify.com/track/5bfKhDxMWi5Yd2B4OBYdHg) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG) | 3:06 | 2024-02-16 | 2024-02-22 |
+| [U Turn](https://open.spotify.com/track/3m4uDi8X57XVTzAjb9btNh) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Pieces of a Man](https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a) | 2:46 | 2025-07-16 |  |
 | [Umm Hmm](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:12 | 2024-12-05 |  |
 | [Un Día](https://open.spotify.com/track/1bhZ2EA50Lt7vJvGiFv2dW) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4), [Las Sombras](https://open.spotify.com/artist/1QDqOOONr11np0HEOPMVTI) | [Tu Imagen](https://open.spotify.com/album/26liQTrnezbMVR7Yjnn2Im) | 2:30 | 2024-02-14 | 2024-11-06 |
 | [Un Lugar En El Sol \(A Place In The Sun\) \- Spanish Version](https://open.spotify.com/track/155LYHjfuIXpQUb8DEce8G) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Complete Stevie Wonder](https://open.spotify.com/album/3wV75jagiyMRezq1LOCh1I) | 3:14 | 2025-07-13 |  |

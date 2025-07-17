@@ -1,6 +1,6 @@
 {
   "description": "The sound of a new generation. Cover: DJ Gigola",
-  "num_followers": 327779,
+  "num_followers": 327945,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2025-07-11 10:19:47",
+      "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 148155,
       "name": "Rave Out",
       "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
-    },
-    {
-      "added_at": "2025-07-11 10:19:47",
-      "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -491,22 +491,18 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
-        "name": "Yosemite",
-        "url": "https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d"
+        "name": "Blade",
+        "url": "https://open.spotify.com/album/0Knz2xzbB2dkdjxDcJvNaY"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
         }
       ],
-      "duration_ms": 266375,
-      "name": "Yosemite",
-      "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"
+      "duration_ms": 168000,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/1wQwTyocYlAE27QEk8BQXa"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -531,6 +527,26 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
+        "name": "Yosemite",
+        "url": "https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 266375,
+      "name": "Yosemite",
+      "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"
+    },
+    {
+      "added_at": "2025-07-11 10:19:47",
+      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 163641,
       "name": "Divine",
       "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
-    },
-    {
-      "added_at": "2025-07-11 10:19:47",
-      "album": {
-        "name": "Blade",
-        "url": "https://open.spotify.com/album/0Knz2xzbB2dkdjxDcJvNaY"
-      },
-      "artists": [
-        {
-          "name": "D'Angello & Francis",
-          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Blade",
-      "url": "https://open.spotify.com/track/1wQwTyocYlAE27QEk8BQXa"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -695,6 +695,30 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
+        "name": "Transgender",
+        "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Police In Paris",
+          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "Transgender",
+      "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
+    },
+    {
+      "added_at": "2025-07-11 10:19:47",
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 147121,
       "name": "4am In A Rave (feat. rhys from the sticks)",
       "url": "https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP"
-    },
-    {
-      "added_at": "2025-07-11 10:19:47",
-      "album": {
-        "name": "Transgender",
-        "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "Police In Paris",
-          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "Transgender",
-      "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
-        "name": "One Night Of Love",
-        "url": "https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "One Night Of Love",
-      "url": "https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX"
-    },
-    {
-      "added_at": "2025-07-11 10:19:47",
-      "album": {
         "name": "Bad Girls",
         "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 121771,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+    },
+    {
+      "added_at": "2025-07-11 10:19:47",
+      "album": {
+        "name": "One Night Of Love",
+        "url": "https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "One Night Of Love",
+      "url": "https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
-        "name": "Satan Was A Babyboomer",
-        "url": "https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Satan Was A Babyboomer",
-      "url": "https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I"
-    },
-    {
-      "added_at": "2025-07-11 10:19:47",
-      "album": {
         "name": "How I Fell in Love",
         "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 112551,
       "name": "How I Fell in Love",
       "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "added_at": "2025-07-11 10:19:47",
+      "album": {
+        "name": "Satan Was A Babyboomer",
+        "url": "https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "Satan Was A Babyboomer",
+      "url": "https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
+        "name": "SISTEM ERROR",
+        "url": "https://open.spotify.com/album/7h0LRiVOmVQGLOTc9xntF1"
+      },
+      "artists": [
+        {
+          "name": "GI\u00d8",
+          "url": "https://open.spotify.com/artist/1DTuf3cqItmyesR4lICN1M"
+        }
+      ],
+      "duration_ms": 242962,
+      "name": "SISTEM ERROR",
+      "url": "https://open.spotify.com/track/5fKil1HCUAk45V4ExBdMEV"
+    },
+    {
+      "added_at": "2025-07-11 10:19:47",
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 196916,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8"
-    },
-    {
-      "added_at": "2025-07-11 10:19:47",
-      "album": {
-        "name": "SISTEM ERROR",
-        "url": "https://open.spotify.com/album/7h0LRiVOmVQGLOTc9xntF1"
-      },
-      "artists": [
-        {
-          "name": "GI\u00d8",
-          "url": "https://open.spotify.com/artist/1DTuf3cqItmyesR4lICN1M"
-        }
-      ],
-      "duration_ms": 242962,
-      "name": "SISTEM ERROR",
-      "url": "https://open.spotify.com/track/5fKil1HCUAk45V4ExBdMEV"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
-        "name": "Uh Na Na",
-        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 120033,
-      "name": "Uh Na Na",
-      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
-    },
-    {
-      "added_at": "2025-07-11 10:19:47",
-      "album": {
         "name": "Throw It Back",
         "url": "https://open.spotify.com/album/2uONCUiqr7M16IVeBrgUzf"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 182409,
       "name": "Jet Plane",
       "url": "https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j"
+    },
+    {
+      "added_at": "2025-07-11 10:19:47",
+      "album": {
+        "name": "Uh Na Na",
+        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 120033,
+      "name": "Uh Na Na",
+      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
+      },
+      "artists": [
+        {
+          "name": "NOVAH",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 216778,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
+    },
+    {
+      "added_at": "2025-07-11 10:19:47",
+      "album": {
         "name": "SEXY",
         "url": "https://open.spotify.com/album/2mvBle8cY9KZwcS4QsnnHu"
       },
@@ -1607,6 +1627,22 @@
       "duration_ms": 196583,
       "name": "SEXY",
       "url": "https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm"
+    },
+    {
+      "added_at": "2025-07-11 10:19:47",
+      "album": {
+        "name": "Entertain Me",
+        "url": "https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy"
+      },
+      "artists": [
+        {
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Entertain Me",
+      "url": "https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -1631,58 +1667,22 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
-        "name": "Entertain Me",
-        "url": "https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy"
+        "name": "Traum",
+        "url": "https://open.spotify.com/album/2nbJe0AgTzQsQYvd3ZXECP"
       },
       "artists": [
         {
-          "name": "mischluft",
-          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "Entertain Me",
-      "url": "https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns"
-    },
-    {
-      "added_at": "2025-07-11 10:19:47",
-      "album": {
-        "name": "Sar\u00e0 perch\u00e9 ti amo",
-        "url": "https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+          "name": "David L\u00f6hlein",
+          "url": "https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C"
         },
         {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+          "name": "VELA",
+          "url": "https://open.spotify.com/artist/4UQF8SErsJMBFjJedVPLOw"
         }
       ],
-      "duration_ms": 134607,
-      "name": "Sar\u00e0 perch\u00e9 ti amo",
-      "url": "https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS"
-    },
-    {
-      "added_at": "2025-07-11 10:19:47",
-      "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
-      },
-      "artists": [
-        {
-          "name": "NOVAH",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 216778,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
+      "duration_ms": 214800,
+      "name": "Traum",
+      "url": "https://open.spotify.com/track/0zsE0og8kz0nddQFeNrgPG"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -1731,22 +1731,38 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
-        "name": "Traum",
-        "url": "https://open.spotify.com/album/2nbJe0AgTzQsQYvd3ZXECP"
+        "name": "Sar\u00e0 perch\u00e9 ti amo",
+        "url": "https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh"
       },
       "artists": [
         {
-          "name": "David L\u00f6hlein",
-          "url": "https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C"
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
         },
         {
-          "name": "VELA",
-          "url": "https://open.spotify.com/artist/4UQF8SErsJMBFjJedVPLOw"
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Traum",
-      "url": "https://open.spotify.com/track/0zsE0og8kz0nddQFeNrgPG"
+      "duration_ms": 134607,
+      "name": "Sar\u00e0 perch\u00e9 ti amo",
+      "url": "https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS"
+    },
+    {
+      "added_at": "2025-07-11 10:19:47",
+      "album": {
+        "name": "Sound of the Underground",
+        "url": "https://open.spotify.com/album/6BPNER5Jea0HNq4tqqGWXt"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "Sound of the Underground",
+      "url": "https://open.spotify.com/track/6izkirLr49VxNFpHJvi37a"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -1775,22 +1791,6 @@
     {
       "added_at": "2025-07-11 10:19:47",
       "album": {
-        "name": "Sound of the Underground",
-        "url": "https://open.spotify.com/album/6BPNER5Jea0HNq4tqqGWXt"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 186315,
-      "name": "Sound of the Underground",
-      "url": "https://open.spotify.com/track/6izkirLr49VxNFpHJvi37a"
-    },
-    {
-      "added_at": "2025-07-11 10:19:47",
-      "album": {
         "name": "EINS ZWEI",
         "url": "https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40"
       },
@@ -1803,6 +1803,22 @@
       "duration_ms": 141818,
       "name": "EINS ZWEI",
       "url": "https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF"
+    },
+    {
+      "added_at": "2025-07-11 10:19:47",
+      "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa"
     },
     {
       "added_at": "2025-07-11 10:19:47",
@@ -1827,22 +1843,6 @@
       "duration_ms": 151242,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/5UGWtEHRbi3Y44RcSJER3B"
-    },
-    {
-      "added_at": "2025-07-11 10:19:47",
-      "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc"
-      },
-      "artists": [
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa"
     },
     {
       "added_at": "2025-07-11 10:19:47",

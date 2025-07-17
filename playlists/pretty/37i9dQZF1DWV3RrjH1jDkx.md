@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,661 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,662 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 35 | [Elsker Livet](https://open.spotify.com/track/2XFLvv7Uq2ct1CWV6Hbt9L) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Elsker Livet](https://open.spotify.com/album/3trDwLgUMimJAlWGbB2zPc) | 2:25 |
 | 36 | [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 |
 | 37 | [Sweet Propane](https://open.spotify.com/track/4qltoD1gaii37oKvSxEen8) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Sweet Propane](https://open.spotify.com/album/44v4ygwjuv7BdyPgHueDyH) | 2:38 |
-| 38 | [Give It To Me](https://open.spotify.com/track/4TS12gNcLIIfYP2j7wocyJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Daytona](https://open.spotify.com/artist/2tbSrnZ330em3N7GDUz6cp) | [Give It To Me](https://open.spotify.com/album/7qaAXJOULu7GNNwkgR7PuC) | 2:46 |
+| 38 | [Give It To Me](https://open.spotify.com/track/4TS12gNcLIIfYP2j7wocyJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC) | [Give It To Me](https://open.spotify.com/album/7qaAXJOULu7GNNwkgR7PuC) | 2:46 |
 | 39 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 | 40 | [GIRA](https://open.spotify.com/track/02FQL9VSSeOQ42urvBhDKX) | [Slam Dunk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ), [Trond](https://open.spotify.com/artist/54XZai0iCUSHoFSNmwuqj9), [UKA](https://open.spotify.com/artist/5ThQlNqGjRf9lRR1wcsR5v) | [GIRA](https://open.spotify.com/album/2JpAvBokzbthsU0AidhGPL) | 2:37 |
 | 41 | [Supercharged](https://open.spotify.com/track/4EWc7ZhXOeiWrzj9acY9XE) | [APOC](https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN) | [Supercharged](https://open.spotify.com/album/0qN9APV6EV8uiX4FaW6QMn) | 3:05 |

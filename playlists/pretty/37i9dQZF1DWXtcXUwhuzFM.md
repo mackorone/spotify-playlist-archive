@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia KERZALTA ja Isac Elliotilta, The Rasmukselta, KIKILTÄ, Senyalta ja monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,124 likes - 102 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,120 likes - 102 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 85 | [Do It Like Me](https://open.spotify.com/track/4oZTxFkdCdzEWqaVrUr7ru) | [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [KONNA](https://open.spotify.com/artist/19nDS3WamQdqBoNOBN9344), [Still Tech](https://open.spotify.com/artist/2CYuKWcW6HBjLfbUS3vM5P) | [Do It Like Me](https://open.spotify.com/album/0RoByxI5dBSqtQyZf1nWvA) | 2:13 |
 | 86 | [BREAKAWAY](https://open.spotify.com/track/47hw4tLN3fNipXmGwVb0e8) | [WOLFRAM](https://open.spotify.com/artist/5xC0HI5b5LG3eEq3UKvJl6) | [BREAKAWAY](https://open.spotify.com/album/29Uf6GmWtNkOWD3ph7f35R) | 3:54 |
 | 87 | [New Day](https://open.spotify.com/track/7EBjMwD8WF9309zbBPVCWU) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Modi](https://open.spotify.com/artist/2yTAiIQyZrTTg6VvXwJZdQ), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH) | [New Day](https://open.spotify.com/album/00AtYpOMugrzxaUfPKTXG7) | 2:38 |
-| 88 | [Give It To Me](https://open.spotify.com/track/4TS12gNcLIIfYP2j7wocyJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Daytona](https://open.spotify.com/artist/2tbSrnZ330em3N7GDUz6cp) | [Give It To Me](https://open.spotify.com/album/7qaAXJOULu7GNNwkgR7PuC) | 2:46 |
+| 88 | [Give It To Me](https://open.spotify.com/track/4TS12gNcLIIfYP2j7wocyJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC) | [Give It To Me](https://open.spotify.com/album/7qaAXJOULu7GNNwkgR7PuC) | 2:46 |
 | 89 | [Suorittaja](https://open.spotify.com/track/5MhD8zHkGNcxPDWUSz5oW7) | [Jonttu](https://open.spotify.com/artist/6ybpUNUSs4fCWrD82UsifG) | [Suorittaja](https://open.spotify.com/album/0qHtosOWrojlVRPq1jJpfD) | 3:02 |
 | 90 | [Ley Ley](https://open.spotify.com/track/4jWOHJz0r0zBm37i8ntbFc) | [DJ Roody](https://open.spotify.com/artist/3UI0UmJdHpQkMqgjuOTMYc) | [Ley Ley](https://open.spotify.com/album/39NVcditGFpdsV0hfWlSTH) | 2:14 |
 | 91 | [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 |

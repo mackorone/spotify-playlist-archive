@@ -1945,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "kat",
+        "url": "https://open.spotify.com/album/3SR1oVf3c8rqN74VyzI400"
+      },
+      "artists": [
+        {
+          "name": "jesse",
+          "url": "https://open.spotify.com/artist/6BtIpll353jdO2Zv8YPVsT"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109465,
+      "name": "indica",
+      "url": "https://open.spotify.com/track/3fvn8a0X0yOdXSi25fYPME"
+    },
+    {
+      "album": {
         "name": "age tape 10",
         "url": "https://open.spotify.com/album/25orBHW7uijdOQi29a8wag"
       },

@@ -31,6 +31,22 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
+        "name": "la corriente",
+        "url": "https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 175642,
+      "name": "la corriente",
+      "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
         "name": "Tu casa",
         "url": "https://open.spotify.com/album/4z5sGjs4jhI1pE6oWBlmnD"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 169412,
       "name": "Tu casa",
       "url": "https://open.spotify.com/track/4sZfAbGlXcNnDCbf7PmTHx"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
-        "name": "la corriente",
-        "url": "https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 175642,
-      "name": "la corriente",
-      "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -303,22 +303,18 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Ojos De Ajonjol\u00ed",
-        "url": "https://open.spotify.com/album/71Rt64ZyeOHkrbbfePG663"
+        "name": "MIRLO PARDO \u00b7 LA VEREDA",
+        "url": "https://open.spotify.com/album/3pw1YIdUqTd2snkAG5boM3"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        },
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
         }
       ],
-      "duration_ms": 158181,
-      "name": "Ojos De Ajonjol\u00ed",
-      "url": "https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg"
+      "duration_ms": 203244,
+      "name": "Mirlo pardo",
+      "url": "https://open.spotify.com/track/5Pio0OlA5NWk7GfPjdx8nd"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -415,18 +411,22 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "MIRLO PARDO \u00b7 LA VEREDA",
-        "url": "https://open.spotify.com/album/3pw1YIdUqTd2snkAG5boM3"
+        "name": "Ojos De Ajonjol\u00ed",
+        "url": "https://open.spotify.com/album/71Rt64ZyeOHkrbbfePG663"
       },
       "artists": [
         {
-          "name": "Ede",
-          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
         }
       ],
-      "duration_ms": 203244,
-      "name": "Mirlo pardo",
-      "url": "https://open.spotify.com/track/5Pio0OlA5NWk7GfPjdx8nd"
+      "duration_ms": 158181,
+      "name": "Ojos De Ajonjol\u00ed",
+      "url": "https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "poquito",
-        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "poquito",
-      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
         "name": "Esta Piel (10 a\u00f1os de Canciones)",
         "url": "https://open.spotify.com/album/1PNfW1oIDILG6rTWz71UmQ"
       },
@@ -727,6 +711,38 @@
       "duration_ms": 212840,
       "name": "ESTA PIEL - 10 a\u00f1os de Canciones",
       "url": "https://open.spotify.com/track/2Ik8Xmx3YmY4glsrGAQS4E"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "poquito",
+        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "poquito",
+      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -751,18 +767,18 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+        "name": "Por Ahora Para Siempre",
+        "url": "https://open.spotify.com/album/1rFSMNkzIHzuRrpNn6E8lC"
       },
       "artists": [
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+          "name": "joseluis",
+          "url": "https://open.spotify.com/artist/5x6IvwLFRH9IsqNFJWkJq4"
         }
       ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+      "duration_ms": 218280,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/4uQy8xqQC15QzDWZjBxfRX"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -803,22 +819,6 @@
       "duration_ms": 218106,
       "name": "Tan solo una se\u00f1al",
       "url": "https://open.spotify.com/track/7vjeDyZ2oYSbOsIx7ogBbv"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
-        "name": "Por Ahora Para Siempre",
-        "url": "https://open.spotify.com/album/1rFSMNkzIHzuRrpNn6E8lC"
-      },
-      "artists": [
-        {
-          "name": "joseluis",
-          "url": "https://open.spotify.com/artist/5x6IvwLFRH9IsqNFJWkJq4"
-        }
-      ],
-      "duration_ms": 218280,
-      "name": "Accidente",
-      "url": "https://open.spotify.com/track/4uQy8xqQC15QzDWZjBxfRX"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Vidrieritas",
-        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda de la Flor",
-          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Vidrieritas",
-      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
         "name": "DARUMA",
         "url": "https://open.spotify.com/album/07OLdFOyCXqxkJasNcro4r"
       },
@@ -1099,18 +1083,34 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Tramuntana",
-        "url": "https://open.spotify.com/album/6rJS2TGjVKNgIyhnw9Q05t"
+        "name": "Vidrieritas",
+        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
       },
       "artists": [
         {
-          "name": "alberto.vela",
-          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+          "name": "Mar\u00eda de la Flor",
+          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
         }
       ],
-      "duration_ms": 216256,
-      "name": "S\u00e9 que todo va a ir bien",
-      "url": "https://open.spotify.com/track/6yANOkNxzbjzDlmFrNWuFc"
+      "duration_ms": 215786,
+      "name": "Vidrieritas",
+      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "Casida de la Rosa",
+        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
+      },
+      "artists": [
+        {
+          "name": "Magal\u00ed Datzira",
+          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
+        }
+      ],
+      "duration_ms": 331442,
+      "name": "Casida de la Rosa",
+      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Casida de la Rosa",
-        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
+        "name": "Tramuntana",
+        "url": "https://open.spotify.com/album/6rJS2TGjVKNgIyhnw9Q05t"
       },
       "artists": [
         {
-          "name": "Magal\u00ed Datzira",
-          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
         }
       ],
-      "duration_ms": 331442,
-      "name": "Casida de la Rosa",
-      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
+      "duration_ms": 216256,
+      "name": "S\u00e9 que todo va a ir bien",
+      "url": "https://open.spotify.com/track/6yANOkNxzbjzDlmFrNWuFc"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
+        "name": "Traigo un canto guardado",
+        "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Giraldo",
+          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
+        }
+      ],
+      "duration_ms": 228555,
+      "name": "Traigo un canto guardado",
+      "url": "https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
         "name": "Ojos de Drag\u00f3n",
         "url": "https://open.spotify.com/album/7BaZgUXRH2fFB3ba09wZlk"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 201472,
       "name": "Ojos de Drag\u00f3n",
       "url": "https://open.spotify.com/track/453vx3wceLm2dE1Z8E6glw"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
-        "name": "Traigo un canto guardado",
-        "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
-      },
-      "artists": [
-        {
-          "name": "M\u00f3nica Giraldo",
-          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
-        }
-      ],
-      "duration_ms": 228555,
-      "name": "Traigo un canto guardado",
-      "url": "https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Se va",
-        "url": "https://open.spotify.com/album/2SFK93DB5qCxkfr4T8Z4RZ"
-      },
-      "artists": [
-        {
-          "name": "Marisa Valle Roso",
-          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "Se va",
-      "url": "https://open.spotify.com/track/0ASnHQcC2WH7cxzVuuyd3R"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
         "name": "Tananan\u00e1",
         "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "Se va",
+        "url": "https://open.spotify.com/album/2SFK93DB5qCxkfr4T8Z4RZ"
+      },
+      "artists": [
+        {
+          "name": "Marisa Valle Roso",
+          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "Se va",
+      "url": "https://open.spotify.com/track/0ASnHQcC2WH7cxzVuuyd3R"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1415,6 +1415,22 @@
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "Con lo buenos que somos y lo mal que nos va",
+        "url": "https://open.spotify.com/album/7wlCb8gGlQcQqzrfdZrhBQ"
+      },
+      "artists": [
+        {
+          "name": "Javier Molina",
+          "url": "https://open.spotify.com/artist/6QerZcRKdE9KcAi34FeYj3"
+        }
+      ],
+      "duration_ms": 159374,
+      "name": "Con lo buenos que somos y lo mal que nos va",
+      "url": "https://open.spotify.com/track/2CfH7zmeekTN7yPiRRwwWc"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1535,18 +1551,22 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Con lo buenos que somos y lo mal que nos va",
-        "url": "https://open.spotify.com/album/7wlCb8gGlQcQqzrfdZrhBQ"
+        "name": "Sonqollay",
+        "url": "https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN"
       },
       "artists": [
         {
-          "name": "Javier Molina",
-          "url": "https://open.spotify.com/artist/6QerZcRKdE9KcAi34FeYj3"
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        },
+        {
+          "name": "SUR",
+          "url": "https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo"
         }
       ],
-      "duration_ms": 159374,
-      "name": "Con lo buenos que somos y lo mal que nos va",
-      "url": "https://open.spotify.com/track/2CfH7zmeekTN7yPiRRwwWc"
+      "duration_ms": 225462,
+      "name": "Sonqollay",
+      "url": "https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1571,22 +1591,18 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Sonqollay",
-        "url": "https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN"
+        "name": "Lady Luck",
+        "url": "https://open.spotify.com/album/4R8gTrFpIhFwbLVIXuL8wi"
       },
       "artists": [
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        },
-        {
-          "name": "SUR",
-          "url": "https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo"
+          "name": "Rebeca Jimenez",
+          "url": "https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3"
         }
       ],
-      "duration_ms": 225462,
-      "name": "Sonqollay",
-      "url": "https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ"
+      "duration_ms": 208360,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/5IvdvMaPmqHQ55V9GQR5Od"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1619,22 +1635,6 @@
       "duration_ms": 202692,
       "name": "Ver o mar",
       "url": "https://open.spotify.com/track/3EOjiURZPpbXoYTE6EOBOn"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
-        "name": "Lady Luck",
-        "url": "https://open.spotify.com/album/4R8gTrFpIhFwbLVIXuL8wi"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Jimenez",
-          "url": "https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/5IvdvMaPmqHQ55V9GQR5Od"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Qu\u00e9mame el coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5KRapi0NhVyb9vABL02T9Y"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "Qu\u00e9mame el coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2xy0eR38Gt1UN1PM3IzYze"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
         "name": "Crezco y no lo veo",
         "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 190561,
       "name": "Crezco y no lo veo",
       "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "Qu\u00e9mame el coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5KRapi0NhVyb9vABL02T9Y"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "Qu\u00e9mame el coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2xy0eR38Gt1UN1PM3IzYze"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Chao (Remix Reversiones)",
-        "url": "https://open.spotify.com/album/1sQOiViouYbWFukqN2iNxi"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Ketekalles",
-          "url": "https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "\u00c1ndate - Reversi\u00f3n",
-      "url": "https://open.spotify.com/track/38Oju5aqwHRAageQuYfrdL"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
         "name": "Este amor peque\u00f1o",
         "url": "https://open.spotify.com/album/2TQKPbPZ0Gz9GJxYJXWrbv"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 230526,
       "name": "Que vivas conmigo",
       "url": "https://open.spotify.com/track/1H8JtGp3874JYkBIi36L9G"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "Lucha de gigantes (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q32G7w4yVCokwjR0Fn9su"
+      },
+      "artists": [
+        {
+          "name": "Fran Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe"
+        },
+        {
+          "name": "Carlos Escobedo",
+          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
+        }
+      ],
+      "duration_ms": 288268,
+      "name": "Lucha de gigantes - En Vivo",
+      "url": "https://open.spotify.com/track/13VfZgdwdjFf3AZRC3zukK"
     }
   ],
   "unique_name": "Cancionistas",

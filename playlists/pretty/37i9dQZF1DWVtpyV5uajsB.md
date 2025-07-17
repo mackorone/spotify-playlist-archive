@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtpyV5uajsB.md) - [plain]
 
 > Listen to the soundtracks of Family By Choice\. \(조립식 가족의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,343 likes - 59 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,348 likes - 59 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtpyV5uajsB.md) - [plain]
 | 4 | [All Our Days](https://open.spotify.com/track/0UN5CzHCVGzTelwxLdf9eM) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Family by Choice \(Original Television Soundtrack\)](https://open.spotify.com/album/10qCYwx3o9mVR3k6ntkI9J) | 4:48 |
 | 5 | [Wondering About Love](https://open.spotify.com/track/1VBXOiJPH8XtPvF0YvoCAo) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Family by Choice \(Original Television Soundtrack\)](https://open.spotify.com/album/10qCYwx3o9mVR3k6ntkI9J) | 4:04 |
 | 6 | [Dreaming on Your Breath](https://open.spotify.com/track/4CDUCsrvgMt1NsRLJuavV8) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc) | [Family by Choice \(Original Television Soundtrack\)](https://open.spotify.com/album/10qCYwx3o9mVR3k6ntkI9J) | 3:14 |
-| 7 | [Beyond The Sunrise](https://open.spotify.com/track/3mQQceVjGiyRTWVGdNn3g9) | [Earth Sky](https://open.spotify.com/artist/4NrhEX2KXkTrVHlGaBiLOS) | [Family by Choice \(Original Television Soundtrack\)](https://open.spotify.com/album/10qCYwx3o9mVR3k6ntkI9J) | 2:24 |
+| 7 | [Beyond The Sunrise](https://open.spotify.com/track/3mQQceVjGiyRTWVGdNn3g9) | [Jicheon](https://open.spotify.com/artist/4NrhEX2KXkTrVHlGaBiLOS) | [Family by Choice \(Original Television Soundtrack\)](https://open.spotify.com/album/10qCYwx3o9mVR3k6ntkI9J) | 2:24 |
 | 8 | [My Beautiful Name is You](https://open.spotify.com/track/5mAwuEdPY37W0hpL6fpNjs) | [Hwang In Yeop](https://open.spotify.com/artist/0zstfeoIogyeFa2gSMlBsL), [Jung Chae Yeon](https://open.spotify.com/artist/0gDWTlDBSRL81ZkOHSetGF), [Bae Hyeon Seong](https://open.spotify.com/artist/3tdpzS4vUJT03q3Qfb9bZx) | [Family by Choice \(Original Television Soundtrack\)](https://open.spotify.com/album/10qCYwx3o9mVR3k6ntkI9J) | 4:12 |
 | 9 | [Title of Family by Choice](https://open.spotify.com/track/3IL6qZ3rRFeJnBFX64YCuP) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7) | [Family by Choice \(Original Television Soundtrack\)](https://open.spotify.com/album/10qCYwx3o9mVR3k6ntkI9J) | 0:45 |
 | 10 | [Family by Choice](https://open.spotify.com/track/0aWF4OT5bF5jylCYnuPNDu) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7) | [Family by Choice \(Original Television Soundtrack\)](https://open.spotify.com/album/10qCYwx3o9mVR3k6ntkI9J) | 1:59 |

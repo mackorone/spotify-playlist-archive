@@ -1129,20 +1129,24 @@
     },
     {
       "album": {
-        "name": "13 Chansons d'Avant Le Deluge",
+        "name": "13 chansons d'avant le deluge",
         "url": "https://open.spotify.com/album/15I7QvT8jQY5xvU2CBzWgf"
       },
       "artists": [
         {
-          "name": "Brigitte Fontaine & Jacques Higelin",
-          "url": "https://open.spotify.com/artist/3Su2k2rMaQZsIKbNZSS0ps"
+          "name": "Jacques Higelin",
+          "url": "https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum"
+        },
+        {
+          "name": "Brigitte Fontaine",
+          "url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
         }
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 141293,
-      "name": "La Grippe",
+      "name": "La grippe",
       "url": "https://open.spotify.com/track/1syekyuaIRLfqGMP5quqhb"
     },
     {

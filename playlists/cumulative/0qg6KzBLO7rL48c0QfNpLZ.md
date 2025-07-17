@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,151 songs - 2 day 2 hr 51 min
+1,153 songs - 2 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Again & Again](https://open.spotify.com/track/4TqKZhFRGyy5xkGjJYuUte) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK) | [Again & Again](https://open.spotify.com/album/1tugMckCXchzgsKXvGGi1T) | 3:22 | 2025-06-06 |  |
 | [Ain 't Perfect](https://open.spotify.com/track/0GxVanzE05o1oxEmGcf4pk) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Ain 't Perfect](https://open.spotify.com/album/0CDZoOQoQQks7dC0Z14AIL) | 2:27 | 2023-12-07 | 2024-08-20 |
 | [Ain't Nobody \(Loves Me Better\) \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:06 | 2023-12-03 | 2024-09-11 |
+| [Ain’t Coming Down](https://open.spotify.com/track/5ETwwKEqRHe7DFliws6ZeW) | [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [TheA](https://open.spotify.com/artist/6abBbFdScLVydlXNgmv5bv) | [Ain’t Coming Down](https://open.spotify.com/album/2PcQkdYu4RmY3iZZHlYjKC) | 2:17 | 2025-07-16 |  |
 | [Al Crepuscolo](https://open.spotify.com/track/7JjDWbXbdjtIM0XUZEKZU3) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [Al Crepuscolo](https://open.spotify.com/album/0izvsNCzo3vbvpbvMfRsjq) | 2:36 | 2024-08-30 | 2024-09-15 |
 | [Alelujah](https://open.spotify.com/track/5p2rlMbmxEWso65tCF6u62) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Alelujah](https://open.spotify.com/album/3eOxFHdq1RsJExvDpQSCPL) | 2:52 | 2024-10-18 | 2025-03-14 |
 | [Alicante](https://open.spotify.com/track/4NfuYShHpqVocwgQ6IcZVe) | [Solara](https://open.spotify.com/artist/1M7CohuwV1Mgim4czMhWRe) | [Alicante](https://open.spotify.com/album/5WQsfObVbx023rGrM6JQrh) | 2:17 | 2025-06-20 |  |
@@ -1120,6 +1121,7 @@
 | [Where Have You Been](https://open.spotify.com/track/0iLFKCWNxgjMHqeJbmePa7) | [BangLoud](https://open.spotify.com/artist/0s3esBhM7creiqjThiR77P), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Where Have You Been](https://open.spotify.com/album/7k3LUBMenFGgR04kQklEEj) | 2:31 | 2024-05-17 | 2024-09-10 |
 | [Where Have You Gone](https://open.spotify.com/track/0kUNjcKRWz5ggvLo2lGXSR) | [C\-Ro](https://open.spotify.com/artist/6PAunVzpRKDn5xbMgkV1gh), [Don Bnnr](https://open.spotify.com/artist/0YD4K8mKJ4zeOnOpH8qdT5) | [Where Have You Gone](https://open.spotify.com/album/30jWaz9InpCGGAYVo1zqtW) | 2:22 | 2025-06-14 | 2025-07-14 |
 | [Where I Belong](https://open.spotify.com/track/1iMDLTTnmTivGA4bJ80F85) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Where I Belong](https://open.spotify.com/album/1G0jW7eipMKCiiHml5Cwmq) | 2:37 | 2023-11-14 | 2024-09-15 |
+| [Where Will You Go](https://open.spotify.com/track/0TVayVVPNxLqTCON8NVEDJ) | [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Chill Gull](https://open.spotify.com/artist/0oF2AmTrkEWD7JvK1CH1Lw) | [Where Will You Go](https://open.spotify.com/album/4hti1RV7PRrH7QcczoI947) | 2:43 | 2025-07-16 |  |
 | [Where You Are](https://open.spotify.com/track/56roD4hdsjbp73Rzxit9Yc) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR) | [Where You Are](https://open.spotify.com/album/1av2sOPOB2hgau027Bb79D) | 2:41 | 2024-11-15 | 2025-03-14 |
 | [Where You Go](https://open.spotify.com/track/3ZrFPGpxyE1t5MLuLBHIrk) | [Neascape](https://open.spotify.com/artist/0mkR2PQg7ozJy4ntTGCPrT) | [Where You Go](https://open.spotify.com/album/3Gl9qRa0JC7fLGGFxa3Uae) | 2:37 | 2025-04-28 | 2025-06-07 |
 | [Wherever You Go](https://open.spotify.com/track/1a9Wg1Rtoj6flD9fMkIkVp) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [SAMI](https://open.spotify.com/artist/59mFA9CYroDi9rpAkEEara) | [Wherever You Go](https://open.spotify.com/album/6xi5iggYYxT2HALbv5FfQE) | 2:29 | 2024-02-02 | 2025-03-08 |

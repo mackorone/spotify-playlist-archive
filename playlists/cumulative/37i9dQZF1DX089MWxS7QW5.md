@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: homezone\)
 
-545 songs - 1 day 5 hr 27 min
+546 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 | 2023-11-16 | 2024-05-01 |
 | [Baby Step \(feat\. siso\)](https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Baby Step](https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq) | 3:01 | 2025-06-25 |  |
 | [Back and forth](https://open.spotify.com/track/7s6NmtSMMwoHDYCTgFsqD7) | [Kinn](https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo) | [Back and forth](https://open.spotify.com/album/1asKs3DCbn3dKd7RYcKnIY) | 2:44 | 2025-03-13 | 2025-07-09 |
-| [backroom 2025](https://open.spotify.com/track/31rLxCWKdplzfFR2UQq9wn) | [SZN](https://open.spotify.com/artist/0SPzRZVsUUzgOXjibr7PEj) | [FREE MYSELF](https://open.spotify.com/album/3csmdF5kqdquJHIb6yjRkY) | 2:04 | 2025-04-02 |  |
+| [backroom 2025](https://open.spotify.com/track/31rLxCWKdplzfFR2UQq9wn) | [SZN](https://open.spotify.com/artist/0SPzRZVsUUzgOXjibr7PEj) | [FREE MYSELF](https://open.spotify.com/album/3csmdF5kqdquJHIb6yjRkY) | 2:04 | 2025-04-02 | 2025-07-17 |
 | [Backstage Singer](https://open.spotify.com/track/2dNYJJalVImtpa07cGKmqv) | [Park Se Jung](https://open.spotify.com/artist/4NegBbNnbzZqSOWOKpRpyx) | [Step to Dream](https://open.spotify.com/album/2mUVvRFw9QabFerpyCaKIf) | 2:44 | 2025-01-24 | 2025-05-21 |
 | [BAD](https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [BAD](https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD) | 3:12 | 2024-08-09 | 2024-09-28 |
 | [Bad Time \(feat\. NOA\)](https://open.spotify.com/track/1Mj4QMH6sPI4hVnoJu6GV2) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Bad Time \(feat\. NOA\)](https://open.spotify.com/album/3cGuMUrUKepD18H2uvxpkq) | 2:42 | 2024-05-24 | 2024-08-13 |
@@ -376,6 +376,7 @@
 | [pado ballad](https://open.spotify.com/track/7sKi4MTWJJIPXCik8yLmRV) | [Lahne](https://open.spotify.com/artist/2f6UH261iYhBitmwklLAlH) | [Blue Interior](https://open.spotify.com/album/5laWpGYSMaZiscOja0W4u1) | 3:42 | 2022-07-04 | 2022-11-15 |
 | [palindrome](https://open.spotify.com/track/1dVkhC11bocbMGiJw8RZ0I) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [palindrome](https://open.spotify.com/album/7KSmXVUSnMZRG0jQghsTVh) | 3:08 | 2024-08-04 | 2024-09-14 |
 | [Passion \(Feat\. PENOMECO\)](https://open.spotify.com/track/1w6ao8wqrRg5rOEKsZ3Qyy) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Too Passionate](https://open.spotify.com/album/6Oa5bo4s3FhAlfssUI0JTU) | 2:55 | 2024-07-09 | 2024-09-14 |
+| [PDA](https://open.spotify.com/track/67SdDCd4AgsXf9bMSqWx5G) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [PDA](https://open.spotify.com/album/441CBoBxPuKC9ZGBSJpAoL) | 2:45 | 2025-07-16 |  |
 | [Perfect Moment](https://open.spotify.com/track/6cqwLE61pizVHv0nbuodzn) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [Perfect Moment](https://open.spotify.com/album/0DKtnVlKm6G9R1xnoiuUgT) | 2:16 | 2024-09-02 | 2025-01-18 |
 | [Phase 2](https://open.spotify.com/track/5EpEUsgdUnOKqaO3V6teQ5) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Phase 2](https://open.spotify.com/album/0lH0wKS720gDw5NqMlUDjH) | 3:07 | 2025-02-20 | 2025-06-03 |
 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 | 2023-10-27 | 2024-01-09 |

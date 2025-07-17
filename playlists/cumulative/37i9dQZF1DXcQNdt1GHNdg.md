@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-241 songs - 11 hr 33 min
+242 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2024-04-06 | 2024-08-31 |
 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 | 2023-09-04 | 2025-04-05 |
 | [Ok Hoye Paye Haan](https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Ok Hoye Paye Haan](https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s) | 2:09 | 2025-02-10 | 2025-05-25 |
-| [On Point](https://open.spotify.com/track/0vVByFRK4THSNqff1SS7rV) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [On Point](https://open.spotify.com/album/0G0GUh5A2NgdcsYce85tBT) | 2:42 | 2025-07-08 |  |
+| [On Point](https://open.spotify.com/track/0vVByFRK4THSNqff1SS7rV) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [On Point](https://open.spotify.com/album/0G0GUh5A2NgdcsYce85tBT) | 2:42 | 2025-07-08 | 2025-07-17 |
 | [Pagol](https://open.spotify.com/track/7MpfARGQRFqZxHEWLBjDkx) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Pagol](https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7) | 3:39 | 2023-07-18 | 2024-07-27 |
 | [Parlo](https://open.spotify.com/track/72ZMelN2SD6EgG12CUqImj) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Parlo](https://open.spotify.com/album/3XEP6TfI4dYl7h0LlUH03z) | 2:43 | 2025-06-16 | 2025-07-09 |
 | [Patola](https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [DJ Jesta](https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA) | [Patola](https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt) | 4:00 | 2024-08-29 | 2024-09-19 |
@@ -237,6 +237,7 @@
 | [Top Gear](https://open.spotify.com/track/2eGdocY9Ja9dqPpC2Ct7db) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Raah Rok De](https://open.spotify.com/album/4nRWjUkDrI4Du5nI7iFSDV) | 2:26 | 2024-11-21 | 2024-12-10 |
 | [Trade Marka](https://open.spotify.com/track/1we2yN08AAo5pNiT9ngdhC) | [Navi Warring](https://open.spotify.com/artist/30sKPEz7rychX6f8FkA56J), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Trade Marka](https://open.spotify.com/album/1h74R55rRCrToyXTjJQE8P) | 3:02 | 2025-01-20 | 2025-02-04 |
 | [Try Me](https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:15 | 2023-09-04 | 2025-02-06 |
+| [Unbound](https://open.spotify.com/track/18935F4vHOp5tE19qhijCI) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h) | [Unbound](https://open.spotify.com/album/7gMXxTwci6ZbBPrF2eaftn) | 2:27 | 2025-07-16 |  |
 | [UZI](https://open.spotify.com/track/4LcOcKKdlRJdWNf4Auw826) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [GRAVITY](https://open.spotify.com/album/1upZ0J1XNOfk4efImpsBHJ) | 2:26 | 2025-07-11 |  |
 | [Vancouver](https://open.spotify.com/track/1QKIZctspbifzxSJr6i7JX) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:43 | 2025-02-19 | 2025-05-07 |
 | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/track/6ryOGfMaBty1cmkiJt9Qzz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/album/0NMM1rVmULQqE38GOz6e1t) | 2:32 | 2023-07-18 | 2023-09-05 |

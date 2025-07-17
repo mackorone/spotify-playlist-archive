@@ -2,7 +2,7 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: JF Pauzé
+> De la musique québécoise pour tous les goûts\. Photo: Cœur De Pirate
 
 171 songs - 9 hr 12 min
 

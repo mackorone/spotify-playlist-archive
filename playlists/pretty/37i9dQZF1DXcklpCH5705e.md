@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 攬佬SKAI ISYOURGOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,700 likes - 67 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,697 likes - 67 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

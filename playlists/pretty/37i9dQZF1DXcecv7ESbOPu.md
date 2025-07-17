@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Justin Bieber, Sarettii, Olivia Dean och Wet Leg med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,216 likes - 103 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,218 likes - 103 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 88 | [Stranger](https://open.spotify.com/track/6qcNQVplYV2f3Ra6PniM5t) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Stranger](https://open.spotify.com/album/71GP0asXIktlgEL8t3qcyk) | 2:14 |
 | 89 | [En Som Dig](https://open.spotify.com/track/2D70stXApX10H7JKusia0x) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [En Som Dig](https://open.spotify.com/album/1CDNj8AV1BFoZsiOdEnNXf) | 3:12 |
 | 90 | [New Day](https://open.spotify.com/track/7EBjMwD8WF9309zbBPVCWU) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Modi](https://open.spotify.com/artist/2yTAiIQyZrTTg6VvXwJZdQ), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH) | [New Day](https://open.spotify.com/album/00AtYpOMugrzxaUfPKTXG7) | 2:38 |
-| 91 | [Give It To Me](https://open.spotify.com/track/4TS12gNcLIIfYP2j7wocyJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Daytona](https://open.spotify.com/artist/2tbSrnZ330em3N7GDUz6cp) | [Give It To Me](https://open.spotify.com/album/7qaAXJOULu7GNNwkgR7PuC) | 2:46 |
+| 91 | [Give It To Me](https://open.spotify.com/track/4TS12gNcLIIfYP2j7wocyJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC) | [Give It To Me](https://open.spotify.com/album/7qaAXJOULu7GNNwkgR7PuC) | 2:46 |
 | 92 | [Ley Ley](https://open.spotify.com/track/4jWOHJz0r0zBm37i8ntbFc) | [DJ Roody](https://open.spotify.com/artist/3UI0UmJdHpQkMqgjuOTMYc) | [Ley Ley](https://open.spotify.com/album/39NVcditGFpdsV0hfWlSTH) | 2:14 |
 | 93 | [Always With Me](https://open.spotify.com/track/0xh3VlNC47pur8SHkWAgz3) | [Dream Drop](https://open.spotify.com/artist/42YYzTegwBmUQhoKkGuZeG) | [blackcastle: pt.1](https://open.spotify.com/album/23ML3oWhBmQtTDQTDWXOzI) | 3:41 |
 | 94 | [The Beat](https://open.spotify.com/track/5TM64poPKEC9oqUoxojedI) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [The Beat](https://open.spotify.com/album/4niaB3fUejqfPM4alqc3uT) | 1:43 |

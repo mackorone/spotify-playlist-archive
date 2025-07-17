@@ -2047,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "long lost",
+        "url": "https://open.spotify.com/album/2gQ3teUEg1TVZVubUji8Bn"
+      },
+      "artists": [
+        {
+          "name": "eternal",
+          "url": "https://open.spotify.com/artist/4wGMrwZjdj39HPuCm3Ui6U"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128285,
+      "name": "long lost",
+      "url": "https://open.spotify.com/track/7L2ofInqnrSisKJxVPGE6K"
+    },
+    {
+      "album": {
         "name": "More Than Anything",
         "url": "https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe"
       },

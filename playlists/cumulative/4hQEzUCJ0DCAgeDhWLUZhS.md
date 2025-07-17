@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-515 songs - 1 day 6 hr 12 min
+516 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Mountains](https://open.spotify.com/track/7ID1obCK75QsDQuf9pEVxK) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 3:21 | 2020-10-10\* | 2021-02-25 |
 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 | 2023-05-26 | 2025-06-04 |
 | [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 | 2021-08-21 | 2025-05-28 |
+| [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-16 |  |
 | [My Religion Is You](https://open.spotify.com/track/6vet37GQffjXnGHvXvHNb5) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [My Religion Is You](https://open.spotify.com/album/5OgdfcoqYckDBhnxaONIGs) | 3:33 | 2020-10-10\* | 2021-05-13 |
 | [My Way](https://open.spotify.com/track/7mtnay1VGQQbtOM70HYsV0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [My Way](https://open.spotify.com/album/3n33udd6pKEdrzahdYzii0) | 2:44 | 2021-10-22 | 2025-05-28 |
 | [Necklace](https://open.spotify.com/track/50l3XkUnhVOWfZ6MLcOcc0) | [Crate](https://open.spotify.com/artist/799oMzox2WLd3vINsW23U7) | [Necklace](https://open.spotify.com/album/3FagFB7QjdO5Yng2POsNDB) | 3:05 | 2025-06-03 |  |

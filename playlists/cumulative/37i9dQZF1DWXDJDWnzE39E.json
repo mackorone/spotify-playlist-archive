@@ -2253,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "Eternal December",
+        "url": "https://open.spotify.com/album/0NSRVjbWJXMr0X2cv54szI"
+      },
+      "artists": [
+        {
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229294,
+      "name": "Eternal December",
+      "url": "https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83"
+    },
+    {
+      "album": {
         "name": "Eternal Spirits",
         "url": "https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb"
       },
@@ -7420,7 +7438,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 264400,
       "name": "Waiting For The Big One",
       "url": "https://open.spotify.com/track/3pfLenUsy8pXLRuRjt1LZN"

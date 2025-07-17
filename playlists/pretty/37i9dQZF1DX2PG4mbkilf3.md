@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Dylan Sinclair from Thornhill, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,317 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,348 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stay Home](https://open.spotify.com/track/7EHpanFygP4PvGj1XK5ZdZ) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Stay Home](https://open.spotify.com/album/2K5izQrAm5MsXpiZIGbiGi) | 2:37 |
 | 2 | [GO BABY](https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:14 |
-| 3 | [2UP \(feat\. Because\)](https://open.spotify.com/track/2N5lE2ccKPzY2b1va7MTlo) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [2UP \(feat\. Because\)](https://open.spotify.com/album/3AI2Mi1fAPsN7m0FnBAeo5) | 2:45 |
+| 3 | [2UP \(with Because\)](https://open.spotify.com/track/2N5lE2ccKPzY2b1va7MTlo) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [2UP \(with Because\)](https://open.spotify.com/album/3AI2Mi1fAPsN7m0FnBAeo5) | 2:45 |
 | 4 | [this ain't no situation](https://open.spotify.com/track/47CnjOJR6rbEErjutKOsFw) | [Concepcion](https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY) | [FREE FALL](https://open.spotify.com/album/3hmkRVcqEr5XUsuhkefSsH) | 2:58 |
 | 5 | [Deserve](https://open.spotify.com/track/3PcAs60k0pJlmpeGjWb5OK) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Deserve](https://open.spotify.com/album/2l5yiJNpmXYcZQu3qg4gCb) | 2:21 |
 | 6 | [Heaven](https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Heaven](https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV) | 3:02 |

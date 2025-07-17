@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Ryan Ofei
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,273 likes - 130 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,287 likes - 130 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 19 | [Stick It Up](https://open.spotify.com/track/769L1FfCDtTtN7GtbHsdMl) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [GodFearin](https://open.spotify.com/artist/2ivrSM5ZHAZj1tip28DlWR), [HR0B](https://open.spotify.com/artist/53wCGrv2sH6hgO3xJHv3Fv), [LEÓN](https://open.spotify.com/artist/4w00ajMRfMhWzm7a88Hlon), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Stick It Up](https://open.spotify.com/album/2DNjkTCk8HUEnsLR7EBGQq) | 2:50 |
 | 20 | [Trust In You: TIY](https://open.spotify.com/track/4OW2XVZYgV63tLYGwQv3YE) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Daraaa](https://open.spotify.com/artist/4gXPHQnawRp8WMBeTWtWys), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Trust In You: TIY](https://open.spotify.com/album/5NmJ9x1iDEIAd2rgLf62Qq) | 3:01 |
 | 21 | [Page](https://open.spotify.com/track/0ydcTvvkMDN2eNEU9BdX1m) | [Sublime Elevation](https://open.spotify.com/artist/4tRNO66GV2N5FoE9fSD6ld), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc), [RACHL](https://open.spotify.com/artist/7GHCpCmmUgy7LRtIeo2uw3) | [Page](https://open.spotify.com/album/3ARuS5lEMpPH87iIEg4r2U) | 3:12 |
-| 22 | [Agbara](https://open.spotify.com/track/275ux5OoZzjecLHuuXGrVn) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2), [Daddy Verse](https://open.spotify.com/artist/1vG404xTW1MPW2UYJ1ap6n), [Joshua Isreal](https://open.spotify.com/artist/1c5YHaZPALc7ajeFwwPIJT), [Gaisebaba](https://open.spotify.com/artist/7FDCJpGpwbYY5zYYPR3YeS) | [SEVEN](https://open.spotify.com/album/4qN1MNFvUACZKyziC13Mpr) | 4:22 |
+| 22 | [Agbara](https://open.spotify.com/track/275ux5OoZzjecLHuuXGrVn) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2), [Daddy Verse](https://open.spotify.com/artist/1vG404xTW1MPW2UYJ1ap6n), [Joshua Isreal](https://open.spotify.com/artist/1c5YHaZPALc7ajeFwwPIJT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [SEVEN](https://open.spotify.com/album/4qN1MNFvUACZKyziC13Mpr) | 4:22 |
 | 23 | [BLAZE](https://open.spotify.com/track/4ombA5DSAUYiMYCwsQ1FRQ) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Blaze](https://open.spotify.com/album/2KcBoIOnNj4wD9nUYrOGGJ) | 3:52 |
 | 24 | [On God](https://open.spotify.com/track/2vIlDWneF714TKB5nSaa0u) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu) | [On God](https://open.spotify.com/album/7oEoq7wv5P4ypkrjUAnDLi) | 2:16 |
 | 25 | [The word \(EDM\)](https://open.spotify.com/track/2KwI8m7lHWAgBiEPP66ZqP) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [The word \(EDM\)](https://open.spotify.com/album/5VlEPgIGssAzt9yKxL7lno) | 3:58 |

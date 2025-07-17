@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Vaundy \*👉 <a href="https://spice.eplus.jp/articles/339199">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Vaundy \*👉 <a href="https://spice.eplus.jp/articles/339374">連動記事</a>をSPICEでチェック!
 
-11,257 songs - 29 day 7 hr 24 min
+11,259 songs - 29 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [2025/6/18 羊文学がカバー！Superfly&清水翔太から番組にメッセージが到着！STUTS on the WAVEの楽曲、Tani Yuukiのニューアルバム、Early Noiseアーティストreinaが Bonberoを迎えた新曲もピックアップ！](https://open.spotify.com/episode/3NvsLdwfJuhQPB9qVbtjK7) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 31:45 | 2025-06-18 | 2025-06-25 |
 | [2025/6/25 LE SSERAFIMがカバー！YENTOWNのアルバム、SIRUPとAyumu Imazuのコラボ曲もピックアップ！Early NoiseアーティトLavtの新曲、back numberの新曲、Chilli Beans.のニューEPも！](https://open.spotify.com/episode/15BjuA68tsPyiyKNn3QM0X) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:10 | 2025-06-25 | 2025-07-02 |
 | [2025/6/4 Mrs\. GREEN APPLEがカバー！ニューアルバムをリリースしたanoからメッセージが到着！紫 今からのメッセージも！OvallのニューEP、CLAN QUEENのニューアルバム、Early Noiseアーティスト7coの新曲も！](https://open.spotify.com/episode/6JV0FV5nj82UsQxrp0NgFy) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 31:28 | 2025-06-04 | 2025-06-11 |
+| [2025/7/16 Vaundy「再会」がリリース！STUTS on the WAVEへのインタビューも！Awich × Ferg × Lupe Fiasco、Kroi、PAS TASTAが楽曲提供したももクロ新曲もピックアップ！](https://open.spotify.com/episode/6Aa69jzzNBu8UPHTPmLrj9) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 45:48 | 2025-07-16 |  |
 | [2025/7/2 アイナ・ジ・エンドが新曲をリリース！SuchmosのニューEPも！JP THE WAVYのニューミックステープ、Early Noiseアーティストreinaのニューアルバム、日本人アーティストとして初めて『NPR Music Tiny Desk Concerts』に出演したさかいゆうのセッションEPもピックアップ！超ときめき♡宣伝部からのメッセージも到着！](https://open.spotify.com/episode/2mtu0hou5IGb3VSlLqRSUz) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 28:25 | 2025-07-02 | 2025-07-09 |
 | [2025/7/9 KID FRESINOが新曲をリリース！Creepy Nutsの新曲、PUNPEE & BIMのコラボEPも！Furui Riho初のアニメ主題歌や、RADWIMPSの野田洋次郎が書き下ろしたSixTONES の新曲もピックアップ！jo0jiからメッセージも到着！](https://open.spotify.com/episode/4K4HDQ9M5k7yNTP05FAxlF) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:53 | 2025-07-09 | 2025-07-16 |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 |  |
@@ -1754,6 +1755,7 @@
 | [Dopamine](https://open.spotify.com/track/64Qw7af8NTss2NhiaQAkTx) | [Yoeko](https://open.spotify.com/artist/7vOAHP92bDityGxU2xCA60) | [New Yoeko](https://open.spotify.com/album/4oOmO3kM8ykUsqQndQpH3V) | 5:45 | 2023-09-20 | 2023-09-27 |
 | [Dope boi](https://open.spotify.com/track/7adTPZZy8A969hVEF7jfLs) | [Ganafii](https://open.spotify.com/artist/5ONh8X5yDeNNop8XlbRoXe), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Till i die](https://open.spotify.com/album/63zofdFmExj5dfZyhWuQAZ) | 3:31 | 2023-03-14 | 2023-03-22 |
 | [doppelgänger](https://open.spotify.com/track/7FgkqIH50E6masvuz4EOPy) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [doppelgänger](https://open.spotify.com/album/7CMTY6yUZDGVoc4GIi7qRZ) | 2:47 | 2025-01-28 | 2025-02-05 |
+| [DOREMI](https://open.spotify.com/track/05NoTRUIxv24AvRfdPmMkV) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/5ySi9bqqdg7M5h8UdNSUWb) | 3:44 | 2025-07-16 |  |
 | [dorobo](https://open.spotify.com/track/6E5m6IFNNFYwIe1sBKgk4y) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [dorobo](https://open.spotify.com/album/7AgCcXr9sUYISChejAsr5w) | 2:56 | 2023-12-05 | 2023-12-13 |
 | [DOSHABURI](https://open.spotify.com/track/3mYO2S7o4kpIXVnhtYHhLL) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI](https://open.spotify.com/album/61bA17oFLiO0GB2hVLJnUp) | 2:41 | 2023-06-14 | 2023-06-21 |
 | [DOSHABURI](https://open.spotify.com/track/4PmbTS1aZVE7k9XdcZz3Uv) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI](https://open.spotify.com/album/23nlB57PLkDfluacW1PmCv) | 2:41 | 2023-06-13 | 2023-06-15 |

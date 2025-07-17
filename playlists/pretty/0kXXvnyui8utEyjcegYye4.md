@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 315 songs - 18 hr 41 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 316 songs - 18 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -323,5 +323,6 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 313 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 | 314 | [Uh la la](https://open.spotify.com/track/2PegjCuOVhM1A86ejM0apG) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Eso Es Lo Que Hay](https://open.spotify.com/album/3LFh9faflZ48PVZeBJx6wu) | 3:50 |
 | 315 | [Sunrise](https://open.spotify.com/track/0n0p8VGjFfQSXnCKUMPCWU) | [Slaptop](https://open.spotify.com/artist/5NFB7dL4b4ZtcMAk2wCOoi) | [Sunrise](https://open.spotify.com/album/6TIUOd9nDxKgQMc7OijRaa) | 3:34 |
+| 316 | [Any Kind of Guy](https://open.spotify.com/track/3YEmVyZ4TJVn5dO5bTTb9U) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [BTR](https://open.spotify.com/album/61e5Oi0ewB4IWP3mNSnfJx) | 3:40 |
 
-Snapshot ID: `AAADZmDcpdaLcQVNrNVA0NXjp/UWSNAW`
+Snapshot ID: `AAADZ1xbAUzgA42wxm42bPotXRN60cjI`

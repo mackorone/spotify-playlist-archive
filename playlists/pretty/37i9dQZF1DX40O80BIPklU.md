@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Duki en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,183 likes - 102 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,194 likes - 102 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [\[FREE\] 5202 Type Beat](https://open.spotify.com/track/7v6TT7EUEYAX1S7RZaZOkG) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [5202](https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00) | 2:38 |
-| 2 | [También](https://open.spotify.com/track/6MBO36iLmjGYXxHkLYSnmW) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Geassasin](https://open.spotify.com/artist/3hIaJ5OsiRqmW0aDujXYYE), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Honesty](https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8) | 2:28 |
+| 2 | [También](https://open.spotify.com/track/6MBO36iLmjGYXxHkLYSnmW) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Honesty](https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8) | 2:28 |
 | 3 | [Porque La Demora](https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/1jmda3z2yVf18leBFpEEDQ) | 3:31 |
 | 4 | [La Cascada](https://open.spotify.com/track/5R9xtR4mpX2OdcbqirHjUD) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [La Cascada](https://open.spotify.com/album/4F7gmDdN1ZTmplwbMRC8Hq) | 3:36 |
 | 5 | [Dame Boom Bap](https://open.spotify.com/track/44FXCKs4DiEyROCvtd59cA) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Honesty](https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8) | 3:00 |

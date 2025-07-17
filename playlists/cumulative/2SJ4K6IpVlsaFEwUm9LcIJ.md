@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-658 songs - 1 day 14 hr 23 min
+659 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Only People Can Save the World](https://open.spotify.com/track/7uGt9uDMoSaXFAHPKvGbJn) | [The Whatnauts](https://open.spotify.com/artist/2SFOkFzbmtkUJ5A6LcYPWB) | [On the Rocks](https://open.spotify.com/album/6QCGoXCij8HCBI4DwMGjZ6) | 4:44 | 2024-03-09 | 2024-05-16 |
 | [Open Door](https://open.spotify.com/track/5aLwseyHgPRxyzqlCfIqal) | [Lifted](https://open.spotify.com/artist/3183eBpNb3nicV6VkhwCUL) | [Trellis](https://open.spotify.com/album/3RH41G95sJX1QEAlqiFbQX) | 4:53 | 2024-11-24 | 2025-01-12 |
 | [Open Up The Gate](https://open.spotify.com/track/3lTek1NhK7pHXt8VoiwDun) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Heart Of The Congos](https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M) | 4:21 | 2025-05-27 | 2025-07-04 |
+| [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-17 |  |
 | [Orioles at Dusk](https://open.spotify.com/track/315K8VqorZUcQxbppcGYMC) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Orioles at Dusk](https://open.spotify.com/album/2vmRhotSXyS1RvcJPcDNBQ) | 4:23 | 2024-10-10 | 2024-11-14 |
 | [Our Dust](https://open.spotify.com/track/7kbwqZhRlhbTE3QEbH1mVm) | [A.C\. Marias](https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU) | [One Of Our Girls \(Has Gone Missing\)](https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ) | 3:29 | 2024-12-10 | 2025-01-12 |
 | [Overcome \- 2009 Remix](https://open.spotify.com/track/2fIn2blB174jad6eM27LXj) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6), [Al Riley](https://open.spotify.com/artist/5FTqRHLv1p7TcX9qQzHpIY) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:24 | 2024-11-13 | 2025-01-12 |

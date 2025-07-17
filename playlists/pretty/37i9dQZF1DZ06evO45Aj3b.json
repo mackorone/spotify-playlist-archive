@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 93543,
+  "num_followers": 93553,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHRIgAAAAAApwSuU6Z4Sp7tuJFHKzqo2",
+  "snapshot_id": "aHWaAAAAAAAlSpyQ2WFrZFjSFMPFFb2j",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Die For You (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "McCartney III Imagined",
         "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 161608,
       "name": "hi grace",
       "url": "https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Die For You (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1"
     },
     {
       "added_at": null,

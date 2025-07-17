@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 11
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,897 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,903 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 68 | [奥歯痛い保険証ない](https://open.spotify.com/track/6CqR8me6RcWoP5z1W119WN) | [FANI](https://open.spotify.com/artist/7KsWPNNxVKsPuzFiFqipjL) | [Out the 貧乏](https://open.spotify.com/album/697aN77B1eOSpgZC8zEMZd) | 2:26 |
 | 69 | [ESTIMA](https://open.spotify.com/track/5d4llxWHFBLQZ88mg4Jy9R) | [Daz](https://open.spotify.com/artist/7fG0HLe8Wy1jUNIqI6FDgE), [Sakepnk](https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf) | [ESTIMA](https://open.spotify.com/album/3YmIaKc0W4LoItQvRhDwkg) | 2:28 |
 | 70 | [EASY TOMORROW](https://open.spotify.com/track/3AWDo9evAPhsuZiII2rHTa) | [13ELL](https://open.spotify.com/artist/5QVAFVj5ujNUpjurU1wW9s), [I$$EI](https://open.spotify.com/artist/3E87rhCLfvsHloaJdrIZ3K) | [EASY TOMORROW](https://open.spotify.com/album/35oB2Wopd2Qwx8LeH0uQhx) | 2:36 |
-| 71 | [Vision](https://open.spotify.com/track/2fXRsMgtGdQYZhqWMS5SGX) | [TEPPEI](https://open.spotify.com/artist/0HRRUPhBQBzWi98vqWKLjV) | [Vision](https://open.spotify.com/album/61ZYQxsC3l4Mf0F4v0dSaT) | 3:14 |
+| 71 | [Vision](https://open.spotify.com/track/2fXRsMgtGdQYZhqWMS5SGX) | [TEPPEI](https://open.spotify.com/artist/13hVjyWEphfmUvcBhfx0oR) | [Vision](https://open.spotify.com/album/61ZYQxsC3l4Mf0F4v0dSaT) | 3:14 |
 | 72 | [Beautiful Days](https://open.spotify.com/track/3X8GOksWYe2mdQKpQBGO1J) | [Kee Rooz](https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh) | [Nobody Knows Me 2](https://open.spotify.com/album/644lBotN5zpIwgbEJgZuJR) | 1:40 |
 | 73 | [C\-30](https://open.spotify.com/track/7jedeUoyPZOPlP3HY9Hj2e) | [Cz Tiger](https://open.spotify.com/artist/2NddVWWEA3PMqhHXjgvBH1) | [C\-30](https://open.spotify.com/album/0CLD5k2PFbblrdW1M4lpeV) | 2:34 |
 | 74 | [Like This](https://open.spotify.com/track/6C5MgJJc3wcytaBHCyYW59) | [B.I.G\. JOHN](https://open.spotify.com/artist/4SVn9Ac8FQ52jXaxWK9cEX) | [Like This](https://open.spotify.com/album/640pfzaBkMRKVbyVCpzACu) | 2:32 |

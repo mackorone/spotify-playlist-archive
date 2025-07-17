@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 
 > Disfruta con los dulces y tradicionales sonidos de la marimba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,856 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,866 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 | 14 | [Que Rico Mambo](https://open.spotify.com/track/3pZk9dHViOEnuU9Een0ZuD) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 2:04 |
 | 15 | [Sólo Veracruz es Bello: El Balajú\-El Colás\-La Bamba\-El Tilingo Lingo](https://open.spotify.com/track/5DIbHrgGpkESK5V1wgq01q) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm) | [Nuestro México](https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF) | 3:51 |
 | 16 | [El Manicero](https://open.spotify.com/track/7hOMzXGysLGalUajUPEVqV) | [Marimba Usula Internacional](https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN) | [Exitos Internacionales en Marimba](https://open.spotify.com/album/6OCCL0MXixxHIKNH8tC9gJ) | 4:14 |
-| 17 | [Las Chancletas de Nayo Capero](https://open.spotify.com/track/7nzHfgqIOlsaAguS1gR30R) | [Estrella de Guatemala](https://open.spotify.com/artist/5o869s0h8WQyO8NGSCNvN8) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 4:11 |
+| 17 | [El Lepero](https://open.spotify.com/track/6w0dsA6Ps1fcz8l5nrCrK5) | [Marimba Orquestra Los Rios](https://open.spotify.com/artist/7aFuhai2azzpPRe2Sv2mbp) | [Mi Primavera](https://open.spotify.com/album/3pxX9CWbb6Ns3fgU9y94Te) | 2:51 |
 | 18 | [Chichicastenango](https://open.spotify.com/track/1rwlKOsgQrEGesRVYvfaV5) | [Marimba Chapinlandia](https://open.spotify.com/artist/4QPuhZw8xXaXXvFMmpzV5S) | [Chapinlandia \- Marimba Music of Guatemala](https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG) | 4:19 |
-| 19 | [El Lepero](https://open.spotify.com/track/6w0dsA6Ps1fcz8l5nrCrK5) | [Marimba Orquestra Los Rios](https://open.spotify.com/artist/7aFuhai2azzpPRe2Sv2mbp) | [Mi Primavera](https://open.spotify.com/album/3pxX9CWbb6Ns3fgU9y94Te) | 2:51 |
+| 19 | [Las Chancletas de Nayo Capero](https://open.spotify.com/track/7nzHfgqIOlsaAguS1gR30R) | [Estrella de Guatemala](https://open.spotify.com/artist/5o869s0h8WQyO8NGSCNvN8) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 4:11 |
 | 20 | [El Piri](https://open.spotify.com/track/6F70XslxkKzqr6P0Eo7vox) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/album/27owIuyxZgBgWnVQdxBaOz) | 2:38 |
 | 21 | [El Foco, Marimba de Guatemala](https://open.spotify.com/track/2lL3r55kICkmzNb7voNIoM) | [Marimba Orquesta Alma Tuneca](https://open.spotify.com/artist/4IxbZ8BGjDKoHWX67SdqEv) | [Tunecazos Marimba Alma Tuneca](https://open.spotify.com/album/1U7twlJTRa1nMGpYMJgst0) | 3:53 |
 | 22 | [Hasta Que Te Conocí \(Bolero en Marimba\)](https://open.spotify.com/track/4padF9yf3v1UzuqTkwIuzC) | [Marimba Usula Internacional](https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN) | [Boleros en Marimba](https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4) | 4:00 |

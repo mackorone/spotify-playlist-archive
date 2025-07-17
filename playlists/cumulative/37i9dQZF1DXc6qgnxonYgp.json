@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Big Shot",
+        "url": "https://open.spotify.com/album/3L08s7zuLLWWoq6sENR7QT"
+      },
+      "artists": [
+        {
+          "name": "RAK",
+          "url": "https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT"
+        },
+        {
+          "name": "Cisko Disco",
+          "url": "https://open.spotify.com/artist/31EYpybl0cnGRE6Bb5a2sM"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173548,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/5KWxCwqlUYSf5X7SlDyW9q"
+    },
+    {
+      "album": {
         "name": "Valliamma Peraandi - Vol. 01",
         "url": "https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG"
       },
@@ -1298,6 +1320,10 @@
         {
           "name": "Chamath Sangeeth",
           "url": "https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu"
+        },
+        {
+          "name": "Krish Manoj",
+          "url": "https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT"
         }
       ],
       "date_added": "2025-07-08",

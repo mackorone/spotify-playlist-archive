@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Mecna, Justin Bieber, BLACKPINK, Niky Savage, camoufly, Drake, Carla Hero, Marte, Quevedo e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,269 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,253 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

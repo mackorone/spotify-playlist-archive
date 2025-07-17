@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Plan de Escape, Fend
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,429 likes - 110 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,700 likes - 110 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

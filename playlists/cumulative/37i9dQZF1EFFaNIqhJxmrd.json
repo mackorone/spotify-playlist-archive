@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "King Arthur",
+        "url": "https://open.spotify.com/album/6mg7NJ6uTMeT8qfgdovo6U"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Maxwell",
+          "url": "https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204210,
+      "name": "King Arthur",
+      "url": "https://open.spotify.com/track/6jGAa9rhZpjfUZTtvO9RoR"
+    },
+    {
+      "album": {
         "name": "Till dig",
         "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
       },

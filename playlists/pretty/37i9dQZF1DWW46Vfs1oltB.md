@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>sokodomo\(소코도모\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,130 likes - 104 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,025 likes - 104 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 9 | [Narak](https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb) | [MOLLAK](https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX) | 2:06 |
 | 10 | [34\-24\-35 \(Feat\. Street Baby\)](https://open.spotify.com/track/2LLAgK0do3aiLIM2PUybDQ) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [DREAM BOY](https://open.spotify.com/album/5HCpTWbukDYS9jT0hxNPfZ) | 2:48 |
 | 11 | [Eh freestyle](https://open.spotify.com/track/4XbPK3sYAamzpttCcI7Xrd) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [SCRAPS](https://open.spotify.com/album/7xBLG0BG8IalE2fIwpyt85) | 2:38 |
-| 12 | [Smile Wit U](https://open.spotify.com/track/7DY3jFtNXqYkLZQ2uijm85) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Smile Wit U](https://open.spotify.com/album/3YCd0yD4lcsXIukf7mJ8Hv) | 2:04 |
+| 12 | [Smile Wit U](https://open.spotify.com/track/7DY3jFtNXqYkLZQ2uijm85) | [LEE SUREEN](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Smile Wit U](https://open.spotify.com/album/3YCd0yD4lcsXIukf7mJ8Hv) | 2:04 |
 | 13 | [EKO EKO](https://open.spotify.com/track/2QE61cQ0tyWWDMNkWFtHeX) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [EKO EKO](https://open.spotify.com/album/17VDRp9RX5rp7GPc5r1XuO) | 3:06 |
 | 14 | [KrOWN\_Beenzino](https://open.spotify.com/track/4slPMG63XcpWAOjUx8Ip8d) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [KrOWN\_Beenzino](https://open.spotify.com/album/5yffp1pwFAwmPBDAc34wmz) | 0:02 |
 | 15 | [The Quiett](https://open.spotify.com/track/3HC8n2oPye2Co2wuHH0tcw) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [Breathe 4](https://open.spotify.com/album/4mH2hi1Tjysb8bTCJpYYCU) | 2:54 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 84 | [KrOWN\_BE'O](https://open.spotify.com/track/3ccEAKaU595SqcS1FQVtqS) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [KrOWN audio liner](https://open.spotify.com/album/4vi9KFaDZgtuUDwvfDMoXq) | 0:01 |
 | 85 | [My Job is Cool \(Feat\. ZICO, J\-Tong\)](https://open.spotify.com/track/6RVjIT5XRZ6BMLaIWPtgSU) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [I Tend to Get Tongue\-tied](https://open.spotify.com/album/1CYzPxanD1PYrbGJFNjWOe) | 3:22 |
 | 86 | [WET](https://open.spotify.com/track/6XVzxEg3OzlpdnJIzBZBL3) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [WET](https://open.spotify.com/album/4LmjnThcPXDd9Lcz3ctIY1) | 3:20 |
-| 87 | [Gold Chain \(feat\. YANGHONGWON\)](https://open.spotify.com/track/112YssgzPBToSuq09E5xnC) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Gold Chain](https://open.spotify.com/album/0kQdDKNaHImgr4QEyicWll) | 3:14 |
+| 87 | [Gold Chain \(feat\. YANGHONGWON\)](https://open.spotify.com/track/112YssgzPBToSuq09E5xnC) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Gold Chain](https://open.spotify.com/album/0kQdDKNaHImgr4QEyicWll) | 2:58 |
 | 88 | [Spaceship](https://open.spotify.com/track/46sIBHNOtizWM7g6YQ9xXQ) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [UPSET](https://open.spotify.com/album/1mUapSqiPxRoH3d2bF0Y0L) | 2:14 |
 | 89 | [NEW LOUIS VUITTON \(Feat\. KHAN\)](https://open.spotify.com/track/1criadt7FaGnmAO8XKOKdc) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [FREE AGENT](https://open.spotify.com/album/343geOPoELUzV9W6BK6OGT) | 3:12 |
 | 90 | [Taking Candy](https://open.spotify.com/track/67rgSPnDyiBRBxOnEexh5V) | [zero](https://open.spotify.com/artist/70mw2clXgjIPDUJClRw83S) | [Taking Candy](https://open.spotify.com/album/5gP6p38KB8hdgJx98wBFax) | 1:55 |

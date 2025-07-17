@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 378028,
+  "num_followers": 378189,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Different Story",
+        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
+      },
+      "artists": [
+        {
+          "name": "Jon Thurlow",
+          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Still There's Something",
         "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 218382,
       "name": "Still There's Something",
       "url": "https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Different Story",
-        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
-      },
-      "artists": [
-        {
-          "name": "Jon Thurlow",
-          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "That's What I Call Free",
-        "url": "https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb"
-      },
-      "artists": [
-        {
-          "name": "Mas",
-          "url": "https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm"
-        }
-      ],
-      "duration_ms": 231438,
-      "name": "That's What I Call Free",
-      "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Teach Us That One Song",
         "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "That's What I Call Free",
+        "url": "https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb"
+      },
+      "artists": [
+        {
+          "name": "Mas",
+          "url": "https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm"
+        }
+      ],
+      "duration_ms": 231438,
+      "name": "That's What I Call Free",
+      "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1123,42 +1123,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Who May Ascend",
-        "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
-      },
-      "artists": [
-        {
-          "name": "Cross Church Worship",
-          "url": "https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Who May Ascend",
-      "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Better Plan",
-        "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
-      },
-      "artists": [
-        {
-          "name": "eightFour",
-          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
-        },
-        {
-          "name": "Calah Mikal",
-          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
-        }
-      ],
-      "duration_ms": 238152,
-      "name": "Better Plan",
-      "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
       },
@@ -1171,6 +1135,22 @@
       "duration_ms": 387536,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Who May Ascend",
+        "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
+      },
+      "artists": [
+        {
+          "name": "Cross Church Worship",
+          "url": "https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Who May Ascend",
+      "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1191,6 +1171,26 @@
       "duration_ms": 253058,
       "name": "Grace after Grace",
       "url": "https://open.spotify.com/track/5h3Zp8z3UP5zqsuUIFgHRf"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Better Plan",
+        "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
+      },
+      "artists": [
+        {
+          "name": "eightFour",
+          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
+        },
+        {
+          "name": "Calah Mikal",
+          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
+        }
+      ],
+      "duration_ms": 238152,
+      "name": "Better Plan",
+      "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
     },
     {
       "added_at": "2024-08-03 00:38:12",

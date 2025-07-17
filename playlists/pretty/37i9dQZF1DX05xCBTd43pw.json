@@ -431,22 +431,6 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
         "name": "Fire To The Sky",
         "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 165206,
       "name": "Fire To The Sky",
       "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 164066,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
         "name": "Full 180",
         "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 216249,
       "name": "Full 180",
       "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
-        "name": "When We Get There We'll Know 2.0",
-        "url": "https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN"
-      },
-      "artists": [
-        {
-          "name": "Marius Bear",
-          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Toxic Love",
-      "url": "https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
         "name": "Tontauben",
         "url": "https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
-        "name": "New Her",
-        "url": "https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ"
+        "name": "When We Get There We'll Know 2.0",
+        "url": "https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN"
       },
       "artists": [
         {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+          "name": "Marius Bear",
+          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
         }
       ],
-      "duration_ms": 180750,
-      "name": "New Her",
-      "url": "https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr"
+      "duration_ms": 193626,
+      "name": "Toxic Love",
+      "url": "https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -1011,6 +995,22 @@
       "duration_ms": 220488,
       "name": "Leave The Light On",
       "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "New Her",
+        "url": "https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "New Her",
+      "url": "https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
-        "name": "Since We Met",
-        "url": "https://open.spotify.com/album/7ID8FWy8D2I6A8J62xHrHh"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 144373,
-      "name": "Since We Met",
-      "url": "https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
         "name": "Chlorine",
         "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 180590,
       "name": "Chlorine",
       "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "Since We Met",
+        "url": "https://open.spotify.com/album/7ID8FWy8D2I6A8J62xHrHh"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 144373,
+      "name": "Since We Met",
+      "url": "https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -1403,54 +1403,18 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
-        "name": "House On Fire (Duet Version)",
-        "url": "https://open.spotify.com/album/7dH9OmKx2qWo6zGfd9brou"
+        "name": "What if It All Works Out",
+        "url": "https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        },
-        {
-          "name": "Milow",
-          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
         }
       ],
-      "duration_ms": 179561,
-      "name": "House On Fire - Duet Version",
-      "url": "https://open.spotify.com/track/3D5RwZZhMiWkI2RrIhyenr"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
-        "name": "The Wrong Cards",
-        "url": "https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA"
-      },
-      "artists": [
-        {
-          "name": "Lost in Lona",
-          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "The Wrong Cards",
-      "url": "https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
-        "name": "Rollen in den Norden",
-        "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 150648,
-      "name": "Rollen in den Norden",
-      "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
+      "duration_ms": 213494,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -1471,6 +1435,42 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
+        "name": "House On Fire (Duet Version)",
+        "url": "https://open.spotify.com/album/7dH9OmKx2qWo6zGfd9brou"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        },
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        }
+      ],
+      "duration_ms": 179561,
+      "name": "House On Fire - Duet Version",
+      "url": "https://open.spotify.com/track/3D5RwZZhMiWkI2RrIhyenr"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "Rollen in den Norden",
+        "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 150648,
+      "name": "Rollen in den Norden",
+      "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
         "name": "Modern Roses",
         "url": "https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf"
       },
@@ -1487,34 +1487,18 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
-        "name": "What if It All Works Out",
-        "url": "https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA"
+        "name": "The Wrong Cards",
+        "url": "https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA"
       },
       "artists": [
         {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+          "name": "Lost in Lona",
+          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
         }
       ],
-      "duration_ms": 213494,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
-        "name": "Hinterem Mond",
-        "url": "https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR"
-      },
-      "artists": [
-        {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/320FkP0qHyl7w1a1oDpyhE"
+      "duration_ms": 174826,
+      "name": "The Wrong Cards",
+      "url": "https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -1531,6 +1515,22 @@
       "duration_ms": 164089,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "Hinterem Mond",
+        "url": "https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR"
+      },
+      "artists": [
+        {
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/320FkP0qHyl7w1a1oDpyhE"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        }
+      ],
+      "duration_ms": 164425,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/4cVvZI4iqSdk3pCsuQQ0HZ"
       },
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
+        "name": "Meteoriti",
+        "url": "https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp"
       },
       "artists": [
         {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
         }
       ],
-      "duration_ms": 164425,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
+      "duration_ms": 167340,
+      "name": "Meteoriti",
+      "url": "https://open.spotify.com/track/5v97denncuVynKzc9bdhfD"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -1655,22 +1671,6 @@
       "duration_ms": 163712,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
-        "name": "Meteoriti",
-        "url": "https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp"
-      },
-      "artists": [
-        {
-          "name": "Valentino Vivace",
-          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
-        }
-      ],
-      "duration_ms": 167340,
-      "name": "Meteoriti",
-      "url": "https://open.spotify.com/track/5v97denncuVynKzc9bdhfD"
     }
   ],
   "unique_name": "Swiss Made",

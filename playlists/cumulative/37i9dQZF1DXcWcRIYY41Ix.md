@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lorena Álvarez.
 
-871 songs - 2 day 3 hr 51 min
+872 songs - 2 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Los Pájaros de Ciudad](https://open.spotify.com/track/07IHpkOUmcE2wlNbWYnxQ9) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Los Pájaros de Ciudad](https://open.spotify.com/album/5ZFzN977yU8AAMkUmZwVfQ) | 3:19 | 2021-12-24 | 2022-04-29 |
 | [Luces](https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 3:22 | 2023-12-15 | 2024-01-06 |
 | [Luces encendidas](https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Mar de Ardora](https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq) | 4:28 | 2025-02-13 | 2025-05-25 |
+| [Lucha de gigantes \- En Vivo](https://open.spotify.com/track/13VfZgdwdjFf3AZRC3zukK) | [Fran Fernández](https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe), [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA) | [Lucha de gigantes \(En Vivo\)](https://open.spotify.com/album/6Q32G7w4yVCokwjR0Fn9su) | 4:48 | 2025-07-04 |  |
 | [Luchín](https://open.spotify.com/track/6DGmZzSK5KJebAw3CrAmaa) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad) | [Luchín](https://open.spotify.com/album/2pz5K8WJlwSCMxpVNZHxRB) | 4:04 | 2024-04-19 | 2024-07-27 |
 | [Luciérnagas](https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o) | [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [La Vuelta a Casa](https://open.spotify.com/album/7sUcR3eGAWPgek9ghZKSpI) | 3:30 | 2023-06-23 | 2023-12-14 |
 | [Lucía](https://open.spotify.com/track/0KjihOh3J76yY4su4hW4UI) | [Mayte Martin](https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd) | [Tatuajes](https://open.spotify.com/album/3fvGKjp0LTZSwFtDqqtn7L) | 3:25 | 2024-03-08 | 2024-06-12 |
@@ -872,7 +873,7 @@
 | [¡Desaparece!](https://open.spotify.com/track/1NwIqopnNT8SGtNUMPs5f1) | [Pez Mago](https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY) | [¡Desaparece!](https://open.spotify.com/album/1AXXtUOauS7V45A2xFksu7) | 3:45 | 2025-01-16 | 2025-02-14 |
 | [¡Qué bonito es vivir!](https://open.spotify.com/track/1bZZOc7OZOI0lH1zI72MtY) | [La Helen](https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7) | [¡Qué bonito es vivir!](https://open.spotify.com/album/4CPaFD65cexVMdHVbCoddz) | 3:37 | 2024-10-25 | 2024-12-29 |
 | [Ámbar y el Mar](https://open.spotify.com/track/2htIgCfBPCV3dktlvtSSa9) | [Íñigo Merino](https://open.spotify.com/artist/4RcxB8P0t3Pz6gaOHTFgWm), [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Lo de Dentro](https://open.spotify.com/album/02brbroQgEfCvcefeXoFBe) | 3:52 | 2022-02-04 | 2022-05-26 |
-| [Ándate \- Reversión](https://open.spotify.com/track/38Oju5aqwHRAageQuYfrdL) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Ketekalles](https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/1sQOiViouYbWFukqN2iNxi) | 3:14 | 2025-06-06 |  |
+| [Ándate \- Reversión](https://open.spotify.com/track/38Oju5aqwHRAageQuYfrdL) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Ketekalles](https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/1sQOiViouYbWFukqN2iNxi) | 3:14 | 2025-06-06 | 2025-07-17 |
 | [Ángeles](https://open.spotify.com/track/1rLKzfFAUwUXlWK5ocaD7m) | [Solomon Zu](https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw) | [Ángeles](https://open.spotify.com/album/7FeTKiOKGu7URr1mxjLMzs) | 3:44 | 2024-04-19 | 2024-05-04 |
 | [Árbol](https://open.spotify.com/track/5SZhccdhHvoYrmmVaLUoMK) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk), [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A) | [Árbol](https://open.spotify.com/album/19VxCPNmYESdns8Wf3Behp) | 4:12 | 2024-10-01 | 2024-11-08 |
 | [Ícaro \- Versión Acústica](https://open.spotify.com/track/4M0NSb0yhgjdLnUIBnMlhE) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Ícaro \(Versión Acústica\)](https://open.spotify.com/album/75vWmeMVI6mIJZSMAGxKSs) | 3:33 | 2023-09-29 | 2023-11-11 |

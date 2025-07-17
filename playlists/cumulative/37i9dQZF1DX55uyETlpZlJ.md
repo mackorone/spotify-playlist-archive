@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-527 songs - 1 day 5 hr 35 min
+528 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [D Boss Nera Maathu](https://open.spotify.com/track/6zQCYjmxhlRqBrq08PH4WW) | [Harshit Acharya](https://open.spotify.com/artist/6igHsxUrTKAq3LLGS0AX6x), [N Raaj](https://open.spotify.com/artist/2ZWut9Ob2PPRPXafTWXf5P) | [D Boss Nera Maathu](https://open.spotify.com/album/31g7eocmCwHhmzzZd3VCUC) | 3:27 | 2024-11-26 | 2025-03-18 |
 | [Daari \- The Way of Life](https://open.spotify.com/track/0upvnzpFrtV9TqTA7cfJhC) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Daari \- The Way of Life](https://open.spotify.com/album/5LzEpngZmmTKQ228rk64Ln) | 4:15 | 2023-12-07 | 2024-02-17 |
 | [Dark](https://open.spotify.com/track/65IhQPkC4vz6a8ApcYrfG7) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09), [Kritarth](https://open.spotify.com/artist/4RzDP3bbciwBv8dMmSFWXW) | [Dark](https://open.spotify.com/album/2ugY39NzlA62g1Ct0jT5aH) | 1:53 | 2025-02-26 |  |
+| [Dark Side](https://open.spotify.com/track/3WfZFECvaHHGgLiRjgj0ze) | [Sagar Gowda](https://open.spotify.com/artist/7gTnN6gHfJ4BqHA6yyz3U9) | [Dark Side](https://open.spotify.com/album/4QCGjjxgY4SjDNvmNJWK1D) | 3:20 | 2025-07-16 |  |
 | [Dear Nikki](https://open.spotify.com/track/1nq7A0Za0wROknaJE2IsJu) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV) | [Dear Nikki](https://open.spotify.com/album/1ZgGzdKQbbycNovfxMWqFh) | 3:29 | 2024-12-06 | 2025-04-29 |
 | [Devathe](https://open.spotify.com/track/3ZXXhJW1YazmSPzvjKefUf) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV), [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Devathe](https://open.spotify.com/album/4DeH8ab6MWaXJMWVuZkG7p) | 2:43 | 2024-02-14 | 2024-02-17 |
 | [Dhwamsa](https://open.spotify.com/track/6sJAKF9UaERL7YrtKZRA02) | [Mohith Gowda](https://open.spotify.com/artist/2DAJsSSNE1YOAW5GB42RuJ), [Yxung Miller](https://open.spotify.com/artist/2j2wfGvDhaAR8RVqjzlLpS) | [Dhwamsa](https://open.spotify.com/album/7gfsBikbTwo0UhYsWoKWzp) | 2:55 | 2025-05-30 |  |
@@ -156,7 +157,7 @@
 | [Gelthinallo](https://open.spotify.com/track/67aund6DgSswfEy1lkMyZD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Gelthinallo](https://open.spotify.com/album/1lwlU3A6anSNGgR8U0gZ1U) | 3:31 | 2024-03-14 | 2024-08-04 |
 | [Good Night](https://open.spotify.com/track/2on44Nj5lhjWRTcdJfVcu8) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Good Night](https://open.spotify.com/album/6zCkPLOYgZWOy2dPPkB7ac) | 3:52 | 2022-10-20 | 2023-12-20 |
 | [Good Vibe](https://open.spotify.com/track/1sAUWodQtglnQ3RqVbRLxj) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Good Vibe](https://open.spotify.com/album/52RcOVDsrNbqrDAnCesUnq) | 2:17 | 2024-02-26 | 2024-08-13 |
-| [Gundige](https://open.spotify.com/track/4Bo1YL88CMFQHL8XbjL3jT) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Gundige](https://open.spotify.com/album/3RGZ5Ru3es7BmdlKM4Eq1A) | 2:51 | 2025-02-24 |  |
+| [Gundige](https://open.spotify.com/track/4Bo1YL88CMFQHL8XbjL3jT) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Gundige](https://open.spotify.com/album/3RGZ5Ru3es7BmdlKM4Eq1A) | 2:51 | 2025-02-24 | 2025-07-17 |
 | [Gutuku Namma Baalu](https://open.spotify.com/track/1cGWcK60YEqsjLjZvr5vq9) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Lovv Pran Mehta](https://open.spotify.com/artist/6Vlrxk75BYiCSp5YvqipC7) | [Gutuku Namma Baalu](https://open.spotify.com/album/292V9IeU6FaH9qkskq0JKy) | 4:05 | 2025-03-17 | 2025-05-17 |
 | [Haala](https://open.spotify.com/track/3Toq09j2dRtOfMMeikNEJh) | [Lil\-G](https://open.spotify.com/artist/3Fv07lTLwkjvYHWW4dibXQ) | [Haala](https://open.spotify.com/album/0NjBDS09YIeB5km2sEalGb) | 4:52 | 2024-06-11 | 2024-11-20 |
 | [Haaralu](https://open.spotify.com/track/1s29dZ1OkcqBe4kzD3T0zB) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Haaralu](https://open.spotify.com/album/3YBOimXmFBCUNR53TlUDPX) | 2:57 | 2023-06-29 | 2024-01-19 |

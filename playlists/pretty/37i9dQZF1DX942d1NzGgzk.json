@@ -1,6 +1,6 @@
 {
   "description": "The latest of R&B in the UK. Cover: CARI",
-  "num_followers": 157888,
+  "num_followers": 157949,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-07-10 23:00:08",
       "album": {
+        "name": "traces",
+        "url": "https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f"
+      },
+      "artists": [
+        {
+          "name": "TYLER LEWIS",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+        }
+      ],
+      "duration_ms": 205597,
+      "name": "traces",
+      "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
+    },
+    {
+      "added_at": "2025-07-10 23:00:08",
+      "album": {
         "name": "Only Happen",
         "url": "https://open.spotify.com/album/4MEMDFaYFsHgCrTzwbufQR"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2025-07-10 23:00:08",
       "album": {
-        "name": "traces",
-        "url": "https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f"
-      },
-      "artists": [
-        {
-          "name": "TYLER LEWIS",
-          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
-        }
-      ],
-      "duration_ms": 205597,
-      "name": "traces",
-      "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
-    },
-    {
-      "added_at": "2025-07-10 23:00:08",
-      "album": {
         "name": "TWENTY TWENTY TYDE",
         "url": "https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2025-07-10 23:00:08",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/0JGvFi9RkJnUQA6Kb5QOOW"
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM"
       },
       "artists": [
         {
-          "name": "Alana Maria",
-          "url": "https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn"
+          "name": "ALIA LARA",
+          "url": "https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO"
         }
       ],
-      "duration_ms": 131267,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/5pMynBlrQdGe6fGLAd477F"
+      "duration_ms": 212000,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW"
     },
     {
       "added_at": "2025-07-10 23:00:08",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-07-10 23:00:08",
       "album": {
-        "name": "Follow You",
-        "url": "https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM"
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/0JGvFi9RkJnUQA6Kb5QOOW"
       },
       "artists": [
         {
-          "name": "ALIA LARA",
-          "url": "https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO"
+          "name": "Alana Maria",
+          "url": "https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW"
+      "duration_ms": 131267,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/5pMynBlrQdGe6fGLAd477F"
     },
     {
       "added_at": "2025-07-10 23:00:08",
@@ -779,22 +779,18 @@
     {
       "added_at": "2025-07-10 23:00:08",
       "album": {
-        "name": "She Said",
-        "url": "https://open.spotify.com/album/3To0wqAZiL8bcjRK7XsSK5"
+        "name": "New Hands/Writers Block",
+        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
       },
       "artists": [
         {
-          "name": "Carla Prata",
-          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
-        },
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
         }
       ],
-      "duration_ms": 148041,
-      "name": "She Said",
-      "url": "https://open.spotify.com/track/24WrsFDNWrRiyBnJa5eSJj"
+      "duration_ms": 174015,
+      "name": "New Hands/Writers Block",
+      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
     },
     {
       "added_at": "2025-07-10 23:00:08",
@@ -815,18 +811,22 @@
     {
       "added_at": "2025-07-10 23:00:08",
       "album": {
-        "name": "New Hands/Writers Block",
-        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
+        "name": "She Said",
+        "url": "https://open.spotify.com/album/3To0wqAZiL8bcjRK7XsSK5"
       },
       "artists": [
         {
-          "name": "Liv Walker",
-          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
         }
       ],
-      "duration_ms": 174015,
-      "name": "New Hands/Writers Block",
-      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
+      "duration_ms": 148041,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/24WrsFDNWrRiyBnJa5eSJj"
     },
     {
       "added_at": "2025-07-10 23:00:08",

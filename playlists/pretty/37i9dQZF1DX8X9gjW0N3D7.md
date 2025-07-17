@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: JF Pauzé
+> De la musique québécoise pour tous les goûts\. Photo: Cœur De Pirate
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,853 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,917 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ballon\-sonde](https://open.spotify.com/track/1jYGkYSvLe066L9eb4yz6X) | [JF Pauzé](https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d) | [Ballon\-sonde](https://open.spotify.com/album/5u1Db0wkJP7bOyKcdq71Ft) | 2:58 |
-| 2 | [Je marche comme on tombe](https://open.spotify.com/track/4WAqdaelI3E9Gsqj8zk7lg) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Je marche comme on tombe](https://open.spotify.com/album/6vfFn1ttiRfvZMyAcxJvYv) | 3:24 |
-| 3 | [Jouer](https://open.spotify.com/track/2N3hy5pmIniu74CYQ4NgdL) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Jouer](https://open.spotify.com/album/5Erz4Q7ny0yoo09VTycNEg) | 3:06 |
-| 4 | [Château de sable](https://open.spotify.com/track/4c9YqPthFT6LIFSQehoZre) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Château de sable](https://open.spotify.com/album/1mhXgb3EuFPMO58Pv3K4d2) | 3:18 |
+| 1 | [Château de sable](https://open.spotify.com/track/4c9YqPthFT6LIFSQehoZre) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Château de sable](https://open.spotify.com/album/1mhXgb3EuFPMO58Pv3K4d2) | 3:18 |
+| 2 | [Ballon\-sonde](https://open.spotify.com/track/1jYGkYSvLe066L9eb4yz6X) | [JF Pauzé](https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d) | [Ballon\-sonde](https://open.spotify.com/album/5u1Db0wkJP7bOyKcdq71Ft) | 2:58 |
+| 3 | [Je marche comme on tombe](https://open.spotify.com/track/4WAqdaelI3E9Gsqj8zk7lg) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Je marche comme on tombe](https://open.spotify.com/album/6vfFn1ttiRfvZMyAcxJvYv) | 3:24 |
+| 4 | [Jouer](https://open.spotify.com/track/2N3hy5pmIniu74CYQ4NgdL) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Jouer](https://open.spotify.com/album/5Erz4Q7ny0yoo09VTycNEg) | 3:06 |
 | 5 | [Drôle de temps](https://open.spotify.com/track/5jyVXKVgeXVhErGGIEFMyv) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Drôle de temps](https://open.spotify.com/album/0WsI0ksQOfwX73ZE4YpaJs) | 3:43 |
 | 6 | [Ensemble \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:52 |
 | 7 | [minable](https://open.spotify.com/track/5OQfQjHdIyAcgQNnC8YQnR) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [minable](https://open.spotify.com/album/3UlDYwWkphGpLlyfmGxSsh) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [Shalala](https://open.spotify.com/track/5xvpBqznG7UWA7f8yAWTuE) | [La Chicane](https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI) | [Shalala](https://open.spotify.com/album/46aFUJDVycrvzzrdXdEbZt) | 2:42 |
 | 75 | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/track/7zxEFmvPTSEPpkSY6FL264) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK) | 2:20 |
 
-Snapshot ID: `aGdR3wAAAAD5UAgvnvP7nrDy5dpYrftw`
+Snapshot ID: `aHfLPAAAAAC3vqzlAG2d/JXkzx9EXfGY`

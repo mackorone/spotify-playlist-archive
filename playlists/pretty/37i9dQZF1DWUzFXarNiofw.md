@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: FLO & KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,654 likes - 275 songs - 14 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,748 likes - 275 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 39 | [Over You / Under You](https://open.spotify.com/track/2j6vaJOXs2f9FxjbIDWcfP) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3), [Jayshawn Champion](https://open.spotify.com/artist/5SIDcs2nfIqECUoDMcWxF1) | [Over You / Under You](https://open.spotify.com/album/7a3EPG0uc64E5O8UfClRGi) | 3:43 |
 | 40 | [Eventually](https://open.spotify.com/track/2YzpSHWKCU2s6lISlV5SMi) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Eventually](https://open.spotify.com/album/0MhUl1tosk56eusAWRZlxo) | 3:12 |
 | 41 | [Unpretty](https://open.spotify.com/track/1cHrAK1BDBW1W9BPpuMiik) | [CHOSZN](https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK) | [Unpretty](https://open.spotify.com/album/0ySJ71vNBWwMJYodKYhNFA) | 2:45 |
-| 42 | [2UP \(feat\. Because\)](https://open.spotify.com/track/2N5lE2ccKPzY2b1va7MTlo) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [2UP \(feat\. Because\)](https://open.spotify.com/album/3AI2Mi1fAPsN7m0FnBAeo5) | 2:45 |
+| 42 | [2UP \(with Because\)](https://open.spotify.com/track/2N5lE2ccKPzY2b1va7MTlo) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [2UP \(with Because\)](https://open.spotify.com/album/3AI2Mi1fAPsN7m0FnBAeo5) | 2:45 |
 | 43 | [Rhythm](https://open.spotify.com/track/75DV6KHoL58McX0a9S8vap) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Rhythm](https://open.spotify.com/album/7cqi9bRIdSljdeDXdWDgB0) | 2:37 |
 | 44 | [luh uh uh](https://open.spotify.com/track/68PU92ex0jfGqB14m3cHkc) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [luh uh uh](https://open.spotify.com/album/1cKUUFPYrzmHao7FtheLGq) | 3:12 |
 | 45 | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/track/0IHLe0jsqkQokL1At1vwBS) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/album/11BEsLzTeQyffuSXa3W6Fe) | 3:19 |

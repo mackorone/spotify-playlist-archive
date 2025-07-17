@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Syd
 
-3,074 songs - 7 day 4 hr 2 min
+3,075 songs - 7 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2453,6 +2453,7 @@
 | [So Alive \- Jacques Greene Remix](https://open.spotify.com/track/6JPkbXQQNVla6ilOgJ8Tsu) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [So Alive \(Jacques Greene Remix\)](https://open.spotify.com/album/42ZcLRLCaoyGDkgrwf6OmV) | 5:11 | 2023-11-03 | 2023-12-16 |
 | [So and So](https://open.spotify.com/track/4jkQY3kryVNYe4jGJ3nChu) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [So and So / Areyoudown? Pt\. 2](https://open.spotify.com/album/2jz9qhYEGmkj3fHA7C8nBx) | 2:01 | 2020-11-25 | 2021-02-16 |
 | [So Bad](https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq) | 3:33 | 2022-08-19 | 2022-11-12 |
+| [So Be It](https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 3:14 | 2025-07-16 |  |
 | [So Clear](https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [So Clear](https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf) | 3:00 | 2022-09-09 | 2022-10-08 |
 | [So Far So Good](https://open.spotify.com/track/4zyayajdDegf9Hv6eG9nXQ) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [So Far So Good](https://open.spotify.com/album/01hpr3mSwL1JeI8DE5aGDn) | 3:48 | 2023-08-04 | 2023-09-09 |
 | [So Good](https://open.spotify.com/track/0xjpgDNFyekbjessCBaaBq) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 4:26 | 2019-07-30\* | 2019-08-09 |

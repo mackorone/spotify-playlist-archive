@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-253 songs - 17 hr 5 min
+254 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 | 2021-10-31 | 2024-06-23 |
 | [Certainly \(Live\)](https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Worship Anywhere: Live from Camp NewBreed](https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp) | 4:54 | 2024-07-26 | 2025-04-05 |
 | [Christ The Lord Is with Me \(with Amanda Cook & Wonder Grace Gretzinger\)](https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Wonder Grace Gretzinger](https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:26 | 2021-10-31 | 2024-07-27 |
-| [Closer to Heaven](https://open.spotify.com/track/7ygoUlBTpmN7TAnHT4g90U) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF), [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Closer to Heaven](https://open.spotify.com/album/3t6aAyFnQDL57BHpCOKKbN) | 3:16 | 2025-04-05 |  |
+| [Closer to Heaven](https://open.spotify.com/track/7ygoUlBTpmN7TAnHT4g90U) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF), [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Closer to Heaven](https://open.spotify.com/album/3t6aAyFnQDL57BHpCOKKbN) | 3:16 | 2025-04-05 | 2025-07-17 |
 | [Clouds](https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [Clouds](https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii) | 3:39 | 2021-10-31 |  |
 | [Come Back \(Psalm 80\)](https://open.spotify.com/track/0pHk1i5G3ubku2jBQ1dr0z) | [Melanie Waldman](https://open.spotify.com/artist/4v8E8IXJ7pnmbQvMhQxjjd) | [Come Back \(Psalm 80\)](https://open.spotify.com/album/0yRVfrV533vgv49LSdJjJK) | 3:42 | 2024-07-26 | 2025-04-05 |
 | [Constellations](https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 | 2021-10-31 | 2024-04-19 |
@@ -127,6 +127,7 @@
 | [Let It Be So](https://open.spotify.com/track/4H5YkflQqqE9sUNy2z90n8) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Let It Be So](https://open.spotify.com/album/6iBkN0coZ7G9wILcvWCi0g) | 5:00 | 2024-07-26 | 2025-04-05 |
 | [Let Not Your Heart Be Troubled](https://open.spotify.com/track/4Aq8BAQomYfUVcxTxc4FCA) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Let Not Your Heart Be Troubled](https://open.spotify.com/album/2Hn6rWDnHgKpPOUR8J6g1k) | 4:16 | 2023-02-07 | 2024-06-23 |
 | [Life Again](https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:24 | 2024-07-26 |  |
+| [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 | 2025-04-05 |  |
 | [Lightning](https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Harolddd](https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V) | [Lightning](https://open.spotify.com/album/0egIrc1XFeHAYIMbhIVjcN) | 3:34 | 2024-06-23 | 2024-07-27 |
 | [Like A Kid](https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Glasshouse](https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W) | 3:45 | 2024-06-23 |  |
 | [Like Everybody Else](https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Like Everybody Else](https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK) | 3:12 | 2025-04-05 |  |

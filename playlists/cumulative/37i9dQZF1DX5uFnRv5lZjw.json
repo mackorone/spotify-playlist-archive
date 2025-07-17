@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 131785,
       "name": "Agilis",
       "url": "https://open.spotify.com/track/4FST1ZxPQbuH0YMv8fCxUu"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 125966,
       "name": "Flying",
       "url": "https://open.spotify.com/track/5LnE41JDvVICQgfw8VZ61k"
@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Light Beyond the Sea",
+        "url": "https://open.spotify.com/album/5wyOeH6huy4171uMSekTgw"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126105,
+      "name": "Light Beyond the Sea",
+      "url": "https://open.spotify.com/track/04NDnHXLfZI2opryvLW2o5"
+    },
+    {
+      "album": {
         "name": "Little House In Silver Lake",
         "url": "https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs"
       },
@@ -920,6 +938,24 @@
       "duration_ms": 129000,
       "name": "Olivanders",
       "url": "https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu"
+    },
+    {
+      "album": {
+        "name": "Out of Sight, Within Reach",
+        "url": "https://open.spotify.com/album/4hpQy0MfXPoBLeQwjmwUMe"
+      },
+      "artists": [
+        {
+          "name": "Elion Headford",
+          "url": "https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145730,
+      "name": "Out of Sight, Within Reach",
+      "url": "https://open.spotify.com/track/1WpLGmCjRHeOK02a6twUyL"
     },
     {
       "album": {
@@ -1064,6 +1100,24 @@
       "duration_ms": 125874,
       "name": "Sanshi Sumei",
       "url": "https://open.spotify.com/track/4HMgsKppAisNBfX8oGmRma"
+    },
+    {
+      "album": {
+        "name": "Santa Barbara",
+        "url": "https://open.spotify.com/album/4PvqoY4bru4pvBdCsHwNnl"
+      },
+      "artists": [
+        {
+          "name": "aung",
+          "url": "https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/16nTxk9TksPWSrQDRc6SeU"
     },
     {
       "album": {
@@ -1384,10 +1438,28 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 174028,
       "name": "The Traveler",
       "url": "https://open.spotify.com/track/5ZXNWcTvp4L7iMKxzp0Ozj"
+    },
+    {
+      "album": {
+        "name": "Threads Of Yesterday",
+        "url": "https://open.spotify.com/album/59y5n56VVbwCxeH9JUq18I"
+      },
+      "artists": [
+        {
+          "name": "Matteus Fortini",
+          "url": "https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144354,
+      "name": "Threads Of Yesterday",
+      "url": "https://open.spotify.com/track/7pSLHykmfiNHGVO23UbAUQ"
     },
     {
       "album": {
@@ -1406,6 +1478,24 @@
       "duration_ms": 126946,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/2mzjMrdrxlOpUatw2HT7Me"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/3M1oq7TsLVIYBgUaxgUOzf"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139087,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5QyK26ErYWA6zIzqsSPnYW"
     },
     {
       "album": {

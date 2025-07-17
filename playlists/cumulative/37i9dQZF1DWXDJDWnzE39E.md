@@ -4,7 +4,7 @@
 
 > A salute to all of the women who open up the pit\. Cover: Courtney LaPlante of Spiritbox
 
-430 songs - 1 day 3 hr 28 min
+431 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Entertain You](https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:31 | 2023-05-18 |  |
 | [Entertain You](https://open.spotify.com/track/70HVKogWbgiA4XaXa2GowH) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Entertain You](https://open.spotify.com/album/5fE1zz1xFy9wRLmruEo9A3) | 3:31 | 2020-12-07\* | 2022-07-29 |
 | [Essence of Creation](https://open.spotify.com/track/3bBNyJyFq8URxkT4HEH0CV) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Essence of Creation](https://open.spotify.com/album/3DQp7BgAjsEc0L6ZKnsCjx) | 3:40 | 2020-12-07\* | 2022-07-28 |
+| [Eternal December](https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Eternal December](https://open.spotify.com/album/0NSRVjbWJXMr0X2cv54szI) | 3:49 | 2025-04-25 |  |
 | [Eternal Spirits](https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Eternal Spirits](https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb) | 3:41 | 2023-03-02 | 2023-04-09 |
 | [Eternal Wheel Of Time And Space](https://open.spotify.com/track/5iIcD91VQtDPPXRzyUKg1m) | [Noora Louhimo Experience](https://open.spotify.com/artist/3GN2WYCDZUjOFlHMwZjcCA) | [Eternal Wheel Of Time And Space](https://open.spotify.com/album/6zXIyHCsYlwXrL3WL5ZKgz) | 6:44 | 2021-02-06 | 2022-07-29 |
 | [Evermore](https://open.spotify.com/track/7eBpcTDLZAYWL9diJcXOqa) | [Divine Ascension](https://open.spotify.com/artist/37ZPyBkGrrKwdNiNWUgIqS) | [Evermore](https://open.spotify.com/album/3iLJOV4G2NzbIOcHZlgEJX) | 6:19 | 2020-12-07\* | 2020-12-11 |
@@ -410,7 +411,7 @@
 | [Vertigo](https://open.spotify.com/track/1glkXrrq1qC6lhcNijksWb) | [Sumo Cyco](https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4) | [Vertigo](https://open.spotify.com/album/2zx6YAkUgWJDY1EyLF28Jc) | 3:09 | 2021-04-10 | 2022-07-29 |
 | [Viral](https://open.spotify.com/track/1iqgx6BkWYRorWDLwkpMJZ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Viral](https://open.spotify.com/album/4yaARCXEEPrYUpdHFP45Aq) | 3:01 | 2020-12-07\* | 2020-12-11 |
 | [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-03-07 |  |
-| [Waiting For The Big One](https://open.spotify.com/track/3pfLenUsy8pXLRuRjt1LZN) | [Femme Fatale](https://open.spotify.com/artist/0xDDGefCrbhIgwbzZkeNsm) | [Femme Fatale](https://open.spotify.com/album/118do7wXbnu7lophp2Jhpj) | 4:24 | 2025-03-07 |  |
+| [Waiting For The Big One](https://open.spotify.com/track/3pfLenUsy8pXLRuRjt1LZN) | [Femme Fatale](https://open.spotify.com/artist/0xDDGefCrbhIgwbzZkeNsm) | [Femme Fatale](https://open.spotify.com/album/118do7wXbnu7lophp2Jhpj) | 4:24 | 2025-03-07 | 2025-07-17 |
 | [Wake The Dead](https://open.spotify.com/track/2Jvrhhgjyy5Tu8S8Is8sFb) | [September Mourning](https://open.spotify.com/artist/3u6jopsj6GeZAHJAmfUxk1) | [Wake The Dead](https://open.spotify.com/album/73Pgfi0hoibHQyesMK8x2R) | 3:26 | 2020-12-11 | 2022-07-29 |
 | [Wanted and Wild](https://open.spotify.com/track/71KBRRkf9uoIdW1sZ9zD3V) | [MoonSun](https://open.spotify.com/artist/1nSYsxBoOs3Cvi6j6WDXdS) | [Escapalace](https://open.spotify.com/album/3h7npJD5gTvtgblS9Zhqst) | 3:31 | 2020-12-07\* | 2022-07-17 |
 | [WARZ0NE](https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [WARZ0NE](https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn) | 2:38 | 2024-03-26 | 2024-10-03 |

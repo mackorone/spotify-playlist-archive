@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: disiz
 
-3,407 songs - 7 day 12 hr 7 min
+3,408 songs - 7 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,6 +601,7 @@
 | [Commando](https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Commando](https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx) | 2:51 | 2023-10-06 | 2023-12-16 |
 | [Comme au cinéma](https://open.spotify.com/track/0HQNKBNF60mEzX4uvLZHWj) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl), [Ogee Rodman](https://open.spotify.com/artist/2OceOdLERXKBklcwbmzhjT) | [Plaisirs & terreurs de la vie domestique](https://open.spotify.com/album/6EV5e75ret5X9pHNkbeKv8) | 2:57 | 2022-04-22 | 2022-05-07 |
 | [Comme au hockey](https://open.spotify.com/track/6u3B0R9Q160QrOGvxzzuQ8) | [Danny Boudreau](https://open.spotify.com/artist/4m1rTf3uGb1kzoZVnJwzpz) | [Traverser le désert](https://open.spotify.com/album/1nU20I0gf9qaVfRFNmmceq) | 3:34 | 2022-10-28 | 2022-11-12 |
+| [Comme Avant](https://open.spotify.com/track/00qSqRqxO8ht5KAfylLqMh) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Comme Avant](https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi) | 3:39 | 2025-07-11 |  |
 | [Comme de la ouate](https://open.spotify.com/track/7Ds8ByXNh6LGIVxxGXdMS0) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA) | [Num2Num](https://open.spotify.com/album/0AvpI4m1NU8bfqTNyGyklR) | 3:47 | 2022-10-28 | 2022-11-12 |
 | [Comme la mer](https://open.spotify.com/track/43OJDSAjDYdKthKMgwYVWS) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc), [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Comme la mer](https://open.spotify.com/album/7HnS12GwTNp8WDo48ZkiV8) | 4:14 | 2025-01-10 | 2025-01-18 |
 | [Comme les autres](https://open.spotify.com/track/6AH4v8wuUwvof6g3KUqrcU) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Comme les autres](https://open.spotify.com/album/4Vi693DCvcgERzHeRn4grk) | 2:46 | 2021-12-31 | 2022-01-22 |
@@ -713,7 +714,7 @@
 | [Danger](https://open.spotify.com/track/4JdgWyLRVKbc1GIt6lQq65) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Danger](https://open.spotify.com/album/2lPUIS3WxptrQYXAmJTAoD) | 3:04 | 2023-06-23 | 2023-07-01 |
 | [Danger](https://open.spotify.com/track/4PKsZEAxcAPV6q6MeNaIGz) | [Irdens Exantus](https://open.spotify.com/artist/4VjwwRk7cNv72B1okswQkz) | [Danger](https://open.spotify.com/album/34SPV2ljBQxMKPm4iCMWrN) | 3:06 | 2025-06-13 | 2025-06-21 |
 | [Danger](https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh) | [Rimkus](https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Fracturé](https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw) | 3:58 | 2024-04-19 | 2024-06-08 |
-| [Dans 10 ans](https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ÉBĒM](https://open.spotify.com/album/4UPHNEDkuwpqz1GlcFOm2s) | 3:31 | 2025-06-27 |  |
+| [Dans 10 ans](https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ÉBĒM](https://open.spotify.com/album/4UPHNEDkuwpqz1GlcFOm2s) | 3:31 | 2025-06-27 | 2025-07-17 |
 | [Dans l'air du temps](https://open.spotify.com/track/6TPu4Tx9593EPKFj8Tvrbh) | [Christophe Martin](https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Dans l'air du temps](https://open.spotify.com/album/7cCGWUrcIqIW2wnv1rBaH8) | 2:52 | 2025-04-25 | 2025-05-03 |
 | [Dans l'bon vieux temps](https://open.spotify.com/track/47ziVutbYvEpbNr2uJj27v) | [Ben Claveau](https://open.spotify.com/artist/67R1we2Xuxf4fwUewcFQwq) | [La route est longue jusqu'au top](https://open.spotify.com/album/6MC5y0S4KXafxGhM2Bk2Mm) | 2:51 | 2022-04-15 | 2022-04-23 |
 | [Dans l'espace](https://open.spotify.com/track/4f4EHBSbSB4sOQ3JtTewXk) | [Menura](https://open.spotify.com/artist/2JjA9sCrPDgdweBVtimwzp) | [Dans l'espace](https://open.spotify.com/album/3qWXJlSwkXanhoPwBXdtcN) | 2:44 | 2022-04-08 | 2022-04-16 |

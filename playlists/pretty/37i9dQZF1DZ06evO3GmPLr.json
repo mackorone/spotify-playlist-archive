@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 52373,
+  "num_followers": 52386,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHRIgAAAAAAZI4O9olORq8N6k1QfGXGY",
+  "snapshot_id": "aHWaAAAAAADw60QWYCb+KaOOxN7WSnZG",
   "tracks": [
     {
       "added_at": null,
@@ -531,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 7",
-        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
+        "name": "Garage Palace (feat. Little Simz)",
+        "url": "https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU"
       },
       "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 55000,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/3aynUU0UifcUPzOSssR1Pk"
+      "duration_ms": 151400,
+      "name": "Garage Palace (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4"
     },
     {
       "added_at": null,
@@ -563,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garage Palace (feat. Little Simz)",
-        "url": "https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU"
+        "name": "Drop 7",
+        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },
       "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 151400,
-      "name": "Garage Palace (feat. Little Simz)",
-      "url": "https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4"
+      "duration_ms": 55000,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/3aynUU0UifcUPzOSssR1Pk"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Frank Leen, Livka
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,471 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,470 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 27 | [Ukrop](https://open.spotify.com/track/6JlwmjU3h8zzLHIlbO3bYI) | [Szlugazer](https://open.spotify.com/artist/12bkG4iFQ5dz5xLLLO21S2) | [Ukrop](https://open.spotify.com/album/1fadJr17hli3UEet7ZoJV9) | 4:01 |
 | 28 | [Nie to nie](https://open.spotify.com/track/5t0diQ1nuo2f0psGc3Ults) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui), [Jacko Brango](https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV) | [Nie to nie](https://open.spotify.com/album/5ck0oqV8rE4pGFonWvh5AX) | 3:20 |
 | 29 | [3 krótkie, 3 długie, 3 krótkie](https://open.spotify.com/track/1CkUzP8Bk74163JqhNPMWt) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [3 krótkie, 3 długie, 3 krótkie](https://open.spotify.com/album/4wavWlr6TfRJ3SewPJYt05) | 3:27 |
-| 30 | [Uwaga \(Idę do ciebie\) feat\. DOROTA](https://open.spotify.com/track/1QGztlW0fCUuYAlt7qixKE) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga), [Dorota](https://open.spotify.com/artist/5MvwaSu7vwwce7vxHlH0PR) | [Uwaga \(Idę do ciebie\) feat\. DOROTA](https://open.spotify.com/album/3Bpru250I9f4Ivaiy7rwkO) | 3:07 |
+| 30 | [Uwaga \(Idę do ciebie\) \- feat\. DOROTA](https://open.spotify.com/track/1QGztlW0fCUuYAlt7qixKE) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga), [Dorota](https://open.spotify.com/artist/5MvwaSu7vwwce7vxHlH0PR) | [Uwaga \(Idę do ciebie\) \[feat\. DOROTA\]](https://open.spotify.com/album/3Bpru250I9f4Ivaiy7rwkO) | 3:07 |
 | 31 | [Duże dzieci mało słońca](https://open.spotify.com/track/4cjNqIXYYRIs3WPsOoC80K) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [Duże dzieci mało słońca](https://open.spotify.com/album/3ehmP4aAx12JfX5sb4aE4Z) | 2:49 |
 | 32 | [Pętliczek](https://open.spotify.com/track/5OMgFkNmlXtDJFrfLuviR3) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU), [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Pętliczek](https://open.spotify.com/album/4mmDfkmlOKI0oYvCCW2KPY) | 2:54 |
 | 33 | [VValka o każdy kolejny dzień](https://open.spotify.com/track/10EP4jmPL6P1XkPy2Z5oyw) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [VValka o każdy kolejny dzień](https://open.spotify.com/album/5WA6v2aNB1xE3losW8l4do) | 4:51 |

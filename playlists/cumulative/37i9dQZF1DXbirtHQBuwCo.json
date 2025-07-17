@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Moon Sujin)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: Soyou(\uc18c\uc720))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 221680,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr"
@@ -11676,6 +11676,24 @@
       "duration_ms": 142746,
       "name": "Pastel",
       "url": "https://open.spotify.com/track/2LMMPM5a6djUmhoQnjnap2"
+    },
+    {
+      "album": {
+        "name": "PDA",
+        "url": "https://open.spotify.com/album/441CBoBxPuKC9ZGBSJpAoL"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "PDA",
+      "url": "https://open.spotify.com/track/67SdDCd4AgsXf9bMSqWx5G"
     },
     {
       "album": {

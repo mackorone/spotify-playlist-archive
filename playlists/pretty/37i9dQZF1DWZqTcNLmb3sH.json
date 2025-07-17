@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ekka",
-  "num_followers": 63634,
+  "num_followers": 63648,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHTYqAAAAACxZvmvIE0ifRmd/QjWb9ML",
+  "snapshot_id": "aHdmaQAAAADYSaal47tM9/P9ukgfLFVQ",
   "tracks": [
     {
       "added_at": "2025-06-09 12:18:40",
@@ -75,6 +75,30 @@
       "duration_ms": 238864,
       "name": "Abbabbabba - From \"Love Matteru\"",
       "url": "https://open.spotify.com/track/2YeK8AOFztFcfpCdMUnwFR"
+    },
+    {
+      "added_at": "2025-07-16 08:44:25",
+      "album": {
+        "name": "Arerere (From \"Jotheyagi Hithavagi\")",
+        "url": "https://open.spotify.com/album/30bJ4gik7i2GOWg5YFKE70"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Jayapaul",
+          "url": "https://open.spotify.com/artist/25Kt1LV18mvEC9C4EeqEO1"
+        },
+        {
+          "name": "Arasu Anthare",
+          "url": "https://open.spotify.com/artist/0g7RzAVhQCg5PnqSGbybHl"
+        }
+      ],
+      "duration_ms": 227898,
+      "name": "Arerere (From \"Jotheyagi Hithavagi\")",
+      "url": "https://open.spotify.com/track/7rYS2SMnoBxTgjdYaPBGfd"
     },
     {
       "added_at": "2025-07-08 13:46:19",
@@ -1119,26 +1143,6 @@
       "duration_ms": 282934,
       "name": "Adu Yaava Maayeyo (From \"Vritta \")",
       "url": "https://open.spotify.com/track/0F8dsTC577ZZlIuuVJtigt"
-    },
-    {
-      "added_at": "2025-05-16 11:15:16",
-      "album": {
-        "name": "Chanda Maarutha (From \"Maarutha\")",
-        "url": "https://open.spotify.com/album/05tgExtRCDbxfNU5FhyKLw"
-      },
-      "artists": [
-        {
-          "name": "Chandan Shetty",
-          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
-        },
-        {
-          "name": "S. Narayan",
-          "url": "https://open.spotify.com/artist/1wgRc6f09cIKvNUhZoqOUZ"
-        }
-      ],
-      "duration_ms": 249006,
-      "name": "Chanda Maarutha (From \"Maarutha\")",
-      "url": "https://open.spotify.com/track/6fppowZBh57DksK1COOmBa"
     },
     {
       "added_at": "2025-03-29 06:38:11",

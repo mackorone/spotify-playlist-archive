@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Begini Jadinya",
+        "url": "https://open.spotify.com/album/4iNzJW8BRyOmrEfmgx1vh8"
+      },
+      "artists": [
+        {
+          "name": "Masdo",
+          "url": "https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199826,
+      "name": "Begini Jadinya",
+      "url": "https://open.spotify.com/track/7rJ5CbscJEQXQsfLXVBD5f"
+    },
+    {
+      "album": {
         "name": "BEKU",
         "url": "https://open.spotify.com/album/3oomzTIjDBNe31XMtjutZg"
       },
@@ -2866,7 +2884,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 201642,
       "name": "Jumping Machine (\u8df3\u697c\u673a)",
       "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
@@ -3088,7 +3106,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 233265,
       "name": "Kisah Penuh Kecewa",
       "url": "https://open.spotify.com/track/0GiI82kfAuTows8dlKdABu"

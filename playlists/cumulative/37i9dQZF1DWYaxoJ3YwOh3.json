@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Calling",
+        "url": "https://open.spotify.com/album/6Jk7EFWPLsWOqbX0mE1znQ"
+      },
+      "artists": [
+        {
+          "name": "Fidelio",
+          "url": "https://open.spotify.com/artist/5bJCKzGbzZCzZ2ypWtNca6"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198273,
+      "name": "A Calling",
+      "url": "https://open.spotify.com/track/1OmCEQrJ7REOIplNx3zz11"
+    },
+    {
+      "album": {
         "name": "A Calmer Self",
         "url": "https://open.spotify.com/album/7ycshsBDVsO0wdnmn5wM5h"
       },
@@ -629,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Double Horizons",
+        "url": "https://open.spotify.com/album/6Ba5vyGVEhNu0zur5l9jlX"
+      },
+      "artists": [
+        {
+          "name": "Gidde",
+          "url": "https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170869,
+      "name": "Double Horizons",
+      "url": "https://open.spotify.com/track/1DwvLv2ri6jasV9nZ0bpb3"
+    },
+    {
+      "album": {
         "name": "Arabian Spa (Middle Eastern Music)",
         "url": "https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX"
       },
@@ -842,7 +878,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 151630,
       "name": "Egyptian Ritual",
       "url": "https://open.spotify.com/track/6ynLu35rbxgMvlqvkpCayr"
@@ -1816,7 +1852,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 327746,
       "name": "Raqsat Albedoi",
       "url": "https://open.spotify.com/track/6wWZm0XT0b6OGL1tv9NXbk"
@@ -2267,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "The Story We Carry",
+        "url": "https://open.spotify.com/album/6nNcFfccFowIH1yv6AmtIn"
+      },
+      "artists": [
+        {
+          "name": "Anam Dowd",
+          "url": "https://open.spotify.com/artist/6AStTwdDlNPK9yO8BPMLuk"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "The Story We Carry",
+      "url": "https://open.spotify.com/track/74hGzIQSHOmFzanuINbD2D"
+    },
+    {
+      "album": {
         "name": "Fast Asleep: Powered by Myndstream",
         "url": "https://open.spotify.com/album/7wNxnnqx9c6PJSglDjpzXU"
       },
@@ -2444,7 +2498,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 253500,
       "name": "Whispers of Ney",
       "url": "https://open.spotify.com/track/5QyKenCw8AlAmw4SdUp9Ex"

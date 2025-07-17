@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Etta ja Sara Bee
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,490 likes - 87 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,503 likes - 87 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

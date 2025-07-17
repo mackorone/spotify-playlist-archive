@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Det Löser Sej🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,829 likes - 108 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,851 likes - 108 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

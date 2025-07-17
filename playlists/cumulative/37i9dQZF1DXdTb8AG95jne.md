@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: sunwoojunga\(선우정아\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,000 songs - 2 day 12 hr 43 min
+1,001 songs - 2 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,7 +673,7 @@
 | [Rain](https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [Rain](https://open.spotify.com/album/05qGSfa8Q99cIdL23iRnQ4) | 3:36 | 2022-03-31 | 2022-04-16 |
 | [Rain Drop 주르륵 \(With danwoo lim\)](https://open.spotify.com/track/3tlCKAqLhoHpzKvOlBMVqY) | [OHZU](https://open.spotify.com/artist/1JI61NmjPxJltAJwcNgb81), [danwoo lim](https://open.spotify.com/artist/3ubaacfE5aNEXvmHhkNlTZ) | [Rain Drop 주르륵](https://open.spotify.com/album/0Cnt5CZL9rJoXVxjBXma0S) | 3:24 | 2022-04-12 | 2022-04-21 |
 | [Rain In The Night](https://open.spotify.com/track/3ISTUp8tjTZxDQyhwMQbP5) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 4:01 | 2021-12-21 | 2022-06-24 |
-| [Rainbow \(รุ้ง\)](https://open.spotify.com/track/3TBGPc9fUBo3AjBzgiXNGY) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Rainbow \(รุ้ง\)](https://open.spotify.com/album/14QVqgxZbPr8Hd9zjzuJ7W) | 2:18 | 2025-07-01 |  |
+| [Rainbow \(รุ้ง\)](https://open.spotify.com/track/3TBGPc9fUBo3AjBzgiXNGY) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Rainbow \(รุ้ง\)](https://open.spotify.com/album/14QVqgxZbPr8Hd9zjzuJ7W) | 2:18 | 2025-07-01 | 2025-07-17 |
 | [RAL 9002 \(Feat\. Heize\)](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 | 2021-12-12 | 2024-07-13 |
 | [Rather Go Blind](https://open.spotify.com/track/7rBO40xtZaRkpxXKnEQa26) | [ZAYSTIN](https://open.spotify.com/artist/7BQgVJEUzCUX8Q2KZDgrH8) | [Rather Go Blind](https://open.spotify.com/album/6XAmqfdbVy1lpNqMppNg7m) | 3:58 | 2022-03-31 | 2022-04-08 |
 | [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 | 2025-04-11 | 2025-07-15 |
@@ -903,6 +903,7 @@
 | [Walk with you 같이 걸을래](https://open.spotify.com/track/2UXTBTLGB572yUsYsbuQoE) | [LEEXLEE](https://open.spotify.com/artist/640S32LHSQAW3kFPU7tbCi) | [Walk with you 같이 걸을래](https://open.spotify.com/album/47BUJLXDMvTPUChfhFIypW) | 3:26 | 2022-03-31 | 2022-04-21 |
 | [WALKMAN](https://open.spotify.com/track/6Y8iqKIk4LckcPQV5lohVU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA II](https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx) | 4:12 | 2025-04-03 | 2025-05-14 |
 | [Waltz](https://open.spotify.com/track/2AMniaV0Jq30zdZY5UH79m) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Waltz](https://open.spotify.com/album/3ezuyHHWaJSJjPh0KzFvuh) | 3:58 | 2022-03-31 | 2022-04-17 |
+| [Wanderer](https://open.spotify.com/track/2zMwymZ3zvOEUsnDQ8xzej) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Wanderer](https://open.spotify.com/album/6sY3pgG7bthsE3YCyJ7a28) | 6:26 | 2025-07-17 |  |
 | [Wandering](https://open.spotify.com/track/2qDoBvu7ro7yTB2K6xGyZK) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Journey](https://open.spotify.com/album/5Ndzga5l9NNmpAZTp9hxM9) | 4:15 | 2023-02-28 | 2023-03-28 |
 | [WANT IT!](https://open.spotify.com/track/3AGtmUsltzQt3K66tns6uM) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [chan rahn](https://open.spotify.com/album/08ycfz9dlemNhACZARGF8M) | 3:46 | 2025-07-15 |  |
 | [Want U 2 Know](https://open.spotify.com/track/2GVjWKUdmJIpdHFQQt9NLv) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Want U 2 Know](https://open.spotify.com/album/0bO9A3V6xf4LFqwFSB7XWY) | 4:13 | 2025-02-12 | 2025-04-11 |

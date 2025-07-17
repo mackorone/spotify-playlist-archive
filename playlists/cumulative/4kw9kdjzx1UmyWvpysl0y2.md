@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,026 songs - 2 day 9 hr 34 min
+1,027 songs - 2 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Chasing Shadows](https://open.spotify.com/track/7nxBtfw37vfNSV95pC8uzt) | [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Chasing Shadows](https://open.spotify.com/album/0D1uc3g7ceS0gZWjAkEjUe) | 4:20 | 2021-11-19 | 2022-02-12 |
 | [Chasing Stars](https://open.spotify.com/track/0a9J0dDKTOqNxBUYufLOzY) | [Skyler Madison](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Chasing Stars](https://open.spotify.com/album/1jUyU3oh4FJCmJtNaPJWJw) | 4:41 | 2021-11-29 | 2022-03-04 |
 | [Cheat Code](https://open.spotify.com/track/7JJnlfOlh7dmQhjRDkyG0x) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [REDLESS](https://open.spotify.com/artist/30j2u2oo0Q8v2pBjnb3ctJ) | [Cheat Code](https://open.spotify.com/album/41N4WEXPbcLCJ5rgOQc6FC) | 2:50 | 2022-06-30 | 2022-09-13 |
-| [cheemistry](https://open.spotify.com/track/43GqjsNEuDm8wVdJZdwLWO) | [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV) | [cheemistry](https://open.spotify.com/album/5euhcmT7aP4W7mrL9JWlPy) | 1:56 | 2025-04-24 |  |
+| [cheemistry](https://open.spotify.com/track/43GqjsNEuDm8wVdJZdwLWO) | [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV) | [cheemistry](https://open.spotify.com/album/5euhcmT7aP4W7mrL9JWlPy) | 1:56 | 2025-04-24 | 2025-07-17 |
 | [Choir of the Banshees](https://open.spotify.com/track/72ijk2ClDkcZ5FgD4IM1n8) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Sorcerer’s Symphony](https://open.spotify.com/album/1ajS5QuEOLZXMVG7TG9twW) | 4:11 | 2024-02-07 | 2024-05-01 |
 | [Chroma](https://open.spotify.com/track/0Yf9BcL40KJplKTDwmpIPw) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Chroma](https://open.spotify.com/album/36V5r5FbxC2I0U1rCZn2Li) | 4:10 | 2023-11-27 | 2024-03-09 |
 | [Chromatically](https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Chromatically](https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY) | 3:18 | 2024-01-25 | 2024-04-16 |
@@ -179,6 +179,7 @@
 | [CODES](https://open.spotify.com/track/7HNsbDFhZhs2qhEjC2W3om) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Macntaj](https://open.spotify.com/artist/0erl2oe9fDqYo37ueBiG8K) | [CODES](https://open.spotify.com/album/1VNGWcGNCBkUGFyFiC0Kdj) | 2:31 | 2022-11-03 | 2023-01-27 |
 | [Cold](https://open.spotify.com/track/0PnypUaIbVQJNTUI7uAu7l) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Cold](https://open.spotify.com/album/7CPCLln80ae2SZtBWWsCqn) | 3:32 | 2022-05-24 | 2022-08-04 |
 | [Collecting Thoughts](https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Collecting Thoughts](https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M) | 3:25 | 2022-11-17 | 2023-02-11 |
+| [collide](https://open.spotify.com/track/4ZiRO3AgPASOA3t5Jad3oJ) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [collide](https://open.spotify.com/album/5GdP1B6qEllUcmClyHMLh2) | 2:35 | 2025-07-16 |  |
 | [Collide](https://open.spotify.com/track/57qkaXRbGABcwhXSitxCNy) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Collide](https://open.spotify.com/album/0OsvXFnxq0BxmMYMonipLZ) | 3:43 | 2022-10-14 | 2022-11-20 |
 | [Collide](https://open.spotify.com/track/5DsHIpQYhemlXf5OZ1VYlw) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:43 | 2022-11-19 | 2022-11-22 |
 | [colors](https://open.spotify.com/track/70meb0y1oP8OJR0n8RhxZq) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [colors](https://open.spotify.com/album/5k7pxpgyFHpi40XVymiWbV) | 4:25 | 2025-03-27 | 2025-06-24 |
@@ -722,7 +723,7 @@
 | [Remedy](https://open.spotify.com/track/1A7abr0cUK9WZRO4AjT0UQ) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Remedy](https://open.spotify.com/album/2RfxoMmdN94qeqmbfSGsaz) | 2:35 | 2022-04-26 | 2022-07-07 |
 | [Renaissance](https://open.spotify.com/track/2O333FGzBWwOxg0dSrPplb) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:48 | 2022-11-04 | 2022-11-22 |
 | [Renaissance](https://open.spotify.com/track/7moYWZMEBBi9JgO1vbmPU4) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Renaissance](https://open.spotify.com/album/2tMs4REgID4EI8n09Xt1U1) | 3:48 | 2022-09-30 | 2022-12-04 |
-| [Rendezvous](https://open.spotify.com/track/0hdbVFC6rzm2oqt1D7Zgn0) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [GILLIAD](https://open.spotify.com/artist/6AKiapdvTAXauBNZ7DxS3z), [Nina Sung](https://open.spotify.com/artist/3IDGSw4dPbHMSnd93gkeXG) | [Rendezvous](https://open.spotify.com/album/0oS0q47PgZZNLTTb2s4Kn9) | 3:32 | 2025-04-23 |  |
+| [Rendezvous](https://open.spotify.com/track/0hdbVFC6rzm2oqt1D7Zgn0) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [GILLIAD](https://open.spotify.com/artist/6AKiapdvTAXauBNZ7DxS3z), [Nina Sung](https://open.spotify.com/artist/3IDGSw4dPbHMSnd93gkeXG) | [Rendezvous](https://open.spotify.com/album/0oS0q47PgZZNLTTb2s4Kn9) | 3:32 | 2025-04-23 | 2025-07-17 |
 | [Repeating](https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Repeating](https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM) | 2:27 | 2023-05-25 | 2023-08-20 |
 | [Replay](https://open.spotify.com/track/1Bg04k5dLQQODib8Xyl0X5) | [Merage](https://open.spotify.com/artist/34cpsw0b9PMy47utxhl0rK), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6) | [Replay](https://open.spotify.com/album/6Hj33Lfj7HLFAPlSz3VsnR) | 3:08 | 2025-05-26 |  |
 | [Rescue Me](https://open.spotify.com/track/2eO91mgRHGTS14QfUrTS1a) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Rescue Me](https://open.spotify.com/album/5zCwzfOhRQWg6iBZoUvCsi) | 4:01 | 2023-07-11 | 2023-12-14 |

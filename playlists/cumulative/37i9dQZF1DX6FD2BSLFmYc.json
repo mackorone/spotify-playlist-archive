@@ -1865,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Midnight Marigold",
+        "url": "https://open.spotify.com/album/6gzGNYgwHQY8H43wLFkTqD"
+      },
+      "artists": [
+        {
+          "name": "Plasma Radio",
+          "url": "https://open.spotify.com/artist/4OODiWwXTyAfi1emkANcI6"
+        }
+      ],
+      "date_added": "2025-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228863,
+      "name": "Midnight Marigold",
+      "url": "https://open.spotify.com/track/40iRfqbLQVC1mNBth7BNu1"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx"
       },

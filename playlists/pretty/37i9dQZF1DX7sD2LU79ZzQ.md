@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Gusti Irwan Wibowo
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,569 likes - 121 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,582 likes - 121 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 115 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 |
 | 116 | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/track/0nB7Hp6aOlc5Gh3Iq7cwzP) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/album/7tpWC5cXqD0ejf9UyyR65H) | 3:55 |
 | 117 | [Siratan](https://open.spotify.com/track/2TNQiEVrgQhwj3akf8nPhz) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db) | [Nuansa Romansa](https://open.spotify.com/album/4VXfamSWSkK2CTv6hUPImL) | 3:45 |
-| 118 | [Opak Party](https://open.spotify.com/track/7akE6RsJM6fg28xetC2XU2) | [RAPOT](https://open.spotify.com/artist/0GIqySes5T059h5azQcdNV) | [Lagu\-Lagu Cemara \(OST\. Musikal Keluarga Cemara\)](https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq) | 3:05 |
+| 118 | [Opak Party](https://open.spotify.com/track/7akE6RsJM6fg28xetC2XU2) | [RAPOT](https://open.spotify.com/artist/0GIqySes5T059h5azQcdNV), [Reza Chandika](https://open.spotify.com/artist/5rTvvOLMBp58DmmzQA2cez), [Ankatama](https://open.spotify.com/artist/1rTnFDCKH7YqoYDaHItQgf), [Radhini](https://open.spotify.com/artist/7KwNYf1K0Qt3sV7DtVHWcU), [Nastasha Abigail](https://open.spotify.com/artist/4Yh02VkYHM45OXORNwzI9r) | [Lagu\-Lagu Cemara \(OST\. Musikal Keluarga Cemara\)](https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq) | 3:05 |
 | 119 | [Resah Menyiksa](https://open.spotify.com/track/60Rk3zpfGIpF0QaUXhAMFg) | [Krisna Trias](https://open.spotify.com/artist/14uIEY2id29DkY0FzZWuM0) | [Resah Menyiksa](https://open.spotify.com/album/4fgODlI1vFPdwTAn39rWNn) | 3:51 |
 | 120 | [Cinta](https://open.spotify.com/track/1j3eWKRafYva5xQTXzW7Fk) | [Angel Pieters](https://open.spotify.com/artist/4bT41417k6fO14RdxgyYg7) | [Cinta](https://open.spotify.com/album/4pPZf44vGGfWj5CAiwyybi) | 4:52 |
 | 121 | [Menyakitimu](https://open.spotify.com/track/0ZWq2tUGdCLGlLqSqeJUeL) | [Liam Amadeo](https://open.spotify.com/artist/4OqmQrQ2HxPbyLsefGKIHq) | [Menyakitimu](https://open.spotify.com/album/2XRggo4qoBUQv5RAvclUDc) | 3:08 |

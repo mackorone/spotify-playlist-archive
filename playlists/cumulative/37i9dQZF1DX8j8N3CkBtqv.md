@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring "aswekeepsearching" and other exciting artists.
 
-1,106 songs - 2 day 12 hr 30 min
+1,107 songs - 2 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Dil Besabar](https://open.spotify.com/track/5Mlk1gsJU9Qq4eqhfyQbrg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya Verma](https://open.spotify.com/artist/0z2Q1aIitrkM1yf7n8RcpT) | [Dil Besabar](https://open.spotify.com/album/06uoaelB6yCxzSUEr5KufN) | 3:01 | 2024-02-09 | 2024-06-08 |
 | [Dil Bezubaan](https://open.spotify.com/track/1SyK2174siAsDzqvguTzpE) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Dil Bezubaan](https://open.spotify.com/album/2U90RzBiJJGL0epkGdyqIH) | 3:07 | 2023-04-14 | 2023-06-24 |
 | [Dil Gaye Ja](https://open.spotify.com/track/26glf0z6oKPzZB742D6LTT) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn) | [Subah Ke Taare](https://open.spotify.com/album/0ysTWzXqgUdfk15ZHZsYye) | 3:38 | 2024-02-09 | 2024-04-19 |
-| [Dil Haara](https://open.spotify.com/track/5pgTjsE4IYxXiF5g6jqAnK) | [Samarth Swarup](https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Dil Haara](https://open.spotify.com/album/2DdVb1u3H6v6V5wophwAfP) | 2:53 | 2025-07-11 |  |
+| [Dil Haara](https://open.spotify.com/track/5pgTjsE4IYxXiF5g6jqAnK) | [Samarth Swarup](https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Dil Haara](https://open.spotify.com/album/2DdVb1u3H6v6V5wophwAfP) | 2:53 | 2025-07-11 | 2025-07-17 |
 | [Dil Hi Hai Tu](https://open.spotify.com/track/30soAEn42xylI7qSql7GKU) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Dil Hi Hai Tu](https://open.spotify.com/album/7rJEC3UuNNcJnCQNKKPAS6) | 3:10 | 2024-12-06 | 2025-04-19 |
 | [Dil Hi To Hai](https://open.spotify.com/track/7zBgwvwMEdFmTIOxYCoM3X) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Dil Hi To Hai](https://open.spotify.com/album/6gdK76yyTXbwBgRbPP5Ii5) | 2:38 | 2023-10-06 | 2023-11-18 |
 | [Dil Ho Tum](https://open.spotify.com/track/4z0cWwPjd0rOkBl0HhyIH6) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Dil Ho Tum](https://open.spotify.com/album/30ArQwlmCra7hvdeQR5FsF) | 2:38 | 2023-04-14 | 2023-06-17 |
@@ -292,6 +292,7 @@
 | [Farishtey](https://open.spotify.com/track/1k3i030OvSLAjHf4wv4pf2) | [Siddhant Goenka](https://open.spotify.com/artist/4kgBKXp1xa4tHOwH0MEGdP) | [Farishtey](https://open.spotify.com/album/14fQu5HUVoOZJfd0ApAAuo) | 3:21 | 2024-01-12 | 2024-02-24 |
 | [Fariyaad](https://open.spotify.com/track/4PFtfnimU4s6EAT4nrpLB4) | [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L) | [House Of Hashbass, Vol\. 1](https://open.spotify.com/album/4Sw8tZ5CUGQsqH7mL7y9ol) | 2:56 | 2025-04-11 | 2025-04-19 |
 | [Farzipaney](https://open.spotify.com/track/1oYNeXaGc3PV5RXlFsHtoX) | [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Farzipaney](https://open.spotify.com/album/0JqQvHfOy2uz5rcHFresMq) | 3:48 | 2024-03-08 | 2024-04-19 |
+| [Faza](https://open.spotify.com/track/7bNIiEn2iHswdljQHcQY5Q) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Crustacean](https://open.spotify.com/artist/3657x7tvzI3LT8WPU0WuL2) | [Faza](https://open.spotify.com/album/2VKSUMvPriwzKyOGcsbG0w) | 3:02 | 2025-07-11 |  |
 | [Feelings](https://open.spotify.com/track/0GP7XgKRqaGsUf0ILvTaDt) | [BAWA](https://open.spotify.com/artist/397KJT6AbxxE3UgpLktTvR) | [Feelings](https://open.spotify.com/album/2PLq0SQ3zJzt6N7y301pAG) | 2:27 | 2024-01-12 | 2024-02-03 |
 | [Fida](https://open.spotify.com/track/1RnGyOqCbgpfmSh423M4t1) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Fida](https://open.spotify.com/album/0JQ7xpuT2g8TlnT8r7hamD) | 2:52 | 2023-07-21 | 2023-08-25 |
 | [Fidelio](https://open.spotify.com/track/2jTmDCdilaJQUJmfDvZKki) | [ansh](https://open.spotify.com/artist/5waES3fUD0XzpVemFzvMD3) | [Fidelio](https://open.spotify.com/album/5cYC68Khil2wDoOUzFnNb7) | 2:17 | 2024-06-14 | 2024-07-13 |

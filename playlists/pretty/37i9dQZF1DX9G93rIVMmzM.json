@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 346864,
+  "num_followers": 347070,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2025-06-20 04:00:31",
       "album": {
-        "name": "Red Velvet (with Ari Abdul)",
-        "url": "https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        },
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 186025,
-      "name": "Red Velvet (with Ari Abdul)",
-      "url": "https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8"
-    },
-    {
-      "added_at": "2025-06-20 04:00:31",
-      "album": {
         "name": "Usurper",
         "url": "https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8"
       },
@@ -591,18 +571,22 @@
     {
       "added_at": "2025-06-20 04:00:31",
       "album": {
-        "name": "Will You Love Me When I\u2019m Dead",
-        "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
+        "name": "Red Velvet (with Ari Abdul)",
+        "url": "https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q"
       },
       "artists": [
         {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        },
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
         }
       ],
-      "duration_ms": 193798,
-      "name": "Will You Love Me When I\u2019m Dead",
-      "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
+      "duration_ms": 186025,
+      "name": "Red Velvet (with Ari Abdul)",
+      "url": "https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8"
     },
     {
       "added_at": "2025-06-20 04:00:31",
@@ -619,6 +603,22 @@
       "duration_ms": 195133,
       "name": "Weak And Powerless",
       "url": "https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR"
+    },
+    {
+      "added_at": "2025-06-20 04:00:31",
+      "album": {
+        "name": "Will You Love Me When I\u2019m Dead",
+        "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 193798,
+      "name": "Will You Love Me When I\u2019m Dead",
+      "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
     },
     {
       "added_at": "2025-06-20 04:00:31",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-06-20 04:00:31",
       "album": {
-        "name": "Tonight (demo)",
-        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Tonight (demo)",
-      "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
-    },
-    {
-      "added_at": "2025-06-20 04:00:31",
-      "album": {
         "name": "Team Sleep (U.S. Release)",
         "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 188133,
       "name": "Blvd. Nights",
       "url": "https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7"
+    },
+    {
+      "added_at": "2025-06-20 04:00:31",
+      "album": {
+        "name": "Tonight (demo)",
+        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Tonight (demo)",
+      "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
     },
     {
       "added_at": "2025-06-20 04:00:31",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-06-20 04:00:31",
       "album": {
-        "name": "OMENS",
-        "url": "https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Wild",
-          "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
-        }
-      ],
-      "duration_ms": 205222,
-      "name": "OMENS",
-      "url": "https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB"
-    },
-    {
-      "added_at": "2025-06-20 04:00:31",
-      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 167704,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
+    },
+    {
+      "added_at": "2025-06-20 04:00:31",
+      "album": {
+        "name": "OMENS",
+        "url": "https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Wild",
+          "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
+        }
+      ],
+      "duration_ms": 205222,
+      "name": "OMENS",
+      "url": "https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB"
     },
     {
       "added_at": "2025-06-20 04:00:31",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-06-20 04:00:31",
       "album": {
-        "name": "System Of A Down (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
-    },
-    {
-      "added_at": "2025-06-20 04:00:31",
-      "album": {
         "name": "Lonely Day - Spotify Singles",
         "url": "https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2025-06-20 04:00:31",
       "album": {
-        "name": "GALORE",
-        "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
+        "name": "System Of A Down (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
       },
       "artists": [
         {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 191666,
-      "name": "Fuse",
-      "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
+      "duration_ms": 215440,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
     },
     {
       "added_at": "2025-06-20 04:00:31",
@@ -1127,6 +1111,22 @@
       "duration_ms": 168221,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
+    },
+    {
+      "added_at": "2025-06-20 04:00:31",
+      "album": {
+        "name": "GALORE",
+        "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Fuse",
+      "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
     },
     {
       "added_at": "2025-06-20 04:00:31",

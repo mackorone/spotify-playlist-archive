@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain]
 
 ### [90s ALTERNATIVE ROCK](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
 
-> 1990s alt rock \| 90s alt rock \| 90s alternative rock \| 90s hits \| grunge \| b\-sides \| deep cuts \| rock classics \| 90s throwbacks \| punk \| indie \| early 90s \| late 90s \| alice in chains \| foo fighters \| korn \| pearl jam \| rage against the machine \| tool \| dave matthews band \| incubus
+> alt rock \| 1990s alt rock \| 90s alt rock \| 90s alternative rock \| 90s hits \| grunge \| b\-sides \| deep cuts \| rock classics \| 90s throwbacks \| punk \| indie \| early 90s \| late 90s \| alice in chains \| foo fighters \| korn \| pearl jam \| rage against the machine \| tool \| dave matthews band \| incubus
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 714,345 likes - 149 songs - 10 hr 22 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 714,353 likes - 149 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain]
 | 148 | [Baby Bitch \- 2024 Remastered](https://open.spotify.com/track/3u7tzc4XYfnamsayA6kUJw) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [Chocolate and Cheese \(Deluxe Edition\)](https://open.spotify.com/album/4Ls3bWQS7iKKt0ONNHPJCp) | 3:03 |
 | 149 | [Shoots and Ladders](https://open.spotify.com/track/3ezGIgTmk2BZy9C3j0x1h9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 5:22 |
 
-Snapshot ID: `AAACoiAeU2ZrKoa9nKKsl94hKAvTFqcy`
+Snapshot ID: `AAACo93ryaQLg+0xAKf6WigPdyjVel44`

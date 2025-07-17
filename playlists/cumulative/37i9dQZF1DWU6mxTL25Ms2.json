@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 06",
+        "url": "https://open.spotify.com/album/1DItdfNHZwHM4QKxRllEvz"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u6176\u4e45 (Cygames)",
+          "url": "https://open.spotify.com/artist/6QBHDuiHqah0p3Aj1J6GEV"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202920,
+      "name": "G\u2160\uff06URA\u30d5\u30a1\u30a4\u30ca\u30eb\u30ba",
+      "url": "https://open.spotify.com/track/1ptkNzYN9FcfUlVyBsg8V8"
+    },
+    {
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
         "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
       },
@@ -2110,7 +2128,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-17",
       "duration_ms": 230106,
       "name": "\u611f\u60c5\u30ce\u9ece\u660e - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/2RZAaf7nleKmiRp1PFspVc"

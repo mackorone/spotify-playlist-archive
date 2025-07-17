@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,186 songs - 4 day 21 hr 5 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,193 songs - 4 day 21 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2194,5 +2194,12 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2184 | [In Da Q](https://open.spotify.com/track/0dmeBl3THoDOlDwWLBT9jy) | [DATSKO](https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY) | [In Da Q](https://open.spotify.com/album/1VABXT4gr5v1LtUZbXu8Yx) | 3:53 |
 | 2185 | [Secunena](https://open.spotify.com/track/04vz25NeqrGvqqL219tlhM) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Secunena](https://open.spotify.com/album/7LSWqWZtU9bQ4SZAxWhkXa) | 2:39 |
 | 2186 | [te pongo mal\(prendelo\)](https://open.spotify.com/track/36Qi2bHMzLMQIHApHFytgv) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:52 |
+| 2187 | [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:01 |
+| 2188 | [No Type](https://open.spotify.com/track/4scpF6J5uMBvoh6sFB7EL1) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:20 |
+| 2189 | [Stereo Love](https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/774YoW7RL5qzrPdZFi8xJE) | 3:05 |
+| 2190 | [Look \- All Night Mix](https://open.spotify.com/track/6f76PH2ajKmwzqE9B2QPy3) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [4 New Hit Songs \*Remixes](https://open.spotify.com/album/5wpmAoT9ZcBQ1YAcloFVhj) | 2:42 |
+| 2191 | [Sfire 7](https://open.spotify.com/track/57raKVKlm6ofEoCCJJvTsY) | [Sfire](https://open.spotify.com/artist/1DrfvAYR9EE93iN2z9mVKE) | [Sfire 6/7](https://open.spotify.com/album/7FZS02CQATRKUtZbRCitrY) | 2:29 |
+| 2192 | [The Way I Feel](https://open.spotify.com/track/5wf74zcM2rvFuLPA1ybEY5) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Doss](https://open.spotify.com/album/4xjMqQEOwrmNySKz6WVOcG) | 4:26 |
+| 2193 | [Here Tonight](https://open.spotify.com/track/0gAhUXqYphJt5iFmYkowAf) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Doss](https://open.spotify.com/album/4xjMqQEOwrmNySKz6WVOcG) | 4:44 |
 
-Snapshot ID: `AAAEb2aFAt05bcObL2G30NCws0ix4S6C`
+Snapshot ID: `AAAEdgk9umdMIBH/GysKCG/grI6EgoUV`
