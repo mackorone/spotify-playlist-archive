@@ -2,12 +2,13 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: 7ari & Ramoon
+> Cover: Draganov
 
-415 songs - 21 hr 55 min
+416 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['BOUT U](https://open.spotify.com/track/0TkxukEZ2yWc6KEOkMfytD) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 2:59 | 2025-07-17 |  |
 | [\(ح\) 7](https://open.spotify.com/track/4XpUu9opZpUzD7RHCk8oSv) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [\(ح\) 7](https://open.spotify.com/album/3v3hmskhI3t83CPliZorje) | 2:30 | 2024-09-01 | 2025-01-14 |
 | [100](https://open.spotify.com/track/62OHA0jRO6x5JFofdeZ5Tr) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [100](https://open.spotify.com/album/6FJG9netL0WN7AtQlvh8z6) | 3:22 | 2022-11-14 | 2023-02-27 |
 | [112](https://open.spotify.com/track/7LXk7g4i8JxXXWNhDrSQq4) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:30 | 2024-11-14 |  |
@@ -107,7 +108,7 @@
 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2023-12-07 | 2025-07-17 |
 | [Dokhana](https://open.spotify.com/track/5Yd23nlQjtvyceg2u2BnxQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 2:52 | 2024-06-27 | 2024-07-19 |
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 | 2023-06-09 |
-| [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 | 2024-06-03 |  |
+| [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 | 2024-06-03 | 2025-07-18 |
 | [Dracula](https://open.spotify.com/track/1AEJ2p9KDQQZE2cJP4HF4N) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:16 | 2024-12-26 | 2024-12-30 |
 | [Drahem Denya](https://open.spotify.com/track/5o6GmcjGlEIMoTyygi7OeN) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Ghorab](https://open.spotify.com/album/5KCg3cBBhccv5SRClhZG7T) | 2:35 | 2025-01-31 | 2025-03-06 |
 | [Drari](https://open.spotify.com/track/3E0tyueJ8RwaR9787Iucqc) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Drari](https://open.spotify.com/album/5H2BQ6JJTu07btoGKRiISX) | 3:12 | 2024-06-14 | 2024-09-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,339 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,362 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 | 47 | [En Aasai Mythiliye](https://open.spotify.com/track/44OEXE0l8fdx6oaKexx2G5) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YvUZ2VpPl6SaKiA0Tp6i2) | 4:22 |
 | 48 | [What a Karavaad](https://open.spotify.com/track/5EjVRbQFSLYyeNLlO7qGLY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 4:27 |
 | 49 | [Karuthavanlaam Galeejaam](https://open.spotify.com/track/22cCckQ9DR4E94QhtUzSW3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WkCzwLSjWxVm2NU9t6aCM) | 3:28 |
-| 50 | [Sodakku](https://open.spotify.com/track/1yotVCnfaPDvp9C7LsdGB1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Thaanaa Serndha Koottam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JnJeimcabagrnJyFtNty1) | 3:58 |
+| 50 | [Marana Mass \- From "Petta"](https://open.spotify.com/track/612T2qs3Xaj72F8M0bj9gL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Marana Mass \(From "Petta"\)](https://open.spotify.com/album/2LMXdbmXRQaEkwYkVPIqnk) | 3:36 |
 
 Snapshot ID: `aCxKsQAAAAAEHcj8AnytuBgilyKGSZ0l`

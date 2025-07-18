@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo: Juliette Armanet
+> Les  meilleures nouveautés de la chanson française\. Photo: Alex Montembault
 
-200 songs - 11 hr 1 min
+201 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Manquer à quelqu'un quelque part](https://open.spotify.com/track/3ziKYDEXy8qG50W0mvYtAs) | [Clarika](https://open.spotify.com/artist/286N26F5niRQqjn3PeqFjH) | [Danse encore](https://open.spotify.com/album/0xRbi5yizZ5215IUA0HnNW) | 3:15 | 2024-06-27 | 2024-07-19 |
 | [Manteau chagrin](https://open.spotify.com/track/5QLlufXqdXZEcvrAmtqFvR) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Manteau chagrin](https://open.spotify.com/album/70Gb0hozJ6iIx6gOZxxchY) | 4:13 | 2025-05-29 |  |
 | [Marcher droit](https://open.spotify.com/track/5QcbSS53QWUHTiKDYBHuHM) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Marcher droit](https://open.spotify.com/album/1HwrjAGvdyfIvl3RCRBEfp) | 4:01 | 2024-09-26 | 2025-01-24 |
+| [mes nuits à toi](https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [dans ma maison](https://open.spotify.com/album/5sa26UmvekC0g0AeJsxArm) | 2:52 | 2025-07-17 |  |
 | [Mode d'emploi](https://open.spotify.com/track/3EsRNFcFTVtCyHYtVhMa4P) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Mode d'emploi](https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN) | 3:30 | 2024-06-27 | 2024-11-08 |
 | [Mon épaule](https://open.spotify.com/track/20uMoMNEt8BxWdOP7m19hj) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:43 | 2024-11-21 | 2025-04-11 |
 | [Mon épaule](https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mon épaule](https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b) | 2:43 | 2024-06-27 | 2024-10-25 |
@@ -159,7 +160,7 @@
 | [Pluie de data](https://open.spotify.com/track/3F2zj7x4wGGpWmezFy07BF) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Pluie de data](https://open.spotify.com/album/2iAXxsQJ0e9cT2Jy9c0amS) | 4:48 | 2025-06-26 |  |
 | [Plusieurs](https://open.spotify.com/track/3iSW2g3seqcGRihjkwwh6l) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Plusieurs](https://open.spotify.com/album/5R3ElE0JOCffSb7U8xM5Xz) | 3:08 | 2025-04-10 | 2025-05-23 |
 | [Pour te plaire](https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Pour te plaire](https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq) | 3:04 | 2025-01-30 | 2025-06-13 |
-| [Pourquoi on pleure](https://open.spotify.com/track/5vTsiAJh3AaPQRFM3mP4qu) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Toi là\-bas](https://open.spotify.com/album/5nqbZQ4EKOdNoRILDLBGg8) | 2:57 | 2025-03-06 |  |
+| [Pourquoi on pleure](https://open.spotify.com/track/5vTsiAJh3AaPQRFM3mP4qu) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Toi là\-bas](https://open.spotify.com/album/5nqbZQ4EKOdNoRILDLBGg8) | 2:57 | 2025-03-06 | 2025-07-18 |
 | [Prière de n'pas déranger](https://open.spotify.com/track/21x29ojKg5qjtoCD1ZUO5y) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [\[prèchof\]](https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq) | 3:25 | 2024-11-07 | 2025-04-11 |
 | [Prologue](https://open.spotify.com/track/6fFbN6K0m9UNG4lE8n2QdN) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Prologue](https://open.spotify.com/album/6aV27BzyHxEBrh4uDIQkQm) | 3:34 | 2024-06-27 | 2024-09-27 |
 | [Promis juré](https://open.spotify.com/track/6ybZdo0nUd5fdsuVrOUW6r) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Ex æquo](https://open.spotify.com/album/577bgbkPYgJf71s0AeOdim) | 3:11 | 2025-04-24 |  |

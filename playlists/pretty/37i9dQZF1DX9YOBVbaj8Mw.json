@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 17641,
+  "num_followers": 17642,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Instant Rewards",
+        "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
+      },
+      "artists": [
+        {
+          "name": "Tides From Nebula",
+          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "Fearflood",
+      "url": "https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Cudze rady psuj\u0105 mi \u017cycie",
         "url": "https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 237482,
       "name": "Zima",
       "url": "https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Instant Rewards",
-        "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
-      },
-      "artists": [
-        {
-          "name": "Tides From Nebula",
-          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "Fearflood",
-      "url": "https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
+      },
+      "artists": [
+        {
+          "name": "Pianohooligan",
+          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
+        },
+        {
+          "name": "Piotr Orzechowski",
+          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
+        }
+      ],
+      "duration_ms": 865922,
+      "name": "Critique of Swing in Two Parts, Pt. 1",
+      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "W\u0119druj\u0105cy Ptak",
         "url": "https://open.spotify.com/album/6rIbLAAY1oh8fniB0cStlA"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 157780,
       "name": "Letila zozula czerez moju chatu",
       "url": "https://open.spotify.com/track/5kVJA3uPz9HJn2ZaQBosoT"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
-      },
-      "artists": [
-        {
-          "name": "Pianohooligan",
-          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
-        },
-        {
-          "name": "Piotr Orzechowski",
-          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
-        }
-      ],
-      "duration_ms": 865922,
-      "name": "Critique of Swing in Two Parts, Pt. 1",
-      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
     },
     {
       "added_at": "2025-04-06 08:27:45",

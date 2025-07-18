@@ -19115,6 +19115,24 @@
     },
     {
       "album": {
+        "name": "In The Neon",
+        "url": "https://open.spotify.com/album/0XTtbQ1QO5vymEZRhxAXn7"
+      },
+      "artists": [
+        {
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "In the Neon",
+      "url": "https://open.spotify.com/track/51UjPpj7YIeJ8xMYjmrLtR"
+    },
+    {
+      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
       },
@@ -22080,7 +22098,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 219000,
       "name": "Lao V\u00e0o",
       "url": "https://open.spotify.com/track/6l0jR8cJqLRSWWXi9TZPLx"
@@ -40328,6 +40346,24 @@
       "duration_ms": 173507,
       "name": "Trajikomedi",
       "url": "https://open.spotify.com/track/5KvQtUK14fbyFmZjeaBc1g"
+    },
+    {
+      "album": {
+        "name": "Trao V\u1ec1 Anh",
+        "url": "https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q"
+      },
+      "artists": [
+        {
+          "name": "Juky San",
+          "url": "https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Trao V\u1ec1 Anh",
+      "url": "https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S"
     },
     {
       "album": {

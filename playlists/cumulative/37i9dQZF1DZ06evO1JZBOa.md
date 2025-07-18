@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-153 songs - 11 hr 42 min
+154 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Monkey Beat](https://open.spotify.com/track/6kwVRmLm8vdgd5sXMFLTt7) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:42 | 2024-10-21 | 2024-12-21 |
 | [Mouvement Ewondo](https://open.spotify.com/track/0mcH1StoiW1ww6CbrfCnoW) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 7:52 | 2022-01-01 | 2022-10-11 |
 | [Moving Waves](https://open.spotify.com/track/1UCP7iid4Ur5bb8QlMRnPw) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 4:03 | 2024-01-18 |  |
-| [Musica](https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Lorenzo 2015 CC.](https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X) | 4:34 | 2021-12-29 |  |
+| [Musica](https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Lorenzo 2015 CC.](https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X) | 4:34 | 2021-12-29 | 2025-07-18 |
 | [Negropolitaines](https://open.spotify.com/track/5z2Tm9vWQpI0By5AFiunRQ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 7:19 | 2022-03-05 | 2022-03-07 |
 | [New Bell](https://open.spotify.com/track/32CdxI1J7RuzQSE4A9AnbV) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 6:48 | 2021-12-28 |  |
 | [Night In Zeralda](https://open.spotify.com/track/6KBQ2SXkZeMRb72ch5XXJ3) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 4:36 | 2021-12-28 |  |
@@ -132,6 +132,7 @@
 | [Sango Yesu Cristo](https://open.spotify.com/track/7uQVyVvcvCQYK6Kj1QOdzl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Mboa' Su Kamer Feelin'](https://open.spotify.com/album/7oBL9kG8zwtGGfGst2W0Iv) | 5:11 | 2021-12-28 | 2022-10-13 |
 | [Sax City](https://open.spotify.com/track/0WepWqVggMJ7OiVl4PBE8g) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 3:16 | 2021-12-28 |  |
 | [Senga](https://open.spotify.com/track/4DbnSZZzv5DvvqOC4hG14q) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Seventie's](https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP) | 3:04 | 2022-09-16 |  |
+| [Shake It Up](https://open.spotify.com/track/6cfmgoNQyklgCO52f6RHTT) | [Urban Recall](https://open.spotify.com/artist/1JbWVXXqimUrZshCMOa20z), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Les plus grands tubes pour faire la fête](https://open.spotify.com/album/5teS3Rew78baHD120LfAAm) | 3:04 | 2025-07-18 |  |
 | [Simm' Tutt'Uno](https://open.spotify.com/track/57fT5UTogxchiaQvjubZnh) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Bottari di Portico](https://open.spotify.com/artist/4eNK0Rn3bc2mUhIhLtLFmy) | [Simm' Tutt'Uno \(feat\. Jovanotti, Manu Dibango & Bottari Di Portico\)](https://open.spotify.com/album/1M4apnNZGhzyfTTrDADfIV) | 3:08 | 2022-09-20 | 2025-01-12 |
 | [Son de la Loma](https://open.spotify.com/track/0ud408pilz1RQQDVfITFZr) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 4:19 | 2022-05-18 | 2022-07-04 |
 | [Son de la Loma](https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:19 | 2021-12-29 |  |

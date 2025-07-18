@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > chill vibes to soundtrack your gaming session 🎮 👾
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,579 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,590 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 30 | [staring contest](https://open.spotify.com/track/5X3KZZrT6nBpwSBr0SY26L) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [don't look down](https://open.spotify.com/album/0pIgfIY5VrYdzAlliFnWdl) | 1:25 |
 | 31 | [Train Delays](https://open.spotify.com/track/27fserVzR1RsJ0FBkQIzSu) | [BeatsDotCom](https://open.spotify.com/artist/5Qly1NvJNo9y2GcL2AmRwc) | [Train Delays](https://open.spotify.com/album/4bWbawDFa9DwvPjS8tdNr6) | 2:00 |
 | 32 | [Pebbles](https://open.spotify.com/track/0OL92n7zIj1up8vY7DQFHg) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Pebbles](https://open.spotify.com/album/1vCG1uGoUIoFeCILsbmq3U) | 1:36 |
-| 33 | [Flights](https://open.spotify.com/track/5MBQzDJGmntPw0kI2wJm1W) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Flights](https://open.spotify.com/album/3THQrWkSD0kxlat1aVfefp) | 2:29 |
-| 34 | [Smooth Fields](https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Smooth Fields](https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht) | 2:50 |
+| 33 | [Smooth Fields](https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Smooth Fields](https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht) | 2:50 |
+| 34 | [Flights](https://open.spotify.com/track/5MBQzDJGmntPw0kI2wJm1W) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Flights](https://open.spotify.com/album/3THQrWkSD0kxlat1aVfefp) | 2:29 |
 | 35 | [an endless spring](https://open.spotify.com/track/0XIFV4GDAm0eGSpzDQgU5o) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [an endless spring](https://open.spotify.com/album/0EYe6j5EaDj1E4pi2XkYLa) | 1:52 |
 | 36 | [Insomnia Dream](https://open.spotify.com/track/4rtJXaHdYeaSOlWnka0xnP) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/4FANqNso2mEWdYcc2Ji4H3) | 2:42 |
 | 37 | [Keys](https://open.spotify.com/track/0ItIy3UqYx2Fark9GZVd2s) | [Ambivvalante](https://open.spotify.com/artist/6X73FARXq8LTDYVQiS1b4i) | [Keys](https://open.spotify.com/album/7z3Lvzo6c1bOLArHy76UOF) | 2:08 |

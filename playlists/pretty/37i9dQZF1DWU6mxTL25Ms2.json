@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 39016,
+  "num_followers": 39323,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 23",
+        "url": "https://open.spotify.com/album/7vrw9FVJm5hnwp7hokXDUG"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30e9\u30f3\u30bb\u30f3\u30c9 (CV. \u585a\u7530\u60a0\u8863)",
+          "url": "https://open.spotify.com/artist/7IxilqqfqYRowm1sO9y8ey"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "ZOKZOK",
+      "url": "https://open.spotify.com/track/0MLZzXaSvO4VMfYt7b42QA"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 11",
         "url": "https://open.spotify.com/album/4YbosSHmE5o4LIhQdds9tR"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 268466,
       "name": "Everlasting BEATS",
       "url": "https://open.spotify.com/track/2eCTlccWr1m9aWPTSnNCDk"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 23",
-        "url": "https://open.spotify.com/album/7vrw9FVJm5hnwp7hokXDUG"
-      },
-      "artists": [
-        {
-          "name": "\u30c8\u30e9\u30f3\u30bb\u30f3\u30c9 (CV. \u585a\u7530\u60a0\u8863)",
-          "url": "https://open.spotify.com/artist/7IxilqqfqYRowm1sO9y8ey"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "ZOKZOK",
-      "url": "https://open.spotify.com/track/0MLZzXaSvO4VMfYt7b42QA"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
-        "name": "\u30ed\u30b9\u30c8\u30b7\u30e3\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/4ESPE45QbsFjvYmTWGcUvY"
-      },
-      "artists": [
-        {
-          "name": "\u30ad\u30bf\u30b5\u30f3\u30d6\u30e9\u30c3\u30af (CV. \u77e2\u91ce\u5983\u83dc\u559c)",
-          "url": "https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS"
-        }
-      ],
-      "duration_ms": 258519,
-      "name": "\u30ed\u30b9\u30c8\u30b7\u30e3\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/6CLBJQ2UcOg0GlR1Wi0ycJ"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 23",
         "url": "https://open.spotify.com/album/7vrw9FVJm5hnwp7hokXDUG"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 268493,
       "name": "\u3046\u307e\u3074\u3087\u3044\u4f1d\u8aac",
       "url": "https://open.spotify.com/track/5hWyhmtY33UpCOs8XqiXYl"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
+        "name": "\u30ed\u30b9\u30c8\u30b7\u30e3\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/4ESPE45QbsFjvYmTWGcUvY"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30bf\u30b5\u30f3\u30d6\u30e9\u30c3\u30af (CV. \u77e2\u91ce\u5983\u83dc\u559c)",
+          "url": "https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS"
+        }
+      ],
+      "duration_ms": 258519,
+      "name": "\u30ed\u30b9\u30c8\u30b7\u30e3\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/6CLBJQ2UcOg0GlR1Wi0ycJ"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
+        "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30b0\u30cd\u30b9\u30bf\u30ad\u30aa\u30f3 (CV. \u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/4nfIxuZocDZ6pOYPQIJL35"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "\u30e9\u30a4\u30c8\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/2xpYCyhKWJ794Z6n3Qqw6q"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
         "name": "\u30a2\u30b3\u30ac\u30ecChallenge Dash!!",
         "url": "https://open.spotify.com/album/2bF2xbLsJhErOhSzn7a3YY"
       },
@@ -1144,22 +1160,6 @@
       },
       "artists": [
         {
-          "name": "\u30a2\u30b0\u30cd\u30b9\u30bf\u30ad\u30aa\u30f3 (CV. \u4e0a\u5742\u3059\u307f\u308c)",
-          "url": "https://open.spotify.com/artist/4nfIxuZocDZ6pOYPQIJL35"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "\u30e9\u30a4\u30c8\u30ec\u30b9",
-      "url": "https://open.spotify.com/track/2xpYCyhKWJ794Z6n3Qqw6q"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
-        "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
-      },
-      "artists": [
-        {
           "name": "\u30a2\u30b0\u30cd\u30b9\u30c7\u30b8\u30bf\u30eb (CV. \u9234\u6728\u307f\u306e\u308a)",
           "url": "https://open.spotify.com/artist/6f3TdjJSdD7dMLX5tH4hex"
         },
@@ -1211,6 +1211,26 @@
       "duration_ms": 246200,
       "name": "WINnin' 5 -\u30a6\u30a4\u30cb\u30f3\u30b0\u2606\u30d5\u30a1\u30a4\u30f4-",
       "url": "https://open.spotify.com/track/53qxLgBsDs8RU3iVdqHAvl"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
+        "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u30b9\u30ba\u30ab (CV. \u9ad8\u91ce\u9ebb\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/4pYvIklxg2YALG0A8MLUXD"
+        },
+        {
+          "name": "\u30a2\u30b0\u30cd\u30b9\u30bf\u30ad\u30aa\u30f3 (CV. \u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/4nfIxuZocDZ6pOYPQIJL35"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "transforming",
+      "url": "https://open.spotify.com/track/6YtQEadXsPqwoZZIrjl2Np"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -1271,26 +1291,6 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
-        "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u30b9\u30ba\u30ab (CV. \u9ad8\u91ce\u9ebb\u91cc\u4f73)",
-          "url": "https://open.spotify.com/artist/4pYvIklxg2YALG0A8MLUXD"
-        },
-        {
-          "name": "\u30a2\u30b0\u30cd\u30b9\u30bf\u30ad\u30aa\u30f3 (CV. \u4e0a\u5742\u3059\u307f\u308c)",
-          "url": "https://open.spotify.com/artist/4nfIxuZocDZ6pOYPQIJL35"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "transforming",
-      "url": "https://open.spotify.com/track/6YtQEadXsPqwoZZIrjl2Np"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 10",
         "url": "https://open.spotify.com/album/44DkZW1QqvvagMtMDCQtl4"
       },
@@ -1319,54 +1319,18 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
-        "name": "Ambitious World",
-        "url": "https://open.spotify.com/album/1iPSlNLaXzFsVUQihTm980"
+        "name": "\u5922\u306e\u3053\u305f\u3048",
+        "url": "https://open.spotify.com/album/3Ow5Lu4YoOwsXQV2XfYL81"
       },
       "artists": [
         {
           "name": "\u30b5\u30c8\u30ce\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9 (CV. \u7acb\u82b1\u65e5\u83dc)",
           "url": "https://open.spotify.com/artist/3CM8ZXEF2A0gALNS4vptp0"
-        },
-        {
-          "name": "\u30ad\u30bf\u30b5\u30f3\u30d6\u30e9\u30c3\u30af (CV. \u77e2\u91ce\u5983\u83dc\u559c)",
-          "url": "https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS"
         }
       ],
-      "duration_ms": 221986,
-      "name": "Ambitious World",
-      "url": "https://open.spotify.com/track/4pQGA0WbR8Izux7YnnWS2j"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
-        "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30a2\u30b0\u30eb\u30fc\u30f4 (CV. \u9752\u6728\u7460\u7483\u5b50)",
-          "url": "https://open.spotify.com/artist/5nKLtpb9d7l5i097fKZYnO"
-        },
-        {
-          "name": "\u30ab\u30ef\u30ab\u30df\u30d7\u30ea\u30f3\u30bb\u30b9 (CV. \u9ad8\u6a4b\u82b1\u6797)",
-          "url": "https://open.spotify.com/artist/4ho6YVpUllDLsb3UoK5kyI"
-        },
-        {
-          "name": "\u30b9\u30a4\u30fc\u30d7\u30c8\u30a6\u30b7\u30e7\u30a6 (CV. \u6749\u6d66\u3057\u304a\u308a)",
-          "url": "https://open.spotify.com/artist/4TOXoeRQAb3mg05ZVVlz98"
-        },
-        {
-          "name": "\u30cb\u30b7\u30ce\u30d5\u30e9\u30ef\u30fc (CV. \u6cb3\u4e95\u6674\u83dc)",
-          "url": "https://open.spotify.com/artist/4MGldw1KFcgtUeK1eP3XLR"
-        },
-        {
-          "name": "\u30e1\u30b8\u30ed\u30c9\u30fc\u30d9\u30eb (CV. \u4e45\u4fdd\u7530\u3072\u304b\u308a)",
-          "url": "https://open.spotify.com/artist/24noUo4DlVnbOHdAOg7eXc"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "\u5f69 Phantasia",
-      "url": "https://open.spotify.com/track/5jQe1D7i1LeuQrswdHJGSG"
+      "duration_ms": 325346,
+      "name": "\u5922\u306e\u3053\u305f\u3048",
+      "url": "https://open.spotify.com/track/1meMOKwFOq0PvuNwoGEIVy"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -1403,6 +1367,38 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
+        "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30a2\u30b0\u30eb\u30fc\u30f4 (CV. \u9752\u6728\u7460\u7483\u5b50)",
+          "url": "https://open.spotify.com/artist/5nKLtpb9d7l5i097fKZYnO"
+        },
+        {
+          "name": "\u30ab\u30ef\u30ab\u30df\u30d7\u30ea\u30f3\u30bb\u30b9 (CV. \u9ad8\u6a4b\u82b1\u6797)",
+          "url": "https://open.spotify.com/artist/4ho6YVpUllDLsb3UoK5kyI"
+        },
+        {
+          "name": "\u30b9\u30a4\u30fc\u30d7\u30c8\u30a6\u30b7\u30e7\u30a6 (CV. \u6749\u6d66\u3057\u304a\u308a)",
+          "url": "https://open.spotify.com/artist/4TOXoeRQAb3mg05ZVVlz98"
+        },
+        {
+          "name": "\u30cb\u30b7\u30ce\u30d5\u30e9\u30ef\u30fc (CV. \u6cb3\u4e95\u6674\u83dc)",
+          "url": "https://open.spotify.com/artist/4MGldw1KFcgtUeK1eP3XLR"
+        },
+        {
+          "name": "\u30e1\u30b8\u30ed\u30c9\u30fc\u30d9\u30eb (CV. \u4e45\u4fdd\u7530\u3072\u304b\u308a)",
+          "url": "https://open.spotify.com/artist/24noUo4DlVnbOHdAOg7eXc"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "\u5f69 Phantasia",
+      "url": "https://open.spotify.com/track/5jQe1D7i1LeuQrswdHJGSG"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
         "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
       },
@@ -1435,18 +1431,22 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
-        "name": "\u5922\u306e\u3053\u305f\u3048",
-        "url": "https://open.spotify.com/album/3Ow5Lu4YoOwsXQV2XfYL81"
+        "name": "Ambitious World",
+        "url": "https://open.spotify.com/album/1iPSlNLaXzFsVUQihTm980"
       },
       "artists": [
         {
           "name": "\u30b5\u30c8\u30ce\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9 (CV. \u7acb\u82b1\u65e5\u83dc)",
           "url": "https://open.spotify.com/artist/3CM8ZXEF2A0gALNS4vptp0"
+        },
+        {
+          "name": "\u30ad\u30bf\u30b5\u30f3\u30d6\u30e9\u30c3\u30af (CV. \u77e2\u91ce\u5983\u83dc\u559c)",
+          "url": "https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS"
         }
       ],
-      "duration_ms": 325346,
-      "name": "\u5922\u306e\u3053\u305f\u3048",
-      "url": "https://open.spotify.com/track/1meMOKwFOq0PvuNwoGEIVy"
+      "duration_ms": 221986,
+      "name": "Ambitious World",
+      "url": "https://open.spotify.com/track/4pQGA0WbR8Izux7YnnWS2j"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 vol.2 \u6728\u6f0f\u308c\u65e5\u306e\u30a8\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6OsHfe5rmpFicRsAXJG14K"
-      },
-      "artists": [
-        {
-          "name": "\u30e9\u30a4\u30b9\u30b7\u30e3\u30ef\u30fc (CV. \u77f3\u898b\u821e\u83dc\u9999)",
-          "url": "https://open.spotify.com/artist/1AOWLHlfdNfnHzoUsgdVuY"
-        }
-      ],
-      "duration_ms": 297320,
-      "name": "\u3055\u3055\u3084\u304b\u306a\u7948\u308a",
-      "url": "https://open.spotify.com/track/7pjEKdz2TmBlX5wWopXz10"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 05",
         "url": "https://open.spotify.com/album/20ZzGezmzDKqZ9UsAgHWsJ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 295000,
       "name": "RUN\u00d7RUN\uff01",
       "url": "https://open.spotify.com/track/2S0bS3tTV8jqz0WxZel9AG"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 vol.2 \u6728\u6f0f\u308c\u65e5\u306e\u30a8\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6OsHfe5rmpFicRsAXJG14K"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30a4\u30b9\u30b7\u30e3\u30ef\u30fc (CV. \u77f3\u898b\u821e\u83dc\u9999)",
+          "url": "https://open.spotify.com/artist/1AOWLHlfdNfnHzoUsgdVuY"
+        }
+      ],
+      "duration_ms": 297320,
+      "name": "\u3055\u3055\u3084\u304b\u306a\u7948\u308a",
+      "url": "https://open.spotify.com/track/7pjEKdz2TmBlX5wWopXz10"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 06",
+        "url": "https://open.spotify.com/album/1DItdfNHZwHM4QKxRllEvz"
+      },
+      "artists": [
+        {
+          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c3\u30d7 (CV. \u4e0a\u7530 \u77b3)",
+          "url": "https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "\u3071\u304b\u30c1\u30e5\u30fc\u30d6\u3063\uff01\u3067\u3059\u304c\u3001\u4f55\u304b\uff1f",
+      "url": "https://open.spotify.com/track/3jleDDzsLxVssqpDKaokUQ"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
         "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 02 (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/6Jxt4fzFmb8mF5Cp93Lghx"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 285653,
       "name": "UNLIMITED IMPACT - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/2rGyXPq85Vwk6nGt8jyuuc"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 06",
-        "url": "https://open.spotify.com/album/1DItdfNHZwHM4QKxRllEvz"
-      },
-      "artists": [
-        {
-          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c3\u30d7 (CV. \u4e0a\u7530 \u77b3)",
-          "url": "https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "\u3071\u304b\u30c1\u30e5\u30fc\u30d6\u3063\uff01\u3067\u3059\u304c\u3001\u4f55\u304b\uff1f",
-      "url": "https://open.spotify.com/track/3jleDDzsLxVssqpDKaokUQ"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 06",
+        "url": "https://open.spotify.com/album/1DItdfNHZwHM4QKxRllEvz"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u5927\u8def\u61b2\u592a",
+          "url": "https://open.spotify.com/artist/0Ah8cRG8q40ykSGAfxGU3d"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "\u65e5\u672c\u30c0\u30fc\u30d3\u30fc \u6709\u99ac\u8a18\u5ff5 URA\u6c7a\u52dd",
+      "url": "https://open.spotify.com/track/5JXvLMb6Jle6PBkkCi5AcH"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
         "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 284266,
       "name": "Lucky Comes True! - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/5V3ooILkQ076X0jWHQTkkb"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 06",
-        "url": "https://open.spotify.com/album/1DItdfNHZwHM4QKxRllEvz"
-      },
-      "artists": [
-        {
-          "name": "\u6771\u5927\u8def\u61b2\u592a",
-          "url": "https://open.spotify.com/artist/0Ah8cRG8q40ykSGAfxGU3d"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "\u65e5\u672c\u30c0\u30fc\u30d3\u30fc \u6709\u99ac\u8a18\u5ff5 URA\u6c7a\u52dd",
-      "url": "https://open.spotify.com/track/5JXvLMb6Jle6PBkkCi5AcH"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 06",
+        "url": "https://open.spotify.com/album/1DItdfNHZwHM4QKxRllEvz"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u6176\u4e45 (Cygames)",
+          "url": "https://open.spotify.com/artist/6QBHDuiHqah0p3Aj1J6GEV"
+        }
+      ],
+      "duration_ms": 202920,
+      "name": "G\u2160\uff06URA\u30d5\u30a1\u30a4\u30ca\u30eb\u30ba",
+      "url": "https://open.spotify.com/track/1ptkNzYN9FcfUlVyBsg8V8"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
         "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 10 (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/6GIuE9Pkw2QAtqYEM0cmmm"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 257426,
       "name": "\u30e6\u30e1\u30be\u30e9 - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/6lFPlhhvDXsTrxlEi3gQ6j"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 06",
-        "url": "https://open.spotify.com/album/1DItdfNHZwHM4QKxRllEvz"
-      },
-      "artists": [
-        {
-          "name": "\u52a0\u85e4\u6176\u4e45 (Cygames)",
-          "url": "https://open.spotify.com/artist/6QBHDuiHqah0p3Aj1J6GEV"
-        }
-      ],
-      "duration_ms": 202920,
-      "name": "G\u2160\uff06URA\u30d5\u30a1\u30a4\u30ca\u30eb\u30ba",
-      "url": "https://open.spotify.com/track/1ptkNzYN9FcfUlVyBsg8V8"
     }
   ],
   "unique_name": "Umamusume: Pretty Derby",

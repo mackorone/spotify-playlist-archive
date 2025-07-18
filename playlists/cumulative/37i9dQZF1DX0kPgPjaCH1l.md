@@ -4,7 +4,7 @@
 
 > Baba God, run am 🙏\. <br/>Cover: Ayo Maff
 
-86 songs - 4 hr 4 min
+87 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [JUNGLE](https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [JUNGLE](https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4) | 2:40 | 2025-06-20 |  |
 | [Karma](https://open.spotify.com/track/4kdLYxqvPduwC5oAdXhMLh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:34 | 2025-06-20 |  |
 | [Lameda](https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [LAMEDA / AWAY](https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky) | 2:16 | 2025-06-20 |  |
+| [Letter To My Guys \- \(LTMG\)](https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Letter To My Guys \(LTMG\)](https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce) | 3:12 | 2025-07-18 |  |
 | [Loner \(Alone\)](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner \(Alone\)](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 | 2025-06-20 |  |
 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 | 2025-06-20 |  |
 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 | 2025-06-20 |  |
@@ -65,7 +66,7 @@
 | [Money Must Drop](https://open.spotify.com/track/5Ryse1pa8SEKCt80MHOcJY) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH), [Effizy](https://open.spotify.com/artist/6xx8uwM0k7VMnmZC1nOgoY) | [Money Must Drop](https://open.spotify.com/album/45WqqtUFXM2EsJVcpF8k0C) | 4:08 | 2025-06-20 |  |
 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 | 2025-06-20 |  |
 | [Nzaza](https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:03 | 2025-06-20 |  |
-| [Oblee](https://open.spotify.com/track/6dSmpNvpSWZy88ZOyZSLVr) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Oblee](https://open.spotify.com/album/5xIATxfcsyTr21fMTSmplp) | 2:37 | 2025-06-20 |  |
+| [Oblee](https://open.spotify.com/track/6dSmpNvpSWZy88ZOyZSLVr) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Oblee](https://open.spotify.com/album/5xIATxfcsyTr21fMTSmplp) | 2:37 | 2025-06-20 | 2025-07-18 |
 | [OLAITAN \- OLAOLUWA](https://open.spotify.com/track/24Tx4htE4jbGXiDa864tHN) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:03 | 2025-06-20 | 2025-07-05 |
 | [Orin Halleluyah](https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox) | [Kashy](https://open.spotify.com/artist/0DYnwgN5Jo8G58o26XIfK6), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kashamadupe](https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D) | 2:28 | 2025-06-20 |  |
 | [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 | 2025-06-20 |  |

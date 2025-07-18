@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-283 songs - 17 hr 22 min
+285 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Even If It's a Lie \- Demo](https://open.spotify.com/track/0MVeLASrPyBrC6hwwhIMwu) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Even If It's a Lie \(Demo\)](https://open.spotify.com/album/2wSZEUpAFUNx5bpY5RjUHs) | 3:57 | 2025-07-04 |  |
 | [everything to die for](https://open.spotify.com/track/05x8IQafuKgd3icfkyprxh) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [everything to die for](https://open.spotify.com/album/2wP6cJwvwsHdwLmnvR0Pr2) | 3:11 | 2024-02-09 | 2024-07-13 |
 | [everything to die for](https://open.spotify.com/track/5w7pIkf7juDYcl6ejrSvzQ) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [the mould](https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco) | 3:11 | 2024-02-23 | 2024-04-19 |
+| [Exhale](https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Exhale](https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60) | 3:16 | 2025-07-17 |  |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2025-07-04 |  |
 | [Fair Weather Lover](https://open.spotify.com/track/4KjvtegojYGdeVqCy8rk0Z) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Fair Weather Lover](https://open.spotify.com/album/3CbKO4e8b3iMwAUH1SJVZM) | 4:04 | 2023-10-13 | 2025-07-04 |
 | [Fake Moon](https://open.spotify.com/track/5CNRQl4e0b2mMF7Zz3f34U) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Fake Moon](https://open.spotify.com/album/0kfLXfbPt4wGJ8BmBXcPjx) | 2:14 | 2022-02-18 | 2023-05-13 |
@@ -90,7 +91,7 @@
 | [Forever For Now](https://open.spotify.com/track/36wyK4BQLsL2wy3gWCgz4F) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Joshua](https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ) | 4:13 | 2023-11-24 | 2025-07-04 |
 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 | 2022-10-14 | 2025-07-04 |
 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 | 2025-07-04 |  |
-| [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-08-07 |  |
+| [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-08-07 | 2025-07-18 |
 | [FU](https://open.spotify.com/track/2F37All4Cmeteqm0aTc1gC) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [FU](https://open.spotify.com/album/5MsObBgbn9V4EJAx49ZCc4) | 2:53 | 2021-12-10 | 2023-04-01 |
 | [Funeral Suit](https://open.spotify.com/track/7ctqPdQ1BWEykjej9bJSRi) | [BLÁNID](https://open.spotify.com/artist/1usjVOtaUFAvJ3lSXCoJBU) | [Funeral Suit](https://open.spotify.com/album/1NhiohDtzPGofrevIgGgXN) | 3:21 | 2024-08-08 | 2025-07-04 |
 | [Future History](https://open.spotify.com/track/2S1K6UlJ0hSOGcG8gCgt9m) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Future History](https://open.spotify.com/album/1fk0AaDbZMUX4z4PQNwkfr) | 4:05 | 2022-11-25 | 2025-07-04 |
@@ -170,6 +171,7 @@
 | [Medication \(demo\)](https://open.spotify.com/track/6JQXhEiM8CuOUghiDmFRm3) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Medication \(demo\)](https://open.spotify.com/album/0CiScWsTD9BO0B7dtjU5sk) | 3:21 | 2022-06-10 | 2023-01-07 |
 | [Midnight](https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Sunset Traveler](https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh) | 1:44 | 2021-12-10 |  |
 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 | 2021-12-10 | 2024-04-30 |
+| [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 | 2025-07-17 |  |
 | [Moments](https://open.spotify.com/track/7LiJ0JzkwqfPUVS5mOHwBs) | [Link Lewis](https://open.spotify.com/artist/2aBpZ2C5sQ8eZuHG7xLEAt) | [Moments](https://open.spotify.com/album/6op5AV0Uy05zvjsJyp8IGX) | 4:08 | 2021-12-10 | 2022-04-02 |
 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 | 2021-12-10 | 2024-02-09 |
 | [Movie Star](https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 1:32 | 2024-04-29 |  |
@@ -229,7 +231,7 @@
 | [Smoke](https://open.spotify.com/track/24Avnz5JAgVmH0xNBsXUvH) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Smoke](https://open.spotify.com/album/6bbFvcKFbe4xqSxGzyIegJ) | 3:38 | 2022-04-01 | 2023-09-02 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 | 2023-10-14 |
 | [Someone Else](https://open.spotify.com/track/3vyhs76SzpxIsf8o1rvgUW) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Someone Else](https://open.spotify.com/album/0Z5e42bnyBucUf0ur5Dfbe) | 1:41 | 2024-08-07 | 2025-07-05 |
-| [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 | 2021-12-10 |  |
+| [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 | 2021-12-10 | 2025-07-18 |
 | [Sometimes \(I Can Be An Island\)](https://open.spotify.com/track/2wZqjKaqUmiWcledmQKT31) | [James Holt](https://open.spotify.com/artist/5RU4BAi19LHkaPFcE1USkb) | [Sometimes \(I Can Be An Island\)](https://open.spotify.com/album/1wK7OS6xYjNf7ctNBtOfMw) | 3:41 | 2023-10-13 | 2025-07-04 |
 | [Song of Carmen](https://open.spotify.com/track/4y7j2tXAiFNcttga2kqm87) | [Luca Wilding](https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL) | [Book of Fate](https://open.spotify.com/album/0W9u5uM8EuVciM7bZPhf3h) | 4:20 | 2021-12-10 | 2023-02-18 |
 | [Songs in the Kitchen](https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [Songs in the Kitchen](https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ) | 3:10 | 2022-11-25 |  |

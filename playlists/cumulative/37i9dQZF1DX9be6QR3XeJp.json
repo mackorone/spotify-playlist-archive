@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: CARI",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Aaron Rowe",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -5126,6 +5126,24 @@
       "duration_ms": 212297,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/3BcMePW9jGSfzYqlNHdtvz"
+    },
+    {
+      "album": {
+        "name": "Talking With You",
+        "url": "https://open.spotify.com/album/6Vo9YlIwOas8Qe0xmBYmKY"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206349,
+      "name": "Talking With You",
+      "url": "https://open.spotify.com/track/4TwSW6rHHGs2oL58Bs8ADA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,385 songs - 19 day 4 hr 42 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,393 songs - 19 day 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3275,7 +3275,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 3265 | [옛 사랑](https://open.spotify.com/track/4ceWmKRPe3PGXz4ZyEt3le) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 7집 VII](https://open.spotify.com/album/0AtA5WA9wdMmoaIGjPobJ5) | 4:46 |
 | 3266 | [Never Ending Story](https://open.spotify.com/track/6Qa7ooyOGYyf9oHA0I9Ay3) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [He's Coming](https://open.spotify.com/album/79G1oGLZPcyQAyPBRb8HJi) | 4:59 |
 | 3267 | [그런 사람 또 없습니다](https://open.spotify.com/track/5MGZPn7QWGD3DTmPyrpj79) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [Mutopia](https://open.spotify.com/album/4ybqL6fP7aAL7vPKIOr9Lh) | 3:46 |
-| 3268 | [Unforgettable Love](https://open.spotify.com/track/10I0XvqeFkhn1whqXuMY73) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [MY LOVE](https://open.spotify.com/album/7GY9pspYl7ZhkB208buN3b) | 3:23 |
+| 3268 | [My Love](https://open.spotify.com/track/10I0XvqeFkhn1whqXuMY73) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [MY LOVE](https://open.spotify.com/album/7GY9pspYl7ZhkB208buN3b) | 3:23 |
 | 3269 | [마지막 콘서트](https://open.spotify.com/track/03TyRg9pplxBVMQEX8v5Z1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [NO.1\(2008 Original Recording Remastered\)](https://open.spotify.com/album/392UZ7XGiVGSBf6IXRQiBr) | 4:16 |
 | 3270 | [그런 사람 또 없습니다](https://open.spotify.com/track/0oFwQjyV2zmSVPfCFO0mqM) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [슬픔보다 더 슬픈 이야기 OST](https://open.spotify.com/album/2eMVyJqVEfwvGUQ6LUXegb) | 3:43 |
 | 3271 | [희야](https://open.spotify.com/track/5v5qVx5eXNyqnkbXPPeOOz) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [이승철 1집 \(안녕이라고 말하지마\)](https://open.spotify.com/album/0h3ZhN3lGqfhLjpsKDOeQr) | 2:23 |
@@ -7393,5 +7393,13 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7383 | [나 가거든](https://open.spotify.com/track/697iSASa9UXARX0baUqREG) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Yangpa The Best Album \- PI..ANWHA](https://open.spotify.com/album/6QPy92SsNFM5I8yQnNcFRk) | 5:26 |
 | 7384 | [Goose's Dream \(Original\)](https://open.spotify.com/track/5nWhMu5iSKmibvr0uMQmWd) | [Insooni](https://open.spotify.com/artist/5jGYA5Yz8Tt8UFx5jbtxTy) | [Goose's Dream/To All Dreamers](https://open.spotify.com/album/7t69eXfrQb8fY51q8EvMQe) | 5:42 |
 | 7385 | [Rain](https://open.spotify.com/track/6QnApmZYvUbrwkDbhqULJS) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Dead End](https://open.spotify.com/album/0lLCE3UPVvppCmTL0sy8e9) | 4:48 |
+| 7386 | [DA WIZARD](https://open.spotify.com/track/3MG4uJgccswTKrjheG54eW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 2:36 |
+| 7387 | [F.I.C.O.](https://open.spotify.com/track/6X5sXeRwqbqPsZ8FFFae0F) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 3:21 |
+| 7388 | [Let God Sort Em Out/Chandeliers](https://open.spotify.com/track/2x2IOYqWknW8JWr32cg6JX) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 2:32 |
+| 7389 | [So Far Ahead](https://open.spotify.com/track/6kIwGkZQksciLIjIbM0NFo) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 3:22 |
+| 7390 | [M.T.B.T.T.F.](https://open.spotify.com/track/3fZd2UtWZMntClCSnJ7PDY) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 2:36 |
+| 7391 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 4:36 |
+| 7392 | [Mind Over Matter \(Reprise\)](https://open.spotify.com/track/77KnJc8o5G1eKVwX5ywMeZ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirrorball / Mind Over Matter \(Reprise\)](https://open.spotify.com/album/2Xp4fbuZF8UNC3b774j7zE) | 3:50 |
+| 7393 | [1995](https://open.spotify.com/track/0Qopdd7xJyhNd3tcvZEAgG) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [1995](https://open.spotify.com/album/5ZqVzbaifdjMAYbIRDfFGy) | 4:49 |
 
-Snapshot ID: `AAAHkVSp5ZEb1xrjuYeu6dWxcAqjH7u0`
+Snapshot ID: `AAAHmY/58SjoZn12uGhlUNOT6DWTOswr`

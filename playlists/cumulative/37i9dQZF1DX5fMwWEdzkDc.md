@@ -4,7 +4,7 @@
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-205 songs - 13 hr 44 min
+206 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [My Lecon](https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm) | [JTL](https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC) | [Enter The Dragon](https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR) | 3:26 | 2021-03-11 |  |
 | [MY LOVE](https://open.spotify.com/track/2q0vsC4RXXGtTsyAm6qHP1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [LEE SEUNG CHUL\-THE BEST LIVE \(WORLD TOUR\)](https://open.spotify.com/album/00KwiwUMAW7d13SUOgQhmN) | 3:04 | 2021-03-11 | 2023-04-17 |
 | [My love has faded away](https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [My love has faded away](https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB) | 3:40 | 2024-04-04 |  |
-| [My Name](https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [My Name \- The 4th Album](https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy) | 3:13 | 2021-03-11 |  |
+| [My Name](https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [My Name \- The 4th Album](https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy) | 3:13 | 2021-03-11 | 2025-07-18 |
 | [Neo Classicism \- 눈의 꽃 \- Remake Version](https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW) | [Five Sense](https://open.spotify.com/artist/1W8cDoqWbmovusGp27bHFp) | [Neo Classicism \- 눈의 꽃](https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul) | 5:42 | 2024-04-04 | 2025-05-27 |
 | [No matter where](https://open.spotify.com/track/7oT5JOWwxnwcZRI6NLzhWs) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Pathos](https://open.spotify.com/album/42FCxz16YLTZ1nw5lVfpaR) | 5:31 | 2024-04-04 |  |
 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 | 2021-03-11 |  |
@@ -113,6 +113,7 @@
 | [Sign](https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [Brown Eyed Girls BEST \- Special Moments](https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y) | 3:23 | 2021-03-11 | 2024-04-19 |
 | [Snow Prince](https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 \(Single\) 2집](https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq) | 3:24 | 2021-03-11 | 2025-01-20 |
 | [So Cool](https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SO COOL](https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO) | 3:21 | 2021-03-11 |  |
+| [So Fresh](https://open.spotify.com/track/7h2JM9Sp1lAtXXyOpBiHMR) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [So Fresh](https://open.spotify.com/album/697XKzYvrKSG7K5G1kqYSi) | 4:04 | 2024-08-05 |  |
 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 | 2024-04-04 |  |
 | [Stay](https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [BLAQ Style](https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF) | 3:20 | 2021-03-11 |  |
 | [Story of someone I know](https://open.spotify.com/track/6qnOvA4WbP3HdYd1DFRoCr) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Story of someone I know](https://open.spotify.com/album/6sfusYb200S4DfUMfaM3Sh) | 3:26 | 2021-03-11 | 2024-04-19 |

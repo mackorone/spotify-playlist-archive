@@ -3057,6 +3057,28 @@
     },
     {
       "album": {
+        "name": "\u56e0\u70ba\u4f60\u8d70\u904e\u4f86",
+        "url": "https://open.spotify.com/album/23Yn1fD6aFJbsjocszVZSJ"
+      },
+      "artists": [
+        {
+          "name": "Papaya Duck",
+          "url": "https://open.spotify.com/artist/09uL1PjQRBf2t6HwcYLuPU"
+        },
+        {
+          "name": "\u554a\u98c4",
+          "url": "https://open.spotify.com/artist/5Nn2KsN0krn53NbG2P48fa"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222065,
+      "name": "\u56e0\u70ba\u4f60\u8d70\u904e\u4f86",
+      "url": "https://open.spotify.com/track/2OLp94hX626ZPbJWfmiIM8"
+    },
+    {
+      "album": {
         "name": "\u5728\u4f60\u5de6\u53f3 - \u7db2\u5287\u300a\u5fc3\u52d5100\u79d2\u300b\u4e3b\u984c\u66f2",
         "url": "https://open.spotify.com/album/7heJz7mX6WqZwEmAFnYRvG"
       },
@@ -5432,7 +5454,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 228169,
       "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
       "url": "https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ"

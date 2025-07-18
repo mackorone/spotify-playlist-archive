@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzrEOEOM5Qu.md) - [plain]
 
 > New and classic Christmas tales for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,842 likes - 25 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,834 likes - 25 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzrEOEOM5Qu.md) - [plain]
 | 3 | [The Night Before Christmas \(Story\)](https://open.spotify.com/track/6xzTn36XLj6YGfmkmNBZ5B) | [Kidzone](https://open.spotify.com/artist/6i1qu6ITcSL2Ss6qr7Nzkn) | [Christmas Carols & Stories \(A Treasury of Festive Fun\)](https://open.spotify.com/album/53IkHZsY9R3oJ52BSS5twD) | 3:54 |
 | 4 | [How The Grinch Stole Christmas](https://open.spotify.com/track/78pPHU58bb6ODWggC7Pyb6) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [How The Grinch Stole Christmas](https://open.spotify.com/album/13cUx8LoPoOcG4LEeRBv2q) | 21:36 |
 | 5 | [How to Catch an Elf \- Unabridged](https://open.spotify.com/track/09FAKtIIHRyhL3dVN8FmEt) | [Adam Wallace](https://open.spotify.com/artist/73j6cBMfIP39GqwyJE8pZA), [Kirby Heyborne](https://open.spotify.com/artist/7dW2aF2TxP71nr35Ka1p5o) | [How to Catch an Elf \(Unabridged\)](https://open.spotify.com/album/0p9AmaRSKSbIxfZUMHKAet) | 6:03 |
-| 6 | [The Story of Father Christmas](https://open.spotify.com/track/1MhQbjxWV6NhP0Vk6Ydasq) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Christmas Hits for Kids : Childrens Christmas Music and Xmas Songs](https://open.spotify.com/album/4i5wzTShLRiQ7V1jk7KPOy) | 6:47 |
+| 6 | [The Story of Father Christmas](https://open.spotify.com/track/1MhQbjxWV6NhP0Vk6Ydasq) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Christmas Hits for Kids](https://open.spotify.com/album/4i5wzTShLRiQ7V1jk7KPOy) | 6:47 |
 | 7 | [The Story Of The Snowman](https://open.spotify.com/track/61Ah9nk3g0iWCJNn9trAaD) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei) | [The Snowman](https://open.spotify.com/album/2FcJpDHg4WaTcmqtPzJeuF) | 15:30 |
 | 8 | [The Story Of The Snowman \(continued\)](https://open.spotify.com/track/1FLrsZEEPLhcwxZA1USfCC) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei) | [The Snowman](https://open.spotify.com/album/2FcJpDHg4WaTcmqtPzJeuF) | 6:40 |
 | 9 | [Mickey's Christmas Carol](https://open.spotify.com/track/0hrJ4WPk9fxM10FSphzmxw) | [Alan Young](https://open.spotify.com/artist/4PARbWiRYdpx1rO3OG97xP) | [Mickey's Christmas Carol](https://open.spotify.com/album/0qTBASJ7RydzzYA1GWq5sL) | 33:34 |

@@ -2,9 +2,9 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: B Ray
 
-301 songs - 17 hr 39 min
+302 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [EM CHỈ IM LẶNG](https://open.spotify.com/track/4W5QAfHlwNHAxosC2sNjWq) | [Osad](https://open.spotify.com/artist/6sJBvMCAi9NuNCxI9RDYDW), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [lil'O](https://open.spotify.com/album/2BZr8To1UoZMvADNCV2mAO) | 3:22 | 2023-12-08 | 2023-12-11 |
 | [Em iu](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Em iu](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:59 | 2023-10-19 |  |
 | [Em Thích](https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/0o0vf9ksC3aChWzJXZj6D0) | 2:56 | 2023-11-14 | 2024-01-09 |
-| [Ex's Hate Me](https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Ex's Hate Me](https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm) | 4:18 | 2024-10-03 |  |
+| [Ex's Hate Me](https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Ex's Hate Me](https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm) | 4:18 | 2024-10-03 | 2025-07-18 |
 | [ex's hate me, Pt\. 2](https://open.spotify.com/track/0Rx4GFPy8ISxPhRwkjl64b) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:36 | 2024-02-15 | 2024-08-17 |
 | [Exit Sign](https://open.spotify.com/track/3UX7FjJDl6RodnWekzFwEB) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 3:21 | 2023-10-19 | 2025-03-14 |
 | [Exit Sign](https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 3:21 | 2024-03-07 | 2024-04-19 |
@@ -243,6 +243,7 @@
 | [Thanh Âm Da Vàng](https://open.spotify.com/track/3YW5gvoQ2H77ftMq1ME2pu) | [Lãng](https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83) | [Thanh Âm Da Vàng](https://open.spotify.com/album/6yxagIj4s5Ic2grT8J2MbM) | 3:00 | 2025-05-13 | 2025-05-16 |
 | [thap trap tu do \- remix](https://open.spotify.com/track/4IjFRncpS1t5cXKDzs68Iy) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [thap trap tu do \(remix\)](https://open.spotify.com/album/4ptD1JJgSXmsTtiRlv4JQu) | 2:29 | 2025-04-17 | 2025-05-10 |
 | [Thay Đổi](https://open.spotify.com/track/3tJC3m7HJ6Y5XoKGEkc5vt) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz) | [An](https://open.spotify.com/album/0J9ZJ2vnTHm4NpzKVE779w) | 3:15 | 2024-06-12 | 2024-06-18 |
+| [The One](https://open.spotify.com/track/1HLesWEjgNhGaxgxefNrqZ) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Đạt G](https://open.spotify.com/artist/4R3mugkUqCALXgkwSptTbg) | [Cho Bảo](https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9) | 3:11 | 2025-07-17 |  |
 | [The One For Me](https://open.spotify.com/track/3eJr9Z8KZuOTRblAeJi2zB) | [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [THE ONE](https://open.spotify.com/album/1qdmgU35Clg7RPfMShUNkN) | 3:59 | 2025-07-10 | 2025-07-15 |
 | [Thiêu Thân](https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Sofia](https://open.spotify.com/artist/0obXkAXG0Ivhjj6TK6QZfd), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Thiêu Thân](https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9) | 3:18 | 2024-06-12 | 2025-03-24 |
 | [Thèn Chóa](https://open.spotify.com/track/1wG0HYACxdu3Kdz3mI4ca6) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 4:04 | 2024-11-28 | 2025-02-07 |

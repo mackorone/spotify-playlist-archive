@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-900 songs - 1 day 20 hr 33 min
+902 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Brief Moment](https://open.spotify.com/track/5OfZLjDUzrke9xWALBYVD7) | [Megan Elofius](https://open.spotify.com/artist/5L1XP5AqWWx7KskdRSiYFo) | [Brief Moment](https://open.spotify.com/album/2aDP4doHSJRMY2ldK185fD) | 3:04 | 2022-09-01 | 2023-08-30 |
 | [Brilliance](https://open.spotify.com/track/5YPIHz8UW4svRQXWQLOEca) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Brilliance](https://open.spotify.com/album/2B8IiSDoWZO1j4hRyAa8fF) | 2:48 | 2025-01-07 |  |
 | [Bring Us Back](https://open.spotify.com/track/59Vt25MOgFp1CkzdRFzMJP) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Bring Us Back](https://open.spotify.com/album/6oUu8OWwS3L9YPYleN2Ofu) | 2:38 | 2022-09-01 | 2023-01-04 |
+| [Butterfly](https://open.spotify.com/track/2g9sxJx7MBqlBAf6DSD2SX) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Butterfly](https://open.spotify.com/album/3MzgdXI2ivOFdzRAmQYFsp) | 2:47 | 2025-07-17 |  |
 | [Butterfly Traces](https://open.spotify.com/track/2IrPTNvYOoR92JZoNz79N2) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:46 | 2021-12-21 | 2022-06-23 |
 | [Butterfly Trip](https://open.spotify.com/track/6FSywUcYaK4g3YJArLYKup) | [Mystery Ark](https://open.spotify.com/artist/2J2lnOLZ6awcRhTfLGfKzI) | [Hypnotica](https://open.spotify.com/album/0Gtgz8iz9zU51nKRlDGeW6) | 3:25 | 2022-11-25 | 2023-06-21 |
 | [By Midnight](https://open.spotify.com/track/5D8YiJqd8vNkBGO1ZSatnG) | [Jon Stefans](https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa) | [By Midnight](https://open.spotify.com/album/0WcxDmPWwofsGWR9o08WZx) | 2:20 | 2022-08-11 | 2025-01-08 |
@@ -736,6 +737,7 @@
 | [Sogno eterno](https://open.spotify.com/track/0th3A703YVssZCiPxdj07r) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Sogno eterno](https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0) | 2:35 | 2023-01-20 | 2025-05-08 |
 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Moon Dreaming](https://open.spotify.com/artist/4nJRn0hxXlJXyP9heK1nj2) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2021-12-21 | 2022-10-04 |
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-10 | 2022-06-01 |
+| [Solace](https://open.spotify.com/track/3tTODVYrvJiv6vmtlJ4Lk0) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Solace](https://open.spotify.com/album/3LE7JCtELLKIimtJaaPAiR) | 2:54 | 2025-07-17 |  |
 | [Solace in the Shadows](https://open.spotify.com/track/3ag1OPMgJfvMZgXSVn5Qju) | [Noctivelle](https://open.spotify.com/artist/78M5cxVaEF6dh65RntlKbq) | [Solace in the Shadows](https://open.spotify.com/album/2DHSBPuM9Z5hmU1Jfl0Qnx) | 2:52 | 2025-06-17 |  |
 | [Solemn](https://open.spotify.com/track/7dpLnCTFu2Neq5wXJTb47o) | [Cody Wallter](https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L) | [Solemn](https://open.spotify.com/album/2ZozrPjVO0J8SqwTi2XXDj) | 1:53 | 2021-12-21 | 2023-06-21 |
 | [Solituda](https://open.spotify.com/track/4WyBGcjHglkZUlOWi475cO) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Solituda](https://open.spotify.com/album/4j8kTGtWEMFnPSm6RTfhPI) | 2:57 | 2024-09-06 |  |

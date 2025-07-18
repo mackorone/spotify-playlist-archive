@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 218455,
+  "num_followers": 218439,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 305226,
-      "name": "Every Year, Every Christmas",
-      "url": "https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Christmas Album",
         "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 318533,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/5e0ZoBIiEcB883wyjRDD8g"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 305226,
+      "name": "Every Year, Every Christmas",
+      "url": "https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Merry Like This",
+        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Merry Like This",
+      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+    },
+    {
       "added_at": "2024-11-22 08:50:08",
       "album": {
         "name": "Coco By The Fireplace",
@@ -813,20 +829,20 @@
       "url": "https://open.spotify.com/track/20to0dedvjOlBchbCvfBQD"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
+      "added_at": "2023-12-08 05:22:39",
       "album": {
-        "name": "Merry Like This",
-        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
+        "name": "Let it Snow",
+        "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
       },
       "artists": [
         {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         }
       ],
-      "duration_ms": 180588,
-      "name": "Merry Like This",
-      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+      "duration_ms": 202135,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
     },
     {
       "added_at": "2024-11-02 22:05:31",
@@ -853,22 +869,6 @@
       "url": "https://open.spotify.com/track/3hmJxTHHlEoMeBfH8KUiGU"
     },
     {
-      "added_at": "2024-12-20 17:23:28",
-      "album": {
-        "name": "Secret Santa",
-        "url": "https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 179277,
-      "name": "Secret Santa",
-      "url": "https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET"
-    },
-    {
       "added_at": "2024-11-22 08:50:08",
       "album": {
         "name": "Under The Tree",
@@ -885,20 +885,20 @@
       "url": "https://open.spotify.com/track/7uWtrIBRUQOQ3cpLLzwBEk"
     },
     {
-      "added_at": "2023-12-08 05:22:39",
+      "added_at": "2024-12-20 17:23:28",
       "album": {
-        "name": "Let it Snow",
-        "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
+        "name": "Secret Santa",
+        "url": "https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk"
       },
       "artists": [
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 202135,
-      "name": "Let it Snow",
-      "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
+      "duration_ms": 179277,
+      "name": "Secret Santa",
+      "url": "https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
       },
       "artists": [
         {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 263866,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+      "duration_ms": 234560,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
     },
     {
       "added_at": "2024-11-22 08:50:08",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/4pI7CEVufQCp9WAssZLecU"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
-    },
-    {
       "added_at": "2024-11-22 08:50:08",
       "album": {
         "name": "Red & Green",
@@ -1079,6 +1063,22 @@
       "duration_ms": 235049,
       "name": "Forever Mistletoe",
       "url": "https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Def The Halls",
-        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 214183,
-      "name": "Wrap Me Up",
-      "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
-    },
-    {
       "added_at": "2023-12-08 05:22:39",
       "album": {
         "name": "Christmas All Year",
@@ -1307,6 +1291,22 @@
       "duration_ms": 173207,
       "name": "Christmas All Year",
       "url": "https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 214183,
+      "name": "Wrap Me Up",
+      "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1433,6 +1433,22 @@
       "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 176461,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "The Most Wonderful Time",
@@ -1455,22 +1471,6 @@
       "duration_ms": 296255,
       "name": "Mary Did You Know",
       "url": "https://open.spotify.com/track/4YxMSxRKT1ILmi4c0IzvIJ"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Def The Halls",
-        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 176461,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W"
     },
     {
       "added_at": "2023-11-03 05:45:27",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP"
     },
     {
-      "added_at": "2024-11-22 17:56:01",
-      "album": {
-        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
-        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
-      },
-      "artists": [
-        {
-          "name": "Xscape",
-          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Christmas Without You",
-      "url": "https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "It's Christmas",
@@ -1551,6 +1535,22 @@
       "duration_ms": 283560,
       "name": "This Christmas (Could Be The One)",
       "url": "https://open.spotify.com/track/02fFV8eUDKAyLayxw77RCQ"
+    },
+    {
+      "added_at": "2024-11-22 17:56:01",
+      "album": {
+        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
+        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+      },
+      "artists": [
+        {
+          "name": "Xscape",
+          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1621,20 +1621,20 @@
       "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
+      "added_at": "2023-11-03 05:45:27",
       "album": {
-        "name": "One Family",
-        "url": "https://open.spotify.com/album/5Vt6f0rFqEPxym3Y06hGTd"
+        "name": "Christmastime is here",
+        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
       },
       "artists": [
         {
-          "name": "Kelly Price",
-          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
         }
       ],
-      "duration_ms": 273106,
-      "name": "Messiah Has Come",
-      "url": "https://open.spotify.com/track/5DJLdWMSCRWSwzpzBlO5T7"
+      "duration_ms": 317847,
+      "name": "Christmastime is here",
+      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1653,20 +1653,20 @@
       "url": "https://open.spotify.com/track/1wHzxntsy0HjTLGvTuFi5a"
     },
     {
-      "added_at": "2023-11-03 05:45:27",
+      "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmastime is here",
-        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
+        "name": "One Family",
+        "url": "https://open.spotify.com/album/5Vt6f0rFqEPxym3Y06hGTd"
       },
       "artists": [
         {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+          "name": "Kelly Price",
+          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
         }
       ],
-      "duration_ms": 317847,
-      "name": "Christmastime is here",
-      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
+      "duration_ms": 273106,
+      "name": "Messiah Has Come",
+      "url": "https://open.spotify.com/track/5DJLdWMSCRWSwzpzBlO5T7"
     },
     {
       "added_at": "2021-12-15 17:30:29",

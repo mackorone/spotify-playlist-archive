@@ -1,28 +1,112 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19092,
+  "num_followers": 19094,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGaM6wAAAABMG3G1iltpTFoNION0Yb8p",
+  "snapshot_id": "aHkB+gAAAAA061WPCOnXkFSvsX57/gFG",
   "tracks": [
     {
-      "added_at": "2025-07-03 14:00:10",
+      "added_at": "2025-07-17 14:00:26",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO"
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd"
       },
       "artists": [
         {
-          "name": "RIIKI REID",
-          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 171986,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/3wUUjh1onb46xOaJhx6Kqe"
+      "duration_ms": 179600,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW"
+    },
+    {
+      "added_at": "2025-07-17 14:00:26",
+      "album": {
+        "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
+        "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        },
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 217901,
+      "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
+      "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
+    },
+    {
+      "added_at": "2025-07-17 14:00:26",
+      "album": {
+        "name": "Live It Up (with The Green)",
+        "url": "https://open.spotify.com/album/4fbFr9FJOTgMzlan4aafxA"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "Caleb Keolanui",
+          "url": "https://open.spotify.com/artist/345FKO0Dl42vNEtdgmCJzk"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Live It Up (with The Green)",
+      "url": "https://open.spotify.com/track/5rJ067XuSGQEzmfADL2RSN"
+    },
+    {
+      "added_at": "2025-07-17 14:00:26",
+      "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
+      },
+      "artists": [
+        {
+          "name": "Borderline",
+          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
+    },
+    {
+      "added_at": "2025-07-17 14:00:26",
+      "album": {
+        "name": "TN's",
+        "url": "https://open.spotify.com/album/6re07313Esj1OipNfjjUdh"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "duration_ms": 196267,
+      "name": "TN's",
+      "url": "https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh"
     },
     {
       "added_at": "2025-04-24 14:00:10",
@@ -39,38 +123,6 @@
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
-    },
-    {
-      "added_at": "2025-07-03 14:00:10",
-      "album": {
-        "name": "Up In Flames (The Wayland)",
-        "url": "https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Up In Flames (The Wayland)",
-      "url": "https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz"
-    },
-    {
-      "added_at": "2025-06-05 14:00:31",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
     },
     {
       "added_at": "2025-05-29 23:24:52",
@@ -105,20 +157,20 @@
       "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
     },
     {
-      "added_at": "2025-05-29 23:24:52",
+      "added_at": "2025-04-24 14:00:10",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+        "name": "Welcome to the Mood / Sundown",
+        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+      "duration_ms": 184133,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -153,6 +205,22 @@
       "url": "https://open.spotify.com/track/0Yg2JX24pCRIcqZRC5aJU8"
     },
     {
+      "added_at": "2025-05-29 23:24:52",
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+    },
+    {
       "added_at": "2025-06-19 14:00:25",
       "album": {
         "name": "CURSE",
@@ -167,38 +235,6 @@
       "duration_ms": 148525,
       "name": "DEATH COMES FROM THE SKY",
       "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
-    },
-    {
-      "added_at": "2025-04-24 14:00:10",
-      "album": {
-        "name": "Welcome to the Mood / Sundown",
-        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -219,6 +255,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Road From 26",
         "url": "https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R"
       },
@@ -233,20 +285,20 @@
       "url": "https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W"
     },
     {
-      "added_at": "2025-06-19 14:00:25",
+      "added_at": "2025-06-05 14:00:31",
       "album": {
-        "name": "Hammer",
-        "url": "https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 193443,
-      "name": "Hammer",
-      "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
+      "duration_ms": 213400,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -313,6 +365,22 @@
       "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
     },
     {
+      "added_at": "2025-06-19 14:00:25",
+      "album": {
+        "name": "Hammer",
+        "url": "https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 193443,
+      "name": "Hammer",
+      "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
+    },
+    {
       "added_at": "2025-01-30 13:00:19",
       "album": {
         "name": "Problem",
@@ -327,6 +395,22 @@
       "duration_ms": 238481,
       "name": "Problem",
       "url": "https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc"
+    },
+    {
+      "added_at": "2025-02-20 13:00:26",
+      "album": {
+        "name": "The Question",
+        "url": "https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "The Question",
+      "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"
     },
     {
       "added_at": "2025-05-29 23:24:52",
@@ -345,20 +429,36 @@
       "url": "https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl"
     },
     {
-      "added_at": "2025-02-20 13:00:26",
+      "added_at": "2025-07-03 14:00:10",
       "album": {
-        "name": "The Question",
-        "url": "https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ"
+        "name": "Up In Flames (The Wayland)",
+        "url": "https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a"
       },
       "artists": [
         {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
         }
       ],
-      "duration_ms": 196533,
-      "name": "The Question",
-      "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"
+      "duration_ms": 232666,
+      "name": "Up In Flames (The Wayland)",
+      "url": "https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz"
+    },
+    {
+      "added_at": "2025-03-20 14:42:12",
+      "album": {
+        "name": "PLEASER",
+        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "PLEASER",
+      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -401,6 +501,38 @@
       "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
     },
     {
+      "added_at": "2025-05-01 14:00:27",
+      "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 283253,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Concubine",
+      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
+    },
+    {
       "added_at": "2025-04-24 14:00:10",
       "album": {
         "name": "STALKER (feat. Ramirez)",
@@ -419,22 +551,6 @@
       "duration_ms": 152415,
       "name": "STALKER (feat. Ramirez)",
       "url": "https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh"
-    },
-    {
-      "added_at": "2025-03-20 14:42:12",
-      "album": {
-        "name": "PLEASER",
-        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
-      },
-      "artists": [
-        {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "PLEASER",
-      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
     },
     {
       "added_at": "2025-05-29 23:24:52",
@@ -457,22 +573,6 @@
       "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
     },
     {
-      "added_at": "2025-05-01 14:00:27",
-      "album": {
-        "name": "Metal",
-        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 283253,
-      "name": "Metal",
-      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
-    },
-    {
       "added_at": "2025-03-27 13:00:15",
       "album": {
         "name": "Dime",
@@ -487,22 +587,6 @@
       "duration_ms": 131306,
       "name": "Telling Lies",
       "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Concubine",
-      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
     },
     {
       "added_at": "2025-01-30 13:00:19",
@@ -579,6 +663,38 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 337565,
+      "name": "State of Mind",
+      "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
+    },
+    {
+      "added_at": "2025-06-19 14:00:25",
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/1XrG4FbpWriXEqBBriZD50"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 211814,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0YwpENNbchlW7WKAhgxEov"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "East Coast",
         "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
       },
@@ -609,20 +725,20 @@
       "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
+      "added_at": "2025-07-03 14:00:10",
       "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "RIIKI REID",
+          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
         }
       ],
-      "duration_ms": 337565,
-      "name": "State of Mind",
-      "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
+      "duration_ms": 171986,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3wUUjh1onb46xOaJhx6Kqe"
     },
     {
       "added_at": "2024-11-07 11:00:00",
@@ -657,22 +773,6 @@
       "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
     },
     {
-      "added_at": "2025-06-19 14:00:25",
-      "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/1XrG4FbpWriXEqBBriZD50"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 211814,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/0YwpENNbchlW7WKAhgxEov"
-    },
-    {
       "added_at": "2025-05-29 23:24:52",
       "album": {
         "name": "Red Dirt Romeo",
@@ -687,6 +787,22 @@
       "duration_ms": 225685,
       "name": "Red Dirt Romeo",
       "url": "https://open.spotify.com/track/3XqmFDMszpOQ6fh2YssOEo"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Chantilly",
+        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 213459,
+      "name": "Chantilly",
+      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -773,10 +889,10 @@
       "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
     },
     {
-      "added_at": "2024-11-28 13:00:00",
+      "added_at": "2025-04-03 13:00:16",
       "album": {
-        "name": "Chantilly",
-        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
+        "name": "Best Behaviour",
+        "url": "https://open.spotify.com/album/4P8TDzqsxvNYb9PwviFJzJ"
       },
       "artists": [
         {
@@ -784,9 +900,9 @@
           "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
         }
       ],
-      "duration_ms": 213459,
-      "name": "Chantilly",
-      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
+      "duration_ms": 196001,
+      "name": "Best Behaviour",
+      "url": "https://open.spotify.com/track/4VfESsDnsj5mIxPlnsY74Y"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -869,22 +985,6 @@
       "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
     },
     {
-      "added_at": "2025-04-03 13:00:16",
-      "album": {
-        "name": "Best Behaviour",
-        "url": "https://open.spotify.com/album/4P8TDzqsxvNYb9PwviFJzJ"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 196001,
-      "name": "Best Behaviour",
-      "url": "https://open.spotify.com/track/4VfESsDnsj5mIxPlnsY74Y"
-    },
-    {
       "added_at": "2025-04-17 14:00:17",
       "album": {
         "name": "Bashville on the Sugar",
@@ -921,6 +1021,22 @@
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
     },
     {
+      "added_at": "2025-05-08 14:00:23",
+      "album": {
+        "name": "Sail Away",
+        "url": "https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc"
+    },
+    {
       "added_at": "2025-02-13 13:00:24",
       "album": {
         "name": "Maumahara Noa Ahau",
@@ -945,20 +1061,20 @@
       "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
     },
     {
-      "added_at": "2025-05-08 14:00:23",
+      "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Sail Away",
-        "url": "https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
       },
       "artists": [
         {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
         }
       ],
-      "duration_ms": 149466,
-      "name": "Sail Away",
-      "url": "https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc"
+      "duration_ms": 201480,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1015,38 +1131,6 @@
       "duration_ms": 196740,
       "name": "One More Chance (feat. Savage)",
       "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
-      },
-      "artists": [
-        {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
-    },
-    {
-      "added_at": "2024-12-12 13:00:02",
-      "album": {
-        "name": "Crazy Dream (Edit)",
-        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 178062,
-      "name": "Crazy Dream - Edit",
-      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
     },
     {
       "added_at": "2025-01-23 13:00:35",
@@ -1137,6 +1221,22 @@
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
     },
     {
+      "added_at": "2024-12-12 13:00:02",
+      "album": {
+        "name": "Crazy Dream (Edit)",
+        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 178062,
+      "name": "Crazy Dream - Edit",
+      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Tief Im Wald",
@@ -1151,6 +1251,22 @@
       "duration_ms": 218033,
       "name": "Tief Im Wald",
       "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 107232,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
     },
     {
       "added_at": "2025-06-12 14:00:32",
@@ -1175,114 +1291,6 @@
       "duration_ms": 208019,
       "name": "FEEL GOOD AURA",
       "url": "https://open.spotify.com/track/2i43SUgkp5g1W5rze9awuF"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 107232,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
-    },
-    {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV"
-      },
-      "artists": [
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
-    },
-    {
-      "added_at": "2025-04-10 14:00:37",
-      "album": {
-        "name": "The Eyes",
-        "url": "https://open.spotify.com/album/5vs2sQgZRYm2QPWO7NWs27"
-      },
-      "artists": [
-        {
-          "name": "Church & AP",
-          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
-        }
-      ],
-      "duration_ms": 197625,
-      "name": "The Eyes",
-      "url": "https://open.spotify.com/track/4MpAtRHh8dckqOar0vlLBp"
-    },
-    {
-      "added_at": "2025-04-03 13:00:16",
-      "album": {
-        "name": "Slow Crush",
-        "url": "https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU"
-      },
-      "artists": [
-        {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
-        }
-      ],
-      "duration_ms": 210926,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "When He Was Mine (Pele Fo'i Mai)",
-        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
-      },
-      "artists": [
-        {
-          "name": "A.R.T",
-          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
-        }
-      ],
-      "duration_ms": 156516,
-      "name": "When He Was Mine (Pele Fo'i Mai)",
-      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "It's You (Remix)",
-        "url": "https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6"
-      },
-      "artists": [
-        {
-          "name": "DJ Noiz",
-          "url": "https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK"
-        },
-        {
-          "name": "STNDRD",
-          "url": "https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf"
-        },
-        {
-          "name": "Tomorrow People",
-          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
-        },
-        {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
-        }
-      ],
-      "duration_ms": 175294,
-      "name": "It's You - Remix",
-      "url": "https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE"
     }
   ],
   "unique_name": "The Local List Aotearoa",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,196 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,232 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 61 | [Sabor a Mí](https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke) | [Idania Valdés](https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx), [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Chico & Rita](https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB) | 1:16 |
 | 62 | [Linus And Lucy](https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U) | 3:06 |
 | 63 | [Blues / La Dolce Vita Dei Nobili](https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [La Dolce Vita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB) | 5:44 |
-| 64 | [B.\-Loved \(feat\. Cécile McLorin Salvant\) \- French Version](https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6) | [Fabrice Lecomte](https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Sylvie's Love \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj) | 1:59 |
-| 65 | [Damascus Thump](https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Babylon \(Music from the Motion Picture\)](https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe) | 2:10 |
+| 64 | [Damascus Thump](https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Babylon \(Music from the Motion Picture\)](https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe) | 2:10 |
+| 65 | [B.\-Loved \(feat\. Cécile McLorin Salvant\) \- French Version](https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6) | [Fabrice Lecomte](https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Sylvie's Love \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj) | 1:59 |
 | 66 | [From Russia with Love \- Single Version](https://open.spotify.com/track/0WBIlfElfs2GCpE4kxEZDt) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [The Best Of Matt Monro](https://open.spotify.com/album/41IR9ViLL2GlvI3uzfXo5F) | 2:35 |
 | 67 | [It Had To Be You](https://open.spotify.com/track/1LKN5pN5RyB9NCdE7ANvMN) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Boardwalk Empire Volume 2: Music From The HBO Original Series](https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP) | 3:17 |
 | 68 | [The Windmills of Your Mind \(Theme from the Thomas Crown Affair \) \- with Vocals by Noel Harrison](https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [The Thomas Crown Affair](https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv) | 2:21 |

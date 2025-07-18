@@ -4,7 +4,7 @@
 
 > Listen to Women at Full Volume\. Cover: laurie.
 
-2,527 songs - 5 day 19 hr 38 min
+2,529 songs - 5 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1019,6 +1019,7 @@
 | [in my toes](https://open.spotify.com/track/3lKvHg0Nn9JsgsTPaFl1fu) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [in my toes](https://open.spotify.com/album/0MTV2PMlVV8QNDAdZUy8nt) | 4:01 | 2022-01-05 | 2022-02-03 |
 | [in my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 | 2023-02-01 | 2023-03-02 |
 | [In Over My Head](https://open.spotify.com/track/2ATO6c4e7hdwgOPIt4TU8s) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [In Over My Head](https://open.spotify.com/album/3pojOspPOs6TyRWqBS5D1P) | 3:18 | 2023-09-06 | 2023-10-05 |
+| [In the Neon](https://open.spotify.com/track/51UjPpj7YIeJ8xMYjmrLtR) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [In The Neon](https://open.spotify.com/album/0XTtbQ1QO5vymEZRhxAXn7) | 3:00 | 2025-07-17 |  |
 | [Independent Women, Pt\. 1](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:41 | 2023-10-04 | 2023-11-17 |
 | [Industry Corporate Freak](https://open.spotify.com/track/33aigucvBFkOAa2yRHy7g5) | [Syzy](https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL) | [Industry Corporate Freak](https://open.spotify.com/album/30Nk32LOHIeOd9TGxbaW3c) | 4:38 | 2025-04-02 | 2025-05-08 |
 | [Infinity Song](https://open.spotify.com/track/6HePNi3QS42SD9eTqEGkSG) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Infinity Song](https://open.spotify.com/album/0U9wGkVQjr3elUMi95GYsh) | 3:52 | 2023-01-11 | 2023-02-02 |
@@ -1174,7 +1175,7 @@
 | [LALALA](https://open.spotify.com/track/7wagvml4x04xVfppCRgyxX) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [LALALA](https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq) | 3:13 | 2023-08-02 | 2023-09-07 |
 | [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 | 2024-12-04 | 2025-01-09 |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-06-01 | 2022-07-07 |
-| [Lao Vào](https://open.spotify.com/track/6l0jR8cJqLRSWWXi9TZPLx) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Chia Tay](https://open.spotify.com/album/4clb1rDsPU9TuBT2P5mZU2) | 3:39 | 2025-07-02 |  |
+| [Lao Vào](https://open.spotify.com/track/6l0jR8cJqLRSWWXi9TZPLx) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Chia Tay](https://open.spotify.com/album/4clb1rDsPU9TuBT2P5mZU2) | 3:39 | 2025-07-02 | 2025-07-18 |
 | [Las Aguas de Macondo](https://open.spotify.com/track/6vxYoxTN1sirDiQG5UtEei) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Las Aguas de Macondo](https://open.spotify.com/album/7ozRgrYIlS9h02aunepZLQ) | 2:43 | 2023-11-08 | 2023-11-30 |
 | [Las Ganas](https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 4:17 | 2023-09-06 | 2023-10-05 |
 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 | 2025-06-18 | 2025-07-03 |
@@ -2141,6 +2142,7 @@
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-03-06 | 2025-01-09 |
 | [Training Season \- Extended](https://open.spotify.com/track/0XtsipMfiraE0ki8S8Bfcg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism \(Extended Versions\)](https://open.spotify.com/album/0XY0qeZ7czMgtb340QJRxK) | 4:55 | 2024-07-03 | 2024-09-05 |
 | [Trajikomedi](https://open.spotify.com/track/5KvQtUK14fbyFmZjeaBc1g) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Trajikomedi](https://open.spotify.com/album/1fOUfo9SzGYY2PIi1Ndzr6) | 2:53 | 2023-02-01 | 2023-03-02 |
+| [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 | 2025-07-17 |  |
 | [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 | 2022-08-03 | 2022-09-09 |
 | [Tratado de Versalles](https://open.spotify.com/track/6m6jT6LdtTH4DIU398sq91) | [Violetta Arriaza](https://open.spotify.com/artist/2WET7xahye2vwzTTB7MH1U) | [Tratado de Versalles](https://open.spotify.com/album/2uaITMxL3Kk8jj64TyXF8I) | 2:21 | 2022-10-04 | 2022-11-03 |
 | [tricky situation](https://open.spotify.com/track/2RupwaICWPZgf5kK6WN9av) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [tricky situation](https://open.spotify.com/album/3LxNmsxNPOgG5HoDATneGG) | 2:06 | 2022-08-03 | 2022-09-09 |

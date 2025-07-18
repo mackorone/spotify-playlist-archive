@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Fedez e CLARA sulla cover della playlist più grande in Italia 🏆
+> Cesare ed Elisa sulla cover della playlist più grande in Italia 🏆
 
 224 songs - 11 hr 34 min
 

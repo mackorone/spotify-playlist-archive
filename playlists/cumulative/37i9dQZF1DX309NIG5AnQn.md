@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 El Club Audiovisual.
+> rock alternativo argentino\. <br/>📷 NOTA
 
-257 songs - 14 hr 34 min
+259 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [La Otra Transmisión](https://open.spotify.com/track/0lpz4dZdEDIfn0G2BTv0tc) | [Los Bicivoladores](https://open.spotify.com/artist/2z8pfm7iCGV2DBUMvYf3dv) | [La Otra Transmisión](https://open.spotify.com/album/5idJl7rR4rfk9BKYs4AKMF) | 3:01 | 2024-05-16 |  |
 | [Las Flores Violentas](https://open.spotify.com/track/1OMzTxGLi5eYtHIe36kGC5) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj) | [Las Flores Violentas](https://open.spotify.com/album/3Pwm5izC0NugLdgi5BLzIJ) | 3:12 | 2022-03-25 | 2023-03-25 |
 | [LATAS](https://open.spotify.com/track/6CidWSzeGzBIz82eS4sG4m) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [LATAS](https://open.spotify.com/album/3oDPZk5VVbahXJSq0HVhat) | 2:36 | 2023-03-23 | 2024-07-13 |
+| [Le conté a mi psicólogo de vos](https://open.spotify.com/track/0peDKddtxstiRwgEJBRN7o) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [Le conté a mi psicólogo de vos](https://open.spotify.com/album/7CGx8wKrOGJ8wKIe6FF1Mc) | 3:25 | 2025-07-18 |  |
 | [Liberación](https://open.spotify.com/track/0Qd0MPuE8LLAhgMyS3uJkB) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Liberación](https://open.spotify.com/album/3rWW0AXe5G6JNOOsdcJ2nN) | 3:58 | 2023-12-01 | 2024-11-16 |
 | [Llueve](https://open.spotify.com/track/1gnzgNCAULZMgU3vsEwb9w) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Llueve](https://open.spotify.com/album/0qo6T7TGB8uh0ddsKXNwzo) | 2:15 | 2023-07-28 |  |
 | [Lluvia](https://open.spotify.com/track/5IlTUPT1eAtt3QsrsaewdU) | [Revistas](https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp), [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [Drama](https://open.spotify.com/album/6WtmjqcRqwbQRVSzicqD3g) | 3:52 | 2022-03-25 | 2023-06-03 |
@@ -250,6 +251,7 @@
 | [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 | 2024-08-12 |  |
 | [Vecinos](https://open.spotify.com/track/7zM7vEt3CEHasWxqRomYuu) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [Vecinos](https://open.spotify.com/album/5balPtR0c16V31I9KdBBm2) | 2:01 | 2025-04-25 |  |
 | [Veneno](https://open.spotify.com/track/3u25jJHH7zuhsh4gCO7kf0) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Ahora Que Te Gusta El Rock](https://open.spotify.com/album/6HgMAQiz2FbvgoeuQ9kKgl) | 2:44 | 2025-04-25 |  |
+| [Vestigios](https://open.spotify.com/track/7y5zhqmDuxWRJGuy2aJPUO) | [Sangre de Barro](https://open.spotify.com/artist/1nVPGomlqTNvWO6IrBE8uw) | [Círculo de Agresión](https://open.spotify.com/album/49X5LfBhBjO0KcfYw2Bqh6) | 3:46 | 2025-07-18 |  |
 | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/track/0NWggrKGAMZvthO4SkCVky) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/album/5NHOtWzCEgxgdUZdsHtsz9) | 3:39 | 2022-03-25 | 2023-03-25 |
 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 | 2022-03-25 | 2023-03-25 |
 | [Voy a Explotar](https://open.spotify.com/track/31tWsQjBWejiJHa8nZxkiW) | [SINGULARES](https://open.spotify.com/artist/1T1jRBnri3kmiLINyCFkKN) | [Voy a Explotar](https://open.spotify.com/album/2sFTI7e9lwYYg2NyQTEcaH) | 3:02 | 2024-02-02 |  |

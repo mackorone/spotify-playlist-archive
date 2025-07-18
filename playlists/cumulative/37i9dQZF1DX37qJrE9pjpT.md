@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rapcha
 
-243 songs - 13 hr 39 min
+245 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dear Gambe](https://open.spotify.com/track/5rEFPXvrI6lrVtKLreYZex) | [Msodoki Young Killer](https://open.spotify.com/artist/0EfQfdKNPm4U50wNWTMqtU), [Belle9](https://open.spotify.com/artist/0aiGVd3m2MJUz2x3XHjQuP) | [Dear Gambe](https://open.spotify.com/album/5nBrr7soIGIZhVI6G1AWCO) | 4:00 | 2022-03-28 | 2022-11-05 |
 | [Dear Gambe](https://open.spotify.com/track/2IUvtf5mREXmyLm2R4Ewkh) | [Young Killer](https://open.spotify.com/artist/33087Y6d4XZj4ZKaXlB6TW) | [Mrs\. Superstar](https://open.spotify.com/album/1XPoBa0RUHPdFNRovQZ9P6) | 4:00 | 2022-03-28 | 2022-10-28 |
 | [Debbie](https://open.spotify.com/track/40YWoIsRFKXZkCTTwZjpE6) | [DJ Gibbzy](https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Debbie](https://open.spotify.com/album/3BD5EDEiEw40c6Oke3xVH8) | 3:28 | 2023-10-26 | 2024-06-21 |
+| [DEWJI 2](https://open.spotify.com/track/1Qy19oRYbINvEwo5INDNzO) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Mapanch BMB](https://open.spotify.com/artist/1kKifnEoW0iRzvk3qDFXpg) | [DEWJI 2](https://open.spotify.com/album/5xhAyxatrOLYDBKkGSN6KK) | 3:28 | 2025-07-17 |  |
 | [DROP IT](https://open.spotify.com/track/6VSdH5mGhRQ3agWAX7m5BJ) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [DROP IT](https://open.spotify.com/album/15ctfYgSx4gQ42JwuPPkW9) | 2:01 | 2024-10-11 |  |
 | [Drunk](https://open.spotify.com/track/4ce0jtsd45FzC16C6T1aBu) | [Base Ace](https://open.spotify.com/artist/6q8o2vR7Hi0ibQFpGRidsP), [Harley](https://open.spotify.com/artist/6NWw0BtjA7DhzIEJyY0dNm) | [Drunk](https://open.spotify.com/album/2y25NkbnqoJXRyGX60GxKd) | 3:02 | 2022-04-28 | 2023-04-15 |
 | [Dusko](https://open.spotify.com/track/5IkgD8ZvA2kpbEzZ045mzA) | [Brian Simba](https://open.spotify.com/artist/3KkDDUwNW0ijwIhfKyEEui), [Mex Cortez](https://open.spotify.com/artist/733yNmvvWdqux4CfQ2rVM2) | [Dusko](https://open.spotify.com/album/0DRiKNYZqwMpiow4fYjzeM) | 3:03 | 2025-04-04 |  |
@@ -206,6 +207,7 @@
 | [Snitch](https://open.spotify.com/track/70fQtyXgdHUsFPVMX4bp2U) | [Amber Lulu](https://open.spotify.com/artist/7eaEAJe6zgz9QVfEEP3dUg) | [Snitch](https://open.spotify.com/album/5bWC8S9mZB4X6ednDig2sO) | 2:16 | 2024-06-13 | 2024-11-08 |
 | [So Fresh](https://open.spotify.com/track/0hEej0cXVgYS36pLiTVcXK) | [Nisher](https://open.spotify.com/artist/6j9SLhRcXp56yxOvyibQ4f) | [Nisher](https://open.spotify.com/album/5wAq8k7BBOeHtkSKTdt9vH) | 4:12 | 2024-07-11 | 2025-03-29 |
 | [So High](https://open.spotify.com/track/1XzjqXtFVheynh51nt2n6Y) | [NK47](https://open.spotify.com/artist/75xyADMe4oplwlMacVLFNW) | [So High](https://open.spotify.com/album/4X2JcUXtAPqMLO1YW3OaKC) | 2:42 | 2023-09-15 | 2024-01-20 |
+| [Solo](https://open.spotify.com/track/2FE0fU7KgrCmcb1GvWEOSH) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Mr Blue](https://open.spotify.com/artist/5oNEJIZyXIfzVhOV8TC9Ok), [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Nacha](https://open.spotify.com/artist/6vs2JKdlVLKV6S8HOpvQPx), [P Mawenge](https://open.spotify.com/artist/6McmD7aGRlEnhQnHfR0ZmC), [Nyandu Tozzy](https://open.spotify.com/artist/2ufAg7fIpFoEw1fsaAS491), [Jay Rox](https://open.spotify.com/artist/2YcJC1hnLjOIvNN3naeAlG) | [Solo](https://open.spotify.com/album/7ovWCxvtk7vAkLcOhLGpEp) | 7:33 | 2025-07-17 |  |
 | [Sponsa](https://open.spotify.com/track/1H85hkPWoVJVp9MZyOowUA) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Sponsa](https://open.spotify.com/album/0jxDFi4yennWvYM9q6DDqR) | 2:45 | 2022-03-28 | 2023-04-28 |
 | [Stamala Wajada](https://open.spotify.com/track/28kyKItAKiVLl9G1ljmT1e) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS) | [Stamala Wajada](https://open.spotify.com/album/2LmlYgcR3Hctbibrk0vMuD) | 1:59 | 2022-07-08 | 2023-08-29 |
 | [Star](https://open.spotify.com/track/3pX5cqNZHI30KtXoJk7l5T) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Star](https://open.spotify.com/album/0ghnUh0FnBB7Ffh7Mh3o65) | 2:29 | 2022-04-28 | 2023-05-12 |

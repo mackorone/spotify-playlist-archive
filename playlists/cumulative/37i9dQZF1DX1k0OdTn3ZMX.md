@@ -4,7 +4,7 @@
 
 > nü\-metal revival is happening here and now with Linkin Park.
 
-299 songs - 16 hr 49 min
+300 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Animal](https://open.spotify.com/track/1BO5Y7G9ukdTRVw1ER0HuC) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Animal](https://open.spotify.com/album/45tUpXXzTSNp1QZ6Z1ENvX) | 3:38 | 2023-09-13 | 2024-10-05 |
 | [Antagonist](https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 3:06 | 2023-09-13 | 2024-01-13 |
 | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/track/1B9aS3j55UpRVfU9qYl91t) | [Omerta](https://open.spotify.com/artist/0OYajuHduapwq21Xh1WLwo), [JOHNNASCUS](https://open.spotify.com/artist/1Kvu06TxgDMSFkoYQEj6Rv) | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/album/38uAebsempzVHfIVX7EVKs) | 3:23 | 2023-09-13 | 2023-09-30 |
+| [as fate undoes](https://open.spotify.com/track/2FStd7vyOGEECVwV2oXUjr) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [as fate undoes](https://open.spotify.com/album/0ItS572mokRcdscHNWKxjT) | 3:49 | 2025-07-18 |  |
 | [augmented](https://open.spotify.com/track/0kWw3OcrPPHBIp7NMKGYYA) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [augmented](https://open.spotify.com/album/4lsdBjdxe192HtGw93Je4p) | 3:39 | 2025-06-13 |  |
 | [Bad Behavior](https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Bad Behavior](https://open.spotify.com/album/5vmVFss9dY7Ga2AfPaAX2B) | 3:19 | 2024-09-13 | 2024-11-30 |
 | [Bad Seed](https://open.spotify.com/track/7xhIXA6RoyxrVcxmqZ56cM) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Circle Pit // Bad Seed](https://open.spotify.com/album/3ZGdn6hqBaOA1Kp89J51st) | 2:38 | 2024-11-15 |  |
@@ -162,7 +163,7 @@
 | [MOTION](https://open.spotify.com/track/4zYeji5OBFpZexwyaCqNk3) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [MOTION](https://open.spotify.com/album/2uG19GTf3emUepH0nfW8nI) | 3:03 | 2024-11-29 | 2025-01-25 |
 | [MY DISASTER](https://open.spotify.com/track/4fDHUQVGS6Tt392L6XY1rZ) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [MY DISASTER](https://open.spotify.com/album/5Svl2xU7AQPzMiU2xFLd9w) | 2:41 | 2024-07-26 | 2024-09-14 |
 | [Neo Paris](https://open.spotify.com/track/49wrKDHWJDocIy3AQ8Hq3B) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Neo Paris](https://open.spotify.com/album/0wWpqyXOqbAzNbI9xtb6he) | 3:21 | 2025-05-02 |  |
-| [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-14 |  |
+| [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-14 | 2025-07-18 |
 | [Night Terror](https://open.spotify.com/track/16n3V2ItwynKU7PgjLU8QM) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [Night Terror](https://open.spotify.com/album/0i8r88YVTKGxc8aKCuKhGL) | 2:32 | 2025-05-16 |  |
 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 | 2023-09-13 | 2024-05-25 |
 | [NO HOSTAGES](https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [NO HOSTAGES](https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO) | 3:03 | 2024-08-16 |  |

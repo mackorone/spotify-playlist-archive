@@ -4,7 +4,7 @@
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 27 min
+60 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Dom / Hollow \- Live](https://open.spotify.com/track/6DVxAei4u7nNrXbEs9XvNS) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 3:43 | 2022-05-30 |  |
 | [Domination](https://open.spotify.com/track/769cLRTw2y6KRdkFWFkxtu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:05 | 2022-05-30 |  |
 | [Drag the Waters](https://open.spotify.com/track/5t8sFMJ2aQaHqLnrAd4Q40) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:55 | 2022-05-30 |  |
+| [Electric Funeral](https://open.spotify.com/track/1CkTBKxFfVb0foi1jL8D8g) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 5:53 | 2025-07-18 |  |
 | [Floods](https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 6:59 | 2022-05-30 |  |
 | [Fucking Hostile](https://open.spotify.com/track/5RU50TPTgtxJLFNunUS2p5) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 2:48 | 2022-05-30 | 2023-12-14 |
 | [Fucking Hostile \- 2012 Remaster](https://open.spotify.com/track/0GY3AhUEO5T1Q5LMEIE1vL) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power \(Expanded\)](https://open.spotify.com/album/1x09hOE124v9jMuQZRYqWN) | 2:48 | 2023-12-13 |  |

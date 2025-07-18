@@ -4,7 +4,7 @@
 
 > Lo mejor del electropop latino\. Foto: CAMI
 
-179 songs - 11 hr 19 min
+181 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bailando a la Deriva](https://open.spotify.com/track/5jSeihXKsDW2sWROKhMbxU) | [Flora](https://open.spotify.com/artist/2XxJxp2AFDcvrVePivbKo1) | [Bailando a la Deriva](https://open.spotify.com/album/6S0unNiOLMpwGjhY50FEvf) | 3:19 | 2024-10-18 |  |
 | [Bajo Cero](https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Bajo Cero](https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7) | 4:03 | 2023-09-08 | 2024-09-14 |
 | [Bajo la piel](https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Bajo la piel](https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM) | 4:00 | 2023-09-08 |  |
+| [Bien Tu Mal](https://open.spotify.com/track/7DlKhwNQSHCguTGPfGF2m6) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo) | [Bien Tu Mal](https://open.spotify.com/album/3U3gR4mLrRJuO4E48qanFA) | 3:35 | 2025-07-17 |  |
 | [Bienvenide Mi Sueño](https://open.spotify.com/track/5rdsEOl9SgGwcNz9X3Fbl7) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Bienvenide Mi Sueño](https://open.spotify.com/album/5QRldahJAIMGdrUjFNLWPW) | 3:16 | 2024-10-18 |  |
 | [blablablablabla](https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [blablablablabla](https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp) | 3:21 | 2023-09-08 |  |
 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 | 2023-12-01 | 2024-10-19 |
@@ -80,6 +81,7 @@
 | [Foto de una Coreografía](https://open.spotify.com/track/564vzA6xQlpij7c2s1cL0h) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Amigas](https://open.spotify.com/album/71IQYoBzYkQYAvvX5BqyA0) | 3:23 | 2025-02-21 |  |
 | [Fotonovela](https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Fotonovela](https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ) | 4:42 | 2023-09-08 |  |
 | [FRIENDZONE](https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA) | [FRIENDZONE](https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj) | 3:30 | 2023-09-08 |  |
+| [FRIKI FRIKI](https://open.spotify.com/track/4K5rkuYVaInky94Qy2CWJr) | [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7) | [FRIKI FRIKI](https://open.spotify.com/album/0pdh2LkicARabft0VRzG3h) | 2:10 | 2025-07-17 |  |
 | [Ganadora](https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol1\. LOS AMANTES](https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv) | 4:56 | 2023-11-13 |  |
 | [Grana](https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Fonomix](https://open.spotify.com/album/32vMhnRB3JbmRzAVd30KDL) | 2:37 | 2023-09-08 | 2024-04-19 |
 | [Gritan Fuerte](https://open.spotify.com/track/37bh1EbB0oJQRqxhvJ92nG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ) | [Gritan Fuerte](https://open.spotify.com/album/69CyCtEbufErhbo60ck42J) | 3:32 | 2024-10-18 |  |

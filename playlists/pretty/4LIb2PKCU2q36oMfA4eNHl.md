@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,845 likes - 106 songs - 6 hr 35 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,844 likes - 106 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

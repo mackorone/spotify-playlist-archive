@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-353 songs - 21 hr 9 min
+354 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2024-11-04 | 2025-02-12 |
 | [Masa Depan](https://open.spotify.com/track/6ZWRvS1VpmqA2ap3bMI4dY) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Masa Depan](https://open.spotify.com/album/649hYz14PcCd78FLTC84mb) | 3:47 | 2023-03-22 | 2024-07-25 |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-04-23 |  |
+| [Masih Takut Mencinta](https://open.spotify.com/track/4E6iWEsfOAkrT4OpluseK1) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:28 | 2025-07-17 |  |
 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 | 2024-09-12 |  |
 | [Mata Air](https://open.spotify.com/track/3kj14iUwv0rvTweOr9P2ut) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12), [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:46 | 2023-03-22 | 2024-01-18 |
 | [Mawar](https://open.spotify.com/track/2zye6HezhTJduq7vocjMzr) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Mawar](https://open.spotify.com/album/1xRvOXM0hxxwQufdVD2Zst) | 4:08 | 2025-03-10 | 2025-04-11 |

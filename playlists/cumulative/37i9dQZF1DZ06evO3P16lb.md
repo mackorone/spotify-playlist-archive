@@ -4,7 +4,7 @@
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 57 min
+56 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Dejaré](https://open.spotify.com/track/74UeUWEOPMtVyhXNHitGi8) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:57 | 2025-02-12 |  |
 | [Dios Nunca Muere](https://open.spotify.com/track/3GX2IkCwAglVsnL7fgX3iK) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Dios Nunca Muere](https://open.spotify.com/album/4ADTs7kIW4dVdteX7sXYgy) | 3:08 | 2025-02-12 |  |
 | [El Amor De Mi Vida](https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Amor de Mi Vida](https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S) | 3:06 | 2025-02-12 |  |
-| [El Amor Perfecto](https://open.spotify.com/track/5Kg8hGm0Hpya8UveUTElKz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:16 | 2025-02-12 |  |
+| [El Amor Perfecto](https://open.spotify.com/track/5Kg8hGm0Hpya8UveUTElKz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:16 | 2025-02-12 | 2025-07-18 |
 | [El Motivo](https://open.spotify.com/track/59KuYnpIYmtanXQzJ7XTQa) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:17 | 2025-05-21 |  |
 | [El Mundo \- En Vivo](https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Mundo \(En Vivo\)](https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS) | 3:32 | 2025-04-10 |  |
 | [El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan](https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan](https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS) | 7:11 | 2025-02-12 |  |
@@ -47,6 +47,7 @@
 | [Por Tu Amor](https://open.spotify.com/track/5EUSHPZCMD9Cvr56cUGepa) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:27 | 2025-02-12 |  |
 | [Pos Cui Cui Ri \- En Vivo](https://open.spotify.com/track/3OGCYPudeYS8VBdnSFO1HS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:13 | 2025-02-12 | 2025-06-01 |
 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 | 2025-02-12 |  |
+| [Quién No Ha Llorado Por Amor](https://open.spotify.com/track/1a8Pr4g7Q9OIjZyOrS7HWH) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:44 | 2025-07-18 |  |
 | [Quiéreme Así](https://open.spotify.com/track/7pomnxYbEnoNFmfnqwO8bR) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:13 | 2025-02-12 |  |
 | [Sabor a Mi](https://open.spotify.com/track/7fJnVdI1eJL3gyclZSFERl) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:34 | 2025-02-12 |  |
 | [Se Me Va la Voz](https://open.spotify.com/track/2Ms5UbZ2jkT9m2hDWDJdgt) | [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Se Me Va la Voz](https://open.spotify.com/album/0l3hGDxoI1CHMTrWkA8u9k) | 3:14 | 2025-02-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Chloé Caillet, Luke Alessi
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,653 likes - 97 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,612 likes - 97 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

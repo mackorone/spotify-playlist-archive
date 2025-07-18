@@ -4,11 +4,11 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-149 songs - 8 hr 51 min
+151 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 | 2022-11-25 |  |
+| [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 | 2022-11-25 | 2025-07-18 |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-01-20 |  |
 | [Ahora Se](https://open.spotify.com/track/2UDu0jl1GzixhEbjYGLxGO) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Reina](https://open.spotify.com/album/72jiJ0q3ODcjFJn0iioy4w) | 3:54 | 2022-01-14 | 2022-07-29 |
 | [Ahora Se](https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Reina](https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO) | 3:54 | 2022-07-08 | 2024-04-19 |
@@ -35,6 +35,7 @@
 | [Con la Misma Moneda](https://open.spotify.com/track/3hI96DchNoc3QXMx3PK6UO) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/6nOG2MUSR7IFcrId5NbD70) | 4:26 | 2022-01-14 | 2022-07-29 |
 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 | 2022-07-08 | 2024-04-19 |
 | [Con Mi Amiga](https://open.spotify.com/track/5zrCQA6tf2oy8MojaWyXG5) | [Valen](https://open.spotify.com/artist/70BpCF2H3QLDan7ge4Lh6L) | [Con Mi Amiga](https://open.spotify.com/album/3C9TYAFtU7mVc7QFX0Nkh6) | 3:50 | 2022-01-14 | 2024-05-20 |
+| [Con Otra](https://open.spotify.com/track/2dnYf7R057nlC62o7VDMPb) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [Con Otra](https://open.spotify.com/album/6ir6hyzz2p08Q8j9BpvMYM) | 3:11 | 2025-07-18 |  |
 | [Corazon Mentiroso](https://open.spotify.com/track/12vjZJEWFst8vhW4k9saOv) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/5VHWH5EkRf5brffwBiBw3q) | 2:59 | 2022-01-14 | 2022-07-29 |
 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 | 2022-07-08 | 2024-04-19 |
 | [Costumbres](https://open.spotify.com/track/35KBRpbQ8WKoORBjI5gYRv) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Costumbres](https://open.spotify.com/album/1DoHwyQJRxRLhZiwQyp4Zn) | 3:53 | 2023-08-04 |  |
@@ -73,6 +74,7 @@
 | [La Cantaleta](https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [20 TropiExitos](https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm) | 3:38 | 2022-07-08 | 2024-04-19 |
 | [La Chismeadera](https://open.spotify.com/track/0ceAW9VtBbFOEN6fSIehGA) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Chismeadera](https://open.spotify.com/album/53w81o8xTYSHmcqdg0dsD6) | 3:39 | 2022-01-14 | 2022-10-30 |
 | [La Chismeadera](https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Chismeadera](https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2) | 3:39 | 2022-09-23 | 2024-04-19 |
+| [La Gata Bajo La Lluvia](https://open.spotify.com/track/6b6W8Z68c4DzzUyvlqhl8j) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Gata Bajo La Lluvia](https://open.spotify.com/album/0Fdr3zWSsC5zV5GYNsKqdc) | 3:40 | 2025-07-18 |  |
 | [La Güera Salome](https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [La Movidita](https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP) | 3:02 | 2023-03-03 | 2024-04-19 |
 | [La Güera Salomé](https://open.spotify.com/track/0ztaqx3ChIDhqmZepSoJkB) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Grandes Exitos](https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3) | 3:03 | 2022-01-14 | 2023-03-12 |
 | [La Luna y Tú](https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Luna y Tú](https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk) | 3:36 | 2024-03-21 |  |
@@ -100,7 +102,7 @@
 | [No Te Creas Tan Importante](https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 4:10 | 2022-01-14 |  |
 | [No Te das Cuenta](https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Te das Cuenta](https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC) | 4:04 | 2023-01-20 |  |
 | [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 | 2022-01-14 |  |
-| [No Te Vayas Corazon](https://open.spotify.com/track/3v0sMPPtovPNwDpAtLpfhf) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Nº 1](https://open.spotify.com/album/6d3DZcUcdsMgFIyGB91FN5) | 3:14 | 2022-01-14 |  |
+| [No Te Vayas Corazon](https://open.spotify.com/track/3v0sMPPtovPNwDpAtLpfhf) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Nº 1](https://open.spotify.com/album/6d3DZcUcdsMgFIyGB91FN5) | 3:14 | 2022-01-14 | 2025-07-18 |
 | [No Vuelvas Más](https://open.spotify.com/track/2ydMhW1slL16Q7Marq1T9a) | [MEIMI](https://open.spotify.com/artist/5PDJUZrrWeGjQ3F0TeHDp2) | [No Vuelvas Más](https://open.spotify.com/album/24dcU2IVa7vjvcXrxOxeYa) | 3:22 | 2024-07-05 |  |
 | [Nunca Es Suficiente](https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Nunca Es Suficiente](https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq) | 4:16 | 2022-07-08 | 2024-04-19 |
 | [Nunca Es Suficiente](https://open.spotify.com/track/5M8J1Y0be0Sfexkcni9wnR) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Nunca Es Suficiente](https://open.spotify.com/album/6i0vuJzMZnBxPeh9np05MT) | 4:16 | 2022-01-14 | 2022-07-29 |

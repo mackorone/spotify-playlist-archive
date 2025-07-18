@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: 7ari & Ramoon",
+  "description": "Cover: Draganov",
   "name": "ABAT\u2211RA",
   "tracks": [
+    {
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179035,
+      "name": "'BOUT U",
+      "url": "https://open.spotify.com/track/0TkxukEZ2yWc6KEOkMfytD"
+    },
     {
       "album": {
         "name": "(\u062d) 7",
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 182400,
       "name": "Douwi Douwi",
       "url": "https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV"

@@ -2,9 +2,9 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Afra x Sefo
+> viral, trend ve yükselenler\.  Kapak: M Lisa
 
-191 songs - 9 hr 58 min
+192 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Arıyo](https://open.spotify.com/track/0f5wEn5loiPLw2ItV8Qxoi) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Arıyo](https://open.spotify.com/album/48i9T2rTEgtK7K5j44Hq92) | 2:13 | 2025-04-14 | 2025-05-09 |
 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 | 2025-02-04 | 2025-07-01 |
 | [Açık Adres \- SAYGI1](https://open.spotify.com/track/0AwkJj5Pj7CKZe7sZo7tHv) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm), [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Açık Adres \(SAYGI1\)](https://open.spotify.com/album/4cHzv7AkgEi8lWAx9iKGCL) | 4:37 | 2024-12-12 | 2025-06-05 |
-| [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 | 2025-04-28 | 2025-07-17 |
+| [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 | 2025-04-28 |  |
 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 | 2025-07-08 |  |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 | 2025-05-12 |  |
 | [Bahsetmem Lazım](https://open.spotify.com/track/0pRykJaHRomTCCGd89b5cX) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Güliz Ayla](https://open.spotify.com/album/4j6JrIJFSDO85NMTRXfzKm) | 3:18 | 2024-11-21 | 2025-02-03 |
@@ -87,6 +87,7 @@
 | [HAVHAVHAV](https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [HAVHAVHAV](https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu) | 2:06 | 2025-02-04 | 2025-05-09 |
 | [Hayat Şaşırtır!](https://open.spotify.com/track/2IPxsVjAkqoFXrzwGwUVia) | [Aydilge](https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy) | [Hayat Şaşırtır!](https://open.spotify.com/album/3apM8VTMPcxfc2ogK3xP4G) | 3:25 | 2025-04-07 | 2025-06-06 |
 | [Hayırlı Günler](https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt) | [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Pişman](https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg) | 3:16 | 2024-07-02 | 2024-12-05 |
+| [HOT](https://open.spotify.com/track/6wD0Bgtt1wx3DuDd6uhWmi) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [HOT](https://open.spotify.com/album/3hiG6TaCzWuemBgd2fyh3A) | 2:34 | 2025-07-17 |  |
 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 | 2025-03-13 | 2025-07-01 |
 | [I WANNA DANCE](https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ) | [I WANNA DANCE](https://open.spotify.com/album/3wnbZnVv0zchJ5fGOVn21d) | 1:50 | 2024-12-10 | 2024-12-27 |
 | [ILTIMAS X SUBMARINER](https://open.spotify.com/track/1ppnRAPv8zJjrNy4TW5w7M) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [ILTIMAS X SUBMARINER](https://open.spotify.com/album/43yjmZvIXU6NjFoMul1Uw2) | 3:01 | 2024-07-02 | 2024-11-22 |
@@ -133,7 +134,7 @@
 | [Neyleyim](https://open.spotify.com/track/3QSJlPYxNXCBP0y4SNB2E7) | [Emre Altuğ](https://open.spotify.com/artist/6CtMmrX12kYA3O4kINuWjZ) | [Kişiye Özel](https://open.spotify.com/album/0YKWM0fWJPqohGAIj9nTEw) | 4:45 | 2025-01-14 | 2025-04-24 |
 | [Numaracı](https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:16 | 2024-07-02 | 2024-11-28 |
 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 | 2024-07-02 | 2025-01-08 |
-| [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 | 2024-08-22 |  |
+| [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 | 2024-08-22 | 2025-07-18 |
 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 | 2024-08-08 | 2025-07-17 |
 | [Padişahım](https://open.spotify.com/track/0kQKA9E7CkYTA4l3MXbQrI) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Padişahım](https://open.spotify.com/album/5Y14uuFJGiuOZkXfZComxG) | 2:33 | 2025-03-25 | 2025-04-04 |
 | [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 | 2024-10-10 | 2024-10-22 |
@@ -195,7 +196,7 @@
 | [Çık Artık Aklımdan](https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Çık Artık Aklımdan](https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt) | 3:44 | 2025-07-01 |  |
 | [Çıt Çıt Çedene](https://open.spotify.com/track/45LpIgOnh3OryDAuYXqTkp) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Hal Hal](https://open.spotify.com/album/1hvLeIVO5s6PvhsoE7Fxqf) | 3:52 | 2025-05-19 | 2025-07-01 |
 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 | 2024-07-23 | 2025-05-13 |
-| [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-07-02 |  |
+| [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-07-02 | 2025-07-18 |
 | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ) | 2:19 | 2025-05-12 |  |
 | [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 | 2025-06-30 |  |
 | [ჩუბინა](https://open.spotify.com/track/0s6vEUEL2Ij2tXXGLvgmLi) | [Chub1na.Ge](https://open.spotify.com/artist/0rvNMvAdO6Kcd23ms4RmBC) | [ჩუბინა](https://open.spotify.com/album/0zgnbu4OjPQ0hnou373oX2) | 1:30 | 2025-01-22 | 2025-02-14 |

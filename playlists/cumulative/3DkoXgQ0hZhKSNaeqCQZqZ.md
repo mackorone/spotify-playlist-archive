@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request a song @ FurryRadio.com
 
-362 songs - 19 hr 2 min
+365 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Don't Play](https://open.spotify.com/track/2F99j2WpQ5GRWoTAQZ0rPQ) | [Marti](https://open.spotify.com/artist/4jmSBoKdI4v6xgF9B88u9Q), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Don't Play](https://open.spotify.com/album/6ev9CsA87Vs4hht6DQkWnc) | 2:54 | 2025-01-27 |  |
 | [Dr1p](https://open.spotify.com/track/1yPooLQa9YF3ZLQckOWRcQ) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [Holoplankton](https://open.spotify.com/album/7g5ymwyauwP5J0jGP9yGmp) | 3:49 | 2023-06-14 |  |
 | [Drained](https://open.spotify.com/track/3ISjtbkPZgp4kQaGuNcQwR) | [ABSRDST](https://open.spotify.com/artist/0F4rneT54YD3eaWYXUXvFM) | [Drained](https://open.spotify.com/album/3FDlszVMTptRq3PXkGbw4p) | 4:02 | 2024-11-18 |  |
+| [Dream Well](https://open.spotify.com/track/2matn9WPqhSjpWN1VsZDay) | [HIYU](https://open.spotify.com/artist/61FnFYz1oDlDss8t3j7vO1), [Ashtalon](https://open.spotify.com/artist/6iavgDwB3ZnFmALNatdhgg) | [Furality Somna \(Original Soundtrack\)](https://open.spotify.com/album/7ilCmxVwT6CxEdWAdIMO0R) | 20:00 | 2025-07-17 |  |
 | [Drivin' To The Moonlight](https://open.spotify.com/track/49y72iLboKC9BOz3Jxnebd) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Drivin' To The Moonlight](https://open.spotify.com/album/3i5lBpOaIAeqQpg06UDKCz) | 2:24 | 2024-04-08 |  |
 | [drunk](https://open.spotify.com/track/6eV31VaY2FYeCwU0w4eAfu) | [lambcatz](https://open.spotify.com/artist/1kZhT2J3MLjIr1VhgsFG8t) | [drunk](https://open.spotify.com/album/05F3IttDmLYr93iaz5ihqI) | 2:23 | 2024-02-09 |  |
 | [Dystopia](https://open.spotify.com/track/1CVk5ezWggeE24hJMIBcZF) | [Pony Boy](https://open.spotify.com/artist/6RFWaB4szIPFWnJKchk8tX), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Age of Discovery](https://open.spotify.com/album/10s4l3Jffskegx8mmqeXYJ) | 6:37 | 2024-05-20 |  |
@@ -271,6 +272,7 @@
 | [Regicida](https://open.spotify.com/track/2WAbdL28RuvA57rFKgeuN2) | [Masm](https://open.spotify.com/artist/7BUR6ylOjKN091RWsBRXa7), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Regicida](https://open.spotify.com/album/20tFJTkSrzcEY87XLqx2Zx) | 3:45 | 2024-07-22 |  |
 | [Remnants of Maldek](https://open.spotify.com/track/59GV68so4oZucwFF5iS2MB) | [Floralia](https://open.spotify.com/artist/2HSpGh8ARgTJY3qmiKXkLV) | [Whispers of Grey](https://open.spotify.com/album/7kAouub9F8kCdrWSLIh51S) | 4:14 | 2024-02-23 |  |
 | [Reunite Our Life](https://open.spotify.com/track/6o1TDHXPiwFgimYvmadUrI) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Reunite Our Life](https://open.spotify.com/album/6s3McdmA8s09KEA70Y2Y4K) | 3:10 | 2025-06-02 |  |
+| [Riding the Clouds](https://open.spotify.com/track/7p6m4JtFwEIvXVLgLua1eO) | [HIYU](https://open.spotify.com/artist/61FnFYz1oDlDss8t3j7vO1), [Ashtalon](https://open.spotify.com/artist/6iavgDwB3ZnFmALNatdhgg) | [Furality Somna \(Original Soundtrack\)](https://open.spotify.com/album/7ilCmxVwT6CxEdWAdIMO0R) | 1:46 | 2025-07-17 |  |
 | [Rise Of The Carneline](https://open.spotify.com/track/0rblEPQTM9iujZ4qCrJO31) | [Fishcracks](https://open.spotify.com/artist/4To8tDAkDqCfPXecTlsJSE) | [Kaiju Paradise \(Original Game Soundtrack\)](https://open.spotify.com/album/7KutwizcMBiG9Wj2wsnY1M) | 2:30 | 2023-06-28 |  |
 | [Road Kill](https://open.spotify.com/track/7gOG5mzKRrjTAQgyU1KAFP) | [Rhythm Bastard](https://open.spotify.com/artist/54yG5HnJWjSbO8VAfbmY64) | [Road Kill](https://open.spotify.com/album/5BoqrMvG5TafdTPb5RhUdr) | 3:06 | 2024-03-06 |  |
 | [Robin Hood](https://open.spotify.com/track/6K9smrlakXex53vhl5r5dC) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [Robin Hood](https://open.spotify.com/album/5lx5UeqilTSBCzoPh6v87E) | 3:19 | 2025-01-25 |  |
@@ -341,6 +343,7 @@
 | [The Tail Song](https://open.spotify.com/track/6nijsxzA8n8oi9kq29Mvdb) | [OkayDonuts](https://open.spotify.com/artist/0Bhx3Xk2I9klcpopBSCcpc) | [The Tail Song](https://open.spotify.com/album/5s9BAlQaGBsonEJQ0B62Wi) | 1:36 | 2023-09-05 |  |
 | [thembo](https://open.spotify.com/track/5mbwsXdg5Bdd2tyqqceOvZ) | [Werewing](https://open.spotify.com/artist/6msaXg2oHJLtyWD4PoZpkE) | [thembo](https://open.spotify.com/album/4GKLqydauHPJFHm6pnDYEz) | 1:58 | 2024-11-18 |  |
 | [this thought](https://open.spotify.com/track/6EuzOgCmnKfAEflQf5oG4K) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [this thought](https://open.spotify.com/album/0fWgldWzuAozIR9fiz2A9W) | 3:18 | 2024-11-25 |  |
+| [Threads of the Stars \(Theme of Furality Somna\)](https://open.spotify.com/track/1Cw5uRquKZQSuJ55Zak864) | [HIYU](https://open.spotify.com/artist/61FnFYz1oDlDss8t3j7vO1), [Ashtalon](https://open.spotify.com/artist/6iavgDwB3ZnFmALNatdhgg) | [Furality Somna \(Original Soundtrack\)](https://open.spotify.com/album/7ilCmxVwT6CxEdWAdIMO0R) | 2:41 | 2025-07-17 |  |
 | [Time for Farewell](https://open.spotify.com/track/7uOnLMjSLadW5NJTQGlJ2E) | [Rei Caffie](https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa) | [Time for Farewell](https://open.spotify.com/album/3qfmzI619oictbfsPLFMVF) | 3:51 | 2024-02-10 |  |
 | [tiny windows](https://open.spotify.com/track/52x6HZ6BZSVCbYo8O5etd2) | [Tanger](https://open.spotify.com/artist/77JLoURVdxC8jnr3DPY05x), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [tiny windows](https://open.spotify.com/album/09HVB7hJsvNgmI5CTmcW8p) | 2:32 | 2024-11-25 |  |
 | [Toxic](https://open.spotify.com/track/2B7qk6mt9mSFVrdumESMyO) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Toxic](https://open.spotify.com/album/3GBL08IpIhu6V20iFOa9jF) | 2:48 | 2024-10-31 |  |

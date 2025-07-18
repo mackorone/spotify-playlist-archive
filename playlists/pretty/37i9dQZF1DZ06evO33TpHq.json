@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 55372,
+  "num_followers": 55410,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAAQqynU3Qn0uGISRAFWrbEZ",
+  "snapshot_id": "aHbrgAAAAAA1BVeSdaYSUPrmVpsZ/7xX",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/4UyZLGgzMu6jDcVAre7NhO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 360666,
+      "name": "Song Of The Saints",
+      "url": "https://open.spotify.com/track/2ya8YwRadzYVOUzzIfidFH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I BELIEVE \u2022 HOMETOWN VERSION",
         "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 323384,
       "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
       "url": "https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 344200,
-      "name": "1,000 Names",
-      "url": "https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 344200,
+      "name": "1,000 Names",
+      "url": "https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cannons",
         "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 293720,
       "name": "Messiah / You're Beautiful",
       "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/4UyZLGgzMu6jDcVAre7NhO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Song Of The Saints",
-      "url": "https://open.spotify.com/track/2ya8YwRadzYVOUzzIfidFH"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worthy Of My Song",
-        "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 371640,
-      "name": "Worthy Of My Song",
-      "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven & Earth",
         "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 244546,
       "name": "Heaven Song",
       "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worthy Of My Song",
+        "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 371640,
+      "name": "Worthy Of My Song",
+      "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope (The House Sessions)",
-        "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 394626,
-      "name": "How Great Is Your Love",
-      "url": "https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phil Wickham",
         "url": "https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 298026,
       "name": "Divine Romance",
       "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living Hope (The House Sessions)",
+        "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 394626,
+      "name": "How Great Is Your Love",
+      "url": "https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17"
     },
     {
       "added_at": null,

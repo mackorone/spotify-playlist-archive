@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,104 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,135 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 26 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
 | 27 | [Rip It Up](https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F) | 5:20 |
 | 28 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
-| 29 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 |
-| 30 | [Winona](https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Winona](https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK) | 8:31 |
-| 31 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 |
+| 29 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 |
+| 30 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 |
+| 31 | [Winona](https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Winona](https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK) | 8:31 |
 | 32 | [Can You Feel It](https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Washing Machine](https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I) | 5:44 |
 | 33 | [Everybody Needs A 303](https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP) | 5:48 |
 | 34 | [Acid Bit](https://open.spotify.com/track/62qTgeNdswNbPAsY9qm8vk) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:25 |

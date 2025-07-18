@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: HUNTR/X, KPop Demon Hunters Cast
+> The best tracks from the world of music\. Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,997 likes - 52 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,028 likes - 52 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 | 51 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
 | 52 | [Kan Ku Nantikan](https://open.spotify.com/track/5CRv9DjIAdCgFxZ6Xz054x) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Kan Ku Nantikan](https://open.spotify.com/album/4zJgdjPAqW0fba3MrATOyQ) | 3:05 |
 
-Snapshot ID: `aHchjQAAAABIP70euO2xGurydEV4w2qT`
+Snapshot ID: `aHkeBwAAAABiG2vxj4/w8Ja0MLdIFqxv`

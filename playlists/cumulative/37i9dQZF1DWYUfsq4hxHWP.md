@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Scott Wolverton, Artwork: Fanélie Muselier
 
-3,280 songs - 7 day 9 hr 32 min
+3,281 songs - 7 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1530,7 +1530,7 @@
 | [It's Still January](https://open.spotify.com/track/5tsecZZhFatEW7sf4cjNKP) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [It's Still January](https://open.spotify.com/album/3VGSxxbLn9eXCRCAq75XIp) | 3:42 | 2023-05-05 | 2023-06-29 |
 | [It's You That Makes Me](https://open.spotify.com/track/0UAZaFGXWqUq6sDfb9nNtb) | [Bobby Watson](https://open.spotify.com/artist/3vJcThDRTiLEhLwNzJewSD) | [It's You That Makes Me](https://open.spotify.com/album/5ZLzfIqsqLmAhH4uCn7awm) | 3:48 | 2024-04-03 | 2024-07-11 |
 | [I’m Never Drinking Again](https://open.spotify.com/track/4tFdZ7jnYW3zjSzIKuYbfi) | [Claudia Tripp](https://open.spotify.com/artist/5I0T6nRUCHMYv7zytK5zPB) | [I’m Never Drinking Again](https://open.spotify.com/album/13DVGcQBBnBI94jU0j8jCd) | 3:18 | 2023-06-28 | 2023-08-31 |
-| [I’m Not Him](https://open.spotify.com/track/3zvkHlQ914KKxYUxoh41an) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [I’m Not Him](https://open.spotify.com/album/5jZ66cvpYoGaQ64ffNJNZA) | 2:55 | 2025-05-07 |  |
+| [I’m Not Him](https://open.spotify.com/track/3zvkHlQ914KKxYUxoh41an) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [I’m Not Him](https://open.spotify.com/album/5jZ66cvpYoGaQ64ffNJNZA) | 2:55 | 2025-05-07 | 2025-07-18 |
 | [Jack](https://open.spotify.com/track/27TRbvBYhaTbuuqGiwKW5j) | [Elliott Adkins](https://open.spotify.com/artist/4hs8ulc0xzazY44rO51oei) | [Jack](https://open.spotify.com/album/2Ezis6OCFUie1No89kGuRA) | 2:57 | 2024-01-10 | 2024-02-01 |
 | [Jack & Jones](https://open.spotify.com/track/1zrZse1JQ4Au4Mqsqf75af) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [You, Me & the Moon](https://open.spotify.com/album/19KZ0vZm4XQXEZzyRBkJOa) | 2:51 | 2024-12-04 | 2025-01-16 |
 | [Jack & Jones](https://open.spotify.com/track/2JkP68ZMZq2SkegAQqbJrM) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Jack & Jones](https://open.spotify.com/album/1XJJ6NtaZ1De2Xsi0xZrn6) | 2:51 | 2024-03-13 | 2024-04-24 |
@@ -1579,6 +1579,7 @@
 | [Keep You Around](https://open.spotify.com/track/4Kp1NMyG6MZzbGtmNnTbXq) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [Keep You Around](https://open.spotify.com/album/1KIPnoqKZIfMqNjqpeMJqr) | 3:10 | 2024-03-27 | 2024-05-16 |
 | [Keep Your Radio On](https://open.spotify.com/track/2nWWKG5Ehmq5txbc5vJUtO) | [Wyatt McCubbin](https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf) | [Had To Be Wrote](https://open.spotify.com/album/5wKlNknqRlcQzkCpJi0UnY) | 3:03 | 2024-01-10 | 2025-01-16 |
 | [Keeping Me Up All Night](https://open.spotify.com/track/3IjDghaXh385kOYVTQJ7rr) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Keeping Me Up All Night](https://open.spotify.com/album/4q3MfAPYMT68yrthrSD68x) | 3:29 | 2022-08-26 | 2022-10-06 |
+| [Keeps Me Sane](https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA) | 3:12 | 2025-07-17 |  |
 | [Kentucky Blue](https://open.spotify.com/track/61dWdbJ1UbcyudwtQNXqAJ) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Kentucky Blue](https://open.spotify.com/album/3d6Wx2URP5JHRlIdLRSsnc) | 2:59 | 2022-11-02 | 2023-01-26 |
 | [Kentucky Sky](https://open.spotify.com/track/4GBHsMtMopYUNZP6pRI6Dn) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Kentucky Sky](https://open.spotify.com/album/5CMjTjCvOAMzNDGP9tL4gF) | 3:49 | 2023-03-08 | 2023-04-13 |
 | [Keys to Kentucky](https://open.spotify.com/track/0LFO7ZhB9egOaCbjXRYk11) | [Everette](https://open.spotify.com/artist/7LsMipSvTHNPCHQwuKuz2C) | [Keys to Kentucky](https://open.spotify.com/album/24NzyW4wfpXtiL0x1lp3ja) | 2:53 | 2024-04-17 | 2024-08-15 |

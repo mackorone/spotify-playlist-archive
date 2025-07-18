@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 52025,
+  "num_followers": 52036,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAADs2yrIjvnNC+kJlVtQpk30",
+  "snapshot_id": "aHbrgAAAAAB6qt0WZUqba53QZQLlYisn",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 313386,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show Your Bones",
         "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 250133,
       "name": "Phenomena",
       "url": "https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 313386,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mosquito (Deluxe)",
-        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Under The Earth",
-      "url": "https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show Your Bones",
         "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 171426,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Under The Earth",
+      "url": "https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mosquito (Deluxe)",
-        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 246146,
-      "name": "Slave",
-      "url": "https://open.spotify.com/track/3KDNP1qeCGZRlExpJUPlzi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fever To Tell",
         "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 135906,
       "name": "Cold Light",
       "url": "https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 246146,
+      "name": "Slave",
+      "url": "https://open.spotify.com/track/3KDNP1qeCGZRlExpJUPlzi"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Is EP",
-        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
+        "name": "IS IS",
+        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 190986,
+      "duration_ms": 191093,
       "name": "Rockers To Swallow",
-      "url": "https://open.spotify.com/track/2UiapyNBxFVssobcZVuQuL"
+      "url": "https://open.spotify.com/track/4MFhnFd5IlotC8L4E4ZifJ"
     },
     {
       "added_at": null,

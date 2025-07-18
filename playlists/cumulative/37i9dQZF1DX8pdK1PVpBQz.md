@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Mouseatouille
 
-4,132 songs - 9 day 11 hr 23 min
+4,133 songs - 9 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1993,6 +1993,7 @@
 | [Kiss Like This](https://open.spotify.com/track/0wIuGauvUIymOTfPTfqGef) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Kiss Like This](https://open.spotify.com/album/401blHslvZwWepYIsCgyMF) | 2:45 | 2023-11-15 | 2023-11-30 |
 | [Kiss Me \(Kill Me\)](https://open.spotify.com/track/2CHTt81Ly6DlMb48BXgmcW) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Kiss Me \(Kill Me\)](https://open.spotify.com/album/1fkQYMN4tOgeokPpEYp8p8) | 4:31 | 2024-04-23 | 2024-06-05 |
 | [Kiss The Sky](https://open.spotify.com/track/6gVySa3tU0A0zBlvbzYWbA) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Kiss The Sky](https://open.spotify.com/album/3pbx99AzPf1tTbsxvTp1u1) | 2:42 | 2024-05-07 | 2024-06-12 |
+| [KISSING](https://open.spotify.com/track/4xDfKNdpywLn63gY6C95Xf) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [KISSING](https://open.spotify.com/album/3iq0etP6pfeOTWyUck4Uza) | 2:14 | 2025-07-15 |  |
 | [Kitchenette](https://open.spotify.com/track/2ohOnughvQOvWYcug1aSUW) | [Boycrush](https://open.spotify.com/artist/3lpyPFfTcIbj01tbMmSMBY) | [Kitchenette](https://open.spotify.com/album/2hxYTuLbS1cPN1wfv5dA6I) | 3:52 | 2022-10-12 | 2022-11-24 |
 | [Kites](https://open.spotify.com/track/0XlrRImO4fPQJDHave0lWW) | [Devon Street](https://open.spotify.com/artist/6Akb7NG0sdiN1d3J9u2Ic6) | [Kites](https://open.spotify.com/album/0dtRLMotIorPaYPYiYHMPd) | 3:20 | 2025-02-25 | 2025-04-16 |
 | [Kitty Kawaii](https://open.spotify.com/track/6ypIIbJCUivB4pixzjCPIN) | [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [lila sky](https://open.spotify.com/artist/3LsIR9rVSsNmyRYcJOsdyH), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Kitty Kawaii](https://open.spotify.com/album/3qe2Bx6oNVRP0r0d4hPUIt) | 2:44 | 2024-01-25 | 2024-02-22 |

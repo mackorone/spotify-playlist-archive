@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Bella Napoli",
+        "url": "https://open.spotify.com/album/1yRV305TLlttFq1RqXy9we"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/2RETchtst6lwpgfHy7CCoT"
+    },
+    {
+      "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
       },
@@ -738,6 +756,28 @@
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "album": {
+        "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
+        "url": "https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170317,
+      "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
+      "url": "https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp"
     },
     {
       "album": {
@@ -1238,7 +1278,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 195291,
       "name": "Control Of Me",
       "url": "https://open.spotify.com/track/5dcNOLbo4FhtJOpIi8fxnQ"
@@ -2292,7 +2332,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 174000,
       "name": "Happy Here",
       "url": "https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm"

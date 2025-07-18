@@ -1,6 +1,6 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 114566,
+  "num_followers": 114792,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Movin' On Broadway",
-        "url": "https://open.spotify.com/album/0H3fpfEvApgmSPp8qivyOQ"
-      },
-      "artists": [
-        {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
-        }
-      ],
-      "duration_ms": 139533,
-      "name": "C'est Magnifique - Remastered",
-      "url": "https://open.spotify.com/track/6ghdeAG64RBwahVxWzj9sa"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 182493,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Movin' On Broadway",
+        "url": "https://open.spotify.com/album/0H3fpfEvApgmSPp8qivyOQ"
+      },
+      "artists": [
+        {
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+        }
+      ],
+      "duration_ms": 139533,
+      "name": "C'est Magnifique - Remastered",
+      "url": "https://open.spotify.com/track/6ghdeAG64RBwahVxWzj9sa"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 169466,
       "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
       "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Stardust: The Music Of Hoagy Carmichael",
-        "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        }
-      ],
-      "duration_ms": 300453,
-      "name": "I Walk With Music",
-      "url": "https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "A Treasury Of Golden Hits",
         "url": "https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 176560,
       "name": "Hey There",
       "url": "https://open.spotify.com/track/1GEiJecIBYuVyhMaWE7X1y"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Stardust: The Music Of Hoagy Carmichael",
+        "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "duration_ms": 300453,
+      "name": "I Walk With Music",
+      "url": "https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR"
     },
     {
       "added_at": "2024-06-13 12:36:56",

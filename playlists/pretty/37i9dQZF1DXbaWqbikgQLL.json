@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 52628,
+  "num_followers": 52840,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 301573,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "De Verdad (15 Super Exitos)",
         "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 283213,
       "name": "M\u00eda",
       "url": "https://open.spotify.com/track/6HJCGXNww93AIaaxUb7C3O"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 301573,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -572,8 +572,8 @@
           "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
         },
         {
-          "name": "Bukanas De Culiacan",
-          "url": "https://open.spotify.com/artist/0aCsCyB57a5WblHH2AudKa"
+          "name": "Buknas De Culiacan",
+          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
         },
         {
           "name": "El Komander",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Sin Ti No S\u00e9 Vivir",
-      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 230713,
       "name": "Cuarto para las Dos",
       "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Sin Ti No S\u00e9 Vivir",
+      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Hansel & Raul 33",
-        "url": "https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0"
-      },
-      "artists": [
-        {
-          "name": "Hansel Y Raul",
-          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
-        }
-      ],
-      "duration_ms": 348600,
-      "name": "Ella Feat. Luis Enrique",
-      "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 297358,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/6ffaMgOcnYojSshORaBNiK"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Hansel & Raul 33",
+        "url": "https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0"
+      },
+      "artists": [
+        {
+          "name": "Hansel Y Raul",
+          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
+        }
+      ],
+      "duration_ms": 348600,
+      "name": "Ella Feat. Luis Enrique",
+      "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Coraz\u00f3n Adolorido",
-      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Galy Galiano 30 A\u00f1os",
         "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 438026,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Coraz\u00f3n Adolorido",
+      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 335621,
-      "name": "A Esa Gran Velocidad",
-      "url": "https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Serie Platino",
         "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 303800,
       "name": "Quien Entiende Este Amor",
       "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 335621,
+      "name": "A Esa Gran Velocidad",
+      "url": "https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
       "artists": [
         {
-          "name": "Max Torres",
-          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
         }
       ],
-      "duration_ms": 264312,
-      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
+      "duration_ms": 297293,
+      "name": "Rumba Quimbumba",
+      "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
       },
       "artists": [
         {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+          "name": "Max Torres",
+          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
         }
       ],
-      "duration_ms": 297293,
-      "name": "Rumba Quimbumba",
-      "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
+      "duration_ms": 264312,
+      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
     },
     {
       "added_at": "2024-07-02 23:02:31",

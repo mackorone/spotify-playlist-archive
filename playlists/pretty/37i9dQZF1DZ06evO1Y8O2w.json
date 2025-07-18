@@ -1,12 +1,12 @@
 {
   "description": "This is Phyllis Hyman. The essential tracks, all in one playlist.",
-  "num_followers": 8113,
+  "num_followers": 8116,
   "original_name": "This Is Phyllis Hyman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAC86WlPJlF7G+/i2x/mcSPr",
+  "snapshot_id": "aHbrgAAAAAB3dQ0b10UtzfUQrxIMbZyv",
   "tracks": [
     {
       "added_at": null,
@@ -182,15 +182,11 @@
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        },
-        {
-          "name": "Nick Martinelli",
-          "url": "https://open.spotify.com/artist/4gt6myR7cf8PiupMaIEx9U"
         }
       ],
-      "duration_ms": 252520,
-      "name": "Ain't You Had Enough Love",
-      "url": "https://open.spotify.com/track/56xlTwqeWKIsw68ZOMzmp7"
+      "duration_ms": 254240,
+      "name": "You Just Don't Know",
+      "url": "https://open.spotify.com/track/1UtIQ6BxB9GyfrweUAj1YR"
     },
     {
       "added_at": null,
@@ -250,11 +246,15 @@
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        },
+        {
+          "name": "Nick Martinelli",
+          "url": "https://open.spotify.com/artist/4gt6myR7cf8PiupMaIEx9U"
         }
       ],
-      "duration_ms": 254240,
-      "name": "You Just Don't Know",
-      "url": "https://open.spotify.com/track/1UtIQ6BxB9GyfrweUAj1YR"
+      "duration_ms": 252520,
+      "name": "Ain't You Had Enough Love",
+      "url": "https://open.spotify.com/track/56xlTwqeWKIsw68ZOMzmp7"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phyllis Hyman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 231413,
-      "name": "Baby (I'm Gonna Love You) - 7\" Version",
-      "url": "https://open.spotify.com/track/5TnLtfz0X6Z1Sou7UiJrWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Legacy Of Phyllis Hyman",
         "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 297906,
       "name": "Gonna Make Changes",
       "url": "https://open.spotify.com/track/4URmiJKUQuceu4ZfcaIA5S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phyllis Hyman (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 231413,
+      "name": "Baby (I'm Gonna Love You) - 7\" Version",
+      "url": "https://open.spotify.com/track/5TnLtfz0X6Z1Sou7UiJrWJ"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Living All Alone",
+        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Slow Dancin'",
+      "url": "https://open.spotify.com/track/6LEF5au3B4MgVoeQTDE3tZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Will Find a Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 358093,
       "name": "Everything I Have Is Good (feat. Norman Connors & Phyllis Hyman)",
       "url": "https://open.spotify.com/track/44Ju7KqdFitKeI5v66O250"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Slow Dancin'",
-      "url": "https://open.spotify.com/track/6LEF5au3B4MgVoeQTDE3tZ"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't We Fall In Love Again (Expanded Edition)",
-        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/3pAmGIMw7jjf85vraM5mnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Know How to Love Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 310493,
       "name": "Some Way",
       "url": "https://open.spotify.com/track/67WlLXB2CSnD56PTtEVa2K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't We Fall In Love Again (Expanded Edition)",
+        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/3pAmGIMw7jjf85vraM5mnA"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't We Fall In Love Again (Expanded Edition)",
-        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
+        "name": "You Know How to Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 225080,
-      "name": "In Between the Heartaches",
-      "url": "https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY"
+      "duration_ms": 322773,
+      "name": "Tonight You and Me - Disco Version",
+      "url": "https://open.spotify.com/track/78A2I3CESWSwj7oflgfLli"
     }
   ],
   "unique_name": "This Is Phyllis Hyman",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Age Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,919 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,961 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 16 | [Super Shine](https://open.spotify.com/track/6EjifPIQSrnhYgv9t19tVn) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Super Shine](https://open.spotify.com/album/6PF8NX9Z37bL24a1bJgsAt) | 3:12 |
 | 17 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 |
 | 18 | [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 |
-| 19 | [音の頃](https://open.spotify.com/track/0CY9pVqpZoBm7yerv1uFnO) | [LEO](https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS), [Shohei Amimori](https://open.spotify.com/artist/3DcYBf3guJqmuPePUL4COJ) | [microcosm](https://open.spotify.com/album/3TxD9qb3IBWQN7RnQCBGWq) | 5:06 |
+| 19 | [音の頃](https://open.spotify.com/track/0CY9pVqpZoBm7yerv1uFnO) | [LEO](https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS), [Shohei Amimori](https://open.spotify.com/artist/3DcYBf3guJqmuPePUL4COJ), [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [microcosm](https://open.spotify.com/album/3TxD9qb3IBWQN7RnQCBGWq) | 5:06 |
 | 20 | [のろし](https://open.spotify.com/track/52DwpLsBmWk2VxJ9zauLLh) | [のろしレコード](https://open.spotify.com/artist/5M6YEwwb4Y7SYB1Wbg2qao) | [のろしレコード Live at 銕仙会能楽研修所](https://open.spotify.com/album/11B61owUXD64xvGzB7nXmT) | 5:31 |
 | 21 | [Nerd](https://open.spotify.com/track/58enSgNcXIbpVlMZvgojOw) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Nerd](https://open.spotify.com/album/3tv0cOXvWrXyDoVRwFHHP9) | 3:29 |
 | 22 | [Yellow Hello](https://open.spotify.com/track/18rSQpe1DVokN2puNo2Vc0) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr) | [Yellow Hello](https://open.spotify.com/album/109Evmqdk2DaOZNeCO7Iow) | 3:14 |
@@ -53,19 +53,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 43 | [YOU](https://open.spotify.com/track/14SqqKBjTXkF7Z8pkwYGGw) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [YOU](https://open.spotify.com/album/0dvWzXRKOKHHb0ODMg92x6) | 4:43 |
 | 44 | [人生は失敗だった](https://open.spotify.com/track/1stY1Q72eXqTG2TwRVP2QQ) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [人生は失敗だった](https://open.spotify.com/album/6o7zKGuuxJMvjbaujRhIWS) | 3:27 |
 | 45 | [夏の幻](https://open.spotify.com/track/4cPZnL4hqsb5gGYkg0BCvi) | [the paddles](https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO) | [夏の幻](https://open.spotify.com/album/6b91XQOCaGyOvY55EJBmuM) | 4:26 |
-| 46 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
-| 47 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
-| 48 | [Goodnight](https://open.spotify.com/track/6I4DdTw4emHFtKRga5HX3C) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [Goodnight](https://open.spotify.com/album/50Vd83jb4Q90L39y7ANVxX) | 3:31 |
-| 49 | [Who's In My House?](https://open.spotify.com/track/4oVrSD7yk8GkmegkMpGoj0) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Who's in My House?](https://open.spotify.com/album/3Ak37Feu5PK03x4hjujdnf) | 6:41 |
-| 50 | [淡雪](https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [淡雪](https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW) | 3:22 |
-| 51 | [24](https://open.spotify.com/track/31KcaweNPqlnEOYjE5CnGa) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [24](https://open.spotify.com/album/4oe0cD7X88Cn2G5AISfqLD) | 3:50 |
-| 52 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
-| 53 | [芒果](https://open.spotify.com/track/5Xjpo1WzoZVfBMdsnZSnEp) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [芒果](https://open.spotify.com/album/7tQoofYpcZf451VQxzXzrY) | 2:53 |
+| 46 | [Who's In My House?](https://open.spotify.com/track/4oVrSD7yk8GkmegkMpGoj0) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Who's in My House?](https://open.spotify.com/album/3Ak37Feu5PK03x4hjujdnf) | 6:41 |
+| 47 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
+| 48 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
+| 49 | [Goodnight](https://open.spotify.com/track/6I4DdTw4emHFtKRga5HX3C) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [Goodnight](https://open.spotify.com/album/50Vd83jb4Q90L39y7ANVxX) | 3:31 |
+| 50 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
+| 51 | [淡雪](https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [淡雪](https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW) | 3:22 |
+| 52 | [24](https://open.spotify.com/track/31KcaweNPqlnEOYjE5CnGa) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [24](https://open.spotify.com/album/4oe0cD7X88Cn2G5AISfqLD) | 3:50 |
+| 53 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
 | 54 | [This Minute](https://open.spotify.com/track/5G0vkq5xLCjRVwi3h3ub6e) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [This Minute](https://open.spotify.com/album/3gKS2F4VmAftWojU4A8nZO) | 5:53 |
 | 55 | [Hatch Meets June](https://open.spotify.com/track/7uVh5GUs9ZCbvHTZWz0RhQ) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [Hatch Meets June](https://open.spotify.com/album/7fznNbl57jbwUdSIyXpejd) | 4:56 |
-| 56 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
-| 57 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
-| 58 | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/track/0x0hFrFDgg6PwSwkjMPjQn) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [真行寺貴秋](https://open.spotify.com/artist/2B5eU0ZSLAUqP3QY1Qc5PB) | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/album/4OkBPXViP1vBzOVNpdvb7a) | 3:49 |
+| 56 | [芒果](https://open.spotify.com/track/5Xjpo1WzoZVfBMdsnZSnEp) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [芒果](https://open.spotify.com/album/7tQoofYpcZf451VQxzXzrY) | 2:53 |
+| 57 | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/track/0x0hFrFDgg6PwSwkjMPjQn) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [真行寺貴秋](https://open.spotify.com/artist/2B5eU0ZSLAUqP3QY1Qc5PB) | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/album/4OkBPXViP1vBzOVNpdvb7a) | 3:49 |
+| 58 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
 | 59 | [1985](https://open.spotify.com/track/0enOrXRrfvuOZPWtCTjRHW) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [1985](https://open.spotify.com/album/4FkVzYd8PVAGo5ylgoWSTM) | 3:20 |
 | 60 | [I.K.T.W](https://open.spotify.com/track/2QmWMM0XYxHfIkOvlj4LH7) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [I.K.T.W](https://open.spotify.com/album/127ujdqH3qg0Gg6016dtPa) | 3:21 |
 | 61 | [GENOCIDE FUCK OFF](https://open.spotify.com/track/0IR8MVfOD3tJUMtOqq55wm) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [GENOCIDE FUCK OFF](https://open.spotify.com/album/4uH5I97dPW2T6II8Q5FzoA) | 0:43 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 64 | [文明児](https://open.spotify.com/track/0yKoAfF6FvyWbe0LGMoZxj) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [Hakko](https://open.spotify.com/album/58qHbTGh1IbLqkemxWqeGQ) | 9:12 |
 | 65 | [hey!!!!!](https://open.spotify.com/track/1VYTe72Tqeu1BBji74IPXo) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [hey!!!!!](https://open.spotify.com/album/4cZhnxX4v70aV7svupImx3) | 3:38 |
 | 66 | [Inaho](https://open.spotify.com/track/5JLqMwyDoRbz6CVelTmDsZ) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [NB2](https://open.spotify.com/album/4UgfLy59honQPg5GVZgaXi) | 3:24 |
-| 67 | [Swim](https://open.spotify.com/track/1B9IotUsdKzHZYRdmc99fn) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Swim](https://open.spotify.com/album/6KTZ7NAPmZP64DN0Mh9b6M) | 3:23 |
-| 68 | [とわの祭り](https://open.spotify.com/track/1VSG9RkIORqUX2oXKNL37E) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [とわの祭り](https://open.spotify.com/album/3nOa9wMmXNvDjtsgcabTkP) | 4:51 |
-| 69 | [君にノーベル賞](https://open.spotify.com/track/01oSAZ6iPbdmU6EcoYx15z) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [メロい夢](https://open.spotify.com/album/0PuRUQgoJooQ5811uwuRt5) | 2:39 |
-| 70 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
-| 71 | [幸福の培養](https://open.spotify.com/track/4MgFKwyW9pzNIZBzv6woPP) | [kinoue64](https://open.spotify.com/artist/1m3xhZ4CN3hm4F3lK8Rw5C) | [幸福の培養](https://open.spotify.com/album/5gtgznEYDKC80pT91UQN0I) | 2:55 |
-| 72 | [Passing \- PAS TASTA Remix](https://open.spotify.com/track/1lXCUs6VzMKZO7p5dm2QhK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [Passing \(PAS TASTA Remix\)](https://open.spotify.com/album/04pxdk6Ky7i3MF2JZ3c7dM) | 3:11 |
+| 67 | [とわの祭り](https://open.spotify.com/track/1VSG9RkIORqUX2oXKNL37E) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [とわの祭り](https://open.spotify.com/album/3nOa9wMmXNvDjtsgcabTkP) | 4:51 |
+| 68 | [幸福の培養](https://open.spotify.com/track/4MgFKwyW9pzNIZBzv6woPP) | [kinoue64](https://open.spotify.com/artist/1m3xhZ4CN3hm4F3lK8Rw5C) | [幸福の培養](https://open.spotify.com/album/5gtgznEYDKC80pT91UQN0I) | 2:55 |
+| 69 | [Swim](https://open.spotify.com/track/1B9IotUsdKzHZYRdmc99fn) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Swim](https://open.spotify.com/album/6KTZ7NAPmZP64DN0Mh9b6M) | 3:23 |
+| 70 | [君にノーベル賞](https://open.spotify.com/track/01oSAZ6iPbdmU6EcoYx15z) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [メロい夢](https://open.spotify.com/album/0PuRUQgoJooQ5811uwuRt5) | 2:39 |
+| 71 | [Passing \- PAS TASTA Remix](https://open.spotify.com/track/1lXCUs6VzMKZO7p5dm2QhK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [Passing \(PAS TASTA Remix\)](https://open.spotify.com/album/04pxdk6Ky7i3MF2JZ3c7dM) | 3:11 |
+| 72 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
 | 73 | [瓶](https://open.spotify.com/track/3Oqt3V0HOEUQWeTkzX5sF5) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [瓶](https://open.spotify.com/album/2PxrwxSTPmPH3K8gSgsJRB) | 2:02 |
-| 74 | [Departure](https://open.spotify.com/track/7LK9OuKMy5hCY7zO5PC3ow) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [Departure / Letter to Flowers](https://open.spotify.com/album/3JKlDs7sbWPHqag0stXfLI) | 4:02 |
-| 75 | [その日](https://open.spotify.com/track/2zBzHYumBgFh2sm6dE4ckh) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [Adrift in Time](https://open.spotify.com/album/0OiWixcir4dJ28OZ3W7CJi) | 3:22 |
+| 74 | [その日](https://open.spotify.com/track/2zBzHYumBgFh2sm6dE4ckh) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [Adrift in Time](https://open.spotify.com/album/0OiWixcir4dJ28OZ3W7CJi) | 3:22 |
+| 75 | [Departure](https://open.spotify.com/track/7LK9OuKMy5hCY7zO5PC3ow) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [Departure / Letter to Flowers](https://open.spotify.com/album/3JKlDs7sbWPHqag0stXfLI) | 4:02 |
 
 Snapshot ID: `aHaVoAAAAACoPqc23lRmI+kz2KWfEdFm`

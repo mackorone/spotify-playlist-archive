@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Jay Som
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,238 likes - 106 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,109 likes - 106 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

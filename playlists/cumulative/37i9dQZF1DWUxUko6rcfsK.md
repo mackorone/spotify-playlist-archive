@@ -4,7 +4,7 @@
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-156 songs - 8 hr 48 min
+158 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,13 +92,14 @@
 | [Louder](https://open.spotify.com/track/2uNoq7Xuqo7wBBg1rU3Xjk) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/1oQupLohOrOigi27xo9qwf) | 3:49 | 2024-09-24 | 2025-05-13 |
 | [Love At First Fight](https://open.spotify.com/track/6jNzsK1Ef8H2QcXjFUCsZV) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Love At First Fight](https://open.spotify.com/album/4HxBqKWfyCMeq3ZnqTbg68) | 3:12 | 2024-07-01 | 2024-08-02 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2025-04-11 |  |
+| [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 | 2025-07-17 |  |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2025-05-12 |  |
 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 | 2024-07-01 | 2024-09-25 |
 | [Money In My Head](https://open.spotify.com/track/7cBiYJkUlPaBDhgt2LzBqe) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/2PuHWNSPxzkSmyCIj5K1EF) | 3:08 | 2024-07-01 | 2025-02-18 |
 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 | 2024-07-01 | 2024-09-06 |
 | [Multicolor](https://open.spotify.com/track/2ExdbieQffMXpY7ygN2YN9) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Multicolor](https://open.spotify.com/album/1Aq9FlSr9KanZFljnUnl2m) | 3:28 | 2024-07-01 | 2025-02-04 |
 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 | 2024-10-21 | 2025-06-20 |
-| [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 | 2024-12-20 |  |
+| [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 | 2024-12-20 | 2025-07-18 |
 | [Never Said Goodbye](https://open.spotify.com/track/019IPf1J7LiN9yBUBp0f8d) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [A Modern Day Distraction](https://open.spotify.com/album/6mQQg0TOprhR2mCpMb5Kl2) | 3:38 | 2025-02-03 |  |
 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 | 2024-11-21 |  |
 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 | 2024-07-01 | 2024-09-25 |
@@ -106,7 +107,7 @@
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2024-07-01 | 2024-07-16 |
 | [Nowhere Land](https://open.spotify.com/track/2dGEIUrdFbP20hpdoa3U0j) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Nowhere Land](https://open.spotify.com/album/6tjCEVetoGY7QpT48AtF3W) | 3:25 | 2025-01-23 |  |
 | [OMG It's Happening](https://open.spotify.com/track/3UDWgZznpvkwYx92b0hjJ8) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [OMG It's Happening](https://open.spotify.com/album/46JiaUNCZPaPF0zZzE1Hu8) | 2:59 | 2024-07-01 | 2024-10-25 |
-| [One Day](https://open.spotify.com/track/77mWGue0DTf1Aj2YzWLmoi) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [One Day](https://open.spotify.com/album/6XNZZuRxJMwpgrBqgPAgoN) | 4:54 | 2024-09-24 |  |
+| [One Day](https://open.spotify.com/track/77mWGue0DTf1Aj2YzWLmoi) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [One Day](https://open.spotify.com/album/6XNZZuRxJMwpgrBqgPAgoN) | 4:54 | 2024-09-24 | 2025-07-18 |
 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 | 2024-07-01 | 2024-09-25 |
 | [PAINFUL PARADISE](https://open.spotify.com/track/3PUMFgRmBuKqGDtNKLBPt6) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [PAINFUL PARADISE](https://open.spotify.com/album/54nuF8VIzj6ZoW5yYFHt9M) | 2:53 | 2024-07-01 | 2024-10-22 |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2025-02-03 |  |
@@ -141,6 +142,7 @@
 | [The Crown \(feat\. Marcel Veenendaal\)](https://open.spotify.com/track/1vE88eOSWUb2hjljglRfc1) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [The Crown \(feat\. Marcel Veenendaal\)](https://open.spotify.com/album/2RcjbKoEHJVmhX5DYD3PMu) | 5:39 | 2025-04-03 |  |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-07-25 | 2025-05-23 |
 | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY) | 4:37 | 2024-11-14 |  |
+| [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 | 2025-07-17 |  |
 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 | 2024-07-01 | 2024-12-21 |
 | [Time Of Your Life](https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Time Of Your Life](https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b) | 3:07 | 2024-07-01 | 2024-11-29 |
 | [Tough \(The Girls Song\)](https://open.spotify.com/track/4g7ENhoox2hASK5tYih22Q) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Tough \(The Girls Song\)](https://open.spotify.com/album/1nFfsjm5sNquzvitmGvyTb) | 3:02 | 2024-07-01 | 2024-09-27 |

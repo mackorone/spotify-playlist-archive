@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 383863,
+  "num_followers": 383987,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "V\u00e1rias Ondas",
-        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 193205,
-      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
-      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
         "name": "Oh! Chuva (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 194771,
       "name": "Oh! Chuva - Ao Vivo",
       "url": "https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 193205,
+      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
+      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
         "name": "Onda",
         "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 189480,
       "name": "Na minha cabe\u00e7a",
       "url": "https://open.spotify.com/track/08yon5M1dMBzsTDWxZ6a1T"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "Linhas De Cerol",
-        "url": "https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 193122,
-      "name": "Um Sonho Na Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
         "name": "Andei S\u00f3",
         "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 357533,
       "name": "Andei S\u00f3",
       "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "Linhas De Cerol",
+        "url": "https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 193122,
+      "name": "Um Sonho Na Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Oliveira",
-          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
         "name": "Filho do Mar",
         "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 215172,
       "name": "Filho do Mar",
       "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Oliveira",
+          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
     },
     {
       "added_at": "2025-07-11 18:31:12",

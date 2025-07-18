@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Fantomel & Kate Linn",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Justin Bieber",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -2417,6 +2417,32 @@
     },
     {
       "album": {
+        "name": "Catalina",
+        "url": "https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN"
+      },
+      "artists": [
+        {
+          "name": "Cheu-B",
+          "url": "https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT"
+        },
+        {
+          "name": "Ghost Killer Track",
+          "url": "https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB"
+    },
+    {
+      "album": {
         "name": "Chaque seconde",
         "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
       },
@@ -3087,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj"
+    },
+    {
+      "album": {
         "name": "Dame Un Grrr",
         "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
       },
@@ -3102,7 +3146,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 133220,
       "name": "Dame Un Grrr",
       "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
@@ -3446,6 +3490,24 @@
       "duration_ms": 145065,
       "name": "Do It Like That",
       "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
+    },
+    {
+      "album": {
+        "name": "DO YOU LOVE ME ?",
+        "url": "https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169615,
+      "name": "DO YOU LOVE ME ?",
+      "url": "https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP"
     },
     {
       "album": {
@@ -6406,7 +6468,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 159452,
       "name": "LATINA FOREVA",
       "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
@@ -9824,7 +9886,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 176000,
       "name": "Que pasa ?",
       "url": "https://open.spotify.com/track/4nZUm9YNohN4D8UMjUUSEz"
@@ -11403,6 +11465,24 @@
     },
     {
       "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+    },
+    {
+      "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
       },
@@ -11868,7 +11948,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 153750,
       "name": "Together",
       "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
@@ -12232,6 +12312,24 @@
       "duration_ms": 165582,
       "name": "UN PREVIEW",
       "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
+    },
+    {
+      "album": {
+        "name": "Un, Dos, Tres",
+        "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154106,
+      "name": "Un, Dos, Tres",
+      "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
     },
     {
       "album": {
@@ -12922,7 +13020,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 164600,
       "name": "Whine",
       "url": "https://open.spotify.com/track/46vaBmVDzufp98VPJCwtAU"

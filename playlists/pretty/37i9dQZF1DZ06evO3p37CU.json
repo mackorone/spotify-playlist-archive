@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22282,
+  "num_followers": 22283,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAAkpss0KeM/woBZkHnAm+3e",
+  "snapshot_id": "aHbrgAAAAADq0zZeU9Yj+0H7YaEj7hgU",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        }
-      ],
-      "duration_ms": 286408,
-      "name": "RED FLAG",
-      "url": "https://open.spotify.com/track/4Ye2nug3j43IYIorNCQ0JY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 178218,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "duration_ms": 286408,
+      "name": "RED FLAG",
+      "url": "https://open.spotify.com/track/4Ye2nug3j43IYIorNCQ0JY"
     },
     {
       "added_at": null,

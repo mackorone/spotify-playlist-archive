@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 29810,
+  "num_followers": 29813,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAABtK/x/bmhn0ozBAskcut3l",
+  "snapshot_id": "aHbrgAAAAABiV1HNRbeAlFZSgbqSwYoK",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,26 @@
       "duration_ms": 221144,
       "name": "M\u00f3ntame - En Vivo",
       "url": "https://open.spotify.com/track/0abIxSDW4dVukgPVkKzLtj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 M\u00e1s Te Puedo Dar (En Vivo)",
+        "url": "https://open.spotify.com/album/4birJCiZmha76uLVPTZmNx"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
+        }
+      ],
+      "duration_ms": 278458,
+      "name": "Qu\u00e9 M\u00e1s Te Puedo Dar - En Vivo",
+      "url": "https://open.spotify.com/track/2q0zC5OinSILmWd0pRfq4r"
     },
     {
       "added_at": null,
@@ -379,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Llegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Qu\u00e9 M\u00e1s Te Puedo Dar",
-      "url": "https://open.spotify.com/track/7JTgmtRq4WBy2jG6Ijm9m8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zona de Peligro",
         "url": "https://open.spotify.com/album/3LjISuwDaksJyhnG1iiIgA"
       },
@@ -643,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Como Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/6zpbZkfhTuywWpHcJVYOm5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zona de Peligro",
         "url": "https://open.spotify.com/album/3LjISuwDaksJyhnG1iiIgA"
       },
@@ -671,6 +659,22 @@
       "duration_ms": 218960,
       "name": "Zona de Peligro",
       "url": "https://open.spotify.com/track/3nvWPw6xafcHBK5Yghf6gk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Como Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/6zpbZkfhTuywWpHcJVYOm5"
     },
     {
       "added_at": null,

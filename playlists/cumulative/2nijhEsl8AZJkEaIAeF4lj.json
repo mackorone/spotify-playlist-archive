@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204988,
+      "name": "David",
+      "url": "https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9"
+    },
+    {
+      "album": {
         "name": "Man On The Moon: The End Of Day",
         "url": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0"
       },

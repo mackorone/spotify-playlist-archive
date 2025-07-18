@@ -302,10 +302,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 187895,
       "name": "Chura Wangu",
       "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200921,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
     },
     {
       "album": {
@@ -700,7 +718,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 246986,
       "name": "Kafubaa",
       "url": "https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav"
@@ -816,7 +834,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 202997,
       "name": "Kijumbe",
       "url": "https://open.spotify.com/track/1MGBGAtm8wgYaRPBkhnRKq"
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 236068,
       "name": "Spend Dharau",
       "url": "https://open.spotify.com/track/7eSfbENvzhnzPQweq1XZO6"
@@ -2721,6 +2739,24 @@
     },
     {
       "album": {
+        "name": "Ungewezaje",
+        "url": "https://open.spotify.com/album/07BT9Wmq8cYs6DPCMTEQhW"
+      },
+      "artists": [
+        {
+          "name": "Dogo Paten",
+          "url": "https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165287,
+      "name": "Ungewezaje",
+      "url": "https://open.spotify.com/track/4u1eyjnUORPm3GE9hLsFcR"
+    },
+    {
+      "album": {
         "name": "Uongo",
         "url": "https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi"
       },
@@ -2834,7 +2870,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 201967,
       "name": "Viburi",
       "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
@@ -2932,7 +2968,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 243997,
       "name": "Wapo",
       "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"

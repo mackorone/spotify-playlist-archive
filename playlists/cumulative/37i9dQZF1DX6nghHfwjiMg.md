@@ -4,7 +4,7 @@
 
 > El futuro está acá 📸 MARTTEIN.
 
-237 songs - 12 hr 9 min
+240 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Big Cut](https://open.spotify.com/track/7pin8wDLL57efEYLvOpAAS) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Big Cut](https://open.spotify.com/album/2bHX5Y6PPg1cdgA0JTVZ5j) | 3:14 | 2021-11-11 | 2022-06-27 |
 | [BIGBANG \(crunchtime\)](https://open.spotify.com/track/4jhwMpcLH8fWYSNt9jEphK) | [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO) | [BIGBANG \(crunchtime\)](https://open.spotify.com/album/4FoizIPXlEIfixovjmhiVn) | 3:19 | 2025-05-09 |  |
 | [Bitches like me](https://open.spotify.com/track/34SvOGLgayPHz4qtktNqdR) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [X\-sex](https://open.spotify.com/album/5FayNByW0emcrthHzDHihF) | 3:21 | 2025-05-09 |  |
+| [BLINBLIN](https://open.spotify.com/track/3tWs3eKpkC1PGWxbgzdI4O) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [BLINBLIN](https://open.spotify.com/album/4CQRGxwGARjrQwQGouIFPZ) | 2:47 | 2025-07-17 |  |
 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 | 2023-06-01 | 2024-05-08 |
 | [BOCHE](https://open.spotify.com/track/3pGAnDf8BgWM7zNkt9IwV9) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [BOCHE](https://open.spotify.com/album/7GfFfHmiowO6Q86NJC2b3V) | 3:20 | 2023-06-01 | 2024-05-08 |
 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 | 2023-06-01 | 2024-05-08 |
@@ -176,6 +177,7 @@
 | [Nunca Fui Muy Buena](https://open.spotify.com/track/7vI0vZnKPIMH4DS5lkdddI) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 2:45 | 2025-05-09 |  |
 | [Oh Oh Oh](https://open.spotify.com/track/4UvSZCODfJZxXylXPKkY3p) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 3:10 | 2023-06-01 | 2024-05-08 |
 | [OMG MARKI HI](https://open.spotify.com/track/51E9Lc9uBPFO3Q87bI2KxJ) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [OMG MARKI HI](https://open.spotify.com/album/36QD0XYKJnkbpTNegs7SdP) | 2:22 | 2022-08-04 | 2023-06-02 |
+| [Otra Vez](https://open.spotify.com/track/6vv2t9XzCcfuXLiIVZz0lC) | [Danelik](https://open.spotify.com/artist/0ZJFKiWwUwnWOFsQojUDWT), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [Otra Vez](https://open.spotify.com/album/1hyY1fIpcWvJ28eCyufK6r) | 2:38 | 2025-07-17 |  |
 | [Otro Plan](https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Otro Plan](https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW) | 3:02 | 2023-06-01 | 2024-05-08 |
 | [Pa Brillar](https://open.spotify.com/track/2hLYw0CXY5uTXk5jwFOdYI) | [APHELIA](https://open.spotify.com/artist/0wi4BjYbEeecnYvhQtvwi3), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Pa Brillar](https://open.spotify.com/album/2YevHM1xhh11dwoZqiQ6kQ) | 3:02 | 2021-11-11 | 2023-06-02 |
 | [Papi No Me Hagas Llorar](https://open.spotify.com/track/04S43sYjrLmZXjxqcU8BxJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Papi No Me Hagas Llorar](https://open.spotify.com/album/7nphArTieJ9uRNuQiH1sIL) | 3:49 | 2021-11-11 | 2022-08-05 |
@@ -219,6 +221,7 @@
 | [Starboy](https://open.spotify.com/track/2Dy8d0Om8Yh1HZ5kZeo0eW) | [Zell](https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi) | [GOAT TALK](https://open.spotify.com/album/17rkbGuB2UraVdrtgH84FD) | 2:00 | 2025-05-09 |  |
 | [Sugar Lips](https://open.spotify.com/track/2ufnYX7nE31TgI1GWCCG5h) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Sugar Lips](https://open.spotify.com/album/59JwrszjcmCuhFuaVuHrTW) | 3:36 | 2025-05-09 |  |
 | [Sunset 01](https://open.spotify.com/track/7k81H9Eq2rrXE3SS4Tt149) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t), [Lexter](https://open.spotify.com/artist/7IFdRlM8n1AUJvKN5Eb7xj) | [Sunset 01](https://open.spotify.com/album/0OrIz9GrFH0XKV7fvLretr) | 2:40 | 2023-06-01 | 2024-05-08 |
+| [SUPEROFERTAS](https://open.spotify.com/track/6anZ372zVQrtqrUEPYzCy4) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [SUPEROFERTAS](https://open.spotify.com/album/49fLoy8XuvcMIjetPKw4gO) | 2:01 | 2025-07-17 |  |
 | [Tal Como Soy](https://open.spotify.com/track/5rw5RHbmi7BLGJqpDjbCSr) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Tal Como Soy](https://open.spotify.com/album/7LATzEUfsgsZ7UAw731bGS) | 3:37 | 2021-11-11 | 2022-06-27 |
 | [Te Mentiria](https://open.spotify.com/track/5MOF8J0yJVHdKE3gRgpM6r) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Te Mentiria](https://open.spotify.com/album/5ZhZaBJaiJPoPre9hzZ75K) | 3:06 | 2021-11-11 | 2022-06-28 |
 | [Te Trae'](https://open.spotify.com/track/6nvQadx2zZK3MW8BYkc7BO) | [Henak](https://open.spotify.com/artist/6IwHTQehlMdwxwZ8zUJqf0) | [Te Trae'](https://open.spotify.com/album/6PskyBe7xL7YyxVReJmMw8) | 4:36 | 2021-11-11 | 2023-06-02 |

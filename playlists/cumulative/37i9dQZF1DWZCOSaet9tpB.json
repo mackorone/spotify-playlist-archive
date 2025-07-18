@@ -2383,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "Coco Money",
+        "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136707,
+      "name": "Coco Money",
+      "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
+    },
+    {
+      "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
       },
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 164745,
       "name": "Escaladizzy",
       "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 132480,
       "name": "Gang",
       "url": "https://open.spotify.com/track/0SmcKaXjPCCK7nq0coN6B2"
@@ -5860,6 +5878,24 @@
       "duration_ms": 168082,
       "name": "lost",
       "url": "https://open.spotify.com/track/3wdV4OJ37JdoLyUJMm50UW"
+    },
+    {
+      "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176159,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
     },
     {
       "album": {

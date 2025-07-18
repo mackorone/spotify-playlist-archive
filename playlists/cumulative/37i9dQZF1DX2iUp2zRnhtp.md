@@ -4,12 +4,13 @@
 
 > vi leker ikke hits!
 
-366 songs - 18 hr 17 min
+370 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2024-06-27 | 2024-09-20 |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-09-19 | 2025-03-30 |
+| [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 | 2025-07-17 |  |
 | [2 Trekk](https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [2 Trekk](https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso) | 2:52 | 2024-10-17 | 2024-10-26 |
 | [2CB](https://open.spotify.com/track/4v4544m9rPttWudGucbzAc) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [2CB](https://open.spotify.com/album/0x9hyJIBVJewDqzPnWQApB) | 3:07 | 2025-06-05 |  |
 | [555](https://open.spotify.com/track/4d6W8hgX7Iyu3OUogH6OxL) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [555](https://open.spotify.com/album/3Z1oqJEL9YE5jqXgDozPhL) | 3:13 | 2025-05-12 | 2025-05-23 |
@@ -61,6 +62,7 @@
 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M) | 2:28 | 2025-07-10 |  |
 | [Chaos](https://open.spotify.com/track/52RqMbWDZmNEcj4ogyIDAn) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Chaos](https://open.spotify.com/album/16hB0SDVHnDtThxvcVGi6A) | 3:38 | 2024-09-05 | 2024-09-27 |
 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 | 2025-01-23 | 2025-05-23 |
+| [Cheap Champagne](https://open.spotify.com/track/0UXtalPbkPOmnesPZIfkBw) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Cheap Champagne](https://open.spotify.com/album/0FOEtpmNxhSVGNRALH5KOi) | 2:38 | 2025-07-17 |  |
 | [Cherry](https://open.spotify.com/track/2TudsWFxqQy4fJRkMO7TQF) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Cherry](https://open.spotify.com/album/17dAMvsknRZag8Kz8jzY9L) | 2:28 | 2025-07-10 |  |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-27 | 2025-05-01 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-06-27 | 2024-09-20 |
@@ -101,6 +103,7 @@
 | [Enkelt \(feat\. Tomine Harket\)](https://open.spotify.com/track/5K64FL8BOgcCwaG6P4TbTE) | [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv), [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Enkelt \(feat\. Tomine Harket\)](https://open.spotify.com/album/4v9xjAwHV6KZhdqoh3dGVz) | 2:07 | 2024-10-31 | 2024-11-15 |
 | [Er du lykkelig?](https://open.spotify.com/track/2kadsXxVhblR57iR8fmgEZ) | [Jsfavs](https://open.spotify.com/artist/4GlryPIbWFWdV2Gp0LND5u) | [Er du lykkelig?](https://open.spotify.com/album/1QsV050HBIorOxSY6EvvEC) | 2:30 | 2025-05-12 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-27 | 2025-05-01 |
+| [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 |  |
 | [Ett sekund](https://open.spotify.com/track/7mRg4zrudJlwQKmdwRyarf) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Når festen er over](https://open.spotify.com/album/3S6XXojEME3E3wQxHaPNPk) | 2:20 | 2025-03-14 | 2025-03-21 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-06-27 | 2024-07-19 |
 | [Exhilarate](https://open.spotify.com/track/5SML37WZ12BWh7AmJBVCc0) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Exhilarate](https://open.spotify.com/album/4JDFe06NZ2VAdPdOPoar5F) | 3:11 | 2025-05-29 | 2025-07-04 |
@@ -217,6 +220,7 @@
 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 | 2024-08-08 | 2024-08-23 |
 | [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 | 2024-11-28 | 2025-01-17 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2025-05-01 |
+| [LYSEBLÅ BAGUETTES](https://open.spotify.com/track/2tZNua267z99XuspJdJhdi) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [LYSEBLÅ BAGUETTES](https://open.spotify.com/album/4AUzkGlxLfH5FYbLDJuyob) | 2:55 | 2025-07-17 |  |
 | [M.I.A](https://open.spotify.com/track/4d6lDUKo6UYGhD4pUnaKip) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [M.I.A](https://open.spotify.com/album/2X1YiNgsrL3vT3gvwunrlT) | 2:56 | 2025-05-12 |  |
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-26 |  |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-06-27 | 2024-09-20 |

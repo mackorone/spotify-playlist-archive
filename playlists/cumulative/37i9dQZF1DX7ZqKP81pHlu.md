@@ -4,7 +4,7 @@
 
 > The hottest 50 tracks in Algeria\. Cover: Numidia Lezoul
 
-261 songs - 15 hr 41 min
+262 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Dawama](https://open.spotify.com/track/0DW1FQLgauly0anz5SO4bp) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Dawama](https://open.spotify.com/album/1meUVcj9RkoWV0gFcQDeJW) | 3:06 | 2021-12-09 | 2022-05-27 |
 | [Dayra El Hafla \- ملخر](https://open.spotify.com/track/7EMtuKgFWGBcytMzUXxnrg) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Dayra El Hafla \(ملخر\)](https://open.spotify.com/album/3hOqXm7yxVhGtgX7G5nFoK) | 4:20 | 2024-08-24 |  |
 | [Dbayli Ana \- Fransa Daretha Biya](https://open.spotify.com/track/311Jnoa5h8dGNb1MphFeBu) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [Dbayli Ana \(Fransa Daretha Biya\)](https://open.spotify.com/album/3V1yNsmV6eDPsCH6QyNhRH) | 2:42 | 2023-03-30 | 2023-07-30 |
-| [Deira](https://open.spotify.com/track/3mitUVB1ZpgpGYOEfbbQ33) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Deira](https://open.spotify.com/album/3DA0pd6Fz2sFusyrBJ8R5F) | 2:49 | 2024-03-04 |  |
+| [Deira](https://open.spotify.com/track/3mitUVB1ZpgpGYOEfbbQ33) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Deira](https://open.spotify.com/album/3DA0pd6Fz2sFusyrBJ8R5F) | 2:49 | 2024-03-04 | 2025-07-18 |
 | [Demain](https://open.spotify.com/track/1Msk9wZdpAWCTtMy6OSbTj) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1yvh0jrG804Om3izynaGKa) | 3:12 | 2023-09-02 | 2024-05-10 |
 | [Demain](https://open.spotify.com/track/6eJ04i64i90cgfsQpHXZpK) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1CbvtjDKMJDU7jSxXFHfhM) | 3:12 | 2023-10-17 | 2024-04-19 |
 | [Derti Rayek](https://open.spotify.com/track/1Vck33iJiUs7ccjGuRSRj9) | [Farid Kalamity](https://open.spotify.com/artist/39yugFhJbttHghij5dle5M), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Derti Rayek](https://open.spotify.com/album/0RYe21LKFQebUgtTyrk7Iq) | 4:12 | 2021-12-09 | 2022-04-22 |
@@ -218,6 +218,7 @@
 | [Saroukh Style Manini](https://open.spotify.com/track/1f2AKogp0N5Yy5iA41xNIm) | [Smaug](https://open.spotify.com/artist/1fIraGNUIufBhLMYTiXs6n), [Dj Mourad](https://open.spotify.com/artist/5pYsi7UuQoyP3HdXYjpAPz) | [Saroukh Style Manini](https://open.spotify.com/album/4njF2Gxylwy7QZsb9Mo57s) | 3:03 | 2024-07-18 |  |
 | [SEYA](https://open.spotify.com/track/0Fyqe4e5VjCaFjNSNYWa25) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Les dernières volontés de Mozart \(Symphony\)](https://open.spotify.com/album/4ljqGoLmGs8AxkyS2S1fvQ) | 3:08 | 2024-07-18 |  |
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-20 | 2024-06-05 |
+| [Smaht ou Mchit](https://open.spotify.com/track/4szzelql5n4wwot52p0rsm) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Smaht ou Mchit](https://open.spotify.com/album/0crzSITMp0X19AwZwAz6q6) | 3:39 | 2025-07-17 |  |
 | [Solo](https://open.spotify.com/track/06MoS2rhDcsEDO63telmfZ) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Solo](https://open.spotify.com/album/62LdqxpDkasM6fpX20VGws) | 3:05 | 2024-07-01 |  |
 | [Sonia](https://open.spotify.com/track/5NuvJqrwmFovb6TGbnjjqR) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Sonia](https://open.spotify.com/album/3x3LtImIZjkp0Xw7MZj2DW) | 3:23 | 2021-12-09 | 2023-02-11 |
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-07-18 | 2024-10-18 |

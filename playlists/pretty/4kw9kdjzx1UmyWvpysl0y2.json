@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125187,
+  "num_followers": 125183,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUWfxNLeRGM24p14H3B9DDEpg62F/t",
+  "snapshot_id": "AAAUWh7fyUrBgBLGYN3lZhAlkB+gAclK",
   "tracks": [
+    {
+      "added_at": "2025-07-17 14:30:59",
+      "album": {
+        "name": "We Love II",
+        "url": "https://open.spotify.com/album/12JAk5LvhpwGjIfuROESwz"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "We Love II",
+      "url": "https://open.spotify.com/track/18L2vnxI3zt1xQjlpA88p1"
+    },
     {
       "added_at": "2025-07-16 14:02:18",
       "album": {

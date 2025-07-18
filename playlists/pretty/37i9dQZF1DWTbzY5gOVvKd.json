@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1282563,
+  "num_followers": 1282633,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-07-11 13:57:03",
       "album": {
+        "name": "Bria",
+        "url": "https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 355120,
+      "name": "From This Moment On",
+      "url": "https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2"
+    },
+    {
+      "added_at": "2025-07-11 13:57:03",
+      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 347493,
       "name": "Hours Of Ours",
       "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
-    },
-    {
-      "added_at": "2025-07-11 13:57:03",
-      "album": {
-        "name": "Bria",
-        "url": "https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 355120,
-      "name": "From This Moment On",
-      "url": "https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2"
     },
     {
       "added_at": "2025-07-11 13:57:03",

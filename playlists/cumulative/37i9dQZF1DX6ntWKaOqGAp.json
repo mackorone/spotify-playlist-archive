@@ -16042,7 +16042,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 225653,
       "name": "rundown",
       "url": "https://open.spotify.com/track/5uzBqoiKKn4aYDzhf25yxY"
@@ -18898,7 +18898,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 296064,
       "name": "Sunny Side Steady",
       "url": "https://open.spotify.com/track/0Hu9dxpjyp7uzls6w6LDHx"
@@ -23437,6 +23437,24 @@
     },
     {
       "album": {
+        "name": "\u304b\u308b\u30ac\u30ebEveryday!!",
+        "url": "https://open.spotify.com/album/75MYeX009enXEyIK8rFFjw"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162399,
+      "name": "\u304b\u308b\u30ac\u30ebEveryday!!",
+      "url": "https://open.spotify.com/track/1EQP2YR8wYmdPV8xGQPT0e"
+    },
+    {
+      "album": {
         "name": "\u304d\u3044\u3066\u3044\u3066",
         "url": "https://open.spotify.com/album/7n4hVddjTgCy0xibRKuH2c"
       },
@@ -24336,6 +24354,24 @@
       "duration_ms": 229186,
       "name": "\u3061\u3087\u3046\u3050\u306b\u3083\u3050\u306b\u3083",
       "url": "https://open.spotify.com/track/6xchPfJPRAy7cbkZ3GFvsS"
+    },
+    {
+      "album": {
+        "name": "\u3064\u3065\u304f",
+        "url": "https://open.spotify.com/album/7va0bdMQ39GEglWhgMF2XE"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245173,
+      "name": "\u3064\u3065\u304f",
+      "url": "https://open.spotify.com/track/70ERCHbKifPcFyUhLJPpM2"
     },
     {
       "album": {

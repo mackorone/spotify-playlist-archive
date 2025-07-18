@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-143 songs - 7 hr 38 min
+144 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Fortnight \(feat\. Post Malone\) \- Acoustic Version](https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Fortnight \(Acoustic Version\)](https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX) | 3:48 | 2024-07-11 |  |
 | [Freed from Desire \(Acoustic Version\)](https://open.spotify.com/track/50C5YxTknuct7YpC4WXmAG) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Un homme à la hauteur \(Bande originale du film\)](https://open.spotify.com/album/1Zj9cDigNQ85AEcXv0asXj) | 3:06 | 2022-12-21 | 2023-11-21 |
 | [Gimme Love \- Sofiane Pamart Remix](https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Gimme Love \(Sofiane Pamart Remix\)](https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI) | 2:42 | 2023-11-20 |  |
+| [Gold \- Acoustic](https://open.spotify.com/track/2RpMIPx8SPeO5kAMdrHNak) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Gold \(Acoustic\)](https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2) | 2:49 | 2025-07-10 |  |
 | [Gold \- Acoustic Version](https://open.spotify.com/track/4kv0HqEYUX4lvTEzO6KGzw) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold \(Acoustic Version\)](https://open.spotify.com/album/1sSiCaSrHOKFRUhrBOjsFi) | 3:19 | 2023-09-12 |  |
 | [Good To Be \(Acoustic\)](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 | 2024-11-21 | 2025-01-31 |
 | [greedy acoustic](https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy \(remixes\)](https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW) | 2:22 | 2024-02-08 |  |

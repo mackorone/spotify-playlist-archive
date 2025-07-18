@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Rico Dalasam
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,330,560 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,330,355 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 7 | [viciado em mim](https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [viciado em mim](https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg) | 3:14 |
 | 8 | [Lua Cheia](https://open.spotify.com/track/6II8HGRVkvVUy0uIM4X5Qq) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:17 |
 | 9 | [TE AMO SEM CULPA](https://open.spotify.com/track/74g5gz1MusuqwDliRLaHBB) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [TE AMO SEM CULPA](https://open.spotify.com/album/3piwEDU4YDP5yPJjsavx9g) | 2:34 |
-| 10 | [Receita](https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Receita](https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud) | 2:02 |
+| 10 | [Receita](https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Receita](https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud) | 2:03 |
 | 11 | [Que Pecado!](https://open.spotify.com/track/5djr1EgrgGLBbZD8xOxNPs) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Que Pecado!](https://open.spotify.com/album/3WXo4tB3KteRN81GGqNlOi) | 2:43 |
 | 12 | [Carta Marcada](https://open.spotify.com/track/1Ts6QC1fpuzULRbhFP4rCz) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [As Pequenas Grandes Coisas](https://open.spotify.com/album/2NHq83Hm0jiwfxe4M6yvHL) | 2:34 |
 | 13 | [As Desvantagens de Amar Alguém Que Mora Longe](https://open.spotify.com/track/22dg08ZH3AWZGN1f059yy5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [As Cores, as Curvas e as Dores do Mundo](https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX) | 3:08 |

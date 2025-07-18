@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Rudimental & Jess Glynne
+> The UK's biggest dance playlist! Cover: Sonny Fodera, Jazzy
 
-683 songs - 1 day 11 hr 30 min
+684 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [ALL MY PEOPLE](https://open.spotify.com/track/0r56lpZulrcqJxi0kA9wM2) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [ALL MY PEOPLE](https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB) | 4:28 | 2024-11-08 |  |
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-10 | 2023-06-23 |
 | [All Of Me \(Do For Love\)](https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [All Of Me \(Do For Love\)](https://open.spotify.com/album/4ln6BUu9ajIKCntL6qGqCk) | 2:24 | 2023-04-27 | 2023-08-18 |
+| [All This Time](https://open.spotify.com/track/0m00au0MMoII2767mu4sj7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [All This Time](https://open.spotify.com/album/2VpQLsVZOBVzuDmTHsQETP) | 3:43 | 2025-07-17 |  |
 | [Always Be My Baby Boy \(feat\. Becce J\)](https://open.spotify.com/track/5ycjyEkMSlLCMifjYgQOfp) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Becce J](https://open.spotify.com/artist/3oq7pPTvwW6l6yl89fQbYC) | [Disrespectful](https://open.spotify.com/album/73fDT1q6Y3ADL0hokKEnvG) | 3:39 | 2022-02-18 | 2022-04-08 |
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-07-14 | 2022-09-30 |
 | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/track/1PJfbxmFsitJPbLLU98y1s) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/album/0OyJFX214c6PmgyBboEoPy) | 3:07 | 2022-05-20 | 2022-08-12 |
@@ -606,7 +607,7 @@
 | [The Days \- Edit](https://open.spotify.com/track/4KbkHQWVpW5munyeFbHyfX) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [The Days](https://open.spotify.com/album/7qmIKmPBqw8vNYbTaAAJTb) | 2:10 | 2024-10-11 | 2024-12-20 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2024-12-20 |  |
 | [The Don](https://open.spotify.com/track/7dhiGKBm2pYVLAW4QF1z1E) | [System.Inc](https://open.spotify.com/artist/5CfCAv52QCxLv9bdlGIyUD), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [The Don](https://open.spotify.com/album/4XuVKQOCaQ15ZCdtcENLlD) | 2:54 | 2021-12-03 | 2022-02-18 |
-| [The Feeling](https://open.spotify.com/track/2XwfwHvM8iqvWL5bZWbo86) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [The Feeling](https://open.spotify.com/album/3cPlIoKj0mGfn4gOJGf1Ms) | 2:48 | 2024-10-24 |  |
+| [The Feeling](https://open.spotify.com/track/2XwfwHvM8iqvWL5bZWbo86) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [The Feeling](https://open.spotify.com/album/3cPlIoKj0mGfn4gOJGf1Ms) | 2:48 | 2024-10-24 | 2025-07-18 |
 | [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 | 2025-05-28 |  |
 | [The Judge](https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [The Judge](https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9) | 3:40 | 2022-05-06 | 2022-07-22 |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-18 | 2022-04-16 |

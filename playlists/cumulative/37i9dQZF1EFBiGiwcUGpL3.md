@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-104 songs - 6 hr 55 min
+105 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["BLUE SKY"](https://open.spotify.com/track/4PVOPJEQvEHkfl8eBgYX0B) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 0:12 | 2025-07-17 |  |
 | ['Til Summer Comes Around](https://open.spotify.com/track/1CKmI1IQjVEVB3F7VmJmM3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 5:31 | 2024-06-07 |  |
 | [Better Life](https://open.spotify.com/track/29Qqb1qYSjC1pSK8QPDnkp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 4:43 | 2024-06-07 |  |
 | [Better Than I Am](https://open.spotify.com/track/4WRJRM32R7GGlsVxlv30pm) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 4:31 | 2024-06-07 |  |

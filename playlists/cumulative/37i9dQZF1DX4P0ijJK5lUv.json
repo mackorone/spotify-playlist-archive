@@ -1752,16 +1752,16 @@
           "url": "https://open.spotify.com/artist/4d4LRDhYXl3QqrBkkeZ60l"
         },
         {
-          "name": "Cologne Radio Chorus",
-          "url": "https://open.spotify.com/artist/6qdKc54s4WwDLWPE9ykjFF"
+          "name": "WDR Rundfunkchor K\u00f6ln",
+          "url": "https://open.spotify.com/artist/0Hyi5ZVftugXeJQpWP5tNj"
         },
         {
           "name": "Cologne Radio Orchestra",
           "url": "https://open.spotify.com/artist/3xqXZ0PnHWiI2UCano2EcI"
         },
         {
-          "name": "Helmut Froschauer",
-          "url": "https://open.spotify.com/artist/172Encqfd2ZhWAleNg1gbO"
+          "name": "Helmuth Froschauer",
+          "url": "https://open.spotify.com/artist/13FXauAHQNzbB4nqWKmtzu"
         }
       ],
       "date_added": "2021-11-29",
@@ -3278,8 +3278,8 @@
           "url": "https://open.spotify.com/artist/7qdNQ64kU4miOYyt6OUch0"
         },
         {
-          "name": "Slovak State Philharmonic Orchestra, Kosice",
-          "url": "https://open.spotify.com/artist/2Eo4VORMdwb15W8WZh3vl6"
+          "name": "Slovak State Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0QEqho8rz1k9XpFcHfOlZp"
         },
         {
           "name": "Alfred Walter",
@@ -3290,7 +3290,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 453666,
-      "name": "Les Patineurs, Op. 183, \"The Skater's Waltz\": The Skaters Waltz, Op 183",
+      "name": "Les patineurs, Op. 183 \"Skater's Waltz\": The Skaters Waltz, Op 183",
       "url": "https://open.spotify.com/track/0D8G3S0NrUE9RdixeO5PYX"
     },
     {
@@ -4287,28 +4287,6 @@
     },
     {
       "album": {
-        "name": "Sing Thee Nowell",
-        "url": "https://open.spotify.com/album/1JSGmTmZIeT1vuNcleXXgL"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1s Luis de Victoria",
-          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
-        },
-        {
-          "name": "New York Polyphony",
-          "url": "https://open.spotify.com/artist/6D34maQG535Jk9U2UzuMmz"
-        }
-      ],
-      "date_added": "2021-11-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220360,
-      "name": "O Magnum Mysterium",
-      "url": "https://open.spotify.com/track/2lcW472ydHxkvO7F20TmfY"
-    },
-    {
-      "album": {
         "name": "Lauridsen: O Magnum Mysterium / Lux Aeterna / Madrigali / Les Chansons Des Roses",
         "url": "https://open.spotify.com/album/2KpDg5XbaWzQWepVfDpefT"
       },
@@ -4330,8 +4308,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 415800,
-      "name": "O Magnum Mysterium: O magnum mysterium",
+      "name": "O magnum mysterium",
       "url": "https://open.spotify.com/track/0S0YKiEdR9cT9pYgEaTevF"
+    },
+    {
+      "album": {
+        "name": "Sing Thee Nowell",
+        "url": "https://open.spotify.com/album/1JSGmTmZIeT1vuNcleXXgL"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Luis de Victoria",
+          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
+        },
+        {
+          "name": "New York Polyphony",
+          "url": "https://open.spotify.com/artist/6D34maQG535Jk9U2UzuMmz"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "O Magnum Mysterium",
+      "url": "https://open.spotify.com/track/2lcW472ydHxkvO7F20TmfY"
     },
     {
       "album": {

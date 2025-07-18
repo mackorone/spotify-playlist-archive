@@ -2,9 +2,9 @@
 
 ### [Jazz Italia](https://open.spotify.com/playlist/37i9dQZF1DX30D074EWuy7)
 
-> La playlist del jazz italiano, passato e presente\. Cover: Studio Murena
+> La playlist del jazz italiano, passato e presente\. Cover: Il Mago del Gelato 🍉
 
-535 songs - 1 day 16 hr 10 min
+536 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Il Natale è il 24](https://open.spotify.com/track/0x6MFEpWdQmIaWo3nFcq1O) | [Piero Ciampi](https://open.spotify.com/artist/1TCxiJqttWjWeHXtO10Scu) | [Piero Ciampi](https://open.spotify.com/album/02kbC96fGDCaGS1a7tynHC) | 3:18 | 2022-12-05 | 2023-02-01 |
 | [Il nero \- M1 \- From "Il nero" / Remastered 2022](https://open.spotify.com/track/1X59Vwv2aEiZWlAJ2UMRkK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [Il nero \- M1 \(From "Il nero" / Remastered 2022\)](https://open.spotify.com/album/10t6anSBCxBVZMSPK5bPk9) | 3:53 | 2022-09-30 | 2022-11-03 |
 | [il resto come sempre](https://open.spotify.com/track/1nJdsjINNISRA0rDIYtoep) | [Luca Sguera](https://open.spotify.com/artist/3bipt9nPFehsZyLDvObGlr) | [Piano, Exploded](https://open.spotify.com/album/71oeOIoYFW8CbxxDJW7iO8) | 9:07 | 2023-09-17 | 2023-12-06 |
-| [IL VELO DI MĀYĀ ႟](https://open.spotify.com/track/5eOKasgnQVQzmEdhtArSn6) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 8:07 | 2024-04-04 |  |
+| [IL VELO DI MĀYĀ ႟](https://open.spotify.com/track/5eOKasgnQVQzmEdhtArSn6) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 8:07 | 2024-04-04 | 2025-07-18 |
 | [ILLUSIONI E ASTRATTISMI \(feat\. Paolo Fresu\)](https://open.spotify.com/track/0m4TP7FtjVY7G4PJ45aAKk) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [WadiruM](https://open.spotify.com/album/0qawFDai3sHHcNF8E6woJO) | 3:39 | 2024-03-28 |  |
 | [Impronte](https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS), [Andrea Donati](https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0) | [Under Italian Skies](https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737) | 5:23 | 2022-09-30 |  |
 | [In questo preciso momento](https://open.spotify.com/track/4texReLtnHjPKT5bgLFrp0) | [Joe Barbieri](https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT) | [In parole povere](https://open.spotify.com/album/7rW09Tz4zro12zRrpqIwli) | 3:49 | 2022-08-31 | 2022-11-03 |
@@ -266,6 +266,7 @@
 | [L'amie d'un italien](https://open.spotify.com/track/4GsTdJhAmlfEJ8MgjsYjVg) | [Raphael Gualazzi](https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Happy Mistake \(International Deluxe Edition\)](https://open.spotify.com/album/7dUWUdY9Rn07Uk46wBwEOC) | 3:10 | 2022-08-31 | 2022-10-01 |
 | [L'Amore, Forse..\. \(Ao Amigo Tom\) \- 2001 Remaster](https://open.spotify.com/track/3H3JYGpcMIWzbIbweeRzSC) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Altro](https://open.spotify.com/album/61htRVQVo0f4E9Gm9X4do7) | 2:44 | 2022-09-30 | 2022-11-03 |
 | [L'Angelo](https://open.spotify.com/track/4xxlpdRKbCdPjpL6InlKtK) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Barbara Casini](https://open.spotify.com/artist/2tRMmF0qRK7ZUogtxuy8cu) | [Vento](https://open.spotify.com/album/7r5dMP6FDkqqDWMvmCaqsH) | 3:50 | 2022-08-31 | 2022-10-01 |
+| [L'Anguria](https://open.spotify.com/track/4ydPsrewqTuZ4OB8Vyi5Og) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [L'Anguria](https://open.spotify.com/album/6LLJZZ25lCKXn7QQi8EYhp) | 3:31 | 2025-07-17 |  |
 | [L'Aventino](https://open.spotify.com/track/549O2wQgtQNcXkJIEpRB2f) | [Giulio Gentile](https://open.spotify.com/artist/5dDXTI6O0vQfGOWQkHDUa9), [Pietro Pancella](https://open.spotify.com/artist/2uLDDucEurdu6oS7ZIUkmj), [Michele Santoleri](https://open.spotify.com/artist/0LPDkCFv1nMPT5GqDlwxKH) | [Insight](https://open.spotify.com/album/3gzI0SA10GGTzeN0UTXnOi) | 6:36 | 2022-11-02 | 2022-12-06 |
 | [L'età degli alberi](https://open.spotify.com/track/1c6FAkmi4d4dVAnexYyQZe) | [Leila Shirvani](https://open.spotify.com/artist/7MbS9ZaBk7Dk5LH8HD4wAT), [Francesco Diodati](https://open.spotify.com/artist/5uCDqkwdrinUuSp2ipAQIg), [Sara Shirvani](https://open.spotify.com/artist/0IKCKVsyiwFrRzvTgDHtBj), [Enrico Morello](https://open.spotify.com/artist/3UdoL4iyxmmgzvpY7209Ps) | [Clorofilla](https://open.spotify.com/album/5svy0iVGahFwfnwldEvz4e) | 1:11 | 2022-12-05 | 2023-02-01 |
 | [L'orto dei semplici](https://open.spotify.com/track/6UFP7dpFYK2GHVm6mPWJb5) | [Gino Marcelli](https://open.spotify.com/artist/5ppcUunM7MYayvt3K4dXnz), [Tommy Bradascio](https://open.spotify.com/artist/1Vq2H7KC1UQbYZU0bZv6vJ) | [Watercolor](https://open.spotify.com/album/6hqJwZx332Rxtz7FhJ3OaE) | 5:02 | 2023-01-30 | 2023-06-05 |

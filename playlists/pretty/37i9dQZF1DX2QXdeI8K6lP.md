@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,383 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,452 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 51 | [Empiezo a Extrañarte](https://open.spotify.com/track/3lLSg8IEC1MEjk4zA1Dz0U) | [Las Sombras](https://open.spotify.com/artist/1QDqOOONr11np0HEOPMVTI) | [Personalidad \- Los Grandes Trios \- Las Sombras](https://open.spotify.com/album/7y2WIsOp0LrL9dJjjhDE66) | 2:38 |
 | 52 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
 | 53 | [Cariñito Azucarado](https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Inspiraciones de Siempre](https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI) | 2:47 |
-| 54 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
-| 55 | [Sin Ti](https://open.spotify.com/track/3tfXyPuyqdKSBkJcgAE1kA) | [Trios de Mexico](https://open.spotify.com/artist/1iXvNC4dw6uoQz6cKA8Ths) | [Mexican Music: Trios](https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B) | 2:21 |
+| 54 | [Sin Ti](https://open.spotify.com/track/3tfXyPuyqdKSBkJcgAE1kA) | [Trios de Mexico](https://open.spotify.com/artist/1iXvNC4dw6uoQz6cKA8Ths) | [Mexican Music: Trios](https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B) | 2:21 |
+| 55 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
 | 56 | [Cuidadito, Cuidadito](https://open.spotify.com/track/2eNyia284twoi86yKlDFxV) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Dame Que Te Doy](https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs) | 3:11 |
 | 57 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
 | 58 | [Bonita](https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:08 |

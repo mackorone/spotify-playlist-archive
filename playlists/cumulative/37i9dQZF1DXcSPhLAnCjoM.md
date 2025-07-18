@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Soleil Bleu" de Bleu Soleil et LUIZA est le Grand Hit de la semaine.
+> "À tes côtés" de Jungeli et Lenie est le Grand Hit de la semaine.
 
-263 songs - 13 hr 32 min
+264 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Jusqu'au dernier \- Version radio](https://open.spotify.com/track/0d3ewnwyQPx7ypLCucYlEW) | [Les Enfoirés](https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN) | [Jusqu'au dernier \(Version radio\)](https://open.spotify.com/album/2GDz2nLvPZHfK281ILjqfw) | 3:04 | 2024-01-25 | 2024-05-17 |
 | [Juste une chanson](https://open.spotify.com/track/7vOYObP8Svk2Hthv9J8gsq) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [A.M.O.U.R](https://open.spotify.com/album/3LwsjIHgP08344cotAfY0N) | 4:22 | 2024-02-01 | 2024-04-19 |
 | [JVQTSM](https://open.spotify.com/track/3FWwWrfHcJwY2C3BaNTh3j) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [JVQTSM](https://open.spotify.com/album/7KzCTw13UpdcbSSLfRXUBB) | 2:28 | 2024-03-14 | 2024-09-27 |
-| [J’ai changé](https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 3:07 | 2025-01-30 |  |
+| [J’ai changé](https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 3:07 | 2025-01-30 | 2025-07-18 |
 | [L'amour](https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 2:47 | 2023-09-28 | 2024-01-26 |
 | [L'amour](https://open.spotify.com/track/299EYCmARmvgjzcyP0AW5O) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [L'amour](https://open.spotify.com/album/7pgHenqjmqkUCWkvH7t5TZ) | 3:11 | 2025-07-03 |  |
 | [L'amour fou](https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'amour fou](https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV) | 4:47 | 2025-05-08 |  |
@@ -262,6 +262,7 @@
 | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR) | 3:51 | 2024-10-24 | 2025-04-11 |
 | [Un dimanche avec toi](https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:20 | 2025-02-27 |  |
 | [Un peu trop](https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:34 | 2024-08-01 | 2024-08-23 |
+| [Un, Dos, Tres](https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Un, Dos, Tres](https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG) | 2:34 | 2025-07-17 |  |
 | [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 | 2024-05-23 | 2024-07-19 |
 | [Vice Versa](https://open.spotify.com/track/4QkVu4w7ZBVBrojCfnt98F) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Vice Versa](https://open.spotify.com/album/2ZfAmFvyu1Gi03AscYCdUH) | 2:46 | 2025-01-16 | 2025-04-25 |
 | [Vivre](https://open.spotify.com/track/7lnokq12Q0MzqcrA6GN62q) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/6jDC7d54esC2NZaTtvEOcR) | 2:26 | 2023-09-28 | 2024-02-16 |

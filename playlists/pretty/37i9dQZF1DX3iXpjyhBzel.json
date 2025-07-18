@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julliany Souza",
-  "num_followers": 1163059,
+  "num_followers": 1163614,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
-        "name": "Toda Terra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 519302,
-      "name": "Toda Terra - Ao Vivo",
-      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
         "name": "Eu e Minha Casa",
         "url": "https://open.spotify.com/album/7lwYpvn2JNcPte6D5J2XhL"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 360447,
       "name": "Eu e Minha Casa",
       "url": "https://open.spotify.com/track/0GD31r9na0U0TLJ3xO2Att"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
+        "name": "Toda Terra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 519302,
+      "name": "Toda Terra - Ao Vivo",
+      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
     },
     {
       "added_at": "2025-06-19 18:15:35",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 416842,
+      "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
         "name": "Estou Te Esperando (Ao Vivo)",
         "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 411745,
       "name": "Estou Te Esperando (Ao Vivo)",
       "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 416842,
-      "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
-      "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
     },
     {
       "added_at": "2025-06-19 18:15:35",
@@ -899,30 +899,6 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
-        "name": "Jesus te Amamos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
-      },
-      "artists": [
-        {
-          "name": "O Canto das Igrejas",
-          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
-        },
-        {
-          "name": "Marsena",
-          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
-        },
-        {
-          "name": "Somos OCDI",
-          "url": "https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b"
-        }
-      ],
-      "duration_ms": 415435,
-      "name": "Jesus te Amamos - Ao Vivo",
-      "url": "https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
         "name": "N\u00e3o Acabou (Ao Vivo)",
         "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
       },
@@ -955,6 +931,30 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
+        "name": "Jesus te Amamos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
+      },
+      "artists": [
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        },
+        {
+          "name": "Marsena",
+          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
+        },
+        {
+          "name": "Somos OCDI",
+          "url": "https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b"
+        }
+      ],
+      "duration_ms": 415435,
+      "name": "Jesus te Amamos - Ao Vivo",
+      "url": "https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
         "name": "Ningu\u00e9m Pode Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/74ecO8nFOGDmRiXXjnUYFn"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
-        "name": "Quero Voltar Pra Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Quero Voltar Pra Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
         "name": "Fogo em Teus Olhos (Ao Vivo)",
         "url": "https://open.spotify.com/album/5FIGyq3G7Ty4SYXC57YpnQ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 463720,
       "name": "Fogo em Teus Olhos - Ao Vivo",
       "url": "https://open.spotify.com/track/12x0NIXpYNjwIZtXd2cuc7"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
+        "name": "Quero Voltar Pra Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Quero Voltar Pra Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
     },
     {
       "added_at": "2025-06-19 18:15:35",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
-        "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 420477,
-      "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
         "name": "Teu Toque (Ao Vivo)",
         "url": "https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
+        "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        }
+      ],
+      "duration_ms": 420477,
+      "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
         "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
         "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 328753,
       "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
       "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
-        "name": "No Secreto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ImEIgbOdSt9wmtXyZUmkM"
-      },
-      "artists": [
-        {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        }
-      ],
-      "duration_ms": 281273,
-      "name": "No Secreto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3gCY5BvVER2S9SkhtYHctX"
     },
     {
       "added_at": "2025-06-19 18:15:35",
@@ -1299,6 +1283,22 @@
       "duration_ms": 255333,
       "name": "Eu S\u00f3 Quero Adorar",
       "url": "https://open.spotify.com/track/0NUF4588gE3fH3GJdNtQFr"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
+        "name": "No Secreto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ImEIgbOdSt9wmtXyZUmkM"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        }
+      ],
+      "duration_ms": 281273,
+      "name": "No Secreto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3gCY5BvVER2S9SkhtYHctX"
     },
     {
       "added_at": "2025-06-19 18:15:35",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
-        "name": "Deus N\u00e3o Falhar\u00e1",
-        "url": "https://open.spotify.com/album/6WddTfFBjojKQZ7VMztSah"
-      },
-      "artists": [
-        {
-          "name": "Jeyzer Maia",
-          "url": "https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh"
-        },
-        {
-          "name": "Ad\u00f4nis Maia",
-          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
-        }
-      ],
-      "duration_ms": 243252,
-      "name": "Esp\u00edrito, Enche a Minha Vida",
-      "url": "https://open.spotify.com/track/5vui0rUNNhaYWzGKsYYq8H"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
         "name": "A Boa Parte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 476736,
       "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao vivo",
       "url": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
+        "name": "Deus N\u00e3o Falhar\u00e1",
+        "url": "https://open.spotify.com/album/6WddTfFBjojKQZ7VMztSah"
+      },
+      "artists": [
+        {
+          "name": "Jeyzer Maia",
+          "url": "https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh"
+        },
+        {
+          "name": "Ad\u00f4nis Maia",
+          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
+        }
+      ],
+      "duration_ms": 243252,
+      "name": "Esp\u00edrito, Enche a Minha Vida",
+      "url": "https://open.spotify.com/track/5vui0rUNNhaYWzGKsYYq8H"
     },
     {
       "added_at": "2025-06-19 18:15:35",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
-        "name": "Meu Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 520935,
-      "name": "Meu Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
         "name": "\u00danico (Ao Vivo)",
         "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 456676,
       "name": "\u00danico - Ao vivo",
       "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
+        "name": "Meu Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 520935,
+      "name": "Meu Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP"
     },
     {
       "added_at": "2025-06-19 18:15:35",

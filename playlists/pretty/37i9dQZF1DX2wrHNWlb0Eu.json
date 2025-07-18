@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49!",
-  "num_followers": 120837,
+  "num_followers": 120860,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
-        "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
         "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
         "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 264000,
       "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 - Defendant Of Love",
       "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
+        "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "duration_ms": 259285,
+      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
-        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
-        "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
-      },
-      "artists": [
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 240450,
-      "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
-      "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
         "url": "https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 259721,
       "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
+        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
+        "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 240450,
+      "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
+      "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
-        "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
-        "url": "https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk"
-      },
-      "artists": [
-        {
-          "name": "4EVE",
-          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
-      "url": "https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
         "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (A Beautiful Ride)",
         "url": "https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 207480,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
       "url": "https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
+        "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
+        "url": "https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
+      "url": "https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
+        "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
+        "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
+      },
+      "artists": [
+        {
+          "name": "The 38 Years Ago",
+          "url": "https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8"
+        }
+      ],
+      "duration_ms": 210598,
+      "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
+      "url": "https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
         "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
         "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
-        "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
-        "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
+        "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
+        "url": "https://open.spotify.com/album/7nzdc88JydSq90v212jrfU"
       },
       "artists": [
         {
-          "name": "The 38 Years Ago",
-          "url": "https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8"
+          "name": "bonnadol",
+          "url": "https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc"
         }
       ],
-      "duration_ms": 210598,
-      "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
-      "url": "https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER"
+      "duration_ms": 235790,
+      "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
+      "url": "https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -1215,22 +1231,6 @@
       "duration_ms": 204999,
       "name": "\u0e1d\u0e31\u0e19\u0e2b\u0e27\u0e32\u0e19\u0e2d\u0e32\u0e22\u0e08\u0e39\u0e1a",
       "url": "https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
-        "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
-        "url": "https://open.spotify.com/album/7nzdc88JydSq90v212jrfU"
-      },
-      "artists": [
-        {
-          "name": "bonnadol",
-          "url": "https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc"
-        }
-      ],
-      "duration_ms": 235790,
-      "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
-      "url": "https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
-        "name": "\u0e02\u0e2d\u0e08\u0e2d\u0e07\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-        "url": "https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF"
-      },
-      "artists": [
-        {
-          "name": "\u0e40\u0e2d\u0e4b\u0e22\u0e40\u0e2d\u0e49\u0e22",
-          "url": "https://open.spotify.com/artist/2eh6aBpW7umSFj4rFz1d0j"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "\u0e02\u0e2d\u0e08\u0e2d\u0e07\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-      "url": "https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e19\u0e30",
         "url": "https://open.spotify.com/album/62ZE1G620BMjMxBoI3jBRw"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 193548,
       "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e19\u0e30",
       "url": "https://open.spotify.com/track/0WF0gPr8uLyWwPhmOiNYm4"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
+        "name": "\u0e02\u0e2d\u0e08\u0e2d\u0e07\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+        "url": "https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e2d\u0e4b\u0e22\u0e40\u0e2d\u0e49\u0e22",
+          "url": "https://open.spotify.com/artist/2eh6aBpW7umSFj4rFz1d0j"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "\u0e02\u0e2d\u0e08\u0e2d\u0e07\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
+        "name": "\u0e1e\u0e34\u0e07 - Single",
+        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 242727,
+      "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
+      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
         "name": "This City Won\u2019t Be Lonely Anymore",
         "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 296000,
       "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
       "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
-        "name": "\u0e1e\u0e34\u0e07 - Single",
-        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 242727,
-      "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
-      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
-        "name": "Urban Lullaby",
-        "url": "https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p"
+        "name": "Best of MR.TEAM",
+        "url": "https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl"
       },
       "artists": [
         {
-          "name": "Lula",
-          "url": "https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB"
-        },
-        {
-          "name": "Tar Paradox",
-          "url": "https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ"
+          "name": "Mr.Team",
+          "url": "https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH"
         }
       ],
-      "duration_ms": 227186,
-      "name": "\u0e17\u0e30\u0e40\u0e25\u0e2a\u0e35\u0e14\u0e33",
-      "url": "https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y"
+      "duration_ms": 243946,
+      "name": "\u0e04\u0e19\u0e43\u0e19\u0e1d\u0e31\u0e19 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e1d\u0e31\u0e19\u0e40\u0e1f\u0e37\u0e48\u0e2d\u0e07)",
+      "url": "https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

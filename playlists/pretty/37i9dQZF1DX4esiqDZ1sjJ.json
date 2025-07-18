@@ -1,6 +1,6 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 385711,
+  "num_followers": 385744,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 168405,
+      "name": "Paranoid - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
         "name": "Kings Of Crunk",
         "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 334066,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 168405,
-      "name": "Paranoid - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Ill Communication",
-        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
         "name": "Trapt",
         "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 286000,
       "name": "Headstrong",
       "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
+        "name": "Ill Communication",
+        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Hands On The Wheel",
-        "url": "https://open.spotify.com/album/1C1mvUxPYGzTqVpXu6vOLf"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Hands On The Wheel",
-      "url": "https://open.spotify.com/track/2kfpH2OAAdpk5J3JaraAIh"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
         "name": "If Tomorrow Comes...",
         "url": "https://open.spotify.com/album/1BdMI18B8ZnoHNAYwx8h8h"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 319940,
       "name": "All the Above (feat. T-Pain)",
       "url": "https://open.spotify.com/track/1z667LebVh3DtYNrVJEao0"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
+        "name": "Hands On The Wheel",
+        "url": "https://open.spotify.com/album/1C1mvUxPYGzTqVpXu6vOLf"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Hands On The Wheel",
+      "url": "https://open.spotify.com/track/2kfpH2OAAdpk5J3JaraAIh"
     },
     {
       "added_at": "2024-07-15 15:51:37",

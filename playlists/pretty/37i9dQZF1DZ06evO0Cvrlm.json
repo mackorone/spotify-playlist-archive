@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 588330,
+  "num_followers": 588357,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAAAvDfvPUbN63dd93YjBeaZ",
+  "snapshot_id": "aHbrgAAAAABvFWnUkjRB0I6+JkW8FEnd",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 390866,
-      "name": "Freedom! '90 - Remastered",
-      "url": "https://open.spotify.com/track/1wZ7o1mZysv1l26ZWawVfW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ladies & Gentlemen",
         "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 346813,
       "name": "Don't Let the Sun Go Down on Me",
       "url": "https://open.spotify.com/track/7xGOvQukPKKQVLiJOPSmt0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 390866,
+      "name": "Freedom! '90 - Remastered",
+      "url": "https://open.spotify.com/track/1wZ7o1mZysv1l26ZWawVfW"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+        "name": "Older (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Heal the Pain - Remastered",
-      "url": "https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ"
+      "duration_ms": 318804,
+      "name": "I Can't Make You Love Me - Studio Version",
+      "url": "https://open.spotify.com/track/0Qr2tOIgnmqUxAsO7of3OM"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 318804,
-      "name": "I Can't Make You Love Me - Studio Version",
-      "url": "https://open.spotify.com/track/0Qr2tOIgnmqUxAsO7of3OM"
+      "duration_ms": 280000,
+      "name": "Heal the Pain - Remastered",
+      "url": "https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ"
     },
     {
       "added_at": null,

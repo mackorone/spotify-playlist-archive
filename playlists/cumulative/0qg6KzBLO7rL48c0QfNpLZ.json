@@ -5833,6 +5833,28 @@
     },
     {
       "album": {
+        "name": "Drift Away",
+        "url": "https://open.spotify.com/album/6Xd5jzuyDY3LYsxM6aHQFA"
+      },
+      "artists": [
+        {
+          "name": "Quida",
+          "url": "https://open.spotify.com/artist/2bovUuU5iCljXcMk3v86fk"
+        },
+        {
+          "name": "Luke James Shaffer",
+          "url": "https://open.spotify.com/artist/5rhcXbjwP1pnyqjlNo4AoP"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127304,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/4XPzaKCA7AQKnRPZ83tFu6"
+    },
+    {
+      "album": {
         "name": "Drift Away Into The Grey",
         "url": "https://open.spotify.com/album/5TxZEWllbJvZ6L1zQp1oAz"
       },

@@ -1939,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "10 Years of Tasha",
+        "url": "https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/3KK5R3usd3gMn6rLcKH2uz"
+    },
+    {
+      "album": {
         "name": "This Is A Move (Live)",
         "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
       },
@@ -1950,7 +1968,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 445586,
       "name": "This Is A Move - Live",
       "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"

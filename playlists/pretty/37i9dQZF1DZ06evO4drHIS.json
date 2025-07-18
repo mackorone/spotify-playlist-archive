@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 17410,
+  "num_followers": 17420,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAADfOyxDGZjzy9+jY9w+4hdg",
+  "snapshot_id": "aHbrgAAAAABawKskyJeVCV5am8x0zLjm",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
         "url": "https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV"
       },
@@ -295,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+        "name": "A Ning\u00fan Lugar",
+        "url": "https://open.spotify.com/album/4nprLl0cQBLb3YS2FmcTYR"
       },
       "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 158373,
-      "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
+      "duration_ms": 167156,
+      "name": "A Ning\u00fan Lugar",
+      "url": "https://open.spotify.com/track/5EQYAVVQZe9EI5AMjkkqA8"
     },
     {
       "added_at": null,
@@ -375,26 +395,6 @@
       "duration_ms": 185346,
       "name": "Se Solicita",
       "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Ning\u00fan Lugar",
-        "url": "https://open.spotify.com/album/4nprLl0cQBLb3YS2FmcTYR"
-      },
-      "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 167156,
-      "name": "A Ning\u00fan Lugar",
-      "url": "https://open.spotify.com/track/5EQYAVVQZe9EI5AMjkkqA8"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila (Deluxe)",
-        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Nos Gan\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Beso a Medias",
         "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
       },
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi M\u00edo",
-        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
+        "name": "Mariachi Y Tequila (Deluxe)",
+        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 150384,
-      "name": "Mala Mala",
-      "url": "https://open.spotify.com/track/4R8O3wXfUpiWOTglaSLyDk"
+      "duration_ms": 187720,
+      "name": "Nos Gan\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 172653,
       "name": "Gaviota Traidora",
       "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi M\u00edo",
+        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 150384,
+      "name": "Mala Mala",
+      "url": "https://open.spotify.com/track/4R8O3wXfUpiWOTglaSLyDk"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Te Apartes De M\u00ed",
+        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Tu Lado (En Vivo)",
         "url": "https://open.spotify.com/album/4pYSMP0E5pP9Yd2kgJtZ44"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 293266,
       "name": "A Tu Lado - En Vivo",
       "url": "https://open.spotify.com/track/3mIHpW3Nqu8BAXJJlGdAvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Te Apartes De M\u00ed",
-        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "No Te Apartes De M\u00ed",
-      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
     },
     {
       "added_at": null,

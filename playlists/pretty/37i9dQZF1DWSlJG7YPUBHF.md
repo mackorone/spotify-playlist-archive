@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 
 > Face\-melters only\. Cover: Eddie Van Halen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530,645 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,818 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 | 39 | [Surfing with the Alien](https://open.spotify.com/track/2ekfM9Dcslm7l9Lh7HGT0i) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [Surfing With The Alien](https://open.spotify.com/album/4SFG7APMZeeM97ixKPoQuk) | 4:26 |
 | 40 | [Stranglehold](https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Great Gonzos! The Best Of Ted Nugent](https://open.spotify.com/album/4xKPMSSynMM7hSqB5sXjCV) | 8:22 |
 | 41 | [Jessica](https://open.spotify.com/track/2tVQhBSJ1SQtb4gX0taaiR) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 7:30 |
-| 42 | [Watermelon In Easter Hay](https://open.spotify.com/track/0Q2dRzhPWFOex89dOjbq5Y) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Joe's Garage Acts I, II & III](https://open.spotify.com/album/6uJkCskko3O83SRYWQVsjS) | 9:07 |
-| 43 | [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 9:34 |
-| 44 | [Under a Glass Moon](https://open.spotify.com/track/2bBAAVvOHsr7vxWFTuYxH8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 7:03 |
+| 42 | [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 9:34 |
+| 43 | [Under a Glass Moon](https://open.spotify.com/track/2bBAAVvOHsr7vxWFTuYxH8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 7:03 |
+| 44 | [Watermelon In Easter Hay](https://open.spotify.com/track/0Q2dRzhPWFOex89dOjbq5Y) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Joe's Garage Acts I, II & III](https://open.spotify.com/album/6uJkCskko3O83SRYWQVsjS) | 9:07 |
 | 45 | [Flying in a Blue Dream](https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [Flying In A Blue Dream](https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6) | 5:23 |
 | 46 | [Shock Me](https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:46 |
 | 47 | [Spanish Fly \- 2015 Remaster](https://open.spotify.com/track/3rUHyuFsFizq8gIQO0z2jH) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen II \(Remastered\)](https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI) | 1:01 |

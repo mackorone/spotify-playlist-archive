@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Sam Sauvage
+> La scène française branchée sur courant alternatif\. Photo : MDNS
 
-320 songs - 17 hr 4 min
+321 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Pala](https://open.spotify.com/track/6X66gz7OKx3jcKBbkDWm4Y) | [igee](https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI) | [DiRTYPOP!](https://open.spotify.com/album/3TgAVNiAN1Me3iWV8fGEor) | 2:27 | 2024-06-06 | 2024-06-14 |
 | [Papier cigarette](https://open.spotify.com/track/3mLFOvEDHJHAycMoaNJmVw) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Papier cigarette](https://open.spotify.com/album/6X0woy9fNpjofxlARrsc76) | 3:33 | 2023-11-16 | 2024-06-14 |
 | [Paradis](https://open.spotify.com/track/7s5RBWSYciJ7N2zvhSKgOs) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Paradis](https://open.spotify.com/album/22BjV2YN9xoEPqwJKQ3GRU) | 2:51 | 2023-09-28 | 2024-04-19 |
+| [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 | 2025-07-17 |  |
 | [Pas Bourré](https://open.spotify.com/track/0OY34cEFCVlUogk5ZCpC2a) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Pas Bourré](https://open.spotify.com/album/6yjzDLjWfSejFLZFVZgM97) | 3:50 | 2025-05-22 |  |
 | [Pas si grave](https://open.spotify.com/track/5aJD07sT5Fya39NBNoMkEQ) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Pas si grave](https://open.spotify.com/album/6Zkx4Is6rymdYuBJdiuqOu) | 2:22 | 2024-02-01 | 2024-06-01 |
 | [PAS SI MAL](https://open.spotify.com/track/69VxTSW7uFiJDHPg01rk73) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [PAS SI MAL](https://open.spotify.com/album/1eHIUJ3FyTVwxa4Xx0uBg7) | 2:37 | 2025-06-05 |  |
@@ -259,7 +260,7 @@
 | [Sans Cesse](https://open.spotify.com/track/2DLzUlHC6TY0JIri9c3Nd0) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Sans Cesse](https://open.spotify.com/album/5k9uPMU5VmYPDP3Zh5Iu1e) | 2:47 | 2023-09-28 | 2023-10-13 |
 | [SANS MOI](https://open.spotify.com/track/15Bl9bwkJvgUnz1yqHfxfh) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [SANS MOI](https://open.spotify.com/album/5hkrqI7xXyTepwcJjh1cL3) | 2:22 | 2024-05-02 | 2024-07-05 |
 | [Sans toi](https://open.spotify.com/track/1FNZ9bDeAOBDjgtAwoR2Nr) | [Ravage Club](https://open.spotify.com/artist/74RDJyFxXw9okuAnO6zXWm) | [Sans toi](https://open.spotify.com/album/71mDIX5mOHi5xoeJPvX255) | 2:46 | 2023-11-16 | 2024-03-01 |
-| [scorpion ascendant scorpion](https://open.spotify.com/track/1UnPDzVRkrTBflEQ9MJUhX) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:11 | 2025-07-03 |  |
+| [scorpion ascendant scorpion](https://open.spotify.com/track/1UnPDzVRkrTBflEQ9MJUhX) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:11 | 2025-07-03 | 2025-07-18 |
 | [Serie A](https://open.spotify.com/track/0D3MTS7Ea2EgXy6O9Horqc) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Serie A](https://open.spotify.com/album/6AQIcVtbI9gxFbRIKyr1i6) | 2:41 | 2023-09-28 | 2023-11-03 |
 | [Serpent Mental](https://open.spotify.com/track/7Mmfq4pv4eaQRqXPjOl3WJ) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Serpent Mental](https://open.spotify.com/album/4japQNj9fIt6eZo9673y1h) | 3:55 | 2023-10-26 | 2024-04-20 |
 | [Shake It](https://open.spotify.com/track/71UX9MrQd3iCROyiWgUIuE) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [Shake It](https://open.spotify.com/album/3RBuzCHdEXspCfVkuyc7er) | 3:51 | 2024-02-08 | 2024-03-15 |

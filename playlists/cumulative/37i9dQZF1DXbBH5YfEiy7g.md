@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=uGuuK6QzQtSEFeMF2uASxQ">Benjamin Dube</a>
 
-144 songs - 15 hr 32 min
+145 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Ngegama Lakho Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/7aRQTRifIQY3BQ8p3Ypo2f) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Ngegama Lakho Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/4NkqciMpps60RHj9ZDAnpD) | 7:05 | 2024-10-25 |  |
 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 | 2024-10-04 |  |
 | [Ngidle](https://open.spotify.com/track/4EHnPTebdfncfJ3Qez0hFP) | [D'braz](https://open.spotify.com/artist/06l0SbL4Tz5E4GVjWJDbGL), [Msongi](https://open.spotify.com/artist/5EVpgXduYKQyggrs93bPby), [Lwami](https://open.spotify.com/artist/4ojVz3Vc0diTbr3GlZZ0y8) | [Ngidle](https://open.spotify.com/album/5edJhneY7kPAHQ2jas0tRk) | 5:45 | 2024-10-11 |  |
+| [Ngihambise Kahle](https://open.spotify.com/track/6NZDB7MU7bNB37VUGWiLTg) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Ngihambise Kahle](https://open.spotify.com/album/1coVHsiPPaoa6FPWZIPEcL) | 5:06 | 2025-07-18 |  |
 | [Nginguthandiwe](https://open.spotify.com/track/5urEXwziw47MhSwePbbl4J) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Nginguthandiwe](https://open.spotify.com/album/6fdhhcKe1xHCLV4cPV3xxR) | 6:19 | 2024-10-04 |  |
 | [Nginobufakazi](https://open.spotify.com/track/3nwAv4rnjs29WbN80LnvaY) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Nginobufakazi](https://open.spotify.com/album/5T5Tzr9YcpmtUWZdahtXQT) | 8:25 | 2025-02-07 |  |
 | [Ngiyamazi Umhlengi Wami \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngiyamazi Umhlengi Wam \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG) | 3:59 | 2024-10-04 |  |

@@ -1,13 +1,109 @@
 {
-  "description": "Latest music from Darshan Raval, Abhijeet Srivastava, W.i.S.H.  and more. ",
-  "num_followers": 76457,
+  "description": "Latest music from AP Dhillon, Pragati Nagpal and more. ",
+  "num_followers": 76494,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHB7dwAAAABjQ9rWukI79IrBBPSTYQj0",
+  "snapshot_id": "aHmyOAAAAAC2iA/Z+JNQbu+UC0zyvu/V",
   "tracks": [
+    {
+      "added_at": "2025-07-18 02:32:23",
+      "album": {
+        "name": "Thodi Si Daaru",
+        "url": "https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 180248,
+      "name": "Thodi Si Daaru",
+      "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
+    },
+    {
+      "added_at": "2025-07-18 02:32:23",
+      "album": {
+        "name": "Chadeya",
+        "url": "https://open.spotify.com/album/59fK4J1A6WaQvs3zo12ffp"
+      },
+      "artists": [
+        {
+          "name": "Pragati Nagpal",
+          "url": "https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH"
+        }
+      ],
+      "duration_ms": 157135,
+      "name": "Chadeya",
+      "url": "https://open.spotify.com/track/37fiG26LiujOezzUOHgHoN"
+    },
+    {
+      "added_at": "2025-07-18 02:32:23",
+      "album": {
+        "name": "Barkha",
+        "url": "https://open.spotify.com/album/5uCaRM1VtiVhAmHJr9VT3p"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 265618,
+      "name": "Barkha",
+      "url": "https://open.spotify.com/track/2PJMOVA7wEwvLXJxiyqjLA"
+    },
+    {
+      "added_at": "2025-07-18 02:32:23",
+      "album": {
+        "name": "DOBARA",
+        "url": "https://open.spotify.com/album/59oPvsAiaHH3BQsCYRbEaX"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "Akbar Wasif",
+          "url": "https://open.spotify.com/artist/07G9Nz6p26J0cI3VhLzMrT"
+        }
+      ],
+      "duration_ms": 220002,
+      "name": "DOBARA",
+      "url": "https://open.spotify.com/track/1hL3oTpFn4QJnS5gBro7eY"
+    },
+    {
+      "added_at": "2025-07-18 02:32:23",
+      "album": {
+        "name": "Seedha",
+        "url": "https://open.spotify.com/album/0DQXxWb32E0jbSDdBycbih"
+      },
+      "artists": [
+        {
+          "name": "Aseem",
+          "url": "https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "duration_ms": 160916,
+      "name": "Seedha",
+      "url": "https://open.spotify.com/track/5ZKPdkRgx6MxIuv3b5xwVv"
+    },
     {
       "added_at": "2025-07-11 02:48:23",
       "album": {
@@ -623,22 +719,6 @@
     {
       "added_at": "2025-07-04 07:11:29",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/7euHd8EBfpvCU9AvdcVUMN"
-      },
-      "artists": [
-        {
-          "name": "Akanksha Bhandari",
-          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
-        }
-      ],
-      "duration_ms": 150334,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/3YIKqhbhfvTc5B0hgMU9TU"
-    },
-    {
-      "added_at": "2025-07-04 07:11:29",
-      "album": {
         "name": "Tu Sab Vekheya",
         "url": "https://open.spotify.com/album/35ldZRrH83VXMtjooYmXjk"
       },
@@ -763,30 +843,6 @@
     {
       "added_at": "2025-07-04 07:11:29",
       "album": {
-        "name": "Naqsh",
-        "url": "https://open.spotify.com/album/49BJo3IkDWCsqLjgmESHq3"
-      },
-      "artists": [
-        {
-          "name": "Arjun Kanungo",
-          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
-        },
-        {
-          "name": "IP Singh",
-          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Naqsh",
-      "url": "https://open.spotify.com/track/0IweQc1ixEuXbAbf0kPquN"
-    },
-    {
-      "added_at": "2025-07-04 07:11:29",
-      "album": {
         "name": "Ishq Mera (Feat. Esha Gupta)",
         "url": "https://open.spotify.com/album/5nyfbc7DahN9JT6R2iudhx"
       },
@@ -807,50 +863,6 @@
       "duration_ms": 238069,
       "name": "Ishq Mera (Feat. Esha Gupta)",
       "url": "https://open.spotify.com/track/6TOeOjAKDOxJon6geucX92"
-    },
-    {
-      "added_at": "2025-07-04 07:11:29",
-      "album": {
-        "name": "Saawariya",
-        "url": "https://open.spotify.com/album/5DQDVW42OfdTOMl6GfQiG8"
-      },
-      "artists": [
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        },
-        {
-          "name": "Raajeev V Bhalla",
-          "url": "https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax"
-        }
-      ],
-      "duration_ms": 215342,
-      "name": "Saawariya",
-      "url": "https://open.spotify.com/track/6oJcnd3IJBrJzGeJDCxfvA"
-    },
-    {
-      "added_at": "2025-07-04 07:11:29",
-      "album": {
-        "name": "Jaaniya",
-        "url": "https://open.spotify.com/album/6YAz9mfkcDQMZukJK75NCe"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Akshay K Saxena",
-          "url": "https://open.spotify.com/artist/4m9b7ej5mQM8nfqILrFyuZ"
-        },
-        {
-          "name": "Raajeev V Bhalla",
-          "url": "https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax"
-        }
-      ],
-      "duration_ms": 276281,
-      "name": "Jaaniya",
-      "url": "https://open.spotify.com/track/5dsF6MLU1w4tBvQiivZC9X"
     },
     {
       "added_at": "2025-07-04 07:11:29",
@@ -999,22 +1011,6 @@
       "duration_ms": 193077,
       "name": "Mar Baitha",
       "url": "https://open.spotify.com/track/4zGF43zs7IGMrysT3SlxWc"
-    },
-    {
-      "added_at": "2025-07-04 07:11:29",
-      "album": {
-        "name": "First Sight Wala Love",
-        "url": "https://open.spotify.com/album/29rCN9Ef5YCpaa7eYB1bAP"
-      },
-      "artists": [
-        {
-          "name": "Aparshakti Khurana",
-          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
-        }
-      ],
-      "duration_ms": 158078,
-      "name": "First Sight Wala Love",
-      "url": "https://open.spotify.com/track/0WSO9J0fZ17EJ1DfT2rWVa"
     }
   ],
   "unique_name": "New Music Friday I-Pop ",

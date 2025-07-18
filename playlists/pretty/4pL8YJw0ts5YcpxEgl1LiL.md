@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4pL8YJw0ts5YcpxEgl1LiL.md) - [plain]
 
 > Missa inte Of Monsters and Men på Azalea\-scenen på FREDAG / 16.10
 
-[Spotify](https://open.spotify.com/user/spotify) - 34 likes - 10 songs - 44 min 21 sec
+[Spotify](https://open.spotify.com/user/spotify) - 33 likes - 10 songs - 44 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

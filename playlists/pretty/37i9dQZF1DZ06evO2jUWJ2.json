@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 304712,
+  "num_followers": 304775,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAABBFntT+/9YkDF00mgPQ70k",
+  "snapshot_id": "aHbrgAAAAAADTaWZfk9/sfUCY9L1DcGs",
   "tracks": [
     {
       "added_at": null,
@@ -55,22 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hallelujah Here Below",
         "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 371616,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/7qqtTPQIMXAFubamFBPHG5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida aos Sepulcros",
-        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 293702,
-      "name": "Vida aos Sepulcros",
-      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hallelujah Here Below",
         "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
@@ -671,26 +651,6 @@
       "duration_ms": 236735,
       "name": "Echo (feat. Tauren Wells)",
       "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Wind Meets Fire",
-        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 452829,
-      "name": "Sure Been Good (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/17qx4XW3tI8BkGhZseXzsQ"
     },
     {
       "added_at": null,
@@ -715,6 +675,46 @@
       "duration_ms": 512899,
       "name": "Make A Way (feat. Chandler Moore & Brandon Lake)",
       "url": "https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 452829,
+      "name": "Sure Been Good (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/17qx4XW3tI8BkGhZseXzsQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida aos Sepulcros",
+        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 293702,
+      "name": "Vida aos Sepulcros",
+      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At Midnight - EP",
-        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 350358,
-      "name": "It Is So",
-      "url": "https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LION",
         "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 279691,
       "name": "Might Get Loud (feat. Chris Brown, Brandon Lake & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/6zmTTU4fm4iFhHvMyCxp3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 350358,
+      "name": "It Is So",
+      "url": "https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr"
     },
     {
       "added_at": null,

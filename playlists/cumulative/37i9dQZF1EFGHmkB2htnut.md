@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-104 songs - 5 hr 23 min
+107 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Grown \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 3:52 | 2025-07-03 |  |
 | [321](https://open.spotify.com/track/6uXbGI1bxyK8LSdztpcbFV) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [321](https://open.spotify.com/album/2ORKOz6jqkqbE9kRpYRsA8) | 2:53 | 2025-07-03 |  |
+| [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 2:43 | 2025-07-17 |  |
 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 | 2025-07-03 |  |
 | [Atoms](https://open.spotify.com/track/4pwcV7gAfkM7F6Yu1YBLvJ) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:48 | 2025-07-03 |  |
 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 | 2025-07-03 |  |
@@ -28,6 +29,7 @@
 | [Come Alive](https://open.spotify.com/track/7uT7BTOkJ40U3nsU2yWQST) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Journey](https://open.spotify.com/album/1TXZLZHDHFSq0ckd8bZoIh) | 3:11 | 2025-07-03 |  |
 | [cross ur mind](https://open.spotify.com/track/7o6004WEpQsptuigMjYvyb) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:13 | 2025-07-03 |  |
 | [Cruise Control](https://open.spotify.com/track/61svLjB9BCjdtkUtqbDSXp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Cruise Control](https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn) | 2:35 | 2025-07-03 |  |
+| [Cry In California](https://open.spotify.com/track/193noKkuF36J9oFYqTg0bM) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO) | 3:19 | 2025-07-17 |  |
 | [Crystal Ball](https://open.spotify.com/track/0cSR99V12UxUaaMPXXHlOJ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Promised Land](https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi) | 2:53 | 2025-07-03 |  |
 | [Daffodils](https://open.spotify.com/track/6KbzHdUehItEUjJYAVYy5j) | [Rosse](https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i) | [Daffodils](https://open.spotify.com/album/6kGxq7A0BaPGLYX9MPracQ) | 2:55 | 2025-07-03 |  |
 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 | 2025-07-03 |  |
@@ -108,6 +110,7 @@
 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 | 2025-07-03 |  |
 | [Unfinished](https://open.spotify.com/track/6Iai60gkfj1Zj6J8GE9jcp) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [The Medicine EP](https://open.spotify.com/album/6ur7nfL407XF6cgdhzLDFz) | 3:17 | 2025-07-03 |  |
 | [Violets](https://open.spotify.com/track/1H3uwddeEsvOC3liO3fkr6) | [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/0Mhp4SyUouTZNPDG1fphwd) | 1:55 | 2025-07-03 |  |
+| [WHAT I THINK I WANT](https://open.spotify.com/track/2hqAeji1pyK2xcFK1afU4q) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 3:05 | 2025-07-17 |  |
 | [what it means to be a girl](https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [what it means to be a girl / this is how i learn to say no](https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA) | 2:48 | 2025-07-03 |  |
 | [When You Kiss Me \(Live\)](https://open.spotify.com/track/4MYV0NQNM17G9cJMJCZfch) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [When You Kiss Me \(Live\)](https://open.spotify.com/album/41xBNI7UALJWQUY5zIqVid) | 3:31 | 2025-07-03 |  |
 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 | 2025-07-03 |  |

@@ -2239,6 +2239,28 @@
     },
     {
       "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174396,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/0ChXlpQEMGYU0HLNjGXqCR"
+    },
+    {
+      "album": {
         "name": "Good Luck, Kid",
         "url": "https://open.spotify.com/album/7I9Y2DHOoBjmzxsGPq3R3e"
       },

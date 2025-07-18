@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover: SOLOMON
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,466 likes - 141 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,464 likes - 141 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

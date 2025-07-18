@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Benjamin Dakota Rogers",
-  "num_followers": 68154,
+  "num_followers": 68174,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
+        "name": "Sudden Opera",
+        "url": "https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE"
+      },
+      "artists": [
+        {
+          "name": "Pony Bradshaw",
+          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
+        }
+      ],
+      "duration_ms": 172840,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
         "name": "Passage Du Desir",
         "url": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 217093,
       "name": "Mint Tea",
       "url": "https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Sudden Opera",
-        "url": "https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE"
-      },
-      "artists": [
-        {
-          "name": "Pony Bradshaw",
-          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
-        }
-      ],
-      "duration_ms": 172840,
-      "name": "Van Gogh",
-      "url": "https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "River Fools & Mountain Saints",
         "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Me More Cowboy Than You (Demo)",
-        "url": "https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Me More Cowboy Than You - Demo",
-      "url": "https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 250801,
       "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Me More Cowboy Than You (Demo)",
+        "url": "https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Me More Cowboy Than You - Demo",
+      "url": "https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Among Other Things",
-        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 288402,
-      "name": "Rhododendron",
-      "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "American Dreaming",
         "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 237691,
       "name": "American Dreaming - Single Edit",
       "url": "https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Among Other Things",
+        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 288402,
+      "name": "Rhododendron",
+      "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Much Ado About Nothing",
-        "url": "https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 229795,
-      "name": "Much Ado About Nothing",
-      "url": "https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Trail Of Flowers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 209176,
       "name": "Dollar Bill Bar",
       "url": "https://open.spotify.com/track/6YmqrvUwNRWZZWNvPuDpRT"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Much Ado About Nothing",
+        "url": "https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 229795,
+      "name": "Much Ado About Nothing",
+      "url": "https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Crimes of the Heart",
+      "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
         "name": "Coyote",
         "url": "https://open.spotify.com/album/1BO7uyUvn0Lur0fkPDK1Mr"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+        "name": "As It Ever Was, So It Will Be Again",
+        "url": "https://open.spotify.com/album/5acYvdisnqKHilyZpplOMf"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Crimes of the Heart",
-      "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
+      "duration_ms": 229133,
+      "name": "Long White Veil",
+      "url": "https://open.spotify.com/track/5eiWZPKVAkVLiBBrlxFzB4"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1459,22 +1475,6 @@
       "duration_ms": 218266,
       "name": "Twin Flame (feat. Goldie Boutilier)",
       "url": "https://open.spotify.com/track/4QYNd9eqc1GtfLrI0rMP8o"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "As It Ever Was, So It Will Be Again",
-        "url": "https://open.spotify.com/album/5acYvdisnqKHilyZpplOMf"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Long White Veil",
-      "url": "https://open.spotify.com/track/5eiWZPKVAkVLiBBrlxFzB4"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Lonesome Drifter",
-        "url": "https://open.spotify.com/album/6zZyCNRv5LRBpM5Cqc2pFB"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 182482,
-      "name": "Lonesome Drifter",
-      "url": "https://open.spotify.com/track/7IuilBb5xXErrNIZEeaqID"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Don't Do Me Good",
         "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
       },
@@ -1579,22 +1563,18 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "You're Gonna Fall",
-        "url": "https://open.spotify.com/album/0wSXHbSfSsIbSJD9X0jXXV"
+        "name": "Lonesome Drifter",
+        "url": "https://open.spotify.com/album/6zZyCNRv5LRBpM5Cqc2pFB"
       },
       "artists": [
         {
-          "name": "Tami Neilson",
-          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
-        },
-        {
-          "name": "JD McPherson",
-          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
         }
       ],
-      "duration_ms": 151320,
-      "name": "You're Gonna Fall",
-      "url": "https://open.spotify.com/track/1lIv7tnLHNRKjQ6CxJjiIW"
+      "duration_ms": 182482,
+      "name": "Lonesome Drifter",
+      "url": "https://open.spotify.com/track/7IuilBb5xXErrNIZEeaqID"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1627,6 +1607,26 @@
       "duration_ms": 180475,
       "name": "Our Time In The Sun",
       "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "You're Gonna Fall",
+        "url": "https://open.spotify.com/album/0wSXHbSfSsIbSJD9X0jXXV"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        },
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "duration_ms": 151320,
+      "name": "You're Gonna Fall",
+      "url": "https://open.spotify.com/track/1lIv7tnLHNRKjQ6CxJjiIW"
     },
     {
       "added_at": "2025-07-11 04:00:29",

@@ -30480,7 +30480,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 189767,
       "name": "High On Me",
       "url": "https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp"
@@ -57709,6 +57709,28 @@
     },
     {
       "album": {
+        "name": "Soft Machine",
+        "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
+      "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
+    },
+    {
+      "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
       },
@@ -80436,7 +80458,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 155040,
       "name": "Young Black & Rich",
       "url": "https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso"
@@ -80454,7 +80476,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 155062,
       "name": "Young Black & Rich",
       "url": "https://open.spotify.com/track/2o5yF4bBAgbeCDSsY5Rrnx"

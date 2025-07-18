@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 71176,
+  "num_followers": 71193,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "The Sound Of White",
         "url": "https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 213733,
       "name": "Scar",
       "url": "https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Bodyrockers",
-        "url": "https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY"
-      },
-      "artists": [
-        {
-          "name": "Bodyrockers",
-          "url": "https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "I Like The Way - Radio Edit",
-      "url": "https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Resolution - EP",
         "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 256389,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Bodyrockers",
+        "url": "https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY"
+      },
+      "artists": [
+        {
+          "name": "Bodyrockers",
+          "url": "https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "I Like The Way - Radio Edit",
+      "url": "https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Feeler",
-        "url": "https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch"
+        "name": "Blue Planet Eyes",
+        "url": "https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l"
       },
       "artists": [
         {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+          "name": "The Preatures",
+          "url": "https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu"
         }
       ],
-      "duration_ms": 279520,
-      "name": "So Beautiful - Single Version",
-      "url": "https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se"
+      "duration_ms": 214093,
+      "name": "Is This How You Feel?",
+      "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Feeler",
+        "url": "https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 279520,
+      "name": "So Beautiful - Single Version",
+      "url": "https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Blue Planet Eyes",
-        "url": "https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l"
+        "name": "Reflector",
+        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
       },
       "artists": [
         {
-          "name": "The Preatures",
-          "url": "https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu"
+          "name": "Killing Heidi",
+          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
         }
       ],
-      "duration_ms": 214093,
-      "name": "Is This How You Feel?",
-      "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
+      "duration_ms": 244866,
+      "name": "Weir",
+      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -907,22 +923,6 @@
       "duration_ms": 248546,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Reflector",
-        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
-      },
-      "artists": [
-        {
-          "name": "Killing Heidi",
-          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Weir",
-      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Counting Down The Days",
-        "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Two Degrees",
         "url": "https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 255889,
       "name": "Papercuts (feat. Vera Blue)",
       "url": "https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Counting Down The Days",
+        "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
     },
     {
       "added_at": "2024-08-05 06:00:58",

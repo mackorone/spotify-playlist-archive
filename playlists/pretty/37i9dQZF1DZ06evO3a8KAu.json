@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 49618,
+  "num_followers": 49626,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAAk2tBRWtKYinW/rO7b1pDJ",
+  "snapshot_id": "aHbrgAAAAAA6boLQ53aLkGOUyI/7vlkh",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que La Quieran (Que La Cuiden)",
-        "url": "https://open.spotify.com/album/4pLO8dVJIBjoxiRjIM2KRG"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 194797,
-      "name": "Que La Quieran (Que La Cuiden)",
-      "url": "https://open.spotify.com/track/1axqKw987jqGeTfjm9tOuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corona de Rosas",
         "url": "https://open.spotify.com/album/4Q1qX0p6dMP8akFAvJQsw0"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 159232,
       "name": "Corona de Rosas",
       "url": "https://open.spotify.com/track/6mdO5yKXfg93yFtbzrvDSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que La Quieran (Que La Cuiden)",
+        "url": "https://open.spotify.com/album/4pLO8dVJIBjoxiRjIM2KRG"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 194797,
+      "name": "Que La Quieran (Que La Cuiden)",
+      "url": "https://open.spotify.com/track/1axqKw987jqGeTfjm9tOuv"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dile Luna",
-        "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
+        "name": "Si Ma\u00f1ana Muero",
+        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 191338,
-      "name": "Dile Luna",
-      "url": "https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6"
+      "duration_ms": 279359,
+      "name": "Si Ma\u00f1ana Muero",
+      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Ma\u00f1ana Muero",
-        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
+        "name": "Dile Luna",
+        "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 279359,
-      "name": "Si Ma\u00f1ana Muero",
-      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
+      "duration_ms": 191338,
+      "name": "Dile Luna",
+      "url": "https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6"
     },
     {
       "added_at": null,

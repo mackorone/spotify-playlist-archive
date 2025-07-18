@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 127553,
+  "num_followers": 127597,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAABxgrcL9qJM04k1RR+vpdri",
+  "snapshot_id": "aHbrgAAAAADL0EkCRw+L8NYvoz2wXJ1b",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 152480,
-      "name": "The Dress Looks Nice on You",
-      "url": "https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb"
+      "duration_ms": 237386,
+      "name": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
+      "url": "https://open.spotify.com/track/1dkHo0hS9KnzlsRSbIjZzi"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 237386,
-      "name": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
-      "url": "https://open.spotify.com/track/1dkHo0hS9KnzlsRSbIjZzi"
+      "duration_ms": 152480,
+      "name": "The Dress Looks Nice on You",
+      "url": "https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb"
     },
     {
       "added_at": null,
@@ -439,6 +439,38 @@
       "duration_ms": 289897,
       "name": "So You Are Tired",
       "url": "https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Romulus",
+      "url": "https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 47640,
+      "name": "A short reprise for Mary Todd, who went insane, but for very good reasons",
+      "url": "https://open.spotify.com/track/6hfxGStZ4L3IBvRaCqmPQc"
     },
     {
       "added_at": null,
@@ -463,38 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 47640,
-      "name": "A short reprise for Mary Todd, who went insane, but for very good reasons",
-      "url": "https://open.spotify.com/track/6hfxGStZ4L3IBvRaCqmPQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Romulus",
-      "url": "https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
@@ -507,26 +507,6 @@
       "duration_ms": 222934,
       "name": "My Red Little Fox",
       "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Beginner's Mind",
-        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "Murder And Crime",
-      "url": "https://open.spotify.com/track/43flDuyszwqpgsukkqMVea"
     },
     {
       "added_at": null,
@@ -567,6 +547,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Beginner's Mind",
+        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Murder And Crime",
+      "url": "https://open.spotify.com/track/43flDuyszwqpgsukkqMVea"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Yourself / With My Whole Heart",
+        "url": "https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 103014,
+      "name": "Love Yourself (Short Reprise)",
+      "url": "https://open.spotify.com/track/6Su3tpwV9plA79jGtiL8rf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 223344,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Yourself / With My Whole Heart",
-        "url": "https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 103014,
-      "name": "Love Yourself (Short Reprise)",
-      "url": "https://open.spotify.com/track/6Su3tpwV9plA79jGtiL8rf"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beginner's Mind",
-        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 147229,
-      "name": "It\u2019s Your Own Body And Mind",
-      "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 177635,
       "name": "Reflexion",
       "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Beginner's Mind",
+        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 147229,
+      "name": "It\u2019s Your Own Body And Mind",
+      "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
     },
     {
       "added_at": null,

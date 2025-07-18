@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: JAN JAN JAN
+> Net die beste Afrikaanse musiek! Omslag: Rooksein
 
 314 songs - 17 hr 21 min
 
@@ -19,7 +19,7 @@
 | [As die Plaas Byt](https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [As die Plaas Byt](https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z) | 3:33 | 2022-10-20 | 2023-09-22 |
 | [As Ek Dalk \(feat\. Eloff\)](https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [As Ek Dalk \(feat\. Eloff\)](https://open.spotify.com/album/3MkLaVX6W7iwRdRz5q5GWs) | 3:09 | 2024-11-21 |  |
 | [As Hy Weer Kom](https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [As Hy Weer Kom](https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF) | 3:07 | 2023-08-10 | 2023-12-30 |
-| [Asseblief](https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Asseblief](https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO) | 3:27 | 2023-10-19 | 2025-07-14 |
+| [Asseblief](https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Asseblief](https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO) | 3:27 | 2023-10-19 |  |
 | [ATKV](https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:04 | 2022-11-03 | 2024-08-16 |
 | [AVBOB Se Stoep](https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [AVBOB Se Stoep](https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S) | 3:28 | 2024-07-25 |  |
 | [Bakkie In Die Land](https://open.spotify.com/track/2432rSufmYmFZmRQ5TKuDj) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Bakkie In Die Land](https://open.spotify.com/album/56R1XIxyMF7PDewMC3K3dE) | 3:08 | 2025-05-29 | 2025-06-01 |
@@ -61,7 +61,7 @@
 | [Dans Kwagga](https://open.spotify.com/track/5rqe4RmTztq10pipi4b0DA) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Dans Kwagga](https://open.spotify.com/album/6EUKAwUr11udwqsy8Fxvd7) | 3:48 | 2024-05-02 | 2024-06-07 |
 | [Dans Met Gevaar](https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Dans Met Gevaar](https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV) | 4:09 | 2022-12-22 | 2023-03-31 |
 | [Deur die Reën](https://open.spotify.com/track/3vhX5qgaDsAcSJ90wddxYS) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Deur die reën](https://open.spotify.com/album/09wqRyWhW27Jt9g58PfCpw) | 3:31 | 2024-04-26 | 2024-07-05 |
-| [Deur Die Winters](https://open.spotify.com/track/5kYfjmKb8nUGeTS7YBAslO) | [Venter](https://open.spotify.com/artist/7AbHJtc16ssgYnjxLPj9mS) | [Deur Die Winters](https://open.spotify.com/album/7xbqMfdKNRSjGFzzF71uvZ) | 3:42 | 2025-05-08 | 2025-07-02 |
+| [Deur Die Winters](https://open.spotify.com/track/5kYfjmKb8nUGeTS7YBAslO) | [Venter](https://open.spotify.com/artist/7AbHJtc16ssgYnjxLPj9mS) | [Deur Die Winters](https://open.spotify.com/album/7xbqMfdKNRSjGFzzF71uvZ) | 3:42 | 2025-05-08 |  |
 | [Diana](https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Diana](https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE) | 3:30 | 2023-05-25 | 2025-06-01 |
 | [Die Afrikaner Maak So](https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Die Afrikaner Maak So](https://open.spotify.com/album/7iIDK5smB90lIAw0mEpOSS) | 2:59 | 2024-02-01 |  |
 | [Die Bokmasjien](https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK) | [Leon Schuster](https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs) | [Die Bokmasjien](https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm) | 3:46 | 2023-09-15 | 2023-10-13 |
@@ -115,7 +115,7 @@
 | [Heito Potato](https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Heito Potato](https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e) | 3:37 | 2024-05-09 |  |
 | [Helemal](https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Helemal](https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR) | 3:47 | 2023-11-30 |  |
 | [Help 'n Bietjie](https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Help 'n Bietjie](https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ) | 3:18 | 2025-03-20 |  |
-| [Het Jy Iemand](https://open.spotify.com/track/6nxrtUmq5aNJlLef0zwKOP) | [Ollyvans](https://open.spotify.com/artist/5mUamRbK8IVMSh1fr8OzWq), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Het Jy Iemand](https://open.spotify.com/album/0bVTa1xvnoVMRABEvcBPW2) | 2:47 | 2025-06-13 |  |
+| [Het Jy Iemand](https://open.spotify.com/track/6nxrtUmq5aNJlLef0zwKOP) | [Ollyvans](https://open.spotify.com/artist/5mUamRbK8IVMSh1fr8OzWq), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Het Jy Iemand](https://open.spotify.com/album/0bVTa1xvnoVMRABEvcBPW2) | 2:47 | 2025-06-13 | 2025-07-18 |
 | [Hey Jy](https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Hey Jy](https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC) | 3:20 | 2023-08-03 | 2023-11-03 |
 | [Hey Sonneblom](https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Sonneblom](https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e) | 3:30 | 2022-08-02 | 2024-05-10 |
 | [Hier Gaat Ons Alweer](https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv) | [Pieter Koen](https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif) | [Hier Gaat Ons Alweer](https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3) | 3:14 | 2022-10-06 | 2022-11-04 |
@@ -208,7 +208,7 @@
 | [My Persoon](https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc) | [Die Campbells](https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H), [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [My Persoon](https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF) | 3:32 | 2022-11-24 | 2022-12-24 |
 | [My Volgende Fout](https://open.spotify.com/track/1kHQzqhGImGF9kPlgq7Yzh) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj), [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [My Volgende Fout](https://open.spotify.com/album/1FUttDOfsKL1aZw7fcsqAc) | 3:33 | 2021-11-08 | 2024-01-26 |
 | [Naweek My Nou \(feat\. Loufi\)](https://open.spotify.com/track/3tu4zpsCPi3ME24Y1a3T2N) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Naweek My Nou \(feat\. Loufi\)](https://open.spotify.com/album/4D6oXces9lMf86k9ytJahz) | 2:53 | 2025-04-17 | 2025-07-04 |
-| [Nee Buffel](https://open.spotify.com/track/0ZPA1pwIkDnddmLsIERSum) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Nee Buffel](https://open.spotify.com/album/5uo9GCA8DZTZYSKDXiBY25) | 3:18 | 2025-07-03 |  |
+| [Nee Buffel](https://open.spotify.com/track/0ZPA1pwIkDnddmLsIERSum) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Nee Buffel](https://open.spotify.com/album/5uo9GCA8DZTZYSKDXiBY25) | 3:18 | 2025-07-03 | 2025-07-18 |
 | [Nee of Ja](https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Nee of Ja](https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb) | 3:19 | 2023-02-23 | 2024-04-12 |
 | [Neem My Op Vlerke \- SENSASIE Remix](https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO) | [Anneli Van Rooyen](https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Neem My Op Vlerke \(SENSASIE Remix\)](https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW) | 3:22 | 2024-01-25 | 2024-10-11 |
 | [Nes Ons Kan](https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ) | [Nes Ons Kan](https://open.spotify.com/album/0HqO7AZMzelaMrtdKCNhOB) | 3:44 | 2022-10-13 | 2022-10-21 |

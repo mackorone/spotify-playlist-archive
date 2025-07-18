@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 超ときめき♡宣伝部
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,452 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,474 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 |
 | 2 | [最上級にかわいいの！](https://open.spotify.com/track/3Ac9x7tA96I5xUmZTDuqMX) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめく恋と青春](https://open.spotify.com/album/6mir8HSW9pDvCcCcrlcJ5f) | 3:10 |
 | 3 | [すきっ！ \- 超ver](https://open.spotify.com/track/0SxNslJ4zylzWBQTX4rBIe) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [すきすきすきすきすきすきっ！](https://open.spotify.com/album/4Ye5uaWUcnqzTwCMj2AO47) | 5:13 |
-| 4 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
-| 5 | [明日の私に幸あれ](https://open.spotify.com/track/0ZnvQc8Ql8foFq4aprS3ke) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [明日の私に幸あれ](https://open.spotify.com/album/4Ux2KbDwOZ4hkrzC3etcyn) | 3:34 |
-| 6 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 |
-| 7 | [倍倍FIGHT!](https://open.spotify.com/track/48Vmf6Z41CoJo0JvT8tZfS) | [CANDY TUNE](https://open.spotify.com/artist/4Yq4M6kdQTjkPBOp7aPJrA) | [倍倍FIGHT!](https://open.spotify.com/album/2ckfzuzGU3I0dhCwfnESEN) | 4:13 |
-| 8 | [アイサレタイ](https://open.spotify.com/track/0HJ4bOxL3wvJIk5a0j5OMm) | [Yumcha](https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g) | [アイサレタイ](https://open.spotify.com/album/0OgFvzaWhbU9ey9gniMzWi) | 1:44 |
-| 9 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
-| 10 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 |
-| 11 | [だけど僕は](https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [猟奇的なキスを私にして](https://open.spotify.com/album/5Qy4KEySDLkh5xnRK325D5) | 3:07 |
-| 12 | [come again](https://open.spotify.com/track/1CZeGqCedLsWhFufD9UjYa) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 5:54 |
+| 4 | [明日の私に幸あれ](https://open.spotify.com/track/0ZnvQc8Ql8foFq4aprS3ke) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [明日の私に幸あれ](https://open.spotify.com/album/4Ux2KbDwOZ4hkrzC3etcyn) | 3:34 |
+| 5 | [倍倍FIGHT!](https://open.spotify.com/track/48Vmf6Z41CoJo0JvT8tZfS) | [CANDY TUNE](https://open.spotify.com/artist/4Yq4M6kdQTjkPBOp7aPJrA) | [倍倍FIGHT!](https://open.spotify.com/album/2ckfzuzGU3I0dhCwfnESEN) | 4:13 |
+| 6 | [アイサレタイ](https://open.spotify.com/track/0HJ4bOxL3wvJIk5a0j5OMm) | [Yumcha](https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g) | [アイサレタイ](https://open.spotify.com/album/0OgFvzaWhbU9ey9gniMzWi) | 1:44 |
+| 7 | [come again](https://open.spotify.com/track/1CZeGqCedLsWhFufD9UjYa) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 5:54 |
+| 8 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 9 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 |
+| 10 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
+| 11 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 |
+| 12 | [だけど僕は](https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [猟奇的なキスを私にして](https://open.spotify.com/album/5Qy4KEySDLkh5xnRK325D5) | 3:07 |
 | 13 | [StaRt](https://open.spotify.com/track/0ubEkvxVE1Sh4QTBN6b92a) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Variety](https://open.spotify.com/album/4JNYlZqgs8wSdgvwlaQbHR) | 3:31 |
 | 14 | [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 |
 | 15 | [イイじゃん](https://open.spotify.com/track/4FuK1Rt4Ug1PXKNFvFaHaO) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [イイじゃん](https://open.spotify.com/album/7dYOkmiQ8NzC9PttH0PQ75) | 3:18 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 21 | [ぷんぷん](https://open.spotify.com/track/1ZQjslTPziwyz9BioIBBSI) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [サマラブ](https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq) | 3:16 |
 | 22 | [ラッキーカラー](https://open.spotify.com/track/2iNLH2YkRdplxPA09jndW6) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:38 |
 | 23 | [合法的トビ方ノススメ](https://open.spotify.com/track/1YjB7JgaWxUSOAsuCBOQEM) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [たりないふたり](https://open.spotify.com/album/31hLSqnLaBag5p2BmvCnOs) | 3:58 |
-| 24 | [かわいいだけじゃだめですか？](https://open.spotify.com/track/3KtwMkj9gml6BDeYlyS8nG) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [かわいいだけじゃだめですか？](https://open.spotify.com/album/1cJaqr9y6AvJqQgNpwVNRD) | 4:11 |
-| 25 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
+| 24 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
+| 25 | [キューにストップできません！](https://open.spotify.com/track/5OX4Nq07ulpm1uleSR6wAQ) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キューにストップできません！](https://open.spotify.com/album/6oLeXGeM7Dv4wr1cB1E1X3) | 3:42 |
 | 26 | [一目惚れ](https://open.spotify.com/track/08xsN4IJlXiJOc3C7jWNaZ) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [一目惚れ](https://open.spotify.com/album/6HTYjgKJEQdvrOIB8WGeGN) | 3:21 |
 | 27 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
 | 28 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [PARALLEL](https://open.spotify.com/track/6t2hernNP059dFBRyBKLKT) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [PARALLEL](https://open.spotify.com/album/0YRmYvCo1yyHgmMdWC7I7c) | 1:44 |
 | 50 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 
-Snapshot ID: `aG/VeAAAAAApDLSNpRSbvMRUWSyKmF2C`
+Snapshot ID: `aHmWzwAAAACBqpjcdqaU+2gJWyTwwYG0`

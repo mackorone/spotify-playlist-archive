@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Linkin Park.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,170 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,226 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,20 +22,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 12 | [I WON'T BACK DOWN](https://open.spotify.com/track/7nBKzSA8l5msyNV4wkDvQp) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [I WON'T BACK DOWN](https://open.spotify.com/album/10C6jOFAImGjenVam7idgu) | 3:21 |
 | 13 | [Freestyle](https://open.spotify.com/track/752QBrQ3zOGjCbsXblrMFU) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL), [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [Freestyle](https://open.spotify.com/album/4nmQ599IBIaRCzlGB2F6h0) | 2:35 |
 | 14 | [Would you be my therapy? \(feat\. Windwaker\) \- Redux](https://open.spotify.com/track/3p78XD0O2ihOpKcjjkF06O) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Would you be my therapy? \(feat\. Windwaker\) \[Redux\]](https://open.spotify.com/album/4c20dxhBHoHSqpFyeuvOgA) | 2:39 |
-| 15 | [DATURA](https://open.spotify.com/track/2bLcPqkcPW1r4jkaWbh1sv) | [DEMATERIALIZE](https://open.spotify.com/artist/5v3BFxzA17aNgLGha3Lb2v), [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC) | [DATURA](https://open.spotify.com/album/2FpvRXZ6NwWmaPSHXhYXGt) | 2:42 |
-| 16 | [augmented](https://open.spotify.com/track/0kWw3OcrPPHBIp7NMKGYYA) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [augmented](https://open.spotify.com/album/4lsdBjdxe192HtGw93Je4p) | 3:39 |
-| 17 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 |
-| 18 | [Parasite](https://open.spotify.com/track/30K7aglIX7OcAN8AOtUtdi) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [Parasite](https://open.spotify.com/album/0lNMiKTRk6If56xgUN4fMG) | 3:26 |
-| 19 | [YEAR OF THE RAT](https://open.spotify.com/track/3gF64oRdu5O5m5Eucx4JY1) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [YEAR OF THE RAT](https://open.spotify.com/album/6OA7lLwuUQacTmqqYtrRJB) | 3:12 |
-| 20 | [Best Of Luck](https://open.spotify.com/track/7kw2xdUJ9oTyLogUu02grR) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [The Ugly Side Of Me](https://open.spotify.com/album/2LiI9IglMpdWBRTMAQmDug) | 3:06 |
-| 21 | [SERPENT](https://open.spotify.com/track/5tjFugm10Ox0kY0K5R6WXz) | [Memory of a Melody](https://open.spotify.com/artist/7MUx5uHwpNCLJzLBhkuKbP) | [SERPENT](https://open.spotify.com/album/53pzle9Lj0DMbSpXaRR07m) | 3:45 |
-| 22 | [University Telephone Hotline](https://open.spotify.com/track/4fUdJJKEs8yFYlfCWUBvcl) | [Rivilin](https://open.spotify.com/artist/3Zx6YOsYHf5uj5xvnNhhgL) | [AND SO THE AGONY BEGAN](https://open.spotify.com/album/1MwHwW4fxDRdJoXzihH4hr) | 3:42 |
-| 23 | [Neo Paris](https://open.spotify.com/track/49wrKDHWJDocIy3AQ8Hq3B) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Neo Paris](https://open.spotify.com/album/0wWpqyXOqbAzNbI9xtb6he) | 3:21 |
-| 24 | [thank god](https://open.spotify.com/track/2KLFqdTAaqCm4eFZP2TXeo) | [Mad Kelly](https://open.spotify.com/artist/6ztTQK1luCxwidQqZuFhJj) | [the deconstruction of everything](https://open.spotify.com/album/2mo5DpEjQ9ilEcstya4eW3) | 3:21 |
-| 25 | [TONGUES](https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [TONGUES](https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy) | 2:51 |
-| 26 | [Low](https://open.spotify.com/track/6pSoPfKn9nK4bdFb6cjWXy) | [Last Hounds](https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7) | [Growing Pains](https://open.spotify.com/album/0fvjndxPn7XXwhX9TpCt6H) | 3:23 |
-| 27 | [DYING SUN](https://open.spotify.com/track/1loAa1QPNjuz04PErY4Evx) | [Vile Mana](https://open.spotify.com/artist/5OS3tyU5PSf3i3rEx1cw3m), [PVNKSTXRNATION](https://open.spotify.com/artist/73FoUBcxkox059Nc74Zzes), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4) | [DYING SUN](https://open.spotify.com/album/4FQyXSIcLk0qRFWduYiNCj) | 3:11 |
-| 28 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 |
+| 15 | [as fate undoes](https://open.spotify.com/track/2FStd7vyOGEECVwV2oXUjr) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [as fate undoes](https://open.spotify.com/album/0ItS572mokRcdscHNWKxjT) | 3:49 |
+| 16 | [DATURA](https://open.spotify.com/track/2bLcPqkcPW1r4jkaWbh1sv) | [DEMATERIALIZE](https://open.spotify.com/artist/5v3BFxzA17aNgLGha3Lb2v), [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC) | [DATURA](https://open.spotify.com/album/2FpvRXZ6NwWmaPSHXhYXGt) | 2:42 |
+| 17 | [augmented](https://open.spotify.com/track/0kWw3OcrPPHBIp7NMKGYYA) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [augmented](https://open.spotify.com/album/4lsdBjdxe192HtGw93Je4p) | 3:39 |
+| 18 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 |
+| 19 | [Parasite](https://open.spotify.com/track/30K7aglIX7OcAN8AOtUtdi) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [Parasite](https://open.spotify.com/album/0lNMiKTRk6If56xgUN4fMG) | 3:26 |
+| 20 | [YEAR OF THE RAT](https://open.spotify.com/track/3gF64oRdu5O5m5Eucx4JY1) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [YEAR OF THE RAT](https://open.spotify.com/album/6OA7lLwuUQacTmqqYtrRJB) | 3:12 |
+| 21 | [Best Of Luck](https://open.spotify.com/track/7kw2xdUJ9oTyLogUu02grR) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [The Ugly Side Of Me](https://open.spotify.com/album/2LiI9IglMpdWBRTMAQmDug) | 3:06 |
+| 22 | [SERPENT](https://open.spotify.com/track/5tjFugm10Ox0kY0K5R6WXz) | [Memory of a Melody](https://open.spotify.com/artist/7MUx5uHwpNCLJzLBhkuKbP) | [SERPENT](https://open.spotify.com/album/53pzle9Lj0DMbSpXaRR07m) | 3:45 |
+| 23 | [University Telephone Hotline](https://open.spotify.com/track/4fUdJJKEs8yFYlfCWUBvcl) | [Rivilin](https://open.spotify.com/artist/3Zx6YOsYHf5uj5xvnNhhgL) | [AND SO THE AGONY BEGAN](https://open.spotify.com/album/1MwHwW4fxDRdJoXzihH4hr) | 3:42 |
+| 24 | [Neo Paris](https://open.spotify.com/track/49wrKDHWJDocIy3AQ8Hq3B) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Neo Paris](https://open.spotify.com/album/0wWpqyXOqbAzNbI9xtb6he) | 3:21 |
+| 25 | [thank god](https://open.spotify.com/track/2KLFqdTAaqCm4eFZP2TXeo) | [Mad Kelly](https://open.spotify.com/artist/6ztTQK1luCxwidQqZuFhJj) | [the deconstruction of everything](https://open.spotify.com/album/2mo5DpEjQ9ilEcstya4eW3) | 3:21 |
+| 26 | [TONGUES](https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [TONGUES](https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy) | 2:51 |
+| 27 | [Low](https://open.spotify.com/track/6pSoPfKn9nK4bdFb6cjWXy) | [Last Hounds](https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7) | [Growing Pains](https://open.spotify.com/album/0fvjndxPn7XXwhX9TpCt6H) | 3:23 |
+| 28 | [DYING SUN](https://open.spotify.com/track/1loAa1QPNjuz04PErY4Evx) | [Vile Mana](https://open.spotify.com/artist/5OS3tyU5PSf3i3rEx1cw3m), [PVNKSTXRNATION](https://open.spotify.com/artist/73FoUBcxkox059Nc74Zzes), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4) | [DYING SUN](https://open.spotify.com/album/4FQyXSIcLk0qRFWduYiNCj) | 3:11 |
 | 29 | [Caged](https://open.spotify.com/track/2ZpqEDBKQ0QfolgfvgWumY) | [bbdalena](https://open.spotify.com/artist/1Bz7JYqdlG394tjNShtqAV) | [Caged](https://open.spotify.com/album/5fHryC7OYjmx6guAgkmEJt) | 2:52 |
 | 30 | [Waste](https://open.spotify.com/track/30iioITa3fCDhbE9HzgcFC) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Waste](https://open.spotify.com/album/4SuSt4oIL53W49HUl6UuNN) | 3:35 |
 | 31 | [Malware](https://open.spotify.com/track/1lllDI2VIFmRhqbUERI0vO) | [When In Doubt](https://open.spotify.com/artist/6eZJRqL2OlpvruaVCMFaP1), [Cyberdrip$](https://open.spotify.com/artist/3FoS8RMVwPAVPfkHdeBygg) | [Malware](https://open.spotify.com/album/4QHXghOu5a2aSmGJAwNJCZ) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 74 | [Bomb.com](https://open.spotify.com/track/3LRfBx8Z1PMQEwlFIyeNAs) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bomb.com](https://open.spotify.com/album/5pBDxsLn3W3V8ZAvt1QZ1m) | 2:30 |
 | 75 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [VIIZERO7](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 |
 
-Snapshot ID: `aGJ0HgAAAACPsKg1uwwvLxjB5TcoKPz9`
+Snapshot ID: `aHmOhAAAAAD5jGcIDEAclIax5S44QMV5`

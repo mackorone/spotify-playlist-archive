@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Blue Mash
 
-1,253 songs - 3 day 3 hr 36 min
+1,254 songs - 3 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [3036](https://open.spotify.com/track/6OhKCdcuurrj5aQn9zLwfW) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [3036](https://open.spotify.com/album/76eUSTo7xPCKnXMOjWqDdX) | 1:10 | 2024-11-12 | 2025-01-22 |
 | [36.5](https://open.spotify.com/track/6Q8ck7EXxjCIT5wzdwTerF) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [36.5](https://open.spotify.com/album/2wDS684QXg1CE9PJt9D5re) | 4:28 | 2024-12-17 | 2024-12-25 |
 | [456](https://open.spotify.com/track/4HJhFTBUpvQHvfm7qjQlYZ) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [456](https://open.spotify.com/album/5Eh10wXkYJPtrP8wPQ77co) | 2:52 | 2023-11-09 | 2024-03-20 |
+| [4:00am club aim](https://open.spotify.com/track/1QrHuIVjO6rCeM2fx5KjZj) | [Adora](https://open.spotify.com/artist/6hlmeO5GSiAKHjBgZlKPmB) | [4:00am club aim](https://open.spotify.com/album/3Vs22oPXamK8KO9N9ghuzG) | 3:19 | 2025-07-17 |  |
 | [50%](https://open.spotify.com/track/5RtvjcgyI2NfATzDmExssD) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [50%](https://open.spotify.com/album/7CusFsKBwVfBIUKN1dZsni) | 4:06 | 2024-03-07 | 2024-03-31 |
 | [503](https://open.spotify.com/track/3l05XmfZjuKk50wQGdTJNW) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Futaride Itemo Hitori](https://open.spotify.com/album/4rTlZH5gYKiJjbPsoTHh9q) | 4:38 | 2024-01-18 | 2024-01-24 |
 | [8gatsu31nichi](https://open.spotify.com/track/4qxqTTfRstVeT7hC14wORo) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8gatsu31nichi](https://open.spotify.com/album/6a7cJ86ZJjhRuwtK3Me8Rv) | 3:08 | 2023-07-27 | 2023-10-18 |
@@ -962,7 +963,7 @@
 | [向日葵](https://open.spotify.com/track/7gApMTH54kCLmdFsgr7rT8) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [向日葵](https://open.spotify.com/album/3LNPXZvYpHWNHVrzO3jxHr) | 3:19 | 2023-07-27 | 2023-11-10 |
 | [君が夜](https://open.spotify.com/track/643xbfqfIM6ltW5jycXFGf) | [anewhite](https://open.spotify.com/artist/1t3Ztvll4l7XhrpkePZKfM) | [君が夜](https://open.spotify.com/album/1X502middk1MLmArlQfz1r) | 3:32 | 2024-04-23 | 2024-05-01 |
 | [君と](https://open.spotify.com/track/63WA25WfYdOGJWSKW9g2NG) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [朝露は木漏れ日に溶けて](https://open.spotify.com/album/3LfOHhwP8Uh3t9rcdcb2Tr) | 3:49 | 2024-09-10 | 2024-10-30 |
-| [君とParadiso](https://open.spotify.com/track/1xUgSvJTDmpx6ff3iesKRu) | [セブンス・ベガ](https://open.spotify.com/artist/4vTpw8jh1edDWj0ATZYgd7) | [君とParadiso](https://open.spotify.com/album/6C2JYnPf5SN2TwhanqnFWn) | 4:06 | 2025-07-08 |  |
+| [君とParadiso](https://open.spotify.com/track/1xUgSvJTDmpx6ff3iesKRu) | [セブンス・ベガ](https://open.spotify.com/artist/4vTpw8jh1edDWj0ATZYgd7) | [君とParadiso](https://open.spotify.com/album/6C2JYnPf5SN2TwhanqnFWn) | 4:06 | 2025-07-08 | 2025-07-18 |
 | [君と癖](https://open.spotify.com/track/4bpZMZWxnYc9zDejhHgjbN) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [君と癖](https://open.spotify.com/album/425Y4ywoE1Ab2GNCXWEjU7) | 3:58 | 2023-07-27 | 2024-12-18 |
 | [君にさよなら](https://open.spotify.com/track/5om7Qq6ot7zwUvv5Nxwi2p) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [君にさよなら](https://open.spotify.com/album/5tnV5FmdmPujh7fm44BbG9) | 4:19 | 2023-10-17 | 2023-10-19 |
 | [君に夢中!!](https://open.spotify.com/track/2Vu9VkTShTMN0LHhR0zGFu) | [浪漫派マシュマロ](https://open.spotify.com/artist/0Y2vXzpo1eVUcgIku1UQIn) | [君に夢中!!](https://open.spotify.com/album/5HX6NuxtG5ajeJpJB7FF5m) | 3:53 | 2024-10-15 | 2025-07-09 |

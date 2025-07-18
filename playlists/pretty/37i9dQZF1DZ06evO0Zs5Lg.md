@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,968 likes - 48 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,977 likes - 48 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 12 | [Devils Gate \(with Kevin Gates\)](https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:35 |
 | 13 | [Gone Fishin](https://open.spotify.com/track/2dps4BWM4a4Tp8QNU3NWdQ) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Pants](https://open.spotify.com/artist/3WtAzoVwx7E9AhgLkhrps4) | [Gone Fishin](https://open.spotify.com/album/10YR1HKDO5NoeiKgHjeDKH) | 1:57 |
 | 14 | [Andre The Giant](https://open.spotify.com/track/6tiDGVC8HRYf6cdVVRCjox) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:08 |
-| 15 | [Bad Time Boy \(with Zombie Juice & Meechy Darko of Flatbush Zombies\)](https://open.spotify.com/track/2evcoCb5jQhY3IKYE4IXMT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [Bad Time Boy \(with Zombie Juice & Meechy Darko of Flatbush Zombies\)](https://open.spotify.com/album/0uundV8YMao02nkQffZWWq) | 2:50 |
+| 15 | [Tarzan](https://open.spotify.com/track/4fWx8fSytpzfouffji4Y7O) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Tarzan](https://open.spotify.com/album/5NZAgySJPEh8rpAacRJ8AR) | 3:25 |
 | 16 | [Horse](https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:02 |
-| 17 | [Tarzan](https://open.spotify.com/track/4fWx8fSytpzfouffji4Y7O) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Tarzan](https://open.spotify.com/album/5NZAgySJPEh8rpAacRJ8AR) | 3:25 |
+| 17 | [Bad Time Boy \(with Zombie Juice & Meechy Darko of Flatbush Zombies\)](https://open.spotify.com/track/2evcoCb5jQhY3IKYE4IXMT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [Bad Time Boy \(with Zombie Juice & Meechy Darko of Flatbush Zombies\)](https://open.spotify.com/album/0uundV8YMao02nkQffZWWq) | 2:50 |
 | 18 | [Neighborhood \(with Krayzie Bone & Prof\)](https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [All The Colors](https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG) | 3:47 |
 | 19 | [Spellbound \(The Beginning\)](https://open.spotify.com/track/6cIprowHIA9CtkA9Bgxk7g) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:16 |
 | 20 | [Pack a Lunch \(with Redman\)](https://open.spotify.com/track/3p8PQDGkgwIhp5fyeNypgo) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 4:18 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 36 | [Standout](https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 3:44 |
 | 37 | [Whiskey](https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 2:55 |
 | 38 | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra) | 2:28 |
-| 39 | [Chitty Bang](https://open.spotify.com/track/14EUifm44d6gODebTIEDSn) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP) | [Chitty Bang](https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA) | 3:28 |
+| 39 | [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
 | 40 | [Motel](https://open.spotify.com/track/1NDvfh4tQgcXUTn033LtEe) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 3:28 |
-| 41 | [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
+| 41 | [Chitty Bang](https://open.spotify.com/track/14EUifm44d6gODebTIEDSn) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP) | [Chitty Bang](https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA) | 3:28 |
 | 42 | [Cousins](https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cashinova](https://open.spotify.com/artist/7esS6SDpFk34861XWk17kn) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:50 |
 | 43 | [Butter \(with Baby Tate\)](https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Butter \(with Baby Tate\)](https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax) | 3:47 |
 | 44 | [Permission](https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:57 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 47 | [On My Way](https://open.spotify.com/track/3In2mNIEIptPqnooOBxYcR) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 4:03 |
 | 48 | [Farout](https://open.spotify.com/track/11yDV9YCkT5hyKVc0L5Vfp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:56 |
 
-Snapshot ID: `aHWaAAAAAAB27ISKHMiRyDGR6BVFeqJp`
+Snapshot ID: `aHbrgAAAAACdDUTm2AikwuUxHLjElqFu`

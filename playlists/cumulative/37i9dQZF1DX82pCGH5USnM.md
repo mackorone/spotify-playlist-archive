@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-906 songs - 2 day 1 hr 15 min
+907 songs - 2 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Forget About It](https://open.spotify.com/track/3j1OuqbJEvfy51u6oAUjqB) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Club Highs](https://open.spotify.com/album/6L3AfoDQZVHFfVU3d2se2S) | 2:51 | 2022-12-16 |  |
 | [Fortunella](https://open.spotify.com/track/2jrkuEIxCZjB4Q8nazTCBN) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Fortunella](https://open.spotify.com/album/6caqarK76FDpmIeJmU7TMH) | 2:59 | 2023-08-11 |  |
 | [Found](https://open.spotify.com/track/43nODiD6xAhmpmygGp29uf) | [Lukas Hiraeth](https://open.spotify.com/artist/0e6m03hmu9HNYQBaeFkn8D) | [Found](https://open.spotify.com/album/4Dv3BJNRDjyD3fkKgOuR4q) | 2:28 | 2025-05-09 |  |
-| [Fountain](https://open.spotify.com/track/2mcedqPaiGiEC91COidFzf) | [shade of sienna](https://open.spotify.com/artist/20vM7cfwRhHalNHzCt5571) | [Fountain](https://open.spotify.com/album/0Ds3yUOWEC76qmqhAgId9x) | 2:41 | 2023-01-20 |  |
+| [Fountain](https://open.spotify.com/track/2mcedqPaiGiEC91COidFzf) | [shade of sienna](https://open.spotify.com/artist/20vM7cfwRhHalNHzCt5571) | [Fountain](https://open.spotify.com/album/0Ds3yUOWEC76qmqhAgId9x) | 2:41 | 2023-01-20 | 2025-07-18 |
 | [Fragaria](https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Fragaria / Deflexus](https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C) | 5:45 | 2021-11-08 | 2022-08-05 |
 | [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 | 2022-07-08 |
 | [Free](https://open.spotify.com/track/47DcKTZGe8PKTr8B64bgZM) | [DANEGIAN](https://open.spotify.com/artist/2k1h6uRnsiIMNavFowk5hc) | [Free](https://open.spotify.com/album/7uhejgr38JOpUCH43v0hkz) | 2:19 | 2021-08-20 | 2024-09-28 |
@@ -454,6 +454,7 @@
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2021-02-10 | 2022-06-24 |
 | [love and happiness](https://open.spotify.com/track/63viVwH3uWyzfoONtYltlh) | [Willjamjam](https://open.spotify.com/artist/1X1XSC1FZiz1UWKcVOVQps) | [love and happiness](https://open.spotify.com/album/7pOfg85mZnZ8mpfjLnIgqy) | 3:28 | 2023-08-18 | 2025-01-25 |
 | [Love Recycled 1](https://open.spotify.com/track/0fBzgsaU1cDoS5dFI34dSB) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Love Recycled EP](https://open.spotify.com/album/4BH7j7VQwM6V3C45tTRYj6) | 7:29 | 2021-01-27 | 2021-02-10 |
+| [Love You Better](https://open.spotify.com/track/00IIdn5ik2M1Qcjk495QBl) | [Zaytune](https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c) | [Love You Better](https://open.spotify.com/album/5DZAwGTMu7X9RdQM1ttWs7) | 2:56 | 2025-07-17 |  |
 | [lowfie](https://open.spotify.com/track/3u3osPhHe6pRdqwkxFktf1) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [lowfie](https://open.spotify.com/album/3HW3ITcip0DBM5Kr6Djc4i) | 2:19 | 2023-04-07 | 2025-06-25 |
 | [Lunar Lullaby \(mr\_slace Remix\)](https://open.spotify.com/track/3wsc7ZbIdpLrGiY62Kpvs7) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo), [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [Lunar Lullaby \(mr\_slace Remix\)](https://open.spotify.com/album/3l7unGPT6PYXB0mbjf7g0C) | 3:02 | 2020-04-03\* | 2020-12-02 |
 | [Lunar Soil](https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE) | [Basaux](https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s) | [Lunar Soil](https://open.spotify.com/album/1m5UoUNbtCwJMAIOWCDaPv) | 2:40 | 2022-01-21 |  |
@@ -809,7 +810,7 @@
 | [Telemagenta](https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ) | [Mystic Maroon](https://open.spotify.com/artist/6OZYmsIeL1bCzCEgavYXXO) | [Telemagenta](https://open.spotify.com/album/1T42FTkfEl38GaONIK8qkh) | 3:02 | 2021-11-08 | 2024-11-16 |
 | [That Something](https://open.spotify.com/track/2CyYckvlqYiw29Zw2JqYUb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Down Here with You](https://open.spotify.com/album/6WqF77ilKp8ui2RlGIYmAp) | 2:59 | 2020-04-03\* | 2021-03-25 |
 | [The Blaze](https://open.spotify.com/track/090rxvqKAGpTryUgXOZgsj) | [RaFa Orchestra](https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips) | [The Blaze](https://open.spotify.com/album/0PIVIlqxF8ktvD54vVL4T4) | 3:31 | 2020-09-09 | 2020-11-04 |
-| [The Brokers](https://open.spotify.com/track/21MHu6sVYAXJ5HCHznwVmV) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [The Brokers](https://open.spotify.com/album/0x7X776wBVBfhJnY2ZnFz5) | 3:04 | 2022-12-09 |  |
+| [The Brokers](https://open.spotify.com/track/21MHu6sVYAXJ5HCHznwVmV) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [The Brokers](https://open.spotify.com/album/0x7X776wBVBfhJnY2ZnFz5) | 3:04 | 2022-12-09 | 2025-07-18 |
 | [The C\-Train](https://open.spotify.com/track/7snKo0igv9epylzJWlQ2pZ) | [makers mask](https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9) | [The C\-Train](https://open.spotify.com/album/08vHJ2ALtKxqBJa65bHIx0) | 4:01 | 2022-01-21 | 2024-08-31 |
 | [The Expert](https://open.spotify.com/track/3CWwhdkWm7mbqZ1Jlp5Gm4) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [The Expert](https://open.spotify.com/album/0crlR6MVeqAl8veYSInbGP) | 3:00 | 2024-11-15 |  |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2021-01-15 | 2021-06-16 |

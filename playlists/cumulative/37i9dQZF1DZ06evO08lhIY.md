@@ -4,7 +4,7 @@
 
 > This is Limoblaze\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 54 min
+52 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Melody](https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Melody](https://open.spotify.com/album/5ohhAarbKDSjtPZO54IbP7) | 3:57 | 2025-07-15 |  |
 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2025-07-15 |  |
 | [No Greater Love](https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 3:40 | 2025-07-15 |  |
-| [No Weapon](https://open.spotify.com/track/3RKwd5uzFGHEeMqykGMCFA) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [No Weapon](https://open.spotify.com/album/3H1mKmeLwq1L2cLBL0eeAx) | 2:16 | 2025-07-16 |  |
+| [No Weapon](https://open.spotify.com/track/3RKwd5uzFGHEeMqykGMCFA) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [No Weapon](https://open.spotify.com/album/3H1mKmeLwq1L2cLBL0eeAx) | 2:16 | 2025-07-16 | 2025-07-18 |
+| [No Weapon](https://open.spotify.com/track/451BWzLHOOqv8ptWBoXOl2) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [116 Summer Twenty\-Five](https://open.spotify.com/album/7G2SrKvVnLOYt7mSbEqcU3) | 2:16 | 2025-07-18 |  |
 | [Okay](https://open.spotify.com/track/4ETyEblde6ir6msxLcxCzf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Okay](https://open.spotify.com/album/6orYBQIGMOfDChGKz3SJ84) | 2:35 | 2025-07-15 |  |
 | [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/6YI3KiHDnuJ2rX3cPn7MJW) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 | 2025-07-15 |  |
 | [Otua](https://open.spotify.com/track/0j7SDzXYdMozTH5uB1fgln) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Otua](https://open.spotify.com/album/1P7mBPZyfXzz0S5AxXDfMq) | 6:22 | 2025-07-15 |  |

@@ -1,13 +1,49 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: ArumtaLa",
-  "num_followers": 111573,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Societeit de Harmonie, Natasya Elvira",
+  "num_followers": 111598,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGbTTQAAAAAYXu59yGqBZb8f292wynfO",
+  "snapshot_id": "aHkyxQAAAADgbOzWELLNtLWGY2qG9fCM",
   "tracks": [
+    {
+      "added_at": "2025-07-17 17:28:37",
+      "album": {
+        "name": "Kutukan",
+        "url": "https://open.spotify.com/album/5qKeLh6rcMmviEhZXH1Ke4"
+      },
+      "artists": [
+        {
+          "name": "Societeit de Harmonie",
+          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
+        },
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        }
+      ],
+      "duration_ms": 202300,
+      "name": "Kutukan",
+      "url": "https://open.spotify.com/track/5n0e7BD61fOxEK4XwwBOjW"
+    },
+    {
+      "added_at": "2025-07-17 17:28:37",
+      "album": {
+        "name": "Keraguan",
+        "url": "https://open.spotify.com/album/3Pw7U6L8sJapL9CZv71L8C"
+      },
+      "artists": [
+        {
+          "name": "Nissi Wardoyo",
+          "url": "https://open.spotify.com/artist/1aBvJFC9T3hhPbfqcV6FYm"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "Keraguan",
+      "url": "https://open.spotify.com/track/73H6kf1anMerfRofxJ8nQk"
+    },
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
@@ -23,6 +59,42 @@
       "duration_ms": 194792,
       "name": "Orang Jakarta",
       "url": "https://open.spotify.com/track/69Ar7P0Vt5KHtZlcKET7SZ"
+    },
+    {
+      "added_at": "2025-07-17 17:28:37",
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/4Hb05ZxIwiPsWUSPqA8WI3"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ong Trio",
+          "url": "https://open.spotify.com/artist/4kkP9EmggHO2TIDcSOOZI4"
+        }
+      ],
+      "duration_ms": 300999,
+      "name": "World : Against, Changed, Educate",
+      "url": "https://open.spotify.com/track/6B1tdAqKADoEdn9Y4q9ulj"
+    },
+    {
+      "added_at": "2025-07-17 17:28:37",
+      "album": {
+        "name": "As Falsas",
+        "url": "https://open.spotify.com/album/1wXWG6BuyyS9oQMHMvSg9t"
+      },
+      "artists": [
+        {
+          "name": "Alahad",
+          "url": "https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt"
+        },
+        {
+          "name": "Shinjoko",
+          "url": "https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i"
+        }
+      ],
+      "duration_ms": 237625,
+      "name": "As Falsas",
+      "url": "https://open.spotify.com/track/0qPLO41igft7jd9NzSFOKd"
     },
     {
       "added_at": "2025-06-26 17:47:30",
@@ -691,22 +763,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Confide",
-        "url": "https://open.spotify.com/album/4TOZM8lyt2QcpetbyTk0QF"
-      },
-      "artists": [
-        {
-          "name": "Rifki Soeria",
-          "url": "https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT"
-        }
-      ],
-      "duration_ms": 158378,
-      "name": "Confide",
-      "url": "https://open.spotify.com/track/0pXgCM5ieW2462A3MGkbJc"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Books Of Life",
         "url": "https://open.spotify.com/album/6A9exPt2uTUaXcdHcav4YG"
       },
@@ -931,22 +987,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Koji",
-        "url": "https://open.spotify.com/album/5oEMwd01BroAyojnSFAaqG"
-      },
-      "artists": [
-        {
-          "name": "Littlefingers",
-          "url": "https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU"
-        }
-      ],
-      "duration_ms": 228720,
-      "name": "Koji",
-      "url": "https://open.spotify.com/track/3gLJyeqR4Rwu3xJPlI5ylW"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "My Funny Guy",
         "url": "https://open.spotify.com/album/7IIr2aHjaqAE0JQOxfePvy"
       },
@@ -999,22 +1039,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "The Moment with You",
-        "url": "https://open.spotify.com/album/3CJbn7rPgzZo0MljADYFPL"
-      },
-      "artists": [
-        {
-          "name": "Alsa",
-          "url": "https://open.spotify.com/artist/6dL42hXSnnoaGCn77eumjF"
-        }
-      ],
-      "duration_ms": 298608,
-      "name": "The Moment With You",
-      "url": "https://open.spotify.com/track/3cG6irfHaVbQfEZEShv9V2"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Perjalanan",
         "url": "https://open.spotify.com/album/0P74BQZP32tDrGbYaHHeeb"
       },
@@ -1047,46 +1071,6 @@
       "duration_ms": 247250,
       "name": "Primadona",
       "url": "https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Wanna Do",
-        "url": "https://open.spotify.com/album/09xopQN6jbRdCZdgywTJ10"
-      },
-      "artists": [
-        {
-          "name": "Jordy Waelauruw",
-          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
-        },
-        {
-          "name": "Farrel Hilal",
-          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
-        }
-      ],
-      "duration_ms": 197219,
-      "name": "Wanna Do",
-      "url": "https://open.spotify.com/track/5orukLs2BbGTNROGzqviF1"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Sign of Love",
-        "url": "https://open.spotify.com/album/2HNChhmOY2HldqTW1lwh2g"
-      },
-      "artists": [
-        {
-          "name": "Barry Likumahuwa",
-          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
-        },
-        {
-          "name": "The Rhythm Service",
-          "url": "https://open.spotify.com/artist/4E9QPvg1uafJ5yak7f5019"
-        }
-      ],
-      "duration_ms": 204900,
-      "name": "Sign of Love",
-      "url": "https://open.spotify.com/track/6e2VzhU88re1jusfK8UeHp"
     },
     {
       "added_at": "2025-06-26 17:47:30",
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Prof Jo",
-        "url": "https://open.spotify.com/album/4FlqZJ6BerAFaiaSEbqtDW"
-      },
-      "artists": [
-        {
-          "name": "Jo Soegono",
-          "url": "https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p"
-        }
-      ],
-      "duration_ms": 198461,
-      "name": "Hujan Deras",
-      "url": "https://open.spotify.com/track/117LMQ1UgtJvLzdqoddYn8"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Forever Last",
         "url": "https://open.spotify.com/album/4xNCUM9mI8Err4bJ9Dsn9r"
       },
@@ -1259,22 +1227,6 @@
       "duration_ms": 166597,
       "name": "Healing Dreams",
       "url": "https://open.spotify.com/track/2OvD7nNSfeAeP5TIkpFlWW"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Do the Math",
-        "url": "https://open.spotify.com/album/52hde9jGIIa7xrXauiw6FX"
-      },
-      "artists": [
-        {
-          "name": "Indra Lesmana",
-          "url": "https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Do the Math",
-      "url": "https://open.spotify.com/track/7dOa6cIePhrDAuYV4CjJo2"
     },
     {
       "added_at": "2025-06-26 17:47:30",
@@ -1523,26 +1475,6 @@
       "duration_ms": 276052,
       "name": "Entah",
       "url": "https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Can Good Things Last Forever?",
-        "url": "https://open.spotify.com/album/73536AVZgGnJQOCrfgCuve"
-      },
-      "artists": [
-        {
-          "name": "Littlefingers",
-          "url": "https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU"
-        },
-        {
-          "name": "Natania Karin",
-          "url": "https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d"
-        }
-      ],
-      "duration_ms": 322543,
-      "name": "Can Good Things Last Forever?",
-      "url": "https://open.spotify.com/track/6MWw5eGSjfkNLmGTmMqTPn"
     },
     {
       "added_at": "2025-06-26 17:47:30",

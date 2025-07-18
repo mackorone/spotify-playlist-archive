@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 68541,
+  "num_followers": 68657,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAADoSPA5W8NYi8qs2VL6qM38",
+  "snapshot_id": "aHbrgAAAAAC5I55oQGQC/UCii7WjAROj",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Regreso A Tus Brazos",
-        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 164666,
-      "name": "Mi Coraz\u00f3n Te Quiere",
-      "url": "https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 187062,
       "name": "El Hijo Del Pueblo",
       "url": "https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Regreso A Tus Brazos",
+        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "Mi Coraz\u00f3n Te Quiere",
+      "url": "https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "El Borrego",
-      "url": "https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Concedeme",
         "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 146533,
       "name": "Amargo Dolor",
       "url": "https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "El Borrego",
+      "url": "https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm"
     },
     {
       "added_at": null,

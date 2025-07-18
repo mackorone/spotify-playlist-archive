@@ -1463,6 +1463,32 @@
     },
     {
       "album": {
+        "name": "Palestrina: Missa Papae Marcelli",
+        "url": "https://open.spotify.com/album/6tu14dYvtoshR8cOlT2JOZ"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Pierluigi da Palestrina",
+          "url": "https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem"
+        },
+        {
+          "name": "Oxford Camerata",
+          "url": "https://open.spotify.com/artist/1r5Se2Ts0fmLzFreCTOy2I"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270080,
+      "name": "Masses, Book 2, Missa Papae Marcelli: Kyrie",
+      "url": "https://open.spotify.com/track/46JsxiI6tGMzipdW6CY40H"
+    },
+    {
+      "album": {
         "name": "Solitude: Mendelssohn, Weinberg & Shostakovich",
         "url": "https://open.spotify.com/album/5Pi96wh8L3A7pPsRMaPlmz"
       },
@@ -1668,32 +1694,6 @@
       "duration_ms": 206826,
       "name": "Missa Nunca Fue Pena Major: V. Agnus Dei",
       "url": "https://open.spotify.com/track/2d4jajdBMxlAWXQ7TUjBXd"
-    },
-    {
-      "album": {
-        "name": "Palestrina: Missa Papae Marcelli",
-        "url": "https://open.spotify.com/album/6tu14dYvtoshR8cOlT2JOZ"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Pierluigi da Palestrina",
-          "url": "https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem"
-        },
-        {
-          "name": "Oxford Camerata",
-          "url": "https://open.spotify.com/artist/1r5Se2Ts0fmLzFreCTOy2I"
-        },
-        {
-          "name": "Jeremy Summerly",
-          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
-        }
-      ],
-      "date_added": "2022-12-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 270080,
-      "name": "Missa Papae Marcelli: Kyrie",
-      "url": "https://open.spotify.com/track/46JsxiI6tGMzipdW6CY40H"
     },
     {
       "album": {
@@ -2708,7 +2708,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 299306,
-      "name": "This is the record of John",
+      "name": "This Is the record of John",
       "url": "https://open.spotify.com/track/6RBrvlIDz6AhFs0qkTPriB"
     },
     {

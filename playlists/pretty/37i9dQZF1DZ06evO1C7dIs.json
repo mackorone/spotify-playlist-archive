@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 259553,
+  "num_followers": 259572,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAACgA9oke00jGYkmApBbmezl",
+  "snapshot_id": "aHbrgAAAAABWistWduJON1opGU9zHy+6",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 273573,
-      "name": "The Day Of...",
-      "url": "https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imaginaerum",
         "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 307533,
       "name": "I Want My Tears Back",
       "url": "https://open.spotify.com/track/3HCzXf0lNpekSqsGBcGrCd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yesterwynde",
+        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "The Day Of...",
+      "url": "https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 386267,
-      "name": "Spider Silk",
-      "url": "https://open.spotify.com/track/2nV6SKSccjYc8SB4hUFUmJ"
+      "duration_ms": 337653,
+      "name": "The Children Of 'Ata",
+      "url": "https://open.spotify.com/track/0TEycmMBaj7UnZffKlTYkW"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 337653,
-      "name": "The Children Of 'Ata",
-      "url": "https://open.spotify.com/track/0TEycmMBaj7UnZffKlTYkW"
+      "duration_ms": 386267,
+      "name": "Spider Silk",
+      "url": "https://open.spotify.com/track/2nV6SKSccjYc8SB4hUFUmJ"
     },
     {
       "added_at": null,

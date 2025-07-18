@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-386 songs - 18 hr 35 min
+388 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-04-15 | 2023-05-27 |
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2022-04-15 | 2025-06-19 |
 | [afterglow effect](https://open.spotify.com/track/6vmRkqq86FQdR04sQMx9nW) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [afterglow effect](https://open.spotify.com/album/65CDKWtWFYpG7EEgB5Wzzb) | 2:46 | 2025-06-18 |  |
-| [Afterhours](https://open.spotify.com/track/53FDaPNsBeM3G7U2wsML7V) | [Distoboy](https://open.spotify.com/artist/5zSSGSjrk520cIm34tIVl9) | [Afterhours](https://open.spotify.com/album/5nADnmAxQlymDe79TktjB0) | 2:10 | 2023-11-24 |  |
+| [Afterhours](https://open.spotify.com/track/53FDaPNsBeM3G7U2wsML7V) | [Distoboy](https://open.spotify.com/artist/5zSSGSjrk520cIm34tIVl9) | [Afterhours](https://open.spotify.com/album/5nADnmAxQlymDe79TktjB0) | 2:10 | 2023-11-24 | 2025-07-18 |
 | [Aganu](https://open.spotify.com/track/1jHnCxpBLbjRpvnBKQv0Wn) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Aganu](https://open.spotify.com/album/6mNexagJqu1jK84JjxYEYD) | 2:55 | 2022-11-25 | 2025-07-02 |
 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 | 2022-04-15 | 2024-11-08 |
 | [All Good](https://open.spotify.com/track/6SNmgTxRrgIcoZGkfHefTR) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [All Good](https://open.spotify.com/album/20M62reRZt3OEtj2VHUZ28) | 2:54 | 2024-07-14 |  |
@@ -85,8 +85,9 @@
 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 | 2022-04-15 |  |
 | [Culpa](https://open.spotify.com/track/0D8nhgg7DIKd4BUdQnifTX) | [Mateo Moreira](https://open.spotify.com/artist/0dpf4Wx6EBL7xYeVp0czXa) | [Culpa](https://open.spotify.com/album/1TNqQcjinzcKieG7fICjur) | 3:04 | 2022-04-15 | 2022-06-10 |
 | [Daiane's Samba](https://open.spotify.com/track/5SQTB8jJNdMHKQslwg1GX2) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Daiane's Samba](https://open.spotify.com/album/5BnKfRcJNRnbWvYTiTy3vU) | 2:43 | 2022-04-15 | 2023-11-25 |
-| [Daily Affirmations](https://open.spotify.com/track/0R5ZGlaHhl7bRdGHK3wy0E) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [With My Feet On The Ground](https://open.spotify.com/album/36irUhsNlmOTWa4A752d8q) | 2:43 | 2023-09-22 |  |
+| [Daily Affirmations](https://open.spotify.com/track/0R5ZGlaHhl7bRdGHK3wy0E) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [With My Feet On The Ground](https://open.spotify.com/album/36irUhsNlmOTWa4A752d8q) | 2:43 | 2023-09-22 | 2025-07-18 |
 | [Darling](https://open.spotify.com/track/5LJEye2tZ0fW693oTumBnW) | [Pello Esso](https://open.spotify.com/artist/4Bxpz0ttb5aP5b7rIc81J6) | [Darling](https://open.spotify.com/album/03fSsNx7MHMmjNELccETjR) | 2:41 | 2024-12-06 |  |
+| [Dash](https://open.spotify.com/track/0nuCTe3yGzJUqfIMeVrzp1) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Dash](https://open.spotify.com/album/6ngt2vTTClsJ2BIkLvAbqh) | 2:25 | 2025-07-17 |  |
 | [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 | 2023-01-06 |  |
 | [Daylight](https://open.spotify.com/track/5qTcAB03j0iQ9EdetKkWq7) | [Azra Peak](https://open.spotify.com/artist/2PbtEKiQ3YnlZisllEixZa) | [Daylight](https://open.spotify.com/album/6gPxIJxaol8RfbFZqDebY0) | 2:18 | 2025-07-08 |  |
 | [days of darkness](https://open.spotify.com/track/6jxQtWleRsvLsomeSX7GEN) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [days of darkness](https://open.spotify.com/album/5kTOeCjQTdTiOxfPXLIbQh) | 2:51 | 2022-06-17 | 2023-02-18 |
@@ -172,6 +173,7 @@
 | [Hugger](https://open.spotify.com/track/3ux4JHhP6jaPtQr7xpNYZw) | [Zazzo](https://open.spotify.com/artist/0IqdMYI4CDJgVZiioR7t3k) | [Hugger](https://open.spotify.com/album/5dhlkP3Qp3SxrD4exO5G4S) | 2:15 | 2022-10-28 |  |
 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 | 2022-04-15 | 2023-06-24 |
 | [I Can Be Irresistible](https://open.spotify.com/track/60mst0uGpdKZUHQhrPin5N) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [I Can Be Irresistible](https://open.spotify.com/album/1OezSXMoxjcWxAALAtOwqz) | 3:12 | 2022-04-15 |  |
+| [I Got You](https://open.spotify.com/track/1EdwWmhxpktSBKIV6J4wUJ) | [Sean Rivers](https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R) | [I Got You](https://open.spotify.com/album/0c9MPsA7YYy54S0byo7M7P) | 2:37 | 2025-07-17 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-04-15 |  |
 | [Ibiza Nights](https://open.spotify.com/track/0fXohwmo1Ti6D2gZjGRbef) | [Sean Rivers](https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R) | [Ibiza Nights](https://open.spotify.com/album/3SNkrBppsRmqBRfwFBHg3R) | 2:37 | 2024-12-20 |  |
 | [Ice Cream Dream](https://open.spotify.com/track/6Fsp4U6ODPNh3fpnlHkurU) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [Ice Cream Dream](https://open.spotify.com/album/7d6S8nuHDayP5grQMttMyg) | 2:42 | 2025-03-21 |  |

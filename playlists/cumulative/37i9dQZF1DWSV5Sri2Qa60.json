@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Keo",
+  "description": "Where your new favourite bands are discovered. Cover: Pebbledash",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 252320,
       "name": "Building Roads",
       "url": "https://open.spotify.com/track/4xjZOMTWj9ZsfZKaxCxlaD"
@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Bury Me Not",
+        "url": "https://open.spotify.com/album/4zfAwgeHdqOC5zQT6fd7lP"
+      },
+      "artists": [
+        {
+          "name": "Poor Creature",
+          "url": "https://open.spotify.com/artist/3mtqHrUS1BAX0hIvwiU0X0"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327000,
+      "name": "Bury Me Not",
+      "url": "https://open.spotify.com/track/5OG5tAPqIskd9z3ZP1biUK"
+    },
+    {
+      "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/6hoc9hWzAKyCzOL1TYkkgd"
       },
@@ -452,6 +470,24 @@
       "duration_ms": 218537,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/1byfGV9rZiQ6JUWusNlFSm"
+    },
+    {
+      "album": {
+        "name": "Cartography",
+        "url": "https://open.spotify.com/album/64JipGp2nASRjpEsgfyoHz"
+      },
+      "artists": [
+        {
+          "name": "Pebbledash",
+          "url": "https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247849,
+      "name": "Cartography",
+      "url": "https://open.spotify.com/track/0DcaDx6b5ycTUjIlWrfQmJ"
     },
     {
       "album": {
@@ -772,7 +808,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 217496,
       "name": "Crashing Cars",
       "url": "https://open.spotify.com/track/2nXaNugCLSPrAOz52F6MCI"
@@ -977,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Spiralic",
+        "url": "https://open.spotify.com/album/4jvLHICHqUvvRm6L9OOuMm"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339023,
+      "name": "Dogstar",
+      "url": "https://open.spotify.com/track/2AyEU2UDBgWaaGNgnSY4Uo"
+    },
+    {
+      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/3fs8sgCGTX3vs9JmyFYCBS"
       },
@@ -1010,6 +1064,24 @@
       "duration_ms": 256493,
       "name": "Driftin",
       "url": "https://open.spotify.com/track/7n6yD2gOCqlxawjUBaGcGD"
+    },
+    {
+      "album": {
+        "name": "DUD",
+        "url": "https://open.spotify.com/album/2i2ZDjUHLMDMtYWrazDaFr"
+      },
+      "artists": [
+        {
+          "name": "teethin",
+          "url": "https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211627,
+      "name": "DUD",
+      "url": "https://open.spotify.com/track/3TDYyOyKMZqGlk2OOZ1nvh"
     },
     {
       "album": {
@@ -1186,7 +1258,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 171304,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/3wf1Y5esLh48E0QOwaPp8j"
@@ -1348,7 +1420,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 194909,
       "name": "Get 2 Me",
       "url": "https://open.spotify.com/track/4nyQO3FVAI63h5a0HMgY9w"
@@ -1384,7 +1456,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 226975,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6rPmWz9aoFcSqYMoxeMwuD"
@@ -1402,7 +1474,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 216428,
       "name": "Ghost of a Tree",
       "url": "https://open.spotify.com/track/7IHyQ7gsDMwhhFwXuKrk9n"
@@ -1805,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "I Was Here",
+        "url": "https://open.spotify.com/album/27pZBFE96hTJNPctbRQMLm"
+      },
+      "artists": [
+        {
+          "name": "Green Gardens",
+          "url": "https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218433,
+      "name": "I Was Here",
+      "url": "https://open.spotify.com/track/0sh49tZQQG9Qsd46dbh2UY"
+    },
+    {
+      "album": {
         "name": "I'm Losing It",
         "url": "https://open.spotify.com/album/1iO532J1AahkCofCiD4ImL"
       },
@@ -1877,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "In The Paddies",
+        "url": "https://open.spotify.com/album/0NnkpYQwU6sztdUAiPn6mS"
+      },
+      "artists": [
+        {
+          "name": "Humour",
+          "url": "https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224169,
+      "name": "In the Paddies",
+      "url": "https://open.spotify.com/track/6JfwBCaXrQ6nwwAQn1scug"
+    },
+    {
+      "album": {
         "name": "IN TIME",
         "url": "https://open.spotify.com/album/04UIutQtuDAwgu2ldb3Exv"
       },
@@ -1910,6 +2018,24 @@
       "duration_ms": 213520,
       "name": "Innocence of Youth",
       "url": "https://open.spotify.com/track/4Gms5mWx5dWNjgCTzBFyRN"
+    },
+    {
+      "album": {
+        "name": "It Surely Has Been Hell",
+        "url": "https://open.spotify.com/album/6u9ciTuEOdShJxLq3KYW3p"
+      },
+      "artists": [
+        {
+          "name": "PROJECTOR",
+          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171346,
+      "name": "It Surely Has Been Hell",
+      "url": "https://open.spotify.com/track/1N4P7tykakt4sFdBF6CUzK"
     },
     {
       "album": {
@@ -2086,7 +2212,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 173984,
       "name": "Kraut",
       "url": "https://open.spotify.com/track/29pzCVABjlBFfMLlgg3AKd"
@@ -2158,7 +2284,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 134571,
       "name": "Lil' Horse",
       "url": "https://open.spotify.com/track/6rmGnb6OgWimjTZSlvHY50"
@@ -2468,10 +2594,28 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 262281,
       "name": "No Ghost!",
       "url": "https://open.spotify.com/track/44d8FyZxtpiio4D0KviGzF"
+    },
+    {
+      "album": {
+        "name": "Not Ideal",
+        "url": "https://open.spotify.com/album/66N0dtqwchNl09eMvKpOR3"
+      },
+      "artists": [
+        {
+          "name": "M\u00ean An Tol",
+          "url": "https://open.spotify.com/artist/4CFcHsL8xqUWQC4vIZWPOs"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186640,
+      "name": "Not Ideal",
+      "url": "https://open.spotify.com/track/0v4nAgyFbCbkztikjnhtjR"
     },
     {
       "album": {
@@ -2612,7 +2756,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 156536,
       "name": "pitpony",
       "url": "https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc"
@@ -2778,6 +2922,24 @@
       "duration_ms": 188120,
       "name": "rosie",
       "url": "https://open.spotify.com/track/00xit1IKzGivuMXn6FZNUw"
+    },
+    {
+      "album": {
+        "name": "Ruminate",
+        "url": "https://open.spotify.com/album/7DGL058t2VrOUa7et3IZdh"
+      },
+      "artists": [
+        {
+          "name": "Big Sleep",
+          "url": "https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181364,
+      "name": "Ruminate",
+      "url": "https://open.spotify.com/track/6odyiCWTis0oVok60fdogG"
     },
     {
       "album": {
@@ -2972,7 +3134,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 260173,
       "name": "Skins",
       "url": "https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT"
@@ -3098,7 +3260,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 117463,
       "name": "Stroom",
       "url": "https://open.spotify.com/track/2c2x2KQdf8vTi0WlENNHXQ"
@@ -3465,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "this part of town",
+        "url": "https://open.spotify.com/album/3BHsFJ8AU0g1XHZOt3UDTk"
+      },
+      "artists": [
+        {
+          "name": "better joy",
+          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213572,
+      "name": "this part of town",
+      "url": "https://open.spotify.com/track/1StTcAedkB20mrkmKePtmi"
+    },
+    {
+      "album": {
         "name": "Thorn",
         "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
       },
@@ -3764,7 +3944,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 192982,
       "name": "WHITE NOISE",
       "url": "https://open.spotify.com/track/5HT8TOYAhw3sfvqZowrVMH"
@@ -3782,7 +3962,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 182680,
       "name": "Why",
       "url": "https://open.spotify.com/track/3ChcaaT5urGKwbNk6Xr8ko"

@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Odeal
+> The best voices in R&B\. Cover: Kokoroko
 
-483 songs - 1 day 1 hr 32 min
+484 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [dangerous game](https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [dangerous game](https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj) | 3:50 | 2024-05-31 | 2025-03-21 |
 | [defiance](https://open.spotify.com/track/7HSuDocrUEMvTa20ocNEWO) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [defiance](https://open.spotify.com/album/5qt9UjTYqbue5NfngVWD8O) | 4:06 | 2024-10-10 | 2025-04-04 |
 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2023-02-23 | 2023-05-15 |
-| [DELUSIONAL](https://open.spotify.com/track/6ADF4OFhbq6TGG6j45QQh9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [DELUSIONAL](https://open.spotify.com/album/74wQ27Cpf2EWBkkAVfEgtE) | 1:58 | 2025-03-21 |  |
+| [DELUSIONAL](https://open.spotify.com/track/6ADF4OFhbq6TGG6j45QQh9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [DELUSIONAL](https://open.spotify.com/album/74wQ27Cpf2EWBkkAVfEgtE) | 1:58 | 2025-03-21 | 2025-07-18 |
 | [Demon Time \(with Ari Lennox\) \- Remix](https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Demon Time \(with Ari Lennox\) \[Remix\]](https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b) | 3:40 | 2023-05-14 | 2023-11-17 |
 | [Deus Deus](https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Deus Deus](https://open.spotify.com/album/24nI20pGu764BE49WzxMqn) | 4:03 | 2025-06-12 |  |
 | [Different Ways](https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Different Ways](https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z) | 3:28 | 2025-01-24 |  |
@@ -449,6 +449,7 @@
 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 | 2025-05-22 |  |
 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 |  |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 |  |
+| [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 | 2025-07-17 |  |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-19 | 2025-01-31 |
 | [Try and fit in](https://open.spotify.com/track/73zDIHFRM1Uw0wvH4ck35c) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 1:56 | 2023-09-29 | 2024-01-26 |
 | [Try Peace...](https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Try Peace...](https://open.spotify.com/album/3qThDnd30yCBWBmpu4nE8Y) | 3:40 | 2023-02-23 | 2023-05-15 |

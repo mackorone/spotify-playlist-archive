@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 575,
+  "num_followers": 604,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAACv+LXmrIiRE0BpAg92RiDt",
+  "snapshot_id": "aHbrgAAAAACXL9tDKA+T2ycqWmHZRUbS",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Vas A Quedarte",
+      "url": "https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 207333,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/3rWWF7X1dmciBHxZ9Yizs1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Vas A Quedarte",
-      "url": "https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I"
     },
     {
       "added_at": null,

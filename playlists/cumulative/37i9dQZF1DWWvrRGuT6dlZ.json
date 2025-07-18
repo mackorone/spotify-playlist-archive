@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Celebrating 10 years of  unearthing your new favourite artists. Cover:Last Minute.  Artwork: Isu Kim.",
+  "description": "Celebrating 10 years of  unearthing your new favourite artists. Cover: gels.  Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 192000,
       "name": "ADIMAI",
       "url": "https://open.spotify.com/track/4fJq3KI3Wa0kxVyY4huDrZ"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 166000,
       "name": "afterglow",
       "url": "https://open.spotify.com/track/2nM7MHQDub8jbRVmORzdoj"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 240923,
       "name": "Aku Bukan Narsisis (Piano Version) - From \"Dia Bukan Syurga\"",
       "url": "https://open.spotify.com/track/10nXhBNQrV0KDJVPWw2naP"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 220588,
       "name": "Aku Dicuba",
       "url": "https://open.spotify.com/track/4NhB266X2sp6VBdGlngxCY"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 191333,
       "name": "Arigatou",
       "url": "https://open.spotify.com/track/1OJolCtzqOq6cuo0KgoBCm"
@@ -1356,6 +1356,24 @@
       "duration_ms": 152500,
       "name": "AT A LOSS",
       "url": "https://open.spotify.com/track/26cEYoM6Lk6S9ehFpikZ7Q"
+    },
+    {
+      "album": {
+        "name": "Audemars",
+        "url": "https://open.spotify.com/album/0NPP6E1U9wQAiql89e2cDk"
+      },
+      "artists": [
+        {
+          "name": "JustJaewin",
+          "url": "https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130222,
+      "name": "Audemars",
+      "url": "https://open.spotify.com/track/5ClA9rvIMnl9bTioaP68N4"
     },
     {
       "album": {
@@ -1559,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Baik Chow Dulu",
+        "url": "https://open.spotify.com/album/2TjgjaojArfO5H6PAZ8adM"
+      },
+      "artists": [
+        {
+          "name": "Atta Rumnan",
+          "url": "https://open.spotify.com/artist/6pIpAU7IZkSlCGQAgT3zzW"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207631,
+      "name": "Baik Chow Dulu",
+      "url": "https://open.spotify.com/track/2MgyzOGEf1HnA46VSNfYzl"
+    },
+    {
+      "album": {
         "name": "baltimore",
         "url": "https://open.spotify.com/album/7rcvOnx1ucyswGYtRhAVOe"
       },
@@ -1588,7 +1624,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 184320,
       "name": "Basstamam",
       "url": "https://open.spotify.com/track/16s058nbVmbop2Uwrue65n"
@@ -1700,7 +1736,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 211305,
       "name": "Bebas (OST Korban 2)",
       "url": "https://open.spotify.com/track/4tytO8T6xbK4rycm267Xel"
@@ -2304,6 +2340,24 @@
       "duration_ms": 133548,
       "name": "BOUJEE",
       "url": "https://open.spotify.com/track/4JUfa1Xcbl7mWXGX7bRQLv"
+    },
+    {
+      "album": {
+        "name": "boys boys boys",
+        "url": "https://open.spotify.com/album/5FINeacBgaAQiWIm9A55AS"
+      },
+      "artists": [
+        {
+          "name": "Hoji",
+          "url": "https://open.spotify.com/artist/6ojkoqqD7ClYPzRlHVBt0O"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216062,
+      "name": "boys boys boys",
+      "url": "https://open.spotify.com/track/27SBws5YqP2zXEx7FEMOJG"
     },
     {
       "album": {
@@ -3356,6 +3410,24 @@
       "duration_ms": 265397,
       "name": "Cinta Tiga Segi",
       "url": "https://open.spotify.com/track/7gMNSzut9R8uzLCknycahM"
+    },
+    {
+      "album": {
+        "name": "Cinta Ya Ya Ya",
+        "url": "https://open.spotify.com/album/14xOAkmIEmFEiRRzYiPQfl"
+      },
+      "artists": [
+        {
+          "name": "Ameerais",
+          "url": "https://open.spotify.com/artist/24r3pnfIKGMlmZprbeLtKs"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141354,
+      "name": "Cinta Ya Ya Ya",
+      "url": "https://open.spotify.com/track/5fDuRBezDRoBgvwwhvEPQL"
     },
     {
       "album": {
@@ -4922,7 +4994,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 222330,
       "name": "Dog song",
       "url": "https://open.spotify.com/track/4K8TWhnPKU4jZImnM9pxbe"
@@ -6791,6 +6863,24 @@
     },
     {
       "album": {
+        "name": "Hancur",
+        "url": "https://open.spotify.com/album/2nbxl32Zzou25dnFxmMUYF"
+      },
+      "artists": [
+        {
+          "name": "Afiq Adnan",
+          "url": "https://open.spotify.com/artist/4N5d5HPKGz8hi3Tv9WdPJu"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247327,
+      "name": "Hancur",
+      "url": "https://open.spotify.com/track/1duXaIuLvj46vx48mXfXji"
+    },
+    {
+      "album": {
         "name": "hands to yourself",
         "url": "https://open.spotify.com/album/5TdnYH9K0ZyQUD4CagIVKb"
       },
@@ -7098,7 +7188,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 143276,
       "name": "Here",
       "url": "https://open.spotify.com/track/3CY82bx4vWzF7YUe5ZGDTY"
@@ -7286,6 +7376,24 @@
       "duration_ms": 170370,
       "name": "HOCUS-POCUS*",
       "url": "https://open.spotify.com/track/4RLgt4Bh3FlTs5cXIubBil"
+    },
+    {
+      "album": {
+        "name": "Hold",
+        "url": "https://open.spotify.com/album/65Qa8qmGeE5NsvCYoSs5AM"
+      },
+      "artists": [
+        {
+          "name": "Islands",
+          "url": "https://open.spotify.com/artist/6gjDBh7u6FRvNq5FZY37zk"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213529,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/2sk1GLdCUzBrXrk79phU0S"
     },
     {
       "album": {
@@ -7612,7 +7720,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 213176,
       "name": "HOW DO YOU SLEEP?",
       "url": "https://open.spotify.com/track/43FuhOu2hmOuTEzRKWECOO"
@@ -7730,7 +7838,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 234000,
       "name": "I Avoided Saying Things",
       "url": "https://open.spotify.com/track/2ohobmblEwxO37V18Aptmh"
@@ -9274,7 +9382,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 295714,
       "name": "Kerana Janji",
       "url": "https://open.spotify.com/track/63bWEEcpB4R5Nf6AAhjnep"
@@ -12357,6 +12465,24 @@
     },
     {
       "album": {
+        "name": "Ethel Yap Vol 2",
+        "url": "https://open.spotify.com/album/4FVxoEl0jNDFtVTZjDHvpP"
+      },
+      "artists": [
+        {
+          "name": "Ethel Yap",
+          "url": "https://open.spotify.com/artist/2tBm41oYtugDs5yLWVfdXn"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141631,
+      "name": "Nursing A Broken Heart",
+      "url": "https://open.spotify.com/track/5sGNeXWaFIf9TlJRhDA2U7"
+    },
+    {
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/3YNtsW4w7UYlPBaoD4FFEk"
       },
@@ -13064,6 +13190,24 @@
       "duration_ms": 142727,
       "name": "Overthinker",
       "url": "https://open.spotify.com/track/23cFW1qf1QjfLkvUq0cVZL"
+    },
+    {
+      "album": {
+        "name": "P Ramlee Saloma",
+        "url": "https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN"
+      },
+      "artists": [
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198450,
+      "name": "P Ramlee Saloma",
+      "url": "https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i"
     },
     {
       "album": {
@@ -13784,7 +13928,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 140000,
       "name": "PRIME",
       "url": "https://open.spotify.com/track/1VBaF3zDYDW8RuFDfYF9gg"
@@ -14468,7 +14612,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 193714,
       "name": "Run",
       "url": "https://open.spotify.com/track/7H58NQ8Fu4bHpnevGa4IXd"
@@ -15826,7 +15970,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 191086,
       "name": "SPEED",
       "url": "https://open.spotify.com/track/0Adv0j8PGXzpxewJNJNebZ"
@@ -20255,6 +20399,24 @@
     },
     {
       "album": {
+        "name": "You Can't Stay Forever",
+        "url": "https://open.spotify.com/album/2Tg2694JHOFb3gmsNhJADM"
+      },
+      "artists": [
+        {
+          "name": "Azim Zain and His Lovely Bones",
+          "url": "https://open.spotify.com/artist/71aAN1TVFXNJkcMPjmL1rs"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234789,
+      "name": "You Can't Stay Forever",
+      "url": "https://open.spotify.com/track/0VojgMDvpWG2pofqApS1S8"
+    },
+    {
+      "album": {
         "name": "you didn\u2019t",
         "url": "https://open.spotify.com/album/31UwN6tODIwhVwcfBdw0XP"
       },
@@ -20368,6 +20530,24 @@
       "duration_ms": 147310,
       "name": "YOU KNOW I DON'T WANT",
       "url": "https://open.spotify.com/track/6L6vKLAXj1JnYQ0KzD2FWQ"
+    },
+    {
+      "album": {
+        "name": "you lied",
+        "url": "https://open.spotify.com/album/7bD5BmZhr1YLTEw9rwV93N"
+      },
+      "artists": [
+        {
+          "name": "gels",
+          "url": "https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207696,
+      "name": "you lied",
+      "url": "https://open.spotify.com/track/5XonncvoYifJ7ACO0ZW0u0"
     },
     {
       "album": {
@@ -20682,7 +20862,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 167341,
       "name": "\u4f60\u8aac\u6211\u6b20\u5728\u54ea\uff1f",
       "url": "https://open.spotify.com/track/5CZfzGCKDNVXlNtnk0CNeJ"
@@ -20798,7 +20978,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 266181,
       "name": "\u64e6\u80a9\u800c\u8fc7",
       "url": "https://open.spotify.com/track/43KcKOxOeWuUSwHTp00aaF"
@@ -20860,7 +21040,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 207040,
       "name": "\u6709\u4e00\u76cf\u706f\u7b49\u7740\u6211\u56de\u5bb6",
       "url": "https://open.spotify.com/track/5QOrBXBwepw22K5ZNZSMng"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: HUNTR/X, KPop Demon Hunters Cast
+> The best tracks from the world of music\. Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,604 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,708 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 50 | [Break](https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Break](https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8) | 4:16 |
 | 51 | [STAMINA](https://open.spotify.com/track/40i7vkc0iEaNXpFwppz8q3) | [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [STAMINA](https://open.spotify.com/album/0351ZKuJpwc1xnSvSAOWVU) | 2:22 |
 
-Snapshot ID: `aHdwJAAAAAD86XeqeXweOh3APTinAsOr`
+Snapshot ID: `aHkeCgAAAADgdfUWDaPnGzrRehIpLNyJ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1387,
+  "num_followers": 1386,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAACCBrGUvwDfer5/47lASUFk",
+  "snapshot_id": "aHbrgAAAAADiEV+48HvGypqRAE51nG9g",
   "tracks": [
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Love (Deluxe)",
-        "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 225012,
-      "name": "Cold Case - Kurt Ballou Mix",
-      "url": "https://open.spotify.com/track/51DetOrim3PuO2qc8datc2"
+      "duration_ms": 226088,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+        "name": "Still Love (Deluxe)",
+        "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
       },
       "artists": [
         {
@@ -204,57 +204,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 226088,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 284104,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2BIbQW7IHxJhE6J8i5PM9V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Earth Is A Black Hole",
-        "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 166943,
-      "name": "Taste Of Gasoline",
-      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 238588,
-      "name": "Black Flamingo",
-      "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
+      "duration_ms": 225012,
+      "name": "Cold Case - Kurt Ballou Mix",
+      "url": "https://open.spotify.com/track/51DetOrim3PuO2qc8datc2"
     },
     {
       "added_at": null,
@@ -275,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 247170,
-      "name": "Mirror Talk",
-      "url": "https://open.spotify.com/track/5FXNdpyVlUObWx7jLDor5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Earth Is A Black Hole",
         "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
       },
@@ -300,9 +236,25 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 194978,
-      "name": "Yellowbelly",
-      "url": "https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ"
+      "duration_ms": 166943,
+      "name": "Taste Of Gasoline",
+      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 284104,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2BIbQW7IHxJhE6J8i5PM9V"
     },
     {
       "added_at": null,
@@ -316,9 +268,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 227820,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz"
+      "duration_ms": 238588,
+      "name": "Black Flamingo",
+      "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
     },
     {
       "added_at": null,
@@ -347,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Earth Is A Black Hole",
+        "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 194978,
+      "name": "Yellowbelly",
+      "url": "https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dazed",
         "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
       },
@@ -356,9 +324,41 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 246325,
-      "name": "Outside of Love",
-      "url": "https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS"
+      "duration_ms": 247170,
+      "name": "Mirror Talk",
+      "url": "https://open.spotify.com/track/5FXNdpyVlUObWx7jLDor5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 227820,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
       "duration_ms": 206149,
       "name": "New Emotion",
       "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 246325,
+      "name": "Outside of Love",
+      "url": "https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
       "duration_ms": 301418,
       "name": "Summer",
       "url": "https://open.spotify.com/track/5cDp8qgQCsni5pD2YKdh5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,

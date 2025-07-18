@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Kwaku DMC
 
-251 songs - 12 hr 37 min
+252 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Till It's Done](https://open.spotify.com/track/6cb3jTr1QzN9dEmSkwMtdL) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [CHRONICLES \(The First Supper\)](https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ) | 2:41 | 2025-05-09 |  |
 | [Till We Die](https://open.spotify.com/track/6cRQPMi6eZTtP7VvKmc4Rw) | [Phaize](https://open.spotify.com/artist/4S0ZEMWDccpMd5ybPA6A9n), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Till We Die](https://open.spotify.com/album/7fLZKILabFwc8BJ3GIYYcU) | 3:57 | 2025-04-04 | 2025-04-18 |
 | [Time](https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Time](https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk) | 2:45 | 2022-11-04 | 2023-02-11 |
+| [Toffee](https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [TOFFEE](https://open.spotify.com/album/2w0uS5c01bbICce8aD9thW) | 3:25 | 2025-07-18 |  |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 |  |
@@ -241,7 +242,7 @@
 | [Vanessa](https://open.spotify.com/track/3S1aMkzTcbcC2GSjlSNotQ) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw) | [Vanessa](https://open.spotify.com/album/23ThKUslTMHbdXwzvQlsLs) | 3:05 | 2024-07-06 | 2024-07-12 |
 | [Vawulence](https://open.spotify.com/track/7oNKjJYsdUUmshMyxjKHTl) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Vawulence](https://open.spotify.com/album/119mHn5zmu5HNlZhQKcuVB) | 3:05 | 2022-08-26 | 2022-11-26 |
 | [Vigilante Bop](https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/2W90ihxyThRpceuy94iejV) | 3:00 | 2022-08-12 | 2022-11-05 |
-| [Virgin Anthem](https://open.spotify.com/track/12pO4bFrRpk1HdDHRbhUka) | [Pemifemi](https://open.spotify.com/artist/562OG3IK7uwibZ6V4DmQHx) | [Virgin Anthem](https://open.spotify.com/album/2CGt0VaAjlRVskDtaWO4zO) | 2:18 | 2025-06-20 |  |
+| [Virgin Anthem](https://open.spotify.com/track/12pO4bFrRpk1HdDHRbhUka) | [Pemifemi](https://open.spotify.com/artist/562OG3IK7uwibZ6V4DmQHx) | [Virgin Anthem](https://open.spotify.com/album/2CGt0VaAjlRVskDtaWO4zO) | 2:18 | 2025-06-20 | 2025-07-18 |
 | [Wala \(Life\)](https://open.spotify.com/track/3QRqEQahFD0lDIlO8bPMmm) | [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Wala \(Life\)](https://open.spotify.com/album/5JIa3OsxDjkbiq1FOt1Tal) | 2:57 | 2024-03-15 | 2024-04-19 |
 | [Warzone](https://open.spotify.com/track/2Y1pXK2i2FRUvJEUUn02hY) | [Kamafo](https://open.spotify.com/artist/6Mf8MtQqWKe5kg5qfKYxp1), [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf) | [Warzone](https://open.spotify.com/album/6jghz4cNjcipKNWdSAI2eE) | 3:26 | 2024-06-28 | 2024-07-27 |
 | [We Goofed](https://open.spotify.com/track/1yN9EQOrLJlcAuBx6fCakL) | [Appietus](https://open.spotify.com/artist/3aupsfQC9Iy7j3uSEnTqoN), [Asenke](https://open.spotify.com/artist/2xroUocjdynbenU8vVWwer), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [We Goofed](https://open.spotify.com/album/0kxiSbstlxUDwPdOVGnwxO) | 3:02 | 2023-09-14 | 2023-10-20 |

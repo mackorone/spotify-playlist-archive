@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: William Araujo, Djodje",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Cubita",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -1041,6 +1041,36 @@
     },
     {
       "album": {
+        "name": "BATOTA",
+        "url": "https://open.spotify.com/album/3lvCADbf6qOq34TllBbG6L"
+      },
+      "artists": [
+        {
+          "name": "Afro Connexion",
+          "url": "https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD"
+        },
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Twenty Fingers",
+          "url": "https://open.spotify.com/artist/3hZ2JuVlcM4yFRDwPUSXvC"
+        },
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232340,
+      "name": "BATOTA",
+      "url": "https://open.spotify.com/track/5JB2CNifWQV75f0RlWLmXI"
+    },
+    {
+      "album": {
         "name": "Beijam",
         "url": "https://open.spotify.com/album/4VK90Rvs5zStsJW6cMiOpX"
       },
@@ -1696,7 +1726,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 101978,
       "name": "Carta Secreta (Mano Chaba)",
       "url": "https://open.spotify.com/track/7yhvlUGCXEms4yEy5FJuDP"
@@ -1722,6 +1752,24 @@
       "duration_ms": 182417,
       "name": "Chama a Pol\u00edcia",
       "url": "https://open.spotify.com/track/5nXyhuzNJ5jHdpPDq5ywaS"
+    },
+    {
+      "album": {
+        "name": "Chama A Tua Prima",
+        "url": "https://open.spotify.com/album/1ktBwtgAvZhuKovT3AeQdT"
+      },
+      "artists": [
+        {
+          "name": "Jey V",
+          "url": "https://open.spotify.com/artist/02aXxScVRfbF0xFjGvi1mu"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148034,
+      "name": "Chama A Tua Prima",
+      "url": "https://open.spotify.com/track/67iIrynpWkfjTCVUeM6Tva"
     },
     {
       "album": {
@@ -2016,7 +2064,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 225018,
       "name": "Como Eu Demorei",
       "url": "https://open.spotify.com/track/7ivYLq5fAATS4rEqsAl3Xu"
@@ -2130,7 +2178,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 207500,
       "name": "Control",
       "url": "https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ"
@@ -3406,6 +3454,24 @@
       "duration_ms": 233145,
       "name": "Evil Tarraxo",
       "url": "https://open.spotify.com/track/4jEswQpBN1ju5ioo12w3YF"
+    },
+    {
+      "album": {
+        "name": "Evitar",
+        "url": "https://open.spotify.com/album/5IEnBR36E4CYTsWaL6uELG"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169393,
+      "name": "Evitar",
+      "url": "https://open.spotify.com/track/2O9qpNmYYW1j15ATU3Z07M"
     },
     {
       "album": {
@@ -6684,7 +6750,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 171021,
       "name": "N\u00e3o Fico",
       "url": "https://open.spotify.com/track/3D4SYt05y0nXWV396JgDOW"
@@ -7378,6 +7444,24 @@
       "duration_ms": 194785,
       "name": "Parece Magia",
       "url": "https://open.spotify.com/track/18YNXtBfIAC8OuBENVZULb"
+    },
+    {
+      "album": {
+        "name": "Mais Uma Vez",
+        "url": "https://open.spotify.com/album/3F7grlwZWFLz30YhOgPUf1"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200016,
+      "name": "Peekaboo",
+      "url": "https://open.spotify.com/track/4gqeGC50dOeeJ0wTPswYRw"
     },
     {
       "album": {
@@ -10990,7 +11074,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 147526,
       "name": "X-SOS",
       "url": "https://open.spotify.com/track/09WA0MmSLZh3tec8bbXRlC"
@@ -11106,6 +11190,28 @@
       "duration_ms": 216000,
       "name": "\u00c9 Golo",
       "url": "https://open.spotify.com/track/0w2MKVScVo0xCPQHJfdcgz"
+    },
+    {
+      "album": {
+        "name": "\u00c9 MEMO ESSE",
+        "url": "https://open.spotify.com/album/1qoPmHhWMokEMlexO3nY0P"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Telminho",
+          "url": "https://open.spotify.com/artist/2PiR7s9Qe7ZB0gWcjKc9d1"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "\u00c9 MEMO ESSE",
+      "url": "https://open.spotify.com/track/6y6f8Vo7ZAFaUkq4w4jjaO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352 likes - 129 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 353 likes - 129 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 94 | [Hustle Harder](https://open.spotify.com/track/2SS3wA4pk7jutREHgojJcb) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Nobody's Smiling \(Deluxe\)](https://open.spotify.com/album/0ymZEUngBCetAJcJaqO63b) | 3:58 |
 | 95 | [No Chance](https://open.spotify.com/track/0pZ2vkhWBEWWOwuAB8OlgE) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [No Chance](https://open.spotify.com/album/3zY5iu6GBWO927JdIu8OQT) | 3:40 |
 | 96 | [Weekend Behavior](https://open.spotify.com/track/6Ds1x8qOzlq3tBH12W7WPi) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Cuban Jesus](https://open.spotify.com/album/5qK4ZzsOUh7d0zD42r01ao) | 3:39 |
-| 97 | [Hey Cutie](https://open.spotify.com/track/4eUJJtvEwDn45jG0gZdLdZ) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [The DeAndre Way \(Deluxe Explicit Version\)](https://open.spotify.com/album/0uOv76Q0q8w5PtiazPiq5z) | 3:15 |
-| 98 | [Beside Me](https://open.spotify.com/track/3zNDVJAwnnWDNW8OvnJsqN) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:07 |
+| 97 | [Beside Me](https://open.spotify.com/track/3zNDVJAwnnWDNW8OvnJsqN) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:07 |
+| 98 | [Hey Cutie](https://open.spotify.com/track/4eUJJtvEwDn45jG0gZdLdZ) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [The DeAndre Way \(Deluxe Explicit Version\)](https://open.spotify.com/album/0uOv76Q0q8w5PtiazPiq5z) | 3:15 |
 | 99 | [Hurt for Long](https://open.spotify.com/track/5Zo2q2qGbGMzPURPXqOqlX) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:17 |
 | 100 | [We're Not Friends](https://open.spotify.com/track/4v9L9xPXgoZnYoI204IBrE) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:50 |
 | 101 | [Solo](https://open.spotify.com/track/37CtAzYl5Ci5y5wPEEcHFU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:53 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 128 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 129 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `Ab29fgAAAADEWJkH+Rwm+Bln+6uQ9ui6`
+Snapshot ID: `Ab3DFAAAAAAQIQLAUnFCpxNjwZXD4CEm`

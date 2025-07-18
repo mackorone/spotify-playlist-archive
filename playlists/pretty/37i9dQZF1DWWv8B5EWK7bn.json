@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 202747,
+  "num_followers": 202777,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
     },
     {
+      "added_at": "2024-03-21 22:34:34",
+      "album": {
+        "name": "Something in the Room She Moves",
+        "url": "https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 378289,
+      "name": "Something in the Room She Moves",
+      "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
+    },
+    {
       "added_at": "2023-01-04 00:57:30",
       "album": {
         "name": "Classic Objects",
@@ -615,22 +631,6 @@
       "duration_ms": 214941,
       "name": "You Know I Got That / Wont Stop Callin",
       "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
-    },
-    {
-      "added_at": "2024-03-21 22:34:34",
-      "album": {
-        "name": "Something in the Room She Moves",
-        "url": "https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 378289,
-      "name": "Something in the Room She Moves",
-      "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
     },
     {
       "added_at": "2024-02-23 00:16:26",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/0jlrYQZy6lkuIN0mYgxLfS"
-      },
-      "artists": [
-        {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
-        }
-      ],
-      "duration_ms": 316413,
-      "name": "Big Appetite",
-      "url": "https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR"
-    },
-    {
       "added_at": "2023-06-07 04:10:00",
       "album": {
         "name": "Crispy Moon",
@@ -1189,6 +1173,22 @@
       "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/0jlrYQZy6lkuIN0mYgxLfS"
+      },
+      "artists": [
+        {
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+        }
+      ],
+      "duration_ms": 316413,
+      "name": "Big Appetite",
+      "url": "https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR"
+    },
+    {
       "added_at": "2024-01-03 18:45:56",
       "album": {
         "name": "Space Jumps",
@@ -1203,38 +1203,6 @@
       "duration_ms": 211386,
       "name": "Space Jumps",
       "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
-    },
-    {
-      "added_at": "2023-09-25 01:38:39",
-      "album": {
-        "name": "The Path",
-        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
-    },
-    {
-      "added_at": "2024-10-23 05:15:10",
-      "album": {
-        "name": "love is not the poison",
-        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 318447,
-      "name": "love is not the poison",
-      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -1257,6 +1225,54 @@
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
+      "added_at": "2024-10-23 05:15:10",
+      "album": {
+        "name": "love is not the poison",
+        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 318447,
+      "name": "love is not the poison",
+      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
+    },
+    {
+      "added_at": "2023-09-25 01:38:39",
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
+    },
+    {
+      "added_at": "2023-06-05 20:56:02",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
+      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -1277,22 +1293,6 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
-      "added_at": "2023-06-05 20:56:02",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
-      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
-    },
-    {
       "added_at": "2024-08-19 20:57:31",
       "album": {
         "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
@@ -1307,22 +1307,6 @@
       "duration_ms": 154910,
       "name": "I'VE BEEN EVIL",
       "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
-    },
-    {
-      "added_at": "2024-08-16 20:06:32",
-      "album": {
-        "name": "Hay Veces",
-        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 186445,
-      "name": "Hay Veces",
-      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
     },
     {
       "added_at": "2022-08-13 01:40:58",
@@ -1361,6 +1345,22 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
+      "added_at": "2024-08-16 20:06:32",
+      "album": {
+        "name": "Hay Veces",
+        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 186445,
+      "name": "Hay Veces",
+      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
+    },
+    {
       "added_at": "2024-09-18 13:52:43",
       "album": {
         "name": "True Luck",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
-      "added_at": "2024-09-01 14:54:22",
-      "album": {
-        "name": "Always a Stranger",
-        "url": "https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI"
-      },
-      "artists": [
-        {
-          "name": "Tindersticks",
-          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
-        }
-      ],
-      "duration_ms": 227704,
-      "name": "New World - Edit",
-      "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
-    },
-    {
       "added_at": "2024-03-05 06:00:54",
       "album": {
         "name": "Lovegaze",
@@ -1407,6 +1391,22 @@
       "duration_ms": 291771,
       "name": "Lovegaze",
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
+    },
+    {
+      "added_at": "2024-09-01 14:54:22",
+      "album": {
+        "name": "Always a Stranger",
+        "url": "https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI"
+      },
+      "artists": [
+        {
+          "name": "Tindersticks",
+          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+        }
+      ],
+      "duration_ms": 227704,
+      "name": "New World - Edit",
+      "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
     },
     {
       "added_at": "2023-01-03 23:48:36",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2023-10-23 19:41:11",
       "album": {
         "name": "Pearlies",
@@ -1493,20 +1477,20 @@
       "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
     },
     {
-      "added_at": "2023-03-31 19:12:14",
+      "added_at": "2022-03-30 04:28:53",
       "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
       },
       "artists": [
         {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
         }
       ],
-      "duration_ms": 229183,
-      "name": "Nothing's Wrong",
-      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -1527,6 +1511,22 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2023-03-31 19:12:14",
+      "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 229183,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
     },
     {
       "added_at": "2023-08-24 03:26:17",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
-      "album": {
-        "name": "An Embroidery",
-        "url": "https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Connelly",
-          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
-        }
-      ],
-      "duration_ms": 249208,
-      "name": "An Embroidery",
-      "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
-    },
-    {
       "added_at": "2024-08-16 20:06:32",
       "album": {
         "name": "Sur La Terre",
@@ -1607,6 +1591,22 @@
       "duration_ms": 196331,
       "name": "Sur la terre",
       "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
+    },
+    {
+      "added_at": "2024-03-05 06:00:54",
+      "album": {
+        "name": "An Embroidery",
+        "url": "https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "duration_ms": 249208,
+      "name": "An Embroidery",
+      "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1633,26 +1633,6 @@
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
     },
     {
-      "added_at": "2023-06-26 14:24:59",
-      "album": {
-        "name": "Island Family (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc"
-      },
-      "artists": [
-        {
-          "name": "Pictish Trail",
-          "url": "https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F"
-        },
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 269399,
-      "name": "Island Family - uh Remix",
-      "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
-    },
-    {
       "added_at": "2024-07-18 21:58:08",
       "album": {
         "name": "Taste The Air (Julia Holter Mix)",
@@ -1671,6 +1651,26 @@
       "duration_ms": 203031,
       "name": "Taste The Air - Julia Holter Mix",
       "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
+    },
+    {
+      "added_at": "2023-06-26 14:24:59",
+      "album": {
+        "name": "Island Family (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc"
+      },
+      "artists": [
+        {
+          "name": "Pictish Trail",
+          "url": "https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F"
+        },
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 269399,
+      "name": "Island Family - uh Remix",
+      "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
       "added_at": "2024-03-05 06:00:54",

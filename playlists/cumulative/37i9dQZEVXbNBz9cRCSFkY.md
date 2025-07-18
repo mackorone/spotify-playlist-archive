@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,030 songs - 2 day 14 hr 11 min
+1,031 songs - 2 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-18 | 2022-09-18 |
 | [Attention, please!](https://open.spotify.com/track/59qDYPZPkMPl8qSYRig1xn) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 2:47 | 2021-10-14 | 2021-10-16 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-07-31 | 2024-08-06 |
+| [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 | 2025-07-17 |  |
 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 | 2025-03-14 | 2025-06-09 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-11-22 | 2024-03-08 |
 | [B.A.D.](https://open.spotify.com/track/1KZPOTmqASPbMc7WIqNdyS) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/4TdIVLLS4os2X4r2p6vTr5) | 2:50 | 2023-11-18 | 2023-11-23 |
@@ -416,7 +417,7 @@
 | [Ikaw Lang](https://open.spotify.com/track/4legZBvlei0pwnrzzxMzol) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/2uac9Zt7Zz2icXylMwHOEf) | 4:23 | 2025-03-25 |  |
 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 | 2025-02-18 | 2025-05-12 |
 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2022-11-18 | 2023-05-05 |
-| [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/track/3LvrJEPQ61Vvj1t3Edg20X) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/album/6P8VL5hDXBJODIAOBuPJV4) | 4:22 | 2025-04-08 |  |
+| [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/track/3LvrJEPQ61Vvj1t3Edg20X) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/album/6P8VL5hDXBJODIAOBuPJV4) | 4:22 | 2025-04-08 | 2025-07-18 |
 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 | 2024-07-11 | 2024-10-03 |
 | [Ikot](https://open.spotify.com/track/5gQyJNVUEydHMciwhih7EK) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23) | 4:10 | 2024-10-02 |  |
 | [ILY](https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [ILY](https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh) | 2:59 | 2024-04-30 | 2024-09-28 |
@@ -549,7 +550,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-24 | 2024-05-29 |
 | [lutang](https://open.spotify.com/track/33a5I5tDvZoI3iIucwrho5) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/1ux9VroIw8jgLBtezrI5mb) | 4:32 | 2021-09-18 | 2021-10-03 |
 | [lutang](https://open.spotify.com/track/6jB7cmxRuvf5QUxYl73q0o) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/18ylPFUz9HeneeXkbcvoYv) | 4:32 | 2021-10-03 | 2021-12-11 |
-| [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-24 |  |
+| [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-24 | 2025-07-18 |
 | [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 | 2023-10-25 | 2024-03-02 |
 | [LWKY](https://open.spotify.com/track/0k4oIMUqetHzgMTLw7vxJe) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun), [SwKeith](https://open.spotify.com/artist/0s8uFxWdTUo0PbN39e20kS), [Jthekidd](https://open.spotify.com/artist/1lMjH9ZFEMm5ypVd1NJD8b), [YP](https://open.spotify.com/artist/317sYdaoNPU4HAZMiUArvF) | [LWKY](https://open.spotify.com/album/2WxToasDkI0DOskvErULto) | 3:14 | 2023-07-29 | 2023-08-09 |
 | [LWKY](https://open.spotify.com/track/1v8KGf0DdZKIuS0GexqPZC) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun), [SwKeith](https://open.spotify.com/artist/0s8uFxWdTUo0PbN39e20kS), [Jthekidd](https://open.spotify.com/artist/1lMjH9ZFEMm5ypVd1NJD8b), [YP](https://open.spotify.com/artist/317sYdaoNPU4HAZMiUArvF) | [LWKY](https://open.spotify.com/album/6DzQl3sVnvW7QlNwmQDlWE) | 3:14 | 2023-08-08 | 2023-12-01 |
@@ -608,7 +609,7 @@
 | [Muli](https://open.spotify.com/track/1oYQtNQUxSODedcc5hPmp9) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Muli](https://open.spotify.com/album/3RKZKxaNLwRXw84ruc3f9F) | 4:50 | 2022-05-19 | 2023-04-23 |
 | [Multo](https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 3:57 | 2025-03-01 |  |
 | [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 | 2023-04-30 | 2023-05-03 |
-| [Mundo](https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl) | 5:49 | 2025-04-19 | 2025-04-26 |
+| [Mundo](https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl) | 5:49 | 2025-04-19 |  |
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-07-07 | 2025-06-03 |
 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 | 2023-04-12 | 2025-05-04 |
 | [My Boy Only Breaks His Favorite Toys](https://open.spotify.com/track/05msZuGKP3OCUGQnvLBOf4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 3:23 | 2024-04-20 | 2024-04-22 |

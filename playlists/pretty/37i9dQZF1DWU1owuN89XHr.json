@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 289664,
+  "num_followers": 289692,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -1121,6 +1121,22 @@
       "url": "https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH"
     },
     {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "De Carne y Hueso",
+        "url": "https://open.spotify.com/album/2VvlDz9IS23XmNMzjeGdLN"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Kil\u00f3metros de Cielo",
+      "url": "https://open.spotify.com/track/5s2vTgpSicPRxA2TLKh2Pi"
+    },
+    {
       "added_at": "2022-01-11 03:05:13",
       "album": {
         "name": "30 A\u00f1os",
@@ -1355,8 +1371,8 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "De Carne y Hueso",
-        "url": "https://open.spotify.com/album/2VvlDz9IS23XmNMzjeGdLN"
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
       },
       "artists": [
         {
@@ -1364,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         }
       ],
-      "duration_ms": 261493,
-      "name": "Kil\u00f3metros de Cielo",
-      "url": "https://open.spotify.com/track/5s2vTgpSicPRxA2TLKh2Pi"
+      "duration_ms": 216035,
+      "name": "Ella es un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1439,18 +1455,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
+        "name": "S\u00f3lo / Ni Tan S\u00f3lo 2",
+        "url": "https://open.spotify.com/album/4nB4bxKtBnl30ZhYLs6o6T"
       },
       "artists": [
         {
           "name": "Edgar Oceransky",
           "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        },
+        {
+          "name": "Ra\u00fal Ornelas",
+          "url": "https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845"
         }
       ],
-      "duration_ms": 216035,
-      "name": "Ella es un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
+      "duration_ms": 245413,
+      "name": "El Manual de Lo Prohibido",
+      "url": "https://open.spotify.com/track/4ZigeFK2QTarNLSLallsti"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1483,26 +1503,6 @@
       "duration_ms": 137667,
       "name": "La Adivinanza",
       "url": "https://open.spotify.com/track/4gDejBbf4JuBCyZNGuY8Ey"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "S\u00f3lo / Ni Tan S\u00f3lo 2",
-        "url": "https://open.spotify.com/album/4nB4bxKtBnl30ZhYLs6o6T"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        },
-        {
-          "name": "Ra\u00fal Ornelas",
-          "url": "https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "El Manual de Lo Prohibido",
-      "url": "https://open.spotify.com/track/4ZigeFK2QTarNLSLallsti"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Ox\u00edgeno",
+        "url": "https://open.spotify.com/album/4X6HawmqhHshwuBPuikoPa"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        },
+        {
+          "name": "Diego Ojeda",
+          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
+        }
+      ],
+      "duration_ms": 266329,
+      "name": "Ox\u00edgeno",
+      "url": "https://open.spotify.com/track/4EKrkdIoEw7ki9VdODozi9"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Escucha a Gerardo Pablo",
         "url": "https://open.spotify.com/album/3rakFwWiJAVASGge6sVFYN"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 231897,
       "name": "Viene la Cosa",
       "url": "https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Ox\u00edgeno",
-        "url": "https://open.spotify.com/album/4X6HawmqhHshwuBPuikoPa"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        },
-        {
-          "name": "Diego Ojeda",
-          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
-        }
-      ],
-      "duration_ms": 266329,
-      "name": "Ox\u00edgeno",
-      "url": "https://open.spotify.com/track/4EKrkdIoEw7ki9VdODozi9"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Juro",
+        "url": "https://open.spotify.com/album/34eOeoTPpnB8xQMKCv6dN8"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 222783,
+      "name": "Juro",
+      "url": "https://open.spotify.com/track/3uGbe1nJQcC8nWoQ03Ebuf"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Escucha a Gerardo Pablo",
         "url": "https://open.spotify.com/album/3rakFwWiJAVASGge6sVFYN"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 292987,
       "name": "Alfonsina y el mar",
       "url": "https://open.spotify.com/track/4E1WiDbcYl6HkzrWzB9tFy"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Juro",
-        "url": "https://open.spotify.com/album/34eOeoTPpnB8xQMKCv6dN8"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 222783,
-      "name": "Juro",
-      "url": "https://open.spotify.com/track/3uGbe1nJQcC8nWoQ03Ebuf"
     },
     {
       "added_at": "2021-07-29 16:46:05",

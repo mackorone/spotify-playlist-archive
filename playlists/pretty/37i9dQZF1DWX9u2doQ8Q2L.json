@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 392827,
+  "num_followers": 392814,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,18 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "Plazma",
-        "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
+        "name": "Burning Flower",
+        "url": "https://open.spotify.com/album/163oByKktJZI76tPDx5iHx"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
         }
       ],
-      "duration_ms": 180832,
-      "name": "Plazma",
-      "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
+      "duration_ms": 177898,
+      "name": "Burning Flower",
+      "url": "https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -63,18 +63,18 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "Burning Flower",
-        "url": "https://open.spotify.com/album/163oByKktJZI76tPDx5iHx"
+        "name": "Plazma",
+        "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
       },
       "artists": [
         {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 177898,
-      "name": "Burning Flower",
-      "url": "https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0"
+      "duration_ms": 180832,
+      "name": "Plazma",
+      "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "Whole of Flower",
-        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
-      },
-      "artists": [
-        {
-          "name": "Suchmos",
-          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Whole of Flower",
-      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
         "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
         "url": "https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 263983,
       "name": "\u58f0",
       "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "Whole of Flower",
+        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Whole of Flower",
+      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -839,18 +839,34 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "\u611b\u3068U",
-        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
       },
       "artists": [
         {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 202535,
-      "name": "\u611b\u3068U",
-      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
+      "duration_ms": 231250,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "Ghost Avenue",
+        "url": "https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 173606,
+      "name": "Ghost Avenue",
+      "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -887,18 +903,18 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
+        "name": "\u611b\u3068U",
+        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
       },
       "artists": [
         {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
         }
       ],
-      "duration_ms": 231250,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+      "duration_ms": 202535,
+      "name": "\u611b\u3068U",
+      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -935,22 +951,6 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "Ghost Avenue",
-        "url": "https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 173606,
-      "name": "Ghost Avenue",
-      "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
         "name": "\u30e1\u30ed\u30c9\u30e9\u30de",
         "url": "https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3"
       },
@@ -967,34 +967,6 @@
       "duration_ms": 227575,
       "name": "\u30e1\u30ed\u30c9\u30e9\u30de",
       "url": "https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
-        "name": "Mom & Dad",
-        "url": "https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa"
-      },
-      "artists": [
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        },
-        {
-          "name": "ZOT on the WAVE",
-          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
-        },
-        {
-          "name": "Kaneee",
-          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
-        },
-        {
-          "name": "7",
-          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
-        }
-      ],
-      "duration_ms": 171579,
-      "name": "Mom & Dad",
-      "url": "https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -1071,6 +1043,34 @@
       "duration_ms": 188613,
       "name": "mild days",
       "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "Mom & Dad",
+        "url": "https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        },
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        }
+      ],
+      "duration_ms": 171579,
+      "name": "Mom & Dad",
+      "url": "https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -1199,24 +1199,8 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "BRANDY SENKI",
-        "url": "https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF"
-      },
-      "artists": [
-        {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "\u6625",
-      "url": "https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
       },
       "artists": [
         {
@@ -1224,25 +1208,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
-        "name": "\u8594\u8587\u3068\u6563\u308b",
-        "url": "https://open.spotify.com/album/4oX3vpDuBMy3RB5q8ezIUW"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 185900,
-      "name": "\u8594\u8587\u3068\u6563\u308b",
-      "url": "https://open.spotify.com/track/0fi1lzX45qrp6ZWZWZWwiQ"
+      "duration_ms": 202181,
+      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -1259,6 +1227,38 @@
       "duration_ms": 200268,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "BRANDY SENKI",
+        "url": "https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "\u6625",
+      "url": "https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "\u8594\u8587\u3068\u6563\u308b",
+        "url": "https://open.spotify.com/album/4oX3vpDuBMy3RB5q8ezIUW"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 185900,
+      "name": "\u8594\u8587\u3068\u6563\u308b",
+      "url": "https://open.spotify.com/track/0fi1lzX45qrp6ZWZWZWwiQ"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 202181,
-      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
         "name": "\u6708\u3078\u884c\u3053\u3046",
         "url": "https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 198370,
       "name": "\u6708\u3078\u884c\u3053\u3046",
       "url": "https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "JOOOOKE",
-        "url": "https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 183966,
-      "name": "JOOOOKE",
-      "url": "https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
         "name": "Don't go (feat. ASH ISLAND)",
         "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 181384,
       "name": "Osanpo - Remix",
       "url": "https://open.spotify.com/track/32xeuwMvGI5jugOe0sv8cq"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "JOOOOKE",
+        "url": "https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 183966,
+      "name": "JOOOOKE",
+      "url": "https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2"
     },
     {
       "added_at": "2025-07-16 00:44:47",

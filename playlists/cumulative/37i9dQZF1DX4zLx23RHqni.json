@@ -1467,6 +1467,32 @@
     },
     {
       "album": {
+        "name": "Panithuli",
+        "url": "https://open.spotify.com/album/3RssLbX231gVtHdqECkd59"
+      },
+      "artists": [
+        {
+          "name": "Naveena",
+          "url": "https://open.spotify.com/artist/2M82o2fBIv02GKyN3l5Cjv"
+        },
+        {
+          "name": "Jerone B",
+          "url": "https://open.spotify.com/artist/4EYTQPjQI2KbkhdCziPYd5"
+        },
+        {
+          "name": "SUJAN",
+          "url": "https://open.spotify.com/artist/5BAnS0Qyxoc5oBc3HJJQyh"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Panithuli",
+      "url": "https://open.spotify.com/track/3I8hv7WEzlcOkSNL63XaPw"
+    },
+    {
+      "album": {
         "name": "Mounam Sollum Varthaigal",
         "url": "https://open.spotify.com/album/6VtYIGyUTFMLJZzfliRykK"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 84251,
+  "num_followers": 84266,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,30 @@
     {
       "added_at": "2025-07-01 15:17:26",
       "album": {
+        "name": "Haydn: Symphony Nos. 104 & 94 'Surprise'",
+        "url": "https://open.spotify.com/album/5KyxVX4Mf8TPcuEGul3QUs"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Oliver von Dohnanyi",
+          "url": "https://open.spotify.com/artist/4iQfrN4XKLUrtRfTUX54ne"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        }
+      ],
+      "duration_ms": 254040,
+      "name": "Symphony No. 94 in G Major \"Surprise\": IV. Finale: Allegro molto",
+      "url": "https://open.spotify.com/track/4chm0GkaUjWYTPnRhsmWgP"
+    },
+    {
+      "added_at": "2025-07-01 15:17:26",
+      "album": {
         "name": "Haydn: The Complete Masses; Stabat Mater",
         "url": "https://open.spotify.com/album/5CRIcW5bcFwk4zP3LjoOkB"
       },
@@ -483,30 +507,6 @@
       "duration_ms": 377640,
       "name": "Haydn: Symphony No. 96 in D Major, Hob. I:96 \"Miracle\": II. Andante",
       "url": "https://open.spotify.com/track/7qcCRaa1QdU5bb1DE14VZ9"
-    },
-    {
-      "added_at": "2025-07-01 15:17:26",
-      "album": {
-        "name": "Haydn: Symphony Nos. 104 & 94 'Surprise'",
-        "url": "https://open.spotify.com/album/5KyxVX4Mf8TPcuEGul3QUs"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Oliver von Dohnanyi",
-          "url": "https://open.spotify.com/artist/4iQfrN4XKLUrtRfTUX54ne"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        }
-      ],
-      "duration_ms": 254040,
-      "name": "Symphony No. 94 in G Major \"Surprise\": IV. Finale: Allegro molto",
-      "url": "https://open.spotify.com/track/4chm0GkaUjWYTPnRhsmWgP"
     },
     {
       "added_at": "2025-07-01 15:17:26",
@@ -603,30 +603,6 @@
     {
       "added_at": "2025-07-01 15:17:26",
       "album": {
-        "name": "Haydn: Symphonies Nos. 92, 93, & 97-99",
-        "url": "https://open.spotify.com/album/6MW6687ZuwLgLwbOJ9U5j3"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 448503,
-      "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": II. Adagio cantabile",
-      "url": "https://open.spotify.com/track/1oStfg4y3wqWl7FK0SQ7yr"
-    },
-    {
-      "added_at": "2025-07-01 15:17:26",
-      "album": {
         "name": "Haydn Edition Volume 5 - Masses, Stabat Mater, Seven Last Words",
         "url": "https://open.spotify.com/album/6FNKlnUgxrjE4QFHWVYdVA"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 389226,
       "name": "Haydn: Stabat Mater, Hob. XXa:1: VIII. Sancta Mater istud agas",
       "url": "https://open.spotify.com/track/6XYs4SWR0uDPhTCK6cwNlD"
+    },
+    {
+      "added_at": "2025-07-01 15:17:26",
+      "album": {
+        "name": "Haydn: Symphonies Nos. 92, 93, & 97-99",
+        "url": "https://open.spotify.com/album/6MW6687ZuwLgLwbOJ9U5j3"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 448503,
+      "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/1oStfg4y3wqWl7FK0SQ7yr"
     },
     {
       "added_at": "2025-07-01 15:17:26",

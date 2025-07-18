@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Africa - EP",
+        "url": "https://open.spotify.com/album/4NR83WiSh5Zs9jL1VtkpRr"
+      },
+      "artists": [
+        {
+          "name": "Rose Laurens",
+          "url": "https://open.spotify.com/artist/5yHrAQeiQbwIqGHInzdYWM"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216125,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/1YXH5a44usvJyNKeMt8NMo"
+    },
+    {
+      "album": {
         "name": "Les ann\u00e9es 30",
         "url": "https://open.spotify.com/album/1BiKkCtx7fxoM0osgo5KSa"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 398680,
       "name": "Afrique adieu",
       "url": "https://open.spotify.com/track/6G3mO2bHnYlOjwlHJQlUad"
@@ -34,7 +52,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 322373,
       "name": "Andy",
       "url": "https://open.spotify.com/track/1QZ7Co5mBLhAQf9OFk4ovN"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 279133,
       "name": "Casser la voix",
       "url": "https://open.spotify.com/track/6GKfnB8wQhmCqsHmgDAkN4"
@@ -222,6 +240,24 @@
       "duration_ms": 161493,
       "name": "Diego libre dans sa t\u00eate - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N"
+    },
+    {
+      "album": {
+        "name": "Disparue - EP",
+        "url": "https://open.spotify.com/album/6InWfWweFfuMQ7kCn5CBoc"
+      },
+      "artists": [
+        {
+          "name": "Jean-Pierre Mader",
+          "url": "https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Disparue",
+      "url": "https://open.spotify.com/track/280p8WbpK05bAptetUzEcx"
     },
     {
       "album": {
@@ -387,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Encore un dernier baiser",
+        "url": "https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN"
+      },
+      "artists": [
+        {
+          "name": "Niagara",
+          "url": "https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Je dois m'en aller",
+      "url": "https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q"
+    },
+    {
+      "album": {
         "name": "Non homologu\u00e9",
         "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
       },
@@ -460,6 +514,28 @@
       "duration_ms": 235226,
       "name": "Joe le taxi",
       "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
+    },
+    {
+      "album": {
+        "name": "Two Feldman",
+        "url": "https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Feldman",
+          "url": "https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe"
+        },
+        {
+          "name": "Joniece Jamison",
+          "url": "https://open.spotify.com/artist/1cv4XgiZ8UewYxrtk4XO3Q"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251026,
+      "name": "Joue pas",
+      "url": "https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH"
     },
     {
       "album": {
@@ -546,7 +622,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 180746,
       "name": "La bo\u00eete de jazz",
       "url": "https://open.spotify.com/track/5NCatFKrnHJtz5ep4D7pMO"
@@ -640,7 +716,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 209733,
       "name": "Le Loir & Cher",
       "url": "https://open.spotify.com/track/2qHhWm8oZ7nNNvTitjEvio"
@@ -665,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Les brunes comptent pas pour des prunes",
+        "url": "https://open.spotify.com/album/48Hn4QRWsu9vLDNLdmBPxb"
+      },
+      "artists": [
+        {
+          "name": "Lio",
+          "url": "https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "Les brunes comptent pas pour des prunes",
+      "url": "https://open.spotify.com/track/2FO8AfQVGJsmxgg6RlI5jK"
+    },
+    {
+      "album": {
         "name": "Les corons",
         "url": "https://open.spotify.com/album/71AvtioRg7cVOfzGT7RpbC"
       },
@@ -676,10 +770,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 254440,
       "name": "Les corons",
       "url": "https://open.spotify.com/track/1bIupoWqwPhmPbXekHD5QR"
+    },
+    {
+      "album": {
+        "name": "Les d\u00e9mons de minuit",
+        "url": "https://open.spotify.com/album/6hOGy2ogj9tbIIpfQ5aQOO"
+      },
+      "artists": [
+        {
+          "name": "Images",
+          "url": "https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231410,
+      "name": "Les d\u00e9mons de minuit",
+      "url": "https://open.spotify.com/track/2ne2QYNb5DjByvKPOtzQaM"
     },
     {
       "album": {
@@ -766,10 +878,64 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 228040,
       "name": "Mademoiselle chante le blues",
       "url": "https://open.spotify.com/track/6vjDUJqVKU9Ws7AIHBCAv9"
+    },
+    {
+      "album": {
+        "name": "Rita Mitsouko",
+        "url": "https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k"
+      },
+      "artists": [
+        {
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335746,
+      "name": "Marcia Ba\u00efla",
+      "url": "https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf"
+    },
+    {
+      "album": {
+        "name": "Mise au point (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/5SPAEEOKhwl0dYJflmQ1L7"
+      },
+      "artists": [
+        {
+          "name": "Jakie Quartz",
+          "url": "https://open.spotify.com/artist/5wGprTHwvhRJpnN4vWlLDT"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283292,
+      "name": "Mise au point",
+      "url": "https://open.spotify.com/track/2hSSHgViCLNwV5TozS0otN"
+    },
+    {
+      "album": {
+        "name": "Mistral gagnant",
+        "url": "https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255026,
+      "name": "Miss Maggie",
+      "url": "https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7"
     },
     {
       "album": {
@@ -784,7 +950,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 165933,
       "name": "Mistral gagnant",
       "url": "https://open.spotify.com/track/1MOSRjdAbUhvLNnHCdUEL5"
@@ -856,7 +1022,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 372186,
       "name": "Morgane de toi",
       "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
@@ -932,6 +1098,24 @@
       "duration_ms": 287800,
       "name": "Nuit magique",
       "url": "https://open.spotify.com/track/4XguFCQNeBYU4IrGQXr51I"
+    },
+    {
+      "album": {
+        "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
+        "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
+      },
+      "artists": [
+        {
+          "name": "Bandolero",
+          "url": "https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243560,
+      "name": "Paris Latino - Original Version 1983",
+      "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
     },
     {
       "album": {
@@ -1018,7 +1202,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 247173,
       "name": "Sarbacane - Remastered",
       "url": "https://open.spotify.com/track/3joYxf5x8kQv2eEpZg6jCm"
@@ -1090,7 +1274,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 305240,
       "name": "Tous les cris les S.O.S.",
       "url": "https://open.spotify.com/track/4XiWkm4Ug9LlP8Kxt5QIeQ"
@@ -1112,6 +1296,24 @@
       "duration_ms": 312533,
       "name": "Trois nuits par semaine",
       "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
+    },
+    {
+      "album": {
+        "name": "Tropique",
+        "url": "https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO"
+      },
+      "artists": [
+        {
+          "name": "Muriel Dacq",
+          "url": "https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212002,
+      "name": "Tropique",
+      "url": "https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0"
     },
     {
       "album": {

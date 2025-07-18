@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,278 songs - 2 day 16 hr 25 min
+1,279 songs - 2 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Ahu](https://open.spotify.com/track/5dIFM4dkwEjMnFppbHTsEA) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Gök Nerede](https://open.spotify.com/album/7sekCrynyTpbFhD3zVlxl0) | 3:34 | 2024-08-18 | 2025-07-05 |
 | [Ait Hissetmiyorum](https://open.spotify.com/track/5XQ1eD5Esz1CzdjH9bzbzn) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 1:50 | 2024-10-12 | 2024-12-15 |
 | [AİLEM](https://open.spotify.com/track/6IWyTNbWdRsN6xbIhY0W5O) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [AİLEM](https://open.spotify.com/album/4JbjZgDq58T8UhBSBITnkd) | 2:58 | 2023-09-30 | 2023-10-02 |
-| [aklına ben gelicem](https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [aklına ben gelicem](https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J) | 2:29 | 2023-09-23 |  |
+| [aklına ben gelicem](https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [aklına ben gelicem](https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J) | 2:29 | 2023-09-23 | 2025-07-18 |
 | [Aksiyon](https://open.spotify.com/track/79Ux1fGDomunbzofc6vDVr) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Aksiyon](https://open.spotify.com/album/4dr2xGbBSqKzd5yjVpHjkQ) | 2:25 | 2022-10-02 | 2022-10-06 |
 | [AKTIV](https://open.spotify.com/track/3BF6F5El3dlcxc795bUCpG) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS) | [AKTIV](https://open.spotify.com/album/52F6P9abjhKKSwBBOOaAOS) | 2:00 | 2025-04-23 | 2025-04-27 |
 | [Al Aramızdan](https://open.spotify.com/track/44UZWruF4P4uMZ10fd1eMK) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [POPSTAR](https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1) | 2:51 | 2023-06-17 | 2024-03-21 |
@@ -582,6 +582,7 @@
 | [HER GÜN AĞLADIM](https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [HER GÜN AĞLADIM](https://open.spotify.com/album/5GaZBROdkVIR1dDGJTLAqS) | 3:52 | 2025-01-18 | 2025-03-06 |
 | [Her Nerdeysen](https://open.spotify.com/track/65txmqjijZoGYs1irX6tBU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 2:29 | 2024-10-12 |  |
 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 | 2024-09-21 | 2024-09-24 |
+| [Her şey Sensin](https://open.spotify.com/track/406NzjjqZlOiFyIvhTGcAQ) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Her şey Sensin](https://open.spotify.com/album/448sA39a2V3mKafgqVszK2) | 4:36 | 2025-07-17 |  |
 | [Her Şeyi Yak](https://open.spotify.com/track/4uqlFpMPTKO6uAsX6qvK0l) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Belki Alışman Lazım](https://open.spotify.com/album/5TQ4ZTyFM7FTDpnfSjE54l) | 4:30 | 2021-07-17 | 2021-11-10 |
 | [Herkes Gibisin](https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Herkes Gibisin](https://open.spotify.com/album/0xR4GPMWizCtxkTjouDqra) | 3:05 | 2022-05-15 | 2023-06-16 |
 | [Herkesin Bir Derdi Var \(Cerrahpaşa\)](https://open.spotify.com/track/64VsL24YXDx46V9gMCK2CY) | [Volkan Konak](https://open.spotify.com/artist/48CUA59SDed3IdCctKndud) | [Maranda](https://open.spotify.com/album/3fQb7X41OaZWNmB31gBRsn) | 4:16 | 2025-04-01 | 2025-04-06 |
@@ -595,7 +596,7 @@
 | [HODRİ MEYDAN](https://open.spotify.com/track/7IVyGl2LapK633TQEhn6rz) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [HODRİ MEYDAN](https://open.spotify.com/album/3jwcQNmy7GNGjY3gfQ4PTZ) | 2:00 | 2024-12-25 | 2024-12-28 |
 | [HONG KONG](https://open.spotify.com/track/4FiDkc2woxfDbfCoSqx6pq) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HONG KONG](https://open.spotify.com/album/4q85FW8aOiLavEy0BEUeHq) | 1:51 | 2021-12-24 | 2022-03-01 |
 | [HOT](https://open.spotify.com/track/085J4lMzOEcymwLPktsbFF) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [HOT](https://open.spotify.com/album/7LSs8ufHN7cXBCobW69Omu) | 2:34 | 2025-07-13 | 2025-07-15 |
-| [HOT](https://open.spotify.com/track/6wD0Bgtt1wx3DuDd6uhWmi) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [HOT](https://open.spotify.com/album/3hiG6TaCzWuemBgd2fyh3A) | 2:34 | 2025-07-12 |  |
+| [HOT](https://open.spotify.com/track/6wD0Bgtt1wx3DuDd6uhWmi) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [HOT](https://open.spotify.com/album/3hiG6TaCzWuemBgd2fyh3A) | 2:34 | 2025-07-12 | 2025-07-18 |
 | [Hotbox](https://open.spotify.com/track/5dXvWrwLhWdEeDdpYD4E08) | [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Hotbox](https://open.spotify.com/album/5HEe9U91C9uUsL9DwUxdmh) | 2:20 | 2022-03-12 | 2022-03-14 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 | 2023-10-28 | 2023-11-25 |
@@ -1284,7 +1285,7 @@
 | [Şiir Oldum](https://open.spotify.com/track/35CiF98CSt8b2zTxHTck8i) | [Emre Nalbantoğlu](https://open.spotify.com/artist/14TogIxl5TVMe7aa7IaLv1) | [EN KRAL CEKET BENİM](https://open.spotify.com/album/6uX8bNAI0Feaf6Jgt6gdzR) | 1:52 | 2024-03-07 | 2024-03-29 |
 | [Şimdiki Aklım](https://open.spotify.com/track/3mcvBUQFQLzklDgU1bBnaW) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Şimdiki Aklım](https://open.spotify.com/album/4MiHGZmRm4SiEJTzxJ5ceJ) | 2:52 | 2021-03-27 | 2021-04-19 |
 | [ŞU AN](https://open.spotify.com/track/1G2ipJnWC0v0rSPPpzjoek) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [LATIN VIRGIN](https://open.spotify.com/album/0tBoIz7IZw9s9bM7lQRlqA) | 2:25 | 2023-06-06 | 2023-07-23 |
-| [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 | 2025-06-28 | 2025-07-15 |
+| [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 | 2025-06-28 |  |
 | [ŞUT](https://open.spotify.com/track/2C2m9namPfgkvcPgO0S6Xj) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 3:04 | 2025-01-18 | 2025-02-01 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

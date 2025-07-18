@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/3MzgdXI2ivOFdzRAmQYFsp"
+      },
+      "artists": [
+        {
+          "name": "Elijah Edwards",
+          "url": "https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167790,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2g9sxJx7MBqlBAf6DSD2SX"
+    },
+    {
+      "album": {
         "name": "Calling (Ambient version)",
         "url": "https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA"
       },
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 190000,
       "name": "Planet Calm",
       "url": "https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx"
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 164874,
       "name": "Sami Lok",
       "url": "https://open.spotify.com/track/6ad8ExozmvLsI8sOZgUqFe"

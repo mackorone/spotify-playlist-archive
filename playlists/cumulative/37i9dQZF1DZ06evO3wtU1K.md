@@ -4,7 +4,7 @@
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-107 songs - 10 hr 7 min
+108 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [The Name Of Our God](https://open.spotify.com/track/2N3ELS0qodljIlCx7BzOpe) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:45 | 2022-09-14 | 2024-06-22 |
 | [The River Of The Lord](https://open.spotify.com/track/4AWM3wvYUY7n0HgscOSHAw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 5:01 | 2022-09-24 | 2024-07-23 |
 | [THIS IS A MOVE \(LIVE FROM GREENSBORO\)](https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TEAR OFF THE ROOF \(LIVE FROM THE HOLY CITY\)](https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A) | 7:08 | 2024-06-27 |  |
-| [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 | 2022-09-14 |  |
+| [This Is A Move \- Live](https://open.spotify.com/track/3KK5R3usd3gMn6rLcKH2uz) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 7:25 | 2025-07-18 |  |
+| [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 | 2022-09-14 | 2025-07-18 |
 | [Thy Kingdom Come \- Live](https://open.spotify.com/track/4bXrOWwNpl47ebiRN0gGnT) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Thy Kingdom Come](https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon) | 6:01 | 2024-09-27 | 2024-12-24 |
 | [Together \(We'll Get Through This\)](https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Together \(We'll Get Through This\)](https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3) | 3:24 | 2022-09-14 |  |
 | [Warrior Of Heaven \- Live](https://open.spotify.com/track/7eozoUQaZ40JCzdVQboEBU) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 6:55 | 2022-10-20 | 2023-09-19 |

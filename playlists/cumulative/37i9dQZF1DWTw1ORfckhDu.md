@@ -2,9 +2,9 @@
 
 ### [100 Suomi](https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu)
 
-> 100 Suomi 💯 Jore & Zpoppa, DAVI ja Turisti.
+> 100 Suomi 💯
 
-953 songs - 1 day 21 hr 17 min
+955 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1000H Mummolassa](https://open.spotify.com/track/0pjCPHzuXdbHGQWMvoOcRy) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [1000H Mummolassa](https://open.spotify.com/album/2U4NQUwxujHN5rpiDL5lpq) | 2:40 | 2025-02-06 | 2025-02-28 |
 | [1000km](https://open.spotify.com/track/54sK1gGSZH5Bu8yLoUsVD5) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [1000km](https://open.spotify.com/album/3H4qQgILaZLRBicquLaoqF) | 2:38 | 2024-03-14 | 2024-05-10 |
 | [12 Am in Jynkkä](https://open.spotify.com/track/54qRUQdRIxduFlVgaVu7Pg) | [Pessa](https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba) | [12 Am in Jynkkä](https://open.spotify.com/album/2feltjnungFuF0cqLtI37r) | 2:32 | 2025-05-08 | 2025-05-30 |
+| [16 ct](https://open.spotify.com/track/3RbtraQDqbNGuviw5iJDJt) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Habson](https://open.spotify.com/artist/1oTR448XOPP7T54lMD6BGa) | [16 ct](https://open.spotify.com/album/2I8ZiXuYmFptvaDskAnpke) | 3:01 | 2025-07-17 |  |
 | [1987](https://open.spotify.com/track/3tRXMGfCoxiC0BNecVprR3) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Ministerinpaikal / 1987](https://open.spotify.com/album/0F2xzUyFFvkTIRKHhVsfu7) | 3:12 | 2025-03-13 | 2025-03-28 |
 | [2 tone \(feat\. Ares\)](https://open.spotify.com/track/5Fggrl5jqihP50JYhFUeLt) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [2 tone \(feat\. Ares\)](https://open.spotify.com/album/6GvQ3Y54cSOMg5bQOekotv) | 2:59 | 2025-06-19 |  |
 | [247](https://open.spotify.com/track/7JCSgrKfAWLoW5EttS6tEo) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c) | [247](https://open.spotify.com/album/2GpSzKe87fYEtw9luJcKvI) | 2:51 | 2024-07-04 | 2024-09-06 |
@@ -558,6 +559,7 @@
 | [Mä oon](https://open.spotify.com/track/3q9kjuulj6YIWhi5Ys9s42) | [FUGE](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Mä oon](https://open.spotify.com/album/5F5Ww70Fnrl2fDKmSg3TuZ) | 2:41 | 2025-05-08 | 2025-06-06 |
 | [Mä tiedän](https://open.spotify.com/track/0rSD1Am2Fss38eWRWoSivT) | [ALE](https://open.spotify.com/artist/1izgcy57Czf3DH50GcSdwW) | [Still Hustla EP](https://open.spotify.com/album/12F0BHnWuiYcFWu24fyfhB) | 2:45 | 2024-03-28 | 2024-04-12 |
 | [Mäk Gälis aka Siskos Broidi \(2024\)](https://open.spotify.com/track/10hOi9EVbHEJCnfPLXdzHr) | [Mäk Gälis](https://open.spotify.com/artist/3TjISn9d9gIsTasWGYtlWR) | [Mäk Gälis aka Siskos Broidi \(2024\)](https://open.spotify.com/album/364uYlJRjMYi5M29RkZOMm) | 2:51 | 2024-05-30 | 2024-07-02 |
+| [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz) | 2:37 | 2025-07-17 |  |
 | [Naapurintyttö](https://open.spotify.com/track/57JZLky65bz6I0rtLzkigX) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [Naapurintyttö](https://open.spotify.com/album/240PwR8HJSqfT3B5WAFtYx) | 2:43 | 2025-05-01 | 2025-05-16 |
 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 | 2024-11-07 |  |
 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 | 2024-08-22 | 2024-11-22 |

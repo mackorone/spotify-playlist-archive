@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-956 songs - 1 day 23 hr 55 min
+957 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,7 +508,7 @@
 | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/track/2y18WlxpQwH5CMCA0S7Osx) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/album/2V9nF6dNZq234xpICGqeuK) | 3:39 | 2021-12-16 | 2022-02-18 |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-13 | 2025-01-17 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-09-20 | 2025-05-16 |
-| [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 | 2024-09-19 |  |
+| [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 | 2024-09-19 | 2025-07-18 |
 | [Lotta & Sanna](https://open.spotify.com/track/1jiDCQUaa9LmWpQJRuOWRb) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Lotta & Sanna](https://open.spotify.com/album/4tAsGgc1Zs6vSzeVoKysgg) | 2:15 | 2021-12-16 | 2022-01-28 |
 | [Love](https://open.spotify.com/track/0QJwHsJO0RXWj0D3bJ9kpm) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Love](https://open.spotify.com/album/1K9qmgDs1Wqq2YNyWEVjRY) | 2:31 | 2025-04-14 | 2025-05-16 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-26 | 2023-03-25 |
@@ -819,6 +819,7 @@
 | [SÖDERMALM \- Remix](https://open.spotify.com/track/3tVnfy2EiiiEgLgkbQ1weS) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SÖDERMALM \(Remix\)](https://open.spotify.com/album/3UwYbsJK4kFYtSGENGqK7S) | 2:34 | 2022-10-21 | 2022-11-06 |
 | [Ta Mig Aldrig Härifrån](https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Ta Mig Aldrig Härifrån](https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ) | 3:07 | 2025-06-12 |  |
 | [Tack mitt \(X\)](https://open.spotify.com/track/122f2GTwtButQFALowd18H) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Tack mitt \(X\)](https://open.spotify.com/album/5o3QsdYt30N7vEC2O31kUE) | 2:08 | 2025-01-09 | 2025-01-24 |
+| [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 | 2025-07-17 |  |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-09-29 | 2023-01-27 |
 | [Tar det tillbaka igen](https://open.spotify.com/track/4s3JPsZs1hNPRUB9aQAk7L) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [Tar det tillbaka igen](https://open.spotify.com/album/67HCYbP85kMzkH6T4YG1ln) | 2:07 | 2023-08-17 | 2023-09-15 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-22 | 2025-05-13 |

@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Marti Dodson
 
-546 songs - 1 day 5 hr 25 min
+547 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Giving Up](https://open.spotify.com/track/1MDkdfWPIaV4YZ2vnJyDB7) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Giving Up](https://open.spotify.com/album/6CAtz3dRGq2NS42PdqieCf) | 3:14 | 2024-08-28 | 2024-12-07 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-04 | 2025-07-08 |
 | [Gods Don't Pray](https://open.spotify.com/track/7eovh5cO9CBhsMoDhYEXca) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Gods Don't Pray](https://open.spotify.com/album/3BuW7PWTMQFRqAm8M1Lisi) | 3:26 | 2025-05-01 | 2025-06-05 |
+| [Gold \- Acoustic](https://open.spotify.com/track/2RpMIPx8SPeO5kAMdrHNak) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Gold \(Acoustic\)](https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2) | 2:49 | 2025-07-07 |  |
 | [Good Bad & Ugly](https://open.spotify.com/track/1nnz7OThlvunqrtudGYOwy) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/5uDaq5guh0pWbziYqtHPN2) | 2:01 | 2024-08-28 | 2024-12-07 |
 | [Good Mourning](https://open.spotify.com/track/4MAJtt0IHlIn3gEGhIq8Oe) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2), [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Good Mourning](https://open.spotify.com/album/6Ak3S243l0i5MNlVspH79i) | 4:00 | 2024-05-02 | 2024-06-08 |
 | [Good To Be Alone](https://open.spotify.com/track/18f0ngPrmG9Pt219tFCQwm) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Good To Be Alone](https://open.spotify.com/album/7ryE5HpEoFLHY5X4lRBOmU) | 2:25 | 2025-07-07 |  |

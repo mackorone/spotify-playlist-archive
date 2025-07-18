@@ -1,12 +1,12 @@
 {
   "description": "New music from Drake, Travis Scott and The Clipse.",
-  "num_followers": 16013866,
+  "num_followers": 16012684,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHVRDAAAAAC2Kvyyj3Ed6FS+zbKbnGDD",
+  "snapshot_id": "aHh1YwAAAADyOljcSFno6H65PjHvXNCM",
   "tracks": [
     {
       "added_at": "2025-07-14 18:48:44",
@@ -187,6 +187,22 @@
       "duration_ms": 236626,
       "name": "Money On Money (feat. Future)",
       "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
+    },
+    {
+      "added_at": "2025-07-17 04:00:35",
+      "album": {
+        "name": "E. 1999 Eternal",
+        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "1st of Tha Month",
+      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
     },
     {
       "added_at": "2025-07-14 18:48:44",

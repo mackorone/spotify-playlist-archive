@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u2600\ufe0f \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03bd\u03bf\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03b1\u0399\u03ba\u03ad\u03c2 \u03c6\u03c9\u03bd\u03ad\u03c2 \u2600\ufe0f\u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Stan",
+  "description": "\u2600\ufe0f \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03bd\u03bf\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03b1\u0399\u03ba\u03ad\u03c2 \u03c6\u03c9\u03bd\u03ad\u03c2 \u2600\ufe0f\u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Panos Kiamos",
   "name": "K\u03b1\u03bb\u03bf\u03ba\u03b1\u03b9\u03c1\u03b9\u03bd\u03ac \u039b\u03b1\u03ca\u03ba\u03ac ",
   "tracks": [
     {
@@ -1371,6 +1371,28 @@
     },
     {
       "album": {
+        "name": "Kapoia Pou Den Agapas",
+        "url": "https://open.spotify.com/album/5TrdNqM1784aCcNVb8iItL"
+      },
+      "artists": [
+        {
+          "name": "Elli Kokkinou",
+          "url": "https://open.spotify.com/artist/3dHMnH9LXTSuhfdcWfjnoc"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203822,
+      "name": "Kapoia Pou Den Agapas",
+      "url": "https://open.spotify.com/track/55ZIWrMLIgkHJm5VRyCJG6"
+    },
+    {
+      "album": {
         "name": "Kapou Kapou",
         "url": "https://open.spotify.com/album/63EE2UxrSGQ4oHDuwKBeyR"
       },
@@ -1802,7 +1824,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 149166,
       "name": "Minima Estali",
       "url": "https://open.spotify.com/track/5OnqWLsfht6mBiUSD2NDA9"
@@ -2203,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Pame Stous Dikous Sou",
+        "url": "https://open.spotify.com/album/1AbTp2jC18RKm7rugdJ6xz"
+      },
+      "artists": [
+        {
+          "name": "Stamatis Gonidis",
+          "url": "https://open.spotify.com/artist/5By2qsuXvDrrlvRfyy6Kyk"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180963,
+      "name": "Pame Stous Dikous Sou",
+      "url": "https://open.spotify.com/track/3k42h1qfDwySyhyre1uUec"
+    },
+    {
+      "album": {
         "name": "Pano Kato",
         "url": "https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU"
       },
@@ -2294,6 +2334,24 @@
       "duration_ms": 190000,
       "name": "Paraponaki Mou",
       "url": "https://open.spotify.com/track/1h9nXyBYPaxetP1ViK28gu"
+    },
+    {
+      "album": {
+        "name": "Parata Me",
+        "url": "https://open.spotify.com/album/4ChCsQ1DvJRTbZFYeOQKBs"
+      },
+      "artists": [
+        {
+          "name": "Panos Kiamos",
+          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268256,
+      "name": "Parata Me",
+      "url": "https://open.spotify.com/track/0DEVg9fete5IrurfSMp99S"
     },
     {
       "album": {
@@ -3020,7 +3078,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 186442,
       "name": "Tha Grapsoume Istoria",
       "url": "https://open.spotify.com/track/01Yi1adIapW3den379xnF4"
@@ -3168,7 +3226,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 199090,
       "name": "Ti Na Sas Po",
       "url": "https://open.spotify.com/track/5rlPTd5apJPPcrX6P2OJov"

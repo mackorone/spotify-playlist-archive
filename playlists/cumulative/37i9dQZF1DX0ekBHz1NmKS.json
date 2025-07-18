@@ -5493,6 +5493,24 @@
     },
     {
       "album": {
+        "name": "Dance King",
+        "url": "https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150872,
+      "name": "Dance King",
+      "url": "https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V"
+    },
+    {
+      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC"
       },
@@ -11760,7 +11778,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 186900,
       "name": "Goldfish",
       "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
@@ -26716,7 +26734,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 174181,
       "name": "Shame on Me",
       "url": "https://open.spotify.com/track/5rlOIBiFjCDV89ylwnBZPA"
@@ -28740,6 +28758,24 @@
       "duration_ms": 203504,
       "name": "Springer",
       "url": "https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0"
+    },
+    {
+      "album": {
+        "name": "Springer Ikapp",
+        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214033,
+      "name": "Springer ikapp",
+      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
     },
     {
       "album": {

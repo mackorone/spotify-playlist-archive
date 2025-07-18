@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 688291,
+  "num_followers": 688480,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAA76HhVHBzN3QedUbDb4VWI",
+  "snapshot_id": "aHbrgAAAAAC6zMYNx+sbEL2IfcxmwbcP",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "A Simple Song",
-      "url": "https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -359,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "A Simple Song",
+      "url": "https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
       },
@@ -371,6 +371,26 @@
       "duration_ms": 181680,
       "name": "What Am I Gonna Do",
       "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 300113,
+      "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
     },
     {
       "added_at": null,
@@ -427,26 +447,6 @@
       "duration_ms": 278893,
       "name": "Say Something (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 300113,
-      "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/4Jn2CdZYqtIsPpIRYB1o47"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "we don't fight anymore",
         "url": "https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 220145,
       "name": "we don't fight anymore",
       "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/4Jn2CdZYqtIsPpIRYB1o47"
     },
     {
       "added_at": null,

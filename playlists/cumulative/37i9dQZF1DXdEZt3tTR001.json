@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Colorado, TX",
+        "url": "https://open.spotify.com/album/5FXdudccssLwPECirvslKG"
+      },
+      "artists": [
+        {
+          "name": "Mah Moud",
+          "url": "https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Colorado, TX",
+      "url": "https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 285746,
       "name": "He Loves Me (Lyzel in E Flat)",
       "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"

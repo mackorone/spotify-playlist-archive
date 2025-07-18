@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36180,
+  "num_followers": 36179,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "Mahma Sar",
-        "url": "https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn"
-      },
-      "artists": [
-        {
-          "name": "Abadi Al Johar",
-          "url": "https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf"
-        }
-      ],
-      "duration_ms": 240299,
-      "name": "Mahma Sar",
-      "url": "https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
         "name": "Little Things (Nia Archives Remix)",
         "url": "https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 160221,
       "name": "Little Things - Nia Archives Remix",
       "url": "https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
+        "name": "Mahma Sar",
+        "url": "https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn"
+      },
+      "artists": [
+        {
+          "name": "Abadi Al Johar",
+          "url": "https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf"
+        }
+      ],
+      "duration_ms": 240299,
+      "name": "Mahma Sar",
+      "url": "https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -1323,26 +1323,18 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "Sattar",
-        "url": "https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr"
+        "name": "\u0634\u0641\u062a",
+        "url": "https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX"
       },
       "artists": [
         {
-          "name": "Telfaz11",
-          "url": "https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh"
-        },
-        {
-          "name": "Hussain Al Labeed",
-          "url": "https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy"
-        },
-        {
-          "name": "Abdulaziz Al Shehri",
-          "url": "https://open.spotify.com/artist/6XbUXannvTDg5AzUWsal0t"
+          "name": "BrownMusic",
+          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
         }
       ],
-      "duration_ms": 99083,
-      "name": "Sheila Sattar",
-      "url": "https://open.spotify.com/track/3WIAH5gwrFhd4tJz0oyEZ9"
+      "duration_ms": 123503,
+      "name": "\u0634\u0641\u062a",
+      "url": "https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -1363,18 +1355,26 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "\u0634\u0641\u062a",
-        "url": "https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX"
+        "name": "Sattar",
+        "url": "https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr"
       },
       "artists": [
         {
-          "name": "BrownMusic",
-          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
+          "name": "Telfaz11",
+          "url": "https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh"
+        },
+        {
+          "name": "Hussain Al Labeed",
+          "url": "https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy"
+        },
+        {
+          "name": "Abdulaziz Al Shehri",
+          "url": "https://open.spotify.com/artist/6XbUXannvTDg5AzUWsal0t"
         }
       ],
-      "duration_ms": 123503,
-      "name": "\u0634\u0641\u062a",
-      "url": "https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs"
+      "duration_ms": 99083,
+      "name": "Sheila Sattar",
+      "url": "https://open.spotify.com/track/3WIAH5gwrFhd4tJz0oyEZ9"
     },
     {
       "added_at": "2024-09-30 12:18:54",

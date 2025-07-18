@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 240640,
+  "num_followers": 240681,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAChdihBNOpooMNX2VQe6sfV",
+  "snapshot_id": "aHbrgAAAAABjosKgkfo74h2u4DO/zQem",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estilolibre (Spanish Version)",
+        "url": "https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240893,
+      "name": "Fuego en el Fuego",
+      "url": "https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 251413,
       "name": "Pi\u00f9 che puoi (feat. Cher)",
       "url": "https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estilolibre (Spanish Version)",
-        "url": "https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 240893,
-      "name": "Fuego en el Fuego",
-      "url": "https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs"
     },
     {
       "added_at": null,

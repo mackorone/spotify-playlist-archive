@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 257519,
       "name": "\u4e5f\u8a31\u6211\u5011\u90fd\u7d2f\u4e86",
       "url": "https://open.spotify.com/track/0o61y79AKEQXK0CaI7uLIb"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-17",
+      "date_removed": null,
       "duration_ms": 270227,
       "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
       "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 237639,
       "name": "\u4f60\u7d66\u904e\u6211\u592a\u967d (\u5f71\u96c6\u300a\u6211\u5011\u8207\u60e1\u7684\u8ddd\u96e2\u2161\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/2B2VkawjgmF4IgfTxcZwfx"
@@ -4935,6 +4935,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u7684\u5c0d\u767d",
+        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185077,
+      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
+      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
+    },
+    {
+      "album": {
         "name": "\u4e00\u5207\u5e73\u5e38",
         "url": "https://open.spotify.com/album/33TkgPZWkWleCmNCchXHVQ"
       },
@@ -6326,7 +6344,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 244354,
       "name": "\u6700\u5f8c\u7684\u665a\u5b89(DEMO)",
       "url": "https://open.spotify.com/track/2BZnKatCiyHaRFFv3oy3v2"
@@ -8346,6 +8364,24 @@
       "duration_ms": 199154,
       "name": "\u85cd\u5929 - Acoustic",
       "url": "https://open.spotify.com/track/3ERjOssT8oJ42WsP42P9n6"
+    },
+    {
+      "album": {
+        "name": "\u85cf",
+        "url": "https://open.spotify.com/album/6jKEMduvWL1ivQHcsQzhNX"
+      },
+      "artists": [
+        {
+          "name": "\u80e1\u6a02\u5f64",
+          "url": "https://open.spotify.com/artist/3y7xbntnGkT9eyXv384NeI"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219402,
+      "name": "\u85cf",
+      "url": "https://open.spotify.com/track/0rWAYFhcd2nMJwm0v5K7R2"
     },
     {
       "album": {

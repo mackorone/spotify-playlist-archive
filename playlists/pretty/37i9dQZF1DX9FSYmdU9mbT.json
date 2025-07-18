@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1423522,
+  "num_followers": 1423803,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
+        "name": "Marina Lima",
+        "url": "https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "duration_ms": 305373,
+      "name": "N\u00e3o Sei Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
         "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
         "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 327946,
       "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
-        "name": "Marina Lima",
-        "url": "https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj"
-      },
-      "artists": [
-        {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
-        }
-      ],
-      "duration_ms": 305373,
-      "name": "N\u00e3o Sei Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Ex-Amor",
-        "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 245773,
-      "name": "Ex-Amor",
-      "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Djavan \"Ao Vivo\"",
         "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 254800,
       "name": "Meu Bem-Querer (Ao Vivo)",
       "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Ex-Amor",
+        "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Ex-Amor",
+      "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 235533,
-      "name": "O Mundo \u00c9 Um Moinho",
-      "url": "https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 128000,
       "name": "Sangue latino",
       "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 235533,
+      "name": "O Mundo \u00c9 Um Moinho",
+      "url": "https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -819,8 +819,8 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Andar Com F\u00e9",
-        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
+        "name": "Se Eu Quiser Falar Com Deus",
+        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 194175,
-      "name": "Andar Com F\u00e9",
-      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
+      "duration_ms": 275882,
+      "name": "Se Eu Quiser Falar Com Deus",
+      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -899,8 +899,8 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Se Eu Quiser Falar Com Deus",
-        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
+        "name": "Andar Com F\u00e9",
+        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 275882,
-      "name": "Se Eu Quiser Falar Com Deus",
-      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
+      "duration_ms": 194175,
+      "name": "Andar Com F\u00e9",
+      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "P\u00e1ssaro Proibido",
-        "url": "https://open.spotify.com/album/2cRw1H1XHHS9VHxQkbz0Y5"
+        "name": "Elis Regina Em Falso Brilhante",
+        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
       },
       "artists": [
         {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         }
       ],
-      "duration_ms": 275906,
-      "name": "Olhos Nos Olhos",
-      "url": "https://open.spotify.com/track/30F630HDvFOckjhqBZfl9L"
+      "duration_ms": 260493,
+      "name": "Como Nossos Pais",
+      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Rosa Morena",
-        "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
+        "name": "P\u00e1ssaro Proibido",
+        "url": "https://open.spotify.com/album/2cRw1H1XHHS9VHxQkbz0Y5"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 121986,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ"
+      "duration_ms": 275906,
+      "name": "Olhos Nos Olhos",
+      "url": "https://open.spotify.com/track/30F630HDvFOckjhqBZfl9L"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
+        "name": "Rosa Morena",
+        "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 121986,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
         "name": "Trinta",
         "url": "https://open.spotify.com/album/49I70bzY27d4gQaqdOdakq"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 291933,
       "name": "Espelhos D'\u00e1gua",
       "url": "https://open.spotify.com/track/4QuKUXkg7eaNgxdtkUIeSL"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
-        "name": "Elis Regina Em Falso Brilhante",
-        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Como Nossos Pais",
-      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
     },
     {
       "added_at": "2025-05-30 05:19:13",

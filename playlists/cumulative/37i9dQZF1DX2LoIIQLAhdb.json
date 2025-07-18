@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Wejdene",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : SenSey'",
   "name": "R&Bae",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 172129,
       "name": "Assez",
       "url": "https://open.spotify.com/track/5khLB5FEPptQb1PirpzYyg"
@@ -2778,6 +2778,24 @@
       "duration_ms": 140242,
       "name": "Encore",
       "url": "https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764"
+    },
+    {
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/5LsdAd8Wbd59kSQ85kPVPb"
+      },
+      "artists": [
+        {
+          "name": "Tallulah",
+          "url": "https://open.spotify.com/artist/2enfI1A3N4CyrreGjAUdD3"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155506,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/3fi1zaL252MTiiiIWoKr6f"
     },
     {
       "album": {
@@ -8920,8 +8938,12 @@
       },
       "artists": [
         {
-          "name": "Fallon Mikado",
-          "url": "https://open.spotify.com/artist/4FiU3JAQ5RicVZV1YwBqrW"
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
         }
       ],
       "date_added": "2025-07-10",
@@ -9122,6 +9144,24 @@
       "duration_ms": 176470,
       "name": "Too close (feat. Rsko)",
       "url": "https://open.spotify.com/track/0ZygVk1kxnwT6HRMprEnxV"
+    },
+    {
+      "album": {
+        "name": "Toucher ton coeur",
+        "url": "https://open.spotify.com/album/0R0hEIxvVydJ0aDi8fzJ9k"
+      },
+      "artists": [
+        {
+          "name": "Cikey",
+          "url": "https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151069,
+      "name": "Toucher ton coeur",
+      "url": "https://open.spotify.com/track/0Vnpk1bAbfQ2jKdI0xzpei"
     },
     {
       "album": {
@@ -9646,7 +9686,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 144466,
       "name": "WITCHU",
       "url": "https://open.spotify.com/track/5fBJV1HOCP1yWRpKae22xX"

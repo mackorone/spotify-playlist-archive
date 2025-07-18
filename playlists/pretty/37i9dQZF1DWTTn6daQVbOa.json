@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 924934,
+  "num_followers": 925756,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI"
     },
     {
-      "added_at": "2024-12-27 17:35:00",
-      "album": {
-        "name": "Seasons In The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J"
-      },
-      "artists": [
-        {
-          "name": "Terry Jacks",
-          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Seasons in the Sun",
-      "url": "https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A"
-    },
-    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "Anytime... Anywhere",
@@ -1403,6 +1387,22 @@
       "duration_ms": 220520,
       "name": "We're All Alone",
       "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
+    },
+    {
+      "added_at": "2024-12-27 17:35:00",
+      "album": {
+        "name": "Seasons In The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J"
+      },
+      "artists": [
+        {
+          "name": "Terry Jacks",
+          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Seasons in the Sun",
+      "url": "https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Behind Closed Doors",
-        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "I'll Never Fall in Love Again",
         "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 174840,
       "name": "I'll Never Fall in Love Again",
       "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Behind Closed Doors",
+        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Keeper Of The Castle",
+        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Ain't No Woman (Like The One I've Got)",
+      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Neither One Of Us",
         "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 232000,
       "name": "September Morn",
       "url": "https://open.spotify.com/track/2CXkN6UAb3jAFwz4VbsDq0"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Keeper Of The Castle",
-        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Ain't No Woman (Like The One I've Got)",
-      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Gather Me",
-        "url": "https://open.spotify.com/album/5THcElsOkPsIopiOQj18An"
-      },
-      "artists": [
-        {
-          "name": "Melanie",
-          "url": "https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Brand New Key",
-      "url": "https://open.spotify.com/track/7da5B9d2oVV16YSzXVxmrR"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 214946,
       "name": "I Am...I Said",
       "url": "https://open.spotify.com/track/67nKQBktGIafE3DBW3Cbe4"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Gather Me",
+        "url": "https://open.spotify.com/album/5THcElsOkPsIopiOQj18An"
+      },
+      "artists": [
+        {
+          "name": "Melanie",
+          "url": "https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "Brand New Key",
+      "url": "https://open.spotify.com/track/7da5B9d2oVV16YSzXVxmrR"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2411,18 +2411,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Daytime Friends: The Very Best Of Kenny Rogers",
-        "url": "https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ"
+        "name": "I'm In You",
+        "url": "https://open.spotify.com/album/1yn9J074uklyngo5SGS49U"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
         }
       ],
-      "duration_ms": 217533,
-      "name": "You Decorated My Life",
-      "url": "https://open.spotify.com/track/3gJYzy6nRvEFZPDpf074jG"
+      "duration_ms": 250000,
+      "name": "I'm In You",
+      "url": "https://open.spotify.com/track/03zB9duFz1JqLxAIYvGdac"
     }
   ],
   "unique_name": "Soft 70s",

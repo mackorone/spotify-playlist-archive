@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: SHAF
 
-270 songs - 17 hr 51 min
+271 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Al\-Furat](https://open.spotify.com/track/2OnVKpbC4WDedzVcoHjGBx) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [Metatext](https://open.spotify.com/artist/5GAi17x2CbRYk9666aI8AE) | [Al\-Furat](https://open.spotify.com/album/34fg5aZvCqPS5tMcGCwfGl) | 3:54 | 2023-09-07 | 2024-03-04 |
 | [Ala Moj Al Bahr](https://open.spotify.com/track/1LYtaI25LZhEWP20Xgp02A) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Kholoud omar](https://open.spotify.com/artist/5yOVcevWmL1ZQJl1ltDtIc) | [Ala Moj Al Bahr](https://open.spotify.com/album/2B3iR96IN7ZibpHB6NnUMo) | 4:35 | 2023-10-20 | 2023-11-17 |
 | [Ala Moj Al Bahr \- Live Album](https://open.spotify.com/track/3rA7tw0opq9qK1NNh2BwaA) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 7:28 | 2022-05-19 | 2023-06-24 |
+| [Albi](https://open.spotify.com/track/16XLWurcZVM96mYBgtPz4s) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Albi](https://open.spotify.com/album/4t9pyaj3xcA1FCxX1GFRak) | 2:51 | 2025-07-17 |  |
 | [Alchemist](https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Alchemist EP](https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv) | 8:35 | 2023-12-18 | 2024-02-18 |
 | [Alek Shway](https://open.spotify.com/track/1oxOYMvVimEG6xz2OI7hj2) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Yazan Rousan](https://open.spotify.com/artist/3e6ookZkJCTBdGD1eol2qW) | [Alek Shway](https://open.spotify.com/album/5DnTtizoWcoAW0FoKascoB) | 3:33 | 2024-03-03 | 2025-02-11 |
 | [Alf Leila We Leila](https://open.spotify.com/track/4sMOCYlI7Un6lXvStxQHmk) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Alf Leila We Leila](https://open.spotify.com/album/7fd3zydNBZ8GdVwNCGm3jS) | 2:49 | 2024-05-17 | 2024-05-23 |
@@ -244,7 +245,7 @@
 | [W Maak](https://open.spotify.com/track/2x4A8I4dHDoilUNfkcCT3V) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 3:41 | 2022-03-30 | 2022-11-26 |
 | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/track/16FIBzbTBwPvO35SFTG4ql) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 4:09 | 2022-09-12 | 2023-07-04 |
 | [Wake Me Up In Paris](https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Wake Me Up In Paris](https://open.spotify.com/album/6TiAOruZ9SPA5FLsD7ACsN) | 2:16 | 2023-08-16 | 2024-12-06 |
-| [Wala Ala Balo \( 2024 EDIT \)](https://open.spotify.com/track/58iXtKE26rsmRVVNp9nZzU) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Wala Ala Balo \( 2024 EDIT \)](https://open.spotify.com/album/10LnKFvEK65gpfLW7MxWya) | 2:31 | 2024-02-10 |  |
+| [Wala Ala Balo \( 2024 EDIT \)](https://open.spotify.com/track/58iXtKE26rsmRVVNp9nZzU) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Wala Ala Balo \( 2024 EDIT \)](https://open.spotify.com/album/10LnKFvEK65gpfLW7MxWya) | 2:31 | 2024-02-10 | 2025-07-18 |
 | [Wala Ala Balo Edit](https://open.spotify.com/track/3YV7ImEdD2moA9ZALYFbu1) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [Wala Ala Balo Edit](https://open.spotify.com/album/6HqYQvHSW2qBqk7jcwhFuW) | 6:17 | 2023-12-01 | 2024-01-27 |
 | [Walhala](https://open.spotify.com/track/4vQsQlcUX3y0D366nBl9c7) | [Merzzy](https://open.spotify.com/artist/27GQeuJPEHgfG39wMBPxWj), [Dj Rony](https://open.spotify.com/artist/0Y7sXdW1O0pIyM9yCs7G0i) | [Walhala](https://open.spotify.com/album/4yNGmUORZTYkMvnHEy3mfZ) | 4:50 | 2025-06-19 |  |
 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-11-17 | 2025-05-12 |

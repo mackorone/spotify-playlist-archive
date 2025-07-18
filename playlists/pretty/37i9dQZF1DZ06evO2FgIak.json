@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 50701,
+  "num_followers": 50711,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAACV3tUr2aosExkFnu0+JkBc",
+  "snapshot_id": "aHbrgAAAAAC8zFHWvWBrCYEFvspSPJzN",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
-        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "Crawlin' Kingsnake",
-      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At The Checkerboard Lounge",
         "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 445026,
       "name": "The Red Rooster",
       "url": "https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
+        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "Crawlin' Kingsnake",
+      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "Walkin' Thru The Park",
-      "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Waltz (Deluxe Version)",
         "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "Walkin' Thru The Park",
+      "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Muddy Waters",
         "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Waltz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 368773,
-      "name": "Caldonia (feat. Muddy Waters) - Concert Version",
-      "url": "https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 388826,
       "name": "Back to the Chicken Shack - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
       "url": "https://open.spotify.com/track/3losOKYp0VStjuhL9t4XGi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Waltz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 368773,
+      "name": "Caldonia (feat. Muddy Waters) - Concert Version",
+      "url": "https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5"
     },
     {
       "added_at": null,

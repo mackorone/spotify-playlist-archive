@@ -4,7 +4,7 @@
 
 > This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 25 min
+44 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Any Day Now](https://open.spotify.com/track/3yl7YwoNy3hzbjQV4Ae4xO) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Any Day Now](https://open.spotify.com/album/4yp9MilA3JmnynGkK33EZw) | 3:13 | 2022-09-17 | 2023-01-19 |
 | [Anything But Love](https://open.spotify.com/track/2On00qNEMTIGxOGKYHS6r2) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:32 | 2024-05-10 | 2024-07-24 |
 | [Bad Advice](https://open.spotify.com/track/6yccTjj3z8qIXJCEzLZ5GJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:27 | 2024-05-13 | 2024-07-23 |
-| [Bed on Fire](https://open.spotify.com/track/2BJTwF42ARiW2RQWyDgoLS) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [TOP HITS 2024](https://open.spotify.com/album/4eoUp2Fr6MZTggBU5e8BVK) | 3:48 | 2024-05-15 |  |
+| [Bed on Fire](https://open.spotify.com/track/2BJTwF42ARiW2RQWyDgoLS) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [TOP HITS 2024](https://open.spotify.com/album/4eoUp2Fr6MZTggBU5e8BVK) | 3:48 | 2024-05-15 | 2025-07-18 |
 | [Bed on Fire](https://open.spotify.com/track/6Ie1qYgJJWk8wn0tM5317Z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Relaxing Pop](https://open.spotify.com/album/5H8jhDJqoZF3LMV1ICBYo0) | 3:48 | 2024-03-28 | 2024-04-01 |
+| [Bed on Fire \(feat\. Ingrid Andress\)](https://open.spotify.com/track/06IC4v8Smdm5fVQuMAOxe2) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [songs for sad eyes](https://open.spotify.com/album/6NS3kVO5BUMDdWlIOvOk65) | 3:48 | 2025-07-18 |  |
 | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5) | 3:48 | 2022-09-08 |  |
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-09-08 |  |
 | [Both](https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:23 | 2022-09-08 |  |

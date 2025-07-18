@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-232 songs - 11 hr 35 min
+233 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-11-08 |  |
 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 | 2024-09-20 |  |
 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 | 2024-12-09 |  |
-| [Burza](https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Burza](https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj) | 3:03 | 2024-10-17 |  |
+| [Burza](https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Burza](https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj) | 3:03 | 2024-10-17 | 2025-07-18 |
 | [Bądź tu ze mną](https://open.spotify.com/track/0NFOKweZTdra8nBOxgA7C2) | [Sylwia Przybysz](https://open.spotify.com/artist/2AIobjujCm6ktZMZeY4M09) | [Bądź tu ze mną](https://open.spotify.com/album/4vqGL1vM1t7fF7r6U3DKKJ) | 2:41 | 2025-07-04 |  |
+| [Błękit](https://open.spotify.com/track/2MCf7Lv6OKjbozB5U1YdNC) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Błękit](https://open.spotify.com/album/6AwIsJm2zgnyojCJXvQ1xM) | 2:28 | 2025-07-04 |  |
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-28 |  |
 | [Cały czas](https://open.spotify.com/track/0QJOCY8XN0CpmLtIdQLRGK) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Cały czas](https://open.spotify.com/album/76PJvmUn6i4tMeBUqFBHJ8) | 2:48 | 2024-06-28 | 2024-11-30 |
 | [Chcę tu zostać](https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Chcę tu zostać](https://open.spotify.com/album/6xSdJmLKx6LiT44WwxUzku) | 3:00 | 2024-06-28 | 2024-09-28 |

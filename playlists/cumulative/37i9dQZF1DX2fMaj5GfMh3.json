@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: remme",
+  "description": "De nieuwste pop songs. Cover: Judith",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -858,6 +858,24 @@
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "album": {
+        "name": "april",
+        "url": "https://open.spotify.com/album/6qJIriPhREpx7cSdgGAtFL"
+      },
+      "artists": [
+        {
+          "name": "Judith",
+          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141748,
+      "name": "april",
+      "url": "https://open.spotify.com/track/7xba9o02EQR0YMrBOZ4d10"
     },
     {
       "album": {
@@ -2507,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "Can't Take You Home",
+        "url": "https://open.spotify.com/album/7ircwf7LABt7ds3vhYbgO4"
+      },
+      "artists": [
+        {
+          "name": "Denzel Chain",
+          "url": "https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Can't Take You Home",
+      "url": "https://open.spotify.com/track/2ghd71Bobpq07hQ7PU9AB4"
+    },
+    {
+      "album": {
         "name": "Can't Tame Her",
         "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
       },
@@ -2576,6 +2612,24 @@
       "duration_ms": 148484,
       "name": "Careful",
       "url": "https://open.spotify.com/track/5LSjtkkZfkaqA5PyreYhtO"
+    },
+    {
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/0x6bbG3rSTD5ZOXMlMtwta"
+      },
+      "artists": [
+        {
+          "name": "Jelle van Dael",
+          "url": "https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/71nMZJCL3CptTlHdW1HDx4"
     },
     {
       "album": {
@@ -4933,6 +4987,24 @@
     },
     {
       "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
       },
@@ -5894,7 +5966,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 184218,
       "name": "Full Attention",
       "url": "https://open.spotify.com/track/6Yhzabh1wK19kniAJOz1G2"
@@ -7525,6 +7597,24 @@
     },
     {
       "album": {
+        "name": "Home Tonight",
+        "url": "https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208842,
+      "name": "Home Tonight",
+      "url": "https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG"
+    },
+    {
+      "album": {
         "name": "Music For People Who Believe In Love",
         "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
       },
@@ -8041,6 +8131,24 @@
     },
     {
       "album": {
+        "name": "I Can Die Now",
+        "url": "https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171280,
+      "name": "I Can Die Now",
+      "url": "https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -8110,6 +8218,24 @@
       "duration_ms": 224093,
       "name": "I Can\u2019t Believe We Never Went Out Dancing",
       "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
+    },
+    {
+      "album": {
+        "name": "I Can't Lose",
+        "url": "https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183284,
+      "name": "I Can\u2019t Lose",
+      "url": "https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H"
     },
     {
       "album": {
@@ -8362,7 +8488,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 169666,
       "name": "I Like You (Me Gustas Tu)",
       "url": "https://open.spotify.com/track/1LS2VGqz4RRH2NbxOmLtcm"
@@ -10160,7 +10286,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 177273,
       "name": "Living My Best Life",
       "url": "https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog"
@@ -11478,7 +11604,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 275780,
       "name": "More to Lose",
       "url": "https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF"
@@ -11774,7 +11900,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 160966,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/37gXjQOuMmSQHIdpN0kSyJ"
@@ -11976,7 +12102,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -13862,7 +13988,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 157895,
       "name": "Professional Liar",
       "url": "https://open.spotify.com/track/7Lqaw3k3xXIuNqM5FCdbUY"
@@ -14920,7 +15046,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 173020,
       "name": "She Knows Me Now (The Silent Song)",
       "url": "https://open.spotify.com/track/6mu0veQ0m8WuWp8TyLWKOw"
@@ -15342,7 +15468,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 224733,
       "name": "Sleeping With The Lights On",
       "url": "https://open.spotify.com/track/79WmVVG6KbCecp45eyhbfX"
@@ -16750,7 +16876,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 167142,
       "name": "Tears Dry Tonight",
       "url": "https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ"
@@ -17346,7 +17472,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 213895,
       "name": "This Song",
       "url": "https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7"
@@ -17400,7 +17526,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 223000,
       "name": "Till the Sun Comes Up",
       "url": "https://open.spotify.com/track/3PE4TOJQ5NlP21Xc1Ptqig"
@@ -18825,6 +18951,24 @@
     },
     {
       "album": {
+        "name": "Why Is She Still Here?",
+        "url": "https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150255,
+      "name": "Why Is She Still Here?",
+      "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
+    },
+    {
+      "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
       },
@@ -19180,7 +19324,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 209476,
       "name": "You Got Me Hurt",
       "url": "https://open.spotify.com/track/0OYaJlbQOL5L2IhDt7OlAD"
@@ -19398,7 +19542,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 169627,
       "name": "your opinion",
       "url": "https://open.spotify.com/track/4ujzt2xbe6cqhE4wK9ImkR"

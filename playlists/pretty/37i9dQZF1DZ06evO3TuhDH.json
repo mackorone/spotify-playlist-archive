@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 18473,
+  "num_followers": 18480,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAABgQWHIxyPEplwahw/s6kcG",
+  "snapshot_id": "aHbrgAAAAACWvEtl66Ms6eY02gl4PEbx",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TWINNEM",
+        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 117066,
+      "name": "TWINNEM",
+      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Die 4 Respect",
         "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
@@ -363,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TWINNEM",
-        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
       },
       "artists": [
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 117066,
-      "name": "TWINNEM",
-      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
+      "duration_ms": 208822,
+      "name": "Slide (with Gunna)",
+      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
     },
     {
       "added_at": null,
@@ -395,26 +415,6 @@
       "duration_ms": 119715,
       "name": "2055",
       "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Now or Never",
-        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 208822,
-      "name": "Slide (with Gunna)",
-      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
     },
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tricks For You",
-        "url": "https://open.spotify.com/album/2BtgTsvhDdtOU34K1XmZWu"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 148598,
-      "name": "Tricks For You",
-      "url": "https://open.spotify.com/track/7IT85m2v2RUSyjdSdz4NWG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -531,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tricks For You",
+        "url": "https://open.spotify.com/album/2BtgTsvhDdtOU34K1XmZWu"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 148598,
+      "name": "Tricks For You",
+      "url": "https://open.spotify.com/track/7IT85m2v2RUSyjdSdz4NWG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What Happened To Forever?",
         "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
       },
@@ -543,26 +543,6 @@
       "duration_ms": 76424,
       "name": "Lick Back",
       "url": "https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Upnow (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 162386,
-      "name": "Upnow (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO"
     },
     {
       "added_at": null,
@@ -587,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+        "name": "Upnow (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD"
       },
       "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+      "duration_ms": 162386,
+      "name": "Upnow (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 116760,
       "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
         "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 231470,
       "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
       "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 118280,
-      "name": "Phuck It",
-      "url": "https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not In The Store",
         "url": "https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 189870,
       "name": "Not In The Store",
       "url": "https://open.spotify.com/track/0Yucu5issPtc4Et5eHDBRS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 118280,
+      "name": "Phuck It",
+      "url": "https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "No Angels (with Lola Brooke)",
-      "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "No Angels (with Lola Brooke)",
+      "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
     },
     {
       "added_at": null,

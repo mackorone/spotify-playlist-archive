@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Kroi
 
-2,376 songs - 6 day 4 hr 53 min
+2,378 songs - 6 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,7 +883,7 @@
 | [Run](https://open.spotify.com/track/62bRkhn2FJ26Bdktx9tlgg) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Dance for Sorrow](https://open.spotify.com/album/1hygEtNrQzGyizRejO6lF6) | 3:49 | 2023-07-04 | 2023-08-09 |
 | [run a marathon](https://open.spotify.com/track/1GLdIW8xUY07dKESHxVtbN) | [Nitroday](https://open.spotify.com/artist/4AjzuiHaLa2FjngUldW4e5) | [run a marathon](https://open.spotify.com/album/2UdrMmf1rqROP6tDo1f3Xg) | 3:56 | 2023-12-19 | 2024-01-05 |
 | [Runaway](https://open.spotify.com/track/0OZ3yFzBy6ULPZh58pwgX2) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Runaway](https://open.spotify.com/album/58t2YKGd5II2bwvxp6LYfl) | 4:55 | 2023-06-20 | 2023-07-12 |
-| [rundown](https://open.spotify.com/track/5uzBqoiKKn4aYDzhf25yxY) | [yubiori](https://open.spotify.com/artist/5oZhNJP1zUPqUW6RLwneNo) | [yubiori2](https://open.spotify.com/album/2pjf8qgJIIhi6lgbgMSujz) | 3:45 | 2025-07-02 |  |
+| [rundown](https://open.spotify.com/track/5uzBqoiKKn4aYDzhf25yxY) | [yubiori](https://open.spotify.com/artist/5oZhNJP1zUPqUW6RLwneNo) | [yubiori2](https://open.spotify.com/album/2pjf8qgJIIhi6lgbgMSujz) | 3:45 | 2025-07-02 | 2025-07-18 |
 | [S.O.S\. Saitei Oyobi Saiaku](https://open.spotify.com/track/71ozKkId3VfVFpqT7T98cA) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [S.O.S\. Saitei Oyobi Saiaku](https://open.spotify.com/album/0oqiUTJKwoCEKjrbHpDfES) | 3:14 | 2023-05-16 | 2023-05-31 |
 | [S.O.S.\(さいていおよびさいあく\)](https://open.spotify.com/track/3Wq6qTf6EyS2ULINf2pcLv) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [S.O.S.\(さいていおよびさいあく\)](https://open.spotify.com/album/2OFlLpgYjRqSvo7CS8tdcg) | 3:14 | 2023-05-16 | 2023-05-18 |
 | [Sad Song](https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Sad Song](https://open.spotify.com/album/71PTt2kbw3q1lb6YeMqyiF) | 3:23 | 2023-08-22 | 2023-09-27 |
@@ -1039,7 +1039,7 @@
 | [Sun of Love](https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Sun of Love](https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I) | 4:12 | 2023-02-21 | 2023-04-05 |
 | [SUNBURST](https://open.spotify.com/track/2w3zalxLtDZ79Y0rckb9LR) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [SUNBURST](https://open.spotify.com/album/14DsydSdy9xFYHzQ5avdlU) | 3:15 | 2025-04-15 |  |
 | [Sunny Days](https://open.spotify.com/track/6rgx30CqVGujB7BRVrNvaW) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [Sunny Days](https://open.spotify.com/album/1UCXsazN1bDBbu6FFr55RT) | 3:43 | 2024-11-13 | 2024-11-29 |
-| [Sunny Side Steady](https://open.spotify.com/track/0Hu9dxpjyp7uzls6w6LDHx) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [Sunny Side Steady](https://open.spotify.com/album/2YDi7QJ2TM5WbdafXn0QFv) | 4:56 | 2025-07-02 |  |
+| [Sunny Side Steady](https://open.spotify.com/track/0Hu9dxpjyp7uzls6w6LDHx) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [Sunny Side Steady](https://open.spotify.com/album/2YDi7QJ2TM5WbdafXn0QFv) | 4:56 | 2025-07-02 | 2025-07-18 |
 | [SUNNY SIDE UP](https://open.spotify.com/track/3wPbzNhefNUn2qd9Ocnksd) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [SUNNY SIDE UP](https://open.spotify.com/album/1Qy1WTc8R9BDxxkN0jomnw) | 3:55 | 2025-04-29 | 2025-06-25 |
 | [Sunshine](https://open.spotify.com/track/7iOawL9cuIdPVzt7vT6QxA) | [Ryota Fujimaki](https://open.spotify.com/artist/7r3FkquAY1tv1roZs3unJ1) | [Sunshine](https://open.spotify.com/album/361LK8wqvhs0Sv6oVPwzMz) | 4:52 | 2023-01-13 | 2023-01-18 |
 | [Sunshine \- Re\-Recorded](https://open.spotify.com/track/6JIzqttuA0NtRWGIRlKUcc) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Sunshine \(Re\-Recorded\)](https://open.spotify.com/album/0nPjuJweUTvqyYZoZXlZWL) | 3:25 | 2025-03-11 | 2025-03-19 |
@@ -1288,6 +1288,7 @@
 | [かかってこいよバッドエンド](https://open.spotify.com/track/2eEenDTP3qIQjc1eHQYzpY) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [あばら](https://open.spotify.com/album/0Ar9gmzTOhV7VUYwQag6ue) | 2:27 | 2025-01-28 | 2025-02-26 |
 | [かまわないよ](https://open.spotify.com/track/2LBhA2vHo8RK8C55TRASp7) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [かまわないよ](https://open.spotify.com/album/0Wntvf1i3pt98VJ8PqOFWD) | 3:38 | 2025-07-08 |  |
 | [かみんち](https://open.spotify.com/track/0qpll2Iu7RM1P2YI7jxUFc) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [かみんち](https://open.spotify.com/album/1ydEpJ0NE93jZZAfzLrjRs) | 3:53 | 2025-07-08 |  |
+| [かるガルEveryday!!](https://open.spotify.com/track/1EQP2YR8wYmdPV8xGQPT0e) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [かるガルEveryday!!](https://open.spotify.com/album/75MYeX009enXEyIK8rFFjw) | 2:42 | 2025-07-17 |  |
 | [きいていて](https://open.spotify.com/track/6RpmTcMd330ki2CbUKzoTE) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx), [の子](https://open.spotify.com/artist/5ynUxXWjJSfQUALZLAea1E), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [きいていて](https://open.spotify.com/album/7n4hVddjTgCy0xibRKuH2c) | 4:18 | 2024-11-05 | 2024-11-13 |
 | [きかいにおまかせ](https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [きかいにおまかせ](https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK) | 2:58 | 2023-06-13 | 2023-07-19 |
 | [きみにあいてえ](https://open.spotify.com/track/4dA4oWF8ZVBgxERAxKDEqn) | [Hideyoshi](https://open.spotify.com/artist/3XL6HB2fM5WEBzQfG19n21) | [きみにあいてえ](https://open.spotify.com/album/0cnYuThZZGj14iiwcPJWtP) | 4:16 | 2024-07-30 | 2024-08-07 |
@@ -1337,6 +1338,7 @@
 | [たまらないね！](https://open.spotify.com/track/1b4y5bCPpX1x8dvpNMYhYl) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [たまらないね！](https://open.spotify.com/album/51t70bWwOGU3Sa8B8BP9fp) | 3:14 | 2025-07-08 | 2025-07-16 |
 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 | 2023-03-07 | 2023-04-05 |
 | [ちょうぐにゃぐにゃ](https://open.spotify.com/track/6xchPfJPRAy7cbkZ3GFvsS) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [ちょうぐにゃぐにゃ](https://open.spotify.com/album/5WPQR2JYqK4AL7ifdfahAP) | 3:49 | 2024-01-23 | 2024-02-14 |
+| [つづく](https://open.spotify.com/track/70ERCHbKifPcFyUhLJPpM2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [つづく](https://open.spotify.com/album/7va0bdMQ39GEglWhgMF2XE) | 4:05 | 2025-07-17 |  |
 | [つもる話し](https://open.spotify.com/track/3QIDeOvqubq6pDxQq5rOlN) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [つもる話し](https://open.spotify.com/album/29IKGV8xfKvVxnTagolL3L) | 3:44 | 2025-01-28 | 2025-02-19 |
 | [てん対称移動](https://open.spotify.com/track/0zKOfNlLeygAyy55AxJoXf) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [てん対称移動](https://open.spotify.com/album/5hRtyxHIhwg5QkK3Yt01u3) | 2:29 | 2023-09-12 | 2023-09-27 |
 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 | 2024-02-20 | 2024-03-27 |

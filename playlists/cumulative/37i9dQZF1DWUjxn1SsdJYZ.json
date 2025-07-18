@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/3VGBYUs7K4HIl3mYEI00q0"
+      },
+      "artists": [
+        {
+          "name": "J-MILLA",
+          "url": "https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165956,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0Mg714VwCMvKkPVuWkLIWq"
+    },
+    {
+      "album": {
         "name": "All Three Eyes",
         "url": "https://open.spotify.com/album/7eLKNmCLp1dG8Mo11pW3Oi"
       },
@@ -2410,6 +2428,28 @@
       "duration_ms": 136000,
       "name": "BIG BOP",
       "url": "https://open.spotify.com/track/47BDGmZwPcI77hvIq0YquL"
+    },
+    {
+      "album": {
+        "name": "BIG BUGGER",
+        "url": "https://open.spotify.com/album/5w02dsbD3HTBH7SDJyGsaW"
+      },
+      "artists": [
+        {
+          "name": "Jords",
+          "url": "https://open.spotify.com/artist/62tGZOfLOihSl9xQUIgMtQ"
+        },
+        {
+          "name": "Cult Sh\u03c6tta",
+          "url": "https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185009,
+      "name": "BIG BUGGER",
+      "url": "https://open.spotify.com/track/5jvyuzWJVkcy2vsQm5TU0k"
     },
     {
       "album": {
@@ -3906,10 +3946,32 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 113142,
       "name": "CARIBBEAN",
       "url": "https://open.spotify.com/track/6zyOSOPIBuPLFPO8h1C13l"
+    },
+    {
+      "album": {
+        "name": "SYD TO LDN",
+        "url": "https://open.spotify.com/album/4UzdIgxvCnQRHEjQhXi8ui"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        },
+        {
+          "name": "Fizzler",
+          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "CARRY ON",
+      "url": "https://open.spotify.com/track/4rGqkoMANLNpoxe9BjQCht"
     },
     {
       "album": {
@@ -6848,7 +6910,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 170434,
       "name": "Face It",
       "url": "https://open.spotify.com/track/2jmwUQDIENcoLKAzfz7hLi"
@@ -6870,7 +6932,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 139636,
       "name": "FADE",
       "url": "https://open.spotify.com/track/0L6lHg6QcYpO0JYsvOjZ39"
@@ -8584,10 +8646,36 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 155344,
       "name": "GIRLS!",
       "url": "https://open.spotify.com/track/7hkgz7F6Z8UeRVmwp1ztzU"
+    },
+    {
+      "album": {
+        "name": "GIVE INTO MY FEARS",
+        "url": "https://open.spotify.com/album/0q8UOa78zlIYs68dRni6Ac"
+      },
+      "artists": [
+        {
+          "name": "Jamaica Moana",
+          "url": "https://open.spotify.com/artist/0kCAtshqpuXucHnqXehLfh"
+        },
+        {
+          "name": "PA777IENCE",
+          "url": "https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t"
+        },
+        {
+          "name": "ZAY.R",
+          "url": "https://open.spotify.com/artist/4o9SxRBHFx7dr8dbmaHW0M"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205988,
+      "name": "GIVE INTO MY FEARS",
+      "url": "https://open.spotify.com/track/4o57z3sHSnvNJ11HHnR3Bd"
     },
     {
       "album": {
@@ -8892,7 +8980,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 208571,
       "name": "Got Them",
       "url": "https://open.spotify.com/track/3GLV0BMXvc9S1yQsnnplm0"
@@ -12800,7 +12888,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 184456,
       "name": "LIVIN' OUT WEST",
       "url": "https://open.spotify.com/track/2FMwKrvea4tWPymi4BCLeD"
@@ -17875,6 +17963,24 @@
     },
     {
       "album": {
+        "name": "Real Deal",
+        "url": "https://open.spotify.com/album/0i6UaaSGMbrPSUjOW4JD0y"
+      },
+      "artists": [
+        {
+          "name": "Ay Huncho",
+          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178295,
+      "name": "Real Deal",
+      "url": "https://open.spotify.com/track/1qppL37w1PGW32kA60nHCm"
+    },
+    {
+      "album": {
         "name": "REAL ONE",
         "url": "https://open.spotify.com/album/7lMCG6gXBAQugRJ6wgggh9"
       },
@@ -18024,7 +18130,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 183013,
       "name": "RED LIGHTS (feat. Nardean)",
       "url": "https://open.spotify.com/track/5kzA9kG4lzaGYAsULq2NPL"
@@ -23201,6 +23307,24 @@
     },
     {
       "album": {
+        "name": "THE LUCKY ONES",
+        "url": "https://open.spotify.com/album/42v6qc7Vclq8F0bRhQdh3A"
+      },
+      "artists": [
+        {
+          "name": "Denzel Kennedy",
+          "url": "https://open.spotify.com/artist/0R46HgOV9OdOrQtEons9vC"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218357,
+      "name": "Under the Same Sky",
+      "url": "https://open.spotify.com/track/1ItVoPz02UTO6e6tLaCSqF"
+    },
+    {
+      "album": {
         "name": "Underdog",
         "url": "https://open.spotify.com/album/3fOVdOefDN43WjiLi2m7ZF"
       },
@@ -23350,6 +23474,24 @@
       "duration_ms": 124542,
       "name": "Up The Score",
       "url": "https://open.spotify.com/track/3ny6FNv232uXYHEEKyZjxp"
+    },
+    {
+      "album": {
+        "name": "UPPERCUT (BUTCHERED Pt.4)",
+        "url": "https://open.spotify.com/album/7iK7N162n6UzdLWlm7fE53"
+      },
+      "artists": [
+        {
+          "name": "Lil Wright",
+          "url": "https://open.spotify.com/artist/7i03rpnL7xfaXDmCj72JVA"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130757,
+      "name": "UPPERCUT - BUTCHERED Pt.4",
+      "url": "https://open.spotify.com/track/6uCUPPkHVGkYMTzSjXOWBe"
     },
     {
       "album": {

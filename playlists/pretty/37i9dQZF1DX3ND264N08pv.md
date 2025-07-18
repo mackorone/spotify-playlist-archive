@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,011 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,050 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 27 | [Run 4 Your Life](https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Run 4 Your Life](https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew) | 2:44 |
 | 28 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 |
 | 29 | [Fear Means Nothing](https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j) | [LØIS](https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5), [NATHN](https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fear Means Nothing](https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr) | 5:53 |
-| 30 | [Monkey Man](https://open.spotify.com/track/6bSKqsylJ6DzDP6Onvp746) | [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu), [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Monkey Man](https://open.spotify.com/album/4R9thnGKDqtC5jzajpi5u4) | 2:20 |
-| 31 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 |
+| 30 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 |
+| 31 | [Monkey Man](https://open.spotify.com/track/6bSKqsylJ6DzDP6Onvp746) | [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu), [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Monkey Man](https://open.spotify.com/album/4R9thnGKDqtC5jzajpi5u4) | 2:20 |
 | 32 | [Holy Calamity](https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Holy Calamity](https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj) | 2:41 |
 | 33 | [The End](https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [The End](https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej) | 2:56 |
 | 34 | [Straight To The Brain](https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Straight To The Brain](https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q) | 2:05 |

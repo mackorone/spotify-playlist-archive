@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,547 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,648 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 27 | [The Wild One \- Single Version](https://open.spotify.com/track/4upv1CF2L81mccpBlHB7KZ) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Quatro](https://open.spotify.com/album/7fYxOhT8bTHJ2AE8Om4kTy) | 2:51 |
 | 28 | [Mama Weer All Crazee Now](https://open.spotify.com/track/2Gp23sr178DBntGtqKnJez) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Slayed? \(Expanded\)](https://open.spotify.com/album/3fnE8RruCbRZJCcUgV0OMt) | 3:45 |
 | 29 | [Strutter](https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:10 |
-| 30 | [Ooh La La](https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 |
+| 30 | [Ooh La La](https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:32 |
 | 31 | [Run Runaway](https://open.spotify.com/track/5e0ozDjIRDuitUuekiF6ns) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [The Amazing Kamikaze Syndrome \(Expanded\)](https://open.spotify.com/album/14DvsG0HgGAdHGJQRtMFmv) | 5:00 |
 | 32 | [Jeepster \- 2003 Remaster](https://open.spotify.com/track/0v1wsyUb3UplLdgcdTbUEd) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:12 |
 | 33 | [Suffragette City \- 2012 Remaster](https://open.spotify.com/track/3YZa4IzxK2UtEKTvdTgsi8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 3:28 |

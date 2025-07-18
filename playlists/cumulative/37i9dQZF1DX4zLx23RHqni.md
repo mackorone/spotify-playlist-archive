@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-91 songs - 5 hr 49 min
+92 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Orasaadha \- Madras Gig](https://open.spotify.com/track/7fec0UcxeHVe6kHIez2GSs) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Orasaadha \(Madras Gig\)](https://open.spotify.com/album/1mnPDLW0l0ahapG5OXbgJe) | 3:55 | 2021-12-01 |  |
 | [Paavai](https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Paavai](https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3) | 3:35 | 2024-03-16 |  |
 | [Pagal Iravai \| Maraigirai](https://open.spotify.com/track/2jQQTuzwJWEtwayffAADIe) | [Pranav Das](https://open.spotify.com/artist/6OwdhjSwx9S20xgIhe8DYI) | [Pagal Iravai \| Maraigirai](https://open.spotify.com/album/4Et3flF6ldGOucwRw22VEd) | 4:48 | 2021-12-01 |  |
+| [Panithuli](https://open.spotify.com/track/3I8hv7WEzlcOkSNL63XaPw) | [Naveena](https://open.spotify.com/artist/2M82o2fBIv02GKyN3l5Cjv), [Jerone B](https://open.spotify.com/artist/4EYTQPjQI2KbkhdCziPYd5), [SUJAN](https://open.spotify.com/artist/5BAnS0Qyxoc5oBc3HJJQyh) | [Panithuli](https://open.spotify.com/album/3RssLbX231gVtHdqECkd59) | 4:22 | 2025-07-17 |  |
 | [Pessamal](https://open.spotify.com/track/5nsHK5fiMpbeWtxF57JIaP) | [Amrita Jayakumar](https://open.spotify.com/artist/1nuDXCDGZJtV4HqeOJkOz1), [Nithinraj](https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD), [Sidhartha Pradeep](https://open.spotify.com/artist/1bzaqqpSNBNMnqqmIiLl8S) | [Mounam Sollum Varthaigal](https://open.spotify.com/album/6VtYIGyUTFMLJZzfliRykK) | 5:26 | 2021-12-01 | 2024-11-19 |
 | [Po Po Yen](https://open.spotify.com/track/31qVBkJJd48frcwBgIkBqF) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [A H Kaashif](https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI) | [Po Po Yen \- Single](https://open.spotify.com/album/4lRcrxaljMocjoJkQiWjzP) | 4:06 | 2021-12-01 |  |
 | [Po Po Yen](https://open.spotify.com/track/6Q5Qwg86SsmUhlWlVFc1Le) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [A H Kaashif](https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI) | [Po Po Yen \- Single](https://open.spotify.com/album/09GPze3xA8OTTXJVflbstY) | 4:06 | 2021-12-01 | 2024-04-19 |

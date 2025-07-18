@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: aespa
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,909 likes - 78 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,931 likes - 78 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

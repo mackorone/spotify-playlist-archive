@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1648087,
+  "num_followers": 1648118,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAB2GBDlBATJm1EQOmgs/f5A",
+  "snapshot_id": "aHbrgAAAAACFMZ85x2ymEFc5IvY21/s/",
   "tracks": [
     {
       "added_at": null,
@@ -603,38 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 198599,
-      "name": "Party By Myself",
-      "url": "https://open.spotify.com/track/0rAXLQ7JgPek5Wll0AXBMb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/2uTrdatngtB000duMrfbiV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
@@ -663,6 +631,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/2uTrdatngtB000duMrfbiV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 198599,
+      "name": "Party By Myself",
+      "url": "https://open.spotify.com/track/0rAXLQ7JgPek5Wll0AXBMb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 163902,
       "name": "Flex (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legends Never Die (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "All Life Long",
+      "url": "https://open.spotify.com/track/7mSNtdW0ibJwhaoI2y6RAv"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legends Never Die (5 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "All Life Long",
-      "url": "https://open.spotify.com/track/7mSNtdW0ibJwhaoI2y6RAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 187211,
-      "name": "From My Window",
-      "url": "https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
         "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 141586,
       "name": "Fine China",
       "url": "https://open.spotify.com/track/5274I4mUMnYczyeXkGDWZN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 187211,
+      "name": "From My Window",
+      "url": "https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz"
     },
     {
       "added_at": null,

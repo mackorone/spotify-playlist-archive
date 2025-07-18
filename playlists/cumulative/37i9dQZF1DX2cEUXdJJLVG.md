@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-427 songs - 1 day 1 hr 28 min
+429 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,11 +235,13 @@
 | [Messie](https://open.spotify.com/track/36IHDOzNRDPltiZTYCbuwa) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D) | [Messie](https://open.spotify.com/album/56tFnMDVp2wNef1zSmME0H) | 3:51 | 2025-02-06 | 2025-06-07 |
 | [Milk & Honey](https://open.spotify.com/track/6yG8sxSJNeaViOHwcNs24B) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [Milk & Honey / Light](https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m) | 2:50 | 2023-09-14 | 2025-03-14 |
 | [Mind Games.](https://open.spotify.com/track/7L4C8Mur28u7dJbP1wYiow) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Mind Games.](https://open.spotify.com/album/4RuPSYj750tA7tiWElq7Pc) | 2:32 | 2023-03-20 | 2023-04-21 |
+| [Mind Made Up](https://open.spotify.com/track/4FaSBMs67MRxCdrG9myHVo) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Mind Made Up](https://open.spotify.com/album/0wXV9BdX14jdQ6TKQ90pdF) | 4:58 | 2025-07-17 |  |
 | [Money](https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:18 | 2022-10-27 | 2025-03-14 |
 | [Money Issues](https://open.spotify.com/track/2q1zLeupdzKqYIB2e8MNVt) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Money Issues](https://open.spotify.com/album/2oBMyUdLTSihgNlSkExIux) | 2:57 | 2023-02-23 | 2025-02-07 |
 | [Morning Light \(feat\. Andreya Triana\)](https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Dancing While Falling](https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng) | 3:31 | 2024-05-24 |  |
 | [Most Days](https://open.spotify.com/track/0yUXPVWzRNvUesDT4p6LgB) | [Rezar](https://open.spotify.com/artist/0KwVGVN1bZfDNQVOySxjsk) | [Most Days](https://open.spotify.com/album/2Y385XdjJB2JhQYUNsaXY2) | 3:02 | 2022-09-09 | 2025-02-08 |
 | [Motions](https://open.spotify.com/track/5rdBZkZw3kkkZxCUym3E9j) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Motions](https://open.spotify.com/album/4VDVfTgQlwL828aEPK6lIe) | 3:33 | 2022-09-09 | 2024-05-10 |
+| [Mountain Top](https://open.spotify.com/track/26vyvsOehrRVdXCWmEdLLi) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Mountain Top](https://open.spotify.com/album/4UANTMEu5UccPUnJbbkkD5) | 4:03 | 2025-07-17 |  |
 | [Music Never Looked So Good](https://open.spotify.com/track/30SSROjHo9udK1ko3cRm5a) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Music Never Looked So Good](https://open.spotify.com/album/2vlaYSup5x8yLVlgQKkC60) | 3:17 | 2025-03-13 |  |
 | [Music Saved My LIfe](https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Saved My Life](https://open.spotify.com/album/5QUt722cDFZ1ZGDesI5Kam) | 4:04 | 2022-09-09 | 2024-11-22 |
 | [My Favourite](https://open.spotify.com/track/4jTDyGLrDTt0nj7kjNVTaJ) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [My Favourite](https://open.spotify.com/album/3yoSTA4NQDOJAVfdvLPMNA) | 3:14 | 2022-09-09 | 2024-11-22 |

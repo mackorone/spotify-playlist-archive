@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > just got chilly 🥶🥶🥶🥶🥶🥶🥶
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,509 likes - 200 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,575 likes - 200 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

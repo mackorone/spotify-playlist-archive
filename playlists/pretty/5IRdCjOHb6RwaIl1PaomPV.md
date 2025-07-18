@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from TDJ and Kablito, plus the latest cuts from Eartheater and ALCATRAZ.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,839 likes - 100 songs - 5 hr 41 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,834 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shoreline](https://open.spotify.com/track/6MCwLgzWdyk7J7ctKW9wga) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [TDJ](https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk) | 4:16 |
-| 2 | [Dare To Dream](https://open.spotify.com/track/6ucg7y95YmqHOKoTtIHex8) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Busu](https://open.spotify.com/artist/0qPS2nW9elfpe9B1s611oV) | [TDJ](https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk) | 3:07 |
+| 2 | [Dare To Dream](https://open.spotify.com/track/6ucg7y95YmqHOKoTtIHex8) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Busu](https://open.spotify.com/artist/5e8GCP3fIVdnQmLWt69X0U) | [TDJ](https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk) | 3:07 |
 | 3 | [Under The Rush](https://open.spotify.com/track/6zrAz5MxiQXa7ny3YyLG4P) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [TDJ](https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk) | 3:28 |
 | 4 | [choke enough \(jamesjamesjames remix\)](https://open.spotify.com/track/5sjv7SJb257ml19zGpOQYk) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [choke enough \(remixes\)](https://open.spotify.com/album/2HLVIJuBYm1SzuTZP40RUL) | 5:44 |
 | 5 | [On The Beach \(from DEATH STRANDING 2: ON THE BEACH\)](https://open.spotify.com/track/72R7Qzj6kVw44ndWnFZzKK) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [On The Beach](https://open.spotify.com/album/6KrzhYHM6iHMzTMbCTO9du) | 4:16 |

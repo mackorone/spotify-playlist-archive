@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 271761,
+  "num_followers": 271796,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Viva italia",
-        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
-      },
-      "artists": [
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "El pueblo unido jam\u00e1s ser\u00e1 vencido",
-      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
         "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 242216,
       "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
       "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Viva italia",
+        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "El pueblo unido jam\u00e1s ser\u00e1 vencido",
+      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "His Great Songs",
-        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Yo Vivo en Esta Ciudad",
         "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 270160,
       "name": "Hasta siempre",
       "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "His Great Songs",
+        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Este Ritmo",
-        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 167128,
-      "name": "Este Ritmo",
-      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 213000,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Este Ritmo",
+        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "duration_ms": 167128,
+      "name": "Este Ritmo",
+      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Pateando Craneos",
-        "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
-      },
-      "artists": [
-        {
-          "name": "2X",
-          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "La Fuerza Policial",
-      "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 237080,
       "name": "Rompan Todo",
       "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Pateando Craneos",
+        "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
+      },
+      "artists": [
+        {
+          "name": "2X",
+          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "La Fuerza Policial",
+      "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Dime Qu\u00e9 Pasa",
-        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
-      },
-      "artists": [
-        {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
-        }
-      ],
-      "duration_ms": 110308,
-      "name": "Matar al Presidente",
-      "url": "https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Hurbanistorias",
         "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 256306,
       "name": "Balada del Asalariado",
       "url": "https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Dime Qu\u00e9 Pasa",
+        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
+      },
+      "artists": [
+        {
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+        }
+      ],
+      "duration_ms": 110308,
+      "name": "Matar al Presidente",
+      "url": "https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf"
     },
     {
       "added_at": "2024-05-10 03:00:00",

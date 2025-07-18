@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-659 songs - 1 day 14 hr 26 min
+660 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [Water Table](https://open.spotify.com/track/5KLMheJDladX9Rt5gNULKh) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 4:03 | 2024-01-10 | 2024-03-10 |
 | [Welcome to My World](https://open.spotify.com/track/1GWNIRq2QFmVuIpwVONWhY) | [Curly Chalker](https://open.spotify.com/artist/4KBTL6pJ0paCrhVG3kUxM7) | [Big Hits on Big Steel](https://open.spotify.com/album/2ASp6kSw8vM2bwg9lazZZU) | 2:30 | 2025-06-16 | 2025-07-04 |
 | [Well I Know You're Shy](https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:29 | 2025-02-16 | 2025-03-02 |
+| [West Of Samoa](https://open.spotify.com/track/6UtAZWcMKQdehuKLql1Xh8) | [Speedy West](https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ) | [Steel Guitar](https://open.spotify.com/album/5Gv5lcvdHr08tZDp80EKl7) | 2:33 | 2025-07-17 |  |
 | [What A Day For Me](https://open.spotify.com/track/7osv3MQ5sRaX2XMCil2Xp9) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 2:47 | 2024-06-03 | 2024-07-12 |
 | [What About Me](https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk) | [The Exceptional Three](https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ) | [Eccentric Soul: The Way Out Label](https://open.spotify.com/album/62l0ON6TJvgt4Bacsy80Lj) | 3:00 | 2024-09-18 | 2024-11-14 |
 | [What We Had](https://open.spotify.com/track/77bNzHFSySgW4GgkYaJs8x) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Woodland](https://open.spotify.com/album/7zZI8ki72x4CYVJ1H2JgUA) | 3:58 | 2025-04-15 | 2025-05-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: 손이지유\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,713 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,748 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 67 | [I Won't Let Go Of Your Hand](https://open.spotify.com/track/3ymA950oIlxlZ9SlUw4tBK) | [Song I Han](https://open.spotify.com/artist/4whjJjlywO81WrDptpdttm) | [I Won't Let Go Of Your Hand](https://open.spotify.com/album/3vGdBvG95qXwH2gRctD3ti) | 3:42 |
 | 68 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 |
 | 69 | [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 |
-| 70 | [당신은 누구시길래](https://open.spotify.com/track/0UlPE1vfDH8SVNfYrF81Zq) | [Seo YoungJu of Nerd Connection](https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr) | [독수리 5형제를 부탁해! \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/1nL5ySSgZH278luqe9vCLl) | 4:23 |
+| 70 | [당신은 누구시길래](https://open.spotify.com/track/0UlPE1vfDH8SVNfYrF81Zq) | [ Seo Youngju](https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr) | [독수리 5형제를 부탁해! \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/1nL5ySSgZH278luqe9vCLl) | 4:23 |
 | 71 | [On Such a Day](https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Resident Playbook, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6) | 3:39 |
 | 72 | [Heartbreaking love](https://open.spotify.com/track/2AX64pmFmbdFYZ5C9i44U9) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Heartbreaking love](https://open.spotify.com/album/0dLrFEAxKItdHaCJFh0Rb1) | 3:24 |
 | 73 | [By My Side](https://open.spotify.com/track/7gnX5DpYwAguO3sfF4b7fY) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [By My Side](https://open.spotify.com/album/202mC12o8Px1mbBaGdQyku) | 3:43 |

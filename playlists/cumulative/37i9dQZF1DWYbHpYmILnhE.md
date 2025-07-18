@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: EESKAY
 
-109 songs - 4 hr 55 min
+110 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,10 +27,11 @@
 | [Disintegrate](https://open.spotify.com/track/0YUs0EG2U7OYjPqRQxFmJ9) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:29 | 2024-06-28 |  |
 | [Drip Check](https://open.spotify.com/track/2ienTom7OQzZ4Ejfur3QJb) | [Sheye Banks](https://open.spotify.com/artist/00LOJMXU6GdbTX8cA0RvJr) | [Drip Check \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6wZAQhyso6laiIvWHdUz55) | 2:19 | 2024-06-28 |  |
 | [Egberi](https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Egberi](https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP) | 2:19 | 2024-06-28 | 2024-09-20 |
+| [Ego](https://open.spotify.com/track/2KpBEUqfK2LkScRRxB413X) | [Trench RB](https://open.spotify.com/artist/7GO9ysAvMiz5BK2vNikd2G) | [Ego](https://open.spotify.com/album/6WVEZFxbQAjrywuE6J8OOr) | 2:59 | 2025-07-18 |  |
 | [ENGLISH](https://open.spotify.com/track/1okLhQDVe8K8gw1Z3jIrhG) | [Blaqdee](https://open.spotify.com/artist/1ngLIjM1swqQ0EbSSZvusX) | [ENGLISH](https://open.spotify.com/album/4IrtkGoCvarJVQI9DBwRe0) | 2:34 | 2024-07-26 | 2024-08-02 |
 | [ESCAPE PLAN](https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [ESCAPE PLAN](https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT) | 2:28 | 2025-06-27 |  |
 | [Finesse](https://open.spotify.com/track/0AgOkZYwJVoXXNrFvxOd6i) | [Geezyshore](https://open.spotify.com/artist/7yjMthvrGoCgkFKy69KNY9) | [Finesse](https://open.spotify.com/album/14r71d2X0Faxc3Ia010lNk) | 3:03 | 2024-06-28 | 2025-03-15 |
-| [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/track/3yKdCKXvbFl9LUaWYAeAVP) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/album/50jqztfxHsS64KZk0UXXvR) | 2:45 | 2024-11-08 |  |
+| [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/track/3yKdCKXvbFl9LUaWYAeAVP) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/album/50jqztfxHsS64KZk0UXXvR) | 2:45 | 2024-11-08 | 2025-07-18 |
 | [Focus](https://open.spotify.com/track/7haHK4WoOPfg9VzkuYT7L8) | [Zyno TopBoy](https://open.spotify.com/artist/0Wid10rZ0QPQdFpmbldjNL) | [Forever Topping](https://open.spotify.com/album/4IaRiF8BhQbLe2FC1UmHQ9) | 2:02 | 2025-07-11 |  |
 | [FOOLiSH \(Outstanding Dinner\)](https://open.spotify.com/track/0amlCeApqGc8p4MXFgWnes) | [DJ T1Z](https://open.spotify.com/artist/2z5YL3kKdwWilyR30IfpKW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [PAY UP, DON'T BE FOOLiSH](https://open.spotify.com/album/5Oc83DmrIFYaqCfxObWMBp) | 2:25 | 2024-06-28 |  |
 | [For My Sake](https://open.spotify.com/track/7zMCGarwmP4zJcsBXQPkSE) | [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [For My Sake](https://open.spotify.com/album/6eKAJ4BHkyh6889fVq0ofV) | 2:46 | 2024-11-08 | 2024-12-17 |

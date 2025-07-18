@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: HUNTR/X, KPop Demon Hunters Cast
+> The best tracks from the world of music\. Cover: BLACKPINK
 
 367 songs - 20 hr 47 min
 

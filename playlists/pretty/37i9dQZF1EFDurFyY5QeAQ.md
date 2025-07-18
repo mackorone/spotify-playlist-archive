@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 79 | [When It Rains](https://open.spotify.com/track/3wRX11O73Ewv2wigpS8FEm) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN) | 2:22 |
 | 80 | [Miracle Man](https://open.spotify.com/track/57rqeUy6NV7Qlf5VNrqS7D) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:28 |
 | 81 | [The Lucky Ones \- THE LAUNCH](https://open.spotify.com/track/7lHLe9ZyA55dTRWcd6a6Y4) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [The Lucky Ones \(THE LAUNCH\)](https://open.spotify.com/album/75PVMDtjzTkVKJgOXys5z4) | 2:59 |
-| 82 | [Mama](https://open.spotify.com/track/016mggZAtUrDvsrEV6rMYj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:08 |
-| 83 | [Visions \(Don't Go\)](https://open.spotify.com/track/3StXroLgGesFDHUljDzNlJ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:18 |
+| 82 | [Visions \(Don't Go\)](https://open.spotify.com/track/3StXroLgGesFDHUljDzNlJ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:18 |
+| 83 | [Mama](https://open.spotify.com/track/016mggZAtUrDvsrEV6rMYj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:08 |
 | 84 | [I Am](https://open.spotify.com/track/4fK2nGMQLFs66Lb9XXArYh) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 2:55 |
 | 85 | [Blue Moon](https://open.spotify.com/track/7o7XJW9mWokwMIBEMDzTSt) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:13 |
 | 86 | [Born Again](https://open.spotify.com/track/0i3beYS6XqrlgwytD3sOf6) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:00 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 93 | [Right Here, Right Now](https://open.spotify.com/track/0n324gn22EDTQsNHvyFvQ0) | [Jeremy Johnson](https://open.spotify.com/artist/7xepAnhCIzCv3zUtpZyq4N) | [Mixtape For War](https://open.spotify.com/album/2D75KXRDeYBHvgttp7gq4l) | 3:49 |
 | 94 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `Ab29kgAAAAC28RqLUhbUyZLO25KgauWx`
+Snapshot ID: `Ab3DMgAAAADxHW7dg+JGxqHXkxUCKyFH`

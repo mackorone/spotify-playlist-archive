@@ -2,9 +2,9 @@
 
 ### [NEÓN](https://open.spotify.com/playlist/37i9dQZF1DX2vWnOprRIq7)
 
-> El lado electrónico del indie latino, featuring Juan Baro.
+> El lado electrónico del indie latino, featuring Babeblade.
 
-332 songs - 20 hr 9 min
+335 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Del Tiempo \- Original Mix](https://open.spotify.com/track/0gDKVCXvgaJj0tbf5TgyQ6) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Manu Ela](https://open.spotify.com/artist/0HelIc5UNdohCdMZY6fxWT) | [Les disques du bord de l'eau: Winter EP 2021](https://open.spotify.com/album/6PdsZ0lXptJ1cwutsHk7KL) | 5:10 | 2023-03-17 | 2023-06-04 |
 | [Delfines](https://open.spotify.com/track/2nVmNqnJKGLXfvjFWUWF3e) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/1dQ2SQ6xbedOlgA2DAJ9JR) | 4:38 | 2024-02-02 | 2024-04-19 |
 | [Delfines](https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL) | 4:38 | 2023-12-15 | 2024-05-18 |
+| [DEMONIO](https://open.spotify.com/track/6z1REjGTJ0DKikccXxKUES) | [LISA SCHA](https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw) | [DEMONIO](https://open.spotify.com/album/1SghQfcdMRPBR2KzWsjKzM) | 3:10 | 2025-07-18 |  |
 | [Desaparecer](https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Desaparecer](https://open.spotify.com/album/0YPzpvzXBQJFLv4SOM3Lqk) | 3:16 | 2024-03-15 |  |
 | [Desayuno](https://open.spotify.com/track/4GKaBJOHEq7JfTG89xg4Jb) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [Desayuno](https://open.spotify.com/album/7tROaKkFUhaOm0jhifzyEJ) | 2:34 | 2024-11-22 |  |
 | [Desorden](https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desorden](https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ) | 3:56 | 2023-03-17 | 2023-10-07 |
@@ -181,6 +182,7 @@
 | [Lluvia y arcoiris](https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH) | [Eva Gou](https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6) | [Venus en trance](https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi) | 4:03 | 2024-12-23 |  |
 | [Lo Que No Hablas](https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Lo Que No Hablas](https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE) | 3:28 | 2023-07-28 | 2023-10-07 |
 | [Lo que nos queda](https://open.spotify.com/track/0J7wanexG2VHYWzLpTGkz3) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc), [martin allende](https://open.spotify.com/artist/2jKATrLpgygKpgHv4nAweQ) | [Lo que nos queda](https://open.spotify.com/album/7yWm9dEsqhR6CJ7j5TAVbV) | 3:46 | 2024-12-06 |  |
+| [Lo que pidas](https://open.spotify.com/track/1TbQVck0lOp4kgHwZn9IFw) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Lo que pidas](https://open.spotify.com/album/4T95FcYG9Ki2gJoCKlQrnw) | 3:06 | 2025-07-18 |  |
 | [Los Abismos Negros \- Corresponsal Remix](https://open.spotify.com/track/0G56lwXL8nECeC239CXSu4) | [La Danza de las Bestias](https://open.spotify.com/artist/4j14FazjpzqFRuICpOOwbA), [Corresponsal](https://open.spotify.com/artist/7b9f0rwBf8vv8sgDxutQg0) | [Los Abismos Negros](https://open.spotify.com/album/4bcsuLMSxNFcfbR0NelEnd) | 6:51 | 2024-10-04 |  |
 | [LOS AMANTES DIFERENTES](https://open.spotify.com/track/3jqoACT04nMZowIFsjw5VP) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [LOS AMANTES DIFERENTES](https://open.spotify.com/album/3d9wTAy036vvOmZPUH8qF9) | 3:47 | 2024-09-06 |  |
 | [los ausentes](https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [los ausentes](https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9) | 2:59 | 2024-12-23 |  |
@@ -219,6 +221,7 @@
 | [Nina](https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:36 | 2023-03-17 | 2024-03-16 |
 | [no es amor](https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [no es amor](https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm) | 3:14 | 2024-08-16 | 2024-10-05 |
 | [No Está Tan Mal](https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm), [JUD](https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB) | [No Está Tan Mal](https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn) | 3:05 | 2024-12-23 |  |
+| [NO LA VI](https://open.spotify.com/track/6y84SvWW8jA0RAlXONAm3o) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [NO LA VI](https://open.spotify.com/album/5Qo43LnXZNbe8h73KJwBzR) | 2:12 | 2025-07-18 |  |
 | [No Llores](https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [No Llores](https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN) | 2:58 | 2024-10-04 |  |
 | [NO ME PREGUNTES](https://open.spotify.com/track/6JKddTJyXbGga6mShraM58) | [Niki Rouge](https://open.spotify.com/artist/6YSEtGjENmA8GPYecg87dQ), [Violeta Castillo](https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe) | [ahahahah!](https://open.spotify.com/album/56xzVV8S4I9dz9Wq95NgW1) | 3:36 | 2023-08-04 | 2023-09-13 |
 | [No Necesito](https://open.spotify.com/track/6eLr3TwOOa3VYkfJmjKLGl) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [No Necesito](https://open.spotify.com/album/2pPKMucF7pMaqa8N1teTrD) | 3:14 | 2023-11-10 |  |

@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Bohemio en portada ",
-  "num_followers": 775632,
+  "num_followers": 775801,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,22 @@
     {
       "added_at": "2025-07-11 06:00:38",
       "album": {
-        "name": "Te Quer\u00eda Ver",
-        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+        "name": "En Privado",
+        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         },
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 176129,
-      "name": "Te Quer\u00eda Ver",
-      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+      "duration_ms": 199399,
+      "name": "En Privado",
+      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
     },
     {
       "added_at": "2025-07-11 06:00:38",
@@ -211,22 +211,22 @@
     {
       "added_at": "2025-07-11 06:00:38",
       "album": {
-        "name": "En Privado",
-        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 199399,
-      "name": "En Privado",
-      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
       "added_at": "2025-07-11 06:00:38",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2025-07-11 06:00:38",
       "album": {
+        "name": "La Cuadrada",
+        "url": "https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 160557,
+      "name": "La Cuadrada",
+      "url": "https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk"
+    },
+    {
+      "added_at": "2025-07-11 06:00:38",
+      "album": {
         "name": "El Chore",
         "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
       },
@@ -1279,22 +1299,26 @@
     {
       "added_at": "2025-07-11 06:00:38",
       "album": {
-        "name": "La Cuadrada",
-        "url": "https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J"
+        "name": "SUPREME",
+        "url": "https://open.spotify.com/album/3xMzcA2wx69GXCwHAK8ydm"
       },
       "artists": [
         {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
         }
       ],
-      "duration_ms": 160557,
-      "name": "La Cuadrada",
-      "url": "https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk"
+      "duration_ms": 155294,
+      "name": "SUPREME",
+      "url": "https://open.spotify.com/track/7r0HxydZCYOG5ZqE66WCQC"
     },
     {
       "added_at": "2025-07-11 06:00:38",
@@ -1355,30 +1379,6 @@
       "duration_ms": 179156,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/6LDB1KY7hbf9r7iiroZzPC"
-    },
-    {
-      "added_at": "2025-07-11 06:00:38",
-      "album": {
-        "name": "SUPREME",
-        "url": "https://open.spotify.com/album/3xMzcA2wx69GXCwHAK8ydm"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        },
-        {
-          "name": "Enayy",
-          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "SUPREME",
-      "url": "https://open.spotify.com/track/7r0HxydZCYOG5ZqE66WCQC"
     },
     {
       "added_at": "2025-07-11 06:00:38",

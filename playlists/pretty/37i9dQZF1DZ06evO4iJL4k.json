@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 307085,
+  "num_followers": 307211,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAD9Jd//iMT8XagL4y16D1je",
+  "snapshot_id": "aHbrgAAAAACx04FBrCd7KAekkDoHANMV",
   "tracks": [
     {
       "added_at": null,
@@ -420,13 +420,17 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+          "name": "IbraBeats",
+          "url": "https://open.spotify.com/artist/30Ynhg2u321yVxT0Qa8D8D"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
         }
       ],
-      "duration_ms": 220171,
-      "name": "Neur\u00f3tico de Guerra",
-      "url": "https://open.spotify.com/track/6VqaSxaXBFn7sAh2DIZQpp"
+      "duration_ms": 250775,
+      "name": "Libert\u00e1rios N\u00e3o Morrem",
+      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
     },
     {
       "added_at": null,
@@ -512,17 +516,13 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "IbraBeats",
-          "url": "https://open.spotify.com/artist/30Ynhg2u321yVxT0Qa8D8D"
-        },
-        {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
         }
       ],
-      "duration_ms": 250775,
-      "name": "Libert\u00e1rios N\u00e3o Morrem",
-      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
+      "duration_ms": 220171,
+      "name": "Neur\u00f3tico de Guerra",
+      "url": "https://open.spotify.com/track/6VqaSxaXBFn7sAh2DIZQpp"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Audaz",
-        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 210943,
-      "name": "Louco Pra Voltar",
-      "url": "https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Direto da Selva Deluxe",
         "url": "https://open.spotify.com/album/1yK0Tu6gE5cup2SLcxAJV1"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 256618,
       "name": "N\u00e3o Temos Medo - Remix",
       "url": "https://open.spotify.com/track/1T524gnYNnw5Ac35eyW5TR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 210943,
+      "name": "Louco Pra Voltar",
+      "url": "https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc"
     },
     {
       "added_at": null,

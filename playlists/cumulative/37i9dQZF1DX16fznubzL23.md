@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-250 songs - 12 hr 59 min
+251 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Aso](https://open.spotify.com/track/5n6tCeNsXe52pr1AEaM0LE) | [Kwabena Kwabena](https://open.spotify.com/artist/4rvlBk4SuYD4jThTXZwnCI) | [Aso](https://open.spotify.com/album/2b2dDXkKR8Y5Nf7FfEfTQQ) | 5:50 | 2022-02-11 | 2022-08-06 |
 | [Baby Gone](https://open.spotify.com/track/3DMPL9ZVNpXhxTsT8BsBoI) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Beautiful Imperfection](https://open.spotify.com/album/5OOcKzuUJRezoERazEmvhv) | 4:33 | 2022-02-11 | 2022-07-29 |
 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 | 2022-02-11 | 2024-06-21 |
-| [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 |  |
+| [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 | 2025-07-18 |
 | [Bad Influence](https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy) | 2:18 | 2024-03-05 | 2024-04-19 |
 | [Bad Influence](https://open.spotify.com/track/6DFM9BKkKDGHoGoavIPV3c) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/1WtsIAJMX3vtk7Gjpftyyu) | 2:18 | 2024-04-19 | 2024-06-07 |
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-19 | 2025-03-29 |
@@ -44,6 +44,7 @@
 | [Chandelier](https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Candor](https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB) | 2:55 | 2025-01-21 |  |
 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:42 | 2024-03-05 | 2024-04-19 |
 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/3p0LTDKv4scCJA6I2ArvJv) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/7HbL3dhAzQen2jvmGJIqOM) | 3:42 | 2024-04-19 | 2025-04-01 |
+| [Chikodi](https://open.spotify.com/track/2COXefGU8iHfRH8eIam3P6) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Chikodi](https://open.spotify.com/album/3cPY70vy3FT8zc0CUgL0FA) | 2:59 | 2025-07-18 |  |
 | [Circadian Rhythm](https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 2:06 | 2024-09-05 |  |
 | [Citrus Tears](https://open.spotify.com/track/5T17angrfy3Gdmh4Y3aeQR) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:49 | 2022-11-25 | 2023-02-04 |
 | [Closure](https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nae](https://open.spotify.com/artist/2BlQIEUVv6FAUGMCf5aOCJ) | [Closure](https://open.spotify.com/album/71R0HfuCZtkH69OyEyMMU3) | 2:28 | 2023-02-10 | 2023-03-18 |

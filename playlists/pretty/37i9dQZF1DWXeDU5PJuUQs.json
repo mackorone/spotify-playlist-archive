@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 228405,
+  "num_followers": 228530,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-07-04 13:19:05",
       "album": {
+        "name": "La Misma Cancion (En Vivo)",
+        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "La Misma Cancion (En Vivo)",
+      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
+    },
+    {
+      "added_at": "2025-07-04 13:19:05",
+      "album": {
         "name": "Rambla De Montevideo",
         "url": "https://open.spotify.com/album/2FLqOZNLJdS9zT5L2iB41l"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 177845,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/2BV9cUhl5HVBpn6nUudnlT"
-    },
-    {
-      "added_at": "2025-07-04 13:19:05",
-      "album": {
-        "name": "La Misma Cancion (En Vivo)",
-        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "La Misma Cancion (En Vivo)",
-      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
     },
     {
       "added_at": "2025-07-04 13:19:05",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2025-07-04 13:19:05",
       "album": {
-        "name": "Tu Falta de Querer (En Vivo)",
-        "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        },
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Tu Falta de Querer - En Vivo",
-      "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
-    },
-    {
-      "added_at": "2025-07-04 13:19:05",
-      "album": {
         "name": "Recordando / Dudas (En Vivo)",
         "url": "https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 307375,
       "name": "Recordando / Dudas - En Vivo",
       "url": "https://open.spotify.com/track/0Eo5FcB5bHGjmisR8WtUQk"
+    },
+    {
+      "added_at": "2025-07-04 13:19:05",
+      "album": {
+        "name": "Tu Falta de Querer (En Vivo)",
+        "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        },
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Tu Falta de Querer - En Vivo",
+      "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
     },
     {
       "added_at": "2025-07-04 13:19:05",

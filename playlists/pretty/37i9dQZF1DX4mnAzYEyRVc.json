@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Madness\n",
-  "num_followers": 61718,
+  "num_followers": 61755,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
+        "name": "Return Of The Ugly",
+        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
+      },
+      "artists": [
+        {
+          "name": "Bad Manners",
+          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
         "name": "Yes It's True",
         "url": "https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 243615,
       "name": "Yes It's True",
       "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
-        "name": "Return Of The Ugly",
-        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
-      },
-      "artists": [
-        {
-          "name": "Bad Manners",
-          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
     },
     {
       "added_at": "2025-06-20 06:00:32",

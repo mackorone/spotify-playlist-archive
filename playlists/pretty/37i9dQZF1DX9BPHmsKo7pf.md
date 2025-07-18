@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: Eva Timush, Oscar
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,554 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,632 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 11 | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs) | 3:10 |
 | 12 | [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 |
 | 13 | [Marae](https://open.spotify.com/track/0B0G4rBspOqDL7Ap9pgFm0) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [ATIPIC](https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0) | 3:02 |
-| 14 | [Îmi place când \- From "Situationship" The Movie](https://open.spotify.com/track/7rW05NyJEhmDDSmSP0Lt0L) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Îmi place când \(From "Situationship" The Movie\)](https://open.spotify.com/album/0GRF58upfhbiVSc3OnNOPT) | 2:26 |
+| 14 | [Îmi place când \- From "Situationship"](https://open.spotify.com/track/7rW05NyJEhmDDSmSP0Lt0L) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Îmi place când \(From "Situationship"\)](https://open.spotify.com/album/0GRF58upfhbiVSc3OnNOPT) | 2:26 |
 | 15 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
 | 16 | [AZALEEA](https://open.spotify.com/track/7mBpvzJY2ETgnYo1yXc923) | [AdelinMM](https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [MONEYMAKER](https://open.spotify.com/album/5WbSzzbXczfTysj8flUt3s) | 3:05 |
 | 17 | [English Tallava \- From BUZZ HOUSE: The Movie 2](https://open.spotify.com/track/06aLLJPPUMin3MitTaSAkP) | [Denis Ramniceanu](https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64) | [English Tallava \(From BUZZ HOUSE: The Movie 2\)](https://open.spotify.com/album/6auRlsaI2RCv34YLee1nJI) | 3:00 |

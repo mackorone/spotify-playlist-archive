@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Miki
+> The best French indie tracks right now\. Cover : Odetto
 
-668 songs - 1 day 12 hr 7 min
+670 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [HEAR ME\. N2.23](https://open.spotify.com/track/7w77qLgJW3lhCuoVTKbOdC) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [HEAR ME\. N2.23](https://open.spotify.com/album/3EKIndqFsifqwrkP4kYYiQ) | 3:42 | 2023-04-20 | 2023-05-26 |
 | [Heartless](https://open.spotify.com/track/6h8m26fQBiLT0XYabhyyDf) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Heartless](https://open.spotify.com/album/6yf7kGg3x04Uuc58Gf3fGX) | 2:31 | 2024-12-12 | 2025-01-24 |
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-06-29 | 2023-09-29 |
-| [Heartstrings](https://open.spotify.com/track/15Kj37bbsZIhr0NohlCTpw) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Heartstrings](https://open.spotify.com/album/6kTo4iuBmoNfHO0yEpLWDs) | 3:48 | 2025-06-05 |  |
+| [Heartstrings](https://open.spotify.com/track/15Kj37bbsZIhr0NohlCTpw) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Heartstrings](https://open.spotify.com/album/6kTo4iuBmoNfHO0yEpLWDs) | 3:48 | 2025-06-05 | 2025-07-18 |
 | [Hell of a Woman](https://open.spotify.com/track/3eLWqBJTgxWCmxrtxZdTzf) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [Hell of a Woman](https://open.spotify.com/album/0UxnbJFl2xtXdItxKUNcCL) | 3:36 | 2022-01-20 | 2022-02-25 |
 | [Hello Hello](https://open.spotify.com/track/0sIB4AFz7FGN0nef89hsRD) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Hello Hello](https://open.spotify.com/album/6jkcoS61cyIwJ3LTcXuEEs) | 2:36 | 2024-08-22 | 2024-11-22 |
 | [Hello Mr Slender Man](https://open.spotify.com/track/6iI3dQJVOs6zeRbOIyjdw0) | [June The Girl](https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni) | [Hello Mr Slender Man](https://open.spotify.com/album/3y8Q2pVIu3SoPWsGYGshOH) | 2:47 | 2023-06-01 | 2023-06-30 |
@@ -496,7 +496,7 @@
 | [Ready Baby](https://open.spotify.com/track/0W27iECtGTgI94wQOiJGEm) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Ready Baby](https://open.spotify.com/album/1acFnL6yQpen1hzMX2RGyT) | 3:19 | 2023-06-22 | 2024-02-09 |
 | [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 | 2022-09-08 | 2023-02-03 |
 | [Reconnection](https://open.spotify.com/track/76uKLoAvr2tHSZPbJHZSmY) | [Fantastic Mister Zguy](https://open.spotify.com/artist/0yBkxUvlgbxKXQmjQ252iu) | [Reconnection](https://open.spotify.com/album/19rAn3kxCoqkzXzOwfxF8q) | 2:47 | 2023-03-02 | 2023-06-23 |
-| [Recto verso](https://open.spotify.com/track/3IXtgqo8hTBIhnjhJ7WdhI) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Recto verso](https://open.spotify.com/album/2BapqsOrRlxAuClk4i2xte) | 2:30 | 2025-06-05 |  |
+| [Recto verso](https://open.spotify.com/track/3IXtgqo8hTBIhnjhJ7WdhI) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Recto verso](https://open.spotify.com/album/2BapqsOrRlxAuClk4i2xte) | 2:30 | 2025-06-05 | 2025-07-18 |
 | [Reign](https://open.spotify.com/track/6JaXNHTlkipu1s6Il8l4eZ) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Cinematic](https://open.spotify.com/album/5fHLNq6EDhTzLWQI752ll1) | 3:05 | 2023-09-28 | 2024-04-05 |
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-27 | 2022-03-11 |
 | [Rendez\-vous](https://open.spotify.com/track/154FZo5XA2j8PqpsWeBzOt) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [Rendez\-Vous](https://open.spotify.com/album/3dsqMctn4QRKBgnkOKjQy9) | 3:23 | 2023-02-16 | 2023-03-10 |
@@ -547,6 +547,7 @@
 | [Sorry](https://open.spotify.com/track/4dIigDdKYugqzXzE7509bx) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Hannah Hu](https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl) | [Sorry](https://open.spotify.com/album/27mHuZHJcMZwM1mecTMZSe) | 3:15 | 2025-04-10 | 2025-05-09 |
 | [SOS Love Story](https://open.spotify.com/track/023iDDLtk8OU4Jb11rfARY) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [SOS Love Story](https://open.spotify.com/album/4c45lSdFers0FLrmOeOijG) | 3:05 | 2023-10-19 | 2024-04-05 |
 | [Sous les jupes](https://open.spotify.com/track/4vAwwCBbHW4SwXBIZ2qEIh) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Eden](https://open.spotify.com/album/2yRMCemIzq1YWHpgkwvSra) | 3:54 | 2022-04-07 | 2022-04-29 |
+| [Souvenir sentimental](https://open.spotify.com/track/7oBoFe5xWsaocjSZIhCW1t) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Souvenir sentimental](https://open.spotify.com/album/0YCqlQYeUSfnoNTw9cEHvv) | 2:54 | 2025-07-17 |  |
 | [Space Trip](https://open.spotify.com/track/5kA30CMKo6wUWiINlG4YXt) | [Abel Chéret](https://open.spotify.com/artist/2SA8kSdrElh8uRTa7AnGyL) | [Space Trip](https://open.spotify.com/album/42aPZS0haRwyQbeay0mpOU) | 3:36 | 2021-12-16 | 2022-04-15 |
 | [Sparks](https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Eternal Lover](https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX) | 3:42 | 2023-05-11 | 2024-02-02 |
 | [spring](https://open.spotify.com/track/7FJP6mlhCqObXC3Tel4kjk) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [spring](https://open.spotify.com/album/26lL4PeAXe9s4agTyBIb6s) | 2:42 | 2025-07-03 | 2025-07-11 |
@@ -615,6 +616,7 @@
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-20 | 2023-09-29 |
 | [Trust Fall](https://open.spotify.com/track/5c7FvMWuOdaa2ZLvj67rsk) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [The Circle](https://open.spotify.com/album/133flpfpzLu7VJ6xGQLvR7) | 2:50 | 2022-11-24 | 2023-03-10 |
 | [Tu me manques](https://open.spotify.com/track/5l81POgmEdF2aUv0zcxSPa) | [Dorcas](https://open.spotify.com/artist/3obdKN8Eeq1nIMCjuDiusI) | [Tu me manques](https://open.spotify.com/album/1w8lNUAnjaUvKo9yHcE0Lb) | 2:58 | 2023-03-02 | 2023-04-21 |
+| [Tu me mens](https://open.spotify.com/track/689RdTmyMdVYIU1F0CiWWU) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Tu me mens](https://open.spotify.com/album/0uBal0SWpWaif5znxGec3P) | 2:11 | 2025-07-17 |  |
 | [Tu sais ma vie c'est vite chiant](https://open.spotify.com/track/3QvEjsWx6Nf8OikfnMW5vM) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [:\):](https://open.spotify.com/album/3RNrxnGExcrakVAWA3R3Sj) | 2:45 | 2022-06-09 | 2022-07-08 |
 | [Turn Away](https://open.spotify.com/track/3iYfXX61UYS2fZPA16amzL) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line \(Extended\)](https://open.spotify.com/album/58MszPAmQJIbDklhdMCv7I) | 3:46 | 2024-01-11 | 2024-04-19 |
 | [Turn Away](https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Turn Away / Place of Our Own](https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql) | 3:46 | 2023-06-29 | 2024-06-07 |

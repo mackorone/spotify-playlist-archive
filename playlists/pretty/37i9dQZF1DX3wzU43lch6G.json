@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 114374,
+  "num_followers": 114387,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "Esirinim",
+        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "\u015eark\u0131lar G\u00fczelse Hala",
+      "url": "https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "Yaln\u0131z \u00d6lmek",
         "url": "https://open.spotify.com/album/6Mt7gBiLAvEk0dzGQ6QZvh"
       },
@@ -399,26 +415,6 @@
       "duration_ms": 227578,
       "name": "Yaln\u0131z \u00d6lmek",
       "url": "https://open.spotify.com/track/1jeezFfn6ccRfWEUlDT7gO"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "Bildi\u011fim Gibi",
-        "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Nilipek.",
-          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Bildi\u011fim Gibi",
-      "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -439,18 +435,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Esirinim",
-        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
+        "name": "Bildi\u011fim Gibi",
+        "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
       },
       "artists": [
         {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Nilipek.",
+          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
         }
       ],
-      "duration_ms": 217186,
-      "name": "\u015eark\u0131lar G\u00fczelse Hala",
-      "url": "https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk"
+      "duration_ms": 174315,
+      "name": "Bildi\u011fim Gibi",
+      "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Ben Senin Delinim",
-        "url": "https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF"
-      },
-      "artists": [
-        {
-          "name": "Hande Yener",
-          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
-        }
-      ],
-      "duration_ms": 223854,
-      "name": "Ben Senin Delinim",
-      "url": "https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Al Senin Olsun D\u00fcnya",
         "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 199040,
       "name": "G\u00f6rd\u00fcm G\u00fcn\u00fcm\u00fc",
       "url": "https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Ben Senin Delinim",
+        "url": "https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF"
+      },
+      "artists": [
+        {
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+        }
+      ],
+      "duration_ms": 223854,
+      "name": "Ben Senin Delinim",
+      "url": "https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx"
     },
     {
       "added_at": "2025-07-10 21:06:57",

@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-218 songs - 13 hr 19 min
+219 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alles Stil](https://open.spotify.com/track/4g1c9gwebd9Pvg3zuDA14v) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Alles Stil](https://open.spotify.com/album/79VGEKw3ugGM7qHo5BaYRf) | 4:05 | 2023-02-10 | 2023-09-09 |
 | [Als de avond valt](https://open.spotify.com/track/7mzg7oMmhuCLZCe8q0Qsr8) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Een liefdeslied](https://open.spotify.com/album/5O1U8qlqnJ1jyK4guAmsOn) | 3:41 | 2025-04-25 |  |
 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 | 2023-02-10 |  |
+| [Als de liefde niet bestond](https://open.spotify.com/track/2BsaPniwYE4dduBgECdsXR) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Als de liefde niet bestond](https://open.spotify.com/album/3cbKomLGWoW2LxfyzDNc6H) | 3:02 | 2025-07-17 |  |
 | [Als ik ooit wil gaan](https://open.spotify.com/track/1LVfKIpNTPgQknWN7TTsWM) | [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Als ik ooit wil gaan](https://open.spotify.com/album/2mSuGoBYlFj2pIjgHqG2vd) | 3:28 | 2023-06-01 | 2023-11-11 |
 | [Als Water](https://open.spotify.com/track/6Crw1yc2A4W6L5LgOPnolS) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 2:34 | 2024-03-04 | 2024-03-15 |
 | [Alsof](https://open.spotify.com/track/5BM1VtsHL1HxUsF2xQVz2G) | [Thijs Borsten](https://open.spotify.com/artist/2rXcix5yePOodUVqDUiRKh), [Fay Lovsky](https://open.spotify.com/artist/2NEeqYen2FsMivq7JBIJiv) | [Alsof](https://open.spotify.com/album/38XTEhm8maA44fEQdvjcnF) | 3:23 | 2023-02-10 | 2023-03-18 |
@@ -210,7 +211,7 @@
 | [Wat Een Dag](https://open.spotify.com/track/1w5D5Ib5VBJu94v6fyzw6w) | [Nol Havens](https://open.spotify.com/artist/7wPy6YZoLBYA5dBDpXEkqG) | [Wat Een Dag](https://open.spotify.com/album/74retVUCzvEwPP20Z2Jhle) | 2:45 | 2023-02-10 | 2023-03-09 |
 | [Wat rest van je tijd](https://open.spotify.com/track/690HQ2MncCTel24PljUIC9) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Hans Vroomans](https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb) | [De seizoenen van Legrand](https://open.spotify.com/album/3m5MsIbhHgMi5z2sAdxsvW) | 5:52 | 2023-02-10 | 2023-07-21 |
 | [We Zijn Zo Jong](https://open.spotify.com/track/2WLeRA7JmcfiNTEmwVPvaR) | [Aafke Romeijn](https://open.spotify.com/artist/7JXt7NDSPYN39EDLs58huE) | [We Zijn Zo Jong](https://open.spotify.com/album/3UXzxYxaNa79mgiMXMjLvH) | 3:47 | 2024-07-18 | 2024-09-27 |
-| [Weg uit Nederland](https://open.spotify.com/track/28UygHbdYKz1IJwzt1MfEc) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Weg uit Nederland](https://open.spotify.com/album/4OjNZnxk3IANfpvbjMQiz1) | 3:52 | 2025-05-22 |  |
+| [Weg uit Nederland](https://open.spotify.com/track/28UygHbdYKz1IJwzt1MfEc) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Weg uit Nederland](https://open.spotify.com/album/4OjNZnxk3IANfpvbjMQiz1) | 3:52 | 2025-05-22 | 2025-07-18 |
 | [Wie ben ik \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/0Xo7vPmbVFIEgcyMHNH5sa) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Wie ben ik \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/0ZS7oHN6GyQfWcu6WHj6xm) | 3:45 | 2024-01-25 | 2024-03-08 |
 | [Wie Zal Je Ooit Vergeten](https://open.spotify.com/track/50EJs9YhrdEFWrDRkBqEtW) | [Henny Thijssen](https://open.spotify.com/artist/71MAww1vIzu0Akrk631fNB) | [Wie Zal Je Ooit Vergeten](https://open.spotify.com/album/63xt6zuAjPG1nn26n7JHSb) | 2:58 | 2024-09-26 | 2024-10-25 |
 | [Wonderkind](https://open.spotify.com/track/4bcwafLCp4X5Usloxiyvcs) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Wonderkind](https://open.spotify.com/album/2JflmVKhoTaR30gDqZf4h5) | 3:27 | 2025-02-20 | 2025-06-17 |

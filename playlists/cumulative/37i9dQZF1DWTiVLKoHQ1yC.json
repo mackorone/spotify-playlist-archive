@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1973",
+        "url": "https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285595,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd"
+    },
+    {
+      "album": {
         "name": "2 Late 4 Love (Danny Howard Remix)",
         "url": "https://open.spotify.com/album/6obT6ywNJQDjidvpo4BDLK"
       },
@@ -1578,7 +1600,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 221159,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/2kSl1V6RTeo1cPTCoHGUp9"
@@ -2652,7 +2674,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 278217,
       "name": "Iajo",
       "url": "https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo"
@@ -3054,6 +3076,28 @@
       "duration_ms": 222786,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq"
+    },
+    {
+      "album": {
+        "name": "Bigger Than All Of Us",
+        "url": "https://open.spotify.com/album/1yXsFzEZ5amp2ocSjGQhkm"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199546,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/4cliBLsKJiv3tno21brdKJ"
     },
     {
       "album": {
@@ -3638,7 +3682,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 198003,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b"
@@ -5774,6 +5818,28 @@
       "duration_ms": 188157,
       "name": "Unite",
       "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
+    },
+    {
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r"
     },
     {
       "album": {

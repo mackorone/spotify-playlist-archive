@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Sam Sauvage
+> La scène française branchée sur courant alternatif\. Photo : MDNS
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,829 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,844 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pas Bourré](https://open.spotify.com/track/0OY34cEFCVlUogk5ZCpC2a) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Pas Bourré](https://open.spotify.com/album/6yjzDLjWfSejFLZFVZgM97) | 3:50 |
-| 2 | [Romy](https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy](https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED) | 3:19 |
-| 3 | [j'peux pas te sortir de ma tête \(can't get you out of my head\)](https://open.spotify.com/track/66R9mjXTFnOcjvpArXw1Nw) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [j'peux pas te sortir de ma tête \(can't get you out of my head\)](https://open.spotify.com/album/14pywwtvhvf7b5AqRorTFW) | 3:09 |
-| 4 | [Allons Voir](https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Allons Voir](https://open.spotify.com/album/14J8yvy5eUlDnxN266550W) | 3:49 |
-| 5 | [Des bêtises \(part I\)](https://open.spotify.com/track/6cHBn7KJ1zLYZuEznzeb77) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Des bêtises \(part I\)](https://open.spotify.com/album/58N0JewhvuJxBYc7uj99hk) | 2:32 |
-| 6 | [ENCORE!](https://open.spotify.com/track/5HEAExffQ9taEhirCvDKZS) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ENCORE!](https://open.spotify.com/album/65SZnjdnG7PQt6HruiqQUY) | 2:06 |
-| 7 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 |
-| 8 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 |
-| 9 | [si tu veux on va voir la mer](https://open.spotify.com/track/50oYuuu1dN4Ld47YkO6SVP) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [si tu veux on va voir la mer](https://open.spotify.com/album/165OtpCQM1BgC6TPnaiMQx) | 2:32 |
-| 10 | [PAS SI MAL](https://open.spotify.com/track/69VxTSW7uFiJDHPg01rk73) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [PAS SI MAL](https://open.spotify.com/album/1eHIUJ3FyTVwxa4Xx0uBg7) | 2:37 |
-| 11 | [scorpion ascendant scorpion](https://open.spotify.com/track/1UnPDzVRkrTBflEQ9MJUhX) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:11 |
-| 12 | [Jour vert](https://open.spotify.com/track/5nacc9dNvHHUCzYZJxQnME) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E), [Cesar](https://open.spotify.com/artist/20m6HbvQBjsXKPC0S5WVKS) | [Sous l'orage](https://open.spotify.com/album/6p52nGu2VCACb7n45Ry0Y0) | 3:24 |
-| 13 | [I Can Do Anything](https://open.spotify.com/track/12m7YgRtLVk18cYlu0ebbo) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [I Can Do Anything](https://open.spotify.com/album/3fO9QNSdwsOdwiYOukKm98) | 3:10 |
-| 14 | [Moonlight](https://open.spotify.com/track/3DvCNyGQmVziATGRqe9sjk) | [La parade](https://open.spotify.com/artist/5Avirxj77qzqN9LEjnOZHj) | [Moonlight](https://open.spotify.com/album/3Jr4eSbA81gwaoh81FAT5P) | 3:08 |
+| 1 | [ENCORE!](https://open.spotify.com/track/5HEAExffQ9taEhirCvDKZS) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ENCORE!](https://open.spotify.com/album/65SZnjdnG7PQt6HruiqQUY) | 2:06 |
+| 2 | [Allons Voir](https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Allons Voir](https://open.spotify.com/album/14J8yvy5eUlDnxN266550W) | 3:49 |
+| 3 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 |
+| 4 | [I Can Do Anything](https://open.spotify.com/track/12m7YgRtLVk18cYlu0ebbo) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [I Can Do Anything](https://open.spotify.com/album/3fO9QNSdwsOdwiYOukKm98) | 3:10 |
+| 5 | [Moonlight](https://open.spotify.com/track/3DvCNyGQmVziATGRqe9sjk) | [La parade](https://open.spotify.com/artist/5Avirxj77qzqN9LEjnOZHj) | [Moonlight](https://open.spotify.com/album/3Jr4eSbA81gwaoh81FAT5P) | 3:08 |
+| 6 | [PAS SI MAL](https://open.spotify.com/track/69VxTSW7uFiJDHPg01rk73) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [PAS SI MAL](https://open.spotify.com/album/1eHIUJ3FyTVwxa4Xx0uBg7) | 2:37 |
+| 7 | [j'peux pas te sortir de ma tête \(can't get you out of my head\)](https://open.spotify.com/track/66R9mjXTFnOcjvpArXw1Nw) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [j'peux pas te sortir de ma tête \(can't get you out of my head\)](https://open.spotify.com/album/14pywwtvhvf7b5AqRorTFW) | 3:09 |
+| 8 | [Romy](https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy](https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED) | 3:19 |
+| 9 | [Des bêtises \(part I\)](https://open.spotify.com/track/6cHBn7KJ1zLYZuEznzeb77) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Des bêtises \(part I\)](https://open.spotify.com/album/58N0JewhvuJxBYc7uj99hk) | 2:32 |
+| 10 | [Pas Bourré](https://open.spotify.com/track/0OY34cEFCVlUogk5ZCpC2a) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Pas Bourré](https://open.spotify.com/album/6yjzDLjWfSejFLZFVZgM97) | 3:50 |
+| 11 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 |
+| 12 | [si tu veux on va voir la mer](https://open.spotify.com/track/50oYuuu1dN4Ld47YkO6SVP) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [si tu veux on va voir la mer](https://open.spotify.com/album/165OtpCQM1BgC6TPnaiMQx) | 2:32 |
+| 13 | [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 |
+| 14 | [Jour vert](https://open.spotify.com/track/5nacc9dNvHHUCzYZJxQnME) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E), [Cesar](https://open.spotify.com/artist/20m6HbvQBjsXKPC0S5WVKS) | [Sous l'orage](https://open.spotify.com/album/6p52nGu2VCACb7n45Ry0Y0) | 3:24 |
 | 15 | [Banquise](https://open.spotify.com/track/2xKdaB6C978wvUyHk8AO3M) | [Pétrole Brut](https://open.spotify.com/artist/2lcekukdiTHK6ZgxWxWyc7) | [Banquise](https://open.spotify.com/album/1bUxpEkgZbG5elvPVQmhpF) | 3:29 |
 | 16 | [Vie de rêve](https://open.spotify.com/track/5hiomyDdmSY5uITlR75LmK) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [Zenzile](https://open.spotify.com/artist/3W9EL2Dp6yptDXJUCrd68X) | [Vie de rêve](https://open.spotify.com/album/225dAvG6EOybII03gUtrOJ) | 4:09 |
 | 17 | [ne pas regarder en bas](https://open.spotify.com/track/4aZjNBd7e3HI6w3kkHwGEA) | [nous étions une armée](https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t) | [ne pas regarder en bas](https://open.spotify.com/album/4j9nAsPRUp5HQfexdBKN97) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Tempelhof](https://open.spotify.com/track/3Rc2TbS9dGOFpjaJPbhxlc) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Tempelhof](https://open.spotify.com/album/1Z38hWEC9zgrud0SsKFTtX) | 3:19 |
 | 50 | [Jurassique Parc](https://open.spotify.com/track/4ou6wh6gVdvZxdV5zixaMO) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Jurassique Parc](https://open.spotify.com/album/2KdabhvdyfpvMXPLAAM7p3) | 3:57 |
 
-Snapshot ID: `aHA38QAAAABO2nC6WoPXMKuEw418rNpO`
+Snapshot ID: `aHlyfwAAAADC2HaTznuYl8OsjfqFQjE7`

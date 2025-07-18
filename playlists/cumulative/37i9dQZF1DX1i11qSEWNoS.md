@@ -4,7 +4,7 @@
 
 > und macht laune
 
-308 songs - 14 hr 24 min
+309 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Einmal um die Welt 2k23](https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Einmal um die Welt 2k23](https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a) | 2:15 | 2023-07-21 | 2024-10-08 |
 | [Erinner mich](https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Erinner mich](https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl) | 2:31 | 2024-02-01 |  |
 | [Es kracht in Buxtehude](https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1) | [Trizto](https://open.spotify.com/artist/34hL467mqffW7Z5WQhM1MS), [MontanaBlack](https://open.spotify.com/artist/3G48828EYRdDAQ77Z6HidC) | [Es kracht in Buxtehude](https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO) | 2:41 | 2023-10-03 | 2024-01-04 |
+| [ESTA NOCHE](https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [ESTA NOCHE](https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA) | 1:08 | 2025-07-17 |  |
 | [Eu Sento Gabu!](https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s) | [PXLWYSE](https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH) | [Eu Sento Gabu!](https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o) | 1:23 | 2024-10-24 | 2025-01-17 |
 | [EURODANCE](https://open.spotify.com/track/6T88MZVzI2aKcpBPjrJpyx) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [EURODANCE](https://open.spotify.com/album/0cBalxWkwvPpjNxb7XRcUv) | 2:38 | 2023-08-18 | 2023-10-10 |
 | [EWIGKEIT \- REMIX](https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Lyfrix](https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU) | [EWIGKEIT \(REMIX\)](https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz) | 2:17 | 2023-07-28 |  |
@@ -244,7 +245,7 @@
 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 | 2025-04-10 |  |
 | [Scheiß auf eure Party 2.0](https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Scheiß auf eure Party 2.0](https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte) | 2:29 | 2023-08-25 | 2023-10-18 |
 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 | 2023-08-18 | 2024-05-11 |
-| [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 | 2024-02-16 |  |
+| [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 | 2024-02-16 | 2025-07-18 |
 | [Secco Maracuja](https://open.spotify.com/track/3iATVzRm0E8scMQ7aWoAmh) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Themba](https://open.spotify.com/artist/3S4BtEcxyyMFyJpDy5GfV3), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [Secco Maracuja \(feat\. Themba\)](https://open.spotify.com/album/0U9DOcHfw3mKkWbh7TCtCH) | 2:39 | 2023-07-21 | 2023-09-08 |
 | [Sehnsucht](https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Sehnsucht](https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ) | 2:32 | 2023-07-21 | 2025-07-02 |
 | [Semers Sirenen](https://open.spotify.com/track/5Hcp4HSrACxWkqoMx6eaBc) | [Mara Menace](https://open.spotify.com/artist/0gHeuBqqupAKjuSTsutl0g), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Semers Sirenen](https://open.spotify.com/album/5ES7185TkLyhAuiLOdvnGb) | 6:18 | 2023-12-28 | 2024-01-02 |

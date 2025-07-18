@@ -2,7 +2,7 @@
 
 ### [EQUAL AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
-> Listen to women at full volume\. Cover: Kaylee Bell
+> Listen to women at full volume\. Cover: Sara Berki
 
 963 songs - 2 day 4 hr 19 min
 

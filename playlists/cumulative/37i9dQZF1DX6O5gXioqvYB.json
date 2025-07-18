@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Tutte le migliori nuove uscite indie sono qui  \ud83c\udf3b Cover: IRBIS",
+  "description": "Tutte le migliori nuove uscite indie sono qui  \ud83c\udf3b Cover: SELMI e chiamamifaro ",
   "name": "Novit\u00e0 Indie Italiano",
   "tracks": [
+    {
+      "album": {
+        "name": "!LA BALLATA DELLA FOGLIA",
+        "url": "https://open.spotify.com/album/0WmibR2nHWrySyfuXrv7kI"
+      },
+      "artists": [
+        {
+          "name": "!ROBERTO",
+          "url": "https://open.spotify.com/artist/4JONd2ePUMrFGzk7Ntgr3K"
+        },
+        {
+          "name": "Riva Undici",
+          "url": "https://open.spotify.com/artist/5FSVpE59IU9PCSgEyuLkUv"
+        },
+        {
+          "name": "Cip",
+          "url": "https://open.spotify.com/artist/47FkgPa4YNWEwGBVYNxYiE"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153913,
+      "name": "!LA BALLATA DELLA FOGLIA",
+      "url": "https://open.spotify.com/track/01fWjvbCVM4CzBrnfZM5gv"
+    },
     {
       "album": {
         "name": "'Sta lengua",
@@ -182,7 +208,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 135480,
       "name": "A modo mio",
       "url": "https://open.spotify.com/track/4YhnUZNIPRIDZvAXEji5E1"
@@ -334,7 +360,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 126090,
       "name": "Agosto",
       "url": "https://open.spotify.com/track/5A2qecaLuAVvwPCqgu82HJ"
@@ -793,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Ancora Ancora Ancora",
+        "url": "https://open.spotify.com/album/0Qhl6dWiwnMCRZHNjolqE0"
+      },
+      "artists": [
+        {
+          "name": "Teseghella",
+          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123079,
+      "name": "Ancora Ancora Ancora",
+      "url": "https://open.spotify.com/track/2TSQgk5ZZ0Zu7a9u3axHi8"
+    },
+    {
+      "album": {
         "name": "Andando Molto Piano",
         "url": "https://open.spotify.com/album/7uW2mwzJ2fvg8iFWRLWJPg"
       },
@@ -858,7 +902,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 195176,
       "name": "Animali di pezza",
       "url": "https://open.spotify.com/track/05nK24q5JRcmDDpc81NJhO"
@@ -1368,7 +1412,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 131034,
       "name": "BINGO",
       "url": "https://open.spotify.com/track/0CKxnwcO5zZlUGzqffZR8Y"
@@ -1855,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "CANZONE DISPERATA CONTRO LA GUERRA",
+        "url": "https://open.spotify.com/album/3etkT7fznfxAupvu5Qx9hv"
+      },
+      "artists": [
+        {
+          "name": "NOVE",
+          "url": "https://open.spotify.com/artist/3XIYJmJjLZKAXy9soJQHBo"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204781,
+      "name": "CANZONE DISPERATA CONTRO LA GUERRA",
+      "url": "https://open.spotify.com/track/6r0RjLdrxYRDICHHHlbDmT"
+    },
+    {
+      "album": {
         "name": "Canzone poco originale sulla solitudine",
         "url": "https://open.spotify.com/album/0FbWcvM9NO1hDn0zKIrxJr"
       },
@@ -2140,6 +2202,32 @@
       "duration_ms": 206666,
       "name": "Che male c'\u00e8?",
       "url": "https://open.spotify.com/track/7dV5IhoorEN6HzOqIkPyjt"
+    },
+    {
+      "album": {
+        "name": "Che senso ha",
+        "url": "https://open.spotify.com/album/4siuecdv894EkfuzeGwgHO"
+      },
+      "artists": [
+        {
+          "name": "millepaure",
+          "url": "https://open.spotify.com/artist/7Ch7MLfFSiVCLWYnX7a7sH"
+        },
+        {
+          "name": "tobehonest",
+          "url": "https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV"
+        },
+        {
+          "name": "steee",
+          "url": "https://open.spotify.com/artist/7a8lQ49m8Drh1VyYouoBZL"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Che senso ha",
+      "url": "https://open.spotify.com/track/6ksNdCefMsfjpsv2Togir3"
     },
     {
       "album": {
@@ -2639,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "Come ti gira",
+        "url": "https://open.spotify.com/album/4E7cy9xGzODLwWCpB6Nenq"
+      },
+      "artists": [
+        {
+          "name": "Vybes",
+          "url": "https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179833,
+      "name": "Come ti gira",
+      "url": "https://open.spotify.com/track/6aDzFaEeYq9yygU1MuQnYc"
+    },
+    {
+      "album": {
         "name": "Come un cane",
         "url": "https://open.spotify.com/album/32VsW1b0TZEcDxAgPH2SLl"
       },
@@ -2747,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "COMP\u00c0",
+        "url": "https://open.spotify.com/album/0tXVJqOjhGSI5UaitToWWs"
+      },
+      "artists": [
+        {
+          "name": "ALBE.x",
+          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132411,
+      "name": "COMP\u00c0",
+      "url": "https://open.spotify.com/track/250xA5L2EIRYvY90IkFtvv"
+    },
+    {
+      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1dCU5gFInlqqcNG0riDPIH"
       },
@@ -2776,7 +2900,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 161536,
       "name": "Conversazione con Giorgio",
       "url": "https://open.spotify.com/track/5qiz67AC7AvcL1GT6CXLuF"
@@ -3032,7 +3156,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 179574,
       "name": "Cura di te",
       "url": "https://open.spotify.com/track/0PjYnUapFnOagdNnQRFxD5"
@@ -3050,7 +3174,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 196125,
       "name": "Dall'altra parte del sole",
       "url": "https://open.spotify.com/track/5yYiabxF0FpIFnyPBcn6tn"
@@ -3552,7 +3676,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 378760,
       "name": "E Se Quando",
       "url": "https://open.spotify.com/track/2yi9BQCTVKwOFnneh4oxBy"
@@ -3968,7 +4092,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 128000,
       "name": "Felpa XXL",
       "url": "https://open.spotify.com/track/2eMz9Ay048yD6avWXynscu"
@@ -4734,7 +4858,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 154011,
       "name": "Graffiti Tramonto",
       "url": "https://open.spotify.com/track/519vv9zoN4OgHaZ7UFK1Ew"
@@ -4882,6 +5006,28 @@
       "duration_ms": 143250,
       "name": "hey distanza",
       "url": "https://open.spotify.com/track/2OhnAUtEU0KJ0nKKYjQpGG"
+    },
+    {
+      "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/5051gd0SJeYNXlHaK9KauT"
+      },
+      "artists": [
+        {
+          "name": "The Dining Rooms",
+          "url": "https://open.spotify.com/artist/399t4qwl1M9sMlOtlxVP7e"
+        },
+        {
+          "name": "Chiara Castello",
+          "url": "https://open.spotify.com/artist/2hVezheFy6xS9AaIY2tsSL"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204900,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/2yEQbu4AhnKlVnbZ8qrUNr"
     },
     {
       "album": {
@@ -5217,6 +5363,24 @@
     },
     {
       "album": {
+        "name": "In Bilico",
+        "url": "https://open.spotify.com/album/34YlHYFdR9tXK98MfcmafS"
+      },
+      "artists": [
+        {
+          "name": "Luvi!",
+          "url": "https://open.spotify.com/artist/690tqqfa78b8LrE7wazaHi"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182307,
+      "name": "In Bilico",
+      "url": "https://open.spotify.com/track/6N8EtHuolhtssYJH2cE1Sl"
+    },
+    {
+      "album": {
         "name": "Phantom Favola",
         "url": "https://open.spotify.com/album/5TK0y1cSPZAWzITX2DD25J"
       },
@@ -5477,6 +5641,42 @@
     },
     {
       "album": {
+        "name": "L'amore mente",
+        "url": "https://open.spotify.com/album/4rjXTW9l4mhmIUYJfKQFB6"
+      },
+      "artists": [
+        {
+          "name": "MIVERGOGNO",
+          "url": "https://open.spotify.com/artist/2ViO7phpBZJNKwhNqoWSau"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225773,
+      "name": "L'amore mente",
+      "url": "https://open.spotify.com/track/1Ivby8otzhKexjXWmZ2Vv0"
+    },
+    {
+      "album": {
+        "name": "L'Anguria",
+        "url": "https://open.spotify.com/album/6LLJZZ25lCKXn7QQi8EYhp"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211623,
+      "name": "L'Anguria",
+      "url": "https://open.spotify.com/track/4ydPsrewqTuZ4OB8Vyi5Og"
+    },
+    {
+      "album": {
         "name": "L'ET\u00c0 D'ORO",
         "url": "https://open.spotify.com/album/0CcJbA8NY3XXl4xozCPg3Z"
       },
@@ -5528,6 +5728,28 @@
       "duration_ms": 224247,
       "name": "L'Ombra",
       "url": "https://open.spotify.com/track/3a3jTlauNEz1iW2jsO6s7r"
+    },
+    {
+      "album": {
+        "name": "L'Ultima Canzone",
+        "url": "https://open.spotify.com/album/1F7KSJn8zM1j6A7amJJ0XI"
+      },
+      "artists": [
+        {
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
+        },
+        {
+          "name": "chiamamifaro",
+          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164150,
+      "name": "L'Ultima Canzone",
+      "url": "https://open.spotify.com/track/163T8bwTmi8PPKhfGjOBtI"
     },
     {
       "album": {
@@ -5870,7 +6092,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 185915,
       "name": "Laika",
       "url": "https://open.spotify.com/track/2HTLqk45I05ETK7QtOJKIj"
@@ -6340,6 +6562,24 @@
       "duration_ms": 163384,
       "name": "Lucky Strike",
       "url": "https://open.spotify.com/track/7qYnKL1Zud6VAWjsKuTyOy"
+    },
+    {
+      "album": {
+        "name": "DIY Crochet",
+        "url": "https://open.spotify.com/album/4BpUAJQnrqoS0nBvNukBVI"
+      },
+      "artists": [
+        {
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Luglio",
+      "url": "https://open.spotify.com/track/3jlXR7AJTqxgzWSgs1jGbm"
     },
     {
       "album": {
@@ -7015,6 +7255,24 @@
     },
     {
       "album": {
+        "name": "Miao",
+        "url": "https://open.spotify.com/album/2VvvpSZiSHD6t2lhXdBkqo"
+      },
+      "artists": [
+        {
+          "name": "The Zen Circus",
+          "url": "https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215945,
+      "name": "Miao",
+      "url": "https://open.spotify.com/track/1bA1XFvz1mmii9x6uOCsD4"
+    },
+    {
+      "album": {
         "name": "Miele di Luna",
         "url": "https://open.spotify.com/album/2Y0os7GZ1raFSOlJmmhg6H"
       },
@@ -7030,6 +7288,24 @@
       "duration_ms": 216993,
       "name": "Miele di Luna",
       "url": "https://open.spotify.com/track/2A3q8rufFFgqr0GnLDpAl8"
+    },
+    {
+      "album": {
+        "name": "migliorarsi",
+        "url": "https://open.spotify.com/album/2wjkOigVcWjSKqCyoo9EsQ"
+      },
+      "artists": [
+        {
+          "name": "Nostalgia/Futuro",
+          "url": "https://open.spotify.com/artist/2EZCeDSNYLij8SVtTsji3n"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170839,
+      "name": "migliorarsi",
+      "url": "https://open.spotify.com/track/2sQbtIlR0lTW7doYPzMEvN"
     },
     {
       "album": {
@@ -7138,7 +7414,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 146390,
       "name": "Morire nei sogni",
       "url": "https://open.spotify.com/track/6BGDYBslmQ5nqZEnTcqhkF"
@@ -7726,7 +8002,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 158988,
       "name": "Non \u00e8 pi\u00f9 cos\u00ec",
       "url": "https://open.spotify.com/track/0QthOK187jCc5BdAGOR0nf"
@@ -7798,7 +8074,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 167376,
       "name": "NSP",
       "url": "https://open.spotify.com/track/2eoUoWgIOorOIXOKNr3kYN"
@@ -8112,7 +8388,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 169714,
       "name": "Ombre cinesi",
       "url": "https://open.spotify.com/track/4SVJ6nRLY5VnFbEoj7umEl"
@@ -8282,6 +8558,24 @@
       "duration_ms": 213658,
       "name": "Ottovolanti",
       "url": "https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse"
+    },
+    {
+      "album": {
+        "name": "Panico",
+        "url": "https://open.spotify.com/album/3QZAYAhNCv9qFNk8UwmYVD"
+      },
+      "artists": [
+        {
+          "name": "Brioches all'albicocca",
+          "url": "https://open.spotify.com/artist/0a2gKlltawravSEqQRxRWE"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Panico",
+      "url": "https://open.spotify.com/track/5dkkhfCwsOJjXdhFLF4r1U"
     },
     {
       "album": {
@@ -9100,7 +9394,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 190386,
       "name": "Pubblicit\u00e0",
       "url": "https://open.spotify.com/track/53XQhGji8PGPysmTSAmmtr"
@@ -9122,7 +9416,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 172307,
       "name": "Pullecen\u00e9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/1xq0SBWq4wMVDhyyOq3kRL"
@@ -9446,7 +9740,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 166500,
       "name": "Resto",
       "url": "https://open.spotify.com/track/3goJe8V0wMC33oeyPATcVB"
@@ -9636,7 +9930,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 202958,
       "name": "rondine / angelica",
       "url": "https://open.spotify.com/track/1Tr2NJr6gIZU7olFv5K8IW"
@@ -10048,7 +10342,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 215817,
       "name": "Scusa Caterina",
       "url": "https://open.spotify.com/track/34AoZXtCbcDe2fMG3NhrCY"
@@ -10520,7 +10814,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 171194,
       "name": "Sogno aziendale",
       "url": "https://open.spotify.com/track/3xwZcqVTVDDXRRrjZL8r1P"
@@ -10980,6 +11274,24 @@
       "duration_ms": 165424,
       "name": "stare al passo",
       "url": "https://open.spotify.com/track/3BGvQRRYecNbdbGuPeKgtx"
+    },
+    {
+      "album": {
+        "name": "Stare con te",
+        "url": "https://open.spotify.com/album/0np8rWtlHR3rskrsGtP6H3"
+      },
+      "artists": [
+        {
+          "name": "Dasplan",
+          "url": "https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178977,
+      "name": "Stare Con Te",
+      "url": "https://open.spotify.com/track/0HT5SmVUWHfhUJtfvrjNzs"
     },
     {
       "album": {
@@ -11572,6 +11884,24 @@
       "duration_ms": 181922,
       "name": "TUTTO DA RI-FA-RE",
       "url": "https://open.spotify.com/track/5O1l4RiyihOVRGFtbHl7yA"
+    },
+    {
+      "album": {
+        "name": "Tutto In Fiamme",
+        "url": "https://open.spotify.com/album/2tXeSauW32xR1aJod4jaQu"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173313,
+      "name": "Tutto In Fiamme",
+      "url": "https://open.spotify.com/track/0iA4hfJKuhNheKxmMH8UJq"
     },
     {
       "album": {
@@ -12606,7 +12936,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 174352,
       "name": "zero ore di sonno",
       "url": "https://open.spotify.com/track/7JZ5uix7rJdHiJnuaiAngc"

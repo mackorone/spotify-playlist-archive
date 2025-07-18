@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-412 songs - 1 day 0 hr 11 min
+413 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [喜歡你比說喜歡你更容易](https://open.spotify.com/track/5tSgmaLq4GjHuyAcs0TCsu) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [喜歡你比說喜歡你更容易](https://open.spotify.com/album/6q3p7QtWtE260uTuw1UJqc) | 4:13 | 2025-03-20 |  |
 | [喜歡你的我](https://open.spotify.com/track/41P0c5wju22G8wSPVTMv1I) | [WiZY](https://open.spotify.com/artist/5VxlZjfWT6az0ANHGfEcwB), [游家雁 Addsalt](https://open.spotify.com/artist/7LbUHilFL9Fx3EsTxRUAJ4) | [喜歡你的我](https://open.spotify.com/album/1jyNQxZtcivCMkyM9a51B3) | 3:24 | 2024-09-19 | 2024-12-19 |
 | [因為你](https://open.spotify.com/track/5gYQqYiNNynwCQJX8mXQ1N) | [StellaVee](https://open.spotify.com/artist/130SQgBPtO40M6lKRS79Vi) | [朋友說](https://open.spotify.com/album/5nKggvkmeduAeWn6iCY5b1) | 3:05 | 2022-07-18 | 2022-07-21 |
+| [因為你走過來](https://open.spotify.com/track/2OLp94hX626ZPbJWfmiIM8) | [Papaya Duck](https://open.spotify.com/artist/09uL1PjQRBf2t6HwcYLuPU), [啊飄](https://open.spotify.com/artist/5Nn2KsN0krn53NbG2P48fa) | [因為你走過來](https://open.spotify.com/album/23Yn1fD6aFJbsjocszVZSJ) | 3:42 | 2025-07-17 |  |
 | [在你左右 \- 網劇《心動100秒》主題曲](https://open.spotify.com/track/51vZ7YbD7bxoPaLXRFUGu6) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [Felicia Kusumo](https://open.spotify.com/artist/7bQI4SEqo54mA0h1rdlNeg) | [在你左右 \- 網劇《心動100秒》主題曲](https://open.spotify.com/album/7heJz7mX6WqZwEmAFnYRvG) | 3:00 | 2022-06-13 | 2022-07-11 |
 | [在家裡 \- feat.方大同](https://open.spotify.com/track/5kSI0cQklLNXQtK9btXYff) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [我想要的](https://open.spotify.com/album/0BgXOIWCoxjO5Lh6z58o4S) | 4:09 | 2022-06-06 | 2022-07-28 |
 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 | 2022-07-25 | 2024-04-19 |
@@ -288,7 +289,7 @@
 | [敬嘮叨](https://open.spotify.com/track/7B3O98DIT9hOVB8sbwgtYY) | [繆以欣](https://open.spotify.com/artist/43aTla1ZVfTG1AUNhhbqsv) | [如果心情會說話](https://open.spotify.com/album/5BwIe4tDn9K8LVKJP1uFyr) | 3:58 | 2022-07-18 | 2022-07-20 |
 | [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 | 2022-06-06 | 2024-12-11 |
 | [时空恋人](https://open.spotify.com/track/4Wr8vehBhV6cUbhDP60nX4) | [海哲明](https://open.spotify.com/artist/6hBMO1pup13SkItc7yxBbr), [云汐](https://open.spotify.com/artist/7hcRBeXgHkJKfg7uGMr7ag) | [时空恋人](https://open.spotify.com/album/0B6RIITSLOFMK07ZkoVPb3) | 3:08 | 2024-06-27 | 2024-07-12 |
-| [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ) | [洋蔥](https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw) | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i) | 3:48 | 2022-06-06 |  |
+| [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ) | [洋蔥](https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw) | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i) | 3:48 | 2022-06-06 | 2025-07-18 |
 | [星星都聽懂 \(W劇場《因為你如此耀眼》插曲\)](https://open.spotify.com/track/5uvleLnm4RYiJvoMwZtziI) | [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [星星都聽懂](https://open.spotify.com/album/7JBgAdKg5VOiQAf0d0jX0s) | 3:08 | 2023-07-03 | 2023-10-15 |
 | [星晴](https://open.spotify.com/track/4VWn7L2kONeMEQ6cAIfzXC) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ) | 4:16 | 2022-07-25 | 2024-01-10 |
 | [星晴](https://open.spotify.com/track/5oZh0gPKEioN2la70JsKHR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/6r6z1ChrXORrklFyEdRfNs) | 4:16 | 2022-06-06 | 2022-07-28 |

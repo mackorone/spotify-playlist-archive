@@ -2,9 +2,9 @@
 
 ### [New Rock Music](https://open.spotify.com/playlist/0rsqS3HgjHgpjcvfZX8OmF)
 
-> The best and latest rock and alternative\. Cover: U.S\. Girls
+> The best and latest rock and alternative\. Cover:  Nine Inch Nails
 
-291 songs - 17 hr 20 min
+292 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [and it feels](https://open.spotify.com/track/2tlfU7XGAMIRkmfeoHZXPj) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [and it feels](https://open.spotify.com/album/5QCOPX65BbHALCrA08l91d) | 2:08 | 2025-01-19 | 2025-03-08 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-11-03 | 2025-01-20 |
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-25 | 2025-04-26 |
+| [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-17 |  |
 | [As Two People Drift Apart](https://open.spotify.com/track/56BnRYMVVAKtvkIZIQbfCq) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [As Two People Drift Apart](https://open.spotify.com/album/39RaADaRlWnM4QrEchGzHy) | 4:02 | 2025-05-16 |  |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-11-03 | 2024-10-19 |
 | [Bail Out](https://open.spotify.com/track/1KGD63pRjyoWu244zx6P8g) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Bail Out](https://open.spotify.com/album/4j7R5i6AsEhDPGzgem6e1x) | 4:09 | 2023-11-03 | 2024-01-27 |

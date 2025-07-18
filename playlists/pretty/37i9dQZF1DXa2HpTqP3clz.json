@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 166728,
+  "num_followers": 166735,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Kentucky Highway",
-        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
-      },
-      "artists": [
-        {
-          "name": "Williamson Branch",
-          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Kentucky Highway",
-      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Outrun The Rain",
         "url": "https://open.spotify.com/album/71QwOCif4gMjnlZeJLybdP"
       },
@@ -803,26 +787,34 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
+        "name": "Kentucky Highway",
+        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Jeff White",
-          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+          "name": "Williamson Branch",
+          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
         }
       ],
-      "duration_ms": 306440,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
+      "duration_ms": 219493,
+      "name": "Kentucky Highway",
+      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Heading East to West Virginia",
+        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
+      },
+      "artists": [
+        {
+          "name": "Russell Moore & IIIrd Tyme Out",
+          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
+        }
+      ],
+      "duration_ms": 156536,
+      "name": "Heading East to West Virginia",
+      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -847,18 +839,26 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Heading East to West Virginia",
-        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
       "artists": [
         {
-          "name": "Russell Moore & IIIrd Tyme Out",
-          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Jeff White",
+          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
         }
       ],
-      "duration_ms": 156536,
-      "name": "Heading East to West Virginia",
-      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
+      "duration_ms": 306440,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Saint Anthony",
-        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
-      },
-      "artists": [
-        {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "Saint Anthony",
-      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Work Song (I Can Still Sing)",
         "url": "https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 166400,
       "name": "My Little Girl in Tennessee - Live",
       "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Saint Anthony",
+        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Last Road Going Home",
-        "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Last Road Going Home",
-      "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 191813,
       "name": "Sunny Days (Are Comin' Once Again)",
       "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Last Road Going Home",
+        "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "Last Road Going Home",
+      "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Heartbreak Train",
-        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
-      },
-      "artists": [
-        {
-          "name": "Caroline Owens",
-          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
-        }
-      ],
-      "duration_ms": 160471,
-      "name": "Heartbreak Train",
-      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Big City",
         "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 171055,
       "name": "Big City",
       "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Heartbreak Train",
+        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
+      },
+      "artists": [
+        {
+          "name": "Caroline Owens",
+          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
+        }
+      ],
+      "duration_ms": 160471,
+      "name": "Heartbreak Train",
+      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "All the Mornings Have an Echo",
+        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "duration_ms": 175128,
+      "name": "All the Mornings Have an Echo",
+      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Will You Ever Be Mine",
         "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 158480,
       "name": "Will You Ever Be Mine",
       "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "All the Mornings Have an Echo",
-        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
-      },
-      "artists": [
-        {
-          "name": "Forest Sun",
-          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
-        }
-      ],
-      "duration_ms": 175128,
-      "name": "All the Mornings Have an Echo",
-      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Radio John: Songs of John Hartford",
-        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "I'm Still Here",
-      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "As the Crow Flies",
         "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 206373,
       "name": "The Banker",
       "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Radio John: Songs of John Hartford",
+        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
-      },
-      "artists": [
-        {
-          "name": "Wood Box Heroes",
-          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
-        }
-      ],
-      "duration_ms": 235786,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Hang Around for the Heartbreak",
         "url": "https://open.spotify.com/album/5CSL7Qy9qIxwAefETqmUy6"
       },
@@ -1771,18 +1755,34 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Dovetail Cabin",
-        "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
       },
       "artists": [
         {
-          "name": "The Last Revel",
-          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
+          "name": "Wood Box Heroes",
+          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
         }
       ],
-      "duration_ms": 172533,
-      "name": "Dovetail Cabin",
-      "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
+      "duration_ms": 235786,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+        "name": "Dovetail Cabin",
+        "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
       "artists": [
         {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+          "name": "The Last Revel",
+          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
         }
       ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
+      "duration_ms": 172533,
+      "name": "Dovetail Cabin",
+      "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
     }
   ],
   "unique_name": "Grass Roots",

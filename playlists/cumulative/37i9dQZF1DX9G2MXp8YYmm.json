@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Cem Yenel",
+  "description": "Pop'un sevilen isimleri. Kapak: An\u0131l Durmu\u015f x Ahmet Hatipo\u011flu",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -110,6 +110,28 @@
       "duration_ms": 199289,
       "name": "Ac\u0131yla Kucakla\u015ft\u0131m",
       "url": "https://open.spotify.com/track/0OP73LxXno2zdkxETjg3KF"
+    },
+    {
+      "album": {
+        "name": "Ac\u0131yor Kalbim",
+        "url": "https://open.spotify.com/album/2svxTBuMYsgzUq6er9ROiA"
+      },
+      "artists": [
+        {
+          "name": "An\u0131l Durmu\u015f",
+          "url": "https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9"
+        },
+        {
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128804,
+      "name": "Ac\u0131yor Kalbim",
+      "url": "https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI"
     },
     {
       "album": {
@@ -444,7 +466,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 218250,
       "name": "Ayaza Serdim",
       "url": "https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej"
@@ -578,7 +600,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 166784,
       "name": "a\u015fka d\u00fc\u015felim mi?",
       "url": "https://open.spotify.com/track/284iaPUQYDPcllhQwvxuuB"
@@ -708,7 +730,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 179399,
       "name": "Bay\u0131l\u0131yorum Sana",
       "url": "https://open.spotify.com/track/3k2xuHNxGDtiuI6rEVd3CT"
@@ -1134,7 +1156,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 169695,
       "name": "Bir G\u00fcn Ol Yerimde",
       "url": "https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG"
@@ -1890,7 +1912,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "derdim var",
       "url": "https://open.spotify.com/track/2BDFcXV23UANGAQ0J3kisZ"
@@ -1980,7 +2002,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 150000,
       "name": "Doktor",
       "url": "https://open.spotify.com/track/1J3VJgjaGKk35vmr83OSkz"
@@ -2038,7 +2060,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 159633,
       "name": "Duymuyor Beni",
       "url": "https://open.spotify.com/track/5WW1DoKTUataphGlJZNRUq"
@@ -2168,7 +2190,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 175190,
       "name": "En Ger\u00e7e\u011fi",
       "url": "https://open.spotify.com/track/2oroizq42YriYCkHhbh83Y"
@@ -2444,7 +2466,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 192446,
       "name": "G\u00f6rmem B\u00f6ylesini",
       "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
@@ -2520,7 +2542,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 140867,
       "name": "G\u00fcl\u00fc Sevdim Dikeni Batt\u0131",
       "url": "https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N"
@@ -2784,7 +2806,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 179478,
       "name": "Iss\u0131z Duvarlar",
       "url": "https://open.spotify.com/track/1nSJoh7pPSHkMX8pXGE33H"
@@ -2824,7 +2846,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 129804,
       "name": "\u0130mdad\u0131m",
       "url": "https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM"
@@ -3168,7 +3190,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 168975,
       "name": "Kehribar",
       "url": "https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR"
@@ -3518,7 +3540,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 229761,
       "name": "Max",
       "url": "https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS"
@@ -3598,6 +3620,24 @@
       "duration_ms": 165773,
       "name": "Mele\u011fim",
       "url": "https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV"
+    },
+    {
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/3JhaX44hysxWDeLtyqxBpq"
+      },
+      "artists": [
+        {
+          "name": "Murat Dalk\u0131l\u0131\u00e7",
+          "url": "https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166568,
+      "name": "Mesafeler",
+      "url": "https://open.spotify.com/track/0g1yZORNiAs4BjQiPFwQdO"
     },
     {
       "album": {
@@ -4166,7 +4206,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 258105,
       "name": "Sana Y\u0131ld\u0131zlar\u0131 \u00d6dedi\u011fimden",
       "url": "https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0"
@@ -4282,7 +4322,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 170360,
       "name": "Sen Anlamazs\u0131n",
       "url": "https://open.spotify.com/track/0gpRP7BZ3sfNeZb38CJ3QK"
@@ -4336,7 +4376,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 240642,
       "name": "Seni Seven Kimdi",
       "url": "https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8"
@@ -4398,6 +4438,24 @@
       "duration_ms": 181019,
       "name": "Sessizim",
       "url": "https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr"
+    },
+    {
+      "album": {
+        "name": "Sevda Treni",
+        "url": "https://open.spotify.com/album/4emRxiAVJFfRSxf0erdzz4"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152050,
+      "name": "Sevda Treni",
+      "url": "https://open.spotify.com/track/1E14MPC2yAEbABOqVf4U0n"
     },
     {
       "album": {
@@ -4996,7 +5054,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 172346,
       "name": "Yang\u0131n",
       "url": "https://open.spotify.com/track/66n9vXHYJP0mfF2glaTeb3"
@@ -5036,7 +5094,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 136800,
       "name": "Yansam",
       "url": "https://open.spotify.com/track/38gCk1mC6RwSm1iJK5qhsZ"
@@ -5134,7 +5192,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 150909,
       "name": "Yasemen",
       "url": "https://open.spotify.com/track/2SVoUZdzxuDuxBdHSO73KF"
@@ -5232,6 +5290,24 @@
       "duration_ms": 170224,
       "name": "yaz\u0131k ettin",
       "url": "https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada"
+    },
+    {
+      "album": {
+        "name": "Yere D\u00fc\u015ft\u00fcm",
+        "url": "https://open.spotify.com/album/197BTuMAP2s0IZaGVqCFoz"
+      },
+      "artists": [
+        {
+          "name": "Ba\u015far Keklik",
+          "url": "https://open.spotify.com/artist/5m5Z5rAO3wYF1rvJmzhv7o"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190769,
+      "name": "Yere D\u00fc\u015ft\u00fcm",
+      "url": "https://open.spotify.com/track/7oEyxI63xJdZ9mo6CTeeKH"
     },
     {
       "album": {
@@ -5600,7 +5676,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 177572,
       "name": "\u00c7atma Yarim",
       "url": "https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL"
@@ -5690,7 +5766,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 181518,
       "name": "\u00d6n\u00fcm\u00fcz Yaz",
       "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"
@@ -5726,7 +5802,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 155213,
       "name": "\u00d6z\u00fcr Dilerim",
       "url": "https://open.spotify.com/track/1t00Q23r5MtFVZS1jo8v61"
@@ -5852,7 +5928,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 158303,
       "name": "\u015eu Halime Baksana",
       "url": "https://open.spotify.com/track/4s2XGE3LH1KeTfL5fDjioX"

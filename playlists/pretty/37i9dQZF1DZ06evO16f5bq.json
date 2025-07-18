@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 154979,
+  "num_followers": 154994,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAADLPGg1vvzme7snCNtZTBHf",
+  "snapshot_id": "aHbrgAAAAABxJcHF3mKdi6YpwWLX/Abz",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Cyclope Beatz",
+          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
+        },
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 181767,
+      "name": "FOGO E GASOLINA",
+      "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -115,34 +143,6 @@
       "duration_ms": 577819,
       "name": "Poesia Ac\u00fastica #6 Era uma Vez",
       "url": "https://open.spotify.com/track/5JC2ezFSbkVi4Js4byzKoj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Cyclope Beatz",
-          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
-        },
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 181767,
-      "name": "FOGO E GASOLINA",
-      "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
     },
     {
       "added_at": null,
@@ -203,30 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 216435,
-      "name": "N\u00e3o Mente Pra Mentiroso",
-      "url": "https://open.spotify.com/track/2KPe2njS3gPm5yjGhl58lw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -255,6 +231,30 @@
       "duration_ms": 226784,
       "name": "INTEN\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 216435,
+      "name": "N\u00e3o Mente Pra Mentiroso",
+      "url": "https://open.spotify.com/track/2KPe2njS3gPm5yjGhl58lw"
     },
     {
       "added_at": null,
@@ -815,30 +815,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quebradas",
-        "url": "https://open.spotify.com/album/5wSJkFgoyruJuAblbrr5rH"
+        "name": "Nova Moda",
+        "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
       },
       "artists": [
         {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
         },
         {
-          "name": "Mc Lipi",
-          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
         }
       ],
-      "duration_ms": 250588,
-      "name": "Quebradas",
-      "url": "https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR"
+      "duration_ms": 193333,
+      "name": "Dinheiro e Putaria",
+      "url": "https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA"
     },
     {
       "added_at": null,
@@ -887,30 +887,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nova Moda",
-        "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
+        "name": "Quebradas",
+        "url": "https://open.spotify.com/album/5wSJkFgoyruJuAblbrr5rH"
       },
       "artists": [
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
         },
         {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
         },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Dinheiro e Putaria",
-      "url": "https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA"
+      "duration_ms": 250588,
+      "name": "Quebradas",
+      "url": "https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR"
     },
     {
       "added_at": null,
@@ -1263,6 +1263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "quem me dera",
+      "url": "https://open.spotify.com/track/3KtyJBBNlfs5R0H9dgZDWK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ainda",
         "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 200106,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/6QRTLTLtIoJsJTA5wH7Ya8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "quem me dera",
-      "url": "https://open.spotify.com/track/3KtyJBBNlfs5R0H9dgZDWK"
     },
     {
       "added_at": null,

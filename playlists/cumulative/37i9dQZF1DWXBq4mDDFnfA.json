@@ -49,28 +49,6 @@
     },
     {
       "album": {
-        "name": "Sor: Fantasias Nos. 7, 10, 13 / 24 Studies (Excerpts)",
-        "url": "https://open.spotify.com/album/7JGXxvuPVAqgRJDQUyKd0R"
-      },
-      "artists": [
-        {
-          "name": "Fernando Sor",
-          "url": "https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd"
-        },
-        {
-          "name": "Timo Korhonen",
-          "url": "https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT"
-        }
-      ],
-      "date_added": "2021-06-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 104733,
-      "name": "24 Studies, Op. 35, \"Exercises\": Study No. 17 in D Major",
-      "url": "https://open.spotify.com/track/36RCsOzDM2cPkSL6Gotr16"
-    },
-    {
-      "album": {
         "name": "Villa-Lobos: 5 Preludes, W419, A419: No. 3 in A Minor (Homage to Bach)",
         "url": "https://open.spotify.com/album/2AAoWsgK17tVxYCoGWOhXS"
       },
@@ -453,6 +431,28 @@
     },
     {
       "album": {
+        "name": "Sor: Fantasias Nos. 7, 10, 13 / 24 Studies (Excerpts)",
+        "url": "https://open.spotify.com/album/7JGXxvuPVAqgRJDQUyKd0R"
+      },
+      "artists": [
+        {
+          "name": "Fernando Sor",
+          "url": "https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd"
+        },
+        {
+          "name": "Timo Korhonen",
+          "url": "https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104733,
+      "name": "Exercise, Op. 35: Study No. 17 in D Major",
+      "url": "https://open.spotify.com/track/36RCsOzDM2cPkSL6Gotr16"
+    },
+    {
+      "album": {
         "name": "Dreams and Fancies: English Music for Solo Guitar",
         "url": "https://open.spotify.com/album/7C98BOibMcnelCnpzHm4CH"
       },
@@ -734,7 +734,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 139000,
-      "name": "Lieder ohne Worte (Songs without Words), Book 1, Op. 19b: Song without Words, Op. 19, No. 6, Venetian Boat Song I",
+      "name": "Lieder ohne Worte, Book 1, Op. 19b: No. 6 in G Minor, MWV U78, \"Venezianisches Gondellied\" (Arr. G. Garc\u00eda)",
       "url": "https://open.spotify.com/track/690jGhkElcf7vNPq0lvYtS"
     },
     {
@@ -884,7 +884,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153946,
-      "name": "Preludes, Book 1: No. 8. La fille aux cheveux de lin (arr. for guitar)",
+      "name": "Preludes, Book 1: No. 8, La fille aux cheveux de lin (Arr. For guitar)",
       "url": "https://open.spotify.com/track/3prOOjZVKg5Y8yp4RxIiZY"
     },
     {

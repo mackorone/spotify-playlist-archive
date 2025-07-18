@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 79417,
+  "num_followers": 79425,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-07-03 22:00:30",
       "album": {
-        "name": "Bestevenn (Bonus Version)",
-        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Bestevenn",
-      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
-    },
-    {
-      "added_at": "2025-07-03 22:00:30",
-      "album": {
         "name": "Varme Ut Av Is",
         "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 234466,
       "name": "Har En Dr\u00f8m",
       "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
+    },
+    {
+      "added_at": "2025-07-03 22:00:30",
+      "album": {
+        "name": "Bestevenn (Bonus Version)",
+        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Bestevenn",
+      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
     },
     {
       "added_at": "2025-07-03 22:00:30",

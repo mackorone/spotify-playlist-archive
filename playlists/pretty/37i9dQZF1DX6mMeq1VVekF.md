@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Kae Tempest
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,100 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,111 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 10 | [IT'S UP](https://open.spotify.com/track/3ZTg8yL0YzvVLB1fyvvZhp) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [misfit.](https://open.spotify.com/album/4DMku5uHZbI91xDhHU4PIG) | 2:15 |
 | 11 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
 | 12 | [On With The Show](https://open.spotify.com/track/7eCGf54RZlK7XjxfhbIsgr) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [On With The Show](https://open.spotify.com/album/35KxRfr6lCxdoMiXsjQR6D) | 2:27 |
-| 13 | [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 |
-| 14 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 |
+| 13 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 |
+| 14 | [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 |
 | 15 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 |
 | 16 | [Wasteman](https://open.spotify.com/track/2KEjyn86eHFkWVVjaCUZk9) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Wasteman](https://open.spotify.com/album/2xJKS127RMqv3KpKeiW6Do) | 2:25 |
 | 17 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 |
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 21 | [time to go](https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [time to go](https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p) | 3:29 |
 | 22 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 |
 | 23 | [My Girl](https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [My Girl](https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09) | 2:58 |
-| 24 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 |
-| 25 | [Fly With Me](https://open.spotify.com/track/4SGqihGXIxMMRpZeDsyEfS) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Fly With Me](https://open.spotify.com/album/1kp8BBWEumGAbp4z6qJ4op) | 1:42 |
+| 24 | [Fly With Me](https://open.spotify.com/track/4SGqihGXIxMMRpZeDsyEfS) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Fly With Me](https://open.spotify.com/album/1kp8BBWEumGAbp4z6qJ4op) | 1:42 |
+| 25 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 |
 | 26 | [Straight Drop X5](https://open.spotify.com/track/3kUbJTF3u2Ge4j4IzCwlz5) | [Asco](https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r) | [Straight Drop X5](https://open.spotify.com/album/7Kj7DByiJxyuUIfCHqYrTe) | 3:26 |
 | 27 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
 | 28 | [Date Nite](https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Date Nite](https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP) | 2:31 |
 | 29 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
-| 30 | [Atabaque Riddim](https://open.spotify.com/track/5MxlkCfgLzJOKL9bhxMr2d) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Com Amor Brazil](https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy) | 2:23 |
+| 30 | [Atabaque Riddim](https://open.spotify.com/track/5MxlkCfgLzJOKL9bhxMr2d) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Com Amor Brazil \(Original Soundtracks from Traveling Man\)](https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy) | 2:23 |
 | 31 | [NO MANNERS](https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO) | [MGEE](https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC) | [NO MANNERS](https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX) | 2:18 |
 | 32 | [Same Sh\*t](https://open.spotify.com/track/6JLhAcblWoXi3Yxnm2rQOy) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Same Sh\*t](https://open.spotify.com/album/5ilEtloP5mNtfR6vbcdS9r) | 2:28 |
 | 33 | [cook & effy](https://open.spotify.com/track/2Ine8NFQ7cUXIIlvzBlOPE) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [cook & effy](https://open.spotify.com/album/2UNDZH4KDV03ElCDxEhJTX) | 3:07 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 57 | [Fit ID](https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Fit ID](https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt) | 2:38 |
 | 58 | [ROSTER](https://open.spotify.com/track/6FnezcbAmX7tOMF4hSi71K) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o), [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [\#\#MOTIONMUZIK](https://open.spotify.com/album/31poFvXB8ciLoUulSDsbgM) | 2:14 |
 | 59 | [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 |
-| 60 | [WHITE NOISE](https://open.spotify.com/track/5HT8TOYAhw3sfvqZowrVMH) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [WHITE NOISE](https://open.spotify.com/album/1Ed7eYD0Z6o1BZU5p5mjtd) | 3:12 |
+| 60 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
 
 Snapshot ID: `aGcLgQAAAAAGRRmV1RSr/JJkAnopNB7c`

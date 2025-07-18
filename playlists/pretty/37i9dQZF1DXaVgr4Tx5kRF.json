@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 660595,
+  "num_followers": 660652,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Some Friendly",
+        "url": "https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "The Only One I Know",
+      "url": "https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Different Class / Deluxe Edition",
         "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 192960,
       "name": "Richard III",
       "url": "https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Some Friendly",
-        "url": "https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj"
-      },
-      "artists": [
-        {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "The Only One I Know",
-      "url": "https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym"
     },
     {
       "added_at": "2024-03-18 22:10:08",

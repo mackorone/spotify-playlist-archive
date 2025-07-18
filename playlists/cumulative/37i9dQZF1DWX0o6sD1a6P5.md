@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Burna Boy
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Shallipopi
 
-806 songs - 1 day 15 hr 27 min
+807 songs - 1 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,7 +455,7 @@
 | [Love Me](https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Love Me](https://open.spotify.com/album/1vikym192WUofadPIdXtbl) | 3:15 | 2023-07-06 | 2023-11-17 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-25 | 2024-11-15 |
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2021-12-27 | 2022-03-11 |
-| [Lover Boy \(feat\. Tayc & Dadju\)](https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:08 | 2025-04-17 |  |
+| [Lover Boy \(feat\. Tayc & Dadju\)](https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:08 | 2025-04-17 | 2025-07-18 |
 | [Loving You](https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Loving You](https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z) | 2:05 | 2022-05-26 | 2022-08-19 |
 | [LV](https://open.spotify.com/track/2uDFdzVQ7QFEPoagFlMxRB) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [LV](https://open.spotify.com/album/4qtJhVIXtYsOmRYDlcnFOi) | 2:20 | 2024-05-30 | 2024-08-23 |
 | [Ma Came](https://open.spotify.com/track/5lQggx7iO1OOT2inTcSRJ0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 3:42 | 2025-06-12 | 2025-07-11 |
@@ -805,6 +805,7 @@
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-09-30 |
 | [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 | 2025-05-29 |  |
 | [Zaza](https://open.spotify.com/track/40wQLcBCqPVIHj6Hk8D3QP) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Zaza](https://open.spotify.com/album/1NKJU8S17PA7KpNrkP8OtT) | 2:16 | 2023-04-06 | 2023-05-12 |
+| [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 | 2025-07-17 |  |
 | [Zéro Limite](https://open.spotify.com/track/39vgYEUu7uiaac3zN7dxqv) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Zéro Limite](https://open.spotify.com/album/3VD2r5mIFx191tozHFL8eV) | 2:09 | 2023-06-22 | 2023-07-14 |
 | [À distance \- Chokololo](https://open.spotify.com/track/3UFIY9Jv7OdPvqRkzwEfOJ) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [À distance \(Chokololo\)](https://open.spotify.com/album/3SS31nC0avfiusueSnTZdX) | 2:55 | 2022-12-08 | 2022-12-30 |
 | [À LA FOLIE](https://open.spotify.com/track/0niEvIhk3rjNTJHeNHN2Fn) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [GÉ LEAK](https://open.spotify.com/album/47f98WzF1SUMz76YVDwa4L) | 1:58 | 2025-04-10 |  |

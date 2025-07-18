@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Juliette Armanet",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Alex Montembault",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -2421,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "dans ma maison",
+        "url": "https://open.spotify.com/album/5sa26UmvekC0g0AeJsxArm"
+      },
+      "artists": [
+        {
+          "name": "Alma Rechtman",
+          "url": "https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "mes nuits \u00e0 toi",
+      "url": "https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5"
+    },
+    {
+      "album": {
         "name": "Mode d'emploi",
         "url": "https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN"
       },
@@ -2854,7 +2872,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 177613,
       "name": "Pourquoi on pleure",
       "url": "https://open.spotify.com/track/5vTsiAJh3AaPQRFM3mP4qu"

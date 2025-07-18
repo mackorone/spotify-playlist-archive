@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-277 songs - 19 hr 4 min
+278 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Triumphant \- Pulse Club Mix](https://open.spotify.com/track/2gcnvAxDFpxkYYsHzAlr9j) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Josh Abraham](https://open.spotify.com/artist/0fI7XTbV15bFnDfievQtmD), [Oligee](https://open.spotify.com/artist/1FR7xzV2leZ9lE9Ykqelyv), [U\-Tern](https://open.spotify.com/artist/2MOItYWcmLgA2E2OrjK759) | [Triumphant \(The Remixes\)](https://open.spotify.com/album/00IKlZAuwGQLqBJ1jjDSFC) | 5:28 | 2024-01-29 |  |
 | [Triumphant \- Vintage Throwback Mix](https://open.spotify.com/track/6fKWbMmxpvjTVPclI4uQJ3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Triumphant \(The Remixes\)](https://open.spotify.com/album/00IKlZAuwGQLqBJ1jjDSFC) | 4:53 | 2024-01-29 |  |
 | [Twister](https://open.spotify.com/track/6ir913NDSSNPEFrvoE3mwT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 2:26 | 2024-01-29 |  |
+| [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-07-17 |  |
 | [U Make Me Wanna](https://open.spotify.com/track/66PlVvBwKgTseZ1vCU3e46) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Kiss Of Death](https://open.spotify.com/album/3P7zOlM3IYKqW7f4Px6WKv) | 4:53 | 2024-01-29 |  |
 | [Underneath the Stars](https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:33 | 2024-01-29 |  |
 | [Underneath the Stars](https://open.spotify.com/track/1yH40h8bVmlsAvy6dRW4uF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Underneath the Stars \(Official Music Video\)](https://open.spotify.com/album/2ftg393rr5MLAuBo7jTCQY) | 3:33 | 2024-01-30 | 2024-02-02 |

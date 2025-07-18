@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. bring me the lo\-fi
+> welcome to our universe ft\. alice glass
 
-1,156 songs - 2 day 8 hr 36 min
+1,161 songs - 2 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 | 2024-05-28 | 2024-06-07 |
 | [Arguments](https://open.spotify.com/track/0mTWdpD4Q88OA9KWxzgb2K) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [Arguments](https://open.spotify.com/album/09isQOmWP3x8pc9dmlKR8I) | 3:09 | 2021-12-27 | 2022-02-04 |
 | [arsonists](https://open.spotify.com/track/0UgaULuxHpywl4Sgjk25g7) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [arsonists](https://open.spotify.com/album/4UWjGBet8X9qC1geA1U8zw) | 2:30 | 2022-10-13 | 2023-01-22 |
+| [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-17 |  |
 | [ASHAMED \[Feat\. Lauren Mayberry\]](https://open.spotify.com/track/15b2BhawVZK3pQ7c2BhUcU) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [ASHAMED f/ Lauren Mayberry](https://open.spotify.com/album/1N5ZcTHlOBXHGhnQtUu2BZ) | 3:01 | 2024-06-13 | 2024-10-11 |
 | [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 | 2024-02-16 | 2024-05-17 |
 | [ask nicely](https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp) | 2:39 | 2024-03-29 | 2024-04-19 |
@@ -168,6 +169,7 @@
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-13 | 2023-01-20 |
 | [Carry Me Home](https://open.spotify.com/track/48ccwX9wv8bSSOdb2nKRBK) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Carry Me Home](https://open.spotify.com/album/7Jb7E81AWkiaBUnMCjnVoX) | 2:45 | 2025-05-09 |  |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 | 2022-07-15 |
+| [CATCH AND RELEASE](https://open.spotify.com/track/0xFDEEdNrcqK6OKPQGsyok) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [CATCH AND RELEASE](https://open.spotify.com/album/4jUocI6n5D4jEWx4GqYtpu) | 2:24 | 2025-07-17 |  |
 | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/track/1Ibb0sjzCNzhHGe3V1RakV) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/album/4EsvEffXkdatx6a7ZqUGZA) | 3:00 | 2023-08-24 | 2023-11-11 |
 | [Cauterize](https://open.spotify.com/track/3Hlx9j7ozvM2JnqEbrBvoo) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [Cauterize](https://open.spotify.com/album/6SJVjPcp5G3Dqg6Wjvdtsh) | 2:31 | 2023-06-15 | 2023-08-18 |
 | [CBA](https://open.spotify.com/track/1S6e18JIM3yX43F7cnKuWb) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [CBA](https://open.spotify.com/album/61gvPnaFVPZOBOxdVykX2s) | 2:26 | 2024-07-11 | 2025-01-24 |
@@ -862,6 +864,7 @@
 | [rabits](https://open.spotify.com/track/4qvbRrllcG2X0XKspPImWT) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [rabits](https://open.spotify.com/album/1qofpxvy6FZxiSeECIRHWr) | 2:06 | 2023-07-06 | 2023-09-22 |
 | [RAD](https://open.spotify.com/track/1QkI7Udu7JP54oMppM4YEY) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [RAD](https://open.spotify.com/album/4jpkqp0mQwJaCxtCKsmbMf) | 2:38 | 2022-02-18 | 2022-05-20 |
 | [RADIATION](https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5) | 2:24 | 2023-03-17 | 2023-03-31 |
+| [RAGE](https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [RAGE](https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx) | 4:08 | 2025-07-17 |  |
 | [Ramalama \(Bang Bang\)](https://open.spotify.com/track/1i4JlWqVDl8nG8lL6ybjuN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Ruby Blue](https://open.spotify.com/album/2yseKsHTGnuXWn79vCC8FU) | 3:35 | 2024-10-29 | 2024-11-05 |
 | [RAPTURE \(CULT\)](https://open.spotify.com/track/0nlDK0L1VdLiISjhZ8w7Lk) | [QUEEN LAYA](https://open.spotify.com/artist/0bKsyp0xF4dPhlrMJo3sHv) | [RAPTURE \(CULT\)](https://open.spotify.com/album/70vjrfthBvKd2MO76DZvAY) | 3:27 | 2024-04-05 | 2024-06-22 |
 | [Read My Mind](https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Read My Mind](https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72) | 3:25 | 2022-01-05 | 2022-01-19 |
@@ -939,6 +942,7 @@
 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 | 2023-03-30 | 2023-05-13 |
 | [SLOW DEATH](https://open.spotify.com/track/6891otyD7U6uyi2oaOmq7o) | [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49), [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [SLOW DEATH](https://open.spotify.com/album/60undiWwpuG3wqBmp0uhTV) | 2:15 | 2023-05-25 | 2023-08-25 |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2021-12-28 | 2022-01-06 |
+| [Small World Syndrome](https://open.spotify.com/track/0J8A3Ccs5ghyo8Fa1iKOTv) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Small World Syndrome](https://open.spotify.com/album/5CZ3urtWdgLk6av5TUFwn5) | 2:45 | 2025-07-17 |  |
 | [smile](https://open.spotify.com/track/7tu9g2cQxMFD6F9fBDvjga) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [smile](https://open.spotify.com/album/0vBpPNstLWsQCeAbAPuHHY) | 3:08 | 2024-05-16 | 2024-07-12 |
 | [Smothering](https://open.spotify.com/track/28NemsDIgRYIyVovK6hQ59) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Smothering](https://open.spotify.com/album/7bNplBoRxfnAtNhWz7iNLj) | 3:32 | 2025-03-28 | 2025-05-16 |
 | [snakelike \(the stars collide\)](https://open.spotify.com/track/6CTdEvRD18xnL8qIumOaSU) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [snakelike \(the stars collide\)](https://open.spotify.com/album/3pDUMX2cDvZOSDRvNgnjBx) | 2:43 | 2024-04-18 | 2024-09-27 |
@@ -1094,6 +1098,7 @@
 | [War Zone Urchin](https://open.spotify.com/track/5A3uPfOAuxTIXU9QFFsKqp) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Worldwide Torture](https://open.spotify.com/album/2SVRzumTLUTdoHgYNQ4Rh9) | 4:04 | 2022-07-19 | 2022-10-14 |
 | [WARNING LABEL](https://open.spotify.com/track/57HGmkFTWz7U0iNvKpgxMJ) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [WARNING LABEL](https://open.spotify.com/album/7fCCrAOGRpTjMAmWVkP4JC) | 2:55 | 2022-09-15 | 2023-03-03 |
 | [Was I Ever Alone?](https://open.spotify.com/track/4BDQ6qmjENrdu4G18xfTuU) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [TWST0002 \(Off\-World\)](https://open.spotify.com/album/6OUbgFiB8b7YbFFE7AZFEh) | 3:50 | 2023-12-08 | 2024-03-29 |
+| [WASHED](https://open.spotify.com/track/4aC5cgC8yvmxyukDiFqVgf) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [WASHED](https://open.spotify.com/album/048E1k65MEDeslw2sN8cQ7) | 2:44 | 2025-07-17 |  |
 | [watery](https://open.spotify.com/track/3R0GEzbTqMY6Iba9ftP4ll) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [watery](https://open.spotify.com/album/5Kxux1R2Ke01Uh5oa1loXi) | 2:28 | 2022-08-25 | 2022-12-01 |
 | [We Appreciate Power](https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 5:35 | 2022-02-04 | 2024-03-09 |
 | [We're All Going To Die](https://open.spotify.com/track/6jQmhIdemWV7Sp9STU55Fp) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [I Hate People On The Internet](https://open.spotify.com/album/0e8Mkw2QbxOROl9ktrjQDJ) | 3:22 | 2022-03-25 | 2022-09-30 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Ana Bel\u00e9n.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -332,7 +332,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 254445,
       "name": "Alborada en Tono Menor",
       "url": "https://open.spotify.com/track/6I38cqm4S5VRO4I9nQq7NV"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-17",
+      "date_removed": null,
       "duration_ms": 196402,
       "name": "De c\u00f3mo empezamos (Cruce de Caminos)",
       "url": "https://open.spotify.com/track/6YtegG7HMyUZR0ukaBS2mu"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 209457,
       "name": "El Desd\u00e9n",
       "url": "https://open.spotify.com/track/4vkOSMwNg0GQLDFykvcFbQ"
@@ -2686,6 +2686,32 @@
       "duration_ms": 89174,
       "name": "Interludio para mi Julita",
       "url": "https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY"
+    },
+    {
+      "album": {
+        "name": "Irenita",
+        "url": "https://open.spotify.com/album/6VWoBENFpjW61Ld5tmNNsz"
+      },
+      "artists": [
+        {
+          "name": "Santiago Auser\u00f3n",
+          "url": "https://open.spotify.com/artist/1QnWFj4XbwMBRss56Jk63W"
+        },
+        {
+          "name": "Vaggelis Tzeretas",
+          "url": "https://open.spotify.com/artist/6NujmW4jK0unbe2q9sqSke"
+        },
+        {
+          "name": "Thodoris Karellas",
+          "url": "https://open.spotify.com/artist/6Ttiu9jWHoeUf8BjSqvURL"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246009,
+      "name": "Irenita",
+      "url": "https://open.spotify.com/track/7BdTaAig1ZrdS5VspEce8Y"
     },
     {
       "album": {
@@ -6197,6 +6223,24 @@
     },
     {
       "album": {
+        "name": "Todo Cambia",
+        "url": "https://open.spotify.com/album/7mOYdrybPcpsHDxCKXAXXo"
+      },
+      "artists": [
+        {
+          "name": "Luz Casal",
+          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204443,
+      "name": "Todo Cambia",
+      "url": "https://open.spotify.com/track/4PWGbZMeQc8j9rP8sIOc3T"
+    },
+    {
+      "album": {
         "name": "\u00bfSer\u00e1 Posible El Sur?",
         "url": "https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj"
       },
@@ -6252,7 +6296,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 262318,
       "name": "Todo me va bien",
       "url": "https://open.spotify.com/track/2XGmrTpELLkcwelpEntk7n"

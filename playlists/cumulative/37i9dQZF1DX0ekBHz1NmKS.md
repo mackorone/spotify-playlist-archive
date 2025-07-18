@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,939 songs - 4 day 4 hr 27 min
+1,941 songs - 4 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Daddy Issues](https://open.spotify.com/track/6gohkTYsaQDvrcD6sMUxq2) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:18 | 2021-12-16 | 2022-03-11 |
 | [Dag & Natt](https://open.spotify.com/track/0UYWu73xSqMqc2V6oMNrAY) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Dag & Natt](https://open.spotify.com/album/0rc3ipMDmum6TxdzS6et3E) | 2:33 | 2025-06-19 |  |
 | [Dagar som aldrig tar slut](https://open.spotify.com/track/09olrvgVUSM3dbNGP6x7fE) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Dagar som aldrig tar slut](https://open.spotify.com/album/02dhUBkEIAJWMu7Uf1MWn2) | 3:12 | 2024-05-02 | 2024-06-01 |
+| [Dance King](https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Dance King](https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8) | 2:30 | 2025-07-17 |  |
 | [Dancer](https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dancer](https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC) | 3:57 | 2021-12-16 | 2022-02-27 |
 | [Dancing On Dynamite](https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Dancing On Dynamite](https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa) | 2:42 | 2024-08-29 | 2025-03-14 |
 | [Dandelion Kids](https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Dandelion Kids](https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92) | 4:16 | 2024-11-07 | 2025-04-18 |
@@ -636,7 +637,7 @@
 | [GoGetter](https://open.spotify.com/track/1i3CHFEK8QXKu9Rbt6Oaci) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [GoGetter](https://open.spotify.com/album/6VH0BeeYUr8WcTZMGw7l4J) | 2:39 | 2024-05-16 | 2024-06-14 |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-25 | 2023-08-07 |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-06-23 | 2023-08-17 |
-| [Goldfish](https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Goldfish](https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV) | 3:06 | 2025-05-01 |  |
+| [Goldfish](https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Goldfish](https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV) | 3:06 | 2025-05-01 | 2025-07-18 |
 | [Golvet i hallen](https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Golvet i hallen](https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW) | 3:06 | 2023-03-30 | 2023-06-25 |
 | [Good Parts](https://open.spotify.com/track/3SaWMd7Gk3R2FGz7aKNfbL) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Good Parts](https://open.spotify.com/album/5tsdwoSxgUo6pjNhIa0GKb) | 2:30 | 2022-05-12 | 2022-07-18 |
 | [Good Things Come to Those Who Wait](https://open.spotify.com/track/4k392FaIeAtWi8XUyQXMvA) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Good Things Come to Those Who Wait](https://open.spotify.com/album/1RofMBvXnZBRLb0FKsWejZ) | 3:37 | 2022-01-13 | 2022-05-07 |
@@ -1436,7 +1437,7 @@
 | [Seriously, Let's Ride or Die](https://open.spotify.com/track/2MBs6ryr1ZxW4EpPUwYP9L) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Seriously, Let's Ride or Die](https://open.spotify.com/album/03FPGcycU0XI6DEgGMB8SM) | 3:18 | 2022-02-20 | 2022-05-13 |
 | [Sexy](https://open.spotify.com/track/1cTJBsAwjKxZggc8HTeSrs) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Sexy](https://open.spotify.com/album/5uAVsNYiC7FTKTGWUgfm5w) | 2:02 | 2024-05-10 | 2024-06-07 |
 | [Shadowman](https://open.spotify.com/track/0J92uIMvex4Fzpy6YI43vf) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:57 | 2023-07-06 | 2023-09-09 |
-| [Shame on Me](https://open.spotify.com/track/5rlOIBiFjCDV89ylwnBZPA) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Shame on Me / Grow Old](https://open.spotify.com/album/2SIqhxXQm4qYsCKd4mXKXQ) | 2:54 | 2025-05-16 |  |
+| [Shame on Me](https://open.spotify.com/track/5rlOIBiFjCDV89ylwnBZPA) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Shame on Me / Grow Old](https://open.spotify.com/album/2SIqhxXQm4qYsCKd4mXKXQ) | 2:54 | 2025-05-16 | 2025-07-18 |
 | [Shameless](https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Shameless](https://open.spotify.com/album/5QcquR8hsv60H86QASguCE) | 3:41 | 2021-12-16 | 2022-03-08 |
 | [She Fell In Love In The Summer](https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [She Fell In Love In The Summer](https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN) | 2:52 | 2023-04-27 | 2023-10-20 |
 | [She's Coming Over](https://open.spotify.com/track/3EkFr72iewkb9Z12WTTXZz) | [Jack Moy](https://open.spotify.com/artist/58tNZRHNf5ScIAo7zBZDbU) | [She's Coming Over](https://open.spotify.com/album/5Tcc8QFHzwpM6imEBOxyck) | 2:31 | 2024-04-04 | 2024-05-03 |
@@ -1545,6 +1546,7 @@
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 | 2025-05-23 |
 | [Spin The Bottle](https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Spin The Bottle](https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz) | 3:06 | 2025-05-05 | 2025-05-09 |
 | [Springer](https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Springer](https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe) | 3:23 | 2023-11-09 | 2024-02-09 |
+| [Springer ikapp](https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Springer Ikapp](https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk) | 3:34 | 2025-07-17 |  |
 | [Sprit & Blondiner](https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Sprit & Blondiner](https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK) | 3:23 | 2024-06-06 | 2024-08-09 |
 | [Spritdränkta](https://open.spotify.com/track/5IeOJsK7HmNjrRP3zOpOfn) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Spritdränkta](https://open.spotify.com/album/3Ko4CeH9l8c5JFBDxpFAxY) | 3:37 | 2022-03-03 | 2022-05-13 |
 | [Starkare](https://open.spotify.com/track/22WLD0thQ96SRCJ0azSCIX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Starkare](https://open.spotify.com/album/2zCCebbYUHgSoOS0gxGw3r) | 2:25 | 2023-05-04 | 2023-10-20 |

@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tommy WA
 
-245 songs - 14 hr 36 min
+246 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Fallo Fall](https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU) | [Afro Begue](https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA) | [Lou Bess Dioudouna](https://open.spotify.com/album/3whvMDSCMRddEOXqENyP7l) | 5:06 | 2022-11-04 | 2022-12-09 |
 | [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 | 2025-06-26 |  |
 | [Feel Something](https://open.spotify.com/track/0EozgtHJL578iobhVcodiS) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Feel Something](https://open.spotify.com/album/6Zs16k742zGTAsJMrFww6C) | 2:02 | 2025-05-16 | 2025-06-20 |
+| [Final Hour](https://open.spotify.com/track/6kfcbZSCZWEM0tbQp665fA) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 2:16 | 2025-07-18 |  |
 | [Fire Everywhere](https://open.spotify.com/track/4BGv3EsfJL6wLbQ56BaY5X) | [NATAB](https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF) | [There's A Fire On The Mountain](https://open.spotify.com/album/7AHm7GvOwa5PY8Q22tMuHl) | 4:59 | 2024-10-04 |  |
 | [For You](https://open.spotify.com/track/37cZqoXsZiqJ4JN82lNthD) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [For You](https://open.spotify.com/album/3mXWpQc1yhsTIJKon60KFr) | 2:19 | 2023-04-27 | 2024-01-19 |
 | [For You](https://open.spotify.com/track/3225yFOItlcXiJOl2hURor) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [For You](https://open.spotify.com/album/2a6u7lATbFmzWrDvW1g8mt) | 3:45 | 2024-03-01 | 2024-05-10 |
@@ -121,7 +122,7 @@
 | [Luci](https://open.spotify.com/track/69fYAKrHt69xFqH9OGojjp) | [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [David Hammond](https://open.spotify.com/artist/77dRhxijp3XSASVc3mYozX) | [The.rap.y](https://open.spotify.com/album/5imTQerf20f3s4TkWwlKaY) | 2:45 | 2023-04-14 | 2023-12-15 |
 | [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-25 | 2023-06-03 |
 | [Luendu](https://open.spotify.com/track/1anZTHDNZp9OlQtqFwkVON) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Mopero Mupemba](https://open.spotify.com/artist/2WUJ6i3nedRAN5IycBqhBs) | [Archeology](https://open.spotify.com/album/3V4BPB1PiG4Uobib3AeRN3) | 3:08 | 2022-10-21 | 2022-11-04 |
-| [Made It Out](https://open.spotify.com/track/6S9OhXjTYy3FQCqunQicWp) | [Robin\-Huws](https://open.spotify.com/artist/1RcO4pGVPhNqj44hJL8bjA) | [Made It Out](https://open.spotify.com/album/17EM7LIPKGsQKfMT0salVU) | 2:48 | 2024-02-09 |  |
+| [Made It Out](https://open.spotify.com/track/6S9OhXjTYy3FQCqunQicWp) | [Robin\-Huws](https://open.spotify.com/artist/1RcO4pGVPhNqj44hJL8bjA) | [Made It Out](https://open.spotify.com/album/17EM7LIPKGsQKfMT0salVU) | 2:48 | 2024-02-09 | 2025-07-18 |
 | [Magic In The Water](https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Magic In The Water](https://open.spotify.com/album/0yIhILQZBRPEWanrSaOK6g) | 4:14 | 2022-02-24 | 2022-12-09 |
 | [Magnetic](https://open.spotify.com/track/472INKIBYOfxaYOagwN1f6) | [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Figurine](https://open.spotify.com/album/0Tgcl7QbfwGNqCdJ3h6vj6) | 3:48 | 2021-09-24 | 2023-02-04 |
 | [Mahaba Yatatuua](https://open.spotify.com/track/5qDdvkYJBLZKciPWMCx9Fz) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO) | [Mahaba Yatatuua](https://open.spotify.com/album/74uv6gKqamatXy8IfjntRA) | 3:20 | 2023-07-28 | 2023-09-15 |

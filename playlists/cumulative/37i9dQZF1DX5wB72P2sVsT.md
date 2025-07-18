@@ -2,9 +2,9 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> DJ Snake au top des bangers dance/electro du moment !
+> David Guetta au top des bangers dance/electro du moment !
 
-277 songs - 12 hr 43 min
+278 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [feelings don't lie](https://open.spotify.com/track/3lqamRh4EILIDACnAbl35t) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [feelings don't lie](https://open.spotify.com/album/7Dl3d5p3H4vp1DKkXifeRm) | 2:30 | 2024-05-31 | 2024-09-20 |
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-09-19 | 2025-03-21 |
 | [Fio Maravilha](https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Fio Maravilha](https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4) | 3:08 | 2024-02-15 | 2024-03-01 |
-| [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 | 2024-10-24 |  |
+| [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 | 2024-10-24 | 2025-07-18 |
 | [Forever Yours \- Tim’s 2016 Ibiza Version](https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Forever Yours \(Tim’s 2016 Ibiza Version\)](https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371) | 3:28 | 2025-03-13 | 2025-07-04 |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-08-01 | 2024-12-13 |
 | [Free Now](https://open.spotify.com/track/3OOjWxp0aP4aJLzpOiejRu) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Bacon Popper](https://open.spotify.com/artist/66KDF6NInRu4Gxn0WdDraQ) | [Free Now](https://open.spotify.com/album/4pm4vlIxPaGyeVjaar9PLW) | 2:27 | 2025-03-20 |  |
@@ -125,6 +125,7 @@
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-25 | 2024-05-10 |
 | [I Don't Wanna Wait \- Hardwell & Olly James Remix](https://open.spotify.com/track/0GOXlShsWOp7BQ7nt9uwUL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [I Don't Wanna Wait \(Hardwell & Olly James Remix\)](https://open.spotify.com/album/2Y4Tm0KdcUWNnPpphhhGZ4) | 3:03 | 2024-05-09 | 2025-02-14 |
 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 | 2025-02-13 |  |
+| [I Go](https://open.spotify.com/track/6nyrnM6E1rRaZM8YiDPbEu) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [I Go](https://open.spotify.com/album/6A9mUbNPbtPRi4S42vHLvr) | 2:41 | 2025-07-17 |  |
 | [I LUV U \(Sunny\)](https://open.spotify.com/track/4t2fT4JBAyjwi7ZLMwl9l9) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [BLENDER](https://open.spotify.com/artist/6IwTZTN2WX3s6jmbSHoBNS), [Ragdoll](https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl) | [I LUV U \(Sunny\)](https://open.spotify.com/album/6JkTXvpBZqnJewWj7fcvPT) | 2:44 | 2024-07-18 | 2024-08-30 |
 | [I Want You](https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [I Want You](https://open.spotify.com/album/7sOHb747Acn8nM3P56vdOn) | 2:55 | 2024-06-27 | 2024-08-30 |
 | [I'll Be Waiting](https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [I'll Be Waiting](https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0) | 2:03 | 2025-05-29 |  |

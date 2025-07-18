@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,671 likes - 66 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,811 likes - 66 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 18 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 19 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 20 | [Without You \(Falling\)](https://open.spotify.com/track/3MbtBolpM1RQWqFWhq82Jc) | [BEAUMARCHAIS](https://open.spotify.com/artist/3yC7olUrcDiQ4mcLVozqqP) | [Without You \(Falling\)](https://open.spotify.com/album/23PSFyueca3yMzlxh8JHHY) | 2:58 |
-| 21 | [Dans la ville endormie](https://open.spotify.com/track/3H2rcMJZqrlSUEdgitfCj1) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [MIQA](https://open.spotify.com/artist/1kWBfTSCJM4v6R8tyKSvD7), [SKIO](https://open.spotify.com/artist/0AWOsB7u3ZGM1SklkJlL3o) | [Dans la ville endormie](https://open.spotify.com/album/6kWR6an9Q2geLPAMhDLiTn) | 3:34 |
+| 21 | [Dans la ville endormie](https://open.spotify.com/track/3H2rcMJZqrlSUEdgitfCj1) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [MIQA](https://open.spotify.com/artist/7qx5u7qfrFrlPNReiyFcJq), [SKIO](https://open.spotify.com/artist/0AWOsB7u3ZGM1SklkJlL3o) | [Dans la ville endormie](https://open.spotify.com/album/6kWR6an9Q2geLPAMhDLiTn) | 3:34 |
 | 22 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM \(BE\)](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 |
 | 23 | [Veridis Quo \- Edit](https://open.spotify.com/track/39piMAGrzEeTV0yAxHRyoA) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Veridis Quo \(Edit\)](https://open.spotify.com/album/1CeIjHjsxOIo1jQkPduUfx) | 2:44 |
 | 24 | [Because You Move Me](https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS) | 3:16 |

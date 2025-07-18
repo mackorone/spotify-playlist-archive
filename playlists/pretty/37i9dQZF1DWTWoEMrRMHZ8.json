@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: HODARI",
-  "num_followers": 350518,
+  "num_followers": 350506,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
+        "name": "Menino Bonito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6SGCr2LABC1SeJYYtnesah"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "duration_ms": 169654,
+      "name": "Menino Bonito - Ao Vivo",
+      "url": "https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
         "name": "PALCO",
         "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 278736,
       "name": "PALCO",
       "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
-        "name": "Todas Elas (Deluxe)",
-        "url": "https://open.spotify.com/album/34Z3IDAEuX79HesCNLuqL1"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "Nada Mais",
-      "url": "https://open.spotify.com/track/2sG4JlM2fO3RzXoXffRYyX"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -215,18 +215,18 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
-        "name": "Menino Bonito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6SGCr2LABC1SeJYYtnesah"
+        "name": "Todas Elas (Deluxe)",
+        "url": "https://open.spotify.com/album/34Z3IDAEuX79HesCNLuqL1"
       },
       "artists": [
         {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
         }
       ],
-      "duration_ms": 169654,
-      "name": "Menino Bonito - Ao Vivo",
-      "url": "https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl"
+      "duration_ms": 283293,
+      "name": "Nada Mais",
+      "url": "https://open.spotify.com/track/2sG4JlM2fO3RzXoXffRYyX"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -275,26 +275,6 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
-        "name": "Todas Elas",
-        "url": "https://open.spotify.com/album/39vSWTqfZUoXfJBIm6U2eg"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 245612,
-      "name": "Troco Tudo",
-      "url": "https://open.spotify.com/track/3vT0bYuBxPIbZxfqKTvHsh"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -335,6 +315,26 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
+        "name": "Todas Elas",
+        "url": "https://open.spotify.com/album/39vSWTqfZUoXfJBIm6U2eg"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 245612,
+      "name": "Troco Tudo",
+      "url": "https://open.spotify.com/track/3vT0bYuBxPIbZxfqKTvHsh"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
         "name": "JV30 Tour, Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
       },
@@ -351,6 +351,22 @@
       "duration_ms": 268364,
       "name": "S\u00f3 Quem Ama - Ao Vivo",
       "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
+        "name": "Ainda J\u00e1 - Vol. 1",
+        "url": "https://open.spotify.com/album/5bEpVpGEUUCmEHaPMw3g6r"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        }
+      ],
+      "duration_ms": 232784,
+      "name": "Quem Dera Eu Seu Z\u00e9",
+      "url": "https://open.spotify.com/track/6bA9sj1j6dmuOPTt1unzWy"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -387,22 +403,6 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
-        "name": "Ainda J\u00e1 - Vol. 1",
-        "url": "https://open.spotify.com/album/5bEpVpGEUUCmEHaPMw3g6r"
-      },
-      "artists": [
-        {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
-        }
-      ],
-      "duration_ms": 232784,
-      "name": "Quem Dera Eu Seu Z\u00e9",
-      "url": "https://open.spotify.com/track/6bA9sj1j6dmuOPTt1unzWy"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
         "name": "Eterna Alegria (Special Edition) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
       },
@@ -435,6 +435,26 @@
       "duration_ms": 188064,
       "name": "Deleita",
       "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Tenha Calma",
+      "url": "https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -487,26 +507,6 @@
       "duration_ms": 211000,
       "name": "Samba e Amor",
       "url": "https://open.spotify.com/track/3PyuQLIu4gJab3PEgCKauq"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
-        "name": "Canto Djavan",
-        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Tenha Calma",
-      "url": "https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
-        "name": "big buraco",
-        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
-      },
-      "artists": [
-        {
-          "name": "Jadsa",
-          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
-        }
-      ],
-      "duration_ms": 180185,
-      "name": "sol na pele",
-      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
         "name": "Vento",
         "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
       },
@@ -611,22 +595,18 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
-        "name": "FOI NO S\u00c3O JO\u00c3O",
-        "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
+        "name": "big buraco",
+        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
       },
       "artists": [
         {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+          "name": "Jadsa",
+          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
         }
       ],
-      "duration_ms": 189589,
-      "name": "FOI NO S\u00c3O JO\u00c3O",
-      "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
+      "duration_ms": 180185,
+      "name": "sol na pele",
+      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -651,6 +631,26 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
+        "name": "FOI NO S\u00c3O JO\u00c3O",
+        "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        }
+      ],
+      "duration_ms": 189589,
+      "name": "FOI NO S\u00c3O JO\u00c3O",
+      "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
         "name": "C\u00e9u Azul / Can\u00e7\u00e3o no R\u00e1dio",
         "url": "https://open.spotify.com/album/797YaMO31dVt2atdiuUc6R"
       },
@@ -663,26 +663,6 @@
       "duration_ms": 189232,
       "name": "C\u00e9u Azul",
       "url": "https://open.spotify.com/track/5a6lWVjTdhcPjlgolPv1Ha"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
-        "name": "Volta Por Cima",
-        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 139907,
-      "name": "Volta Por Cima",
-      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -707,6 +687,26 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
+        "name": "Volta Por Cima",
+        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 139907,
+      "name": "Volta Por Cima",
+      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
         "name": "\u00c2mbar",
         "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 172586,
       "name": "\u00c2mbar",
       "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
-        "name": "Se o Meu Peito Fosse o Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5YGJgU35coBKBHnsaHcNJL"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
-        }
-      ],
-      "duration_ms": 240301,
-      "name": "O Que Ser\u00e1 N\u00f3s Dois - Ao Vivo",
-      "url": "https://open.spotify.com/track/5rbRRSmZVA0SyduyHyltJt"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -763,6 +743,26 @@
       "duration_ms": 321115,
       "name": "Praia do Futuro",
       "url": "https://open.spotify.com/track/78HsMq1JAmcODsD2jvfXyc"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
+        "name": "Se o Meu Peito Fosse o Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5YGJgU35coBKBHnsaHcNJL"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        }
+      ],
+      "duration_ms": 240301,
+      "name": "O Que Ser\u00e1 N\u00f3s Dois - Ao Vivo",
+      "url": "https://open.spotify.com/track/5rbRRSmZVA0SyduyHyltJt"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
+        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "All Star - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
         "name": "Trem das Onze",
         "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
       },
@@ -819,18 +835,22 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
-        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
       "artists": [
         {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
         }
       ],
-      "duration_ms": 192108,
-      "name": "All Star - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
+      "duration_ms": 181128,
+      "name": "Seduzir",
+      "url": "https://open.spotify.com/track/6VL85SJM9lbFDPYT7MuSEj"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -927,42 +947,6 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
-        "name": "Canto Djavan",
-        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        }
-      ],
-      "duration_ms": 181128,
-      "name": "Seduzir",
-      "url": "https://open.spotify.com/track/6VL85SJM9lbFDPYT7MuSEj"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
-        "name": "Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/2aJT8yD4FvkheQ2Xqhy51w"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 265192,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/4uBh8aDIHrwxL1DCyU489T"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
         "name": "Quase Um Segundo",
         "url": "https://open.spotify.com/album/5W3Uj6xgFVyH1Z6oNk6Nc2"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 252436,
       "name": "Quase Um Segundo",
       "url": "https://open.spotify.com/track/1L9980Y779SA7ZWer3JAUg"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
+        "name": "Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/2aJT8yD4FvkheQ2Xqhy51w"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 265192,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/4uBh8aDIHrwxL1DCyU489T"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
-        "name": "segredo",
-        "url": "https://open.spotify.com/album/0YoGRjLqlh5Z5SaL2yfw3s"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 192555,
-      "name": "segredo",
-      "url": "https://open.spotify.com/track/3HbGtwpBueLosAGkP8BUqJ"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
         "name": "For\u00e7a Estranha",
         "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 257739,
       "name": "For\u00e7a Estranha",
       "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
+        "name": "segredo",
+        "url": "https://open.spotify.com/album/0YoGRjLqlh5Z5SaL2yfw3s"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 192555,
+      "name": "segredo",
+      "url": "https://open.spotify.com/track/3HbGtwpBueLosAGkP8BUqJ"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
+        "name": "Obstru\u00e7\u00e3o Samba",
+        "url": "https://open.spotify.com/album/45EoEhj8V5Bbd2XhdyyhP0"
+      },
+      "artists": [
+        {
+          "name": "Wado",
+          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
+        },
+        {
+          "name": "Junio Barreto",
+          "url": "https://open.spotify.com/artist/1RXlQYDjWcOGyznjuzabUB"
+        }
+      ],
+      "duration_ms": 159900,
+      "name": "Conversa Entre Sementes",
+      "url": "https://open.spotify.com/track/6i1EQWLugsSwWLVeHAUEjF"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
         "name": "O Sino Da Igrejinha",
         "url": "https://open.spotify.com/album/7D8JYnygEiz4KSEqtESWyU"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 263014,
       "name": "Divina Com\u00e9dia Humana - Ao Vivo",
       "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
-        "name": "Obstru\u00e7\u00e3o Samba",
-        "url": "https://open.spotify.com/album/45EoEhj8V5Bbd2XhdyyhP0"
-      },
-      "artists": [
-        {
-          "name": "Wado",
-          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
-        },
-        {
-          "name": "Junio Barreto",
-          "url": "https://open.spotify.com/artist/1RXlQYDjWcOGyznjuzabUB"
-        }
-      ],
-      "duration_ms": 159900,
-      "name": "Conversa Entre Sementes",
-      "url": "https://open.spotify.com/track/6i1EQWLugsSwWLVeHAUEjF"
     },
     {
       "added_at": "2025-07-11 05:41:02",
@@ -1463,6 +1463,30 @@
     {
       "added_at": "2025-07-11 05:41:02",
       "album": {
+        "name": "calmo e urgente",
+        "url": "https://open.spotify.com/album/1oui0gKllfNRonWoG2SAb5"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3",
+          "url": "https://open.spotify.com/artist/4PqyC4ZKN6l1rgFojodapX"
+        },
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS"
+        },
+        {
+          "name": "Jo\u00e3o Menezes",
+          "url": "https://open.spotify.com/artist/739q0klSXRFkOE3TsIMewl"
+        }
+      ],
+      "duration_ms": 105616,
+      "name": "te ver",
+      "url": "https://open.spotify.com/track/6WRpU55CUE9Rqjps8De9vu"
+    },
+    {
+      "added_at": "2025-07-11 05:41:02",
+      "album": {
         "name": "Festa do Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6YPi4gnPoVwFevR4IOnMX3"
       },
@@ -1495,30 +1519,6 @@
       "duration_ms": 304729,
       "name": "No Rancho Fundo",
       "url": "https://open.spotify.com/track/3hWemIhSvSZTQs566P9CFZ"
-    },
-    {
-      "added_at": "2025-07-11 05:41:02",
-      "album": {
-        "name": "calmo e urgente",
-        "url": "https://open.spotify.com/album/1oui0gKllfNRonWoG2SAb5"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3",
-          "url": "https://open.spotify.com/artist/4PqyC4ZKN6l1rgFojodapX"
-        },
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS"
-        },
-        {
-          "name": "Jo\u00e3o Menezes",
-          "url": "https://open.spotify.com/artist/739q0klSXRFkOE3TsIMewl"
-        }
-      ],
-      "duration_ms": 105616,
-      "name": "te ver",
-      "url": "https://open.spotify.com/track/6WRpU55CUE9Rqjps8De9vu"
     },
     {
       "added_at": "2025-07-11 05:41:02",

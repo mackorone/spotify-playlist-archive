@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 46 min
+89 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bueno Para Lo Malo](https://open.spotify.com/track/5HupHNcM3sEawvuDuUKF2s) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Nueva Linea](https://open.spotify.com/artist/41Mo4EzNJLzanG8PwNajIG) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 4:36 | 2024-12-07 | 2025-02-10 |
 | [Calles Californianas](https://open.spotify.com/track/77JRJFvxexYjbf49Q0RF2y) | [Hijos De La Plaza](https://open.spotify.com/artist/6tGfaDLiyGkJy05dbcPEJZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Calles Californianas](https://open.spotify.com/album/6022qbvV7Hbn7ArgsgWXkl) | 3:46 | 2024-01-29 | 2024-10-16 |
 | [Camioneta Alterada](https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Camioneta Alterada](https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t) | 3:29 | 2024-01-29 |  |
+| [Cerveza Al Aire](https://open.spotify.com/track/0lclNVJgbfNZDdwIwkAZbO) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Cerveza Al Aire](https://open.spotify.com/album/1zrNUiT3MeXWxOIHhbW5kQ) | 3:51 | 2025-07-18 |  |
 | [Chapito Lomas](https://open.spotify.com/track/3WHOLFP8efU4kSKektfFGe) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Chapito Lomas](https://open.spotify.com/album/3YEavSCWGJ1ZbdmJKCjO6t) | 3:21 | 2024-12-08 |  |
 | [Critíquenme](https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:37 | 2024-02-02 |  |
 | [Cuatro Grandes \(Cuadro Lavado\)](https://open.spotify.com/track/0ggmHIybqGimyRj8wLz81v) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 2:47 | 2025-05-15 |  |
@@ -61,7 +62,7 @@
 | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL) | 2:37 | 2024-01-29 |  |
 | [Joven Delincuente](https://open.spotify.com/track/5esyzttlthLkvEhaJsPtUd) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Joven Delincuente](https://open.spotify.com/album/6LJQHthrT6kncN1zN9atvE) | 3:56 | 2024-01-29 | 2024-06-18 |
 | [Joven Delinquente](https://open.spotify.com/track/0H6CmqrDWzdGS6C4nVrDuv) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:42 | 2024-05-24 | 2024-05-26 |
-| [La Patrulla](https://open.spotify.com/track/7dueUpuihkYhTDGO5V3IBD) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 2:18 | 2025-05-16 |  |
+| [La Patrulla](https://open.spotify.com/track/7dueUpuihkYhTDGO5V3IBD) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 2:18 | 2025-05-16 | 2025-07-18 |
 | [Las Vacaciones del Jefe](https://open.spotify.com/track/0M9CGFVX73YETJxg1KNcm0) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 3:37 | 2025-05-29 | 2025-05-30 |
 | [Layo Gastelum \(En Vivo\)](https://open.spotify.com/track/3numKkxd3guCAWjwJgLjdH) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:28 | 2024-01-29 |  |
 | [Los Tengo Viendo](https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Los Tengo Viendo](https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI) | 3:54 | 2024-01-29 |  |

@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-414 songs - 20 hr 54 min
+415 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [The Ones We Love \- VIP Mix](https://open.spotify.com/track/1wt09Ym7YlhKle5q5pGaqG) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [The Ones We Love \(VIP Mix\)](https://open.spotify.com/album/7Istc5og7wYdWlkXbPkPzT) | 2:23 | 2024-07-04 | 2024-11-30 |
 | [The Pulse Of Machine](https://open.spotify.com/track/1cUOfO7FdFwz5U5Jhm4Jwo) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM) | [The Pulse Of Machine](https://open.spotify.com/album/4oN1LfYW0EY0sF1DKTqgr4) | 3:21 | 2023-06-15 | 2024-11-30 |
 | [The Reason](https://open.spotify.com/track/7iYH0oTBEqDUnZrD6E2NuO) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [The Reason](https://open.spotify.com/album/58qHxsua3VudAGBKXo3ESP) | 3:27 | 2024-03-28 |  |
+| [The Reason](https://open.spotify.com/track/2nLLSXmFdURDn6N9IzRkn8) | [TBR](https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv), [Midtown Jack](https://open.spotify.com/artist/0ZzMs5t628O1gXoh4zIuTS), [Casino Stereo](https://open.spotify.com/artist/2i2CzDQp1hwba2JbTTwic7) | [The Reason](https://open.spotify.com/album/04vATOU4l31nf4DheMpiNc) | 3:08 | 2025-07-17 |  |
 | [The Summer Is Magic](https://open.spotify.com/track/7lC25gUPrasUpSuRFS01bR) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Carlprit](https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp) | [The Summer Is Magic](https://open.spotify.com/album/6MjlZdywOHPQCUSGqGPA7h) | 2:08 | 2025-05-16 |  |
 | [The Underground](https://open.spotify.com/track/1Tc3d5Dy9W3dlZ6yi22Aph) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [The Underground](https://open.spotify.com/album/6T9qtE0RP4nPe6eZsGMMu7) | 2:27 | 2025-03-27 |  |
 | [The Way](https://open.spotify.com/track/1BustUyHtfpiRYbs0atiro) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [AlterBoyz](https://open.spotify.com/artist/7FOSeFufRu4OHI7o1YWW2j), [Melody Mane](https://open.spotify.com/artist/48gbf4ARAxb4gb6dsQrSF7) | [The Way](https://open.spotify.com/album/3wh5DSamOl79eetXWmfPfe) | 2:49 | 2022-11-18 | 2023-02-25 |

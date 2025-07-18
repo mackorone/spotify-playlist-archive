@@ -4,7 +4,7 @@
 
 > When the dancefloor calls your name, that's amore.
 
-196 songs - 16 hr 22 min
+197 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Dancin' All The Night \- Original Extended Version](https://open.spotify.com/track/21br0MBSr0o05d073b2ld8) | [Paul Sharada](https://open.spotify.com/artist/6Ka73Uf6EKU9GW8zTTRobK) | [80's Dance Story Original Italo Hits](https://open.spotify.com/album/0rcYpBkTkKMUv5W32JPcaY) | 6:19 | 2022-02-11 | 2022-02-22 |
 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-04 |  |
 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 | 2022-02-11 |  |
-| [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 | 2024-04-04 |  |
+| [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 | 2024-04-04 | 2025-07-18 |
 | [Destiny](https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO) | [Vivien Vee](https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d) | [Destiny \(Original\) \- Single](https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8) | 4:39 | 2022-10-07 | 2023-05-18 |
 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 | 2022-02-11 | 2025-02-28 |
 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 | 2022-06-17 |  |
@@ -119,6 +119,7 @@
 | [Malocchio \- Sam Ruffillo Remix](https://open.spotify.com/track/3ulh9mrHNJOdFFJRJokCM2) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Malocchio \(Sam Ruffillo Remix\)](https://open.spotify.com/album/57k1ZA47Cg3EKIkLqXRCXE) | 4:41 | 2024-01-23 | 2024-03-16 |
 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 | 2022-02-11 |  |
 | [Masterpiece](https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [Viewpoint](https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb) | 4:14 | 2022-02-11 |  |
+| [Mediterranea \- Dumar Remix](https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba) | [Mediterranea \(Dumar Remix\)](https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4) | 3:04 | 2025-07-17 |  |
 | [Melody \(1983 Radio Version\)](https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:51 | 2022-02-11 |  |
 | [Microwave Photon](https://open.spotify.com/track/2Sv9T375D6IzJ1ymGHAZjx) | [The Exaltics](https://open.spotify.com/artist/1WWgHYgUAQR5wfEa8et14L), [Heinrich Mueller](https://open.spotify.com/artist/0aucV54IIc14u2e9jzxAbe) | [Dimensional Shifting](https://open.spotify.com/album/6m7QyFd7bdOY2BjiXR6iz6) | 3:38 | 2022-02-11 | 2022-07-28 |
 | [Mini Pony](https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Mini Pony](https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7) | 3:29 | 2025-05-16 |  |

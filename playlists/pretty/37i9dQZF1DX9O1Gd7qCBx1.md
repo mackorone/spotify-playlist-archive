@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,230 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,229 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 36 | [Que te vaya bonito](https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas\. Sus 40 Grandes Canciones](https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP) | 3:22 |
 | 37 | [La muerte chiquita](https://open.spotify.com/track/4JH1M62gVDNDhDAUiQB3Qv) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Tiempo transcurrido](https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz) | 2:51 |
 | 38 | [Paloma negra](https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp) | 3:15 |
-| 39 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 |
-| 40 | [La vida es un sueño](https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Pedro Infante interpreta a José Alfredo Jiménez Vol\. 2](https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe) | 3:10 |
+| 39 | [La vida es un sueño](https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Pedro Infante interpreta a José Alfredo Jiménez Vol\. 2](https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe) | 3:10 |
+| 40 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 |
 | 41 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:46 |
 | 42 | [La llorona](https://open.spotify.com/track/45rQqSqb95p5lkZy13Tl1u) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [La Llorona](https://open.spotify.com/album/1UdavcEuofRFCq2Mq2278f) | 8:31 |
 | 43 | [Cartas \(Primera carta: La Calavera\)](https://open.spotify.com/track/5wEmK84AIP35bb3TNWTLqu) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Cartas \(Primera carta: La Calavera\)](https://open.spotify.com/album/0CGDKXhlm6ACcfn1qgadc2) | 3:39 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 88 | [El Corrido de Miguel Rivera \- En Vivo](https://open.spotify.com/track/5hX714XFVzo8n6pUtIovFc) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Especial de Día de Muertos \(En Vivo\)](https://open.spotify.com/album/7rMipwOaDCAanINiqam8M8) | 3:39 |
 | 89 | [Los Esqueletos](https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [Tres Canciones Nuevas](https://open.spotify.com/album/1t3hGZtxBBXWmWGCuFM6QH) | 3:04 |
 | 90 | [La huesuda](https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [La huesuda](https://open.spotify.com/album/1EURs2L4xEKmMtnEvBPjS9) | 3:37 |
-| 91 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 |
-| 92 | [Que Me Importa Morir](https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f) | [Wilbert Pere y Mariachi Tanampa](https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n) | [Día de los Muertos: El Mariachi](https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB) | 3:21 |
+| 91 | [Que Me Importa Morir](https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f) | [Wilbert Pere y Mariachi Tanampa](https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n) | [Día de los Muertos: El Mariachi](https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB) | 3:21 |
+| 92 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 |
 | 93 | [Décimas a la Calaca](https://open.spotify.com/track/66q3eL0U5UM3TK8rAwRoh1) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo), [Orquesta Sinfónica del Instituto Politécnico Nacional](https://open.spotify.com/artist/5N2IZwiKhnhblhOdER1hjP) | [De Jolgorios y Velorios](https://open.spotify.com/album/68iNCGhPq5hSPdfa6UMEHO) | 2:38 |
 | 94 | [La Catrína Pobre](https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD) | [Trio Armonia Huasteca](https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK), [Las Rancheritas](https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ) | [Contestadas Y Rancheras](https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t) | 2:18 |
 | 95 | [Cerró Sus Ojitos Cleto](https://open.spotify.com/track/0AZdulPK1zZU0kcEhf3HFF) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:31 |

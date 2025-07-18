@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenes que esuchar  📸 Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,057 likes - 105 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,110 likes - 105 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

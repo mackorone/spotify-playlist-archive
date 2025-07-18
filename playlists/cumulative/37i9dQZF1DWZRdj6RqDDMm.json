@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "All my life",
+        "url": "https://open.spotify.com/album/6r3wNaZ99b9jKuSWBm3ZZn"
+      },
+      "artists": [
+        {
+          "name": "Great Godwin",
+          "url": "https://open.spotify.com/artist/32aRAuhgYPnJhfCOrw0ZCZ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "All my life",
+      "url": "https://open.spotify.com/track/6DYZAXBkdgbvuPMhyvqW52"
+    },
+    {
+      "album": {
         "name": "All Night, All Day",
         "url": "https://open.spotify.com/album/1gEcIbCaPGtxmgTrApk9pr"
       },
@@ -2100,7 +2118,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 206164,
       "name": "Darling Jesus - Special Version",
       "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
@@ -4264,7 +4282,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 192000,
       "name": "How Love Is Done",
       "url": "https://open.spotify.com/track/5eIEpqK3gqaDNEvxEJC96W"
@@ -5292,6 +5310,24 @@
       "duration_ms": 144285,
       "name": "Living Water",
       "url": "https://open.spotify.com/track/452YNTnUsyCDL01xcC6en0"
+    },
+    {
+      "album": {
+        "name": "Living Word",
+        "url": "https://open.spotify.com/album/0PESRNcsBG0T3PVS9xUmw8"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107142,
+      "name": "Living Word",
+      "url": "https://open.spotify.com/track/7vG6lgNAHGIJIHH58igVHp"
     },
     {
       "album": {

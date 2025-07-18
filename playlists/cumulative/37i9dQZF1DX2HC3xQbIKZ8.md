@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time.
 
-203 songs - 12 hr 14 min
+204 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Little Circles](https://open.spotify.com/track/2F4SwSgktAiTK9S4glryek) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Little Circles](https://open.spotify.com/album/59v7wuUuZCDoiQde8D8FZ1) | 4:08 | 2024-03-21 |  |
 | [Little Circles](https://open.spotify.com/track/6ApCdZASNVuPUzkGR8QNFV) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Road From 26](https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R) | 4:08 | 2023-11-28 | 2024-04-19 |
 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 | 2023-11-28 |  |
+| [Live It Up \(with The Green\)](https://open.spotify.com/track/5rJ067XuSGQEzmfADL2RSN) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Caleb Keolanui](https://open.spotify.com/artist/345FKO0Dl42vNEtdgmCJzk) | [Live It Up \(with The Green\)](https://open.spotify.com/album/4fbFr9FJOTgMzlan4aafxA) | 4:00 | 2025-07-17 |  |
 | [Love Is All We Need](https://open.spotify.com/track/2HbfUVcfYzkrHVuWwaIz7B) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [Sianne](https://open.spotify.com/artist/13KCq8jY8uENeNrmer60fO) | [Love Is All We Need](https://open.spotify.com/album/6IUVVQqYJTZQOQ3Iex2MGS) | 3:38 | 2025-05-22 |  |
 | [Love Is Like a Mountain](https://open.spotify.com/track/0VCTTmZnIxgp0xTNNyXKht) | [Mista Savona](https://open.spotify.com/artist/4Y6SrIz24cWZIWuG28CVgz), [Ancient Warrior](https://open.spotify.com/artist/5V42r8r6tXy5e9Eapzv3tv) | [Love Is Like a Mountain](https://open.spotify.com/album/4Mzbs04oxXt9NUuEesvkwu) | 4:05 | 2024-11-07 |  |
 | [Love No Other](https://open.spotify.com/track/6YO8Co43WvQ3ziqqfvdBmc) | [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [The Message](https://open.spotify.com/album/06yILDavdcbbvqqELnMOYX) | 3:15 | 2024-11-15 |  |

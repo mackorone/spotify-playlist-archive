@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,924 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,976 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 22 | [Saudade De Quem Eu Sou \- Ao Vivo](https://open.spotify.com/track/7tesyGMnAFNI0l2xaxcFKi) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo\)](https://open.spotify.com/album/3KWB57wZ3fZQLCr5jgbcbU) | 2:33 |
 | 23 | [Melzinho](https://open.spotify.com/track/3ZbetlcfZ0tgVWdvnRzuLB) | [Talita Mel](https://open.spotify.com/artist/5wbSuC0q60AcyFwikoH8k3), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Na Pegada da Talita](https://open.spotify.com/album/2d16MsbSMtv2snzc2FPwsg) | 2:24 |
 | 24 | [MONTAGEM BAILÃO](https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh) | [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko), [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [MONTAGEM BAILÃO](https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ) | 1:43 |
-| 25 | [Mãe Solteira](https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Mãe Solteira](https://open.spotify.com/album/0RENSklQU2BMSY42Qgok0y) | 2:24 |
+| 25 | [Mãe Solteira](https://open.spotify.com/track/3cUWviu7umxTV5SfK8IkfI) | [J\. Eskine](https://open.spotify.com/artist/3a9ocyPK0V1CuZs70cs9Nk), [DG e Batidão Stronda](https://open.spotify.com/artist/46QtNoaF8e2zLpwteHWQvo), [Mc Davi](https://open.spotify.com/artist/4Ew5s1DTdiUExCIFsx15XD), [MC G15](https://open.spotify.com/artist/6nN0PgojEXxw5V6TX5BSeg) | [Mãe Solteira](https://open.spotify.com/album/0kPQkEePUvR1eCgCyzZHGw) | 2:24 |
 | 26 | [12 Horas / Pra Você Acreditar \- Ao Vivo](https://open.spotify.com/track/2j7IPPMZt5nE5R4r2AbKZ8) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Cê Tá Doido \(São José Do Rio Preto\) \[Ao Vivo\]](https://open.spotify.com/album/0gbJAL2rZwc77ra11uiHDu) | 4:10 |
 | 27 | [Cara da Serenata \- Live](https://open.spotify.com/track/3vpmGewnBcIfbm252E3Xx8) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac) | [Cara da Serenata \(Live\)](https://open.spotify.com/album/1YqY9DLfFigKwnM8UCEoL9) | 2:14 |
 | 28 | [Princesa \- Ao Vivo](https://open.spotify.com/track/7tz0PRdO9wOCHL5wr8Rne4) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Atemporal \(Ao Vivo\)](https://open.spotify.com/album/1Rhh1ACMnj4WR7l0kMcvlh) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
 | 50 | [Pirocada Quente](https://open.spotify.com/track/2Z1DmmPWD3Lm0dWAxMfjxG) | [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [Pirocada Quente](https://open.spotify.com/album/1KhJdFsGysry0ClG5S8t16) | 3:15 |
 
-Snapshot ID: `MAsaUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MAxuKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

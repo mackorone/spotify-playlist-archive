@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3l6cfhKgkSNxYydKiD9o4G.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 543 likes - 36 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 542 likes - 36 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/3l6cfhKgkSNxYydKiD9o4G.md) - [plain]
 | 20 | [Oh Girl!](https://open.spotify.com/track/724YNUAZEsGE47F21PkSV5) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [Golden Classics](https://open.spotify.com/album/2BDEg5ZSrRlUGEPTA5EaJH) | 3:05 |
 | 21 | [Heaven Only Knows](https://open.spotify.com/track/4XGt69jqwcdtUxV6IQiCjT) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Emmylou Harris Anthology: The Warner/Reprise Years](https://open.spotify.com/album/3fsuUekVTVRclF4p7IRan2) | 3:43 |
 | 22 | [Undercover Of The Night](https://open.spotify.com/track/2zF3P2lw3jIb28ZvuAKjBv) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [GRRR! \(Deluxe Version\)](https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt) | 4:13 |
-| 23 | [La rondine: Chi il bel sogno di Doretta](https://open.spotify.com/track/48DPyFzSUNGAYzXM9Zj4Jd) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Luba Orgonasova](https://open.spotify.com/artist/5fF0IYnGppi99zXfyYUoXq), [Symfonický orchester Slovenského rozhlasu](https://open.spotify.com/artist/69K7JHudp4qWNnpKBrijS2), [Will Humburg](https://open.spotify.com/artist/0O6wGAZW7I1Fn59kpxrjCv) | [Favourite Soprano Arias](https://open.spotify.com/album/49lwMkX5Fww4CS7fyECqF3) | 2:57 |
+| 23 | [La rondine: Chi il bel sogno di Doretta](https://open.spotify.com/track/48DPyFzSUNGAYzXM9Zj4Jd) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Luba Orgonasova](https://open.spotify.com/artist/5fF0IYnGppi99zXfyYUoXq), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Will Humburg](https://open.spotify.com/artist/0O6wGAZW7I1Fn59kpxrjCv) | [Favourite Soprano Arias](https://open.spotify.com/album/49lwMkX5Fww4CS7fyECqF3) | 2:57 |
 | 24 | [The Blues Is My Business](https://open.spotify.com/track/2A68kpC1WW3S4suklKc7Rv) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last \- The Best Of](https://open.spotify.com/album/5EkJv3BGd1YesMGQlE35ci) | 3:32 |
 | 25 | [Bad 'N' Ruin \(Remastered Album Version\)](https://open.spotify.com/track/0VJQPyfgFsf0hAXJWNkJEX) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best Of Faces: Good Boys..\. When They're Asleep](https://open.spotify.com/album/3ApaGzaaQWl3pcBEWbmui4) | 5:25 |
 | 26 | [4th of July \- 45 Version](https://open.spotify.com/track/0CjdGHdTmzvI0ViIhaXtWu) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [4th Of July / Positively 4th Street \[Digital 45\]](https://open.spotify.com/album/6avVkf2l0x95f9VDNdaOdb) | 3:50 |

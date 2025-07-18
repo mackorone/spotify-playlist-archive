@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: ICEBOX
+> Listen to the future.
 
-192 songs - 10 hr 30 min
+195 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [99](https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7) | 3:03 | 2024-06-27 | 2024-12-05 |
 | [ABG](https://open.spotify.com/track/6yiGke8liI1tQoZ8tV6dgw) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [ABG](https://open.spotify.com/album/1jE9r3vDUkQT7IIIdjZQLu) | 2:28 | 2024-06-27 | 2025-04-16 |
 | [Aku Ada](https://open.spotify.com/track/4ZurJR1BsX2m4f5rEy402F) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Aku Ada](https://open.spotify.com/album/3nEcXrYMBLnXfAumOk6yTa) | 3:06 | 2024-06-27 | 2025-04-16 |
+| [Aku Jatuh](https://open.spotify.com/track/6xTK5v8US3IbMsaEBweojq) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Aku Jatuh](https://open.spotify.com/album/0HUhN9oZ8w3QPKHww0VKb5) | 3:06 | 2025-07-17 |  |
 | [Aku Nak Pic](https://open.spotify.com/track/2ksA18uUSJEtCOCG48DKjN) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ), [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z) | [Aku Nak Pic](https://open.spotify.com/album/6vKg5nUvRZPHD7hy3CYBT5) | 2:44 | 2025-04-15 |  |
 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 | 2025-04-15 |  |
 | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/track/16dEsck7g3sl9GBgjNi9lj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx), [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/album/2FohZt2GfxsBBJwkHsrXps) | 2:29 | 2024-06-27 | 2025-04-16 |
@@ -63,6 +64,7 @@
 | [Emas](https://open.spotify.com/track/5ETZyQalxrY6NrYr5477HB) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Emas](https://open.spotify.com/album/1lpXnPeJRDNjeLSfHgd1JE) | 3:35 | 2025-04-15 |  |
 | [Empty Seat](https://open.spotify.com/track/5SWI4mExFgJYxc3lmKqhHe) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 2:49 | 2024-12-04 | 2025-04-16 |
 | [Empty Seat](https://open.spotify.com/track/5pauvFrp9fPakXKBuLsO2m) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:49 | 2024-06-27 | 2024-12-05 |
+| [EYEZ](https://open.spotify.com/track/0mb8qYvh2IUAuQQ3gNTueb) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [EYEZ](https://open.spotify.com/album/3tARCP2tUQXmIIJeRg0hrN) | 3:53 | 2025-07-17 |  |
 | [FADE](https://open.spotify.com/track/3XZHLeJ3qcVWhMSTlarRWA) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [FADE](https://open.spotify.com/album/4zkXysoyWxSxF9T7OsbgQe) | 2:36 | 2025-04-15 |  |
 | [Fairy](https://open.spotify.com/track/7sSZn238Sz9I1YnUE1yLXc) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Fairy](https://open.spotify.com/album/2YMOfRKtE80e5w7IPblfyc) | 3:21 | 2025-02-27 | 2025-04-16 |
 | [Falling Behind](https://open.spotify.com/track/4rkVYgCqgTwtKzc8HDdWHZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Falling Behind](https://open.spotify.com/album/4pFN6euGkFVwdF7RxZe3qO) | 3:00 | 2024-06-27 | 2025-04-16 |
@@ -173,6 +175,7 @@
 | [Takkan Mengalah \- From "Legenda Puteri Qaseh" Original Soundtrack](https://open.spotify.com/track/3tAYElgGNEf4LoxNdsW6G5) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Takkan Mengalah \(From "Legenda Puteri Qaseh" Original Soundtrack\)](https://open.spotify.com/album/1fNughGowl1BH0mOKrYfni) | 3:26 | 2024-06-27 | 2024-12-05 |
 | [Tango](https://open.spotify.com/track/2SH2Xx17dRLZWwASFb9bKx) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Tango](https://open.spotify.com/album/5ld61UwRepRdsPfmxeLydx) | 2:45 | 2024-06-27 | 2025-04-16 |
 | [Tap Out!](https://open.spotify.com/track/39ZRrvH3OcU9XBMSC4IgSc) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Tap Out! \(From "Joy Ride" Official Motion Picture Soundtrack\)](https://open.spotify.com/album/4UkYhNpw9CB2mdrBrYRBLm) | 2:41 | 2024-06-27 | 2024-12-05 |
+| [Tatapan Nona](https://open.spotify.com/track/0Br1eA0epYgm2BF9b0602o) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Tatapan Nona](https://open.spotify.com/album/1uibhRDKoBMQJ8jdItACFi) | 3:26 | 2025-07-17 |  |
 | [TELL EM](https://open.spotify.com/track/1P1NtLjQnQdCcBcUh45pJx) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [ASYRAF NASIR](https://open.spotify.com/artist/0AuICTYmANWThRroYVxJrT), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [TELL EM](https://open.spotify.com/album/3CFNSdoH5e88Qo0iHFD3Vl) | 4:13 | 2024-10-10 | 2024-12-05 |
 | [Tenang Tanya Tuhan](https://open.spotify.com/track/64Bp8rRO9uG1nV9834IJwL) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Tenang Tanya Tuhan](https://open.spotify.com/album/5RVOLy5euw9myldlRG7b9S) | 2:32 | 2024-06-27 | 2025-04-16 |
 | [Test](https://open.spotify.com/track/6AfRavwy4mVaixO29wfyco) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Test](https://open.spotify.com/album/4cFcmuZqpUYkroiPVQtSfa) | 2:28 | 2024-09-26 | 2024-12-05 |

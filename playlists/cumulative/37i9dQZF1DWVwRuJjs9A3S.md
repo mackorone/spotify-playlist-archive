@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> All the highlights from the world of indie! Cover: Wet Leg
+> All the highlights from the world of indie! Cover: Wolf Alice
 
-825 songs - 1 day 23 hr 23 min
+830 songs - 1 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Ecstasy in Space](https://open.spotify.com/track/30i5H3zurdOp2LwtFjAs3O) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr) | [Ecstasy In Space](https://open.spotify.com/album/0bS66aXB3rM0HVRbJ5SJpR) | 2:35 | 2025-03-20 | 2025-06-20 |
 | [Electric Green Lambo](https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Electric Green Lambo](https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM) | 2:35 | 2025-02-06 | 2025-03-28 |
 | [ellipsis](https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [ellipsis](https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ) | 4:03 | 2024-11-07 | 2025-01-24 |
+| [Emilie's Song \- From the TV series "Tordyveln flyger i skymningen"](https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Emilie's Song \(From the TV series "Tordyveln flyger i skymningen"\)](https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd) | 4:24 | 2025-07-17 |  |
 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 | 2024-06-27 | 2024-07-27 |
 | [EN DÖENDE PLANET](https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EN DÖENDE PLANET](https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8) | 4:03 | 2025-04-10 |  |
 | [Enemy](https://open.spotify.com/track/05FUbCmZfAynRkcSkOizUX) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Enemy](https://open.spotify.com/album/3lw8rxXPOtJVG1HVHC4ahM) | 4:13 | 2024-09-26 | 2025-01-17 |
@@ -450,6 +451,7 @@
 | [Lumin Rain](https://open.spotify.com/track/30arQtOqsP62Y9fXL5eLQ1) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Lumin Rain](https://open.spotify.com/album/4zaLofIfUmWIfP04hlefLw) | 3:22 | 2025-06-26 |  |
 | [luminary rainbows](https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [luminary rainbows](https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr) | 4:52 | 2024-08-22 | 2024-09-27 |
 | [Låt mig besjunga dig nu](https://open.spotify.com/track/2IPMv0LqvnpZcvaTJviKI6) | [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Låt mig besjunga dig nu](https://open.spotify.com/album/4qe9C7idWUsjj1ZxuyZ3lz) | 2:54 | 2024-10-03 | 2024-11-15 |
+| [Machine](https://open.spotify.com/track/3UTG8JgUGRaXiroa2bBxTO) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Summer Crime](https://open.spotify.com/album/42OKHc9E91nhsELUfypuPr) | 3:10 | 2025-07-17 |  |
 | [Made Of](https://open.spotify.com/track/4xlcLdfBSMO56LEbhfbVtx) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Made Of](https://open.spotify.com/album/3qrzLXpKrkxYvdS5oDfpDV) | 3:01 | 2025-01-16 | 2025-02-28 |
 | [Made of Stars](https://open.spotify.com/track/0V0vq3DqvmLnJj2IqfGhyf) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Made Of Stars](https://open.spotify.com/album/7HGw7ZZAQmx8CghF9J7iBG) | 3:16 | 2025-03-20 | 2025-06-20 |
 | [Maggie](https://open.spotify.com/track/0QXGgPqYuONre4dq860mwz) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Maggie](https://open.spotify.com/album/5vs3Rkber4tDkYiBRrJ2Ks) | 2:32 | 2025-03-27 | 2025-06-20 |
@@ -474,6 +476,7 @@
 | [Merida](https://open.spotify.com/track/6rsdvabOWtm7ZnqiTpqo2W) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Merida](https://open.spotify.com/album/4cI86sAuUiQeVCGomCJHI9) | 3:43 | 2025-06-26 |  |
 | [Messing](https://open.spotify.com/track/24jAhrqpAbRKEjJIx8P2X8) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Messing](https://open.spotify.com/album/2k6wAgt4OXJkYLphLhIzMl) | 3:20 | 2025-02-27 | 2025-04-04 |
 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 | 2024-09-05 | 2025-01-17 |
+| [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 | 2025-07-17 |  |
 | [Million To One](https://open.spotify.com/track/6o4ZKhZgT5yUzLsYSQksOm) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Million To One](https://open.spotify.com/album/3PAx5BFmViU4y1izpSXrL1) | 3:36 | 2024-11-14 | 2025-01-24 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-13 |
 | [Mind Control](https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Mind Control](https://open.spotify.com/album/5pcrj1R40plmpD3EXv61XX) | 2:35 | 2024-10-31 | 2024-11-22 |
@@ -726,6 +729,7 @@
 | [The Prettiest Face](https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [The Prettiest Face](https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4) | 3:31 | 2025-03-07 | 2025-05-16 |
 | [The Rising Sun](https://open.spotify.com/track/4Eaod8laRIyWsayir0AC9t) | [Will Prime](https://open.spotify.com/artist/1itZtM80Mzo63p5IvBEXKR), [Willy Wallace](https://open.spotify.com/artist/5ousoxggLWuVHxHKDumXEw) | [The Rising Sun](https://open.spotify.com/album/3zxeZZK4XeUuVrdlnQli4E) | 3:09 | 2025-01-30 | 2025-03-08 |
 | [The Score](https://open.spotify.com/track/09PUCdX5AD1mz2L2dHF97O) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [The Score](https://open.spotify.com/album/5XpuqF76xAXxatocivuAh3) | 3:14 | 2024-08-15 | 2024-09-06 |
+| [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 | 2025-07-17 |  |
 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-08 | 2024-09-13 |
 | [the thing about you](https://open.spotify.com/track/6KNGUyfu8l8BTwUP0urEhQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [the thing about you](https://open.spotify.com/album/4peXtpFElRZAgs76jHOifT) | 2:40 | 2024-06-27 | 2024-08-23 |
 | [The Unshaken Frame](https://open.spotify.com/track/6w6Tv5D6Od9Khtzarcl0wy) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [The Unshaken Frame](https://open.spotify.com/album/6Hdg7trGeWQZOmVt7wz8wC) | 3:29 | 2025-04-24 |  |
@@ -735,6 +739,7 @@
 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 | 2025-02-13 | 2025-04-25 |
 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-17 | 2025-02-21 |
 | [Think about you](https://open.spotify.com/track/2fGcflMTRcNGLCiMHkaiBv) | [Van Dame](https://open.spotify.com/artist/0jliO9N9vKNE5BhW5iK9BC) | [Think about you](https://open.spotify.com/album/3UIiIAJLo1jnSHTKhBw1lZ) | 4:01 | 2024-10-24 | 2024-12-06 |
+| [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-17 |  |
 | [THIS SONG IS NOT ABOUT YOU](https://open.spotify.com/track/0e4LGcIhb9Pyd8Kn3RIBNA) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [THIS SONG IS NOT ABOUT YOU](https://open.spotify.com/album/2QIUhg2uM6MxyAIfR67ckf) | 2:45 | 2025-03-13 | 2025-05-16 |
 | [This Time \(It's Forever\)](https://open.spotify.com/track/7rxNIy3ZDUD3itKaQvlw3w) | [VELVET MOON](https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ) | [Endless War In The Summer](https://open.spotify.com/album/5BrvaGqqfSkmigAbfBYvcF) | 3:32 | 2025-05-22 |  |
 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/67HUPUbKERncrFL0oRDjCW) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/album/5pP4ENzT90iXLawJvJyPDg) | 3:11 | 2024-08-29 | 2024-11-01 |

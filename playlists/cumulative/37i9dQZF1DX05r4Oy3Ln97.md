@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-456 songs - 1 day 0 hr 5 min
+457 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Lovesick](https://open.spotify.com/track/102nBrztQxUecvsqMgqYIx) | [Kintexa](https://open.spotify.com/artist/779YMnTx0kUsdVndWCNxYO), [Adeline Um](https://open.spotify.com/artist/4KgNBDUTsA4PHunh86lffT) | [Lovesick](https://open.spotify.com/album/3Ojm6OJtCDJVwNoBNhTqDY) | 2:36 | 2021-10-29 | 2022-04-17 |
 | [Lucky](https://open.spotify.com/track/0Quhzm1B1Z9I5S9RP6BgLh) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj) | [Lucky](https://open.spotify.com/album/29hQOfDBBJ2kIVXy5nI0FX) | 3:25 | 2022-03-25 | 2022-04-21 |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-31 | 2023-04-09 |
+| [Magic In The Air](https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Magic In The Air](https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu) | 2:47 | 2025-07-11 |  |
 | [Make Your Move \(feat\. Bertie Scott\)](https://open.spotify.com/track/1ecOBF62HZkvbbVp416HZV) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Make Your Move \(feat\. Bertie Scott\)](https://open.spotify.com/album/2uu9q4XJ988gAnDHZmHzqG) | 3:35 | 2022-03-11 | 2022-07-29 |
 | [Mama Thula](https://open.spotify.com/track/5lyU83MdLTyJpnmCl3NjOi) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Suffocate SA](https://open.spotify.com/artist/424Tqq4kwbnQ4197BuEdTS) | [Mama Thula](https://open.spotify.com/album/6YMpRJfQ3fnI2v0NPJVwEJ) | 6:01 | 2023-10-27 | 2023-11-11 |
 | [Matter of Time](https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI) | 4:00 | 2022-11-24 | 2023-03-11 |
@@ -293,7 +294,7 @@
 | [No Mercy](https://open.spotify.com/track/2eU50HdqsZPXNBzKOdiwkV) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [nomerci](https://open.spotify.com/artist/5tygsM77YMbY8WgkVKhv4R) | [No Mercy](https://open.spotify.com/album/7i1hSeAp6foMVkuzhqYibE) | 2:46 | 2021-10-29 | 2022-05-22 |
 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-06-07 |  |
 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 | 2022-07-01 | 2024-07-10 |
-| [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 | 2025-07-04 |  |
+| [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 | 2025-07-04 | 2025-07-18 |
 | [Ocean Quiet](https://open.spotify.com/track/6zFCci00787rGrLkWDwog8) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Ocean Quiet](https://open.spotify.com/album/4KrSgkyrBWUG4fS3N1CgZ9) | 2:47 | 2021-10-29 | 2023-05-13 |
 | [Oku \- Night Version](https://open.spotify.com/track/2uZKeDWOF9ydWinmfee4ki) | [Rosa Ama](https://open.spotify.com/artist/0IBVUiVJxjc8yGcbwP7Jic), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB), [Vhyce](https://open.spotify.com/artist/5rzLwPhUU0Fh8KEM021KHa) | [Oku \(Night Version\)](https://open.spotify.com/album/226ec9SbgyBB7IKJkSbokM) | 3:32 | 2022-01-21 | 2022-04-23 |
 | [On My Mind \- Enzo is Burning Remix](https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [On My Mind \(Enzo is Burning Remix\)](https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN) | 2:42 | 2024-07-09 | 2025-07-03 |

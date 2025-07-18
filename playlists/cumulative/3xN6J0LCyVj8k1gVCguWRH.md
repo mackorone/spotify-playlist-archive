@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-5,152 songs - 12 day 0 hr 18 min
+5,153 songs - 12 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2854,6 +2854,7 @@
 | [Meet the Sea](https://open.spotify.com/track/4rVz2HkTChLR8SUlISYZLO) | [Liat and the Sirens](https://open.spotify.com/artist/301CtMztmbpvayBGmvQxfG) | [Meet the Sea](https://open.spotify.com/album/0mIiWFadODBITKdASlykkD) | 3:30 | 2021-01-08 | 2021-01-26 |
 | [Mejor Actor](https://open.spotify.com/track/0cdsLHNPk97g2aHCerp1eg) | [Gaspar García](https://open.spotify.com/artist/2mjcWLwQtkNXI9yU6i0A32) | [Mejor Actor](https://open.spotify.com/album/42dKbSzudlK5Uyw9uZi11y) | 3:54 | 2024-01-14 | 2024-01-22 |
 | [Mejor Que Ayer](https://open.spotify.com/track/5IQHbsxJg0DENGuaMRNDUA) | [Lord Cotto](https://open.spotify.com/artist/4xpJTrrWpQnAvW581hU2CF) | [Cuento Largo Corto](https://open.spotify.com/album/0jRSHCVd23xMx6aynWnIfo) | 2:54 | 2022-09-30 | 2022-10-18 |
+| [Melo Melo](https://open.spotify.com/track/5sQqOaYSm5j2HDwt7Pso9E) | [DJ Stavi](https://open.spotify.com/artist/4n35YCZBdrhjzFmkFQSmRB) | [Melo Melo](https://open.spotify.com/album/4ubDDkFQm7ZYbadZTcJPaq) | 3:03 | 2025-07-17 |  |
 | [Memories](https://open.spotify.com/track/6fmkhRzWaVaUunJSUdVNQC) | [Da$htone](https://open.spotify.com/artist/2uJihDSrPn9o8Nqp8xS0hL), [Morgan Pirtle](https://open.spotify.com/artist/2vedSqzE0gHqb79KVRoQXK) | [Futuristic Remeniscin'](https://open.spotify.com/album/4NmMIU7lxqHXltAEHHE6eR) | 3:46 | 2022-06-30 | 2022-07-19 |
 | [Memory](https://open.spotify.com/track/0b2Lxfy4A3Woav4p9PLXEI) | [Geoffro](https://open.spotify.com/artist/18ZxgQEQXH4enjt2dyqhSf) | [Memory](https://open.spotify.com/album/4bSroS1hX66HfqVdw7kWWR) | 2:15 | 2024-06-07 | 2024-06-19 |
 | [MEMORY LAN](https://open.spotify.com/track/3HhNYVrKsVciWoqfrEJ8LC) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [MEMORY LAN](https://open.spotify.com/album/6lc5Y0CJHPSFUi3IvYJA23) | 3:32 | 2023-07-01 | 2023-07-17 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 36729,
+  "num_followers": 36746,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAB4xbd2ruoCbStd+NdsfSeM",
+  "snapshot_id": "aHbrgAAAAABQEYlc/iRhxmRagFakyctI",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FreakyT (Remix)",
-        "url": "https://open.spotify.com/album/2obxjEOE04EKpltGrarB1H"
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
       "artists": [
         {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 149384,
-      "name": "FreakyT - Remix",
-      "url": "https://open.spotify.com/track/5jnI4idmgFF1xD93C1yKQb"
+      "duration_ms": 245653,
+      "name": "Didn't Say (feat. Latto)",
+      "url": "https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf"
     },
     {
       "added_at": null,
@@ -511,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+        "name": "FreakyT (Remix)",
+        "url": "https://open.spotify.com/album/2obxjEOE04EKpltGrarB1H"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
         },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 245653,
-      "name": "Didn't Say (feat. Latto)",
-      "url": "https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf"
+      "duration_ms": 149384,
+      "name": "FreakyT - Remix",
+      "url": "https://open.spotify.com/track/5jnI4idmgFF1xD93C1yKQb"
     },
     {
       "added_at": null,
@@ -975,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen of Da Souf",
-        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 113237,
-      "name": "On God",
-      "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boom Pt. 2 (feat. Latto)",
         "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 132000,
       "name": "Boom Pt. 2 (feat. Latto)",
       "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 113237,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
     },
     {
       "added_at": null,

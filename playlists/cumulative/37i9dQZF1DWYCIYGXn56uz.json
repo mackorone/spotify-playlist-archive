@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Emanuele Aloia",
+  "description": "\ud83d\udc95giovane\ud83d\udc95pop\ud83d\udc95z\ud83d\udc95 Cover: ANNA",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -1341,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "Bad Boys Don't Cry (feat. VillaBanks)",
+        "url": "https://open.spotify.com/album/2S1TKzoo1brRiZMZoPLI2W"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171504,
+      "name": "Bad Boys Don't Cry (feat. VillaBanks)",
+      "url": "https://open.spotify.com/track/3W10BBMTwLBm5wgDdjxH6r"
+    },
+    {
+      "album": {
         "name": "BAGS SOTTO GLI OCCHI",
         "url": "https://open.spotify.com/album/5eiD74b7Kqy5yXjCws06Z6"
       },
@@ -2064,7 +2086,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 141473,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/1uGH9dQpoyeJw67ic5gVF1"
@@ -3133,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Con te non ci torno pi\u00f9",
+        "url": "https://open.spotify.com/album/74wrbZlY1ciN46zgYxsd8J"
+      },
+      "artists": [
+        {
+          "name": "Albe",
+          "url": "https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "Con te non ci torno pi\u00f9",
+      "url": "https://open.spotify.com/track/5DY28YambVszy8d03Hb43p"
+    },
+    {
+      "album": {
         "name": "CONCERTO",
         "url": "https://open.spotify.com/album/0byn2frtBA5gvoiTGZQcfr"
       },
@@ -3910,7 +3950,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 152795,
       "name": "Dimmi Dimmi",
       "url": "https://open.spotify.com/track/4kwdZ2h0EpVAHQOD3XTZcO"
@@ -4448,6 +4488,24 @@
       "duration_ms": 183325,
       "name": "ESTATE HORROR (feat. SPINABELLA)",
       "url": "https://open.spotify.com/track/5kQ1NPdI49OuO8v4ZSlTal"
+    },
+    {
+      "album": {
+        "name": "Estate infinita",
+        "url": "https://open.spotify.com/album/1tBzvfm387PdGans3y9jnT"
+      },
+      "artists": [
+        {
+          "name": "Dennis",
+          "url": "https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143276,
+      "name": "Estate infinita",
+      "url": "https://open.spotify.com/track/0LwnThvzG1jzTKzt59bJQc"
     },
     {
       "album": {
@@ -7190,7 +7248,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 143124,
       "name": "LINGERIE",
       "url": "https://open.spotify.com/track/49aYVCpoDITAMF48VlFOmz"
@@ -8082,6 +8140,32 @@
       "duration_ms": 158434,
       "name": "Mi ami solo d\u2019estate",
       "url": "https://open.spotify.com/track/6jlf3VpgGLuAGzoUtHFuso"
+    },
+    {
+      "album": {
+        "name": "Mi Amor 2.0",
+        "url": "https://open.spotify.com/album/39Nv2P1OgzFXkHBNPTcFBa"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211440,
+      "name": "Mi Amor 2.0",
+      "url": "https://open.spotify.com/track/2DJB7zAwaPRjy7GEu470jy"
     },
     {
       "album": {
@@ -8993,6 +9077,28 @@
     },
     {
       "album": {
+        "name": "Non serve un'et\u00e0",
+        "url": "https://open.spotify.com/album/2p8Iuok8q40fhhKnpxPpcN"
+      },
+      "artists": [
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175650,
+      "name": "Non serve un'et\u00e0",
+      "url": "https://open.spotify.com/track/7Lw2xTg8k0sUPhav3hTTho"
+    },
+    {
+      "album": {
         "name": "Non Siamo Broke",
         "url": "https://open.spotify.com/album/2y5DKYtunEFjdN1JV9PypW"
       },
@@ -9354,7 +9460,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 138218,
       "name": "Nuvole di Fumo",
       "url": "https://open.spotify.com/track/6oEHzcaOpXoRF0qGka2dgq"
@@ -10414,7 +10520,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 148027,
       "name": "Pillole & Cucchiai",
       "url": "https://open.spotify.com/track/2JEc68Udh2oqlE5BzLfpVU"
@@ -11235,6 +11341,24 @@
     },
     {
       "album": {
+        "name": "RIO",
+        "url": "https://open.spotify.com/album/0towXLtpwtBAio7Fkju92u"
+      },
+      "artists": [
+        {
+          "name": "Edo Fendy",
+          "url": "https://open.spotify.com/artist/41arBMetHJgurmTgrlOF7J"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "RIO",
+      "url": "https://open.spotify.com/track/51DNSP2kKAiUFURmcwmmJd"
+    },
+    {
+      "album": {
         "name": "Rivoluzione!",
         "url": "https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM"
       },
@@ -11470,7 +11594,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 185454,
       "name": "Roxy",
       "url": "https://open.spotify.com/track/35cqJaPUn4LhonAtI3VyvX"
@@ -12874,6 +12998,24 @@
       "duration_ms": 164383,
       "name": "Su e gi\u00f9",
       "url": "https://open.spotify.com/track/60LVYwBRKpGJAHFQbdZIcN"
+    },
+    {
+      "album": {
+        "name": "Sudamerica",
+        "url": "https://open.spotify.com/album/48xyRhgDbvu2yqfubWoNvH"
+      },
+      "artists": [
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157066,
+      "name": "Sudamerica",
+      "url": "https://open.spotify.com/track/7pVk9Mov9OxPyIWp4fOOSB"
     },
     {
       "album": {
@@ -14354,7 +14496,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 158214,
       "name": "VALENTINE",
       "url": "https://open.spotify.com/track/19SU905ZSV18Uzw1V76jp5"

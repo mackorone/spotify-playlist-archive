@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 227409,
+  "num_followers": 227462,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAACthoKO71ipZN6+8rop8vgx",
+  "snapshot_id": "aHbrgAAAAAB8xBpMg8IXTCFNuKKOHTf0",
   "tracks": [
     {
       "added_at": null,
@@ -152,8 +152,8 @@
           "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
         },
         {
-          "name": "Bukanas De Culiacan",
-          "url": "https://open.spotify.com/artist/0aCsCyB57a5WblHH2AudKa"
+          "name": "Buknas De Culiacan",
+          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
         },
         {
           "name": "El Komander",
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+        "name": "Los Buitres Con Tololoche",
+        "url": "https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E"
       },
       "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 176138,
-      "name": "Por Favor No Cuelgues",
-      "url": "https://open.spotify.com/track/61mmMgdqmpCJsHvt8qTL1Y"
+      "duration_ms": 149360,
+      "name": "El Tamarindo",
+      "url": "https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT"
     },
     {
       "added_at": null,
@@ -279,6 +283,22 @@
       "duration_ms": 149263,
       "name": "La Manda Incumplida",
       "url": "https://open.spotify.com/track/3rRDolvq54CsOTDkuaOvW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 176138,
+      "name": "Por Favor No Cuelgues",
+      "url": "https://open.spotify.com/track/61mmMgdqmpCJsHvt8qTL1Y"
     },
     {
       "added_at": null,
@@ -315,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 162306,
-      "name": "Corrido Del Invalido",
-      "url": "https://open.spotify.com/track/3JlnKdYKmLDestzbgPsSiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -343,6 +347,22 @@
       "duration_ms": 154383,
       "name": "Estilo SL",
       "url": "https://open.spotify.com/track/1gLjWUivqJ3jtL606mzhqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 162306,
+      "name": "Corrido Del Invalido",
+      "url": "https://open.spotify.com/track/3JlnKdYKmLDestzbgPsSiJ"
     },
     {
       "added_at": null,
@@ -379,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 176613,
+      "name": "Fiesta En La Playa",
+      "url": "https://open.spotify.com/track/52szO2POvp0hk3VnfWioib"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -391,22 +427,6 @@
       "duration_ms": 147506,
       "name": "Estrategias De Escape",
       "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 126563,
-      "name": "Siempre Que Me Emborracho",
-      "url": "https://open.spotify.com/track/66b3krwHwKrKwVOOHkZXXv"
     },
     {
       "added_at": null,
@@ -443,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 126563,
+      "name": "Siempre Que Me Emborracho",
+      "url": "https://open.spotify.com/track/66b3krwHwKrKwVOOHkZXXv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -455,22 +491,6 @@
       "duration_ms": 146360,
       "name": "Mafia Nueva",
       "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 176613,
-      "name": "Fiesta En La Playa",
-      "url": "https://open.spotify.com/track/52szO2POvp0hk3VnfWioib"
     },
     {
       "added_at": null,
@@ -511,54 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 137200,
-      "name": "El Corrido del Viejon",
-      "url": "https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
-        "url": "https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 153855,
-      "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
-      "url": "https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "Toquezones de Cannabis",
-      "url": "https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Detras Del Miedo",
         "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
@@ -584,9 +556,41 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 159306,
-      "name": "100 Balazos Al Blindaje",
-      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
+      "duration_ms": 137200,
+      "name": "El Corrido del Viejon",
+      "url": "https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 167499,
+      "name": "Toquezones de Cannabis",
+      "url": "https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
+        "url": "https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 153855,
+      "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
+      "url": "https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc"
     },
     {
       "added_at": null,
@@ -603,6 +607,22 @@
       "duration_ms": 190129,
       "name": "Yo Me Quiero Mas",
       "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "100 Balazos Al Blindaje",
+      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
     },
     {
       "added_at": null,
@@ -739,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mi Ranchito",
-        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 270318,
-      "name": "Un Frisian Llamado El Centenario - En Vivo",
-      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Reyes Del Movimiento Alterado",
         "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
       },
@@ -775,6 +775,26 @@
       "duration_ms": 168146,
       "name": "Orden Exigido",
       "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 270318,
+      "name": "Un Frisian Llamado El Centenario - En Vivo",
+      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
     },
     {
       "added_at": null,
@@ -855,22 +875,6 @@
       "duration_ms": 160645,
       "name": "El Golden Boy",
       "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ganadero",
-        "url": "https://open.spotify.com/album/5JPfETECxYvWT7dLrJIlRm"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 222516,
-      "name": "El Ganadero",
-      "url": "https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr"
     }
   ],
   "unique_name": "This Is El Komander",

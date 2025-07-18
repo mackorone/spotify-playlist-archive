@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Burna Boy",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Awich",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -4543,6 +4543,28 @@
     },
     {
       "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184789,
+      "name": "CHAMPAIN & VACAY",
+      "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
+    },
+    {
+      "album": {
         "name": "BAD HOP (BHG Edition)",
         "url": "https://open.spotify.com/album/6UnXZYwHf7Yqiqv87k7o89"
       },
@@ -5052,7 +5074,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 145828,
       "name": "COL4 BODY (feat. Tiggs Da Author)",
       "url": "https://open.spotify.com/track/4B7GPM8MFkJIDhJbYzFSmE"
@@ -6049,6 +6071,28 @@
     },
     {
       "album": {
+        "name": "Does It Again (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/2eMtNuJDvEjvNAPX40Ushn"
+      },
+      "artists": [
+        {
+          "name": "NASAAN",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112626,
+      "name": "Does It Again (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/5DT58khLtyj8DS38ImspAa"
+    },
+    {
+      "album": {
         "name": "DOGTOOTH",
         "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
       },
@@ -6618,6 +6662,28 @@
       "duration_ms": 215604,
       "name": "Easier Done Than Said",
       "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
+    },
+    {
+      "album": {
+        "name": "EAST LA",
+        "url": "https://open.spotify.com/album/2ixpGzfirSfvP5DE184KE4"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "Taboo",
+          "url": "https://open.spotify.com/artist/6WirJzihzKTGyw7mgEdJUP"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202327,
+      "name": "EAST LA",
+      "url": "https://open.spotify.com/track/3HylLGErIQEIuJgHovdHio"
     },
     {
       "album": {
@@ -7688,7 +7754,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 102631,
       "name": "Fly With Me",
       "url": "https://open.spotify.com/track/4SGqihGXIxMMRpZeDsyEfS"
@@ -10942,6 +11008,36 @@
       "duration_ms": 138048,
       "name": "Ice Everywhere (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/6L1ayCywFFoQqcMZ80vOnJ"
+    },
+    {
+      "album": {
+        "name": "ICED TEA (feat. 21 Savage, Project Pat & Coupe)",
+        "url": "https://open.spotify.com/album/4CxFVh0Sql5np80VHTKqbl"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        },
+        {
+          "name": "Coupe",
+          "url": "https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "ICED TEA (feat. 21 Savage, Project Pat & Coupe)",
+      "url": "https://open.spotify.com/track/48cyq6H1Ec3C1fGvoJFpSA"
     },
     {
       "album": {
@@ -15160,7 +15256,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 121690,
       "name": "Murda",
       "url": "https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im"
@@ -16530,7 +16626,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 271840,
       "name": "NOT THE SAME - from the Short Film \"Red Clay\"",
       "url": "https://open.spotify.com/track/5YELnX75GMz61JEwW0uhTr"
@@ -17382,7 +17478,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 166351,
       "name": "Outta Here",
       "url": "https://open.spotify.com/track/0fyTxbBpOEBjh6be882tHu"
@@ -21064,7 +21160,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 149960,
       "name": "SISTA WIVES - from the Short Film \"Red Clay\"",
       "url": "https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph"
@@ -22628,7 +22724,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 150651,
       "name": "TaTaTa (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
@@ -22698,6 +22794,28 @@
       "duration_ms": 184520,
       "name": "TEAM TOMODACHI - WILL SMITH REMIX",
       "url": "https://open.spotify.com/track/0hG608Ya6NPMIRa1Hvepl7"
+    },
+    {
+      "album": {
+        "name": "Tear Me Down",
+        "url": "https://open.spotify.com/album/23zlTkc9qgxGDOwZpA4AsX"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238262,
+      "name": "Tear Me Down",
+      "url": "https://open.spotify.com/track/7igaOWovZvVG2sjgsaa0UE"
     },
     {
       "album": {
@@ -23506,7 +23624,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 197837,
       "name": "Time Is Money",
       "url": "https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi"
@@ -25241,6 +25359,36 @@
     },
     {
       "album": {
+        "name": "Wax On Wax Off",
+        "url": "https://open.spotify.com/album/7KDGCPHPJBulOmsSAOXVHj"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171803,
+      "name": "Wax On Wax Off",
+      "url": "https://open.spotify.com/track/6OOVIYZMAaSGan0VblqAaq"
+    },
+    {
+      "album": {
         "name": "Way Back",
         "url": "https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54"
       },
@@ -25868,7 +26016,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 170472,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/3IOoYGnPLIPlpRDAiQLf2v"
@@ -26168,6 +26316,24 @@
       "duration_ms": 134634,
       "name": "Woke Up",
       "url": "https://open.spotify.com/track/21CsEAX3X8wiWjtqedsRNb"
+    },
+    {
+      "album": {
+        "name": "Woke Up / The Face",
+        "url": "https://open.spotify.com/album/58M14WhzI5uN9Yg2jbII9L"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133877,
+      "name": "Woke Up",
+      "url": "https://open.spotify.com/track/3Pu6ami9THr2rDArjZ0Oqg"
     },
     {
       "album": {

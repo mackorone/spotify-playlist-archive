@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 180910,
+  "num_followers": 180955,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAABizi8tSXtwnBI98NI1OuaD",
+  "snapshot_id": "aHbrgAAAAADiS61ALDXCtpcQi+eleckj",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Nenita",
-      "url": "https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Munay",
         "url": "https://open.spotify.com/album/0FgVN5QSvcQFhPtaAMVDpG"
       },
@@ -135,28 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 204069,
-      "name": "Lib\u00e9rame",
-      "url": "https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
       },
       "artists": [
         {
@@ -164,9 +128,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 256948,
-      "name": "Si Pudiera",
-      "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
+      "duration_ms": 203973,
+      "name": "Nenita",
+      "url": "https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO"
     },
     {
       "added_at": null,
@@ -187,6 +151,42 @@
       "duration_ms": 188222,
       "name": "Todo Estaba Bien",
       "url": "https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 256948,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 204069,
+      "name": "Lib\u00e9rame",
+      "url": "https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc"
     },
     {
       "added_at": null,

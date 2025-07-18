@@ -2,7 +2,7 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Tyla
+> The best in South African and international R&B\. Cover: kwn
 
 583 songs - 1 day 7 hr 16 min
 
@@ -45,7 +45,7 @@
 | [Asyeke](https://open.spotify.com/track/4hje3mzEY1UWmYHv9KaePN) | [Umzulu Phaqa](https://open.spotify.com/artist/6nStNfo8Gzsff8NcJl4mND), [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60) | [Asyeke](https://open.spotify.com/album/6e7ceXPUdyn1t11wdabEY4) | 3:37 | 2025-06-13 | 2025-06-20 |
 | [Attention](https://open.spotify.com/track/0N8c3AlYRcgJ0RcCmZjbCV) | [Shalate](https://open.spotify.com/artist/52XowYt0U9ZWvAbKVZ0HaK) | [Love Is...](https://open.spotify.com/album/40XbmQcytzVV35HGy7bonG) | 2:50 | 2023-10-12 | 2023-10-20 |
 | [Autumn](https://open.spotify.com/track/4rwdjhmikuhQ7APQMKrNoe) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Sarang / 사랑](https://open.spotify.com/album/4NVaNkPf051HYgA6SiWyDy) | 3:23 | 2024-05-09 | 2024-09-03 |
-| [Aweh](https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:04 | 2025-05-01 |  |
+| [Aweh](https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:04 | 2025-05-01 | 2025-07-18 |
 | [Aweh](https://open.spotify.com/track/7qDjCYL4F7xvLm9LsqEw5U) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Aweh](https://open.spotify.com/album/7FVDyG8RryPZC9qPzl1bzZ) | 3:04 | 2025-03-14 | 2025-06-20 |
 | [Back 2 U](https://open.spotify.com/track/45GqiF1tr66MeXBeJztwdX) | [Adrienne Foo](https://open.spotify.com/artist/5lsaKDXCs0VHVJ5UxMFqSA), [Phiwo](https://open.spotify.com/artist/1aMVkMfK9Wo0rd7TfBymHY) | [Back 2 U](https://open.spotify.com/album/2pvijmArToNkuu9VWUASxo) | 5:10 | 2023-10-20 | 2024-01-26 |
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-06-20 |  |
@@ -396,7 +396,7 @@
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-09-26 | 2025-04-25 |
 | [Please Don't Fall In Love With Me \- Live](https://open.spotify.com/track/0yzVN5F03qzQ9zs8t60H7m) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/1UiyDtsYD5kOd8gPjEINbw) | 3:29 | 2024-05-09 | 2024-09-03 |
 | [Poster Child](https://open.spotify.com/track/2L6eFClqVJy62RkW8FEAQx) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Poster Child](https://open.spotify.com/album/0604mViR529HBNJmZr5IRW) | 2:48 | 2024-06-27 | 2024-09-03 |
-| [Pot of Gold](https://open.spotify.com/track/5k6wuWfwLk7ok1uA8uDteR) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [SPIRAL](https://open.spotify.com/album/5AdvIpZ7jHVpTUfiyroX69) | 3:29 | 2025-07-04 | 2025-07-11 |
+| [Pot of Gold](https://open.spotify.com/track/5k6wuWfwLk7ok1uA8uDteR) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [SPIRAL](https://open.spotify.com/album/5AdvIpZ7jHVpTUfiyroX69) | 3:29 | 2025-07-04 |  |
 | [Prada Le Balenciaga](https://open.spotify.com/track/25zQa5r9f21a4aZkw8UoTv) | [MfanaTouchLine](https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ) | [Lepara La Tipa](https://open.spotify.com/album/0AnwBDLWanpcszQWV7yTSO) | 1:43 | 2025-06-13 | 2025-06-20 |
 | [Pretty Girl](https://open.spotify.com/track/3mbZFN6ZynKRwKt7EDccI1) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Pretty Girl](https://open.spotify.com/album/528NVpD6jexhQKgUnxrFkg) | 3:12 | 2025-06-20 | 2025-06-28 |
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2023-11-23 | 2024-03-22 |

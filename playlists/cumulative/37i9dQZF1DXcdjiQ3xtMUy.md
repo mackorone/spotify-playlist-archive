@@ -4,7 +4,7 @@
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Helena Paparizou
 
-192 songs - 9 hr 53 min
+193 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Agapi Mou](https://open.spotify.com/track/0SCB23ZKWE9ve7Vpji1wLv) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2), [Mc Daddy](https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT) | [Agapi Mou](https://open.spotify.com/album/5W7Bv6F9oRD67Hfo9njREK) | 2:03 | 2025-02-20 | 2025-06-14 |
 | [Agapi Mou Me Dioxneis](https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Agapi Mou Me Dioxneis](https://open.spotify.com/album/5WlF9YZekzepjqsncoD8LR) | 2:50 | 2024-10-10 | 2025-05-09 |
 | [Alitheia?!](https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Alitheia?!](https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL) | 3:03 | 2024-10-24 | 2025-06-06 |
+| [Allazo Ego](https://open.spotify.com/track/6z1xJ2taZR8eoWKyroSzyX) | [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF), [Tania Breazou](https://open.spotify.com/artist/0kLn8jOEDFY8KfArE2wn8r) | [Allazo Ego](https://open.spotify.com/album/1XPwQeUIPb4tfGagrzlXwr) | 3:13 | 2025-07-17 |  |
 | [Alli Mia Fora](https://open.spotify.com/track/12zzuRnz63FyuBtgTP464y) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Alli Mia Fora](https://open.spotify.com/album/1pUYR2ijEcc0m2ts0c9tD2) | 3:23 | 2024-08-08 | 2025-04-11 |
 | [Allo](https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Allo](https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav) | 3:33 | 2024-06-27 | 2025-02-07 |
 | [Amartolo](https://open.spotify.com/track/7n7zKCCkzYHBlh9ZrDuytS) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU), [Nore Pierre](https://open.spotify.com/artist/5T1jkoAvwvd4ybx9f5VhVp) | [Amartolo](https://open.spotify.com/album/0fo8Q6whl8LOWKB8ukPLJ1) | 2:14 | 2024-07-25 | 2025-03-28 |
@@ -97,7 +98,7 @@
 | [I Mousiki Tou Anemou](https://open.spotify.com/track/4WSuUElxvZyFqr6Go2WGvl) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [50 Years \(Live at Odeon of Herodes Atticus\)](https://open.spotify.com/album/31Er5ZZpjPKHNQx1z8IPeC) | 4:59 | 2024-12-05 | 2025-01-24 |
 | [Iliggos](https://open.spotify.com/track/2UPMkklYJv15deUPc0a7YZ) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Iliggos](https://open.spotify.com/album/4GKz0pYvJiFWpdTlVaO8so) | 3:48 | 2024-06-27 | 2024-12-20 |
 | [Irema To Leo](https://open.spotify.com/track/4L9tzIelOaND2gIkVVwK4M) | [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Irema To Leo](https://open.spotify.com/album/6WmI1u07BIgg1GuoF01Xtp) | 2:17 | 2024-09-12 | 2024-11-08 |
-| [ISOS SICARIO REMIX](https://open.spotify.com/track/4YtpcUfLPzymYNLkXRlqZ3) | [ONEMANSHOW](https://open.spotify.com/artist/65WejxJ3sDrhZqVZWeFAqR), [Levianth](https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H) | [ISOS SICARIO REMIX](https://open.spotify.com/album/48QgTIugLApqfKWm2Ypqfd) | 3:10 | 2025-02-20 |  |
+| [ISOS SICARIO REMIX](https://open.spotify.com/track/4YtpcUfLPzymYNLkXRlqZ3) | [ONEMANSHOW](https://open.spotify.com/artist/65WejxJ3sDrhZqVZWeFAqR), [Levianth](https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H) | [ISOS SICARIO REMIX](https://open.spotify.com/album/48QgTIugLApqfKWm2Ypqfd) | 3:10 | 2025-02-20 | 2025-07-18 |
 | [Kalinixta](https://open.spotify.com/track/5IhM9xyRYFM8PDau4IOqOR) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [Kalinixta](https://open.spotify.com/album/2KmVPAlqvFAUyBdXv1NlqO) | 2:38 | 2025-07-10 |  |
 | [Kalokeri](https://open.spotify.com/track/3AVeVxO7MJYiaeROQ51vpp) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Kalokeri](https://open.spotify.com/album/35fSplKWXGIGtROvgDzSul) | 4:01 | 2024-07-11 | 2024-10-25 |
 | [Kalos Se Vrika](https://open.spotify.com/track/6HZ1lSvUt5gKsJx2DBDmBg) | [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK), [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [Kalos Se Vrika](https://open.spotify.com/album/4zblXSLYAWyfUpZHoU5z0K) | 2:37 | 2025-05-22 |  |

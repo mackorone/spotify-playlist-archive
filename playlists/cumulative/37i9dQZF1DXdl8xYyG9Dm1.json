@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover: J Hus & Asake",
+  "description": "The latest straight bars and Afro-Trap. Cover: Cassper Nyovest",
   "name": "Afro Bars ",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 260963,
       "name": "Abebrese",
       "url": "https://open.spotify.com/track/6wXa8h2vC297a8ks2Ta9Gu"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 185641,
       "name": "Bluff",
       "url": "https://open.spotify.com/track/20o16MJXk6Jib9dx2bOUR9"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 164210,
       "name": "Clique",
       "url": "https://open.spotify.com/track/0JKpPUaw8nivpG9tkzvQ0I"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 177423,
       "name": "Comme \u00e7a",
       "url": "https://open.spotify.com/track/3iZmDuQ50BXFi6bYcCsUto"
@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 220327,
       "name": "Eish Chief - Remix",
       "url": "https://open.spotify.com/track/5fmZMhrBrXNCYoLIdjCZU4"
@@ -2953,6 +2953,24 @@
     },
     {
       "album": {
+        "name": "Guess Who's Back",
+        "url": "https://open.spotify.com/album/68OdKbJF8V3Hnsg2JJyr2G"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Guess Who's Back",
+      "url": "https://open.spotify.com/track/1nauB495vIr268pQ78didh"
+    },
+    {
+      "album": {
         "name": "Guestlist",
         "url": "https://open.spotify.com/album/5D89rT4XKSkoOCLJewdiB4"
       },
@@ -3264,6 +3282,32 @@
       "duration_ms": 500310,
       "name": "Hennessy Cypher",
       "url": "https://open.spotify.com/track/4Pk8OqjfAwDnYS6kD7RlRa"
+    },
+    {
+      "album": {
+        "name": "Hermano",
+        "url": "https://open.spotify.com/album/5WMiWwu5SQGjkDnBt158fo"
+      },
+      "artists": [
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Hermano",
+      "url": "https://open.spotify.com/track/3jiXyd7yAiExtvvf81Ci4G"
     },
     {
       "album": {
@@ -3734,7 +3778,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 181460,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq"
@@ -3888,7 +3932,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 157560,
       "name": "Kilos Milos",
       "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
@@ -4984,7 +5028,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 194311,
       "name": "NO LIMIT",
       "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
@@ -5400,7 +5444,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 150857,
       "name": "One Time",
       "url": "https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb"
@@ -6450,7 +6494,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
@@ -6608,6 +6652,28 @@
       "duration_ms": 135426,
       "name": "Soaring",
       "url": "https://open.spotify.com/track/5HEwz37ArQ5v5OHAyHwlGc"
+    },
+    {
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/1AVJMO0Dyr4EwzLfBXcgrQ"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135248,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/0Y3kQx93aK7cVwvNn6pfoB"
     },
     {
       "album": {
@@ -6950,7 +7016,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 221000,
       "name": "T.I.A - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"

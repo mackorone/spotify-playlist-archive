@@ -1694,6 +1694,28 @@
     {
       "album": {
         "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216253,
+      "name": "Sandpaper (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/39jaMEXqY45at7te6OpskG"
+    },
+    {
+      "album": {
+        "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
@@ -1708,7 +1730,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 216253,
       "name": "Sandpaper (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"

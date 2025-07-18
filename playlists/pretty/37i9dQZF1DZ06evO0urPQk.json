@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27630,
+  "num_followers": 27628,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAClBr97poJlKTsgdrdrHBO8",
+  "snapshot_id": "aHbrgAAAAACK4fiqxVoQEgJ0nmKkUydh",
   "tracks": [
     {
       "added_at": null,
@@ -54,11 +54,15 @@
         {
           "name": "Nana Mizuki",
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        },
+        {
+          "name": "T.M.Revolution",
+          "url": "https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr"
         }
       ],
-      "duration_ms": 267293,
-      "name": "Synchrogazer",
-      "url": "https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m"
+      "duration_ms": 243506,
+      "name": "\u9769\u547d\u30c7\u30e5\u30a2\u30ea\u30ba\u30e0",
+      "url": "https://open.spotify.com/track/4DLJ9irMfkzSdr7EfjhxHx"
     },
     {
       "added_at": null,
@@ -118,15 +122,11 @@
         {
           "name": "Nana Mizuki",
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        },
-        {
-          "name": "T.M.Revolution",
-          "url": "https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr"
         }
       ],
-      "duration_ms": 243506,
-      "name": "\u9769\u547d\u30c7\u30e5\u30a2\u30ea\u30ba\u30e0",
-      "url": "https://open.spotify.com/track/4DLJ9irMfkzSdr7EfjhxHx"
+      "duration_ms": 267293,
+      "name": "Synchrogazer",
+      "url": "https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5922\u5e7b",
-        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
+        "name": "NEOGENE CREATION",
+        "url": "https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 239013,
-      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
+      "duration_ms": 268706,
+      "name": "UNLIMITED BEAT",
+      "url": "https://open.spotify.com/track/4QxfaPNmAjZxY2yP6rKyvF"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEOGENE CREATION",
-        "url": "https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR"
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 268706,
-      "name": "UNLIMITED BEAT",
-      "url": "https://open.spotify.com/track/4QxfaPNmAjZxY2yP6rKyvF"
+      "duration_ms": 232653,
+      "name": "\u5606\u304d\u306e\u83ef",
+      "url": "https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER SURRENDER",
-        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 232653,
-      "name": "\u5606\u304d\u306e\u83ef",
-      "url": "https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo"
+      "duration_ms": 239013,
+      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ULTIMATE DIAMOND",
-        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 272640,
-      "name": "Dancing in the velvet moon",
-      "url": "https://open.spotify.com/track/28dDBhBG9O6MheKdPvbFp8"
+      "duration_ms": 222560,
+      "name": "PHANTOM MINDS",
+      "url": "https://open.spotify.com/track/79gsfSEJXThxkYEKkEzfMS"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+        "name": "ULTIMATE DIAMOND",
+        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 222560,
-      "name": "PHANTOM MINDS",
-      "url": "https://open.spotify.com/track/79gsfSEJXThxkYEKkEzfMS"
+      "duration_ms": 272640,
+      "name": "Dancing in the velvet moon",
+      "url": "https://open.spotify.com/track/28dDBhBG9O6MheKdPvbFp8"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANNONBALL RUNNING",
-        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 260201,
-      "name": "DAYBREAKERS",
-      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
+      "duration_ms": 250266,
+      "name": "SCARLET KNIGHT",
+      "url": "https://open.spotify.com/track/7goJieTP7XVVLMLdb5OFHd"
     },
     {
       "added_at": null,
@@ -579,38 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "SCARLET KNIGHT",
-      "url": "https://open.spotify.com/track/7goJieTP7XVVLMLdb5OFHd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE MUSEUM \u2162",
-        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 326293,
-      "name": "\uff34\uff25\uff33\uff34\uff21\uff2d\uff25\uff2e\uff34-Aufwachen Form-",
-      "url": "https://open.spotify.com/track/33C9pXVKLrLkRhRNO2rMzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CANNONBALL RUNNING",
         "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
       },
@@ -620,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 331686,
-      "name": "METANOIA -Aufwachen Form-",
-      "url": "https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q"
+      "duration_ms": 260201,
+      "name": "DAYBREAKERS",
+      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
     },
     {
       "added_at": null,
@@ -643,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 326293,
+      "name": "\uff34\uff25\uff33\uff34\uff21\uff2d\uff25\uff2e\uff34-Aufwachen Form-",
+      "url": "https://open.spotify.com/track/33C9pXVKLrLkRhRNO2rMzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destiny's Prelude",
         "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
       },
@@ -655,6 +639,38 @@
       "duration_ms": 267813,
       "name": "Invisible Heat",
       "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 331686,
+      "name": "METANOIA -Aufwachen Form-",
+      "url": "https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "\u7d14\u6f54\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/5p3ZTYHlKPHD265ZUnks8S"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER SURRENDER",
-        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "GET BACK",
-      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERNAL LIBERTY",
         "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
       },
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 245626,
-      "name": "\u7d14\u6f54\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/5p3ZTYHlKPHD265ZUnks8S"
+      "duration_ms": 239000,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
     },
     {
       "added_at": null,

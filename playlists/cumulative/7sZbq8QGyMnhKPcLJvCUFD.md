@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-732 songs - 1 day 12 hr 52 min
+733 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [The Redeemer](https://open.spotify.com/track/0eFVCzAfOfbK053Kwy2qVO) | [ANIZYZ](https://open.spotify.com/artist/2MWaA6CZ9Rf8tDDuoMjZJq), [BVSSL7ON](https://open.spotify.com/artist/68eoJvGNNchU2mUZaE8f3X) | [The Redeemer](https://open.spotify.com/album/6v2ASAAYoG0Ee0G0e7KJua) | 1:33 | 2025-06-12 |  |
 | [The Riot](https://open.spotify.com/track/5NLdmEFbJIl6z3XNyYiXo4) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Riot](https://open.spotify.com/album/4LJhlX7i3YpdeRgVmyPvom) | 3:05 | 2024-10-04 |  |
 | [The Rocks](https://open.spotify.com/track/7fAzUkWPy7LKXNfvZs7W3V) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ) | [The Rocks](https://open.spotify.com/album/2AIbgGVrYnbOhuYWAUzTiV) | 4:01 | 2024-01-30 | 2024-08-28 |
+| [The Sound](https://open.spotify.com/track/3quLDIBSXkvoidNLfQzju7) | [Fluorescents](https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2), [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9) | [The Sound](https://open.spotify.com/album/3rYyOaZMBlyUD3Olle9r0g) | 3:38 | 2025-07-17 |  |
 | [The Time](https://open.spotify.com/track/4BBZYc1dqFnjg7Q0FBifkE) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [The Time](https://open.spotify.com/album/5c4WYL7FNA1Q5CtkWURneS) | 3:30 | 2023-06-28 | 2023-08-10 |
 | [Think About Me](https://open.spotify.com/track/58D90FJE3U4HMZG8yZT0Ha) | [Yancle](https://open.spotify.com/artist/4O1BpPjKtbmon4QJDaYFGM) | [Think About Me](https://open.spotify.com/album/4Vg4b2iTQKB2uGe5Isi1VI) | 3:07 | 2023-07-19 | 2023-08-10 |
 | [Thought It Was U](https://open.spotify.com/track/3cakt86V0NLaQNFqiN5MvS) | [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Thought It Was U](https://open.spotify.com/album/28j7q90iOylNg6QhifQEso) | 3:05 | 2023-08-02 | 2023-08-20 |

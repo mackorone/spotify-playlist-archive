@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 超ときめき♡宣伝部
 
-517 songs - 1 day 5 hr 29 min
+518 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [おしゃれ番長](https://open.spotify.com/track/0lmhzoftBzz9ft8wu66vxd) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD), [ソイソース](https://open.spotify.com/artist/0nZwtI3AkeAQCPaxIDyxuj) | [ALL the SINGLES](https://open.spotify.com/album/5wvpcNgNQhd7jhoel4gMyT) | 3:08 | 2025-07-10 |  |
 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 | 2025-05-08 |  |
 | [おともだち](https://open.spotify.com/track/1nfNIGVbtFTodN5iynMIQj) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [おともだち](https://open.spotify.com/album/38hnmtLRwYhBFtpgaNUAmk) | 3:05 | 2023-11-16 | 2025-01-17 |
-| [かわいいだけじゃだめですか？](https://open.spotify.com/track/3KtwMkj9gml6BDeYlyS8nG) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [かわいいだけじゃだめですか？](https://open.spotify.com/album/1cJaqr9y6AvJqQgNpwVNRD) | 4:11 | 2024-10-10 |  |
+| [かわいいだけじゃだめですか？](https://open.spotify.com/track/3KtwMkj9gml6BDeYlyS8nG) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [かわいいだけじゃだめですか？](https://open.spotify.com/album/1cJaqr9y6AvJqQgNpwVNRD) | 4:11 | 2024-10-10 | 2025-07-18 |
 | [ぎゅっとして、](https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [ぎゅっとして、](https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH) | 3:21 | 2023-07-20 | 2023-11-11 |
 | [ぐらでーしょん](https://open.spotify.com/track/7a0XxV7vR9HwvbdhwQ5KSE) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd), [北澤ゆうほ](https://open.spotify.com/artist/16GairTgKufSywJwInf6O7) | [ぐらでーしょん](https://open.spotify.com/album/1YF3kyuNc1dpRorHlxqRu1) | 3:17 | 2023-04-03 | 2023-05-02 |
 | [けーたいみしてよ](https://open.spotify.com/track/2lM1Qox6qq2bU7zKJyVt9p) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [けーたいみしてよ](https://open.spotify.com/album/4DHNe9ihe9Lnc9i5RkbgX7) | 2:12 | 2023-08-24 | 2023-11-11 |
@@ -377,6 +377,7 @@
 | [カーテン](https://open.spotify.com/track/4CFKfOLJho0WBEdb5CG3JK) | [悠馬](https://open.spotify.com/artist/47kIb7z5wndfkWHdRN34kO) | [カーテン](https://open.spotify.com/album/00wLiXEu30HBl4chuWgO7o) | 3:21 | 2023-05-18 | 2023-07-14 |
 | [キタカゼ](https://open.spotify.com/track/2KiZEAlUsTNSDzihxCRnB6) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [キタカゼ](https://open.spotify.com/album/4necvS3oFQ2YyMxJrGvyjG) | 3:31 | 2023-09-01 | 2023-09-22 |
 | [キテル](https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [キテル](https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP) | 1:45 | 2025-06-12 |  |
+| [キューにストップできません！](https://open.spotify.com/track/5OX4Nq07ulpm1uleSR6wAQ) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キューにストップできません！](https://open.spotify.com/album/6oLeXGeM7Dv4wr1cB1E1X3) | 3:42 | 2025-07-18 |  |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 5:18 | 2023-11-09 | 2023-12-14 |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-10-12 | 2023-11-11 |
 | [ケセラセラ](https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ケセラセラ](https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN) | 4:32 | 2023-04-27 | 2023-06-16 |

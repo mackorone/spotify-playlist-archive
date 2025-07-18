@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "333 Mob, Low Kidd e Lazza, in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Niky Savage in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "BIG 5",
+        "url": "https://open.spotify.com/album/4Are0mNScwygiibFFK39db"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127499,
+      "name": "7ELEVEN",
+      "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
+    },
+    {
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
       },
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 161496,
       "name": "Altezza cielo (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0GtGhO25XJZIwVVQzfOxVy"
@@ -8867,6 +8885,36 @@
     },
     {
       "album": {
+        "name": "Kriminal (Prod. by Roberto Ferrante)",
+        "url": "https://open.spotify.com/album/64mzxfRIXYCm6NVj0NTefe"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189275,
+      "name": "Kriminal - Prod. by Roberto Ferrante",
+      "url": "https://open.spotify.com/track/0pxwzHAlnK86CIfDbbJLr4"
+    },
+    {
+      "album": {
         "name": "KSFA",
         "url": "https://open.spotify.com/album/2Qvg9yZAXZVUY90QR9gWQ4"
       },
@@ -14482,7 +14530,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 248490,
       "name": "Puoi Toccarmi (feat. Gu\u00e8, Joshua, Tormento)",
       "url": "https://open.spotify.com/track/0Rgf6lKDVDjg3ZuaYCeN4F"

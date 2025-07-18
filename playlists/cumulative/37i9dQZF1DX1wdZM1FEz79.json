@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 187000,
       "name": "Deeper Than I Thought",
       "url": "https://open.spotify.com/track/3MTSqosDP6EjfRCuxutzHV"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 215458,
       "name": "every night every day",
       "url": "https://open.spotify.com/track/4bLj4d2i6hnoIbmsYtqpsJ"
@@ -2906,7 +2906,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 226853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C"
@@ -3126,7 +3126,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 149418,
       "name": "Green Tree Frog",
       "url": "https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ"
@@ -4470,7 +4470,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
@@ -5243,6 +5243,24 @@
     },
     {
       "album": {
+        "name": "Love Song (Acoustic Version)",
+        "url": "https://open.spotify.com/album/7CC5G0UjPTVEXDJQTGQUNR"
+      },
+      "artists": [
+        {
+          "name": "hemming",
+          "url": "https://open.spotify.com/artist/62jIpWzkUFaVRfHvE2XEXu"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Love Song - Acoustic Version",
+      "url": "https://open.spotify.com/track/0LxJLDqoQAxxiMFROUjqqT"
+    },
+    {
+      "album": {
         "name": "Daily",
         "url": "https://open.spotify.com/album/5r4renU9S9JbftT1CC8IfV"
       },
@@ -5952,6 +5970,24 @@
       "duration_ms": 224314,
       "name": "Not bad",
       "url": "https://open.spotify.com/track/43PYUV95avDEB6YJ00Vtcj"
+    },
+    {
+      "album": {
+        "name": "Breakwater, Sincerity",
+        "url": "https://open.spotify.com/album/2Ek9T8lKbXVhOIcN0nXoQj"
+      },
+      "artists": [
+        {
+          "name": "BeyondAll",
+          "url": "https://open.spotify.com/artist/6mPjLovJDCsUhrtEplPW72"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Not Just Anybody",
+      "url": "https://open.spotify.com/track/6nI7npgbFiqYXc3cGWaGq0"
     },
     {
       "album": {
@@ -8462,7 +8498,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 257108,
       "name": "the little bird",
       "url": "https://open.spotify.com/track/4gCFdnWECBfGMEsd4SIRZf"

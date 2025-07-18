@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: KRUTЬ
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,925 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,926 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Пісне моя](https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Пісне моя](https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os) | 3:15 |
+| 1 | [Пісне моя](https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710) | [Maryna Krut](https://open.spotify.com/artist/3KIgHHWzJMC0pc3OvQ4k5I) | [Пісне моя](https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os) | 3:15 |
 | 2 | [А чи було літо](https://open.spotify.com/track/3SolEhaDZWKJhQ8lS7mZSv) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [А чи було літо](https://open.spotify.com/album/7h2cSRUhyvAtXLLzT2FVpo) | 3:03 |
 | 3 | [Там, де немає людей](https://open.spotify.com/track/3ajVYtJDqiVahlJeYoCWIJ) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Там, де немає людей](https://open.spotify.com/album/6rf8i3mL4G5fJYwupWuFFQ) | 3:19 |
 | 4 | [Говорили](https://open.spotify.com/track/36CrigOJBiD1PPsfWYMWxq) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Говорили](https://open.spotify.com/album/56m2oahXxWbrwzsZWLSfWX) | 2:29 |

@@ -2,9 +2,9 @@
 
 ### [Enamorándose](https://open.spotify.com/playlist/37i9dQZF1DX14fkzxPABaL)
 
-> La música que te acompaña en el amor\. Foto: Alejandro Sanz & Shakira.
+> La música que te acompaña en el amor\. Foto: Reik & Xavi
 
-226 songs - 12 hr 25 min
+227 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Jodidamente \- Unplugged](https://open.spotify.com/track/0GRvMgKBqGZ4hOknpcPd1W) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Sesión Acústica \(Unplugged\)](https://open.spotify.com/album/6UEXqNcZ9kSoOqsDSG7LVJ) | 2:39 | 2022-01-14 | 2023-01-28 |
 | [La Boca Junta](https://open.spotify.com/track/0wA3AZzA0gp0wfSS0SpZt5) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Boca Junta](https://open.spotify.com/album/5KiFt9khw9XuwkFCQ6ZTtB) | 3:47 | 2022-01-14 |  |
 | [La Culpa](https://open.spotify.com/track/5VUhMAjIfD0NHRckqsE4e3) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [La Culpa](https://open.spotify.com/album/5VriqoVJikkeVk9mfZfeQT) | 3:20 | 2022-10-07 | 2023-03-18 |
+| [La del Primer Puesto](https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La del Primer Puesto](https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua) | 3:14 | 2025-07-18 |  |
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2022-01-14 | 2023-04-15 |
 | [la oportunidad](https://open.spotify.com/track/3bKnIobC3sURrYNptbi7TN) | [CLEMENTE](https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez) | [la oportunidad](https://open.spotify.com/album/09AprFAIabYd5MnoHTE8Ei) | 4:15 | 2024-01-26 |  |
 | [La Pelirroja](https://open.spotify.com/track/6Jz04ruR15iuwrUwW3usr9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [La Pelirroja](https://open.spotify.com/album/4DqYrcBKkblqWqbOpUWCK1) | 2:44 | 2025-03-21 |  |
@@ -116,7 +117,7 @@
 | [Lo Que Hará Mi Boca](https://open.spotify.com/track/4p4r9gmGyvxbfsso3TCvCo) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Lo Que Hará Mi Boca](https://open.spotify.com/album/1SJALCW3q00ib4oDo3T2M6) | 2:56 | 2022-01-14 |  |
 | [Los Domingos No Se Toman Decisiones](https://open.spotify.com/track/2Dl25j4QfSCpyXy7VvnTcz) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Los Domingos No Se Toman Decisiones](https://open.spotify.com/album/1pSEM9UPQSvPjrD8YR6WlA) | 3:20 | 2022-10-07 |  |
 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 | 2022-01-14 |  |
-| [LUNAR](https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [LUNAR](https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3) | 3:06 | 2024-06-14 |  |
+| [LUNAR](https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [LUNAR](https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3) | 3:06 | 2024-06-14 | 2025-07-18 |
 | [Machu Picchu](https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Machu Picchu](https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR) | 2:59 | 2022-01-14 |  |
 | [Malibu](https://open.spotify.com/track/1An91dzcVTS96yP3a7F495) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/5cZ7MgzsFreFseajNN2sph) | 2:31 | 2022-03-11 | 2022-07-29 |
 | [Malibu](https://open.spotify.com/track/6no81SKcduoJ0L8AoO4PP7) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU) | 2:31 | 2022-07-22 | 2024-01-13 |
@@ -142,7 +143,7 @@
 | [Ni la Mitad](https://open.spotify.com/track/4RVOSlBWNPg5gioxdE7NDE) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Ni la Mitad](https://open.spotify.com/album/1dvIWZFecTtk8ZLEEoeAgZ) | 3:10 | 2022-10-28 | 2025-04-30 |
 | [No Bailes Sola](https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola](https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd) | 3:00 | 2022-01-14 | 2022-10-08 |
 | [No Hace Falta Que Lo Digas](https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [No Hace Falta Que Lo Digas](https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ) | 3:38 | 2022-10-07 |  |
-| [No Hay Más](https://open.spotify.com/track/0uf97jURvAdpFCmM0hdK7w) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [No Hay Más](https://open.spotify.com/album/7hZuz2n7O4UH39agFYIje6) | 3:13 | 2022-10-28 |  |
+| [No Hay Más](https://open.spotify.com/track/0uf97jURvAdpFCmM0hdK7w) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [No Hay Más](https://open.spotify.com/album/7hZuz2n7O4UH39agFYIje6) | 3:13 | 2022-10-28 | 2025-07-18 |
 | [No Hay Más Que Hablar](https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [No Hay Más Que Hablar](https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe) | 3:31 | 2022-01-14 | 2022-04-02 |
 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 | 2022-10-14 |  |
 | [No Romperé Tu Corazón](https://open.spotify.com/track/6giH7DBAnEv09xWYadfYAp) | [Hans Braukmann](https://open.spotify.com/artist/5cdzXDYpthGozpsruNbQL5) | [No Romperé Tu Corazón](https://open.spotify.com/album/1xEVJ5JGnBcvMDHoq75PjK) | 2:43 | 2022-01-14 |  |

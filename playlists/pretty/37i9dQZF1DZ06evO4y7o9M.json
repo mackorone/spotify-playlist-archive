@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 875280,
+  "num_followers": 875461,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAAZjbm/cE6cxCgw6hmzEppF",
+  "snapshot_id": "aHbrgAAAAABx3v6dLNaLn6UVeytsKkdx",
   "tracks": [
     {
       "added_at": null,
@@ -479,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "$ad Boyz 4 Life",
-        "url": "https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO"
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin"
       },
       "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
         {
           "name": "Junior H",
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 282000,
-      "name": "1004 KM",
-      "url": "https://open.spotify.com/track/54udnumOCHpq4SRpbKleat"
+      "duration_ms": 154688,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I"
     },
     {
       "added_at": null,
@@ -527,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin"
+        "name": "$ad Boyz 4 Life",
+        "url": "https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO"
       },
       "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
         {
           "name": "Junior H",
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 154688,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I"
+      "duration_ms": 282000,
+      "name": "1004 KM",
+      "url": "https://open.spotify.com/track/54udnumOCHpq4SRpbKleat"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "El Hombre del Equipo",
-      "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAL DE AMORES",
         "url": "https://open.spotify.com/album/2A8C1hue8degWpk0T4M5oO"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 210000,
       "name": "MAL DE AMORES",
       "url": "https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "El Hombre del Equipo",
+      "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
     },
     {
       "added_at": null,

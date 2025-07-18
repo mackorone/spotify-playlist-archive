@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-480 songs - 1 day 9 hr 55 min
+481 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [おやすみ](https://open.spotify.com/track/7bEkYuWe7CIt7LITsTjxKI) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:10 | 2022-10-25 | 2023-12-09 |
 | [おやすみなさい](https://open.spotify.com/track/3fGUorfiin7I5V8YvTaoFK) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [秋 そばにいるよ](https://open.spotify.com/album/3VWtvGEGzET3ztfQSKTkUc) | 5:59 | 2025-06-11 |  |
 | [お家へ帰ろう](https://open.spotify.com/track/4iQrfpgyQGOxpJsNS48I1Q) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [ムスヒ](https://open.spotify.com/album/0MvWp84fGgQhRUUMCkXE9u) | 3:58 | 2023-06-13 | 2023-06-21 |
+| [がらすの線](https://open.spotify.com/track/3eCl6n1uTevApLYQDC1QJM) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [硝子の線](https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq) | 1:05 | 2025-07-17 |  |
 | [きみとわたしのうた（featuring LIBERA）](https://open.spotify.com/track/2vvgDDC4fIEQCicXApxX9z) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE), [LIBERA](https://open.spotify.com/artist/0wHSkXXRiwrmE9MzF8e4sK) | [きみとわたしのうた（featuring LIBERA）](https://open.spotify.com/album/6VKCpAHanLbNbb96BDLpgt) | 5:01 | 2024-01-09 | 2024-01-11 |
 | [きれいだ](https://open.spotify.com/track/3AUERt8iOPlZ2ruHQMDAVh) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [夜はそのまなざしの先に流れる](https://open.spotify.com/album/2nHykm1RdbUDW4ImLANpUb) | 6:13 | 2022-10-20 | 2023-07-12 |
 | [ここにある地球\(ほし\)](https://open.spotify.com/track/3QZMFiHaweFFr8xqwIVo4v) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [ここにある地球\(ほし\)](https://open.spotify.com/album/5qpeBvBrNJG8SKH5vNBeaD) | 2:12 | 2022-12-13 | 2022-12-15 |
@@ -373,7 +374,7 @@
 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 | 2022-10-25 | 2024-04-19 |
 | [夜のままで](https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 1:56 | 2023-03-14 | 2025-01-29 |
 | [夜の歯車](https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 5:53 | 2023-12-19 |  |
-| [夜はやさし](https://open.spotify.com/track/26VxGKT6FoKO4YFQz1WLwk) | [Sugar Me](https://open.spotify.com/artist/0RUM5RTI0FAykSNS9FdDjr) | [Wild Flowers](https://open.spotify.com/album/1aemhVhHw2fphYPNZy8SY3) | 3:32 | 2024-06-27 |  |
+| [夜はやさし](https://open.spotify.com/track/26VxGKT6FoKO4YFQz1WLwk) | [Sugar Me](https://open.spotify.com/artist/0RUM5RTI0FAykSNS9FdDjr) | [Wild Flowers](https://open.spotify.com/album/1aemhVhHw2fphYPNZy8SY3) | 3:32 | 2024-06-27 | 2025-07-18 |
 | [夜明け](https://open.spotify.com/track/4jbPItzP0AV4r6Hd81CW8H) | [Haruna](https://open.spotify.com/artist/1ovNHIntzPk4hzzKQtrOof) | [夜明け](https://open.spotify.com/album/2UdwONOsqIYdxhhHBsFX2w) | 4:24 | 2023-05-16 | 2023-05-24 |
 | [夜空](https://open.spotify.com/track/1rWp9c9Po0i4lAfCJYOoBh) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [夜空](https://open.spotify.com/album/0jUNTykn9v1VLuJGkE42d7) | 4:09 | 2024-01-10 |  |
 | [夢のあとから](https://open.spotify.com/track/0L2Xxup2YCH9E9wKHnUZJ1) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [雫に恋して/忘れて花束](https://open.spotify.com/album/1NFvr2Trzy1UuaVeXL0M2z) | 4:23 | 2022-11-23 | 2022-12-14 |

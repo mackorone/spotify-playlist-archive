@@ -2,9 +2,9 @@
 
 ### [\#vainsuomihitit](https://open.spotify.com/playlist/37i9dQZF1DWUvzPS8uIABd)
 
-> Tämän hetken kovimmat suomihitit\. Kannessa Robin Packalen.
+> Tämän hetken kovimmat suomihitit.
 
-650 songs - 1 day 8 hr 25 min
+654 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 | 2025-03-16 |  |
 | [100 kyyneltä](https://open.spotify.com/track/4odOlYAhOx65GVHPCaoMSR) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [100 kyyneltä](https://open.spotify.com/album/6D8caW2M3TrdCJ1YeFoUPS) | 3:06 | 2024-07-02 | 2024-07-05 |
 | [1000 Ways](https://open.spotify.com/track/4t2S9k4ToCqqBfBHbTSlBl) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [1000 Ways](https://open.spotify.com/album/3vVGKpTDoyeyPkrz8dTJhN) | 3:53 | 2024-10-10 | 2024-10-25 |
+| [16 ct](https://open.spotify.com/track/3RbtraQDqbNGuviw5iJDJt) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Habson](https://open.spotify.com/artist/1oTR448XOPP7T54lMD6BGa) | [16 ct](https://open.spotify.com/album/2I8ZiXuYmFptvaDskAnpke) | 3:01 | 2025-07-17 |  |
 | [2 tone \(feat\. Ares\)](https://open.spotify.com/track/5Fggrl5jqihP50JYhFUeLt) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [2 tone \(feat\. Ares\)](https://open.spotify.com/album/6GvQ3Y54cSOMg5bQOekotv) | 2:59 | 2025-06-19 | 2025-07-04 |
 | [247](https://open.spotify.com/track/7JCSgrKfAWLoW5EttS6tEo) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c) | [247](https://open.spotify.com/album/2GpSzKe87fYEtw9luJcKvI) | 2:51 | 2024-07-04 | 2024-07-27 |
 | [7 minuuttii](https://open.spotify.com/track/7aqh51LsKyhgFDPJKrh4pL) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [7 minuuttii](https://open.spotify.com/album/4bNB7WdqZ5fOJXN8NO12Ln) | 3:52 | 2024-07-02 | 2024-08-10 |
@@ -292,6 +293,7 @@
 | [Lutkajenkka](https://open.spotify.com/track/3AfyderccqdtuLSTYAu3vv) | [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [Lutkajenkka](https://open.spotify.com/album/52ixbntmHugJHdcSwAtsiB) | 2:42 | 2024-07-11 | 2024-08-16 |
 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 | 2025-05-01 | 2025-06-13 |
 | [Luuseri \(feat\. Röge\)](https://open.spotify.com/track/6Ldpx7FBS0HP8WEXP9A0bv) | [SAFIRA](https://open.spotify.com/artist/4RCgeIzdarhkYPoirlh6YW), [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5) | [Luuseri \(feat\. Röge\)](https://open.spotify.com/album/1slOXWPMWAerlqQk4WKZ5I) | 2:48 | 2024-11-07 | 2025-01-03 |
+| [Lähellä \(feat\. Phimi\)](https://open.spotify.com/track/4HAx4SgTwN4myPCaOmGYbw) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT), [Phimi](https://open.spotify.com/artist/0H3inzBUtHTqkhaKy8Edvk) | [Lähellä \(feat\. Phimi\)](https://open.spotify.com/album/0oIuMrcSdufuGBkeVDgNFt) | 3:12 | 2025-07-17 |  |
 | [Lähes onnellinen mies \(Vain elämää kausi 15\)](https://open.spotify.com/track/3yJcBsSiC0UsoZG789vBxy) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r) | [Lähes onnellinen mies \(Vain elämää kausi 15\)](https://open.spotify.com/album/7MhCOswCnBhvDG4bOc0QEx) | 3:00 | 2024-10-31 | 2024-11-08 |
 | [Löytää mut](https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Löytää mut](https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX) | 2:49 | 2024-08-29 | 2024-11-29 |
 | [Maa ilman vettä](https://open.spotify.com/track/5gFVdvBQ0wVIZPYqrMSM8m) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Maa ilman vettä](https://open.spotify.com/album/4zDfO6q0mJkiTUDeysv6M1) | 2:19 | 2024-12-12 | 2025-04-11 |
@@ -360,6 +362,7 @@
 | [Mä nään sut](https://open.spotify.com/track/7KrnwqnKo5kHf8upHsq533) | [Mikko Harju](https://open.spotify.com/artist/4d5lT8L9TN7RfbYCs1sa8n) | [Mä nään sut](https://open.spotify.com/album/3w9W8o6nYAIjeMszEUQAFZ) | 2:56 | 2025-05-01 | 2025-07-04 |
 | [Määräaikainen \(rakkaus\)](https://open.spotify.com/track/5f3X7brdX4wXnn5hSCQ1kh) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Määräaikainen \(rakkaus\)](https://open.spotify.com/album/2NpbyH7y9NbsjdCyPOjHXq) | 2:29 | 2025-04-10 | 2025-05-23 |
 | [Mörkö Mainio \- Vain elämää kausi 15](https://open.spotify.com/track/5eUB9jPcvI1mpRn3CA9ZTW) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Mörkö Mainio \(Vain elämää kausi 15\)](https://open.spotify.com/album/7tpraW2sPXGs40G9RHQ1Tm) | 3:05 | 2024-11-07 | 2024-11-15 |
+| [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz) | 2:37 | 2025-07-17 |  |
 | [Nainen](https://open.spotify.com/track/4TCiNeoH3grVJVt5PDUHBY) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Nainen](https://open.spotify.com/album/0hV9bV69IyfQljGLL6GVVR) | 2:30 | 2025-07-10 |  |
 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 | 2024-11-07 | 2025-03-07 |
 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 | 2024-08-26 | 2024-11-29 |
@@ -390,6 +393,7 @@
 | [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 | 2024-08-29 | 2024-09-13 |
 | [Onks tää vakavaa?](https://open.spotify.com/track/0X0jxZAzdCRDtPgVtMz3Ow) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Onks tää vakavaa?](https://open.spotify.com/album/7bP5f8d0pMEB3VH0RfTZqU) | 2:40 | 2025-05-15 | 2025-06-06 |
 | [Onneks](https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Onneks](https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e) | 2:40 | 2025-04-24 |  |
+| [Ota Must Kii](https://open.spotify.com/track/008khCmelPaF0WJWrMkW8f) | [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch), [Raappana](https://open.spotify.com/artist/7m7tqSW9C7alkliDAZYvF0) | [Ota Must Kii](https://open.spotify.com/album/5lbebKsgpumzkHvSKAvhDB) | 2:44 | 2025-07-17 |  |
 | [Ota musta kii \(feat\. Asla Jo\)](https://open.spotify.com/track/7b2EXARgqqX9xq3SdwKp9W) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Ilmaista terapiaa](https://open.spotify.com/album/0MqERRYaS1FXXPhoDrZUJj) | 3:00 | 2024-10-24 | 2024-11-08 |
 | [Ota mut takas \(feat\. Ville Veikka\)](https://open.spotify.com/track/6kbZCTF1nRX5hby64Z1Wmq) | [EME](https://open.spotify.com/artist/2g0v8ntUy4SSbvrHhUljE5), [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Ota mut takas \(feat\. Ville Veikka\)](https://open.spotify.com/album/1CARdA6I2UNChyv6Njcsua) | 3:13 | 2024-07-11 | 2024-08-10 |
 | [Otan Kii](https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Otan Kii](https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ) | 2:57 | 2024-08-22 | 2025-01-03 |

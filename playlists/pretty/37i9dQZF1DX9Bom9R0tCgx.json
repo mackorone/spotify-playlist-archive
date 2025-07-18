@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 428216,
+  "num_followers": 428417,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/3khKaLL2SaCzw9UyvsLh5u"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 201235,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/7bqTk1RRfajEw5fJf3CooS"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Paint It Red",
         "url": "https://open.spotify.com/album/4IbeCtmBfrUUKQMApQhHI4"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 165569,
       "name": "Paint It Red",
       "url": "https://open.spotify.com/track/1I3YPOEyTzpPp3zlYfO99o"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/3khKaLL2SaCzw9UyvsLh5u"
-      },
-      "artists": [
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        }
-      ],
-      "duration_ms": 201235,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/7bqTk1RRfajEw5fJf3CooS"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Hit The Road Jack",
-        "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
-      },
-      "artists": [
-        {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        },
-        {
-          "name": "Millows",
-          "url": "https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG"
-        }
-      ],
-      "duration_ms": 126428,
-      "name": "Hit The Road Jack",
-      "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Late At Night",
         "url": "https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG"
       },
@@ -1731,26 +1711,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Jump Jump Jump",
-        "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
+        "name": "Hit The Road Jack",
+        "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
         },
         {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        },
-        {
-          "name": "Captain Curtis",
-          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+          "name": "Millows",
+          "url": "https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG"
         }
       ],
-      "duration_ms": 159473,
-      "name": "Jump Jump Jump",
-      "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
+      "duration_ms": 126428,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1775,6 +1751,30 @@
       "duration_ms": 147998,
       "name": "Freaks - Dimitri Vegas & Like Mike Remix",
       "url": "https://open.spotify.com/track/6KSJc2F0ExJCTqU50Sxb0N"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Jump Jump Jump",
+        "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "Jump Jump Jump",
+      "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
     },
     {
       "added_at": "2025-06-26 22:00:24",

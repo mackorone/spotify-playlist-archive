@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Contesto is officially here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,356 likes - 508 songs - 1 day 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,513 likes - 508 songs - 1 day 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

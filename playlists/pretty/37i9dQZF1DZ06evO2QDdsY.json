@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16223,
+  "num_followers": 16229,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAACr+wu1vGkYVQf+ROufx3Zq",
+  "snapshot_id": "aHbrgAAAAAD140U10ic/yZvNuGpR2ZVc",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 216586,
-      "name": "I Am In Love",
-      "url": "https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm"
+      "duration_ms": 163760,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 163760,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
+      "duration_ms": 142586,
+      "name": "Inside Me",
+      "url": "https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 142586,
-      "name": "Inside Me",
-      "url": "https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC"
+      "duration_ms": 216586,
+      "name": "I Am In Love",
+      "url": "https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
       "duration_ms": 175960,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "The Front Door",
+      "url": "https://open.spotify.com/track/4UK7HAqhQ0GOeJnPibJrzJ"
     },
     {
       "added_at": null,
@@ -419,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Owls, Omens, and Oracles",
         "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
       },
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 254866,
-      "name": "The Front Door",
-      "url": "https://open.spotify.com/track/4UK7HAqhQ0GOeJnPibJrzJ"
+      "duration_ms": 212573,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
       "duration_ms": 181786,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pushin' against a Stone",
-        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 193227,
-      "name": "Twined and Twisted",
-      "url": "https://open.spotify.com/track/3ZJOBOxFUaxHX1ovXxQdCG"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
       "duration_ms": 143400,
       "name": "Big Dream",
       "url": "https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pushin' against a Stone",
+        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 193227,
+      "name": "Twined and Twisted",
+      "url": "https://open.spotify.com/track/3ZJOBOxFUaxHX1ovXxQdCG"
     },
     {
       "added_at": null,
@@ -591,38 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Trials, Troubles, Tribulations",
-      "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Why The Bright Stars Glow",
-      "url": "https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up and Rolling (feat. Son Little and Valerie June)",
         "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
       },
@@ -643,6 +611,38 @@
       "duration_ms": 201921,
       "name": "Up and Rolling (feat. Son Little and Valerie June)",
       "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Why The Bright Stars Glow",
+      "url": "https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Trials, Troubles, Tribulations",
+      "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"
     },
     {
       "added_at": null,
@@ -699,38 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' against a Stone",
-        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 229668,
-      "name": "The Hour",
-      "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friendship [Feat. Carla Thomas and Stax Music Academy]",
         "url": "https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 219961,
       "name": "Friendship [Feat. Carla Thomas, Stax Music Academy]",
       "url": "https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pushin' against a Stone",
+        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "The Hour",
+      "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
     },
     {
       "added_at": null,

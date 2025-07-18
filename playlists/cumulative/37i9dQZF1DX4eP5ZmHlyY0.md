@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: NCT DREAM
 
-652 songs - 1 day 12 hr 8 min
+653 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bon Voyage](https://open.spotify.com/track/7BHlLqdDjNlweYXdmAeFzN) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC \(Special Edition\)](https://open.spotify.com/album/6UclrVcaKUfojZfowJggOK) | 3:08 | 2025-04-01 | 2025-05-12 |
 | [BOOM BASH](https://open.spotify.com/track/22mbbvEHy4mRNuz4HbfCgo) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [BOOM BASH](https://open.spotify.com/album/2w4RMOw4SPJCuiONScbePk) | 3:38 | 2025-04-17 | 2025-06-04 |
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-11-23 | 2024-10-02 |
-| [BOSS IN THE BUILDING](https://open.spotify.com/track/30yBnzk52RdXseGmXBuMgn) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOSS IN THE BUILDING](https://open.spotify.com/album/5rUDcK5BarwnVJhn86U2WB) | 4:30 | 2025-07-08 |  |
+| [BOSS IN THE BUILDING](https://open.spotify.com/track/30yBnzk52RdXseGmXBuMgn) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOSS IN THE BUILDING](https://open.spotify.com/album/5rUDcK5BarwnVJhn86U2WB) | 4:30 | 2025-07-08 | 2025-07-18 |
 | [Bossa Bosa](https://open.spotify.com/track/67cHhblKt3ThjqAsvZJB2A) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Bossa Bosa](https://open.spotify.com/album/4gRM6Xt8jx7UpQm6Cworb4) | 2:22 | 2025-07-01 |  |
 | [BOW WOW](https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOW WOW](https://open.spotify.com/album/366gA1FOPWIQCVUheX5HiY) | 3:30 | 2025-03-31 | 2025-04-02 |
 | [BOYS \-TJBB Anthem\-](https://open.spotify.com/track/49IR4E7Weu8bRsTCKtfshW) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [BOYS \-TJBB Anthem\-](https://open.spotify.com/album/0a1oriXnVZ3OTy1tCtQEfV) | 3:36 | 2024-06-12 | 2024-07-03 |
@@ -300,6 +300,7 @@
 | [LOVE / HATE](https://open.spotify.com/track/08nRL1drNzWuYvxfTplhgS) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [LOVE / HATE](https://open.spotify.com/album/4ZGFTkABqgi5LofCHOWVDc) | 2:22 | 2025-01-14 | 2025-04-03 |
 | [Love 119 \- Japanese Version](https://open.spotify.com/track/5Gw3SiNinRr4kY8FxKl7Dm) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119 \(Japanese Version\)](https://open.spotify.com/album/40zoR4FnNilJl5gK2qzjCg) | 2:53 | 2024-01-24 | 2024-01-29 |
 | [Love Fire](https://open.spotify.com/track/3PSj0h7rMUW4m754rOgZPJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [PSYCHIC FILE Ⅱ](https://open.spotify.com/album/7GBguLTdlkJhzecV5KMvzO) | 3:11 | 2024-04-02 | 2024-07-27 |
+| [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/track/3IglY1ukGerwdCA0FVWY2i) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JAY \(ENHYPEN\)](https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ) | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/album/2U3VnUzhG6tRWT7ZrjOWQI) | 2:31 | 2025-07-17 |  |
 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 | 2025-05-02 | 2025-06-02 |
 | [LOVE RACE](https://open.spotify.com/track/4v0Gi15gE9l5KBV4DR2abo) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [LOVE RACE](https://open.spotify.com/album/1S3hm1VJcpSb6CkDtw4mTA) | 2:58 | 2025-03-11 | 2025-05-16 |
 | [Love seeker](https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Love seeker](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) | 2:54 | 2024-05-14 | 2024-10-02 |

@@ -4,7 +4,7 @@
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-274 songs - 12 hr 0 min
+275 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [take care](https://open.spotify.com/track/2WSp8idf2GyUpXGAwm48MK) | [limbus vita](https://open.spotify.com/artist/2DkcmEC03cEQNTvw6ZLCVQ) | [take care](https://open.spotify.com/album/1j8kqbNhJlsUpJsfCI9oxj) | 1:43 | 2025-01-31 |  |
 | [testament](https://open.spotify.com/track/4ZmE4F5tX3aeRGRvFHJkM8) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [a field with no edges](https://open.spotify.com/album/5gxI7Mc3AD7XHCWZWb7xyF) | 2:28 | 2023-10-13 |  |
 | [that's life](https://open.spotify.com/track/15P3OdV6ksFaPuS3dQgflo) | [trapeia](https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD) | [that's life](https://open.spotify.com/album/67WXwfihTrossmDs4EbLLj) | 1:24 | 2023-09-01 | 2025-02-22 |
+| [The Decision](https://open.spotify.com/track/7xB0YYLRhwQmWgPCgylGFj) | [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX), [CADYY](https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB) | [The Decision](https://open.spotify.com/album/31IUwPsuxiH3NMpu4FPqY4) | 1:53 | 2025-07-17 |  |
 | [the end of story](https://open.spotify.com/track/3bKNDF26cGbibJI9K6ALL5) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [the end of story](https://open.spotify.com/album/64bQaGQbPTf8Hnan5SE0QY) | 1:31 | 2023-08-18 | 2024-10-05 |
 | [the light will never leave](https://open.spotify.com/track/1vQsYNVBSnS5rlPjp37Xwt) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [the light will never leave](https://open.spotify.com/album/1iuFnNgfkmAPUJuRiDh2DI) | 1:56 | 2023-09-22 | 2025-02-22 |
 | [The Morning Star](https://open.spotify.com/track/12E6jng4MmOhp8hIFWplao) | [Sainte Terrer](https://open.spotify.com/artist/5RclbTDZlLn8jP2vV9WpCp) | [Without land, at Home.](https://open.spotify.com/album/5AtjOmAKuOna2nWNXaVULK) | 2:35 | 2024-12-12 | 2025-07-04 |

@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Zlatan
 
-372 songs - 17 hr 6 min
+374 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Gaza](https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:14 | 2023-08-10 | 2024-11-23 |
 | [Gbeff](https://open.spotify.com/track/1zr6TtMmNTTDKbyzWxybdY) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Gbeff](https://open.spotify.com/album/1YK8ApM3tX4BPjfSNgcg4U) | 2:15 | 2023-08-10 | 2023-11-03 |
 | [Geng](https://open.spotify.com/track/1pUaknOVFqwYwExrK3K5zv) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Geng](https://open.spotify.com/album/5V40JgTzx7L2GYMAcj7Rdw) | 2:07 | 2022-06-29 | 2023-04-15 |
-| [Giddem](https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Giddem](https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH) | 2:58 | 2024-06-21 |  |
+| [Giddem](https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Giddem](https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH) | 2:58 | 2024-06-21 | 2025-07-18 |
 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 | 2025-03-28 |  |
 | [Giza \(feat\. Seyi Vibez\)](https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:59 | 2024-04-19 | 2024-11-23 |
 | [Giza \(feat\. Seyi Vibez\)](https://open.spotify.com/track/1JqxgXNhqWpFss7nZzlwOz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:59 | 2023-09-27 | 2024-04-19 |
@@ -211,13 +211,15 @@
 | [Lazy Baby](https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lazy Baby](https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh) | 2:06 | 2025-05-02 | 2025-07-11 |
 | [Legbegbe](https://open.spotify.com/track/7nSCIoTBW6Y7lHny5hSgqV) | [Mr Real](https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO), [Obadice](https://open.spotify.com/artist/1ehQuWiGUch5doyxXLkdRz), [Idowest](https://open.spotify.com/artist/0ArqRD7tW8ZRr4AHKRGcb0) | [Legbegbe](https://open.spotify.com/album/67LJ3Ddvh3wB0NwghIz7El) | 4:22 | 2022-06-29 | 2023-01-13 |
 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 | 2023-02-03 | 2024-11-21 |
+| [Life](https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Life](https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb) | 2:44 | 2025-07-18 |  |
 | [Life](https://open.spotify.com/track/5sYYFdeRxteDdFpyeJD7jW) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Life](https://open.spotify.com/album/49Abr1dsGGSS3yQpieZm2p) | 2:16 | 2023-02-13 | 2023-02-17 |
-| [LIFESTYLE](https://open.spotify.com/track/18kZT3bZ8dYuSQpDqb5jxR) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gen Z](https://open.spotify.com/album/6A9vRCTrmUNqdsW93J3vPK) | 2:55 | 2025-04-25 |  |
+| [LIFESTYLE](https://open.spotify.com/track/18kZT3bZ8dYuSQpDqb5jxR) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gen Z](https://open.spotify.com/album/6A9vRCTrmUNqdsW93J3vPK) | 2:55 | 2025-04-25 | 2025-07-18 |
 | [Loading](https://open.spotify.com/track/558ULLj8yY2vT8XGtgY0q9) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 3:14 | 2022-06-29 | 2023-11-03 |
 | [Logba](https://open.spotify.com/track/7AP9pu6RfGxLDOZQNLdVhp) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Logba](https://open.spotify.com/album/2a7nu2JTVltWK2HPN9i34z) | 2:15 | 2024-11-15 | 2024-11-23 |
 | [Logba](https://open.spotify.com/track/0CFGblEeQi2k9563fd95wi) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Pawon Boy Vol.1](https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6) | 2:53 | 2024-11-22 | 2025-01-31 |
 | [Loner](https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Loner](https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH) | 2:37 | 2024-03-15 |  |
 | [Lotto](https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Lotto](https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ) | 3:05 | 2023-08-17 | 2023-09-28 |
+| [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 | 2025-07-18 |  |
 | [Ludo](https://open.spotify.com/track/6OljU9rEfG2u5mGhqmiqSJ) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:32 | 2024-06-21 | 2025-05-24 |
 | [Mafo](https://open.spotify.com/track/0b4KxqG2zGWDh3iH571a7D) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Mafo](https://open.spotify.com/album/2lCPh18M0n0Ug9LJiqsREw) | 3:34 | 2022-06-29 | 2022-12-25 |
 | [Mafo](https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Mafo](https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo) | 3:34 | 2022-06-29 | 2023-09-28 |

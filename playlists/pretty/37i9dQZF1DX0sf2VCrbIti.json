@@ -1,6 +1,6 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos.",
-  "num_followers": 2401,
+  "num_followers": 2404,
   "original_name": "\u00a1Felices Fiestas!",
   "owner": {
     "name": "Spotify",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-12-16 20:55:09",
       "album": {
-        "name": "Paso Firme",
-        "url": "https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 282706,
-      "name": "A Dormir Juntitos - Liz featuring Eddy Herrera",
-      "url": "https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D"
-    },
-    {
-      "added_at": "2024-12-16 20:55:09",
-      "album": {
         "name": "Hector Lavoe El Cantante -The Originals",
         "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
       },
@@ -1207,18 +1191,38 @@
     {
       "added_at": "2024-12-16 20:55:09",
       "album": {
-        "name": "Cl\u00e1sicos de Oro de Billo Caracas Boy's, Vol II",
-        "url": "https://open.spotify.com/album/6eMolS4wBsvJPuehofhm9W"
+        "name": "Paso Firme",
+        "url": "https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 282706,
+      "name": "A Dormir Juntitos - Liz featuring Eddy Herrera",
+      "url": "https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D"
+    },
+    {
+      "added_at": "2024-12-16 20:55:09",
+      "album": {
+        "name": "Billos Caracas Boys Fin de A\u00f1o",
+        "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
       },
       "artists": [
         {
           "name": "Billo's Caracas Boys",
           "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        },
+        {
+          "name": "Cheo Garcia",
+          "url": "https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR"
         }
       ],
-      "duration_ms": 193800,
-      "name": "Aguinaldo Con Billo",
-      "url": "https://open.spotify.com/track/5lEGMU8m1Ah5MgD1vBYb8t"
+      "duration_ms": 173290,
+      "name": "Cantares de Navidad",
+      "url": "https://open.spotify.com/track/0TXwWlwoe7MtGYPHtyDyvi"
     },
     {
       "added_at": "2024-12-16 20:55:09",

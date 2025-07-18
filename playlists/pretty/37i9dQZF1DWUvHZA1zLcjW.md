@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,805 likes - 126 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,813 likes - 126 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 54 | [Being](https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ) | [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Álfheiður Erla Guðmundsdóttir](https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS) | [Piano Poems](https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc) | 2:51 |
 | 55 | [Esja](https://open.spotify.com/track/3c3i9icjd5mMi8z9NJhRHv) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3), [Alix Vaillot\-Szwarc](https://open.spotify.com/artist/6aML5wmfX9G35f0SefMvn0), [Özgür Kaya](https://open.spotify.com/artist/2NIJXCrR8rog7GWW2njcV7) | [Esja](https://open.spotify.com/album/3aBD10mWdF7VfHpMRl9u1t) | 2:18 |
 | 56 | [33 Miniatures for Piano \(Excerpts\): No\. 22, Grazioso](https://open.spotify.com/track/1m7xhfthPyNBdIJcGREuh1) | [Giya Kancheli](https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g) | [Memories from Home](https://open.spotify.com/album/38ZYEkGiDnTszDhMYDUUix) | 1:12 |
-| 57 | [3 Visions: No\. 2\. Summerland](https://open.spotify.com/track/6DjJASpNIqqEABN4geePv0) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Althea Waites](https://open.spotify.com/artist/5cFDIXZI13ESqS25ixveDv) | [Piano Recital: Waites, Althea \- Price, F.B\. / Still, W.G\. / Bland, E.](https://open.spotify.com/album/3QTA3qI6hBkrcWhO6BawKG) | 4:21 |
+| 57 | [3 Visions: No\. 2, Summerland](https://open.spotify.com/track/6DjJASpNIqqEABN4geePv0) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Althea Waites](https://open.spotify.com/artist/5cFDIXZI13ESqS25ixveDv) | [Piano Recital: Waites, Althea \- Price, F.B\. / Still, W.G\. / Bland, E.](https://open.spotify.com/album/3QTA3qI6hBkrcWhO6BawKG) | 4:21 |
 | 58 | [In Retrospect](https://open.spotify.com/track/01yKVn4gVNu3pKrDiFzIdT) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [In Retrospect](https://open.spotify.com/album/013HlaUbtTEYInYdESDJIi) | 2:07 |
 | 59 | [Gabriel's Oboe \(From "The Mission"\)](https://open.spotify.com/track/0kRB0hhG9KYXiokmqZehwn) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Stéphane Denève](https://open.spotify.com/artist/7FPSLDmxB1UckL2c2NN1kb), [Brussels Philharmonic](https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP) | [Cinema](https://open.spotify.com/album/243oDF9ZIj87IaQp8duXzR) | 3:42 |
 | 60 | [Homebound](https://open.spotify.com/track/1YC73UseIZ9AjZ3bkh7YoM) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [DAWN](https://open.spotify.com/album/3AIuVXMYIVziYMYM7UxW2h) | 2:02 |

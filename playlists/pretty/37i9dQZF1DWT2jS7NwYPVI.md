@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Keo
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,854 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,872 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 42 | [MEAN](https://open.spotify.com/track/2chUwJ0OfRFtOLbKuIUpTZ) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [MEAN](https://open.spotify.com/album/0A6z8JM3YdXnqbdK5snV3o) | 3:19 |
 | 43 | [149](https://open.spotify.com/track/2IuIgcXrJoxcJwgOIA57cY) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [149](https://open.spotify.com/album/2i36YYbumEwDEY5jtmLUW6) | 2:30 |
 | 44 | [Naive](https://open.spotify.com/track/6q2Gzh3yVPq8dtZbudMFJO) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Naive](https://open.spotify.com/album/1LgDzmVzpgFJatwtnS8ZAO) | 2:46 |
-| 45 | [Creation \- Single Edit](https://open.spotify.com/track/4yQDfit7cyM0WXwWOQdka6) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [Creation](https://open.spotify.com/album/3Kz4KSZ92Oj55BQKBbAzZa) | 4:33 |
+| 45 | [Creation](https://open.spotify.com/track/4yQDfit7cyM0WXwWOQdka6) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [Creation](https://open.spotify.com/album/3Kz4KSZ92Oj55BQKBbAzZa) | 4:33 |
 | 46 | [Push The Button](https://open.spotify.com/track/4sWPL3EDZh6diMDO11gF0f) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Push The Button](https://open.spotify.com/album/6sAbAyL9n7rcq6di5P2vgV) | 2:30 |
 | 47 | [The Middle](https://open.spotify.com/track/27JSigS6OO6Ezo3b5WzF1m) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [The Middle](https://open.spotify.com/album/7CmgsRDr9za6JUxDPMsikI) | 2:41 |
 | 48 | [Made Up My Mind](https://open.spotify.com/track/4plmxRZ8iteJa14MCdiokR) | [Coral Moons](https://open.spotify.com/artist/1e1BtFMq0maJJM8Hjk2Myu) | [Made Up My Mind](https://open.spotify.com/album/7f6qE7J0OPKOWV3yklDvrH) | 3:07 |

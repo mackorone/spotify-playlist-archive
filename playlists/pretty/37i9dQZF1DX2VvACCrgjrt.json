@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with SIDEPIECE + Bobby Shmurda",
-  "num_followers": 467798,
+  "num_followers": 467850,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1701,6 +1701,22 @@
       "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
       "added_at": "2025-05-16 04:00:36",
       "album": {
         "name": "Psycho",
@@ -1725,22 +1741,6 @@
       "url": "https://open.spotify.com/track/3YsG1EMppOjIJD067Keqjp"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Numb",
@@ -1761,6 +1761,22 @@
       "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
     },
     {
+      "added_at": "2025-02-21 05:00:41",
+      "album": {
+        "name": "ZERO200",
+        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "ZERO200",
+      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
+    },
+    {
       "added_at": "2025-05-09 14:18:44",
       "album": {
         "name": "Fader",
@@ -1779,22 +1795,6 @@
       "duration_ms": 145810,
       "name": "Fader",
       "url": "https://open.spotify.com/track/2iakEZOHqzJ7ret430eLry"
-    },
-    {
-      "added_at": "2025-02-21 05:00:41",
-      "album": {
-        "name": "ZERO200",
-        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "ZERO200",
-      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
     },
     {
       "added_at": "2025-05-09 14:18:44",
@@ -2041,22 +2041,6 @@
       "url": "https://open.spotify.com/track/3qP4d4sEQNXpfY6LSrv0H7"
     },
     {
-      "added_at": "2024-09-30 15:01:28",
-      "album": {
-        "name": "Baggy Black Jeans",
-        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        }
-      ],
-      "duration_ms": 192692,
-      "name": "Baggy Black Jeans",
-      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
-    },
-    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "That's the Spot",
@@ -2097,24 +2081,20 @@
       "url": "https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs"
     },
     {
-      "added_at": "2025-06-20 04:00:51",
+      "added_at": "2024-09-30 15:01:28",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/30ZKdAZnM8vyaSqN7AaZT7"
+        "name": "Baggy Black Jeans",
+        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Dillon Nathaniel",
-          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         }
       ],
-      "duration_ms": 164545,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/0PfbvUzufeSwaNeYuWUhDl"
+      "duration_ms": 192692,
+      "name": "Baggy Black Jeans",
+      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2135,6 +2115,26 @@
       "duration_ms": 155147,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/30ZKdAZnM8vyaSqN7AaZT7"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "duration_ms": 164545,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/0PfbvUzufeSwaNeYuWUhDl"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -2189,26 +2189,6 @@
       "url": "https://open.spotify.com/track/7FY6QQTpFO6G91bjut6uld"
     },
     {
-      "added_at": "2025-02-14 05:00:46",
-      "album": {
-        "name": "Connect",
-        "url": "https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Jamakabi",
-          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
-        }
-      ],
-      "duration_ms": 137595,
-      "name": "Connect",
-      "url": "https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Whole Lotta Drugs / Over The Edge",
@@ -2227,6 +2207,26 @@
       "duration_ms": 208550,
       "name": "Whole Lotta Drugs",
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:46",
+      "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Jamakabi",
+          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
+        }
+      ],
+      "duration_ms": 137595,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A"
     },
     {
       "added_at": "2025-05-02 05:35:09",

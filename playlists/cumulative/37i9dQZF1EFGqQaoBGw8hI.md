@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-659 songs - 1 day 21 hr 55 min
+660 songs - 1 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Candy By The Pound](https://open.spotify.com/track/4gslKb4WdHVqX9FWo8aaVC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:56 | 2022-09-08 |  |
 | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/track/6dix9mJZambkCkDOlXQTwG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 5:46 | 2022-09-08 |  |
 | [Carla/Etude \- Fanfare \- Chloe \- Remastered 2003](https://open.spotify.com/track/231kvu5STQGcqzuRDX9S9C) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 10:51 | 2022-09-08 |  |
+| [Carmen](https://open.spotify.com/track/2Len4tBitFcIf0sAp2zBOT) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Carmen](https://open.spotify.com/album/2X9F4vOl0e6K7qGyLqZoz2) | 3:02 | 2025-07-17 |  |
 | [Cartier](https://open.spotify.com/track/4fUVX9jVZmx0VJp8eoUsdf) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 0:53 | 2023-07-02 |  |
 | [Cartier](https://open.spotify.com/track/3zxOf1iy9N3qU23wNIY2Xc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 0:58 | 2022-09-08 | 2023-07-03 |
 | [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:41 | 2022-09-08 |  |

@@ -4,10 +4,11 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-57 songs - 4 hr 15 min
+58 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2000 Black](https://open.spotify.com/track/23IyKrW90Ocw0lrGofQ4l3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:21 | 2025-07-18 |  |
 | [2000 Blacks Got to Be Free \(Edit\)](https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got to Be Free](https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf) | 4:53 | 2025-03-11 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 6:20 | 2025-03-22 |  |
 | [And Don't You Say No](https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 3:23 | 2025-03-11 |  |
@@ -27,7 +28,7 @@
 | [FIND YOUR WINGS \(feat\. Roy Ayers, Sydney Bennett & Kali Uchis\)](https://open.spotify.com/track/7er0EUMY653mxZ1NVD9mwQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Cherry Bomb](https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In) | 2:59 | 2025-03-11 |  |
 | [For Real](https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:50 | 2025-03-11 |  |
 | [Funk in the Hole](https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:36 | 2025-03-11 |  |
-| [Good Vibrations \- Kerri's Mad Mix](https://open.spotify.com/track/4IcB22Vd7pYjqeO3qCgIk0) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Basement, A Red Light, & A Feelin', Vol\. 2](https://open.spotify.com/album/5hzi4K0UmEH0HXDl9Wuca1) | 6:43 | 2025-07-16 |  |
+| [Good Vibrations \- Kerri's Mad Mix](https://open.spotify.com/track/4IcB22Vd7pYjqeO3qCgIk0) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Basement, A Red Light, & A Feelin', Vol\. 2](https://open.spotify.com/album/5hzi4K0UmEH0HXDl9Wuca1) | 6:43 | 2025-07-16 | 2025-07-18 |
 | [Gravity](https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:26 | 2025-03-11 |  |
 | [Gravity \- Instrumental](https://open.spotify.com/track/0dCbGiiBc3Cf1QVtWgcdqE) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Instrumentals JID009](https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09) | 3:26 | 2025-03-11 |  |
 | [Green and Gold](https://open.spotify.com/track/4Y2c8eFEjpo5Su3PYFSZaQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity: Unreleased Recordings 1976 \- 1981](https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU) | 4:52 | 2025-03-11 |  |

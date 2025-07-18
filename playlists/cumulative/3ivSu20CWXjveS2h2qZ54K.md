@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,670 songs - 10 day 18 hr 16 min
+4,674 songs - 10 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1056,6 +1056,7 @@
 | [Delirio](https://open.spotify.com/track/2yieEZhp3n3xTNiqthVaui) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Delirio](https://open.spotify.com/album/5lK4VPMoMSmF10tiBcY9Lp) | 2:05 | 2024-07-05 | 2024-07-13 |
 | [Delirium](https://open.spotify.com/track/36oHQUucnw0fFMsRAu53Vq) | [C Duncan](https://open.spotify.com/artist/0x3sTIYnP56TnL6bbyMU2i) | [Delirium](https://open.spotify.com/album/6mY3OT6twMMcZi7L973YDR) | 3:52 | 2024-11-28 | 2024-12-07 |
 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2024-08-24 | 2024-08-31 |
+| [Delphinium Bliss](https://open.spotify.com/track/6xhjhUQfHJoJgtDukEVNlL) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Delphinium Bliss](https://open.spotify.com/album/5UscHdg9MPF7Kae1sKmtSI) | 5:46 | 2025-07-17 |  |
 | [Delphinium Blue](https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Delphinium Blue](https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8) | 3:37 | 2024-05-17 | 2024-05-25 |
 | [Delulu](https://open.spotify.com/track/62CwvU7KUlvObmiYCMaWSA) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:44 | 2025-02-28 | 2025-03-08 |
 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-09 | 2025-05-17 |
@@ -2679,6 +2680,7 @@
 | [MILK](https://open.spotify.com/track/3xnyA3owEyMqQn5nj7thw5) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [MILK](https://open.spotify.com/album/5ooTnQlUVJfsjSGgeNWMbM) | 3:30 | 2025-07-04 | 2025-07-12 |
 | [MIL€](https://open.spotify.com/track/4fGpsACgmw8a7JDr0cX46o) | [SVSTO](https://open.spotify.com/artist/29gR6mmbb1FG5n2AT3fK8P) | [MIL€](https://open.spotify.com/album/0r2RzQ6P10BONtUNI8YJQc) | 3:43 | 2024-10-23 | 2024-11-09 |
 | [MIMENINA](https://open.spotify.com/track/73piTsKnySi5DVbCnPB29x) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [akaluigi](https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC) | [NOVA BOSSA](https://open.spotify.com/album/5ZEwm6KbZqoOh3WlW0JDNC) | 3:28 | 2025-02-27 | 2025-03-08 |
+| [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 | 2025-07-17 |  |
 | [Mirando por los míos](https://open.spotify.com/track/3Xejy9a8xtEjnlxfMta4jO) | [Sanguijuelas del Guadiana](https://open.spotify.com/artist/1myJQ6hUJMP6cfvwSdjw01) | [Cap\. 3 De Vuelta a las Capitales](https://open.spotify.com/album/6euZhc76UudxHduPJIZDD5) | 3:57 | 2025-03-14 | 2025-03-22 |
 | [Mirarte](https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Mirarte](https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9) | 3:08 | 2024-05-31 | 2024-06-12 |
 | [Miraverahí](https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Se Amaba Así](https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK) | 3:14 | 2025-06-13 | 2025-06-28 |
@@ -2766,6 +2768,7 @@
 | [My My](https://open.spotify.com/track/3YQHOOIbIeL1XVJO4VxlLv) | [Zac Farro](https://open.spotify.com/artist/6QAqHBPOy9Cugos5xLqGT3) | [My My](https://open.spotify.com/album/21LCmyBwBE0NaagVx9UtnE) | 2:11 | 2025-06-27 | 2025-07-05 |
 | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 | 2024-07-11 | 2024-07-19 |
 | [My Serotonin](https://open.spotify.com/track/0KkCQEj9RMsgUfbVnOZzX8) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine](https://open.spotify.com/album/4bJrdorT0Jsg6IF3wNRF5w) | 2:34 | 2024-10-18 | 2024-10-26 |
+| [MY TYPE](https://open.spotify.com/track/3G16TkmTpBp8FyDkgev4Dc) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [MY TYPE / YEA YEA YEA](https://open.spotify.com/album/0uoCtl0pFXqwWD9QwTVVjU) | 3:08 | 2025-07-17 |  |
 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 | 2024-05-03 | 2024-05-18 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-25 | 2025-05-10 |
 | [màgia obscurA](https://open.spotify.com/track/7axaDotHgsdIrTF8DciUa6) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [màgia obscurA](https://open.spotify.com/album/07rhwvRF6PeBQuh3NanUxo) | 2:22 | 2024-12-13 | 2024-12-28 |
@@ -3625,6 +3628,7 @@
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-19 | 2024-07-27 |
 | [Showbiz](https://open.spotify.com/track/7p72POqbvLOG6p0i08p02y) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Freak Show](https://open.spotify.com/album/3MZrZaiEhwp96tdh4QCfIm) | 2:16 | 2024-06-28 | 2024-07-13 |
 | [Shuf \(Adore U\)](https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve 1](https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo) | 3:46 | 2024-08-23 | 2024-08-31 |
+| [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/4Cm7RD603oQOB9vPZm92xx) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/0ysQ9rMzgChnl3Qn2Ofmbu) | 3:15 | 2025-07-17 |  |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 | 2024-06-29 |
 | [SI CIERRO LOS OJOS](https://open.spotify.com/track/2twTMa5rOaCp5Nz3UYVNTk) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR) | [CUANDO LAS SOMBRAS SE ALARGAN](https://open.spotify.com/album/7BXQj2L4NcOXlqHZgnRKN9) | 2:58 | 2024-12-13 | 2024-12-28 |
 | [Si ho deixéssim tot](https://open.spotify.com/track/1mCKeztD2s1FJLRAWw1xVk) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Si ho deixéssim tot](https://open.spotify.com/album/36NofRtzGV8qVJX0YZGlXi) | 2:28 | 2025-03-28 | 2025-04-05 |

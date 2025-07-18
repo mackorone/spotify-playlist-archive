@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 12000,
+      "name": "\"BLUE SKY\"",
+      "url": "https://open.spotify.com/track/4PVOPJEQvEHkfl8eBgYX0B"
+    },
+    {
+      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy"
       },

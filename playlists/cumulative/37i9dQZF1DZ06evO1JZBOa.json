@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 274626,
       "name": "Musica",
       "url": "https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa"
@@ -2742,6 +2742,28 @@
       "duration_ms": 184240,
       "name": "Senga",
       "url": "https://open.spotify.com/track/4DbnSZZzv5DvvqOC4hG14q"
+    },
+    {
+      "album": {
+        "name": "Les plus grands tubes pour faire la f\u00eate",
+        "url": "https://open.spotify.com/album/5teS3Rew78baHD120LfAAm"
+      },
+      "artists": [
+        {
+          "name": "Urban Recall",
+          "url": "https://open.spotify.com/artist/1JbWVXXqimUrZshCMOa20z"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184026,
+      "name": "Shake It Up",
+      "url": "https://open.spotify.com/track/6cfmgoNQyklgCO52f6RHTT"
     },
     {
       "album": {

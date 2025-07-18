@@ -4,7 +4,7 @@
 
 > New music from Drake, Travis Scott and The Clipse.
 
-2,427 songs - 5 day 5 hr 49 min
+2,428 songs - 5 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [100 Shots](https://open.spotify.com/track/1eto1iY3lVWyJhejV6Mi6J) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [100 Shots](https://open.spotify.com/album/2fxiVDAI6kJ8jvlSzeD8VH) | 2:37 | 2020-02-28 | 2020-03-21 |
 | [12 Problems](https://open.spotify.com/track/4CfdeiALUjCNxJ44SHAES9) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [12 Problems](https://open.spotify.com/album/5BrBSC3hVDB0vJCq0o6Ti0) | 2:54 | 2020-09-19 | 2020-10-23 |
 | [120](https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:10 | 2024-09-20 | 2024-11-23 |
+| [1st of Tha Month](https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 5:14 | 2025-07-17 |  |
 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 | 2022-11-18 | 2023-03-11 |
 | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx) | 2:16 | 2022-09-09 | 2022-12-10 |
 | [2 Seater \(feat\. G\-Eazy & Offset\)](https://open.spotify.com/track/57lEOoQ3Szzy1xbF89JBWR) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [2 Seater \(feat\. G\-Eazy & Offset\)](https://open.spotify.com/album/2YpHSARfTV6eCLLKtPLi8O) | 3:49 | 2020-03-20 | 2020-06-06 |

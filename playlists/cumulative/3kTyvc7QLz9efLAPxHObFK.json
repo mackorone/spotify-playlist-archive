@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "ALL MY LIFE",
+        "url": "https://open.spotify.com/album/16vAhe50NocQKrsrsXYTek"
+      },
+      "artists": [
+        {
+          "name": "illuszion",
+          "url": "https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166206,
+      "name": "ALL MY LIFE",
+      "url": "https://open.spotify.com/track/7DBb1ZcFlItvRimzMwGo31"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/1Q0UDwLIQl3Q8mwMqx7jGG"
       },
@@ -2482,6 +2500,24 @@
       "duration_ms": 164210,
       "name": "Back 2 The Rave",
       "url": "https://open.spotify.com/track/0FASAn7UH8MTSFd1TfJ41q"
+    },
+    {
+      "album": {
+        "name": "Back 2 U",
+        "url": "https://open.spotify.com/album/3p2K6YZUiJ7S1NrfphT0rG"
+      },
+      "artists": [
+        {
+          "name": "Namara",
+          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170470,
+      "name": "Back 2 U",
+      "url": "https://open.spotify.com/track/1jy8Bp9W2LtSiLY6jRJCdr"
     },
     {
       "album": {
@@ -3857,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Beat Like a Drugs (HARDTECHNO)",
+        "url": "https://open.spotify.com/album/6h8hIPIfStu33xxQYTK0tD"
+      },
+      "artists": [
+        {
+          "name": "Sghenny",
+          "url": "https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Beat Like a Drugs (HARDTECHNO)",
+      "url": "https://open.spotify.com/track/2X7ukGE1Z2K4Bfy2sW6Fdk"
+    },
+    {
+      "album": {
         "name": "Beat Of The Drum",
         "url": "https://open.spotify.com/album/6uhqXqtlxqvJGVFq6Y6Lfp"
       },
@@ -4586,6 +4640,24 @@
       "duration_ms": 123793,
       "name": "Blade",
       "url": "https://open.spotify.com/track/2isnaiDHWbfeBxDCX2IFgs"
+    },
+    {
+      "album": {
+        "name": "Blast",
+        "url": "https://open.spotify.com/album/3sC8aMf9rgGHq6LSV2U6U9"
+      },
+      "artists": [
+        {
+          "name": "Tharoza",
+          "url": "https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113143,
+      "name": "Blast",
+      "url": "https://open.spotify.com/track/5NPYPmaFGDg2xWKkT0gjFr"
     },
     {
       "album": {
@@ -17027,6 +17099,28 @@
     },
     {
       "album": {
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/72zyPiYPCtgYpceBVoHiXF"
+      },
+      "artists": [
+        {
+          "name": "Eraized",
+          "url": "https://open.spotify.com/artist/0VEjc5A4klmwhWVMjLLJPD"
+        },
+        {
+          "name": "Roosterz",
+          "url": "https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155710,
+      "name": "Generation",
+      "url": "https://open.spotify.com/track/7vpldfBfgkpTxMpy7yJACM"
+    },
+    {
+      "album": {
         "name": "Generavers",
         "url": "https://open.spotify.com/album/0MoBA9jfilDabb6JZ9DqaF"
       },
@@ -17854,6 +17948,32 @@
       "duration_ms": 132000,
       "name": "Go Dumb",
       "url": "https://open.spotify.com/track/7on9Bi5AHqjV1Zjc68ucQu"
+    },
+    {
+      "album": {
+        "name": "GO FAST",
+        "url": "https://open.spotify.com/album/0p5VeDsPSQVYadqFwOZbZh"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Invaderz",
+          "url": "https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD"
+        },
+        {
+          "name": "MC Pez",
+          "url": "https://open.spotify.com/artist/2mJl47Ubcj6PS9tovXs4dK"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158017,
+      "name": "GO FAST",
+      "url": "https://open.spotify.com/track/0gIJWyEYUVgaW6Umrw076G"
     },
     {
       "album": {
@@ -31603,6 +31723,24 @@
     },
     {
       "album": {
+        "name": "ONCE AGAIN",
+        "url": "https://open.spotify.com/album/1y2e4VlJkdvdePNn9uUnpj"
+      },
+      "artists": [
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "ONCE AGAIN",
+      "url": "https://open.spotify.com/track/128W04flE88BIvGjJiikZ8"
+    },
+    {
+      "album": {
         "name": "Once Upon A Time (Full Velocity Anthem 2025)",
         "url": "https://open.spotify.com/album/3KvK1AX8G1QnsINmDc20wb"
       },
@@ -34491,6 +34629,32 @@
     },
     {
       "album": {
+        "name": "R.F.U. (Official REBELLiON Outdoor 2025 Anthem)",
+        "url": "https://open.spotify.com/album/6w4lWeKSrISMuPkBA2MZpM"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Max Alexander",
+          "url": "https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH"
+        },
+        {
+          "name": "MC Livid",
+          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187117,
+      "name": "R.F.U. - Official REBELLiON Outdoor 2025 Anthem",
+      "url": "https://open.spotify.com/track/5TJxu1KQWzxgu3xSsELCPa"
+    },
+    {
+      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/6PKMpAsQ2SJ0jTkKfjsmG2"
       },
@@ -35875,6 +36039,28 @@
     },
     {
       "album": {
+        "name": "Rest of my Life",
+        "url": "https://open.spotify.com/album/7zmB4ackwPCjb5oKuxzk6a"
+      },
+      "artists": [
+        {
+          "name": "Reflexx",
+          "url": "https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0"
+        },
+        {
+          "name": "TerrorClown",
+          "url": "https://open.spotify.com/artist/4zL9MTFtg43EJgwarYpPAz"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188268,
+      "name": "Rest of my Life",
+      "url": "https://open.spotify.com/track/1QYGM34OWNibgLNvMwFhcO"
+    },
+    {
+      "album": {
         "name": "Restart",
         "url": "https://open.spotify.com/album/0n0Gj2tz4PYnejuRu7Z1cW"
       },
@@ -36227,6 +36413,28 @@
     },
     {
       "album": {
+        "name": "Right Here Right Now",
+        "url": "https://open.spotify.com/album/0n54CrvnIoGrGQrOdQwtle"
+      },
+      "artists": [
+        {
+          "name": "Jakka-B",
+          "url": "https://open.spotify.com/artist/2jVj0crTzkmBmxsBXkQaM8"
+        },
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/1r8BjtvadjioKgI2oRjiRT"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159882,
+      "name": "Right Here Right Now",
+      "url": "https://open.spotify.com/track/2FVuMRu5C42zjhl58tUfGa"
+    },
+    {
+      "album": {
         "name": "Right Here Waiting",
         "url": "https://open.spotify.com/album/0eKYyBLHCxJklKCwqivRMa"
       },
@@ -36460,6 +36668,28 @@
       "duration_ms": 121900,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6FmYeSqcQfEzsFPkTeAckw"
+    },
+    {
+      "album": {
+        "name": "BOOMYAY",
+        "url": "https://open.spotify.com/album/63pZmJoj3ERRy4rRbKxPSA"
+      },
+      "artists": [
+        {
+          "name": "Ender",
+          "url": "https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw"
+        },
+        {
+          "name": "Hard Instruction",
+          "url": "https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139071,
+      "name": "ROCKTEMPO",
+      "url": "https://open.spotify.com/track/1W7HySlHWBhRsIeQwtmCGx"
     },
     {
       "album": {
@@ -37986,6 +38216,28 @@
       "duration_ms": 234679,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/7t7PoSc8XOfRTxtBjlnIAG"
+    },
+    {
+      "album": {
+        "name": "Showtime (feat. Negoto Bunnyla)",
+        "url": "https://open.spotify.com/album/2x7QXAdnl9fiZZi1sU4ETf"
+      },
+      "artists": [
+        {
+          "name": "RiraN",
+          "url": "https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2"
+        },
+        {
+          "name": "Negoto Bunnyla",
+          "url": "https://open.spotify.com/artist/5fuQZCp37eIOQdTUCJElMr"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194117,
+      "name": "Showtime (feat. Negoto Bunnyla)",
+      "url": "https://open.spotify.com/track/6gqUTqMRO0Dx9i4tpTEJIN"
     },
     {
       "album": {
@@ -39982,6 +40234,24 @@
       "duration_ms": 218550,
       "name": "Summertime Memories",
       "url": "https://open.spotify.com/track/7lxv05rYNTl74XZhYwtsat"
+    },
+    {
+      "album": {
+        "name": "Sun on My Mind",
+        "url": "https://open.spotify.com/album/33lPG4siXwnr2i4xy9IANO"
+      },
+      "artists": [
+        {
+          "name": "Ephoric",
+          "url": "https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165677,
+      "name": "Sun on My Mind",
+      "url": "https://open.spotify.com/track/41MjHqkJZZV2gSEKedCtj6"
     },
     {
       "album": {
@@ -44243,6 +44513,28 @@
     },
     {
       "album": {
+        "name": "Trip to Italia",
+        "url": "https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214200,
+      "name": "Trip to Italia",
+      "url": "https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9"
+    },
+    {
+      "album": {
         "name": "Rave Therapy",
         "url": "https://open.spotify.com/album/6LHiJy9NdPEiu37X1qxT3u"
       },
@@ -45403,6 +45695,24 @@
     },
     {
       "album": {
+        "name": "Uptempo Temple",
+        "url": "https://open.spotify.com/album/3PlGmPioKKTMVPSql5pNk8"
+      },
+      "artists": [
+        {
+          "name": "Kickdown",
+          "url": "https://open.spotify.com/artist/4qUiWm8m64r7UAdlirKZS9"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Uptempo Temple",
+      "url": "https://open.spotify.com/track/7igJH3PKFaTs6sEIB80SPT"
+    },
+    {
+      "album": {
         "name": "collab_ep_2.wav",
         "url": "https://open.spotify.com/album/2e6mdjeU18oC0GEJxKJt3m"
       },
@@ -46048,6 +46358,24 @@
       "duration_ms": 135000,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/1cC4jQtZHsQ4NmXgsAramJ"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/4dJLxIcSfDBY4dgJzEEozp"
+      },
+      "artists": [
+        {
+          "name": "Screecher",
+          "url": "https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210734,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1UQZJMrTPrPfIEFhzRBJlS"
     },
     {
       "album": {
@@ -47569,6 +47897,28 @@
     },
     {
       "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/6EdkAcvSRAqg9s9LRxqq4k"
+      },
+      "artists": [
+        {
+          "name": "Fracus & Darwin",
+          "url": "https://open.spotify.com/artist/07VU01S53IQXG9yXvqRKeL"
+        },
+        {
+          "name": "Vinylgroover",
+          "url": "https://open.spotify.com/artist/73tpnr17htHxmmACNtwkHs"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193343,
+      "name": "Wherever I Go - Arena Mix",
+      "url": "https://open.spotify.com/track/4n97aIEoZADyvDg87Kl46s"
+    },
+    {
+      "album": {
         "name": "WHIP IT",
         "url": "https://open.spotify.com/album/7Ls7YAiDWnSYmofTbbe4LU"
       },
@@ -48190,6 +48540,24 @@
       "duration_ms": 184200,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/00z6dNGTfgR2CuRRzCsdWG"
+    },
+    {
+      "album": {
+        "name": "WON\u2019T STOP",
+        "url": "https://open.spotify.com/album/5QKDYSsYVAtizOUjjBO3ZR"
+      },
+      "artists": [
+        {
+          "name": "Water Spirit",
+          "url": "https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305032,
+      "name": "WON\u2019T STOP",
+      "url": "https://open.spotify.com/track/5RIZ6DB3McM7sCN2SLmAsA"
     },
     {
       "album": {

@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "1992",
+        "url": "https://open.spotify.com/album/2Xqzqo7HcW762Is2cp9PbK"
+      },
+      "artists": [
+        {
+          "name": "Medberg",
+          "url": "https://open.spotify.com/artist/3qrpnEUKcDuV7MoR4gzyXf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207874,
+      "name": "1992",
+      "url": "https://open.spotify.com/track/3NtOai6D2wJnkrKv7Kv288"
+    },
+    {
+      "album": {
         "name": "Wind Down",
         "url": "https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON"
       },
@@ -2336,6 +2354,24 @@
       "duration_ms": 293097,
       "name": "Bosco Lisergico",
       "url": "https://open.spotify.com/track/6EzfZhot2CjkWmF5aZVNMm"
+    },
+    {
+      "album": {
+        "name": "Brand Blvd",
+        "url": "https://open.spotify.com/album/1kvOOTA97CyACYKp0VypX6"
+      },
+      "artists": [
+        {
+          "name": "RamonPang",
+          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254538,
+      "name": "Brand Blvd",
+      "url": "https://open.spotify.com/track/6sNGEPiyxsdvJOeukUG7lQ"
     },
     {
       "album": {
@@ -11700,7 +11736,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 244251,
       "name": "Need U",
       "url": "https://open.spotify.com/track/6W9OSgRWeBqulK20rvWqDp"
@@ -12282,7 +12318,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 335253,
       "name": "NOVEMBRE13_",
       "url": "https://open.spotify.com/track/1iMvxadzH2UWvBwRwq0ikq"
@@ -15705,6 +15741,24 @@
     },
     {
       "album": {
+        "name": "GULP",
+        "url": "https://open.spotify.com/album/1kBPEN3NIVwjdmIjjNk9vB"
+      },
+      "artists": [
+        {
+          "name": "Facta",
+          "url": "https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Skyline 4",
+      "url": "https://open.spotify.com/track/0NPc0aoXeit86d258AxRqw"
+    },
+    {
+      "album": {
         "name": "Senses",
         "url": "https://open.spotify.com/album/0ALxr1bwap4ptl8rjpLNop"
       },
@@ -15814,7 +15868,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 251500,
       "name": "slice - Gold Panda Remix",
       "url": "https://open.spotify.com/track/2OrqhbF4qjcSki327nFA3l"
@@ -18397,6 +18451,24 @@
     },
     {
       "album": {
+        "name": "through the sky window",
+        "url": "https://open.spotify.com/album/5lhwalYoAsazRYDCkWIV3y"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Mister Ox",
+          "url": "https://open.spotify.com/artist/40KrQHHR8AJy3rAHcvbWgn"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248421,
+      "name": "through the sky window",
+      "url": "https://open.spotify.com/track/0linWOAdLg8Og74POchDcS"
+    },
+    {
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV"
       },
@@ -19566,7 +19638,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 247559,
       "name": "Waiting on You",
       "url": "https://open.spotify.com/track/2d0YkF9qWbyqoNjarHSF1R"

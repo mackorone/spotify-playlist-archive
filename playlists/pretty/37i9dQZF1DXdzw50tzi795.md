@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Only Monday
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Z9
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,590 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,718 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
-| 2 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
-| 3 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
-| 4 | [ยอมอยู่แล้ว \(feat\. ปั๊บ Potato\)](https://open.spotify.com/track/4WqM7sGHLOdZasaunLPzLG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A), [ปั๊บ Potato](https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ) | [Hotel Room 302](https://open.spotify.com/album/1BOeIQN7MNNVhtgRlUvHKZ) | 4:20 |
+| 1 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
+| 2 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
+| 3 | [Like Damn](https://open.spotify.com/track/4wlmpwdyng4B4bObMnP3OS) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [The BESTS](https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE) | [Like Damn](https://open.spotify.com/album/1GBsH8MY0SQY2BL9O6lafz) | 2:29 |
+| 4 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
 | 5 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
 | 6 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 |
-| 7 | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/track/0Vx23Np7HAjaQIttqOAUPR) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg) | 5:38 |
-| 8 | [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 |
-| 9 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 10 | [วิงวอน \(ex\-change\)](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
-| 11 | [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 |
-| 12 | [Like Damn](https://open.spotify.com/track/4wlmpwdyng4B4bObMnP3OS) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [The BESTS](https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE) | [Like Damn](https://open.spotify.com/album/1GBsH8MY0SQY2BL9O6lafz) | 2:29 |
+| 7 | [ยอมอยู่แล้ว \(feat\. ปั๊บ Potato\)](https://open.spotify.com/track/4WqM7sGHLOdZasaunLPzLG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A), [ปั๊บ Potato](https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ) | [Hotel Room 302](https://open.spotify.com/album/1BOeIQN7MNNVhtgRlUvHKZ) | 4:20 |
+| 8 | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/track/0Vx23Np7HAjaQIttqOAUPR) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg) | 5:38 |
+| 9 | [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 |
+| 10 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
+| 11 | [วิงวอน \(ex\-change\)](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
+| 12 | [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 |
 | 13 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 |
 | 14 | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r) | [Jigsaw Story](https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv), [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/album/6R6wGeqTE7snGX2qR0ckHs) | 3:33 |
 | 15 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 |
 | 50 | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/track/1lM2KWbk6nWKYq7qbMRcsb) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/album/7wZ6cdyUeqn86acl7dyMwR) | 5:16 |
 
-Snapshot ID: `aHX77gAAAAAvqcV0XZwXDSNDYVZaCB2P`
+Snapshot ID: `aHk+lQAAAACnCVBbdjphk9hGLFq8725o`

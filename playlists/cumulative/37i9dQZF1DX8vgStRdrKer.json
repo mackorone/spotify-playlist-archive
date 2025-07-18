@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-19",
-  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=6j4C8WSDTUy9023842Y1Sg>Abbey Ojomu</a>",
+  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=_Bm2yIUuTyuvKe816A31UQ>Onos</a>",
   "name": "Redeemed",
   "tracks": [
     {
@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Cover",
+        "url": "https://open.spotify.com/album/392l0KmuYidDRk1hWj6MLb"
+      },
+      "artists": [
+        {
+          "name": "Dreysoundz",
+          "url": "https://open.spotify.com/artist/5sKjzxyzZqoIQUeOmurlt3"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142263,
+      "name": "Cover",
+      "url": "https://open.spotify.com/track/00V5KwnC0MQaZB7CCpfXjN"
+    },
+    {
+      "album": {
         "name": "Cover me",
         "url": "https://open.spotify.com/album/3MHgnwu3BJY5aKnivu0T1C"
       },
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 166931,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4CglhA8nkW5AYHaZfKPUnH"
@@ -4638,7 +4656,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 276650,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/3jmhduNlWjLP5WFAVGnBFA"
@@ -4686,6 +4704,28 @@
       "duration_ms": 255384,
       "name": "Jesus Oh",
       "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
+    },
+    {
+      "album": {
+        "name": "Adoration",
+        "url": "https://open.spotify.com/album/3YK4Pkalw9PrD92s6Kmjdk"
+      },
+      "artists": [
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        },
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393856,
+      "name": "Jesus Reigns (Remix) (feat. Khaya Mthethwa)",
+      "url": "https://open.spotify.com/track/2ghE8KoNrcqUUTBERLTdQP"
     },
     {
       "album": {

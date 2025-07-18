@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-202 songs - 11 hr 28 min
+203 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bhagavan Rap](https://open.spotify.com/track/1UPPDUrCYljlxigBScBWdY) | [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI), [Rajeev Tha Prophecy](https://open.spotify.com/artist/0aeDdf5VxXJ5J5EIDvPJr3) | [Aadhi Bhagavan](https://open.spotify.com/album/3hBtdA6JRSFzEGjOM11ZDm) | 3:42 | 2022-02-08 | 2023-11-11 |
 | [Bhagavan Rap](https://open.spotify.com/track/5wPZVAdagsB8TbSamfOGst) | [The Prophecy](https://open.spotify.com/artist/7fh9y8rqcWSY09PWjEUgnN), [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI) | [Aadhi Bhagavan](https://open.spotify.com/album/2Spqg3Ga3uiCcVhouI37Uu) | 3:42 | 2022-02-08 | 2025-01-10 |
 | [Big Fan Bro \- From "Flop"](https://open.spotify.com/track/1g3rLnZLWJ4LxB5MvwAx1a) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Chamel](https://open.spotify.com/artist/3CxWy4iGC6kroPPEbuVlDL) | [Big Fan Bro \(From "Flop"\)](https://open.spotify.com/album/1QEd3GnQAmxBxdIeBP3AFg) | 2:30 | 2025-01-10 | 2025-02-22 |
+| [Big Shot](https://open.spotify.com/track/5KWxCwqlUYSf5X7SlDyW9q) | [RAK](https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT), [Cisko Disco](https://open.spotify.com/artist/31EYpybl0cnGRE6Bb5a2sM) | [Big Shot](https://open.spotify.com/album/3L08s7zuLLWWoq6sENR7QT) | 2:53 | 2025-07-17 |  |
 | [Bomb](https://open.spotify.com/track/6syzSDbSILQDoRBsjcFWmR) | [Jeruson](https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss) | [Bomb](https://open.spotify.com/album/3Y3cRb0PDi1okh0yLMZpCC) | 1:01 | 2025-03-22 | 2025-05-17 |
 | [Boom Boom](https://open.spotify.com/track/6dqGbIiIVd4R6Y9V6PK37R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Premgi](https://open.spotify.com/artist/0p0l6CNMWVPN7BRJbjt0Ye), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Joytsna](https://open.spotify.com/artist/5JBsI8843fA4h2YActpbUd) | [Raam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7rAGXwE4JbyOqJgl4TULFi) | 4:36 | 2022-02-08 | 2025-02-01 |
 | [Boom Boom](https://open.spotify.com/track/3grlUawHZ70GY9gUWzbkfr) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Joytsna](https://open.spotify.com/artist/5JBsI8843fA4h2YActpbUd) | [Raam](https://open.spotify.com/album/4DXtEUHsdft8M7A2UbI01I) | 4:36 | 2022-02-08 | 2024-04-19 |

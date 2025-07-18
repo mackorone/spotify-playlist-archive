@@ -873,6 +873,28 @@
     },
     {
       "album": {
+        "name": "DEWJI 2",
+        "url": "https://open.spotify.com/album/5xhAyxatrOLYDBKkGSN6KK"
+      },
+      "artists": [
+        {
+          "name": "Rapcha",
+          "url": "https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa"
+        },
+        {
+          "name": "Mapanch BMB",
+          "url": "https://open.spotify.com/artist/1kKifnEoW0iRzvk3qDFXpg"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "DEWJI 2",
+      "url": "https://open.spotify.com/track/1Qy19oRYbINvEwo5INDNzO"
+    },
+    {
+      "album": {
         "name": "DROP IT",
         "url": "https://open.spotify.com/album/15ctfYgSx4gQ42JwuPPkW9"
       },
@@ -4294,6 +4316,52 @@
       "duration_ms": 162474,
       "name": "So High",
       "url": "https://open.spotify.com/track/1XzjqXtFVheynh51nt2n6Y"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/7ovWCxvtk7vAkLcOhLGpEp"
+      },
+      "artists": [
+        {
+          "name": "Manengo",
+          "url": "https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS"
+        },
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        },
+        {
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/5oNEJIZyXIfzVhOV8TC9Ok"
+        },
+        {
+          "name": "Moni Centrozone",
+          "url": "https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ"
+        },
+        {
+          "name": "Nacha",
+          "url": "https://open.spotify.com/artist/6vs2JKdlVLKV6S8HOpvQPx"
+        },
+        {
+          "name": "P Mawenge",
+          "url": "https://open.spotify.com/artist/6McmD7aGRlEnhQnHfR0ZmC"
+        },
+        {
+          "name": "Nyandu Tozzy",
+          "url": "https://open.spotify.com/artist/2ufAg7fIpFoEw1fsaAS491"
+        },
+        {
+          "name": "Jay Rox",
+          "url": "https://open.spotify.com/artist/2YcJC1hnLjOIvNN3naeAlG"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453340,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2FE0fU7KgrCmcb1GvWEOSH"
     },
     {
       "album": {

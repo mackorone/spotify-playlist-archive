@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BUS",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ATLAS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -2591,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Our Night (Ost. \u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series)",
+        "url": "https://open.spotify.com/album/7rLyQk8MYOxriUcL2sMOvU"
+      },
+      "artists": [
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177999,
+      "name": "Our Night - Ost. \u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series",
+      "url": "https://open.spotify.com/track/0zWwwgSpuCyNMqUwy4EzjE"
+    },
+    {
+      "album": {
         "name": "Paint It Pink",
         "url": "https://open.spotify.com/album/5QGPsUBKGd1mKbrO0ktPUq"
       },
@@ -2642,6 +2660,28 @@
       "duration_ms": 163200,
       "name": "Peek",
       "url": "https://open.spotify.com/track/2bcfJ1aSghqIDwA4corfW2"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/5p3Jnt2oeoYnBsiGB3Nouq"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        },
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3wpyleeYFfRIiYByecGeUW"
     },
     {
       "album": {
@@ -3408,6 +3448,24 @@
       "duration_ms": 264566,
       "name": "TRAP U",
       "url": "https://open.spotify.com/track/5kHdaxW4aC2iTu6rhz7ocV"
+    },
+    {
+      "album": {
+        "name": "TRUST ISSUES (\u0e44\u0e27\u0e49\u0e43\u0e08\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27)",
+        "url": "https://open.spotify.com/album/3WO9K53LaU4UZMm23zFCUq"
+      },
+      "artists": [
+        {
+          "name": "DIDIxDADA",
+          "url": "https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "TRUST ISSUES (\u0e44\u0e27\u0e49\u0e43\u0e08\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27)",
+      "url": "https://open.spotify.com/track/6TLLoXCwSdWC34nd2sxltS"
     },
     {
       "album": {
@@ -4774,7 +4832,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 180000,
       "name": "\u0e04\u0e32\u0e16\u0e32\u0e2b\u0e32\u0e40\u0e18\u0e2d (Horogals)",
       "url": "https://open.spotify.com/track/4SatXpXNJu3T4AHlbNQ4Ei"
@@ -4846,7 +4904,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 225882,
       "name": "\u0e04\u0e34\u0e14\u0e04\u0e34\u0e14 (Let me know)",
       "url": "https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC"
@@ -6087,6 +6145,24 @@
     },
     {
       "album": {
+        "name": "\u0e15\u0e25\u0e01\u0e23\u0e49\u0e32\u0e22 (Bad Comedy)",
+        "url": "https://open.spotify.com/album/2wi2wQnnBKSnVgyJtCmPCH"
+      },
+      "artists": [
+        {
+          "name": "ATLAS",
+          "url": "https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170833,
+      "name": "\u0e15\u0e25\u0e01\u0e23\u0e49\u0e32\u0e22 (Bad Comedy)",
+      "url": "https://open.spotify.com/track/2lkLuNr0EStdud0Hxxt55L"
+    },
+    {
+      "album": {
         "name": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22 (Hurry Sickness)",
         "url": "https://open.spotify.com/album/1pbWJ8pYHN41tc2DxQUuNS"
       },
@@ -6218,6 +6294,24 @@
       "duration_ms": 196896,
       "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19",
       "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e0b\u0e30\u0e01\u0e48\u0e2d\u0e19 (Sweet Baby)",
+        "url": "https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv"
+      },
+      "artists": [
+        {
+          "name": "Jaonaay",
+          "url": "https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e0b\u0e30\u0e01\u0e48\u0e2d\u0e19 (Sweet Baby)",
+      "url": "https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1"
     },
     {
       "album": {
@@ -6442,7 +6536,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 271285,
       "name": "\u0e16\u0e49\u0e32\u0e04\u0e19\u0e08\u0e30\u0e43\u0e0a\u0e48 (\u0e21\u0e31\u0e19\u0e43\u0e0a\u0e48\u0e44\u0e1b\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27)",
       "url": "https://open.spotify.com/track/1wTRpzquoCMqL7u132d7Pq"
@@ -7024,7 +7118,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 186666,
       "name": "\u0e19\u0e34\u0e23\u0e32\u0e28\u0e23\u0e31\u0e01\u0e40\u0e2d\u0e22 (Farewell)",
       "url": "https://open.spotify.com/track/2FrrpvhvuPfmbM4X958MvV"
@@ -12892,7 +12986,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 298014,
       "name": "\u0e43\u0e08\u0e2b\u0e25\u0e48\u0e19 (Ruined) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
       "url": "https://open.spotify.com/track/3eU8rU2yr6GFhR6gpWhNBA"

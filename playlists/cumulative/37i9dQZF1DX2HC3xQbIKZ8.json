@@ -1857,6 +1857,32 @@
     },
     {
       "album": {
+        "name": "Live It Up (with The Green)",
+        "url": "https://open.spotify.com/album/4fbFr9FJOTgMzlan4aafxA"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "Caleb Keolanui",
+          "url": "https://open.spotify.com/artist/345FKO0Dl42vNEtdgmCJzk"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "Live It Up (with The Green)",
+      "url": "https://open.spotify.com/track/5rJ067XuSGQEzmfADL2RSN"
+    },
+    {
+      "album": {
         "name": "Love Is All We Need",
         "url": "https://open.spotify.com/album/6IUVVQqYJTZQOQ3Iex2MGS"
       },

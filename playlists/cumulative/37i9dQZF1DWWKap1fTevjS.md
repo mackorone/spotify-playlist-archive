@@ -4,12 +4,12 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-846 songs - 1 day 17 hr 5 min
+848 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [417 Hz Universal Connection](https://open.spotify.com/track/2HDiVxgo4sVBVVrn0mq7Jm) | [Whispering Zephyr](https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux) | [417 Hz Universal Connection](https://open.spotify.com/album/2dnm0nbaI7inyT7QbnH8Dc) | 3:07 | 2024-04-05 |  |
-| [432 Hz Dulces Sueño](https://open.spotify.com/track/7zKQgqTg2BbfLhvFmfYMyM) | [Ecos del Reposo](https://open.spotify.com/artist/1JMxQ95ZvQ3wjwN5Rv2QNP) | [432 Hz Dulces Sueño](https://open.spotify.com/album/7hjprXef1Dplj8abEmbI0U) | 3:04 | 2024-06-18 |  |
+| [432 Hz Dulces Sueño](https://open.spotify.com/track/7zKQgqTg2BbfLhvFmfYMyM) | [Ecos del Reposo](https://open.spotify.com/artist/1JMxQ95ZvQ3wjwN5Rv2QNP) | [432 Hz Dulces Sueño](https://open.spotify.com/album/7hjprXef1Dplj8abEmbI0U) | 3:04 | 2024-06-18 | 2025-07-18 |
 | [A fleeting dream](https://open.spotify.com/track/1ep1736DQmQJIgv294Zgwi) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [A fleeting dream](https://open.spotify.com/album/4INiB9gRGZtemmsbmPJk8L) | 3:09 | 2024-07-09 |  |
 | [A Glowing Sun](https://open.spotify.com/track/0n0jNfeCWUwpfoCT8p0Fg8) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [A Glowing Sun](https://open.spotify.com/album/5Qp1ZVfDcWPuE9uz2PX88a) | 2:26 | 2024-02-08 | 2024-03-21 |
 | [A Illa](https://open.spotify.com/track/2VTvUT7mn0fEh39q5yh0KW) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [A Illa](https://open.spotify.com/album/3IEHeEPfmdzzFzTmT2FNWK) | 3:22 | 2023-10-20 | 2024-02-09 |
@@ -20,7 +20,7 @@
 | [A Sky Inside](https://open.spotify.com/track/0JAo9MefKP0TdcklH2BBRL) | [Starfield Echo](https://open.spotify.com/artist/4rEMs74XRhiHTEycuIVyAh) | [A Sky Inside](https://open.spotify.com/album/4p4i5aXparmdP3ZJYL2Hbd) | 2:55 | 2025-07-09 |  |
 | [A Special Place](https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [A Special Place](https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB) | 2:26 | 2024-07-09 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2023-10-20 | 2024-02-09 |
-| [Ability to Observe](https://open.spotify.com/track/6Uk1BcHkEnyrjif1u5QeVB) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Ability to Observe](https://open.spotify.com/album/4Et5trmywSRl9256SDr5Nf) | 3:14 | 2024-03-20 |  |
+| [Ability to Observe](https://open.spotify.com/track/6Uk1BcHkEnyrjif1u5QeVB) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Ability to Observe](https://open.spotify.com/album/4Et5trmywSRl9256SDr5Nf) | 3:14 | 2024-03-20 | 2025-07-18 |
 | [Above](https://open.spotify.com/track/4uoHgmUJsuMVMS7sPUaO4a) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Above](https://open.spotify.com/album/32nAgDpHWd7fan3Q4115SQ) | 2:47 | 2025-01-08 | 2025-04-10 |
 | [Above Us](https://open.spotify.com/track/6bZHe7cY3zW5BQsujcbdku) | [Beloved More](https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8) | [Above Us](https://open.spotify.com/album/1KrLvsO5sD7EgAvjE9wxDP) | 2:58 | 2024-12-17 | 2025-02-15 |
 | [abundance](https://open.spotify.com/track/2ql3MvEcsA946YC2Ob0sQc) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [abundance](https://open.spotify.com/album/4cjm7LC3n8iypOqeDO7yzO) | 2:44 | 2024-07-09 | 2025-01-23 |
@@ -740,6 +740,7 @@
 | [Still And Calm](https://open.spotify.com/track/01LxVoyk6e42ifx6gFZB0C) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [Still And Calm](https://open.spotify.com/album/62BOhkDJRSeyiwnrWf1QGB) | 3:06 | 2024-02-08 | 2024-03-21 |
 | [Still Night](https://open.spotify.com/track/7yBHqccP3VHJTp6gvGm4tb) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Still Night](https://open.spotify.com/album/1I4JE8UxNFwCnM3voFRq8i) | 2:57 | 2025-02-14 |  |
 | [Stillness of Mind](https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:08 | 2023-10-20 | 2024-02-09 |
+| [Stillwater](https://open.spotify.com/track/6GdxSpl3FY43E6IkHEpWrU) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [Stillwater](https://open.spotify.com/album/7DUldEFJ5S2zN00a3RpmKi) | 2:40 | 2025-07-17 |  |
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2023-10-20 | 2024-02-09 |
 | [Storm](https://open.spotify.com/track/1VRfy2xysk0ekJQboMPGEr) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Storm](https://open.spotify.com/album/2bbVxJefZu3V3zsJdnA2FU) | 2:36 | 2024-02-08 | 2024-07-16 |
 | [Stress Reliever](https://open.spotify.com/track/5y6Cy93KwBgAuL2Il5YXN7) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Stress Reliever](https://open.spotify.com/album/2hezA7VkyAiKBzUrXGpB3k) | 3:10 | 2024-06-18 | 2024-07-16 |
@@ -829,6 +830,7 @@
 | [Waves in Space](https://open.spotify.com/track/5Koyh28MrUGgBKCNz8BXvu) | [Spacewaves](https://open.spotify.com/artist/6uYUVrY7fY9B99v4uEqWvZ) | [Asterism](https://open.spotify.com/album/2bOfrSmQlFUl2WYMckL1n7) | 3:10 | 2023-10-20 | 2024-02-09 |
 | [Waves of Eternity](https://open.spotify.com/track/4rin1uFnoE4y6NhM2YQylb) | [Tranquil Nova](https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY) | [Waves of Eternity](https://open.spotify.com/album/2msrHKpBqJ4BGr1Vs4yEH9) | 2:40 | 2025-01-08 |  |
 | [Weightless Dreams](https://open.spotify.com/track/3ruyqcT2OOhu1RjNRxdvt5) | [Moon Lit](https://open.spotify.com/artist/75jx9HI2w6eOB1ZcWLky5D) | [Weightless Dreams](https://open.spotify.com/album/3d2qBapHwvc0BVRDzyicWL) | 3:13 | 2025-06-25 |  |
+| [Weightless Hours](https://open.spotify.com/track/0co6X6NlJx2knESquaPjnS) | [Dreamhaven](https://open.spotify.com/artist/2LzHq1MhzyPCKQnzfk1R5Z) | [Weightless Hours](https://open.spotify.com/album/0CW9ihaepJWNxQci3niiHr) | 2:35 | 2025-07-17 |  |
 | [West End](https://open.spotify.com/track/0ksnXmC80iQhmGHBbvxhyt) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Wings](https://open.spotify.com/album/6PKDTP1CGwVP27ERSpD9Fe) | 2:15 | 2023-10-20 | 2024-02-09 |
 | [When The Day Fades](https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [When The Day Fades](https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4) | 2:31 | 2024-02-27 | 2024-03-21 |
 | [When We Touch](https://open.spotify.com/track/6QNrpzKEYLzQsBqQQphfue) | [Rain Wonder](https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36) | [Into the Night](https://open.spotify.com/album/7wlueDU2PxSRaEUbf9dXMl) | 2:05 | 2023-10-20 | 2024-02-28 |

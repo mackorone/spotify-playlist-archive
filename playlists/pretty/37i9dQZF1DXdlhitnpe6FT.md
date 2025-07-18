@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,474 likes - 115 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,608 likes - 115 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 58 | [Ravel's Bolero](https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x) | [Ferrante & Teicher](https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB) | [The Ferrante & Teicher Collection](https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV) | 6:43 |
 | 59 | [Autumn Leaves \- Live At Town Hall, New York/1960](https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Roger Williams Greatest Hits](https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i) | 3:01 |
 | 60 | [Wheels](https://open.spotify.com/track/7GKP7S8RolxzYC7qmvWn4k) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Smooth Jazz](https://open.spotify.com/album/3YsZrPFpoRt9Q58FEpFkxo) | 2:04 |
-| 61 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
-| 62 | [Java](https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Greatest Hits](https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB) | 1:56 |
+| 61 | [Java](https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Greatest Hits](https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB) | 1:56 |
+| 62 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
 | 63 | [Mélissa \(de "Bilitis"\)](https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Collection Francis Lai: Erotique, Vol\. 3 \(Bandes originales de films\)](https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V) | 4:39 |
 | 64 | [Aria on Air](https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [16 Joyas Del New Age](https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto) | 3:48 |
 | 65 | [The Approaching Storm](https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg) | [Kristin Amarie](https://open.spotify.com/artist/0lhOm4jmoIIpcz37f8GTuK), [David Lanz](https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c) | [Norwegian Rain](https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B) | 4:53 |

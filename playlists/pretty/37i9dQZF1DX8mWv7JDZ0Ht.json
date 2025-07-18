@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Luccas Carlos",
-  "num_followers": 437833,
+  "num_followers": 437830,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "\u00d3rbitas",
-        "url": "https://open.spotify.com/album/3i6Iaw3fUGfsczN2Q2phAu"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "Infinito Particular",
-      "url": "https://open.spotify.com/track/5QODT6XGiYRmrVh4MyuUM6"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "tonteira",
         "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "ANEMOIA",
-        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
+        "name": "\u00d3rbitas",
+        "url": "https://open.spotify.com/album/3i6Iaw3fUGfsczN2Q2phAu"
       },
       "artists": [
         {
-          "name": "Marina Gold",
-          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
         }
       ],
-      "duration_ms": 212234,
-      "name": "ROSA",
-      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
+      "duration_ms": 225714,
+      "name": "Infinito Particular",
+      "url": "https://open.spotify.com/track/5QODT6XGiYRmrVh4MyuUM6"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -615,6 +599,22 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
+        "name": "ANEMOIA",
+        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
+      },
+      "artists": [
+        {
+          "name": "Marina Gold",
+          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+        }
+      ],
+      "duration_ms": 212234,
+      "name": "ROSA",
+      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
         "name": "Fica De Dengo",
         "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 145306,
       "name": "Fica De Dengo",
       "url": "https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -671,18 +655,18 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "Vamos de Viagem",
-        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
         }
       ],
-      "duration_ms": 238604,
-      "name": "Vamos de Viagem",
-      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -703,6 +687,22 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
+        "name": "Vamos de Viagem",
+        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 238604,
+      "name": "Vamos de Viagem",
+      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
         "name": "J\u00e1 Te Falei",
         "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 205540,
       "name": "J\u00e1 Te Falei",
       "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "Ombro Amigo",
+        "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        }
+      ],
+      "duration_ms": 174817,
+      "name": "Poder Amar",
+      "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -735,22 +751,6 @@
       "duration_ms": 173294,
       "name": "Desperd\u00edcio",
       "url": "https://open.spotify.com/track/0dQxHrhUgqHR7i8GkimlYK"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
-        "name": "Ombro Amigo",
-        "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        }
-      ],
-      "duration_ms": 174817,
-      "name": "Poder Amar",
-      "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "P E R T O",
-        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "Todos os Futuros",
         "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 152027,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "P E R T O",
+        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "Sol de S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
-      },
-      "artists": [
-        {
-          "name": "Jay Horsth",
-          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Sol de S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "Jaqueta",
         "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 136630,
       "name": "Jaqueta",
       "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "Sol de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
+      },
+      "artists": [
+        {
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Sol de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -983,6 +983,22 @@
       "duration_ms": 206505,
       "name": "Eu Gosto Assim",
       "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "Mar\u00e9 Alta",
+        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "duration_ms": 186363,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "Mar\u00e9 Alta",
-        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        }
-      ],
-      "duration_ms": 186363,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "Nosso Carnaval",
         "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
       },
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
+        "name": "\u00c1udios Antigos",
+        "url": "https://open.spotify.com/album/10DYcvq0MTzufwjFSbjiq9"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 204731,
+      "name": "\u00c1udios Antigos",
+      "url": "https://open.spotify.com/track/1kZQCUtByD5aLmQuPy5uAb"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
         "name": "PROFANO",
         "url": "https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb"
       },
@@ -1119,6 +1135,26 @@
       "duration_ms": 169814,
       "name": "ME AMAR",
       "url": "https://open.spotify.com/track/68jiuGIvxLu5yDQmItN5NA"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "A vida continua",
+        "url": "https://open.spotify.com/album/2EeB9MWRIowLCh2WlwNOct"
+      },
+      "artists": [
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        },
+        {
+          "name": "Maru\u00e1 Luz",
+          "url": "https://open.spotify.com/artist/091x4KuVa3VUMyP1w4X5Lo"
+        }
+      ],
+      "duration_ms": 245454,
+      "name": "A vida continua",
+      "url": "https://open.spotify.com/track/0vsMO7P6gzbKiN9mItn8ic"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -1155,6 +1191,22 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
+        "name": "Apressa",
+        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "Apressa",
+      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
         "name": "te quero sem final",
         "url": "https://open.spotify.com/album/7f5EwAe0O71eZf6JAt0UZI"
       },
@@ -1179,58 +1231,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "Apressa",
-        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "Apressa",
-      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
-        "name": "A vida continua",
-        "url": "https://open.spotify.com/album/2EeB9MWRIowLCh2WlwNOct"
-      },
-      "artists": [
-        {
-          "name": "Kaysha",
-          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
-        },
-        {
-          "name": "Maru\u00e1 Luz",
-          "url": "https://open.spotify.com/artist/091x4KuVa3VUMyP1w4X5Lo"
-        }
-      ],
-      "duration_ms": 245454,
-      "name": "A vida continua",
-      "url": "https://open.spotify.com/track/0vsMO7P6gzbKiN9mItn8ic"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
-        "name": "\u00c1udios Antigos",
-        "url": "https://open.spotify.com/album/10DYcvq0MTzufwjFSbjiq9"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 204731,
-      "name": "\u00c1udios Antigos",
-      "url": "https://open.spotify.com/track/1kZQCUtByD5aLmQuPy5uAb"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "Meu Corpo Pede",
         "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
       },
@@ -1243,30 +1243,6 @@
       "duration_ms": 173365,
       "name": "Meu corpo pede",
       "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
-        "name": "LEBLON",
-        "url": "https://open.spotify.com/album/2GNvPLOtPtComDsp7F9NbU"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        },
-        {
-          "name": "Mara Marques",
-          "url": "https://open.spotify.com/artist/2vkezoHU3wpZQbF7n2cfaK"
-        },
-        {
-          "name": "CASITA",
-          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
-        }
-      ],
-      "duration_ms": 151032,
-      "name": "LEBLON",
-      "url": "https://open.spotify.com/track/7iQ3f3Yqva0NwqZyjKqz4q"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -1347,6 +1323,30 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
+        "name": "LEBLON",
+        "url": "https://open.spotify.com/album/2GNvPLOtPtComDsp7F9NbU"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        },
+        {
+          "name": "Mara Marques",
+          "url": "https://open.spotify.com/artist/2vkezoHU3wpZQbF7n2cfaK"
+        },
+        {
+          "name": "CASITA",
+          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
+        }
+      ],
+      "duration_ms": 151032,
+      "name": "LEBLON",
+      "url": "https://open.spotify.com/track/7iQ3f3Yqva0NwqZyjKqz4q"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
         "name": "O Amor \u00e9 uma Loucura",
         "url": "https://open.spotify.com/album/6m6O3tgJvvQ0YyEGdqvsIw"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "Inverno Sem Ver\u00e3o",
-        "url": "https://open.spotify.com/album/0ZAIm8VlJw8IqQ3UmYMEnf"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Inverno Sem Ver\u00e3o",
-      "url": "https://open.spotify.com/track/6M5FpmdT1YWh3Nu16azdL9"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "Amor e Sexo",
         "url": "https://open.spotify.com/album/6GkDoVt2G0hEn9ZuzbCC2C"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 229863,
       "name": "Amor e Sexo",
       "url": "https://open.spotify.com/track/74iF1obdHm9eoHtXTMd1kt"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "Inverno Sem Ver\u00e3o",
+        "url": "https://open.spotify.com/album/0ZAIm8VlJw8IqQ3UmYMEnf"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Inverno Sem Ver\u00e3o",
+      "url": "https://open.spotify.com/track/6M5FpmdT1YWh3Nu16azdL9"
     },
     {
       "added_at": "2025-07-11 21:25:35",

@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: skantia",
-  "num_followers": 71938,
+  "num_followers": 71979,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,26 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
+        "name": "PURPOSE",
+        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "PURPOSE",
+      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
         "name": "Satellite (SOTA Remix)",
         "url": "https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 177931,
       "name": "Satellite - SOTA Remix",
       "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
-        "name": "PURPOSE",
-        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "PURPOSE",
-      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
     },
     {
       "added_at": "2025-07-03 23:00:20",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 246900,
       "name": "Warning",
       "url": "https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
     }
   ],
   "unique_name": "Jump Up!",

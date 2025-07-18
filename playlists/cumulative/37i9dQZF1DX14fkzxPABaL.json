@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Alejandro Sanz & Shakira.",
+  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Reik & Xavi",
   "name": "Enamor\u00e1ndose",
   "tracks": [
     {
@@ -1865,6 +1865,28 @@
     },
     {
       "album": {
+        "name": "La del Primer Puesto",
+        "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "La del Primer Puesto",
+      "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -2180,7 +2202,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 186787,
       "name": "LUNAR",
       "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
@@ -2700,7 +2722,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 193500,
       "name": "No Hay M\u00e1s",
       "url": "https://open.spotify.com/track/0uf97jURvAdpFCmM0hdK7w"

@@ -6162,7 +6162,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 273664,
       "name": "Collita",
       "url": "https://open.spotify.com/track/14MhWpNUJwHkJHXDLkZeTS"
@@ -6180,7 +6180,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 283160,
       "name": "Collita",
       "url": "https://open.spotify.com/track/3z9pR9FYg9mPhX1rHU0VO2"
@@ -6472,7 +6472,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 312536,
       "name": "Confesiones",
       "url": "https://open.spotify.com/track/5Q0pJnkWxsqv7KNGLVx2Ta"
@@ -9952,10 +9952,28 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 198040,
       "name": "Eso, Eso, Eso",
       "url": "https://open.spotify.com/track/2aYEMvLxsPy9oQKnwBopD6"
+    },
+    {
+      "album": {
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/0JupivluMnxcM69zoFvxgb"
+      },
+      "artists": [
+        {
+          "name": "El Chavo",
+          "url": "https://open.spotify.com/artist/4PhFsMykdrr3rEwqkLMNwG"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199453,
+      "name": "Eso, Eso, Eso",
+      "url": "https://open.spotify.com/track/72CQbbg6cThL4ySSyhBZ1e"
     },
     {
       "album": {
@@ -11439,6 +11457,32 @@
     },
     {
       "album": {
+        "name": "FUNK BAD DO BAD",
+        "url": "https://open.spotify.com/album/1b3XLbn2sqvcr8nyl1Oq0U"
+      },
+      "artists": [
+        {
+          "name": "DJ VTTT77",
+          "url": "https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X"
+        },
+        {
+          "name": "DJ VYZ",
+          "url": "https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F"
+        },
+        {
+          "name": "VORTEX",
+          "url": "https://open.spotify.com/artist/3Chj7A59w4vWBa4fdSN27E"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123924,
+      "name": "FUNK BAD DO BAD - SLOWED",
+      "url": "https://open.spotify.com/track/1eIPvT2cC8aS1L1TptJurt"
+    },
+    {
+      "album": {
         "name": "Funk de Beleza",
         "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
       },
@@ -12168,7 +12212,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 165918,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/3Hm0cLZmR9CIAt7IYpkJBT"
@@ -15036,7 +15080,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 188571,
       "name": "La revancha",
       "url": "https://open.spotify.com/track/3SMBMGIjc5OrasdvWtcNLD"
@@ -21417,6 +21461,28 @@
     },
     {
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189557,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
+    },
+    {
+      "album": {
         "name": "Personalidade",
         "url": "https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o"
       },
@@ -23610,7 +23676,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 246786,
-      "name": "Punkrocker (feat. Iggy Pop)",
+      "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
     },
     {
@@ -28327,6 +28393,24 @@
     },
     {
       "album": {
+        "name": "THIS IS FOR DELUXE",
+        "url": "https://open.spotify.com/album/2KL4QCX5syZYi6Xh7gP5kE"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180293,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/19GxfaRs5KdurzPKLVX3Cq"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -28356,7 +28440,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
@@ -30196,7 +30280,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 110495,
       "name": "TU VAS SIN (fav)",
       "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"

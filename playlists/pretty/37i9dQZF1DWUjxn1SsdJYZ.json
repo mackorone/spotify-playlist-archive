@@ -1,28 +1,68 @@
 {
   "description": "The best new AUS & NZ Rap. Cover: Say True God?",
-  "num_followers": 141782,
+  "num_followers": 141786,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBPRAAAAABamNiz3Uml8UCGpwAf2HVf",
+  "snapshot_id": "aHkB+wAAAAAb3q0Svb9cPnww7i9dY14V",
   "tracks": [
     {
       "added_at": "2025-07-10 23:39:48",
       "album": {
-        "name": "COUNT US IN",
-        "url": "https://open.spotify.com/album/3nxjCo5TrtcZrLlKzd7JuQ"
+        "name": "Two Lowkeyy",
+        "url": "https://open.spotify.com/album/3drTKspFeouqUVdr9j5Q55"
       },
       "artists": [
         {
-          "name": "Say True God?",
-          "url": "https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr"
+          "name": "TAKTiX",
+          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
         }
       ],
-      "duration_ms": 182608,
-      "name": "COUNT US IN",
-      "url": "https://open.spotify.com/track/6ppycCx6vzT1mAiRgER5mo"
+      "duration_ms": 128718,
+      "name": "Two Lowkeyy",
+      "url": "https://open.spotify.com/track/1AULDjBtD0cE7sHd1B0rFL"
+    },
+    {
+      "added_at": "2025-07-10 23:39:48",
+      "album": {
+        "name": "NO VIP",
+        "url": "https://open.spotify.com/album/1l80V3c3tG4dauykNlxR9M"
+      },
+      "artists": [
+        {
+          "name": "DHEM",
+          "url": "https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK"
+        },
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        },
+        {
+          "name": "JARNA",
+          "url": "https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs"
+        }
+      ],
+      "duration_ms": 180308,
+      "name": "NO VIP",
+      "url": "https://open.spotify.com/track/6hcNBj0GRuGVcewMat0y9u"
+    },
+    {
+      "added_at": "2025-07-10 23:39:48",
+      "album": {
+        "name": "Keep It Moving",
+        "url": "https://open.spotify.com/album/5KpuWvdMTjfysTeQQMHuYc"
+      },
+      "artists": [
+        {
+          "name": "Lisi",
+          "url": "https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu"
+        }
+      ],
+      "duration_ms": 170126,
+      "name": "Keep It Moving",
+      "url": "https://open.spotify.com/track/1otNlqVX2CmlWyA98afSdr"
     },
     {
       "added_at": "2025-07-10 23:39:48",
@@ -51,6 +91,74 @@
     {
       "added_at": "2025-07-10 23:39:48",
       "album": {
+        "name": "COUNT US IN",
+        "url": "https://open.spotify.com/album/3nxjCo5TrtcZrLlKzd7JuQ"
+      },
+      "artists": [
+        {
+          "name": "Say True God?",
+          "url": "https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "COUNT US IN",
+      "url": "https://open.spotify.com/track/6ppycCx6vzT1mAiRgER5mo"
+    },
+    {
+      "added_at": "2025-07-10 23:39:48",
+      "album": {
+        "name": "That's My",
+        "url": "https://open.spotify.com/album/5ukWDRZUm16Tc00WlvCmC0"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        },
+        {
+          "name": "JKING",
+          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+        }
+      ],
+      "duration_ms": 241263,
+      "name": "That's My",
+      "url": "https://open.spotify.com/track/3yUD8TT3OD0Zi7Aj8gPRdQ"
+    },
+    {
+      "added_at": "2025-07-10 23:39:48",
+      "album": {
+        "name": "OneFiftySix",
+        "url": "https://open.spotify.com/album/10hbqvq12fb3EQYwSVijj6"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "duration_ms": 103418,
+      "name": "OneFiftySix",
+      "url": "https://open.spotify.com/track/0DFqnJth2R095rHyUYV5WJ"
+    },
+    {
+      "added_at": "2025-07-17 14:00:27",
+      "album": {
+        "name": "Real Deal",
+        "url": "https://open.spotify.com/album/0i6UaaSGMbrPSUjOW4JD0y"
+      },
+      "artists": [
+        {
+          "name": "Ay Huncho",
+          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
+        }
+      ],
+      "duration_ms": 178295,
+      "name": "Real Deal",
+      "url": "https://open.spotify.com/track/1qppL37w1PGW32kA60nHCm"
+    },
+    {
+      "added_at": "2025-07-10 23:39:48",
+      "album": {
         "name": "MOTION SICKNESS",
         "url": "https://open.spotify.com/album/5RCPbmNkfaZjhCxSzPMyjJ"
       },
@@ -63,54 +171,6 @@
       "duration_ms": 154972,
       "name": "MOTION SICKNESS",
       "url": "https://open.spotify.com/track/20DDNeU0DkcJhaE58VKjhs"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
-        "name": "Two Lowkeyy",
-        "url": "https://open.spotify.com/album/3drTKspFeouqUVdr9j5Q55"
-      },
-      "artists": [
-        {
-          "name": "TAKTiX",
-          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
-        }
-      ],
-      "duration_ms": 128718,
-      "name": "Two Lowkeyy",
-      "url": "https://open.spotify.com/track/1AULDjBtD0cE7sHd1B0rFL"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
-        "name": "Risk It All",
-        "url": "https://open.spotify.com/album/1MzdN7YDJnVDFtsNzf7zlm"
-      },
-      "artists": [
-        {
-          "name": "Yung Maynie",
-          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
-        }
-      ],
-      "duration_ms": 203097,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/0H68PB0x6J9QX07KWGDSuf"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
-        "name": "Keep It Moving",
-        "url": "https://open.spotify.com/album/5KpuWvdMTjfysTeQQMHuYc"
-      },
-      "artists": [
-        {
-          "name": "Lisi",
-          "url": "https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu"
-        }
-      ],
-      "duration_ms": 170126,
-      "name": "Keep It Moving",
-      "url": "https://open.spotify.com/track/1otNlqVX2CmlWyA98afSdr"
     },
     {
       "added_at": "2025-07-10 23:39:48",
@@ -131,6 +191,22 @@
     {
       "added_at": "2025-07-10 23:39:48",
       "album": {
+        "name": "Risk It All",
+        "url": "https://open.spotify.com/album/1MzdN7YDJnVDFtsNzf7zlm"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "duration_ms": 203097,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/0H68PB0x6J9QX07KWGDSuf"
+    },
+    {
+      "added_at": "2025-07-10 23:39:48",
+      "album": {
         "name": "Mind My French",
         "url": "https://open.spotify.com/album/2vd2M2XCE0aJovR5DpGeYp"
       },
@@ -143,22 +219,6 @@
       "duration_ms": 169000,
       "name": "Mind My French",
       "url": "https://open.spotify.com/track/5S3V5vTQQwdNiXbjCE8wCd"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
-        "name": "OneFiftySix",
-        "url": "https://open.spotify.com/album/10hbqvq12fb3EQYwSVijj6"
-      },
-      "artists": [
-        {
-          "name": "Gold Fang",
-          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
-        }
-      ],
-      "duration_ms": 103418,
-      "name": "OneFiftySix",
-      "url": "https://open.spotify.com/track/0DFqnJth2R095rHyUYV5WJ"
     },
     {
       "added_at": "2025-07-10 23:39:48",
@@ -179,22 +239,6 @@
     {
       "added_at": "2025-07-10 23:39:48",
       "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/2ArHiotwqGrQlmFJ8WVYK9"
-      },
-      "artists": [
-        {
-          "name": "MzUki",
-          "url": "https://open.spotify.com/artist/1WXhw0PBeOUR46yQsXoXW9"
-        }
-      ],
-      "duration_ms": 158478,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/3IWstfWSOzS7uOHpiKGCUG"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
         "name": "A Classic Rap Song",
         "url": "https://open.spotify.com/album/2oHOhAoRXl2MV170Cp5wxG"
       },
@@ -207,26 +251,6 @@
       "duration_ms": 143113,
       "name": "A Classic Rap Song",
       "url": "https://open.spotify.com/track/4vbadk6vTyeLJ2ayy5AkWa"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
-        "name": "Never Coming Home (feat. SIX60)",
-        "url": "https://open.spotify.com/album/0hoL3ByqmEuAArk3h9XYw7"
-      },
-      "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        },
-        {
-          "name": "SIX60",
-          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
-        }
-      ],
-      "duration_ms": 245731,
-      "name": "Never Coming Home (feat. SIX60)",
-      "url": "https://open.spotify.com/track/7f8vUzOeVBeKdm7d9Miis0"
     },
     {
       "added_at": "2025-07-10 23:39:48",
@@ -255,46 +279,78 @@
     {
       "added_at": "2025-07-10 23:39:48",
       "album": {
-        "name": "That's My",
-        "url": "https://open.spotify.com/album/5ukWDRZUm16Tc00WlvCmC0"
+        "name": "Never Coming Home (feat. SIX60)",
+        "url": "https://open.spotify.com/album/0hoL3ByqmEuAArk3h9XYw7"
       },
       "artists": [
         {
-          "name": "The 046",
-          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
         },
         {
-          "name": "JKING",
-          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
         }
       ],
-      "duration_ms": 241263,
-      "name": "That's My",
-      "url": "https://open.spotify.com/track/3yUD8TT3OD0Zi7Aj8gPRdQ"
+      "duration_ms": 245731,
+      "name": "Never Coming Home (feat. SIX60)",
+      "url": "https://open.spotify.com/track/7f8vUzOeVBeKdm7d9Miis0"
+    },
+    {
+      "added_at": "2025-07-17 14:00:27",
+      "album": {
+        "name": "THE LUCKY ONES",
+        "url": "https://open.spotify.com/album/42v6qc7Vclq8F0bRhQdh3A"
+      },
+      "artists": [
+        {
+          "name": "Denzel Kennedy",
+          "url": "https://open.spotify.com/artist/0R46HgOV9OdOrQtEons9vC"
+        }
+      ],
+      "duration_ms": 218357,
+      "name": "Under the Same Sky",
+      "url": "https://open.spotify.com/track/1ItVoPz02UTO6e6tLaCSqF"
     },
     {
       "added_at": "2025-07-10 23:39:48",
       "album": {
-        "name": "NO VIP",
-        "url": "https://open.spotify.com/album/1l80V3c3tG4dauykNlxR9M"
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/2ArHiotwqGrQlmFJ8WVYK9"
       },
       "artists": [
         {
-          "name": "DHEM",
-          "url": "https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK"
-        },
-        {
-          "name": "Yung Maynie",
-          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
-        },
-        {
-          "name": "JARNA",
-          "url": "https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs"
+          "name": "MzUki",
+          "url": "https://open.spotify.com/artist/1WXhw0PBeOUR46yQsXoXW9"
         }
       ],
-      "duration_ms": 180308,
-      "name": "NO VIP",
-      "url": "https://open.spotify.com/track/6hcNBj0GRuGVcewMat0y9u"
+      "duration_ms": 158478,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/3IWstfWSOzS7uOHpiKGCUG"
+    },
+    {
+      "added_at": "2025-07-17 14:00:27",
+      "album": {
+        "name": "GIVE INTO MY FEARS",
+        "url": "https://open.spotify.com/album/0q8UOa78zlIYs68dRni6Ac"
+      },
+      "artists": [
+        {
+          "name": "Jamaica Moana",
+          "url": "https://open.spotify.com/artist/0kCAtshqpuXucHnqXehLfh"
+        },
+        {
+          "name": "PA777IENCE",
+          "url": "https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t"
+        },
+        {
+          "name": "ZAY.R",
+          "url": "https://open.spotify.com/artist/4o9SxRBHFx7dr8dbmaHW0M"
+        }
+      ],
+      "duration_ms": 205988,
+      "name": "GIVE INTO MY FEARS",
+      "url": "https://open.spotify.com/track/4o57z3sHSnvNJ11HHnR3Bd"
     },
     {
       "added_at": "2025-07-10 23:39:48",
@@ -331,6 +387,26 @@
       "duration_ms": 168668,
       "name": "Portals",
       "url": "https://open.spotify.com/track/3zbLUGQOL6gRZC4gHSiR0W"
+    },
+    {
+      "added_at": "2025-07-17 14:00:27",
+      "album": {
+        "name": "SYD TO LDN",
+        "url": "https://open.spotify.com/album/4UzdIgxvCnQRHEjQhXi8ui"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        },
+        {
+          "name": "Fizzler",
+          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "CARRY ON",
+      "url": "https://open.spotify.com/track/4rGqkoMANLNpoxe9BjQCht"
     },
     {
       "added_at": "2025-07-10 23:39:48",
@@ -465,6 +541,38 @@
       "url": "https://open.spotify.com/track/1qYalXlo1QlcuK2D2QCkMV"
     },
     {
+      "added_at": "2025-07-17 14:00:27",
+      "album": {
+        "name": "UPPERCUT (BUTCHERED Pt.4)",
+        "url": "https://open.spotify.com/album/7iK7N162n6UzdLWlm7fE53"
+      },
+      "artists": [
+        {
+          "name": "Lil Wright",
+          "url": "https://open.spotify.com/artist/7i03rpnL7xfaXDmCj72JVA"
+        }
+      ],
+      "duration_ms": 130757,
+      "name": "UPPERCUT - BUTCHERED Pt.4",
+      "url": "https://open.spotify.com/track/6uCUPPkHVGkYMTzSjXOWBe"
+    },
+    {
+      "added_at": "2025-07-10 23:39:48",
+      "album": {
+        "name": "Look At Me Now",
+        "url": "https://open.spotify.com/album/3dW1ehIUEORxqwC3NtNVV2"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "Father's Day",
+      "url": "https://open.spotify.com/track/5BKuIUgmJALwsXGSz86E2l"
+    },
+    {
       "added_at": "2025-07-10 23:39:48",
       "album": {
         "name": "TOO MANY TIMES",
@@ -485,20 +593,24 @@
       "url": "https://open.spotify.com/track/4MAb1KCKwjjFmKGF9hu27N"
     },
     {
-      "added_at": "2025-07-10 23:39:48",
+      "added_at": "2025-07-17 14:00:27",
       "album": {
-        "name": "Look At Me Now",
-        "url": "https://open.spotify.com/album/3dW1ehIUEORxqwC3NtNVV2"
+        "name": "BIG BUGGER",
+        "url": "https://open.spotify.com/album/5w02dsbD3HTBH7SDJyGsaW"
       },
       "artists": [
         {
-          "name": "ONEFOUR",
-          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+          "name": "Jords",
+          "url": "https://open.spotify.com/artist/62tGZOfLOihSl9xQUIgMtQ"
+        },
+        {
+          "name": "Cult Sh\u03c6tta",
+          "url": "https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P"
         }
       ],
-      "duration_ms": 130588,
-      "name": "Father's Day",
-      "url": "https://open.spotify.com/track/5BKuIUgmJALwsXGSz86E2l"
+      "duration_ms": 185009,
+      "name": "BIG BUGGER",
+      "url": "https://open.spotify.com/track/5jvyuzWJVkcy2vsQm5TU0k"
     },
     {
       "added_at": "2025-07-10 23:39:48",
@@ -679,6 +791,22 @@
       "duration_ms": 159300,
       "name": "Split Screen Remix",
       "url": "https://open.spotify.com/track/4gasyarc8b9eS4apgQ7NW2"
+    },
+    {
+      "added_at": "2025-07-17 14:00:27",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/3VGBYUs7K4HIl3mYEI00q0"
+      },
+      "artists": [
+        {
+          "name": "J-MILLA",
+          "url": "https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0"
+        }
+      ],
+      "duration_ms": 165956,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0Mg714VwCMvKkPVuWkLIWq"
     },
     {
       "added_at": "2025-07-10 23:39:48",
@@ -1495,22 +1623,6 @@
     {
       "added_at": "2025-07-10 23:39:48",
       "album": {
-        "name": "Got Them",
-        "url": "https://open.spotify.com/album/4lflircZajubqPESbeqEvJ"
-      },
-      "artists": [
-        {
-          "name": "Yung Maynie",
-          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
-        }
-      ],
-      "duration_ms": 208571,
-      "name": "Got Them",
-      "url": "https://open.spotify.com/track/3GLV0BMXvc9S1yQsnnplm0"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
         "name": "HANDS DOWN!",
         "url": "https://open.spotify.com/album/1aC1A6Yk2O407HvPQG0Cly"
       },
@@ -1591,46 +1703,6 @@
     {
       "added_at": "2025-07-10 23:39:48",
       "album": {
-        "name": "LIVIN' OUT WEST",
-        "url": "https://open.spotify.com/album/26NGe3xICQUMgejRXmiU8g"
-      },
-      "artists": [
-        {
-          "name": "Jamaica Moana",
-          "url": "https://open.spotify.com/artist/0kCAtshqpuXucHnqXehLfh"
-        },
-        {
-          "name": "Drewza",
-          "url": "https://open.spotify.com/artist/2xQI6aQ2I5xKwBTIF7w9LM"
-        }
-      ],
-      "duration_ms": 184456,
-      "name": "LIVIN' OUT WEST",
-      "url": "https://open.spotify.com/track/2FMwKrvea4tWPymi4BCLeD"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
-        "name": "RED LIGHTS (feat. Nardean)",
-        "url": "https://open.spotify.com/album/2UnSVYUgNLS0LANFeaL0Xq"
-      },
-      "artists": [
-        {
-          "name": "L-FRESH The LION",
-          "url": "https://open.spotify.com/artist/1pWigxBjUwEk9xH0Ks1r8L"
-        },
-        {
-          "name": "Nardean",
-          "url": "https://open.spotify.com/artist/3NF0Inkg9acKhu5Nyt2JLK"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "RED LIGHTS (feat. Nardean)",
-      "url": "https://open.spotify.com/track/5kzA9kG4lzaGYAsULq2NPL"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
         "name": "Wheels Fall Off",
         "url": "https://open.spotify.com/album/68xITa3VJCQ1tyTCmOBgP9"
       },
@@ -1679,22 +1751,6 @@
     {
       "added_at": "2025-07-10 23:39:48",
       "album": {
-        "name": "Face It",
-        "url": "https://open.spotify.com/album/2yn4OQrIajMmHUgIf3e54O"
-      },
-      "artists": [
-        {
-          "name": "Brayden Jay",
-          "url": "https://open.spotify.com/artist/0rq8kMC5YJ6HmnQKgNJC9m"
-        }
-      ],
-      "duration_ms": 170434,
-      "name": "Face It",
-      "url": "https://open.spotify.com/track/2jmwUQDIENcoLKAzfz7hLi"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
         "name": "BAR4BAR",
         "url": "https://open.spotify.com/album/1giBo22SC9Y0A5RAm4rIZY"
       },
@@ -1707,62 +1763,6 @@
       "duration_ms": 155000,
       "name": "BAR4BAR",
       "url": "https://open.spotify.com/track/71K9CKuuBgtl85Drozhm84"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
-        "name": "CARIBBEAN",
-        "url": "https://open.spotify.com/album/3BgbTu3wBa6cy3w74vydRV"
-      },
-      "artists": [
-        {
-          "name": "KAHUKX",
-          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "CARIBBEAN",
-      "url": "https://open.spotify.com/track/6zyOSOPIBuPLFPO8h1C13l"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
-        "name": "GIRLS!",
-        "url": "https://open.spotify.com/album/4wo4hT0bydwsRqrKsnwxc4"
-      },
-      "artists": [
-        {
-          "name": "YNG Martyr",
-          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
-        }
-      ],
-      "duration_ms": 155344,
-      "name": "GIRLS!",
-      "url": "https://open.spotify.com/track/7hkgz7F6Z8UeRVmwp1ztzU"
-    },
-    {
-      "added_at": "2025-07-10 23:39:48",
-      "album": {
-        "name": "FADE",
-        "url": "https://open.spotify.com/album/0qezHW0dnM7ZII0MkQczrj"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        },
-        {
-          "name": "Teddy Slugz",
-          "url": "https://open.spotify.com/artist/3pHTYKGBLYetY3lRN0IQfD"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "FADE",
-      "url": "https://open.spotify.com/track/0L6lHg6QcYpO0JYsvOjZ39"
     },
     {
       "added_at": "2025-07-10 23:39:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,818 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,213 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 97 | [Secreto de Amor \- La Noche](https://open.spotify.com/track/7ocbSotFQVyDVTmoajnnYM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Secreto de Amor \(La Noche\)](https://open.spotify.com/album/4gCu7HhDuF5QX40XaGWPpY) | 4:31 |
 | 98 | [Rulay](https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Mydoz](https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb), [Zairah](https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b) | [Rulay](https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN) | 2:45 |
 | 99 | [Quema Quema](https://open.spotify.com/track/0UHgu6IsBEFbgM3yBVGpG5) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Quema Quema](https://open.spotify.com/album/7G5sNykeQyN6A5AViRTEDL) | 2:53 |
-| 100 | [Toma Dale](https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Toma Dale](https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr) | 5:23 |
+| 100 | [Cuarto Oscuro \(feat\. Pacho Carnaval\)](https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB) | [Presi On](https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp), [Renate](https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs), [Pacho Carnaval](https://open.spotify.com/artist/782eGsJcQXQ4uPl3x0gRs2) | [Cuarto Oscuro / BAQ Spicy](https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r) | 3:56 |
 
 Snapshot ID: `aHCMVQAAAACeCo2Tq2Up4SOswyKM95L3`

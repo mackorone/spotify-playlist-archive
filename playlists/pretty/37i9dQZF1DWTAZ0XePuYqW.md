@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > Rochelle Jordan's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,873 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,892 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 12 | [RUAFREAK](https://open.spotify.com/track/0blKmUPyYj1QAvrn1U957t) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Afrique Like Me](https://open.spotify.com/artist/4gdZHmCx9SLSm4vy1tLfUf), [96 Vibe](https://open.spotify.com/artist/6Pp3ySHcICUvfC37zrhDwI) | [RUAFREAK](https://open.spotify.com/album/3j8aSYZ82mazYjV9s9YglJ) | 2:59 |
 | 13 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
 | 14 | [Launch Party](https://open.spotify.com/track/1TBmJ4iUoZWIC6ByJqJ8JC) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv), [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG) | [Relentless](https://open.spotify.com/album/2E55tzIeMiNScqBLX7rF9T) | 4:41 |
-| 15 | [Atabaque Riddim](https://open.spotify.com/track/5MxlkCfgLzJOKL9bhxMr2d) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Com Amor Brazil](https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy) | 2:23 |
+| 15 | [Atabaque Riddim](https://open.spotify.com/track/5MxlkCfgLzJOKL9bhxMr2d) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Com Amor Brazil \(Original Soundtracks from Traveling Man\)](https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy) | 2:23 |
 | 16 | [Oh Lala \- Thankful Daily Remix](https://open.spotify.com/track/2eu8l5uancfC1F0dRNe1Tn) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Oh Lala \(Thankful Daily Remix\)](https://open.spotify.com/album/4mEdVlVbEFOLOee9044MF3) | 5:24 |
 | 17 | [Sunday In Brooklyn](https://open.spotify.com/track/240LThmj6xe6pBbJXMxWd4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [NO RAP ON SUNDAY](https://open.spotify.com/album/3h1mhf59nhAhNcg68ITKmM) | 3:57 |
 | 18 | [AVENTADOR](https://open.spotify.com/track/1HfRUONTeuX9dwOdgLFCe0) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [ENOCH](https://open.spotify.com/album/6iosJzmbhMPivxtY4Wd3bX) | 1:29 |

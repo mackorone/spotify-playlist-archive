@@ -4181,6 +4181,28 @@
     },
     {
       "album": {
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/3K0ZUAJYic8PxlQcyoxqi2"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Matt Stone",
+          "url": "https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/4VkKITpuA7aiGtMWst0hk4"
+    },
+    {
+      "album": {
         "name": "Blow Ya Mind",
         "url": "https://open.spotify.com/album/0zd9B7ARIBCbm18eZVBB49"
       },

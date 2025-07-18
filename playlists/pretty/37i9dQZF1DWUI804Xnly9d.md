@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,235 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,262 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 |
 | 2 | [Dhaagey](https://open.spotify.com/track/1bav36G2cus1No9SZrjUml) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Dhaagey](https://open.spotify.com/album/0QY6LFsuvkZ8WJkwIbPbGf) | 4:17 |
 | 3 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 |
-| 4 | [Das Haasil Sau Baaki \- Acapella \(From "Metro ..\. In Dino"\)](https://open.spotify.com/track/2sdksmVqytLp1aUf8dm4X4) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd) | [Das Haasil Sau Baaki \- Acapella \(From "Metro ..\. In Dino"\)](https://open.spotify.com/album/5DyDPjmYBREB3XfG8mqQjG) | 3:12 |
+| 4 | [Das Haasil Sau Baaki \- Acapella \(From "Metro ..\. In Dino"\)](https://open.spotify.com/track/2sdksmVqytLp1aUf8dm4X4) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arjun Chandy](https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd) | [Das Haasil Sau Baaki \- Acapella \(From "Metro ..\. In Dino"\)](https://open.spotify.com/album/5DyDPjmYBREB3XfG8mqQjG) | 3:12 |
 | 5 | [Pal Pal Dil Ke Paas](https://open.spotify.com/track/4HyawPkxzJxnt181a1a81e) | [Sanam](https://open.spotify.com/artist/7o7doCwqft91WC690aglWC) | [Pal Pal Dil Ke Paas](https://open.spotify.com/album/250PvwZ3taWg6x1k42Zt0i) | 3:41 |
 | 6 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |
 | 7 | [Titli](https://open.spotify.com/track/7hIo0oSJq396AsNH0r1zCv) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Titli](https://open.spotify.com/album/2kmK65y29xEQc9N6ZaYDOO) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: ArumtaLa",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Societeit de Harmonie, Natasya Elvira",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -415,6 +415,28 @@
     },
     {
       "album": {
+        "name": "As Falsas",
+        "url": "https://open.spotify.com/album/1wXWG6BuyyS9oQMHMvSg9t"
+      },
+      "artists": [
+        {
+          "name": "Alahad",
+          "url": "https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt"
+        },
+        {
+          "name": "Shinjoko",
+          "url": "https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237625,
+      "name": "As Falsas",
+      "url": "https://open.spotify.com/track/0qPLO41igft7jd9NzSFOKd"
+    },
+    {
+      "album": {
         "name": "Scars Souvenir",
         "url": "https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0"
       },
@@ -786,7 +808,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 322543,
       "name": "Can Good Things Last Forever?",
       "url": "https://open.spotify.com/track/6MWw5eGSjfkNLmGTmMqTPn"
@@ -960,7 +982,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 158378,
       "name": "Confide",
       "url": "https://open.spotify.com/track/0pXgCM5ieW2462A3MGkbJc"
@@ -1266,7 +1288,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 289000,
       "name": "Do the Math",
       "url": "https://open.spotify.com/track/7dOa6cIePhrDAuYV4CjJo2"
@@ -2198,7 +2220,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 198461,
       "name": "Hujan Deras",
       "url": "https://open.spotify.com/track/117LMQ1UgtJvLzdqoddYn8"
@@ -2749,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "Keraguan",
+        "url": "https://open.spotify.com/album/3Pw7U6L8sJapL9CZv71L8C"
+      },
+      "artists": [
+        {
+          "name": "Nissi Wardoyo",
+          "url": "https://open.spotify.com/artist/1aBvJFC9T3hhPbfqcV6FYm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292666,
+      "name": "Keraguan",
+      "url": "https://open.spotify.com/track/73H6kf1anMerfRofxJ8nQk"
+    },
+    {
+      "album": {
         "name": "Bercerita",
         "url": "https://open.spotify.com/album/7iGjEOAwvBJvGncuVQNo2Z"
       },
@@ -2796,10 +2836,32 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 228720,
       "name": "Koji",
       "url": "https://open.spotify.com/track/3gLJyeqR4Rwu3xJPlI5ylW"
+    },
+    {
+      "album": {
+        "name": "Kutukan",
+        "url": "https://open.spotify.com/album/5qKeLh6rcMmviEhZXH1Ke4"
+      },
+      "artists": [
+        {
+          "name": "Societeit de Harmonie",
+          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
+        },
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202300,
+      "name": "Kutukan",
+      "url": "https://open.spotify.com/track/5n0e7BD61fOxEK4XwwBOjW"
     },
     {
       "album": {
@@ -4372,7 +4434,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 204900,
       "name": "Sign of Love",
       "url": "https://open.spotify.com/track/6e2VzhU88re1jusfK8UeHp"
@@ -4826,7 +4888,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 298608,
       "name": "The Moment With You",
       "url": "https://open.spotify.com/track/3cG6irfHaVbQfEZEShv9V2"
@@ -5062,7 +5124,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 197219,
       "name": "Wanna Do",
       "url": "https://open.spotify.com/track/5orukLs2BbGTNROGzqviF1"
@@ -5106,6 +5168,24 @@
       "duration_ms": 228693,
       "name": "With You",
       "url": "https://open.spotify.com/track/4gg9OMKfF6rZwxlzLIlYjJ"
+    },
+    {
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/4Hb05ZxIwiPsWUSPqA8WI3"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ong Trio",
+          "url": "https://open.spotify.com/artist/4kkP9EmggHO2TIDcSOOZI4"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300999,
+      "name": "World : Against, Changed, Educate",
+      "url": "https://open.spotify.com/track/6B1tdAqKADoEdn9Y4q9ulj"
     },
     {
       "album": {

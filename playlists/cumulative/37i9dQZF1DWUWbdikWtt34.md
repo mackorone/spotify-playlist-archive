@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Jelita Jely
+> Dendang Dangdut teratas\. Cover: Mansyur S
 
-250 songs - 19 hr 51 min
+252 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Jakarta Kalimantan](https://open.spotify.com/track/2xN7UiLrcbu5w5Gn52Kqiy) | [Sinka Sisuka](https://open.spotify.com/artist/4kFQEmcuWSQUX91Q1KQflA) | [Jakarta Kalimantan](https://open.spotify.com/album/2x8MraY8UBPMfTxVDUQ8fq) | 3:50 | 2021-08-23 | 2023-02-17 |
 | [Jangan Tanggung Tanggung \- Live Ska Reggae](https://open.spotify.com/track/0glpTL0L63qt1CrCNuyJRi) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Jangan Tanggung Tanggung \(Live Ska Reggae\)](https://open.spotify.com/album/35Ynip23CA1h0oVV7smcKR) | 6:09 | 2024-11-28 | 2025-06-27 |
 | [Jatuh Bangun](https://open.spotify.com/track/5WGytp59Sk5j7Pzh3ejBjN) | [SMAN 1 Jampangkulon \(Gitsara\)](https://open.spotify.com/artist/1pS59gd0VO1Qw2NjNDYrXe) | [Jatuh Bangun](https://open.spotify.com/album/2pcm5hzGChyqTYah12auu4) | 5:22 | 2024-09-06 | 2024-09-27 |
+| [Kamar Kost Kenangan](https://open.spotify.com/track/2HKjpUsflqYo0kOxQLXKTw) | [Ligea](https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX) | [Kamar Kost Kenangan](https://open.spotify.com/album/0vjf1NPMQ4nglpqEBRr7mV) | 4:11 | 2025-07-17 |  |
 | [Karena Cinta](https://open.spotify.com/track/7AaUPhQLNiEnWQyewSQKXy) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky) | [Karena Cinta](https://open.spotify.com/album/7jcUXWfAU8Epw4051E8PZC) | 5:19 | 2023-06-22 | 2023-12-01 |
 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 | 2021-08-23 | 2024-02-16 |
 | [Kau Tawarkan Setia](https://open.spotify.com/track/1OvqS8BSe9fd89WLb6B2vR) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Kau Tawarkan Setia](https://open.spotify.com/album/1N2X1b2rkqK6XGUjjdyDfv) | 4:24 | 2023-04-13 | 2024-05-03 |
@@ -128,6 +129,7 @@
 | [Madu Merah \- Cover](https://open.spotify.com/track/0718TQnNieFp7nFiCA8I9h) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Madu Merah \(Cover\)](https://open.spotify.com/album/49Kxl3GeB7k29szPUzxWvo) | 4:18 | 2023-08-03 |  |
 | [MANDI MADU](https://open.spotify.com/track/3pp46cFnbZd0gFm6FwvPyL) | [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [MANDI MADU](https://open.spotify.com/album/2QPyodnyZngiTLtR5l5L5L) | 3:57 | 2021-08-23 | 2024-02-09 |
 | [Manembak Di Ateh Kudo](https://open.spotify.com/track/4BDIGLwu9RMQuYewOfq1Rq) | [Iqhbal](https://open.spotify.com/artist/5rFdYocq7VQtYWQ2IBf59M), [Fikoh](https://open.spotify.com/artist/5sxTaMmGwfeWV4MwUqyoeh) | [Manembak Di Ateh Kudo](https://open.spotify.com/album/2391Gq4TbIbCUq1zrLSpia) | 6:54 | 2024-08-04 | 2025-01-31 |
+| [Marahmu Deritaku](https://open.spotify.com/track/4Ib8kjn4jeDLh9Fo6O5K2B) | [Mansyur S](https://open.spotify.com/artist/4uq6QLz8nA9LAj01MDk58W) | [Marahmu Deritaku](https://open.spotify.com/album/641mJRCjSD9B4LUYb6DZQn) | 5:48 | 2025-07-17 |  |
 | [Marlina](https://open.spotify.com/track/4aqSBMVmU6mYvAnIbnyOHr) | [Thomas Djorghi](https://open.spotify.com/artist/1PgpMO3k0MFsIbKT3sQFkI) | [Marlina](https://open.spotify.com/album/7myo2qt1Y3C97HsnmQCONr) | 4:05 | 2023-02-02 | 2023-08-25 |
 | [Masih Merindukanmu](https://open.spotify.com/track/2il7sEfjj7G2tI0waZo9Tc) | [Harry Parintang](https://open.spotify.com/artist/3L4rZ6I6bjVaVIX6WvgdZx) | [Masih Merindukanmu](https://open.spotify.com/album/2RDPcERdUjLViZBN49NbFe) | 6:09 | 2025-07-03 |  |
 | [Maslahat Patah Hati](https://open.spotify.com/track/1sOZY3dJNywbmZPW9xDVJk) | [Gilang](https://open.spotify.com/artist/7pFyHVn3WLIIefKtEkTvt6) | [Maslahat Patah Hati](https://open.spotify.com/album/58ijrgCMFbgtYM1EoRPUKy) | 5:21 | 2025-02-07 | 2025-06-27 |

@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? \(Cover: 윤산하\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-707 songs - 1 day 14 hr 50 min
+708 songs - 1 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Broken Heart](https://open.spotify.com/track/21j3qXlRXCDJRG1xWQt2gW) | [AMPERS&ONE](https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg) | [ONE HEARTED](https://open.spotify.com/album/2uSqR87CUmRQcEb63HaqbR) | 2:53 | 2024-03-26 | 2024-04-04 |
 | [Broken Melodies](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 3:46 | 2023-06-20 | 2023-07-21 |
 | [Broken Melodies](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:46 | 2023-07-20 | 2023-09-05 |
+| [BTTF](https://open.spotify.com/track/4gkiXKGyp4PnHnOO70q8bK) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Go Back To The Future](https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM) | 3:00 | 2025-07-17 |  |
 | [Burn It](https://open.spotify.com/track/6vcJyCa9NgFQer7O6X1NY7) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 5th Mini Album \[YES.\]](https://open.spotify.com/album/0UHpoOOB9NC0joJKAWuYgi) | 3:29 | 2022-01-03 | 2022-07-18 |
 | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/track/4Sz5KwMxHQnJPf64wJW5aq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 2:53 | 2025-03-28 | 2025-04-18 |
 | [Busterz](https://open.spotify.com/track/3e2vn0Ek2VTtUUJKBKRspH) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 2:49 | 2023-09-19 | 2023-09-28 |
@@ -156,7 +157,7 @@
 | [D.D.D](https://open.spotify.com/track/4knqZHNHlEBBEmfETcpTyr) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [DREAMLIKE](https://open.spotify.com/album/4T7BOMEuEfIMsDfomppwtW) | 3:32 | 2022-02-15 | 2022-07-09 |
 | [Daisy](https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [WE:TH](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) | 3:09 | 2021-12-08 | 2022-07-29 |
 | [Dangerous](https://open.spotify.com/track/5unyDrt3v3Yfo7hV20G7DI) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [LIKE INFINITE](https://open.spotify.com/album/4na98IiEj4lAFQS3NKQ5qk) | 3:00 | 2025-03-07 | 2025-03-11 |
-| [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-24 |  |
+| [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-24 | 2025-07-18 |
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-15 | 2022-10-14 |
 | [DaSH](https://open.spotify.com/track/6j00mQpXjdXuovqU9owUDa) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [ODYSSEY:DaSH](https://open.spotify.com/album/4tr2tGgWohMbeh5wlMj8QO) | 3:29 | 2022-08-17 | 2022-08-23 |
 | [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 | 2022-03-21 | 2022-04-20 |

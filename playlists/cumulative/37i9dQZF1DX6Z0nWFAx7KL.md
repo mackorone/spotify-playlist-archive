@@ -4,7 +4,7 @@
 
 > easy breezy summer 2025 ☀️☺️
 
-322 songs - 15 hr 54 min
+323 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Motorcycle](https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk) | [Motorcycle](https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri) | 3:13 | 2022-09-15 | 2023-05-12 |
 | [Moundé](https://open.spotify.com/track/25GzYCnSJBbrSckIlBzIZD) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Moundé](https://open.spotify.com/album/00NBfbmr2f5PWiFRrqxn1q) | 3:14 | 2022-09-29 | 2024-08-31 |
 | [My Darling](https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG) | [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [My Darling](https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq) | 2:54 | 2022-09-15 | 2024-08-31 |
-| [My Favourite Game](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [My Favourite Game](https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV) | 3:41 | 2023-07-06 |  |
+| [My Favourite Game](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [My Favourite Game](https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV) | 3:41 | 2023-07-06 | 2025-07-18 |
 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 | 2024-11-14 |  |
 | [Never Give Up On You](https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj) | [Never Give Up On You](https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa) | 3:36 | 2022-09-15 | 2024-03-21 |
 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/12aAoKT43mVGdW1ofZVCwr) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/album/0GqBHBdVgx0H48cON75KE4) | 3:19 | 2022-09-15 | 2022-09-30 |
@@ -216,6 +216,7 @@
 | [No Tomorrow](https://open.spotify.com/track/5f6qWXuKbURFowOWT2QruI) | [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm), [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [No Tomorrow](https://open.spotify.com/album/37h56UTs220Dk38R36Au2h) | 2:12 | 2024-12-05 |  |
 | [Nomads](https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Nomads](https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI) | 3:49 | 2024-03-19 | 2025-03-17 |
 | [Not Your House](https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Usually Quiet](https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j) | [Not Your House](https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ) | 3:55 | 2024-04-11 |  |
+| [Nothing Is Forever](https://open.spotify.com/track/26E5NPwV30kG0lYLrUhAK5) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Nothing Is Forever](https://open.spotify.com/album/14NTbIECS6DX5hBvtPoyS9) | 3:32 | 2025-07-17 |  |
 | [Oasis de Gafsa](https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Oasis de Gafsa](https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf) | 2:22 | 2023-06-08 | 2024-08-02 |
 | [Ocean Drive](https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm) | [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ), [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Ocean Drive](https://open.spotify.com/album/3vIjOeb2pMV5FfpTk3tOYf) | 2:33 | 2022-09-15 | 2024-12-06 |
 | [On a Train](https://open.spotify.com/track/0Qfth7bELnAfqroxEfXXdR) | [Basto](https://open.spotify.com/artist/2BJTwV4IpFe2gWL46KKlji) | [On a Train](https://open.spotify.com/album/7A3DVMa3lxiOQSCSI2xufd) | 2:28 | 2024-07-26 | 2024-08-31 |

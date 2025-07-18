@@ -1,6 +1,6 @@
 {
   "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batid\u00e3o\n",
-  "num_followers": 350440,
+  "num_followers": 350488,
   "original_name": "Melodys Marcantes",
   "owner": {
     "name": "Spotify",
@@ -563,18 +563,22 @@
     {
       "added_at": "2025-07-11 05:47:42",
       "album": {
-        "name": "\u00c9 Sal",
-        "url": "https://open.spotify.com/album/5xMMqLnvzHYgTfc8s46lR8"
+        "name": "Covarde",
+        "url": "https://open.spotify.com/album/2yrlUWv6v6IoaYVFeWZpnd"
       },
       "artists": [
         {
           "name": "Viviane Batid\u00e3o",
           "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
+        },
+        {
+          "name": "Suanny Batid\u00e3o",
+          "url": "https://open.spotify.com/artist/6CORseMwKZPTq5dHcB5ogK"
         }
       ],
-      "duration_ms": 118285,
-      "name": "\u00c9 Sal",
-      "url": "https://open.spotify.com/track/472LBNCGld5qZqVeO5Opfv"
+      "duration_ms": 149818,
+      "name": "Covarde",
+      "url": "https://open.spotify.com/track/5e1qwugRLDFpIU9ccGgsiG"
     },
     {
       "added_at": "2025-07-11 05:47:42",
@@ -991,22 +995,18 @@
     {
       "added_at": "2025-07-11 05:47:42",
       "album": {
-        "name": "Olha Bem Pra Mim",
-        "url": "https://open.spotify.com/album/0Bc2jtElw3UGoWFzL1CSzU"
+        "name": "\u00c9 Sal",
+        "url": "https://open.spotify.com/album/5xMMqLnvzHYgTfc8s46lR8"
       },
       "artists": [
         {
           "name": "Viviane Batid\u00e3o",
           "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
-        },
-        {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
         }
       ],
-      "duration_ms": 198620,
-      "name": "Olha Bem Pra Mim",
-      "url": "https://open.spotify.com/track/4gLQDSMuWg9JOkTtURE0po"
+      "duration_ms": 118285,
+      "name": "\u00c9 Sal",
+      "url": "https://open.spotify.com/track/472LBNCGld5qZqVeO5Opfv"
     },
     {
       "added_at": "2025-07-11 05:47:42",
@@ -1111,8 +1111,8 @@
     {
       "added_at": "2025-07-11 05:47:42",
       "album": {
-        "name": "Covarde",
-        "url": "https://open.spotify.com/album/2yrlUWv6v6IoaYVFeWZpnd"
+        "name": "Olha Bem Pra Mim",
+        "url": "https://open.spotify.com/album/0Bc2jtElw3UGoWFzL1CSzU"
       },
       "artists": [
         {
@@ -1120,13 +1120,13 @@
           "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
         },
         {
-          "name": "Suanny Batid\u00e3o",
-          "url": "https://open.spotify.com/artist/6CORseMwKZPTq5dHcB5ogK"
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
         }
       ],
-      "duration_ms": 149818,
-      "name": "Covarde",
-      "url": "https://open.spotify.com/track/5e1qwugRLDFpIU9ccGgsiG"
+      "duration_ms": 198620,
+      "name": "Olha Bem Pra Mim",
+      "url": "https://open.spotify.com/track/4gLQDSMuWg9JOkTtURE0po"
     }
   ],
   "unique_name": "Melodys Marcantes",

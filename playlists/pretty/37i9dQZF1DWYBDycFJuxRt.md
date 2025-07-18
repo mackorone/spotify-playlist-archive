@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Vaundy \*👉 <a href="https://spice.eplus.jp/articles/339374">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,648 likes - 86 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,782 likes - 86 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 76 | [HIKOUKI \(feat\. GOLD DIGGA\)](https://open.spotify.com/track/1dSU3ve1ay6vAingAFNttQ) | [S.I.](https://open.spotify.com/artist/6QecK8nUAIENxu5IpJESNh), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [HIKOUKI \(feat\. GOLD DIGGA\)](https://open.spotify.com/album/6YNCx8q6UTD3SWLRYec98b) | 2:21 |
 | 77 | [Paradise](https://open.spotify.com/track/30WM1go7RnlS5CKc89j6iO) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [Paradise](https://open.spotify.com/album/0b2ZEGXGNUjj1RC8rCDtxY) | 5:03 |
 | 78 | [Last Piice.](https://open.spotify.com/track/1cHmFng4HcCoXFCMfOAj87) | [GAGLE](https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50), [Hanah Spring](https://open.spotify.com/artist/4XFD2JYE1YxL1pmuigIb7s) | [Last Piice.](https://open.spotify.com/album/6IxZbu0KIOusdSJGfMD1wL) | 3:34 |
-| 79 | [音の頃](https://open.spotify.com/track/0CY9pVqpZoBm7yerv1uFnO) | [LEO](https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS), [Shohei Amimori](https://open.spotify.com/artist/3DcYBf3guJqmuPePUL4COJ) | [microcosm](https://open.spotify.com/album/3TxD9qb3IBWQN7RnQCBGWq) | 5:06 |
+| 79 | [音の頃](https://open.spotify.com/track/0CY9pVqpZoBm7yerv1uFnO) | [LEO](https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS), [Shohei Amimori](https://open.spotify.com/artist/3DcYBf3guJqmuPePUL4COJ), [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [microcosm](https://open.spotify.com/album/3TxD9qb3IBWQN7RnQCBGWq) | 5:06 |
 | 80 | [SCANDAL](https://open.spotify.com/track/6S0IVlL3KHyfdVd8AwZL6i) | [Яu\-a](https://open.spotify.com/artist/79dFfRIECY1rmHs24fHbnb) | [SCANDAL](https://open.spotify.com/album/6eHcTa9t3e4ylSWXuKmDOT) | 3:37 |
 | 81 | [灯火](https://open.spotify.com/track/52yZji1fkuUScDNuezg2G0) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [灯火](https://open.spotify.com/album/3uz7kZnobQe7o7KEStivTg) | 3:30 |
 | 82 | [BRIGHTER](https://open.spotify.com/track/6fogrhjCnge5TICLZ7frhL) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx), [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [BRIGHTER](https://open.spotify.com/album/17CTshHASvTqh0FBF10474) | 5:15 |

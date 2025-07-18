@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-188 songs - 11 hr 50 min
+190 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [best](https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [best](https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9) | 3:35 | 2023-06-08 | 2024-11-14 |
 | [BESTFRiEND](https://open.spotify.com/track/0yyAfb33Q5FlvZoN3HS43R) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BESTFRiEND](https://open.spotify.com/album/6Swoif6uZsn9YIj59mzJN2) | 3:25 | 2023-09-20 | 2023-12-14 |
 | [BESTFRiEND \(feat\. Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid\)](https://open.spotify.com/track/3EkueWJSbk5wXE3YCtXf0N) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg), [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd), [Rizal Rasid](https://open.spotify.com/artist/0N5dq4m7PRgUGNGdOtuGh8) | [BESTFRiEND \(feat\. Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid\)](https://open.spotify.com/album/1hfDOYGLqeCHH3VdQbCOwp) | 3:49 | 2023-12-13 | 2024-11-14 |
+| [Better Day](https://open.spotify.com/track/4kJiasEelFvQM6itbOIHfH) | [Samo Rafael](https://open.spotify.com/artist/4VacCuYOOHgyuwVYpKq28y) | [Arti Cinta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FO5dcRkprUpZG0HE7oGQy) | 2:59 | 2025-07-17 |  |
 | [Better On My Own](https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 2:59 | 2023-05-18 | 2025-02-12 |
 | [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 | 2024-06-19 |  |
 | [Breakfast in Bed](https://open.spotify.com/track/3c5sWNPKG69X0JcGUgbBOj) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Breakfast in Bed](https://open.spotify.com/album/24aSDb1blluKkN02Wy4Tl4) | 2:43 | 2022-12-13 | 2023-10-20 |
@@ -119,6 +120,7 @@
 | [Magnet](https://open.spotify.com/track/1xmR2idNjgxB8MTkBFh47L) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Magnet](https://open.spotify.com/album/1DvGtGi6iUv4QHQIueLWYk) | 3:36 | 2024-11-13 |  |
 | [MAMONEY](https://open.spotify.com/track/6wWzU1FELh7ioiuQtMZ7NA) | [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7) | [MAMONEY](https://open.spotify.com/album/5j8kr0to3ALKqG9K8knJZD) | 3:04 | 2022-12-13 | 2023-11-16 |
 | [Manusia Kuat](https://open.spotify.com/track/1vT1rKlEzvT9r0uYwAuwC8) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:04 | 2022-12-13 |  |
+| [Masih Takut Mencinta](https://open.spotify.com/track/4E6iWEsfOAkrT4OpluseK1) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:28 | 2025-07-17 |  |
 | [Mata Ke Hati \(Acoustic Version\)](https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:24 | 2022-12-13 | 2024-04-19 |
 | [Mata Ke Hati \(Acoustic Version\)](https://open.spotify.com/track/5eF8Hn5AHY4qT3aZsVYAzO) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 3:24 | 2024-02-01 |  |
 | [Mejikuhibiniu](https://open.spotify.com/track/0wBdb4pmz0hyyI0M6ilZTy) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Mejikuhibiniu](https://open.spotify.com/album/5ErP3mluV25TH2ncKKcWM4) | 3:46 | 2022-12-13 | 2023-08-09 |

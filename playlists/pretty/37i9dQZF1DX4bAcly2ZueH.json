@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 53449,
+  "num_followers": 53447,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-07-16 00:54:42",
       "album": {
+        "name": "Silently Beats",
+        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
+    },
+    {
+      "added_at": "2025-07-16 00:54:42",
+      "album": {
         "name": "three",
         "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2025-07-16 00:54:42",
       "album": {
-        "name": "Silently Beats",
-        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+        "name": "Maru",
+        "url": "https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr"
       },
       "artists": [
         {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
+      "duration_ms": 167978,
+      "name": "Maru",
+      "url": "https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -383,22 +399,6 @@
       "duration_ms": 144500,
       "name": "re: Sound Of Light",
       "url": "https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC"
-    },
-    {
-      "added_at": "2025-07-16 00:54:42",
-      "album": {
-        "name": "Maru",
-        "url": "https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 167978,
-      "name": "Maru",
-      "url": "https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -443,34 +443,18 @@
     {
       "added_at": "2025-07-16 00:54:42",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+        "name": "yomichi",
+        "url": "https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj"
       },
       "artists": [
         {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+          "name": "The LASTTRAK",
+          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
         }
       ],
-      "duration_ms": 167543,
-      "name": "Walk (Interlude)",
-      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
-    },
-    {
-      "added_at": "2025-07-16 00:54:42",
-      "album": {
-        "name": "So Long So Blue",
-        "url": "https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ"
-      },
-      "artists": [
-        {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Goodbye Blurry Days",
-      "url": "https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop"
+      "duration_ms": 120000,
+      "name": "yomichi",
+      "url": "https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -491,18 +475,34 @@
     {
       "added_at": "2025-07-16 00:54:42",
       "album": {
-        "name": "yomichi",
-        "url": "https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj"
+        "name": "So Long So Blue",
+        "url": "https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ"
       },
       "artists": [
         {
-          "name": "The LASTTRAK",
-          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
         }
       ],
-      "duration_ms": 120000,
-      "name": "yomichi",
-      "url": "https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ"
+      "duration_ms": 225600,
+      "name": "Goodbye Blurry Days",
+      "url": "https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop"
+    },
+    {
+      "added_at": "2025-07-16 00:54:42",
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+      },
+      "artists": [
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 167543,
+      "name": "Walk (Interlude)",
+      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-07-16 00:54:42",
       "album": {
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
+    },
+    {
+      "added_at": "2025-07-16 00:54:42",
+      "album": {
         "name": "Calm Current",
         "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 177230,
       "name": "Calm Current",
       "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
-    },
-    {
-      "added_at": "2025-07-16 00:54:42",
-      "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -791,6 +791,30 @@
     {
       "added_at": "2025-07-16 00:54:42",
       "album": {
+        "name": "Ghost in the Clocks",
+        "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
+      },
+      "artists": [
+        {
+          "name": "Anoice",
+          "url": "https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb"
+        },
+        {
+          "name": "Takahiro Kido",
+          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
+        },
+        {
+          "name": "Yuki Murata",
+          "url": "https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
+      "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
+    },
+    {
+      "added_at": "2025-07-16 00:54:42",
+      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
       },
@@ -823,30 +847,6 @@
       "duration_ms": 294193,
       "name": "The Next vacation",
       "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
-    },
-    {
-      "added_at": "2025-07-16 00:54:42",
-      "album": {
-        "name": "Ghost in the Clocks",
-        "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
-      },
-      "artists": [
-        {
-          "name": "Anoice",
-          "url": "https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb"
-        },
-        {
-          "name": "Takahiro Kido",
-          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
-        },
-        {
-          "name": "Yuki Murata",
-          "url": "https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
-      "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-07-16 00:54:42",
       "album": {
-        "name": "Abbot Kinney",
-        "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
-      },
-      "artists": [
-        {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Thank You (feat. Jozzy)",
-      "url": "https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR"
-    },
-    {
-      "added_at": "2025-07-16 00:54:42",
-      "album": {
         "name": "24/7(inst)",
         "url": "https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9"
       },
@@ -935,6 +915,22 @@
       "duration_ms": 141174,
       "name": "24/7(inst)",
       "url": "https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8"
+    },
+    {
+      "added_at": "2025-07-16 00:54:42",
+      "album": {
+        "name": "rias",
+        "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
+      },
+      "artists": [
+        {
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+        }
+      ],
+      "duration_ms": 283170,
+      "name": "rias",
+      "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -955,18 +951,22 @@
     {
       "added_at": "2025-07-16 00:54:42",
       "album": {
-        "name": "rias",
-        "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
+        "name": "Abbot Kinney",
+        "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
       },
       "artists": [
         {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
         }
       ],
-      "duration_ms": 283170,
-      "name": "rias",
-      "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
+      "duration_ms": 191040,
+      "name": "Thank You (feat. Jozzy)",
+      "url": "https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-07-16 00:54:42",
       "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
+    },
+    {
+      "added_at": "2025-07-16 00:54:42",
+      "album": {
         "name": "Dreamwave",
         "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 145454,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
-    },
-    {
-      "added_at": "2025-07-16 00:54:42",
-      "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-07-16 00:54:42",
       "album": {
+        "name": "Dragon Collection",
+        "url": "https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh"
+      },
+      "artists": [
+        {
+          "name": "Four Face",
+          "url": "https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Dragon Collection",
+      "url": "https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt"
+    },
+    {
+      "added_at": "2025-07-16 00:54:42",
+      "album": {
         "name": "Snow Magic",
         "url": "https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 182684,
       "name": "Snow Magic",
       "url": "https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE"
-    },
-    {
-      "added_at": "2025-07-16 00:54:42",
-      "album": {
-        "name": "Dragon Collection",
-        "url": "https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh"
-      },
-      "artists": [
-        {
-          "name": "Four Face",
-          "url": "https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Dragon Collection",
-      "url": "https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2025-07-16 00:54:42",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/5SE9QAP8pab2Ke1Tce1EeJ"
+        "name": "asobiba",
+        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "chanoma",
+          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
         }
       ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/2iNjjoEw6W0Y05ykgQWBCK"
+      "duration_ms": 185000,
+      "name": "asobiba",
+      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -1491,6 +1491,42 @@
       "duration_ms": 194000,
       "name": "falling asleep.",
       "url": "https://open.spotify.com/track/0X88c8pOrPZhuwBYe1lgWl"
+    },
+    {
+      "added_at": "2025-07-16 00:54:42",
+      "album": {
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/5SE9QAP8pab2Ke1Tce1EeJ"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/2iNjjoEw6W0Y05ykgQWBCK"
+    },
+    {
+      "added_at": "2025-07-16 00:54:42",
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/0kAC2pYik4U4CQpG8q04RM"
+      },
+      "artists": [
+        {
+          "name": "Grey October Sound",
+          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+        },
+        {
+          "name": "Lil Garden",
+          "url": "https://open.spotify.com/artist/46My5CtvnznjwjdtpXontb"
+        }
+      ],
+      "duration_ms": 120094,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/6SEzgR48UAdz38EB8Rt5hu"
     },
     {
       "added_at": "2025-07-16 00:54:42",
@@ -1707,42 +1743,6 @@
       "duration_ms": 182000,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5DZQlseBlIL18VLqFklHLC"
-    },
-    {
-      "added_at": "2025-07-16 00:54:42",
-      "album": {
-        "name": "asobiba",
-        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
-      },
-      "artists": [
-        {
-          "name": "chanoma",
-          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "asobiba",
-      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
-    },
-    {
-      "added_at": "2025-07-16 00:54:42",
-      "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/0kAC2pYik4U4CQpG8q04RM"
-      },
-      "artists": [
-        {
-          "name": "Grey October Sound",
-          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
-        },
-        {
-          "name": "Lil Garden",
-          "url": "https://open.spotify.com/artist/46My5CtvnznjwjdtpXontb"
-        }
-      ],
-      "duration_ms": 120094,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/6SEzgR48UAdz38EB8Rt5hu"
     },
     {
       "added_at": "2025-07-16 00:54:42",

@@ -5339,6 +5339,24 @@
     },
     {
       "album": {
+        "name": "\u785d\u5b50\u306e\u7dda",
+        "url": "https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65063,
+      "name": "\u304c\u3089\u3059\u306e\u7dda",
+      "url": "https://open.spotify.com/track/3eCl6n1uTevApLYQDC1QJM"
+    },
+    {
+      "album": {
         "name": "\u304d\u307f\u3068\u308f\u305f\u3057\u306e\u3046\u305f\uff08featuring LIBERA\uff09",
         "url": "https://open.spotify.com/album/6VKCpAHanLbNbb96BDLpgt"
       },
@@ -6910,7 +6928,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 212484,
       "name": "\u591c\u306f\u3084\u3055\u3057",
       "url": "https://open.spotify.com/track/26VxGKT6FoKO4YFQz1WLwk"

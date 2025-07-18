@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Alfa Mist",
+  "description": "The best jazz new releases. Cover: Il Mago Del Gelato",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -5270,7 +5270,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 285567,
       "name": "Gadabout Season",
       "url": "https://open.spotify.com/track/3CbgZjjdLxd1tr5p4Gt6Q9"
@@ -7320,7 +7320,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 158637,
       "name": "Joking",
       "url": "https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq"
@@ -7694,6 +7694,24 @@
       "duration_ms": 242666,
       "name": "L'alpagueur",
       "url": "https://open.spotify.com/track/5Vz2c5K4uEAkweIBENQJ2u"
+    },
+    {
+      "album": {
+        "name": "L'Anguria",
+        "url": "https://open.spotify.com/album/6LLJZZ25lCKXn7QQi8EYhp"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211623,
+      "name": "L'Anguria",
+      "url": "https://open.spotify.com/track/4ydPsrewqTuZ4OB8Vyi5Og"
     },
     {
       "album": {
@@ -11675,6 +11693,28 @@
     },
     {
       "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/51VqRSW356PJE17M8SnnkR"
+      },
+      "artists": [
+        {
+          "name": "Anne Paceo",
+          "url": "https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL"
+        },
+        {
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219280,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/7pwk1KZxLz9GP007XDDtMW"
+    },
+    {
+      "album": {
         "name": "Parallel Universe",
         "url": "https://open.spotify.com/album/4ZEbUlAx8WKxp7pDlKQLeL"
       },
@@ -14324,7 +14364,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 366018,
       "name": "The Tale of Osemon and Scheherazade",
       "url": "https://open.spotify.com/track/2rBSs3RYUfsGhCQhpo3pNP"
@@ -14464,6 +14504,24 @@
       "duration_ms": 271263,
       "name": "There Goes",
       "url": "https://open.spotify.com/track/59AiOQODuznd7cayIRelBv"
+    },
+    {
+      "album": {
+        "name": "These Simple Things",
+        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308786,
+      "name": "These Simple Things",
+      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
     },
     {
       "album": {

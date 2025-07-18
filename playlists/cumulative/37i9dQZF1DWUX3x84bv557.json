@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop! Nieuw: Robert van Hemert & Bilal Wahib (cover), Snelle en meer...",
+  "description": "Frisse Nederlandse pop! Nieuw: KATNUF & Tabitha (cover), Zo\u00eb Livay, Roxy Dekker en meer...",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 172616,
       "name": "'s Avonds",
       "url": "https://open.spotify.com/track/7x1g0FzxUy4ca0NQE6ufl3"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 134791,
       "name": "100%",
       "url": "https://open.spotify.com/track/2pVNHH7yJwuf0joE9IfRIP"
@@ -2258,6 +2258,24 @@
       "duration_ms": 133241,
       "name": "Bang Om Te Slapen",
       "url": "https://open.spotify.com/track/6U0RL3f5OC23TYrtt8O9vD"
+    },
+    {
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/01jXI3xgHJ0JJJmriDYfHe"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166443,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/7rNwcIxVtLAw9QjyOYGu0M"
     },
     {
       "album": {
@@ -4642,7 +4660,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 143665,
       "name": "Dochters - Titelsong",
       "url": "https://open.spotify.com/track/4GLeBTdjA8DUopnjV8pjOl"
@@ -5691,6 +5709,24 @@
     },
     {
       "album": {
+        "name": "Friends with Benefits",
+        "url": "https://open.spotify.com/album/1oHXfCrq9DJSSJ2diu5XmV"
+      },
+      "artists": [
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129157,
+      "name": "Friends with Benefits",
+      "url": "https://open.spotify.com/track/0ewKwagt9AluPszIDEUPNv"
+    },
+    {
+      "album": {
         "name": "Ga Dan!",
         "url": "https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv"
       },
@@ -6514,7 +6550,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 146400,
       "name": "Hart In Brand",
       "url": "https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx"
@@ -7253,6 +7289,32 @@
     },
     {
       "album": {
+        "name": "Hoe Het Is",
+        "url": "https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Hoe Het Is",
+      "url": "https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242"
+    },
+    {
+      "album": {
         "name": "Hoe hou ik dit vast",
         "url": "https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh"
       },
@@ -7322,7 +7384,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 186680,
       "name": "Hoe Zit Het Met Ons?",
       "url": "https://open.spotify.com/track/1rN5JHM21poaueaK01se6P"
@@ -7839,6 +7901,24 @@
     },
     {
       "album": {
+        "name": "Huisje Aan De Zee",
+        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166815,
+      "name": "Huisje Aan De Zee",
+      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
+    },
+    {
+      "album": {
         "name": "Huisje Aan Het Water",
         "url": "https://open.spotify.com/album/7EIdhqTPZrGRL0SCr3FleA"
       },
@@ -8070,7 +8150,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 190997,
       "name": "Ik begin vandaag",
       "url": "https://open.spotify.com/track/1WIS9zIiH7dVxvTudGdp6g"
@@ -8744,6 +8824,24 @@
       "duration_ms": 172689,
       "name": "Je Hebt Me",
       "url": "https://open.spotify.com/track/5SBIUbG9ksjffWW23BlxN2"
+    },
+    {
+      "album": {
+        "name": "Je Kan Een Hoop",
+        "url": "https://open.spotify.com/album/23rbyKPTBlBY8O5fzqK5dr"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174305,
+      "name": "Je Kan Een Hoop",
+      "url": "https://open.spotify.com/track/6U1qyy4qXzs9VSazl0HAc0"
     },
     {
       "album": {
@@ -9657,6 +9755,24 @@
     },
     {
       "album": {
+        "name": "Krijt",
+        "url": "https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE"
+      },
+      "artists": [
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148534,
+      "name": "Krijt",
+      "url": "https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c"
+    },
+    {
+      "album": {
         "name": "KROKODILLENTRANEN",
         "url": "https://open.spotify.com/album/3kotYFrp56wZNHMruY4lxh"
       },
@@ -10466,7 +10582,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 142040,
       "name": "Liever Alleen",
       "url": "https://open.spotify.com/track/2fumi15cc9DlAbRK7JH25g"
@@ -12194,6 +12310,28 @@
       "duration_ms": 135000,
       "name": "Niet Naar Huis",
       "url": "https://open.spotify.com/track/4ouO2G1LVrl7auDWbrI89h"
+    },
+    {
+      "album": {
+        "name": "Niet Perfect",
+        "url": "https://open.spotify.com/album/7hgDFCkFzvctUBgqdHmCpL"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7"
+        },
+        {
+          "name": "Obey",
+          "url": "https://open.spotify.com/artist/5xQy1PEn9Fqbk29VJQVKjA"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157976,
+      "name": "Niet Perfect",
+      "url": "https://open.spotify.com/track/5r5DltN0XoFobMQaeeenPJ"
     },
     {
       "album": {
@@ -14620,6 +14758,28 @@
       "duration_ms": 160235,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4Iwfv0IKKWo2tdxwmF4hdI"
+    },
+    {
+      "album": {
+        "name": "Soldaat (feat. Tabitha)",
+        "url": "https://open.spotify.com/album/1sfKGdwQ4ZVTwzEOtFw9iM"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165535,
+      "name": "Soldaat (feat. Tabitha)",
+      "url": "https://open.spotify.com/track/4FGueWKt0aLl5G2GjjifIO"
     },
     {
       "album": {
@@ -17437,6 +17597,28 @@
     },
     {
       "album": {
+        "name": "Wassenaar",
+        "url": "https://open.spotify.com/album/2TvKCToGz0NsPLcWH8Hl32"
+      },
+      "artists": [
+        {
+          "name": "Carmell",
+          "url": "https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse"
+        },
+        {
+          "name": "DUIV",
+          "url": "https://open.spotify.com/artist/1DaRHeBqAWuqwECwUaWm72"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151078,
+      "name": "Wassenaar",
+      "url": "https://open.spotify.com/track/3heP3Hxlq68F3H5QoX3Smw"
+    },
+    {
+      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/26ALDsugBcToHqcDvA0Bu4"
       },
@@ -18034,7 +18216,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 160160,
       "name": "WJNMK",
       "url": "https://open.spotify.com/track/7zPY8eLsVIJCE8OK4OGxhg"
@@ -18400,7 +18582,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 132754,
       "name": "Zij Bij Mij",
       "url": "https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN"

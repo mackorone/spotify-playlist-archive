@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,916 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,062 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 66 | [Quien Soy Yo \(feat\. Redimi2\)](https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9) | [4 Trinity](https://open.spotify.com/artist/31nSv3P3QAEUk8dtkOJRWT), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [4t](https://open.spotify.com/album/0LjBIJORulBSIeciUhwykB) | 4:15 |
 | 67 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
 | 68 | [Dios de Lo Imposible](https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L) | [Victor Flores](https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ) | [Dios de Lo Imposible](https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo) | 7:52 |
-| 69 | [Agnus Dei](https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL) | [Salida 7](https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv) | [Agnus Dei](https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx) | 3:49 |
-| 70 | [Mas Profundo](https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU) | [Justin Michael](https://open.spotify.com/artist/1DPzzuw8dqxW47W3uGBzTl) | [Mas Profundo](https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu) | 5:59 |
+| 69 | [Mas Profundo](https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU) | [Justin Michael](https://open.spotify.com/artist/1DPzzuw8dqxW47W3uGBzTl) | [Mas Profundo](https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu) | 5:59 |
+| 70 | [Agnus Dei](https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL) | [Salida 7](https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv) | [Agnus Dei](https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx) | 3:49 |
 | 71 | [Dañar el Jangueo](https://open.spotify.com/track/2G57GCgrChXL9CQ0yUMX7f) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Dañar el Jangueo](https://open.spotify.com/album/5Gzt5itwkQ3s2ZHICFzF0r) | 3:50 |
 | 72 | [Gracia](https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship HOLA](https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW) | 6:09 |
 | 73 | [Le Pertenezco](https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Mauricio Alen](https://open.spotify.com/artist/2xobqRIT4uGkrZVPJjRQeY) | [Le Pertenezco](https://open.spotify.com/album/3yuypQS5iLMuJ7oPHwrIjy) | 3:46 |

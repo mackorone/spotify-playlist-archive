@@ -919,6 +919,24 @@
     },
     {
       "album": {
+        "name": "Home \"La La La\"",
+        "url": "https://open.spotify.com/album/1vfFaZBZz6lKMfeU6cMPDT"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Home \"La La La\"",
+      "url": "https://open.spotify.com/track/56ftzomXxvahAqZlFcBsaO"
+    },
+    {
+      "album": {
         "name": "I Never Land",
         "url": "https://open.spotify.com/album/0jYlxuuRcYQydLzceR0ZLu"
       },
@@ -2115,6 +2133,28 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05ea \u05db\u05d1\u05e8 \u05dc\u05d0 \u05d0\u05d9\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/4B1ceipHIibHQUXUZ6JSP6"
+      },
+      "artists": [
+        {
+          "name": "Eldad Zitrin",
+          "url": "https://open.spotify.com/artist/4NNomCVl1n5hhBBk2h8aNk"
+        },
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195340,
+      "name": "\u05d0\u05ea \u05db\u05d1\u05e8 \u05dc\u05d0 \u05d0\u05d9\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/1vXEkrj2fvnyjfPl9XaoNW"
+    },
+    {
+      "album": {
         "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
         "url": "https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12"
       },
@@ -2152,6 +2192,28 @@
       "duration_ms": 151783,
       "name": "\u05d1\u05d5\u05d0 \u05d0\u05dc\u05d9\u05d9 \u05e4\u05e8\u05e4\u05e8 \u05e0\u05d7\u05de\u05d3",
       "url": "https://open.spotify.com/track/0vNyWsVeCZ5NbMqxf9Cput"
+    },
+    {
+      "album": {
+        "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05e8\u05d2\u05d9\u05e9 \u05d0\u05ea \u05d6\u05d4",
+        "url": "https://open.spotify.com/album/0SqhafySwFDOGMyvEnGF8n"
+      },
+      "artists": [
+        {
+          "name": "Roy Rieck",
+          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
+        },
+        {
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195818,
+      "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05e8\u05d2\u05d9\u05e9 \u05d0\u05ea \u05d6\u05d4",
+      "url": "https://open.spotify.com/track/1nJ4abP7EBzDQGRHWeK1QX"
     },
     {
       "album": {
@@ -2746,7 +2808,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 209230,
       "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD"
@@ -2980,7 +3042,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 180160,
       "name": "\u05d6\u05d4 \u05d1\u05d3\u05d9\u05d5\u05e7 \u05de\u05d4 \u05e9\u05d0\u05ea\u05d4 \u05d0\u05d5\u05d4\u05d1",
       "url": "https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m"
@@ -3242,7 +3304,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 185585,
       "name": "\u05d9\u05dc\u05d3\u05d4",
       "url": "https://open.spotify.com/track/6EP4IVc2g2SW1ypyvkkgg6"
@@ -3340,6 +3402,28 @@
       "duration_ms": 318000,
       "name": "\u05d9\u05e9 \u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/40kcuw2ol7Ljm0HmIGGDcc"
+    },
+    {
+      "album": {
+        "name": "\u05db\u05d7\u05d5\u05dc \u05d5\u05d9\u05e8\u05d5\u05e7",
+        "url": "https://open.spotify.com/album/5GdN1hMy3C50Gkrx7ybxLe"
+      },
+      "artists": [
+        {
+          "name": "\u05d1\u05d9\u05ea \u05d0\u05d1\u05d9 \u05d7\u05d9",
+          "url": "https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH"
+        },
+        {
+          "name": "Erez Lev Ari",
+          "url": "https://open.spotify.com/artist/6ixcPs7utvM6GEIY5Lq8HN"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238984,
+      "name": "\u05db\u05d7\u05d5\u05dc \u05d5\u05d9\u05e8\u05d5\u05e7",
+      "url": "https://open.spotify.com/track/56pmfKjE0TgbU9XbEzRd9O"
     },
     {
       "album": {
@@ -4145,6 +4229,24 @@
     },
     {
       "album": {
+        "name": "\u05e9\u05d9\u05d7\u05d5\u05ea \u05e9\u05dc\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/2W1Ud6bXVvGSMJVj6xfUTj"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/3FYdP6pprYqBtGwzqEtCsx"
+    },
+    {
+      "album": {
         "name": "\u05de\u05e8\u05d0\u05d4 \u05e9\u05d1\u05d5\u05e8\u05d4 (\u05dc\u05d9\u05d9\u05d1)",
         "url": "https://open.spotify.com/album/6NupFAXRVQ7qw2VrJwf1AE"
       },
@@ -4720,7 +4822,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 206276,
       "name": "\u05e4\u05d5\u05e8\u05d8\u05d5\u05d2\u05dc",
       "url": "https://open.spotify.com/track/6l3iux77GY6VC4rBW4bmij"
@@ -4796,7 +4898,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 194526,
       "name": "\u05e4\u05e6\u05e6\u05d4 \u05de\u05ea\u05e7\u05ea\u05e7\u05ea",
       "url": "https://open.spotify.com/track/2TI2oGfMneuezvsgzuYl4f"

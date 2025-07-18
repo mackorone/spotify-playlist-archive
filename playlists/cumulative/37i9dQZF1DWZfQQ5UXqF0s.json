@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor De OV7",
+        "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
+      },
+      "artists": [
+        {
+          "name": "OV7",
+          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249400,
+      "name": "Enloqu\u00e9ceme",
+      "url": "https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS"
+    },
+    {
+      "album": {
         "name": "Senderos De Traici\u00f3n",
         "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
       },
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 257920,
       "name": "Si t\u00fa me miras",
       "url": "https://open.spotify.com/track/3ZyaRoOvgTIzfsceL7l16G"

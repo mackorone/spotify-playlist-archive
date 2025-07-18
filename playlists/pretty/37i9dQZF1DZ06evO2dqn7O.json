@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 56700,
+  "num_followers": 56707,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAADw/qx4Vh2maCk+CV/g6/by",
+  "snapshot_id": "aHbrgAAAAACt7ZndhR3HZOjHOYRGC97R",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "HEY CHILD",
+      "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Helium",
         "url": "https://open.spotify.com/album/22N0FVAflIZLGdkCm7Np2U"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 168333,
       "name": "Helium (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "HEY CHILD",
-      "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
     },
     {
       "added_at": null,
@@ -495,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
       },
       "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Smoke On the Highway",
-      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
+      "duration_ms": 287893,
+      "name": "Bad Husband (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
     },
     {
       "added_at": null,
@@ -527,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
       "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 287893,
-      "name": "Bad Husband (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
+      "duration_ms": 253733,
+      "name": "Smoke On the Highway",
+      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
     },
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "why does everything make me cry?",
+        "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson Harris",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "leave flowers",
+      "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Townie",
         "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 233013,
       "name": "Kerosene Dreams",
       "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "why does everything make me cry?",
-        "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
-      },
-      "artists": [
-        {
-          "name": "Sam Nelson Harris",
-          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "leave flowers",
-      "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoping",
-        "url": "https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193566,
-      "name": "Hoping",
-      "url": "https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
         "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 186620,
       "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
       "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoping",
+        "url": "https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 193566,
+      "name": "Hoping",
+      "url": "https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok"
     },
     {
       "added_at": null,

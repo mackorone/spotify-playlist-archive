@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 371287,
+  "num_followers": 371356,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAADNUxgJEOTiVsgdGh6Ztcyv",
+  "snapshot_id": "aHbrgAAAAABujU5BoJak3i4XDbD0nKgu",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Capit\u00e1n",
+        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Se Cuide",
         "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 155624,
       "name": "Que Se Cuide",
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Capit\u00e1n",
-        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "El Capit\u00e1n",
-      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Buho",
+        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 176703,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 142285,
       "name": "Tommy Vercetti",
       "url": "https://open.spotify.com/track/6Dqy6XTXUcjnUUxkGCmtOp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Buho",
-        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "El Buho",
-      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
     },
     {
       "added_at": null,
@@ -907,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 180946,
+      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rico o Muerto, Vol. 1",
         "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 143333,
       "name": "Fino Con Los Valentino",
       "url": "https://open.spotify.com/track/02Rk5y9SH6OtMgl3Etln3q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 180946,
-      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
     },
     {
       "added_at": null,
@@ -1011,26 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Si Se Les Olvidaba",
-        "url": "https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Alex Torres",
-          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Por Si Se Les Olvidaba",
-      "url": "https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Bestia",
         "url": "https://open.spotify.com/album/1MVzuXnt954MHjpUhvsjqS"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 186368,
       "name": "La Bestia",
       "url": "https://open.spotify.com/track/59BnHrWc6ZBIscPQSBnuYn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Si Se Les Olvidaba",
+        "url": "https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Por Si Se Les Olvidaba",
+      "url": "https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7"
     }
   ],
   "unique_name": "This Is Luis R Conriquez",

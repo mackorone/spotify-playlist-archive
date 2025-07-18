@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,961 likes - 126 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,966 likes - 126 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 91 | [Say a Prayer \(feat\. Chaka Khan & Popcaan\)](https://open.spotify.com/track/51TcVUJY6FC8rg7yCuBoAo) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Say a Prayer \(feat\. Chaka Khan & Popcaan\)](https://open.spotify.com/album/2VFEP2sRerWukG8Aj0XaTP) | 3:42 |
 | 92 | [Walk On By](https://open.spotify.com/track/0YACnkfd4NWuiPgjXVJwOD) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:23 |
 | 93 | [Shhh](https://open.spotify.com/track/33M2tDx9oB2YAbOUY4qcJV) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 3:22 |
-| 94 | [Last Summer](https://open.spotify.com/track/7K6H44x9AOkrt3PK6ig4w0) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/5jB0uErLmgkzvmH5h1zour) | 2:54 |
-| 95 | [All Dressed Up](https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:02 |
+| 94 | [All Dressed Up](https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:02 |
+| 95 | [Last Summer](https://open.spotify.com/track/7K6H44x9AOkrt3PK6ig4w0) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/5jB0uErLmgkzvmH5h1zour) | 2:54 |
 | 96 | [Escapism\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/3nb5nlbw4uM5posrOgKm6j) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 7:02 |
 | 97 | [Fin.](https://open.spotify.com/track/7j7MArN6cotJVlbn5HOQ1t) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 0:30 |
 | 98 | [1by1 \(feat\. RAYE & Maleek Berry\)](https://open.spotify.com/track/0MMYHVhb9kyxW1JpK9IBoK) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK) | 4:08 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 125 | [I, U, Us \- RIVRS Remix](https://open.spotify.com/track/4g22usiSE89zT5JXZlSx9m) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [RIVRS](https://open.spotify.com/artist/34aOTkYOSP2yYdAanKdhbu) | [I, U, Us \(The Remixes\)](https://open.spotify.com/album/1OQ08PNMnSd2Iizo027Lb5) | 3:39 |
 | 126 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `Ab29kgAAAABjbEgfn2ctQUwCfUx2Q4wz`
+Snapshot ID: `Ab3DMgAAAABzCFuEdKcozeKHr9pO68mJ`

@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,153 songs - 2 day 2 hr 56 min
+1,154 songs - 2 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Dreamin'](https://open.spotify.com/track/3UPtRj3lH32FG8yZc4ooWa) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj), [RVLE](https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy) | [Dreamin'](https://open.spotify.com/album/0ierS5XJBIGXN7FDA0bh0E) | 2:17 | 2024-09-30 | 2024-11-21 |
 | [Dreaming](https://open.spotify.com/track/0XHJg1cyDG1qSdhg4rM57r) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Dreaming](https://open.spotify.com/album/04I76DwTuVTs3ktofU9OKa) | 2:07 | 2024-12-13 | 2025-01-11 |
 | [Dreaming In The Sky](https://open.spotify.com/track/1qnnYYVn4zEJgfLvZvq1H6) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr) | [Dreaming In The Sky](https://open.spotify.com/album/7CyDIaeZ0ZwHA4vTgsBqH1) | 2:58 | 2025-02-14 | 2025-03-14 |
+| [Drift Away](https://open.spotify.com/track/4XPzaKCA7AQKnRPZ83tFu6) | [Quida](https://open.spotify.com/artist/2bovUuU5iCljXcMk3v86fk), [Luke James Shaffer](https://open.spotify.com/artist/5rhcXbjwP1pnyqjlNo4AoP) | [Drift Away](https://open.spotify.com/album/6Xd5jzuyDY3LYsxM6aHQFA) | 2:07 | 2025-07-17 |  |
 | [Drift Away Into The Grey](https://open.spotify.com/track/0mYred93yYbM1bv4FzfT1W) | [ELERA](https://open.spotify.com/artist/4xo3EH1H4QcgoX3512eF4N), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh) | [Drift Away Into The Grey](https://open.spotify.com/album/5TxZEWllbJvZ6L1zQp1oAz) | 2:08 | 2025-03-28 |  |
 | [Drifted Away](https://open.spotify.com/track/4FEg06HTTbU1bgzXd0gHvy) | [Jace Winter](https://open.spotify.com/artist/5xdImw7qBLc0z1HfGI8OYW), [Night Sky](https://open.spotify.com/artist/7CxLhJWH8dGeJI4P0egvFy) | [Drifted Away](https://open.spotify.com/album/69l2W9QiQFYS0x2lYrQWrC) | 2:38 | 2024-07-12 | 2025-03-14 |
 | [Drifting Away](https://open.spotify.com/track/3yeuG4c0lmwuHwFWD4W4dm) | [Aron Matthews](https://open.spotify.com/artist/7cmyUzMi6RNTKMiEpLUyxH), [Maxiz](https://open.spotify.com/artist/0tPvS7MPWR6z5WTN1dDqN3), [Saintro P Sax Up](https://open.spotify.com/artist/5d0miqmqbZ03OTRV3A2T7Y) | [Drifting Away](https://open.spotify.com/album/6dqO17ZAmTToFgzHt0jEtY) | 2:15 | 2024-06-21 | 2024-07-20 |

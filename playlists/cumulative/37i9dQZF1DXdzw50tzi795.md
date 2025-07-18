@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Only Monday
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Z9
 
 177 songs - 11 hr 29 min
 

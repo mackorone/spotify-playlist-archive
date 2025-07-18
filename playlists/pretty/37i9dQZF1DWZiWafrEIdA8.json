@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11609,
+  "num_followers": 11623,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
+        "name": "MELOH",
+        "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
+      },
+      "artists": [
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "duration_ms": 160104,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
         "name": "Welcome to the Kicako House",
         "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 195375,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
-        "name": "MELOH",
-        "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
-      },
-      "artists": [
-        {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
-        },
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        }
-      ],
-      "duration_ms": 160104,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "RE:UP",
-        "url": "https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Good Night (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "Action!",
         "url": "https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 190812,
       "name": "Action! (Feat. GRAY)",
       "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "RE:UP",
+        "url": "https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Good Night (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -887,22 +887,26 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
       "artists": [
         {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
-          "name": "\ucfe0\uae30 (Coogie)",
-          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 168640,
-      "name": "Shawty (feat. Coogie)",
-      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
+      "duration_ms": 236524,
+      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -935,26 +939,22 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
         },
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "\ucfe0\uae30 (Coogie)",
+          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
         }
       ],
-      "duration_ms": 236524,
-      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+      "duration_ms": 168640,
+      "name": "Shawty (feat. Coogie)",
+      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
     },
     {
       "added_at": "2025-04-09 05:00:26",

@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-134 songs - 7 hr 30 min
+135 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [déjame vivir](https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 3:27 | 2024-01-29 | 2024-06-03 |
 | [El 0\-10](https://open.spotify.com/track/5BYCIO0bie4rbtRp3QpeXG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [El 0\-10](https://open.spotify.com/album/3InQJ7xM3XPE7BzMizPgW6) | 2:42 | 2024-01-29 |  |
 | [EL AMOR NUNCA SE VENDE \- En Vivo](https://open.spotify.com/track/0FC0wOPpXiRT4Vu3tk8QAH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [EL AMOR NUNCA SE VENDE \(En Vivo\)](https://open.spotify.com/album/2dxsZvPEjOITBYHa91huZm) | 3:27 | 2025-02-09 | 2025-04-09 |
+| [EL AMOR NUNCA SE VENDE \- En Vivo](https://open.spotify.com/track/6oMnXRNH3jGNZTZhZZoJ5p) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:27 | 2025-07-18 |  |
 | [EL ARQUITECTO](https://open.spotify.com/track/7HHEleNNNKkvSr1e2Axtu3) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:28 | 2024-02-14 | 2024-11-10 |
 | [EL ATASCADO](https://open.spotify.com/track/43z9qW2zWacyDL5zENZ2il) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 2:54 | 2024-08-27 | 2024-11-04 |
 | [El Caballero \(Live\)](https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:46 | 2024-01-29 |  |
@@ -110,7 +111,7 @@
 | [NO TE VAYAS](https://open.spotify.com/track/4mlKCvR8Rowgm9MKEFa8H4) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:19 | 2024-10-25 | 2025-05-07 |
 | [Pa Que Sepan De Una Vez](https://open.spotify.com/track/2xS2oBq0mCa7O4RbdxBtxL) | [Carlos Y Los Del Monte Sinai](https://open.spotify.com/artist/3bNAwmmGrAz6YTioxIBmXc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Pa Que Sepan De Una Vez](https://open.spotify.com/album/5lFgevGf7iLk3WOe7Uhz3G) | 2:57 | 2024-01-29 |  |
 | [Popurri de Cumbias](https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Sigo Firme de Pie](https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT) | 4:50 | 2024-01-29 | 2024-09-25 |
-| [POPURRÍ RETRO \- En Vivo](https://open.spotify.com/track/4Qe6D5zMsUnuEFQG1cg8vU) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Conjunto Amenaza](https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs) | [POPURRÍ RETRO \(En Vivo\)](https://open.spotify.com/album/3vWJhdj4HXVYvCLuVIzWIf) | 5:00 | 2025-02-16 |  |
+| [POPURRÍ RETRO \- En Vivo](https://open.spotify.com/track/4Qe6D5zMsUnuEFQG1cg8vU) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Conjunto Amenaza](https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs) | [POPURRÍ RETRO \(En Vivo\)](https://open.spotify.com/album/3vWJhdj4HXVYvCLuVIzWIf) | 5:00 | 2025-02-16 | 2025-07-18 |
 | [POR UNA MUJER BONITA \- En Vivo](https://open.spotify.com/track/7o2EnXIUtVo8lVIDrKXLfd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Mas Sierreños](https://open.spotify.com/artist/5pRtqHfS2cUHCuywRcEXhK) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:05 | 2025-04-16 | 2025-06-01 |
 | [PRC \- En Vivo](https://open.spotify.com/track/56XItKFtHbwf6Eneqkd9oj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 3:11 | 2024-03-31 |  |
 | [QUIÉREME](https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:43 | 2024-09-04 | 2025-07-17 |

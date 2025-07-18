@@ -4,7 +4,7 @@
 
 > Enjoy music from "Panty & Stocking with Garterbelt"! \(C\)2010 GAINAX/GEEKS
 
-43 songs - 2 hr 19 min
+45 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Jumping Mole \(Nerdcore Switch\)](https://open.spotify.com/track/6iKR0Pt6xVSdbutHQ9IcFf) | [Booty Bronx](https://open.spotify.com/artist/77GkDg3WzWxJ5Qna5m5SEA), [Mitsunori Ikeda](https://open.spotify.com/artist/6EP9l6n1MqBWLMDLsBGZSx), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Panty & Stocking with Garterbelt　"THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 2:58 | 2021-05-26 |  |
 | [Milky Way](https://open.spotify.com/track/3OLKyuQB5bWqLy2TYM09XF) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [Mariya Ise aka Stocking](https://open.spotify.com/artist/41YPK4nvGCT5ovh12DBHHn) | [Panty & Stocking with Garterbelt　"THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 4:45 | 2021-05-26 |  |
 | [Pantscada](https://open.spotify.com/track/3HGAHL7UU7r4grC2iGLLyL) | [TCY FORCE](https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 1:59 | 2021-05-26 |  |
+| [Reckless](https://open.spotify.com/track/2xMPEzxoG8tXDnOKewVfjx) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [Adee A.](https://open.spotify.com/artist/3O9DIzF5U9WkV0FzoTu2Nr) | [Reckless](https://open.spotify.com/album/4dYMkjviJIIVnrhIXYtHix) | 3:07 | 2025-07-17 |  |
 | [S\-Trip](https://open.spotify.com/track/65n3JsGjVrU1nnek8DrUXD) | [TCY FORCE](https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe) | [Panty & Stocking with Garterbelt　"THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 2:01 | 2021-05-26 |  |
 | [Schranz Chase](https://open.spotify.com/track/7Gh1w0rnihbqQpn8Rk1u8m) | [Booty Bronx](https://open.spotify.com/artist/77GkDg3WzWxJ5Qna5m5SEA) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 5:23 | 2021-05-26 |  |
 | [See\-Through](https://open.spotify.com/track/2vd92UGsD75QE42uOoIIiP) | [Hoshina Anniversary](https://open.spotify.com/artist/6DuASRDmTMKVZr4kwiots9) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 4:47 | 2021-05-26 |  |
@@ -50,6 +51,7 @@
 | [Theme for Panty & Stocking](https://open.spotify.com/track/1QV930MbloRewXxzICU3v4) | [Hoshina Anniversary](https://open.spotify.com/artist/6DuASRDmTMKVZr4kwiots9) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 0:32 | 2021-05-26 |  |
 | [Theme for Panty & Stocking \(Hoshina Anniversary Remix\)](https://open.spotify.com/track/5iiT42kw0YDvybyBnf6cy1) | [Hoshina Anniversary](https://open.spotify.com/artist/6DuASRDmTMKVZr4kwiots9) | [Panty & Stocking with Garterbelt　"THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 4:52 | 2021-05-26 |  |
 | [Theme for Scanty & Knee Socks](https://open.spotify.com/track/6Za2rCpQhZrRXldgz1MFAk) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 4:14 | 2021-05-26 |  |
+| [Theme of New PANTY & STOCKING](https://open.spotify.com/track/0behwHkoQ0HSMk5wQiVPlB) | [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Theme of New PANTY & STOCKING](https://open.spotify.com/album/3XWH4ZodF0FRlvpj9VUdJU) | 0:33 | 2025-07-17 |  |
 | [Yesline Dub](https://open.spotify.com/track/4me6Bxcc3Po5OFf71YosnN) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Panty & Stocking with Garterbelt　"THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 3:47 | 2021-05-26 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

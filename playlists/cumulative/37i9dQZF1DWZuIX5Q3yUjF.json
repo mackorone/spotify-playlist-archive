@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Kuban in cover della playlist dell'R&B italiano \ud83d\udc60",
+  "description": "GIOIA in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -4633,6 +4633,24 @@
     },
     {
       "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/4LgnoL4ZRqh0z74aTqMhat"
+      },
+      "artists": [
+        {
+          "name": "GIOIA",
+          "url": "https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Easy Tiger",
+      "url": "https://open.spotify.com/track/2H5FqzUYCgJw0SVcCAGeEv"
+    },
+    {
+      "album": {
         "name": "Effetto Domino (feat. Evra & Blue Phelix)",
         "url": "https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k"
       },
@@ -4816,7 +4834,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 171462,
       "name": "Falli fuori",
       "url": "https://open.spotify.com/track/0vE4Yo5pKhYi1dhGyiocXW"
@@ -5732,6 +5750,24 @@
       "duration_ms": 150340,
       "name": "FUORI DI TE",
       "url": "https://open.spotify.com/track/1mLlEeGAGfojR6RPks8bFU"
+    },
+    {
+      "album": {
+        "name": "FUORISEDE",
+        "url": "https://open.spotify.com/album/7tzPnaLL0jxNHeN8dHo9pw"
+      },
+      "artists": [
+        {
+          "name": "LeUltimeParoleFamose",
+          "url": "https://open.spotify.com/artist/5oo7NgTzaaryCa35ZIEqg1"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185403,
+      "name": "FUORISEDE",
+      "url": "https://open.spotify.com/track/0sEb1ViSwfkLtgwOSnOMjg"
     },
     {
       "album": {
@@ -6822,7 +6858,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 149030,
       "name": "INSTINTO",
       "url": "https://open.spotify.com/track/7J4H1nqO8Rd1jO0FvkFPL0"
@@ -7203,6 +7239,24 @@
     },
     {
       "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/0q2DctpHb0HbJRMWIaXr1V"
+      },
+      "artists": [
+        {
+          "name": "Caleydo",
+          "url": "https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "Kylie",
+      "url": "https://open.spotify.com/track/4WbOOS239xyycYvtx6Ocag"
+    },
+    {
+      "album": {
         "name": "L u n e d \u00ec",
         "url": "https://open.spotify.com/album/3nqSdPejIcdFA9z3eEmcip"
       },
@@ -7214,7 +7268,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 153423,
       "name": "L u n e d \u00ec",
       "url": "https://open.spotify.com/track/3zFbb4opw7Jyc4QkHZozhE"
@@ -9598,7 +9652,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 181978,
       "name": "Nel Mio Diario",
       "url": "https://open.spotify.com/track/0Oh45z7u7Riepu3YVL4cjG"
@@ -10832,6 +10886,24 @@
       "duration_ms": 123830,
       "name": "Offline",
       "url": "https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX"
+    },
+    {
+      "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/1VQRMIxRRAUWTa6ePM9aQy"
+      },
+      "artists": [
+        {
+          "name": "T\u00c4RA",
+          "url": "https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90157,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/2Xp3dMpk5VrnG9RIi8bkVI"
     },
     {
       "album": {
@@ -14602,6 +14674,24 @@
       "duration_ms": 179999,
       "name": "STYLISH",
       "url": "https://open.spotify.com/track/7Jm08pyyaIGe3JQKzLWrom"
+    },
+    {
+      "album": {
+        "name": "Sudamerica",
+        "url": "https://open.spotify.com/album/48xyRhgDbvu2yqfubWoNvH"
+      },
+      "artists": [
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157066,
+      "name": "Sudamerica",
+      "url": "https://open.spotify.com/track/7pVk9Mov9OxPyIWp4fOOSB"
     },
     {
       "album": {

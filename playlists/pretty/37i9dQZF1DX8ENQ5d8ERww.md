@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,807 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,808 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 12 | [Gedankegäng](https://open.spotify.com/track/1Gn956F0SU6oKY0cGrAgEq) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 3:02 |
 | 13 | [Avenue \(feat\. Karolyn\)](https://open.spotify.com/track/2oBcWgTaL7Hf3kwyKKoKAM) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Avenue \(feat\. Karolyn\)](https://open.spotify.com/album/1FROZGtaQG82Gr2SkohAE3) | 3:32 |
 | 14 | [Stars und Sternli](https://open.spotify.com/track/4MlczrGSAqPqRupKLRsZUj) | [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS) | [Wurzle & Chrone](https://open.spotify.com/album/3aGKP36WDLsuImUpGG6qSM) | 4:08 |
-| 15 | [\[Ä\]](https://open.spotify.com/track/6lQPodqFBJRQqvuHPwY7ag) | [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr) | [\[Ã\]](https://open.spotify.com/album/5Hu42gMxa1sqnZXIAb3edZ) | 2:57 |
-| 16 | [Engel Vo Züri](https://open.spotify.com/track/5OETCdn1Y51cTsdWOVjWQg) | [Semantik](https://open.spotify.com/artist/2EMN6fOJ9EF6cUcd9pv7hE) | [Molotow](https://open.spotify.com/album/6E9o75YzTD5tJ5v3lWoGZR) | 4:00 |
+| 15 | [Engel Vo Züri](https://open.spotify.com/track/5OETCdn1Y51cTsdWOVjWQg) | [Semantik](https://open.spotify.com/artist/2EMN6fOJ9EF6cUcd9pv7hE) | [Molotow](https://open.spotify.com/album/6E9o75YzTD5tJ5v3lWoGZR) | 4:00 |
+| 16 | [\[Ä\]](https://open.spotify.com/track/6lQPodqFBJRQqvuHPwY7ag) | [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr) | [\[Ã\]](https://open.spotify.com/album/5Hu42gMxa1sqnZXIAb3edZ) | 2:57 |
 | 17 | [Alte Sagg Style Feat\. Zitral, Poet & Gimma](https://open.spotify.com/track/52FSWnsdjdIpnCV9SU44nO) | [Shape](https://open.spotify.com/artist/3Bl22TVSVYUKkjFt1MJnYB), [TReBeats](https://open.spotify.com/artist/7182LQiVNLr3PrgTVU6lvy), [Zitral](https://open.spotify.com/artist/7hdrnTY2ervuIYRk0yYNzZ), [Poet](https://open.spotify.com/artist/3XR20EsspSRXrVW1AZm9jD), [Gimma](https://open.spotify.com/artist/3lShmS9FBjiOfFURcLkihv) | [Zwei Für Eine](https://open.spotify.com/album/0HMygdLJEwpl0atJOshRwN) | 4:22 |
 | 18 | [Mais oú? \- Single Version](https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Golden Greats](https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw) | 4:14 |
 | 19 | [So simer](https://open.spotify.com/track/5O9S52yM9oARUeeHZgLgPb) | [DJ Mo\-B](https://open.spotify.com/artist/4bBA2tEasJAVSYL4PkjZuD), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH), [Phantwo](https://open.spotify.com/artist/31HgGjib7grAQAexsT5eFp) | [The Show Must Go On](https://open.spotify.com/album/5cLUhcAm3X2MR9P9yiCn0H) | 3:55 |

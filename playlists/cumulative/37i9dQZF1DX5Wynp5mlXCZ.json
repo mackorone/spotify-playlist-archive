@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: LAUD",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Korolova & Artem Pivovarov",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 128780,
       "name": "BALAMUT",
       "url": "https://open.spotify.com/track/3fGpH0PONVw8mIy8Ch1hzB"
@@ -1038,6 +1038,32 @@
       "duration_ms": 177138,
       "name": "FENOMENAL'",
       "url": "https://open.spotify.com/track/1b977NIX97rPhUrvt57udY"
+    },
+    {
+      "album": {
+        "name": "Fight For Life",
+        "url": "https://open.spotify.com/album/0vgX5kKmTBtM6BB4CBJyam"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Artem Pivovarov",
+          "url": "https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW"
+        },
+        {
+          "name": "Usyk",
+          "url": "https://open.spotify.com/artist/7k3VABEhfvBBkZ414x2ALB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Fight For Life",
+      "url": "https://open.spotify.com/track/3lDBo8CXgQQyEfFqK6JWWF"
     },
     {
       "album": {
@@ -4403,6 +4429,24 @@
     },
     {
       "album": {
+        "name": "\u0412\u043e\u0432\u0447\u0438\u0446\u044f",
+        "url": "https://open.spotify.com/album/4gTqoBvJVA4Tkwf6NojZ2K"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0430\u0436\u0430\u043d\u043d\u0430",
+          "url": "https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160243,
+      "name": "\u0412\u043e\u0432\u0447\u0438\u0446\u044f",
+      "url": "https://open.spotify.com/track/55FNRsV6oyt5jQVhKlWvsM"
+    },
+    {
+      "album": {
         "name": "\u0412\u043f\u0435\u0432\u043d\u0435\u043d\u0438\u0439",
         "url": "https://open.spotify.com/album/7BNtzhYlPHAMgvyrctWhsW"
       },
@@ -4638,7 +4682,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 144000,
       "name": "\u0414\u0435\u0436\u0430\u0432\u044e",
       "url": "https://open.spotify.com/track/72XSce6JOfylRoXO0jwz0Z"

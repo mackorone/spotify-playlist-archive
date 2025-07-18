@@ -439,6 +439,28 @@
     },
     {
       "album": {
+        "name": "Big Shot",
+        "url": "https://open.spotify.com/album/3L08s7zuLLWWoq6sENR7QT"
+      },
+      "artists": [
+        {
+          "name": "RAK",
+          "url": "https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT"
+        },
+        {
+          "name": "Cisko Disco",
+          "url": "https://open.spotify.com/artist/31EYpybl0cnGRE6Bb5a2sM"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173548,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/5KWxCwqlUYSf5X7SlDyW9q"
+    },
+    {
+      "album": {
         "name": "Bomb",
         "url": "https://open.spotify.com/album/3Y3cRb0PDi1okh0yLMZpCC"
       },

@@ -4,7 +4,7 @@
 
 > Kom maar op met de zon ☀️🌼🌻
 
-707 songs - 1 day 11 hr 44 min
+708 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [Lost Love](https://open.spotify.com/track/10uL8zMFDZVfB9voq9PQPB) | [Thomas Nicolas](https://open.spotify.com/artist/7pXdNMrXe30tL64f3N5rN8) | [Lost Love](https://open.spotify.com/album/3NOpRc2HifqbW3bXWMTWNy) | 2:16 | 2023-02-23 | 2023-05-12 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-23 | 2023-04-22 |
 | [Louder](https://open.spotify.com/track/2uNoq7Xuqo7wBBg1rU3Xjk) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/1oQupLohOrOigi27xo9qwf) | 3:49 | 2024-01-29 | 2024-09-25 |
-| [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-12-05 |  |
+| [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-12-05 | 2025-07-18 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-05-08 |  |
 | [Love Me Now \(feat\. FAST BOY\)](https://open.spotify.com/track/6VtfGGQOasBhSQOpCfIcWb) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Love Me Now \(feat\. FAST BOY\)](https://open.spotify.com/album/6kqbEWmGMdpVaJ9ZL2kCun) | 2:32 | 2023-02-23 | 2023-03-10 |
 | [Love Myself](https://open.spotify.com/track/5zxDNiK8R1nnoTrdhAUrrC) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Myself](https://open.spotify.com/album/02CMBTAlxSxs1X5hj8fDSf) | 2:59 | 2023-02-23 | 2023-02-28 |
@@ -401,6 +401,7 @@
 | [Maar 1 Wens Met Kerstmis](https://open.spotify.com/track/0sfETdT3iZMCuh38fCoz1X) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Maar 1 Wens Met Kerstmis](https://open.spotify.com/album/6HGyfUC9HO0v6S6WDrjCKc) | 2:46 | 2023-12-14 | 2023-12-30 |
 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 | 2025-06-05 |  |
 | [Mad World](https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Mad World](https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV) | 2:22 | 2025-02-27 | 2025-05-30 |
+| [Made For You](https://open.spotify.com/track/5xowE9dZ93cROazoBWa11a) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Made For You](https://open.spotify.com/album/5zCw0HaIquM9qynjHoTzRb) | 2:39 | 2025-07-17 |  |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2023-02-23 | 2023-05-12 |
 | [Magic With You](https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [Alex Germys](https://open.spotify.com/artist/0cI6OkaZLXsri5KKsbEUnD), [Alex Lucas](https://open.spotify.com/artist/5gBMpIeE2zqYUoBOYD9lKB) | [Magic With You](https://open.spotify.com/album/0Icms8qDgPxre5SIr3GUDW) | 2:36 | 2025-02-20 |  |
 | [Mais além \(Beyond\)](https://open.spotify.com/track/6ruAYarEGAhBlKXeip5nYN) | [Zuco 103](https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA) | [Mais além \(Beyond\)](https://open.spotify.com/album/0ZZS2TrYk46doyRvE1qzvb) | 3:28 | 2025-06-05 |  |

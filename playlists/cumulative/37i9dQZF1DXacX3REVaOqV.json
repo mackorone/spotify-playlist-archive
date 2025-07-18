@@ -821,6 +821,28 @@
     },
     {
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/54oAoS1aEqeTCFAlY6Q0LH"
+      },
+      "artists": [
+        {
+          "name": "AstroHertz",
+          "url": "https://open.spotify.com/artist/5vaObyIjKlwnyb9PVTtn6c"
+        },
+        {
+          "name": "Hotinga",
+          "url": "https://open.spotify.com/artist/0UKxzPGay2En9BDF9LEtF6"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242050,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/29BkVH95RgsaXHBnx4F4BG"
+    },
+    {
+      "album": {
         "name": "The Lost Grooves EP",
         "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
       },
@@ -868,7 +890,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 316097,
       "name": "Baby Voque",
       "url": "https://open.spotify.com/track/3G8vb4FR4K0TNemgWvpPdJ"
@@ -3142,6 +3164,28 @@
       "duration_ms": 163500,
       "name": "Easy Baby",
       "url": "https://open.spotify.com/track/6x9zA8ibdDsEJtxEeeMNor"
+    },
+    {
+      "album": {
+        "name": "Edge of Desire",
+        "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134905,
+      "name": "Edge of Desire",
+      "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
     },
     {
       "album": {
@@ -7085,6 +7129,24 @@
     },
     {
       "album": {
+        "name": "LOOKS LIKE IT (SPACE TALK)",
+        "url": "https://open.spotify.com/album/0jdZoNtxVUOn1ANFJhyWW7"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178763,
+      "name": "LOOKS LIKE IT (SPACE TALK)",
+      "url": "https://open.spotify.com/track/16XeipT6LkTIHfP3fcP2hu"
+    },
+    {
+      "album": {
         "name": "Lose My Mind (feat. Taylor Moody)",
         "url": "https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm"
       },
@@ -10020,7 +10082,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 357840,
       "name": "Searching for love - Jackin' Vibes Mix",
       "url": "https://open.spotify.com/track/56apWnb2IzYgkHVI4rSLJ1"
@@ -11662,7 +11724,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 218530,
       "name": "The Game",
       "url": "https://open.spotify.com/track/1s8xGfe1FlFVWG5rlK3ysF"

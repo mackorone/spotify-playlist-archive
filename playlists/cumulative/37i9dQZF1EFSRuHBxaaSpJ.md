@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-83 songs - 4 hr 20 min
+85 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,9 +80,11 @@
 | [Royal cheese](https://open.spotify.com/track/6R2ZPGhBifm1i793PMnXws) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:09 | 2024-06-07 |  |
 | [Saiyan](https://open.spotify.com/track/2BvjmY4Mp5q1AHL0laetd6) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Chef D'orchestre](https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7) | 3:09 | 2024-06-07 |  |
 | [Solo](https://open.spotify.com/track/28fAQAsMD86wB6K3Am282K) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Solo](https://open.spotify.com/album/4tKml0RxOek2UjAhLl2Nzo) | 3:28 | 2024-06-07 |  |
+| [Stigmates](https://open.spotify.com/track/6AEd14DP46Dtn7Y0pXwjYf) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 4:53 | 2025-07-17 |  |
 | [T'es où](https://open.spotify.com/track/7hrYEBoSeQlEk7CU1l2Sob) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:12 | 2024-06-07 |  |
 | [T'es un marrant \(feat\. Sofiane\)](https://open.spotify.com/track/68mVd6a9VJhCSIjgwB76nK) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Nous\-mêmes](https://open.spotify.com/album/72H8WHsPCwc9MJHLwFRLYk) | 3:22 | 2024-06-07 |  |
 | [Terminer](https://open.spotify.com/track/6fHYEeB30chvQLqEpm89pR) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 3:03 | 2024-06-07 |  |
+| [Terrain](https://open.spotify.com/track/6NsKnkuSupS2slL2UKDYMG) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 3:08 | 2025-07-17 |  |
 | [Ton love](https://open.spotify.com/track/7d3tcVaz3RIEV4gzy21Kp7) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:18 | 2024-06-07 |  |
 | [Verre de trop](https://open.spotify.com/track/3xWrtnQ5KF0PCf477iLpoz) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan : La Gelée Royale](https://open.spotify.com/album/192Df1MyinzzC8CfiIy1Dt) | 2:39 | 2024-12-11 |  |
 | [VHR](https://open.spotify.com/track/0YgPC4UQhot3W5WkC1o2jM) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:33 | 2024-06-07 |  |

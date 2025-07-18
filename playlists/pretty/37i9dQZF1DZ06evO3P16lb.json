@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAACPGA6wo9clFDl5xNCRHagi",
+  "snapshot_id": "aHbrgAAAAAC72DL8E4iKHUdnbFrrThEO",
   "tracks": [
     {
       "added_at": null,
@@ -364,13 +364,13 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         },
         {
-          "name": "Victoria La Mala",
-          "url": "https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 137055,
-      "name": "El Motivo",
-      "url": "https://open.spotify.com/track/59KuYnpIYmtanXQzJ7XTQa"
+      "duration_ms": 212803,
+      "name": "Al\u00e9rgica",
+      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
     },
     {
       "added_at": null,
@@ -423,42 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Como en las Pel\u00edculas de Antes",
-        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 193631,
-      "name": "Qui\u00e9reme As\u00ed",
-      "url": "https://open.spotify.com/track/7pomnxYbEnoNFmfnqwO8bR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 212803,
-      "name": "Al\u00e9rgica",
-      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Herederos",
         "url": "https://open.spotify.com/album/0hABgz6rVsCKDjGW9TtLtY"
       },
@@ -479,6 +443,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Victoria La Mala",
+          "url": "https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc"
+        }
+      ],
+      "duration_ms": 137055,
+      "name": "El Motivo",
+      "url": "https://open.spotify.com/track/59KuYnpIYmtanXQzJ7XTQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Como en las Pel\u00edculas de Antes",
+        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 193631,
+      "name": "Qui\u00e9reme As\u00ed",
+      "url": "https://open.spotify.com/track/7pomnxYbEnoNFmfnqwO8bR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
       },
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Como en las Pel\u00edculas de Antes",
-        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
+        "name": "Luna de Octubre",
+        "url": "https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 188104,
-      "name": "C\u00f3mo Olvidarte",
-      "url": "https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw"
+      "duration_ms": 194932,
+      "name": "Luna de Octubre",
+      "url": "https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna de Octubre",
-        "url": "https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8"
+        "name": "Amor Como en las Pel\u00edculas de Antes",
+        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 194932,
-      "name": "Luna de Octubre",
-      "url": "https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv"
+      "duration_ms": 188104,
+      "name": "C\u00f3mo Olvidarte",
+      "url": "https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
       "duration_ms": 194705,
       "name": "Cien A\u00f1os - En Vivo",
       "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Como en las Pel\u00edculas de Antes",
-        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 234864,
-      "name": "Besarte As\u00ed",
-      "url": "https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6"
     },
     {
       "added_at": null,
@@ -611,6 +595,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Como en las Pel\u00edculas de Antes",
+        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 234864,
+      "name": "Besarte As\u00ed",
+      "url": "https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' Dentro",
+        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 345911,
+      "name": "Ella - Tu Recuerdo y Yo - Canta, Canta, Canta - En Vivo",
+      "url": "https://open.spotify.com/track/1UppMIrayJYVKtFTxWYyF1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mundo (En Vivo)",
         "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
       },
@@ -636,25 +668,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 196022,
-      "name": "El Amor Perfecto",
-      "url": "https://open.spotify.com/track/5Kg8hGm0Hpya8UveUTElKz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' Dentro",
-        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Pa' Dentro - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
+      "duration_ms": 224892,
+      "name": "Qui\u00e9n No Ha Llorado Por Amor",
+      "url": "https://open.spotify.com/track/1a8Pr4g7Q9OIjZyOrS7HWH"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
       "duration_ms": 169596,
       "name": "Una \u00daltima Noche",
       "url": "https://open.spotify.com/track/3qarQbqnHhVji8OObEFeWK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 345911,
-      "name": "Ella - Tu Recuerdo y Yo - Canta, Canta, Canta - En Vivo",
-      "url": "https://open.spotify.com/track/1UppMIrayJYVKtFTxWYyF1"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dios Nunca Muere",
-        "url": "https://open.spotify.com/album/4ADTs7kIW4dVdteX7sXYgy"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 188341,
-      "name": "Dios Nunca Muere",
-      "url": "https://open.spotify.com/track/3GX2IkCwAglVsnL7fgX3iK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 202259,
       "name": "Siempre, Siempre - En Vivo",
       "url": "https://open.spotify.com/track/62pCEqKU6Nx2tJmXdYEBYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dios Nunca Muere",
+        "url": "https://open.spotify.com/album/4ADTs7kIW4dVdteX7sXYgy"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 188341,
+      "name": "Dios Nunca Muere",
+      "url": "https://open.spotify.com/track/3GX2IkCwAglVsnL7fgX3iK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-521 songs - 1 day 5 hr 27 min
+522 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [La Despedida](https://open.spotify.com/track/3pWKmAgp9FnQCsMPvrKlTa) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [La Despedida](https://open.spotify.com/album/3rjay3TC0UuyXz9jXAznhx) | 2:27 | 2024-05-17 |  |
 | [La Despedida](https://open.spotify.com/track/3Fh0EvWz8a7iIrt2jI14g3) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [La Despedida](https://open.spotify.com/album/7M4JewGp3T8YwdB1Z76NyO) | 3:47 | 2022-04-01 | 2022-05-06 |
 | [La Fiesta](https://open.spotify.com/track/6xRQTg5eD6HtpkWOZZQ8hf) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg), [Tomas Ferrero](https://open.spotify.com/artist/16OtEqLFEuzr64OXhJr6zN) | [Salvar el Recuerdo](https://open.spotify.com/album/3uEWU4qHZsCaBhq94JusxH) | 3:28 | 2022-04-01 | 2022-06-25 |
+| [La flor](https://open.spotify.com/track/3NVKTfHRh54yr5bGcCt5Z1) | [Minco](https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0) | [La flor](https://open.spotify.com/album/7AhQPybEfm0TDETnoYNHSY) | 2:57 | 2025-07-17 |  |
 | [la forma de quererte](https://open.spotify.com/track/47bGdiFesm5zMfTb8YAZ4S) | [Diego Mema](https://open.spotify.com/artist/1Z3h97nviCGdb6bMlZKoOj) | [La Montaña](https://open.spotify.com/album/00wMHyrJx9Z5mtL2Fljcaw) | 3:55 | 2024-10-16 |  |
 | [La Forma del Amor](https://open.spotify.com/track/6ByMAW7FXsSsxfmbRtzJDJ) | [Pablo Caputto](https://open.spotify.com/artist/4YfqsOBCoCMbm9SpFe4cMl), [Polo Rojo](https://open.spotify.com/artist/0vHJT2NPqeD8d7DZODLMKS) | [La Forma del Amor](https://open.spotify.com/album/2lPf4IZ4Rb8k7VlA6aBDXd) | 3:03 | 2022-04-01 | 2022-04-19 |
 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 | 2022-07-15 | 2022-07-25 |
@@ -476,7 +477,7 @@
 | [Tripulantes](https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Tripulantes](https://open.spotify.com/album/47BgPHezfsfaXbcE0Legup) | 3:48 | 2022-01-28 | 2024-08-17 |
 | [Trueno](https://open.spotify.com/track/6xy9QC9gzq1svvnkpbqFk6) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Trueno](https://open.spotify.com/album/0kcIOQIumDdPdU8JH8UrGS) | 3:36 | 2022-01-07 | 2022-07-16 |
 | [Tu Cabeza](https://open.spotify.com/track/24ZePEqPyCvc2jT2TwLUWA) | [Bleckance](https://open.spotify.com/artist/7g3enk0PeZO2E1vqtVn6UD) | [Tu Cabeza](https://open.spotify.com/album/0o20muf7fSEktMPvoDCPp9) | 2:07 | 2022-04-01 | 2022-07-16 |
-| [Tu Costado Más Feroz](https://open.spotify.com/track/6wLQARt5kV2nigf2dxmCaX) | [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Tu Costado Más Feroz](https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb) | 2:16 | 2022-04-01 |  |
+| [Tu Costado Más Feroz](https://open.spotify.com/track/6wLQARt5kV2nigf2dxmCaX) | [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Tu Costado Más Feroz](https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb) | 2:16 | 2022-04-01 | 2025-07-18 |
 | [Tu Falta De Querer](https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx) | [Jacinta](https://open.spotify.com/artist/5cYpv6tLZvRfIndbiFNavB), [Santiago Manrique](https://open.spotify.com/artist/6Ks29wN2dCdwF6oUGKHI1h) | [Cantamos en mi terraza? \#2](https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3) | 4:34 | 2024-09-26 |  |
 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 | 2022-01-07 | 2023-03-03 |
 | [Tu Recuerdo](https://open.spotify.com/track/6an8J9ZBlxriGwTMBp1Ly5) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Tu Recuerdo](https://open.spotify.com/album/5GSapy0EWZEqsLI2bfGpy6) | 3:53 | 2022-01-28 | 2024-08-17 |

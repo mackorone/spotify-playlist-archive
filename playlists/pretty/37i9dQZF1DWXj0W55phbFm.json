@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 72446,
+  "num_followers": 72495,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Blue Haze",
-        "url": "https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quartet",
-          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Tune-Up",
-      "url": "https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Work Song",
         "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 255720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Blue Haze",
+        "url": "https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quartet",
+          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Tune-Up",
+      "url": "https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Cartography",
         "url": "https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 341613,
       "name": "Migration",
       "url": "https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Woody III",
-        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
+        "name": "The Happy Horns Of Clark Terry",
+        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
       },
       "artists": [
         {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
         }
       ],
-      "duration_ms": 331013,
-      "name": "Organ Grinder",
-      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
+      "duration_ms": 228200,
+      "name": "High Towers",
+      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "The Happy Horns Of Clark Terry",
-        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
+        "name": "Woody III",
+        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
       },
       "artists": [
         {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
         }
       ],
-      "duration_ms": 228200,
-      "name": "High Towers",
-      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
+      "duration_ms": 331013,
+      "name": "Organ Grinder",
+      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "A Rift In Decorum: Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
-      },
-      "artists": [
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 337893,
-      "name": "Response - Live",
-      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 479266,
       "name": "Jacob's Ladder",
       "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "A Rift In Decorum: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "duration_ms": 337893,
+      "name": "Response - Live",
+      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Here Comes Louis Smith",
-        "url": "https://open.spotify.com/album/3mAny7ItvGWEF0EZmyxbRY"
-      },
-      "artists": [
-        {
-          "name": "Louis Smith",
-          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
-        }
-      ],
-      "duration_ms": 401533,
-      "name": "Ande - Digitally Remastered",
-      "url": "https://open.spotify.com/track/4Fn60Q7QC0lKAC0jWmyP5R"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Simply Stated",
         "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 600493,
       "name": "Dear Old Stockholm",
       "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Here Comes Louis Smith",
+        "url": "https://open.spotify.com/album/3mAny7ItvGWEF0EZmyxbRY"
+      },
+      "artists": [
+        {
+          "name": "Louis Smith",
+          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
+        }
+      ],
+      "duration_ms": 401533,
+      "name": "Ande - Digitally Remastered",
+      "url": "https://open.spotify.com/track/4Fn60Q7QC0lKAC0jWmyP5R"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Big Brass",
+        "url": "https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM"
+      },
+      "artists": [
+        {
+          "name": "Benny Bailey",
+          "url": "https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb"
+        }
+      ],
+      "duration_ms": 422480,
+      "name": "Tipsy",
+      "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Complete Recordings",
         "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
       },
@@ -1611,38 +1627,6 @@
       "duration_ms": 298493,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Big Brass",
-        "url": "https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM"
-      },
-      "artists": [
-        {
-          "name": "Benny Bailey",
-          "url": "https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb"
-        }
-      ],
-      "duration_ms": 422480,
-      "name": "Tipsy",
-      "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "From The Top (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
-      },
-      "artists": [
-        {
-          "name": "Pete Candoli",
-          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
-        }
-      ],
-      "duration_ms": 224103,
-      "name": "Drumette",
-      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1671,6 +1655,22 @@
       "duration_ms": 267180,
       "name": "Cottage for Sale",
       "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "From The Top (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
+      },
+      "artists": [
+        {
+          "name": "Pete Candoli",
+          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
+        }
+      ],
+      "duration_ms": 224103,
+      "name": "Drumette",
+      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
     },
     {
       "added_at": "2024-11-08 10:26:51",

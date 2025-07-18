@@ -2,9 +2,9 @@
 
 ### [Suomi\-indie tänään](https://open.spotify.com/playlist/37i9dQZF1DWWHpR486dzm3)
 
-> Suomi\-indien tuoreimpia helmiä\. Kannessa Figaro.
+> Suomi\-indien tuoreimpia helmiä\. Kannessa Vesta.
 
-864 songs - 2 day 4 hr 6 min
+866 songs - 2 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [I.C.B.W.Y.W.M.T.B.](https://open.spotify.com/track/3hQZS1WtbafZvDPJpTYsaa) | [Jaakko Aukusti](https://open.spotify.com/artist/2YTpOPQuz4J2CphaVIgSBj) | [Vanishing Act](https://open.spotify.com/album/22OsGfgYMvWI89zHnnGXU5) | 2:52 | 2024-09-19 | 2024-10-11 |
 | [If I Were You](https://open.spotify.com/track/1eJdFgLpiZIFeLvdmBDL1T) | [Emmy June](https://open.spotify.com/artist/1S76Iyppbkq6drUAnaBtDD) | [If I Were You](https://open.spotify.com/album/1rMb70VBaLIzSQU7g8rpZP) | 4:26 | 2025-04-10 | 2025-05-30 |
 | [Ihan fine](https://open.spotify.com/track/1QKL2LrkNpO7dZTeghnpeB) | [Not Nikolas](https://open.spotify.com/artist/2pdwwYu6FHtYJAc4BFYpzH) | [Ihan fine](https://open.spotify.com/album/5BhHB9UMmk1m1zdfrjK3FA) | 3:21 | 2025-06-05 |  |
+| [Ihana epävarmuus](https://open.spotify.com/track/3Nbhl0ZlMtTUJ1X6BiNZox) | [Hugo Cajan](https://open.spotify.com/artist/2qtz8c5VZQMusKI1B24MW2) | [Ihana epävarmuus](https://open.spotify.com/album/1O38RoInFIzlpNUwzllwVv) | 3:26 | 2025-07-17 |  |
 | [Ihanan kiire](https://open.spotify.com/track/7qUaYMgMCSqzGDiUrYGwDc) | [Punomo](https://open.spotify.com/artist/3VxY7XM1OkxWvOotoGj7NQ), [Peter Selin](https://open.spotify.com/artist/6qlSz0FSBfBoJBxYueMVvf) | [Ihanan kiire](https://open.spotify.com/album/0x2AOPYb191aq9EmRGL85m) | 3:31 | 2025-01-23 | 2025-02-07 |
 | [Ihmeen pää](https://open.spotify.com/track/0eYbfN2ktdBTLGyLFqkWrB) | [Josén Pimeä Puoli](https://open.spotify.com/artist/0lgBoewZAmVb5NInEJ5b0n) | [Ohikulkija](https://open.spotify.com/album/2pC1pQLiJ71YhUznB0JxCy) | 3:48 | 2024-11-14 | 2025-01-17 |
 | [Ihminen](https://open.spotify.com/track/6jYm7Gf5iUQnWLptfVPkoR) | [Electric Elisa](https://open.spotify.com/artist/51fd90keaHvX7zT0PICCEO) | [Ihminen](https://open.spotify.com/album/6SRmjKIOVyVJhaMs7KPY2y) | 3:03 | 2025-05-22 | 2025-06-20 |
@@ -278,7 +279,7 @@
 | [Juna](https://open.spotify.com/track/0EvTOW8zLmTEaHKu4oy5ro) | [Maija Pokela](https://open.spotify.com/artist/0QThDEqaMXQFHELNtupMAv) | [Juna](https://open.spotify.com/album/1CuQyS7Rj9Ew9JzOLJiugU) | 4:28 | 2025-01-09 | 2025-02-21 |
 | [Juon mun kyyneliin](https://open.spotify.com/track/0xMSYUiybH7d1e87Unqf3q) | [Musta hanhi](https://open.spotify.com/artist/7hqTWrzRtJbctP8T7R6slG) | [Juon mun kyyneliin](https://open.spotify.com/album/18GeyJkbfkMLVrRyBfgsn7) | 2:43 | 2025-04-24 | 2025-05-30 |
 | [Just just elossa](https://open.spotify.com/track/21boHrmbqz9hYIc0BQrFlu) | [Ihme\-Liisa](https://open.spotify.com/artist/73wCCcgduxxUbZMjw2Dax4) | [Just just elossa](https://open.spotify.com/album/5NDJYnjxJdunVbwIkm3jV5) | 3:16 | 2024-11-21 | 2025-01-17 |
-| [Jyväskylä Skyline](https://open.spotify.com/track/3AWBu6hGvJCeZFIVXlvtKa) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Jyväskylä Skyline](https://open.spotify.com/album/67APCrt7mapUnBNMswBIDU) | 3:51 | 2025-03-27 | 2025-07-11 |
+| [Jyväskylä Skyline](https://open.spotify.com/track/3AWBu6hGvJCeZFIVXlvtKa) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Jyväskylä Skyline](https://open.spotify.com/album/67APCrt7mapUnBNMswBIDU) | 3:51 | 2025-03-27 |  |
 | [Jäljellä](https://open.spotify.com/track/6GNR7BbxSHFvKe6fhx19KI) | [Sonja Selene](https://open.spotify.com/artist/5xhxgugC1UFNupTURflnZX) | [Jäljellä](https://open.spotify.com/album/5JJExMtVa7gx5HJH1SPVYU) | 3:02 | 2024-10-31 | 2024-12-06 |
 | [JÄLKI](https://open.spotify.com/track/3WNfOko6UjhFsTPglhZkEK) | [ellimaria](https://open.spotify.com/artist/5txapey7WYMTo4QhiLKhKg) | [JÄLKI](https://open.spotify.com/album/0dbtdE9evryMWhVvMq8jnb) | 4:17 | 2025-01-16 | 2025-02-21 |
 | [Jälkikirjoitus](https://open.spotify.com/track/7ho5nA1hnC2e21ITrV42A5) | [Bereniken hiukset](https://open.spotify.com/artist/1u3jvlJ8h7RRFfNx3zrip5) | [Jälkikirjoitus](https://open.spotify.com/album/3TfneeYWEpSN9INv4lgzdr) | 4:35 | 2024-10-24 | 2024-12-06 |
@@ -466,11 +467,12 @@
 | [Mikä tarina](https://open.spotify.com/track/4ylmzrJfqLvLIomOQO7Lyn) | [Sonja Selene](https://open.spotify.com/artist/5xhxgugC1UFNupTURflnZX) | [Mikä tarina](https://open.spotify.com/album/5IY8qRunIxb9ZnwG0RvMwJ) | 3:09 | 2025-01-09 | 2025-02-07 |
 | [Mikä vie sen pois](https://open.spotify.com/track/2jl4IKtQQ1ZVanINjRBhTZ) | [1980 AD](https://open.spotify.com/artist/44QSjd5tXrAGwQtif9W6c7) | [Mikä vie sen pois](https://open.spotify.com/album/4akDh22kROEtpni0C8WI7f) | 3:55 | 2024-08-22 | 2024-09-20 |
 | [Mikään ei riitä](https://open.spotify.com/track/4YNuneqO5FfotWW3OZUych) | [Nymfiparakiitti](https://open.spotify.com/artist/2AAFoWB9ytUbsjUQGg9O5v) | [Mikään ei riitä](https://open.spotify.com/album/220GKV9ZFQmJpajQNHjA9L) | 3:41 | 2024-10-24 | 2024-12-06 |
+| [Miljoonien kyynelten maa](https://open.spotify.com/track/4pcTprmm5AzHcq5iM567Sg) | [Ken Lie & Hän](https://open.spotify.com/artist/2qaWj9zsjEOuQ0xX1Qylb5) | [Miljoonien kyynelten maa](https://open.spotify.com/album/0zFMnmsRO8l27427khVo5x) | 3:03 | 2025-07-17 |  |
 | [Millä hinnalla](https://open.spotify.com/track/5e4Uejvz0HeGA6x3N0pzuZ) | [Kaila](https://open.spotify.com/artist/0SaYprb63HTRhNTNzqJRe5) | [Millä hinnalla](https://open.spotify.com/album/0Z6z1k5u98vNJ0EdyCp28T) | 5:16 | 2025-01-30 | 2025-03-07 |
 | [Minä ja kuu](https://open.spotify.com/track/2ODjk1AMq1UmauuxyTJYi3) | [Vera Wall](https://open.spotify.com/artist/2ZkLg3MpOV7sAwKIoEqhN8) | [Minä ja kuu](https://open.spotify.com/album/6M0dimKuPiLf2IKiw7jwcP) | 4:09 | 2025-04-17 | 2025-06-06 |
 | [Miss Me](https://open.spotify.com/track/3NVTipA3r05Eez7lwPmmEH) | [Sattalite](https://open.spotify.com/artist/5niYxHk8papS8g9sJ1cCSc), [Ty Roxy](https://open.spotify.com/artist/4FT8sPqLTd7Eoqdi8i5oJt) | [Miss Me](https://open.spotify.com/album/1MsEmU4OJmeiEm2j0MpuDg) | 2:39 | 2025-05-15 | 2025-06-06 |
 | [Missä sä oot](https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Muovipussi kummittelee](https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt) | 3:18 | 2024-10-03 | 2024-11-22 |
-| [Missä äiti on?](https://open.spotify.com/track/49C3RA0YQtsLhcDVpv4MCY) | [Ken Lie & Hän](https://open.spotify.com/artist/2qaWj9zsjEOuQ0xX1Qylb5) | [Missä äiti on?](https://open.spotify.com/album/0jdsXMlWeJcUzEe3IwUq3b) | 3:10 | 2025-06-05 |  |
+| [Missä äiti on?](https://open.spotify.com/track/49C3RA0YQtsLhcDVpv4MCY) | [Ken Lie & Hän](https://open.spotify.com/artist/2qaWj9zsjEOuQ0xX1Qylb5) | [Missä äiti on?](https://open.spotify.com/album/0jdsXMlWeJcUzEe3IwUq3b) | 3:10 | 2025-06-05 | 2025-07-18 |
 | [Miten Päästää Irti?](https://open.spotify.com/track/3kb35SXVyTWMmXSMjwuSfw) | [PIETU](https://open.spotify.com/artist/388WfZQAenuv60Aub0oimB), [Avaruusjoonas](https://open.spotify.com/artist/3IHAzTcybCskIbTQYrRBnK) | [Miten Päästää Irti?](https://open.spotify.com/album/4JHKCVQApEd6LhYRdjsHAB) | 3:09 | 2024-07-25 | 2024-09-13 |
 | [Miten voin tietää mitä elämältä haluan, jos en edes tiedä mitä haluan aamupalaksi](https://open.spotify.com/track/2zxR8Zy8Mb8sxwM8vk4wv0) | [Lala Salama](https://open.spotify.com/artist/1cfCkkOJXJRyw1Xt3BNCMV) | [Miltähän me näytettäis yhdessä](https://open.spotify.com/album/2DxKlkJ9f1C4odH4tRs42j) | 2:29 | 2025-03-20 | 2025-04-25 |
 | [Mitä Jos](https://open.spotify.com/track/3Zz8k4CBzApCU2Smo8DcuY) | [Alia Selene](https://open.spotify.com/artist/5tfPE6p57No6EgjzfV5Tyc) | [Mitä Jos](https://open.spotify.com/album/6N4FzCnyV961lRkn9tArNu) | 4:19 | 2025-03-13 | 2025-05-09 |
@@ -692,7 +694,7 @@
 | [Spacegirl](https://open.spotify.com/track/1LmkdDlubO0jc385MzF9YF) | [Nuoruus](https://open.spotify.com/artist/6EaEn4RT3u41SismpAzXWL) | [Too Slow Split](https://open.spotify.com/album/1scMFEfKHlkjue9aYlJrYl) | 3:00 | 2025-02-13 | 2025-02-28 |
 | [Spectacular Time](https://open.spotify.com/track/55kbIMj2FxWtSBd7vPurG0) | [Job](https://open.spotify.com/artist/3liTUgV5jxrAdyz3BP3h6a) | [Spectacular Time](https://open.spotify.com/album/1US13agxVu3i0mkLAa3XBN) | 3:39 | 2024-07-11 | 2024-08-23 |
 | [Spirals](https://open.spotify.com/track/0avptVPz0m9BTop0E7SE1g) | [Rosettes](https://open.spotify.com/artist/5IGpCYZ0wnD5WPtLZZZry4) | [Spirals](https://open.spotify.com/album/1OZbB6hiP6prMpJgL9oNj2) | 4:06 | 2025-02-20 | 2025-03-21 |
-| [Spiritismi](https://open.spotify.com/track/39RSeY6eirD9F0zcB8NKwU) | [Rättö & Lehtisalo](https://open.spotify.com/artist/6psG7Ko0utfH26xwSszqxS) | [Spiritismi](https://open.spotify.com/album/44TX13M4nsC4puf2J3rRXM) | 8:40 | 2025-06-19 |  |
+| [Spiritismi](https://open.spotify.com/track/39RSeY6eirD9F0zcB8NKwU) | [Rättö & Lehtisalo](https://open.spotify.com/artist/6psG7Ko0utfH26xwSszqxS) | [Spiritismi](https://open.spotify.com/album/44TX13M4nsC4puf2J3rRXM) | 8:40 | 2025-06-19 | 2025-07-18 |
 | [Split](https://open.spotify.com/track/03nfFZluTBlOZOtLNMol1y) | [Bobomobile](https://open.spotify.com/artist/1ksvodwIQsqlRDRmRZ69p5) | [Split](https://open.spotify.com/album/4pavMT7959oMZ9chEPr1nB) | 4:12 | 2025-04-24 | 2025-05-16 |
 | [Stadion](https://open.spotify.com/track/4CrJH1SsGoRfcc85MRBJLs) | [Ne Lintuizet](https://open.spotify.com/artist/6Oygx8XzWbloL8MsTl1Zhc) | [Stadion](https://open.spotify.com/album/2MkmIMWWpqrc9zmkN8LOw3) | 4:34 | 2024-10-24 | 2024-11-15 |
 | [Storyteller](https://open.spotify.com/track/2GgRklSLCLaEYcBvgexUXE) | [Zangoma](https://open.spotify.com/artist/41uVQ1Nd3TJIpdllRdea7s) | [Faka Mulilo](https://open.spotify.com/album/2tW4S7VdmcxVsz9SLMZC3N) | 5:09 | 2025-01-30 | 2025-03-07 |
@@ -753,7 +755,7 @@
 | [through](https://open.spotify.com/track/4Z7D5wBPuOWlNwgcdOx7W1) | [Carla Aakre](https://open.spotify.com/artist/73xyecF35DGHg7ic9BZF2u) | [through](https://open.spotify.com/album/1P6oUHB0sVcvuDM7Ppxbpy) | 4:23 | 2024-11-07 | 2024-12-13 |
 | [Thunder as an Arrow](https://open.spotify.com/track/04CYj693GjFBY6j7E4ukmJ) | [Cats Of Transnistria](https://open.spotify.com/artist/2Rnlk97rOW76miPCgrvZKX) | [Thunder as an Arrow](https://open.spotify.com/album/1Wdhpdbn6jIp4E2Wz6zBya) | 5:19 | 2025-02-27 | 2025-03-28 |
 | [Tiellä ken vaeltaa](https://open.spotify.com/track/11Dk5iVRfWny6jtw5g9o42) | [Ville Äs](https://open.spotify.com/artist/4iXpvfg7ki5uQZm6qkWJ7x) | [Tiellä ken vaeltaa](https://open.spotify.com/album/30kkGNl52gP0sx4UONnG0j) | 5:00 | 2024-10-10 | 2024-10-25 |
-| [Tiempo Música](https://open.spotify.com/track/51WZh9tU8cw4WL4W9vXorY) | [Local Al](https://open.spotify.com/artist/4CxIg9I8wqybDXishMnZrS), [Gun Bergman](https://open.spotify.com/artist/5hNUkOxmiP9E81o6uhFp0g) | [Tiempo Música](https://open.spotify.com/album/7E8dHFCrfhZgpOMjd2aM9b) | 5:55 | 2025-07-10 |  |
+| [Tiempo Música](https://open.spotify.com/track/51WZh9tU8cw4WL4W9vXorY) | [Local Al](https://open.spotify.com/artist/4CxIg9I8wqybDXishMnZrS), [Gun Bergman](https://open.spotify.com/artist/5hNUkOxmiP9E81o6uhFp0g) | [Tiempo Música](https://open.spotify.com/album/7E8dHFCrfhZgpOMjd2aM9b) | 5:55 | 2025-07-10 | 2025-07-18 |
 | [Time To Eat The Rich Is Long Gone \(Dressed For Destruction, Pt\. II\)](https://open.spotify.com/track/0bp69DGPmqUCcQehZqGgaZ) | [Solemn Golem](https://open.spotify.com/artist/786SwvDh1YFMLciXStwYGM) | [Time To Eat The Rich Is Long Gone \(Dressed For Destruction pt\. II\)](https://open.spotify.com/album/2lYYvUUIgdBgpM8qfIpOMm) | 4:40 | 2024-08-29 | 2024-09-27 |
 | [Tingles](https://open.spotify.com/track/7I9EEKY8ehwaAmikmgN47u) | [Kemopetrol](https://open.spotify.com/artist/67DiNAi0KIF2O0CwGLNJlI) | [Extra Life](https://open.spotify.com/album/2zpPAV2oSMlQzI6ZLgkTta) | 3:34 | 2025-07-03 | 2025-07-11 |
 | [Tokyo No Go](https://open.spotify.com/track/4gtFoBXTXmjMCj8jq58Rdw) | [Tinyhawk & Bizzarro](https://open.spotify.com/artist/2ZJ203WZjSAIeeKJgcdElj) | [Tokyo No Go](https://open.spotify.com/album/32sWqnQPstmiKMl3gopVUe) | 4:21 | 2025-02-27 | 2025-04-04 |

@@ -460,7 +460,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 222516,
       "name": "El Ganadero",
       "url": "https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr"
@@ -612,6 +612,28 @@
       "duration_ms": 142933,
       "name": "El Tamarindo",
       "url": "https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz"
+    },
+    {
+      "album": {
+        "name": "Los Buitres Con Tololoche",
+        "url": "https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "El Tamarindo",
+      "url": "https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT"
     },
     {
       "album": {
@@ -1416,8 +1438,8 @@
           "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
         },
         {
-          "name": "Bukanas De Culiacan",
-          "url": "https://open.spotify.com/artist/0aCsCyB57a5WblHH2AudKa"
+          "name": "Buknas De Culiacan",
+          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
         },
         {
           "name": "El Komander",

@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16457,
+  "num_followers": 16459,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAAHPnol1gX065i62uAgbfxn",
+  "snapshot_id": "aHbrgAAAAABVRqcs9Wza3q19kTyXbUJE",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Complete Control Sessions",
-        "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Should I Stay or Should I Go - Live Version",
-      "url": "https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Blood And Empire",
         "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 163360,
       "name": "Confessions of an Economic Hit Man - Dirty Version",
       "url": "https://open.spotify.com/track/7b7RifetHxERla9vz3GATu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Complete Control Sessions",
+        "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Should I Stay or Should I Go - Live Version",
+      "url": "https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-538 songs - 1 day 2 hr 47 min
+543 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Cauldron](https://open.spotify.com/track/5mgyiQ9ydErZRJsZacZEta) | [Tree Zen](https://open.spotify.com/artist/64OtSzcAjiIw6DqadghYzt) | [Cauldron](https://open.spotify.com/album/7llAaxZQSd2n67s5f6PmhE) | 3:32 | 2024-03-07 |  |
 | [Chances](https://open.spotify.com/track/3iKdrtQ9e9cLgpWuYLLZCT) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Chances](https://open.spotify.com/album/5JQ2RAygSPnbU2ak4AUTP1) | 2:32 | 2023-10-13 | 2024-10-12 |
 | [Chaos Theory](https://open.spotify.com/track/5I4PQWL8uKqDgn5qGlXhqX) | [Lulles Road](https://open.spotify.com/artist/3IAvgg7a4SaM6gZ71EgV76) | [Chaos Theory](https://open.spotify.com/album/6JqysNOQXiTHK8fFkhCxPa) | 3:32 | 2024-04-29 |  |
+| [Chasing Clouds](https://open.spotify.com/track/7CczPlkgiXOK037Op1MxC0) | [Stellar Voyager](https://open.spotify.com/artist/3yO4gt9FGhJNeaeLbxIVTQ) | [Chasing Clouds](https://open.spotify.com/album/6aY9h6RNzYIUFQVn78kFZ8) | 2:34 | 2025-07-17 |  |
 | [Choose Calm](https://open.spotify.com/track/0CXf8rXTyiq16NOhtTHGHU) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Choose Calm](https://open.spotify.com/album/1Mj5enOADFf6emKwexlQlK) | 2:24 | 2024-02-15 |  |
 | [Cianalas](https://open.spotify.com/track/4kLNF1BFyLnJ3sQjcS7Rqm) | [Cadhla Byrne](https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1) | [Cianalas](https://open.spotify.com/album/0gArimZ25shLa9v1Y2CYVi) | 2:45 | 2022-05-25 | 2024-12-04 |
 | [Circles](https://open.spotify.com/track/0OVprHBYn8CWiNwqlJDobw) | [Solar Collective](https://open.spotify.com/artist/4VcgkoUJgvBLieWpQWaiDC) | [Circles](https://open.spotify.com/album/7cLHzFKZJE6oVaZ3Rc19Xl) | 2:24 | 2025-06-17 |  |
@@ -197,6 +198,7 @@
 | [Gentle](https://open.spotify.com/track/19PlKAonAMJI24h468rBFp) | [Geneva Semere](https://open.spotify.com/artist/77VKKzoNiFyfVSn32eDiwD) | [Gentle](https://open.spotify.com/album/4EIyV7nsjGmJBgYjA5HtT5) | 2:58 | 2022-05-25 | 2024-11-29 |
 | [Gentle](https://open.spotify.com/track/4NhNqADCVHtinzGQkZrRkO) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Gentle](https://open.spotify.com/album/5QlJDob0lzv0Q6QsGUz2pW) | 2:53 | 2024-12-03 |  |
 | [Gentle Cure](https://open.spotify.com/track/3a4HwrietoocD2toa1Pezg) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 2:54 | 2022-05-25 | 2022-09-28 |
+| [Gentle Farewell](https://open.spotify.com/track/4iJcPx0ZKkROcUBI1iQyQA) | [Piano Bloom](https://open.spotify.com/artist/2JqnOxN3f3tDMo9bf4Z1e0) | [Gentle Farewell](https://open.spotify.com/album/1iuL52Cpk6dJe5uUq5OKGI) | 3:07 | 2025-07-17 |  |
 | [Geologic Time Scale](https://open.spotify.com/track/1TCsfrVx9SZkpevWO1U0sg) | [Hyperion Towers](https://open.spotify.com/artist/5baGEdkemC63ShOCaIoALm) | [Rovaniemi](https://open.spotify.com/album/3XsWkarPPP5cgVEDStABsJ) | 3:20 | 2022-05-25 | 2024-09-19 |
 | [Ghost Concept](https://open.spotify.com/track/4597QKyHJAp4rIMPhxYP5s) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Ghost Concept](https://open.spotify.com/album/4D5FyV6DwLPD8dqV83SnDu) | 2:26 | 2025-05-13 |  |
 | [Glasslike](https://open.spotify.com/track/5as5bE8AUagyTwRxmMceVF) | [Jaumey](https://open.spotify.com/artist/5rKn2xAv2XuWjf5EdlTc20) | [Glasslike](https://open.spotify.com/album/184KNeTWudGRr8psDgZg7B) | 2:19 | 2022-05-25 | 2024-10-12 |
@@ -212,6 +214,7 @@
 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2022-05-25 | 2024-12-04 |
 | [Healing Memories](https://open.spotify.com/track/05MWiaG0YFAEQDN0wPRGla) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 3:22 | 2022-05-25 | 2023-04-07 |
 | [Healing Spell](https://open.spotify.com/track/60SEHfpv0A1UkzwbB8guUO) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 2:48 | 2022-05-25 | 2022-09-28 |
+| [Healing Waves](https://open.spotify.com/track/4t7dsbeJOoCXOcr7wI2W7e) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Healing Waves](https://open.spotify.com/album/1mBzZDxf8c0wyU91Ic6XoL) | 2:15 | 2025-07-17 |  |
 | [Healing Waves](https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Healing Waves](https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD) | 2:41 | 2022-05-25 | 2025-04-16 |
 | [Heart Strings](https://open.spotify.com/track/4Qd3aMPKRUuTo2ZyD21hGr) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Heart Strings](https://open.spotify.com/album/4paf6UcoyN5XVjQcr7KUTE) | 2:39 | 2025-02-07 |  |
 | [Heaven Sent](https://open.spotify.com/track/2vy7Y6HaIB2zeVdxk4HyMP) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:24 | 2022-05-25 | 2022-09-28 |
@@ -472,6 +475,7 @@
 | [Sweetened Dreams](https://open.spotify.com/track/1J97l6Ul5L9IZiC8jlIJWL) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Sweetened Dreams](https://open.spotify.com/album/4SVB4SnpFsrAhQTT2VGPix) | 2:36 | 2024-07-12 | 2025-07-10 |
 | [Sylarna](https://open.spotify.com/track/3qbZGh0o76ZCq2dI32cF9o) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 4:04 | 2022-05-25 | 2022-09-28 |
 | [Sömn](https://open.spotify.com/track/03QlFnQhyY20WHY08UAh6o) | [Luna Serenity](https://open.spotify.com/artist/6NjcHrItY1c8OnFcY70avf) | [Sömn](https://open.spotify.com/album/5AProLtUw6DJI1ITFJHC6O) | 3:01 | 2025-02-26 |  |
+| [Tagadne](https://open.spotify.com/track/6oWxkj03iyhob0wFIYku74) | [Vestigency](https://open.spotify.com/artist/7u5l7mW9E5nAgwRI2MnPZq) | [Tagadne](https://open.spotify.com/album/5nxQrOm0EMO3j52KHT2am3) | 3:12 | 2025-07-17 |  |
 | [Tears Of Change](https://open.spotify.com/track/3jQlNsMoO2C4NzwoBi9R6v) | [Leon Baker](https://open.spotify.com/artist/3JQJt6xbvE5sawRz3bgKB0) | [Tears Of Change](https://open.spotify.com/album/4OKcUyYXCVMR4FrIsUsCRm) | 2:53 | 2022-12-20 | 2025-04-16 |
 | [Tell Me](https://open.spotify.com/track/3H3frbeKjqFy9iFynurdjf) | [Owen Hill](https://open.spotify.com/artist/6KjVRfXkN1nXAiDJFjlW4i) | [Tell Me](https://open.spotify.com/album/0AzWcVpDtI3LNC0u3MhWPf) | 2:46 | 2024-06-10 | 2024-08-22 |
 | [Temporarily](https://open.spotify.com/track/2XT1NKLXF0y7WOnp3gCaN5) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Temporarily](https://open.spotify.com/album/5sr2V5FsGDwCLS8jAAcV8j) | 2:44 | 2025-01-08 |  |
@@ -528,6 +532,7 @@
 | [voices](https://open.spotify.com/track/1SowUQ2TDoVFCvYP4fNEby) | [calmwise](https://open.spotify.com/artist/1JNbhMXvf7fanTCXwcfgfT) | [voices](https://open.spotify.com/album/7biOuWiNNfa6D9MNTnWom7) | 3:24 | 2024-05-10 |  |
 | [Voyager](https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL) | [Beyond The Bubble](https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o) | [Voyager](https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq) | 3:25 | 2022-05-25 | 2022-09-28 |
 | [Warm Embrace](https://open.spotify.com/track/4H7cke51KBunS0nfrjtu7Q) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:46 | 2022-12-02 | 2025-04-16 |
+| [Warmth](https://open.spotify.com/track/56H8JESO8GwcE1itw0Ll8J) | [Meta Theta](https://open.spotify.com/artist/4oi7Xs0414Dk3oCXdynEYn) | [Warmth](https://open.spotify.com/album/3pXeq494GCxQdwfoDn0WMu) | 2:48 | 2025-07-17 |  |
 | [Wave After Wave](https://open.spotify.com/track/3OUKRGnpsMenK14ZDdSHmk) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 3:32 | 2022-05-25 | 2024-09-06 |
 | [Weightless](https://open.spotify.com/track/3Jmgl8YRYVBIwBNFvEPnyh) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Weightless](https://open.spotify.com/album/2kBq9nYjXyi89NUUOHbsAk) | 2:51 | 2025-02-14 |  |
 | [Weightless](https://open.spotify.com/track/1EdwbKGvRwGJk1zhZJW9h7) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Weightless](https://open.spotify.com/album/6ZdZF7zhOKer8UHfvb6M6V) | 2:43 | 2024-04-29 | 2025-04-16 |

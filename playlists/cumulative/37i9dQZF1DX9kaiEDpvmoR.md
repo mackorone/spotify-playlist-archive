@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-406 songs - 23 hr 27 min
+408 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [East River Park Song](https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Alphabet City Songs \(Lost and Found Album\)](https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw) | 3:55 | 2025-03-27 |  |
 | [Elaine](https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK) | [Hagsätra Sport](https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua), [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Elaine](https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw) | 3:03 | 2024-06-27 | 2024-09-29 |
 | [Eller hur](https://open.spotify.com/track/7I6Su8oH5i0IUF4ONw6d7j) | [David Urwitz](https://open.spotify.com/artist/2ces6d2YsQP1RpGMYpdFy8) | [Eller hur](https://open.spotify.com/album/5H8n2sZeG4MqcYKuWtbY4i) | 3:14 | 2025-05-15 | 2025-06-06 |
+| [Emilie's Song \- From the TV series "Tordyveln flyger i skymningen"](https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Emilie's Song \(From the TV series "Tordyveln flyger i skymningen"\)](https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd) | 4:24 | 2025-07-17 |  |
 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 | 2024-06-27 | 2024-08-16 |
 | [En bruten fjäder](https://open.spotify.com/track/4zFNhMW1uLHqc2cHM2kfQH) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Fleshquartet](https://open.spotify.com/artist/4lB4GxfCWC7Hhlzb20lhCg) | [En bruten fjäder](https://open.spotify.com/album/7oMPbICTtq9EBUNC4m0Ojj) | 4:05 | 2024-08-08 | 2024-09-17 |
 | [EN DÖENDE PLANET](https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EN DÖENDE PLANET](https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8) | 4:03 | 2025-04-10 |  |
@@ -127,7 +128,7 @@
 | [Fyllda Av Sommar](https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Fyllda Av Sommar](https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3) | 3:24 | 2025-02-14 |  |
 | [Förbjudna tankar](https://open.spotify.com/track/23fBN1sw5DBKnADUPxUicl) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Förbjudna tankar](https://open.spotify.com/album/0jEvZDn9Q701djBnQeZEAj) | 2:19 | 2024-06-27 | 2024-08-09 |
 | [Förloraren](https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Förloraren](https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo) | 3:05 | 2025-03-20 |  |
-| [Försökte tycka om dig \- Alternativ version](https://open.spotify.com/track/7dNmLi1KdsJFoAcUNQBdGs) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Livet är en cykeltur](https://open.spotify.com/album/69oFUzsxhyfMfv9tf6tNpw) | 3:01 | 2025-06-12 |  |
+| [Försökte tycka om dig \- Alternativ version](https://open.spotify.com/track/7dNmLi1KdsJFoAcUNQBdGs) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Livet är en cykeltur](https://open.spotify.com/album/69oFUzsxhyfMfv9tf6tNpw) | 3:01 | 2025-06-12 | 2025-07-18 |
 | [Før han for](https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6) | 2:56 | 2024-10-24 | 2025-05-02 |
 | [Ge En Sol](https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ge En Sol](https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl) | 2:52 | 2024-08-22 | 2025-04-11 |
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 | 2025-04-25 |
@@ -229,7 +230,7 @@
 | [Lucy Rider](https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Lucy Rider](https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve) | 3:17 | 2024-06-27 | 2024-08-09 |
 | [Längs den långa vägen hem](https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Längs den långa vägen hem](https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP) | 3:51 | 2024-06-27 | 2024-08-23 |
 | [Långholmsgatan 2](https://open.spotify.com/track/5rwGiXG9q84ah927p7Vcdo) | [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Långholmsgatan 2](https://open.spotify.com/album/6i7vOaZpfoy0qyYCocPAJM) | 4:03 | 2025-05-22 |  |
-| [Löften](https://open.spotify.com/track/1FoM1Ru3Rm19LUvkjTn0k4) | [Patrik Isaksson](https://open.spotify.com/artist/79XSzUC0yAPPoxiuss55qC) | [Löften](https://open.spotify.com/album/6NzPAIljksxn9B6OqfAJWO) | 4:44 | 2025-04-03 |  |
+| [Löften](https://open.spotify.com/track/1FoM1Ru3Rm19LUvkjTn0k4) | [Patrik Isaksson](https://open.spotify.com/artist/79XSzUC0yAPPoxiuss55qC) | [Löften](https://open.spotify.com/album/6NzPAIljksxn9B6OqfAJWO) | 4:44 | 2025-04-03 | 2025-07-18 |
 | [Magkänsla](https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Jag Är](https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB) | 3:03 | 2025-06-26 |  |
 | [Maja Hönstjuv](https://open.spotify.com/track/7pntr5gKTnl51C3NV1fPBG) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3), [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Maja Hönstjuv](https://open.spotify.com/album/12gQc5Gu8LolcsQzFvc7Sd) | 3:24 | 2025-05-29 |  |
 | [Make Up Your Mind](https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Make Up Your Mind](https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U) | 3:38 | 2025-03-10 |  |
@@ -332,6 +333,7 @@
 | [Spartas Svarta Hjärta](https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett](https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl) | 3:03 | 2025-03-25 | 2025-05-31 |
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 | 2025-05-30 |
 | [Spin The Bottle](https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Spin The Bottle](https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz) | 3:06 | 2025-05-01 | 2025-06-27 |
+| [Springer ikapp](https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Springer Ikapp](https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk) | 3:34 | 2025-07-17 |  |
 | [Stjärnorna](https://open.spotify.com/track/3LMOtdKFkGrz3rHycZntPm) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Stjärnorna](https://open.spotify.com/album/4MyRVj71HgtDonhDzJyFq3) | 4:14 | 2024-12-05 | 2025-01-03 |
 | [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 | 2024-06-27 | 2024-08-23 |
 | [Stockholm](https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV) | [Annika Wickihalder](https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of) | [Stockholm](https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH) | 2:52 | 2025-02-27 |  |

@@ -4,7 +4,7 @@
 
 > pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>.
 
-547 songs - 1 day 4 hr 53 min
+548 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [Swim](https://open.spotify.com/track/7K0ikRgR8HnGcTl73jkTO1) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 3:30 | 2025-05-14 |  |
 | [Swinging at the Stars](https://open.spotify.com/track/0plgpP6pbcptrfbCEHKKcA) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Just Because](https://open.spotify.com/album/2ArWkmluhZLOmbwCfyKurF) | 3:43 | 2023-11-06 | 2024-01-27 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-01 | 2025-06-10 |
+| [Take Me Away \- From "Freakier Friday"](https://open.spotify.com/track/5PfDGxZXOnJLJvghTAtQJP) | [Pink Slip](https://open.spotify.com/artist/75sej2Q8NCpG0HofuacIsd), [Christina Vidal Mitchell](https://open.spotify.com/artist/0677ffAmURcLIn4qC5lYMk), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Take Me Away \(From "Freakier Friday"\)](https://open.spotify.com/album/18KERjxjpMewx9J7hKVEQE) | 3:06 | 2025-07-17 |  |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-23 |  |
 | [Tattoos](https://open.spotify.com/track/4p1i3nnCvKtkMWWx7EuKQ7) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Tattoos](https://open.spotify.com/album/7bkPBBnOZeGCYZRLYMSUZF) | 2:45 | 2024-02-09 | 2024-07-27 |
 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 | 2024-03-01 | 2024-07-10 |

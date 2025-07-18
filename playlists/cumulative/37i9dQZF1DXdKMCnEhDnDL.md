@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: Kris Kross Amsterdam, André Hazes & Tabitha
 
-391 songs - 20 hr 0 min
+393 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 | 2025-05-12 |  |
 | [Bennie](https://open.spotify.com/track/4CI8h2cW6luzQtcJRr8ApQ) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Bennie](https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve) | 2:37 | 2025-03-27 |  |
 | [Bieber Van De Kroeg](https://open.spotify.com/track/5V2cXsvFE3VIQp5mYAi3Mn) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Bieber Van De Kroeg](https://open.spotify.com/album/1uR0EX3KqVNwVGs5NJJbTQ) | 3:06 | 2023-02-24 | 2024-03-20 |
-| [Bij Deze](https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Bij Deze](https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek) | 2:48 | 2024-12-12 |  |
+| [Bij Deze](https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Bij Deze](https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek) | 2:48 | 2024-12-12 | 2025-07-18 |
 | [Blijf Bij Mij](https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Blijf Bij Mij](https://open.spotify.com/album/57G2Wh7HyPSFw6gcV7DEvu) | 2:59 | 2024-02-13 | 2024-06-28 |
 | [Blijf Nog Even](https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Blijf Nog Even](https://open.spotify.com/album/51tulVCxklGWd6DXqAtmIZ) | 3:45 | 2023-03-16 | 2025-01-24 |
 | [Blijf Zo](https://open.spotify.com/track/3bHhbGAnKXlD3SIoRZr8oj) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Twintig \(Deluxe\)](https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci) | 2:57 | 2024-01-16 | 2024-06-01 |
@@ -228,7 +228,7 @@
 | [Liefde Van Later](https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Liefde Van Later](https://open.spotify.com/album/1vA8Pw95YH4zNCxOPaM1Zm) | 4:43 | 2024-04-16 | 2024-05-24 |
 | [Liefste](https://open.spotify.com/track/03rS8yQDtIHaDuUewAbEe7) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Liefste](https://open.spotify.com/album/5TueQLTCYfnzmD9XtCbkse) | 2:35 | 2025-03-12 |  |
 | [Lil Freakje](https://open.spotify.com/track/7tqg41RdA6MLUrUbcNrFoJ) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Lil Freakje](https://open.spotify.com/album/5qSSgAxAPQ4tfDeodFFc7A) | 3:34 | 2025-05-07 |  |
-| [Love Of My Life](https://open.spotify.com/track/0el0sWkgn2hViZJmYyJdK4) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Of My Life](https://open.spotify.com/album/5RSfA2mMGTU5ghYRsXtET1) | 3:36 | 2025-01-16 |  |
+| [Love Of My Life](https://open.spotify.com/track/0el0sWkgn2hViZJmYyJdK4) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Of My Life](https://open.spotify.com/album/5RSfA2mMGTU5ghYRsXtET1) | 3:36 | 2025-01-16 | 2025-07-18 |
 | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H) | 3:38 | 2024-02-13 | 2024-04-17 |
 | [Meisjes lopen sneller](https://open.spotify.com/track/3xgs6tyUGo7Q4aNMuZExWS) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Meisjes lopen sneller](https://open.spotify.com/album/2kfLBi7ezCQRJfMHH11ZGx) | 3:36 | 2024-01-11 | 2024-09-27 |
 | [Mes In M'n Rug](https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2024 \(Aflevering 4\- SERA\)](https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V) | 2:57 | 2024-10-16 | 2025-01-24 |
@@ -289,6 +289,7 @@
 | [Roller Coaster](https://open.spotify.com/track/5B5YKjgne3TZzNpMsN9aj1) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/0A9Ozy729zqiSdMVkBMizh) | 4:29 | 2023-02-24 | 2023-03-31 |
 | [Rommel](https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Rommel](https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5) | 3:16 | 2023-06-14 | 2024-04-17 |
 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 | 2023-06-14 |  |
+| [Safe Haven](https://open.spotify.com/track/2zyRqo9sfyxle2aNEU1dgv) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Safe Haven](https://open.spotify.com/album/0ZdOm1pVd7bilAbWTrLeYw) | 4:07 | 2025-07-17 |  |
 | [Salmari & Kreeft](https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Naar De Haaien & Weer Terug](https://open.spotify.com/album/49kVZFZguyqvfxt0HklIhg) | 4:22 | 2024-11-21 | 2025-01-24 |
 | [Samen Niets Doen](https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Samen Niets Doen](https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27) | 2:46 | 2023-09-21 | 2024-02-03 |
 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2024-02-13 | 2025-04-04 |
@@ -333,6 +334,7 @@
 | [Tijdmachine](https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:15 | 2025-01-29 | 2025-05-08 |
 | [Tijdmachine \- Edit](https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Tijdmachine](https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c) | 3:29 | 2024-02-02 | 2024-11-07 |
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2023-11-10 |  |
+| [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 | 2025-07-17 |  |
 | [Troostzoekers \(met Froukje\)](https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Sterrenlopen](https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ) | 3:32 | 2023-12-21 | 2024-01-17 |
 | [Trots Op Haar](https://open.spotify.com/track/5Ak0hJNb5chvknl5OY7xnB) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Trots Op Haar](https://open.spotify.com/album/3H6QGkLIgvx71MlLgPQizY) | 2:49 | 2023-12-21 | 2024-04-04 |
 | [Trouble](https://open.spotify.com/track/2kwt2rsc4VbZc7cHEpblIs) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Unfold](https://open.spotify.com/album/0tpcDcYN1FjUFPTSezkM8v) | 3:15 | 2023-02-24 | 2023-09-22 |

@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151720,
+      "name": "Fear The Future",
+      "url": "https://open.spotify.com/track/7CeRs4E810IkbT72CuMlWa"
+    },
+    {
+      "album": {
         "name": "All Born Screaming",
         "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
       },
@@ -840,7 +858,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 206960,
       "name": "Savior",
       "url": "https://open.spotify.com/track/0uXOXjd0iaptu1co1BJrif"

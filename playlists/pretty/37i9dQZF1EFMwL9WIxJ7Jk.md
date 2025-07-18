@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 77 | [Stay Young](https://open.spotify.com/track/3rUevPDCsGVbgJW2dOYnHj) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:30 |
 | 78 | [Jingle Bells](https://open.spotify.com/track/7uxQZgOHsAKyG0Bb9CrNqO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7cZBXcpZ2VMJovpQqYOYhy) | 2:15 |
 
-Snapshot ID: `Ab29iAAAAAB7llvj/FRyEJkSrgzF5UVg`
+Snapshot ID: `Ab3DFAAAAADM06m3b6pVlBwjdRKvCRH3`

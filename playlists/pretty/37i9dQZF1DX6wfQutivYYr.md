@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Fedez e CLARA sulla cover della playlist più grande in Italia 🏆
+> Cesare ed Elisa sulla cover della playlist più grande in Italia 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,719,482 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,719,664 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SCELTE STUPIDE](https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [SCELTE STUPIDE](https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3) | 2:59 |
+| 1 | [Nonostante Tutto \(feat\. Elisa\)](https://open.spotify.com/track/4Q7d5kMY5ctGgHp8diJ9Rw) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Nonostante Tutto \(feat\. Elisa\)](https://open.spotify.com/album/5zV0OvnUYxNBAG5YmSozFf) | 4:27 |
 | 2 | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW) | 2:20 |
 | 3 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 |
 | 4 | [Bottiglie Vuote \(feat\. Max Pezzali\)](https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS), [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [Bottiglie Vuote \(feat\. Max Pezzali\)](https://open.spotify.com/album/2xS7zxsklN6TULjQWfnDUc) | 3:14 |
 | 5 | [Yakuza \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1KEge1AYDxzlW7O8oHcs82) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Yakuza \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/0MODQR33be381AAENXV2qn) | 2:56 |
-| 6 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
-| 7 | [SERENATA](https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [SERENATA](https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz) | 3:08 |
-| 8 | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1) | 2:20 |
-| 9 | [NEON](https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:46 |
-| 10 | [Nonostante Tutto \(feat\. Elisa\)](https://open.spotify.com/track/4Q7d5kMY5ctGgHp8diJ9Rw) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Nonostante Tutto \(feat\. Elisa\)](https://open.spotify.com/album/5zV0OvnUYxNBAG5YmSozFf) | 4:27 |
+| 6 | [SCELTE STUPIDE](https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [SCELTE STUPIDE](https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3) | 2:59 |
+| 7 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
+| 8 | [SERENATA](https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [SERENATA](https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz) | 3:08 |
+| 9 | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1) | 2:20 |
+| 10 | [NEON](https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:46 |
 | 11 | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/album/5VidRTp3bTPmlOdq1dLA4T) | 3:03 |
 | 12 | [BELLA DAVVERO](https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [BELLA DAVVERO](https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe) | 2:58 |
 | 13 | [Maschio](https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Maschio](https://open.spotify.com/album/226WGnFxk9frinhGY4Uhwy) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 49 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 50 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 
-Snapshot ID: `aHdlgAAAAABOqLrWBHXj171/gGRDrd2K`
+Snapshot ID: `aHlytwAAAABZgTXznYXU9noYf8al04Uu`

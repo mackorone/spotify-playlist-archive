@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs"
+      },
+      "artists": [
+        {
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318867,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ"
+    },
+    {
+      "album": {
         "name": "Aya",
         "url": "https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR"
       },
@@ -7792,7 +7810,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 262068,
       "name": "Ikaw Pa Rin Ang Pipiliin Ko",
       "url": "https://open.spotify.com/track/3LvrJEPQ61Vvj1t3Edg20X"
@@ -10330,7 +10348,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -11472,7 +11490,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 349750,
       "name": "Mundo",
       "url": "https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw"

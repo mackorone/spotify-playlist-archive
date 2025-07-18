@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,933 likes - 75 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,977 likes - 75 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 5 | [Poovukkul](https://open.spotify.com/track/4g9VvOS1WpFp2FZVSzvIZA) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 6:53 |
 | 6 | [Sotta Sotta](https://open.spotify.com/track/6erhWA07TRTqtISu5ODMlL) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Taj Mahal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DcUVMWoylf2fKpVsqKWpA) | 5:34 |
 | 7 | [Urvashi Uravashi](https://open.spotify.com/track/2vGVScEqLhQXZNkeoDIyMP) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45), [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP) | [Kaadhalan](https://open.spotify.com/album/69KnM0TANwkgU1LCJGOjYT) | 5:40 |
-| 8 | [Pudhu Vellai Mazhai](https://open.spotify.com/track/74JDoZRPAe8gTObg33orPA) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Roja](https://open.spotify.com/album/4aLMaanVxHRKd9Mf4KJo2H) | 5:13 |
-| 9 | [Kurukku Siruthvalea](https://open.spotify.com/track/14xVnBjKnZG9JzmJrxj3Ju) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Mudhalvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HNLeUTKiANw8DtcLLpHPA) | 6:38 |
+| 8 | [Kurukku Siruthvalea](https://open.spotify.com/track/14xVnBjKnZG9JzmJrxj3Ju) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Mudhalvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HNLeUTKiANw8DtcLLpHPA) | 6:38 |
+| 9 | [Pudhu Vellai Mazhai](https://open.spotify.com/track/74JDoZRPAe8gTObg33orPA) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Roja](https://open.spotify.com/album/4aLMaanVxHRKd9Mf4KJo2H) | 5:13 |
 | 10 | [Anjali Anjali](https://open.spotify.com/track/2E3pO72BvxtdE7FbvvJG8r) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 8:06 |
 | 11 | [Ennavale Adi Ennavale](https://open.spotify.com/track/7AH2SbY4kpTmvxp9zAsHDS) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX) | [Kaadhalan](https://open.spotify.com/album/69KnM0TANwkgU1LCJGOjYT) | 5:12 |
 | 12 | [Netru Illatha Maatram](https://open.spotify.com/track/4ozxqvQ1b6z3ItRyYixXjx) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Pudhiya Mugam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41C2DoK8FZqe2rtg4KAxm5) | 5:09 |

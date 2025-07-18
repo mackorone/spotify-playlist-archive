@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,750 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,780 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 4 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 |
 | 5 | [Mauli Mauli](https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lai Bhari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX) | 5:05 |
 | 6 | [Dolby Walya](https://open.spotify.com/track/0jKX3Y9SxdqBBFJ3oz2cyR) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Earl Edgar](https://open.spotify.com/artist/42hSYLTMRQgvLZnE1E5YyS) | [Jau Dya Na Balasaheb \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zRLneJPeKVFVGhJxGFLIK) | 5:35 |
-| 7 | [Ved Lavlay](https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR) | 3:51 |
-| 8 | [Kaarte Nibaar](https://open.spotify.com/track/3u3CjdwU5kCT5JIWctnSfW) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Kaarte Nibaar](https://open.spotify.com/album/0HNnUBVc98sYEzDMBnwVxJ) | 3:03 |
+| 7 | [Kaarte Nibaar](https://open.spotify.com/track/3u3CjdwU5kCT5JIWctnSfW) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Kaarte Nibaar](https://open.spotify.com/album/0HNnUBVc98sYEzDMBnwVxJ) | 3:03 |
+| 8 | [Ved Lavlay](https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR) | 3:51 |
 | 9 | [Majhi Baay Go](https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Baay Go](https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD) | 4:28 |
 | 10 | [Ye Go Ye Ye Maina](https://open.spotify.com/track/4fKxzNxlp8vsR8Lm0pPxAV) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Jatra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7yxiEuwgIxdPldUFVSKNGv) | 5:23 |
 | 11 | [Kombdi Palali \- From "Jatra"](https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen) | [Anand Shinde](https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Ajay \- Atul Hits](https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl) | 5:06 |

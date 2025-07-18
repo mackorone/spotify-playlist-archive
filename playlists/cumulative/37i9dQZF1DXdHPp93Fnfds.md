@@ -4,7 +4,7 @@
 
 > Guerreras e independientes\. Foto: Fin del Mundo.
 
-606 songs - 1 day 10 hr 25 min
+608 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Llorando Por Ti \- Banda Sonora Original "Todo Lo Otro"](https://open.spotify.com/track/2zsSYgjdUGMT5u1TlIlr85) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/album/7eoFeduvdejcB9j28FL0fh) | 4:25 | 2022-01-21 |  |
 | [Lo Inevitable](https://open.spotify.com/track/5FhBrrdF8AHRHTaQJXkfrO) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Lo Inevitable](https://open.spotify.com/album/48wvJycqlndD1ghMa9ozGF) | 3:09 | 2022-01-21 | 2022-07-23 |
 | [Lo Que Digo](https://open.spotify.com/track/5OFN31HnVm100b0bCNrggm) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Lo Que Digo](https://open.spotify.com/album/2pf4WSVOCJUOnGCk1xnFA8) | 4:43 | 2022-01-21 | 2022-07-25 |
+| [Lo que pidas](https://open.spotify.com/track/1TbQVck0lOp4kgHwZn9IFw) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Lo que pidas](https://open.spotify.com/album/4T95FcYG9Ki2gJoCKlQrnw) | 3:06 | 2025-07-17 |  |
 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 | 2023-05-19 | 2023-07-24 |
 | [Lo Que Quedó](https://open.spotify.com/track/2WzKA3ZmmQD2IVvgcHhZzd) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Lo Que Quedó](https://open.spotify.com/album/6LeAdcapsLl9nHI1A7cASR) | 2:55 | 2022-01-21 | 2022-04-17 |
 | [Loco](https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Loco](https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt) | 2:58 | 2022-07-08 | 2022-07-16 |
@@ -342,7 +343,7 @@
 | [Mi Casa](https://open.spotify.com/track/4JwYIRa4hdXJfXhmzzST5E) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [Mi Casa](https://open.spotify.com/album/6iFtUllX7WuymOx05Kmlg3) | 4:01 | 2022-02-11 | 2022-07-26 |
 | [Mi Corazón y Yo](https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Mi Corazón y Yo](https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5) | 2:58 | 2022-01-21 |  |
 | [Mi Lugar](https://open.spotify.com/track/6KAZ0FZgGR1uh7IupPnhxy) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Mi Lugar](https://open.spotify.com/album/3UPvbNI1syOcOrvNdxPV2C) | 2:53 | 2022-07-08 | 2022-07-15 |
-| [Mi Religión](https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Un Amoroso Asunto](https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY) | 2:39 | 2022-01-21 |  |
+| [Mi Religión](https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Un Amoroso Asunto](https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY) | 2:39 | 2022-01-21 | 2025-07-18 |
 | [Miedo](https://open.spotify.com/track/5QyP1mCvTyBasfWC8Qdp9i) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Miedo](https://open.spotify.com/album/5Q7ygUBxpsQpQowIBdwLBF) | 3:00 | 2022-04-01 | 2022-06-29 |
 | [Miedos](https://open.spotify.com/track/6UXudjXSWptc6VpyYOYsmm) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Miedos](https://open.spotify.com/album/1QYyoy26hsRmLSTZWUAjgH) | 3:05 | 2022-05-06 | 2022-07-07 |
 | [Mirandesco](https://open.spotify.com/track/48CheHoGPLRrFIBkm6vFsa) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Mirandesco](https://open.spotify.com/album/6Wz0DZ95DCDSKJxEiUEtNh) | 3:24 | 2022-01-21 | 2022-06-14 |
@@ -590,6 +591,7 @@
 | [Viaje Astral](https://open.spotify.com/track/1TbA8fGpYU5gQsUqEVZVN7) | [Cajafresca](https://open.spotify.com/artist/2bUbMSt8UKLbvNloIWy1Vf) | [Viaje Astral](https://open.spotify.com/album/1i8xzE4tvQ0y6LFI6EyHLR) | 3:15 | 2022-02-11 | 2022-07-08 |
 | [Vine y me voy como llegué](https://open.spotify.com/track/69eBi0eT6aPNI1rIAehTGm) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Vine y me voy como llegué](https://open.spotify.com/album/0EMAlwsGyYPcaq7URyQpYG) | 3:22 | 2022-04-12 | 2022-07-28 |
 | [Vital](https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Vital](https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK) | 3:02 | 2022-01-21 | 2022-07-29 |
+| [VITAMINA](https://open.spotify.com/track/0cMsEyxgy6MnRqSiHEwzEw) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [Mila Farrás](https://open.spotify.com/artist/21sVrELHqNyzqOV5o5nCuV) | [VITAMINA](https://open.spotify.com/album/7uUMDNvPNnHpVjRf11taOJ) | 2:17 | 2025-07-17 |  |
 | [Vivimos Lejos](https://open.spotify.com/track/4CJ1M3DIfnZwUoO5VwynLP) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Hicimos Crecer un Bosque](https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo) | 4:35 | 2025-06-26 |  |
 | [Vocales](https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V) | [HTML](https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8) | [17](https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb) | 2:36 | 2022-04-01 | 2022-04-20 |
 | [Volar](https://open.spotify.com/track/1r2QNqXARZN79ChpgevNMe) | [Miranda Diaz](https://open.spotify.com/artist/0lPtnE0VbkjwameC1T0MBF) | [Volar](https://open.spotify.com/album/2QTYSk8PlgDib4jzvfzdCZ) | 3:07 | 2022-04-01 | 2022-07-05 |
@@ -612,7 +614,7 @@
 | [¿ Cómo Bajo de Ésta Nube?](https://open.spotify.com/track/4SpxY3xVqwkkSWUNAUO3qa) | [Paula Go](https://open.spotify.com/artist/30PLjQuYVCF2CrAZoNatAW) | [¿ Cómo Bajo de Ésta Nube?](https://open.spotify.com/album/56bh3wlHV4XvCKMTfkakhQ) | 2:22 | 2022-04-01 | 2022-04-21 |
 | [¿Quién nos amarró? \- Versión acústica](https://open.spotify.com/track/2LlLCUgxEcuU4NGzStAJOm) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Versiones acústicas del sentir III](https://open.spotify.com/album/5Q7tzjDMxqAgc857a9hdVB) | 3:35 | 2022-01-21 | 2022-07-27 |
 | [¿Qué?](https://open.spotify.com/track/25bwcWBGh9ox4CR1ttJeHU) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Diego Ibáñez](https://open.spotify.com/artist/6nWCIaOTHhqgbkxPcj4AeJ) | [¿Qué?](https://open.spotify.com/album/5DoubGLMbpvAYcd6DDz5Nz) | 3:36 | 2022-01-14 | 2023-06-10 |
-| [último y primero](https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT) | 2:59 | 2022-01-14 |  |
+| [último y primero](https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT) | 2:59 | 2022-01-14 | 2025-07-18 |
 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2022-01-14 | 2022-10-17 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh releases from your future favorite artists. Cover:  VVINK Artwork: Isu Kim\n",
+  "description": "Fresh releases from your future favorite artists. Cover:  KREY Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -1292,6 +1292,24 @@
       "duration_ms": 243240,
       "name": "78",
       "url": "https://open.spotify.com/track/5rJWBEnfP9kpRQrN1OyqxY"
+    },
+    {
+      "album": {
+        "name": "80Cup",
+        "url": "https://open.spotify.com/album/242qZZ3GppwmNIr6EUjor4"
+      },
+      "artists": [
+        {
+          "name": "Patch TheThird",
+          "url": "https://open.spotify.com/artist/6oXtzTZr9KQp9e8JXinYe8"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156049,
+      "name": "80Cup",
+      "url": "https://open.spotify.com/track/2EypgPvgkejubrifCM418R"
     },
     {
       "album": {
@@ -7536,7 +7554,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 279443,
       "name": "Bawat Yapak",
       "url": "https://open.spotify.com/track/0hjGJTZpGZfzXH2Ef45GAO"
@@ -8096,7 +8114,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 117294,
       "name": "Better Off Alone (Without You)",
       "url": "https://open.spotify.com/track/42diq2qoRgNsA9bgKkGBAp"
@@ -15375,6 +15393,24 @@
     },
     {
       "album": {
+        "name": "Done With You",
+        "url": "https://open.spotify.com/album/3lt3ZR2JbrsxLT4Qq1DWAA"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247562,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/5CjW7bpzskzku8oxnOguR8"
+    },
+    {
+      "album": {
         "name": "Doobie Sa Baguio",
         "url": "https://open.spotify.com/album/2gARWlp7S2athG94zKx3oZ"
       },
@@ -16166,7 +16202,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 236000,
       "name": "Edelweiss",
       "url": "https://open.spotify.com/track/681yscvZGgJo9MtPtZzUnA"
@@ -19999,6 +20035,24 @@
     },
     {
       "album": {
+        "name": "Get Through",
+        "url": "https://open.spotify.com/album/7dugIE96DWZn4eChNX14vi"
+      },
+      "artists": [
+        {
+          "name": "Shaun Salvador",
+          "url": "https://open.spotify.com/artist/3jYTL8Sc8zjLXRi5TlclM7"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243333,
+      "name": "Get Through",
+      "url": "https://open.spotify.com/track/3RqicbhNVFNSmhwHNN9lWo"
+    },
+    {
+      "album": {
         "name": "getaway",
         "url": "https://open.spotify.com/album/2KbvMXDb1u0vKuGxqRnZ9h"
       },
@@ -20458,7 +20512,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 241553,
       "name": "GLIDE",
       "url": "https://open.spotify.com/track/2wBcOusdZUDmqNvy3xsZg4"
@@ -22742,6 +22796,24 @@
       "duration_ms": 179000,
       "name": "Heart, Attacks",
       "url": "https://open.spotify.com/track/4bqFvkQtPQlmV7kRoLMrgk"
+    },
+    {
+      "album": {
+        "name": "Heartless Queen",
+        "url": "https://open.spotify.com/album/3yWMGFNRwQx7OZZEdUUQQU"
+      },
+      "artists": [
+        {
+          "name": "Ground Zero",
+          "url": "https://open.spotify.com/artist/69ZbAyRbbLhJHSfBhVMeU0"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253725,
+      "name": "Heartless Queen",
+      "url": "https://open.spotify.com/track/5yza9Hu4tgSmu6vPgHSl1U"
     },
     {
       "album": {
@@ -29264,7 +29336,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 219284,
       "name": "Kamay",
       "url": "https://open.spotify.com/track/0H9Yg5s1dlm4BuKwyMmSMm"
@@ -31038,7 +31110,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 108000,
       "name": "LA NA SUMBRERO",
       "url": "https://open.spotify.com/track/78pzSalEgMdbDHRzCebge0"
@@ -32597,6 +32669,24 @@
     },
     {
       "album": {
+        "name": "Letters to Pumpkins",
+        "url": "https://open.spotify.com/album/1Lj1u9TKLMRqG1GiTjyiYA"
+      },
+      "artists": [
+        {
+          "name": "Ventura",
+          "url": "https://open.spotify.com/artist/5VGXRx8itEcICtHlmeeqZR"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128610,
+      "name": "Letters to Pumpkins",
+      "url": "https://open.spotify.com/track/2eYlILcy7NFIfDUSitUzjX"
+    },
+    {
+      "album": {
         "name": "LEVELS",
         "url": "https://open.spotify.com/album/0zuWZxAIBGmnJ0BExEa0Ld"
       },
@@ -32912,6 +33002,24 @@
       "duration_ms": 177662,
       "name": "Lights Come Down",
       "url": "https://open.spotify.com/track/2osHHo5EXhgUNatoptEcyg"
+    },
+    {
+      "album": {
+        "name": "LIGHTS OFF",
+        "url": "https://open.spotify.com/album/4vMyyWigkJDJXqO5YyF8Tk"
+      },
+      "artists": [
+        {
+          "name": "Jeruu",
+          "url": "https://open.spotify.com/artist/2J7GWtqNamdQUN5vgB4TVb"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "LIGHTS OFF",
+      "url": "https://open.spotify.com/track/1QwRxEhpayRwmkaVsOr1WN"
     },
     {
       "album": {
@@ -33658,7 +33766,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 177000,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/2HQot59AqWDbEWaIqDOqSt"
@@ -34493,6 +34601,24 @@
     },
     {
       "album": {
+        "name": "LSD",
+        "url": "https://open.spotify.com/album/2eAlAFYUflf2jrV2lWrNV6"
+      },
+      "artists": [
+        {
+          "name": "BabyDraco",
+          "url": "https://open.spotify.com/artist/4OT6Ai52nAOe20SXsDoXSI"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153254,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/4FxbYdkCbFDp8LgWK7RbYu"
+    },
+    {
+      "album": {
         "name": "LSD & Molly",
         "url": "https://open.spotify.com/album/5wjzD99zE9BfVjwrNJgtkT"
       },
@@ -35050,6 +35176,24 @@
       "duration_ms": 207157,
       "name": "MAAARI BA",
       "url": "https://open.spotify.com/track/3D3wKeaHvsuet2mZbkscpA"
+    },
+    {
+      "album": {
+        "name": "Maaga",
+        "url": "https://open.spotify.com/album/1hCBBklA2zTiQv94apzyrw"
+      },
+      "artists": [
+        {
+          "name": "Bianca Denise",
+          "url": "https://open.spotify.com/artist/7hUtP7n7Rj8CwKQX7jOJ8j"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "Maaga",
+      "url": "https://open.spotify.com/track/5V2JYkwpKiBLjc87TZR8uj"
     },
     {
       "album": {
@@ -38199,6 +38343,24 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/0XSMYTRQCTArWwcVIh4kYD"
+      },
+      "artists": [
+        {
+          "name": "Peso Gang",
+          "url": "https://open.spotify.com/artist/1kX7dY3LzY47KusA50KGTD"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204326,
+      "name": "Money Chase",
+      "url": "https://open.spotify.com/track/6KTr5v03UPum9UejjCwAdT"
+    },
+    {
+      "album": {
         "name": "MONEY CHASE 2.0",
         "url": "https://open.spotify.com/album/2uMgloAXVgtxy22dSFMYr6"
       },
@@ -40994,7 +41156,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 179293,
       "name": "Nobody Like U",
       "url": "https://open.spotify.com/track/4SqPo2kL8nWumvUaTPjyNP"
@@ -41604,6 +41766,24 @@
       "duration_ms": 207333,
       "name": "oi polloi",
       "url": "https://open.spotify.com/track/6mpnT2rg0NhM2BsbDpwdAN"
+    },
+    {
+      "album": {
+        "name": "Oks Lang",
+        "url": "https://open.spotify.com/album/20p2QXWEfKWunw0Uskt9lQ"
+      },
+      "artists": [
+        {
+          "name": "Jehramae",
+          "url": "https://open.spotify.com/artist/2Bml9i7FQPOl6IOqT3NdP4"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278256,
+      "name": "Oks Lang",
+      "url": "https://open.spotify.com/track/223yGvHybOOS2UnVErTr0q"
     },
     {
       "album": {
@@ -42886,7 +43066,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 236586,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/6lEk6ZqmKPFoJIedW9bB91"
@@ -43862,6 +44042,24 @@
       "duration_ms": 292599,
       "name": "Pahinga",
       "url": "https://open.spotify.com/track/6BKAmTSYiHBfd6JDCH38HP"
+    },
+    {
+      "album": {
+        "name": "Pahinga",
+        "url": "https://open.spotify.com/album/4PNNdwS1taL302ku7G4Mjg"
+      },
+      "artists": [
+        {
+          "name": "Mizael",
+          "url": "https://open.spotify.com/artist/2QkiE8Wi27b66Q36nXVvrl"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279544,
+      "name": "Pahinga",
+      "url": "https://open.spotify.com/track/6Sx0fXAf72xUDb1DtZurUm"
     },
     {
       "album": {
@@ -47272,6 +47470,24 @@
       "duration_ms": 330141,
       "name": "Pokmaru",
       "url": "https://open.spotify.com/track/6U3DKQmj3n1iaJ7FNiVdL6"
+    },
+    {
+      "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/5UebPr8OfYMzMhkBrNEZjm"
+      },
+      "artists": [
+        {
+          "name": "ACED!",
+          "url": "https://open.spotify.com/artist/5SyeOO2ri4LZf2qSxJdOXv"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348541,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0l4vgCLvqawRvBmnjhRxYM"
     },
     {
       "album": {
@@ -51566,7 +51782,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 198570,
       "name": "Sandali Na Lang",
       "url": "https://open.spotify.com/track/1KPvZhdEMe4d2BzndiA3Za"
@@ -53004,7 +53220,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 212999,
       "name": "Shout Out (feat. Jess)",
       "url": "https://open.spotify.com/track/30WU4Dx9MuiL61VanQCq17"
@@ -54118,7 +54334,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 246528,
       "name": "Slo Mo",
       "url": "https://open.spotify.com/track/3QyJtxk48w994tMAfeQX1n"
@@ -55832,7 +56048,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 191250,
       "name": "Sugilanon Sa Gugma",
       "url": "https://open.spotify.com/track/5KaBkoQ6mlhdI7pqylOyIZ"
@@ -58948,6 +59164,46 @@
       "duration_ms": 219000,
       "name": "This Is All I Know (Umaagos)",
       "url": "https://open.spotify.com/track/4bUuHqM7cuQsJMH7jwVLve"
+    },
+    {
+      "album": {
+        "name": "this is how you fall in love",
+        "url": "https://open.spotify.com/album/6twOFy1JMC2kYETuB0oQAd"
+      },
+      "artists": [
+        {
+          "name": "Jazelle",
+          "url": "https://open.spotify.com/artist/2Oycm3x2LtBE3aB0fIg4H6"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188865,
+      "name": "this is how you fall in love",
+      "url": "https://open.spotify.com/track/1zjDOooryue5ckD3tfTzRk"
+    },
+    {
+      "album": {
+        "name": "THIS IS WHAT WE DO",
+        "url": "https://open.spotify.com/album/6dqEhkr4oFzouuUK0kgi3a"
+      },
+      "artists": [
+        {
+          "name": "Daz Cue",
+          "url": "https://open.spotify.com/artist/15ObU3lzom807WiHf0BU72"
+        },
+        {
+          "name": "eL",
+          "url": "https://open.spotify.com/artist/4tu4GSe7Q0lUloLGgcKkCl"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "THIS IS WHAT WE DO",
+      "url": "https://open.spotify.com/track/6s1DV0FlNP8PkYh6yTJQCj"
     },
     {
       "album": {
@@ -63391,6 +63647,42 @@
     },
     {
       "album": {
+        "name": "El Elefante",
+        "url": "https://open.spotify.com/album/1xfFcaVzlbcJlCkesR8hQw"
+      },
+      "artists": [
+        {
+          "name": "monopolice",
+          "url": "https://open.spotify.com/artist/7HJT0fgWu56JuKB70YLWMf"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263005,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4HfAdWRvKzLIaTgzL7HBov"
+    },
+    {
+      "album": {
+        "name": "Waters",
+        "url": "https://open.spotify.com/album/753AxIHX0QpH1WdRvuFxPF"
+      },
+      "artists": [
+        {
+          "name": "KREY",
+          "url": "https://open.spotify.com/artist/2qsKmvV47a1XIRQizWZUzy"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Waters",
+      "url": "https://open.spotify.com/track/5SPZ1OEGQDATZ2DvJ24Ofp"
+    },
+    {
+      "album": {
         "name": "Waves Like These",
         "url": "https://open.spotify.com/album/1EczJDDp8Gg0LlAWWQQugL"
       },
@@ -64008,7 +64300,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 293780,
       "name": "When The World Ends",
       "url": "https://open.spotify.com/track/4gzl8O8zMg07fbxZCoY2UL"
@@ -64678,7 +64970,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 333157,
       "name": "wkl (sa katotohanan)",
       "url": "https://open.spotify.com/track/5D0pb7ncuygBJvi4TPyMna"
@@ -65330,7 +65622,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 291538,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/3mx5K4JAAsT0FNMYjZ5KBp"

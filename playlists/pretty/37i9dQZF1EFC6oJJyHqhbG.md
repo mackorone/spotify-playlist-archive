@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 61 | [Day Trippin' \(feat\. Estelle\)](https://open.spotify.com/track/5GUbRosulNfGV5o5KfpHFn) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Automatic](https://open.spotify.com/album/02NhNhhyNfv5OdlJw4jUpj) | 3:12 |
 | 62 | [Daddy Like](https://open.spotify.com/track/7B09gC8k5Srx20Gj3UHrYq) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 2:55 |
 | 63 | [Hello](https://open.spotify.com/track/61g8o9dedhQo4Ik97QIVir) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 2:59 |
-| 64 | [Thanks For Nothing](https://open.spotify.com/track/16xdlfTG9qkGYtrewla55U) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 2:50 |
-| 65 | [Secret](https://open.spotify.com/track/3I29PMk4Lu6tVOv3fTE1c3) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Chapter 1: Singles Collection](https://open.spotify.com/album/6w38zCie2cfb5T1nhMZqY4) | 3:08 |
+| 64 | [Secret](https://open.spotify.com/track/3I29PMk4Lu6tVOv3fTE1c3) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Chapter 1: Singles Collection](https://open.spotify.com/album/6w38zCie2cfb5T1nhMZqY4) | 3:08 |
+| 65 | [Thanks For Nothing](https://open.spotify.com/track/16xdlfTG9qkGYtrewla55U) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 2:50 |
 | 66 | [Alone](https://open.spotify.com/track/7Kmcb8CKVtZJVIuTcirYAz) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:01 |
 | 67 | [Un Love Me](https://open.spotify.com/track/4OoMl6NlkSlaeomEAoJGkM) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 4:12 |
 | 68 | [Bad Reputation](https://open.spotify.com/track/0FItO6grKL1xW908yKcl3Z) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON) | 3:18 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 141 | [Sex Shop](https://open.spotify.com/track/1QHUUwVYDFicuaRDEiM6KR) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 1:58 |
 | 142 | [Let Me Live](https://open.spotify.com/track/2qjXFcLQ3sCFz0b225XVk9) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 3:36 |
 
-Snapshot ID: `Ab29kgAAAADrQYLowBdMjwUONx5HanLu`
+Snapshot ID: `Ab3DMgAAAABncAWljVpIbMbtk9XiHom8`

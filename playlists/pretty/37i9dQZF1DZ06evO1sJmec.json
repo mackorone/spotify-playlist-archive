@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2055149,
+  "num_followers": 2055462,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAABJlfwuaXydh15MNoljbaxD",
+  "snapshot_id": "aHbrgAAAAAD8QWvn9o7u/q1u7JllCPIt",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Battery",
-      "url": "https://open.spotify.com/track/6UB9mShVLbMm0W4e6vud4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Load (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 269560,
       "name": "Until It Sleeps - Remastered",
       "url": "https://open.spotify.com/track/1L8c08ueO8ag3vBQFXwbjc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Battery",
+      "url": "https://open.spotify.com/track/6UB9mShVLbMm0W4e6vud4C"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Load (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 319600,
+      "name": "Mama Said - Remastered",
+      "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 86906,
       "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
       "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Load (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 319600,
-      "name": "Mama Said - Remastered",
-      "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
     },
     {
       "added_at": null,

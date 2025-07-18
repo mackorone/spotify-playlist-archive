@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 
 > Relax to the calming sounds of choral music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,210 likes - 107 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,260 likes - 107 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [O Magnum Mysterium: O magnum mysterium](https://open.spotify.com/track/0S0YKiEdR9cT9pYgEaTevF) | [Morten Lauridsen](https://open.spotify.com/artist/4EV7a9KODMBPJTCgIl9Bmk), [Chamber Choir Of Europe](https://open.spotify.com/artist/1TQJoqACwhfrAKXA9WwO4v), [Nicol Matt](https://open.spotify.com/artist/6yAWv145sy4X8JuioX2niU) | [Lauridsen: O Magnum Mysterium / Lux Aeterna / Madrigali / Les Chansons Des Roses](https://open.spotify.com/album/2KpDg5XbaWzQWepVfDpefT) | 6:55 |
+| 1 | [O magnum mysterium](https://open.spotify.com/track/0S0YKiEdR9cT9pYgEaTevF) | [Morten Lauridsen](https://open.spotify.com/artist/4EV7a9KODMBPJTCgIl9Bmk), [Chamber Choir Of Europe](https://open.spotify.com/artist/1TQJoqACwhfrAKXA9WwO4v), [Nicol Matt](https://open.spotify.com/artist/6yAWv145sy4X8JuioX2niU) | [Lauridsen: O Magnum Mysterium / Lux Aeterna / Madrigali / Les Chansons Des Roses](https://open.spotify.com/album/2KpDg5XbaWzQWepVfDpefT) | 6:55 |
 | 2 | [Nimrod \(Lux Aeterna\)](https://open.spotify.com/track/0URENFI2Nk9oVMdhz4SQKM) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Lux](https://open.spotify.com/album/7L9qteIW4h28p8aa2NvU6D) | 3:52 |
 | 3 | [Whitacre: The Seal Lullaby](https://open.spotify.com/track/1ZqzUiCQICQmjtpbFZYwnt) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Eric Whitacre Singers](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN) | [Light & Gold](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) | 4:13 |
 | 4 | [Requiem in D Minor, K .626: III\. Sequentia: 6\. Lacrimosa \- Amen, appendix](https://open.spotify.com/track/23uLK8a4YIdHYlkmmqCEaQ) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Franz Xaver Süssmayr](https://open.spotify.com/artist/1uSs0yxNE5jiHTt6GqEXYn), [Ensemble Pygmalion](https://open.spotify.com/artist/3iwUaQrP1mJFvC9waHuV4S), [Raphael Pichon](https://open.spotify.com/artist/7ANQphrf7E3r6dwst8oMbr) | [Mozart: Requiem](https://open.spotify.com/album/4bPyWHi5KZv5zRiEDA2hrS) | 3:58 |

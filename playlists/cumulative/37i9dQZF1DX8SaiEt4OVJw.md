@@ -4,7 +4,7 @@
 
 > Imagine not being Chelsea 💙
 
-814 songs - 2 day 2 hr 27 min
+815 songs - 2 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,7 +683,7 @@
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2024-02-23 | 2024-07-02 |
 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 | 2023-09-07 | 2024-08-01 |
 | [Swipe Regs](https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:40 | 2023-07-11 | 2023-07-29 |
-| [System \(feat\. WizKid\)](https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:01 | 2025-07-14 |  |
+| [System \(feat\. WizKid\)](https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:01 | 2025-07-14 | 2025-07-18 |
 | [Sénégal](https://open.spotify.com/track/0nfzcEx8zmGT9kUAKok6yf) | [Pape Diouf](https://open.spotify.com/artist/54SeJkg1IKFUMgXde8cgaj) | [Ràkkaaju](https://open.spotify.com/album/4FTZdFwrV3O0HK5B6qDnm5) | 6:42 | 2022-11-29 | 2023-07-12 |
 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-08-25 | 2024-06-11 |
 | [Talibans II \- Bonus Track](https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:56 | 2023-08-25 | 2023-09-08 |
@@ -796,6 +796,7 @@
 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2023-12-05 | 2024-01-13 |
 | [World In Union](https://open.spotify.com/track/0F7pij0rEvmbMaqzckKHNi) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [P.J\. Powers](https://open.spotify.com/artist/0CJNZPkAMKJwDj7FaZdRnB) | [Ladysmith Black Mambazo & Friends](https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG) | 3:50 | 2023-09-07 | 2023-11-19 |
 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 | 2024-02-02 |  |
+| [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 | 2025-07-14 |  |
 | [Xale bi](https://open.spotify.com/track/5A8JVvC7RJ9OHEC411OdLb) | [Amira Abed](https://open.spotify.com/artist/4UtWbbJdQl4MXHgZ3Ol6ji) | [Xale bi](https://open.spotify.com/album/15xsr5C8VEYE8c9KUiTdgw) | 3:06 | 2022-11-29 | 2023-07-12 |
 | [Y'a Dieu dedans](https://open.spotify.com/track/0G8JSk6N6VMvLisq3ENE3B) | [Paulo Chakal](https://open.spotify.com/artist/0RmMqOdyj5lvgDY2GU2R8q), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Y'a Dieu dedans](https://open.spotify.com/album/5WScnf7AKjBhg499TE3EYu) | 3:40 | 2024-02-06 | 2024-03-10 |
 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [ASYLUM](https://open.spotify.com/album/27W7QteTVMhSPzBDnjODP2) | 4:56 | 2024-02-07 | 2024-02-10 |

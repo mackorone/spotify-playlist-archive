@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Suspect 95",
+  "description": "Le meilleur du rap africain francophone. Photo : Kocee",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -683,6 +683,28 @@
     },
     {
       "album": {
+        "name": "Dur oh",
+        "url": "https://open.spotify.com/album/2V1MhiZz6Ofe62AI7Scu4X"
+      },
+      "artists": [
+        {
+          "name": "Devone",
+          "url": "https://open.spotify.com/artist/42n26sVrqcTkYhNLFQ4UFF"
+        },
+        {
+          "name": "JM on the Track",
+          "url": "https://open.spotify.com/artist/2rB3BVa7a4mvsQ3RCETMXm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173653,
+      "name": "Dur oh",
+      "url": "https://open.spotify.com/track/0O83QsqoybKWA4Iz3BN0oG"
+    },
+    {
+      "album": {
         "name": "D\u00e9cal\u00e9 chinois",
         "url": "https://open.spotify.com/album/7h7xQluLbnIFe3tYLxI3Af"
       },
@@ -788,7 +810,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 191508,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/3Q9vnBSGMkGvwQwwdUqnnq"
@@ -854,6 +876,24 @@
       "duration_ms": 189642,
       "name": "Gar\u00e7on",
       "url": "https://open.spotify.com/track/6zPiqz4xy1ExPMviMZ3APi"
+    },
+    {
+      "album": {
+        "name": "5th DIMENSION",
+        "url": "https://open.spotify.com/album/1emaOwFSpZg1TgP0u2Jzz8"
+      },
+      "artists": [
+        {
+          "name": "E.J",
+          "url": "https://open.spotify.com/artist/6ug6aCXWry7QVITLdGDjoV"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173871,
+      "name": "GEMIMA",
+      "url": "https://open.spotify.com/track/2iGKap7iFgqarvtDvOsHzk"
     },
     {
       "album": {
@@ -980,7 +1020,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 186950,
       "name": "La vie des gens",
       "url": "https://open.spotify.com/track/3EcrfT5XuWsmoVMPXJZmhQ"
@@ -998,7 +1038,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 152490,
       "name": "Le Parti 2",
       "url": "https://open.spotify.com/track/2cftrq4dBA1nV28ysrIfr4"
@@ -1535,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "SOLDAT",
+        "url": "https://open.spotify.com/album/4fkctYphAu4TFbtZMSyejI"
+      },
+      "artists": [
+        {
+          "name": "Paki Chenzu",
+          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177885,
+      "name": "SOLDAT",
+      "url": "https://open.spotify.com/track/47Zi1azLkIGvZZXkVIOgnH"
+    },
+    {
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/1J4zwpeSSxT2pfBw9Tcu63"
       },
@@ -1706,7 +1764,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 180000,
       "name": "UNDER THE SUN",
       "url": "https://open.spotify.com/track/5ccP5He1bggKx0xBKPy1Zx"

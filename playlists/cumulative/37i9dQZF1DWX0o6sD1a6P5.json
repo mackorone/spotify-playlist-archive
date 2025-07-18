@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Burna Boy",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Shallipopi",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -9270,7 +9270,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 188871,
       "name": "Lover Boy (feat. Tayc & Dadju)",
       "url": "https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe"
@@ -16608,6 +16608,28 @@
       "duration_ms": 136855,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/40wQLcBCqPVIHj6Hk8D3QP"
+    },
+    {
+      "album": {
+        "name": "Zota (feat. Tayc)",
+        "url": "https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142640,
+      "name": "Zota (feat. Tayc)",
+      "url": "https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj"
     },
     {
       "album": {

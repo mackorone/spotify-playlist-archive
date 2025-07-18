@@ -1,15 +1,31 @@
 {
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Eva Timush, Oscar",
-  "num_followers": 61936,
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: The Motans",
+  "num_followers": 61949,
   "original_name": "Hiturile de azi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHAp2QAAAABlJloTMQCMivcsCqjZizyj",
+  "snapshot_id": "aHlkXQAAAAD1CgyavIvib6eLcCOeCqoz",
   "tracks": [
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Regele Lumii",
+        "url": "https://open.spotify.com/album/2pmL1VXRXhSxb1za2BMspw"
+      },
+      "artists": [
+        {
+          "name": "The Motans",
+          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
+        }
+      ],
+      "duration_ms": 176416,
+      "name": "Regele Lumii",
+      "url": "https://open.spotify.com/track/2S8aXfKXsyuuWxnFkoaowl"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/4gYjYUEqs9Npy57LS2zhRA"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/26L8DBVuNze7p4Awek9je5"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Cu T\u0103lpile Goale",
         "url": "https://open.spotify.com/album/0R7eK1bGzwk5UBJ7IKoZWE"
@@ -45,83 +61,23 @@
       "url": "https://open.spotify.com/track/5eMX92EXE1FFV0JCixVkXD"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
-        "name": "Ochii t\u0103i tri\u0219ti",
-        "url": "https://open.spotify.com/album/4AXivRoGXpDStm7czUFCGz"
+        "name": "De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/15RnknO2T3MUdrfowpQuK0"
       },
       "artists": [
         {
-          "name": "Nicole Cherry",
-          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+          "name": "Ioana Ignat",
+          "url": "https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu"
         }
       ],
-      "duration_ms": 191931,
-      "name": "Ochii t\u0103i tri\u0219ti",
-      "url": "https://open.spotify.com/track/0xVRcjDrbSyRILYbNPj6Zv"
+      "duration_ms": 186818,
+      "name": "De Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5A3PRd9ydLGFaHlJ9ggZFr"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "A fost mai simplu s\u0103 pleci",
-        "url": "https://open.spotify.com/album/2ADICf1yT37nPwVObJU2uF"
-      },
-      "artists": [
-        {
-          "name": "Alina Eremia",
-          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "A fost mai simplu s\u0103 pleci",
-      "url": "https://open.spotify.com/track/1YpYFebQmJE6r7wk0hZcQ4"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "\u00cemi place c\u00e2nd (From \"Situationship\" The Movie)",
-        "url": "https://open.spotify.com/album/0GRF58upfhbiVSc3OnNOPT"
-      },
-      "artists": [
-        {
-          "name": "Lazy Ed",
-          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
-        },
-        {
-          "name": "Mario ",
-          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "\u00cemi place c\u00e2nd - From \"Situationship\" The Movie",
-      "url": "https://open.spotify.com/track/7rW05NyJEhmDDSmSP0Lt0L"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Miss Univers",
-        "url": "https://open.spotify.com/album/4a4GmRszvwaAXCp7KvfPc5"
-      },
-      "artists": [
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
-        },
-        {
-          "name": "Alex Velea",
-          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
-        },
-        {
-          "name": "Connect-R",
-          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
-        }
-      ],
-      "duration_ms": 201882,
-      "name": "Miss Univers",
-      "url": "https://open.spotify.com/track/1fknBAWpK9tsHawJKmh5cG"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Hora fetelor",
         "url": "https://open.spotify.com/album/580phVNDwAGjBZvhc19gwO"
@@ -137,7 +93,7 @@
       "url": "https://open.spotify.com/track/4axfTALAQ2kM35X35fCnc7"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Am tot",
         "url": "https://open.spotify.com/album/46YPrxOeT32Izh41tIlcAN"
@@ -153,7 +109,7 @@
       "url": "https://open.spotify.com/track/47N87gdxueBffp9whfcoI6"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/2gPF15vJyaU8QErbQlvki7"
@@ -169,23 +125,7 @@
       "url": "https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Tot ce avem e azi",
-        "url": "https://open.spotify.com/album/27BVcJO95WD5VYpr45XrCE"
-      },
-      "artists": [
-        {
-          "name": "Andrei Ursu",
-          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
-        }
-      ],
-      "duration_ms": 183061,
-      "name": "Tot ce avem e azi",
-      "url": "https://open.spotify.com/track/7rZXVP5U1BcOywWCRdjW85"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "A\u0219a Ceva",
         "url": "https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7"
@@ -209,7 +149,83 @@
       "url": "https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "AiAiAi",
+        "url": "https://open.spotify.com/album/0EoGsbvZX6ttvy191g4sdt"
+      },
+      "artists": [
+        {
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        },
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        }
+      ],
+      "duration_ms": 147555,
+      "name": "AiAiAi",
+      "url": "https://open.spotify.com/track/42jtfAI95MlgLh7QcdGdBA"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Miss Univers",
+        "url": "https://open.spotify.com/album/4a4GmRszvwaAXCp7KvfPc5"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        },
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "duration_ms": 201882,
+      "name": "Miss Univers",
+      "url": "https://open.spotify.com/track/1fknBAWpK9tsHawJKmh5cG"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/5Zz7OLgCFc4oji0DwU6Fjv"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        }
+      ],
+      "duration_ms": 222285,
+      "name": "33",
+      "url": "https://open.spotify.com/track/4LafNv6Vn6XQX8A4XcSmiB"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Pata de culoare",
+        "url": "https://open.spotify.com/album/5D85ln9DnFG7290Jczuddo"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "duration_ms": 173385,
+      "name": "Pata de culoare",
+      "url": "https://open.spotify.com/track/5s8Vd9V3oGoa9r19L5ypAQ"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "De la cer la p\u0103m\u00e2nt",
         "url": "https://open.spotify.com/album/6lwycmufhXCRznVmYSyTsK"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/3H6Tg6xtH17pra1yLKTTAz"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan"
@@ -245,71 +261,27 @@
       "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
-        "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
-        "url": "https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs"
+        "name": "\u00cemi place c\u00e2nd (From \"Situationship\")",
+        "url": "https://open.spotify.com/album/0GRF58upfhbiVSc3OnNOPT"
       },
       "artists": [
         {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
-      "url": "https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Pata de culoare",
-        "url": "https://open.spotify.com/album/5D85ln9DnFG7290Jczuddo"
-      },
-      "artists": [
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        },
         {
-          "name": "Andia",
-          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
         }
       ],
-      "duration_ms": 173385,
-      "name": "Pata de culoare",
-      "url": "https://open.spotify.com/track/5s8Vd9V3oGoa9r19L5ypAQ"
+      "duration_ms": 146938,
+      "name": "\u00cemi place c\u00e2nd - From \"Situationship\"",
+      "url": "https://open.spotify.com/track/7rW05NyJEhmDDSmSP0Lt0L"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Lume, Lume",
-        "url": "https://open.spotify.com/album/6wMoTxZxyBP5yy91h1Iykp"
-      },
-      "artists": [
-        {
-          "name": "IRAIDA",
-          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Lume, Lume",
-      "url": "https://open.spotify.com/track/4cIvBXueYjHnD27zCLFKLh"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "O nebun\u0103",
-        "url": "https://open.spotify.com/album/1O4KrVH2xvpENNHxa9C9Gz"
-      },
-      "artists": [
-        {
-          "name": "Emilian",
-          "url": "https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "O nebun\u0103",
-      "url": "https://open.spotify.com/track/43YPyagUcm93zyGiNYfmJR"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Neinten\u021bionat",
         "url": "https://open.spotify.com/album/4W4P0MLEzgp1aHyP8l2dRv"
@@ -329,43 +301,39 @@
       "url": "https://open.spotify.com/track/3K5VZfyDi1SvgTjhma4eq2"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
-        "name": "Predestina\u021bi",
-        "url": "https://open.spotify.com/album/7H5m78qRwqgZhEagDK69DZ"
+        "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
+        "url": "https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs"
       },
       "artists": [
         {
-          "name": "Iuliana Beregoi",
-          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
-        },
-        {
-          "name": "YNY Sebi",
-          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
         }
       ],
-      "duration_ms": 195852,
-      "name": "Predestina\u021bi",
-      "url": "https://open.spotify.com/track/1bo3HA3VjdpUTKcdeNKTvD"
+      "duration_ms": 190000,
+      "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
+      "url": "https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
-        "name": "Fatata",
-        "url": "https://open.spotify.com/album/3pBMLWsNfFApr2pvoCbQJS"
+        "name": "Una cald\u0103, una rece",
+        "url": "https://open.spotify.com/album/5oxx3TXGkSbtAtyRY8sFXt"
       },
       "artists": [
         {
-          "name": "JO",
-          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+          "name": "Alexia",
+          "url": "https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Fatata",
-      "url": "https://open.spotify.com/track/7EHtqFzAw7QVk9SBwYbRah"
+      "duration_ms": 177931,
+      "name": "Una cald\u0103, una rece",
+      "url": "https://open.spotify.com/track/0pp0BbE4jQMQdJpfk7SHMM"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "M-am Trezit Obosit",
         "url": "https://open.spotify.com/album/2fMLvh6N2S8nmsFMPrFCNJ"
@@ -389,7 +357,39 @@
       "url": "https://open.spotify.com/track/6NcQa23gFiAhqEakrOK9mg"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "A fost mai simplu s\u0103 pleci",
+        "url": "https://open.spotify.com/album/2ADICf1yT37nPwVObJU2uF"
+      },
+      "artists": [
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "A fost mai simplu s\u0103 pleci",
+      "url": "https://open.spotify.com/track/1YpYFebQmJE6r7wk0hZcQ4"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Fatata",
+        "url": "https://open.spotify.com/album/3pBMLWsNfFApr2pvoCbQJS"
+      },
+      "artists": [
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Fatata",
+      "url": "https://open.spotify.com/track/7EHtqFzAw7QVk9SBwYbRah"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Dulce amar\u0103",
         "url": "https://open.spotify.com/album/0TE05f2iw0YKH0dI39c4df"
@@ -409,23 +409,7 @@
       "url": "https://open.spotify.com/track/2P7DU6RdvZccU34YGkzjIm"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Una cald\u0103, una rece",
-        "url": "https://open.spotify.com/album/5oxx3TXGkSbtAtyRY8sFXt"
-      },
-      "artists": [
-        {
-          "name": "Alexia",
-          "url": "https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Una cald\u0103, una rece",
-      "url": "https://open.spotify.com/track/0pp0BbE4jQMQdJpfk7SHMM"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Cine, cine",
         "url": "https://open.spotify.com/album/5xTwLaYlDYZFxqWTFeOLV9"
@@ -445,99 +429,39 @@
       "url": "https://open.spotify.com/track/6paw0zreuIzEn8CmhPGwct"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
-        "name": "Am\u00e2ndoi",
-        "url": "https://open.spotify.com/album/0pUEOfOTDV5hWXdir7B23j"
+        "name": "Lume, Lume",
+        "url": "https://open.spotify.com/album/6wMoTxZxyBP5yy91h1Iykp"
       },
       "artists": [
         {
-          "name": "Lidia Buble",
-          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
-        },
-        {
-          "name": "3 Sud Est",
-          "url": "https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC"
+          "name": "IRAIDA",
+          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Am\u00e2ndoi",
-      "url": "https://open.spotify.com/track/3sSs3h5nQ7fmIL91dKynhv"
+      "duration_ms": 170666,
+      "name": "Lume, Lume",
+      "url": "https://open.spotify.com/track/4cIvBXueYjHnD27zCLFKLh"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
-        "name": "Delir\u0103m",
-        "url": "https://open.spotify.com/album/0clfOlUgz4BAHaOaIc3fTB"
+        "name": "O nebun\u0103",
+        "url": "https://open.spotify.com/album/1O4KrVH2xvpENNHxa9C9Gz"
       },
       "artists": [
         {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
+          "name": "Emilian",
+          "url": "https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd"
         }
       ],
-      "duration_ms": 171562,
-      "name": "Delir\u0103m",
-      "url": "https://open.spotify.com/track/7HPLQgaWre8eQr4CUqat1A"
+      "duration_ms": 168979,
+      "name": "O nebun\u0103",
+      "url": "https://open.spotify.com/track/43YPyagUcm93zyGiNYfmJR"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Drama Mama",
-        "url": "https://open.spotify.com/album/661autQdGZS96UlSG7fuyo"
-      },
-      "artists": [
-        {
-          "name": "Feli",
-          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Drama Mama",
-      "url": "https://open.spotify.com/track/23Sg5f0tFLRsAFGwDmZ5Bj"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Bani",
-        "url": "https://open.spotify.com/album/1QZskmHu5VDLTmSmOFLC8r"
-      },
-      "artists": [
-        {
-          "name": "Bitza",
-          "url": "https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ"
-        },
-        {
-          "name": "Lora",
-          "url": "https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq"
-        }
-      ],
-      "duration_ms": 159886,
-      "name": "Bani",
-      "url": "https://open.spotify.com/track/61deXEuSYYBLM0iFAR56Hx"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Lumea-i Condusa de Femei",
-        "url": "https://open.spotify.com/album/62wipdAW3020gK6eGWB9Ie"
-      },
-      "artists": [
-        {
-          "name": "Shift",
-          "url": "https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy"
-        },
-        {
-          "name": "Marius Moga",
-          "url": "https://open.spotify.com/artist/572uUqNnEoaTeR0PuZHtyk"
-        }
-      ],
-      "duration_ms": 164032,
-      "name": "Lumea-i Condusa de Femei",
-      "url": "https://open.spotify.com/track/5dKwYkND9Tw8EPNkRdmk4Y"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Te-am desenat",
         "url": "https://open.spotify.com/album/0m71zzWghJaJW8r44YQaGb"
@@ -557,7 +481,23 @@
       "url": "https://open.spotify.com/track/0Cuc3pVieq02jC2l7ReUwK"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Scris \u00een stele",
+        "url": "https://open.spotify.com/album/2pvWo09OCqmqySpWSwb4vG"
+      },
+      "artists": [
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Scris \u00een stele",
+      "url": "https://open.spotify.com/track/56CKQUh86vfUceC4yiodIJ"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/7mYcHs6sJgYiVmAOBTgemf"
@@ -577,243 +517,7 @@
       "url": "https://open.spotify.com/track/61qMlEw96KJJluJx1ANYbH"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "P\u0103m\u00e2ntul",
-        "url": "https://open.spotify.com/album/7gNoNV1qYU0aqE2sM3zBSS"
-      },
-      "artists": [
-        {
-          "name": "Emilian",
-          "url": "https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd"
-        }
-      ],
-      "duration_ms": 167710,
-      "name": "P\u0103m\u00e2ntul",
-      "url": "https://open.spotify.com/track/12MeAowVpmKBChLgAL0jtl"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "De ce te ui\u021bi a\u0219a?",
-        "url": "https://open.spotify.com/album/6Qn7iJTooKGtVMw1g4epFT"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Antonia",
-          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
-        }
-      ],
-      "duration_ms": 143315,
-      "name": "De ce te ui\u021bi a\u0219a?",
-      "url": "https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
-        "url": "https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS"
-      },
-      "artists": [
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 196285,
-      "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
-      "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Numai una",
-        "url": "https://open.spotify.com/album/1rA1kXCUIW5DSQyrYSKv3b"
-      },
-      "artists": [
-        {
-          "name": "Nicole Cherry",
-          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Numai una",
-      "url": "https://open.spotify.com/track/0OEKRaMZgxBfwdHZdFW8il"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Bun\u0103 diminea\u021ba",
-        "url": "https://open.spotify.com/album/4va8t9H1ZuCHavT7KnQR1C"
-      },
-      "artists": [
-        {
-          "name": "Liviu Teodorescu",
-          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
-        },
-        {
-          "name": "MIRA",
-          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Bun\u0103 diminea\u021ba",
-      "url": "https://open.spotify.com/track/3aNOsGWuGG6rE82xK0pjpe"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "I Did",
-        "url": "https://open.spotify.com/album/0IAyUqUPKPMc2WPZlwe6m1"
-      },
-      "artists": [
-        {
-          "name": "SICKOTOY",
-          "url": "https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF"
-        },
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        }
-      ],
-      "duration_ms": 140641,
-      "name": "I Did",
-      "url": "https://open.spotify.com/track/2Lcd6VzN6n80RhW3SbPqoM"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Nimeni",
-        "url": "https://open.spotify.com/album/3Yie8WT2g1oqcddK6ABrJw"
-      },
-      "artists": [
-        {
-          "name": "Nicole Cherry",
-          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Nimeni",
-      "url": "https://open.spotify.com/track/7vW00drwifTzdfBkBmtFyl"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Scris \u00een stele",
-        "url": "https://open.spotify.com/album/2pvWo09OCqmqySpWSwb4vG"
-      },
-      "artists": [
-        {
-          "name": "Delia",
-          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Scris \u00een stele",
-      "url": "https://open.spotify.com/track/56CKQUh86vfUceC4yiodIJ"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Vise de zah\u0103r",
-        "url": "https://open.spotify.com/album/4cKW0kBFtSKYtwde9yVTzv"
-      },
-      "artists": [
-        {
-          "name": "DJ Project",
-          "url": "https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ"
-        },
-        {
-          "name": "Oana Matache",
-          "url": "https://open.spotify.com/artist/7FmNU0yMM716pY73SteA4u"
-        }
-      ],
-      "duration_ms": 195254,
-      "name": "Vise de zah\u0103r",
-      "url": "https://open.spotify.com/track/57pU1kPLQNHP1n14Xy3Ohf"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Trandafiri",
-        "url": "https://open.spotify.com/album/4eRTS8WqCqG7gBwlywa4J5"
-      },
-      "artists": [
-        {
-          "name": "Daria Lupi",
-          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
-        },
-        {
-          "name": "Cabron",
-          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
-        }
-      ],
-      "duration_ms": 142776,
-      "name": "Trandafiri",
-      "url": "https://open.spotify.com/track/36I8NX3Isr82GZ2C01UTDI"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Aer",
-        "url": "https://open.spotify.com/album/3uMCrLbQ09OfbwQReNItOU"
-      },
-      "artists": [
-        {
-          "name": "ADI",
-          "url": "https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo"
-        },
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        }
-      ],
-      "duration_ms": 178570,
-      "name": "Aer",
-      "url": "https://open.spotify.com/track/2A9p4yIFJ3jHmqNZ0GSPh6"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Ciao Amore!",
-        "url": "https://open.spotify.com/album/6NU62gfLSe6N4qMzOJZQZT"
-      },
-      "artists": [
-        {
-          "name": "Francis On My Mind",
-          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
-        }
-      ],
-      "duration_ms": 157363,
-      "name": "Ciao Amore!",
-      "url": "https://open.spotify.com/track/3KgJ6MzX3OJgFmsCsYl2rZ"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Lumea toat\u0103",
-        "url": "https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT"
-      },
-      "artists": [
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        },
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Lumea toat\u0103",
-      "url": "https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Oameni Ca Noi",
         "url": "https://open.spotify.com/album/7J9Ym8pSnCDgmi8gYpUMRS"
@@ -833,7 +537,331 @@
       "url": "https://open.spotify.com/track/2n8k2nReq2u4iAix0dRonC"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Ochii t\u0103i tri\u0219ti",
+        "url": "https://open.spotify.com/album/4AXivRoGXpDStm7czUFCGz"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        }
+      ],
+      "duration_ms": 191931,
+      "name": "Ochii t\u0103i tri\u0219ti",
+      "url": "https://open.spotify.com/track/0xVRcjDrbSyRILYbNPj6Zv"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Delir\u0103m",
+        "url": "https://open.spotify.com/album/0clfOlUgz4BAHaOaIc3fTB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "Delir\u0103m",
+      "url": "https://open.spotify.com/track/7HPLQgaWre8eQr4CUqat1A"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Tot ce avem e azi",
+        "url": "https://open.spotify.com/album/27BVcJO95WD5VYpr45XrCE"
+      },
+      "artists": [
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "duration_ms": 183061,
+      "name": "Tot ce avem e azi",
+      "url": "https://open.spotify.com/track/7rZXVP5U1BcOywWCRdjW85"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Am\u00e2ndoi",
+        "url": "https://open.spotify.com/album/0pUEOfOTDV5hWXdir7B23j"
+      },
+      "artists": [
+        {
+          "name": "Lidia Buble",
+          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
+        },
+        {
+          "name": "3 Sud Est",
+          "url": "https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Am\u00e2ndoi",
+      "url": "https://open.spotify.com/track/3sSs3h5nQ7fmIL91dKynhv"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Lumea-i Condusa de Femei",
+        "url": "https://open.spotify.com/album/62wipdAW3020gK6eGWB9Ie"
+      },
+      "artists": [
+        {
+          "name": "Shift",
+          "url": "https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy"
+        },
+        {
+          "name": "Marius Moga",
+          "url": "https://open.spotify.com/artist/572uUqNnEoaTeR0PuZHtyk"
+        }
+      ],
+      "duration_ms": 164032,
+      "name": "Lumea-i Condusa de Femei",
+      "url": "https://open.spotify.com/track/5dKwYkND9Tw8EPNkRdmk4Y"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Drama Mama",
+        "url": "https://open.spotify.com/album/661autQdGZS96UlSG7fuyo"
+      },
+      "artists": [
+        {
+          "name": "Feli",
+          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Drama Mama",
+      "url": "https://open.spotify.com/track/23Sg5f0tFLRsAFGwDmZ5Bj"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "P\u0103m\u00e2ntul",
+        "url": "https://open.spotify.com/album/7gNoNV1qYU0aqE2sM3zBSS"
+      },
+      "artists": [
+        {
+          "name": "Emilian",
+          "url": "https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd"
+        }
+      ],
+      "duration_ms": 167710,
+      "name": "P\u0103m\u00e2ntul",
+      "url": "https://open.spotify.com/track/12MeAowVpmKBChLgAL0jtl"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Numai una",
+        "url": "https://open.spotify.com/album/1rA1kXCUIW5DSQyrYSKv3b"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Numai una",
+      "url": "https://open.spotify.com/track/0OEKRaMZgxBfwdHZdFW8il"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "De ce te ui\u021bi a\u0219a?",
+        "url": "https://open.spotify.com/album/6Qn7iJTooKGtVMw1g4epFT"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        }
+      ],
+      "duration_ms": 143315,
+      "name": "De ce te ui\u021bi a\u0219a?",
+      "url": "https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
+        "url": "https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 196285,
+      "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
+      "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "I Did",
+        "url": "https://open.spotify.com/album/0IAyUqUPKPMc2WPZlwe6m1"
+      },
+      "artists": [
+        {
+          "name": "SICKOTOY",
+          "url": "https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF"
+        },
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "duration_ms": 140641,
+      "name": "I Did",
+      "url": "https://open.spotify.com/track/2Lcd6VzN6n80RhW3SbPqoM"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Nimeni",
+        "url": "https://open.spotify.com/album/3Yie8WT2g1oqcddK6ABrJw"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Nimeni",
+      "url": "https://open.spotify.com/track/7vW00drwifTzdfBkBmtFyl"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Trandafiri",
+        "url": "https://open.spotify.com/album/4eRTS8WqCqG7gBwlywa4J5"
+      },
+      "artists": [
+        {
+          "name": "Daria Lupi",
+          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
+        },
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        }
+      ],
+      "duration_ms": 142776,
+      "name": "Trandafiri",
+      "url": "https://open.spotify.com/track/36I8NX3Isr82GZ2C01UTDI"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Aer",
+        "url": "https://open.spotify.com/album/3uMCrLbQ09OfbwQReNItOU"
+      },
+      "artists": [
+        {
+          "name": "ADI",
+          "url": "https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo"
+        },
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        }
+      ],
+      "duration_ms": 178570,
+      "name": "Aer",
+      "url": "https://open.spotify.com/track/2A9p4yIFJ3jHmqNZ0GSPh6"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Vise de zah\u0103r",
+        "url": "https://open.spotify.com/album/4cKW0kBFtSKYtwde9yVTzv"
+      },
+      "artists": [
+        {
+          "name": "DJ Project",
+          "url": "https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ"
+        },
+        {
+          "name": "Oana Matache",
+          "url": "https://open.spotify.com/artist/7FmNU0yMM716pY73SteA4u"
+        }
+      ],
+      "duration_ms": 195254,
+      "name": "Vise de zah\u0103r",
+      "url": "https://open.spotify.com/track/57pU1kPLQNHP1n14Xy3Ohf"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Lumea toat\u0103",
+        "url": "https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Lumea toat\u0103",
+      "url": "https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Deja Vu (Facem Cum Vrei Tu)",
+        "url": "https://open.spotify.com/album/1ZFkRzfhA9ORsQAl60CVDB"
+      },
+      "artists": [
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        }
+      ],
+      "duration_ms": 167204,
+      "name": "Deja Vu - Facem Cum Vrei Tu",
+      "url": "https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
+      "album": {
+        "name": "Predestina\u021bi",
+        "url": "https://open.spotify.com/album/7H5m78qRwqgZhEagDK69DZ"
+      },
+      "artists": [
+        {
+          "name": "Iuliana Beregoi",
+          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
+        },
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        }
+      ],
+      "duration_ms": 195852,
+      "name": "Predestina\u021bi",
+      "url": "https://open.spotify.com/track/1bo3HA3VjdpUTKcdeNKTvD"
+    },
+    {
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Prin Bucuresti",
         "url": "https://open.spotify.com/album/1ca2pxjyN7NH34esE1w4lC"
@@ -853,23 +881,7 @@
       "url": "https://open.spotify.com/track/0E1Q4Se6b7Y1xehxBtBhVl"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Deja Vu (Facem Cum Vrei Tu)",
-        "url": "https://open.spotify.com/album/1ZFkRzfhA9ORsQAl60CVDB"
-      },
-      "artists": [
-        {
-          "name": "Misha Miller",
-          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
-        }
-      ],
-      "duration_ms": 167204,
-      "name": "Deja Vu - Facem Cum Vrei Tu",
-      "url": "https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "Talk To You Later",
         "url": "https://open.spotify.com/album/6FxcMkrFUyQIA5IVwUg6CG"
@@ -885,23 +897,7 @@
       "url": "https://open.spotify.com/track/21oI1ZMVYeXW2MFhgSjhoK"
     },
     {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Fragil",
-        "url": "https://open.spotify.com/album/6yhC3vwtBLrnrkMXlQpH0t"
-      },
-      "artists": [
-        {
-          "name": "Lidia Buble",
-          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Tic Tac",
-      "url": "https://open.spotify.com/track/1IreaHikJBzfNrYelwZTTJ"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
+      "added_at": "2025-07-17 21:00:13",
       "album": {
         "name": "123",
         "url": "https://open.spotify.com/album/1dMNPnRN1xsFK5rXjEFui1"

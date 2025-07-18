@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-575 songs - 1 day 11 hr 4 min
+576 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Arrancarte de Mí](https://open.spotify.com/track/0RxjDDZj47Q0k7nD4aBGsi) | [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Arrancarte de Mí](https://open.spotify.com/album/5mZ6yPIMdL8rii7bT2WBhp) | 2:59 | 2024-07-05 | 2024-09-03 |
 | [Arrancarte de Mí \(En Vivo Gran Rex\)](https://open.spotify.com/track/1LndG8GrzxWUY2tygaxY7Q) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8) | [Arrancarte de Mí \(En Vivo Gran Rex\)](https://open.spotify.com/album/4Uk8EJiAzcJQqUvWewwDp2) | 3:09 | 2025-04-25 | 2025-05-24 |
 | [Arrasando / Soy Lo Que Me Das](https://open.spotify.com/track/3Khcr6j3UJ4fktFHhUc3SA) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Arrasando / Soy Lo Que Me Das](https://open.spotify.com/album/6HKNcLg2AYBEVE9FhCoaUU) | 3:22 | 2022-03-25 | 2022-06-21 |
+| [Asi Es La Vida](https://open.spotify.com/track/0xf8dIKtbvyCGaqB5qhFtu) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Asi Es La Vida](https://open.spotify.com/album/7taodHsPBoQ2jFrtYZvzgC) | 3:05 | 2025-07-18 |  |
 | [Atrevida \- En Vivo](https://open.spotify.com/track/7JkQzAl2Yr6VvEkDV3aqdP) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Atrevida](https://open.spotify.com/album/3Cmyeu1yxpExTUpPn8bDHq) | 4:16 | 2021-12-24 | 2022-07-23 |
 | [Atrévete](https://open.spotify.com/track/0g9ThXviJTdKDhj8StP5EE) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Atrévete](https://open.spotify.com/album/56CyDTKDVVyUgrKmXqAbq9) | 3:17 | 2023-10-06 | 2025-04-14 |
 | [Atrévete](https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 4:15 | 2021-12-24 | 2023-02-04 |
@@ -100,7 +101,7 @@
 | [Convénceme](https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Convénceme](https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO) | 3:10 | 2021-12-24 |  |
 | [Corazón en Bandeja de Té](https://open.spotify.com/track/6JAqFBKUiAff3hYZafk8HI) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm) | [Corazón en Bandeja de Té](https://open.spotify.com/album/52vYmKaGgaXJ5gXFOG0dnP) | 3:09 | 2023-05-05 | 2023-05-13 |
 | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/track/5UHDpDK2zHJJFObMEfNk2b) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/album/1P3h9bf0TZNzLarS1G6CsX) | 3:06 | 2023-08-18 | 2023-10-07 |
-| [Corazón Partío \- En Vivo](https://open.spotify.com/track/1og22H4fikIPnS3wu92Gzr) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Corazón Partío \(En Vivo\)](https://open.spotify.com/album/6SquTKyvOuQuFxF2M3MZ0C) | 3:01 | 2025-05-02 |  |
+| [Corazón Partío \- En Vivo](https://open.spotify.com/track/1og22H4fikIPnS3wu92Gzr) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Corazón Partío \(En Vivo\)](https://open.spotify.com/album/6SquTKyvOuQuFxF2M3MZ0C) | 3:01 | 2025-05-02 | 2025-07-18 |
 | [Corazón que miente](https://open.spotify.com/track/7IX8K58YVVPJOIwio7vIpz) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Corazón que miente](https://open.spotify.com/album/745UcNkOQwdtDL1Uu65Heq) | 3:06 | 2024-10-18 | 2024-11-22 |
 | [Costumbres](https://open.spotify.com/track/6gCcOzq4uy8VQktaBzx7wy) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Costumbres](https://open.spotify.com/album/4jX7jBxxmd04LdZB35Hg2r) | 3:30 | 2023-02-17 | 2023-02-25 |
 | [Crimenes Perfectos](https://open.spotify.com/track/2nk3FvvhXu6IPCVuEbIh60) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Crimenes Perfectos](https://open.spotify.com/album/7pSRkjpTzpxjqfgzcrbQO3) | 2:02 | 2023-08-18 | 2023-08-26 |

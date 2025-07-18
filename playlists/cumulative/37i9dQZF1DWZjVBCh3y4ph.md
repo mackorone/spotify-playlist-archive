@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Lycinaïs Jean
+> Les hits zouk du moment\. Photo : Kalipsxau
 
-285 songs - 15 hr 12 min
+286 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [LA BEST](https://open.spotify.com/track/6JWqSrA6W2r2P1ZIQFLBC4) | [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ), [RMN’PROD](https://open.spotify.com/artist/2mV9eCX5doDUKeBRD4uV1i) | [LA BEST](https://open.spotify.com/album/2AnxHAMKA64G2gat36DDVa) | 3:31 | 2023-09-28 | 2023-11-17 |
 | [La la land \(Part\. 2\)](https://open.spotify.com/track/1AN5RGfXPXqgZx7XFcNIZD) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [La la land \(Part\. 2\)](https://open.spotify.com/album/5soRGu5jsD1Zlj2dHgIoQ2) | 3:58 | 2024-07-11 | 2025-05-09 |
 | [La Loupe](https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [La Loupe](https://open.spotify.com/album/4PLxr6mFMC4Uth8aJemKCF) | 2:35 | 2023-11-30 | 2024-02-23 |
-| [La température](https://open.spotify.com/track/27BWRLH34mfG5wvAA1Leij) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT), [Milenzi](https://open.spotify.com/artist/3kUZDDyXB8aHc6Cn4lgFcU) | [La température](https://open.spotify.com/album/1xMMwPytg39U5DRs2lzXXB) | 3:51 | 2025-06-26 |  |
+| [La température](https://open.spotify.com/track/27BWRLH34mfG5wvAA1Leij) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT), [Milenzi](https://open.spotify.com/artist/3kUZDDyXB8aHc6Cn4lgFcU) | [La température](https://open.spotify.com/album/1xMMwPytg39U5DRs2lzXXB) | 3:51 | 2025-06-26 | 2025-07-18 |
 | [LANMOU TOXIC](https://open.spotify.com/track/5eK8op8qRBS5unsE5O0IGI) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [LANMOU TOXIC](https://open.spotify.com/album/4fwY41o2uN6BKEIFwJe1i7) | 4:10 | 2025-03-13 | 2025-05-02 |
 | [Le bon choix](https://open.spotify.com/track/6gN1jPRmuyD5vNUrgYuENc) | [MJTX](https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP), [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Le bon choix](https://open.spotify.com/album/07Mdo7WKJiovZZOcU8Lyhu) | 3:03 | 2025-05-15 | 2025-07-04 |
 | [Level Up](https://open.spotify.com/track/2kRv77B419PCT2N6nIHx4E) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Level Up](https://open.spotify.com/album/1LPsTbC6Mbs8uaMqQGzfKG) | 2:34 | 2024-08-01 | 2024-10-11 |
@@ -284,6 +284,7 @@
 | [Vini](https://open.spotify.com/track/2lTGtcexmJIqIFlhzTg4Pv) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj) | [Vini](https://open.spotify.com/album/0pLVrFf6Dim0z2IV84q02w) | 3:21 | 2023-10-19 | 2023-12-01 |
 | [VIRÉ FEY](https://open.spotify.com/track/3HntoALO84z82ZIF3vJwHl) | [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [BBW \(Deluxe Edition\)](https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX) | 2:56 | 2024-06-06 | 2024-11-22 |
 | [Visa](https://open.spotify.com/track/5DBZASQQb9BjZeYyjuA1WG) | [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Visa](https://open.spotify.com/album/0SAjOy3Wii7Tet7MIA7Sia) | 3:41 | 2023-09-28 | 2024-01-05 |
+| [Viser plus haut](https://open.spotify.com/track/5K4O4FzyrKpDX9MZLrxfKg) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Yoann Infinity](https://open.spotify.com/artist/2oa2t4VkM63v9U0hyWSj1X) | [Viser plus haut](https://open.spotify.com/album/4l38ov6qWMBHhV6KpYGwsH) | 4:06 | 2025-07-17 |  |
 | [Vivre ou Pardonner](https://open.spotify.com/track/5JMZ9ZTlkTRTH9jsL0sNlF) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Gwins](https://open.spotify.com/artist/6LTbAfj4mFbQGuw2o08rVc) | [Vivre ou Pardonner](https://open.spotify.com/album/34ms9IhHgVIiiTvWLDkbRg) | 3:02 | 2023-12-28 | 2024-07-05 |
 | [Vou Et Mwen](https://open.spotify.com/track/6vq16h5EmKesnlHnyH6aWM) | [Sauce](https://open.spotify.com/artist/3Jrb45fRTmSOk2w2TePU4r), [S.A.M.O](https://open.spotify.com/artist/1FCBufI9ovdHlo2bSwGNvV) | [Vou Et Mwen](https://open.spotify.com/album/6CAnEVMN8pVMjlKp1oIXX7) | 2:38 | 2024-09-19 | 2024-10-11 |
 | [West Indies](https://open.spotify.com/track/2nJIdiAk5QyqkDilI4Lph6) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I) | [West Indies](https://open.spotify.com/album/2DJLNFCYzyX9piDBw3m7IM) | 2:54 | 2023-09-28 | 2023-10-27 |

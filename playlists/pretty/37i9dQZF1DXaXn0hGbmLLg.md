@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > EQUAL x 7FEST: Where women take the stage\. Listen to women at full volume!  Cover: <a href="spotify:artist:1EZhPZUiU6c52gOAZLIcR2">Dylisa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,137 likes - 83 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,136 likes - 83 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

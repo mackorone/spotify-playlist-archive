@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 529090,
+  "num_followers": 529097,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feet Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU"
-    },
-    {
-      "added_at": "2025-04-25 11:32:20",
-      "album": {
         "name": "Good Vibrations",
         "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 229444,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+    },
+    {
+      "added_at": "2025-04-25 11:32:20",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feet Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU"
     },
     {
       "added_at": "2025-04-25 11:32:20",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 254176,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3VHF4e5x49Mcpom7zPE2A9"
-    },
-    {
-      "added_at": "2025-04-25 11:32:20",
-      "album": {
         "name": "Every Great Motown Hit Of Marvin Gaye",
         "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 196706,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
+    },
+    {
+      "added_at": "2025-04-25 11:32:20",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 254176,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3VHF4e5x49Mcpom7zPE2A9"
     },
     {
       "added_at": "2025-04-25 11:32:20",
@@ -1199,30 +1199,6 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "You Never Visit Me (feat. Wale & Enny)",
-        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "You Never Visit Me (feat. Wale & Enny)",
-      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
-    },
-    {
-      "added_at": "2025-04-25 11:32:20",
-      "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz"
       },
@@ -1259,18 +1235,26 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "Anyways",
-        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
+        "name": "You Never Visit Me (feat. Wale & Enny)",
+        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 176888,
-      "name": "Anyways",
-      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
+      "duration_ms": 264000,
+      "name": "You Never Visit Me (feat. Wale & Enny)",
+      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
     },
     {
       "added_at": "2025-04-25 11:32:20",
@@ -1287,6 +1271,22 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2025-04-25 11:32:20",
+      "album": {
+        "name": "Anyways",
+        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Anyways",
+      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
     },
     {
       "added_at": "2025-04-25 11:32:20",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 218150,
-      "name": "Open Light",
-      "url": "https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h"
-    },
-    {
-      "added_at": "2025-04-25 11:32:20",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/4JnytkyfWkIoiBB7pEr0SD"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 177000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/0PoXdM2shs4zsmZJb2tgHD"
+    },
+    {
+      "added_at": "2025-04-25 11:32:20",
+      "album": {
+        "name": "Fool Me Once",
+        "url": "https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 201202,
+      "name": "On God!",
+      "url": "https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30"
     }
   ],
   "unique_name": "Sweet Soul Sunday",

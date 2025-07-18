@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 149432,
+  "num_followers": 149444,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
-      },
-      "artists": [
-        {
-          "name": "Bohnes",
-          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
-        }
-      ],
-      "duration_ms": 207177,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "eighteen",
         "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Bohnes",
+          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
         }
       ],
-      "duration_ms": 133678,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
+      "duration_ms": 207177,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -951,6 +935,22 @@
       "duration_ms": 173836,
       "name": "California Girl",
       "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 133678,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Yours (feat. Bea Miller)",
-        "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 177188,
-      "name": "Yours (feat. Bea Miller)",
-      "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 228138,
       "name": "Oh No :: He Said What?",
       "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Yours (feat. Bea Miller)",
+        "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 177188,
+      "name": "Yours (feat. Bea Miller)",
+      "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
+        "name": "Everknown",
+        "url": "https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 265120,
+      "name": "Everknown",
+      "url": "https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
         "name": "Day Job",
         "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
       },
@@ -1599,18 +1615,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Everknown",
-        "url": "https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx"
+        "name": "YOU NEEDED A HIT//",
+        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
       "artists": [
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
         }
       ],
-      "duration_ms": 265120,
-      "name": "Everknown",
-      "url": "https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V"
+      "duration_ms": 120149,
+      "name": "YOU NEEDED A HIT//",
+      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
     },
     {
       "added_at": "2025-05-30 22:19:14",
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "YOU NEEDED A HIT//",
-        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/4AFI5zpN06NhzwmRJ8bczT"
       },
       "artists": [
         {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 120149,
-      "name": "YOU NEEDED A HIT//",
-      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+      "duration_ms": 175566,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3XlMdG6jijNmW6NHsRUztE"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1663,22 +1679,6 @@
       "duration_ms": 197387,
       "name": "Year 3000 2.0",
       "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
-        "name": "Greener",
-        "url": "https://open.spotify.com/album/4AFI5zpN06NhzwmRJ8bczT"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 175566,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/3XlMdG6jijNmW6NHsRUztE"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Mugshot",
-        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "Mugshot",
-      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 190222,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Mugshot",
+        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "Mugshot",
+      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
+        "name": "Final Nail (with Charlotte Sands)",
+        "url": "https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 150404,
+      "name": "Final Nail (with Charlotte Sands)",
+      "url": "https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
         "name": "SOULSUCKER",
         "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
       },
@@ -1963,26 +1983,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Final Nail (with Charlotte Sands)",
-        "url": "https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 150404,
-      "name": "Final Nail (with Charlotte Sands)",
-      "url": "https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
         "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
       },
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "SOMETHING IN THE WATER",
-        "url": "https://open.spotify.com/album/60cDTexJ5atkd4g9Rv0abO"
-      },
-      "artists": [
-        {
-          "name": "Kami Kehoe",
-          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
-        }
-      ],
-      "duration_ms": 203795,
-      "name": "SOMETHING IN THE WATER",
-      "url": "https://open.spotify.com/track/6L0pirvFbzNH4OYwd2D74b"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 159308,
       "name": "Say It (To My Face)",
       "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "SOMETHING IN THE WATER",
+        "url": "https://open.spotify.com/album/60cDTexJ5atkd4g9Rv0abO"
+      },
+      "artists": [
+        {
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+        }
+      ],
+      "duration_ms": 203795,
+      "name": "SOMETHING IN THE WATER",
+      "url": "https://open.spotify.com/track/6L0pirvFbzNH4OYwd2D74b"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "nobody",
-        "url": "https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 145294,
-      "name": "nobody",
-      "url": "https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Other Side (feat. Charlotte Sands)",
         "url": "https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 197160,
       "name": "Other Side (feat. Charlotte Sands)",
       "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "nobody",
+        "url": "https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 145294,
+      "name": "nobody",
+      "url": "https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Moneymaker",
-        "url": "https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 137933,
-      "name": "Moneymaker",
-      "url": "https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Two Friends",
         "url": "https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 186506,
       "name": "Two Friends",
       "url": "https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Moneymaker",
+        "url": "https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 137933,
+      "name": "Moneymaker",
+      "url": "https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "MESS",
-        "url": "https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA"
-      },
-      "artists": [
-        {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
-        }
-      ],
-      "duration_ms": 150530,
-      "name": "MESS",
-      "url": "https://open.spotify.com/track/4pL5Mw5esC7qlR4gcZkXzX"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 208450,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "MESS",
+        "url": "https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 150530,
+      "name": "MESS",
+      "url": "https://open.spotify.com/track/4pL5Mw5esC7qlR4gcZkXzX"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2453,22 +2453,6 @@
       "url": "https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx"
     },
     {
-      "added_at": "2025-06-13 14:45:07",
-      "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
-      },
-      "artists": [
-        {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "ON YOUR LIPS",
-      "url": "https://open.spotify.com/track/6Yc3Jz75oRKoA0abpy3eB3"
-    },
-    {
       "added_at": "2025-02-14 18:48:51",
       "album": {
         "name": "VOICES",
@@ -2483,6 +2467,22 @@
       "duration_ms": 163262,
       "name": "VOICES",
       "url": "https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f"
+    },
+    {
+      "added_at": "2025-06-13 14:45:07",
+      "album": {
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "ON YOUR LIPS",
+      "url": "https://open.spotify.com/track/6Yc3Jz75oRKoA0abpy3eB3"
     },
     {
       "added_at": "2025-02-14 18:48:51",

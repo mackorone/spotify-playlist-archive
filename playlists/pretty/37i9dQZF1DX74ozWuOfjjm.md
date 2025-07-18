@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 ### [EQUAL AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
-> Listen to women at full volume\. Cover: Kaylee Bell
+> Listen to women at full volume\. Cover: Sara Berki
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,442 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,441 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Pale Blue Dot](https://open.spotify.com/track/5MnwaOwJu9sYSd15Rokscw) | [Julia Why?](https://open.spotify.com/artist/7KRQv44ecmEYiqrP1UDiiD) | [Pale Blue Dot](https://open.spotify.com/album/4E0VmR3xhn07I4OaJyigll) | 4:14 |
 | 100 | [What The Hell Do We Do Now?](https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [What The Hell Do We Do Now?](https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0) | 3:13 |
 
-Snapshot ID: `aHXSUgAAAACUprln/YEfMvnbGO4eOTJk`
+Snapshot ID: `aHms+gAAAAAQuOMdjWp1/dx7iuWu0tQ4`

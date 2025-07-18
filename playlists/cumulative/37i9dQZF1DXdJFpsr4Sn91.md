@@ -2,9 +2,9 @@
 
 ### [Nousussa](https://open.spotify.com/playlist/37i9dQZF1DXdJFpsr4Sn91)
 
-> Nousussa olevat hitit\. Kannessa Etta ja Sara Bee
+> Nousussa olevat hitit.
 
-833 songs - 1 day 17 hr 31 min
+835 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 | 2025-03-16 | 2025-06-13 |
 | [100 kyyneltä](https://open.spotify.com/track/4odOlYAhOx65GVHPCaoMSR) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [100 kyyneltä](https://open.spotify.com/album/6D8caW2M3TrdCJ1YeFoUPS) | 3:06 | 2024-07-02 | 2024-07-12 |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-18 | 2024-08-16 |
+| [16 ct](https://open.spotify.com/track/3RbtraQDqbNGuviw5iJDJt) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Habson](https://open.spotify.com/artist/1oTR448XOPP7T54lMD6BGa) | [16 ct](https://open.spotify.com/album/2I8ZiXuYmFptvaDskAnpke) | 3:01 | 2025-07-17 |  |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-14 | 2025-01-24 |
 | [2 tone \(feat\. Ares\)](https://open.spotify.com/track/5Fggrl5jqihP50JYhFUeLt) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [2 tone \(feat\. Ares\)](https://open.spotify.com/album/6GvQ3Y54cSOMg5bQOekotv) | 2:59 | 2025-06-19 | 2025-06-27 |
 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2025-01-02 | 2025-01-17 |
@@ -485,6 +486,7 @@
 | [Mä en osaa tanssii \(feat\. Karri Koira\)](https://open.spotify.com/track/7g1CmPDygUhWbEbFT56NGV) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [Karri Koira](https://open.spotify.com/artist/1sQJfOZnTxWUPFb2wjgba5) | [Mä en osaa tanssii \(feat\. Karri Koira\)](https://open.spotify.com/album/522uwsnZbLAr57UwMXoLaB) | 3:33 | 2025-05-29 |  |
 | [Mä ja sä \(feat\. ABREU\)](https://open.spotify.com/track/5VtxTNVzC0PohY2IwRzTk3) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:18 | 2025-03-06 | 2025-05-16 |
 | [Mä oon](https://open.spotify.com/track/3q9kjuulj6YIWhi5Ys9s42) | [FUGE](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Mä oon](https://open.spotify.com/album/5F5Ww70Fnrl2fDKmSg3TuZ) | 2:41 | 2025-05-08 | 2025-05-23 |
+| [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz) | 2:37 | 2025-07-17 |  |
 | [Nainen](https://open.spotify.com/track/4TCiNeoH3grVJVt5PDUHBY) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Nainen](https://open.spotify.com/album/0hV9bV69IyfQljGLL6GVVR) | 2:30 | 2025-07-10 |  |
 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 | 2024-11-07 | 2025-03-07 |
 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 | 2024-08-27 | 2024-10-18 |

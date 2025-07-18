@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83c\udfc6 Kannessa Aste ja Kerkkogabriel.",
+  "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83c\udfc6 Kannessa WIL ja Phimi.",
   "name": "Ensisoitossa",
   "tracks": [
     {
@@ -114,6 +114,32 @@
       "duration_ms": 189192,
       "name": "15 MINUTES",
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
+    },
+    {
+      "album": {
+        "name": "16 ct",
+        "url": "https://open.spotify.com/album/2I8ZiXuYmFptvaDskAnpke"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        },
+        {
+          "name": "Habson",
+          "url": "https://open.spotify.com/artist/1oTR448XOPP7T54lMD6BGa"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181903,
+      "name": "16 ct",
+      "url": "https://open.spotify.com/track/3RbtraQDqbNGuviw5iJDJt"
     },
     {
       "album": {
@@ -2116,7 +2142,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 145873,
       "name": "BANANANAS",
       "url": "https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K"
@@ -3652,7 +3678,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 184955,
       "name": "clouds blue",
       "url": "https://open.spotify.com/track/6ptDUda2cgDCJI6VlgMfzU"
@@ -4856,7 +4882,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 175875,
       "name": "Don Julio",
       "url": "https://open.spotify.com/track/5pOJlSzz39LNDSTbM9556B"
@@ -14292,7 +14318,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 171694,
       "name": "Lupaan olla",
       "url": "https://open.spotify.com/track/140fjkWSb1cWUDCuSV3J3n"
@@ -14376,6 +14402,28 @@
       "duration_ms": 168076,
       "name": "Luuseri (feat. R\u00f6ge)",
       "url": "https://open.spotify.com/track/6Ldpx7FBS0HP8WEXP9A0bv"
+    },
+    {
+      "album": {
+        "name": "L\u00e4hell\u00e4 (feat. Phimi)",
+        "url": "https://open.spotify.com/album/0oIuMrcSdufuGBkeVDgNFt"
+      },
+      "artists": [
+        {
+          "name": "WIL",
+          "url": "https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT"
+        },
+        {
+          "name": "Phimi",
+          "url": "https://open.spotify.com/artist/0H3inzBUtHTqkhaKy8Edvk"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192981,
+      "name": "L\u00e4hell\u00e4 (feat. Phimi)",
+      "url": "https://open.spotify.com/track/4HAx4SgTwN4myPCaOmGYbw"
     },
     {
       "album": {
@@ -16889,6 +16937,28 @@
     },
     {
       "album": {
+        "name": "Naadindoo (feat. Ege Zulu)",
+        "url": "https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        },
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157788,
+      "name": "Naadindoo (feat. Ege Zulu)",
+      "url": "https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL"
+    },
+    {
+      "album": {
         "name": "NAAPURIT EI TYKK\u00c4\u00c4 MUST",
         "url": "https://open.spotify.com/album/63ToCk60hscfDVumCdq2Hj"
       },
@@ -18237,6 +18307,28 @@
     },
     {
       "album": {
+        "name": "Ota Must Kii",
+        "url": "https://open.spotify.com/album/5lbebKsgpumzkHvSKAvhDB"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4kki",
+          "url": "https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch"
+        },
+        {
+          "name": "Raappana",
+          "url": "https://open.spotify.com/artist/7m7tqSW9C7alkliDAZYvF0"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164560,
+      "name": "Ota Must Kii",
+      "url": "https://open.spotify.com/track/008khCmelPaF0WJWrMkW8f"
+    },
+    {
+      "album": {
         "name": "Ilmaista terapiaa",
         "url": "https://open.spotify.com/album/0MqERRYaS1FXXPhoDrZUJj"
       },
@@ -18932,7 +19024,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 175262,
       "name": "Pellava",
       "url": "https://open.spotify.com/track/3FJzwZBjFSzIeh13pnFRuS"
@@ -23268,6 +23360,24 @@
       "duration_ms": 145566,
       "name": "Suutele mun silmii",
       "url": "https://open.spotify.com/track/5HOb0pplKABfRqQc2RyPdR"
+    },
+    {
+      "album": {
+        "name": "MAIKKIWAY",
+        "url": "https://open.spotify.com/album/4hsbcLxKvz24gtyg8yIBRF"
+      },
+      "artists": [
+        {
+          "name": "whereismike",
+          "url": "https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132827,
+      "name": "suuttunu?",
+      "url": "https://open.spotify.com/track/4gE0PozmtgHPLKkqWus716"
     },
     {
       "album": {

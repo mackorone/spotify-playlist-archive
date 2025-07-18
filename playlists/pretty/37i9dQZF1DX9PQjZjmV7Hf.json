@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 57315,
+  "num_followers": 57334,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Weston Road Flows",
+      "url": "https://open.spotify.com/track/4PA16FAl8LPmFmOhARawdV"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 154666,
       "name": "BLINDFOLD (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/02mYw61RoS1vXvkD9Q5dpN"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Weston Road Flows",
-      "url": "https://open.spotify.com/track/4PA16FAl8LPmFmOhARawdV"
     },
     {
       "added_at": "2022-10-01 20:14:07",

@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-238 songs - 14 hr 7 min
+239 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 | 2024-04-11 | 2024-04-19 |
 | [Love to See You Cry](https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD) | [Love to See You Cry](https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD) | 4:22 | 2023-10-05 | 2025-01-17 |
 | [Love You So](https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Love You So](https://open.spotify.com/album/5NHEVyO1PSXb0F1n1gjH55) | 3:14 | 2023-03-16 | 2024-09-13 |
+| [Lucky](https://open.spotify.com/track/75Fd3PedFwTzjiDzYcBDHr) | [Dolce Beringer](https://open.spotify.com/artist/0QRS1CtPmAumRtBjDOdKZU) | [Lucky](https://open.spotify.com/album/6ohdMJxq8bARSiRs4V3hny) | 3:17 | 2025-07-17 |  |
 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 | 2023-02-23 | 2023-10-06 |
 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 | 2025-04-17 |  |
 | [Maybe, Maybe Not](https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Maybe, Maybe Not](https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf) | 3:20 | 2023-02-23 | 2023-09-01 |
@@ -161,7 +162,7 @@
 | [Only Love](https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Big Thing](https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU) | 3:35 | 2023-02-23 | 2024-08-30 |
 | [Our House](https://open.spotify.com/track/220vD8Jgn9wK5WfRSpiQkn) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Our House](https://open.spotify.com/album/2pj3bBwQIhqACfusXx6aHf) | 3:20 | 2023-06-22 | 2024-11-15 |
 | [Out On Gin](https://open.spotify.com/track/5mr2GkIw0iG9PHTFwOT2LE) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Acoustic.Blues.Club](https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ) | 6:31 | 2024-10-22 | 2025-06-03 |
-| [Overpass Graffiti](https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Overpass Graffiti](https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9) | 3:54 | 2024-06-24 |  |
+| [Overpass Graffiti](https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Overpass Graffiti](https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9) | 3:54 | 2024-06-24 | 2025-07-18 |
 | [Pagan Run](https://open.spotify.com/track/2mRkUkyWk10HDw9Oa9llio) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [King of a Land](https://open.spotify.com/album/7L985gR7I4PLpAO5aqNyxj) | 4:33 | 2023-06-15 | 2024-10-23 |
 | [Pagan Run](https://open.spotify.com/track/7LwPaJBg7ySXzY5fQO3WbR) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [King of a Land](https://open.spotify.com/album/1oTVSpkoMbY4CiQC1NAVFG) | 4:33 | 2023-11-09 | 2024-04-19 |
 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 | 2023-08-31 | 2025-02-04 |

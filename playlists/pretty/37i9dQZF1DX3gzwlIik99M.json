@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 206168,
+  "num_followers": 206154,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Toca Madera",
-        "url": "https://open.spotify.com/album/4PDGOiVAnuuOS9L1RSZHY1"
-      },
-      "artists": [
-        {
-          "name": "Panzer",
-          "url": "https://open.spotify.com/artist/1tH9rZBW0zADWX6ZJP0v9N"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "Toca Madera",
-      "url": "https://open.spotify.com/track/6UhKwPu6inXi1dCSYjONfm"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Acero",
         "url": "https://open.spotify.com/album/4HwQsHeVEPhMYyH49mMy2q"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 265720,
       "name": "El Vuelo Del Drag\u00f3n",
       "url": "https://open.spotify.com/track/5Sv5Ot5oMZf9mrNwZ95bku"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Toca Madera",
+        "url": "https://open.spotify.com/album/4PDGOiVAnuuOS9L1RSZHY1"
+      },
+      "artists": [
+        {
+          "name": "Panzer",
+          "url": "https://open.spotify.com/artist/1tH9rZBW0zADWX6ZJP0v9N"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Toca Madera",
+      "url": "https://open.spotify.com/track/6UhKwPu6inXi1dCSYjONfm"
     },
     {
       "added_at": "2023-04-28 03:00:00",

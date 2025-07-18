@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Eva Timush, Oscar",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: The Motans",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 171684,
       "name": "180 de grade",
       "url": "https://open.spotify.com/track/3z1U4OMI0NQyfXOlI5hGTB"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/5Zz7OLgCFc4oji0DwU6Fjv"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222285,
+      "name": "33",
+      "url": "https://open.spotify.com/track/4LafNv6Vn6XQX8A4XcSmiB"
     },
     {
       "album": {
@@ -224,6 +242,28 @@
       "duration_ms": 185223,
       "name": "Ai gre\u0219it",
       "url": "https://open.spotify.com/track/0wORaL1EhDo4Quewj9LSua"
+    },
+    {
+      "album": {
+        "name": "AiAiAi",
+        "url": "https://open.spotify.com/album/0EoGsbvZX6ttvy191g4sdt"
+      },
+      "artists": [
+        {
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        },
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147555,
+      "name": "AiAiAi",
+      "url": "https://open.spotify.com/track/42jtfAI95MlgLh7QcdGdBA"
     },
     {
       "album": {
@@ -650,7 +690,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 159886,
       "name": "Bani",
       "url": "https://open.spotify.com/track/61deXEuSYYBLM0iFAR56Hx"
@@ -766,7 +806,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 153333,
       "name": "Bun\u0103 diminea\u021ba",
       "url": "https://open.spotify.com/track/3aNOsGWuGG6rE82xK0pjpe"
@@ -1038,7 +1078,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 157363,
       "name": "Ciao Amore!",
       "url": "https://open.spotify.com/track/3KgJ6MzX3OJgFmsCsYl2rZ"
@@ -1332,6 +1372,24 @@
       "duration_ms": 143315,
       "name": "De ce te ui\u021bi a\u0219a?",
       "url": "https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE"
+    },
+    {
+      "album": {
+        "name": "De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/15RnknO2T3MUdrfowpQuK0"
+      },
+      "artists": [
+        {
+          "name": "Ioana Ignat",
+          "url": "https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "De Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5A3PRd9ydLGFaHlJ9ggZFr"
     },
     {
       "album": {
@@ -4405,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "Regele Lumii",
+        "url": "https://open.spotify.com/album/2pmL1VXRXhSxb1za2BMspw"
+      },
+      "artists": [
+        {
+          "name": "The Motans",
+          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176416,
+      "name": "Regele Lumii",
+      "url": "https://open.spotify.com/track/2S8aXfKXsyuuWxnFkoaowl"
+    },
+    {
+      "album": {
         "name": "RiTiTi",
         "url": "https://open.spotify.com/album/1qlv95s2d9lUHn2E4X7Uzm"
       },
@@ -4938,7 +5014,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 174375,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/1IreaHikJBzfNrYelwZTTJ"
@@ -5425,7 +5501,7 @@
     },
     {
       "album": {
-        "name": "\u00cemi place c\u00e2nd (From \"Situationship\" The Movie)",
+        "name": "\u00cemi place c\u00e2nd (From \"Situationship\")",
         "url": "https://open.spotify.com/album/0GRF58upfhbiVSc3OnNOPT"
       },
       "artists": [
@@ -5442,7 +5518,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146938,
-      "name": "\u00cemi place c\u00e2nd - From \"Situationship\" The Movie",
+      "name": "\u00cemi place c\u00e2nd - From \"Situationship\"",
       "url": "https://open.spotify.com/track/7rW05NyJEhmDDSmSP0Lt0L"
     },
     {

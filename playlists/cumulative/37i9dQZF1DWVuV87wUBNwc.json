@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "DJ Snake au sommet de la premi\u00e8re playlist de France.",
+  "description": "Fantomel & Kate Linn au sommet de la premi\u00e8re playlist de France.",
   "name": "Hits du Moment",
   "tracks": [
     {
@@ -654,7 +654,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 193401,
       "name": "Balade",
       "url": "https://open.spotify.com/track/3PAkE2potAfVGgTocmrF89"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 155186,
       "name": "Ce qui me va",
       "url": "https://open.spotify.com/track/4TRZpw82B3eOXKTmh5NiED"
@@ -1324,6 +1324,36 @@
       "duration_ms": 165986,
       "name": "Chaque seconde (feat. M. Pokora)",
       "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
+    },
+    {
+      "album": {
+        "name": "Franchement !",
+        "url": "https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "MC YOSHI",
+          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155189,
+      "name": "Charger",
+      "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
     },
     {
       "album": {
@@ -1664,6 +1694,28 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "album": {
+        "name": "Dame Un Grrr",
+        "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
+      },
+      "artists": [
+        {
+          "name": "Fantomel",
+          "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
+        },
+        {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133220,
+      "name": "Dame Un Grrr",
+      "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
     },
     {
       "album": {
@@ -2118,7 +2170,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 121417,
       "name": "Exotica",
       "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
@@ -3451,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "LATINA FOREVA",
+        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159452,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
+    },
+    {
+      "album": {
         "name": "La vingtaine",
         "url": "https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz"
       },
@@ -4260,7 +4330,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 171537,
       "name": "Mood",
       "url": "https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6"
@@ -5271,6 +5341,24 @@
     },
     {
       "album": {
+        "name": "Que pasa ?",
+        "url": "https://open.spotify.com/album/4esjg44qbzzWZYVtsPtiJG"
+      },
+      "artists": [
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Que pasa ?",
+      "url": "https://open.spotify.com/track/4nZUm9YNohN4D8UMjUUSEz"
+    },
+    {
+      "album": {
         "name": "Queen of My Castle",
         "url": "https://open.spotify.com/album/6sV8sz1lhDo4JFyMnUa8mx"
       },
@@ -5688,7 +5776,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -6533,6 +6621,32 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
+    },
+    {
+      "album": {
         "name": "Ton regard",
         "url": "https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH"
       },
@@ -7010,7 +7124,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 233406,
       "name": "WE PRAY - Single Version",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
@@ -7132,6 +7246,24 @@
       "duration_ms": 145353,
       "name": "Where Do I Go - DJ Antoine & Mad Mark 2k24 Mix",
       "url": "https://open.spotify.com/track/0qDiKOEdW1Yc6tmYTIhzBv"
+    },
+    {
+      "album": {
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/4T7ESVSUoJqjoMIubvcZdB"
+      },
+      "artists": [
+        {
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164600,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/46vaBmVDzufp98VPJCwtAU"
     },
     {
       "album": {

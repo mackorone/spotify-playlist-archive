@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 463818,
+  "num_followers": 463905,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAABqx0oA+MvhUx5jIXxmlA8z",
+  "snapshot_id": "aHbrgAAAAADRs+RK47lVy2JFz5S6a0bo",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 215425,
-      "name": "Welcome to Tha Carter",
-      "url": "https://open.spotify.com/track/0wI5MvhcdTrVERaDOHiNnp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
       },
@@ -607,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
       },
       "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 155292,
-      "name": "HOT WIND BLOWS (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
+      "duration_ms": 215425,
+      "name": "Welcome to Tha Carter",
+      "url": "https://open.spotify.com/track/0wI5MvhcdTrVERaDOHiNnp"
     },
     {
       "added_at": null,
@@ -671,6 +651,26 @@
       "duration_ms": 224971,
       "name": "Me U & Hennessy (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 155292,
+      "name": "HOT WIND BLOWS (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Cotton Candy (feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/2ILSAavE0FTWeZ8pAZY5bS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here I Am (Deluxe Version)",
         "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 223173,
       "name": "Rich As Fuck",
       "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Cotton Candy (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/2ILSAavE0FTWeZ8pAZY5bS"
     },
     {
       "added_at": null,

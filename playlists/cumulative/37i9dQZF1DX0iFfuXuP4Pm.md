@@ -2,7 +2,7 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: Maki
+> Mga nangunguna sa mundo ng OPM\. Cover: December Avenue
 
 347 songs - 21 hr 38 min
 

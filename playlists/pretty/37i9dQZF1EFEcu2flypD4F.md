@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,279 likes - 338 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,278 likes - 338 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 117 | [Cellophane](https://open.spotify.com/track/6hWG9YfOhxlZyIf4EnbA97) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:25 |
 | 118 | [Now or Never](https://open.spotify.com/track/2gPM5iXzORTiUUyCD3eqxQ) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 5th Mini Album \[ Sensuous \]](https://open.spotify.com/album/7MAqtgwyn1KTCdmnAoSUfx) | 3:32 |
 | 119 | [If You Say So](https://open.spotify.com/track/7x9nRizCCQRCGkCrLaQ8Tk) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 4:15 |
-| 120 | [Sweet Design](https://open.spotify.com/track/5B5sLwwW45tLXW2CYzK8QC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 2:25 |
-| 121 | [Radioactive](https://open.spotify.com/track/1p72DhSVCYhdO5Or2Nd11I) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 4:11 |
+| 120 | [Radioactive](https://open.spotify.com/track/1p72DhSVCYhdO5Or2Nd11I) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 4:11 |
+| 121 | [Sweet Design](https://open.spotify.com/track/5B5sLwwW45tLXW2CYzK8QC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 2:25 |
 | 122 | [Magic](https://open.spotify.com/track/3hE9T8H1jzSS0SxLNtUtKl) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [A Wrinkle in Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YgJxL6c6nh0izOMRDKypq) | 3:29 |
 | 123 | [Deer In Headlights](https://open.spotify.com/track/0YGu5VbKdxYOB9FSfbweX3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 4:25 |
 | 124 | [Hey Boy](https://open.spotify.com/track/4wWrwl1T0Wa94ophzTgBdT) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:29 |
@@ -315,8 +315,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 305 | [Cheap Thrills](https://open.spotify.com/track/0vKLbE4mDhNX2uEyBKseKA) | [Peter Gergely](https://open.spotify.com/artist/1rM7GiyPW7mPqDTtLfXRoZ) | [Cheap Thrills](https://open.spotify.com/album/2OdzDkiHCWh7Kp8fUJGmyo) | 2:22 |
 | 306 | [Ever \- Original Mix](https://open.spotify.com/track/76M3CpU4603Wnhx70fKs3b) | [Audio Werner](https://open.spotify.com/artist/3sAiPMoERiyl61BoNpOI1l) | [Rushograph EP](https://open.spotify.com/album/24mLp734ROBxISw2bGf4vP) | 11:01 |
 | 307 | [Sweat and Tears](https://open.spotify.com/track/7xlqKLHfdjxerFBsR36Ylc) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 2:42 |
-| 308 | [Shine Bright](https://open.spotify.com/track/77FZ3b95yGO3hVGh11LioI) | [Arianna Lupo](https://open.spotify.com/artist/19ybsqqHaPqep7UEOTBCAe), [DJ Nicolas](https://open.spotify.com/artist/0d653z0OSCAYQboQQHruq4), [DJ Combo](https://open.spotify.com/artist/0QZeOX6E29ggbNH9kul2yu) | [Shine Bright](https://open.spotify.com/album/2n7bSvVcrWdSzcEZDCCUyB) | 3:31 |
-| 309 | [Trust Me](https://open.spotify.com/track/0N3vzwna2LCxlHpLRdIuJG) | [Zeitgeist](https://open.spotify.com/artist/4Rohnem527M6fryAmzXyZj), [Young Athena](https://open.spotify.com/artist/5bX7bAeWmX2wkjBXWxt0t7) | [Trust Me](https://open.spotify.com/album/0w46XLGCriAtZS4CuAxArO) | 3:19 |
+| 308 | [Trust Me](https://open.spotify.com/track/0N3vzwna2LCxlHpLRdIuJG) | [Zeitgeist](https://open.spotify.com/artist/4Rohnem527M6fryAmzXyZj), [Young Athena](https://open.spotify.com/artist/5bX7bAeWmX2wkjBXWxt0t7) | [Trust Me](https://open.spotify.com/album/0w46XLGCriAtZS4CuAxArO) | 3:19 |
+| 309 | [Shine Bright](https://open.spotify.com/track/77FZ3b95yGO3hVGh11LioI) | [Arianna Lupo](https://open.spotify.com/artist/19ybsqqHaPqep7UEOTBCAe), [DJ Nicolas](https://open.spotify.com/artist/0d653z0OSCAYQboQQHruq4), [DJ Combo](https://open.spotify.com/artist/0QZeOX6E29ggbNH9kul2yu) | [Shine Bright](https://open.spotify.com/album/2n7bSvVcrWdSzcEZDCCUyB) | 3:31 |
 | 310 | [Invisible](https://open.spotify.com/track/1iGuKE8E1uucTbPJU8YxNX) | [Ibiza DJ Rockerz](https://open.spotify.com/artist/7pTPF0ZF5srnzww30vGXOB) | [30 Ibiza DJ Dance Party Club Anthems, Vol\. 3](https://open.spotify.com/album/05zbDls7NrOXb3guLDY2gC) | 3:44 |
 | 311 | [The Game](https://open.spotify.com/track/6oA2kJr0ikewIje1n70fvb) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Pepsi Beats Of The Beautiful Game](https://open.spotify.com/album/5wHA4s2p9RbfUbirl0kdfx) | 2:59 |
 | 312 | [Some Kind of Love Song](https://open.spotify.com/track/6cFNWEKNMStIVX5VuDX5dd) | [Freak Kitchen](https://open.spotify.com/artist/0HtEZODdzPzZhdehDcF3fX) | [Appetizer](https://open.spotify.com/album/4Tli7Q4t0RVhVRr9jiBDo2) | 4:05 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Ab29kgAAAACoBAU1idxPPl7fhhDXbpqj`
+Snapshot ID: `Ab3DMgAAAADHtMu/w0RITel5imQYBAl8`

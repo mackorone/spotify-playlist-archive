@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,316 likes - 32 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,322 likes - 32 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 | 21 | [Mona Lisa](https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 4:00 |
 | 22 | [Pouring Gasoline](https://open.spotify.com/track/6eF46qhfOX5iyz3MlRUEZD) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:12 |
 | 23 | [In My Room](https://open.spotify.com/track/4VoocBHWXw2LgjbDG5eTJs) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 3:16 |
-| 24 | [Summer Gurl](https://open.spotify.com/track/0k15e2OF6mpANBavcZ8BdB) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 2:40 |
-| 25 | [Friend of Mine](https://open.spotify.com/track/7MymHLfjUkw9udMaMjqSOp) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 2:19 |
-| 26 | [Love to Hate Me](https://open.spotify.com/track/0glicUGi6G8zIJxXQ0sLFJ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:30 |
+| 24 | [Arizona Waiting](https://open.spotify.com/track/2fAILrDcZY2MGkduWxXuok) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:04 |
+| 25 | [Love to Hate Me](https://open.spotify.com/track/0glicUGi6G8zIJxXQ0sLFJ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:30 |
+| 26 | [Friend of Mine](https://open.spotify.com/track/7MymHLfjUkw9udMaMjqSOp) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 2:19 |
 | 27 | [Bella](https://open.spotify.com/track/1HZAdnHEMtYT4f4L4zU2mH) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 2:45 |
-| 28 | [Arizona Waiting](https://open.spotify.com/track/2fAILrDcZY2MGkduWxXuok) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:04 |
-| 29 | [Bad Penny](https://open.spotify.com/track/3C8Y4JVurbZLfSTqeVvgyZ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 2:48 |
-| 30 | [Never That Together](https://open.spotify.com/track/76gUncyZyZY47TMtyLByv3) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 2:46 |
+| 28 | [Summer Gurl](https://open.spotify.com/track/0k15e2OF6mpANBavcZ8BdB) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 2:40 |
+| 29 | [Never That Together](https://open.spotify.com/track/76gUncyZyZY47TMtyLByv3) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 2:46 |
+| 30 | [Bad Penny](https://open.spotify.com/track/3C8Y4JVurbZLfSTqeVvgyZ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 2:48 |
 | 31 | [Broken Knee](https://open.spotify.com/track/75vR9yvIpqKdQv5CneGDP0) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:33 |
 | 32 | [Hey Man \(Home You Ruin\)](https://open.spotify.com/track/6GFqj7vEpTwcCG3LqRwjN7) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 5:20 |
 
-Snapshot ID: `aHWaAAAAAAAVZ7zWYJxf1NKSlu/RTHf6`
+Snapshot ID: `aHbrgAAAAADpQqaQxGl5S5bRrRYp6eUi`

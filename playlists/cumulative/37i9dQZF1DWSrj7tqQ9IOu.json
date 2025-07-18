@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Miki",
+  "description": "The best French indie tracks right now. Cover : Odetto",
   "name": "Made in France",
   "tracks": [
     {
@@ -4350,7 +4350,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 228821,
       "name": "Heartstrings",
       "url": "https://open.spotify.com/track/15Kj37bbsZIhr0NohlCTpw"
@@ -9300,7 +9300,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 150309,
       "name": "Recto verso",
       "url": "https://open.spotify.com/track/3IXtgqo8hTBIhnjhJ7WdhI"
@@ -10252,6 +10252,24 @@
       "duration_ms": 234268,
       "name": "Sous les jupes",
       "url": "https://open.spotify.com/track/4vAwwCBbHW4SwXBIZ2qEIh"
+    },
+    {
+      "album": {
+        "name": "Souvenir sentimental",
+        "url": "https://open.spotify.com/album/0YCqlQYeUSfnoNTw9cEHvv"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174994,
+      "name": "Souvenir sentimental",
+      "url": "https://open.spotify.com/track/7oBoFe5xWsaocjSZIhCW1t"
     },
     {
       "album": {
@@ -11552,6 +11570,24 @@
       "duration_ms": 178347,
       "name": "Tu me manques",
       "url": "https://open.spotify.com/track/5l81POgmEdF2aUv0zcxSPa"
+    },
+    {
+      "album": {
+        "name": "Tu me mens",
+        "url": "https://open.spotify.com/album/0uBal0SWpWaif5znxGec3P"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131733,
+      "name": "Tu me mens",
+      "url": "https://open.spotify.com/track/689RdTmyMdVYIU1F0CiWWU"
     },
     {
       "album": {

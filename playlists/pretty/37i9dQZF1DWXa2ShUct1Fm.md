@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,626 likes - 235 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,660 likes - 235 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 90 | [Headliner](https://open.spotify.com/track/6Es0Sxn1yE7L0T1YxrYHKX) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:09 |
 | 91 | [God of Music \(Inst.\)](https://open.spotify.com/track/0Qaw6haFnOnzDxQvXnxmGG) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 |
 | 92 | [Short Hair](https://open.spotify.com/track/4JCHRuXg9IRWBXtXtjgWxd) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1OpPuw9WMaPNTpI0wTutbz) | 3:41 |
-| 93 | [SHINGIRU](https://open.spotify.com/track/5uxn6it5JD9J4p9MDmgaTU) | [JOSHUA \(SEVENTEEN\)](https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0), [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Bro & Marble OST Part.2](https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr) | 3:08 |
+| 93 | [SHINGIRU](https://open.spotify.com/track/5uxn6it5JD9J4p9MDmgaTU) | [JOSHUA](https://open.spotify.com/artist/4ZsnF3kaoNUuBhCyYJEJi8), [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Bro & Marble OST Part.2](https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr) | 3:08 |
 | 94 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 |
 | 95 | [F\*ck My Life](https://open.spotify.com/track/3tgWMPOY4stCdKYj5NjrAe) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:22 |
 | 96 | [Fire](https://open.spotify.com/track/2hqn75Y9fEzL0qPoPRXCvX) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 2:38 |

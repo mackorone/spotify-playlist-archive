@@ -2,9 +2,9 @@
 
 ### [ТОП ПОП 2025](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Топові новинки української та світової поп\-музики\. Обкладинка: LAUD
+> Топові новинки української та світової поп\-музики\. Обкладинка: Korolova & Artem Pivovarov
 
-382 songs - 19 hr 6 min
+384 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-18 | 2025-07-04 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-09 | 2025-04-04 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-04 |  |
-| [BALAMUT](https://open.spotify.com/track/3fGpH0PONVw8mIy8Ch1hzB) | [KHAYAT](https://open.spotify.com/artist/1YHTEJ3H4Qop7qxN5hZ5jK) | [BALAMUT](https://open.spotify.com/album/28TG8RXtzpt6bhqgBXY9PG) | 2:08 | 2025-06-26 |  |
+| [BALAMUT](https://open.spotify.com/track/3fGpH0PONVw8mIy8Ch1hzB) | [KHAYAT](https://open.spotify.com/artist/1YHTEJ3H4Qop7qxN5hZ5jK) | [BALAMUT](https://open.spotify.com/album/28TG8RXtzpt6bhqgBXY9PG) | 2:08 | 2025-06-26 | 2025-07-18 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-27 | 2025-03-21 |
 | [Better Days](https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Better Days](https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT) | 3:38 | 2024-06-27 | 2024-08-02 |
 | [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Eurovision 2025\)](https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR) | 3:00 | 2025-04-17 |  |
@@ -62,6 +62,7 @@
 | [FeeltheLove](https://open.spotify.com/track/0VUCyV3wA2iAYnzCZCNvhF) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [FeeltheLove](https://open.spotify.com/album/7rUhay33D9aExcOn5jilH4) | 4:06 | 2024-08-16 | 2024-08-31 |
 | [Femina Magna](https://open.spotify.com/track/2HPW2FkWUZVbzafaT8PUDm) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [Femina Magna](https://open.spotify.com/album/4At9kWVMxg96zu2KdFyASm) | 2:05 | 2025-05-22 | 2025-05-30 |
 | [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 | 2025-04-24 |  |
+| [Fight For Life](https://open.spotify.com/track/3lDBo8CXgQQyEfFqK6JWWF) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Usyk](https://open.spotify.com/artist/7k3VABEhfvBBkZ414x2ALB) | [Fight For Life](https://open.spotify.com/album/0vgX5kKmTBtM6BB4CBJyam) | 2:38 | 2025-07-17 |  |
 | [Fire \- Official UEFA EURO 2024 Song](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Fire \(Official UEFA EURO 2024 Song\)](https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ) | 2:48 | 2024-06-27 | 2024-12-20 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-27 | 2025-03-14 |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-26 | 2024-12-20 |
@@ -237,6 +238,7 @@
 | [В Моїм Серці](https://open.spotify.com/track/1M1NqnPJSvFxWfw9dUVHLl) | [The Maneken](https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm) | [В Моїм Серці](https://open.spotify.com/album/5yPt6ZL5P7Xnt9AmuE5X3j) | 2:51 | 2025-05-08 | 2025-05-23 |
 | [вивчи мене](https://open.spotify.com/track/2acrRGrZ0z0uSHJnGfqvP2) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [знайшла свій щоденник](https://open.spotify.com/album/1x3jYIxhKYFyphfmYmM0HK) | 2:22 | 2024-11-07 | 2024-11-15 |
 | [ВИМОЛИВ](https://open.spotify.com/track/50TDvOruXEGPPgyfn0jWck) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [Evgeny Khmara](https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3) | [ВИМОЛИВ](https://open.spotify.com/album/6eKUX8WOlayrj5zTWuZmRc) | 3:32 | 2025-03-06 |  |
+| [Вовчиця](https://open.spotify.com/track/55FNRsV6oyt5jQVhKlWvsM) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [Вовчиця](https://open.spotify.com/album/4gTqoBvJVA4Tkwf6NojZ2K) | 2:40 | 2025-07-17 |  |
 | [Впевнений](https://open.spotify.com/track/5Pe1E4ETWG2irHIQiWeYjs) | [CHILIBI](https://open.spotify.com/artist/17oT8pdSNELqHaVg5TlJTL) | [Впевнений](https://open.spotify.com/album/7BNtzhYlPHAMgvyrctWhsW) | 2:09 | 2024-07-26 | 2024-08-17 |
 | [Врубай](https://open.spotify.com/track/41hRWgoaw67f4VGMbNSfoZ) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Врубай](https://open.spotify.com/album/2mVqd1fBBrN4aFQ083mB9X) | 2:30 | 2024-10-31 | 2025-07-04 |
 | [Відвернись](https://open.spotify.com/track/6nxWcrH2pL64i0ieovpA8I) | [МУР](https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3) | [PAX ROMANA](https://open.spotify.com/album/5oRwMu7ynGz35HVkvdL71W) | 3:15 | 2024-12-12 | 2024-12-20 |
@@ -249,7 +251,7 @@
 | [ГУБИ У ГУБАХ](https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ГУБИ У ГУБАХ](https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ) | 2:39 | 2024-08-01 | 2025-04-25 |
 | [Гірко](https://open.spotify.com/track/7wVEFMpcYtDzqtIc40SGsT) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc), [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C) | [Гірко](https://open.spotify.com/album/2ShIsniZc3ZtVt7F2T2PgL) | 3:24 | 2024-10-10 | 2024-10-26 |
 | [Де би ти не була](https://open.spotify.com/track/5XAFSSfpPOf7kc2DUOWOEy) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Де би ти не була](https://open.spotify.com/album/7KVJCcIbpY8YoxBDKscXDm) | 2:29 | 2024-11-14 | 2024-12-06 |
-| [Дежавю](https://open.spotify.com/track/72XSce6JOfylRoXO0jwz0Z) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [Дежавю](https://open.spotify.com/album/3i1ZFatVnwfixfHxly93YM) | 2:24 | 2025-06-19 |  |
+| [Дежавю](https://open.spotify.com/track/72XSce6JOfylRoXO0jwz0Z) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [Дежавю](https://open.spotify.com/album/3i1ZFatVnwfixfHxly93YM) | 2:24 | 2025-06-19 | 2025-07-18 |
 | [Дзвони](https://open.spotify.com/track/315NwHHdSVHe1BTuzZmzrn) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Дзвони](https://open.spotify.com/album/4weS9NI822vvnbRmzxeWVy) | 3:23 | 2024-07-04 | 2024-07-13 |
 | [дим](https://open.spotify.com/track/7dvyNtjVH1utKHk2xUCmuz) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [дим](https://open.spotify.com/album/3CaSZAFIdNhOps4xwWiv6O) | 3:01 | 2024-09-20 | 2024-09-28 |
 | [До води](https://open.spotify.com/track/4ngwuKwNdPrvy9hj0BBAvt) | [TAYANNA](https://open.spotify.com/artist/68MDO1qEjlimdYonMiWEZt) | [До води](https://open.spotify.com/album/31MM5869R659MxkLbRxIBc) | 2:24 | 2025-04-10 | 2025-04-25 |

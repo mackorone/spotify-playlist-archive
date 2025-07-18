@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAB8HIqfHSg/dcQmWc3jI03+",
+  "snapshot_id": "aHbrgAAAAADnjT6KVReM7/XFzmyCiWRC",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obi Ate Meso Buo",
-        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 339253,
-      "name": "Theresa",
-      "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play Boy",
         "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 355133,
       "name": "Mensei Da (Harry)",
       "url": "https://open.spotify.com/track/73rn8UZBXBh4SYbeMxUMX1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obi Ate Meso Buo",
+        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 339253,
+      "name": "Theresa",
+      "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aben Wo Aha",
-        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 310666,
-      "name": "Aben Wo Aha",
-      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play Boy",
         "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 375555,
       "name": "Bribi Gyegye Wo",
       "url": "https://open.spotify.com/track/38x7yHTK6rbrpHWPJyAJ9O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aben Wo Aha",
+        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 310666,
+      "name": "Aben Wo Aha",
+      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesee Wo Se",
-        "url": "https://open.spotify.com/album/3OXL5uXWzMUyayoGZKkeBM"
+        "name": "Ma To Odo Mu",
+        "url": "https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 386089,
-      "name": "S\u025bsee Wo Se",
-      "url": "https://open.spotify.com/track/3bm3TifQ8suct6OfRd0lJM"
+      "duration_ms": 309880,
+      "name": "Ma to Odo Mu",
+      "url": "https://open.spotify.com/track/6EZv2b78cH0gJLOW9SaTVy"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma To Odo Mu",
-        "url": "https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9"
+        "name": "Sesee Wo Se",
+        "url": "https://open.spotify.com/album/3OXL5uXWzMUyayoGZKkeBM"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 309880,
-      "name": "Ma to Odo Mu",
-      "url": "https://open.spotify.com/track/6EZv2b78cH0gJLOW9SaTVy"
+      "duration_ms": 386089,
+      "name": "S\u025bsee Wo Se",
+      "url": "https://open.spotify.com/track/3bm3TifQ8suct6OfRd0lJM"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesee Wo Se",
-        "url": "https://open.spotify.com/album/3OXL5uXWzMUyayoGZKkeBM"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 317701,
-      "name": "Anidaso Woho Ma Obiara",
-      "url": "https://open.spotify.com/track/3foSzTyAH65I38QAUl3GQs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awarepa Ye Anibre",
         "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
       },
@@ -591,22 +575,6 @@
       "duration_ms": 372840,
       "name": "Eye N'adom",
       "url": "https://open.spotify.com/track/60ABB1dCbHvUFNSDJfuV9Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma To Odo Mu",
-        "url": "https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 339453,
-      "name": "Bla Bla Bla",
-      "url": "https://open.spotify.com/track/0Tii7GjTjBIf8e4cRllMy3"
     },
     {
       "added_at": null,
@@ -627,6 +595,38 @@
       "duration_ms": 611108,
       "name": "Yee Ye Aka Akwantuom",
       "url": "https://open.spotify.com/track/5GuGQomjgvLo9gIM8ZWP40"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesee Wo Se",
+        "url": "https://open.spotify.com/album/3OXL5uXWzMUyayoGZKkeBM"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 317701,
+      "name": "Anidaso Woho Ma Obiara",
+      "url": "https://open.spotify.com/track/3foSzTyAH65I38QAUl3GQs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma To Odo Mu",
+        "url": "https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 339453,
+      "name": "Bla Bla Bla",
+      "url": "https://open.spotify.com/track/0Tii7GjTjBIf8e4cRllMy3"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma To Odo Mu",
-        "url": "https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9"
+        "name": "Play Boy",
+        "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 237680,
-      "name": "Wate Asee",
-      "url": "https://open.spotify.com/track/0beTO2UOwZe2FFjzOESo7j"
+      "duration_ms": 433386,
+      "name": "Nkyekye Wo Nafe",
+      "url": "https://open.spotify.com/track/5mMcyiSOAmcyTsU1YngxZZ"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Boy",
-        "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
+        "name": "Ma To Odo Mu",
+        "url": "https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 433386,
-      "name": "Nkyekye Wo Nafe",
-      "url": "https://open.spotify.com/track/5mMcyiSOAmcyTsU1YngxZZ"
+      "duration_ms": 237680,
+      "name": "Wate Asee",
+      "url": "https://open.spotify.com/track/0beTO2UOwZe2FFjzOESo7j"
     },
     {
       "added_at": null,

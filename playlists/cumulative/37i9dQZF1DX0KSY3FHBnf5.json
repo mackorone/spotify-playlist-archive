@@ -4663,6 +4663,28 @@
     },
     {
       "album": {
+        "name": "The Decision",
+        "url": "https://open.spotify.com/album/31IUwPsuxiH3NMpu4FPqY4"
+      },
+      "artists": [
+        {
+          "name": "Zamaro",
+          "url": "https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX"
+        },
+        {
+          "name": "CADYY",
+          "url": "https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113960,
+      "name": "The Decision",
+      "url": "https://open.spotify.com/track/7xB0YYLRhwQmWgPCgylGFj"
+    },
+    {
+      "album": {
         "name": "the end of story",
         "url": "https://open.spotify.com/album/64bQaGQbPTf8Hnan5SE0QY"
       },

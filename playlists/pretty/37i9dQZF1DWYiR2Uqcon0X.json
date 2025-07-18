@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 733126,
+  "num_followers": 733167,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-06-27 04:00:33",
       "album": {
+        "name": "Because Of Yours",
+        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 240837,
+      "name": "Because Of Yours",
+      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
+    },
+    {
+      "added_at": "2025-06-27 04:00:33",
+      "album": {
         "name": "Carolina In My Mind",
         "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 233684,
       "name": "Carolina In My Mind",
       "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
-    },
-    {
-      "added_at": "2025-06-27 04:00:33",
-      "album": {
-        "name": "Home To Me",
-        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 186316,
-      "name": "Home To Me",
-      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
     },
     {
       "added_at": "2025-06-27 04:00:33",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-06-27 04:00:33",
       "album": {
+        "name": "Home To Me",
+        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 186316,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
+    },
+    {
+      "added_at": "2025-06-27 04:00:33",
+      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 227661,
       "name": "War",
       "url": "https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL"
-    },
-    {
-      "added_at": "2025-06-27 04:00:33",
-      "album": {
-        "name": "Because Of Yours",
-        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 240837,
-      "name": "Because Of Yours",
-      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
     },
     {
       "added_at": "2025-06-27 04:00:33",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-06-27 04:00:33",
       "album": {
-        "name": "Forces - EP",
-        "url": "https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I"
-      },
-      "artists": [
-        {
-          "name": "Jordan DePaul",
-          "url": "https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h"
-        }
-      ],
-      "duration_ms": 228787,
-      "name": "Brighter Shade of Blue",
-      "url": "https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh"
-    },
-    {
-      "added_at": "2025-06-27 04:00:33",
-      "album": {
         "name": "Nothing New",
         "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 224626,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
+    },
+    {
+      "added_at": "2025-06-27 04:00:33",
+      "album": {
+        "name": "Forces - EP",
+        "url": "https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I"
+      },
+      "artists": [
+        {
+          "name": "Jordan DePaul",
+          "url": "https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h"
+        }
+      ],
+      "duration_ms": 228787,
+      "name": "Brighter Shade of Blue",
+      "url": "https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh"
     },
     {
       "added_at": "2025-06-27 04:00:33",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-06-27 04:00:33",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
-    },
-    {
-      "added_at": "2025-06-27 04:00:33",
-      "album": {
         "name": "Time Is Cold (Coffee House Version)",
         "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 188541,
       "name": "Time Is Cold (Coffee House Version)",
       "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
+    },
+    {
+      "added_at": "2025-06-27 04:00:33",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
     },
     {
       "added_at": "2025-06-27 04:00:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,608 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,753 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 38 | [Un idiota](https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9) | [Julian Figueroa](https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m) | [Volaré](https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf) | 3:02 |
 | 39 | [Con La Duda \(with Joan Sebastian\) \- Live Version](https://open.spotify.com/track/5EGVCUlZ4ympyqdQVm6ttR) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Thalia En Primera Fila](https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR) | 3:16 |
 | 40 | [En Un Jaripeo](https://open.spotify.com/track/368PvQ3FRthUJLTHp11JP2) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:41 |
-| 41 | [Manuel Juarez](https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:30 |
-| 42 | [Aunque Ya Tengas Marido](https://open.spotify.com/track/4EwfGjLIQELHipH2w9jx8d) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 2:31 |
+| 41 | [Aunque Ya Tengas Marido](https://open.spotify.com/track/4EwfGjLIQELHipH2w9jx8d) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 2:31 |
+| 42 | [Manuel Juarez](https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:30 |
 | 43 | [Mil Navajas](https://open.spotify.com/track/5U2E78WymdPCGIrSHimXZZ) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mil Navajas](https://open.spotify.com/album/57ezZj651lNS1sRU84RxXs) | 2:58 |
 | 44 | [Bandido de Amores](https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:03 |
 | 45 | [El Padrino](https://open.spotify.com/track/7zqJRHLM9MfoHj0WRRgAn2) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 3:15 |
-| 46 | [Nube Gris](https://open.spotify.com/track/4rRaKJ1sdlZlRat7WR5xF4) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:42 |
+| 46 | [Moriré Esperando](https://open.spotify.com/track/1c8e6seRfcgMHQ6azvXqbO) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:38 |
 | 47 | [El Ilegal](https://open.spotify.com/track/43jcEGEx5ICgVx3PLWus1Y) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 3:01 |
 | 48 | [Un Carino Como Tu](https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:18 |
 | 49 | [Soy Como Quiero Ser](https://open.spotify.com/track/2tOuiMcYx7f4dH2odXuArQ) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 2:35 |
 | 50 | [Hay Un Tren A Las 5](https://open.spotify.com/track/6p6gClXVVCKssTgrdg9fTC) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:42 |
-| 51 | [Moriré Esperando](https://open.spotify.com/track/1c8e6seRfcgMHQ6azvXqbO) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:38 |
+| 51 | [Nube Gris](https://open.spotify.com/track/4rRaKJ1sdlZlRat7WR5xF4) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:42 |
 | 52 | [Dos Mares Más Que Tu](https://open.spotify.com/track/7nLfZmxHpA4ITHpB2olVcc) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 2\)](https://open.spotify.com/album/4WcJ3z0XyHH6KMtpz6HthD) | 3:06 |
 | 53 | [Maldita Suerte](https://open.spotify.com/track/0HLOXA1miR7Wb1ZqBSFsVa) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 2:40 |
 | 54 | [25 Rosas](https://open.spotify.com/track/0lrDFehYH6mT8tycGoZ7Z8) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:15 |

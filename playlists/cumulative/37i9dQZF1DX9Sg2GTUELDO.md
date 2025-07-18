@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: 鄧麗欣
+> 感受女聲力量。Cover: Cloud 雲浩影
 
-521 songs - 1 day 7 hr 7 min
+527 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 | 2024-06-27 |  |
 | [heng fa chuen.](https://open.spotify.com/track/5QuTmL5jwXsWmQ1EspO2rN) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [heng fa chuen.](https://open.spotify.com/album/1nBxVB6eQbJv7KxUTXoIgI) | 3:21 | 2024-06-27 |  |
 | [Hey Darling Darling](https://open.spotify.com/track/3Youu6DpYa0DtPSyKIj6JA) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [Hey Darling Darling](https://open.spotify.com/album/5uFueMQyVSmHDCP4HU8V2M) | 3:29 | 2024-12-12 |  |
+| [hold on](https://open.spotify.com/track/4qxZw2TtK4rLLircbXuz8r) | [Day 許軼](https://open.spotify.com/artist/2LjB9YNxEmF9W7o90smtuv) | [hold on](https://open.spotify.com/album/6mMzfUYvnl1Ma6uI0DcfrW) | 2:35 | 2025-07-17 |  |
 | [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 | 2025-06-12 |  |
 | [Hush](https://open.spotify.com/track/6J1YPcD1DNYgde4dyKfiU4) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [Blue Hour](https://open.spotify.com/album/0fruFp7UTDJ1sLZDs01CAG) | 3:32 | 2024-06-27 |  |
 | [I am All Alone](https://open.spotify.com/track/2Uw9M5MT2xXOxmPsXd8xvK) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [I am All Alone](https://open.spotify.com/album/5YMJ4zEgtRCyeUmDq6pSwS) | 4:04 | 2024-06-27 |  |
@@ -108,6 +109,7 @@
 | [Little Love](https://open.spotify.com/track/6i51bUnFAQIS13w0cauBlQ) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [Little Love](https://open.spotify.com/album/6tmVkHxU2wLSy6ibFl1LpK) | 3:22 | 2024-06-27 |  |
 | [Little Magic](https://open.spotify.com/track/19ZYJzZ3M2MWKOg81xfI73) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Little Magic](https://open.spotify.com/album/3IzP355xSCEj7E9cbD74dO) | 2:58 | 2024-06-27 |  |
 | [Live for You](https://open.spotify.com/track/539H6Lr9wJMOUPy4UGe1wK) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Live for You](https://open.spotify.com/album/26IUr9oTn5LtNm3A1q1SI6) | 3:47 | 2025-02-20 |  |
+| [Live MY Life](https://open.spotify.com/track/0L9m3NcLKaAj7mqdjlWuJ8) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [Live MY Life](https://open.spotify.com/album/29XRqwJjXGlOsM524RIvd9) | 3:54 | 2025-07-17 |  |
 | [Look into my eyes](https://open.spotify.com/track/22A9vU5ZK7nuwySBtwNZFT) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Look into my eyes](https://open.spotify.com/album/34j4lPhObPKCVIgI8V0ZYD) | 2:58 | 2024-06-27 |  |
 | [Lost in Between](https://open.spotify.com/track/407HZCSxQUhks2BW0MyRzv) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Anniina](https://open.spotify.com/artist/44aOM1DNwPKGb0ticurbPT) | [Lost in Between](https://open.spotify.com/album/6f6a0nmZpwbKJrPeCNvv7N) | 2:43 | 2024-08-22 |  |
 | [Love Me Down](https://open.spotify.com/track/5bABSoAvttNy56MKQyFCe0) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [Love Me Down](https://open.spotify.com/album/1e3CHEB19hTskI9svWJECp) | 3:07 | 2025-06-26 |  |
@@ -212,6 +214,7 @@
 | [世界以痛吻我而我歌唱 \- Blooming Underwater Live 2023](https://open.spotify.com/track/4xppAcBGump7jNZRG9A75C) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [Blooming Underwater Live 2023](https://open.spotify.com/album/0BvkIZ2SL9gKirC5oKM1bx) | 4:13 | 2024-06-27 |  |
 | [世界多了一個陌生人](https://open.spotify.com/track/3ss1P1zMP6Cxt9Z3nfE3Bl) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [世界多了一個陌生人](https://open.spotify.com/album/3zdcb9ekOltMonaF4SwG3j) | 3:21 | 2024-11-28 |  |
 | [世界末日才一起](https://open.spotify.com/track/4vvVnV7qhVi4cOjhcybMXf) | [JESS Law](https://open.spotify.com/artist/2D3dbCltOdivrbUqOayTsw) | [世界末日才一起](https://open.spotify.com/album/65KpxwVtgaeCxn14xAN8wp) | 3:59 | 2025-02-27 |  |
+| [中暑傷風加失戀x2](https://open.spotify.com/track/2UTAr1JmTTJSZ6sYIzZcYI) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [中暑傷風加失戀x2](https://open.spotify.com/album/0zJCYFKAr4sP9PJy1jg7XA) | 3:31 | 2025-07-17 |  |
 | [九千九百九十九個我](https://open.spotify.com/track/5IDSQYCmhVAlwmynAs8Xtc) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [九千九百九十九個我](https://open.spotify.com/album/0Rxb2n9pLdDgCyEqMAadsO) | 3:29 | 2024-06-27 |  |
 | [二人限定故事](https://open.spotify.com/track/2LfrOjRAXQz4wdTbUXpsEu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [二人限定故事](https://open.spotify.com/album/6paffDqSD3W1HIQMjA7xmu) | 3:14 | 2024-06-27 |  |
 | [二十五圓舞曲](https://open.spotify.com/track/4ZkqCDbol3xuC2ejpD6dX3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [二十五圓舞曲](https://open.spotify.com/album/6PMQ1ZJUYwRznehhGyJ7r2) | 3:56 | 2025-01-16 |  |
@@ -235,6 +238,7 @@
 | [你好嗎](https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [你好嗎](https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI) | 5:33 | 2024-06-27 |  |
 | [你成為了誰的幸福](https://open.spotify.com/track/21ADSha2qwERtBVz3yzD76) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你成為了誰的幸福](https://open.spotify.com/album/1mQwjhCC8ua4FRtUy26ycY) | 4:17 | 2024-06-27 |  |
 | [你是可有可無的](https://open.spotify.com/track/00G30y5SL9oLDcgIEUwsoI) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [你是可有可無的](https://open.spotify.com/album/2F2Eo9xVkWMXfOGRG8UBrP) | 3:53 | 2025-02-27 |  |
+| [你的損失](https://open.spotify.com/track/286eXFCY7vNrWiuazONUNr) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [你的損失](https://open.spotify.com/album/4BP6YalAkcuONOuPAjXFis) | 3:58 | 2025-07-17 |  |
 | [假使世界原來不像你預期](https://open.spotify.com/track/53HxUdYRCRMdzYPG0qhGUP) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [假使世界原來不像你預期](https://open.spotify.com/album/1uIlhInRyOcam9TjlEiGP8) | 4:27 | 2024-06-27 |  |
 | [假如讓你吻下去](https://open.spotify.com/track/0Qsofso1lXDJNIZbFi1bD4) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [假如讓你吻下去](https://open.spotify.com/album/0HRhPx2IxvKql2bOvVygna) | 4:35 | 2024-06-27 |  |
 | [偷東西的女孩](https://open.spotify.com/track/7ptKqAuDW94DRMIFxKJHal) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [偷東西的女孩](https://open.spotify.com/album/21cpsk8V7cfhmSpQAKiisF) | 4:18 | 2024-06-27 |  |
@@ -349,6 +353,7 @@
 | [我們只有一往直前](https://open.spotify.com/track/5QDclSp0IOj9YI4RBUxX2n) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [我們只有一往直前](https://open.spotify.com/album/2SHbIZWNt7hSzCal97SuXW) | 3:36 | 2024-10-17 |  |
 | [我們曾經白頭到老 \- 電影《飯戲攻心2》歌曲](https://open.spotify.com/track/4cUHdZlYdd8HdNnn3r5qIi) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [我們曾經白頭到老 \(電影《飯戲攻心2》歌曲\)](https://open.spotify.com/album/13T8bMVqtADhdPLOeVSptM) | 3:58 | 2024-06-27 |  |
 | [我們沒有在一起](https://open.spotify.com/track/2rUyO4jirsMSeZwvjZvbJr) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [我們沒有在一起](https://open.spotify.com/album/2Ee2fEZE7bkQGAwX3FAIpU) | 3:43 | 2025-03-27 |  |
+| [我們的愛](https://open.spotify.com/track/7MPYCnyGDMDhaA0O6L6NqU) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [我們的愛](https://open.spotify.com/album/0ZYOeGzoWt9l5yWrw64Jh3) | 3:19 | 2025-07-17 |  |
 | [我們都是這樣長大的](https://open.spotify.com/track/17rK9wMYbnbMfeeXKO5iZX) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [我們都是這樣長大的](https://open.spotify.com/album/4VuD9G02XE4kqet67quDGY) | 4:43 | 2024-06-27 |  |
 | [我唔理啦](https://open.spotify.com/track/12k0pvhhmaDOGSZWLfZVFN) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [我唔理啦](https://open.spotify.com/album/7MuoZDHIAtiCsLzu3A0AQf) | 2:44 | 2024-07-25 |  |
 | [我喜歡的你](https://open.spotify.com/track/4SZkrXq0buX9AXcU8JubkU) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [我喜歡的你](https://open.spotify.com/album/2YYqwb3x01qjd6rjKpCOcc) | 3:44 | 2024-06-27 |  |
@@ -521,6 +526,7 @@
 | [靈魂奇異點](https://open.spotify.com/track/7hTvTrwnO9JWCFXFUF1Or0) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [靈魂奇異點](https://open.spotify.com/album/3lqBazVg4z4NQoqYreNCbu) | 6:35 | 2024-10-03 |  |
 | [靈魂有路](https://open.spotify.com/track/6YhyH78Zvda6ynofvJSJB5) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [靈魂有路](https://open.spotify.com/album/0yrJL34mQkRhq8AdSzyN6i) | 3:19 | 2024-06-27 |  |
 | [青年危機](https://open.spotify.com/track/3g0L1x7OvFrsgy9e25LP7I) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [青年危機](https://open.spotify.com/album/3k7ZHbjHjOQsadMVss6NKF) | 3:38 | 2024-06-27 |  |
+| [靠近一點](https://open.spotify.com/track/1zVDZM1e6yGIVsKSWiZ1J5) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [靠近一點](https://open.spotify.com/album/55TXf1F3aAlrfMIvcm37t4) | 3:40 | 2025-07-17 |  |
 | [面對後悔的各種方法](https://open.spotify.com/track/22H8nkDVSblurw8BcLHr4G) | [Jill Vidal](https://open.spotify.com/artist/4RsRmCGtK9yJmtQulq4lBo) | [面對後悔的各種方法](https://open.spotify.com/album/2XKKzNAzzeBLNhgk9p1bLs) | 4:15 | 2024-06-27 |  |
 | [頹廢員工手冊](https://open.spotify.com/track/2yd1jNWz6rDrx8L9jx5sOh) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [頹廢員工手冊](https://open.spotify.com/album/0O4fV1mhLO27hPU7d5WgXR) | 3:45 | 2025-06-05 |  |
 | [風邪](https://open.spotify.com/track/78u0tNt6KQTZxFdRouyiMO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Rage in Peace](https://open.spotify.com/album/0O4LuYlUBi5TluPnj5Gtr7) | 3:08 | 2024-06-27 |  |

@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0g7cGfIUANYS5YNFUfoQei"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4iqiJmtxOhvPKVo6cEPdVQ"
+    },
+    {
+      "album": {
         "name": "Apart",
         "url": "https://open.spotify.com/album/3ERW2r43z54BjvmuKKTs8c"
       },

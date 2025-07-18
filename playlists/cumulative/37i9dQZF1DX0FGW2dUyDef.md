@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Sefo x Demet Akalın
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Norm Ender x Ebru Gündeş
 
 175 songs - 8 hr 47 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Figaro.",
+  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Vesta.",
   "name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -4337,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Ihana ep\u00e4varmuus",
+        "url": "https://open.spotify.com/album/1O38RoInFIzlpNUwzllwVv"
+      },
+      "artists": [
+        {
+          "name": "Hugo Cajan",
+          "url": "https://open.spotify.com/artist/2qtz8c5VZQMusKI1B24MW2"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Ihana ep\u00e4varmuus",
+      "url": "https://open.spotify.com/track/3Nbhl0ZlMtTUJ1X6BiNZox"
+    },
+    {
+      "album": {
         "name": "Ihanan kiire",
         "url": "https://open.spotify.com/album/0x2AOPYb191aq9EmRGL85m"
       },
@@ -5024,7 +5042,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 231983,
       "name": "Jyv\u00e4skyl\u00e4 Skyline",
       "url": "https://open.spotify.com/track/3AWBu6hGvJCeZFIVXlvtKa"
@@ -8477,6 +8495,24 @@
     },
     {
       "album": {
+        "name": "Miljoonien kyynelten maa",
+        "url": "https://open.spotify.com/album/0zFMnmsRO8l27427khVo5x"
+      },
+      "artists": [
+        {
+          "name": "Ken Lie & H\u00e4n",
+          "url": "https://open.spotify.com/artist/2qaWj9zsjEOuQ0xX1Qylb5"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183383,
+      "name": "Miljoonien kyynelten maa",
+      "url": "https://open.spotify.com/track/4pcTprmm5AzHcq5iM567Sg"
+    },
+    {
+      "album": {
         "name": "Mill\u00e4 hinnalla",
         "url": "https://open.spotify.com/album/0Z6z1k5u98vNJ0EdyCp28T"
       },
@@ -8564,7 +8600,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 190536,
       "name": "Miss\u00e4 \u00e4iti on?",
       "url": "https://open.spotify.com/track/49C3RA0YQtsLhcDVpv4MCY"
@@ -12640,7 +12676,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 520000,
       "name": "Spiritismi",
       "url": "https://open.spotify.com/track/39RSeY6eirD9F0zcB8NKwU"
@@ -13758,7 +13794,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 355467,
       "name": "Tiempo M\u00fasica",
       "url": "https://open.spotify.com/track/51WZh9tU8cw4WL4W9vXorY"

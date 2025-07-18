@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC?si=OLmMmWTlQmahkjHMhJO6OQ">Brenda Mtambo</a>
+> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=jEAaALyDShKOKDWVzZyCCg">Mlindo The Vocalist</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,259 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,353 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ub'thongo](https://open.spotify.com/track/1qfm0bmIoDKJ63XqWihzhv) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [Ub'thongo](https://open.spotify.com/album/7hj33P6XOnUKfV5F4Cpy3d) | 3:26 |
-| 2 | [Amacala Othando](https://open.spotify.com/track/0BPSspDAsemhtQpcw1Xhpm) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Amacala Othando](https://open.spotify.com/album/0t7rjdzxqkVl0XLv8jky2B) | 4:47 |
-| 3 | [NTSOARE](https://open.spotify.com/track/29wP4m0vtVEEAjSzuKhS4k) | [Brenda Mtambo](https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC) | [NTSOARE](https://open.spotify.com/album/1p7n7ayM29dtSK7ZZA36qN) | 3:38 |
-| 4 | [Nembeza](https://open.spotify.com/track/6uCil4npaaaSdLU8hRya5F) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Nembeza](https://open.spotify.com/album/6Ak1SKaQ51vGnqZKNGoCic) | 4:36 |
+| 1 | [Amacala Othando](https://open.spotify.com/track/0BPSspDAsemhtQpcw1Xhpm) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Amacala Othando](https://open.spotify.com/album/0t7rjdzxqkVl0XLv8jky2B) | 4:47 |
+| 2 | [Nembeza](https://open.spotify.com/track/6uCil4npaaaSdLU8hRya5F) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Nembeza](https://open.spotify.com/album/6Ak1SKaQ51vGnqZKNGoCic) | 4:36 |
+| 3 | [Ub'thongo](https://open.spotify.com/track/1qfm0bmIoDKJ63XqWihzhv) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [Ub'thongo](https://open.spotify.com/album/7hj33P6XOnUKfV5F4Cpy3d) | 3:26 |
+| 4 | [NTSOARE](https://open.spotify.com/track/29wP4m0vtVEEAjSzuKhS4k) | [Brenda Mtambo](https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC) | [NTSOARE](https://open.spotify.com/album/1p7n7ayM29dtSK7ZZA36qN) | 3:38 |
 | 5 | [Dear Ex Yami](https://open.spotify.com/track/1lOtpeO2I2cjvN2CvbnpGW) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Fanatic SA](https://open.spotify.com/artist/5g2oHSGu7YX4EHoSCKIUqo), [Stallin Matsitsa](https://open.spotify.com/artist/4L0dgq6erLpWok6Snhp1bI), [Caeser](https://open.spotify.com/artist/756OYK25pOSHYUiTr5RWEw), [Ayanda Art](https://open.spotify.com/artist/6vl2O57bwb1wowTzUZIDTv) | [Dear Ex Yami](https://open.spotify.com/album/609M6ab6B7QlgEQnvayL56) | 4:38 |
 | 6 | [Igama Linamandla](https://open.spotify.com/track/27Xb7QuzQBDZwBinbFEcrT) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato), [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt) | [Igama Linamandla](https://open.spotify.com/album/4GkJLi4ChudBXFzDqoaHAt) | 4:32 |
 | 7 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 84 | [Kwalula](https://open.spotify.com/track/3Rq1cgwfOjGCH8oxb9jiOz) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [To the World & Beyond](https://open.spotify.com/album/7gERIWecqik3KK62zUvXJc) | 4:29 |
 | 85 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
 
-Snapshot ID: `aHCOAAAAAACKWV6O/YGnMu3RvQUnz9Lt`
+Snapshot ID: `aHlykwAAAABdNOQmFzBOAuSYMiq84Qxd`

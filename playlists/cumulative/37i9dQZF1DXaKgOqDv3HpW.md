@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-381 songs - 18 hr 26 min
+382 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Breathing Star](https://open.spotify.com/track/2TcvA5WlWyZdLMdQrX05LG) | [Allana Johnson](https://open.spotify.com/artist/3hmAY9MInLEYjfgedjLmlL) | [Breathing Star](https://open.spotify.com/album/5K3RC3cxE2mfKHrg1Wf9iM) | 2:56 | 2022-02-18 | 2023-07-01 |
 | [Breathless](https://open.spotify.com/track/4vwpjrRemuLveDgtNqy5LP) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 2:39 | 2022-11-22 | 2024-11-29 |
 | [Brilliance](https://open.spotify.com/track/5YPIHz8UW4svRQXWQLOEca) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Brilliance](https://open.spotify.com/album/2B8IiSDoWZO1j4hRyAa8fF) | 2:48 | 2025-01-07 |  |
+| [Butterfly](https://open.spotify.com/track/2g9sxJx7MBqlBAf6DSD2SX) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Butterfly](https://open.spotify.com/album/3MzgdXI2ivOFdzRAmQYFsp) | 2:47 | 2025-07-17 |  |
 | [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 | 2022-02-18 | 2024-11-29 |
 | [Calling](https://open.spotify.com/track/682LbPTgwSkwOQGS16OsW5) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 3:11 | 2022-02-18 | 2023-03-18 |
 | [Calm](https://open.spotify.com/track/05wMNPFJQHvjSy2lqfaEBs) | [Leo Lindholm](https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h) | [Calm](https://open.spotify.com/album/5GWMDujpDXBVnw3RIOJ3LF) | 2:56 | 2025-06-04 |  |
@@ -266,7 +267,7 @@
 | [Pine and Vapor](https://open.spotify.com/track/2JnyDitOwl54NldaeqmnkH) | [Amos Stovall](https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS) | [Pine and Vapor](https://open.spotify.com/album/3h0CVvaxvAHqqufVpiO83m) | 2:36 | 2025-07-08 |  |
 | [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 | 2022-02-18 | 2023-07-15 |
 | [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 | 2023-09-22 | 2025-02-15 |
-| [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 | 2023-02-24 |  |
+| [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 | 2023-02-24 | 2025-07-18 |
 | [Point of View](https://open.spotify.com/track/3ZzOr8m5EjFoXMah705Kk2) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Point of View](https://open.spotify.com/album/20GrGDlErhsCRGZDN2UOlu) | 2:21 | 2025-04-29 |  |
 | [Positivism](https://open.spotify.com/track/7ovwhb6RLkFOYXKoQDW6RS) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Positivism](https://open.spotify.com/album/04BNSX153NEAwpVzNkF6ta) | 2:25 | 2024-12-19 | 2025-06-05 |
 | [Progress](https://open.spotify.com/track/6oJIMUBDopuFljMNBFrq9Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:18 | 2022-02-18 | 2023-08-25 |
@@ -290,7 +291,7 @@
 | [Roseate](https://open.spotify.com/track/1j3Hp5CmwqH5uKTi6fVJ6t) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Roseate](https://open.spotify.com/album/7oizxw0sAy3QqDUYaJPmKD) | 2:56 | 2024-01-26 |  |
 | [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-03-21 |  |
 | [Salt](https://open.spotify.com/track/5gqw1d1pT2w9pNo1iBfIAG) | [Arresø](https://open.spotify.com/artist/0BmJFwqURRCKIFX8hH0gV1) | [Salt](https://open.spotify.com/album/1HQnhNQCeOlQq4DhNRGtKC) | 2:58 | 2024-07-26 |  |
-| [Sami Lok](https://open.spotify.com/track/6ad8ExozmvLsI8sOZgUqFe) | [Nama Mantra](https://open.spotify.com/artist/4ou402f5ElV7ZVn39kXvxU) | [Sami Lok](https://open.spotify.com/album/45h8HZSocufB5d9hIzyWJC) | 2:44 | 2022-12-09 |  |
+| [Sami Lok](https://open.spotify.com/track/6ad8ExozmvLsI8sOZgUqFe) | [Nama Mantra](https://open.spotify.com/artist/4ou402f5ElV7ZVn39kXvxU) | [Sami Lok](https://open.spotify.com/album/45h8HZSocufB5d9hIzyWJC) | 2:44 | 2022-12-09 | 2025-07-18 |
 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2022-02-18 | 2023-06-10 |
 | [Sanctuary 852 Hz](https://open.spotify.com/track/6RweuA0Dl14mFQYRVLgHIE) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Sanctuary 852 Hz](https://open.spotify.com/album/0fuLKFeEQTfnUziKzlcVgw) | 3:05 | 2023-06-30 | 2025-01-08 |
 | [Sanyog](https://open.spotify.com/track/4jS79eUku1DjatFHoM06Xd) | [Aasmi Jayavant](https://open.spotify.com/artist/0zbmKsf2YJoS2aT0uDEmaS) | [Sanyog](https://open.spotify.com/album/5lPSlwtiIcumCGlF2SL3CB) | 2:31 | 2023-08-11 |  |

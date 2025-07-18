@@ -2,9 +2,9 @@
 
 ### [!!!](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
 
-> hand\-picked and hot right now 📈 cover: Oasis
+> hand\-picked and hot right now 📈 cover: 2hollis
 
-542 songs - 1 day 5 hr 24 min
+543 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [pack up ya bags](https://open.spotify.com/track/4M5mQyBbyPJFZgc72yq78z) | [KTmelodies](https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd) | [pack up ya bags](https://open.spotify.com/album/4OeogpmQ05NHq3dOky6BWK) | 2:12 | 2025-05-29 | 2025-06-26 |
 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-02-24 | 2025-07-15 |
 | [Party Girl](https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [It's Not You, It's Me](https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4) | 2:19 | 2025-04-28 | 2025-05-23 |
-| [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 | 2025-07-09 |  |
+| [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 | 2025-07-09 | 2025-07-18 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-17 | 2024-06-15 |
 | [Peggy](https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Peggy](https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR) | 2:39 | 2024-12-09 | 2025-03-11 |
 | [People Help the People](https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 4:16 | 2024-01-23 | 2024-01-30 |
@@ -385,13 +385,14 @@
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight \(Live\)](https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt) | 4:23 | 2024-04-16 | 2024-06-01 |
 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 | 2025-05-13 | 2025-06-26 |
 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 | 2024-04-24 | 2024-06-22 |
+| [Punkrocker](https://open.spotify.com/track/6RV1OH8JblTmsgDftT5UV8) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv) | [Rock 'n' Roll Highschool](https://open.spotify.com/album/2vaE8vXhsN5d5gsnAN3C9T) | 4:50 | 2025-07-17 |  |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-11-18 | 2025-03-18 |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-24 | 2024-06-01 |
 | [PUT IT DOWN](https://open.spotify.com/track/2kqKsdnfgTraa9v4adnadN) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [PUT IT DOWN](https://open.spotify.com/album/3JRrnfWD4LmLXUDbeNLsyu) | 2:10 | 2025-04-30 | 2025-05-20 |
 | [Raving In The Studio \- Bru\-C & Songer Remix](https://open.spotify.com/track/3Wfv12ixjhJ03Moro3v9iT) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Raving In The Studio \(Bru\-C & Songer Remix\)](https://open.spotify.com/album/28etZRl9oZZsVooyLmQfI0) | 2:51 | 2025-03-17 | 2025-03-28 |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-05-10 | 2024-11-05 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-23 | 2024-03-12 |
-| [Rein Me In](https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(feat\. Olivia Dean\) \[Live at London Stadium\]](https://open.spotify.com/album/217vf9PyKMExLgDughPYl6) | 5:39 | 2025-06-24 |  |
+| [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\) \[Live at London Stadium\] \[Extended Intro Version\]](https://open.spotify.com/album/217vf9PyKMExLgDughPYl6) | 5:39 | 2025-06-24 |  |
 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-03-17 | 2025-04-24 |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-24 | 2025-03-25 |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2025-05-09 | 2025-05-17 |

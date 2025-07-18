@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-400 songs - 1 day 0 hr 34 min
+401 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [No Love \(feat\. Clara Nowhere & Joseph Schiano di Lombo\)](https://open.spotify.com/track/4KSQAaE1xxxBxLTSsSLI9i) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18), [Joseph Schiano di Lombo](https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC) | [No Love \(feat\. Clara Nowhere & Joseph Schiano di Lombo\)](https://open.spotify.com/album/7DHcpS5lHwYfv84mRB6qtb) | 3:05 | 2024-04-15 | 2025-01-24 |
 | [No Me Borres](https://open.spotify.com/track/12RbliJEQtREQV60AmDD7x) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [No Me Borres](https://open.spotify.com/album/6Z527zpsy6DqiNCLpiwxK6) | 3:51 | 2025-01-30 | 2025-02-15 |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-13 | 2024-06-08 |
+| [No Us](https://open.spotify.com/track/0U5v65NjAtaeW6wbig6ZzY) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [No Us](https://open.spotify.com/album/63ETk6kfvGwrTfErHVQjk0) | 3:18 | 2025-07-10 |  |
 | [Not Feeling Up](https://open.spotify.com/track/5RclCv6JSxogJpe4E662cP) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Not Feeling Up](https://open.spotify.com/album/3YYy7afHR8wnhEHfuuEAId) | 3:02 | 2025-01-23 |  |
 | [Nothing's Free](https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Nothing's Free](https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ) | 4:38 | 2023-03-16 | 2023-05-13 |
 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 | 2024-02-08 | 2024-03-28 |
@@ -407,6 +408,6 @@
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-30 |  |
 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2022-11-25 | 2024-04-19 |
 | [à deux](https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [à deux](https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1) | 3:25 | 2025-07-03 |  |
-| [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 | 2024-04-15 |  |
+| [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 | 2024-04-15 | 2025-07-18 |
 
 \*This playlist was first scraped on 2022-12-28. Prior content cannot be recovered.

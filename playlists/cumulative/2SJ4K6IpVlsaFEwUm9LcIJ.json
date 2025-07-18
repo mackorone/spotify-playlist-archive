@@ -11591,6 +11591,24 @@
     },
     {
       "album": {
+        "name": "Steel Guitar",
+        "url": "https://open.spotify.com/album/5Gv5lcvdHr08tZDp80EKl7"
+      },
+      "artists": [
+        {
+          "name": "Speedy West",
+          "url": "https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153706,
+      "name": "West Of Samoa",
+      "url": "https://open.spotify.com/track/6UtAZWcMKQdehuKLql1Xh8"
+    },
+    {
+      "album": {
         "name": "Harumi",
         "url": "https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi"
       },

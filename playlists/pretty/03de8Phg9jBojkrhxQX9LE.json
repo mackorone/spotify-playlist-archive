@@ -1,12 +1,12 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21526,
+  "num_followers": 21527,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAJtN9l5Xx7Aan12DvcHPavB9unqpOS",
+  "snapshot_id": "AAAJtaY7Dyqdw3PT5RXEYVVz3+XIODBG",
   "tracks": [
     {
       "added_at": "2025-07-11 18:05:58",
@@ -31,22 +31,6 @@
       "duration_ms": 231111,
       "name": "Reach For You",
       "url": "https://open.spotify.com/track/2HMQxhTjVKyaL2TeorjmbX"
-    },
-    {
-      "added_at": "2025-07-11 18:05:58",
-      "album": {
-        "name": "ANTICS",
-        "url": "https://open.spotify.com/album/2msaVQe9zA5vrY90Qno31e"
-      },
-      "artists": [
-        {
-          "name": "FLY",
-          "url": "https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "ANTICS",
-      "url": "https://open.spotify.com/track/0IkeBkdX81ogsvZEstJZlT"
     },
     {
       "added_at": "2025-07-11 18:05:58",
@@ -479,6 +463,22 @@
     {
       "added_at": "2025-07-11 18:05:58",
       "album": {
+        "name": "ANTICS",
+        "url": "https://open.spotify.com/album/2msaVQe9zA5vrY90Qno31e"
+      },
+      "artists": [
+        {
+          "name": "FLY",
+          "url": "https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "ANTICS",
+      "url": "https://open.spotify.com/track/0IkeBkdX81ogsvZEstJZlT"
+    },
+    {
+      "added_at": "2025-07-11 18:05:58",
+      "album": {
         "name": "Hi Stranger",
         "url": "https://open.spotify.com/album/1r7YoWBfZOu8imtpAGGMZ2"
       },
@@ -578,10 +578,6 @@
         {
           "name": "Bipolar Sunshine",
           "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        },
-        {
-          "name": "Uffie",
-          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
         }
       ],
       "duration_ms": 196535,

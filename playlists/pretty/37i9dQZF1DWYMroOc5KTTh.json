@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 714332,
+  "num_followers": 714415,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-06-19 23:00:22",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 219208,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
-    },
-    {
-      "added_at": "2025-06-19 23:00:22",
-      "album": {
         "name": "Only For Tonight",
         "url": "https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 196773,
       "name": "Only For Tonight",
       "url": "https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK"
+    },
+    {
+      "added_at": "2025-06-19 23:00:22",
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
     },
     {
       "added_at": "2025-06-19 23:00:22",

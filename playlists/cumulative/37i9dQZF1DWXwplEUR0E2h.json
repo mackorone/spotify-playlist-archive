@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Blessd",
+  "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! En portada: KAROL G y Feid",
   "name": "Reggaet\u00f3n Colombia",
   "tracks": [
     {
@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "Gangsta Love",
+        "url": "https://open.spotify.com/album/5gpRa5a1GPka0N0q6RxtU8"
+      },
+      "artists": [
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127832,
+      "name": "Bellakiti",
+      "url": "https://open.spotify.com/track/2kDCwtnBqAw2MhCoCZCdy9"
+    },
+    {
+      "album": {
         "name": "Bellakito",
         "url": "https://open.spotify.com/album/64Ff6wk6lyoCqVU6JRlLwx"
       },
@@ -216,7 +238,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 183750,
       "name": "Blue",
       "url": "https://open.spotify.com/track/292k8xc6AvzpB7GfeeJhXL"
@@ -2577,6 +2599,28 @@
     },
     {
       "album": {
+        "name": "NO ES PA TANTO",
+        "url": "https://open.spotify.com/album/2tFTlpVWDH6Za374reX00N"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        },
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207529,
+      "name": "NO ES PA TANTO",
+      "url": "https://open.spotify.com/track/2c8sHAMfGK6EkKzJZBKb85"
+    },
+    {
+      "album": {
         "name": "Cartel Burlado 420",
         "url": "https://open.spotify.com/album/766cF6yNu3MT1CHL7kpz4K"
       },
@@ -3758,7 +3802,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 154838,
       "name": "UN TEXTO",
       "url": "https://open.spotify.com/track/1NXRyd1Z30wBpcYy13yLy9"
@@ -3876,10 +3920,32 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 194000,
       "name": "Verano 23",
       "url": "https://open.spotify.com/track/33D8RI7wFKjzh8zvbSE1mN"
+    },
+    {
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210047,
+      "name": "Verano Rosa",
+      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
     },
     {
       "album": {
@@ -3894,7 +3960,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 133697,
       "name": "Vuela",
       "url": "https://open.spotify.com/track/0gkBOmchTKJVnEP8l7nN4Z"
@@ -4000,6 +4066,32 @@
       "duration_ms": 160975,
       "name": "YA NO VOLVER\u00c1S",
       "url": "https://open.spotify.com/track/57B9XH31E2UYEnQ5mppQdz"
+    },
+    {
+      "album": {
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196274,
+      "name": "Zun Zun",
+      "url": "https://open.spotify.com/track/7uQ3MlGpYURF2ED8E5xFIa"
     },
     {
       "album": {

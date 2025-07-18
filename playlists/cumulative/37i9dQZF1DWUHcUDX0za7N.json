@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Dremo",
+  "description": "Hip hop and rap music from Nigeria. Cover: Minz",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 134000,
       "name": "Check It",
       "url": "https://open.spotify.com/track/7yxDY4iSzYHdTY926xhEGs"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 181565,
       "name": "CHISOM (We Dem Boyz)",
       "url": "https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a"
@@ -2516,7 +2516,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 161684,
       "name": "Chocolate & Caramel",
       "url": "https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA"
@@ -5603,6 +5603,32 @@
     },
     {
       "album": {
+        "name": "444PLAY",
+        "url": "https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "i2SABI",
+      "url": "https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4"
+    },
+    {
+      "album": {
         "name": "Ice Cream",
         "url": "https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5"
       },
@@ -6730,6 +6756,42 @@
       "duration_ms": 138243,
       "name": "Letter From Overseas (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
+    },
+    {
+      "album": {
+        "name": "Letter To My Guys (LTMG)",
+        "url": "https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192208,
+      "name": "Letter To My Guys - (LTMG)",
+      "url": "https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
     },
     {
       "album": {
@@ -9034,7 +9096,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 174720,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/1VLEqOyVvPbJTK2aQuXKHL"
@@ -13136,6 +13198,28 @@
       "duration_ms": 154455,
       "name": "Yo My Gee",
       "url": "https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3"
+    },
+    {
+      "album": {
+        "name": "UnitedMasters Presents: Most Likely",
+        "url": "https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4"
+      },
+      "artists": [
+        {
+          "name": "Most Likely",
+          "url": "https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt"
+        },
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116869,
+      "name": "Yokozuna",
+      "url": "https://open.spotify.com/track/1FK5NKZHwh7BQ5BG6IMKdA"
     },
     {
       "album": {

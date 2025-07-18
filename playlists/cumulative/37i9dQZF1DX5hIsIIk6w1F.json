@@ -663,6 +663,28 @@
     },
     {
       "album": {
+        "name": "A Poca Luz",
+        "url": "https://open.spotify.com/album/3hv0T6uuRTCfuV7U3xvnSw"
+      },
+      "artists": [
+        {
+          "name": "Felipelblessed",
+          "url": "https://open.spotify.com/artist/1tpfOvCgQzYscixwwKlZbx"
+        },
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "A Poca Luz",
+      "url": "https://open.spotify.com/track/2LtJeieAYcKYusnMIued5z"
+    },
+    {
+      "album": {
         "name": "A POKA LUZ",
         "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
       },

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-96 songs - 4 hr 54 min
+98 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 | 2024-09-26 | 2024-10-13 |
 | [NIENTE DI MALE](https://open.spotify.com/track/7CZZxHf4DZxiTnrVxeMqOt) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [NIENTE DI MALE](https://open.spotify.com/album/4uZZ29NchGBafGvRaRYVEI) | 3:37 | 2025-06-14 |  |
 | [Non cambia mai](https://open.spotify.com/track/6gmB182UrCJnMHZTrxqUNv) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/70SXCWuJY7sw8EIblrp3iq) | 3:10 | 2023-04-04 | 2024-10-10 |
+| [Non sono io](https://open.spotify.com/track/56G2D39tC1YMt6H6htjsSI) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Nostalgia](https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1) | 2:52 | 2025-07-17 |  |
 | [Nuvole di zanzare](https://open.spotify.com/track/5WGBPphxMAMtxEOIPGsqeJ) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Alma](https://open.spotify.com/album/0py7R4xpnEanAfBHggX7ms) | 3:01 | 2022-09-16 |  |
 | [Occhi verdi](https://open.spotify.com/track/3J4gqixO14RACrX3ISIR4l) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 3:43 | 2022-09-16 |  |
 | [parolacce](https://open.spotify.com/track/61zba7lHT4kUUXrGXLWjjj) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:02 | 2022-09-16 |  |
@@ -83,6 +84,7 @@
 | [SaN LoREnZo \(feat\. Annalisa\)](https://open.spotify.com/track/2n6ZWiGk5VLYhHZUBc0SiI) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [NoRd](https://open.spotify.com/album/1F0O90sZiD6E1iKVizRn2s) | 3:22 | 2023-02-25 |  |
 | [SaN LoREnZo \(feat\. Annalisa\) \- prod\. Yanomi](https://open.spotify.com/track/7yGaVzGU1qKp92Xd4zV94i) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [NoRd](https://open.spotify.com/album/4LDkteS52GRbR6rjrbhFkV) | 3:22 | 2022-09-16 | 2023-02-26 |
 | [Sbagliata Ascendente Leone \- Original Soundtrack](https://open.spotify.com/track/5zkVCgfH3HzIyvWaxn23AB) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SBAGLIATA ASCENDENTE LEONE \(OFFICIAL SOUNDTRACK\)](https://open.spotify.com/album/6uLoe40GkV8FipaZ7Nx28P) | 3:26 | 2023-06-14 |  |
+| [SCELTE STUPIDE](https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [SCELTE STUPIDE](https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3) | 2:59 | 2025-07-17 |  |
 | [scossa](https://open.spotify.com/track/7MENCuP8CKhahYmLhludoR) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [scossa](https://open.spotify.com/album/6nKKZ20qpJPtCy2wtds8Gh) | 3:00 | 2023-12-13 | 2024-02-02 |
 | [scossa](https://open.spotify.com/track/7aoU4HfD4yc1LhpyldWFtm) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/67LfyhhnPgGxXKMDuXzLnT) | 3:01 | 2022-09-16 |  |
 | [Serenata Gangster \(feat\. Rocco Hunt\)](https://open.spotify.com/track/70KWb8lycyptWlHCjv7M8k) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [L'Angelo del Male](https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb) | 2:41 | 2024-12-12 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1068024,
+  "num_followers": 1067717,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,22 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Sorry I'm Here For Someone Else",
-        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 156582,
-      "name": "Sorry I'm Here For Someone Else",
-      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
+      "duration_ms": 189557,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -411,22 +415,18 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
+        "name": "Sorry I'm Here For Someone Else",
+        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 189557,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
+      "duration_ms": 156582,
+      "name": "Sorry I'm Here For Someone Else",
+      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
+        "name": "IS IT",
+        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "IS IT",
+      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
         "name": "boom",
         "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
       },
@@ -719,38 +735,6 @@
       "duration_ms": 163000,
       "name": "boom",
       "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "BLISS",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -771,6 +755,22 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
         "name": "Tough Luck",
         "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "BLISS",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -803,18 +819,18 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "IS IT",
-        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 164206,
-      "name": "IS IT",
-      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
+      "duration_ms": 190124,
+      "name": "Need You More",
+      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -847,22 +863,6 @@
       "duration_ms": 213895,
       "name": "This Song",
       "url": "https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Complete Edition)",
-        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 190124,
-      "name": "Need You More",
-      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -939,22 +939,22 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
         },
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
+      "duration_ms": 183670,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -975,22 +975,22 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Glide",
-        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
       },
       "artists": [
         {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         },
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 183670,
-      "name": "Glide",
-      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Bloom Baby Bloom",
-        "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 227586,
-      "name": "Bloom Baby Bloom",
-      "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 228449,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
+        "name": "Bloom Baby Bloom",
+        "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Bloom Baby Bloom",
+      "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "French Girls",
-        "url": "https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 172166,
-      "name": "French Girls",
-      "url": "https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
         "name": "More Than A Feeling",
         "url": "https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Pretty Ugly",
-        "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
+        "name": "French Girls",
+        "url": "https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
         }
       ],
-      "duration_ms": 158696,
-      "name": "Pretty Ugly",
-      "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
+      "duration_ms": 172166,
+      "name": "French Girls",
+      "url": "https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1323,6 +1307,22 @@
       "duration_ms": 152813,
       "name": "Pookie",
       "url": "https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
+        "name": "Pretty Ugly",
+        "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 158696,
+      "name": "Pretty Ugly",
+      "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
+        "name": "Dinner",
+        "url": "https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA"
+      },
+      "artists": [
+        {
+          "name": "Adam Klobi",
+          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Dinner",
+      "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
         "name": "Itty Bitty",
         "url": "https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Dinner",
-        "url": "https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA"
+        "name": "Suburbs",
+        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
       },
       "artists": [
         {
-          "name": "Adam Klobi",
-          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Dinner",
-      "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
+      "duration_ms": 184970,
+      "name": "Suburbs",
+      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1691,22 +1707,6 @@
       "duration_ms": 167404,
       "name": "Almost, So Close, Maybe",
       "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
-        "name": "Second Self",
-        "url": "https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 163054,
-      "name": "Try Your Luck",
-      "url": "https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk"
     }
   ],
   "unique_name": "Pop Right Now",

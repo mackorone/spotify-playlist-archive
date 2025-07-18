@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 \[Henry Moodie\] 7월 23일 8PM @ 명화 라이브홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,920 likes - 20 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,925 likes - 20 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

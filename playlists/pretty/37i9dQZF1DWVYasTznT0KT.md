@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYasTznT0KT.md) - [plain]
 
 > The very best original and synced tracks from film and television in 2024! Cover: Wicked
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,516 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,521 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

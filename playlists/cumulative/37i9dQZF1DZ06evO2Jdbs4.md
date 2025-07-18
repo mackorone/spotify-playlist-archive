@@ -4,7 +4,7 @@
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 29 min
+112 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Quiero Decirte](https://open.spotify.com/track/26ljxPYYQaVOMvTBxEifEG) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:19 | 2022-06-07 | 2025-06-27 |
 | [Quisiera](https://open.spotify.com/track/72GdSXUOtE6AdBUlNFO9NW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Lo Mío](https://open.spotify.com/album/4WlXlmCSRRJaAQZMzclg3Y) | 3:43 | 2022-06-01 | 2022-10-11 |
 | [Quisiera Decirte \- En Vivo](https://open.spotify.com/track/5GwDyHTGJvmU0joWiH7wqs) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby Pulido en Vivo..\. Desde Monterrey, México \(En Vivo\)](https://open.spotify.com/album/3sSWnpZn8WwUh33sngU6vn) | 3:09 | 2022-06-13 | 2024-04-09 |
-| [Qué Más Te Puedo Dar](https://open.spotify.com/track/7JTgmtRq4WBy2jG6Ijm9m8) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:40 | 2022-06-01 |  |
+| [Qué Más Te Puedo Dar](https://open.spotify.com/track/7JTgmtRq4WBy2jG6Ijm9m8) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:40 | 2022-06-01 | 2025-07-18 |
+| [Qué Más Te Puedo Dar \- En Vivo](https://open.spotify.com/track/2q0zC5OinSILmWd0pRfq4r) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Qué Más Te Puedo Dar \(En Vivo\)](https://open.spotify.com/album/4birJCiZmha76uLVPTZmNx) | 4:38 | 2025-07-18 |  |
 | [Sabes](https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:35 | 2022-06-01 | 2024-05-18 |
 | [Se Me Antoja](https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:07 | 2022-11-25 | 2024-09-06 |
 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:21 | 2022-06-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,283 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,327 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 19 | [You Turned The Tables On Me](https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:26 |
 | 20 | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:42 |
 | 21 | [I'll Be Seeing You](https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 3:19 |
-| 22 | [I'm Through With Love](https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz) | [Arthur Prysock](https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT) | [Jazz 'Round Midnight: Ballads](https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY) | 3:42 |
-| 23 | [I Thought About You \(feat\. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb\)](https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [Someday My Prince Will Come](https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ) | 4:52 |
+| 22 | [I Thought About You \(feat\. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb\)](https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [Someday My Prince Will Come](https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ) | 4:52 |
+| 23 | [I'm Through With Love](https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz) | [Arthur Prysock](https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT) | [Jazz 'Round Midnight: Ballads](https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY) | 3:42 |
 | 24 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/6zYfEsNOhv5hd6CfwPXjIY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 4:49 |
 | 25 | [Lover, Come Back To Me](https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:15 |
 | 26 | [If You Go Away](https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [If You Go Away / Ne me quitte pas](https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx) | 4:55 |

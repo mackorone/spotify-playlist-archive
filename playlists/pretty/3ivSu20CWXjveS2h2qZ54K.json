@@ -6,8 +6,24 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AAC9GFhgkcA5IVA+y8DQgk3Ufr97iFGr",
+  "snapshot_id": "AAC9HTQJDV1fQaK/I2py0tOBCi8l37q3",
   "tracks": [
+    {
+      "added_at": "2025-07-17 15:27:49",
+      "album": {
+        "name": "MY TYPE / YEA YEA YEA",
+        "url": "https://open.spotify.com/album/0uoCtl0pFXqwWD9QwTVVjU"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "MY TYPE",
+      "url": "https://open.spotify.com/track/3G16TkmTpBp8FyDkgev4Dc"
+    },
     {
       "added_at": "2025-07-16 15:32:14",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 172208,
       "name": "Wanna Play",
       "url": "https://open.spotify.com/track/4gdWFUGosyJpTIpnnwU901"
-    },
-    {
-      "added_at": "2025-07-16 15:31:36",
-      "album": {
-        "name": "In The Middle",
-        "url": "https://open.spotify.com/album/7rzGT09j56l1NZFSGsTp2D"
-      },
-      "artists": [
-        {
-          "name": "White Lies",
-          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
-        }
-      ],
-      "duration_ms": 365853,
-      "name": "In The Middle",
-      "url": "https://open.spotify.com/track/2ppTMGPJmFGAB3AI59pGTc"
     },
     {
       "added_at": "2025-07-16 15:31:51",
@@ -59,6 +59,34 @@
       "duration_ms": 138920,
       "name": "She Explains Things To Me",
       "url": "https://open.spotify.com/track/4ltUVGlf3c6k6a5yR8sDbq"
+    },
+    {
+      "added_at": "2025-07-17 15:28:11",
+      "album": {
+        "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
+        "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        },
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 217901,
+      "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
+      "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
     },
     {
       "added_at": "2025-07-16 15:32:03",
@@ -93,6 +121,38 @@
       "url": "https://open.spotify.com/track/08js71Oxets2ohP8KYJ7hB"
     },
     {
+      "added_at": "2025-07-17 15:28:59",
+      "album": {
+        "name": "Delphinium Bliss",
+        "url": "https://open.spotify.com/album/5UscHdg9MPF7Kae1sKmtSI"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 346881,
+      "name": "Delphinium Bliss",
+      "url": "https://open.spotify.com/track/6xhjhUQfHJoJgtDukEVNlL"
+    },
+    {
+      "added_at": "2025-07-16 15:31:36",
+      "album": {
+        "name": "In The Middle",
+        "url": "https://open.spotify.com/album/7rzGT09j56l1NZFSGsTp2D"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "duration_ms": 365853,
+      "name": "In The Middle",
+      "url": "https://open.spotify.com/track/2ppTMGPJmFGAB3AI59pGTc"
+    },
+    {
       "added_at": "2025-07-16 15:32:43",
       "album": {
         "name": "Enough / One Tiny Flower / Out In The Dark / Stray Cats in Spain",
@@ -123,6 +183,22 @@
       "duration_ms": 146017,
       "name": "ALAMBRE P\u00faA",
       "url": "https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG"
+    },
+    {
+      "added_at": "2025-07-17 15:28:34",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/0ysQ9rMzgChnl3Qn2Ofmbu"
+      },
+      "artists": [
+        {
+          "name": "Anabel Lee",
+          "url": "https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW"
+        }
+      ],
+      "duration_ms": 195294,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/4Cm7RD603oQOB9vPZm92xx"
     },
     {
       "added_at": "2025-07-09 14:25:26",

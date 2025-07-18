@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: Maki
+> Mga nangunguna sa mundo ng OPM\. Cover: December Avenue
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,074,846 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,075,112 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 49 | [Sa Kapwa Ko Ay Alay](https://open.spotify.com/track/0EhqzN5m29ghtmCiAojESv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Kapwa Ko Ay Alay](https://open.spotify.com/album/30TTzRYxVEhPpi1Rokp5T3) | 4:31 |
 | 50 | [tayo lang \(may alam\)](https://open.spotify.com/track/5SLbJ9NcVO8FaRKX5XImz8) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI), [Fana](https://open.spotify.com/artist/3kKBZLHVgnGKVsfNutJVip) | [tayo lang \(may alam\)](https://open.spotify.com/album/3ZPjyuE4jt5Hb2Bo3d4DRG) | 3:28 |
 
-Snapshot ID: `aHdIrwAAAAA9/WEfHzKgLnZNc2APEVBw`
+Snapshot ID: `aHiOqAAAAAAcagz0r+345RuudbhQFk2A`

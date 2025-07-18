@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAADpq4qbEQxtAtnzeYdeWRjh",
+  "snapshot_id": "aHbrgAAAAADHhrc4tYuCFfl3C+4l0gM0",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 126900,
+      "name": "Gett Loww",
+      "url": "https://open.spotify.com/track/6xWMBSdce2AZvlB1fRn8WE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dedication EP",
         "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
       },
@@ -223,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+        "name": "Prism EP",
+        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
       },
       "artists": [
         {
@@ -232,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 126900,
-      "name": "Gett Loww",
-      "url": "https://open.spotify.com/track/6xWMBSdce2AZvlB1fRn8WE"
+      "duration_ms": 340792,
+      "name": "Sistagurl",
+      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
     },
     {
       "added_at": null,
@@ -255,22 +271,6 @@
       "duration_ms": 287043,
       "name": "Recovery Music",
       "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prism EP",
-        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 340792,
-      "name": "Sistagurl",
-      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 200647,
+      "name": "FLWN",
+      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chill Out (Sit Back And Relax)",
         "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 229268,
       "name": "Envisions - \u00c2me Acoustic Remix",
       "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 200647,
-      "name": "FLWN",
-      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
     },
     {
       "added_at": null,
@@ -443,6 +443,50 @@
       "duration_ms": 193560,
       "name": "Cosmic Signs",
       "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unity In Diversity (Yoruba Soul remix)",
+        "url": "https://open.spotify.com/album/0nqcNC7FT5QR7eNXgbu09v"
+      },
+      "artists": [
+        {
+          "name": "Han Litz Group",
+          "url": "https://open.spotify.com/artist/6MSkUkujTUMZW8MhL4kcIX"
+        },
+        {
+          "name": "Han Litz",
+          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Yoruba Soul",
+          "url": "https://open.spotify.com/artist/1KoS8cnCKnhjqR4Smd2ZJC"
+        }
+      ],
+      "duration_ms": 303902,
+      "name": "Unity In Diversity - Yoruba Soul remix",
+      "url": "https://open.spotify.com/track/57P7hxlQURGja8UM0Ev7zh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 258604,
+      "name": "ELYODCIRE",
+      "url": "https://open.spotify.com/track/6n64nkwE2sepqPfHuQv1Q5"
     },
     {
       "added_at": null,
@@ -519,50 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unity In Diversity (Yoruba Soul remix)",
-        "url": "https://open.spotify.com/album/0nqcNC7FT5QR7eNXgbu09v"
-      },
-      "artists": [
-        {
-          "name": "Han Litz Group",
-          "url": "https://open.spotify.com/artist/6MSkUkujTUMZW8MhL4kcIX"
-        },
-        {
-          "name": "Han Litz",
-          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Yoruba Soul",
-          "url": "https://open.spotify.com/artist/1KoS8cnCKnhjqR4Smd2ZJC"
-        }
-      ],
-      "duration_ms": 303902,
-      "name": "Unity In Diversity - Yoruba Soul remix",
-      "url": "https://open.spotify.com/track/57P7hxlQURGja8UM0Ev7zh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 258617,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Tambores Te Llaman",
         "url": "https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq"
       },
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 258604,
-      "name": "ELYODCIRE",
-      "url": "https://open.spotify.com/track/6n64nkwE2sepqPfHuQv1Q5"
+      "duration_ms": 258617,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Same Thing",
         "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 379160,
       "name": "Same Thing - Vocal Mix",
       "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pyrography",
-        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "A Day Without U",
-      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 258019,
       "name": "Reign",
       "url": "https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 217756,
+      "name": "A Day Without U",
+      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 275419,
+      "name": "Booty Call",
+      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pyrography",
         "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+        "name": "The Quieter You Become, the More You Hear",
+        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
       },
       "artists": [
         {
@@ -828,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 275419,
-      "name": "Booty Call",
-      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
+      "duration_ms": 222321,
+      "name": "Syrundipetty",
+      "url": "https://open.spotify.com/track/1TCadeu1dkZ4kEnrHY2Ndn"
     },
     {
       "added_at": null,
@@ -859,18 +875,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Quieter You Become, the More You Hear",
-        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
+        "name": "Get You",
+        "url": "https://open.spotify.com/album/077eXSNl8849XskXB1MwzN"
       },
       "artists": [
         {
+          "name": "James Curd",
+          "url": "https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL"
+        },
+        {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Alton Miller",
+          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
         }
       ],
-      "duration_ms": 222321,
-      "name": "Syrundipetty",
-      "url": "https://open.spotify.com/track/1TCadeu1dkZ4kEnrHY2Ndn"
+      "duration_ms": 401000,
+      "name": "Get You - Alton Miller Remix",
+      "url": "https://open.spotify.com/track/57ng3H6q5lKb7sBhnWw2qH"
     },
     {
       "added_at": null,
@@ -915,30 +939,6 @@
       "duration_ms": 314681,
       "name": "Tailor Made (feat. Ziyon) - Yoruba Soul Mix",
       "url": "https://open.spotify.com/track/7LHRfkAwPA03d3szjedeIj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get You",
-        "url": "https://open.spotify.com/album/077eXSNl8849XskXB1MwzN"
-      },
-      "artists": [
-        {
-          "name": "James Curd",
-          "url": "https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Alton Miller",
-          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
-        }
-      ],
-      "duration_ms": 401000,
-      "name": "Get You - Alton Miller Remix",
-      "url": "https://open.spotify.com/track/57ng3H6q5lKb7sBhnWw2qH"
     }
   ],
   "unique_name": "This Is Osunlade",

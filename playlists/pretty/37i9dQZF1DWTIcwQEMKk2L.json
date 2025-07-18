@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71367,
+  "num_followers": 71356,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "My Foolishness",
-        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
-      },
-      "artists": [
-        {
-          "name": "Franck Byrne",
-          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
-        }
-      ],
-      "duration_ms": 166187,
-      "name": "My Foolishness",
-      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Dark Night of the Soul",
         "url": "https://open.spotify.com/album/2z7fcGI8oW7BXab2U9ikK1"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 399666,
       "name": "The Approaching Night",
       "url": "https://open.spotify.com/track/4eoDPVbSx04PlypRDwjsXk"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "My Foolishness",
+        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "duration_ms": 166187,
+      "name": "My Foolishness",
+      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
-      },
-      "artists": [
-        {
-          "name": "Moldoveanu",
-          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
-        }
-      ],
-      "duration_ms": 125308,
-      "name": "Luminous",
-      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Living Memories",
         "url": "https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 174124,
       "name": "Young and Foolish",
       "url": "https://open.spotify.com/track/0jXDdQhyBxYpN8IdepBwzn"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
+      },
+      "artists": [
+        {
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+        }
+      ],
+      "duration_ms": 125308,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Chemin de la lune",
-        "url": "https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP"
-      },
-      "artists": [
-        {
-          "name": "Neil Chapman Green",
-          "url": "https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ"
-        }
-      ],
-      "duration_ms": 129205,
-      "name": "Chemin de la lune",
-      "url": "https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Softly Spoken",
         "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 136691,
       "name": "Softly Spoken",
       "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "Chemin de la lune",
+        "url": "https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP"
+      },
+      "artists": [
+        {
+          "name": "Neil Chapman Green",
+          "url": "https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ"
+        }
+      ],
+      "duration_ms": 129205,
+      "name": "Chemin de la lune",
+      "url": "https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Piano Hits Chill",
-        "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
-      },
-      "artists": [
-        {
-          "name": "Ronald Emery",
-          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Say You Wont Let Go",
-      "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Astral",
         "url": "https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 179562,
       "name": "Astral",
       "url": "https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Hans",
+          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -475,18 +475,18 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
+        "name": "Piano Hits Chill",
+        "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
       },
       "artists": [
         {
-          "name": "Benjamine Hans",
-          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+          "name": "Ronald Emery",
+          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
         }
       ],
-      "duration_ms": 165750,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
+      "duration_ms": 230000,
+      "name": "Say You Wont Let Go",
+      "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
-      },
-      "artists": [
-        {
-          "name": "Andy Luma",
-          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
-        }
-      ],
-      "duration_ms": 143869,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 182398,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
+        }
+      ],
+      "duration_ms": 143869,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Volker",
+          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
+        }
+      ],
+      "duration_ms": 118016,
+      "name": "Kleine Forelle",
+      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
         "name": "First Sunrise",
         "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 159107,
       "name": "I've Grown Accustomed to Her Face",
       "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Volker",
-          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
-        }
-      ],
-      "duration_ms": 118016,
-      "name": "Kleine Forelle",
-      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Although",
-        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
-      },
-      "artists": [
-        {
-          "name": "Jane Avril",
-          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
-        }
-      ],
-      "duration_ms": 180635,
-      "name": "Although",
-      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Up Above",
         "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 118250,
       "name": "Quand vous souriez",
       "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "Although",
+        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
+      },
+      "artists": [
+        {
+          "name": "Jane Avril",
+          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
+        }
+      ],
+      "duration_ms": 180635,
+      "name": "Although",
+      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Still in Love With You",
-        "url": "https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic"
-      },
-      "artists": [
-        {
-          "name": "Angelina Winter",
-          "url": "https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl"
-        }
-      ],
-      "duration_ms": 156125,
-      "name": "Still in Love With You",
-      "url": "https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
+        "name": "Still in Love With You",
+        "url": "https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic"
       },
       "artists": [
         {
-          "name": "Lisa Livalli",
-          "url": "https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR"
+          "name": "Angelina Winter",
+          "url": "https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl"
         }
       ],
-      "duration_ms": 216978,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG"
+      "duration_ms": 156125,
+      "name": "Still in Love With You",
+      "url": "https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -1419,6 +1403,22 @@
       "duration_ms": 202750,
       "name": "S\u00fcda",
       "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+      },
+      "artists": [
+        {
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
       },
       "artists": [
         {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+          "name": "Lisa Livalli",
+          "url": "https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR"
         }
       ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+      "duration_ms": 216978,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Autumn Leaves",
-        "url": "https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm"
+        "name": "A Gift To Share",
+        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
       },
       "artists": [
         {
-          "name": "Matt Lingus",
-          "url": "https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5"
+          "name": "Joni Bernier",
+          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T"
+      "duration_ms": 139500,
+      "name": "A Gift To Share",
+      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -1547,22 +1547,6 @@
       "duration_ms": 77672,
       "name": "Hickory Dickory Dock",
       "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
-        "name": "L\u2019herbe verte",
-        "url": "https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI"
-      },
-      "artists": [
-        {
-          "name": "Marceau Sartre",
-          "url": "https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l"
-        }
-      ],
-      "duration_ms": 141374,
-      "name": "L\u2019herbe verte",
-      "url": "https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -1599,18 +1583,34 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "A Gift To Share",
-        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
+        "name": "L\u2019herbe verte",
+        "url": "https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI"
       },
       "artists": [
         {
-          "name": "Joni Bernier",
-          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+          "name": "Marceau Sartre",
+          "url": "https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l"
         }
       ],
-      "duration_ms": 139500,
-      "name": "A Gift To Share",
-      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+      "duration_ms": 141374,
+      "name": "L\u2019herbe verte",
+      "url": "https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm"
+      },
+      "artists": [
+        {
+          "name": "Matt Lingus",
+          "url": "https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

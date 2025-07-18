@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/26VQkDWWj5QXNwZhE2nkvZ"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/47lItscy4lgE4NdSAlJKLb"
+    },
+    {
+      "album": {
         "name": "The Girl Has A Dream",
         "url": "https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7"
       },
@@ -2046,6 +2064,24 @@
       "duration_ms": 46250,
       "name": "SPEAK NOW OR FOREVER HOLD YOUR PEACE",
       "url": "https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp"
+    },
+    {
+      "album": {
+        "name": "Star Eyes",
+        "url": "https://open.spotify.com/album/560xUiiwsH2z5jHx0y9EV0"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "Star Eyes",
+      "url": "https://open.spotify.com/track/3O88qTUagB5qKTiLvUHA5c"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1535123,
+  "num_followers": 1535328,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAD1GerKi3L058Q/MfRbzAkb",
+  "snapshot_id": "aHbrgAAAAABtpTNS1KcKCAmzYf91KqG3",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+        "name": "Chinese Democracy",
+        "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 192666,
-      "name": "Used To Love Her",
-      "url": "https://open.spotify.com/track/67q0QsfLcTa2SqhP2wQbia"
+      "duration_ms": 334373,
+      "name": "This I Love",
+      "url": "https://open.spotify.com/track/2FEWcWHnDmGD6WSqpW4VYu"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Used To Love Her",
+      "url": "https://open.spotify.com/track/67q0QsfLcTa2SqhP2wQbia"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
@@ -244,25 +260,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 334373,
-      "name": "This I Love",
-      "url": "https://open.spotify.com/track/2FEWcWHnDmGD6WSqpW4VYu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3Qf4H3NYSp3BMIRe6WOyOA"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 455560,
-      "name": "Sympathy For The Devil",
-      "url": "https://open.spotify.com/track/4InpYF6IH5bhuHwG0R0faj"
+      "duration_ms": 297226,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/3nW5v0Htr1ySk8czTJIA2V"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chinese Democracy",
-        "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3Qf4H3NYSp3BMIRe6WOyOA"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 297226,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/3nW5v0Htr1ySk8czTJIA2V"
+      "duration_ms": 455560,
+      "name": "Sympathy For The Devil",
+      "url": "https://open.spotify.com/track/4InpYF6IH5bhuHwG0R0faj"
     },
     {
       "added_at": null,

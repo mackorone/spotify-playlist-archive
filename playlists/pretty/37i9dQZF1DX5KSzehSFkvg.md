@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > أحسن أغاني البوب المغربي مجموعين في بوبستارز
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,666 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,695 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
 | 2 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
-| 3 | [Ensa](https://open.spotify.com/track/0gqQVtw4Dhc1jTXCcxa01U) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Ensa](https://open.spotify.com/album/263tszRzCdApk9Z0WktOQz) | 3:17 |
-| 4 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 |
-| 5 | [Zina Zina](https://open.spotify.com/track/0vm4E4FMXOn72D0RYNTAaM) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [Zina Zina](https://open.spotify.com/album/0M2SI231gHU8QtA31csehN) | 3:07 |
-| 6 | [La Plus Belle](https://open.spotify.com/track/2lhFpjM9Hf2FZMTShrSoKv) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [La Plus Belle](https://open.spotify.com/album/190XT5AihptIJkSrPJjzlh) | 2:30 |
-| 7 | [Khiyana](https://open.spotify.com/track/2lR6Rca2ib6D63AYAw2Yr8) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Khiyana](https://open.spotify.com/album/77nd2bNKjX80AONYQGPLII) | 2:43 |
-| 8 | [Taj Li Watani](https://open.spotify.com/track/0qkei2mL1oGzIQtPesLCoD) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Taj Li Watani](https://open.spotify.com/album/56draevXcdLxvpUM3arMyo) | 2:46 |
-| 9 | [YA BABA](https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [YA BABA](https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK) | 2:48 |
+| 3 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 |
+| 4 | [Zina Zina](https://open.spotify.com/track/0vm4E4FMXOn72D0RYNTAaM) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [Zina Zina](https://open.spotify.com/album/0M2SI231gHU8QtA31csehN) | 3:07 |
+| 5 | [La Plus Belle](https://open.spotify.com/track/2lhFpjM9Hf2FZMTShrSoKv) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [La Plus Belle](https://open.spotify.com/album/190XT5AihptIJkSrPJjzlh) | 2:30 |
+| 6 | [Khiyana](https://open.spotify.com/track/2lR6Rca2ib6D63AYAw2Yr8) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Khiyana](https://open.spotify.com/album/77nd2bNKjX80AONYQGPLII) | 2:43 |
+| 7 | [Taj Li Watani](https://open.spotify.com/track/0qkei2mL1oGzIQtPesLCoD) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Taj Li Watani](https://open.spotify.com/album/56draevXcdLxvpUM3arMyo) | 2:46 |
+| 8 | [YA BABA](https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [YA BABA](https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK) | 2:48 |
+| 9 | [Ensa](https://open.spotify.com/track/0gqQVtw4Dhc1jTXCcxa01U) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Ensa](https://open.spotify.com/album/263tszRzCdApk9Z0WktOQz) | 3:17 |
 | 10 | [Zendaya](https://open.spotify.com/track/7oZZcZOMSG743m8awHqWGS) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Zendaya](https://open.spotify.com/album/33hMxOxJZVA8XuvN07tuq9) | 3:04 |
 | 11 | [MAHBOULA](https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAHBOULA](https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL) | 2:49 |
 | 12 | [PENALTY](https://open.spotify.com/track/6K98YuYoefShCK5qIsPybL) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu), [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [PENALTY](https://open.spotify.com/album/67nkeu6axxVkXnqDnig9iQ) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [Ntiya](https://open.spotify.com/track/3HTXEyvWPTZusrpBWmU6oy) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Ntiya](https://open.spotify.com/album/6kHpHJnasd7it6G9fYW6lc) | 4:16 |
 | 50 | [Siri](https://open.spotify.com/track/4MXXtusvtDflGAwR5hmchC) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Siri](https://open.spotify.com/album/05wbo8BJGYhmLCpu2NER6B) | 3:12 |
 
-Snapshot ID: `aHUIwgAAAABpEHWgOz+LMCQmlTiq+D4+`
+Snapshot ID: `aHlMwQAAAAAoGIaWa3RnDg+CE2a3KgKD`

@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Wejdene
+> Le R&B français, nouvelle ère\. Photo : SenSey'
 
-515 songs - 1 day 0 hr 24 min
+517 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [ANANAS \- Acoustic version](https://open.spotify.com/track/3nfP0gnomKijWe3LikQg7P) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [ANANAS \(Acoustic version\)](https://open.spotify.com/album/6lJsS5QVgRhJyp398XalZc) | 2:59 | 2023-01-05 | 2023-01-27 |
 | [Apprends\-moi !](https://open.spotify.com/track/1QfNvkcNwlnoUpFlHu2AX8) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:01 | 2024-07-25 | 2025-02-21 |
 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 | 2024-09-19 | 2025-01-24 |
-| [Assez](https://open.spotify.com/track/5khLB5FEPptQb1PirpzYyg) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Assez](https://open.spotify.com/album/2HQPK4vEjaIGw0ljaPUooi) | 2:52 | 2025-06-19 |  |
+| [Assez](https://open.spotify.com/track/5khLB5FEPptQb1PirpzYyg) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Assez](https://open.spotify.com/album/2HQPK4vEjaIGw0ljaPUooi) | 2:52 | 2025-06-19 | 2025-07-18 |
 | [Assez \(épisode 1\)](https://open.spotify.com/track/5knL7kkdGRwHHS1sjZIH5H) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw) | 3:23 | 2023-03-16 | 2023-07-07 |
 | [ASSEZ PARLÉ](https://open.spotify.com/track/5MtAMhPPcxZRJZESgmOGIN) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [MOSAÏQUE](https://open.spotify.com/album/1x2v9tCJZfJim0MK8XsjLa) | 3:02 | 2025-05-29 |  |
 | [Atasanté \(feat\. Hamza\)](https://open.spotify.com/track/1oXn8nhl44cH6HXqGQnOgY) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:34 | 2022-11-24 | 2023-04-28 |
@@ -152,6 +152,7 @@
 | [EN TT](https://open.spotify.com/track/2go4JjcJuZJ1WQQCWdAZ87) | [Nayth](https://open.spotify.com/artist/6EMIPjUlfsk2LiKIcrbbar), [Doosko Niafo](https://open.spotify.com/artist/3j5vom9KtuBUImiFXCOTP0) | [EN TT](https://open.spotify.com/album/5TQ3lE67bKHk3FXPTuBTgA) | 3:01 | 2024-12-19 | 2025-01-31 |
 | [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 | 2025-07-10 |  |
 | [Encore](https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Encore](https://open.spotify.com/album/2vN8NilAhMUK3hW508tdXq) | 2:20 | 2023-09-28 | 2023-11-17 |
+| [Encore](https://open.spotify.com/track/3fi1zaL252MTiiiIWoKr6f) | [Tallulah](https://open.spotify.com/artist/2enfI1A3N4CyrreGjAUdD3) | [Encore](https://open.spotify.com/album/5LsdAd8Wbd59kSQ85kPVPb) | 2:35 | 2025-07-17 |  |
 | [Encore là](https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Encore là](https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx) | 2:59 | 2022-11-24 | 2023-06-02 |
 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-16 | 2023-02-19 |
 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-16 | 2023-07-21 |
@@ -471,7 +472,7 @@
 | [Tell me](https://open.spotify.com/track/4MNbrLnpXppygkZJL7BzVB) | [Asma](https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB) | [Tell me](https://open.spotify.com/album/7tGpXXG4o3WHnIo7lXCUNG) | 3:17 | 2025-05-22 | 2025-06-27 |
 | [Tenez\-les](https://open.spotify.com/track/37ESM3vFbqd9AufCc2Lo8E) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Tenez\-les](https://open.spotify.com/album/33rtoexxM8t9yLuqCIJOO9) | 3:03 | 2023-01-26 | 2023-04-21 |
 | [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-01-25 | 2024-03-29 |
-| [Terminé \- Summer Version](https://open.spotify.com/track/1BpS9FmfbNuMeufyBJgM2u) | [Fallon Mikado](https://open.spotify.com/artist/4FiU3JAQ5RicVZV1YwBqrW) | [Terminé \(Summer Version\)](https://open.spotify.com/album/78U3ufc3lkUfLlwLk5vo8Z) | 2:19 | 2025-07-10 |  |
+| [Terminé \- Summer Version](https://open.spotify.com/track/1BpS9FmfbNuMeufyBJgM2u) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Terminé \(Summer Version\)](https://open.spotify.com/album/78U3ufc3lkUfLlwLk5vo8Z) | 2:19 | 2025-07-10 |  |
 | [Ti Ki Da](https://open.spotify.com/track/2yWpYK9STGmtCryb95sJvU) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Ti Ki Da](https://open.spotify.com/album/7GUiNTPVHZYiI77Ao6CiJV) | 2:41 | 2023-10-05 | 2023-12-08 |
 | [TIKI](https://open.spotify.com/track/1OllFSK8xhYTE0x0BCJb6B) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [TIKI](https://open.spotify.com/album/5hgEGdVbCxx6caMeRxeS5U) | 2:12 | 2024-09-12 | 2024-11-08 |
 | [Titulaire](https://open.spotify.com/track/2jshKJivTkiIOF4T7AumgA) | [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Titulaire](https://open.spotify.com/album/1NuU0IRn8DO8SDE699JTaS) | 3:06 | 2025-04-17 |  |
@@ -482,6 +483,7 @@
 | [Ton ami](https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Ton ami](https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R) | 2:34 | 2024-01-11 | 2024-06-28 |
 | [ton attitude](https://open.spotify.com/track/5xuFExz8qNnRVLQWcraYag) | [Cikey](https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm) | [ton attitude](https://open.spotify.com/album/5OgTiYmcsCkNipHvQoHwFr) | 2:41 | 2024-08-29 | 2024-10-11 |
 | [Too close \(feat\. Rsko\)](https://open.spotify.com/track/0ZygVk1kxnwT6HRMprEnxV) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:56 | 2025-07-10 |  |
+| [Toucher ton coeur](https://open.spotify.com/track/0Vnpk1bAbfQ2jKdI0xzpei) | [Cikey](https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm) | [Toucher ton coeur](https://open.spotify.com/album/0R0hEIxvVydJ0aDi8fzJ9k) | 2:31 | 2025-07-17 |  |
 | [Tous les mêmes](https://open.spotify.com/track/7lKWxwj3OoCcRrt6jc4ISE) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Tous les mêmes](https://open.spotify.com/album/0qwV8NjYwXfFAB9lMafnSz) | 2:30 | 2023-02-02 | 2023-06-30 |
 | [Tout](https://open.spotify.com/track/5Lz5K5wFwBIkUYnzNTEdpA) | [Pearl](https://open.spotify.com/artist/2MhjocNxlP3QVRiKqKcpkF) | [Tout](https://open.spotify.com/album/7xWdkdj3NvGshk6QDuQNuB) | 2:38 | 2023-07-06 | 2023-08-04 |
 | [TOUT essayer ?](https://open.spotify.com/track/2AtnAly14IUP5I8mPo8QAc) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 3:33 | 2024-05-09 | 2024-12-13 |
@@ -509,7 +511,7 @@
 | [WAVYSHAWTY](https://open.spotify.com/track/0E1scA58vjVFBHQEzrlXZC) | [HARON](https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr) | [WAVYSHAWTY](https://open.spotify.com/album/1hKUNPmRzykqlZLmRBzG7c) | 3:02 | 2023-05-18 | 2023-06-23 |
 | [WIN WIN](https://open.spotify.com/track/3OjzBXbO7TGzYPTrO40Avo) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [WIN WIN](https://open.spotify.com/album/2Afunln1aFmy1ZKwQ1buyE) | 1:52 | 2025-02-06 | 2025-06-27 |
 | [Wine Slow](https://open.spotify.com/track/5Spn4k5ScY07K4tiNka9G7) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [Wine Slow](https://open.spotify.com/album/5m9GW55aDkffBclwaOYB6L) | 3:01 | 2023-10-12 | 2023-12-22 |
-| [WITCHU](https://open.spotify.com/track/5fBJV1HOCP1yWRpKae22xX) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [WITCHU](https://open.spotify.com/album/5Sb8JosJzFk0q7Hp1xuknX) | 2:24 | 2025-06-19 |  |
+| [WITCHU](https://open.spotify.com/track/5fBJV1HOCP1yWRpKae22xX) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [WITCHU](https://open.spotify.com/album/5Sb8JosJzFk0q7Hp1xuknX) | 2:24 | 2025-06-19 | 2025-07-18 |
 | [Yabibi \(feat\. Nej\)](https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Résilience \(Réedition\)](https://open.spotify.com/album/5ccZx34vHtGMUbEuEt3cON) | 2:37 | 2023-07-27 | 2023-10-06 |
 | [Ying & Yang](https://open.spotify.com/track/1XFJYOadFmIwnkq8sqbMBn) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:44 | 2025-04-03 | 2025-05-16 |
 | [Yoga](https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Yoga](https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B) | 3:01 | 2024-03-07 | 2024-07-05 |

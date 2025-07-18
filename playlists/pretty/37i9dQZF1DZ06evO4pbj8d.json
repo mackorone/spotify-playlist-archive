@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAACKVcCbyZANezOVTPoudbLO",
+  "snapshot_id": "aHbrgAAAAACH+0BfbTsUTpJ0Exc4CxFL",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 189859,
-      "name": "I\u2019D MISS THE BIRDS",
-      "url": "https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 236291,
       "name": "Somebody Like Me",
       "url": "https://open.spotify.com/track/4Pta1RInQ95Al4Dj0qicmk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 189859,
+      "name": "I\u2019D MISS THE BIRDS",
+      "url": "https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 203739,
-      "name": "DRUGS",
-      "url": "https://open.spotify.com/track/0q4DbCRYxEAZQXXyCFhNe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nazareth",
-        "url": "https://open.spotify.com/album/1Ny7Q4HVVdo4fOA99DX4mM"
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 186514,
-      "name": "Nazareth",
-      "url": "https://open.spotify.com/track/3Jbv6IxhzJK3jthNIbKheI"
+      "duration_ms": 203739,
+      "name": "DRUGS",
+      "url": "https://open.spotify.com/track/0q4DbCRYxEAZQXXyCFhNe3"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 222228,
       "name": "Stacy",
       "url": "https://open.spotify.com/track/2nMvxqGTwM9aJAOYH0jSWD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nazareth",
+        "url": "https://open.spotify.com/album/1Ny7Q4HVVdo4fOA99DX4mM"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Nazareth",
+      "url": "https://open.spotify.com/track/3Jbv6IxhzJK3jthNIbKheI"
     },
     {
       "added_at": null,

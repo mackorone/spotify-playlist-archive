@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 37579,
+  "num_followers": 37591,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAAB9OjNkjx2BtRtkn4P0bpBE",
+  "snapshot_id": "aHbrgAAAAAAtKcMyEvBglR4joJwQuAcd",
   "tracks": [
     {
       "added_at": null,
@@ -748,25 +748,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 245493,
-      "name": "You Can't Hide from Yourself",
-      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teddy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "All I Need Is You",
-      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
+      "duration_ms": 292560,
+      "name": "Easy, Easy, Got To Take It Easy",
+      "url": "https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3"
     },
     {
       "added_at": null,
@@ -791,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This One's For You",
-        "url": "https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol"
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
       },
       "artists": [
         {
@@ -800,25 +784,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 378266,
-      "name": "This One's for You",
-      "url": "https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 292560,
-      "name": "Easy, Easy, Got To Take It Easy",
-      "url": "https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3"
+      "duration_ms": 273000,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
     },
     {
       "added_at": null,
@@ -839,6 +807,38 @@
       "duration_ms": 449426,
       "name": "Be for Real (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/2xxe3FVwBs4iBbPpcVJUlQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "You Can't Hide from Yourself",
+      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This One's For You",
+        "url": "https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 378266,
+      "name": "This One's for You",
+      "url": "https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR"
     },
     {
       "added_at": null,

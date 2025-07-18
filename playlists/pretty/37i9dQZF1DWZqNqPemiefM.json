@@ -279,26 +279,6 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "Lateral",
-        "url": "https://open.spotify.com/album/1yipZJ7MzmCA56WeIfHX3D"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Beatie Wolfe",
-          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
-        }
-      ],
-      "duration_ms": 482270,
-      "name": "Big Empty Country - I",
-      "url": "https://open.spotify.com/track/4LC4gqiuOPsQTaYKO6yIOj"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
         "name": "For the Beasts",
         "url": "https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 153231,
       "name": "Lurk",
       "url": "https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
+        "name": "Lateral",
+        "url": "https://open.spotify.com/album/1yipZJ7MzmCA56WeIfHX3D"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+        }
+      ],
+      "duration_ms": 482270,
+      "name": "Big Empty Country - I",
+      "url": "https://open.spotify.com/track/4LC4gqiuOPsQTaYKO6yIOj"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "\u85e4\u5b50",
-        "url": "https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp"
-      },
-      "artists": [
-        {
-          "name": "\u91ce\u53e3\u6587",
-          "url": "https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha"
-        }
-      ],
-      "duration_ms": 262482,
-      "name": "Plateau",
-      "url": "https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
         "name": "Something Ephemeral",
         "url": "https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 201000,
       "name": "When the Earth Yelled Back at Me",
       "url": "https://open.spotify.com/track/0zUJd5WA41CfvYmcADOo88"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
+        "name": "\u85e4\u5b50",
+        "url": "https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u53e3\u6587",
+          "url": "https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha"
+        }
+      ],
+      "duration_ms": 262482,
+      "name": "Plateau",
+      "url": "https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "Penguin Caf\u00e9 Orchestra",
-        "url": "https://open.spotify.com/album/2HDowU93etbL5ClDIRAyh8"
-      },
-      "artists": [
-        {
-          "name": "Penguin Cafe Orchestra",
-          "url": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Cutting Branches For A Temporary Shelter - Remastered 2008",
-      "url": "https://open.spotify.com/track/0Lm3loChnSsNS37nxvLYcN"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
         "name": "PHANTOM BRICKWORKS (LP II)",
         "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 325320,
       "name": "DOROTHEA\u2019S BED",
       "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
+        "name": "Penguin Caf\u00e9 Orchestra",
+        "url": "https://open.spotify.com/album/2HDowU93etbL5ClDIRAyh8"
+      },
+      "artists": [
+        {
+          "name": "Penguin Cafe Orchestra",
+          "url": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Cutting Branches For A Temporary Shelter - Remastered 2008",
+      "url": "https://open.spotify.com/track/0Lm3loChnSsNS37nxvLYcN"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "The Luckiest Man in America OST",
-        "url": "https://open.spotify.com/album/7eYBaTNMubQ8TWG0P2ZRm6"
-      },
-      "artists": [
-        {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Sewing a Button",
-      "url": "https://open.spotify.com/track/6y7zXAfN1uR1OMUX8YmB2i"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
         "name": "Cascade",
         "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 523556,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
+        "name": "The Luckiest Man in America OST",
+        "url": "https://open.spotify.com/album/7eYBaTNMubQ8TWG0P2ZRm6"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Sewing a Button",
+      "url": "https://open.spotify.com/track/6y7zXAfN1uR1OMUX8YmB2i"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
+        "name": "Once Was Ours Forever",
+        "url": "https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Bright Belief",
+      "url": "https://open.spotify.com/track/6ica8z0Rz5wzzy98kruFru"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
         "name": "Radio Yugawara",
         "url": "https://open.spotify.com/album/0aw2GEaPdhYF3J5GUAwZXU"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 238560,
       "name": "Black meditation",
       "url": "https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
-        "name": "Once Was Ours Forever",
-        "url": "https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Bright Belief",
-      "url": "https://open.spotify.com/track/6ica8z0Rz5wzzy98kruFru"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
+        "name": "Sin",
+        "url": "https://open.spotify.com/album/2Mkf5oJFTeKuQNfkiGdw5i"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 121146,
+      "name": "Nord",
+      "url": "https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
         "name": "Grey Interiors",
         "url": "https://open.spotify.com/album/5mIWrPzuLBpWL4oLGDIBHB"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "Sin",
-        "url": "https://open.spotify.com/album/2Mkf5oJFTeKuQNfkiGdw5i"
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
       },
       "artists": [
         {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
         }
       ],
-      "duration_ms": 121146,
-      "name": "Nord",
-      "url": "https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F"
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "spiral energy",
-        "url": "https://open.spotify.com/album/727np887ncP1RuxuHNtLK8"
-      },
-      "artists": [
-        {
-          "name": "invisible design",
-          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "spiral energy",
-      "url": "https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
         "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
         "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
+        "name": "spiral energy",
+        "url": "https://open.spotify.com/album/727np887ncP1RuxuHNtLK8"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "spiral energy",
+      "url": "https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
         "name": "D\u00cdA",
         "url": "https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 256579,
       "name": "COMBAT",
       "url": "https://open.spotify.com/track/39GJBIC1JhRqOuFBrGlDvl"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
-        "name": "Miracle Music",
-        "url": "https://open.spotify.com/album/524yGbfZ02HPPVIqZInXxO"
-      },
-      "artists": [
-        {
-          "name": "Grails",
-          "url": "https://open.spotify.com/artist/3VdjlG06JkVAnZ19TR7ZHZ"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Harmonious Living",
-      "url": "https://open.spotify.com/track/4sUXw3kDhEPtIZt8zTGuDA"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 197923,
+      "name": "\u79e9\u7236",
+      "url": "https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
         "name": "On the Quakefish",
         "url": "https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj"
       },
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+        "name": "Miracle Music",
+        "url": "https://open.spotify.com/album/524yGbfZ02HPPVIqZInXxO"
       },
       "artists": [
         {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+          "name": "Grails",
+          "url": "https://open.spotify.com/artist/3VdjlG06JkVAnZ19TR7ZHZ"
         }
       ],
-      "duration_ms": 197923,
-      "name": "\u79e9\u7236",
-      "url": "https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f"
+      "duration_ms": 236786,
+      "name": "Harmonious Living",
+      "url": "https://open.spotify.com/track/4sUXw3kDhEPtIZt8zTGuDA"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 362320,
-      "name": "Flora",
-      "url": "https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
         "name": "AT US",
         "url": "https://open.spotify.com/album/0Gvs95sa3jXOZA7w7YcZbk"
       },
@@ -1251,58 +1235,6 @@
       "duration_ms": 240000,
       "name": "barely",
       "url": "https://open.spotify.com/track/45HvQappqMA3ekJzhBxhfP"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
-        "name": "To The Moon",
-        "url": "https://open.spotify.com/album/4MmutoIv3fuQNKRBDoKjK0"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 466480,
-      "name": "To The Moon (feat. Andr\u00e9 3000)",
-      "url": "https://open.spotify.com/track/3ixFx7kbMdBVSeMqfYagJN"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
-        "name": "\u8349\u7a3f",
-        "url": "https://open.spotify.com/album/7vnmFoClimIW1xxjyorJJ4"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "190306-11",
-      "url": "https://open.spotify.com/track/04P0ErOc0W13SliezFing8"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
-        "name": "Recommence (I/VII)",
-        "url": "https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY"
-      },
-      "artists": [
-        {
-          "name": "Hayes Bradley",
-          "url": "https://open.spotify.com/artist/2eR5l1dWjSIEfAs0mXgyak"
-        }
-      ],
-      "duration_ms": 142535,
-      "name": "What A Life (I)",
-      "url": "https://open.spotify.com/track/7JuGqawtpkLXnzA9q4bmVZ"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -1323,6 +1255,38 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 362320,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
+        "name": "Recommence (I/VII)",
+        "url": "https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY"
+      },
+      "artists": [
+        {
+          "name": "Hayes Bradley",
+          "url": "https://open.spotify.com/artist/2eR5l1dWjSIEfAs0mXgyak"
+        }
+      ],
+      "duration_ms": 142535,
+      "name": "What A Life (I)",
+      "url": "https://open.spotify.com/track/7JuGqawtpkLXnzA9q4bmVZ"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
         "name": "NONAGE",
         "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
@@ -1335,6 +1299,42 @@
       "duration_ms": 123953,
       "name": "Yip, Yip, Yip",
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
+        "name": "\u8349\u7a3f",
+        "url": "https://open.spotify.com/album/7vnmFoClimIW1xxjyorJJ4"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "190306-11",
+      "url": "https://open.spotify.com/track/04P0ErOc0W13SliezFing8"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/4MmutoIv3fuQNKRBDoKjK0"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 466480,
+      "name": "To The Moon (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/3ixFx7kbMdBVSeMqfYagJN"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
+        "name": "Slow Worm",
+        "url": "https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Slow Worm",
+      "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
         "name": "Foam and Sand",
         "url": "https://open.spotify.com/album/3qKXft8shy4ueIfieixSGc"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "Slow Worm",
-        "url": "https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Slow Worm",
-      "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
         "name": "#3 / Rhubarb Orc. 19.53 Rev",
         "url": "https://open.spotify.com/album/25tU48vYTi5RyyJzElp1Yc"
       },
@@ -1463,8 +1463,8 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+        "name": "stem/curve",
+        "url": "https://open.spotify.com/album/0LA0xleiV1U14SQRNgIV8l"
       },
       "artists": [
         {
@@ -1472,25 +1472,9 @@
           "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
         }
       ],
-      "duration_ms": 168480,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
-        "name": "+puzzle",
-        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
-      },
-      "artists": [
-        {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
-        }
-      ],
-      "duration_ms": 254561,
-      "name": "+puzzle",
-      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
+      "duration_ms": 109640,
+      "name": "stem",
+      "url": "https://open.spotify.com/track/2BZYwQG4Wq6OJ4jrJWFSpM"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
+        "name": "+puzzle",
+        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
+      },
+      "artists": [
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "duration_ms": 254561,
+      "name": "+puzzle",
+      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u3088\u3075\u304b\u3057\u306e\u3046\u305f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0hRquZKDpTRqpi8kjD7lcv"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 187531,
       "name": "\u591c\u306e\u8857",
       "url": "https://open.spotify.com/track/6GDHhqXm5rRuHyXc6nRpsi"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
-        "name": "Hoshi No Koe",
-        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
-      },
-      "artists": [
-        {
-          "name": "Nobukazu Takemura",
-          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
-        }
-      ],
-      "duration_ms": 103360,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -1563,6 +1547,38 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
+        "name": "Hoshi No Koe",
+        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
+      },
+      "artists": [
+        {
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
+        }
+      ],
+      "duration_ms": 103360,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
         "name": "Music for Peace and Harmony",
         "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
       },
@@ -1583,6 +1599,22 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
+        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
+      },
+      "artists": [
+        {
+          "name": "Yasunori Mitsuda",
+          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "\u6642\u306e\u56de\u5eca",
+      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
+    },
+    {
+      "added_at": "2025-07-11 07:57:46",
+      "album": {
         "name": "Lorings",
         "url": "https://open.spotify.com/album/61edjeTzA9eXBLQ1JxyJFI"
       },
@@ -1599,22 +1631,6 @@
       "duration_ms": 153073,
       "name": "Basketball",
       "url": "https://open.spotify.com/track/2RgYGHyhGGSTqFJtuiimQG"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
-        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
-      },
-      "artists": [
-        {
-          "name": "Yasunori Mitsuda",
-          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "\u6642\u306e\u56de\u5eca",
-      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
     },
     {
       "added_at": "2025-07-11 07:57:46",
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "stem/curve",
-        "url": "https://open.spotify.com/album/0LA0xleiV1U14SQRNgIV8l"
-      },
-      "artists": [
-        {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
-        }
-      ],
-      "duration_ms": 109640,
-      "name": "stem",
-      "url": "https://open.spotify.com/track/2BZYwQG4Wq6OJ4jrJWFSpM"
-    },
-    {
-      "added_at": "2025-07-11 07:57:46",
-      "album": {
         "name": "Que llueva ```",
         "url": "https://open.spotify.com/album/6CxmskanWmgIjOvRatvUwr"
       },
@@ -1707,22 +1707,22 @@
     {
       "added_at": "2025-07-11 07:57:46",
       "album": {
-        "name": "Big Majestic",
-        "url": "https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb"
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
       },
       "artists": [
         {
-          "name": "Ellen Reid",
-          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
         },
         {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
         }
       ],
-      "duration_ms": 162230,
-      "name": "Strawberry Hill Ascent",
-      "url": "https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg"
+      "duration_ms": 185834,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
     }
   ],
   "unique_name": "Sora",

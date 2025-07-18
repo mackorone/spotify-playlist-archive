@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-679 songs - 1 day 15 hr 58 min
+680 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Chinos Ojos Rojos](https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T) | 4:15 | 2023-06-30 | 2023-10-06 |
 | [Chinos Ojos Rojos](https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr) | 4:15 | 2023-06-30 | 2023-07-04 |
 | [Cicuta](https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cicuta](https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7) | 2:29 | 2022-06-03 | 2023-03-03 |
+| [Ciego](https://open.spotify.com/track/58iVnChKJIQrzwpBp3YWu9) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Ciego](https://open.spotify.com/album/0u3WpCvg0f0zxjgmfklYzF) | 3:51 | 2025-07-18 |  |
 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 | 2022-06-03 | 2023-03-03 |
 | [Ciudatella Nacional](https://open.spotify.com/track/7LuLZp0bGul3psMpbQ49i2) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC) | [Poesía para Edificios](https://open.spotify.com/album/6GyP4VIgIVm4UHcgAtnVdz) | 3:46 | 2022-06-03 | 2022-10-21 |
 | [Claro Ma](https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 3:02 | 2023-07-28 |  |
@@ -499,7 +500,7 @@
 | [Periferia](https://open.spotify.com/track/1CY1iQFjmW1m64qXSEtB8d) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Periferia](https://open.spotify.com/album/6YgO7igOx9TKfZ8rKBQ0y0) | 3:05 | 2022-06-03 | 2022-07-23 |
 | [Perla](https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Ahora](https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs) | 3:26 | 2022-06-03 | 2024-05-11 |
 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 | 2022-06-03 | 2022-09-11 |
-| [Pesadillas](https://open.spotify.com/track/1CD1rmHm8SsjewjqjqjGzW) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Pesadillas](https://open.spotify.com/album/0S98zSKihNZ8WNw3KGluM8) | 2:22 | 2024-10-11 |  |
+| [Pesadillas](https://open.spotify.com/track/1CD1rmHm8SsjewjqjqjGzW) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Pesadillas](https://open.spotify.com/album/0S98zSKihNZ8WNw3KGluM8) | 2:22 | 2024-10-11 | 2025-07-18 |
 | [Piedra del Águila](https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Piedra del Águila](https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ) | 3:14 | 2023-03-14 | 2023-10-27 |
 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 | 2022-07-01 | 2022-12-27 |
 | [Pistas](https://open.spotify.com/track/0aGpXkS9WsMDZEsel6iJ8c) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [Pistas](https://open.spotify.com/album/3FNDUwoLsWERacjeco5n8h) | 3:08 | 2023-06-09 | 2023-09-03 |

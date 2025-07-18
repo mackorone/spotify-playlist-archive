@@ -4,7 +4,7 @@
 
 > Megapark bis Bierkönig \- Malle ist nur einmal im Jahr!
 
-179 songs - 9 hr 0 min
+180 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [FiNCHiBOY](https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Finchi's Love Tape](https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM) | 2:50 | 2023-11-14 |  |
 | [Freitag, Samstag](https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Freitag, Samstag](https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL) | 2:36 | 2023-07-28 | 2025-07-07 |
 | [Füllkrug](https://open.spotify.com/track/7wjxG3KrEHET4nzbHhlVfC) | [Aditotoro](https://open.spotify.com/artist/7AYd5ec5oCdcckA0IsFSM6), [paulomuc](https://open.spotify.com/artist/2h1bNYhXzndDwlCHHWlRnG) | [Füllkrug](https://open.spotify.com/album/0hEPdluEoDlW46Q7pDTldT) | 3:16 | 2024-06-17 | 2025-03-15 |
+| [Gartenhütte](https://open.spotify.com/track/4c5CmXIlx8ur2SVBEyghOs) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Gartenhütte](https://open.spotify.com/album/3WA4M3aLKt1MOeW7f3b6dr) | 2:43 | 2025-07-14 |  |
 | [Geh mal Bier hol'n \- GmBh](https://open.spotify.com/track/0NipOXqC53PNZVUMfthzPt) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Ein Wort sagt mehr als 1000 Bilder](https://open.spotify.com/album/1hh1YtzD7HiKAla6K6W0KZ) | 3:07 | 2024-03-27 | 2025-07-10 |
 | [Geiles Leben \- Madizin Single Mix](https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [Madizin](https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj) | [Tag X \(Geiles Leben Edition\)](https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn) | 3:31 | 2024-03-27 |  |
 | [Gianna](https://open.spotify.com/track/5IZ5hLd98SyNFXRbYIiJgW) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV), [Pietro Basile](https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc) | [Gianna](https://open.spotify.com/album/4Cy90atHNobLhtQICRjEaE) | 2:35 | 2025-07-09 |  |
@@ -136,7 +137,7 @@
 | [Mozart \(Ciao Niveau\)](https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Mozart \(Ciao Niveau\)](https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB) | 2:52 | 2024-04-30 |  |
 | [Nachbarn](https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Nachbarn](https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea) | 3:01 | 2023-07-14 |  |
 | [Neverland](https://open.spotify.com/track/7HJ7K2RacfpaX2DTEvwYpS) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Neverland](https://open.spotify.com/album/2bDZ4TekRc3saVb0O1G7ik) | 3:32 | 2024-02-15 | 2024-06-19 |
-| [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 | 2023-07-14 |  |
+| [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 | 2023-07-14 | 2025-07-18 |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn) | 2:44 | 2024-02-15 | 2024-04-19 |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu) | [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm) | 2:44 | 2023-07-14 | 2024-01-19 |
 | [Oben ohne](https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Oben ohne](https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M) | 2:59 | 2024-03-22 |  |

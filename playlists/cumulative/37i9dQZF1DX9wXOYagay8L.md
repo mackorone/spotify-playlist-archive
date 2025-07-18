@@ -2,7 +2,7 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC?si=OLmMmWTlQmahkjHMhJO6OQ">Brenda Mtambo</a>
+> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=jEAaALyDShKOKDWVzZyCCg">Mlindo The Vocalist</a>
 
 696 songs - 2 day 1 hr 44 min
 

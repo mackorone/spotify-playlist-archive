@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Alecc, Kidd",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: DIFF, BeTaf Beats",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1061,6 +1061,32 @@
     },
     {
       "album": {
+        "name": "BadaBing",
+        "url": "https://open.spotify.com/album/6kOU62uHbLX8yGWYX1RIPd"
+      },
+      "artists": [
+        {
+          "name": "Yanek",
+          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
+        },
+        {
+          "name": "Playrec Beats",
+          "url": "https://open.spotify.com/artist/7I7MiAUqLE7YKCP10jcgIG"
+        },
+        {
+          "name": "Block 93",
+          "url": "https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168225,
+      "name": "BadaBing",
+      "url": "https://open.spotify.com/track/1rKYQ81gCt5PFMpm9dEH88"
+    },
+    {
+      "album": {
         "name": "Baghdad",
         "url": "https://open.spotify.com/album/7khfm8Xx9X3tR91oguiMoq"
       },
@@ -1094,7 +1120,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 174117,
       "name": "Bali",
       "url": "https://open.spotify.com/track/7q3TKAaUaFpHpEgNBoHHlQ"
@@ -1120,7 +1146,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 148571,
       "name": "Balkan",
       "url": "https://open.spotify.com/track/3w38tasao28UhiBOWLpN8g"
@@ -2384,7 +2410,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 144000,
       "name": "DnB",
       "url": "https://open.spotify.com/track/5thJkbK9NcweLcnNVs8i2m"
@@ -3184,6 +3210,50 @@
       "duration_ms": 146000,
       "name": "FETIX",
       "url": "https://open.spotify.com/track/6pLi4EGcJvdOWBBQ9fDV0e"
+    },
+    {
+      "album": {
+        "name": "FHMES",
+        "url": "https://open.spotify.com/album/1o5aWUGwCBXVhhfDqdslok"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "FHMES",
+      "url": "https://open.spotify.com/track/56gbt6Uz4WCUVNwnhlHJSF"
+    },
+    {
+      "album": {
+        "name": "FIESTA",
+        "url": "https://open.spotify.com/album/4qlXc2h1UBzzO9Xm0koYFW"
+      },
+      "artists": [
+        {
+          "name": "Aria",
+          "url": "https://open.spotify.com/artist/0V3SclUqf1TeXSY8TdhENd"
+        },
+        {
+          "name": "Aeon",
+          "url": "https://open.spotify.com/artist/5zWF4nQXb3UtlFtG7bHwRu"
+        },
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224566,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/3DnxL7xo2bzubx7WdvICK3"
     },
     {
       "album": {
@@ -4286,7 +4356,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 133750,
       "name": "I Kathodos Tou Zarathustra",
       "url": "https://open.spotify.com/track/4wvHm1xb7nYG4wiKBzADgD"
@@ -4407,6 +4477,32 @@
     },
     {
       "album": {
+        "name": "INTERNATIONAL DEALER",
+        "url": "https://open.spotify.com/album/5QotGhXwVM5M5bfDhMIazJ"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        },
+        {
+          "name": "KUZA",
+          "url": "https://open.spotify.com/artist/4ProiSRVTojgML0cnk5uHl"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161395,
+      "name": "INTERNATIONAL DEALER",
+      "url": "https://open.spotify.com/track/4cRNUlyUF2pzAJMwuymqcb"
+    },
+    {
+      "album": {
         "name": "International Gangster",
         "url": "https://open.spotify.com/album/0w8yNu2XbYdsLk5qptQIdA"
       },
@@ -4448,7 +4544,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 55578,
       "name": "INTRO",
       "url": "https://open.spotify.com/track/0kibzCvdZjQRKl4ks5WslC"
@@ -5450,7 +5546,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 139596,
       "name": "MALAK/SMENA",
       "url": "https://open.spotify.com/track/6DjxGtllzb7Eh54PDYpoOo"
@@ -5950,7 +6046,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 134766,
       "name": "Miami",
       "url": "https://open.spotify.com/track/0rWIlMaivrU7sGtU1G6pIa"
@@ -7004,6 +7100,28 @@
       "duration_ms": 201500,
       "name": "Oute Mia Leksi (Flashback)",
       "url": "https://open.spotify.com/track/1rjB8DuD2mNdIOLfQDKQZI"
+    },
+    {
+      "album": {
+        "name": "P.O.S.",
+        "url": "https://open.spotify.com/album/2Shh4sMBBv3Uq5Klg9n2xd"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141406,
+      "name": "P.O.S.",
+      "url": "https://open.spotify.com/track/0VzLi4og9pVyuoo4jfjkWw"
     },
     {
       "album": {
@@ -8963,6 +9081,32 @@
     },
     {
       "album": {
+        "name": "DIFFERENT STUFF",
+        "url": "https://open.spotify.com/album/3KzN1Kj4vp0y027ub4CwQT"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "TA EXW PANW MOU",
+      "url": "https://open.spotify.com/track/6c0Mv6NHqLAJQ2mZxiVjGB"
+    },
+    {
+      "album": {
         "name": "Man of the Match",
         "url": "https://open.spotify.com/album/2117GA4PBb1DWLuMi3PuV0"
       },
@@ -9196,6 +9340,32 @@
       "duration_ms": 213191,
       "name": "Thalassa Mou",
       "url": "https://open.spotify.com/track/0euDiCESIRjGllKuuZ6Opy"
+    },
+    {
+      "album": {
+        "name": "Thelw Na Se Dw",
+        "url": "https://open.spotify.com/album/6vTLwPmhUJKlUtNeUedsQw"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157009,
+      "name": "Thelw Na Se Dw",
+      "url": "https://open.spotify.com/track/6vSy6np4X6taAUmk8R1DTp"
     },
     {
       "album": {
@@ -9574,6 +9744,28 @@
       "duration_ms": 126461,
       "name": "Trip",
       "url": "https://open.spotify.com/track/53zbtQF0HFqMIP64F4hY67"
+    },
+    {
+      "album": {
+        "name": "Akou Magka",
+        "url": "https://open.spotify.com/album/6cCIPvPKMsnSEplck3oIC5"
+      },
+      "artists": [
+        {
+          "name": "ATC Coco",
+          "url": "https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151282,
+      "name": "Tripani",
+      "url": "https://open.spotify.com/track/0ro3SdkXfsAJjcwE4hxLdM"
     },
     {
       "album": {
@@ -10410,7 +10602,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 249936,
       "name": "\u03a4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1",
       "url": "https://open.spotify.com/track/0l8NhmpH4KnBT1wz4z9wcc"

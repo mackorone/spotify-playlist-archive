@@ -4,11 +4,12 @@
 
 > Let's flow to the beats of downtempo deep house.
 
-68 songs - 6 hr 59 min
+69 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Akacje](https://open.spotify.com/track/400NyXxU3mhiraKbR6n9G9) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg), [AKASHA MX](https://open.spotify.com/artist/721EuEbzImpF3q72RR9rCP) | [Akacje](https://open.spotify.com/album/2PxOPG4hFj9tNimmLrbSm8) | 7:08 | 2023-11-10 |  |
+| [Always](https://open.spotify.com/track/4iqiJmtxOhvPKVo6cEPdVQ) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Always](https://open.spotify.com/album/0g7cGfIUANYS5YNFUfoQei) | 3:36 | 2025-07-17 |  |
 | [Apart](https://open.spotify.com/track/7LeShYiQOXt42vOVQ2GXB8) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Apart](https://open.spotify.com/album/3ERW2r43z54BjvmuKKTs8c) | 4:08 | 2023-11-10 |  |
 | [Astavakra \- Geplantes Nichtstun Remix](https://open.spotify.com/track/18Y1f4WipC4rSbqSwJVK3Q) | [Sadhu Sensi](https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P), [Geplantes Nichtstun](https://open.spotify.com/artist/6vCpbHKaBgPOO7cPkUTeuU) | [Astavakra](https://open.spotify.com/album/6nXqjScdYdwZXTnllV4XC7) | 7:04 | 2023-11-10 |  |
 | [Ay vora](https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3) | [Essex](https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG) | [Ay vora](https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB) | 4:33 | 2023-11-10 |  |

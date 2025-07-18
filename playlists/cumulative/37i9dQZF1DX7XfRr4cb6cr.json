@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "From the Edge Original Soundtrack",
+        "url": "https://open.spotify.com/album/5xWOgIHvNUujij8JiypKJC"
+      },
+      "artists": [
+        {
+          "name": "Marihiko Hara",
+          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473300,
+      "name": "A Light in the Dark",
+      "url": "https://open.spotify.com/track/4uqYhg96dODkNrtnYDOOVf"
+    },
+    {
+      "album": {
         "name": "Ghost Years",
         "url": "https://open.spotify.com/album/64C04hVlI5tUvYITFP4A5t"
       },
@@ -726,7 +744,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 154850,
       "name": "Blue Window",
       "url": "https://open.spotify.com/track/2pYUcvzuzdGc4joj0KYX84"
@@ -914,7 +932,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 281133,
       "name": "Contrail",
       "url": "https://open.spotify.com/track/0kUaVSpFJ1c5If3fK3S8CX"
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
@@ -2331,6 +2349,28 @@
     },
     {
       "album": {
+        "name": "Immaru",
+        "url": "https://open.spotify.com/album/3IGVAGeEdTO1EQeD0q6J7k"
+      },
+      "artists": [
+        {
+          "name": "Rhian Sheehan",
+          "url": "https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT"
+        },
+        {
+          "name": "Arli Liberman",
+          "url": "https://open.spotify.com/artist/3gVNQN1b6HpdFzMbo2jE5k"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323448,
+      "name": "Immaru",
+      "url": "https://open.spotify.com/track/6BfgmgE2fib0zjQplrC5fP"
+    },
+    {
+      "album": {
         "name": "In Time You Will",
         "url": "https://open.spotify.com/album/2iu3K2wnI5e1oDQz5zVSLj"
       },
@@ -2582,6 +2622,24 @@
       "duration_ms": 392000,
       "name": "Kerlann",
       "url": "https://open.spotify.com/track/3z5526brr8uZeHJOylEibp"
+    },
+    {
+      "album": {
+        "name": "Kitchen Fan Lullaby (Raw)",
+        "url": "https://open.spotify.com/album/70mv2rOaMfu4apLtT26Iib"
+      },
+      "artists": [
+        {
+          "name": "Claire Boyer",
+          "url": "https://open.spotify.com/artist/6r6rfdIwKZOJBYaQHBs7yp"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99383,
+      "name": "Kitchen Fan Lullaby (Raw)",
+      "url": "https://open.spotify.com/track/2jGlG8sAuZkWxOjMMTlZHC"
     },
     {
       "album": {

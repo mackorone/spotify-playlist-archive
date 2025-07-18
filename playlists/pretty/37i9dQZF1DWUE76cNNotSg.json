@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes \ud83c\udf1e the music you need at golden hour ",
-  "num_followers": 631106,
+  "num_followers": 637490,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1356,8 +1356,8 @@
           "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
         },
         {
-          "name": "val fritz",
-          "url": "https://open.spotify.com/artist/4UJp9uTWYJ6NxH5OjgoNkn"
+          "name": "Val Fritz",
+          "url": "https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6"
         }
       ],
       "duration_ms": 170163,
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2025-07-12 00:21:48",
       "album": {
+        "name": "I Do (Vandelux Remix)",
+        "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 196558,
+      "name": "I Do - Vandelux Remix",
+      "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
+    },
+    {
+      "added_at": "2025-07-12 00:21:48",
+      "album": {
         "name": "How You Feel (Ft. Leven Kali)",
         "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 196853,
       "name": "How You Feel (Ft. Leven Kali)",
       "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
-    },
-    {
-      "added_at": "2025-07-12 00:21:48",
-      "album": {
-        "name": "I Do (Vandelux Remix)",
-        "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 196558,
-      "name": "I Do - Vandelux Remix",
-      "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
     },
     {
       "added_at": "2025-07-12 00:21:48",

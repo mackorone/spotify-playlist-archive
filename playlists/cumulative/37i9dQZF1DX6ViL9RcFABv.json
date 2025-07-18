@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Catarina Filipe",
+  "description": "Uma playlist de pura alma pop! Foto: Nininho Vaz Maia ",
   "name": "Pop PT",
   "tracks": [
     {
@@ -298,6 +298,28 @@
       "duration_ms": 224478,
       "name": "Amigos Coloridos",
       "url": "https://open.spotify.com/track/4A006qfhftf2y12JKLyxoK"
+    },
+    {
+      "album": {
+        "name": "Amor de Agosto",
+        "url": "https://open.spotify.com/album/43OLhOCAzmBiNuoNS856NS"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        },
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "Amor de Agosto",
+      "url": "https://open.spotify.com/track/6wVVIGFQdgQkYYEaYcGC2M"
     },
     {
       "album": {
@@ -3156,7 +3178,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 203363,
       "name": "Mariana",
       "url": "https://open.spotify.com/track/13tuN5MKAurqUEOzb5VaaE"
@@ -3370,7 +3392,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 172782,
       "name": "Mudaste a Minha Vida",
       "url": "https://open.spotify.com/track/3qlbMBzLg3YlQiX5jTttwJ"
@@ -4284,7 +4306,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 163200,
       "name": "Puras Donzelas",
       "url": "https://open.spotify.com/track/1gtChAVHXQu0RYBpGETfeH"
@@ -5177,6 +5199,28 @@
     },
     {
       "album": {
+        "name": "S\u00d3 QUERO VIVER",
+        "url": "https://open.spotify.com/album/5MXDOITYtd2842neVb5IS5"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        },
+        {
+          "name": "Criss Calisto",
+          "url": "https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "S\u00d3 QUERO VIVER",
+      "url": "https://open.spotify.com/track/7nDslFhczcb3OtifwIPNCC"
+    },
+    {
+      "album": {
         "name": "Talvez...",
         "url": "https://open.spotify.com/album/0o8AGwMQunsC0QMOk4hZt3"
       },
@@ -5578,6 +5622,24 @@
       "duration_ms": 187124,
       "name": "Verdade",
       "url": "https://open.spotify.com/track/5Tw56RjEhlz8BTDTiz65cB"
+    },
+    {
+      "album": {
+        "name": "Vive o dia",
+        "url": "https://open.spotify.com/album/1kaPrridSNurOrrWWoeDaF"
+      },
+      "artists": [
+        {
+          "name": "Nininho Vaz Maia",
+          "url": "https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168136,
+      "name": "Vive o dia",
+      "url": "https://open.spotify.com/track/5lcjHPZUhIPUdunrIAMpy4"
     },
     {
       "album": {

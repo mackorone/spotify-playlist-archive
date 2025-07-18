@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 
 > This is EARTHGANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,282 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,283 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 23 | [No Fear No More \(Remix\)](https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [No Fear No More \(Remix\)](https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t) | 2:54 |
 | 24 | [Act Up](https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:18 |
 | 25 | [LIE TO ME](https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 4:07 |
-| 26 | [RED FLAG](https://open.spotify.com/track/4Ye2nug3j43IYIorNCQ0JY) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 4:46 |
-| 27 | [Run It Up](https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Run It Up](https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq) | 2:58 |
+| 26 | [Run It Up](https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Run It Up](https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq) | 2:58 |
+| 27 | [RED FLAG](https://open.spotify.com/track/4Ye2nug3j43IYIorNCQ0JY) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 4:46 |
 | 28 | [Proud Of U \(feat\. Young Thug\)](https://open.spotify.com/track/4u8xrKWeF7xBO9kGwIk6u7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 3:58 |
 | 29 | [Shiva \(with JID & EARTHGANG feat\. Benji\. & Jurdan Bryant\)](https://open.spotify.com/track/6NszDAUWi40uiQhXRT9p09) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:20 |
 | 30 | [Swivel \(with EARTHGANG\) \- From The Album "Mirrorland"](https://open.spotify.com/track/03XfngWwNfhEjrnEga73Rg) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 49 | [Bank](https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 2:59 |
 | 50 | [Jozi Flows \(with Bas & EARTHGANG\)](https://open.spotify.com/track/0T7zFfMGZ5rQEH4VPbNJln) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:55 |
 
-Snapshot ID: `aHWaAAAAAAAkpss0KeM/woBZkHnAm+3e`
+Snapshot ID: `aHbrgAAAAADq0zZeU9Yj+0H7YaEj7hgU`

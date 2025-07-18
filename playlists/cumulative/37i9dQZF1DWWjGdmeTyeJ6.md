@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: DC3
 
-8,572 songs - 19 day 8 hr 39 min
+8,573 songs - 19 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1644,7 +1644,7 @@
 | [Crazy Sexy Dirty](https://open.spotify.com/track/1TIX1HwdjIXemCJDDyhPoy) | [Mike Nasty](https://open.spotify.com/artist/6kbSgW17fy30NioACFOt4X) | [Crazy Sexy Dirty](https://open.spotify.com/album/6sWsMNGzp9zHizUdZkl1oA) | 4:49 | 2022-03-30 | 2022-04-07 |
 | [Crazy Stupid Love](https://open.spotify.com/track/5gZmKbISqeyhHl63nMFvi0) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Younger Than I Was Before](https://open.spotify.com/album/2rISSRCKbgCn4aUxeznpqN) | 2:35 | 2024-09-12 | 2024-10-03 |
 | [crazy4u!](https://open.spotify.com/track/6Gk4qs4VrUjxDMCmuQbEgQ) | [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [crazy4u!](https://open.spotify.com/album/6bnON6CC4EYZfrHA48ZUEw) | 3:19 | 2022-02-23 | 2022-03-03 |
-| [Creation \- Single Edit](https://open.spotify.com/track/4yQDfit7cyM0WXwWOQdka6) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [Creation](https://open.spotify.com/album/3Kz4KSZ92Oj55BQKBbAzZa) | 4:33 | 2025-06-25 |  |
+| [Creation](https://open.spotify.com/track/4yQDfit7cyM0WXwWOQdka6) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [Creation](https://open.spotify.com/album/3Kz4KSZ92Oj55BQKBbAzZa) | 4:33 | 2025-06-25 |  |
 | [Creature Skin](https://open.spotify.com/track/3uuewLm16NAXIWWu1yy9jq) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Map // Creature Skin](https://open.spotify.com/album/5QbJqqzsFQV2B7JW8ZHwHr) | 3:10 | 2025-05-07 | 2025-06-12 |
 | [Creatures](https://open.spotify.com/track/7iyso5r0vIAZKtN5TgJagH) | [Senchai](https://open.spotify.com/artist/4We6N72dQVLiXWXyLLBDP0) | [Insomnia EP](https://open.spotify.com/album/65VEew3wzPdc7xJTO4Bxu6) | 3:46 | 2023-01-11 | 2023-01-19 |
 | [Creekside Prayer](https://open.spotify.com/track/3MAp9ricFIuRkYjGjwDE7m) | [Jacob Goins](https://open.spotify.com/artist/0yAxir5560fRFdEKvNow6Q) | [A Spring May Well Up](https://open.spotify.com/album/6cEaTkdDevNKFWeo083RQP) | 3:46 | 2024-11-20 | 2025-01-16 |
@@ -5446,6 +5446,7 @@
 | [ode to praying to the answering machine](https://open.spotify.com/track/2jWYA3Z7rd7HvZyMeVKrll) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [ode to praying to the answering machine](https://open.spotify.com/album/4Q0junC1R59aklFFyFTTYB) | 3:11 | 2023-03-15 | 2023-03-23 |
 | [Ode To T](https://open.spotify.com/track/21hzJoieDGFJtnelfEvWNF) | [Saint Precious](https://open.spotify.com/artist/7EtHe2rjA7F4wVXM1rxsy6) | [Ode To T](https://open.spotify.com/album/1KhPpYOXaFZbxRkDy1XExg) | 4:59 | 2023-07-19 | 2023-07-24 |
 | [Odyssey](https://open.spotify.com/track/1Dp7whHQLqyhlWV4z8jJc5) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Odyssey](https://open.spotify.com/album/4uuWpzTfQzJp6dV6HrlhgG) | 3:03 | 2023-01-11 | 2023-01-19 |
+| [Of Sorrow](https://open.spotify.com/track/1jU4IqcoHhtejLuRgZiklA) | [Jess Ribeiro](https://open.spotify.com/artist/7AUTmLTFczsYPnMDaLrU0N) | [Mixtape](https://open.spotify.com/album/3GRL5MeFLTJKO9Du6EExYm) | 2:33 | 2025-07-16 |  |
 | [Off The Edge](https://open.spotify.com/track/7JuLymV0sWOQZauGwtCn7y) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Off The Edge](https://open.spotify.com/album/6tJ0cCZAiqAGro9nQqnnyk) | 3:37 | 2022-09-21 | 2022-09-29 |
 | [Off The Grid](https://open.spotify.com/track/6B06hIQolypbuU8DRmK4Jf) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Inspirations](https://open.spotify.com/album/0i73CBJl788pVN1OendqgI) | 4:37 | 2021-11-17 | 2022-01-13 |
 | [Off without me](https://open.spotify.com/track/0vcnXfIzcZtOPLxFLCp5Yx) | [SCHRAMM](https://open.spotify.com/artist/15eXysq80jazu6dKxed7BU) | [Off without me](https://open.spotify.com/album/6sGOdidaySJZb4WzkNF81d) | 3:16 | 2022-08-24 | 2022-09-01 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-133 songs - 7 hr 4 min
+135 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [No High](https://open.spotify.com/track/2y8ulWFNrVbcO8gjXwfLC3) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/52O89bnT0vPNtrzF1AtWJ2) | 3:02 | 2025-03-22 |  |
 | [No One's Gonna Ever Love U](https://open.spotify.com/track/5J6yoBNlCTE7uCgXuv8NXK) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:22 | 2024-02-27 |  |
 | [Nobody's Girl](https://open.spotify.com/track/3YN2n22KaU9FfHp3sM5aug) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Liv](https://open.spotify.com/artist/2Qt2g9eaCxJuWwaFWgspv5) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:25 | 2024-02-27 |  |
+| [Not Enough](https://open.spotify.com/track/47lItscy4lgE4NdSAlJKLb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Not Enough](https://open.spotify.com/album/26VQkDWWj5QXNwZhE2nkvZ) | 2:45 | 2025-07-17 |  |
 | [One Mississippi](https://open.spotify.com/track/2075qOiQPv12B8YM1dA0Yo) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:02 | 2024-02-27 |  |
 | [Our Summer](https://open.spotify.com/track/1EjwugLrwb3kbcar1HKddN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/6nQZyPFtbKeTq6FZGb01FO) | 3:30 | 2024-02-27 |  |
 | [Parallel Universe](https://open.spotify.com/track/6OQdl6HFCNOFXMw9wHJ4Dd) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Quitter](https://open.spotify.com/album/4goBfD1y92lRNsftSKeEsF) | 3:34 | 2024-02-27 |  |
@@ -114,6 +115,7 @@
 | [someone's gotta be the last](https://open.spotify.com/track/3cpY2r6QYGqnG2ncZ1CwvU) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:00 | 2024-05-19 |  |
 | [someone's gotta be the last](https://open.spotify.com/track/3wrfNRQxGD9tOr2I2aBPkd) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [someone's gotta be the last](https://open.spotify.com/album/2xdqCp16HspPEn9EYHbAE6) | 3:00 | 2024-04-02 | 2024-05-20 |
 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 | 2024-05-31 |  |
+| [Star Eyes](https://open.spotify.com/track/3O88qTUagB5qKTiLvUHA5c) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Star Eyes](https://open.spotify.com/album/560xUiiwsH2z5jHx0y9EV0) | 3:30 | 2025-07-17 |  |
 | [Sugarcoat](https://open.spotify.com/track/1QEi9M0fBXIQ810EjLVnAb) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Burn Slow](https://open.spotify.com/album/1COYJVkWo2wHdz5UehGouY) | 3:24 | 2024-02-27 |  |
 | [Tell Your Girlfriend](https://open.spotify.com/track/0Kryggxs2gZqnkujFYEH1D) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:14 | 2024-02-27 |  |
 | [That Feeling When](https://open.spotify.com/track/3Va1sFKlIYxo36JTdWDg6I) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [That Feeling When](https://open.spotify.com/album/4yfNr3vVl5nDjhkE0xzK55) | 3:22 | 2024-02-27 |  |

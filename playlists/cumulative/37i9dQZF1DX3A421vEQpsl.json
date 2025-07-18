@@ -4475,6 +4475,40 @@
     },
     {
       "album": {
+        "name": "The Po Po Song (From \"Son Of Sardaar 2\")",
+        "url": "https://open.spotify.com/album/6PyWk5K1Ha5PtZ7yoaP6cp"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Armaan Sharma",
+          "url": "https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi"
+        },
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163019,
+      "name": "The Po Po Song (From \"Son Of Sardaar 2\")",
+      "url": "https://open.spotify.com/track/3tM6pIPMoZQYqT9w2ztTlJ"
+    },
+    {
+      "album": {
         "name": "Ting Ling Sajna (From \"Bhool Chuk Maaf\")",
         "url": "https://open.spotify.com/album/7dtCOUs7kqOfSc1VUWeFYm"
       },
@@ -4694,7 +4728,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 252071,
       "name": "Tumhe Dillagi (From \"Raid 2\")",
       "url": "https://open.spotify.com/track/4DwVCjFTWdqyC3Bx4oGtYs"

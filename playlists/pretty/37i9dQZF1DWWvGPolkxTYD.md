@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,841 likes - 40 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,835 likes - 40 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Astrakan Café \- 1](https://open.spotify.com/track/3w6Q4UYdUbAkwT4Plhh3Tp) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Astrakan Café](https://open.spotify.com/album/11AANoNamBHA1GwL2naAQb) | 3:15 |
-| 2 | [Hoonk](https://open.spotify.com/track/5IcJ02P3uPsTlePxZl7AGi) | [Arto Tunçboyacıyan](https://open.spotify.com/artist/13TxYlQsBj3sUlIuyqMz6g), [Armenian Navy Band](https://open.spotify.com/artist/4qJUx7AYaVPlRSgt3deblf) | [Zeytuni Zar](https://open.spotify.com/album/60iNXf3knb14pwRVK2s3YQ) | 2:32 |
-| 3 | [Kolaymi](https://open.spotify.com/track/3tT7GisdKZYPW1suW2GVqm) | [Brian Keane](https://open.spotify.com/artist/0YF3htY87UKOd5AOQwEuPh), [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Beyond The Sky](https://open.spotify.com/album/1hQroOWdQx1RXgmjIjrWtS) | 5:19 |
+| 2 | [Kolaymi](https://open.spotify.com/track/3tT7GisdKZYPW1suW2GVqm) | [Brian Keane](https://open.spotify.com/artist/0YF3htY87UKOd5AOQwEuPh), [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Beyond The Sky](https://open.spotify.com/album/1hQroOWdQx1RXgmjIjrWtS) | 5:19 |
+| 3 | [Hoonk](https://open.spotify.com/track/5IcJ02P3uPsTlePxZl7AGi) | [Arto Tunçboyacıyan](https://open.spotify.com/artist/13TxYlQsBj3sUlIuyqMz6g), [Armenian Navy Band](https://open.spotify.com/artist/4qJUx7AYaVPlRSgt3deblf) | [Zeytuni Zar](https://open.spotify.com/album/60iNXf3knb14pwRVK2s3YQ) | 2:32 |
 | 4 | [Roubbama](https://open.spotify.com/track/1LTQewXIUPvVXGNTekUvcT) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 6:08 |
 | 5 | [Interl'Oud](https://open.spotify.com/track/0rxhy4Vi3vo1TH8ylMZOY3) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Abu Nawas Rhapsody](https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl) | 1:43 |
 | 6 | [Halfaouine](https://open.spotify.com/track/12QGmnEmcpgFajECmRfg6u) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Voyage De Sahar](https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO) | 2:06 |

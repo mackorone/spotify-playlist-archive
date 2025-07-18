@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 218114,
+  "num_followers": 218126,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHWaAAAAAADd8CJc5XU+UE/P7MemGd5V",
+  "snapshot_id": "aHbrgAAAAAAZN9miFTzXKd7L8XDmjV1v",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 189728,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pompeii (Audien Remix)",
         "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 352968,
       "name": "Pompeii - Audien Remix",
       "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 189728,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: nabeel \-نبيل
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,607 likes - 115 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,617 likes - 115 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 24 | [sycophant](https://open.spotify.com/track/09Am9PoKF5IGHrPy95t7Hb) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [sycophant](https://open.spotify.com/album/3CZAPVV4buBpBXHFRNzDaT) | 2:09 |
 | 25 | [Choke Chain](https://open.spotify.com/track/6L0iKLGrWW53jAopkwopzy) | [Angelsaur](https://open.spotify.com/artist/1GfyE51MdTYnvRvPAuDUXb) | [Choke Chain](https://open.spotify.com/album/5jdSxkXwsDq4gwSOOASXau) | 2:17 |
 | 26 | [Daphne Janes](https://open.spotify.com/track/1Z1RenKhyjirzxN6o23tTd) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Daphne Janes](https://open.spotify.com/album/6fl1nrRJWop2aA8yHo4hup) | 3:05 |
-| 27 | [Creation \- Single Edit](https://open.spotify.com/track/4yQDfit7cyM0WXwWOQdka6) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [Creation](https://open.spotify.com/album/3Kz4KSZ92Oj55BQKBbAzZa) | 4:33 |
+| 27 | [Creation](https://open.spotify.com/track/4yQDfit7cyM0WXwWOQdka6) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [Creation](https://open.spotify.com/album/3Kz4KSZ92Oj55BQKBbAzZa) | 4:33 |
 | 28 | [Flat Circle](https://open.spotify.com/track/3afhO4qhTkyE5fNJfFq9fe) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Flat Circle](https://open.spotify.com/album/4l8wmu1iLfrN7jdkYjKTnx) | 3:03 |
 | 29 | [Mysterious Skin](https://open.spotify.com/track/1Z3AEfaPvdLsBk1IdzgKDI) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [Mysterious Skin](https://open.spotify.com/album/1pOEzfMfUEvBg2mjxFQ4Ly) | 3:20 |
 | 30 | [No Breakout](https://open.spotify.com/track/71aDYOdm1wB69ObSLrTzm3) | [Seven Blood](https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr) | [No Breakout](https://open.spotify.com/album/6rA8maZl8sy0IDVOziSp7G) | 3:11 |

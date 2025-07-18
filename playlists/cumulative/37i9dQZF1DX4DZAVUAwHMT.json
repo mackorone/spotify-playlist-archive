@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Deftones",
+  "description": "The UK's biggest rock playlist. Cover: Nine Inch Nails",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "As Alive As You Need Me To Be",
+        "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233562,
+      "name": "As Alive As You Need Me To Be",
+      "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
+    },
+    {
+      "album": {
         "name": "Asleep",
         "url": "https://open.spotify.com/album/2Vflu6dPQKpU7KHo3wAicp"
       },
@@ -1498,6 +1516,24 @@
       "duration_ms": 193198,
       "name": "Asleep",
       "url": "https://open.spotify.com/track/5Wx4OTeGLWb3mMws1VjAms"
+    },
+    {
+      "album": {
+        "name": "At My Funeral",
+        "url": "https://open.spotify.com/album/6a2HlswbGa0B04bHH8plK0"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152346,
+      "name": "At My Funeral",
+      "url": "https://open.spotify.com/track/6nAxsEyZ0vqBD20pxekiM6"
     },
     {
       "album": {
@@ -2456,7 +2492,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 163871,
       "name": "bored. tired. torn.",
       "url": "https://open.spotify.com/track/204TjMh4AG3S9hizWFegYa"
@@ -2622,6 +2658,24 @@
       "duration_ms": 163453,
       "name": "breakdown.",
       "url": "https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz"
+    },
+    {
+      "album": {
+        "name": "Breathe onto me",
+        "url": "https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237592,
+      "name": "Breathe onto me",
+      "url": "https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh"
     },
     {
       "album": {
@@ -3993,6 +4047,24 @@
     },
     {
       "album": {
+        "name": "Dang",
+        "url": "https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202596,
+      "name": "Dang",
+      "url": "https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd"
+    },
+    {
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
       },
@@ -4912,7 +4984,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 141500,
       "name": "face.",
       "url": "https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA"
@@ -6381,6 +6453,24 @@
     },
     {
       "album": {
+        "name": "Godzilla II",
+        "url": "https://open.spotify.com/album/6THgMtbKgQzqvC36PNHKRU"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123920,
+      "name": "Godzilla II",
+      "url": "https://open.spotify.com/track/1dhHHQaCIa1as4xstNgxuU"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B"
       },
@@ -6396,6 +6486,24 @@
       "duration_ms": 170523,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS"
+    },
+    {
+      "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/2pl1uOqfOXcw4tWAYq3klH"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214942,
+      "name": "Goldmine",
+      "url": "https://open.spotify.com/track/7JpyHk0znA1e34QCpjIoB4"
     },
     {
       "album": {
@@ -6428,7 +6536,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 178253,
       "name": "Gone West",
       "url": "https://open.spotify.com/track/6wO0FMzk3BWBBJKSJYFHFf"
@@ -6584,6 +6692,24 @@
       "duration_ms": 265165,
       "name": "Guided Tour",
       "url": "https://open.spotify.com/track/5libQaNWi39sL1255ivVwK"
+    },
+    {
+      "album": {
+        "name": "Guilt Trip",
+        "url": "https://open.spotify.com/album/2G8GjoWQ6B8GFsbpQgkNAk"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190040,
+      "name": "Guilt Trip",
+      "url": "https://open.spotify.com/track/57NzBTMEV8fY1woLsZ6Tkz"
     },
     {
       "album": {
@@ -9755,6 +9881,24 @@
     },
     {
       "album": {
+        "name": "Love's The Worst",
+        "url": "https://open.spotify.com/album/26S3PSq7r4OA47qMo9I4JC"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167197,
+      "name": "Love's The Worst",
+      "url": "https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b"
+    },
+    {
+      "album": {
         "name": "Lovesick Lullaby",
         "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
       },
@@ -11629,6 +11773,24 @@
     },
     {
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/3OofANTV95MpiLS4OXMj3y"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198042,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/2B5ZNovTMGMW50ml95BP7L"
+    },
+    {
+      "album": {
         "name": "Ohio Players",
         "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
@@ -12902,6 +13064,24 @@
       "duration_ms": 142138,
       "name": "Radio Reject",
       "url": "https://open.spotify.com/track/5e2nKdiIRq7bNt8xkhvJhX"
+    },
+    {
+      "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248394,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR"
     },
     {
       "album": {
@@ -14311,6 +14491,24 @@
     },
     {
       "album": {
+        "name": "Small World Syndrome",
+        "url": "https://open.spotify.com/album/5CZ3urtWdgLk6av5TUFwn5"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165923,
+      "name": "Small World Syndrome",
+      "url": "https://open.spotify.com/track/0J8A3Ccs5ghyo8Fa1iKOTv"
+    },
+    {
+      "album": {
         "name": "Smash It Like Belushi",
         "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
       },
@@ -14845,6 +15043,24 @@
     },
     {
       "album": {
+        "name": "Stepper",
+        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196748,
+      "name": "Stepper",
+      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
+    },
+    {
+      "album": {
         "name": "Stereo Games",
         "url": "https://open.spotify.com/album/4c9wfNNq0vlh540itChXrP"
       },
@@ -14968,7 +15184,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 182359,
       "name": "Strange To Be Here",
       "url": "https://open.spotify.com/track/4oRSC5bZm6NIZxbu0qodsB"
@@ -15249,6 +15465,24 @@
     },
     {
       "album": {
+        "name": "Anomaly IV",
+        "url": "https://open.spotify.com/album/34QW18TUfBtQcte51fQKZS"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287324,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/5FJqmD13HjltqMbxtOo5Ul"
+    },
+    {
+      "album": {
         "name": "Swallow This",
         "url": "https://open.spotify.com/album/5Qs7xaSy2n64WKlwe8bA3H"
       },
@@ -15260,7 +15494,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 222797,
       "name": "Swallow This",
       "url": "https://open.spotify.com/track/2E7DeUw137nP81KgHWns9D"
@@ -15332,7 +15566,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 146504,
       "name": "Sword",
       "url": "https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5"
@@ -15992,7 +16226,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 177000,
       "name": "The Milkman",
       "url": "https://open.spotify.com/track/6N5s2LdgDrUNH0y7jfNXg7"
@@ -17260,7 +17494,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 240384,
       "name": "Vigilantes",
       "url": "https://open.spotify.com/track/7DNjlPhZrhOgykB94HjecI"
@@ -17452,6 +17686,24 @@
       "duration_ms": 158175,
       "name": "WARZ0NE",
       "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
+    },
+    {
+      "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/2GRXHiTOhtZ7FB8shj7Ib7"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181681,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/2NKv60FHa0ECL0ISEcOIAS"
     },
     {
       "album": {
@@ -18502,7 +18754,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 189554,
       "name": "YUNG & RICH",
       "url": "https://open.spotify.com/track/5zAnxOpYIkNZw84zzBylJZ"

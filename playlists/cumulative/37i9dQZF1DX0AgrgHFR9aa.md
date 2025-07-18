@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Dinos
+> Les plus belles plumes rap français du moment\. Photo : Dosseh
 
-242 songs - 12 hr 56 min
+245 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [A L'ANCIENNE](https://open.spotify.com/track/2IeGH6fucKR38jILWVamri) | [Tha Manz](https://open.spotify.com/artist/1mcnbOEvat26bMsiFl5OCl) | [CCF](https://open.spotify.com/album/4QSvBcRQmeF0555t5XzoFx) | 2:57 | 2025-05-15 | 2025-06-06 |
 | [A la bien, avec la haine](https://open.spotify.com/track/1VXm7U859FXJI9eRUMKlNN) | [Double Zulu](https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6) | [A la bien, avec la haine](https://open.spotify.com/album/0elHVySe9X5VZCc7jTQ5AS) | 2:26 | 2024-11-14 | 2024-12-20 |
 | [A propos](https://open.spotify.com/track/7mWbONmkFQUJpLzJBp0AOJ) | [Zek](https://open.spotify.com/artist/0ZvXadOwtNaacnVKZVFzLr) | [A propos](https://open.spotify.com/album/5tozyKVQZGr5lPdYDwQksY) | 3:42 | 2024-10-17 | 2024-11-15 |
-| [ADN](https://open.spotify.com/track/7Bo74bTYehggjIuyK8qLSL) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [ADN](https://open.spotify.com/album/3xOvdgz81DihnwDwxu9VNk) | 3:42 | 2025-06-05 |  |
+| [ADN](https://open.spotify.com/track/7Bo74bTYehggjIuyK8qLSL) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [ADN](https://open.spotify.com/album/3xOvdgz81DihnwDwxu9VNk) | 3:42 | 2025-06-05 | 2025-07-18 |
 | [Alain](https://open.spotify.com/track/0ddKHPkFBKA2UqIQu9YMcj) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/1EW4m0Hyks4GIitJfFwBFr) | 3:39 | 2024-06-27 | 2024-09-20 |
 | [Anesthésie](https://open.spotify.com/track/5jfMspyQC74ofGRoJbWidw) | [Tetsuro](https://open.spotify.com/artist/3IwBr3YlABBLg3ZGDSwMVA) | [après l'averse.](https://open.spotify.com/album/763Z9gsho7ieD6c8TX72un) | 2:54 | 2025-02-20 | 2025-03-28 |
 | [Anomalie](https://open.spotify.com/track/7uLmBIDzFOYECWnLvXa6qG) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [Anomalie](https://open.spotify.com/album/1H6RDsIjlGZliLI078xLsd) | 7:17 | 2024-06-27 | 2024-11-08 |
@@ -40,6 +40,7 @@
 | [BLC](https://open.spotify.com/track/0Loh9vCsQQmap79CJKTWqH) | [Souli](https://open.spotify.com/artist/6j2mAzLfu9ZMjd4rwCRjjn) | [BLC](https://open.spotify.com/album/6L2e5qg3kgWu4gVxAQ6S3Z) | 2:12 | 2025-06-19 |  |
 | [BLE$$$](https://open.spotify.com/track/1lprI0YPsf1eiUFGfs8o0v) | [Beeby](https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk) | [LA BOHEME](https://open.spotify.com/album/6iPE5EhqCDwC9ShJusaKmI) | 2:49 | 2025-01-09 | 2025-02-14 |
 | [blouseblanche](https://open.spotify.com/track/1RkmXt2d0kIu3hLAjUHmW8) | [Livaï](https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp) | [blouseblanche](https://open.spotify.com/album/0O9QzquMbh5G63KQwwd8rC) | 3:39 | 2025-01-16 | 2025-02-28 |
+| [Boomshit](https://open.spotify.com/track/1mCF92bUISrWB8MX8gQHnz) | [Kyo Itachi](https://open.spotify.com/artist/5PRPuZbf1ia2JcLdxBxtXB), [Rocca](https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD) | [Original Boomshit : À L'instinct Dans L'instant](https://open.spotify.com/album/0PJW8Qe17L7hSsllsk2B7q) | 3:23 | 2025-07-17 |  |
 | [Booska Héritage \(Braquage Vocal\)](https://open.spotify.com/track/2Q1sxUGJjYVr2seeHR4N3g) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk), [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh) | [Booska Héritage \(Braquage Vocal\)](https://open.spotify.com/album/7Dnu5Na9u9JJ6r2hkFcc2q) | 2:30 | 2025-04-17 | 2025-05-16 |
 | [BORD DE MER](https://open.spotify.com/track/1Txy4dU5fZa0GBkiROmaTz) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7) | [TOUT DROIT](https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF) | 3:00 | 2025-05-15 | 2025-07-11 |
 | [BORDEL](https://open.spotify.com/track/53i4NiZxdvUP4TYCXbXhfn) | [Tha Manz](https://open.spotify.com/artist/1mcnbOEvat26bMsiFl5OCl) | [BORDEL](https://open.spotify.com/album/6IQZDeqjlraSyL1sYy1JKP) | 2:46 | 2025-04-03 | 2025-04-25 |
@@ -72,7 +73,7 @@
 | [Dernière pluie](https://open.spotify.com/track/5gZR7ghoxH3BeXDsTPROrL) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Dernière pluie](https://open.spotify.com/album/6TC90sm22VX4GJL7dEVgR5) | 3:18 | 2025-04-03 | 2025-05-23 |
 | [DIEU EST GRANDE](https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [DIEU EST GRANDE](https://open.spotify.com/album/75akm23oaHhtzextLCN2zz) | 2:56 | 2025-01-09 |  |
 | [dope](https://open.spotify.com/track/1Ig6wDFx745YiTgbgOyRCj) | [Mairo](https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg), [Hopital](https://open.spotify.com/artist/6qbmlh4PmXyY4Tzi2QcGKn) | [dope](https://open.spotify.com/album/4Z0sok37Oqr4Os7jLVfXKM) | 3:48 | 2025-02-13 | 2025-04-11 |
-| [Drôle d'oiseau](https://open.spotify.com/track/6sd1uoUR5kaMT1Tj1qW3VY) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo) | [Drôle d'oiseau](https://open.spotify.com/album/3bIR1ocdxNqa8ukuIxCA4a) | 3:12 | 2025-06-05 |  |
+| [Drôle d'oiseau](https://open.spotify.com/track/6sd1uoUR5kaMT1Tj1qW3VY) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo) | [Drôle d'oiseau](https://open.spotify.com/album/3bIR1ocdxNqa8ukuIxCA4a) | 3:12 | 2025-06-05 | 2025-07-18 |
 | [DRÔLE DE VIE](https://open.spotify.com/track/0qAspbjhCYuCunMLAray5Y) | [Eniah](https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj), [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [PK T TRISTE ?](https://open.spotify.com/album/6K3jf5buHIG3eYIJ1SmlR3) | 2:48 | 2025-05-15 | 2025-06-06 |
 | [DU BANDIT À L'ARTISTE \(PART\. 1\)](https://open.spotify.com/track/3Fyre3w6f19hjycGVng2RK) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [DU BANDIT À L'ARTISTE \(PART\. 1\)](https://open.spotify.com/album/6sQA6PpwUBRmmdfNlH8vYD) | 2:42 | 2025-02-06 | 2025-03-21 |
 | [Dyonysos](https://open.spotify.com/track/5B9gm49biFFkSkNfxfrx2y) | [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Dyonysos](https://open.spotify.com/album/7olzc11baB7DKtJLph5WB2) | 3:05 | 2024-12-12 | 2025-02-21 |
@@ -111,7 +112,7 @@
 | [JAB](https://open.spotify.com/track/1dknZHOMnXtTKio1jmE6Ii) | [Secro Star](https://open.spotify.com/artist/5g7d3qKSYYtn1srNEmRxLN) | [JAB](https://open.spotify.com/album/53pW4InfRJukITKg50QVRC) | 2:13 | 2025-03-13 | 2025-04-04 |
 | [Jack Martin](https://open.spotify.com/track/39V742rhS1269G6atA2J79) | [Martin Gal](https://open.spotify.com/artist/07fDecYuCwczS0zr5RCHje), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Jack Martin](https://open.spotify.com/album/6fuJkCc2NIFheSZ2Rf81XE) | 2:52 | 2025-04-24 | 2025-05-23 |
 | [JAMAIS COMME AVANT](https://open.spotify.com/track/7MtjsERZRUGFXQxn6SE2fs) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [BLACKBIRD](https://open.spotify.com/album/2DMye4603xl0LkWDikn4IQ) | 3:29 | 2024-10-03 | 2025-02-21 |
-| [JOB JAB JOG](https://open.spotify.com/track/5X4h8P1wdAkLgzQzbQWtz2) | [Tisma](https://open.spotify.com/artist/5rLEiw2qUDAWnYCXGvxxPu), [Le chroniqueur sale](https://open.spotify.com/artist/36y3f2GpxgEkUqsym5tpK1) | [JOB JAB JOG](https://open.spotify.com/album/60Vpywo55FdLi0jnzh69fI) | 2:38 | 2025-06-26 |  |
+| [JOB JAB JOG](https://open.spotify.com/track/5X4h8P1wdAkLgzQzbQWtz2) | [Tisma](https://open.spotify.com/artist/5rLEiw2qUDAWnYCXGvxxPu), [Le chroniqueur sale](https://open.spotify.com/artist/36y3f2GpxgEkUqsym5tpK1) | [JOB JAB JOG](https://open.spotify.com/album/60Vpywo55FdLi0jnzh69fI) | 2:38 | 2025-06-26 | 2025-07-18 |
 | [Jubilee Year](https://open.spotify.com/track/37xT591ePNYFZiEuz7Bzu8) | [Tito Prince](https://open.spotify.com/artist/0noD1tUbBty2LsLBQncdU8) | [Jubilee Year](https://open.spotify.com/album/5lka9WpJIbeiJiOQ2kl6ML) | 2:42 | 2024-09-12 | 2024-10-18 |
 | [Kayano](https://open.spotify.com/track/7vcZ68Arxw5xcnWOTRVj6t) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Mode Opératoire, vol\. 1](https://open.spotify.com/album/02JVLf0vhEoGxGmoWZn5lq) | 3:19 | 2024-06-27 | 2024-11-22 |
 | [KURT](https://open.spotify.com/track/5pNDSNpT5UpJG3srUdkBi0) | [Campesino](https://open.spotify.com/artist/6YZvEinSwiLu5iwQSZVqUE) | [KURT](https://open.spotify.com/album/3AtQmx6EqyUeZcyXpc57yv) | 3:26 | 2025-03-20 | 2025-04-18 |
@@ -153,6 +154,7 @@
 | [Libre\-penseur](https://open.spotify.com/track/76r0QoAnrdoeyYWJ1lxYru) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Libre\-penseur](https://open.spotify.com/album/4EtqSIW7iI4jnck9OEMOwZ) | 2:32 | 2025-01-16 | 2025-05-23 |
 | [Loup noir](https://open.spotify.com/track/4ZKVvqYmWN3YDsxSKrfIBp) | [Euphonik](https://open.spotify.com/artist/0uRneTUgP2kyaFBDWmALuW) | [Loup noir](https://open.spotify.com/album/2hpxbLIZn3nzJPw5FaK8Uz) | 2:42 | 2025-04-24 | 2025-06-13 |
 | [LOYAL](https://open.spotify.com/track/5l9LW7OIwaNsptOOc1KbeR) | [Pit Baccardi](https://open.spotify.com/artist/5Gf71JW8QjF77ELQ94JX38) | [LOYAL](https://open.spotify.com/album/7ljqJZLeyUk15vdzkIK8Bh) | 2:50 | 2024-12-19 | 2025-01-10 |
+| [Luca Brasi](https://open.spotify.com/track/3nZZ0w526JBdbiwHsDh9W3) | [2mezur](https://open.spotify.com/artist/3qu9vnUrmiUMI9hHRYPq8K), [Willy Bank](https://open.spotify.com/artist/2mzkRKsVL19d9dgspnS3gr) | [Luca Brasi](https://open.spotify.com/album/32UzixnOLc19HUQ1w5swHh) | 2:40 | 2025-07-17 |  |
 | [LUEUR D'ESPOIR](https://open.spotify.com/track/1CCsdrc8QT6kFzm0LggO2l) | [C.O.R](https://open.spotify.com/artist/6COtnkYhmRVdsDXhSGYtBO) | [LUEUR D'ESPOIR](https://open.spotify.com/album/38mkXQseJ2zu9M2qn7Lezc) | 1:16 | 2025-05-01 | 2025-05-23 |
 | [Madame](https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9) | [IZAID](https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab) | [Madame](https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j) | 2:27 | 2024-06-27 | 2024-12-20 |
 | [MALADE](https://open.spotify.com/track/4eoDItFrXkDOF1t98XKqUN) | [BENDE](https://open.spotify.com/artist/6Y33uL0LaEvZjAsHkVGxLS) | [MALADE](https://open.spotify.com/album/2fTBXx3cEXzk7PvBn9yIlg) | 2:37 | 2025-05-22 | 2025-06-20 |
@@ -213,6 +215,7 @@
 | [Ruban](https://open.spotify.com/track/3vwQ6xRSMX9dvolbVVRWu8) | [Brass](https://open.spotify.com/artist/6KXzXCAytbihhQEBybFTkB) | [Ruban](https://open.spotify.com/album/4tN1RBmfkMYqhCP1F8j9cN) | 2:55 | 2025-04-03 | 2025-04-25 |
 | [RUBIS](https://open.spotify.com/track/0VA5yP6vM863LUYxtp5JcG) | [OCHO DEVILS](https://open.spotify.com/artist/0uxNJJOuuzhuk6qjvCX86u) | [RUBIS](https://open.spotify.com/album/3jB0uq2CizhJ4iGhOLPUPU) | 2:19 | 2025-03-27 | 2025-04-18 |
 | [Répondez\-moi 2024 / Humain](https://open.spotify.com/track/5BphWiCC0CWGbLXtygIqXT) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA) | [Abysses & Ivresse des profondeurs](https://open.spotify.com/album/01jWZbg74Ckcr7I0u1xwtU) | 8:17 | 2024-09-12 | 2024-11-15 |
+| [SANS MENTIR](https://open.spotify.com/track/4xaYehmInIFzs5oubXTVPQ) | [BENDE](https://open.spotify.com/artist/6Y33uL0LaEvZjAsHkVGxLS) | [SANS MENTIR](https://open.spotify.com/album/6Q052mhJvX0qiDNso4FCYt) | 2:41 | 2025-07-17 |  |
 | [Si tu savais](https://open.spotify.com/track/18vqG7GOyoUIVE9LBbvrh1) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [Si tu savais](https://open.spotify.com/album/1xlQ3BxNYhjlMn15MVhPmt) | 2:49 | 2024-11-14 | 2025-01-17 |
 | [Soledad](https://open.spotify.com/track/0bqx9kMHW5SSy4RmNuBCvN) | [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [NIRVANA](https://open.spotify.com/album/5p583Gi2HJlcjJDQ7R2Tox) | 2:52 | 2025-05-22 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/3aw29e8x0bbYTKqzAHa68p) | [Heskis](https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U) | [Sorry Not Sorry](https://open.spotify.com/album/43pB6joC6nQjEHUwBV0aNL) | 2:05 | 2025-01-16 | 2025-02-21 |

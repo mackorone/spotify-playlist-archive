@@ -3322,7 +3322,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 216207,
       "name": "ChaO!",
       "url": "https://open.spotify.com/track/3KmgpETY3e5w8q0pz1oxFY"
@@ -9625,6 +9625,24 @@
     },
     {
       "album": {
+        "name": "Kamidanomi",
+        "url": "https://open.spotify.com/album/2TjuVsLDn5UJThFZv86S5u"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227366,
+      "name": "Kamidanomi",
+      "url": "https://open.spotify.com/track/5KIIuDnV38MvQET0HjhCcN"
+    },
+    {
+      "album": {
         "name": "KAMIGAMI-\u795e\u565b- (TV edit)",
         "url": "https://open.spotify.com/album/6Met7PlW4vHDLB8lNqBvVf"
       },
@@ -12400,7 +12418,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 179073,
       "name": "Monster Island",
       "url": "https://open.spotify.com/track/5z1kRSW3PM7f94ZND0gdbz"
@@ -14354,7 +14372,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 232375,
       "name": "P0WER-\u60aa\u970a\u9000\u6563-",
       "url": "https://open.spotify.com/track/7GDHNLLONKKpf6K9Ej68Ku"
@@ -15552,6 +15570,28 @@
       "duration_ms": 91146,
       "name": "recall - Anime version -",
       "url": "https://open.spotify.com/track/1dO38CsQliftngGVX2NwI2"
+    },
+    {
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/4dYMkjviJIIVnrhIXYtHix"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        },
+        {
+          "name": "Adee A.",
+          "url": "https://open.spotify.com/artist/3O9DIzF5U9WkV0FzoTu2Nr"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187625,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/2xMPEzxoG8tXDnOKewVfjx"
     },
     {
       "album": {
@@ -21283,6 +21323,24 @@
     },
     {
       "album": {
+        "name": "What is justice?",
+        "url": "https://open.spotify.com/album/59OiELsvwPvlLpay3seSNP"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202745,
+      "name": "What is justice?",
+      "url": "https://open.spotify.com/track/4vAggQmX4qEfH61xaS8d3u"
+    },
+    {
+      "album": {
         "name": "What is my LIFE?",
         "url": "https://open.spotify.com/album/7eYqQFLfUorvGCEPrCxwXl"
       },
@@ -22064,6 +22122,24 @@
       "duration_ms": 222978,
       "name": "You Are My World",
       "url": "https://open.spotify.com/track/1ZNwBBKUCDt9yTYfjAardm"
+    },
+    {
+      "album": {
+        "name": "You Can\u2019t Run From Yourself (From \"Kaiju No. 8\")",
+        "url": "https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136720,
+      "name": "You Can\u2019t Run From Yourself (From \"Kaiju No. 8\")",
+      "url": "https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV"
     },
     {
       "album": {
@@ -23112,6 +23188,24 @@
       "duration_ms": 212866,
       "name": "\u304b\u305f\u3061",
       "url": "https://open.spotify.com/track/70sWTc5SHGVpbV0K56LMC6"
+    },
+    {
+      "album": {
+        "name": "\u304b\u308b\u30ac\u30ebEveryday!!",
+        "url": "https://open.spotify.com/album/75MYeX009enXEyIK8rFFjw"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162399,
+      "name": "\u304b\u308b\u30ac\u30ebEveryday!!",
+      "url": "https://open.spotify.com/track/1EQP2YR8wYmdPV8xGQPT0e"
     },
     {
       "album": {
@@ -38032,7 +38126,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 187107,
       "name": "\u8584\u91c7\u30c7\u30a3\u30b9\u30d7\u30ec\u30a4",
       "url": "https://open.spotify.com/track/5JwzDohzOAaz4ybdjc7p2Z"
@@ -39232,7 +39326,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 92789,
       "name": "\u9752\u6625\u6c38\u9060 - TV Size Edit",
       "url": "https://open.spotify.com/track/3XkgvntDEDgIYmgeIwIYQn"

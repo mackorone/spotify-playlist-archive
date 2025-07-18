@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "as fate undoes",
+        "url": "https://open.spotify.com/album/0ItS572mokRcdscHNWKxjT"
+      },
+      "artists": [
+        {
+          "name": "Tallah",
+          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229462,
+      "name": "as fate undoes",
+      "url": "https://open.spotify.com/track/2FStd7vyOGEECVwV2oXUjr"
+    },
+    {
+      "album": {
         "name": "augmented",
         "url": "https://open.spotify.com/album/4lsdBjdxe192HtGw93Je4p"
       },
@@ -2936,7 +2954,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 202909,
       "name": "new way out",
       "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"

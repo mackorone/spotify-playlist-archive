@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-315 songs - 17 hr 52 min
+317 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [JINGO JUNGLE](https://open.spotify.com/track/1unlscICXb88LMbFxlMlWy) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID ベストアルバム「MUSEUM\-THE BEST OF MYTH & ROID\-」](https://open.spotify.com/album/3VBaCgrD7i77Y0P3wiOol1) | 3:49 | 2023-03-28 |  |
 | [just saying, the body is honest.](https://open.spotify.com/track/4z1O8W35JfmFjPlD9KYvid) | [shikiura sougo](https://open.spotify.com/artist/36VxME9IxYM3mGnnNCkHrQ) | [just saying, the body is honest.](https://open.spotify.com/album/7grI8AGOeBtLLcmSPFHqvp) | 2:23 | 2025-05-20 |  |
 | [Karma](https://open.spotify.com/track/2s0UNcumDtAj7rKPZ4zjeO) | [달의하루](https://open.spotify.com/artist/6qAno6xjJxkwEdWMNFCUap) | [Karma](https://open.spotify.com/album/21roL9Zk29chd89R6G70lL) | 4:31 | 2024-01-22 |  |
+| [KARMA \(VIVINOS \- ALNST Original Soundtrack Part.10\)](https://open.spotify.com/track/54YECaZMpGfvWWaWH3UtQ8) | [Rubyeye](https://open.spotify.com/artist/5mFBPisqWsuM2DaNRRKMNo), [C!naH](https://open.spotify.com/artist/0vA45SriohIjcLXbwPhF2p) | [KARMA \(VIVINOS \- ALNST Original Soundtrack Part.10\)](https://open.spotify.com/album/6bLgRTjG8EttXtntAEupjE) | 5:36 | 2025-07-18 |  |
 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 | 2023-12-03 |  |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-11-02 |  |
 | [killer\-tune](https://open.spotify.com/track/7aFxDKk3jUfimCNX9mF36l) | [Lady Mellow.](https://open.spotify.com/artist/55qCSOkDiqf4njLqj0JSiD) | [Smoking hot](https://open.spotify.com/album/3YyoL3YnNQKkLAafWkzDix) | 3:12 | 2025-05-27 |  |
@@ -155,6 +156,7 @@
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2021-08-26 |  |
 | [Rose Bud \- I.into the sorrow\-](https://open.spotify.com/track/4QxOlvV3Ruknxk79I7ICWQ) | [Eternal Melody](https://open.spotify.com/artist/5ulQKViMBrchooNvekS86B) | [ALUCARD](https://open.spotify.com/album/6o2LIz8u5xzKTcKbek1NbG) | 5:26 | 2024-06-08 |  |
 | [Rose Bud \- II.into the fear of desire\-](https://open.spotify.com/track/3agtdTPUPdTSkZel6TmwYO) | [Eternal Melody](https://open.spotify.com/artist/5ulQKViMBrchooNvekS86B) | [ALUCARD](https://open.spotify.com/album/6o2LIz8u5xzKTcKbek1NbG) | 6:51 | 2024-06-08 |  |
+| [Ruler of My Heart \(VIVINOS \- ALNST Original Soundtrack Part.5\)](https://open.spotify.com/track/5o2rYExTsDD5Xj2WlBU3Ik) | [BL8M](https://open.spotify.com/artist/3oOA09qR93zgp61ALkHIJJ), [Rubyeye](https://open.spotify.com/artist/5mFBPisqWsuM2DaNRRKMNo) | [Ruler of My Heart \(VIVINOS \- ALNST Original Soundtrack Part.5\)](https://open.spotify.com/album/0opXkLZ0oI4EO75k7CNHPx) | 3:38 | 2025-07-18 |  |
 | [S.A.D.](https://open.spotify.com/track/4OQmtaiFOKGOgkaw9urJ0B) | [nihosika](https://open.spotify.com/artist/7fUfK1XiSvJAVxIuqhjzL4) | [S.A.D.](https://open.spotify.com/album/2kL33iFtvDOCGOQB8wAUtk) | 3:13 | 2024-07-01 |  |
 | [Scorched Cranberries](https://open.spotify.com/track/7CFsEDBswHlZlC0tv6OJdd) | [Leon Riskin](https://open.spotify.com/artist/3sESZxzkq5C0PEceARiS4v) | [Five Nights at Freddy's: Help Wanted 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/3Kpo1RHEdCHh9Fn8jbQUgA) | 1:37 | 2024-04-22 |  |
 | [Shake It Now.](https://open.spotify.com/track/5PQt3xVYvS9kE2N7r8eHxW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [rendez\-vous](https://open.spotify.com/album/3Oks0VL5KDShvcuNS4LSSJ) | 3:16 | 2023-11-27 |  |

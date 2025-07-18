@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbf7DmN0ck.md) - [plain]
 
 > While waiting for the open recruitment of global veiled musicians, enjoy the music of the best vocalists in Korea! \(글로벌 베일드 뮤지션의 공개 모집을 기다리며 국내 최정상 보컬들의 음악을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,957 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,964 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

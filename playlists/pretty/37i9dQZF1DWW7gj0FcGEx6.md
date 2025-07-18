@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,951 likes - 187 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,013 likes - 187 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 11 | [Across the Bridge](https://open.spotify.com/track/75RshNisiUA6quyNu9G0tY) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4WkhodkTjq3C3p9CFGUzrq) | 3:49 |
 | 12 | [Titles \- Hot Milk](https://open.spotify.com/track/5pHOVsjrhdelxobnXEExkQ) | [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Hot Milk \(Original Soundtrack Album\)](https://open.spotify.com/album/4dWr8vujzCgyBD15OFnHuh) | 0:47 |
 | 13 | [Shaping My Movements](https://open.spotify.com/track/1JsbNeSSusRGynH0TScxIs) | [Roger Goula](https://open.spotify.com/artist/582fGXk0UFFLexo6wQ8jAy), [Sam Thompson](https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV) | [Shark Whisperer \(Soundtrack from the Netflix Documentary\)](https://open.spotify.com/album/49AFjJ5ogd3R2NMoNvGSQs) | 3:11 |
-| 14 | [Sorry Baby \- Piano](https://open.spotify.com/track/5njMk86FUZOPPIFy2urvuN) | [Lia Ouyang Rusli](https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto) | [Sorry, Baby \(Original Soundtrack\)](https://open.spotify.com/album/3cOi2taNKDpJEKf8jSNdTo) | 2:37 |
+| 14 | [Sorry, Baby \- Piano](https://open.spotify.com/track/5njMk86FUZOPPIFy2urvuN) | [Lia Ouyang Rusli](https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto) | [Sorry, Baby \(Original Soundtrack\)](https://open.spotify.com/album/3cOi2taNKDpJEKf8jSNdTo) | 2:37 |
 | 15 | [New Planet](https://open.spotify.com/track/7xlhiGrlx6Rl174u6oDEoa) | [Mikolai Stroinski](https://open.spotify.com/artist/6lGCmXtqSxze8o2KEfYD6D), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Diplodocus: The Green Dinosaur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TUTvSqlH9J4mT6ujyLjaT) | 1:24 |
 | 16 | [M3gan 2.0](https://open.spotify.com/track/13hsy8OpS8Or2fjiq4JsXX) | [Chris Bacon](https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO) | [M3GAN 2.0 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Am6FG1X8kaAsmB2ptZDMK) | 1:01 |
 | 17 | [Ironheart \(Riri's Theme\) \- From "Marvel's Ironheart"](https://open.spotify.com/track/1HyzgWZRW17hyzwpluQ0fK) | [Dara Taylor](https://open.spotify.com/artist/6DXeA5nK5RwxNAs8a3nHLG) | [Ironheart \(Riri's Theme\) \[From "Marvel's Ironheart"\]](https://open.spotify.com/album/3cTqynScPj6Ip36E0YFs4S) | 2:17 |

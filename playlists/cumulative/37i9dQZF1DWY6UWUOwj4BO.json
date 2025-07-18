@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Gold (Acoustic)",
+        "url": "https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169165,
+      "name": "Gold - Acoustic",
+      "url": "https://open.spotify.com/track/2RpMIPx8SPeO5kAMdrHNak"
+    },
+    {
+      "album": {
         "name": "Gold (Acoustic Version)",
         "url": "https://open.spotify.com/album/1sSiCaSrHOKFRUhrBOjsFi"
       },

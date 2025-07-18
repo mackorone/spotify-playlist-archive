@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,264 songs - 5 day 7 hr 58 min
+2,265 songs - 5 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Bless You](https://open.spotify.com/track/4Rx0E8hq8alJX2GHMDsFsL) | [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Bless You](https://open.spotify.com/album/2UqdKf4DrITDur0k5I4lrC) | 3:26 | 2023-04-07 | 2023-04-15 |
 | [Bling Bling](https://open.spotify.com/track/28A80M5fuAmM45KhIhkfSb) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Bling Bling](https://open.spotify.com/album/6jEOSx9MvT9fsgmNluB0Tm) | 2:04 | 2024-04-05 | 2024-05-21 |
 | [Blingin' \- Radio Edit](https://open.spotify.com/track/7MkNyti9mnOv9BJ2Z2u1r3) | [Dujak](https://open.spotify.com/artist/5vNeqphZZDB8susU5xA8mP) | [Blingin'](https://open.spotify.com/album/0FZfOlRaVV3KU1WmzUc4Ya) | 3:34 | 2023-12-22 | 2024-01-28 |
+| [Blink](https://open.spotify.com/track/4VkKITpuA7aiGtMWst0hk4) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Blink](https://open.spotify.com/album/3K0ZUAJYic8PxlQcyoxqi2) | 2:49 | 2025-07-17 |  |
 | [Blow Ya Mind](https://open.spotify.com/track/4Ol5z3QmoftM6vw9tZYFZJ) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Blow Ya Mind](https://open.spotify.com/album/0zd9B7ARIBCbm18eZVBB49) | 4:59 | 2024-07-12 | 2024-08-03 |
 | [Blow Your Brain Cell](https://open.spotify.com/track/4TNA9DSYCY3Dx5g9s2YgcW) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Blow Your Brain Cell](https://open.spotify.com/album/4sO65jv0pGFWTfLhRKiuq2) | 3:27 | 2025-04-04 | 2025-05-03 |
 | [Blue Monday](https://open.spotify.com/track/1RMhO8CQw025Jppf3yULwh) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Blue Monday](https://open.spotify.com/album/6F0NbhJKw2adEJlUbJPQWX) | 3:00 | 2025-07-11 |  |

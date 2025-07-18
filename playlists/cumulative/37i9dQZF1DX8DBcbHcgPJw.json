@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Amor Sincero",
+        "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
+      },
+      "artists": [
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187956,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
+    },
+    {
+      "album": {
         "name": "Amores como el nuestro RMX",
         "url": "https://open.spotify.com/album/54wZkOmwiH94rhgf3kfTfl"
       },
@@ -6228,7 +6246,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 209009,
       "name": "Locura Sin Techo - Remix",
       "url": "https://open.spotify.com/track/4Q2STXSjuRAE17aCIhGfHu"
@@ -10767,6 +10785,24 @@
     },
     {
       "album": {
+        "name": "Si Te Vuelvo a Llamar",
+        "url": "https://open.spotify.com/album/5Yv7F7ivWnR8Xxryuv1bHG"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159396,
+      "name": "Si Te Vuelvo a Llamar",
+      "url": "https://open.spotify.com/track/70B2wI5RkccQVGhq0PEJQi"
+    },
+    {
+      "album": {
         "name": "Si Te Vuelvo a Ver",
         "url": "https://open.spotify.com/album/5QkeaHYbkt3PcyvCiPzu3o"
       },
@@ -12080,7 +12116,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 205613,
       "name": "Tomate el Palo (feat. Leo Garc\u00eda)",
       "url": "https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b"

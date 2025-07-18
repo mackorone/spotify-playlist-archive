@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Sipho Magudulela",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Kabza De Small",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -34425,6 +34425,32 @@
     },
     {
       "album": {
+        "name": "Bab'Motha",
+        "url": "https://open.spotify.com/album/5hdEZLjn0k8hM6KztDzIs1"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390796,
+      "name": "Ukuthula (feat. Mawhoo & Young Stunna)",
+      "url": "https://open.spotify.com/track/59H4vdclBOwtzyHmVTuEjc"
+    },
+    {
+      "album": {
         "name": "Ukwenzeka",
         "url": "https://open.spotify.com/album/0iVP2yRWq223gJVzsWqTO0"
       },
@@ -38808,7 +38834,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-18",
       "duration_ms": 369815,
       "name": "Zase England",
       "url": "https://open.spotify.com/track/7of6lpTmDwVshVQ7kcQxYo"
