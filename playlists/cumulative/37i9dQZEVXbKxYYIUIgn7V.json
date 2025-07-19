@@ -226,7 +226,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 209515,
       "name": "1-800",
       "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
@@ -9936,7 +9936,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 197381,
       "name": "Drift Beyond the Flame",
       "url": "https://open.spotify.com/track/6dE8ijhkwjZDxZcjgTbgYi"
@@ -13648,7 +13648,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 126933,
       "name": "GET NAKED",
       "url": "https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ"
@@ -17950,7 +17950,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
@@ -32567,6 +32567,28 @@
     },
     {
       "album": {
+        "name": "Soleil Bleu",
+        "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
+      },
+      "artists": [
+        {
+          "name": "Bleu Soleil",
+          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
+        },
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Soleil Bleu",
+      "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
+    },
+    {
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -33198,6 +33220,24 @@
       "duration_ms": 209835,
       "name": "Static",
       "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
+    },
+    {
+      "album": {
+        "name": "stay",
+        "url": "https://open.spotify.com/album/6gROqlekZN4pD7DmuJeoJT"
+      },
+      "artists": [
+        {
+          "name": "Aden Lou",
+          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185942,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/56PS9rUrkwa1TYG6l1Vb0v"
     },
     {
       "album": {
@@ -34138,7 +34178,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-17",
+      "date_removed": null,
       "duration_ms": 225211,
       "name": "Survive",
       "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
@@ -34218,7 +34258,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 137769,
       "name": "Synergie",
       "url": "https://open.spotify.com/track/6i8LPLAgvlsJVmqSNr0TXu"
@@ -40408,7 +40448,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 155040,
       "name": "Young Black & Rich",
       "url": "https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso"
@@ -40426,7 +40466,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 155062,
       "name": "Young Black & Rich",
       "url": "https://open.spotify.com/track/2o5yF4bBAgbeCDSsY5Rrnx"

@@ -2541,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/1WhbMi2QmuyL7phaa3DTcL"
+      },
+      "artists": [
+        {
+          "name": "tonin",
+          "url": "https://open.spotify.com/artist/6vh92pGd0glJjM8j9xgQZG"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235454,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/1ujbFpWro9LW6OprUiX8zr"
+    },
+    {
+      "album": {
         "name": "Gal\u00e1pagos (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/6MEySYP7MoW6HTEL0fkXwF"
       },
@@ -4634,7 +4652,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 160695,
       "name": "Resonatic",
       "url": "https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj"
@@ -5282,7 +5300,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 189600,
       "name": "Solicitude",
       "url": "https://open.spotify.com/track/3RlM2UQzdojpM6BzCyY37v"
@@ -5984,7 +6002,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 184000,
       "name": "Transcendence EMDR",
       "url": "https://open.spotify.com/track/5g81eo7gUrc0exnDOhnoQJ"

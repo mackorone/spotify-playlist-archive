@@ -918,7 +918,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 204388,
       "name": "Alchemical",
       "url": "https://open.spotify.com/track/6VbWEo0DX1ZrRFBLUBYVxu"
@@ -3998,7 +3998,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 157241,
       "name": "CBRTRK",
       "url": "https://open.spotify.com/track/3DWOvMcZ6llI3IsaRib8kL"
@@ -4428,7 +4428,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 223350,
       "name": "Cold Comfort",
       "url": "https://open.spotify.com/track/1H5QpFkKNlezDvfISRbY9e"
@@ -7179,6 +7179,24 @@
     },
     {
       "album": {
+        "name": "Echo Sonata",
+        "url": "https://open.spotify.com/album/7y9cbRKISAjs0Rdgnh4EoU"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268027,
+      "name": "Echo Sonata",
+      "url": "https://open.spotify.com/track/4yOc2McIhLZBZ1hHgASxHl"
+    },
+    {
+      "album": {
         "name": "From The New World",
         "url": "https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC"
       },
@@ -8556,7 +8574,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 245979,
       "name": "Forever Aligned",
       "url": "https://open.spotify.com/track/4Aw6jQX2IEsVBEUbuFEygx"
@@ -9217,6 +9235,24 @@
     },
     {
       "album": {
+        "name": "Give Me A Show",
+        "url": "https://open.spotify.com/album/4fWzo6lZQ8QXO4SbdkVKSE"
+      },
+      "artists": [
+        {
+          "name": "Holywatr",
+          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285384,
+      "name": "Give Me A Show",
+      "url": "https://open.spotify.com/track/23YRAhmu6XEahPahM7EJvh"
+    },
+    {
+      "album": {
         "name": "Give Up The Ghost",
         "url": "https://open.spotify.com/album/4iv9PO9UCHeO7ciQ2wpQFQ"
       },
@@ -9666,6 +9702,24 @@
       "duration_ms": 242608,
       "name": "H.A.T.E.",
       "url": "https://open.spotify.com/track/2U0lKWBmv721fcs1cfWW65"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/2MYRTNNu4oHVf6fx87Gm3S"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253230,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3KA0M8SYVjkMZhTwnbqUqK"
     },
     {
       "album": {
@@ -10865,6 +10919,28 @@
     },
     {
       "album": {
+        "name": "GRIZZLY",
+        "url": "https://open.spotify.com/album/6RIsDIL38i8Z0ftmRChVf2"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        },
+        {
+          "name": "Ronnie Radke",
+          "url": "https://open.spotify.com/artist/6fZEAUcjlTdVh66xQodmth"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229982,
+      "name": "Imdead",
+      "url": "https://open.spotify.com/track/26aLMyO5qLNTHCHqioC3bn"
+    },
+    {
+      "album": {
         "name": "Immolation of Night",
         "url": "https://open.spotify.com/album/0DumP1DzkNR7b0uIASVDcy"
       },
@@ -11434,6 +11510,24 @@
       "duration_ms": 204076,
       "name": "It Consumes Me",
       "url": "https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l"
+    },
+    {
+      "album": {
+        "name": "It Only Gets Darker",
+        "url": "https://open.spotify.com/album/0Lb1q2XEatoB4ZKP8FtjQo"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271349,
+      "name": "It Only Gets Darker",
+      "url": "https://open.spotify.com/track/1VRspIpapVgCmA3WwLbCd4"
     },
     {
       "album": {
@@ -17308,7 +17402,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 166826,
       "name": "Sacred Place",
       "url": "https://open.spotify.com/track/4vh60PeSeou1Se94jFW6jn"
@@ -20976,7 +21070,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 275000,
       "name": "The Show Must Go On Prt. 3",
       "url": "https://open.spotify.com/track/47I4XKD2lCSlRpARfyjASg"
@@ -23594,6 +23688,28 @@
       "duration_ms": 154000,
       "name": "Without End",
       "url": "https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh"
+    },
+    {
+      "album": {
+        "name": "Witness The End",
+        "url": "https://open.spotify.com/album/2a5Btl1VIyyCunyQ9aGzXk"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        },
+        {
+          "name": "Chris Motionless",
+          "url": "https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248266,
+      "name": "Witness The End",
+      "url": "https://open.spotify.com/track/6nUskXqES0NwMOzgdZf8u7"
     },
     {
       "album": {

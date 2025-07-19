@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. On cover: Yanaco",
+  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. On cover: Passepartout Duo",
   "name": "New Ambient",
   "tracks": [
     {
@@ -990,7 +990,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 160531,
       "name": "A Shaky Camera at the Edge of the World",
       "url": "https://open.spotify.com/track/5hlyPJN5HeqQkit7QuEzww"
@@ -2066,6 +2066,24 @@
       "duration_ms": 405573,
       "name": "Angle of List",
       "url": "https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf"
+    },
+    {
+      "album": {
+        "name": "Anima Rhythm",
+        "url": "https://open.spotify.com/album/5m2qbK3VUSi04WrzcK31Zl"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243166,
+      "name": "Anima Rhythm",
+      "url": "https://open.spotify.com/track/5b5DGtxW15LzR3TyK3799Q"
     },
     {
       "album": {
@@ -4814,7 +4832,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 211320,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/3WdPwK49grEfkW5cw9C3Lo"
@@ -6103,6 +6121,32 @@
     },
     {
       "album": {
+        "name": "Song Of The Earth - Instrumentals",
+        "url": "https://open.spotify.com/album/7dLUmkjcnmcIwpawoLZ0Ct"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "name": "David Longstreth",
+          "url": "https://open.spotify.com/artist/33HF8cjroL5KzkThWR689t"
+        },
+        {
+          "name": "stargaze",
+          "url": "https://open.spotify.com/artist/6ArmVuGn8UtsupvhL3suRy"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134206,
+      "name": "Dancing on our Eyelids - Instrumental",
+      "url": "https://open.spotify.com/track/3xcsWE5mnClJMmMBgzg6xl"
+    },
+    {
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/4Kx4oRfwzoiAeTeUF3XR5K"
       },
@@ -6712,7 +6756,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 173373,
       "name": "Disquiet",
       "url": "https://open.spotify.com/track/6f4XfDJKURItN4WLR2rCTq"
@@ -8005,6 +8049,24 @@
     },
     {
       "album": {
+        "name": "ennemi des images",
+        "url": "https://open.spotify.com/album/5ywuspd4aSYAOZePMAHohc"
+      },
+      "artists": [
+        {
+          "name": "Passa Tempo",
+          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311250,
+      "name": "ennemi des images (admise dans mon pass\u00e9 seulement depuis cette nuit \u00e0 la montagne)",
+      "url": "https://open.spotify.com/track/6HbPetaNdFuBfgkrZiUbik"
+    },
+    {
+      "album": {
         "name": "Entrance",
         "url": "https://open.spotify.com/album/4c0B46pCSc9p0j2vJE254Q"
       },
@@ -8150,7 +8212,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 184000,
       "name": "Erratum - Flora Yin-Wong Remix",
       "url": "https://open.spotify.com/track/0PZ1KaJkMYmOMAR4cK7GFu"
@@ -9076,7 +9138,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 408464,
       "name": "find yourself in a hole on the beach",
       "url": "https://open.spotify.com/track/45zR8qkw5JuoGNFEqYRezo"
@@ -9401,6 +9463,24 @@
     },
     {
       "album": {
+        "name": "Flying Above Us (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/35ZoXLiAV4hMQRA79QlKaK"
+      },
+      "artists": [
+        {
+          "name": "Michael Geldreich",
+          "url": "https://open.spotify.com/artist/2Dbx5vNlo36djsBBQ9dIeG"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145148,
+      "name": "Flying Above Us - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/7nJt0E2H9wvSYzUtn4rJ6A"
+    },
+    {
+      "album": {
         "name": "Out of Town, Vol. 3",
         "url": "https://open.spotify.com/album/53bmYiZ9UByRK7kAYbrgC3"
       },
@@ -9582,7 +9662,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 230173,
       "name": "For One Another",
       "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
@@ -9618,7 +9698,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 131341,
       "name": "Forest Hymn #1",
       "url": "https://open.spotify.com/track/00T435VX3AXgBleb59jOGU"
@@ -9930,6 +10010,24 @@
       "duration_ms": 316022,
       "name": "From Taipei",
       "url": "https://open.spotify.com/track/55z98JmhoaxURPNAZescyt"
+    },
+    {
+      "album": {
+        "name": "From Tbilisi",
+        "url": "https://open.spotify.com/album/33Yjkz3VJGZTcRZkzQs4rj"
+      },
+      "artists": [
+        {
+          "name": "Passepartout Duo",
+          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231715,
+      "name": "From Tbilisi",
+      "url": "https://open.spotify.com/track/6AlRNw78ZzZqwQUYBk8cXY"
     },
     {
       "album": {
@@ -11000,7 +11098,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 236786,
       "name": "Harmonious Living",
       "url": "https://open.spotify.com/track/4sUXw3kDhEPtIZt8zTGuDA"
@@ -11148,7 +11246,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 164386,
       "name": "Heaven in Time",
       "url": "https://open.spotify.com/track/6XNxEFDlgG6MVfay6uGf9d"
@@ -11308,6 +11406,24 @@
       "duration_ms": 593546,
       "name": "Holding Light",
       "url": "https://open.spotify.com/track/4UMkyZTPkmsSOHzI3msBOo"
+    },
+    {
+      "album": {
+        "name": "become the sky",
+        "url": "https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183192,
+      "name": "Holding Moments",
+      "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
     },
     {
       "album": {
@@ -11488,7 +11604,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 263634,
       "name": "how can i help?",
       "url": "https://open.spotify.com/track/2WH6eSKYEjlJeT9O4KObul"
@@ -12368,7 +12484,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 334113,
       "name": "In The Stillness Of Time And Space, Truth And Love Still Reside",
       "url": "https://open.spotify.com/track/6xyJA4S2kXq3yMubZt84M7"
@@ -12390,6 +12506,32 @@
       "duration_ms": 295920,
       "name": "Inclusion",
       "url": "https://open.spotify.com/track/3rLe832ZEZfpBmkgXGSrtX"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3ql3gWaCR33GiHeRprr5FU"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        },
+        {
+          "name": "Harbors",
+          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216368,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/2H0he8On7FJlaw9WVbDVG9"
     },
     {
       "album": {
@@ -13893,6 +14035,24 @@
     },
     {
       "album": {
+        "name": "Like Silver (Nangkartshang)",
+        "url": "https://open.spotify.com/album/1siJaEd23LpOMQVbPE8jIr"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173024,
+      "name": "Like Silver (Nangkartshang)",
+      "url": "https://open.spotify.com/track/2ZnrZMmHfQSkK2fOctcIbo"
+    },
+    {
+      "album": {
         "name": "Postcards for the Backyard, Pt. 1",
         "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
       },
@@ -14812,7 +14972,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 201457,
       "name": "Makes Me Want You",
       "url": "https://open.spotify.com/track/0O43NCt1jVsTfyuOQQN5LW"
@@ -14998,7 +15158,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 188500,
       "name": "Mare Notte",
       "url": "https://open.spotify.com/track/6P0yw1ZZirdcmcULW3jfis"
@@ -15536,7 +15696,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 139874,
       "name": "Model Home Magic Moment",
       "url": "https://open.spotify.com/track/678dGSoSMwzHQslHjHGv3e"
@@ -16744,6 +16904,24 @@
       "duration_ms": 193937,
       "name": "Night Sky",
       "url": "https://open.spotify.com/track/6JQNc3kdDUTuSN4QpN9llS"
+    },
+    {
+      "album": {
+        "name": "NIGHTS LIKE THIS PT 2 (Ambient Demo Version)",
+        "url": "https://open.spotify.com/album/249qxc1yGioRrnhSZJpD6v"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213416,
+      "name": "NIGHTS LIKE THIS PT 2 (Ambient Demo Version)",
+      "url": "https://open.spotify.com/track/0r2CKH0iwo4O2FaVX4RxqJ"
     },
     {
       "album": {
@@ -17996,7 +18174,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 327104,
       "name": "Our Relativity",
       "url": "https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv"
@@ -18559,6 +18737,24 @@
     },
     {
       "album": {
+        "name": "passage",
+        "url": "https://open.spotify.com/album/5kb2a4O8Tb3wogojDkodvz"
+      },
+      "artists": [
+        {
+          "name": "BARTH.",
+          "url": "https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "passage",
+      "url": "https://open.spotify.com/track/1G7xGPJhuaQkdU8QRTVQ19"
+    },
+    {
+      "album": {
         "name": "Tramuntana Tapes I",
         "url": "https://open.spotify.com/album/4x0Ctds3wypaoiUsfG6SSh"
       },
@@ -18716,7 +18912,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 305872,
       "name": "Pathos",
       "url": "https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY"
@@ -22342,7 +22538,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 318000,
       "name": "Smoked",
       "url": "https://open.spotify.com/track/4RC5sdt02mjwuxSG1e7QDe"
@@ -22538,6 +22734,24 @@
       "duration_ms": 188500,
       "name": "solace",
       "url": "https://open.spotify.com/track/5A3h5rAJmlYTorNk5JJsNU"
+    },
+    {
+      "album": {
+        "name": "Juggling Dualities",
+        "url": "https://open.spotify.com/album/5qC61iRz1ARfv0wqbPCxu4"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304596,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/2i7ap0FChxJLdGeFHavNzF"
     },
     {
       "album": {
@@ -23731,6 +23945,28 @@
     },
     {
       "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218773,
+      "name": "Suosan",
+      "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
+    },
+    {
+      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/4LY90qgXdEBIe47t6SCvDo"
       },
@@ -24010,7 +24246,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 151000,
       "name": "Tape Hiss Makes Me Happy (2025 Remaster) [Edit]",
       "url": "https://open.spotify.com/track/4LCAHD6aDKJbXOuOXLiwdc"
@@ -25802,7 +26038,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 167955,
       "name": "Tomatoes with Sugar",
       "url": "https://open.spotify.com/track/1qoohmWedOSN0pTK5cTL8i"
@@ -26138,6 +26374,24 @@
       "duration_ms": 217911,
       "name": "Tungsten - Science Of Sleeping Rework",
       "url": "https://open.spotify.com/track/5hraqI2YZBaRCljleFC3d4"
+    },
+    {
+      "album": {
+        "name": "Tunnels Under Our Feet",
+        "url": "https://open.spotify.com/album/6dfmDjpFGYprwTK1bwQD1k"
+      },
+      "artists": [
+        {
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281250,
+      "name": "Tunnels Under Our Feet",
+      "url": "https://open.spotify.com/track/7eLkioZh2g1vFXx0oeXINN"
     },
     {
       "album": {
@@ -26902,10 +27156,28 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 262367,
       "name": "Valleys and Peaks",
       "url": "https://open.spotify.com/track/4C7OdKOOVSGEn2DXfa8N9r"
+    },
+    {
+      "album": {
+        "name": "vapor",
+        "url": "https://open.spotify.com/album/4KOxt1ef5AjaopmBZ8cqeZ"
+      },
+      "artists": [
+        {
+          "name": "Masafumi Teruyama",
+          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144586,
+      "name": "vapor",
+      "url": "https://open.spotify.com/track/0ZEs96FTuA5gOfM8miaFRf"
     },
     {
       "album": {
@@ -28058,7 +28330,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 230399,
       "name": "Where the Light Falls",
       "url": "https://open.spotify.com/track/3nxTVS5P1hrlqLbOLCOcPj"
@@ -28831,6 +29103,24 @@
     },
     {
       "album": {
+        "name": "Y\u016bdachi, Kirisame",
+        "url": "https://open.spotify.com/album/69wEYQaFHBZBixngHWw8zv"
+      },
+      "artists": [
+        {
+          "name": "Watasino",
+          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Y\u016bdachi",
+      "url": "https://open.spotify.com/track/49CoKOzwfP5NEcIGJlKuXn"
+    },
+    {
+      "album": {
         "name": "Zauberberg",
         "url": "https://open.spotify.com/album/3q8NuY6M6Ay1XA34vGpeud"
       },
@@ -29012,7 +29302,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 276000,
       "name": "\u30bd\u30d5\u30a1\u3067\u5922\u3092\u898b\u308b",
       "url": "https://open.spotify.com/track/3sY2TmsgA8e1dx5ZyCyJt0"

@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor De OV7",
+        "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
+      },
+      "artists": [
+        {
+          "name": "OV7",
+          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+        }
+      ],
+      "date_added": "2020-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249400,
+      "name": "Enloqu\u00e9ceme",
+      "url": "https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS"
+    },
+    {
+      "album": {
         "name": "Sin Bandera",
         "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
       },
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2020-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 225680,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"

@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Mateus Fazeno Rock
 
-786 songs - 1 day 20 hr 37 min
+787 songs - 1 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2 A.M.](https://open.spotify.com/track/34lKWobdEGO69CULhtiREz) | [Versaliz](https://open.spotify.com/artist/6KbgEz6ZShtrAiO5ieUvtK) | [2 A.M.](https://open.spotify.com/album/6Xn86yqgneXDChNJ9rHg49) | 2:45 | 2022-08-12 | 2023-05-13 |
 | [2 metros de saudade](https://open.spotify.com/track/6iRvhbw58qALPMFitdO0oa) | [Miniguini & os últimos românticos](https://open.spotify.com/artist/6wHUga7t4oUQDvwegAPejo) | [Crônicas casuais de Românticos carismáticos](https://open.spotify.com/album/3l2OhUuzXEQQUqIMuilin1) | 3:25 | 2024-08-09 | 2024-09-07 |
 | [20 Anos e Meio](https://open.spotify.com/track/3QMQqmpesGqVcHuV0vMv2m) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [20 Anos e Meio](https://open.spotify.com/album/08NkxNDTSEsHlvRpVQPexm) | 3:06 | 2022-01-14 | 2022-06-04 |
+| [2001](https://open.spotify.com/track/3uC5esYU8cTQ8ox8oSrsWV) | [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [2001](https://open.spotify.com/album/2hggsoOwknLbm71vQZUSwF) | 3:44 | 2025-07-19 |  |
 | [30+](https://open.spotify.com/track/2ViNQ8PzS2X6TZdmzxhvQX) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp) | [30+](https://open.spotify.com/album/3pFDfRC5whVvNQsTnOa1Ej) | 3:17 | 2023-10-27 | 2024-04-06 |
 | [6 Balas \(Ato II\)](https://open.spotify.com/track/1eWQ7LcFqQcrhzzTTVgWOY) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [6 Balas \(Ato II\)](https://open.spotify.com/album/1miphNWftzGLLtfd5HTKPr) | 4:30 | 2023-03-03 | 2023-04-01 |
 | [A Arte de Se Bastar](https://open.spotify.com/track/7dsbEhIpErUsTewANX617F) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [A Arte de Se Bastar](https://open.spotify.com/album/5EgCWm8o7qX0psDEaszJrr) | 2:18 | 2022-07-22 | 2023-03-18 |
@@ -660,7 +661,7 @@
 | [Surf Punk](https://open.spotify.com/track/59aUGfi9TrxraplGomTNdY) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Surf Punk](https://open.spotify.com/album/77EJBzGRImn16oRBMRw4UC) | 2:16 | 2022-08-19 | 2022-10-29 |
 | [Surfar Um Processo](https://open.spotify.com/track/6CEzUKsbAyPhQr95yCn2Qi) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [Surfar Um Processo](https://open.spotify.com/album/4YbnkkdSyyKM0ogMjFkR7V) | 2:15 | 2022-03-18 | 2022-04-02 |
 | [Séries](https://open.spotify.com/track/1kzQwfTgAVLs1LVRNXXQQ5) | [Porfírio](https://open.spotify.com/artist/2qYaT54xotxq8bRuytCzWz) | [Existem Coisas Que Não Podem Esperar](https://open.spotify.com/album/5nqodwTgN5uf7U5ysArl5J) | 3:02 | 2022-03-25 | 2022-05-14 |
-| [SíNCOPE DAS PEQUENAS ALMAS](https://open.spotify.com/track/5MBvxYwz1aZi1qZJc2KaOS) | [MarthaV](https://open.spotify.com/artist/374l3EPJE9ijqtpW2zEm3w) | [RITMO 0](https://open.spotify.com/album/5ZR9KcdO8rdxqQ3u6EjdMi) | 2:42 | 2025-01-17 |  |
+| [SíNCOPE DAS PEQUENAS ALMAS](https://open.spotify.com/track/5MBvxYwz1aZi1qZJc2KaOS) | [MarthaV](https://open.spotify.com/artist/374l3EPJE9ijqtpW2zEm3w) | [RITMO 0](https://open.spotify.com/album/5ZR9KcdO8rdxqQ3u6EjdMi) | 2:42 | 2025-01-17 | 2025-07-19 |
 | [Só](https://open.spotify.com/track/0b80V1R6f0RM80kdbVnnv4) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Só](https://open.spotify.com/album/5AuoJdycZF6eb4pxTDnb13) | 3:48 | 2022-01-14 | 2022-06-04 |
 | [Só Eu](https://open.spotify.com/track/2HyXdfQI7gpKykyXu2uQbM) | [Jova](https://open.spotify.com/artist/5DETkZU3Alp5yzyLmB5rnw), [Amado](https://open.spotify.com/artist/21rgwNeSwlvcpANKjC0a1J) | [Só Eu](https://open.spotify.com/album/16Dd56EizDRwaObFWpvzqx) | 3:21 | 2024-09-27 | 2025-04-06 |
 | [Só mais um cafezinho](https://open.spotify.com/track/7H5d5kiKDxCMjiakJWvbAP) | [Miniguini & os últimos românticos](https://open.spotify.com/artist/6wHUga7t4oUQDvwegAPejo) | [Só mais um cafezinho](https://open.spotify.com/album/28ZAQdt6ZPbHw39GFahUen) | 2:58 | 2023-07-14 | 2023-10-21 |

@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-296 songs - 18 hr 9 min
+298 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Distance](https://open.spotify.com/track/4jU6Vuq0e1KSc1vOAKL3k2) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Distance](https://open.spotify.com/album/2snog7U5uihIur22blJwwg) | 3:29 | 2023-08-31 | 2024-03-06 |
 | [don't let me take my time](https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [don't let me take my time](https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in) | 2:40 | 2024-01-11 |  |
 | [Dot in the Sky](https://open.spotify.com/track/2JDYNDcTJVpkuqKiJrIghn) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 5:26 | 2023-02-09 | 2023-09-01 |
-| [Dry](https://open.spotify.com/track/06LftQ6D32NPLEZJLtYuZD) | [Geneva Jacuzzi](https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG) | [Dry](https://open.spotify.com/album/29r7z4p5XQ5ZoXE0X6Ifbe) | 3:37 | 2024-04-26 |  |
+| [Dry](https://open.spotify.com/track/06LftQ6D32NPLEZJLtYuZD) | [Geneva Jacuzzi](https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG) | [Dry](https://open.spotify.com/album/29r7z4p5XQ5ZoXE0X6Ifbe) | 3:37 | 2024-04-26 | 2025-07-19 |
 | [Durdu Dunya](https://open.spotify.com/track/2OzRao3wILud6BTrsT2cnI) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Disko Anksiyete](https://open.spotify.com/album/2ErVLQ217KC5srxpS3tQz9) | 4:49 | 2024-02-16 |  |
 | [Durdu Dünya](https://open.spotify.com/track/0rXcRGePzt2vuBjTQnshsL) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Disko Anksiyete](https://open.spotify.com/album/7J40uU1PnZuZrna7q8SNcs) | 4:51 | 2023-01-06 | 2024-04-19 |
 | [Dust](https://open.spotify.com/track/2BZYVqGyL1L1adBbq2ClVv) | [M\|O\|O\|N](https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT) | [Particles E.P.](https://open.spotify.com/album/1kvyU0WQNcenwnLRBwyWhB) | 5:02 | 2020-12-21 | 2023-09-01 |
@@ -146,7 +146,7 @@
 | [Into Those Woods](https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf) | [Bragolin](https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD) | [I Saw Nothing Good so I Left](https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8) | 3:23 | 2023-02-09 |  |
 | [Into Your Eyes](https://open.spotify.com/track/0UTcAwbScL3F5LPAjFXoIM) | [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Into Your Eyes](https://open.spotify.com/album/1F1DaBxcGzJB4kiywUgBRt) | 3:09 | 2021-09-01 | 2023-02-10 |
 | [Invierno Nuclear](https://open.spotify.com/track/0wK1nvACkwDtDPAL0PmE6E) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Escama](https://open.spotify.com/album/4NYnACTDLJ1YHcbnEpPh7D) | 4:34 | 2020-12-21 | 2023-02-10 |
-| [Iris](https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Ethereality](https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW) | 3:38 | 2024-03-05 |  |
+| [Iris](https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Ethereality](https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW) | 3:38 | 2024-03-05 | 2025-07-19 |
 | [It Feels Like I Start over Again](https://open.spotify.com/track/79721eJS5TNJHyUWDT1coe) | [Faience Knife](https://open.spotify.com/artist/4hQOWxvWv9RG1J2kpR8ZDv) | [Ἀλκυών](https://open.spotify.com/album/6zRrpZvy9paQCIFT42mSZm) | 3:13 | 2022-02-18 | 2023-02-10 |
 | [It's Alright](https://open.spotify.com/track/5W0pznTarTi6cd5qSeYMnw) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn), [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [HOUSE OF THE DEAD](https://open.spotify.com/album/01ZSRteMHjycJPUWOQGXth) | 1:55 | 2025-04-04 |  |
 | [It's In My Head](https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [It's In My Head](https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO) | 3:01 | 2023-09-14 |  |
@@ -255,6 +255,7 @@
 | [Thin Flesh](https://open.spotify.com/track/1P1u2H8BTKaKTRhsQAwFH4) | [Traitrs](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Butcher's Coin](https://open.spotify.com/album/5zif8VwNMkLGO0lUvnBHFf) | 3:38 | 2023-02-09 |  |
 | [This World Couldn’t See Us](https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 3:39 | 2023-05-22 |  |
 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 | 2023-08-31 |  |
+| [TO BLACK \- FOREVER](https://open.spotify.com/track/4VhILhkc7FcJCRytiIuRLY) | [Ritualz](https://open.spotify.com/artist/2Md4qykZwbsTbHF3MD183Z) | [FOREVER](https://open.spotify.com/album/4DgZ92FuMbw97HTbgoCGps) | 3:31 | 2025-07-18 |  |
 | [Too Soon to Tell](https://open.spotify.com/track/25rY3GbeeHIBRwyouz9jZT) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 4:07 | 2025-02-04 |  |
 | [Twin Peaks](https://open.spotify.com/track/2fPUV6XKaReQtC4hsJRBem) | [Sinnerella](https://open.spotify.com/artist/38tieThXSmq1BQw6MKxuyS), [Mica](https://open.spotify.com/artist/0ru8vaH80Oj3roXyoLmX4g) | [INSIDES](https://open.spotify.com/album/1jF1MvgQKOfwzSH2M19iNq) | 1:56 | 2023-08-31 | 2025-05-17 |
 | [Two Point Zero](https://open.spotify.com/track/7DWKtErNxf4Wb8BD54lDUQ) | [Cloudland Canyon](https://open.spotify.com/artist/6s5ScpNzol9psValU4HLHu) | [Two Point Zero](https://open.spotify.com/album/0YngPsT3JJV3ImRut0Z4vd) | 4:43 | 2023-07-04 | 2024-03-06 |
@@ -264,6 +265,7 @@
 | [VCR Romance](https://open.spotify.com/track/2HC7gdKa77R16huReRtkKy) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Heretic](https://open.spotify.com/album/5yFEJUxc1N3y9WeOci3FyZ) | 3:12 | 2023-08-31 |  |
 | [Vengeance](https://open.spotify.com/track/0Bp3HwFfDlGzo7N5mePMxf) | [Cloud Battalion](https://open.spotify.com/artist/256QPBkvY5iLmc3mhwzoTO) | [Storm City](https://open.spotify.com/album/6rR86ssesqXKVIIVJMBz3q) | 4:24 | 2020-12-21 | 2023-02-10 |
 | [Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Vertigo](https://open.spotify.com/album/58NrvyTDNC3JMpyKyX60uI) | 3:30 | 2022-02-18 |  |
+| [vj \(vanished\)](https://open.spotify.com/track/3SNOoT0NKsb52IxemyU6Pb) | [subliminal](https://open.spotify.com/artist/6kmRsF1MGt0AnvUG9fE23J), [Gwead Sain](https://open.spotify.com/artist/41Agc0u7bE4avFlWx0jv19), [Jøwsdmn](https://open.spotify.com/artist/7MfcgWLLNM2ACzFvLjGCv5) | [vj \(vanished\)](https://open.spotify.com/album/06UhPBeAfdNY52ZHdo79Vq) | 2:28 | 2025-07-18 |  |
 | [Vuela Más Alto](https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Vuela Más Alto](https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY) | 2:39 | 2024-02-16 |  |
 | [Waste Away](https://open.spotify.com/track/040jWZw29UCBxaJRoLch7h) | [Closed Tear](https://open.spotify.com/artist/79w0GjUevceZAA54kbzzoA) | [NADA ES PARA SIEMPRE](https://open.spotify.com/album/61KVjDNyYhfVFFZIhz1JLE) | 2:15 | 2023-08-31 | 2024-03-06 |
 | [WASTING DAYS](https://open.spotify.com/track/7oApco2lazvU5UtaOt2rlc) | [SOFT VEIN](https://open.spotify.com/artist/487yygmagp6OoXGSjxLIE8) | [THROUGH BLINDS](https://open.spotify.com/album/1KKjnlfuPUd7TZMeSDBczv) | 5:19 | 2025-02-04 |  |

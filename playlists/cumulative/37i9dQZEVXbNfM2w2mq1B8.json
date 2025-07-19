@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 131320,
       "name": "BARBIE & KEN",
       "url": "https://open.spotify.com/track/5uyfxufBlUFdItlCWY1cCg"
@@ -15486,7 +15486,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-17",
+      "date_removed": null,
       "duration_ms": 207760,
       "name": "Imame li vrazka",
       "url": "https://open.spotify.com/track/3XNlp4fJs4W7jbeYDfD3aD"
@@ -18354,7 +18354,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 218468,
       "name": "Losha",
       "url": "https://open.spotify.com/track/0Ksj1ehwR3eJl6L3bB9VZk"
@@ -20462,7 +20462,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 206917,
       "name": "Ministarat Na Veselieto",
       "url": "https://open.spotify.com/track/653RTe2vklxgMHS2yfYWqo"
@@ -23306,7 +23306,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -26878,7 +26878,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 252893,
       "name": "S men da varvish",
       "url": "https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt"
@@ -36928,7 +36928,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 197030,
       "name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
       "url": "https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG"
@@ -37484,6 +37484,32 @@
       "duration_ms": 206096,
       "name": "\u0413\u043b\u0435\u0434\u0430\u0439 \u043c\u0435 \u0449\u0430\u0441\u0442\u043b\u0438\u0432\u0430",
       "url": "https://open.spotify.com/track/7tOrEzFOFYUC4p3D5eAhuA"
+    },
+    {
+      "album": {
+        "name": "\u0413\u041e\u041b\u0410",
+        "url": "https://open.spotify.com/album/1tu4WHpN7FUKd83ggF8Ap8"
+      },
+      "artists": [
+        {
+          "name": "Torino",
+          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
+        },
+        {
+          "name": "Pashata",
+          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
+        },
+        {
+          "name": "Tita",
+          "url": "https://open.spotify.com/artist/5uOrQMWvhytvkjU7P3jgwV"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112381,
+      "name": "\u0413\u041e\u041b\u0410",
+      "url": "https://open.spotify.com/track/6fYXdWrMvIMLId5uEyE0NM"
     },
     {
       "album": {
@@ -40812,7 +40838,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 240937,
       "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
       "url": "https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA"
@@ -42612,6 +42638,28 @@
       "duration_ms": 183992,
       "name": "\u0425\u0443\u0431\u0430\u0432\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/469ChfE6lDYglc46wfzNG7"
+    },
+    {
+      "album": {
+        "name": "\u0426\u0435\u043b\u0443\u0432\u043a\u0430 \u0441 Tequila",
+        "url": "https://open.spotify.com/album/2gmJvWl4USCfxzk6LHz3GH"
+      },
+      "artists": [
+        {
+          "name": "Mirela",
+          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
+        },
+        {
+          "name": "Lidia",
+          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "\u0426\u0435\u043b\u0443\u0432\u043a\u0430 \u0441 Tequila",
+      "url": "https://open.spotify.com/track/0DWuEaw17uIBKJVNd1ev5X"
     },
     {
       "album": {

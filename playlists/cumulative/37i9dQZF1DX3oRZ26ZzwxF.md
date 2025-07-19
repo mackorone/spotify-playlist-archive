@@ -4,7 +4,7 @@
 
 > Le meilleur du rap africain francophone\. Photo : Kocee
 
-94 songs - 4 hr 20 min
+95 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Oulala](https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6) | [Oulala](https://open.spotify.com/album/04a4hx64YQGoVHKAwPZVzQ) | 2:25 | 2025-07-10 |  |
 | [PERSONNE M'ATTENDAIT](https://open.spotify.com/track/1fyJZuCFSQOZvQZbgRoN2f) | [KT Gorique](https://open.spotify.com/artist/2UQaGEb3EMAa01ibiQaEsh), [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek), [Riga](https://open.spotify.com/artist/37t8K0CbC1jRSqmDYNEpPX) | [PERSONNE M'ATTENDAIT](https://open.spotify.com/album/07DrSSKYxmGhh1DgWtgUy9) | 2:42 | 2025-06-05 | 2025-06-20 |
 | [Ponce pilate](https://open.spotify.com/track/2PgxG5BNSsJ407TrpfNU5X) | [Mink's](https://open.spotify.com/artist/3R5HSF8rhNgBBgeOo0slI9) | [Ponce pilate](https://open.spotify.com/album/4XP2kJMq9X7P3CHluZ942V) | 2:02 | 2025-06-19 |  |
+| [pourquoi tu gnan](https://open.spotify.com/track/3F7zIvz7LZD4kNyNilox5o) | [Tripa Gninnin](https://open.spotify.com/artist/1942Gu3Pj3kVg8SmX8T5lJ), [Latop](https://open.spotify.com/artist/2Le5krQdKYGiP5xUQnIHKN) | [pourquoi tu gnan](https://open.spotify.com/album/6g1RUsOlrKLG1kAVTIgOVB) | 3:05 | 2025-07-17 |  |
 | [Pull up](https://open.spotify.com/track/0ddZxssGyo2eq23krD03mp) | [Defty](https://open.spotify.com/artist/7lg7jNgZZMoQ1lamOkHV5A) | [Pull up](https://open.spotify.com/album/4LUq8HcHqQetw90V7KfrZ8) | 2:29 | 2025-05-29 | 2025-06-06 |
 | [Quand Toi Tu Dors](https://open.spotify.com/track/6PHQWMUGJl1srUZ6j5Ygew) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j) | [Quand Toi Tu Dors](https://open.spotify.com/album/3TxtmaYQcjq0fCeqCjqBVU) | 1:56 | 2025-06-26 | 2025-07-11 |
 | [RODÉLA](https://open.spotify.com/track/3VsnE1pUT5ZOAjh23OdnKc) | [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [RODÉLA](https://open.spotify.com/album/7at50ZqUOtUANlJuquWOwa) | 3:44 | 2025-05-29 |  |

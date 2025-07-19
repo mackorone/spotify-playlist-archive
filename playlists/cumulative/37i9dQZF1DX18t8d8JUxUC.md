@@ -4,14 +4,14 @@
 
 > This is what folk sounds like en español\. Cover: Silvana Estrada
 
-169 songs - 10 hr 2 min
+170 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A las 9:05](https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi Otra Mitad](https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3) | 4:04 | 2023-12-15 | 2025-01-10 |
 | [Acurrucar](https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:54 | 2023-02-24 |  |
 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 | 2023-02-24 |  |
-| [Ahi Estaré](https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ahi Estaré](https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS) | 3:00 | 2024-07-19 |  |
+| [Ahi Estaré](https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ahi Estaré](https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS) | 3:00 | 2024-07-19 | 2025-07-19 |
 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 | 2023-02-24 |  |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2023-02-24 | 2024-04-19 |
 | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7) | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU) | 3:55 | 2023-02-24 |  |
@@ -45,6 +45,7 @@
 | [Dos Soledades](https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm) | 3:10 | 2024-03-01 | 2024-04-19 |
 | [Dos Soledades](https://open.spotify.com/track/378lux3KIGNYTyFnB1cEXy) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/5Z6YX9a3A3quKgM0naXEaL) | 3:10 | 2023-02-24 | 2024-03-11 |
 | [Dos Soledades](https://open.spotify.com/track/5P9dzJUu1kWSXVQmwkGPdA) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q) | 3:10 | 2024-04-11 | 2024-06-24 |
+| [Duele](https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Duele](https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3) | 3:58 | 2025-07-18 |  |
 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 | 2023-02-24 |  |
 | [El Conticinio](https://open.spotify.com/track/6dDhaHqJ3wUD3jbjGUBwzh) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [El Conticinio](https://open.spotify.com/album/1NcBeKgj4oQaecQiTr7F39) | 3:33 | 2023-04-10 | 2023-04-29 |
 | [El Faro](https://open.spotify.com/track/4noxNHGDOSLnKVxhMoM3Od) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [El Faro](https://open.spotify.com/album/1jQbBLUiMBXbySrYiBPF5p) | 3:08 | 2023-07-28 | 2023-08-13 |

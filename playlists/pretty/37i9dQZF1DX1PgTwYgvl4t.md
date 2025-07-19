@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe?si=Ryxw\-idLS1mm6km64D6KHQ>Sinach</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,112 likes - 100 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,193 likes - 100 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 22 | [Oghene Do](https://open.spotify.com/track/3O0Wf0GHDyV2AAZQO0KSPz) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Unlimited \- Verse 1](https://open.spotify.com/album/3cBoClyLmO7nWQAVcPigPI) | 4:52 |
 | 23 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
 | 24 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 |
-| 25 | [JEHOVAH](https://open.spotify.com/track/2JlbhEVXc1RWeSP3pWokpp) | [Johnnie Akpanke](https://open.spotify.com/artist/6TXNfPNDp6K9oLGk9bb1PJ), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [JEHOVAH](https://open.spotify.com/album/0sZru6q0svg8q0Zp3YwGQL) | 10:01 |
+| 25 | [JEHOVAH \- Live](https://open.spotify.com/track/2JlbhEVXc1RWeSP3pWokpp) | [Johnnie Akpanke](https://open.spotify.com/artist/6TXNfPNDp6K9oLGk9bb1PJ), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [JEHOVAH \(Live\)](https://open.spotify.com/album/0sZru6q0svg8q0Zp3YwGQL) | 10:01 |
 | 26 | [YES](https://open.spotify.com/track/6Dm2A8KoSV7vNghd9lVQgn) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [YES](https://open.spotify.com/album/0zW5PaArjZZhjZwtZAcTfl) | 4:07 |
 | 27 | [You Are Yahweh](https://open.spotify.com/track/5SNw8bfADobJB1peaEUWcU) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You Are Yahweh](https://open.spotify.com/album/6qLlLddtlRW1Q3Kcaf6E22) | 4:39 |
 | 28 | [Logan Ti O De](https://open.spotify.com/track/6xXbKuOenaaq45LvF0VFtb) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [The Spirit of Light](https://open.spotify.com/album/7BqAuNsaQdbaxlwTXl9RLO) | 4:21 |

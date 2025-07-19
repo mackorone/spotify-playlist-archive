@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-362 songs - 21 hr 28 min
+363 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Danger Down Deep](https://open.spotify.com/track/2nODfvtMNFVidNKxAHpulq) | [RCA Symphony Orchestra](https://open.spotify.com/artist/3k5jXckGxVF5jvZ6wap7fh), [Charles Gerhardt](https://open.spotify.com/artist/0KYTOaijsJq1rL0PC43LcQ) | [Victory at Sea \(Highlights\)](https://open.spotify.com/album/5PU45HipLqx3wu7JxEqmQx) | 3:51 | 2024-07-26 |  |
 | [Danger Down Deep \- 1992 Remastered](https://open.spotify.com/track/34K9epYdHRzsWZVZIbVHIP) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 4:52 | 2024-07-26 |  |
 | [Dear Old Syracuse](https://open.spotify.com/track/1UrtDAAP14hubfmCRR6IBe) | [Original Broadway Cast "Boys From Syracuse"](https://open.spotify.com/artist/04lk9uOaB66os7drkb8GeJ) | [Boys From Syracuse](https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI) | 2:41 | 2024-07-26 |  |
-| [Den Of Iniquity](https://open.spotify.com/track/0qu48O2PbVh7PfR4hFkkwI) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Pal Joey](https://open.spotify.com/album/4YFeIMZtIChZVd41GGq9r6) | 3:18 | 2024-07-26 |  |
+| [Den Of Iniquity](https://open.spotify.com/track/4pSPwg8Uuc7oz9cHvilbwt) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [Pal Joey \(1995 Original New York Cast\)](https://open.spotify.com/album/1etGLImerWgKPaXEQYNobr) | 3:18 | 2025-07-18 |  |
+| [Den Of Iniquity](https://open.spotify.com/track/0qu48O2PbVh7PfR4hFkkwI) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Pal Joey](https://open.spotify.com/album/4YFeIMZtIChZVd41GGq9r6) | 3:18 | 2024-07-26 | 2025-07-19 |
 | [Dites\-Moi](https://open.spotify.com/track/7GNNyqBNMIduv6qL6tql8H) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Nellie Forbush and Children](https://open.spotify.com/artist/1W1JsPsRqu9tHOZrKjrdQe), [Alfred Newman](https://open.spotify.com/artist/2e7myQwGa7Vyp7sss8brVC) | [Invitation to Musicals](https://open.spotify.com/album/5EKnIOzeGPRzhcAgyzMUZ8) | 1:19 | 2024-07-26 |  |
 | [Do I Hear a Waltz](https://open.spotify.com/track/3GSwYMNHtGsI5NUvIMuOg3) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Sammy's Back On Broadway](https://open.spotify.com/album/1IbSivbOygwUjO4YmAq7YX) | 2:44 | 2024-07-26 |  |
 | [Do I Hear a Waltz?: Bargaining](https://open.spotify.com/track/01OstllripJ6X4iR5QtVe9) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Sergio Franchi](https://open.spotify.com/artist/3afJ7ksCTA53PwM233jIf8), [Elizabeth Allen](https://open.spotify.com/artist/1klwXZwQim73BQIp0Wra4q), [Frederick Dvonch](https://open.spotify.com/artist/3PTEv5PB7Y60Xs26d5OE9f) | [Do I Hear a Waltz? \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4LUZkj3At3mr6YFgHRWLua) | 2:25 | 2024-07-26 |  |

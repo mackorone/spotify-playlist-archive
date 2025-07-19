@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-256 songs - 14 hr 56 min
+258 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/7BmSSHBfpq4LsyBURC5rL3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2024](https://open.spotify.com/album/5og9lzNTh4Ak19jLp81Bnk) | 3:36 | 2024-08-09 |  |
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2021-11-19 | 2022-05-07 |
 | [Halo](https://open.spotify.com/track/0FilCJDN0Cvjo0jezjxgAC) | [Jeremy Green](https://open.spotify.com/artist/32jiRxDN9Nb9QbXh88uo42) | [Halo](https://open.spotify.com/album/5AjALe4ac200zNXQolG3uk) | 4:24 | 2021-11-19 |  |
+| [Heart of Gold \(Arr\. Piano\)](https://open.spotify.com/track/4iUb4kUyV4VucgELIMKmNw) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Glastonbury Vol\. 2](https://open.spotify.com/album/0FtyxCPmEyhrOoy8X5tPtC) | 3:09 | 2025-07-18 |  |
 | [Hello](https://open.spotify.com/track/4mfzUScqJrZuzL9EvP1jTE) | [Lucky Chops](https://open.spotify.com/artist/2b6gc4EVpO6OTlDvKrK852) | [Hello](https://open.spotify.com/album/0Zu8fh2i6Kl58mDPTgxeRn) | 4:13 | 2021-11-19 | 2022-05-07 |
 | [Here Comes The Sun](https://open.spotify.com/track/0wWYUyq3TtIgxPSWyHyqRY) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 11](https://open.spotify.com/album/19M7tJBsBJcr2vrQINJMDH) | 3:49 | 2023-02-10 |  |
 | [Heroes \(Version for Piano\)](https://open.spotify.com/track/5fMc2MTb6pb5ehYQOl8A4s) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Maurizio Baglini](https://open.spotify.com/artist/6GKFibfWHRW8jfNr102ZkU) | [David Bowie: Heroes](https://open.spotify.com/album/2wZjHNQDTwkD7zxksqPGlJ) | 2:40 | 2025-02-21 |  |
@@ -173,7 +174,8 @@
 | [Numb \- Piano Version](https://open.spotify.com/track/6leIpO0toh6VjmmqnFNgqP) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Numb \(Piano Version\)](https://open.spotify.com/album/2VznK8OUodd03zf2uMMeHT) | 3:09 | 2023-06-09 |  |
 | [OMG](https://open.spotify.com/track/315jwR0MNIp2N1MK0f4yeZ) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [OMG](https://open.spotify.com/album/2q93SQOfQA0ZHrQMIm8KTj) | 1:31 | 2024-03-01 |  |
 | [ON](https://open.spotify.com/track/5SFOSF6lKcEI7678ri3i4v) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ON](https://open.spotify.com/album/6NCqruF6K4nEKcugO6Cr2p) | 3:54 | 2022-10-07 | 2023-09-30 |
-| [Ordinary](https://open.spotify.com/track/1WYDk8XsjBqrlLetgTlPC1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2025, Vol\. 1](https://open.spotify.com/album/6zVzIXdCpItzGUetIXfsPW) | 3:03 | 2025-06-20 |  |
+| [Ordinary](https://open.spotify.com/track/1ee3ZlT2VQEUuNdsd4jiI9) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Ordinary](https://open.spotify.com/album/7JbHdiHzFR2tdz7s7DiZhr) | 3:23 | 2025-07-18 |  |
+| [Ordinary](https://open.spotify.com/track/1WYDk8XsjBqrlLetgTlPC1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2025, Vol\. 1](https://open.spotify.com/album/6zVzIXdCpItzGUetIXfsPW) | 3:03 | 2025-06-20 | 2025-07-19 |
 | [P.I.M.P](https://open.spotify.com/track/3pc4KWkfyB9EUKi0JsTyRY) | [Power\-Haus](https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [The Strings 'n' Things Album](https://open.spotify.com/album/6gIUSFzJgnHeF2WjGZQuCW) | 2:08 | 2021-11-19 |  |
 | [Paint It Black](https://open.spotify.com/track/1OuCn2F9BmyTAdM0Jylo9X) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/4YZI5RGjvxQsZmeY8ewpxs) | 2:25 | 2022-12-02 |  |
 | [Perfect](https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [Perfect](https://open.spotify.com/album/4HwH5Vg7Ho7F8XlsSW1MPE) | 4:19 | 2021-11-19 |  |

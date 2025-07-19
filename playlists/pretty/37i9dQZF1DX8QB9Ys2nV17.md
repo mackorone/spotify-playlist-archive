@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,049 likes - 70 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,096 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 27 | [Woman](https://open.spotify.com/track/5yAGJ1mWBFihXhvOJ4VYU8) | [Wiyaala](https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7) | [Woman](https://open.spotify.com/album/3HWjeQxqdhEPVyoKgGYse2) | 4:28 |
 | 28 | [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 |
 | 29 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
-| 30 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 |
-| 31 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
-| 32 | [You Need Love](https://open.spotify.com/track/4I5G1RoD0LbJ8q5VG5YdIs) | [Candye Kane](https://open.spotify.com/artist/70svT4F0xhbyQ5lQx6UE4b), [Stephen Hodges](https://open.spotify.com/artist/1dEhcM1DuKdrIb3iudblIp) | [Superhero](https://open.spotify.com/album/3aEHMc4YNu1XKfFqboal8C) | 4:06 |
-| 33 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
+| 30 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
+| 31 | [You Need Love](https://open.spotify.com/track/4I5G1RoD0LbJ8q5VG5YdIs) | [Candye Kane](https://open.spotify.com/artist/70svT4F0xhbyQ5lQx6UE4b), [Stephen Hodges](https://open.spotify.com/artist/1dEhcM1DuKdrIb3iudblIp) | [Superhero](https://open.spotify.com/album/3aEHMc4YNu1XKfFqboal8C) | 4:06 |
+| 32 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
+| 33 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 |
 | 34 | [Lodi](https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Change in the Weather: Janiva Magness Sings John Fogerty](https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5) | 3:50 |
 | 35 | [That's All Right](https://open.spotify.com/track/6mnNzspvGs07xahHtjKShp) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [That's All Right](https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R) | 2:59 |
 | 36 | [Geechee Woman](https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY) | [Shakura S'Aida](https://open.spotify.com/artist/1k7Twp5a4e1lULiRJy6BXw) | [Time...](https://open.spotify.com/album/66RPa84dHj7eHBG0f5MLsQ) | 4:37 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 64 | [Played the Game](https://open.spotify.com/track/04Y0ON4aAZgzbJdzu504SI) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Heart of Fire](https://open.spotify.com/album/1Vk2mDeiPytdF3RgwMeke0) | 4:45 |
 | 65 | [What's the Matter with You](https://open.spotify.com/track/3LBFMoyuO7hMgBOCTOGQBc) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a) | 3:52 |
 | 66 | [Be The Love You Want](https://open.spotify.com/track/5UAYqhxCxhZIL6A667eYBV) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Be The Love You Want](https://open.spotify.com/album/3XDIgxvmrVhFItGN3gkVdH) | 3:16 |
-| 67 | [Heavy Hearts Hard Fists](https://open.spotify.com/track/4VNNhbYDAt5SjXN5RERGiC) | [Nikki Hill](https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz) | [Heavy Hearts Hard Fists](https://open.spotify.com/album/3MyVNL91Apamtu9fUEQ9nO) | 3:17 |
-| 68 | [Runaway Train](https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runaway Train](https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y) | 4:15 |
-| 69 | [Things Have Changed](https://open.spotify.com/track/08aZMbV00fxoxzosGLr3cq) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/5WptPw9D94BfcayWYtk76T) | 6:56 |
-| 70 | [Life Of The Party](https://open.spotify.com/track/6wILqRslB1r6SWtEj4senP) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/5wSnSMk4dLaP00nRpIZrfp) | 3:51 |
+| 67 | [Runaway Train](https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runaway Train](https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y) | 4:15 |
+| 68 | [Things Have Changed](https://open.spotify.com/track/08aZMbV00fxoxzosGLr3cq) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/5WptPw9D94BfcayWYtk76T) | 6:56 |
+| 69 | [Life Of The Party](https://open.spotify.com/track/6wILqRslB1r6SWtEj4senP) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/5wSnSMk4dLaP00nRpIZrfp) | 3:51 |
+| 70 | [They Never Pay Me](https://open.spotify.com/track/4I7exgZnKPQeLgzRAsx77r) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/2rc0kuRCruGFP5osvkZp2S) | 3:33 |
 
 Snapshot ID: `Z7y4WQAAAAAOoxHXKqwkrRwJi+8TSNT0`

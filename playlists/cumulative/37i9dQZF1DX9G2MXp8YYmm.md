@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Anıl Durmuş x Ahmet Hatipoğlu
 
-314 songs - 15 hr 44 min
+315 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Affet](https://open.spotify.com/track/6KNiGukcNEDfgWqUIiy8zF) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Affet](https://open.spotify.com/album/3B048WriXP7L7jZVAbhxfH) | 2:04 | 2025-05-15 |  |
 | [Affet Beni](https://open.spotify.com/track/5zcjVHdSAD1PFnKcloYHbL) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Affet Beni](https://open.spotify.com/album/1RfOPexXsCeH9jLGFftWqN) | 2:32 | 2024-06-27 | 2024-07-21 |
 | [Ahde Vefa](https://open.spotify.com/track/1Jg14R12v9VvvUqKZuzKr9) | [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H) | [Ahde Vefa](https://open.spotify.com/album/21KSHDfmvZjU8vlL72JJFI) | 2:55 | 2024-10-03 | 2024-10-11 |
+| [Aklım Hep Onda](https://open.spotify.com/track/3e95JlOEKVfoebYjEFC5Dj) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Aklım Hep Onda](https://open.spotify.com/album/1eecP8iu3v4vdRThMfGE9T) | 2:45 | 2025-07-17 |  |
 | [Aldanırım](https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Aldanırım](https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt) | 3:21 | 2025-02-06 |  |
 | [Ama Yine Sen](https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ama Yine Sen](https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj) | 2:14 | 2024-11-07 |  |
 | [Anahtar](https://open.spotify.com/track/5soHIW4p5gs0txChuTl8sZ) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anahtar](https://open.spotify.com/album/5HgrSDS7Q9XhCleuATRkXT) | 3:11 | 2025-02-27 |  |
@@ -235,7 +236,7 @@
 | [Saygımdan](https://open.spotify.com/track/69cGGsyc5A7OJRkjsUxWho) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Saygımdan](https://open.spotify.com/album/6DwNrHS0A2WjDU4qJwpBjh) | 4:11 | 2025-03-13 |  |
 | [Saymadım Bu Kaçıncı Şişe Dibi](https://open.spotify.com/track/3pCR88j8n7Uicla4t4kf3j) | [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [Saymadım Bu Kaçıncı Şişe Dibi](https://open.spotify.com/album/1lnrlK1FQcSO1XylzVnvxQ) | 2:34 | 2025-03-20 | 2025-04-04 |
 | [Sağ Salim](https://open.spotify.com/track/4luMMabCTC0UJgdH7sQCRK) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [AKKOR](https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G) | 4:39 | 2024-11-07 | 2025-02-18 |
-| [Sen Anlamazsın](https://open.spotify.com/track/0gpRP7BZ3sfNeZb38CJ3QK) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Sen Anlamazsın](https://open.spotify.com/album/3ZoTNMvjTmVSAVt7FOTh3s) | 2:50 | 2025-06-19 |  |
+| [Sen Anlamazsın](https://open.spotify.com/track/0gpRP7BZ3sfNeZb38CJ3QK) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Sen Anlamazsın](https://open.spotify.com/album/3ZoTNMvjTmVSAVt7FOTh3s) | 2:50 | 2025-06-19 | 2025-07-19 |
 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 | 2025-06-26 |  |
 | [Seni Bana Vermediler](https://open.spotify.com/track/1RfKc1ILYZtgkD41gCpZRc) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Seni Bana Vermediler](https://open.spotify.com/album/7nkt6nd03wiPPZOjS1VKnj) | 2:55 | 2025-04-17 | 2025-05-09 |
 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 | 2024-11-14 | 2025-07-18 |

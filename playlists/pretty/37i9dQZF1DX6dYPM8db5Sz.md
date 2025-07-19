@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR?si=VAzCXVAXT6GtnSzYOGD\-hg">Blood Orange</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,297 likes - 55 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,311 likes - 55 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 |
 | 2 | [As The Eagle Flies](https://open.spotify.com/track/0Sla33XNU2D98M5lwmu1Ca) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Welcome Back](https://open.spotify.com/album/7MCIpeJrXNn3KnKTtmwSKh) | 4:12 |
-| 3 | [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i), [Eden Leshem](https://open.spotify.com/artist/49NRXEvNMMkyewpxD2ikH4), [Alice Phoebe Lou Matthew](https://open.spotify.com/artist/0VsqD71hCI2ABkZyHlYCzP), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:43 |
+| 3 | [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:42 |
 | 4 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
 | 5 | [City of "Kings"](https://open.spotify.com/track/4NeJTjVZ6pPuPZcFJeR7JJ) | [tait mills](https://open.spotify.com/artist/15Om2Twy4OFk32Y3CKD5jH) | [City of "Kings"](https://open.spotify.com/album/3piozrVCzshPgPTD649oAO) | 3:45 |
 | 6 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |

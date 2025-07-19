@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Jon Batiste",
-  "num_followers": 140275,
+  "num_followers": 140298,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHVZGAAAAAAg1QPKPrd73vHRPSTo+TWG",
+  "snapshot_id": "aHnGygAAAACWMBixAZCMcVAVUF/upww/",
   "tracks": [
     {
       "added_at": "2025-07-14 19:23:04",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2"
     },
     {
+      "added_at": "2025-07-18 04:00:10",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 418120,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/5SC1EaTcQ4ndI9sQkHpjVT"
+    },
+    {
       "added_at": "2025-07-14 19:23:04",
       "album": {
         "name": "Blues Chase The Blues Away",
@@ -39,6 +55,22 @@
       "duration_ms": 289600,
       "name": "Blues Chase The Blues Away",
       "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
+    },
+    {
+      "added_at": "2025-07-18 04:00:10",
+      "album": {
+        "name": "See Through",
+        "url": "https://open.spotify.com/album/64xN67Mp1r0LoKCyMJ9Jsb"
+      },
+      "artists": [
+        {
+          "name": "Patrick Sweany",
+          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
+        }
+      ],
+      "duration_ms": 253354,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/6muJT0L9jOn9SOdd2CWBWg"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -81,6 +113,30 @@
       "url": "https://open.spotify.com/track/2qgRPwjxR6PYVr23fwEqTI"
     },
     {
+      "added_at": "2025-07-18 04:00:10",
+      "album": {
+        "name": "Gimme Some Love",
+        "url": "https://open.spotify.com/album/3gSJR6soD64gCKCcwG2AQ5"
+      },
+      "artists": [
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        },
+        {
+          "name": "Ian Moore",
+          "url": "https://open.spotify.com/artist/5XZzCqzWFTBV6jgSAOtxTz"
+        },
+        {
+          "name": "Johnny Moeller",
+          "url": "https://open.spotify.com/artist/565TA9CcZBr2UA6mWiL3qk"
+        }
+      ],
+      "duration_ms": 195757,
+      "name": "Gimme Some Love",
+      "url": "https://open.spotify.com/track/3J9pJHnWiLGo8B77z82pEY"
+    },
+    {
       "added_at": "2025-07-04 04:00:17",
       "album": {
         "name": "Mississippi",
@@ -111,6 +167,22 @@
       "duration_ms": 173951,
       "name": "How The Other Half Lives",
       "url": "https://open.spotify.com/track/5IOyWe1H6KNUKDsMB90COG"
+    },
+    {
+      "added_at": "2025-07-18 04:00:10",
+      "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/5gqGVKA2cUKyshC9fQwi8f"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 311360,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/0nAsHYMvIgvuGhXg2ewKHV"
     },
     {
       "added_at": "2025-06-20 04:00:32",
@@ -557,22 +629,6 @@
       "url": "https://open.spotify.com/track/2Kh8M6YbyuaP9iOMsYc58i"
     },
     {
-      "added_at": "2025-03-28 04:00:29",
-      "album": {
-        "name": "Still Walking With Me",
-        "url": "https://open.spotify.com/album/2ws6PyyFhmVuk6eEqxVadk"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Still Walking With Me",
-      "url": "https://open.spotify.com/track/37jT0oB7NHLP76GGryKFFF"
-    },
-    {
       "added_at": "2025-03-21 04:00:40",
       "album": {
         "name": "Can't Catch My Breath",
@@ -663,22 +719,6 @@
       "duration_ms": 216186,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/3tZZqzhYNqBl39I5owZsKU"
-    },
-    {
-      "added_at": "2025-02-28 05:00:32",
-      "album": {
-        "name": "Shake This Ground",
-        "url": "https://open.spotify.com/album/5jaSNW3WZMo54quHZkymAs"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Shake This Ground",
-      "url": "https://open.spotify.com/track/00HCKH34ZWbOhEKhrEWRqb"
     },
     {
       "added_at": "2025-01-31 05:00:47",
@@ -1739,38 +1779,6 @@
       "duration_ms": 268031,
       "name": "Big Grey Sky",
       "url": "https://open.spotify.com/track/58oEh6arIVp6WWUDiTnBun"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Talkin' Company Man Blues",
-        "url": "https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2"
-      },
-      "artists": [
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 250092,
-      "name": "Talkin' Company Man Blues",
-      "url": "https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Long Road Ahead",
-        "url": "https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 202143,
-      "name": "Long Road Ahead",
-      "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
     },
     {
       "added_at": "2023-09-29 04:01:00",

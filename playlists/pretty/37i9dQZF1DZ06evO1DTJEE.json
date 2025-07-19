@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 56198,
+  "num_followers": 56265,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAAx/rqzCJSOytIjJ2gCwl3/",
+  "snapshot_id": "aHg9AAAAAADsK8fnbO/cmS3BAQG3yfVA",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Way Out Here",
-      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midtown Sessions",
         "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 193534,
       "name": "Bartender In Destin - Acoustic",
       "url": "https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Way Out Here",
+      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+        "name": "Midtown Sessions",
+        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 257799,
-      "name": "That's A Mistake",
-      "url": "https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU"
+      "duration_ms": 194064,
+      "name": "Cowboy In Me - Acoustic",
+      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midtown Sessions",
-        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
       "artists": [
         {
@@ -524,9 +524,57 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 194064,
-      "name": "Cowboy In Me - Acoustic",
-      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
+      "duration_ms": 257799,
+      "name": "That's A Mistake",
+      "url": "https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where Corn Don't Grow",
+        "url": "https://open.spotify.com/album/65ipgpM1Z5TmFj6AAIrP2F"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 243082,
+      "name": "Where Corn Don\u2019t Grow",
+      "url": "https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Behind The Bar",
+        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "That\u2019s What I\u2019ve Been Told",
+      "url": "https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Ain\u2019t Like I Can Hide It",
+      "url": "https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA"
     },
     {
       "added_at": null,
@@ -551,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where Corn Don't Grow",
-        "url": "https://open.spotify.com/album/65ipgpM1Z5TmFj6AAIrP2F"
+        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
       },
       "artists": [
         {
@@ -560,25 +608,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 243082,
-      "name": "Where Corn Don\u2019t Grow",
-      "url": "https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Ain\u2019t Like I Can Hide It",
-      "url": "https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA"
+      "duration_ms": 183560,
+      "name": "Jesus And Wranglers",
+      "url": "https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05"
     },
     {
       "added_at": null,
@@ -592,25 +624,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 230733,
-      "name": "That\u2019s What I\u2019ve Been Told",
-      "url": "https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Jesus And Wranglers",
-      "url": "https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05"
+      "duration_ms": 212200,
+      "name": "I Let A Damn Good Woman Leave",
+      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
       "duration_ms": 221946,
       "name": "She Used to Be Mine (with Riley Green)",
       "url": "https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Behind The Bar",
-        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "I Let A Damn Good Woman Leave",
-      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
     },
     {
       "added_at": null,

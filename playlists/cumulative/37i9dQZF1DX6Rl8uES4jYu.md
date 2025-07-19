@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-476 songs - 1 day 2 hr 32 min
+477 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [All Yours](https://open.spotify.com/track/3YUeUS5imOjS9wqj0xhGYV) | [Jane Holiday](https://open.spotify.com/artist/05GeUxBiQ1aq6VYnODnPbD) | [All Yours](https://open.spotify.com/album/20ejRbhmfw3JUbXuCDeV4v) | 3:10 | 2020-11-13 | 2022-03-26 |
 | [Ally \- Headnodic Remix](https://open.spotify.com/track/4vNh0o3gb1QbmLKtiQvYFn) | [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo), [Raashan Ahmad](https://open.spotify.com/artist/7iljQVDzReF6FBa4cNMIAp), [Breathless](https://open.spotify.com/artist/20LeSCKi2mT9uFAdUwvyhK), [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3) | [Ally \(Headnodic Remix\)](https://open.spotify.com/album/11xqMaOFDQzJEeWiC7KOdk) | 3:29 | 2021-09-21 | 2022-07-20 |
 | [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 | 2022-04-22 | 2023-11-11 |
+| [Amazing](https://open.spotify.com/track/1jjfb6Ne65MgkrT3jTJMLv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Amazing](https://open.spotify.com/album/3WP0A1hksYMbO913fap5PF) | 2:50 | 2025-07-18 |  |
 | [Another Lover](https://open.spotify.com/track/2wQzwyoJt8wnlN7E1dt2m5) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Another Lover](https://open.spotify.com/album/1g3YQBgxNuARNCxFB5U9pK) | 3:00 | 2023-09-22 |  |
 | [Apocalypse](https://open.spotify.com/track/0fot2fNSEn8R8HOwIPUMIR) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Apocalypse](https://open.spotify.com/album/4QMZonIRFFJmhi2Ya0r3E5) | 3:25 | 2022-03-18 | 2022-04-17 |
 | [Artichoke](https://open.spotify.com/track/4KLdyKhs8sFlDdQPMAzWif) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Eitan Bernstein](https://open.spotify.com/artist/57c1G1JfgEHIWPSu8wED14) | [Artichoke](https://open.spotify.com/album/1DdT8ZkXpypodT0jxvIzSg) | 3:34 | 2022-03-18 | 2022-07-29 |
@@ -161,7 +162,7 @@
 | [Funk You](https://open.spotify.com/track/4ChNmXGwXCS1PD76dQqExT) | [Dupont Brass](https://open.spotify.com/artist/0k65PL08B1OYc76Wlh2hjT), [HMG](https://open.spotify.com/artist/6diGZumAY3ubVA7L6e8iBR), [Jake Vicious](https://open.spotify.com/artist/4uzponaVyeBeZ9oSlaGBrA) | [Funk You](https://open.spotify.com/album/00B2cadfqgzLKBw06lxe8b) | 3:16 | 2021-09-21 | 2022-04-21 |
 | [GELATO](https://open.spotify.com/track/7ji06OHZz7VQeWwzeHIhgo) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD), [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ) | [GELATO](https://open.spotify.com/album/6dcBYyV5sygdrDkov86jvg) | 2:04 | 2020-11-13 | 2022-03-26 |
 | [Get Down! \(Before You Lose Control\)](https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG), [Nia Andrews](https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt) | [Get Down! \(Before You Lose Control\)](https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm) | 3:24 | 2022-04-29 | 2023-03-04 |
-| [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2022-10-14 |  |
+| [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2022-10-14 | 2025-07-19 |
 | [Gidget](https://open.spotify.com/track/1UrxBDCv9kDRIBUc2oskNR) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:39 | 2020-11-13 | 2022-03-08 |
 | [Girl](https://open.spotify.com/track/0pHCRRtOHbe94CaEAYGkGn) | [Yellow Light District](https://open.spotify.com/artist/4AoyaN1kL85CaV4BVcrIrZ), [Transiit](https://open.spotify.com/artist/0Y93C8lT8wOvNCMAMIpkNX), [S.O.J.](https://open.spotify.com/artist/6YqP08RyC6zN6GaZUZmTWw) | [Girl](https://open.spotify.com/album/1kvDcmbHEE1dC8J2cTia4c) | 2:48 | 2021-09-21 | 2022-07-28 |
 | [Girls](https://open.spotify.com/track/1LFu0JwC7x6CFLc6jpRKzH) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Girls](https://open.spotify.com/album/5pmNkvkpQCHdFvdbwEM2aa) | 3:24 | 2020-11-13 | 2022-03-19 |

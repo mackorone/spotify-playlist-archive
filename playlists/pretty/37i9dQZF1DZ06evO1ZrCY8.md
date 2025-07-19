@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,225 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,270 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 49 | [Juan Valdivia y Entre dos tierras \- Interludio](https://open.spotify.com/track/4wkROZAHQ0E8L71rnbtlPz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Héroes: Silencio y Rock & Roll](https://open.spotify.com/album/6c3S9kBmbQJ50qQRwKuYuV) | 0:39 |
 | 50 | [Olvidado](https://open.spotify.com/track/7zk3hfoyY091DiGRET3vfN) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:30 |
 
-Snapshot ID: `aHbrgAAAAAAz5Q7VI+HNEk2pZGnTuISc`
+Snapshot ID: `aHg9AAAAAABUytZMQXoLNOQ4vvZZaECP`

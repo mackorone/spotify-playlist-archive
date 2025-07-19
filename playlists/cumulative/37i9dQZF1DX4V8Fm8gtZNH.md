@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-342 songs - 20 hr 16 min
+344 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,13 @@
 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 | 2023-10-18 |  |
 | [A Song For Mama](https://open.spotify.com/track/6FuJokk9FHx0E00SZ8ib8X) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 5:03 | 2025-06-06 |  |
 | [Across the Tracks](https://open.spotify.com/track/1fIIgQ0J8JQEWSXTZwDruK) | [Psychedelic Soul Crew](https://open.spotify.com/artist/1W9oqhomWQ8N3ywoVnU0Mj) | [Soul, Funk, & Be Free](https://open.spotify.com/album/265zhQAh7TUUeoInu1pD5m) | 3:34 | 2023-10-18 |  |
+| [Afro Puffs](https://open.spotify.com/track/156hYP1YuXlLEEtWVtuIIw) | [The Lady Of Rage](https://open.spotify.com/artist/5CxwOBCoGSvWxfDgNoa1Nv) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:48 | 2025-07-18 |  |
 | [AL 2 Final Now](https://open.spotify.com/track/3fXp6F2Zq1WENE88Xzz7U9) | [Gavin Maestro](https://open.spotify.com/artist/5eEW06gmEMtphtMZtOcnj2) | [AL 2 Final Now](https://open.spotify.com/album/3ab1wuCiLHF16khzv6VZQw) | 2:49 | 2023-10-18 |  |
 | [All I Need \- Intro](https://open.spotify.com/track/796AitRBFybQo1Fighy7yd) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Fantasy](https://open.spotify.com/album/4lBRxkADy8ER4b54cQZCYw) | 1:26 | 2023-10-18 |  |
 | [All Over Again](https://open.spotify.com/track/3WYF6pDZvnRA878smwNuoy) | [Iman Jordan](https://open.spotify.com/artist/06HBe4UB9JJvG2eKmcPQ5f), [Roy Genius](https://open.spotify.com/artist/02sBr1wHWWzsigeUOFZuRX) | [All Over Again](https://open.spotify.com/album/2bJHDLJjNReMkpF7kE9PzJ) | 3:31 | 2023-10-18 |  |
 | [All We Got \(feat\. Kanye West & Chicago Children's Choir\)](https://open.spotify.com/track/3ZLyt2ndLFBh148XRYjYYZ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:23 | 2023-10-18 |  |
 | [Am I a Good Man](https://open.spotify.com/track/1uUitmrrG3Z9RpT5g6RUlk) | [Them Two](https://open.spotify.com/artist/30yc7uS58qGpzBNc3fPpi0) | [Am I a Good Man b/w Love Has Taken Wings](https://open.spotify.com/album/136FnLDYv4eroSb5vgIPrT) | 3:09 | 2023-10-18 |  |
+| [Ascension](https://open.spotify.com/track/3qvPwtirxoG9fC67oygDwx) | [Maxwell](https://open.spotify.com/artist/5QrI0Ml8FugobbnpY4aXWg) | [Ascension](https://open.spotify.com/album/1EQgcBkCHAToFiBG2j8Hgh) | 2:12 | 2025-07-18 |  |
 | [Back Burner](https://open.spotify.com/track/6QeJFGr6dXIykO24UmAAeS) | [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7) | [Songs About Us](https://open.spotify.com/album/5vHbxFqZfAjvpyezS2jR4H) | 2:49 | 2025-06-06 |  |
 | [Back to Me](https://open.spotify.com/track/4s41fhUIeatzAYlstRCxNd) | [Will Jordan](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) | [Back to Me](https://open.spotify.com/album/5MvFSIVZ2U5H6TbpsFFrWm) | 3:44 | 2023-10-18 |  |
 | [Bag Up](https://open.spotify.com/track/09byku50cegoKBqWdSvwDs) | [Master Plan Inc](https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp) | [Master Plan Inc](https://open.spotify.com/album/7tMPrjuAhmepGmaqVxNw7G) | 2:51 | 2023-10-18 |  |
@@ -77,7 +79,7 @@
 | [Cosmic Slop \- Moodymann Mix](https://open.spotify.com/track/5pdLIJUS4g08YMWqjnbbk3) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Cosmic Slop \(Moodymann Mix\)](https://open.spotify.com/album/01VG3AEYttS0Ew5M7UGW9O) | 9:30 | 2023-10-18 |  |
 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2023-10-18 |  |
 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 | 2023-10-18 |  |
-| [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 | 2023-10-18 |  |
+| [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/32XFczkeHJUL22Kx0ll3nk) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 | 2023-10-18 |  |
 | [Dance](https://open.spotify.com/track/4oQ3gzVaiNohFMaiuYcmUA) | [Memar Blakelee](https://open.spotify.com/artist/1pAerLJPT0pyH6RCX6BuI6) | [Dance](https://open.spotify.com/album/2HPa5QpGKiPNxjuoinPvPh) | 3:51 | 2023-10-18 |  |
 | [Dancin' In The Moonlight](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 | 2023-10-18 |  |
 | [Danger](https://open.spotify.com/track/5PlnyILIdKiIpdbL4Z2sPq) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4), [Queens](https://open.spotify.com/artist/1Sp1JX3Degylt1q79Cx0iX) | [P.S\. I Still Love You](https://open.spotify.com/album/4taGxZ0lhkOLX0JvdlE5LP) | 3:18 | 2023-10-18 |  |

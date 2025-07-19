@@ -14017,6 +14017,28 @@
     },
     {
       "album": {
+        "name": "boffum",
+        "url": "https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "J White Did It",
+          "url": "https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127862,
+      "name": "boffum",
+      "url": "https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS"
+    },
+    {
+      "album": {
         "name": "Boncuk",
         "url": "https://open.spotify.com/album/3Rn83epWQkoztmpi0l8Nso"
       },
@@ -45761,6 +45783,24 @@
     },
     {
       "album": {
+        "name": "I Can Die Now",
+        "url": "https://open.spotify.com/album/6qvTtbsexSEvC5nq89Um2o"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171280,
+      "name": "I Can Die Now",
+      "url": "https://open.spotify.com/track/6uHFeKZwWzGyIXlLbKi9oz"
+    },
+    {
+      "album": {
         "name": "I Can Hear the Drums",
         "url": "https://open.spotify.com/album/78rfrXOO1Xj81K2fYp3sBC"
       },
@@ -73216,28 +73256,12 @@
         {
           "name": "strongboi",
           "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        },
-        {
-          "name": "Eden Leshem",
-          "url": "https://open.spotify.com/artist/49NRXEvNMMkyewpxD2ikH4"
-        },
-        {
-          "name": "Alice Phoebe Lou Matthew",
-          "url": "https://open.spotify.com/artist/0VsqD71hCI2ABkZyHlYCzP"
-        },
-        {
-          "name": "Ziv Yamin",
-          "url": "https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8"
-        },
-        {
-          "name": "Dekel Adin",
-          "url": "https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9"
         }
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 283375,
+      "duration_ms": 282916,
       "name": "one thing",
       "url": "https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli"
     },

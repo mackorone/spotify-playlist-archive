@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Max Carra & Lira.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Bauti Mascia & Amigo de Artistas.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -7745,6 +7745,28 @@
     },
     {
       "album": {
+        "name": "No Fue Culpa Tuya",
+        "url": "https://open.spotify.com/album/6V2h9j8lyA1DxaKALu0ue6"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148283,
+      "name": "No Fue Culpa Tuya",
+      "url": "https://open.spotify.com/track/3S0pR6KMZdaBL0QC9SI2vY"
+    },
+    {
+      "album": {
         "name": "NO FUIMOS",
         "url": "https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf"
       },
@@ -10836,7 +10858,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 182599,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,128 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,266 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 19 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
 | 20 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
 | 21 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
-| 22 | [Tera Mera Pyar](https://open.spotify.com/track/5MXSLWGyPosYJ09LNu12SO) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 6:13 |
-| 23 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
+| 22 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
+| 23 | [Tera Mera Pyar](https://open.spotify.com/track/5MXSLWGyPosYJ09LNu12SO) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 6:13 |
 | 24 | [Deewana Tera](https://open.spotify.com/track/2bJZCUnAI9Se6MmtQy8Fcv) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:00 |
 | 25 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 |
 | 26 | [Kehdoon Tumhen \(Close To U\)](https://open.spotify.com/track/2up5kZEADyiPGQNDhgdDVl) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Ramona](https://open.spotify.com/artist/4AlZlo4zQrs1xVL37oZsIl), [Blazee](https://open.spotify.com/artist/0DfkTmaYSHh3urEl71R9A0), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [The Return Of Daddy Mix](https://open.spotify.com/album/3XureElTa0Ra4VRxbn72oa) | 4:56 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 33 | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/track/3GVXeCSri5gx5TEn9MmW9V) | [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/album/7dZkrrf2KRYUxQpJe62O4L) | 3:56 |
 | 34 | [Piya Re Piya Re](https://open.spotify.com/track/2q3D4sdAMJSJRS9t6oaBRo) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Salaam \- Nusrat Fateh Ali Khan](https://open.spotify.com/album/2Kd3ERDAIRn0DLJGzxu3dl) | 7:44 |
 | 35 | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/track/29dTr9pLXHTIRACrcd6UD9) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ), [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/album/0hMcNdQP1rGgdbNip7hLvH) | 5:28 |
-| 36 | [Yeh Kya Hua](https://open.spotify.com/track/6P6o9pPFIYMxxnEhsvgfJA) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 5:03 |
-| 37 | [Tu](https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kismat](https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY) | 4:26 |
+| 36 | [Tu](https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kismat](https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY) | 4:26 |
+| 37 | [Yeh Kya Hua](https://open.spotify.com/track/6P6o9pPFIYMxxnEhsvgfJA) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 5:03 |
 | 38 | [Let's Work It out \(feat\. Jahaziel\)](https://open.spotify.com/track/78PIQS3mIIJc7ZZ3OKGr6c) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Jahaziel](https://open.spotify.com/artist/11PK8fmGXnan9HCEwNI1T6) | [Storyteller](https://open.spotify.com/album/4kExwHAZEatBHppwVp5Vl9) | 4:05 |
 | 39 | [Paree](https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/4ybpUVEq9QLSe6UncFUAZW) | 6:01 |
 | 40 | [Nain Se Naino Ko Mila](https://open.spotify.com/track/5dU0yXUXYjP1e6e2s6OSh2) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 4:12 |

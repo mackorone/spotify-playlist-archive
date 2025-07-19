@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Pop music driving the current, every week.  Cover: Rizzle Kicks & Rachel Chinouriri",
+  "description": "Pop music driving the current, every week.  Cover: Leigh-Anne",
   "name": "Pop Frequency",
   "tracks": [
     {
@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Amazing",
+        "url": "https://open.spotify.com/album/3WP0A1hksYMbO913fap5PF"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170578,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1jjfb6Ne65MgkrT3jTJMLv"
+    },
+    {
+      "album": {
         "name": "American High",
         "url": "https://open.spotify.com/album/3LySzqWDLm3I3FmNkXkYgV"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
@@ -830,6 +848,24 @@
       "duration_ms": 189713,
       "name": "Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)",
       "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
+    },
+    {
+      "album": {
+        "name": "Been A Minute",
+        "url": "https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Been A Minute",
+      "url": "https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR"
     },
     {
       "album": {
@@ -1382,6 +1418,24 @@
       "duration_ms": 223680,
       "name": "Capable of love",
       "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
+    },
+    {
+      "album": {
+        "name": "Carat Cake",
+        "url": "https://open.spotify.com/album/5mXJe0iw9NXa06rDaKhjoi"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141646,
+      "name": "Carat Cake",
+      "url": "https://open.spotify.com/track/1lQUPc4TwyexiWSXDENSPb"
     },
     {
       "album": {
@@ -3903,6 +3957,24 @@
     },
     {
       "album": {
+        "name": "HIGH STAR",
+        "url": "https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "HIGH STAR",
+      "url": "https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE"
+    },
+    {
+      "album": {
         "name": "high water",
         "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
       },
@@ -4630,7 +4702,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 195328,
       "name": "Is This Really Love?",
       "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
@@ -6703,6 +6775,24 @@
     },
     {
       "album": {
+        "name": "Party Monster",
+        "url": "https://open.spotify.com/album/1AMTkFoROS3COqpJ7FW57d"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211544,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/6Ce4yaLUyw8CO1Tp8AMjgm"
+    },
+    {
+      "album": {
         "name": "Pass the Salt (feat. Vince Staples)",
         "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
       },
@@ -6852,7 +6942,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 131467,
       "name": "Pinky Swear?",
       "url": "https://open.spotify.com/track/4Yvu5lwTuoxmesv3oizLRa"
@@ -7758,7 +7848,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 199332,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/24ouK1I3KXVItXRWIu2G9W"
@@ -7842,7 +7932,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -8062,6 +8152,24 @@
       "duration_ms": 186053,
       "name": "SOW",
       "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
+    },
+    {
+      "album": {
+        "name": "space",
+        "url": "https://open.spotify.com/album/5JexiEUuYNJlspNfNGy4Mt"
+      },
+      "artists": [
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162174,
+      "name": "space",
+      "url": "https://open.spotify.com/track/24BkrXsHVZdmy7mcoRAqLk"
     },
     {
       "album": {
@@ -9469,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "ur luv is see through!",
+        "url": "https://open.spotify.com/album/0mos8b8lEAkWyDd5b4Uwx8"
+      },
+      "artists": [
+        {
+          "name": "Divine Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163712,
+      "name": "ur luv is see through!",
+      "url": "https://open.spotify.com/track/0AAik5GZKfDVdXXNzKVTlG"
+    },
+    {
+      "album": {
         "name": "Valentine's Day (I Ain't Got Time For That)",
         "url": "https://open.spotify.com/album/2xlbCKwkLJKAO8H0gNdXIe"
       },
@@ -10050,7 +10176,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 135253,
       "name": "Work",
       "url": "https://open.spotify.com/track/5NRzwCkGp1z64lBLEAfOzW"

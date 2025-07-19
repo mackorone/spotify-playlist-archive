@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 207835,
+  "num_followers": 207874,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-07-11 08:10:37",
       "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
-    },
-    {
-      "added_at": "2025-07-11 08:10:37",
-      "album": {
         "name": "Die For This",
         "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 155200,
       "name": "Die For This",
       "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
+    },
+    {
+      "added_at": "2025-07-11 08:10:37",
+      "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
     },
     {
       "added_at": "2025-07-11 08:10:37",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-07-11 08:10:37",
       "album": {
+        "name": "Tuff Times Never Last",
+        "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 228385,
+      "name": "Da Du Dah",
+      "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
+    },
+    {
+      "added_at": "2025-07-11 08:10:37",
+      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -683,26 +699,6 @@
     {
       "added_at": "2025-07-11 08:10:37",
       "album": {
-        "name": "I Like It I Like It",
-        "url": "https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "I Like It I Like It",
-      "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
-    },
-    {
-      "added_at": "2025-07-11 08:10:37",
-      "album": {
         "name": "Painted",
         "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
       },
@@ -735,18 +731,22 @@
     {
       "added_at": "2025-07-11 08:10:37",
       "album": {
-        "name": "Tuff Times Never Last",
-        "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM"
+        "name": "I Like It I Like It",
+        "url": "https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 228385,
-      "name": "Da Du Dah",
-      "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
+      "duration_ms": 250400,
+      "name": "I Like It I Like It",
+      "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
     },
     {
       "added_at": "2025-07-11 08:10:37",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2025-07-11 08:10:37",
       "album": {
-        "name": "For You (Many Selves Version)",
-        "url": "https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir"
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
       },
       "artists": [
         {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 221525,
-      "name": "For You - Many Selves Version",
-      "url": "https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ"
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     },
     {
       "added_at": "2025-07-11 08:10:37",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-07-11 08:10:37",
       "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+        "name": "For You (Many Selves Version)",
+        "url": "https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
         }
       ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+      "duration_ms": 221525,
+      "name": "For You - Many Selves Version",
+      "url": "https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ"
     }
   ],
   "unique_name": "aloe",

@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: HAON\(김하온\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-779 songs - 1 day 17 hr 43 min
+780 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,7 @@
 | [Mint Condition](https://open.spotify.com/track/3kcQHARwuV6u46zZ9gbgFs) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mint Condition](https://open.spotify.com/album/7gMpIdUlwWtAGf1I8fO9ZF) | 3:16 | 2022-04-01 | 2022-07-29 |
 | [Minus X](https://open.spotify.com/track/1BdGIsP0rHlOdqXPK4TPku) | [104](https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8) | [Minus X](https://open.spotify.com/album/61lk5MIwo71Vn02gX2sLrI) | 2:50 | 2022-07-24 | 2022-07-28 |
 | [Miracle](https://open.spotify.com/track/5putPsdtDI6wRldJDHRoJd) | [Kim Addict](https://open.spotify.com/artist/2egBIYU5zJpYuuLkTllux7) | [S2](https://open.spotify.com/album/7ANsUaVEoUtT5FrHEwIcrU) | 3:42 | 2023-01-10 | 2023-01-26 |
-| [Misfits \(Feat\. MELOH, Kid Wine\)](https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Berry Loves My Mood](https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws) | 3:30 | 2022-04-01 |  |
+| [Misfits \(Feat\. MELOH, Kid Wine\)](https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Berry Loves My Mood](https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws) | 3:30 | 2022-04-01 | 2025-07-19 |
 | [mmm \(feat\. oceanfromtheblue\)](https://open.spotify.com/track/0HEX8HE9Dznsu5VCdeZrGf) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 3:05 | 2022-05-05 | 2025-02-07 |
 | [Model House \(Feat\. Koonta\)](https://open.spotify.com/track/2au4vnPtLBMAHnjH6fmi93) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:25 | 2022-07-19 | 2022-08-02 |
 | [Moment](https://open.spotify.com/track/4SkQKhc8EKiR3sdkhvx9ek) | [JISEUNG LEE](https://open.spotify.com/artist/2MHDitIe7kEMi6pSEz9ZRm) | [Moment](https://open.spotify.com/album/4JS4LRjFvuZCpMf8BdRku5) | 3:23 | 2022-08-12 | 2022-08-18 |
@@ -698,6 +698,7 @@
 | [Too Busy](https://open.spotify.com/track/1b2Hhx9a6ucAQFhZgjfLbb) | [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Too Busy](https://open.spotify.com/album/2IzEgyR7Up7Qtvl2KOSp2e) | 2:42 | 2022-04-01 | 2022-07-27 |
 | [Top Floor \(Feat\. MELOH, The Quiett\)](https://open.spotify.com/track/3bCwJtZtp1BQQ3ej1JVUXX) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Curtain Call](https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx) | 2:35 | 2022-04-01 | 2022-07-13 |
 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 | 2022-12-22 | 2023-01-26 |
+| [Trade](https://open.spotify.com/track/2YpSa1Jtz5j2i0CuVzb0A2) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Angel](https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA) | 2:37 | 2025-07-15 |  |
 | [TRAMPLED](https://open.spotify.com/track/0dVof5Q6rzalmj2eqB9Dr2) | [Urban Fisher](https://open.spotify.com/artist/2kGf1F2GuQecSJRhzRLyPQ) | [SPILLING](https://open.spotify.com/album/02JmyFcdizrK2jjhfLQ7J0) | 3:19 | 2022-05-11 | 2022-06-05 |
 | [Trauma](https://open.spotify.com/track/1UXlVn3DAvh0yzn3CxqVlV) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Trauma](https://open.spotify.com/album/32OwwlVs8Sy7sUDJuoh7jx) | 2:54 | 2024-11-28 | 2025-01-07 |
 | [Treasure \(Feat\. Kvsh, CHOILB\)](https://open.spotify.com/track/7icNK4lve2yPlM1NuN6cJ4) | [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Treasure](https://open.spotify.com/album/6PLYX18iZE3mVG7xFawuPV) | 3:26 | 2022-04-21 | 2022-07-26 |

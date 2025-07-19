@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-1,548 songs - 3 day 9 hr 27 min
+1,549 songs - 3 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Alma](https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Alma](https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0) | 2:25 | 2024-12-31 | 2025-01-15 |
 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 | 2025-02-08 | 2025-02-12 |
 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2024-01-29 | 2024-02-07 |
-| [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a) | 3:18 | 2025-07-15 |  |
+| [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a) | 3:18 | 2025-07-15 | 2025-07-19 |
 | [Ameri](https://open.spotify.com/track/5lXKHJ3kYg9aM0TdBgaZBe) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:19 | 2024-11-19 | 2024-12-01 |
 | [AMIGA CON BENEFICIOS](https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [AMIGA CON BENEFICIOS](https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS) | 3:13 | 2024-10-15 | 2024-10-17 |
 | [Amigos Y Enemigos Almighty](https://open.spotify.com/track/3RpbyzSdjlKeEEnVbzhCRE) | [Membrillito](https://open.spotify.com/artist/1Wkq8mUYQv7GfWVYkq5Nu9) | [Amigos Y Enemigos Almighty](https://open.spotify.com/album/6hIwKyH17huDs7cJZ0rhrC) | 2:30 | 2024-10-28 | 2024-11-25 |
@@ -710,6 +710,7 @@
 | [La Revolución](https://open.spotify.com/track/6PTdEgJEazcXaiQAEW3n8u) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El Retorno](https://open.spotify.com/album/6dj1mxj9H7fHfiM5WmGJAK) | 5:29 | 2025-07-01 | 2025-07-16 |
 | [LA TORTURA](https://open.spotify.com/track/1vKXtNEKU9fegCsHt9LQPD) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf) | [166 \(DELUXE\) retirada](https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm) | 2:28 | 2025-03-04 | 2025-03-23 |
 | [La Vida Sin Ti](https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:44 | 2024-05-07 | 2024-05-22 |
+| [La última canción](https://open.spotify.com/track/38tkHGzTz7zkSWtdih973H) | [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [La última canción](https://open.spotify.com/album/5mv9TLj5uCgoyApnPbQct5) | 3:01 | 2025-07-18 |  |
 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 | 2024-07-09 | 2024-07-27 |
 | [Lachryma](https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:36 | 2025-04-29 | 2025-05-05 |
 | [Lara](https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 3:18 | 2024-10-26 | 2024-11-13 |

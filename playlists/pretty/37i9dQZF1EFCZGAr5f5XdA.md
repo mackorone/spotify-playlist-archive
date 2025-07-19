@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,896 likes - 210 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,899 likes - 210 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 52 | [Morning In America](https://open.spotify.com/track/2JXNOtb0ANe6MzgRYDQG2J) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 4:25 |
 | 53 | [iRobot](https://open.spotify.com/track/453QwgDIG95NmmLqSxnPsR) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:28 |
 | 54 | [Back to You](https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [Twin Forks](https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ) | 2:50 |
-| 55 | [Conversations with my Wife](https://open.spotify.com/track/1EAZ0APxPiVuzDb7R5TfVI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:26 |
-| 56 | [Another Level](https://open.spotify.com/track/1YmY0HUm05BUpcHibc1bhB) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 2:42 |
+| 55 | [Another Level](https://open.spotify.com/track/1YmY0HUm05BUpcHibc1bhB) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 2:42 |
+| 56 | [Conversations with my Wife](https://open.spotify.com/track/1EAZ0APxPiVuzDb7R5TfVI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:26 |
 | 57 | [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/4OSq3SdsA8gdWifORPf3YE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4) | 3:06 |
 | 58 | [The Good In Me](https://open.spotify.com/track/0XA9B3KXLmdgaQ2KcIJa3h) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:43 |
 | 59 | [Carry Your Throne](https://open.spotify.com/track/6luhvKibJJNM4P64RLNwgg) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Definition](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC) | 3:23 |
@@ -180,8 +180,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 170 | [Heaven](https://open.spotify.com/track/451zgY3T1avOqREfcio9WX) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Heaven](https://open.spotify.com/album/6clTUHFKfFoea1lEfYysCl) | 2:43 |
 | 171 | [Dead Presidents \(feat\. Jon Bellion\)](https://open.spotify.com/track/5zxTvYR4KtFVBdOVKWdLKM) | [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Closure](https://open.spotify.com/album/14YwIucMmKcVi6IW2P9vt8) | 3:33 |
 | 172 | [Something In The Water](https://open.spotify.com/track/0UU5u5QlcHbhAePxN8bCiK) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 2:51 |
-| 173 | [Hip Replacement](https://open.spotify.com/track/3q557Vq0NZWyYexMpnNvFJ) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 4:13 |
-| 174 | [Dirty Water](https://open.spotify.com/track/62kqibRMj9qSFroX6HzTQT) | [The Debut: Dream Academy](https://open.spotify.com/artist/1ym6dTP4ClYi7SG6Xj9goe) | [The Debut: Dream Academy \- Live Finale](https://open.spotify.com/album/7C9bp0HbTNPzz0kgAIWmmo) | 2:41 |
+| 173 | [Dirty Water](https://open.spotify.com/track/62kqibRMj9qSFroX6HzTQT) | [The Debut: Dream Academy](https://open.spotify.com/artist/1ym6dTP4ClYi7SG6Xj9goe) | [The Debut: Dream Academy \- Live Finale](https://open.spotify.com/album/7C9bp0HbTNPzz0kgAIWmmo) | 2:41 |
+| 174 | [Hip Replacement](https://open.spotify.com/track/3q557Vq0NZWyYexMpnNvFJ) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 4:13 |
 | 175 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 |
 | 176 | [WASH2](https://open.spotify.com/track/2FcPfHa1dngTMjhlHD9zg4) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:41 |
 | 177 | [Do](https://open.spotify.com/track/5VaT5fkg41ZAzCJ5tuuVYT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 3:06 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 209 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 210 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `Ab3DMgAAAAB05CWSAy0wJ/fLWs5+z6x4`
+Snapshot ID: `Ab3I0gAAAAAE9NRo5U7arDpSqHSljHgl`

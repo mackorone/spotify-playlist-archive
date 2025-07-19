@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Abel Pintos",
+  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Luciano Pereyra",
   "name": "Esto es Pop",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 197000,
       "name": "19 (feat. Gustavo Cerati)",
       "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
+    },
+    {
+      "album": {
+        "name": "22 De Marzo",
+        "url": "https://open.spotify.com/album/4DYSZRI8S1YFpqUP0AIeFz"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203221,
+      "name": "22 De Marzo",
+      "url": "https://open.spotify.com/track/2apG9brHB5vHSKIbLMrbUP"
     },
     {
       "album": {
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 155614,
       "name": "Como estasss??",
       "url": "https://open.spotify.com/track/0G3uXVdNJ5tVQKt1kpMFor"
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 267960,
       "name": "Coraz\u00f3n Salvaje",
       "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 177225,
       "name": "EL D\u00cdA QUE ME MUERA",
       "url": "https://open.spotify.com/track/0TcBoNDYHV2OmWNGowR2Td"
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 146000,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/3fIzqhl7QbjobgArBPGRvA"
@@ -2966,6 +2984,24 @@
       "duration_ms": 188506,
       "name": "La Renta",
       "url": "https://open.spotify.com/track/6OZ2PKOW6Pn8f3yhu2qzdW"
+    },
+    {
+      "album": {
+        "name": "La traici\u00f3n",
+        "url": "https://open.spotify.com/album/0RL5iVXxnP2IwHggO8BBgC"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219750,
+      "name": "La traici\u00f3n",
+      "url": "https://open.spotify.com/track/1iofHMtGYQZY3NMEv641IQ"
     },
     {
       "album": {
@@ -4549,6 +4585,28 @@
     },
     {
       "album": {
+        "name": "No Te Enamores De M\u00ed",
+        "url": "https://open.spotify.com/album/2cYg8Asx9PcjHVx4dUqQ9d"
+      },
+      "artists": [
+        {
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+        },
+        {
+          "name": "Agustina Pampin",
+          "url": "https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209274,
+      "name": "No Te Enamores De M\u00ed",
+      "url": "https://open.spotify.com/track/7MiY7xDFio33qx7GGALlMH"
+    },
+    {
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -5368,7 +5426,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 178285,
       "name": "Que hice mal",
       "url": "https://open.spotify.com/track/3EHhMEXVQ488kwcarMSM0h"

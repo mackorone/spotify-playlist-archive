@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Awich
 
-1,245 songs - 2 day 14 hr 41 min
+1,247 songs - 2 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [body](https://open.spotify.com/track/6NGbhbDCVG8KSJLlJrzLrd) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [body](https://open.spotify.com/album/4DL4s44whuK0jdFRonfrOn) | 3:24 | 2025-02-21 | 2025-03-14 |
 | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:12 | 2024-05-16 | 2024-07-05 |
 | [Body Pillow](https://open.spotify.com/track/0hUcTJDAHQri9QUbEiSumr) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J) | [Body Pillow](https://open.spotify.com/album/6dxfipkDogTyodVfp3Q1Zw) | 3:35 | 2023-06-22 | 2023-07-07 |
+| [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 | 2025-07-17 |  |
 | [BOMBAE](https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BOMBAE](https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282) | 2:26 | 2024-08-09 | 2024-11-15 |
 | [Bon Appétit](https://open.spotify.com/track/1Dhpasf3IFSkWHVEKH3sas) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bon Appétit](https://open.spotify.com/album/3xNVzuYogaA4nKfHVeMHtr) | 2:18 | 2025-06-20 |  |
 | [Bon Appétit](https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Bon Appétit](https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk) | 3:17 | 2023-12-08 | 2023-12-15 |
@@ -847,6 +848,7 @@
 | [Pleads \(feat\. Chief Keef & Nardo Wick\)](https://open.spotify.com/track/72nY8ePnCkQfWJEVzQNkT1) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pleads \(feat\. Chief Keef & Nardo Wick\)](https://open.spotify.com/album/6WhHRfRwwupleCL3cK782f) | 2:59 | 2024-11-07 | 2024-11-22 |
 | [Point Em Out \(with DaBaby\)](https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Point Em Out \(with DaBaby\)](https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew) | 2:13 | 2024-02-01 | 2024-04-19 |
 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 | 2023-07-06 | 2023-08-18 |
+| [POP IT](https://open.spotify.com/track/6lvxaLAI7wQISbjOK6GHGn) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [POP IT](https://open.spotify.com/album/4fY4PZSioPJFtkBvGmI3Wn) | 2:38 | 2025-07-17 |  |
 | [Pop It \(GloRilla, Mike WiLL Made\-It\)](https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Pop It \(GloRilla, Mike WiLL Made\-It\)](https://open.spotify.com/album/3fAQgitvHde56qGPrq0rMj) | 2:54 | 2023-10-05 | 2023-11-11 |
 | [Pop It Off](https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pop It Off](https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt) | 3:09 | 2025-01-24 | 2025-03-22 |
 | [PORSCHE TOPLESS](https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [PORSCHE TOPLESS](https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn) | 2:50 | 2023-06-02 | 2023-07-29 |

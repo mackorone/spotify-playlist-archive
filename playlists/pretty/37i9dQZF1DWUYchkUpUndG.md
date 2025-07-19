@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Onos & Khaya Mthethwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,071 likes - 101 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,138 likes - 101 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 37 | [On Top](https://open.spotify.com/track/4XaQh78CjGXkFFippDyuDY) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [On Top](https://open.spotify.com/album/4FyQPtWKABleYSM8JactGY) | 3:16 |
 | 38 | [Niwara Nono](https://open.spotify.com/track/35S4hNvwnw4QXBEEyholHJ) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Niwara Nono](https://open.spotify.com/album/3D8oDNoV3auxb8kYt4r7SQ) | 2:52 |
 | 39 | [Good God](https://open.spotify.com/track/4Hpy8F1Sa2NBi8IaucroY8) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Good God](https://open.spotify.com/album/2sBADjn8q8zvQcDUNbvhXd) | 2:07 |
-| 40 | [JEHOVAH](https://open.spotify.com/track/2JlbhEVXc1RWeSP3pWokpp) | [Johnnie Akpanke](https://open.spotify.com/artist/6TXNfPNDp6K9oLGk9bb1PJ), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [JEHOVAH](https://open.spotify.com/album/0sZru6q0svg8q0Zp3YwGQL) | 10:01 |
+| 40 | [JEHOVAH \- Live](https://open.spotify.com/track/2JlbhEVXc1RWeSP3pWokpp) | [Johnnie Akpanke](https://open.spotify.com/artist/6TXNfPNDp6K9oLGk9bb1PJ), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [JEHOVAH \(Live\)](https://open.spotify.com/album/0sZru6q0svg8q0Zp3YwGQL) | 10:01 |
 | 41 | [Holy Ghost](https://open.spotify.com/track/7qMtGAM3HregKdmlxslezQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Lady Audri](https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke) | [Holy Ghost](https://open.spotify.com/album/1PdYsNFHkhnqtpmDUmt5Hb) | 2:51 |
 | 42 | [Your Love](https://open.spotify.com/track/4GBW47kS52oW7wiNuqFBVA) | [Shekts Nelson](https://open.spotify.com/artist/7tpzayRo6NGGNn7s7FgXG2) | [Your Love](https://open.spotify.com/album/3IVcGJaGjHovL95qg9WnuY) | 3:23 |
 | 43 | [MUNGU](https://open.spotify.com/track/3lCAJvpiv7PB5F9SOwxA66) | [Mungu Feni](https://open.spotify.com/artist/06p4Cdi7MKjMEhHSEcHxVv), [Pastor Wilson Bugembe](https://open.spotify.com/artist/4AO9uBcZTJbn4EhaZlL8gX) | [MUNGU](https://open.spotify.com/album/4c1QdF27ng6rfdPmiTnw5y) | 3:14 |

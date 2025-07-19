@@ -5551,6 +5551,24 @@
     },
     {
       "album": {
+        "name": "I Love This Bitch",
+        "url": "https://open.spotify.com/album/0A4bZoMJuwYBqgHwBnvCZZ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147584,
+      "name": "I Love This Bitch",
+      "url": "https://open.spotify.com/track/7tfzblrqYDfOGLLlFryGTd"
+    },
+    {
+      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/60D4MdGC0mm4MG1TVLiS32"
       },
@@ -12700,7 +12718,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 166956,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/1QFWH5PC7GadXlqR9xuJFp"

@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: grentperez",
-  "num_followers": 416767,
+  "num_followers": 416738,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XXAAAAAAEhe/ITPxO0X1KqJtZvqEM",
+  "snapshot_id": "aHnGxwAAAADt0ekadKUHWTL7zU6e4qLs",
   "tracks": [
     {
       "added_at": "2025-06-27 04:00:28",
@@ -29,20 +29,20 @@
       "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
     },
     {
-      "added_at": "2025-06-13 16:00:28",
+      "added_at": "2025-07-18 04:00:07",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 197116,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
     },
     {
       "added_at": "2025-06-13 16:00:28",
@@ -63,6 +63,42 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
+      "added_at": "2025-07-18 04:00:07",
+      "album": {
+        "name": "The Moment (with KOKORO)",
+        "url": "https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        },
+        {
+          "name": "KOKORO",
+          "url": "https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "The Moment (with KOKORO)",
+      "url": "https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX"
+    },
+    {
+      "added_at": "2025-06-13 16:00:28",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "added_at": "2025-06-06 04:00:19",
@@ -147,22 +183,6 @@
       "duration_ms": 199814,
       "name": "On The Run",
       "url": "https://open.spotify.com/track/4WVjWMEhBSn3p99hD4v15b"
-    },
-    {
-      "added_at": "2025-04-04 04:00:09",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg"
     },
     {
       "added_at": "2025-05-02 04:00:26",
@@ -1639,22 +1659,6 @@
       "duration_ms": 143146,
       "name": "we all could use some help",
       "url": "https://open.spotify.com/track/6B7aGZA0Tfipg9ox1umX01"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Calling Your Name",
-        "url": "https://open.spotify.com/album/3vsWNz4RAuJ1eBXdjEosd6"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 116976,
-      "name": "Calling Your Name",
-      "url": "https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u"
     },
     {
       "added_at": "2023-09-01 04:01:00",

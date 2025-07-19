@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-427 songs - 23 hr 1 min
+428 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Bala \(feat\. Flori del Pino\)](https://open.spotify.com/track/0bqaziJFioJtEWzBx3VYlD) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ), [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V) | [Bala \(feat\. Flori del Pino\)](https://open.spotify.com/album/5rQ430QJCz7yrEn1s6T1rZ) | 2:55 | 2024-05-10 | 2024-10-28 |
 | [Balafon](https://open.spotify.com/track/2vcqzc01WxIDUVSqPxGrtd) | [Blvckr](https://open.spotify.com/artist/1Uh9u2rcNvMsoYgbgBsj6y) | [Balafon](https://open.spotify.com/album/0ZrP6qHMFfzvdWFxnjlcV2) | 2:53 | 2023-11-10 | 2024-02-19 |
 | [Balança](https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Balança](https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X) | 2:25 | 2023-12-15 | 2024-04-01 |
+| [Bambina feat\. Martina Camargo \- Dream Edit](https://open.spotify.com/track/0yjBRyMzzVcB4v76Tt4Lro) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Bambina](https://open.spotify.com/album/28TWfwYUHwA01HtRdoic38) | 3:23 | 2025-07-18 |  |
 | [Bamboleo](https://open.spotify.com/track/460XCntyhpuFVDyPfDGPXn) | [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Bamboleo](https://open.spotify.com/album/22idVlsqG98oknXXTtd6Sy) | 3:20 | 2024-05-10 |  |
 | [Bandolera](https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf) | [Joan Cases](https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL) | [Bandolera](https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw) | 2:48 | 2021-10-08 | 2023-11-11 |
 | [Bandolera](https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [Junior Black](https://open.spotify.com/artist/1L7pqzRUXEMIrNrTt5EKPa) | [Bandolera](https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp) | 1:57 | 2024-04-26 |  |
@@ -407,7 +408,7 @@
 | [Ulalala](https://open.spotify.com/track/4EMLCdqC0BXgpr42Op96a0) | [Chinonegro](https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY) | [Modurap](https://open.spotify.com/album/5OLIjX9kVgj00JxlvX5PkD) | 3:46 | 2023-12-01 | 2024-01-27 |
 | [Umoja](https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Umoja](https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK) | 3:08 | 2021-10-08 | 2023-11-11 |
 | [Una Copa Más](https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [LVGA](https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty) | [Una Copa Más](https://open.spotify.com/album/7f4mG1YXSEs32fO4X93ekk) | 2:49 | 2024-04-26 | 2024-09-17 |
-| [una noche con hugel](https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [una noche con hugel](https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT) | 3:11 | 2025-03-14 |  |
+| [una noche con hugel](https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [una noche con hugel](https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT) | 3:11 | 2025-03-14 | 2025-07-19 |
 | [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 | 2024-12-20 |  |
 | [Vagabundos](https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Vagabundos](https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j) | 2:37 | 2021-10-08 | 2023-11-11 |
 | [Vai Caralho \(Do togo\)](https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Vai Caralho \(Do togo\)](https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN) | 3:08 | 2024-03-15 | 2024-07-13 |

@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-291 songs - 19 hr 0 min
+293 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-01-17 |  |
 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 | 2023-10-16 | 2024-05-24 |
 | [Another One Bites The Dust \- Live](https://open.spotify.com/track/45mhiVPUphR25oRJ4UEgDz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen Rock Montreal](https://open.spotify.com/album/2IY3Ty8CrUyvpibt8AcZmp) | 4:00 | 2024-05-23 |  |
+| [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-18 |  |
 | [Back To Black](https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:01 | 2024-05-23 |  |
 | [Beautiful Day \- The Perfecto Mix / Remastered 2024](https://open.spotify.com/track/1Sbfug2rLXIWeszhGtc0Tb) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Andy Gray](https://open.spotify.com/artist/4LqKZtouJMsqnHPN813ch7) | [Beautiful Day](https://open.spotify.com/album/4SbnxPaReYpeMTVnC1N6D2) | 7:50 | 2024-07-19 |  |
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2023-10-16 | 2024-05-24 |
@@ -94,6 +95,7 @@
 | [Get Back \- 2021 Mix](https://open.spotify.com/track/47qD4mGcc6cS4PbkvoIcy9) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Super Deluxe\)](https://open.spotify.com/album/1BdxbYp1FaNejpDgtDo25V) | 3:08 | 2024-05-23 |  |
 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 | 2024-06-21 |  |
 | [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 | 2023-10-16 | 2024-05-24 |
+| [Give It To Me 2025](https://open.spotify.com/track/4NnFdCD1ZyZVe6yvwPcyGe) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Give It To Me 2025](https://open.spotify.com/album/3NdkhaYtmYhEIRkTw6r7lS) | 2:41 | 2025-07-18 |  |
 | [Gonna Need Someone](https://open.spotify.com/track/6mBul4Vs17ZxW6vnO6Pj69) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Crooked Boy](https://open.spotify.com/album/72el7627Bwj1UTsu7RBRM2) | 2:59 | 2024-05-23 |  |
 | [Good Vibrations \- 2021 Stereo Mix](https://open.spotify.com/track/045r42TrPujfND88MNCLEl) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down / Good Vibrations \(2021 Stereo Mix\)](https://open.spotify.com/album/7o1TsJgTlyE5IspzERWwU6) | 3:44 | 2024-05-23 |  |
 | [Hard To Be Happy](https://open.spotify.com/track/2qTDHYBUTjYr8jsVjXxS2P) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Hard To Be Happy](https://open.spotify.com/album/5ItMQSBkpe44v1dln7kkos) | 3:42 | 2025-07-11 |  |

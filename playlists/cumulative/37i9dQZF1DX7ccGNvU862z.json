@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZENTYARB",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JayQ",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -120,6 +120,28 @@
       "duration_ms": 233142,
       "name": "2AM (\u0e04\u0e38\u0e13\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e21\u0e32\u0e01\u0e46\u0e21\u0e31\u0e49\u0e22?)",
       "url": "https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF"
+    },
+    {
+      "album": {
+        "name": "8 \u0e02\u0e49\u0e2d",
+        "url": "https://open.spotify.com/album/0jFaBM4yCBvv5ZGohGes0D"
+      },
+      "artists": [
+        {
+          "name": "OZEEOOS",
+          "url": "https://open.spotify.com/artist/4hjAFpLZlqKZEJSCHhnWLc"
+        },
+        {
+          "name": "WRP",
+          "url": "https://open.spotify.com/artist/4aUTVa6ZWuQZjqpCf1wMHf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195254,
+      "name": "8 \u0e02\u0e49\u0e2d",
+      "url": "https://open.spotify.com/track/5KvMZsN0unhI1Qe9wHIlCB"
     },
     {
       "album": {
@@ -256,7 +278,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 234352,
       "name": "Airplane Mode (5 \u0e19\u0e32\u0e17\u0e35)",
       "url": "https://open.spotify.com/track/4eABL6biW8QZOSvGMaX18M"
@@ -4378,7 +4400,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 230078,
       "name": "ONE HUNDRED PERCENT (100%)",
       "url": "https://open.spotify.com/track/0q9qDhap2nU1jhRRmmhuRC"
@@ -4953,6 +4975,28 @@
     },
     {
       "album": {
+        "name": "RIDE WITH ME",
+        "url": "https://open.spotify.com/album/5GOJmiM2f6U0H2nruj9eEs"
+      },
+      "artists": [
+        {
+          "name": "9frvme",
+          "url": "https://open.spotify.com/artist/2FAg1ZIIqwiAV95dk4QYLA"
+        },
+        {
+          "name": "WRP",
+          "url": "https://open.spotify.com/artist/4aUTVa6ZWuQZjqpCf1wMHf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "RIDE WITH ME",
+      "url": "https://open.spotify.com/track/798yb35ZKyUan4x4eihHr8"
+    },
+    {
+      "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/3dMJBOSkhPdJD3yGebObDw"
       },
@@ -5178,7 +5222,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 206984,
       "name": "Saxo Love (\u0e0a\u0e38\u0e14\u0e19\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e19\u0e2d\u0e19)",
       "url": "https://open.spotify.com/track/64L6sxYcL3TnoIhXYYsOR1"
@@ -5919,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "ThaiKids",
+        "url": "https://open.spotify.com/album/7bRV2jXhlJVxHGdA4h7pIy"
+      },
+      "artists": [
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198302,
+      "name": "ThaiKids",
+      "url": "https://open.spotify.com/track/4GlV2xjoki70itp4GMFPgo"
+    },
+    {
+      "album": {
         "name": "That's My Girl (Pretty Gurl)",
         "url": "https://open.spotify.com/album/0ZBxyrPnnhIOodVNmQ2rEM"
       },
@@ -6068,7 +6130,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 174757,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4wKbEMBUtKM2p5ZoUxCsNt"
@@ -7146,7 +7208,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 202909,
       "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19",
       "url": "https://open.spotify.com/track/029myGXWSBnJjyHN1xNcfo"
@@ -7634,6 +7696,24 @@
       "duration_ms": 197647,
       "name": "\u0e04\u0e33\u0e2a\u0e32\u0e23\u0e20\u0e32\u0e1e",
       "url": "https://open.spotify.com/track/66hMeagJVQVjvf295ggudK"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e41\u0e25\u0e30\u0e01\u0e47\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e08\u0e2d",
+        "url": "https://open.spotify.com/album/1v6CW2DFyRPFr8UYKEzyzJ"
+      },
+      "artists": [
+        {
+          "name": "Soloist",
+          "url": "https://open.spotify.com/artist/69QjaBrg8ihcyQ1fULynQz"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246605,
+      "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e41\u0e25\u0e30\u0e01\u0e47\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e08\u0e2d",
+      "url": "https://open.spotify.com/track/2l6RTIHL4Bp8mOZdp4BYtM"
     },
     {
       "album": {
@@ -8700,7 +8780,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 191351,
       "name": "\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e40\u0e27\u0e25\u0e32 (Tonight) [feat. Saran]",
       "url": "https://open.spotify.com/track/4rtKHcbkzxa6Ho8A5UQnwG"
@@ -9137,6 +9217,24 @@
     },
     {
       "album": {
+        "name": "\u0e19\u0e34\u0e48\u0e07\u0e44\u0e27\u0e49",
+        "url": "https://open.spotify.com/album/26WNyg5Bn92RcdjFS3MHeE"
+      },
+      "artists": [
+        {
+          "name": "BETAYOURBITCH",
+          "url": "https://open.spotify.com/artist/2xoedC37KSMtbCYLd1PVLc"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255962,
+      "name": "\u0e19\u0e34\u0e48\u0e07\u0e44\u0e27\u0e49",
+      "url": "https://open.spotify.com/track/6tpIg8gyNx7enCeEt2y6mk"
+    },
+    {
+      "album": {
         "name": "\u0e19\u0e49\u0e33\u0e15\u0e32\u0e25\u0e32\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/474IqKvnqNT8IR2kv0HAgm"
       },
@@ -9286,6 +9384,28 @@
       "duration_ms": 167079,
       "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e44\u0e2b\u0e25 - High",
       "url": "https://open.spotify.com/track/5sW5R4Ofm9zfBuN1jX8MsV"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e30\u0e1b\u0e4a\u0e32\u0e1b\u0e25\u0e48\u0e2d\u0e22",
+        "url": "https://open.spotify.com/album/4vkvFCPx9PtRU05h9MhXQI"
+      },
+      "artists": [
+        {
+          "name": "RachYO",
+          "url": "https://open.spotify.com/artist/620yKKXiTGmnZg0MVqUGo8"
+        },
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202970,
+      "name": "\u0e1b\u0e30\u0e1b\u0e4a\u0e32\u0e1b\u0e25\u0e48\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/6OVeKF5FfqwFywMxu76AyA"
     },
     {
       "album": {
@@ -10028,6 +10148,24 @@
       "duration_ms": 229000,
       "name": "\u0e22\u0e34\u0e48\u0e07\u0e2b\u0e19\u0e32\u0e27\u0e22\u0e34\u0e48\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07",
       "url": "https://open.spotify.com/track/0ILkNpisPipNntPJZJV9iQ"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e49\u0e2d\u0e19\u0e01\u0e25\u0e31\u0e1a\u0e44\u0e1b\u0e27\u0e31\u0e19\u0e41\u0e23\u0e01",
+        "url": "https://open.spotify.com/album/2GMnQuYeGxo8jXtDl2dLsc"
+      },
+      "artists": [
+        {
+          "name": "HK",
+          "url": "https://open.spotify.com/artist/3ox1cmzcE21qMaFHqHKowu"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215065,
+      "name": "\u0e22\u0e49\u0e2d\u0e19\u0e01\u0e25\u0e31\u0e1a\u0e44\u0e1b\u0e27\u0e31\u0e19\u0e41\u0e23\u0e01",
+      "url": "https://open.spotify.com/track/30XiN91gQWERmHVQg8lWEK"
     },
     {
       "album": {
@@ -12663,6 +12801,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e22\u0e34\u0e49\u0e21",
+        "url": "https://open.spotify.com/album/1rejACCI3Q23SKoZqjUDD7"
+      },
+      "artists": [
+        {
+          "name": "T!NE",
+          "url": "https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e22\u0e34\u0e49\u0e21",
+      "url": "https://open.spotify.com/track/4xOFLtbauANPP5wXKwzApD"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1d\u0e49\u0e32\u0e04\u0e2d\u0e22",
         "url": "https://open.spotify.com/album/7k8UlOSjQjAksMRj0OBTL2"
       },
@@ -13538,7 +13694,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 196370,
       "name": "\u0e42\u0e17\u0e23\u0e2b\u0e32\u0e09\u0e31\u0e19\u0e41\u0e17\u0e19 (CALL ME INSTEAD) (feat. 2Ectasy)",
       "url": "https://open.spotify.com/track/4rUSdTG42ZZI5alrJv0U8y"
@@ -13956,7 +14112,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 281142,
       "name": "\u0e44\u0e1b\u0e15\u0e48\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (feat. 2K)",
       "url": "https://open.spotify.com/track/0SWzlbE8PXuD2ooU05nKS8"

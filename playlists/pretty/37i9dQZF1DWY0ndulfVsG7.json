@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 60659,
+  "num_followers": 60673,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
-      },
-      "artists": [
-        {
-          "name": "Once Mekel",
-          "url": "https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE"
-        }
-      ],
-      "duration_ms": 264853,
-      "name": "Dealova",
-      "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Judika",
         "url": "https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 242942,
       "name": "Jikalau Kau Cinta",
       "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
+      },
+      "artists": [
+        {
+          "name": "Once Mekel",
+          "url": "https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE"
+        }
+      ],
+      "duration_ms": 264853,
+      "name": "Dealova",
+      "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Untukmu Selamanya",
-        "url": "https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva"
-      },
-      "artists": [
-        {
-          "name": "Ungu",
-          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
-        }
-      ],
-      "duration_ms": 283360,
-      "name": "Cinta Dalam Hati",
-      "url": "https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Setengah Mati Merindu",
         "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 276146,
       "name": "Bukan Dia Tapi Aku",
       "url": "https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Untukmu Selamanya",
+        "url": "https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva"
+      },
+      "artists": [
+        {
+          "name": "Ungu",
+          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "Cinta Dalam Hati",
+      "url": "https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Kembali",
-        "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
-      },
-      "artists": [
-        {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "Aku Bukan Untukmu",
-      "url": "https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Marcell",
         "url": "https://open.spotify.com/album/5hSfmtI2yqt541RTjuC8TU"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 247853,
       "name": "Firasat",
       "url": "https://open.spotify.com/track/3cHjFfvxo7ZIz9Px32V9aA"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Kembali",
+        "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "Aku Bukan Untukmu",
+      "url": "https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf"
     }
   ],
   "unique_name": "Berjiran",

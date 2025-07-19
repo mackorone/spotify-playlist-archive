@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Christian Alicea
 
-706 songs - 1 day 16 hr 18 min
+707 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Amor Material](https://open.spotify.com/track/6E36Zi4KEGsFEpMKbAzMtH) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Ataca Sergio Presents: Urban Salsa Sessions Volume 1](https://open.spotify.com/album/7tflY9bdORYFpXVnhQtzAn) | 2:49 | 2025-03-21 | 2025-06-21 |
 | [Amor Sincero](https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:34 | 2023-04-28 | 2024-02-17 |
 | [Amor Toxico](https://open.spotify.com/track/5SkGY1hLdP9dJDlralBzXK) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds), [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Amor Toxico](https://open.spotify.com/album/7JjjKoslNFHr2JOlYurOls) | 3:51 | 2024-08-02 | 2024-08-24 |
-| [América](https://open.spotify.com/track/3YtqX7KiNTYDlQzuUewrOq) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [América](https://open.spotify.com/album/6DRWfDdSOjfGGVpRErOqas) | 3:57 | 2025-05-30 |  |
+| [América](https://open.spotify.com/track/3YtqX7KiNTYDlQzuUewrOq) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [América](https://open.spotify.com/album/6DRWfDdSOjfGGVpRErOqas) | 3:57 | 2025-05-30 | 2025-07-19 |
 | [Antes de Ti](https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Antes de Ti](https://open.spotify.com/album/42NPk8W7iqa7VeHW3Q95Yv) | 3:27 | 2022-01-01 | 2022-06-30 |
 | [Apego Emocional](https://open.spotify.com/track/3mYXBDTqUixQk4flZ3bbJO) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Apego Emocional](https://open.spotify.com/album/6Gr26CThK4xZ7ulKVkKsd2) | 3:22 | 2025-02-28 | 2025-04-26 |
 | [Aquí No Es](https://open.spotify.com/track/06rPvwnIAn14OMlNCiF9ex) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Aquí No Es](https://open.spotify.com/album/6207Q4UNftvhZyj5sbO7tq) | 2:37 | 2025-01-24 | 2025-03-01 |
@@ -581,6 +581,7 @@
 | [SexToy](https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [SexToy](https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB) | 3:53 | 2022-07-19 | 2023-02-22 |
 | [Señor Juez](https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Señor Juez](https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v) | 4:24 | 2022-01-01 | 2022-06-30 |
 | [Señor Marido](https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Señor Marido](https://open.spotify.com/album/34jUG52OFFxhkoD4Fg55Xe) | 3:27 | 2024-11-29 | 2025-03-08 |
+| [SEÑORA \(feat\. Manuel Turizo\)](https://open.spotify.com/track/4O2ohvs9oWJdlCV2izX3Jb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:36 | 2025-07-18 |  |
 | [Shein](https://open.spotify.com/track/6DcW64MEKAUX0jzE26hxdv) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Shein](https://open.spotify.com/album/3yTnlnrjcCWDDsmod9kQ9o) | 2:31 | 2024-04-12 | 2024-06-29 |
 | [Si A Todo](https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Cumbia y Amor](https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0) | 2:53 | 2025-03-21 | 2025-05-10 |
 | [Si Acaso Vuelves](https://open.spotify.com/track/2JIfE0dJv2b8fTvHxZZ0kP) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Acaso Vuelves](https://open.spotify.com/album/6aTk7cTS9ClTgjefVjLel3) | 3:03 | 2022-09-09 | 2023-01-28 |

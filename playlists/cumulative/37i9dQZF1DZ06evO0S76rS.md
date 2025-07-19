@@ -4,7 +4,7 @@
 
 > This is Grupo Niche\. The essential tracks, all in one playlist.
 
-93 songs - 7 hr 44 min
+94 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Clásicos 1.0: Eres](https://open.spotify.com/track/445b421CE8tmKLWTcrIapI) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Clásicos 1.0](https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl) | 4:16 | 2025-05-11 | 2025-05-17 |
 | [Clásicos 1.0: Robando Sueños](https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Clásicos 1.0](https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl) | 3:54 | 2025-03-30 |  |
 | [Colombia Mí Selección](https://open.spotify.com/track/3YaDh3VF4kYZxVS9XbBAGR) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR) | 2:50 | 2024-07-16 | 2024-08-09 |
-| [Como Podre Disimular](https://open.spotify.com/track/5hxXKkbhgD8g8Dvd40APFB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Romántica de Siempre](https://open.spotify.com/album/31qN90CYlcbqT0ErFJXJzi) | 5:34 | 2023-12-13 |  |
+| [Como Podre Disimular](https://open.spotify.com/track/5hxXKkbhgD8g8Dvd40APFB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Romántica de Siempre](https://open.spotify.com/album/31qN90CYlcbqT0ErFJXJzi) | 5:34 | 2023-12-13 | 2025-07-19 |
 | [Como Podre Disimular](https://open.spotify.com/track/42PDNfuSrrF5nkDrvCPIeN) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Mis Favoritas](https://open.spotify.com/album/6JB01yiDfrkIeccoiVWb8G) | 5:34 | 2022-09-08 | 2023-12-14 |
+| [Como Podré Disimular](https://open.spotify.com/track/09oDhEqcxRtab69LIrNPEx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tapando el Hueco](https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM) | 4:43 | 2025-07-19 |  |
 | [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 | 2024-05-05 |  |
 | [Cosas Bonitas](https://open.spotify.com/track/4YSbePPCYS4yEtiahaCuAb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:13 | 2024-12-22 |  |
 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 | 2022-09-08 | 2024-12-22 |

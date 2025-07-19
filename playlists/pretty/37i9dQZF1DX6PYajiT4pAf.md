@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 ### [Novedades Viernes España](https://open.spotify.com/playlist/37i9dQZF1DX6PYajiT4pAf)
 
-> Natalia Lacunza, Quevedo, Duki, y más novedades de la semana.
+> Myke Towers, Bad Gyal x Ozuna, Bad Bunny, Marta Santos y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,299 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,208 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 |
 | 2 | [Última Noche](https://open.spotify.com/track/08iQaBBx5pkyEam6jxJegI) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Última Noche](https://open.spotify.com/album/1pavsMs5Dq5wLxUsf7HlIp) | 3:55 |
 | 3 | [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 |
-| 4 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 |
+| 4 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 |
 | 5 | [Zun Zun](https://open.spotify.com/track/7uQ3MlGpYURF2ED8E5xFIa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 3:16 |
 | 6 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
 | 7 | [Sevilla](https://open.spotify.com/track/6uCSICr7hzdsrNSOsjf95l) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Sevilla](https://open.spotify.com/album/4lVMvu4pvf4joKAQPzhMdv) | 2:34 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 41 | [A Little More Understanding](https://open.spotify.com/track/6lziAsFEcJtTQuEyFtD6kw) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [A Little More Understanding](https://open.spotify.com/album/2MJgIXBxtShfcmVBfSrZdJ) | 4:43 |
 | 42 | [On Repeat](https://open.spotify.com/track/2B5ZNovTMGMW50ml95BP7L) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [On Repeat](https://open.spotify.com/album/3OofANTV95MpiLS4OXMj3y) | 3:18 |
 | 43 | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR) | 3:33 |
-| 44 | [RARI](https://open.spotify.com/track/5YDfiwhuZN6qd16sEPN8PW) | [Suave](https://open.spotify.com/artist/0b4DkhqzNopg5GYxYU4tJ9), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [Daytxna](https://open.spotify.com/artist/0nuC9yYbV5Oj0AVTawVNTV) | [RARI](https://open.spotify.com/album/1e8R5U9AbaKO1sVTGukc9S) | 2:36 |
+| 44 | [RARI](https://open.spotify.com/track/5YDfiwhuZN6qd16sEPN8PW) | [Suave](https://open.spotify.com/artist/0b4DkhqzNopg5GYxYU4tJ9), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [DAYTXNA](https://open.spotify.com/artist/1o8nqi3epUyvBIqDohc7Xh) | [RARI](https://open.spotify.com/album/1e8R5U9AbaKO1sVTGukc9S) | 2:36 |
 | 45 | [Lo Mejor De Mi](https://open.spotify.com/track/2o7WddykSL9ERh2CoaeW1T) | [Paris Boy](https://open.spotify.com/artist/6ONwLtT6vOzlO3pfZNAOMw) | [Lo Mejor De Mi](https://open.spotify.com/album/6aBSr1FDEEHX7zWD6UX0iG) | 2:23 |
 | 46 | [Brecha](https://open.spotify.com/track/5lLK0RKHZSqojJr4kZMAuJ) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Brecha](https://open.spotify.com/album/1YUqU6EcmPdlTm9PQttPqO) | 3:01 |
 | 47 | [Noche de Ronda \(feat\. Pablo López\)](https://open.spotify.com/track/5tZxkqJS1eYBCrv6j9FwRZ) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Noche de Ronda \(feat\. Pablo López\)](https://open.spotify.com/album/0crWD7EUHF66Yp54mogIUQ) | 3:02 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 64 | [Irenita](https://open.spotify.com/track/7BdTaAig1ZrdS5VspEce8Y) | [Santiago Auserón](https://open.spotify.com/artist/1QnWFj4XbwMBRss56Jk63W), [Vaggelis Tzeretas](https://open.spotify.com/artist/6NujmW4jK0unbe2q9sqSke), [Thodoris Karellas](https://open.spotify.com/artist/6Ttiu9jWHoeUf8BjSqvURL) | [Irenita](https://open.spotify.com/album/6VWoBENFpjW61Ld5tmNNsz) | 4:06 |
 | 65 | [ꔫ♡una gatita como tu♡ꔫ](https://open.spotify.com/track/0jxYJ3JlML3oksSxMFjOeM) | [superreservao](https://open.spotify.com/artist/6AcMrxqogX2HwILuphv5Yq), [barfa](https://open.spotify.com/artist/4MibMIRJ3gGmHJ8ARWpU9Z) | [ꔫ♡una gatita como tu♡ꔫ](https://open.spotify.com/album/064mptX3WwS6GvjoFJFCrn) | 3:04 |
 
-Snapshot ID: `aHmOgwAAAAA7n0SiA4Ua1ZZ+f0Dfd0u0`
+Snapshot ID: `aHoimgAAAAA6bOHpjYy7OVJaEVKidv8n`

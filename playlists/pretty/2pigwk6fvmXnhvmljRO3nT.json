@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAHmY/58SjoZn12uGhlUNOT6DWTOswr",
+  "snapshot_id": "AAAHmg5PfZPahvZl4CWIPvmPwFtNhITo",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -103002,10 +103002,14 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
       "duration_ms": 252256,
-      "name": "pick up the phone",
+      "name": "pick up the phone (feat. Quavo)",
       "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
     },
     {
@@ -131095,6 +131099,26 @@
       "duration_ms": 289426,
       "name": "1995",
       "url": "https://open.spotify.com/track/0Qopdd7xJyhNd3tcvZEAgG"
+    },
+    {
+      "added_at": "2025-07-18 19:00:17",
+      "album": {
+        "name": "GDLU (Preluxe)",
+        "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 348144,
+      "name": "Animals (Pt. I) [with Eminem]",
+      "url": "https://open.spotify.com/track/3QKXo5IoMxnVwNm2bMRiVc"
     }
   ],
   "unique_name": "Purge",

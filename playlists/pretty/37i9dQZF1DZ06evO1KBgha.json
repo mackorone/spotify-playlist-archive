@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 364240,
+  "num_followers": 364311,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABydQPuicqVeWu0KIWk0zy1",
+  "snapshot_id": "aHg9AAAAAAB3fQ5RnT5LTHRUMQHIBbk9",
   "tracks": [
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+        "name": "Joder",
+        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },
       "artists": [
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 148149,
-      "name": "Fue Lindo",
-      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
+      "duration_ms": 149300,
+      "name": "Joder",
+      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "added_at": null,
@@ -827,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joder",
-        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
+        "name": "Canciones Pa Mi Ex Vol.1",
+        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
       },
       "artists": [
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 149300,
-      "name": "Joder",
-      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
+      "duration_ms": 148149,
+      "name": "Fue Lindo",
+      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
     },
     {
       "added_at": null,

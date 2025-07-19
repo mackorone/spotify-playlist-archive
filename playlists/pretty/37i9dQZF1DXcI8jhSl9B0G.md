@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,761 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,759 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 32 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
 | 33 | [Letting Go](https://open.spotify.com/track/2EJCqwvgcGQEbqSW3Fa3Pu) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [Letting Go](https://open.spotify.com/album/2ikfoXXectNhLUgpSkS0xL) | 3:46 |
 | 34 | [Every Side Of You](https://open.spotify.com/track/4rIXuE4ramqCrnoxBQF9Yb) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK) | 3:24 |
-| 35 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
-| 36 | [By Way of the Sea](https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [By Way of the Sea](https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg) | 4:19 |
+| 35 | [By Way of the Sea](https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [By Way of the Sea](https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg) | 4:19 |
+| 36 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
 | 37 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
 | 38 | [Where the Light Is](https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Where the Light Is](https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej) | 3:35 |
 | 39 | [Furniture](https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:14 |

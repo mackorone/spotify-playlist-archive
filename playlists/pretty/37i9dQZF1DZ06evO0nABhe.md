@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,070 likes - 40 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,072 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 18 | [2005](https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:51 |
 | 19 | [Can't Slow Down](https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Can't Slow Down](https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY) | 3:50 |
 | 20 | [I Swear I'm Okay](https://open.spotify.com/track/5aytmxtUYILFEJ3XF2YX0B) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 4:20 |
-| 21 | [Dive Right In](https://open.spotify.com/track/2hRhyzaXcVwHQHNVt23KUG) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:15 |
+| 21 | [Razorblades](https://open.spotify.com/track/0hpD9ZtCq7ukiaM3pK7RMG) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:21 |
 | 22 | [Sorry About Me](https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:29 |
 | 23 | [Tell Me \(P.A.C.\)](https://open.spotify.com/track/51Ly9CdELGbiFnSTdED64H) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:58 |
 | 24 | [Can Anybody Hear Me](https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 4:28 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 39 | [Unheard Voice](https://open.spotify.com/track/5IqQr1AFSTL1WkDUT7Z0is) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Unheard Voice](https://open.spotify.com/album/3s6rlS2V8UiZJf3J4k5HkP) | 3:11 |
 | 40 | [The Children Sing](https://open.spotify.com/track/1aYT1emiHxA0x0c1SPmY7H) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 4:07 |
 
-Snapshot ID: `aHbrgAAAAADJ6yPJCyjbhaq7Mv5adskx`
+Snapshot ID: `aHg9AAAAAABOBp29aeKI8bOLcMgplU0i`

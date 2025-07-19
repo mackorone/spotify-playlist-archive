@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: PLUTO
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Saweetie
 
-694 songs - 1 day 7 hr 6 min
+696 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Body](https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Body](https://open.spotify.com/album/3wTOyUsrPYyyByd6kMkZRn) | 2:47 | 2023-09-22 | 2023-09-30 |
 | [Body Bag](https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Body Bag](https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75) | 2:38 | 2022-10-28 | 2023-03-25 |
 | [Body Do](https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Body Do](https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN) | 2:22 | 2023-03-24 | 2023-04-09 |
+| [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 | 2025-07-18 |  |
 | [Bon Appétit](https://open.spotify.com/track/1Dhpasf3IFSkWHVEKH3sas) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bon Appétit](https://open.spotify.com/album/3xNVzuYogaA4nKfHVeMHtr) | 2:18 | 2025-06-20 | 2025-07-12 |
 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-09-08 | 2024-07-27 |
 | [Bonnet](https://open.spotify.com/track/5qSpFu6V7hBZHNw4dN6t2S) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Bonnet](https://open.spotify.com/album/55bLssbfx1SFuMIWn6085s) | 2:09 | 2024-02-02 | 2024-02-24 |
@@ -246,7 +247,7 @@
 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 | 2024-03-15 |  |
 | [Gift & A Curse](https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:52 | 2022-08-12 | 2023-02-11 |
 | [Gimme Head](https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Gimme Head](https://open.spotify.com/album/4DZHm2BihbbkDmE2D7Wdn2) | 2:59 | 2022-06-17 | 2022-09-03 |
-| [Gimme Him](https://open.spotify.com/track/6qA9aWqahJZLUuC5WFUObu) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [BOTH WAYS \(Deluxe\)](https://open.spotify.com/album/3OKrBNG5j0zJP0cgs2p98c) | 1:33 | 2025-07-11 |  |
+| [Gimme Him](https://open.spotify.com/track/6qA9aWqahJZLUuC5WFUObu) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [BOTH WAYS \(Deluxe\)](https://open.spotify.com/album/3OKrBNG5j0zJP0cgs2p98c) | 1:33 | 2025-07-11 | 2025-07-19 |
 | [Gimmie A Light](https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gimmie A Light](https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8) | 2:06 | 2024-05-10 | 2024-06-29 |
 | [GIRLS GONE WILD](https://open.spotify.com/track/5nRyvWHWIb2F0CzIQfbaUr) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [GIRLS GONE WILD](https://open.spotify.com/album/7q2C8SwFYTyWCspWExMsZN) | 2:21 | 2024-08-23 | 2024-09-07 |
 | [Girls Just Wanna](https://open.spotify.com/track/3jlxGtWO91pqDHD3Nb00ku) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Girls Just Wanna](https://open.spotify.com/album/5nxQak3UtJ8UARd6u3v0SX) | 2:10 | 2023-12-15 | 2024-01-20 |
@@ -558,7 +559,7 @@
 | [Shutcho \(feat\. The Joy\)](https://open.spotify.com/track/6AZLjrFI5qh6IsMHzvyrIi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/5ho4S2bnJJdF0uwT8YiQsw) | 4:30 | 2024-05-17 | 2024-06-01 |
 | [Sideways](https://open.spotify.com/track/5FwhprNsUarRkLXqBE8tK8) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Sideways](https://open.spotify.com/album/5epUQc2VXbfbSuzjWHWyjQ) | 2:04 | 2024-02-02 | 2024-06-29 |
 | [Sike \(feat\. Queendom Come\)](https://open.spotify.com/track/0yfBE11LMkFcyfEEjG0gQB) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4), [Queendom Come](https://open.spotify.com/artist/0tFnayGz6sZxgRf1YS5VmI) | [THE LIZ 2](https://open.spotify.com/album/1dqLryXYQroTAyTfGfb6F0) | 2:53 | 2022-10-21 | 2022-11-19 |
-| [Single Summer](https://open.spotify.com/track/0OewShx11d3rmWIp3rtc98) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Single Summer](https://open.spotify.com/album/23A58CZ1YbULAmGFhB30Xb) | 2:37 | 2025-06-27 |  |
+| [Single Summer](https://open.spotify.com/track/0OewShx11d3rmWIp3rtc98) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Single Summer](https://open.spotify.com/album/23A58CZ1YbULAmGFhB30Xb) | 2:37 | 2025-06-27 | 2025-07-19 |
 | [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 | 2024-10-11 | 2024-11-09 |
 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 | 2023-03-03 | 2023-04-01 |
 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2023-06-09 | 2023-12-02 |
@@ -575,6 +576,7 @@
 | [Snooze](https://open.spotify.com/track/24yrJJkmVUMkJHvCaR85BN) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Snooze](https://open.spotify.com/album/0L632gxhMbscW5mY9ewbOq) | 3:21 | 2023-10-06 | 2024-07-27 |
 | [So Be It \(with Summer Walker\) \- Remix](https://open.spotify.com/track/4CZYU36tRUXVWKqd0Xtidm) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [So Be It \(with Summer Walker\) \[Remix\]](https://open.spotify.com/album/7a6axBirYuebMEsOtmKVWy) | 3:13 | 2023-03-17 | 2023-03-25 |
 | [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 | 2023-03-10 | 2023-08-19 |
+| [So Fine \(feat\. Tink\)](https://open.spotify.com/track/69on3Xiwv2k4s0hZUGpukQ) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Grady Baby](https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8) | 2:44 | 2025-07-18 |  |
 | [So What?](https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:38 | 2024-12-27 | 2025-01-25 |
 | [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 | 2025-05-16 |  |
 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 | 2021-11-05 | 2022-03-18 |
@@ -658,7 +660,7 @@
 | [We Not Humping](https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We Not Humping](https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B) | 2:24 | 2021-12-03 | 2022-02-05 |
 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 | 2022-04-22 | 2022-10-29 |
 | [We On Dat](https://open.spotify.com/track/7lZAVKwXTXcxp2RPF1R2U6) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We On Dat](https://open.spotify.com/album/4dpOOB97KCYfGTu14imfV2) | 2:52 | 2025-07-11 |  |
-| [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 | 2025-05-02 |  |
+| [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 | 2025-05-02 | 2025-07-19 |
 | [We Outside](https://open.spotify.com/track/5ztdVnAcTsaIMGSmb3kqVv) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq) | [Renegade](https://open.spotify.com/album/1oLihKPBT36E4csJUGlLP7) | 2:57 | 2023-12-08 | 2023-12-16 |
 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 | 2022-08-19 | 2022-10-08 |
 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [gg](https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 | 2024-09-06 | 2024-10-26 |

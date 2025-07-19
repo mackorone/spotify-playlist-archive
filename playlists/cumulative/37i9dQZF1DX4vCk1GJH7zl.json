@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Nasi",
+  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Detonautas",
   "name": "Rock Leve",
   "tracks": [
     {
@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 165428,
       "name": "Desejo Hostil",
       "url": "https://open.spotify.com/track/54MHgaSeIjTsTCBL6RVmTI"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 206657,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
@@ -1867,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Moletom",
+        "url": "https://open.spotify.com/album/5yVc8jYrfoQy007gd3teKt"
+      },
+      "artists": [
+        {
+          "name": "Ondastral",
+          "url": "https://open.spotify.com/artist/1PLVBYQrlY7TUtoyRspbuV"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173305,
+      "name": "Moletom",
+      "url": "https://open.spotify.com/track/6sYEvTZfUFDo9IY02b1DD1"
+    },
+    {
+      "album": {
         "name": "Can\u00e7\u00f5es Para Um Novo Mundo",
         "url": "https://open.spotify.com/album/0tTtokpLm9C1CvMD0JWIA5"
       },
@@ -2063,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "Noites Frias",
+        "url": "https://open.spotify.com/album/4aTzZgKLAj2JGmPbOU7JZj"
+      },
+      "artists": [
+        {
+          "name": "Flamha",
+          "url": "https://open.spotify.com/artist/7lOLfXrHGsOi23UAhshyJh"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193793,
+      "name": "Noites Frias",
+      "url": "https://open.spotify.com/track/7e96OPvQVaD87adQR4eYu4"
+    },
+    {
+      "album": {
         "name": "Not the One",
         "url": "https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO"
       },
@@ -2074,7 +2110,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 266326,
       "name": "Not the One",
       "url": "https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH"
@@ -3546,6 +3582,28 @@
       "duration_ms": 209623,
       "name": "um bar, um shot, um come\u00e7o",
       "url": "https://open.spotify.com/track/41TEbGzlsA7vm01I7egF7I"
+    },
+    {
+      "album": {
+        "name": "Um Sonhador",
+        "url": "https://open.spotify.com/album/4dsHFCDLAPaqCPjNCrs1Xo"
+      },
+      "artists": [
+        {
+          "name": "Detonautas",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257043,
+      "name": "Um Sonhador",
+      "url": "https://open.spotify.com/track/7fb8DZxvDLSmymtO2aizdL"
     },
     {
       "album": {

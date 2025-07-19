@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,099 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,104 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 44 | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/track/7LasZEDby0I9uVNUjED1yS) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/album/4msvzEOis0kGxDHn2ZaQQx) | 3:32 |
 | 45 | [Yalla Yalla](https://open.spotify.com/track/6IKDI3h0vjvOdwllJtp4lX) | [Miraya Varma](https://open.spotify.com/artist/4FhmGc9lD5PO3ZrPPDGiRV), [Zeus](https://open.spotify.com/artist/46vVY0199R2mAXHkayL5mG) | [Yalla Yalla](https://open.spotify.com/album/2m6iGaVxOvvS1UcdNfNakp) | 3:49 |
 | 46 | [Nasha](https://open.spotify.com/track/3YytmBvKHJ77tLC6N3pxO7) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Nasha](https://open.spotify.com/album/0skLeastcOZ0H6ZUmTfAiY) | 3:33 |
-| 47 | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/track/5eA1snpFbKfoUICqvYSg63) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/album/0QzBLvMpcBtLnHocP7CNZX) | 5:50 |
-| 48 | [You're Gold \(feat\. Grini\)](https://open.spotify.com/track/0IyBqp1dLXqn5tQPk7rAXv) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [You're Gold \(feat\. Grini\)](https://open.spotify.com/album/49cjJDVqwheDN16PYjcdiq) | 3:13 |
+| 47 | [You're Gold \(feat\. Grini\)](https://open.spotify.com/track/0IyBqp1dLXqn5tQPk7rAXv) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [You're Gold \(feat\. Grini\)](https://open.spotify.com/album/49cjJDVqwheDN16PYjcdiq) | 3:13 |
+| 48 | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/track/5eA1snpFbKfoUICqvYSg63) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/album/0QzBLvMpcBtLnHocP7CNZX) | 5:50 |
 | 49 | [Aqbil Arwh Wayak](https://open.spotify.com/track/5Rk2fqUd9Be51v2RGCH4fP) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Aqbil Arwh Wayak](https://open.spotify.com/album/21cNclONW67PlEiEtMT81I) | 3:43 |
 | 50 | [شناي](https://open.spotify.com/track/0uxvn45OTk88sjlwrrHSCm) | [حنان.](https://open.spotify.com/artist/0XW0YQBRv6ISDEL85T69WR) | [شناي](https://open.spotify.com/album/5LvDEg7s31vpqkQbtWGZFV) | 3:39 |
 

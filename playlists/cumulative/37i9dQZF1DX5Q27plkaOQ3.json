@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Steller",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with DJ DIESEL aka Shaquille O'Neal \ud83c\udfc6",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -770,6 +770,36 @@
       "duration_ms": 234350,
       "name": "ANGELS IN HELL",
       "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
+    },
+    {
+      "album": {
+        "name": "M.D.E",
+        "url": "https://open.spotify.com/album/6FpaiHvj1oJNGrjNxCgFY9"
+      },
+      "artists": [
+        {
+          "name": "DJ DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0hnCtTIkfYPoiTZTLqa1kf"
     },
     {
       "album": {
@@ -2164,7 +2194,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 144000,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/3yyM82APRc7v9P2jp4zjLE"
@@ -2640,7 +2670,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 215294,
       "name": "BOYS!",
       "url": "https://open.spotify.com/track/2zdJwMA27J4XwmKxI5Kavi"
@@ -2702,6 +2732,28 @@
       "duration_ms": 185142,
       "name": "Brain Rot",
       "url": "https://open.spotify.com/track/4jImN6SNlhfQr6QJ0YuTyg"
+    },
+    {
+      "album": {
+        "name": "Brainwaves",
+        "url": "https://open.spotify.com/album/7h1cTGQYzF8DdPnFaKcPlh"
+      },
+      "artists": [
+        {
+          "name": "Space Wizard",
+          "url": "https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H"
+        },
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214032,
+      "name": "Brainwaves",
+      "url": "https://open.spotify.com/track/5NT8TpORnAW6Cl3QiTfOKr"
     },
     {
       "album": {
@@ -3332,7 +3384,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 218482,
       "name": "Capoz Web",
       "url": "https://open.spotify.com/track/1UgBECMPzU05r5X7QrNDH0"
@@ -3628,7 +3680,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 162560,
       "name": "CHAOS - INFEKT Remix",
       "url": "https://open.spotify.com/track/3pDiBpNaF721daXThxCZDi"
@@ -3917,6 +3969,24 @@
     },
     {
       "album": {
+        "name": "CHOKE",
+        "url": "https://open.spotify.com/album/151eu2h2UGzhqhvY0DHlit"
+      },
+      "artists": [
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "CHOKE",
+      "url": "https://open.spotify.com/track/7BRCTJbIwawSjiApDdDJwY"
+    },
+    {
+      "album": {
         "name": "Clairvoyant",
         "url": "https://open.spotify.com/album/315BguRzOEWRWgyyvDXAfn"
       },
@@ -3976,6 +4046,28 @@
       "duration_ms": 192413,
       "name": "Clean Up",
       "url": "https://open.spotify.com/track/5bgGbSIz8gUIqAWkMjaZIh"
+    },
+    {
+      "album": {
+        "name": "Coast 2 Coast ft. Flowdan",
+        "url": "https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174751,
+      "name": "Coast 2 Coast ft. Flowdan",
+      "url": "https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK"
     },
     {
       "album": {
@@ -4794,6 +4886,28 @@
       "duration_ms": 216998,
       "name": "Death Wish (with Micah Martin)",
       "url": "https://open.spotify.com/track/0dZTEB9raQkSRtZkSzFx0h"
+    },
+    {
+      "album": {
+        "name": "Death Zone",
+        "url": "https://open.spotify.com/album/7yWSoxX2cX3wJk5hEdJqXw"
+      },
+      "artists": [
+        {
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        },
+        {
+          "name": "Graphyt",
+          "url": "https://open.spotify.com/artist/7fDOwYn3gMkegC9nGL0NNK"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218482,
+      "name": "Death Zone",
+      "url": "https://open.spotify.com/track/36BVb4KMtZfgtfyhCd6jHm"
     },
     {
       "album": {
@@ -6149,6 +6263,24 @@
     },
     {
       "album": {
+        "name": "DUBSTEP TECHNO",
+        "url": "https://open.spotify.com/album/4bmlPBVqNK7yA32i2tk97r"
+      },
+      "artists": [
+        {
+          "name": "SAYMYNAME",
+          "url": "https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147465,
+      "name": "DUBSTEP TECHNO",
+      "url": "https://open.spotify.com/track/4KN5vs0PGIMjEbUBPc8sE5"
+    },
+    {
+      "album": {
         "name": "Duckstep",
         "url": "https://open.spotify.com/album/5RgFdWIcMQkhs0cstj0iQr"
       },
@@ -6573,6 +6705,28 @@
     },
     {
       "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/7DHtNFKiPvXOIAt7wkTzdb"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174421,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/7ejjJcMFi1drs5Iy6xiAn2"
+    },
+    {
+      "album": {
         "name": "Encrypted",
         "url": "https://open.spotify.com/album/5kRnZ2iYR9hMmDrhrXpx4j"
       },
@@ -6780,6 +6934,32 @@
       "duration_ms": 172137,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/0l2DanUokW2ZR69z2nGILg"
+    },
+    {
+      "album": {
+        "name": "Everybody Knows (feat. IRAH)",
+        "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Everybody Knows - feat. IRAH",
+      "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
     },
     {
       "album": {
@@ -14822,7 +15002,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 166562,
       "name": "Peaking",
       "url": "https://open.spotify.com/track/6p7B5uSORzBJG46GIGU8nl"
@@ -16016,7 +16196,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 158082,
       "name": "Real Shit",
       "url": "https://open.spotify.com/track/6mdTEdRhJAvzBcGPsVdLfe"
@@ -18084,7 +18264,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 204706,
       "name": "SKRILLA",
       "url": "https://open.spotify.com/track/6IS8vtWDH9qsLE9tM5TsK6"
@@ -18494,7 +18674,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 142000,
       "name": "SOUL - VIP",
       "url": "https://open.spotify.com/track/0lXmfQgODj6QRrKhoU2r3z"
@@ -19981,6 +20161,24 @@
     },
     {
       "album": {
+        "name": "Shell Shocked",
+        "url": "https://open.spotify.com/album/2qXN5Mtjl5yYUAFClK19BD"
+      },
+      "artists": [
+        {
+          "name": "HON\u00dc",
+          "url": "https://open.spotify.com/artist/5U96ytItXSJmQBUOOhMxKq"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/3oKSm9JIqAMWUA0CYpADCl"
+    },
+    {
+      "album": {
         "name": "The Blood (VIP)",
         "url": "https://open.spotify.com/album/1EOCEm6RPojx6UVxfHoqk4"
       },
@@ -20026,6 +20224,24 @@
       "duration_ms": 150000,
       "name": "The Chosen",
       "url": "https://open.spotify.com/track/74tKfMwcxaZqlNvOSDNArc"
+    },
+    {
+      "album": {
+        "name": "THE COMEBACK",
+        "url": "https://open.spotify.com/album/71qmclxwY2Ue7nNme0PPeN"
+      },
+      "artists": [
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "THE COMEBACK",
+      "url": "https://open.spotify.com/track/08Xlb8SBWtntvHor13LClG"
     },
     {
       "album": {
@@ -20866,7 +21082,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 166249,
       "name": "Together As One",
       "url": "https://open.spotify.com/track/0jaNgwB0N373CTg8EpnllU"
@@ -21737,6 +21953,24 @@
     },
     {
       "album": {
+        "name": "VEGGIE ANTHEM",
+        "url": "https://open.spotify.com/album/5tAjdKtBhhWxDo0lDn5wQM"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "VEGGIE ANTHEM",
+      "url": "https://open.spotify.com/track/3VAv9QvDTpwwZ9xFaiYjFO"
+    },
+    {
+      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/3lTrsqe1chZBQqXNHi3xu8"
       },
@@ -21976,7 +22210,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 199125,
       "name": "War Machine",
       "url": "https://open.spotify.com/track/5aahTqlk5XiOeaJNCXoj0F"
@@ -22184,7 +22418,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 177902,
       "name": "WATERBENDA",
       "url": "https://open.spotify.com/track/6qCRbfpjxaG1rViaA0p7t2"
@@ -22258,6 +22492,28 @@
       "duration_ms": 195400,
       "name": "WDGAF",
       "url": "https://open.spotify.com/track/5Z3kCJv6U3hQ6Ti7ujd8Fj"
+    },
+    {
+      "album": {
+        "name": "Weekender",
+        "url": "https://open.spotify.com/album/494u0SBBj2ZLsNGInIq6bY"
+      },
+      "artists": [
+        {
+          "name": "Green Matter",
+          "url": "https://open.spotify.com/artist/0x8VuDkaLNeQPkxynPbDxE"
+        },
+        {
+          "name": "Nat James",
+          "url": "https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198450,
+      "name": "Weekender",
+      "url": "https://open.spotify.com/track/2rAQ0Jduy4RWrfUXZ1A6mI"
     },
     {
       "album": {
@@ -22666,7 +22922,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 170454,
       "name": "WYAWYS",
       "url": "https://open.spotify.com/track/2jgOUCCJMqX3p3Fo40KsOC"

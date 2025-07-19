@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: NCT DREAM\)
 
-1,358 songs - 3 day 1 hr 21 min
+1,359 songs - 3 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-18 | 2023-04-07 |
 | [BIBORA](https://open.spotify.com/track/0F2woEmPkBMafpMCmgKc6a) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Sequence](https://open.spotify.com/album/23325hP3aqsiTottDna0mg) | 3:14 | 2024-01-10 | 2024-03-08 |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-02-15 | 2021-05-18 |
+| [BIG BANDS \- Korean Version](https://open.spotify.com/track/65ivb51ZNPZzsuea4qL3QX) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [BIG BANDS \- The 7th Mini Album](https://open.spotify.com/album/7bznUQPHdmQnEPx0AjC9qI) | 2:58 | 2025-07-18 |  |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-17 |  |
 | [Bird](https://open.spotify.com/track/0ePOUs38vMTdOVjvqVHXu1) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [Bird](https://open.spotify.com/album/57l0cgANptjE4xJZzflLPR) | 3:04 | 2020-10-13\* | 2021-01-11 |
 | [Birth](https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 1 : Birth>](https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ) | 2:42 | 2024-03-30 | 2024-05-15 |
@@ -424,7 +425,7 @@
 | [Floral Sense](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Floral Sense \- The 1st Album \(Special Version\)](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) | 3:48 | 2023-03-06 | 2023-05-16 |
 | [Fly \(Duet with\. MOONBIN\(ASTRO\)\)](https://open.spotify.com/track/7bf7daBFnsOVCn9soOJoPG) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [Fly](https://open.spotify.com/album/19aLPZvIMIwom1XAdNOSSi) | 3:31 | 2024-05-01 | 2024-06-24 |
 | [Fly Away](https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/5bFzkvTOLC0iC6anD4wEsn) | 3:01 | 2023-04-13 | 2023-06-09 |
-| [Fly to the youth \(feat\. YUQI\)](https://open.spotify.com/track/4bBAhOKM5yayK3z5y2wL6J) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Fly to the youth \(feat\. YUQI\)](https://open.spotify.com/album/5laYcYQaoQDxegUrGBwVD0) | 3:22 | 2025-06-17 |  |
+| [Fly to the youth \(feat\. YUQI\)](https://open.spotify.com/track/4bBAhOKM5yayK3z5y2wL6J) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Fly to the youth \(feat\. YUQI\)](https://open.spotify.com/album/5laYcYQaoQDxegUrGBwVD0) | 3:22 | 2025-06-17 | 2025-07-19 |
 | [Fly Up](https://open.spotify.com/track/4rRDmXBKB2X2Jnb8yLzAKZ) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/4YqJnxf3dYKhosGRrfoQQo) | 2:58 | 2025-05-20 | 2025-07-09 |
 | [Fly Up \(Feat\. Door\) \- Concert Version](https://open.spotify.com/track/0M55V4n7l0ULeYP64IcjX7) | [Hwang Chang young](https://open.spotify.com/artist/77i53Qlp3vNOh4Rab2wr56), [Door](https://open.spotify.com/artist/739RUVFap7LGgh9UcIfLdc) | [LOOKISM \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1KHVPqrQsgT5xbNbRXNJjA) | 3:48 | 2023-02-06 | 2023-03-16 |
 | [FOCUS](https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Strange World](https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87) | 3:03 | 2022-08-25 | 2022-11-19 |

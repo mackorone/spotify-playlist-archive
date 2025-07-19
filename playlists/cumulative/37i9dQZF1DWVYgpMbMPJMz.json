@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Phil Wickham",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Planetshakers",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 564856,
       "name": "After Your Heart [feat. Tiffany Hudson] - Live",
       "url": "https://open.spotify.com/track/7jjqO8CGgr4cALKRWi8H7G"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 401869,
       "name": "Anointed One - Live",
       "url": "https://open.spotify.com/track/7GQGFYbyxEpQ9tj5rGcYZR"
@@ -4907,6 +4907,24 @@
     },
     {
       "album": {
+        "name": "Weight Of Heaven (Live)",
+        "url": "https://open.spotify.com/album/0q9rvf3AbwZ5iMhC04Zw7Z"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227236,
+      "name": "Good Day - Live",
+      "url": "https://open.spotify.com/track/3pajbvCouuW4s6Lt3Ij165"
+    },
+    {
+      "album": {
         "name": "Good News (Live)",
         "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
       },
@@ -6098,6 +6116,32 @@
       "duration_ms": 547598,
       "name": "Holy Hallelujah - Live",
       "url": "https://open.spotify.com/track/0rLMg3eCwLHCNKQcN0TZ3I"
+    },
+    {
+      "album": {
+        "name": "Holy Hands (Live)",
+        "url": "https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P"
+      },
+      "artists": [
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434745,
+      "name": "Holy Hands - Live",
+      "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"
     },
     {
       "album": {

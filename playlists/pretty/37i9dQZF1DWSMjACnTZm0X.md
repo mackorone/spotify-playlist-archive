@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP?si=FNMMgZ7zRsSFpkU\_AVHWEQ">SPINALL</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,161 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,165 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 2 | [KEROSENE](https://open.spotify.com/track/1o17ns83QiAuDt84MkdJ5K) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [KEROSENE](https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8) | 2:38 |
 | 3 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 |
 | 4 | [Yebo](https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Yebo](https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0) | 4:23 |
-| 5 | [SOAK](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [SOAK](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 |
+| 5 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 |
 | 6 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
 | 7 | [Piano Supreme](https://open.spotify.com/track/4THKBi4PU1AFUyVleNk8BZ) | [Bluenax](https://open.spotify.com/artist/4X1DmCmbbP3c7asjJzo0Id), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Piano Supreme](https://open.spotify.com/album/4ADGJ2aOUnuHKGq6cY22N0) | 4:00 |
 | 8 | [HAUSAPIANO \- Remix](https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [HAUSAPIANO \(Remix\)](https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ) | 2:17 |

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 33411,
+  "num_followers": 33414,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Klassiker",
-        "url": "https://open.spotify.com/album/7djroGmIBob2EFwmbYNZA4"
-      },
-      "artists": [
-        {
-          "name": "Tant Strul",
-          "url": "https://open.spotify.com/artist/2EUZieXlU07oWuMDi8H3KF"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Pappas tant",
-      "url": "https://open.spotify.com/track/4yyEVHkCHDPmb4Ub83JfgL"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Fablernas V\u00e4rld",
         "url": "https://open.spotify.com/album/2PCDvwdeY2Iz3FwmmwVeA8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 152768,
       "name": "Fablernas V\u00e4rld",
       "url": "https://open.spotify.com/track/6jpKn9kaYlcKsq1XfJLLyu"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Klassiker",
+        "url": "https://open.spotify.com/album/7djroGmIBob2EFwmbYNZA4"
+      },
+      "artists": [
+        {
+          "name": "Tant Strul",
+          "url": "https://open.spotify.com/artist/2EUZieXlU07oWuMDi8H3KF"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "Pappas tant",
+      "url": "https://open.spotify.com/track/4yyEVHkCHDPmb4Ub83JfgL"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "BANG! (Vi s\u00e4nker Close-up-b\u00e5ten)",
-        "url": "https://open.spotify.com/album/1Hy1mW2whKFkWAGPYv5XJt"
-      },
-      "artists": [
-        {
-          "name": "Anal kallsup",
-          "url": "https://open.spotify.com/artist/4b7yq9W7t6Sk5qw7EyVvPE"
-        }
-      ],
-      "duration_ms": 118170,
-      "name": "BANG! (Vi s\u00e4nker Close-up-b\u00e5ten)",
-      "url": "https://open.spotify.com/track/4Sit1AqfvIgnio8QWuT9yt"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "R\u00f6sta p\u00e5 idioter",
         "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 72880,
       "name": "\u00c5t helvete med kungafamiljen",
       "url": "https://open.spotify.com/track/6aVpTnwr4Z1cSRiUtdgAfI"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "BANG! (Vi s\u00e4nker Close-up-b\u00e5ten)",
+        "url": "https://open.spotify.com/album/1Hy1mW2whKFkWAGPYv5XJt"
+      },
+      "artists": [
+        {
+          "name": "Anal kallsup",
+          "url": "https://open.spotify.com/artist/4b7yq9W7t6Sk5qw7EyVvPE"
+        }
+      ],
+      "duration_ms": 118170,
+      "name": "BANG! (Vi s\u00e4nker Close-up-b\u00e5ten)",
+      "url": "https://open.spotify.com/track/4Sit1AqfvIgnio8QWuT9yt"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7"
         }
       ],
-      "duration_ms": 135771,
-      "name": "Leviatan",
-      "url": "https://open.spotify.com/track/0ycZqaqz68u8u7nYLUdQaE"
+      "duration_ms": 188162,
+      "name": "R\u00f6da stugor med ruttnande knutar",
+      "url": "https://open.spotify.com/track/53Rpz0CH9beiCm7n7OaVja"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1468,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7"
         }
       ],
-      "duration_ms": 188162,
-      "name": "R\u00f6da stugor med ruttnande knutar",
-      "url": "https://open.spotify.com/track/53Rpz0CH9beiCm7n7OaVja"
+      "duration_ms": 135771,
+      "name": "Leviatan",
+      "url": "https://open.spotify.com/track/0ycZqaqz68u8u7nYLUdQaE"
     },
     {
       "added_at": "2024-08-29 22:00:00",

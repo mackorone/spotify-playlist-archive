@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Die Heuwels Fantasties",
+  "description": "The best new and classic South African Rock. Cover: Zaan Sonnekus",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -2655,6 +2655,24 @@
     },
     {
       "album": {
+        "name": "Dans",
+        "url": "https://open.spotify.com/album/1Z1FIW60skgmaiPtKn9N5b"
+      },
+      "artists": [
+        {
+          "name": "Dapper Muis",
+          "url": "https://open.spotify.com/artist/5d9WSo5aDwgEV0oUZZsQET"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236450,
+      "name": "Dans",
+      "url": "https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8"
+    },
+    {
+      "album": {
         "name": "Dans Deur Die Donker",
         "url": "https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE"
       },
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 207333,
       "name": "Ek Mis Jou",
       "url": "https://open.spotify.com/track/0H5JatqjXRa1mMWYxaHGk7"
@@ -4096,7 +4114,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 172813,
       "name": "Fantasy Factory",
       "url": "https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6"
@@ -4950,7 +4968,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 232649,
       "name": "Gutter",
       "url": "https://open.spotify.com/track/5swJSrQesKJr7skiKkW1cx"
@@ -7881,6 +7899,24 @@
     },
     {
       "album": {
+        "name": "My Hart, Jou Hande(Vraagteken?)",
+        "url": "https://open.spotify.com/album/00V7WzRfuQY1TuWBLPiAI6"
+      },
+      "artists": [
+        {
+          "name": "Tweepuntplug",
+          "url": "https://open.spotify.com/artist/0nvUx4ttABgwTiuqxxK2V5"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202701,
+      "name": "My Hart, Jou Hande(Vraagteken?)",
+      "url": "https://open.spotify.com/track/0G3mbFqZ2i3W5xWoAlRNaf"
+    },
+    {
+      "album": {
         "name": "My Lover's on the Run",
         "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
       },
@@ -9230,7 +9266,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 222250,
       "name": "Presley's",
       "url": "https://open.spotify.com/track/2PBsg0Va0bhtEamPh6T5Tb"
@@ -9288,6 +9324,24 @@
       "duration_ms": 211653,
       "name": "Prodigal Son",
       "url": "https://open.spotify.com/track/3CJRVQvgxk4vA5ezsADTRf"
+    },
+    {
+      "album": {
+        "name": "Psycho Bitch",
+        "url": "https://open.spotify.com/album/0Eo6xiSvOCYZEBth2ZEgOE"
+      },
+      "artists": [
+        {
+          "name": "Cistamatic",
+          "url": "https://open.spotify.com/artist/6ueRqbxnDDHw3WXFivdxpK"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Psycho Bitch",
+      "url": "https://open.spotify.com/track/1HnO51bwFbTVJ6kbnPfWuk"
     },
     {
       "album": {
@@ -10321,6 +10375,24 @@
     },
     {
       "album": {
+        "name": "SKREE",
+        "url": "https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178737,
+      "name": "SKREE",
+      "url": "https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef"
+    },
+    {
+      "album": {
         "name": "Skylight",
         "url": "https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY"
       },
@@ -10714,7 +10786,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 175050,
       "name": "Spytverdryf",
       "url": "https://open.spotify.com/track/59Vo6hL3RPWBXmZ31XhzFP"
@@ -11638,6 +11710,24 @@
       "duration_ms": 186046,
       "name": "The Fever",
       "url": "https://open.spotify.com/track/6FuzR5Bt1XlzlGoMK4sOC3"
+    },
+    {
+      "album": {
+        "name": "Soft Enough to Bruise",
+        "url": "https://open.spotify.com/album/2huDeB61BcnZ466ZLfBytK"
+      },
+      "artists": [
+        {
+          "name": "Winter Kites",
+          "url": "https://open.spotify.com/artist/7FPaKst7kOQBM2c5JCqJsD"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194679,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/3phs6D25OjXrukSHFiTBjT"
     },
     {
       "album": {

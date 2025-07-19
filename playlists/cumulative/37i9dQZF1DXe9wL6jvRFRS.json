@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Harry and the Jets",
+        "url": "https://open.spotify.com/album/6FQ9I0d2e7pvddqHb3UgIC"
+      },
+      "artists": [
+        {
+          "name": "Mouseatouille",
+          "url": "https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256519,
+      "name": "Harry and the Jets",
+      "url": "https://open.spotify.com/track/6lSAHuOAfFC5DtSQrCsfE3"
+    },
+    {
+      "album": {
         "name": "Bohemian Clutter",
         "url": "https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3"
       },
@@ -488,6 +506,24 @@
       "duration_ms": 279378,
       "name": "Honest Song",
       "url": "https://open.spotify.com/track/1jOHyaoZuxjJuHvkaf3AAK"
+    },
+    {
+      "album": {
+        "name": "I Was Here",
+        "url": "https://open.spotify.com/album/27pZBFE96hTJNPctbRQMLm"
+      },
+      "artists": [
+        {
+          "name": "Green Gardens",
+          "url": "https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218433,
+      "name": "I Was Here",
+      "url": "https://open.spotify.com/track/0sh49tZQQG9Qsd46dbh2UY"
     },
     {
       "album": {

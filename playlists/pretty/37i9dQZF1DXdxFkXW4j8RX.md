@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Ana Tijoux & Hortadoj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,531 likes - 106 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,526 likes - 106 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

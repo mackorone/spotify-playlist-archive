@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Amaeya
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,395 likes - 90 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,396 likes - 90 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GOLIATH](https://open.spotify.com/track/6eXpEvkpwBKtgE1WfD86xV) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/6D2NHn9yNM8uDrUlnpdjnp) | 2:34 |
 | 2 | [My Shayla](https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Mbryo](https://open.spotify.com/artist/7ttqbMfcqUvZdc2aZDg3F3), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [My Shayla](https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95) | 2:33 |
 | 3 | [Psycho](https://open.spotify.com/track/0UaZOV3A2VNUhF7LPeG75n) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Psycho](https://open.spotify.com/album/79MsTGHVSi4uAkY8GerDck) | 2:36 |
-| 4 | [Not A Love Song](https://open.spotify.com/track/09OdX4zFiExlOXFvYoO7tQ) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 2:08 |
+| 4 | [Not A Love Song](https://open.spotify.com/track/09OdX4zFiExlOXFvYoO7tQ) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 2:08 |
 | 5 | [OLAOLUWA](https://open.spotify.com/track/6o6Vu8iObyQW0wzC7LjqcK) | [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [Blue Roses & Red Violets](https://open.spotify.com/album/1G5lsx75BjEYVffrMyOHJn) | 2:45 |
 | 6 | [Sade](https://open.spotify.com/track/2AXGzJKUM7y9rFM4LHUVmz) | [Dera](https://open.spotify.com/artist/0fm0WfnKaOf2C8rdvnHlnj) | [Sade + Any Other Day](https://open.spotify.com/album/5qI89bdgXp4h8XfxXSFGOi) | 3:04 |
 | 7 | [Yokozuna](https://open.spotify.com/track/1FK5NKZHwh7BQ5BG6IMKdA) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 1:56 |

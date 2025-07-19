@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,954 likes - 70 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,885 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 25 | [Te Hacen Falta Vitaminas \- Remasterizado 2007](https://open.spotify.com/track/3caBCFURBMGqZYrZUc7j8s) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:38 |
 | 26 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 |
 | 27 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
-| 28 | [Milonga del marinero y el capitán](https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:26 |
-| 29 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
+| 28 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
+| 29 | [Milonga del marinero y el capitán](https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:26 |
 | 30 | [Viernes, 3AM \- 2019 Remasterizado](https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [La Grasa de las Capitales: Edición 40º Aniversario \(2019 Remasterizado\)](https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3) | 4:25 |
 | 31 | [Sueles Dejarme Solo \- Remasterizado 2007](https://open.spotify.com/track/51M33m6vHnkJ9SJPES3Lu4) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:46 |
 | 32 | [Es Por Amor](https://open.spotify.com/track/3qoszL1tH1tYkdJIVisYIZ) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Aire De Todos \- Antología 1984 \- 1986](https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV) | 5:10 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 57 | [Ayer Nomás](https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:10 |
 | 58 | [Veinte Ciudades](https://open.spotify.com/track/17a6EMs038tuh87eggDJ1G) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 2:59 |
 | 59 | [De Nada Sirve](https://open.spotify.com/track/5zR2HBjuNk68vpMDUutZ7r) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 7:43 |
-| 60 | [La Mamá de Jimmy](https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE) | [Porsuigieco](https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG) | [PorSuiGieco](https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub) | 3:39 |
-| 61 | [Los Juguetes Y Los Niños](https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:57 |
+| 60 | [Los Juguetes Y Los Niños](https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:57 |
+| 61 | [La Mamá de Jimmy](https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE) | [Porsuigieco](https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG) | [PorSuiGieco](https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub) | 3:39 |
 | 62 | [Desconfío \- En Vivo](https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Se Vuelve Cada Día Mas Loca por Amor al Blues \(En Vivo\)](https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp) | 6:20 |
 | 63 | [Agua de Río](https://open.spotify.com/track/1Sa25LKUNSTCxfd1METeBT) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 5:26 |
 | 64 | [Genesis](https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 6:38 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 67 | [Mil Horas](https://open.spotify.com/track/7uKe068f3goRFEhH6MCbun) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Vasos Y Besos](https://open.spotify.com/album/5O8onsit6TM3W7qqxshwqN) | 2:50 |
 | 68 | [No Tan Distintos](https://open.spotify.com/track/4dG3znpT3NJjfRRvPc77xe) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Obras Cumbres](https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP) | 2:39 |
 | 69 | [Libros Sapienciales](https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 7:34 |
-| 70 | [Demoliendo Hoteles](https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL) | 2:15 |
+| 70 | [Regtest \(Happy Valley Rock\)](https://open.spotify.com/track/7o1z5DyXMpgug1NCCDCmky) | [Luca Prodan](https://open.spotify.com/artist/2vx09t0z5I1PnBWnyPPvWI) | [Time Fate Love \(Remastered 2019\)](https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM) | 5:49 |
 
 Snapshot ID: `ZzI3owAAAABmvQw4gtRhYGwDz0HWfv26`

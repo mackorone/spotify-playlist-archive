@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Vaundy \*👉 <a href="https://spice.eplus.jp/articles/339374">連動記事</a>をSPICEでチェック!
 
-11,259 songs - 29 day 8 hr 13 min
+11,260 songs - 29 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1755,7 +1755,8 @@
 | [Dopamine](https://open.spotify.com/track/64Qw7af8NTss2NhiaQAkTx) | [Yoeko](https://open.spotify.com/artist/7vOAHP92bDityGxU2xCA60) | [New Yoeko](https://open.spotify.com/album/4oOmO3kM8ykUsqQndQpH3V) | 5:45 | 2023-09-20 | 2023-09-27 |
 | [Dope boi](https://open.spotify.com/track/7adTPZZy8A969hVEF7jfLs) | [Ganafii](https://open.spotify.com/artist/5ONh8X5yDeNNop8XlbRoXe), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Till i die](https://open.spotify.com/album/63zofdFmExj5dfZyhWuQAZ) | 3:31 | 2023-03-14 | 2023-03-22 |
 | [doppelgänger](https://open.spotify.com/track/7FgkqIH50E6masvuz4EOPy) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [doppelgänger](https://open.spotify.com/album/7CMTY6yUZDGVoc4GIi7qRZ) | 2:47 | 2025-01-28 | 2025-02-05 |
-| [DOREMI](https://open.spotify.com/track/05NoTRUIxv24AvRfdPmMkV) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/5ySi9bqqdg7M5h8UdNSUWb) | 3:44 | 2025-07-16 |  |
+| [DOREMI](https://open.spotify.com/track/05NoTRUIxv24AvRfdPmMkV) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/5ySi9bqqdg7M5h8UdNSUWb) | 3:44 | 2025-07-16 | 2025-07-19 |
+| [DOREMI](https://open.spotify.com/track/5sDqhLuWrPyy0HWL4AYMe8) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/6R8YM1EtrlW6mOQTg93k9j) | 3:44 | 2025-07-18 |  |
 | [dorobo](https://open.spotify.com/track/6E5m6IFNNFYwIe1sBKgk4y) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [dorobo](https://open.spotify.com/album/7AgCcXr9sUYISChejAsr5w) | 2:56 | 2023-12-05 | 2023-12-13 |
 | [DOSHABURI](https://open.spotify.com/track/3mYO2S7o4kpIXVnhtYHhLL) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI](https://open.spotify.com/album/61bA17oFLiO0GB2hVLJnUp) | 2:41 | 2023-06-14 | 2023-06-21 |
 | [DOSHABURI](https://open.spotify.com/track/4PmbTS1aZVE7k9XdcZz3Uv) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI](https://open.spotify.com/album/23nlB57PLkDfluacW1PmCv) | 2:41 | 2023-06-13 | 2023-06-15 |

@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-584 songs - 1 day 8 hr 43 min
+585 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Bitch](https://open.spotify.com/track/2PjGWkumFMNIrdgJ8tA5BI) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Bitch](https://open.spotify.com/album/5FYMZSGSXsQDRUljl5nvnQ) | 3:14 | 2021-06-27 | 2021-09-26 |
 | [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2021-10-02 | 2025-05-28 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-05-14 | 2024-08-24 |
-| [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 |  |
+| [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 | 2025-07-19 |
 | [Break Up Song](https://open.spotify.com/track/3fEoJxnPpfIHwFHKiFtqbA) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Break Up Song](https://open.spotify.com/album/0JFTISfgRQyeH5kSAFPgtq) | 3:20 | 2020-03-29 | 2021-08-13 |
 | [Bridges](https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:11 | 2019-06-21 | 2019-08-10 |
 | [Broken](https://open.spotify.com/track/3Xf1QayETh9YgdW0FzMJEl) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:38 | 2019-05-26\* | 2020-04-22 |
@@ -352,6 +352,7 @@
 | [my only mistake](https://open.spotify.com/track/4CgUc04LVffgB3UxU5pZhD) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [my only mistake](https://open.spotify.com/album/7LajH8FQw6TrTUFghxO6eh) | 3:12 | 2021-03-27 | 2021-10-02 |
 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 | 2020-08-26 | 2021-10-21 |
 | [Needing You](https://open.spotify.com/track/2acxmqB7A6OkJYD7H1l7Oq) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Needing You](https://open.spotify.com/album/3EhslIbUArz9CrRdmSGbMI) | 3:03 | 2019-05-26\* | 2021-05-27 |
+| [needle and thread](https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [needle and thread](https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG) | 3:54 | 2025-07-18 |  |
 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 | 2021-10-07 |  |
 | [Never Been](https://open.spotify.com/track/5s4mj6ILv52pz9OM9yRgaR) | [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki) | [Never Been In Love](https://open.spotify.com/album/3WNXdh0xuJtRpzDGrZ9EPB) | 2:57 | 2019-05-26\* | 2021-05-25 |
 | [Never Forget You](https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:33 | 2019-05-26\* | 2021-05-27 |

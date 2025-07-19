@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,580 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,705 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 64 | [Rainbow](https://open.spotify.com/track/3qCnqSMioCZ7stbXqCorUq) | [Twentieth Century Zoo](https://open.spotify.com/artist/2YIXlmXZrJoFZfUQFOw4hT) | [Thunder On A Clear Day](https://open.spotify.com/album/60DV7mFo39JXUL8e3IiaEs) | 4:17 |
 | 65 | [Under the Rainbow](https://open.spotify.com/track/5GGHGmV00uMekAdhqia3Mt) | [The End](https://open.spotify.com/artist/45jcnUQrgsJtv7M6kfAFK4) | [From Beginning to End](https://open.spotify.com/album/6XMRS79DmOuEOFtcBsDdRo) | 3:47 |
 | 66 | [Riddles and Fairytales](https://open.spotify.com/track/4Xs7lOyFcLlpaKU0Psu1Rw) | [Bohemian Vendetta](https://open.spotify.com/artist/73VmM9R8AtZr2yM6cTkB6c) | [Bohemian Vendetta](https://open.spotify.com/album/2fARshM3fpN5Drk6pVdveD) | 2:57 |
-| 67 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |
-| 68 | [With All in Mind](https://open.spotify.com/track/0BE1Nqi5OtEp05IqZITvt9) | [Clear Light](https://open.spotify.com/artist/0vbykpsZwxi9Z6P27AhVqJ) | [Clear Light \(US Internet Release\)](https://open.spotify.com/album/5js8Q3QkxR0FT94B64OiCl) | 2:58 |
+| 67 | [With All in Mind](https://open.spotify.com/track/0BE1Nqi5OtEp05IqZITvt9) | [Clear Light](https://open.spotify.com/artist/0vbykpsZwxi9Z6P27AhVqJ) | [Clear Light \(US Internet Release\)](https://open.spotify.com/album/5js8Q3QkxR0FT94B64OiCl) | 2:58 |
+| 68 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |
 | 69 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
 | 70 | [Sunshine Of Your Love](https://open.spotify.com/track/4gxtH5mCSqVPTsqGcWKVOC) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Gold](https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E) | 4:10 |
 | 71 | [I'd Love To Change The World](https://open.spotify.com/track/3s9ri7hKv6ijDn2k89veEU) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [The Best Of Ten Years After](https://open.spotify.com/album/23K9VQeaaFKzmyEg2Z4V0u) | 3:43 |

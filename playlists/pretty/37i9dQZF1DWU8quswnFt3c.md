@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: laurie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,901 likes - 77 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,811 likes - 77 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 52 | [Airday](https://open.spotify.com/track/4BklDUfBvXieQ3nK82rQTC) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [Airday](https://open.spotify.com/album/2tBqoniDwTJiXvDh6hMZEj) | 2:41 |
 | 53 | [ember NEM élhet törött lábbal](https://open.spotify.com/track/04sFAUis6DGmAR1rSOHILF) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Hirtelen mélyül](https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R) | 2:07 |
 | 54 | [intuition](https://open.spotify.com/track/0PYSOQ5lB21W59L5xQ8P1C) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [intuition](https://open.spotify.com/album/2skKy8ko4caAopJQlqP6FV) | 3:02 |
-| 55 | [crush on me?](https://open.spotify.com/track/25wx5B53CYCcJnWdYfgMKu) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 2:55 |
-| 56 | [control](https://open.spotify.com/track/5ulpPkBYYuWI3nECebDfIt) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [control](https://open.spotify.com/album/3wrlN3pFbnt6jgdjc14H1m) | 2:53 |
+| 55 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |
+| 56 | [crush on me?](https://open.spotify.com/track/25wx5B53CYCcJnWdYfgMKu) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 2:55 |
 | 57 | [Hip\-Hop](https://open.spotify.com/track/204FxPIguRWJs264WXedmK) | [Rúzsa Magdi](https://open.spotify.com/artist/2BKQHZAdIa0XciezK1qbAb) | [Ördögi Angyal](https://open.spotify.com/album/2JtzlCNPt2dtKjui0caBFh) | 3:43 |
-| 58 | [V\-01C3](https://open.spotify.com/track/0YXRaYipPDPeRbEpNk6Rdy) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [V\-01C3](https://open.spotify.com/album/6UUhe3GaKiEezMo4tfkiBZ) | 2:32 |
-| 59 | [NEED](https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [9LIVES](https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV) | 2:57 |
-| 60 | [feelin' low](https://open.spotify.com/track/3JZmfYOhtnQVsBwXof3zPg) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [feelin' low](https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq) | 2:53 |
-| 61 | [whatdoiknow? \(interlude\)](https://open.spotify.com/track/55lT3hzLThs7oT2WuwWRRW) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [chapter one](https://open.spotify.com/album/5Pu5aw5SnOz3NljFQowoob) | 1:21 |
-| 62 | [still mine](https://open.spotify.com/track/3fYoLZPyyIClMECnkQdV6h) | [redreverie](https://open.spotify.com/artist/262aW8wsFRAppwRzxMPShu), [T2044](https://open.spotify.com/artist/4nS8duk3gmlhjsMuy4RAJb), [Joo](https://open.spotify.com/artist/4JP2ksLQhVP5Q55IKaSVoc) | [still mine](https://open.spotify.com/album/5GDaIdNRCx1EJvJp38N04x) | 3:16 |
-| 63 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |
+| 58 | [control](https://open.spotify.com/track/5ulpPkBYYuWI3nECebDfIt) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [control](https://open.spotify.com/album/3wrlN3pFbnt6jgdjc14H1m) | 2:53 |
+| 59 | [V\-01C3](https://open.spotify.com/track/0YXRaYipPDPeRbEpNk6Rdy) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [V\-01C3](https://open.spotify.com/album/6UUhe3GaKiEezMo4tfkiBZ) | 2:32 |
+| 60 | [NEED](https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [9LIVES](https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV) | 2:57 |
+| 61 | [feelin' low](https://open.spotify.com/track/3JZmfYOhtnQVsBwXof3zPg) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [feelin' low](https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq) | 2:53 |
+| 62 | [whatdoiknow? \(interlude\)](https://open.spotify.com/track/55lT3hzLThs7oT2WuwWRRW) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [chapter one](https://open.spotify.com/album/5Pu5aw5SnOz3NljFQowoob) | 1:21 |
+| 63 | [still mine](https://open.spotify.com/track/3fYoLZPyyIClMECnkQdV6h) | [redreverie](https://open.spotify.com/artist/262aW8wsFRAppwRzxMPShu), [T2044](https://open.spotify.com/artist/4nS8duk3gmlhjsMuy4RAJb), [Joo](https://open.spotify.com/artist/4JP2ksLQhVP5Q55IKaSVoc) | [still mine](https://open.spotify.com/album/5GDaIdNRCx1EJvJp38N04x) | 3:16 |
 | 64 | [Nem hittek Lennonnak](https://open.spotify.com/track/1cFHg6kbExLzclRIdG4m3m) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Sötét villám](https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T) | 3:28 |
 | 65 | [Toronyházak](https://open.spotify.com/track/7cBgmJg3AEKGXQ3AqMjHhJ) | [TELEHOLD](https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1) | [Éjszakai](https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO) | 3:44 |
 | 66 | [Fa Lenni](https://open.spotify.com/track/5tljYBwXPzxZ7TpLEWF8qM) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ) | [Csillag](https://open.spotify.com/album/3XU3AoSYQMuolJpj7kebC3) | 5:29 |
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 70 | [Hamvado cigarettaveg](https://open.spotify.com/track/07OqCQlAFiWXltHTewim1n) | [Karády Katalin](https://open.spotify.com/artist/0dapLiVAvNDfkzQXhhyAZJ) | [Hungarian Retro Music / Karády Katalin, Volume 4](https://open.spotify.com/album/0RJV1HSSG7ItgDTTooQIEP) | 3:33 |
 | 71 | [Szia Fényfolt](https://open.spotify.com/track/4qYgkPfLNskAzrhzaiKAo3) | [Barkóczi Noémi](https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc) | [Mindig kések, de hozzád jókor indultam](https://open.spotify.com/album/4XJfMiki4pUhzMAMsG9yDn) | 4:53 |
 | 72 | [Levegőben](https://open.spotify.com/track/0UtYGTaxoUYF8Pab8kgMut) | [Kollár Dea](https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v), [Csodaszoba](https://open.spotify.com/artist/6OvNRzpbgrRNLgOu7WC4AP), [Ocean](https://open.spotify.com/artist/6qH1F1MhHVSVNWK82mwo6M) | [Istent Láttam](https://open.spotify.com/album/2or9ZT2bGdY14Jam92qvYt) | 3:18 |
-| 73 | [Tengerszem](https://open.spotify.com/track/4kcOPwVvx89IFm3PYSG4Ag) | [Szaffi](https://open.spotify.com/artist/2t4t8NT5o7Q7OPpO9hw3hV) | [Téli álom](https://open.spotify.com/album/06YQrLBpnWSoRscqRetKr8) | 3:19 |
-| 74 | [Emésztőenzim \- Live at Nyúl](https://open.spotify.com/track/46i4ODEr4JNvmxkKqKSF7A) | [Noémo](https://open.spotify.com/artist/7bqH8KR1veILd32ZGJkbwC) | [Live at Nyúl](https://open.spotify.com/album/7506JqqAzsGJfza0Ottvka) | 3:27 |
-| 75 | [Call Me Back](https://open.spotify.com/track/13zo1P35tEC0DXjaD0kMiM) | [Flanger Kids](https://open.spotify.com/artist/0Z6OJHkHFz4JiwDHaCzhE9) | [B\-side](https://open.spotify.com/album/5Awz04lN7uubo8B3EY62yA) | 3:34 |
-| 76 | [Forgószél](https://open.spotify.com/track/06OeIucohzd2Rpga5x5l1p) | [Törőcsik Kristóf](https://open.spotify.com/artist/3U5uVFWteCLoiynKMs3MSM), [Végh Janka](https://open.spotify.com/artist/6kbB0irTQJC0AOkmNbhYub) | [Forgószél](https://open.spotify.com/album/0sDviTdBGe0XQL5GDlsE6j) | 2:54 |
+| 73 | [Emésztőenzim \- Live at Nyúl](https://open.spotify.com/track/46i4ODEr4JNvmxkKqKSF7A) | [Noémo](https://open.spotify.com/artist/7bqH8KR1veILd32ZGJkbwC) | [Live at Nyúl](https://open.spotify.com/album/7506JqqAzsGJfza0Ottvka) | 3:27 |
+| 74 | [Forgószél](https://open.spotify.com/track/06OeIucohzd2Rpga5x5l1p) | [Törőcsik Kristóf](https://open.spotify.com/artist/3U5uVFWteCLoiynKMs3MSM), [Végh Janka](https://open.spotify.com/artist/6kbB0irTQJC0AOkmNbhYub) | [Forgószél](https://open.spotify.com/album/0sDviTdBGe0XQL5GDlsE6j) | 2:54 |
+| 75 | [Tengerszem](https://open.spotify.com/track/4kcOPwVvx89IFm3PYSG4Ag) | [Szaffi](https://open.spotify.com/artist/2t4t8NT5o7Q7OPpO9hw3hV) | [Téli álom](https://open.spotify.com/album/06YQrLBpnWSoRscqRetKr8) | 3:19 |
+| 76 | [Call Me Back](https://open.spotify.com/track/13zo1P35tEC0DXjaD0kMiM) | [Flanger Kids](https://open.spotify.com/artist/0Z6OJHkHFz4JiwDHaCzhE9) | [B\-side](https://open.spotify.com/album/5Awz04lN7uubo8B3EY62yA) | 3:34 |
 | 77 | [Virágos kert az én szivem](https://open.spotify.com/track/4QDGPOYC6AfLv7L5aVrLuu) | [Hollós Ilona](https://open.spotify.com/artist/56UpHXIEx1sXQwb0LgvPBK) | [The Hungarian Song / Τhe Songs of Defries Karoly](https://open.spotify.com/album/0qOchOku9DpzhcsfOvgwZw) | 3:06 |
 
 Snapshot ID: `aHj8fAAAAADqT8aCsQZsgX7X2Lx23r63`

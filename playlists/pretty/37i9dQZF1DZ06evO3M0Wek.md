@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,738 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,759 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 | 5 | [Bad Romance](https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate: The CoVeRs eP](https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D) | 4:08 |
 | 6 | [Love Bites \(So Do I\)](https://open.spotify.com/track/5l3gAGbkXFfPWxh4a3J8mp) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:11 |
 | 7 | [Darkness Always Wins](https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Darkness Always Wins](https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr) | 4:50 |
-| 8 | [Everest](https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ) | 4:47 |
-| 9 | [Familiar Taste of Poison](https://open.spotify.com/track/3mkNZA4Q0dYvZIn6OZEmOz) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 4:04 |
+| 8 | [Familiar Taste of Poison](https://open.spotify.com/track/3mkNZA4Q0dYvZIn6OZEmOz) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 4:04 |
+| 9 | [Everest](https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ) | 4:47 |
 | 10 | [Mz\. Hyde](https://open.spotify.com/track/78mjaBatbfvwx5KJwI036H) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:22 |
 | 11 | [The Steeple](https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:27 |
 | 12 | [Do Not Disturb](https://open.spotify.com/track/6oIjJi274wP86uqFxQRlKV) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:23 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 | 48 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 |
 | 49 | [Straight Through the Heart](https://open.spotify.com/track/13sFHP8az3xl5fIchnLr03) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Ronnie James Dio \- This Is Your Life](https://open.spotify.com/album/76DxuvfdC3lmCDLFf6rSWw) | 3:58 |
 
-Snapshot ID: `aHbrgAAAAADh4ZRmzUi79tcl9MEcilyb`
+Snapshot ID: `aHg9AAAAAADQ4ao0CkWXRmLuqrptXDsK`

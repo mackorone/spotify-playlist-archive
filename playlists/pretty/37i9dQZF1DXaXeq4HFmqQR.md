@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Seamoon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,775 likes - 35 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,778 likes - 35 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 21 | [Convéncete \(Remix\)](https://open.spotify.com/track/4OA8RnYn0HIQMBDgIFnrJu) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Convéncete \(Remix\)](https://open.spotify.com/album/4tmbV9VHWjdlaDu1YK3yQO) | 3:28 |
 | 22 | [Así Soy](https://open.spotify.com/track/3ZTd26yeOXIAnXwkTJjifV) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [Así Soy](https://open.spotify.com/album/5UaLXLldJkPjdjsjm6zaZ5) | 2:03 |
 | 23 | [www.hotxulito.com](https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:21 |
-| 24 | [LIMPIATE ADIKTA](https://open.spotify.com/track/4oKyMskkHElqwWExL18XDR) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [LIMPIATE ADIKTA](https://open.spotify.com/album/16tkJk6H52E1Sz1MB1Prso) | 2:28 |
+| 24 | [POSEÍDA](https://open.spotify.com/track/4DTKzlDiEUIp2RdxJzP1kn) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POSEÍDA](https://open.spotify.com/album/7DlNqWmZwZEJf4iFYLv5rB) | 3:52 |
 | 25 | [Febrero](https://open.spotify.com/track/4LIVoYHPiHaxQZAnsEe4sI) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Febrero](https://open.spotify.com/album/4mmcM1ZG1UvRcpqnlX22M3) | 2:44 |
-| 26 | [POSEÍDA](https://open.spotify.com/track/4DTKzlDiEUIp2RdxJzP1kn) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POSEÍDA](https://open.spotify.com/album/7DlNqWmZwZEJf4iFYLv5rB) | 3:52 |
+| 26 | [LIMPIATE ADIKTA](https://open.spotify.com/track/4oKyMskkHElqwWExL18XDR) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [LIMPIATE ADIKTA](https://open.spotify.com/album/16tkJk6H52E1Sz1MB1Prso) | 2:28 |
 | 27 | [nasty](https://open.spotify.com/track/2WXMvFkfCn938wlvJxttAN) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:55 |
 | 28 | [POPPER!](https://open.spotify.com/track/41P9Z83VHtkpVYfpmDlkAA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 1:50 |
 | 29 | [acaramelada](https://open.spotify.com/track/1vWPNJvyXX2H4tazdPH9C0) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [acaramelada](https://open.spotify.com/album/6FdqOoAN0NF58EjVnclJc9) | 2:34 |

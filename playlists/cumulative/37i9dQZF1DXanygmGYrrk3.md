@@ -2,7 +2,7 @@
 
 ### [Las Favoritas](https://open.spotify.com/playlist/37i9dQZF1DXanygmGYrrk3)
 
-> ¡Tus canciones favoritas del momento, todas en un solo lugar! Cover: Luis R Conriquez & Carin Leon
+> ¡Tus canciones favoritas del momento, todas en un solo lugar! Cover: 8Uno, Airam Paez
 
 589 songs - 1 day 7 hr 26 min
 
@@ -93,7 +93,7 @@
 | [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 | 2024-09-06 | 2025-02-01 |
 | [Como Duele El Amor](https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Como Duele El Amor](https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP) | 3:42 | 2025-03-07 |  |
 | [Como La Flor \- Remastered](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 | 2022-07-01 | 2023-02-25 |
-| [Como Quieras Quiero](https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 | 2023-02-24 | 2025-07-05 |
+| [Como Quieras Quiero](https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 | 2023-02-24 |  |
 | [Con Ese Corazón](https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [En Las Buenas Y En Las Malas](https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ) | 3:12 | 2022-05-12 |  |
 | [Con Todo Respetillo](https://open.spotify.com/track/7pdV3v2uiSdhryajFIeLJJ) | [Grupo Los Chavalos](https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf) | [Con Todo Respetillo](https://open.spotify.com/album/4ROV46hkQiEQelXlcgtSfw) | 3:08 | 2025-01-31 |  |
 | [Con Todo Respetillo](https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 2:57 | 2024-12-13 |  |
@@ -441,7 +441,7 @@
 | [Quédate](https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Quédate](https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n) | 4:07 | 2023-05-15 | 2023-08-11 |
 | [Quédate Bebé](https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Quédate Bebé](https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG) | 3:13 | 2024-03-29 |  |
 | [Radicamos En South Central](https://open.spotify.com/track/1kHpljP6paUsQyZgwFDfxn) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3](https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS) | 3:48 | 2022-09-23 | 2023-06-25 |
-| [Raite Pa' Con Diosito](https://open.spotify.com/track/105guh7ejzfazbD4qCmZIo) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Raite Pa' Con Diosito](https://open.spotify.com/album/2GSto24T7Pw2rfsHBFjJYc) | 2:04 | 2025-07-04 |  |
+| [Raite Pa' Con Diosito](https://open.spotify.com/track/105guh7ejzfazbD4qCmZIo) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Raite Pa' Con Diosito](https://open.spotify.com/album/2GSto24T7Pw2rfsHBFjJYc) | 2:04 | 2025-07-04 | 2025-07-19 |
 | [Ramito De Violetas](https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:32 | 2022-05-12 |  |
 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 | 2022-05-12 |  |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2022-05-12 | 2023-05-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,411,665 likes - 97 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,412,259 likes - 97 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

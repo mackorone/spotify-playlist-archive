@@ -4,7 +4,7 @@
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-154 songs - 8 hr 12 min
+155 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Love Love](https://open.spotify.com/track/7nSataGo54Le0IfcFQCFLN) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 3:25 | 2023-06-23 | 2024-04-19 |
 | [Lua Nova](https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3) | [PH Moraes](https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [Lua Nova](https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c) | 2:41 | 2023-06-23 | 2024-04-19 |
 | [Lua Nova](https://open.spotify.com/track/7gob58REjZ8OLz3sXwYKg4) | [PH Moraes](https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [Lua Nova](https://open.spotify.com/album/77HrVoVJjktmHBy9XRfBIc) | 2:41 | 2023-11-24 | 2025-04-05 |
-| [Lua Vai, Lua Vem](https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS) | [Thaïs Morell](https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB) | [Lua Vai, Lua Vem](https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX) | 3:36 | 2023-06-23 |  |
+| [Lua Vai, Lua Vem](https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS) | [Thaïs Morell](https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB) | [Lua Vai, Lua Vem](https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX) | 3:36 | 2023-06-23 | 2025-07-19 |
 | [Lugar Secreto](https://open.spotify.com/track/001B5pHMglvqiOuAVtssA7) | [Hugo Almeida](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ) | [Lugar Secreto](https://open.spotify.com/album/12qZrh454aUaPazYprUWjd) | 2:07 | 2025-02-07 | 2025-02-22 |
 | [Magnética](https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Magnética](https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI) | 3:16 | 2025-04-04 | 2025-05-24 |
 | [Maior Que Nós](https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Maior Que Nós](https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51) | 2:52 | 2023-06-23 | 2025-02-22 |
@@ -104,6 +104,7 @@
 | [Moradia](https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD) | [A Banca 021](https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9) | [Lírios São Deusas](https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss) | 3:08 | 2023-06-23 |  |
 | [No Mundo](https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw) | [No Mundo](https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N) | 3:08 | 2023-06-23 | 2024-04-19 |
 | [No Mundo](https://open.spotify.com/track/6nz3aJMFQugXnZbWID6pBX) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw) | [No Mundo](https://open.spotify.com/album/5YNgJg4RP2rjVJnaL2YWmI) | 3:08 | 2023-11-24 |  |
+| [Nuvem](https://open.spotify.com/track/2YpUnRrDCwud0Tllik60YF) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz) | [Nuvem](https://open.spotify.com/album/1ns8CbVuZDgqjc73q2xxUq) | 3:07 | 2025-07-19 |  |
 | [Não Sei Lidar](https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48), [Rapha Renó](https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh) | [Não Sei Lidar](https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk) | 2:39 | 2025-02-22 | 2025-04-01 |
 | [Nó de Marinheiro](https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Nó de Marinheiro](https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb) | 3:03 | 2023-07-28 | 2023-10-21 |
 | [Nós Dois](https://open.spotify.com/track/4ulWW2Z1OQU6gDxC1MPIRB) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Nós Dois](https://open.spotify.com/album/26F7DKHpz7cpE998hMWv3d) | 2:26 | 2025-03-28 | 2025-04-19 |

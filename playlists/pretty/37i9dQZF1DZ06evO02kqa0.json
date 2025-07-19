@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 39367,
+  "num_followers": 39374,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAAW+j/jl5CUALkhxJxNGZGw",
+  "snapshot_id": "aHg9AAAAAABptvea+1ltBs3HJmd3mwMk",
   "tracks": [
     {
       "added_at": null,
@@ -384,8 +384,8 @@
       },
       "artists": [
         {
-          "name": "Gaetano Donizetti",
-          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+          "name": "Francesco Cilea",
+          "url": "https://open.spotify.com/artist/4UI5kd2hXbzrL9dH9zpK03"
         },
         {
           "name": "Maria Callas",
@@ -396,13 +396,13 @@
           "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
         },
         {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         }
       ],
-      "duration_ms": 182120,
-      "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Il dolce suono\" (Lucia)",
-      "url": "https://open.spotify.com/track/3nVFZo0bZx9gHRXzWTnL2o"
+      "duration_ms": 230280,
+      "name": "Cilea: Adriana Lecouvreur, Act 1: \"Ecco, respiro appena... Io son l'umile ancella\" (Adriana Lecouvreur)",
+      "url": "https://open.spotify.com/track/5RLoXRPwbJdWQMWUkLFdVs"
     },
     {
       "added_at": null,
@@ -476,8 +476,8 @@
       },
       "artists": [
         {
-          "name": "Francesco Cilea",
-          "url": "https://open.spotify.com/artist/4UI5kd2hXbzrL9dH9zpK03"
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
         },
         {
           "name": "Maria Callas",
@@ -488,13 +488,13 @@
           "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
         },
         {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
         }
       ],
-      "duration_ms": 230280,
-      "name": "Cilea: Adriana Lecouvreur, Act 1: \"Ecco, respiro appena... Io son l'umile ancella\" (Adriana Lecouvreur)",
-      "url": "https://open.spotify.com/track/5RLoXRPwbJdWQMWUkLFdVs"
+      "duration_ms": 182120,
+      "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Il dolce suono\" (Lucia)",
+      "url": "https://open.spotify.com/track/3nVFZo0bZx9gHRXzWTnL2o"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BD Music Presents Maria Callas",
+        "url": "https://open.spotify.com/album/55wZY2z70yepE5kDQ5UUQq"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 281946,
+      "name": "Madame Butterfly: Un bel di, vedremo",
+      "url": "https://open.spotify.com/track/6oKWBxOT37SPyRkT6xHhH4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Verdi: Il trovatore",
         "url": "https://open.spotify.com/album/48eWgnNGxUo5NIg4Y7bSsc"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 213880,
       "name": "Verdi: Il trovatore, Act 1: \"Tacea la notte placida\" (Leonora)",
       "url": "https://open.spotify.com/track/0knATV5PNjw2KacFgMwmwy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BD Music Presents Maria Callas",
-        "url": "https://open.spotify.com/album/55wZY2z70yepE5kDQ5UUQq"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 281946,
-      "name": "Madame Butterfly: Un bel di, vedremo",
-      "url": "https://open.spotify.com/track/6oKWBxOT37SPyRkT6xHhH4"
     },
     {
       "added_at": null,

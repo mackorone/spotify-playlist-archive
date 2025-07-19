@@ -4,7 +4,7 @@
 
 > Nieuwe muziek: Roxy Dekker, Frenna, Alex Warren, Bad Bunny en meer
 
-11,887 songs - 25 day 20 hr 53 min
+11,888 songs - 25 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1422,6 +1422,7 @@
 | [Boeie](https://open.spotify.com/track/2w5QvIqfDjg09RAe56WbiO) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Boeie](https://open.spotify.com/album/5Tl0c5B3lHjw0v5IQsDlBw) | 2:33 | 2023-08-24 | 2023-09-01 |
 | [Boem Boem Boem](https://open.spotify.com/track/2qf5GS2a5ewZqK5oRT3dAE) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Nils](https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7) | [Boem Boem Boem](https://open.spotify.com/album/5M5YCUfUxyzmZjGHq7HLPy) | 2:12 | 2023-07-06 | 2023-07-14 |
 | [Boerenland](https://open.spotify.com/track/6JPS6X6k4Xpk8yu8fJkpPZ) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Boerenland](https://open.spotify.com/album/1HgJ0ncLENyQ6kSWjwbxzE) | 2:22 | 2025-04-03 | 2025-04-11 |
+| [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 | 2025-07-17 |  |
 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 | 2023-05-05 | 2023-05-12 |
 | [Bohemian Eclectic](https://open.spotify.com/track/4OnHhXc1Ht7TCUYR4vNJoz) | [The Dean](https://open.spotify.com/artist/6ado6OQHT11e73WVhbAo4c) | [Bohemian Eclectic](https://open.spotify.com/album/5McHbOLSWnypUHIDlx8Hz8) | 2:26 | 2023-04-06 | 2023-04-14 |
 | [Boiler](https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9) | [Boskat](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi), [Rude Boy](https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv), [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [Boiler](https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR) | 2:55 | 2024-01-11 | 2024-01-19 |
@@ -9175,7 +9176,7 @@
 | [So Scared](https://open.spotify.com/track/3iuC4kAsHP8xqBvFnAd3gZ) | [CIEL](https://open.spotify.com/artist/419lBVMZC4wFzJg8evBZ4g) | [So Scared](https://open.spotify.com/album/3vtnsib6fmuCevxA68282A) | 2:50 | 2023-06-15 | 2023-06-23 |
 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-21 | 2024-03-29 |
 | [So Stunning](https://open.spotify.com/track/11H0FOYFDAQ2z6DUwIK5VZ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [So Stunning](https://open.spotify.com/album/77iJPDjDNyKhQdsiFBNkUy) | 2:18 | 2024-07-19 | 2024-07-27 |
-| [SOAK](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [SOAK](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-17 |  |
+| [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-17 |  |
 | [SOAMI](https://open.spotify.com/track/6aPSqYjp4fElBJaOJNvo55) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [SOAMI](https://open.spotify.com/album/0R5HRdz4T5tiqOr1u7LgMD) | 3:38 | 2023-04-13 | 2023-04-21 |
 | [SOBER](https://open.spotify.com/track/011Ml1UGGO7TxHzklnRTLy) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [ESC](https://open.spotify.com/album/4s0XNRusbQvskdQbu2SHcY) | 2:32 | 2024-11-07 | 2024-11-15 |
 | [Sober](https://open.spotify.com/track/5kyq2GnoRSU29shCChctHJ) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Sober](https://open.spotify.com/album/1zqQJSgxtsMusQige0FCha) | 2:47 | 2024-04-19 | 2024-04-26 |

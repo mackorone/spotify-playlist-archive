@@ -2,9 +2,9 @@
 
 ### [Disney Junior Music](https://open.spotify.com/playlist/37i9dQZF1DX4TzCf8od5BM)
 
-> Sing\-along to your favorite songs from Disney Jr\. shows including music from SuperKitties.
+> Sing\-along to your favorite songs from Disney Jr\. shows including music from Mickey Mouse Clubhouse+
 
-222 songs - 5 hr 45 min
+224 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Start Up Your Imagination](https://open.spotify.com/track/6fSFUHhbjQbll71Yj98x68) | [Cast \- Muppet Babies](https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:53 | 2022-03-18 |  |
 | [Stop, Look, and Listen](https://open.spotify.com/track/4jXzMMIhNu7ZlJ8KGGZjmB) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Firebuds](https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u) | 1:17 | 2023-05-16 |  |
 | [Stretch Break](https://open.spotify.com/track/0DUt2qj0BUB6PglUKwSfk0) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Mickey Mouse Funhouse Vol\. 1](https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX) | 1:59 | 2022-03-18 |  |
+| [Su\-Purr Wild \- From "Disney Jr\. Music: SuperKitties"](https://open.spotify.com/track/155yJC9x3vtqokdmTiPhmh) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Su\-Purr Wild \(From "Disney Jr\. Music: SuperKitties"\)](https://open.spotify.com/album/1WGRBhlHHsEw8a3pJsn0Pn) | 1:08 | 2025-07-18 |  |
 | [Super Hero](https://open.spotify.com/track/0jCZwqrvlA0j4wC5bQ1312) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Marvel's Spidey and His Amazing Friends](https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT) | 2:20 | 2022-03-18 |  |
 | [Super Hero on the Beat](https://open.spotify.com/track/2pcR3WzgeApNXILR8IlI9f) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Marvel's Spidey and His Amazing Friends](https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT) | 2:31 | 2022-03-18 |  |
 | [SuperKitties Theme Song](https://open.spotify.com/track/10wEHhCfKOvywm46uMm2Jr) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-Purr Edition](https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33) | 2:07 | 2023-08-18 |  |
@@ -217,6 +218,7 @@
 | [Weather](https://open.spotify.com/track/2K6MTdLSbkG3Ocr6srm0KA) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 2](https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ) | 1:26 | 2022-03-18 |  |
 | [Web\-Spinners](https://open.spotify.com/track/3u63jOlIxYN2P2GoWjMyq0) | [Marvel’s Spidey and His Amazing Friends \- Cast](https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Marvel's Spidey and His Amazing Friends \- Web\-Spinners](https://open.spotify.com/album/429rqYMxX34skuuCXDz9wn) | 1:31 | 2023-08-04 | 2023-08-09 |
 | [Webs Up \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/73oKdtqfhexTnNvp2QFBns) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Webs Up \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/0zwpuxxddazT9xD2gPQmX4) | 1:03 | 2022-07-22 |  |
+| [Welcome to the Clubhouse \(Hot Dog!\) \- From "Disney Jr\. Music: Mickey Mouse Clubhouse+"](https://open.spotify.com/track/0GhJ70rt4cDAUrYWGBPG88) | [Mickey Mouse Clubhouse+ \- Cast](https://open.spotify.com/artist/2tUJ9RmG3zSwctpikuzuzq), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Welcome to the Clubhouse \(Hot Dog!\) \[From "Disney Jr\. Music: Mickey Mouse Clubhouse+"\]](https://open.spotify.com/album/0sHn61de25GeXbJzcWk4Cq) | 2:49 | 2025-07-18 |  |
 | [Welcome to the Hospital](https://open.spotify.com/track/0cKehdz3x4KI97HYS3sqNY) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Doc McStuffins: Disney Junior Music](https://open.spotify.com/album/0L9q0keOfRGpk5ElzGFZsd) | 1:13 | 2022-03-18 |  |
 | [What Animal Do You Hear?](https://open.spotify.com/track/6wy6Iem6hgu2MGup3V2G0d) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 8](https://open.spotify.com/album/1kfmTVqOcHscZTl35tYmIe) | 1:26 | 2022-03-18 |  |
 | [What This Frog Likes](https://open.spotify.com/track/1ZZLBoiZ8MD1oBVFBJzat0) | [Cast \- Muppet Babies](https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 0:58 | 2022-03-18 |  |

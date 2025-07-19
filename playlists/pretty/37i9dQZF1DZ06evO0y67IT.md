@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,835 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,839 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 21 | [Wake Up Call](https://open.spotify.com/track/5wgomnotcyDrah2xWs5PYG) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:02 |
 | 22 | [Where Can I Stab Myself In The Ears](https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 3:42 |
 | 23 | [The Darkest Times](https://open.spotify.com/track/2ibiou9bHgZpv03Qe3Fjzh) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:40 |
-| 24 | [Bring You Back](https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 3:22 |
-| 25 | [I Will Follow You into the Dark](https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [I Will Follow You into the Dark / Cinco De Mayo Shit Show](https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I) | 3:19 |
+| 24 | [I Will Follow You into the Dark](https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [I Will Follow You into the Dark / Cinco De Mayo Shit Show](https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I) | 3:19 |
+| 25 | [Bring You Back](https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 3:22 |
 | 26 | [Just Another Ghost](https://open.spotify.com/track/7rgmDxJcV3ZsouQdBLUIB4) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf) | 3:05 |
 | 27 | [Tail Lights](https://open.spotify.com/track/1wLyxJA73dEPitzJFtY0pd) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:21 |
 | 28 | [Somewhere In Between](https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:21 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 37 | [Holy Coast](https://open.spotify.com/track/0DEODVT0D0J1JU04ePb4KR) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG) | 3:42 |
 | 38 | [Oceans](https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 4:26 |
 | 39 | [Bury My Bones at Crystal Cove](https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 4:49 |
-| 40 | [Pet Sematary](https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta) | 3:37 |
+| 40 | [We Were Never Lost](https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Lights](https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv) | 3:44 |
 | 41 | [Seafoam](https://open.spotify.com/track/6MAmisuvXgFBqKcienTZxO) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [William Ryan Key](https://open.spotify.com/artist/17IbNmZJHYTZDh9iYKChKE) | [The Rain Just Follows Me](https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG) | 2:36 |
-| 42 | [Lucerne Valley](https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lucerne Valley](https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy) | 3:27 |
+| 42 | [Pet Sematary](https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta) | 3:37 |
 | 43 | [The Girl That Destroyed Me](https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 2:32 |
-| 44 | [We Were Never Lost](https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Lights](https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv) | 3:44 |
-| 45 | [So Hopelessly](https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta) | 3:00 |
-| 46 | [Studying Politics](https://open.spotify.com/track/60gIh4WWldcXdpWubK5Ntj) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [Hawthorne Heights / Emery](https://open.spotify.com/album/0R46evZSMibVrQooZN69xg) | 3:02 |
-| 47 | [Four White Walls](https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:58 |
+| 44 | [Lucerne Valley](https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lucerne Valley](https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy) | 3:27 |
+| 45 | [Four White Walls](https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:58 |
+| 46 | [So Hopelessly](https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta) | 3:00 |
+| 47 | [Studying Politics](https://open.spotify.com/track/60gIh4WWldcXdpWubK5Ntj) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [Hawthorne Heights / Emery](https://open.spotify.com/album/0R46evZSMibVrQooZN69xg) | 3:02 |
 | 48 | [The Business Of Paper Stars](https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:46 |
 | 49 | [Control Alt Delete](https://open.spotify.com/track/74a24lwWJ7buVc5su1gGUT) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 2:13 |
 | 50 | [Abandoned Driveways](https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:42 |
 
-Snapshot ID: `aHbrgAAAAADHqFmFzOQEGX6s0Xnn99dA`
+Snapshot ID: `aHg9AAAAAADmLTXwO6WqvbyN6KTAc3wJ`

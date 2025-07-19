@@ -1,6 +1,6 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 1493322,
+  "num_followers": 1493666,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "On Melancholy Hill",
+      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 278277,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "On Melancholy Hill",
-      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
         "name": "Por Vida",
         "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 218000,
       "name": "Like a Tattoo",
       "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "Hell N Back (Sped Up)",
-        "url": "https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+        "name": "Hell N Back (Sped Up)",
+        "url": "https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -859,6 +843,22 @@
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "love you more than me",
-        "url": "https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 141081,
-      "name": "love you more than me",
-      "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
         "name": "1950",
         "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "THE FIRST TIME (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+        "name": "love you more than me",
+        "url": "https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 166368,
-      "name": "NIGHTS LIKE THIS PT 2",
-      "url": "https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi"
+      "duration_ms": 141081,
+      "name": "love you more than me",
+      "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 166368,
+      "name": "NIGHTS LIKE THIS PT 2",
+      "url": "https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
         "name": "sex money feelings die (slowed version)",
         "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 168810,
       "name": "sex money feelings die - slowed version",
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "Dead Man Walking",
+        "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 247079,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -1351,22 +1367,6 @@
       "duration_ms": 152250,
       "name": "West",
       "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
-        "name": "Dead Man Walking",
-        "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 247079,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -1599,42 +1599,6 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
-        "name": "ILYSMIH",
-        "url": "https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 213030,
-      "name": "ILYSMIH",
-      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
         "name": "Highspeeds",
         "url": "https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k"
       },
@@ -1663,6 +1627,42 @@
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "ILYSMIH",
+        "url": "https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 213030,
+      "name": "ILYSMIH",
+      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2025-06-06 22:40:26",

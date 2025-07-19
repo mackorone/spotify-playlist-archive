@@ -133,6 +133,28 @@
     },
     {
       "album": {
+        "name": "A Dawning",
+        "url": "https://open.spotify.com/album/0RcCTsEXvwS2u788FqfpIs"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Talos",
+          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240197,
+      "name": "A Dawning",
+      "url": "https://open.spotify.com/track/373lcOHga6YNmZRbqycxFe"
+    },
+    {
+      "album": {
         "name": "A Dream Goes On Forever",
         "url": "https://open.spotify.com/album/3GlvdGXfhdSubUQ2uKYXKI"
       },
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"

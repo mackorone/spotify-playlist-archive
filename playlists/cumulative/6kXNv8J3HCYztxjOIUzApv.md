@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-298 songs - 18 hr 40 min
+300 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [HEADSPACE FT\. POORSTACY](https://open.spotify.com/track/2DS4qUfuEvFljkXZXka2pu) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [HEADSPACE FT\. POORSTACY](https://open.spotify.com/album/2EewozkWB7xAUMFCRgwgyd) | 3:11 | 2021-08-20 | 2023-01-04 |
 | [Heartache](https://open.spotify.com/track/2QlGEnoXCxMSuz7JM7xNeX) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Hate Me Too](https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG) | 3:45 | 2023-04-03 | 2024-04-10 |
 | [Help](https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 | 2022-01-25 |  |
+| [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/track/5Xa0Qdt8xFbjGKvJgb12nt) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/album/6PxKrhxm8VXDWL1rFLfeAn) | 3:03 | 2025-07-18 |  |
 | [Heroin\(e\)](https://open.spotify.com/track/6I10pyraPKbTSMLoBwdblm) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Heroin\(e\)](https://open.spotify.com/album/78vbD6Z7Q8wxmklqGS8kXs) | 3:19 | 2021-08-20 | 2023-01-04 |
 | [High On You \(feat\. Nikki Sixx\)](https://open.spotify.com/track/7b1R3hpUwhotl1006F9t89) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd), [Nikki Sixx](https://open.spotify.com/artist/39K8vRrNVg2aPafD0kRuhe) | [High On You \(feat\. Nikki Sixx\)](https://open.spotify.com/album/6IAAWZgHbLYDKK1z85J8Uf) | 3:49 | 2024-09-27 |  |
 | [Hold On](https://open.spotify.com/track/1Y9QCwhcDVBxTmbs9LfeAF) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [A Hope In Hell](https://open.spotify.com/album/7sXH67ycxNjoyQKTn7inIb) | 4:17 | 2021-08-20 | 2024-04-10 |
@@ -283,6 +284,7 @@
 | [War Pigs](https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [War Pigs](https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x) | 5:09 | 2023-04-14 |  |
 | [War?](https://open.spotify.com/track/5Q7m1Km199HHMB926xxbrs) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:40 | 2022-07-25 | 2023-01-04 |
 | [Warrior \(feat\. Travis Barker\)](https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Warrior / Underrated](https://open.spotify.com/album/1hBDgB1L6iCtV8i5p1Mhq4) | 2:45 | 2021-08-20 | 2023-01-04 |
+| [Wash It All Away \- 2025 VERSION](https://open.spotify.com/track/2u8tKgbOwd6jvWQOIgHvNj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 1\)](https://open.spotify.com/album/695FFcpts92jn4QDbMJPzD) | 3:47 | 2025-07-18 |  |
 | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/track/4II6MQP9Cv9PwwCoXBJevq) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/album/3fbzfcUd9ejrFDChKFGSBP) | 3:18 | 2021-08-20 |  |
 | [We Will Not Go Quietly](https://open.spotify.com/track/5XE0S3m7Qgh40sjaT4g2VU) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [We Will Not Go Quietly](https://open.spotify.com/album/2chkVD6tHlcZKBrMBlHcs3) | 4:20 | 2021-08-20 | 2024-04-10 |
 | [We Will Rock You](https://open.spotify.com/track/0dXqdq1aF0SgZamXvUAp57) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk) | [We Will Rock You](https://open.spotify.com/album/5jPBB8d3UAb8TFwqgVgeGW) | 2:36 | 2023-01-27 |  |

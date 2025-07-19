@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1970s. Cover: ABBA",
-  "num_followers": 5751347,
+  "num_followers": 5751704,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 271240,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Piano Man (Legacy Edition)",
-        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Jazz (2011 Remaster)",
         "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Piano Man (Legacy Edition)",
+        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -415,26 +415,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Rock Of The Westies",
-        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kiki Dee",
-          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Don't Go Breaking My Heart",
-      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Rock Of The Westies",
+        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "The Captain and Me",
         "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 207266,
       "name": "Long Train Runnin'",
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
         "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 254293,
       "name": "Starman - 2012 Remaster",
       "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "duration_ms": 423840,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "Hooked On A Feeling",
         "url": "https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 172866,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
-      },
-      "artists": [
-        {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
-        }
-      ],
-      "duration_ms": 423840,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Foreigner (Expanded)",
         "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 203133,
       "name": "Cold as Ice",
       "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 434720,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+      "duration_ms": 434720,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1687,18 +1671,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
       "artists": [
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "Every Picture Tells A Story",
         "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Why Can't We Be Friends?",
-        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
-      },
-      "artists": [
-        {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Low Rider",
-      "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "What You Won't Do for Love",
         "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 286493,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Why Can't We Be Friends?",
+        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Low Rider",
+      "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Inseparable",
         "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 171960,
       "name": "This Will Be (An Everlasting Love)",
       "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "The Age Of Plastic",
-        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
-      },
-      "artists": [
-        {
-          "name": "The Buggles",
-          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Video Killed The Radio Star",
-      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Slowhand 35th Anniversary",
         "url": "https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 221640,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "The Age Of Plastic",
+        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
+      },
+      "artists": [
+        {
+          "name": "The Buggles",
+          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Video Killed The Radio Star",
+      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Moondance - 2013 Remaster",
-      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Talking Book",
         "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 266133,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Imagination (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Midnight Train to Georgia",
+      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
     }
   ],
   "unique_name": "All Out 70s",

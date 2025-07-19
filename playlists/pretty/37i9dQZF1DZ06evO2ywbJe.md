@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,758 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,766 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 43 | [Two Criminals](https://open.spotify.com/track/1pUauvksiTSDA1x4P5vRWb) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [The Erigma II](https://open.spotify.com/album/7jP3LBDKbtPZsDpRrvA1qR) | 3:31 |
 | 44 | [Able God](https://open.spotify.com/track/2T0n6U3Ef2XeZc4kdoe5Eg) | [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Able God](https://open.spotify.com/album/7xr5X8oRWh4vbFJZ0zMtn8) | 4:26 |
 | 45 | [Get Out](https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz) | [DaBlixx Osha](https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Drey Spencer](https://open.spotify.com/artist/4Tqm5NHRTaIgVF97MMrC12) | [Marleba The EP](https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ) | 2:24 |
-| 46 | [BOMBING](https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BOMBING](https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g) | 3:13 |
-| 47 | [Spiritual](https://open.spotify.com/track/22R1JmzACsM3jz4zLZxpqk) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Spiritual](https://open.spotify.com/album/5uDtFBGVxqNjXrr9SFqQCh) | 3:28 |
+| 46 | [Spiritual](https://open.spotify.com/track/22R1JmzACsM3jz4zLZxpqk) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Spiritual](https://open.spotify.com/album/5uDtFBGVxqNjXrr9SFqQCh) | 3:28 |
+| 47 | [BOMBING](https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BOMBING](https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g) | 3:13 |
 | 48 | [Only Fan](https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Greatness 2.0](https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT) | 3:20 |
 | 49 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 |
 | 50 | [Say No to Big Fall](https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk) | [DaBlixx Osha](https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Sick Six](https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD) | 2:08 |
 
-Snapshot ID: `aHbrgAAAAAColqsMYctS04/MqS+5iQ+r`
+Snapshot ID: `aHg9AAAAAAClcescpkb5V5y+Qv+WUH+c`

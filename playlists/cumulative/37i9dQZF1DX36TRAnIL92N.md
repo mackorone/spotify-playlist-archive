@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-267 songs - 22 hr 31 min
+268 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dark Market \- Original Mix](https://open.spotify.com/track/3VeVNC1XuZrReIJymrbAU6) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Dark Market](https://open.spotify.com/album/0pb8z2YTrIML56C2nzDlng) | 7:12 | 2022-07-05 | 2022-07-27 |
 | [Dark Room](https://open.spotify.com/track/3JcUf6mSuB4FMUvjyhCMRP) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Dark Room](https://open.spotify.com/album/6fDBWo1qT0GlL9myaWu9fi) | 4:03 | 2024-03-20 | 2024-06-29 |
 | [Dark Sun](https://open.spotify.com/track/1N3ZXedV7bYmNLnZ5toPaS) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX) | [Dark Sun](https://open.spotify.com/album/01u976hEIH1nzhd386t1hO) | 6:46 | 2022-09-09 | 2022-10-01 |
+| [Darkness](https://open.spotify.com/track/78CcHDIIw093COMGylrkXj) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Darkness](https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g) | 3:42 | 2025-07-18 |  |
 | [Darkness Falls](https://open.spotify.com/track/3ba0mZUI7Hg1B7G2qUy9eJ) | [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo), [Markus Weigelt](https://open.spotify.com/artist/2rMiCAbbUX2ywySQCSZRbI) | [Darkness Falls](https://open.spotify.com/album/0jKYzvWcpUZErGjZCcQPHL) | 6:29 | 2022-07-05 | 2022-07-27 |
 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 | 2023-06-02 | 2024-04-13 |
 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 | 2022-08-26 | 2023-07-02 |
@@ -122,7 +123,7 @@
 | [Jump Dance Move Bounce](https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Jump Dance Move Bounce](https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby) | 2:29 | 2024-06-21 |  |
 | [Katarze](https://open.spotify.com/track/47HUapTIiVAORkL3Eu04Su) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Katarze](https://open.spotify.com/album/5oadbRzPuGPkHAy3sRSINV) | 6:11 | 2022-07-05 | 2022-07-27 |
 | [Kernkraft 400](https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI) | [Kernkraft 400](https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT) | 2:06 | 2023-11-10 |  |
-| [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 | 2024-08-16 |  |
+| [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 | 2024-08-16 | 2025-07-19 |
 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 | 2024-02-16 |  |
 | [Let's Be Free](https://open.spotify.com/track/2zbHr6Xp7gc9LUKeDWB7pB) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Let's Be Free](https://open.spotify.com/album/2RQ7Tg8QJ46zF4jkiF1dAE) | 6:02 | 2022-11-25 | 2023-01-05 |
 | [Life](https://open.spotify.com/track/0hgBCww9bE8ufZPndRdURi) | [2088](https://open.spotify.com/artist/4m1zEw1eweA16IcRBIWxNo) | [Life](https://open.spotify.com/album/7lViivbC59hJG6hr6aYuJj) | 6:09 | 2022-07-05 | 2022-07-12 |

@@ -1,12 +1,12 @@
 {
   "description": "Let these country tunes light up your day",
-  "num_followers": 81918,
+  "num_followers": 81919,
   "original_name": "Greener Pastures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4dewAAAAAKY39D+VTffcbBbsHBK1qW",
+  "snapshot_id": "aHnGywAAAABpi4HQ4GJeq2d53ixPy22R",
   "tracks": [
     {
       "added_at": "2025-04-21 02:59:16",
@@ -39,6 +39,26 @@
       "duration_ms": 252466,
       "name": "Our Grass Is Legal",
       "url": "https://open.spotify.com/track/5WREsIXrQ8pleixunsClED"
+    },
+    {
+      "added_at": "2025-07-18 04:00:11",
+      "album": {
+        "name": "Let It Run (feat. Snoop Dogg)",
+        "url": "https://open.spotify.com/album/7rNpIRoKgQitAtM27keUh1"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 178496,
+      "name": "Let It Run (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/7L97L0MsB68t9JhPJiqgTe"
     },
     {
       "added_at": "2025-04-21 02:59:16",

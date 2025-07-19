@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-88 songs - 4 hr 27 min
+89 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Sun Goes Down](https://open.spotify.com/track/3gqTiLe1LF3fQ9a5ua8Zsq) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Sun Goes Down](https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt) | 3:21 | 2025-04-16 |  |
 | [Taxi](https://open.spotify.com/track/2jkMuY6mQLuPXZwfh58LIk) | [Eiza Murphy](https://open.spotify.com/artist/0A7bgQaXKKxFsvurGyFMn9) | [Taxi](https://open.spotify.com/album/6zipOgixmS3YXGHbNDIioT) | 3:01 | 2024-02-26 |  |
 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 | 2024-06-10 |  |
+| [Tragic, Really](https://open.spotify.com/track/5SgJNSTHLNGozF7ZyfuSYB) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Tragic, Really](https://open.spotify.com/album/0gjH5kgyCijfhaiiK6OQqq) | 2:34 | 2025-07-18 |  |
 | [Waiting For You](https://open.spotify.com/track/6CG4xX5mY60t2DzdNt7kFQ) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [Waiting For You](https://open.spotify.com/album/0dLzKyJTrAQYFC26js8zjo) | 2:41 | 2024-02-26 |  |
 
 \*This playlist was first scraped on 2024-02-27. Prior content cannot be recovered.

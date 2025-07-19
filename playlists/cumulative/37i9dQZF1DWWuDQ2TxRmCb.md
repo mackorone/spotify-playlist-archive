@@ -4,7 +4,7 @@
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-114 songs - 8 hr 14 min
+115 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bhammariyo](https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Bhammariyo](https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D) | 3:53 | 2023-03-10 | 2024-12-26 |
 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 | 2023-03-10 |  |
 | [Bulaava Aaya](https://open.spotify.com/track/6HnkVw9GKU1ZqzJzpFOfvS) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Bulaava Aaya](https://open.spotify.com/album/05UdHSttBA2pc0JcTUrsXP) | 5:34 | 2023-10-10 | 2024-09-11 |
+| [Chaand Sakha Re](https://open.spotify.com/track/20eBHJbz6cx0PwaK3SNR1N) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Rishith Desikan](https://open.spotify.com/artist/2gO1mIJ6u7Ao4bBIMIKGrD) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:25 | 2025-07-16 |  |
 | [Chamba Kitni Door](https://open.spotify.com/track/10LDYm3eBpPLN5qIAyi4xr) | [Priyankaa Bhattacharya](https://open.spotify.com/artist/1AerBLLesWL9aNrvn0hJt5) | [Chamba Kitni Door](https://open.spotify.com/album/1RUnFlxB2lgpkNBvVFg1I5) | 3:37 | 2024-07-12 | 2024-10-10 |
 | [Chanda Jhaanke](https://open.spotify.com/track/6dimVWFSWOrJ7MjwJL2Z26) | [Baba Hansraj Raghuwanshi](https://open.spotify.com/artist/58dEyoXedmI4PZAWWnnQSJ), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Chanda Jhaanke](https://open.spotify.com/album/78XzPufvH4XnpzstGoutVt) | 3:38 | 2023-05-30 | 2023-08-10 |
 | [Chanda Jhaanke](https://open.spotify.com/track/5X3oePi6rfWKfwwcAbjXQL) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Hansraj Raghuwanshi](https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF) | [Chanda Jhaanke](https://open.spotify.com/album/61r6m0nwOsuAJdt1NNwvXG) | 3:38 | 2023-03-10 | 2024-06-05 |
@@ -113,7 +114,7 @@
 | [Saawariyo](https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV) | [Atmanam](https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW) | [Saawariyo](https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB) | 4:25 | 2023-07-28 |  |
 | [Sadho Re](https://open.spotify.com/track/2FSVKGUjxl1b805NESHmOq) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA) | [Agnee](https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9) | 4:11 | 2023-03-10 |  |
 | [Safar](https://open.spotify.com/track/17PQNiQynwG4iCGwPglRuL) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kimaya](https://open.spotify.com/album/5W5uidFGkEFw2GFKWUyT03) | 4:36 | 2023-03-10 | 2024-04-19 |
-| [Sajaniya](https://open.spotify.com/track/2DdVtEaKssleK9Prel4ymy) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Sajaniya](https://open.spotify.com/album/4E8BL6gyfuIoFRAyw9XSrp) | 5:31 | 2023-03-10 |  |
+| [Sajaniya](https://open.spotify.com/track/2DdVtEaKssleK9Prel4ymy) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Sajaniya](https://open.spotify.com/album/4E8BL6gyfuIoFRAyw9XSrp) | 5:31 | 2023-03-10 | 2025-07-19 |
 | [Samjhe Na](https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD), [Ruchika Chauhan](https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1) | [Samjhe Na](https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq) | 3:17 | 2023-03-10 | 2024-11-09 |
 | [Shakkarpari](https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:55 | 2024-07-11 | 2024-10-25 |
 | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Kamla Devi](https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH) | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z) | 4:35 | 2024-05-09 |  |

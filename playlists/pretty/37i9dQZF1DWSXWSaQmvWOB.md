@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,812 likes - 102 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,834 likes - 102 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

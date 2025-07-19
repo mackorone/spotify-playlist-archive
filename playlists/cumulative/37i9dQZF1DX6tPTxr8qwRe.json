@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm"
+      },
+      "artists": [
+        {
+          "name": "Just For Fun",
+          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV"
+    },
+    {
+      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
       },
@@ -4279,6 +4297,24 @@
     },
     {
       "album": {
+        "name": "DON'T FOLLOW ME",
+        "url": "https://open.spotify.com/album/7zNkbscL9SxzWG5zFq6SQF"
+      },
+      "artists": [
+        {
+          "name": "Ella Collier",
+          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191911,
+      "name": "DON'T FOLLOW ME",
+      "url": "https://open.spotify.com/track/7uNeoglAQECDt8ugEh0i7f"
+    },
+    {
+      "album": {
         "name": "DON'T!",
         "url": "https://open.spotify.com/album/0ybgOat40TvYvG3iLc2O20"
       },
@@ -4380,7 +4416,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 164727,
       "name": "Double Yellow",
       "url": "https://open.spotify.com/track/62w0Jrsug4dvHCDlrsGTEs"
@@ -6094,6 +6130,24 @@
       "duration_ms": 230985,
       "name": "Goodbye (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/7pwF2SFF9LUeqD0f5wWrSR"
+    },
+    {
+      "album": {
+        "name": "Goodbye, Good Riddance",
+        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159275,
+      "name": "Goodbye, Good Riddance",
+      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
     },
     {
       "album": {
@@ -13092,7 +13146,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 148861,
       "name": "Shagidi",
       "url": "https://open.spotify.com/track/7zKYsYbbC7N8C5QOOtTlZx"

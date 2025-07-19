@@ -4,7 +4,7 @@
 
 > Playlist
 
-595 songs - 1 day 11 hr 15 min
+597 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Ces rêves](https://open.spotify.com/track/2nTr0NwGbr2tZJTrOHnlFn) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:55 | 2023-10-25 |  |
 | [Ces rêves](https://open.spotify.com/track/3PgCc00prrFn4baniEu1jD) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Ces rêves](https://open.spotify.com/album/1KB8q7NpWwbhbIQCrJ0NTY) | 3:55 | 2023-10-25 |  |
 | [Cette fille](https://open.spotify.com/track/5vz2Pi3uiXIcK8NzadW8U0) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 2:48 | 2023-10-25 |  |
+| [Changin Me](https://open.spotify.com/track/0ohz67ESfEL7m6xYGRPTHu) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Changin Me](https://open.spotify.com/album/1mOKUsrP4CiJwI13cMlBZB) | 3:06 | 2025-07-18 |  |
 | [Chasing Tales](https://open.spotify.com/track/79xo23Gxi8ye5BBOABwdD6) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Homage to Delusion](https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76) | 4:35 | 2024-09-20 |  |
 | [Chasing You](https://open.spotify.com/track/1327TQLMehN5yUQRJAtvUm) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Stay Around](https://open.spotify.com/album/4ucx366gQtYYZLU2XRGDXz) | 4:26 | 2023-10-25 |  |
 | [Chega De Saudade](https://open.spotify.com/track/3RjK5S2XtI340rKqj3wrgl) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Aperana](https://open.spotify.com/album/13jmABcP5MQyMDd9TIGjfZ) | 2:13 | 2023-10-25 |  |
@@ -191,6 +192,7 @@
 | [Generations](https://open.spotify.com/track/03mwq3FfiVvdvUgylrNJLH) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [Generations](https://open.spotify.com/album/6V6RSGQt8ygebkX5aDyvHY) | 3:31 | 2023-10-25 |  |
 | [Ghost Discus](https://open.spotify.com/track/5Qsz8pCxNWQ16yM7b3IR7I) | [Andy Burns](https://open.spotify.com/artist/5tuxUJ2E6P1OFOCiTkR7w6) | [Ghost Discus](https://open.spotify.com/album/2DKByJrcMk9PAUt0U5iRkY) | 4:25 | 2023-10-25 |  |
 | [Girl in Red](https://open.spotify.com/track/5LhQtsLrhgHpbpyS9NcTN9) | [Dook Walt Jr.](https://open.spotify.com/artist/3FdI5s1SLRNYNNS7yO3vMV) | [15Th Floor](https://open.spotify.com/album/3uc2UzR3TBTkZGthcr2Zke) | 2:39 | 2023-10-25 |  |
+| [GNAT](https://open.spotify.com/track/2kHcjE4XH8nL0BGlw67UY5) | [ZOO](https://open.spotify.com/artist/6d4fitLNR82dlkyALodJWR) | [GNAT](https://open.spotify.com/album/1BNuN0l6Z4G4KHqq80MiFH) | 4:30 | 2025-07-18 |  |
 | [Go Away](https://open.spotify.com/track/27gnIhBJcp5Now3H2JCP2H) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Nature Machine](https://open.spotify.com/album/5aMAsRYLO0tdxQHGzbGkHS) | 2:41 | 2023-10-25 |  |
 | [Go Downtown](https://open.spotify.com/track/03HA3VjUvxG7BiYX146J0a) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Stay Around](https://open.spotify.com/album/4ucx366gQtYYZLU2XRGDXz) | 3:32 | 2023-10-25 |  |
 | [Go Go](https://open.spotify.com/track/42K5GCKfNNLp3II4ad671S) | [coop](https://open.spotify.com/artist/4P58Vq8C63PKXUilBNVLMq) | [Go Go](https://open.spotify.com/album/3X9RCDxmzMWsT4fNLseidq) | 2:37 | 2023-10-25 |  |

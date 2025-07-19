@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 
 > All confirmed artists at the Bråvalla Festival 2017! June 28th \- July 1st, Norrköping, Sweden\. <a href="http://www.bravallafestival.se/">www.bravallafestival.se</a>
 
-[Bråvalla Festival](https://open.spotify.com/user/bråvalla.festival) - 7,813 likes - 159 songs - 10 hr 4 min
+[Bråvalla Festival](https://open.spotify.com/user/bråvalla.festival) - 7,812 likes - 159 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,7 +162,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 | 152 | [Tandtråd](https://open.spotify.com/track/1K2a8QcaPTDTZ1e4M0s8gQ) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Tandtråd](https://open.spotify.com/album/3kJ38NKMZpSKvCTyAdmppm) | 4:02 |
 | 153 | [Cornflakes i sängen](https://open.spotify.com/track/5dquq0swFDe85G7SDrVFSW) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Välkommen till Mångata](https://open.spotify.com/album/2uKnkD12nXXKBxc9hCBTfG) | 3:41 |
 | 154 | [Antidote](https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 4:22 |
-| 155 | [pick up the phone](https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:12 |
+| 155 | [pick up the phone \(feat\. Quavo\)](https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:12 |
 | 156 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
 | 157 | [Night People](https://open.spotify.com/track/75TulEelZ2Bru5ixJYGJBv) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/2SChkyg43hZMnY5EtTv5F2) | 3:03 |
 | 158 | [Kyoto](https://open.spotify.com/track/2djY65hifu2a4R2WqcXqKL) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Kyoto](https://open.spotify.com/album/6gdjvua6iksIJZgmD5FpRp) | 4:30 |

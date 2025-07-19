@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 903333,
+  "num_followers": 903307,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-06-06 04:00:31",
       "album": {
+        "name": "Aqu\u00ed Estoy",
+        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 176033,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2025-06-06 04:00:31",
       "album": {
-        "name": "Aqu\u00ed Estoy",
-        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
+        "name": "aguasanta",
+        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+          "name": "juliocesar",
+          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
         }
       ],
-      "duration_ms": 176033,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p"
+      "duration_ms": 192525,
+      "name": "aguasanta",
+      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
     },
     {
       "added_at": "2025-06-06 04:00:31",
@@ -495,22 +511,6 @@
       "duration_ms": 184827,
       "name": "Fui Yo",
       "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
-        "name": "aguasanta",
-        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
-      },
-      "artists": [
-        {
-          "name": "juliocesar",
-          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
-        }
-      ],
-      "duration_ms": 192525,
-      "name": "aguasanta",
-      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
     },
     {
       "added_at": "2025-06-06 04:00:31",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-06-06 04:00:31",
       "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
         "name": "beat relajado para estudiar",
         "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 250160,
       "name": "beat relajado para estudiar",
       "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2025-06-06 04:00:31",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-06-06 04:00:31",
       "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 321019,
+      "name": "Camarones y Viniles",
+      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 162000,
       "name": "Olas y Arenas",
       "url": "https://open.spotify.com/track/3eb2CrhtM1yEp2GQM8Svxn"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 321019,
-      "name": "Camarones y Viniles",
-      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
     },
     {
       "added_at": "2025-06-06 04:00:31",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-06-06 04:00:31",
       "album": {
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
         "name": "Reconciliados",
         "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 225230,
       "name": "lily",
       "url": "https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
-        "name": "aqu\u00ed andamos",
-        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "aqu\u00ed andamos",
-      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
     },
     {
       "added_at": "2025-06-06 04:00:31",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-06-06 04:00:31",
       "album": {
-        "name": "Lucecita",
-        "url": "https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX"
-      },
-      "artists": [
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 165156,
-      "name": "Lucecita",
-      "url": "https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
         "name": "Amiga M\u00eda",
         "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 212877,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
+        "name": "Lucecita",
+        "url": "https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX"
+      },
+      "artists": [
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "duration_ms": 165156,
+      "name": "Lucecita",
+      "url": "https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH"
     },
     {
       "added_at": "2025-06-06 04:00:31",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-06-06 04:00:31",
       "album": {
-        "name": "Indirecta",
-        "url": "https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o"
-      },
-      "artists": [
-        {
-          "name": "Itzza Primera",
-          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
-        }
-      ],
-      "duration_ms": 200727,
-      "name": "Indirecta",
-      "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
         "name": "Desp\u00eddeme De Todxs",
         "url": "https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 200283,
       "name": "Perderme",
       "url": "https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
+        "name": "Indirecta",
+        "url": "https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o"
+      },
+      "artists": [
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        }
+      ],
+      "duration_ms": 200727,
+      "name": "Indirecta",
+      "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
     },
     {
       "added_at": "2025-06-06 04:00:31",

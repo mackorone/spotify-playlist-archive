@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,197 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,228 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 44 | [Hayya Hayya \(Better Together\) \- Music from the FIFA World Cup Qatar 2022 Official Soundtrack](https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aisha](https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Hayya Hayya \(Better Together\) \[Music from FIFA World Cup Qatar 2022 Soundtrack\]](https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU) | 3:26 |
 | 45 | [Intro](https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:23 |
 | 46 | [FEM](https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:22 |
-| 47 | [Doe](https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Doe](https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP) | 4:02 |
-| 48 | [Sober](https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE) | [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Sober](https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ) | 3:05 |
+| 47 | [Maserati \(Remix\)](https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Maserati \(Remix\)](https://open.spotify.com/album/2rUhpReSQ0taUFdT9kEt50) | 3:28 |
+| 48 | [Doe](https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Doe](https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP) | 4:02 |
 | 49 | [D & G \(feat\. Summer Walker\)](https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 |
-| 50 | [Maserati \(Remix\)](https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Maserati \(Remix\)](https://open.spotify.com/album/2rUhpReSQ0taUFdT9kEt50) | 3:28 |
+| 50 | [Sober](https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE) | [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Sober](https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ) | 3:05 |
 
-Snapshot ID: `aHbrgAAAAACh2I8nQI/N3L7tZzdCRaId`
+Snapshot ID: `aHg9AAAAAAAQLdVNUSGjOe9psgzrrpB5`

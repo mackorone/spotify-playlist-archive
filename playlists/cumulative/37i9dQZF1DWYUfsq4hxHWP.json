@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "A Country Heart Can",
+        "url": "https://open.spotify.com/album/18ly6QslPPTJFkE5XBwjmS"
+      },
+      "artists": [
+        {
+          "name": "Max Jackson",
+          "url": "https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223484,
+      "name": "A Country Heart Can",
+      "url": "https://open.spotify.com/track/7HYok2NXE23LtYygubuvIO"
+    },
+    {
+      "album": {
         "name": "A Cowboy Who Would",
         "url": "https://open.spotify.com/album/4eh5jwKtkW95XNSslXLc1q"
       },

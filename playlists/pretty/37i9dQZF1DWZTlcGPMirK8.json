@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 71193,
+  "num_followers": 71215,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -791,18 +791,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Love Monster",
-        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Gina G",
+          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
+        },
+        {
+          "name": "Motiv8",
+          "url": "https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp"
         }
       ],
-      "duration_ms": 170413,
-      "name": "I Said Hi",
-      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
+      "duration_ms": 203120,
+      "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
+      "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -843,38 +847,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Feeler",
-        "url": "https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch"
+        "name": "Love Monster",
+        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
       "artists": [
         {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 279520,
-      "name": "So Beautiful - Single Version",
-      "url": "https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
-      },
-      "artists": [
-        {
-          "name": "Gina G",
-          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
-        },
-        {
-          "name": "Motiv8",
-          "url": "https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
-      "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
+      "duration_ms": 170413,
+      "name": "I Said Hi",
+      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -891,6 +875,38 @@
       "duration_ms": 244866,
       "name": "Weir",
       "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Feeler",
+        "url": "https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 279520,
+      "name": "So Beautiful - Single Version",
+      "url": "https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Better in Blak",
+        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Better in Blak",
+      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -923,22 +939,6 @@
       "duration_ms": 248546,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Better in Blak",
-        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Better in Blak",
-      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 237247,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Two Degrees",
         "url": "https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 255889,
       "name": "Papercuts (feat. Vera Blue)",
       "url": "https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 237247,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Live By The Words",
-        "url": "https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq"
-      },
-      "artists": [
-        {
-          "name": "Justice Crew",
-          "url": "https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Watching Angels Mend",
         "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 203213,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Live By The Words",
+        "url": "https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq"
+      },
+      "artists": [
+        {
+          "name": "Justice Crew",
+          "url": "https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi"
     },
     {
       "added_at": "2024-08-05 06:00:58",

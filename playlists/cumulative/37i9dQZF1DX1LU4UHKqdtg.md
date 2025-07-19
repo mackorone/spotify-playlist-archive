@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: aespa
 
-1,521 songs - 3 day 8 hr 54 min
+1,523 songs - 3 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-01-31 | 2023-05-17 |
 | [AZALEA](https://open.spotify.com/track/44t2jRqGiSDmxTCexAbboI) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:58 | 2022-04-04 | 2022-04-08 |
 | [Baby, Not Baby](https://open.spotify.com/track/6nabHsqIYAKS6Nnfuqauw9) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:13 | 2025-03-09 |  |
+| [BabyDon'tCry=BreakingTheLove](https://open.spotify.com/track/5UXgOXtxhpZjTtCdLvdnug) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [BabyDon'tCry=BreakingTheLove](https://open.spotify.com/album/2FdhfXyTN2nqyWvsDnceuc) | 2:34 | 2025-07-15 |  |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-14 | 2024-01-16 |
 | [Back to ZEROBASE](https://open.spotify.com/track/1nAgnxTViNsKC1kFyKiyrd) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 2:45 | 2023-07-11 | 2023-08-19 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-05 | 2022-11-30 |
@@ -360,7 +361,8 @@
 | [Doom Du Doom](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ZERO IN](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) | 3:30 | 2022-07-20 | 2022-10-08 |
 | [Door](https://open.spotify.com/track/1TZDaNtU02kQpusQh0zws0) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Aria <Structure Of Sadness>](https://open.spotify.com/album/150gbib8eX8t6CblkJRS4o) | 3:08 | 2024-01-19 | 2024-03-08 |
 | [Dopamine \- GISELLE Solo](https://open.spotify.com/track/6pIuPm3u7QgUFAX1V0D9wY) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 3:14 | 2024-10-08 | 2024-11-06 |
-| [DOREMI](https://open.spotify.com/track/05NoTRUIxv24AvRfdPmMkV) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/5ySi9bqqdg7M5h8UdNSUWb) | 3:44 | 2025-07-15 |  |
+| [DOREMI](https://open.spotify.com/track/05NoTRUIxv24AvRfdPmMkV) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/5ySi9bqqdg7M5h8UdNSUWb) | 3:44 | 2025-07-15 | 2025-07-19 |
+| [DOREMI](https://open.spotify.com/track/5sDqhLuWrPyy0HWL4AYMe8) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/6R8YM1EtrlW6mOQTg93k9j) | 3:44 | 2025-07-18 |  |
 | [Doughnut](https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Doughnut](https://open.spotify.com/album/2g8Uav5MCzs3B4pJO9U24p) | 4:23 | 2021-12-23 | 2022-03-23 |
 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 | 2023-11-09 | 2024-08-30 |
 | [DREAM](https://open.spotify.com/track/0PwknbaUVwXJSmRh7qSfyi) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [DREAM](https://open.spotify.com/album/2cXtPWMSKgf55ERnDrzZQb) | 3:06 | 2022-11-08 | 2023-03-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,129 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,159 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

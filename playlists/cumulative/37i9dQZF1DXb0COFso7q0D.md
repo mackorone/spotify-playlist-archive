@@ -2,9 +2,9 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras elevando a la Música Mexicana\. Cover: Jasiel Nuñez
+> The playlist sin fronteras elevando a la Música Mexicana\. Cover: Los Dareyes De La Sierra
 
-922 songs - 1 day 23 hr 44 min
+924 songs - 1 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 | 2023-04-24 | 2023-05-20 |
 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 | 2022-02-25 | 2022-08-27 |
 | [El Cuestionario](https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Cuestionario](https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW) | 3:08 | 2021-12-21 | 2022-10-08 |
+| [El De La Selva](https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El De La Selva](https://open.spotify.com/album/4vLqOoio32LjRfgOmfbBTm) | 1:58 | 2025-07-18 |  |
 | [El De Las Mieles](https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp) | 3:25 | 2023-09-08 | 2023-10-30 |
 | [El Del Palenque](https://open.spotify.com/track/7y9W0RzHm4UvCRmI2VFrG6) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Del Palenque](https://open.spotify.com/album/68E2POwB230AnjcgLc7ynn) | 3:12 | 2025-04-25 | 2025-06-07 |
 | [El Destino Nos Separa](https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [El Destino Nos Separa](https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f) | 2:15 | 2025-03-28 | 2025-05-31 |
@@ -374,7 +375,7 @@
 | [HASTA LA MUERTE](https://open.spotify.com/track/3qAJAUr7yc9bPDx4ESt6ND) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:29 | 2022-07-01 | 2023-01-21 |
 | [Hay Que Brindar \(En Vivo\)](https://open.spotify.com/track/1taKZ8KtQxp55AJWR6ziBP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Hay Que Brindar \(En Vivo\)](https://open.spotify.com/album/46U0OPt1e7Iw18skESGmw0) | 3:38 | 2022-03-04 | 2022-04-02 |
 | [Hay Que Hacer Dinero](https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Hay Que Hacer Dinero](https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN) | 2:59 | 2022-04-15 | 2022-10-08 |
-| [Hay Que Prender](https://open.spotify.com/track/5XFx9B2jKBSIg3GlBRaOim) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Hay Que Prender](https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH) | 3:40 | 2025-04-25 |  |
+| [Hay Que Prender](https://open.spotify.com/track/5XFx9B2jKBSIg3GlBRaOim) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Hay Que Prender](https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH) | 3:40 | 2025-04-25 | 2025-07-19 |
 | [Hecha Pa' Mí](https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Hecha Pa' Mí](https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF) | 3:15 | 2024-10-04 | 2025-01-25 |
 | [Hija de Papi](https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Hija de Papi](https://open.spotify.com/album/78cMuIUQQYUwv00d82SiNj) | 3:04 | 2025-04-18 | 2025-07-12 |
 | [HOLANDA](https://open.spotify.com/track/6pk6CETZHI9brjnFNCxrhC) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [HOLANDA](https://open.spotify.com/album/3fraryfOzqI9c3tsODdmb0) | 2:31 | 2025-01-24 | 2025-05-31 |
@@ -619,7 +620,7 @@
 | [OOTD](https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [OOTD](https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU) | 2:49 | 2024-06-28 | 2024-08-31 |
 | [Otra Mentira](https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Otra Mentira](https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl) | 4:18 | 2024-12-13 | 2025-01-18 |
 | [Otra Noche](https://open.spotify.com/track/5aUcRdeMllzipglMOSi5JX) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Otra Noche](https://open.spotify.com/album/1cbZXUpP2kswCktpR1hnTa) | 3:21 | 2023-12-22 | 2024-02-03 |
-| [OTRA VEZ](https://open.spotify.com/track/02OSVDLiLEuHIQgWriH3mu) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [OTRA VEZ](https://open.spotify.com/album/3lnSToVYK5CZGDgyC6LTiu) | 2:32 | 2025-06-13 |  |
+| [OTRA VEZ](https://open.spotify.com/track/02OSVDLiLEuHIQgWriH3mu) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [OTRA VEZ](https://open.spotify.com/album/3lnSToVYK5CZGDgyC6LTiu) | 2:32 | 2025-06-13 | 2025-07-19 |
 | [Otra Vez Pegue Un Vergazo](https://open.spotify.com/track/4McpYuSV5NUuvX2dv9Vhy6) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Otra Vez Pegue Un Vergazo](https://open.spotify.com/album/29QJDqvpmZ75SvUe8n3ETz) | 2:49 | 2024-09-16 | 2024-10-19 |
 | [OTRAS 24 HORAS](https://open.spotify.com/track/0pDnaflKbJcMj1TVbDDcH0) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:42 | 2025-03-28 | 2025-04-26 |
 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 | 2024-10-11 | 2024-11-02 |
@@ -750,6 +751,7 @@
 | [Se Me Soltó El Hocico](https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Se Me Soltó El Hocico](https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc) | 2:55 | 2023-01-13 | 2023-04-15 |
 | [SE OCUPA TIEMPO](https://open.spotify.com/track/0ZvyasF4VwAwkqNx2yLp4q) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [SE OCUPA TIEMPO](https://open.spotify.com/album/1ZnFzpaAKMZd3ZWpG82kFU) | 2:46 | 2025-07-04 |  |
 | [Se Volvieron Locos](https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [El Comienzo](https://open.spotify.com/album/0vCLnUAU6odhQC7c5zla9O) | 2:55 | 2025-02-28 |  |
+| [SECRETO](https://open.spotify.com/track/504VfM2pmclGufjypM5c59) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [SECRETO](https://open.spotify.com/album/7GVR3lkK8tz5kcOa6LnQfG) | 3:28 | 2025-07-18 |  |
 | [SECRETO VICTORIA](https://open.spotify.com/track/4vXEhBLt8fuZeMvTDXbIyi) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:32 | 2024-07-26 | 2024-09-21 |
 | [Secuestro De Amor](https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Secuestro De Amor](https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV) | 3:42 | 2023-04-21 | 2023-05-20 |
 | [Seguimos Más Fuertes](https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Seguimos Más Fuertes](https://open.spotify.com/album/6xliwTuuud43NH2EhqxXrP) | 3:20 | 2022-05-13 | 2022-08-06 |

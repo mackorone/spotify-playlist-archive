@@ -2659,6 +2659,28 @@
     },
     {
       "album": {
+        "name": "Oakland Baby",
+        "url": "https://open.spotify.com/album/46jcanZS4AwhaavD9WAxTC"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129850,
+      "name": "Oakland Baby",
+      "url": "https://open.spotify.com/track/1eCmhxAjTh2tJgyT9wntHL"
+    },
+    {
+      "album": {
         "name": "Oakland Pt. 2",
         "url": "https://open.spotify.com/album/17mz6AvacvJo6kK9stQTLK"
       },

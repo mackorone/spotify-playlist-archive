@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Valence
 
-606 songs - 1 day 10 hr 36 min
+607 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Cours, Cora, cours](https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 4:05 | 2024-11-22 | 2025-01-25 |
 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2022-03-25 | 2022-05-28 |
 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 | 2024-09-27 | 2024-10-19 |
+| [Cycle délicat](https://open.spotify.com/track/12Lrxdw1iIjQJT4y2VT436) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cycle délicat](https://open.spotify.com/album/5sehiJueG6OFg1EYJ9dm9B) | 3:14 | 2025-07-18 |  |
 | [Cyclone](https://open.spotify.com/track/2fT4QsF8AWnQIsseRXkLMl) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Cyclone](https://open.spotify.com/album/5raddefOVNlawnMf7t3Pzk) | 2:49 | 2024-08-23 | 2024-10-26 |
 | [Côte à côte](https://open.spotify.com/track/0HOam65TS747Pobhfj8qai) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Côte à côte](https://open.spotify.com/album/2FsHNptOTlP86hAIr4H28v) | 2:46 | 2022-03-25 | 2022-09-17 |
 | [Danced Into My Life](https://open.spotify.com/track/1TytpiMHN6cvEk6NT8WMqE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [My Bestfriend's House](https://open.spotify.com/album/7m3bfhtjrx4YfHpO2Ph5tZ) | 2:46 | 2022-03-25 | 2022-07-09 |
@@ -592,7 +593,7 @@
 | [Ville américaine](https://open.spotify.com/track/0YVMPldYkDHfpT4oZdr9kT) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Ville américaine](https://open.spotify.com/album/04ExG9J3eCZkOEi4wB08H5) | 3:11 | 2022-03-25 | 2022-04-16 |
 | [Virer nos vies](https://open.spotify.com/track/3xxhsgtji7JHYpcNNJAiF7) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 4:50 | 2024-06-28 |  |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2022-03-25 | 2022-05-28 |
-| [Waterloo](https://open.spotify.com/track/5kDJT0508bFo7SavgVdrmQ) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Waterloo](https://open.spotify.com/album/2agLSCe0DyK5e6hAuTMai1) | 2:51 | 2025-04-18 |  |
+| [Waterloo](https://open.spotify.com/track/5kDJT0508bFo7SavgVdrmQ) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Waterloo](https://open.spotify.com/album/2agLSCe0DyK5e6hAuTMai1) | 2:51 | 2025-04-18 | 2025-07-19 |
 | [we need to leave LA](https://open.spotify.com/track/7HoUYphBTJhZkgS9TYSsqI) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [we need to leave LA](https://open.spotify.com/album/7d6d8J2yGAUplBFcA8ufe0) | 3:10 | 2024-05-03 | 2024-07-13 |
 | [Wear You Out](https://open.spotify.com/track/0tGi0kOdc5GlsKBg4b0tkQ) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Wear You Out](https://open.spotify.com/album/2hbpz06Bgw4SONqk2MSqJ6) | 3:31 | 2024-03-01 | 2024-04-06 |
 | [What It Is](https://open.spotify.com/track/5j8qS9IDLegyFRSziYAinL) | [Saint Zenon](https://open.spotify.com/artist/7zqRekdxVg93PQcJuIazlf), [Half White Full Black](https://open.spotify.com/artist/2c8ObefSxH6n2N8n2gNUKG), [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [What It Is](https://open.spotify.com/album/56Dpa4dNBz06Qjnj8K0Eym) | 1:58 | 2023-03-17 | 2023-08-26 |

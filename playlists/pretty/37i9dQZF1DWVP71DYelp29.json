@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 735633,
+  "num_followers": 735622,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -340,22 +340,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
       "artists": [
@@ -367,6 +351,22 @@
       "duration_ms": 176586,
       "name": "Use Somebody - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1233,26 +1233,6 @@
       "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
-      "added_at": "2023-11-07 18:53:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Resistance Revival Chorus",
-          "url": "https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1"
-        }
-      ],
-      "duration_ms": 270264,
-      "name": "Take Me To Church",
-      "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
-    },
-    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
@@ -1283,6 +1263,26 @@
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
+    },
+    {
+      "added_at": "2023-11-07 18:53:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Resistance Revival Chorus",
+          "url": "https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1"
+        }
+      ],
+      "duration_ms": 270264,
+      "name": "Take Me To Church",
+      "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1548,22 +1548,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 184226,
-      "name": "Sky Walker - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg"
       },
       "artists": [
@@ -1575,6 +1559,22 @@
       "duration_ms": 292367,
       "name": "Crazy - Spotify Singles",
       "url": "https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 184226,
+      "name": "Sky Walker - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1833,22 +1833,6 @@
       "url": "https://open.spotify.com/track/73Hs5c2DJAavtKFZ28v1FM"
     },
     {
-      "added_at": "2023-11-07 18:53:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 236334,
-      "name": "Halo - Spotify Singles",
-      "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
-    },
-    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
@@ -1863,6 +1847,22 @@
       "duration_ms": 190588,
       "name": "Waterfalls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0L8A9wUfx9fQF8kmpAFFXk"
+    },
+    {
+      "added_at": "2023-11-07 18:53:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 236334,
+      "name": "Halo - Spotify Singles",
+      "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
     },
     {
       "added_at": "2023-01-11 19:54:48",

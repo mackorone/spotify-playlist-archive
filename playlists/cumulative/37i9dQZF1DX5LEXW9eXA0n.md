@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 손이지유\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,516 songs - 4 day 2 hr 18 min
+1,518 songs - 4 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,7 +542,7 @@
 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 | 2022-07-11 | 2022-12-27 |
 | [I need to hold you](https://open.spotify.com/track/5XbXOUPOklCEw9dJtgNwd4) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [I need to hold you](https://open.spotify.com/album/69OTLGnxUisR11BivkoUL3) | 3:47 | 2023-11-15 | 2024-05-01 |
 | [I Promise](https://open.spotify.com/track/3mwK3Xvg9dz0pEf286cHIn) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Romantic Doctor 3 OST Part.6](https://open.spotify.com/album/2JGCTG01GOZkdg12zzXPFt) | 4:52 | 2023-06-13 | 2023-10-03 |
-| [I Remember \(yours\)](https://open.spotify.com/track/3WurJc74gxwOrEL3JNqDHr) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sincerely yours \(10th Anniversary Edition\)](https://open.spotify.com/album/02bhP9otK5sM8f3fPcxE17) | 4:41 | 2025-01-21 |  |
+| [I Remember \(yours\)](https://open.spotify.com/track/3WurJc74gxwOrEL3JNqDHr) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sincerely yours \(10th Anniversary Edition\)](https://open.spotify.com/album/02bhP9otK5sM8f3fPcxE17) | 4:41 | 2025-01-21 | 2025-07-19 |
 | [I Remember You](https://open.spotify.com/track/2WOAu8tgfIZUyPMWAGZrFn) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Mental Coach Jegal, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2TX54rHWegMmVQOiP4JYQ3) | 3:11 | 2022-09-28 | 2023-01-11 |
 | [I see you in my eyes](https://open.spotify.com/track/63j3jHNacYaN4pyusII2Zn) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [I see you in my eyes](https://open.spotify.com/album/44rEz9qIaVOlFAvyqvru2a) | 3:42 | 2024-05-17 | 2024-09-14 |
 | [I See You, You See Him](https://open.spotify.com/track/5p3qWzZWVQeOULME1kok1U) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [I See You, You See Him](https://open.spotify.com/album/2o1RYnEbhODNNdBXewcpKd) | 2:46 | 2023-02-14 | 2023-03-28 |
@@ -1224,6 +1224,7 @@
 | [The opposite side](https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Crash Course in Romance OST Part 3](https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH) | 4:10 | 2023-02-14 | 2023-03-28 |
 | [The Ordinary Man](https://open.spotify.com/track/04jPC0IDGd27J4Zj4k5dUi) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [The Ordinary Man](https://open.spotify.com/album/5kg1no9E8GmHFqAvs9agxv) | 5:26 | 2021-12-23 | 2022-04-18 |
 | [The Reason](https://open.spotify.com/track/5g2tSqR4UoX4jZKI1p1r9e) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [The Reason](https://open.spotify.com/album/7BRaMYu6sVXyxhS5vXMe54) | 4:56 | 2025-06-27 |  |
+| [The reason I can't get married](https://open.spotify.com/track/6lc2VLBkvvkpQgjOn0oFRd) | [YUN MIN SOO](https://open.spotify.com/artist/1chAxRqxKcAEVRmsMlXScd), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [The reason I can't get married](https://open.spotify.com/album/7qlji7ub1TRPQKJXxnlS4f) | 4:09 | 2025-07-18 |  |
 | [The Reason Why I Love You](https://open.spotify.com/track/0g9aQKa437eQSyQULGYZXm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [My Lovely Boxer \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/7kepGF7lAEhQB9U8xfiTjt) | 3:49 | 2023-09-12 | 2023-11-03 |
 | [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 | 2024-03-20 | 2024-10-17 |
 | [The Regret of Yesterday](https://open.spotify.com/track/2eLPb8yBpSTb6LHWWmzUAN) | [SOSEOM](https://open.spotify.com/artist/4y3jFtAJVCGQkFDj5ezM0c) | [22](https://open.spotify.com/album/22R95NSDqjk64OHoqN4TQt) | 4:07 | 2022-09-05 | 2022-12-27 |
@@ -1509,6 +1510,7 @@
 | [이혼해요 \(Divorce\)](https://open.spotify.com/track/12l28wJSPM3ALuF57ApdNl) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [이혼해요 \(Divorce\)](https://open.spotify.com/album/6aXTjKAFSugInjPEFodUMd) | 3:47 | 2023-09-07 | 2023-10-17 |
 | [잊고 있는 중](https://open.spotify.com/track/0zA7Awbp9OytjHG0PsVzIy) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [잊고 있는 중](https://open.spotify.com/album/1hQH5zANKRdlDLPxHwdwm1) | 3:57 | 2023-02-24 | 2023-06-23 |
 | [잊고 있던 너의 이름 \(feat\. 폴림\)](https://open.spotify.com/track/1DjQQDPUC9hP2YizOEkmpx) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [Paul Lim](https://open.spotify.com/artist/4lqdf1XdkczOsG8rD81unZ) | [잊고 있던 너의 이름](https://open.spotify.com/album/0OGiVmjuiPk07qU6PyFoGA) | 3:37 | 2023-11-13 | 2024-12-06 |
+| [잊다, 잇다 \(Forget, Connect\)](https://open.spotify.com/track/5oP2tE2hxVVCtzebqIAvE1) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [잊다, 잇다 \(Forget, Connect\)](https://open.spotify.com/album/5VXMYdA5bEgCZQr88x5occ) | 4:07 | 2025-07-18 |  |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2021-12-23 | 2022-07-06 |
 | [잘해보고 싶어요](https://open.spotify.com/track/3qPXM4XdLCv6GNK7n8GoL6) | [Lia Kim](https://open.spotify.com/artist/4XkyKEhzoNQEg8ruN7OkPs) | [잘해보고 싶어요](https://open.spotify.com/album/13u5VtPqwiS0olRYW2iUet) | 3:51 | 2023-02-24 | 2023-04-27 |
 | [정글피쉬 시즌2 \(Original Television Soundtrack\) Pt.5 \- 슬픈 예감](https://open.spotify.com/track/1ZlUjS9wtDXIx6tfy6LLkt) | [여희](https://open.spotify.com/artist/1rFdsvsjD6tzMXbtB0BNog) | [정글피쉬 시즌2 \(Original Television Soundtrack\) Pt.5 \- 슬픈 예감](https://open.spotify.com/album/5JWtvgoCkxRl7d5ksvOxxp) | 4:05 | 2024-09-13 | 2024-12-03 |

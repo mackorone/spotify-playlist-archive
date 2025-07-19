@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 241557,
       "name": "Aging",
       "url": "https://open.spotify.com/track/4wSfTNpteKJo0uKiy4VCBT"
@@ -8242,7 +8242,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 215073,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6b2KRSiAOIDrGUSgfuv4iP"
@@ -12724,7 +12724,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 222842,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6TAbxQCvmh1pufM8WZm9ze"
@@ -50443,6 +50443,24 @@
     },
     {
       "album": {
+        "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+        "url": "https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170306,
+      "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+      "url": "https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni"
+    },
+    {
+      "album": {
         "name": "Inner Ocean",
         "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
@@ -54232,7 +54250,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 197720,
       "name": "\u6708\u8755",
       "url": "https://open.spotify.com/track/53WB038hikUVUhjsR8T3GC"
@@ -54832,6 +54850,24 @@
       "duration_ms": 230066,
       "name": "\u6b8b\u6a5f",
       "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
+        "url": "https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383361,
+      "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
+      "url": "https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL"
     },
     {
       "album": {

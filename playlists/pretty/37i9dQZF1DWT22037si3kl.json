@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Brand\u00e3o85",
-  "num_followers": 147275,
+  "num_followers": 147260,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,30 @@
     {
       "added_at": "2025-06-28 01:12:12",
       "album": {
+        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
+        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "RT Mallone",
+          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 275507,
+      "name": "PONTO DE VISTA",
+      "url": "https://open.spotify.com/track/6KmSPfiuHbtj9r1KtBWyoq"
+    },
+    {
+      "added_at": "2025-06-28 01:12:12",
+      "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 162634,
       "name": "Chicago (feat. Veigh)",
       "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
-    },
-    {
-      "added_at": "2025-06-28 01:12:12",
-      "album": {
-        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
-        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "RT Mallone",
-          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 275507,
-      "name": "PONTO DE VISTA",
-      "url": "https://open.spotify.com/track/6KmSPfiuHbtj9r1KtBWyoq"
     },
     {
       "added_at": "2025-06-28 01:12:12",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-06-28 01:12:12",
       "album": {
-        "name": "Ruas Frias",
-        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Ruas Frias",
-      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
-    },
-    {
-      "added_at": "2025-06-28 01:12:12",
-      "album": {
         "name": "N\u00e3o Tenho Tempo",
         "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
+    },
+    {
+      "added_at": "2025-06-28 01:12:12",
+      "album": {
+        "name": "Ruas Frias",
+        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Ruas Frias",
+      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
     },
     {
       "added_at": "2025-06-28 01:12:12",

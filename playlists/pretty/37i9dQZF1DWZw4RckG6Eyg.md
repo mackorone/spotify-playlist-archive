@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,327 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,341 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 32 | [No Problems](https://open.spotify.com/track/6qvkRSSx2JE3iFCi2KFZcq) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [SHINBANGUMI](https://open.spotify.com/album/6bgUdri7frTG9Aqo3Xusw7) | 3:44 |
 | 33 | [Hell of a Ride](https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Catching Chickens EP](https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH) | 3:43 |
 | 34 | [I'm All Fucked Up](https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 4:33 |
-| 35 | [Sickly Sweet](https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:23 |
-| 36 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 |
+| 35 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 |
+| 36 | [Sickly Sweet](https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:23 |
 | 37 | [SUPERSTAR](https://open.spotify.com/track/0PQff1DRs2QDmAP9oIc1nN) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6wpNNU4kpjNllbd501Jipd) | 1:57 |
 | 38 | [For God and Country](https://open.spotify.com/track/5JmjXrRYZyJYmXz72IstSS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [May It Never Falter](https://open.spotify.com/album/3tuFrjiGVuKMYiX7eY3s4P) | 2:43 |
 | 39 | [Snoopy](https://open.spotify.com/track/7IhiFqtPKncCJHF721tp8J) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:00 |
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 45 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 46 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 |
 | 47 | [Guided Tour](https://open.spotify.com/track/0afflx9Jk8wIFitFncBnyS) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Guided Tour](https://open.spotify.com/album/7FHW0Fj8a6V7gAJfPxfO2X) | 4:25 |
-| 48 | [Continuum 1](https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:13 |
-| 49 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 |
-| 50 | [Rattle Trap](https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ) | [Sophie Thatcher](https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9) | [Pivot & Scrape](https://open.spotify.com/album/0DhEtSqVVWVZaGokygXGyN) | 2:14 |
+| 48 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 |
+| 49 | [Rattle Trap](https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ) | [Sophie Thatcher](https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9) | [Pivot & Scrape](https://open.spotify.com/album/0DhEtSqVVWVZaGokygXGyN) | 2:14 |
+| 50 | [Continuum 1](https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:13 |
 | 51 | [wish u well](https://open.spotify.com/track/4TZOVk3IPsfYQTiCGyRauf) | [shower curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:33 |
-| 52 | [Birdseye](https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 2:31 |
-| 53 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
+| 52 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
+| 53 | [Birdseye](https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 2:31 |
 | 54 | [Starburned and Unkissed](https://open.spotify.com/track/3ha9yXEYY9lBZEVXD3sYzG) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [I Saw The TV Glow \(Original Soundtrack\)](https://open.spotify.com/album/4QtWb6EEnq9EvtI9FVocUY) | 3:40 |
 | 55 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 |
 | 56 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 70 | [Skin Parade / Fade Into You \- Live At Narcissus](https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Live At Narcissus](https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1) | 5:38 |
 | 71 | [Double](https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Double](https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA) | 3:02 |
 | 72 | [Kepko](https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Dennis](https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s) | 3:12 |
-| 73 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 |
-| 74 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
+| 73 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
+| 74 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 |
 | 75 | [Susan](https://open.spotify.com/track/0WXK5gHuLdVDW4ZHvUS4TO) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Susan](https://open.spotify.com/album/5U1OdMZOnDeKJs7a3beIC0) | 3:18 |
 
 Snapshot ID: `Z1uEoQAAAAAkZ9+Y99rvYmXnMNUype2W`

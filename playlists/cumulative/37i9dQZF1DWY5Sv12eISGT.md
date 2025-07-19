@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-68 songs - 3 hr 34 min
+70 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [LOVE OR LAMBA \- Acoustic](https://open.spotify.com/track/0aNCTwjWBTmfwToKQOtFIW) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [LOVE OR LAMBA \(Acoustic\)](https://open.spotify.com/album/2JEVnINzsISkaeOS050tUv) | 3:17 | 2024-11-07 |  |
 | [Love Riddim \- Acoustic](https://open.spotify.com/track/0AfMCPjNR3eNmgvSQUFkFz) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Unplugged Sessions](https://open.spotify.com/album/77ja6H1LpEba345VgBT9DO) | 3:10 | 2024-02-16 |  |
 | [Love Song \(Acoustic\)](https://open.spotify.com/track/4zrBLtNTCb5uja4KZGHBDt) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Happiness](https://open.spotify.com/album/5BVFDRZkkG8R3hgRdu5o3n) | 4:22 | 2024-02-16 |  |
+| [Mwanzo \(Acoustic\)](https://open.spotify.com/track/3IyIQZpI5iZ7NslRNzioKF) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Dr\. Flow Will See You Now](https://open.spotify.com/album/7yJbIkh03o7NxlOoYeZ6YX) | 3:20 | 2025-07-18 |  |
 | [My kind Of Woman](https://open.spotify.com/track/5zG9GwLqHaA51EzVkbHxio) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 3:18 | 2024-02-16 |  |
 | [Nakupenda \- Acoustic](https://open.spotify.com/track/02Vc86Z6TX22oJPvxjY9hq) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Nakupenda \(Acoustic\)](https://open.spotify.com/album/3lFdnM707BShGHW5DidZpo) | 3:19 | 2024-11-07 |  |
 | [nobody knows](https://open.spotify.com/track/1Bnm5dUpWfYNqeeqFlhEl1) | [malosh](https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu) | [nobody knows](https://open.spotify.com/album/3tur9lSjtET194Kd5AZOfe) | 3:14 | 2024-02-16 |  |
@@ -66,6 +67,7 @@
 | [Smile For Me \- Acoustic Version](https://open.spotify.com/track/3kLRL0oEwf04wmvZtnQrsU) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Bitter Sweet \(Acoustic Version\)](https://open.spotify.com/album/1MOVCeOpDDjssBPl0uiRBz) | 3:28 | 2024-02-16 |  |
 | [Sona \(feat\. Adekunle Gold\) \- Acoustic](https://open.spotify.com/track/5HsnGdAhYKo3r6Lyja1tq6) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [First Of All \(Acoustic\)](https://open.spotify.com/album/7C3XJPyTLi1edptS5bNE1x) | 2:33 | 2024-02-16 |  |
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 |  |
+| [Than All](https://open.spotify.com/track/3dVbXpZv240KvfDINOz5Mt) | [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [MODERN WIHEGOU](https://open.spotify.com/album/5a0wQoPLNdl15l0MlWtBPx) | 1:47 | 2025-07-18 |  |
 | [THIS YEAR \(Blessings\) \- Acoustic Version](https://open.spotify.com/track/4dI7ki0nTidETF4FMik1r4) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:18 | 2024-02-16 |  |
 | [Time \(Acoustic Version\)](https://open.spotify.com/track/5D2vpzfDrxF2GXcnp0DQDL) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Time \(Acoustic Version\)](https://open.spotify.com/album/7CqpmpIw35kBWl2yU50txC) | 2:56 | 2024-02-16 |  |
 | [Trust God \- Acoustic version](https://open.spotify.com/track/4Q37dvZ94Nnyl6e1U6sZnC) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Trust God \(Acoustic version\)](https://open.spotify.com/album/5oabmBur9RWByrPvPAhybE) | 2:07 | 2025-02-13 |  |

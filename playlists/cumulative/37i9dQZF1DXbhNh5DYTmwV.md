@@ -4,7 +4,7 @@
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-129 songs - 7 hr 40 min
+130 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 | 2024-08-16 | 2024-09-07 |
 | [Eres Mi Sueño \- Versión Radio Edit](https://open.spotify.com/track/2BzPF9dX13wqEAo5a3XPR2) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Ilusión](https://open.spotify.com/album/6f2FlzClPbqLT8c7PJXKHP) | 3:14 | 2022-05-17 |  |
 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 | 2022-05-17 |  |
-| [Felices los 4](https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 3:50 | 2022-05-17 |  |
+| [Felices los 4](https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 3:50 | 2022-05-17 | 2025-07-19 |
 | [Flor de Cactus](https://open.spotify.com/track/4dNY8Zk3b6cvvYU8aIztwm) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Flor de Cactus](https://open.spotify.com/album/24HrBsVItLjGdJW3QLqyF3) | 3:09 | 2022-05-17 | 2022-06-11 |
 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 | 2022-05-17 |  |
 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-08-13 | 2024-09-07 |
@@ -90,6 +90,7 @@
 | [Morado](https://open.spotify.com/track/35KmOEIUqAGn02t7n4qaIr) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:20 | 2024-08-05 | 2024-09-07 |
 | [morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 | 2024-02-09 |  |
 | [Muy Feliz \- Remix](https://open.spotify.com/track/2gx1sn3qic8hsZxmsXgp6z) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Muy Feliz \(Remix\)](https://open.spotify.com/album/0Yklgs3augXJTev6xVthdk) | 3:51 | 2022-05-17 |  |
+| [MÁS DE LO MISMO](https://open.spotify.com/track/3fjHchxzHtJdk9sE0YnuUi) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [MÁS DE LO MISMO](https://open.spotify.com/album/4thd0y5Ie1Qvi7SgwZ5RA1) | 2:14 | 2025-07-18 |  |
 | [Niña](https://open.spotify.com/track/6hHxqj04s5BbpoNGz25GUm) | [Mauricio & PalodeAgua](https://open.spotify.com/artist/3odWGV3m6MfdawwEXIyyhr) | [Un Canto Caribeño](https://open.spotify.com/album/6F9yJwO5FdMarbsSlZeQsC) | 4:12 | 2022-05-17 |  |
 | [Niña Bonita](https://open.spotify.com/track/1Evv1979G5y63oK9K2eot9) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita](https://open.spotify.com/album/4DYLsPPZRc13AAePuPY2bC) | 3:35 | 2022-05-17 |  |
 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 | 2022-07-01 | 2024-04-19 |

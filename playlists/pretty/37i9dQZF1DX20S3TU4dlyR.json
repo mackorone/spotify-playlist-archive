@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 66681,
+  "num_followers": 66720,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-06-20 13:16:22",
       "album": {
+        "name": "Liberaci\u00f3n",
+        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
+      },
+      "artists": [
+        {
+          "name": "Slow Burnin\u00b4",
+          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "Nada Que Me Venga Mal",
+      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
+    },
+    {
+      "added_at": "2025-06-20 13:16:22",
+      "album": {
         "name": "Si T\u00fa No Est\u00e1s",
         "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 190660,
       "name": "Si T\u00fa No Est\u00e1s",
       "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
-    },
-    {
-      "added_at": "2025-06-20 13:16:22",
-      "album": {
-        "name": "Liberaci\u00f3n",
-        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
-      },
-      "artists": [
-        {
-          "name": "Slow Burnin\u00b4",
-          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Nada Que Me Venga Mal",
-      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
     },
     {
       "added_at": "2025-06-20 13:16:22",

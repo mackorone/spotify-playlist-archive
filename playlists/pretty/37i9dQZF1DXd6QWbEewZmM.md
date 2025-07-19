@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,798 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,901 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 88 | [Pensando En Ti](https://open.spotify.com/track/6XbfRfhfoAcwpArvTYKvpe) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pensando En Ti](https://open.spotify.com/album/7fXMAtYUmRHuEK3vFQCMXN) | 3:59 |
 | 89 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
 | 90 | [Cartas](https://open.spotify.com/track/6mi1TWZQeYnK5BmSDC3q5N) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Cartas](https://open.spotify.com/album/6WZShqo7ZujFuNJS7Aeoa1) | 2:33 |
-| 91 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
-| 92 | [Desvelado](https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Desvelado](https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD) | 3:55 |
+| 91 | [Desvelado](https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Desvelado](https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD) | 3:55 |
+| 92 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
 | 93 | [Esta noche](https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:18 |
 | 94 | [Que Envidia](https://open.spotify.com/track/3JZs9g9JBaCZfaUVbZatS9) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 3:23 |
 | 95 | [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 |
@@ -149,9 +149,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 139 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 |
 | 140 | [Rodeo Drive](https://open.spotify.com/track/36HymFB4WnuMY1VWJVG94N) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Rodeo Drive](https://open.spotify.com/album/66UxW7kvKHc1tRtjYh0j11) | 2:08 |
 | 141 | [Coqueta](https://open.spotify.com/track/76JywGpGQQPfzTG3eNFO6r) | [Angel Yerena](https://open.spotify.com/artist/4maqFMlGcJ3IkEGhcD4tMb), [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [Coqueta](https://open.spotify.com/album/61yRp7eSSCpyuVNCReDKhG) | 3:53 |
-| 142 | [Recordando](https://open.spotify.com/track/4kDe3NzNqfQwkr7VEgbfwh) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Recordando](https://open.spotify.com/album/5bTnGQJ9YS1Rat4ksg09by) | 3:18 |
-| 143 | [Mi Soledad](https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:40 |
-| 144 | [Lo Intenté](https://open.spotify.com/track/5OaPGZ4qa9Dyj5wp1PhmIU) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Lo Intenté](https://open.spotify.com/album/2cFChBCIbFFtUbXVN35QCr) | 3:08 |
+| 142 | [Mi Soledad](https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:40 |
+| 143 | [Lo Intenté](https://open.spotify.com/track/5OaPGZ4qa9Dyj5wp1PhmIU) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Lo Intenté](https://open.spotify.com/album/2cFChBCIbFFtUbXVN35QCr) | 3:08 |
+| 144 | [Recordando](https://open.spotify.com/track/4kDe3NzNqfQwkr7VEgbfwh) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Recordando](https://open.spotify.com/album/5bTnGQJ9YS1Rat4ksg09by) | 3:18 |
 | 145 | [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 |
 | 146 | [Tierra de los Olvidados](https://open.spotify.com/track/3njxvE2qVZ1XbsxYD1SMXE) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE) | [Tierra de los Olvidados](https://open.spotify.com/album/1ugetVSwBfY4F2QfvUW8ZY) | 3:50 |
 | 147 | [Tú No Vuelves](https://open.spotify.com/track/4j1IyG0PG53gPA4zlxYN44) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Tú No Vuelves](https://open.spotify.com/album/7vABcW0HmqbmlhPgKyzIGA) | 3:23 |

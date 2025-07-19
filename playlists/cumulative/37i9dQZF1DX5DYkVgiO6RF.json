@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "FIRE",
+        "url": "https://open.spotify.com/album/1R3LPEARw1RFuAPTLNv097"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/2c3Zw4hVk9bPIHfjXLHj00"
+    },
+    {
+      "album": {
         "name": "Ready For The Weekend",
         "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
       },
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 234923,
       "name": "Open Hearts",
       "url": "https://open.spotify.com/track/0sTBOp1hdayTjw6UOyPyi6"
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 259333,
       "name": "Sky Walker (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
@@ -2212,6 +2230,24 @@
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "album": {
+        "name": "#BLUE",
+        "url": "https://open.spotify.com/album/0oNsJNfTydSYn6ggDhi0L3"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179970,
+      "name": "sober",
+      "url": "https://open.spotify.com/track/4C0pXdF8aaKTHSPswNkf2v"
     },
     {
       "album": {

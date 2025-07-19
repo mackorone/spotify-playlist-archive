@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-661 songs - 1 day 17 hr 2 min
+663 songs - 1 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Bila Kau Tak Disampingku](https://open.spotify.com/track/1ylY6UrF7cmOZ9GDOxrfk8) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:16 | 2025-04-10 |  |
 | [Bila Memang Kamu](https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Bila Memang Kamu](https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB) | 3:51 | 2025-01-05 | 2025-02-26 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-11 |  |
-| [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-11-29 |  |
+| [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-11-29 | 2025-07-19 |
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2021-03-27\* | 2023-02-11 |
 | [Bohongi Hati](https://open.spotify.com/track/0zYSfIjxemTi6jvUxGrDHl) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:22 | 2023-05-24 | 2023-10-01 |
 | [Bohongi Hati](https://open.spotify.com/track/6gARWk9hXgTUImaKUsTu6w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:22 | 2023-09-30 | 2024-08-13 |
@@ -280,6 +280,7 @@
 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 | 2024-04-24 | 2024-06-26 |
 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/6wj06az0WX7fClA2w319dO) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:11 | 2024-06-25 | 2025-06-26 |
 | [Katakan Saja](https://open.spotify.com/track/012WiZSgTedjCImYNyA1bF) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Katakan Saja](https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp) | 4:23 | 2021-03-27\* | 2021-04-19 |
+| [Kau Masih Kekasihku](https://open.spotify.com/track/3rpwAgSsnId9fCoogNeJCt) | [NaFF](https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5) | [Isyarat Hati](https://open.spotify.com/album/0cNa8Jyr2AXlDBKJeZgUF1) | 4:45 | 2025-07-18 |  |
 | [Kau Masih Kekasihku](https://open.spotify.com/track/4bf1MapeofdB3XKUqDMUOm) | [NaFF](https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5) | [Isyarat Hati](https://open.spotify.com/album/1muxhaxJ0RScTQiWp7cpBJ) | 4:45 | 2025-04-10 | 2025-07-18 |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2022-11-27 | 2024-03-16 |
 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 | 2021-05-16 | 2022-03-06 |
@@ -508,7 +509,7 @@
 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2022-06-21 |  |
 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 | 2023-08-22 | 2023-10-15 |
 | [Semua Aku Dirayakan](https://open.spotify.com/track/4rcuS31IcZynp91dqvmhmA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 5:10 | 2023-10-14 | 2025-04-13 |
-| [semua lagu cinta terdengar sama](https://open.spotify.com/track/63VnhcHMnTPCcd24oVajL6) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:58 | 2025-03-22 |  |
+| [semua lagu cinta terdengar sama](https://open.spotify.com/track/63VnhcHMnTPCcd24oVajL6) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:58 | 2025-03-22 | 2025-07-19 |
 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 | 2023-08-20 | 2023-08-22 |
 | [Separuh Nafas](https://open.spotify.com/track/6JusI70TeT9M2O1MXyXRRv) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 3:42 | 2023-09-09 | 2023-12-15 |
 | [Sepenuh Hati](https://open.spotify.com/track/5FInkXMyxWHOvwejaEnPRd) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sepenuh Hati](https://open.spotify.com/album/1SCxm7IxbHVv9my7yM832a) | 4:07 | 2024-04-18 | 2024-08-26 |
@@ -595,6 +596,7 @@
 | [Tenang](https://open.spotify.com/track/6ICTnGsaokIDEYobnwuCjZ) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tenang](https://open.spotify.com/album/3jBKuTZYLpu7x5fl6PEtEH) | 4:07 | 2021-04-23 | 2021-10-23 |
 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 | 2021-10-23 | 2021-10-28 |
 | [Teramini](https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 3:40 | 2024-04-06 | 2024-06-02 |
+| [Terbuang Dalam Waktu](https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH) | [Barasuara](https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE) | [Jalaran Sadrah](https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC) | 4:41 | 2025-07-18 |  |
 | [terima kasih](https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ) | 3:24 | 2025-02-02 | 2025-02-06 |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2023-02-15 | 2023-02-22 |
 | [Terlalu Cinta](https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Terlalu Cinta](https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG) | 4:19 | 2024-08-07 | 2024-10-30 |

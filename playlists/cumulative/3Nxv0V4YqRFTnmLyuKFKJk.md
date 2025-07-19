@@ -4,7 +4,7 @@
 
 > CURATED BY COLE SWINDELL\-\- these are his country essentials! Keep checking back to see who will curate next! This is the best of country!
 
-356 songs - 21 hr 26 min
+357 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Loved by a Country Boy](https://open.spotify.com/track/4j7EcjUDSG7fl9Dl9k9pOk) | [Trea Landon](https://open.spotify.com/artist/0uzF7KK6coJpJvOW6Vrv1H) | [Dirt Road Dancin'](https://open.spotify.com/album/48H9w8ZjRGZH80jLwelAhw) | 3:12 | 2025-04-25 | 2025-07-01 |
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2024-09-04 | 2025-04-26 |
 | [Lyin' Eyes \- 2013 Remaster](https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:21 | 2022-05-05 | 2024-07-05 |
+| [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 | 2025-07-18 |  |
 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 | 2025-04-21 | 2025-04-26 |
 | [Mason Ramsey Country Essentials Takeover](https://open.spotify.com/episode/4S4laxzT9DFf5eQ0y1cRJm) | [Topsify](https://open.spotify.com/show/0sv18JZgOQr2m1eXWF7sKJ) | [Topsify](https://open.spotify.com/album/0sv18JZgOQr2m1eXWF7sKJ) | 0:09 | 2024-09-04 | 2025-02-15 |
 | [Mean Woman Blues](https://open.spotify.com/track/7musXxMnvcRrmV4t9IFmhr) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Essential Roy Orbison](https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n) | 2:24 | 2024-09-04 | 2025-04-26 |

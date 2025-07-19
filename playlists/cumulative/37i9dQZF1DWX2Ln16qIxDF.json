@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Canciones que tenes que esuchar  \ud83d\udcf8 Duki",
+  "description": "Canciones que tenes que escuchar  \ud83d\udcf8 Duki",
   "name": "El Top 2025",
   "tracks": [
     {
@@ -398,6 +398,24 @@
       "duration_ms": 172320,
       "name": "5 Pal Peso",
       "url": "https://open.spotify.com/track/2O1lgvslX1y8KNuzBoOoSN"
+    },
+    {
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/6vG56hY9KDdspesQKq8iRc"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186591,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/4NFAsjGOjZ29JKvbCaA5mz"
     },
     {
       "album": {
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 170666,
       "name": "ANDO XXIL",
       "url": "https://open.spotify.com/track/0LxKI4Y1yMuJZzdJKcttU0"
@@ -2524,7 +2542,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 57230,
       "name": "Bonde do Brun\u00e3o",
       "url": "https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv"
@@ -2766,7 +2784,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 202285,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
@@ -4191,6 +4209,28 @@
     },
     {
       "album": {
+        "name": "DE AHI PA ACA",
+        "url": "https://open.spotify.com/album/1V8cpaXbNCBBqk7Tz0Yabe"
+      },
+      "artists": [
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123600,
+      "name": "DE AHI PA ACA",
+      "url": "https://open.spotify.com/track/0zabK2x0RDygjjvBwHkwuc"
+    },
+    {
+      "album": {
         "name": "De Nada (Remix)",
         "url": "https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC"
       },
@@ -4572,7 +4612,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 245280,
       "name": "Dice Que No Le Importa",
       "url": "https://open.spotify.com/track/5wCLryrElyS8jCnEH45u26"
@@ -5388,7 +5428,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 128518,
       "name": "EL MARR\u00d3N",
       "url": "https://open.spotify.com/track/7x0wxBmFYnxqIrNoLzkRmF"
@@ -7628,10 +7668,28 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 179727,
       "name": "KELOIDE",
       "url": "https://open.spotify.com/track/0Nd6eq8BzjMnyq9f37QuUW"
+    },
+    {
+      "album": {
+        "name": "KHE CALOR",
+        "url": "https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "KHE CALOR",
+      "url": "https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw"
     },
     {
       "album": {
@@ -8272,6 +8330,24 @@
       "duration_ms": 152628,
       "name": "LA T Y LA M | Mission 20",
       "url": "https://open.spotify.com/track/0HHdDO4wXmxjZzBQFkj8mX"
+    },
+    {
+      "album": {
+        "name": "La traici\u00f3n",
+        "url": "https://open.spotify.com/album/0RL5iVXxnP2IwHggO8BBgC"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219750,
+      "name": "La traici\u00f3n",
+      "url": "https://open.spotify.com/track/1iofHMtGYQZY3NMEv641IQ"
     },
     {
       "album": {
@@ -9450,7 +9526,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 190894,
       "name": "Mala Suerte",
       "url": "https://open.spotify.com/track/59Hg9EqA8kEW2pmDNjyIWU"
@@ -9800,6 +9876,28 @@
       "duration_ms": 176181,
       "name": "Me Escap\u00e9",
       "url": "https://open.spotify.com/track/0iVcmJx7r74F7mTf7M6s0v"
+    },
+    {
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157979,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og"
     },
     {
       "album": {
@@ -12677,6 +12775,32 @@
     },
     {
       "album": {
+        "name": "PISANDO EL LAMBO",
+        "url": "https://open.spotify.com/album/296TjweoPpzQzgXW489zRe"
+      },
+      "artists": [
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163389,
+      "name": "PISANDO EL LAMBO",
+      "url": "https://open.spotify.com/track/6FucPjGxmA7jTblTsTAGyB"
+    },
+    {
+      "album": {
         "name": "Piscina",
         "url": "https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0"
       },
@@ -13700,7 +13824,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 199730,
       "name": "Quiz\u00e1s, quiz\u00e1s, quiz\u00e1s (feat. Nathy Peluso)",
       "url": "https://open.spotify.com/track/2XyP07VI4epTv5Rw7Pih7X"
@@ -14428,7 +14552,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 160575,
       "name": "saman\u00e1",
       "url": "https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW"
@@ -15463,6 +15587,24 @@
     },
     {
       "album": {
+        "name": "SUPEROFERTAS",
+        "url": "https://open.spotify.com/album/49fLoy8XuvcMIjetPKw4gO"
+      },
+      "artists": [
+        {
+          "name": "MARTTEIN",
+          "url": "https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121413,
+      "name": "SUPEROFERTAS",
+      "url": "https://open.spotify.com/track/6anZ372zVQrtqrUEPYzCy4"
+    },
+    {
+      "album": {
         "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
         "url": "https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP"
       },
@@ -15972,6 +16114,24 @@
       "duration_ms": 204000,
       "name": "Temor",
       "url": "https://open.spotify.com/track/0WzdhKUfEoeIP8jzrTtLSe"
+    },
+    {
+      "album": {
+        "name": "ISLAND BOYZ",
+        "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211101,
+      "name": "TENGO CELOS",
+      "url": "https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq"
     },
     {
       "album": {
@@ -16682,6 +16842,24 @@
       "duration_ms": 175059,
       "name": "Tu jard\u00edn con enanitos",
       "url": "https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f"
+    },
+    {
+      "album": {
+        "name": "Miranda Es Imposible!",
+        "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Tu Misterioso Alguien",
+      "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
     },
     {
       "album": {
@@ -17497,6 +17675,24 @@
     },
     {
       "album": {
+        "name": "Apocalipsis",
+        "url": "https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160394,
+      "name": "Vamo a Bailotear",
+      "url": "https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ"
+    },
+    {
+      "album": {
         "name": "Vamonos",
         "url": "https://open.spotify.com/album/0Iu7xrc9ZWf474adXxtcN7"
       },
@@ -17874,7 +18070,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 159776,
       "name": "Wapa",
       "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"

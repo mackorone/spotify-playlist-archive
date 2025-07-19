@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,721 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,737 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 49 | [Tell Me \(feat\. Christina Aguilera\)](https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Press Play](https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h) | 4:06 |
 | 50 | [Save Me from Myself](https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:13 |
 
-Snapshot ID: `aHbrgAAAAABEQu7RuSAFCnQnxa0mIlKv`
+Snapshot ID: `aHg9AAAAAACO/x5aT+QnvbKq0/cj7f5a`

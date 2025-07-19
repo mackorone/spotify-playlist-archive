@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 118408,
+  "num_followers": 118415,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABaBvdXPhxHJBFol5deAfu/",
+  "snapshot_id": "aHg9AAAAAACCrWUtjyNe0FXPyILaNYP8",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Voando Alto",
-        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Dj Gabriel do Borel",
-          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-        }
-      ],
-      "duration_ms": 137430,
-      "name": "To Voando Alto",
-      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cara do Crime 2 (Cansou de Playboy)",
         "url": "https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 265411,
       "name": "A Cara do Crime 2 (Cansou de Playboy)",
       "url": "https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Voando Alto",
+        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        }
+      ],
+      "duration_ms": 137430,
+      "name": "To Voando Alto",
+      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
     },
     {
       "added_at": null,

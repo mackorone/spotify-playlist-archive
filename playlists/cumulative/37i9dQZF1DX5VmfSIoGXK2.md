@@ -4,7 +4,7 @@
 
 > Jazz house is our love language  🌳  with Chaos In The CBD
 
-125 songs - 8 hr 24 min
+126 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Fleur de Sucre](https://open.spotify.com/track/09wDfwbHmyUFi9SKbJ0APT) | [Sable Blanc](https://open.spotify.com/artist/6kP2m716w4dZmIBQ1PCiGD) | [New Places](https://open.spotify.com/album/2AfjakN5fWOqGkAMnq82me) | 5:06 | 2025-03-14 | 2025-07-05 |
 | [Flipper](https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Pink Wax](https://open.spotify.com/album/37GXXsZcOfyb3WEptLIird) | 4:05 | 2025-03-14 |  |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2025-02-21 |  |
+| [Flourish](https://open.spotify.com/track/4Hh1GjfBEjUsYzScundoWs) | [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Flourish](https://open.spotify.com/album/0V9N2j4pphZyIb184jvaQR) | 2:48 | 2025-07-18 |  |
 | [fourth wave](https://open.spotify.com/track/4QsWMsZWAMgztjfmY4WdQg) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [fourth wave](https://open.spotify.com/album/7hzttSqPCyCw9q2senJNpt) | 4:24 | 2025-03-28 |  |
 | [Good Morning Neighbours \- slowya.roll Version](https://open.spotify.com/track/71eHv6q1iiNYi2FdJV2joi) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL), [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [Good Morning Neighbours \(slowya.roll Version\)](https://open.spotify.com/album/6dO3NuUEwaVhyQT5TU5RcC) | 5:16 | 2025-04-25 | 2025-06-07 |
 | [Havana Jazz](https://open.spotify.com/track/1dfsalIhl3q8TN7h2JnTtO) | [T.Markakis](https://open.spotify.com/artist/5hmp0NIkvK7MBXw4lHNCZu), [Blanco K](https://open.spotify.com/artist/3R8CoLaVPHCE55AkYktjdj) | [Havana Jazz](https://open.spotify.com/album/1PnumLRat66gCYGg0C99Cl) | 3:50 | 2025-04-29 |  |
@@ -112,7 +113,7 @@
 | [Six Am](https://open.spotify.com/track/6KsDQA0pYkNs1kiN1u9V6T) | [Earth Boys](https://open.spotify.com/artist/03CK8N8CSSPg3ZFEmkGCpR) | [Mythic Music](https://open.spotify.com/album/52N4nKcwVerlZ2xgFJurJa) | 3:24 | 2025-02-21 |  |
 | [Society's Man](https://open.spotify.com/track/6qVGWZQgaXFdC3rhT3NEOw) | [Spiral Deluxe](https://open.spotify.com/artist/2VGvrUaPzdqxyTXv9k81hw) | [The Love Pretender](https://open.spotify.com/album/02f8SRW7h97Xjn5vcTF4yr) | 7:24 | 2025-04-04 | 2025-07-05 |
 | [SOMEWHERE IN MANHATTAN](https://open.spotify.com/track/2oOi12NtTZZGJkujoAK3cL) | [Luke Andy](https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS) | [SOMEWHERE IN MANHATTAN](https://open.spotify.com/album/6fAfX2xL2iNUSapSs32lOa) | 3:30 | 2025-06-20 |  |
-| [Spore](https://open.spotify.com/track/7K9ZgydesA3IlT4Pc6ojqJ) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Spore](https://open.spotify.com/album/07GHP3BBVp2qdkZaPlabZz) | 2:30 | 2025-06-06 |  |
+| [Spore](https://open.spotify.com/track/7K9ZgydesA3IlT4Pc6ojqJ) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Spore](https://open.spotify.com/album/07GHP3BBVp2qdkZaPlabZz) | 2:30 | 2025-06-06 | 2025-07-19 |
 | [Stay](https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [The Panorama Sessions, Vol\. 2](https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J) | 6:00 | 2025-03-21 |  |
 | [Sundials](https://open.spotify.com/track/6fwIywo8F6JE8Y6GRYQlgM) | [Brawther](https://open.spotify.com/artist/6UV6mehn2Fs0ropWUpGWtI), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sundials EP](https://open.spotify.com/album/2gUTGkvfNNYhojlNAtGm29) | 6:26 | 2025-02-21 |  |
 | [Takes Time](https://open.spotify.com/track/2aHwoje34bmunwzxhutIZA) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Takes Time](https://open.spotify.com/album/0jW9tsdoxRlkxdroh5Nyox) | 6:09 | 2025-03-07 |  |

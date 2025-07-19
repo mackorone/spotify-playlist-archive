@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1213598,
+  "num_followers": 1213650,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABcXz0U7J8P4sGb1pOUWuAM",
+  "snapshot_id": "aHg9AAAAAAANlEx7IQb1iJ66gW/ov0fZ",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 276800,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
     },
     {
       "added_at": null,
@@ -391,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
       "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 173503,
-      "name": "Witchcraft",
-      "url": "https://open.spotify.com/track/7HH8xXMzlPp5BRVqySUVbl"
+      "duration_ms": 163186,
+      "name": "Change Partners",
+      "url": "https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn"
     },
     {
       "added_at": null,
@@ -423,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
-        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
       },
       "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 163186,
-      "name": "Change Partners",
-      "url": "https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn"
+      "duration_ms": 173503,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/7HH8xXMzlPp5BRVqySUVbl"
     },
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Quiet Nights of Quiet Stars (Corcovado)",
+      "url": "https://open.spotify.com/track/1FdulvpRiLgkseCz7RrNOR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
       },
@@ -511,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/3FsrG1TIB79ONER5Fr1cCt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -524,25 +560,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 165213,
-      "name": "Quiet Nights of Quiet Stars (Corcovado)",
-      "url": "https://open.spotify.com/track/1FdulvpRiLgkseCz7RrNOR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Way (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/3FsrG1TIB79ONER5Fr1cCt"
+      "duration_ms": 201560,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/4qY2AhtXXuWST74MrShHTu"
     },
     {
       "added_at": null,
@@ -587,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Learnin' The Blues",
+      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -600,25 +636,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 201560,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/4qY2AhtXXuWST74MrShHTu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Learnin' The Blues",
-      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+      "duration_ms": 155440,
+      "name": "Drinking Water (Aqua de Beber)",
+      "url": "https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8"
     },
     {
       "added_at": null,
@@ -659,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
-        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Drinking Water (Aqua de Beber)",
-      "url": "https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra \u201965",
         "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Chicago - Remastered",
-      "url": "https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "Chicago - Remastered",
+      "url": "https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trilogy: Past, Present & Future",
         "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ol' Blue Eyes Is Back",
-        "url": "https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 211066,
-      "name": "Let Me Try Again (Laisse Moi le Temps)",
-      "url": "https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romance: Songs From The Heart",
         "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 172546,
       "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ol' Blue Eyes Is Back",
+        "url": "https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "Let Me Try Again (Laisse Moi le Temps)",
+      "url": "https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 72128,
+  "num_followers": 72140,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAAUjRzfA5qP1wSDEDWDmWYl",
+  "snapshot_id": "aHg9AAAAAAA/hzZXsbUZO+mjr2cSFoLa",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 235560,
       "name": "Winds Of The Old Days",
       "url": "https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
     },
     {
       "added_at": null,

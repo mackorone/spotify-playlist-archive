@@ -1,6 +1,6 @@
 {
   "description": "you look so cool. Cover: The 1975",
-  "num_followers": 166557,
+  "num_followers": 166576,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-06-23 15:40:57",
       "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+    },
+    {
+      "added_at": "2025-06-23 15:40:57",
+      "album": {
         "name": "Electra Heart (Deluxe)",
         "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 188493,
       "name": "Tear in My Heart",
       "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
-    },
-    {
-      "added_at": "2025-06-23 15:40:57",
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2025-06-23 15:40:57",

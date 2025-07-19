@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245 likes - 251 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246 likes - 251 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 113 | [This City Remix \(feat\. Nico Santos\)](https://open.spotify.com/track/1ApZXdmjbw5amGoIKLyaw5) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [This City Remix \(feat\. Nico Santos\)](https://open.spotify.com/album/6OwA1VFpPcGCrr1drHwpfs) | 3:14 |
 | 114 | [Diamonds](https://open.spotify.com/track/6LfVWHL4FujWJhCDafODEZ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:42 |
 | 115 | [Life](https://open.spotify.com/track/3awb095cQIAqy6d0T0E7uX) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Life](https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ) | 3:39 |
-| 116 | [DON'T THINK ABOUT IT](https://open.spotify.com/track/6h9O1F4bL1AM28t18lImsk) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:34 |
-| 117 | [12065](https://open.spotify.com/track/0wwA0ZXgJTcuIWZrBP6G96) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 3:06 |
+| 116 | [12065](https://open.spotify.com/track/0wwA0ZXgJTcuIWZrBP6G96) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 3:06 |
+| 117 | [DON'T THINK ABOUT IT](https://open.spotify.com/track/6h9O1F4bL1AM28t18lImsk) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:34 |
 | 118 | [I Want It All](https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [I Want It All](https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw) | 3:06 |
 | 119 | [Death of Me](https://open.spotify.com/track/65WzVVqyzkRzSOmM2kovls) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 2:40 |
 | 120 | [I'll Be Gone](https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:28 |
@@ -232,8 +232,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 222 | [World of Colour](https://open.spotify.com/track/3jxeucjVrcSOPsS9uqTJ70) | [Fantastically Great Women](https://open.spotify.com/artist/2lI6OvhOdgOtTxFjQy7KFE), [Jade Kennedy](https://open.spotify.com/artist/2YCruzLCWtvJpweNckjR96), [Renée Lamb](https://open.spotify.com/artist/3nl3Ok4MCLC1gZhmi2OGBs), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7), [Kirstie Skivington](https://open.spotify.com/artist/4Hs5DxFq2PIHZwenZINJBX) | [Fantastically Great Women Who Changed The World \(Studio Cast Recording\)](https://open.spotify.com/album/2jGOKOM3XjP9Lq3T1SEUag) | 4:11 |
 | 223 | [Nothing But A Sad Face On](https://open.spotify.com/track/2JoWbiR6mX7FyzIZyzuTOK) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:26 |
 | 224 | [Change Shape](https://open.spotify.com/track/1yACHR8xRXry3MlbjVKY0E) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Flying Machines](https://open.spotify.com/album/1OsnCpUBHZO95dN9vOefuz) | 3:41 |
-| 225 | [Bleeding Out](https://open.spotify.com/track/5YEcZucNrMAdo5AI9FNFoG) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 3:41 |
-| 226 | [Figure It Out](https://open.spotify.com/track/0nFAA4Qo9Ik6gHJ3CtW3yu) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 2:53 |
+| 225 | [Figure It Out](https://open.spotify.com/track/0nFAA4Qo9Ik6gHJ3CtW3yu) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 2:53 |
+| 226 | [Bleeding Out](https://open.spotify.com/track/5YEcZucNrMAdo5AI9FNFoG) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 3:41 |
 | 227 | [Nothing Without You](https://open.spotify.com/track/1KAvlqjLQJOnyk3lLQ51jd) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Nothing Without You](https://open.spotify.com/album/7BpHdk6Qvop3mio148WJrC) | 3:41 |
 | 228 | [Where Do You Wanna Go?](https://open.spotify.com/track/2KwGv6hVjzJWng0NrWn7I9) | [Fantastically Great Women](https://open.spotify.com/artist/2lI6OvhOdgOtTxFjQy7KFE), [Renée Lamb](https://open.spotify.com/artist/3nl3Ok4MCLC1gZhmi2OGBs), [Jade Kennedy](https://open.spotify.com/artist/2YCruzLCWtvJpweNckjR96), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Fantastically Great Women Who Changed The World \(Studio Cast Recording\)](https://open.spotify.com/album/2jGOKOM3XjP9Lq3T1SEUag) | 4:26 |
 | 229 | [After the Party Ends](https://open.spotify.com/track/2wI5fUOIy8CBbyCmggzPWR) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Lemoncholy](https://open.spotify.com/album/13g4jcDiWCFYH8KbFDnyW4) | 3:10 |
@@ -260,4 +260,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 250 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 251 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `Ab3DFAAAAAA5pobyAcR863lDVybcJeNe`
+Snapshot ID: `Ab3I0gAAAAB/yMkRF9xMj+TsyiCsAhA2`

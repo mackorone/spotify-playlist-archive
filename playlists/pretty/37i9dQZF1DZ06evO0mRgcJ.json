@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACW2uOXxB8kR2nd/ZceCf8G",
+  "snapshot_id": "aHg9AAAAAADRFPsty9uaWKiqVyBQKj4M",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 220457,
       "name": "Placas De Papel",
       "url": "https://open.spotify.com/track/1uUKCuNemiNcROEVAEn5Qj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cerveza Al Aire",
+        "url": "https://open.spotify.com/album/1zrNUiT3MeXWxOIHhbW5kQ"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 231248,
+      "name": "Cerveza Al Aire",
+      "url": "https://open.spotify.com/track/0lclNVJgbfNZDdwIwkAZbO"
     },
     {
       "added_at": null,
@@ -111,26 +131,6 @@
       "duration_ms": 169946,
       "name": "Aqui Sigo Cheveriando",
       "url": "https://open.spotify.com/track/6nHBqyIy3NhKzU9D6Wu2rX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cerveza Al Aire",
-        "url": "https://open.spotify.com/album/1zrNUiT3MeXWxOIHhbW5kQ"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 231248,
-      "name": "Cerveza Al Aire",
-      "url": "https://open.spotify.com/track/0lclNVJgbfNZDdwIwkAZbO"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
-        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 195305,
-      "name": "Ay Les Voy de Nuevo (En Vivo)",
-      "url": "https://open.spotify.com/track/3WYLaOOQs6OlZtWb2VYrRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Payonazo Exoticos",
         "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
       },
@@ -283,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quien Es Quien",
-        "url": "https://open.spotify.com/album/0BkKVjZfHP0tAI4f7gHd2j"
+        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
+        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
       },
       "artists": [
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "Los Pistones De Uriel Valdez",
-          "url": "https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn"
         }
       ],
-      "duration_ms": 222811,
-      "name": "Quien Es Quien",
-      "url": "https://open.spotify.com/track/7KXMg5P1prQfS3vtedemX9"
+      "duration_ms": 195305,
+      "name": "Ay Les Voy de Nuevo (En Vivo)",
+      "url": "https://open.spotify.com/track/3WYLaOOQs6OlZtWb2VYrRZ"
     },
     {
       "added_at": null,
@@ -319,6 +299,26 @@
       "duration_ms": 118826,
       "name": "Bien Pilas - En Vivo",
       "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quien Es Quien",
+        "url": "https://open.spotify.com/album/0BkKVjZfHP0tAI4f7gHd2j"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Los Pistones De Uriel Valdez",
+          "url": "https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn"
+        }
+      ],
+      "duration_ms": 222811,
+      "name": "Quien Es Quien",
+      "url": "https://open.spotify.com/track/7KXMg5P1prQfS3vtedemX9"
     },
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Uno Al 7",
+        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "El Uno Al 7",
+      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dash",
         "url": "https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 145825,
       "name": "Situaciones de la Calle",
       "url": "https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Uno Al 7",
-        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "El Uno Al 7",
-      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
+        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 186456,
+      "name": "En Uno al 7 (En Vivo)",
+      "url": "https://open.spotify.com/track/0MDB6Pst3BtDbp0rk7uiWs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Underground 3",
         "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
-        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 186456,
-      "name": "En Uno al 7 (En Vivo)",
-      "url": "https://open.spotify.com/track/0MDB6Pst3BtDbp0rk7uiWs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORRIDOS UNDERGROUND (Vol. 4)",
         "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
       },
@@ -604,9 +604,29 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 181710,
-      "name": "AHORA NOS VEN",
-      "url": "https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL"
+      "duration_ms": 248952,
+      "name": "PISO FIRME",
+      "url": "https://open.spotify.com/track/3bPXt1s3Amixv7hy6IE4lg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Los Angeles Hay Que Tenerle Cuidado",
+        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Grupo Agrado",
+          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
+        }
+      ],
+      "duration_ms": 206831,
+      "name": "Sin Saber De Mi",
+      "url": "https://open.spotify.com/track/2bfDHwOhVLJFRyMV23hiLR"
     },
     {
       "added_at": null,
@@ -623,26 +643,6 @@
       "duration_ms": 157512,
       "name": "Crit\u00edquenme",
       "url": "https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Los Angeles Hay Que Tenerle Cuidado",
-        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "Grupo Los Del Area",
-          "url": "https://open.spotify.com/artist/2cuvlWUiSa8eLLTbnRR0cf"
-        }
-      ],
-      "duration_ms": 206856,
-      "name": "Me Dicen E",
-      "url": "https://open.spotify.com/track/4VSFniHiB9DICyT3JqrQNw"
     },
     {
       "added_at": null,
@@ -672,9 +672,29 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 248952,
-      "name": "PISO FIRME",
-      "url": "https://open.spotify.com/track/3bPXt1s3Amixv7hy6IE4lg"
+      "duration_ms": 181710,
+      "name": "AHORA NOS VEN",
+      "url": "https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Los Angeles Hay Que Tenerle Cuidado",
+        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Grupo Los Del Area",
+          "url": "https://open.spotify.com/artist/2cuvlWUiSa8eLLTbnRR0cf"
+        }
+      ],
+      "duration_ms": 206856,
+      "name": "Me Dicen E",
+      "url": "https://open.spotify.com/track/4VSFniHiB9DICyT3JqrQNw"
     },
     {
       "added_at": null,
@@ -699,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Los Angeles Hay Que Tenerle Cuidado",
-        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "Grupo Agrado",
-          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
-        }
-      ],
-      "duration_ms": 206831,
-      "name": "Sin Saber De Mi",
-      "url": "https://open.spotify.com/track/2bfDHwOhVLJFRyMV23hiLR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA Privada",
         "url": "https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 167666,
       "name": "Cuatro Grandes (Cuadro Lavado)",
       "url": "https://open.spotify.com/track/0ggmHIybqGimyRj8wLz81v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Despu\u00e9s los Miro",
-        "url": "https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 163245,
-      "name": "Despu\u00e9s los Miro",
-      "url": "https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Despu\u00e9s los Miro",
+        "url": "https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 163245,
+      "name": "Despu\u00e9s los Miro",
+      "url": "https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aqu\u00ed No Se Espanten",
         "url": "https://open.spotify.com/album/6BczdtPtn0MIwchBO5Zttb"
       },
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agradecido Estoy",
-        "url": "https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recien",
-          "url": "https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 165395,
-      "name": "Agradecido Estoy",
-      "url": "https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Los Angeles Hay Que Tenerle Cuidado",
         "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 168960,
       "name": "Equipo Cannabis",
       "url": "https://open.spotify.com/track/7Kuljk1IHforwjZryE6QC5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agradecido Estoy",
+        "url": "https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recien",
+          "url": "https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 165395,
+      "name": "Agradecido Estoy",
+      "url": "https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP"
     },
     {
       "added_at": null,

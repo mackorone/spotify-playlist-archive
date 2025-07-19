@@ -4,7 +4,7 @@
 
 > all cruise, no breaks
 
-146 songs - 9 hr 16 min
+148 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [FEEDBACK](https://open.spotify.com/track/1e4cfNsYbGeMmsgl6VlFTK) | [Boy Deluxe](https://open.spotify.com/artist/742VMDRiRdlhMFfFn2qbpo) | [FEEDBACK](https://open.spotify.com/album/4VU4hhEVVttXYV8bJn6MJc) | 3:03 | 2025-04-04 | 2025-07-04 |
 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 | 2022-05-05 | 2023-09-06 |
 | [Figure](https://open.spotify.com/track/0VYxLT8xjoVQfYdSxNUDw9) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Figure](https://open.spotify.com/album/3LSP2OcYGw6HQ8uRoqJbP9) | 7:00 | 2022-05-05 | 2023-09-06 |
+| [FIRE](https://open.spotify.com/track/2c3Zw4hVk9bPIHfjXLHj00) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [FIRE](https://open.spotify.com/album/1R3LPEARw1RFuAPTLNv097) | 3:24 | 2025-07-18 |  |
 | [Flashback](https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ready For The Weekend](https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM) | 3:47 | 2022-05-05 | 2023-09-06 |
 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 | 2023-09-05 |  |
 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 | 2023-09-05 |  |
@@ -100,7 +101,7 @@
 | [Odd Look](https://open.spotify.com/track/3Q6mwJseOFYBJ10d5CXp4o) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Odd Look](https://open.spotify.com/album/3FHMLI0Vz2t0gdypH1yImX) | 4:13 | 2022-05-05 | 2023-09-06 |
 | [One Call](https://open.spotify.com/track/0pyRdHecOfxavci3jGc84M) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [One Call](https://open.spotify.com/album/5VB5OFyoKgJtNiRe88mcMI) | 2:16 | 2024-11-29 | 2025-04-05 |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2023-10-27 |  |
-| [Open Hearts](https://open.spotify.com/track/0sTBOp1hdayTjw6UOyPyi6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:54 | 2025-02-03 |  |
+| [Open Hearts](https://open.spotify.com/track/0sTBOp1hdayTjw6UOyPyi6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:54 | 2025-02-03 | 2025-07-19 |
 | [Otra Era](https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Otra Era](https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah) | 4:04 | 2022-05-05 | 2023-08-12 |
 | [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 | 2023-10-27 | 2024-02-03 |
 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 | 2025-01-03 |  |
@@ -119,10 +120,11 @@
 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 | 2023-09-05 |  |
 | [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 | 2023-09-05 |  |
 | [Se Eu Soubesse](https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [Cura](https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt) | 3:37 | 2022-05-05 | 2023-07-25 |
-| [Sky Walker \(feat\. Travis Scott\)](https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [War & Leisure](https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI) | 4:19 | 2023-09-05 |  |
+| [Sky Walker \(feat\. Travis Scott\)](https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [War & Leisure](https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI) | 4:19 | 2023-09-05 | 2025-07-19 |
 | [Slumlord](https://open.spotify.com/track/6O1G9pwLEidT5QTjuZw3tL) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [VEGA INTL\. Night School](https://open.spotify.com/album/5qA9yoz0W5eHKYOr45Rkc4) | 5:15 | 2022-05-05 | 2023-09-06 |
 | [Small Worlds](https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:31 | 2023-09-05 | 2025-02-14 |
 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 | 2024-04-05 |  |
+| [sober](https://open.spotify.com/track/4C0pXdF8aaKTHSPswNkf2v) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [\#BLUE](https://open.spotify.com/album/0oNsJNfTydSYn6ggDhi0L3) | 2:59 | 2025-07-18 |  |
 | [Sometimes](https://open.spotify.com/track/0kLrrh7Z1gySNTunBH790J) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [Illumination](https://open.spotify.com/album/37oEeZfUpmbYlJnORF36Zk) | 4:13 | 2022-05-05 | 2023-09-06 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2023-09-05 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-09-29 |  |

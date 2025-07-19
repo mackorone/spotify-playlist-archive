@@ -4,13 +4,13 @@
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 36 min
+113 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Iniciales NC](https://open.spotify.com/track/0Y0qqu5lwjtQFzDfYgODls) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 4:06 | 2022-06-01 | 2023-01-14 |
 | [A Lo Lejos Me Veran](https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:28 | 2022-06-01 |  |
-| [Ace of Spades](https://open.spotify.com/track/5NAJzQnVtRPmug4PcwiFgm) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Christian Zepeda](https://open.spotify.com/artist/1OOzpB4qc8zndHFs9O4dzo) | [Ace of Spades](https://open.spotify.com/album/4gvnBYrlVxacLhUeBfuIqr) | 3:00 | 2024-12-20 |  |
+| [Ace of Spades](https://open.spotify.com/track/5NAJzQnVtRPmug4PcwiFgm) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Christian Zepeda](https://open.spotify.com/artist/1OOzpB4qc8zndHFs9O4dzo) | [Ace of Spades](https://open.spotify.com/album/4gvnBYrlVxacLhUeBfuIqr) | 3:00 | 2024-12-20 | 2025-07-19 |
 | [Al Millon Ando Yo](https://open.spotify.com/track/6NvAr4wSu5QmZjv141KRoZ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 2:24 | 2024-07-27 |  |
 | [Al Niño Le Gusta Lo Bueno](https://open.spotify.com/track/0osBwuy7W8a7H0HkPPTDgn) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:54 | 2022-07-23 | 2022-08-11 |
 | [Al Niño Le Gusta Lo Bueno](https://open.spotify.com/track/1c6ilYnCPdP1BiFN6qi0Dy) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:54 | 2022-08-10 | 2023-10-11 |
@@ -102,6 +102,7 @@
 | [Se Oyen Recio Los Disparos](https://open.spotify.com/track/6qqICh8gOle9spzdSru35F) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:06 | 2022-06-01 |  |
 | [Señor 80](https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Señor 80](https://open.spotify.com/album/5xWFLe8Tlnhe6HVmqHQsrf) | 2:23 | 2025-02-02 |  |
 | [Sigo y Sigo](https://open.spotify.com/track/18ex1QePwFr4kevw448OlG) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:54 | 2022-07-21 | 2022-07-23 |
+| [Sky Blue](https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sky Blue](https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB) | 2:42 | 2025-07-19 |  |
 | [Somos Humildes](https://open.spotify.com/track/0TtHb0peNWzLRcln4DSXHb) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:19 | 2023-10-10 | 2023-11-11 |
 | [Soy De La](https://open.spotify.com/track/1tRKJ5Ov5meBRAg7B9rab6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 2:47 | 2022-07-29 | 2022-07-31 |
 | [Soy El Cholo Soy El 7](https://open.spotify.com/track/73zTFBi0S4u3sAa4vT2Cnn) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Soy El Cholo Soy El 7](https://open.spotify.com/album/5XUY9Ibmxbyk1dU3222hPR) | 3:02 | 2023-09-18 | 2024-02-13 |

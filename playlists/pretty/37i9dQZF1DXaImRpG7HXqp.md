@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,767 likes - 224 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,568 likes - 224 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 223 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 |
 | 224 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 |
 
-Snapshot ID: `aHa/FAAAAAAnKVrYJLXtV8K6EjXitizG`
+Snapshot ID: `aHqrnAAAAADLcEoGnx/M9HlnYb6MBhpG`

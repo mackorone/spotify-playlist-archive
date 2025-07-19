@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: grentperez
 
-437 songs - 1 day 0 hr 59 min
+439 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2022-06-17 | 2023-07-01 |
 | [California Wine](https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [California Wine](https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje) | 3:07 | 2021-12-03 | 2023-01-28 |
 | [California Wine](https://open.spotify.com/track/51Lwyrou0WmEbw868fCgIO) | [Quinn Devlin & The Bridge Street Kings](https://open.spotify.com/artist/0QCy04wEhExkkQ1AzueEYb) | [California Wine](https://open.spotify.com/album/2ZAjVYVW1Yey2pe3ehYcSd) | 3:07 | 2021-12-03 | 2022-07-29 |
-| [Calling Your Name](https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Calling Your Name](https://open.spotify.com/album/3vsWNz4RAuJ1eBXdjEosd6) | 1:56 | 2023-06-30 |  |
+| [Calling Your Name](https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Calling Your Name](https://open.spotify.com/album/3vsWNz4RAuJ1eBXdjEosd6) | 1:56 | 2023-06-30 | 2025-07-19 |
 | [Can't Help Falling in Love \- Mark Ronson Remix](https://open.spotify.com/track/0R9NUyenJWcZUG6QGyndw9) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ALr56Pyvr5rAsDISSVLR6) | 3:44 | 2022-07-01 | 2022-07-16 |
 | [Cancel \(No I Won't\)](https://open.spotify.com/track/3EdhbWWP9WFwimnZrZmflR) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Healthy Habits!](https://open.spotify.com/album/0PqpqcyjGkJsPdsENHTb8P) | 3:46 | 2023-06-23 |  |
 | [Catch My Wave](https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Catch My Wave](https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo) | 3:14 | 2022-08-12 |  |
@@ -249,6 +249,7 @@
 | [LOVE NEVER FELT LIKE THIS](https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:55 | 2024-02-16 |  |
 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 | 2024-05-10 |  |
 | [Love You Better](https://open.spotify.com/track/0WSmvwsulStgy0hKJetRi4) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Love You Better](https://open.spotify.com/album/4gLEInK7qVTUEa4yj2Jou8) | 4:00 | 2023-03-31 |  |
+| [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-07-18 |  |
 | [Lovesick](https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT) | 4:35 | 2022-09-02 | 2023-07-19 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-21 | 2023-04-29 |
 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-12-03 | 2023-01-20 |
@@ -343,7 +344,7 @@
 | [Short Hair](https://open.spotify.com/track/5YuVDItjVSibb1A0DjD2J1) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Short Hair](https://open.spotify.com/album/5Z1cEW2Oabkzp7dkkIJQw6) | 4:14 | 2024-06-07 | 2024-09-21 |
 | [Shoulda](https://open.spotify.com/track/3zVnXQUiHUTPYxz47BOafP) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Starlight](https://open.spotify.com/album/1yFYrWlcucrG2gI2AzowyP) | 3:24 | 2022-05-06 | 2023-06-24 |
 | [Silence](https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Silence](https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx) | 2:15 | 2024-04-05 |  |
-| [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 | 2025-04-04 |  |
+| [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 | 2025-04-04 | 2025-07-19 |
 | [SING](https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:11 | 2021-12-03 | 2023-01-28 |
 | [SING](https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [SING](https://open.spotify.com/album/1o3sKhWeAePQIl0DQegPla) | 3:11 | 2021-12-03 | 2022-07-29 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-12-03 | 2022-07-28 |
@@ -394,6 +395,7 @@
 | [The Good](https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:29 | 2022-01-06 | 2023-04-29 |
 | [The Light Shines Brightest In The Dark From "Marlowe" \- From "Marlowe"](https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [The Light Shines Brightest In The Dark \(From Marlowe\)](https://open.spotify.com/album/49KNelepray4YxHWWnANnB) | 3:34 | 2023-02-10 | 2023-03-11 |
 | [The Mess](https://open.spotify.com/track/4PZLI3AGhdUE0CX7KUnjNi) | [Violet Crime](https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4) | [The Mess](https://open.spotify.com/album/1cjJ60QJJAQCDkj3u06kxU) | 3:35 | 2022-05-20 | 2024-06-01 |
+| [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 | 2025-07-18 |  |
 | [The Only One](https://open.spotify.com/track/7EPtycDSH6iVx1a3Adgy9x) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [The Only One](https://open.spotify.com/album/2cVihQPUCaJb7cHAVvKOsh) | 2:55 | 2023-07-28 |  |
 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 | 2024-04-26 |  |
 | [The Other Side](https://open.spotify.com/track/3LiU0TOvZTzf3qJXXF5bEJ) | [WYATT](https://open.spotify.com/artist/3xAoVcrMl08h9mS8UHsfKM) | [TAKE ME HOME \(Wait Till Dawn\) \- EP](https://open.spotify.com/album/3GauA9rLPf2AIVMVv9pysi) | 3:37 | 2023-09-01 | 2025-01-04 |

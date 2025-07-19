@@ -1147,6 +1147,28 @@
     },
     {
       "album": {
+        "name": "La Raza M\u00e1s Chida",
+        "url": "https://open.spotify.com/album/7iGKBUFdyI3A2XxYjuAa6H"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208459,
+      "name": "La Raza M\u00e1s Chida",
+      "url": "https://open.spotify.com/track/1DwXFADeKSTu1TwZnQfTSB"
+    },
+    {
+      "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
@@ -2276,7 +2298,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 125533,
       "name": "Te Llegar\u00e1 Mi Olvido",
       "url": "https://open.spotify.com/track/1RFos4pteRCTVxd3jrqbLH"

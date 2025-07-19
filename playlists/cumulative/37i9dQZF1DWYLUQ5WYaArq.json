@@ -17001,6 +17001,24 @@
     },
     {
       "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318591,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
+    },
+    {
+      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -39968,7 +39986,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 363240,
       "name": "New Person, Same Old Mistakes",
       "url": "https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"

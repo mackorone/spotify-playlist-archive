@@ -2,9 +2,9 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Randall King
 
-700 songs - 1 day 17 hr 38 min
+702 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Astronaut](https://open.spotify.com/track/2q3Qtn6pVjR3MkKW0LZAl8) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Somewhere Down The Road](https://open.spotify.com/album/59QCDtvrb7ndBKYKyFJ12q) | 3:41 | 2024-01-26 | 2025-03-15 |
 | [Baby Do](https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Baby Do](https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG) | 3:28 | 2021-12-17 | 2023-04-29 |
 | [Baby Don't](https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Baby Don't](https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36) | 3:03 | 2022-10-14 | 2023-03-11 |
+| [Baby You Do](https://open.spotify.com/track/6SVKmktKVg5daArMbig0T3) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf), [David Dorn](https://open.spotify.com/artist/76drAK5KEEqdjYONSaEC5n) | [Baby You Do](https://open.spotify.com/album/7rTdxhNOzNI1C1rbLL5tvC) | 3:19 | 2025-07-18 |  |
 | [Back My Way](https://open.spotify.com/track/2OdeGBHKjMs3B0lWPaXFFW) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Back My Way](https://open.spotify.com/album/7DWLNaWd3IuUXKhL9eqHb1) | 3:52 | 2021-12-17 | 2022-03-12 |
 | [Bad Bad Things](https://open.spotify.com/track/7MCO2ietT7Unl71cdUjnbJ) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Bad Bad Things](https://open.spotify.com/album/4Q0CONaTIbFEzqTVNnTMu3) | 3:50 | 2021-12-17 | 2022-03-26 |
 | [Bad Boy](https://open.spotify.com/track/5WJoZ1lqSdbs3zXn6nqVOW) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Bad Boy](https://open.spotify.com/album/5ZldjVL42d7SDB82JOOgZ0) | 3:04 | 2022-04-08 | 2022-07-18 |
@@ -96,7 +97,7 @@
 | [Bring You Down](https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Cheating On A Memory, Chapter 3](https://open.spotify.com/album/36DYqh63Xt8VWishLELknB) | 3:55 | 2022-10-01 | 2024-10-04 |
 | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/track/4AMELibNEGPOQOFNfkdvZj) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/album/5pBKLo2o48EUjRjWiFUmhE) | 3:50 | 2021-12-17 | 2022-01-22 |
 | [Buckle of the Bible Belt](https://open.spotify.com/track/03zP9TiVkMyNul9NArPx6R) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Buckle of the Bible Belt](https://open.spotify.com/album/1dkJmdPnl2W9WoQgrkXFlD) | 3:00 | 2022-08-12 | 2023-03-25 |
-| [Buffalo Return To The Plains](https://open.spotify.com/track/4746bZlBy5z7YcrKK3lXHa) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Last Kings of Babylon](https://open.spotify.com/album/7tqtseAEME2gu63QJxKhob) | 3:47 | 2025-03-14 |  |
+| [Buffalo Return To The Plains](https://open.spotify.com/track/4746bZlBy5z7YcrKK3lXHa) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Last Kings of Babylon](https://open.spotify.com/album/7tqtseAEME2gu63QJxKhob) | 3:47 | 2025-03-14 | 2025-07-19 |
 | [Build You a Bar](https://open.spotify.com/track/5ipv5YkZIyYCW6h7zjfjKs) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Build You a Bar](https://open.spotify.com/album/3cJepIdRwtbAUJYzTykBQK) | 3:48 | 2022-04-08 | 2022-08-10 |
 | [Build Your Wings](https://open.spotify.com/track/7DvJPzzF30oE4k6YI2tDrf) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Wilder Blue](https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg) | 3:42 | 2022-03-25 | 2022-07-19 |
 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 | 2022-01-07 | 2023-09-02 |
@@ -312,6 +313,7 @@
 | [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 | 2023-04-21 | 2024-07-18 |
 | [I Just Want You](https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:44 | 2022-11-18 | 2023-06-23 |
 | [I Just Want You](https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [I Just Want You](https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6) | 3:44 | 2022-01-28 | 2022-11-06 |
+| [I Keep Your Memory Around](https://open.spotify.com/track/2mESfK7oU1V1CHr1j78FE8) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [I Keep Your Memory Around](https://open.spotify.com/album/7waJk7mvaaMcC6lauq5KbE) | 3:06 | 2025-07-18 |  |
 | [I Will Find You](https://open.spotify.com/track/05KJqisYJmofxTbwY5qWWM) | [Walt Wilkins](https://open.spotify.com/artist/7ibIGIariNNiQyafUQ6Oqg), [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [I Will Find You](https://open.spotify.com/album/2n5ktGzFUxyj8zOogB0929) | 3:24 | 2021-12-31 | 2022-03-19 |
 | [I'm Going Home](https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Miles and Miles of You](https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau) | 3:29 | 2022-08-26 | 2022-10-09 |
 | [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 | 2022-06-10 | 2023-08-19 |
@@ -661,7 +663,7 @@
 | [Whatever It Is](https://open.spotify.com/track/5GIHSqXNkKFn0H0N1hWh20) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Whatever It Is](https://open.spotify.com/album/4WAcafmCgjkUIcYDqGAVLQ) | 3:27 | 2021-12-17 | 2022-03-19 |
 | [When I See You](https://open.spotify.com/track/3q1K2sy4cleHRdaSWpwmlt) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/6I6ykKV4SbTOK7ecmTtjDw) | 3:20 | 2022-03-11 | 2022-06-18 |
 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 | 2021-12-17 | 2022-05-20 |
-| [When My Baby’s In Boots](https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [When My Baby’s In Boots](https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q) | 3:03 | 2023-05-05 |  |
+| [When My Baby’s In Boots](https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [When My Baby’s In Boots](https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q) | 3:03 | 2023-05-05 | 2025-07-19 |
 | [When She Kissed Me](https://open.spotify.com/track/1vnsvAfJiIvX3S9YM01l2V) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [When She Kissed Me](https://open.spotify.com/album/51gRM3NuaQhiJc5NCiut8t) | 4:04 | 2024-08-09 | 2024-10-20 |
 | [When the Good Ol Boys Age Out](https://open.spotify.com/track/5LAbNvWjVcWgVCkiLdTrfR) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [When the Good Ol Boys Age Out](https://open.spotify.com/album/4XeY6zjxs6rQ19UeeNo6jY) | 4:16 | 2023-08-04 | 2023-10-14 |
 | [When You Love Me](https://open.spotify.com/track/16wqJpp4cDPlrntWaV5v5S) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [When You Love Me](https://open.spotify.com/album/15El8KMYlj68oMrLUv9HFu) | 3:16 | 2023-09-22 | 2023-10-07 |

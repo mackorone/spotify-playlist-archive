@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: Diego Lorenzini y Sim\u00f3n Campusano",
+  "description": "Todo el sonido indie de Chile. Foto: D\u00ebnver",
   "name": "Indie Chile",
   "tracks": [
     {
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Bien Tu Mal",
+        "url": "https://open.spotify.com/album/3U3gR4mLrRJuO4E48qanFA"
+      },
+      "artists": [
+        {
+          "name": "D\u00ebnver",
+          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215720,
+      "name": "Bien Tu Mal",
+      "url": "https://open.spotify.com/track/7DlKhwNQSHCguTGPfGF2m6"
+    },
+    {
+      "album": {
         "name": "Dos Cordilleras",
         "url": "https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA"
       },
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 243661,
       "name": "Buscamos (Deluxe)",
       "url": "https://open.spotify.com/track/2aDKwkrIalbfjDofSjL9Ya"
@@ -2418,6 +2436,32 @@
       "duration_ms": 189416,
       "name": "Donde Mueren Todos",
       "url": "https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz"
+    },
+    {
+      "album": {
+        "name": "Dopamina (Remix)",
+        "url": "https://open.spotify.com/album/3WQHkXuizrqBzYLA0JYqoM"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Marcelo Aldunate",
+          "url": "https://open.spotify.com/artist/5EU0uwGDCaWJ0vO6A7hE7P"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249988,
+      "name": "Dopamina - Remix",
+      "url": "https://open.spotify.com/track/4N7rA6D6PIYmOsnXKAsqzZ"
     },
     {
       "album": {
@@ -5475,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "Men\u00fa",
+        "url": "https://open.spotify.com/album/0neoF4DdR4iv38nur3DhZn"
+      },
+      "artists": [
+        {
+          "name": "Gato a Secas",
+          "url": "https://open.spotify.com/artist/3s5xMmfLW7tncGD4GHwSul"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148706,
+      "name": "Men\u00fa",
+      "url": "https://open.spotify.com/track/4KnVw3m6rZIJZUIlRcZnBY"
+    },
+    {
+      "album": {
         "name": "Metatr\u00f3n",
         "url": "https://open.spotify.com/album/5ATddaIPfN60xIgidfZSEV"
       },
@@ -6932,7 +6994,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 258676,
       "name": "Pide un deseo \u2729",
       "url": "https://open.spotify.com/track/5kNot3Gv6xhoSn8Ek7OkvA"

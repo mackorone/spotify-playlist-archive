@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Blood Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,488 likes - 117 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,541 likes - 117 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 11 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 |
 | 12 | [In The Middle](https://open.spotify.com/track/2ppTMGPJmFGAB3AI59pGTc) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [In The Middle](https://open.spotify.com/album/7rzGT09j56l1NZFSGsTp2D) | 6:05 |
 | 13 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 |
-| 14 | [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i), [Eden Leshem](https://open.spotify.com/artist/49NRXEvNMMkyewpxD2ikH4), [Alice Phoebe Lou Matthew](https://open.spotify.com/artist/0VsqD71hCI2ABkZyHlYCzP), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:43 |
+| 14 | [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:42 |
 | 15 | [Enigami \(with Mei Semones\)](https://open.spotify.com/track/1NOaMRWrxAyxa3hQEAkWGP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Enigami \(with Mei Semones\)](https://open.spotify.com/album/0FPuzafVIbe5pGAZ43SQ1f) | 2:30 |
 | 16 | [Oyster](https://open.spotify.com/track/4msP6oQS3o5LjQM2PmxcLK) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Oyster](https://open.spotify.com/album/7zjufVBqUzHUwJGPI7gI7f) | 4:46 |
 | 17 | [She Explains Things To Me](https://open.spotify.com/track/4ltUVGlf3c6k6a5yR8sDbq) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [She Explains Things To Me](https://open.spotify.com/album/5f6f5JMGxgNa0LAJqtaUXY) | 2:18 |

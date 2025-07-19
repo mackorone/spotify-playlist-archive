@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover:  Nine Inch Nails
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,845 likes - 87 songs - 5 hr 17 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,843 likes - 87 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 | 86 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 |
 | 87 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 |
 
-Snapshot ID: `AAAc5CeIKIBsjUxKSKARTN85mYbI0bhL`
+Snapshot ID: `AAAc5jhbje33vqPp8Aa6cAIX9MthgTjv`

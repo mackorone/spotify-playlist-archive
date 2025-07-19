@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,955 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,885 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 59 | [Fica Tudo Bem \- Bhaskar Remix](https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Fica Tudo Bem \(Bhaskar Remix\)](https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t) | 2:54 |
 | 60 | [All The Lies](https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [All The Lies](https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF) | 2:59 |
 | 61 | [Glamour Girl](https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC) | [Louie Austen](https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X) | [Iguana](https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O) | 5:01 |
-| 62 | [Rain](https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Rain](https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX) | 3:06 |
-| 63 | [Brother Louie](https://open.spotify.com/track/1rIIZijH9LIMqtdY5x9Ebe) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Dieter Bohlen](https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Brother Louie](https://open.spotify.com/album/7sXd9MLEYPHUvQJzIdhSBV) | 2:52 |
+| 62 | [Brother Louie](https://open.spotify.com/track/1rIIZijH9LIMqtdY5x9Ebe) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Dieter Bohlen](https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Brother Louie](https://open.spotify.com/album/7sXd9MLEYPHUvQJzIdhSBV) | 2:52 |
+| 63 | [Rain](https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Rain](https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX) | 3:06 |
 | 64 | [Physical \- Alok Remix](https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Physical \(Alok Remix\)](https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh) | 3:09 |
 | 65 | [Metaphor](https://open.spotify.com/track/1UTXQrmAL4oladIwc1PWSh) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Metaphor](https://open.spotify.com/album/2ds371eeP7JXPUhBCk26eH) | 3:22 |
 | 66 | [Home \(feat\. Bonn\)](https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Home \(feat\. Bonn\)](https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9) | 3:59 |

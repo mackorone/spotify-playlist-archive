@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 
 > 愛本來就係自由嘅事！想愛就愛吧！Cover: Leslie Cheung
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,017 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,019 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 4 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 |
 | 5 | [黑彩虹](https://open.spotify.com/track/4UWoWjmD9MzzbREGsIZ0ik) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [黑彩虹](https://open.spotify.com/album/03x5AHLUVKl9N4Q6Ix9O5O) | 4:40 |
 | 6 | [我感覺到](https://open.spotify.com/track/1oKqn2ZQPjxyO5cHukLyJz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [我感覺到](https://open.spotify.com/album/29jfGvVKC2aJFTW01HB6fU) | 4:33 |
-| 7 | [禁色](https://open.spotify.com/track/4w58z1FlaaVsi75HUfS0NC) | [Tat Ming Pair](https://open.spotify.com/artist/2cvtzIo0OSIAkyr7LisIT6) | [復黑王\-你還愛我嗎?](https://open.spotify.com/album/7ALLotqAN9o72KeBEPGB1X) | 4:04 |
+| 7 | [禁色](https://open.spotify.com/track/4w58z1FlaaVsi75HUfS0NC) | [Tat Ming Pair](https://open.spotify.com/artist/2cvtzIo0OSIAkyr7LisIT6) | [你還愛我嗎?](https://open.spotify.com/album/7ALLotqAN9o72KeBEPGB1X) | 4:04 |
 | 8 | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/track/596MqWmYLojkoFvgygAteu) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/album/1GtTUDJrBUbRACKrBmmVTC) | 3:17 |
 | 9 | [內外](https://open.spotify.com/track/0GLxavYdjEYvGx9eN3lDv4) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [內外](https://open.spotify.com/album/1dMVJFOcO7aaDbrxyPuBqL) | 3:47 |
 | 10 | [吟鈴](https://open.spotify.com/track/27ytVYZJ0OWpMz3DxnOj2h) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [吟鈴](https://open.spotify.com/album/54iUsAIGzduKUSMwCMKYpF) | 2:58 |

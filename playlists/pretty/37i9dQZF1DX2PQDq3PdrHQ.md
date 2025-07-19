@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,605 likes - 230 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,755 likes - 230 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 229 | [Haze](https://open.spotify.com/track/5odk1mMSZYcIciQ4uaoOWH) | [drmycat](https://open.spotify.com/artist/50gpOabMr60yHviIA8gNY6), [pnkcité](https://open.spotify.com/artist/1WJf7IlyrogjzPpGrINHHX), [patient wave](https://open.spotify.com/artist/2A5Rk0otLWV24A4IswyhTf) | [Haze](https://open.spotify.com/album/7p1F9U69zBVIWgWOd64Vcd) | 2:21 |
 | 230 | [The Colour Of Rain](https://open.spotify.com/track/0wvy8SlcfY4SD6WtGCSwwG) | [after noon](https://open.spotify.com/artist/23ZyvK3IS7xXY1COP8KiRW) | [The Colour Of Rain](https://open.spotify.com/album/7pt2OzmgapAp6RCR38UkMt) | 2:04 |
 
-Snapshot ID: `aGUc3wAAAADj8y5SNq2vbiq4LsiFVE0w`
+Snapshot ID: `aHq5IQAAAADPZPb8Gw9hsWLaa7m7zyJL`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 627810,
+  "num_followers": 628189,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 198300,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
         "name": "Vita Fer",
         "url": "https://open.spotify.com/album/2UyuT1u6vDSwK1WXEkyfr4"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 181064,
       "name": "PRESIDENTE",
       "url": "https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
-        "name": "2+2",
-        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 198300,
-      "name": "2+2",
-      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -655,22 +655,22 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "Amapola",
-        "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
+        "name": "No Fue Suerte",
+        "url": "https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
         },
         {
-          "name": "Nueva H",
-          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
         }
       ],
-      "duration_ms": 180693,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
+      "duration_ms": 212382,
+      "name": "Perdon Mama",
+      "url": "https://open.spotify.com/track/6WbkWq6e8KuD6k26L1yePw"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -695,22 +695,22 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "No Fue Suerte",
-        "url": "https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM"
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
       },
       "artists": [
         {
-          "name": "Chuy Montana",
-          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
         }
       ],
-      "duration_ms": 212382,
-      "name": "Perdon Mama",
-      "url": "https://open.spotify.com/track/6WbkWq6e8KuD6k26L1yePw"
+      "duration_ms": 180693,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
+        "name": "No Le Aflojo",
+        "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 202875,
+      "name": "No Le Aflojo",
+      "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
         "name": "ONDEADO$",
         "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 208800,
       "name": "ULTIMAMENTE",
       "url": "https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
-        "name": "No Le Aflojo",
-        "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 202875,
-      "name": "No Le Aflojo",
-      "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 123096,
-      "name": "AMIRI",
-      "url": "https://open.spotify.com/track/3dpBkXMbRdDQ6ZhcxFufQp"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
         "name": "AMARTE ME HIZO ODIARTE",
         "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
@@ -1211,22 +1187,26 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "Hublot",
-        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         },
         {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 225250,
-      "name": "Hublot",
-      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+      "duration_ms": 123096,
+      "name": "AMIRI",
+      "url": "https://open.spotify.com/track/3dpBkXMbRdDQ6ZhcxFufQp"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1251,6 +1231,26 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
+        "name": "Hublot",
+        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Hublot",
+      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
         "name": "TQM",
         "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 158965,
       "name": "TQM",
       "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
-        "name": "Pura Adrenalina",
-        "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 157569,
-      "name": "Pura Adrenalina",
-      "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
+        "name": "Pura Adrenalina",
+        "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 157569,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 153269,
       "name": "GTA",
       "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "Con Toda La Fe",
-        "url": "https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 144726,
-      "name": "Con Toda La Fe",
-      "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
         "name": "Como Duele El Amor",
         "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 222528,
       "name": "Como Duele El Amor",
       "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
+        "name": "Con Toda La Fe",
+        "url": "https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 144726,
+      "name": "Con Toda La Fe",
+      "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 173088,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 165447,
       "name": "De Fresa y Coco",
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 173088,
-      "name": "No Regreses",
-      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1583,22 +1583,6 @@
       "duration_ms": 200859,
       "name": "Otro D\u00eda, Otra Aventura",
       "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
-        "name": "Memorias <3",
-        "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
-      },
-      "artists": [
-        {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1691,6 +1675,22 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
+        "name": "Memorias <3",
+        "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
+      },
+      "artists": [
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
         "name": "Vision De Tunel",
         "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
       },
@@ -1703,6 +1703,22 @@
       "duration_ms": 172890,
       "name": "Vision De Tunel",
       "url": "https://open.spotify.com/track/6VCRBicgO32jHZOT3dRbPk"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 202443,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1723,22 +1739,6 @@
       "duration_ms": 205901,
       "name": "El Due\u00f1o Del Palenque (En Vivo)",
       "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
-        "name": "Sin Pagar Renta",
-        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 202443,
-      "name": "Sin Pagar Renta",
-      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 160897,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
         "name": "R\u00e1pido Soy",
         "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
       },
@@ -1835,6 +1815,22 @@
       "duration_ms": 114125,
       "name": "R\u00e1pido Soy",
       "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
+        "name": "Raite Pa' Con Diosito",
+        "url": "https://open.spotify.com/album/2GSto24T7Pw2rfsHBFjJYc"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 124677,
+      "name": "Raite Pa' Con Diosito",
+      "url": "https://open.spotify.com/track/105guh7ejzfazbD4qCmZIo"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1859,18 +1855,22 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "Raite Pa' Con Diosito",
-        "url": "https://open.spotify.com/album/2GSto24T7Pw2rfsHBFjJYc"
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 124677,
-      "name": "Raite Pa' Con Diosito",
-      "url": "https://open.spotify.com/track/105guh7ejzfazbD4qCmZIo"
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "added_at": "2025-07-04 00:59:19",

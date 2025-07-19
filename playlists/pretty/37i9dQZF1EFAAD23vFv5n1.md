@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 14 | [Un buon inizio](https://open.spotify.com/track/1VlJaPRbfyyOkEVaWJhRdg) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:10 |
 | 15 | [+1](https://open.spotify.com/track/4h8hAunpmncl15Xy6qDPAg) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 3:05 |
 | 16 | [Tutto inutile](https://open.spotify.com/track/0231KMdHUBksvW0vteMze1) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 2:50 |
-| 17 | [Non Sono Cool](https://open.spotify.com/track/4UDHBaPYDu6zI0sva3Yn26) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 2:41 |
-| 18 | [Filippo Leroy](https://open.spotify.com/track/19PVhId3pxPm0FA6QJXyoa) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 3:03 |
+| 17 | [Filippo Leroy](https://open.spotify.com/track/19PVhId3pxPm0FA6QJXyoa) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 3:03 |
+| 18 | [Non Sono Cool](https://open.spotify.com/track/4UDHBaPYDu6zI0sva3Yn26) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 2:41 |
 | 19 | [scs](https://open.spotify.com/track/1SaKgMxGgsh5uOTud5YeqR) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:06 |
 | 20 | [Radical](https://open.spotify.com/track/2dk6mSHg6VUT7nFfmgGJVa) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:59 |
 | 21 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 133 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 |
 | 134 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 
-Snapshot ID: `Ab3DMgAAAACkkm+MeONi+cb+hECA7k5X`
+Snapshot ID: `Ab3I0gAAAACyUq8c6XIGRPZizw0SqOQ2`

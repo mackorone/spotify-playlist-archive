@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-408 songs - 18 hr 43 min
+410 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bare så du vett det](https://open.spotify.com/track/0MPznfQfw2r2XWJlhPoyWN) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Bare så du vett det](https://open.spotify.com/album/6vutuz8BvdPdSq7gy2xWgw) | 3:31 | 2021-12-16 | 2022-07-29 |
 | [Berre i natt](https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Berre i natt](https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj) | 3:49 | 2021-12-16 |  |
 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 | 2021-12-16 |  |
-| [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 | 2023-03-01 |  |
+| [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 | 2023-03-01 | 2025-07-19 |
 | [Bjudar på](https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Bjudar på](https://open.spotify.com/album/28kSTlOsS6yDQLpkXrDhFw) | 2:43 | 2021-12-16 | 2025-06-07 |
 | [Bli Med Meg Hjem](https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Bli Med Meg Hjem](https://open.spotify.com/album/3B0F6c5gFEgcUElAnr03pR) | 2:10 | 2022-05-05 | 2022-07-29 |
 | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe) | 2:21 | 2023-02-16 | 2023-04-12 |
@@ -57,7 +57,7 @@
 | [Bygda](https://open.spotify.com/track/5lx7a4TppA4OLmJhcNd6hz) | [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Bygda](https://open.spotify.com/album/6c88OcxwLQ74dib50EEtw5) | 2:46 | 2021-12-16 | 2025-01-17 |
 | [Bygda Vår](https://open.spotify.com/track/7yhjOBAgtIExnt9uRRmgiO) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygda Vår](https://open.spotify.com/album/62WlPC9vdBQV8zjE4HdiJP) | 4:06 | 2023-09-13 | 2023-09-22 |
 | [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 | 2023-09-13 | 2024-08-18 |
-| [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 | 2023-06-15 |  |
+| [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 | 2023-06-15 | 2025-07-19 |
 | [Bygdegut \(her er eg\)](https://open.spotify.com/track/5t4O0SahpSw7pavJBwGEC5) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bygdegut \(her er eg\)](https://open.spotify.com/album/0TiVDDgfK4JpMZaBlwYlrP) | 3:47 | 2025-01-27 |  |
 | [Bøgda](https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bøgda](https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu) | 2:44 | 2021-12-16 | 2024-04-26 |
 | [Bøgda \- Remix](https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bøgda \(Remix\)](https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7) | 2:51 | 2024-04-04 | 2025-02-21 |
@@ -176,6 +176,7 @@
 | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi) | 2:17 | 2024-06-13 |  |
 | [Hele hjertet](https://open.spotify.com/track/0ykoo0nO6HCM9cX1LIXBiV) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Hele hjertet](https://open.spotify.com/album/5QvXFGPfhZHr867hplevoX) | 3:17 | 2025-02-27 | 2025-03-28 |
 | [Helg](https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Helg](https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl) | 2:51 | 2023-03-30 |  |
+| [Helt til slutt](https://open.spotify.com/track/5CyQYGN0RmJRkql6qdyNMK) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Lekeland](https://open.spotify.com/artist/4WB8tsKNvtX2CtAs3lvLyZ), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Helt til slutt](https://open.spotify.com/album/7IhaD1xpp1iBIALvtD5mn7) | 2:09 | 2025-07-17 |  |
 | [Hem Till Dig](https://open.spotify.com/track/0dAA6gGibdlYXiYFyzWDX7) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Hem Till Dig](https://open.spotify.com/album/2oIJCQbcw2uqu4rQ7RmOv4) | 3:12 | 2021-12-16 | 2022-10-16 |
 | [Her er det liv](https://open.spotify.com/track/4ffdNW62Z6XaS8XQrrvQcp) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Her er det liv](https://open.spotify.com/album/2YVX4cPRpeL4YhSY6KxElv) | 3:03 | 2024-04-25 | 2024-06-26 |
 | [Her kommer sola](https://open.spotify.com/track/2LBXXYTmL89PQO0xDTd4hY) | [Frøya](https://open.spotify.com/artist/2w8eUfLsUbiX7MQyTW13S6) | [Jenta Fra Landet](https://open.spotify.com/album/4cbJTnB9KIXPuyjRwUiqKw) | 3:06 | 2021-12-16 | 2022-07-05 |
@@ -325,6 +326,7 @@
 | [Rundt neste sving](https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 3:55 | 2022-12-01 |  |
 | [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 | 2025-07-10 |  |
 | [Scania fra 1973](https://open.spotify.com/track/149qw7uPNyeYjZbF1TtOq5) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [3](https://open.spotify.com/album/03p4hxaB9DqC7Kh5bAkb8b) | 3:52 | 2022-02-03 | 2022-04-18 |
+| [Se dig naken igen](https://open.spotify.com/track/7CyHiCbqRj4RokUXYbHndJ) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Se dig naken igen](https://open.spotify.com/album/30YVIl0fpuUAH1IrILSvJQ) | 2:16 | 2025-07-17 |  |
 | [SE PÅ MIG JAG DANSAR UTAN DIG](https://open.spotify.com/track/0p2xrYWk6xXNoYG4FPdvYD) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [SE PÅ MIG JAG DANSAR UTAN DIG](https://open.spotify.com/album/4Jz3pUrONbYOyGZ7bnJiJS) | 1:59 | 2022-12-08 | 2023-02-20 |
 | [Sexylubben](https://open.spotify.com/track/0SGHKXTxAxfmaTsfv7Dle1) | [Rød Mix](https://open.spotify.com/artist/5C98HIFpOjDEJKslOt7SI8) | [Sexylubben](https://open.spotify.com/album/49Yrzg0zu7dY2N2qTlYJkR) | 3:50 | 2022-01-13 | 2022-04-19 |
 | [Shakira](https://open.spotify.com/track/6kGas3qqqBNAoDdgwvuuxT) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf) | [Shakira](https://open.spotify.com/album/5GOs9VMAYF6Ot8GUwCjTNb) | 1:58 | 2023-05-04 | 2024-02-09 |

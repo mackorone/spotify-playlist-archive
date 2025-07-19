@@ -1,6 +1,6 @@
 {
   "description": "Klingt nach Sonne + Meer, egal wo du bist.",
-  "num_followers": 1076189,
+  "num_followers": 1076300,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,26 @@
     {
       "added_at": "2025-07-10 05:13:09",
       "album": {
+        "name": "Soleil Bleu",
+        "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
+      },
+      "artists": [
+        {
+          "name": "Bleu Soleil",
+          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
+        },
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Soleil Bleu",
+      "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
+    },
+    {
+      "added_at": "2025-07-10 05:13:09",
+      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2025-07-10 05:13:09",
-      "album": {
-        "name": "Soleil Bleu",
-        "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
-      },
-      "artists": [
-        {
-          "name": "Bleu Soleil",
-          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
-        },
-        {
-          "name": "LUIZA",
-          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Soleil Bleu",
-      "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
     },
     {
       "added_at": "2025-07-10 05:13:09",
@@ -543,22 +543,18 @@
     {
       "added_at": "2025-07-10 05:13:09",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+        "name": "Ozean",
+        "url": "https://open.spotify.com/album/4AFH1ZeMsq5MSwgOqYfZVv"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
         }
       ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
+      "duration_ms": 215265,
+      "name": "Ozean",
+      "url": "https://open.spotify.com/track/7ED8m8m3QJvDCnYFOi6VXB"
     },
     {
       "added_at": "2025-07-10 05:13:09",
@@ -579,18 +575,22 @@
     {
       "added_at": "2025-07-10 05:13:09",
       "album": {
-        "name": "Ozean",
-        "url": "https://open.spotify.com/album/4AFH1ZeMsq5MSwgOqYfZVv"
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
       },
       "artists": [
         {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 215265,
-      "name": "Ozean",
-      "url": "https://open.spotify.com/track/7ED8m8m3QJvDCnYFOi6VXB"
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2025-07-10 05:13:09",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-07-10 05:13:09",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 171662,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
-    },
-    {
-      "added_at": "2025-07-10 05:13:09",
-      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 270315,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
+    },
+    {
+      "added_at": "2025-07-10 05:13:09",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 171662,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
     },
     {
       "added_at": "2025-07-10 05:13:09",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-07-10 05:13:09",
       "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj"
+      },
+      "artists": [
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
+    },
+    {
+      "added_at": "2025-07-10 05:13:09",
+      "album": {
         "name": "Livin Alright",
         "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2025-07-10 05:13:09",
       "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj"
+        "name": "Welcome to the Mood / Sundown",
+        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
       },
       "artists": [
         {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
+      "duration_ms": 135866,
+      "name": "Welcome to the Mood",
+      "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
     },
     {
       "added_at": "2025-07-10 05:13:09",
@@ -1087,22 +1103,6 @@
       "duration_ms": 190266,
       "name": "Know the Night",
       "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
-    },
-    {
-      "added_at": "2025-07-10 05:13:09",
-      "album": {
-        "name": "Welcome to the Mood / Sundown",
-        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 135866,
-      "name": "Welcome to the Mood",
-      "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
     },
     {
       "added_at": "2025-07-10 05:13:09",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2025-07-10 05:13:09",
       "album": {
-        "name": "Swedish Girl",
-        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ"
       },
       "artists": [
         {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
         }
       ],
-      "duration_ms": 153937,
-      "name": "Swedish Girl",
-      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
+      "duration_ms": 169771,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy"
     },
     {
       "added_at": "2025-07-10 05:13:09",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-07-10 05:13:09",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ"
+        "name": "Swedish Girl",
+        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
       },
       "artists": [
         {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
         }
       ],
-      "duration_ms": 169771,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy"
+      "duration_ms": 153937,
+      "name": "Swedish Girl",
+      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
     },
     {
       "added_at": "2025-07-10 05:13:09",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-07-10 05:13:09",
       "album": {
-        "name": "Who are you?",
-        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 151979,
-      "name": "Who are you?",
-      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
-    },
-    {
-      "added_at": "2025-07-10 05:13:09",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2025-07-10 05:13:09",
       "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
       },
       "artists": [
         {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
         }
       ],
-      "duration_ms": 189770,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
       "added_at": "2025-07-10 05:13:09",
@@ -1423,6 +1407,22 @@
       "duration_ms": 207133,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
+    },
+    {
+      "added_at": "2025-07-10 05:13:09",
+      "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 189770,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
     },
     {
       "added_at": "2025-07-10 05:13:09",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-07-10 05:13:09",
       "album": {
-        "name": "Someone Special",
-        "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 256670,
-      "name": "Someone Special",
-      "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
-    },
-    {
-      "added_at": "2025-07-10 05:13:09",
-      "album": {
         "name": "cupped and open",
         "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 236167,
       "name": "cupped and open",
       "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
+    },
+    {
+      "added_at": "2025-07-10 05:13:09",
+      "album": {
+        "name": "Someone Special",
+        "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 256670,
+      "name": "Someone Special",
+      "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
     },
     {
       "added_at": "2025-07-10 05:13:09",

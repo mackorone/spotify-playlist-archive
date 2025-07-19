@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Robert Randolph
 
-376 songs - 1 day 0 hr 28 min
+377 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Light It Up](https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Light It Up](https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF) | 3:48 | 2022-07-29 |  |
 | [Light Of The Moon](https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Light Of The Moon](https://open.spotify.com/album/39Q163JUbwGHACKXI3HUYZ) | 3:13 | 2021-07-30 |  |
 | [Light Of The Moon](https://open.spotify.com/track/6fZqH2RSqDS0DWIi1US4BO) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 3:13 | 2021-07-30 | 2024-04-19 |
-| [Light Up The Sky](https://open.spotify.com/track/4EwICCST3U0KB6DwrK1L8Y) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Light Up The Sky](https://open.spotify.com/album/2STOuaYMyZWYtJIxCHm2lO) | 3:24 | 2021-04-16 |  |
+| [Light Up The Sky](https://open.spotify.com/track/4EwICCST3U0KB6DwrK1L8Y) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Light Up The Sky](https://open.spotify.com/album/2STOuaYMyZWYtJIxCHm2lO) | 3:24 | 2021-04-16 | 2025-07-19 |
 | [Little More Rope](https://open.spotify.com/track/0wqXrS4GJ7ZK1n4MYPiI63) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Little More Rope](https://open.spotify.com/album/6IxOUgY9J3IWg7qPXXWsm8) | 2:51 | 2025-02-21 | 2025-05-24 |
 | [Little Thing Gone Wild](https://open.spotify.com/track/0KSkqC5o5e3birYoEY9bkk) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/4bqvmPwZxKndCe4DrsLbuV) | 3:19 | 2020-10-16 |  |
 | [Little Thing Gone Wild](https://open.spotify.com/track/3XGCZQTIl2AXccefEuJfeh) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/0rqC0UZ8kTGxIEI654LWhj) | 3:19 | 2020-10-16 | 2024-04-19 |
@@ -284,6 +284,7 @@
 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 | 2022-06-10 |  |
 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 | 2023-03-03 | 2023-03-25 |
 | [Shooting Stars](https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:20 | 2020-10-16 | 2023-09-16 |
+| [Sign of the Times](https://open.spotify.com/track/0nAsHYMvIgvuGhXg2ewKHV) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Sign of the Times](https://open.spotify.com/album/5gqGVKA2cUKyshC9fQwi8f) | 5:11 | 2025-07-18 |  |
 | [Silver Paper](https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Silver Paper](https://open.spotify.com/album/6Y6nPjdXZd0p7qAMiM3A9z) | 3:26 | 2022-03-04 |  |
 | [Silver Paper](https://open.spotify.com/track/66trObVQ3KylhIFgHEv27g) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Legacy: A Tribute to Leslie West](https://open.spotify.com/album/2fHUmGoULVaRNzb0cPPzzL) | 3:26 | 2022-03-11 | 2024-04-19 |
 | [Skin 'n Bone](https://open.spotify.com/track/6natqkD9pmwdr8Xr1VFliA) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Skin 'n Bone](https://open.spotify.com/album/2ZWSn4DgPq9jFuIj1wywPF) | 3:23 | 2021-06-11 | 2022-07-02 |

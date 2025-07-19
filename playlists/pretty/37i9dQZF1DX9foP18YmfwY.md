@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,737 likes - 70 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,806 likes - 70 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 46 | [O Primeiro a Ser Servido](https://open.spotify.com/track/3lhGqMkF0kFccKtjFYKFJ7) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [O Primeiro a Ser Servido](https://open.spotify.com/album/3FqK6o3eXMtKzKCRU0JGuP) | 4:27 |
 | 47 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
 | 48 | [Mãe de Deus e Minha](https://open.spotify.com/track/0RNhs4AaIUpehk2Rl49Qmr) | [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd), [Guilherme Meirelles](https://open.spotify.com/artist/78wIcCfZh0wbufFAJS5b4k) | [Studio Canção Nova \(Acústico\)](https://open.spotify.com/album/5ewDVc6Q2lhai5L8c7Fnlv) | 4:43 |
-| 49 | [Quero Nascer de Novo](https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Quero Nascer de Novo](https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO) | 6:10 |
-| 50 | [Com Tua Mão](https://open.spotify.com/track/2GTmkLdTSFj54cESYICauO) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Com Tua Mão](https://open.spotify.com/album/5TSwbyM7ySxL5dw24cjwQm) | 4:15 |
+| 49 | [Com Tua Mão](https://open.spotify.com/track/2GTmkLdTSFj54cESYICauO) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Com Tua Mão](https://open.spotify.com/album/5TSwbyM7ySxL5dw24cjwQm) | 4:15 |
+| 50 | [Quero Nascer de Novo](https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Quero Nascer de Novo](https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO) | 6:10 |
 | 51 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
 | 52 | [Seguir Viagem](https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg) | [Raquel Carpejani](https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW) | [Seguir Viagem](https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW) | 3:38 |
 | 53 | [Acima dos Telhados \- Acoustic](https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Reale](https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6) | [Acima dos Telhados \(Acoustic\)](https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x) | 6:35 |

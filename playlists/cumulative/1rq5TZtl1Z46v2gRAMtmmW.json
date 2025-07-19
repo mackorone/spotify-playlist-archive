@@ -5213,6 +5213,24 @@
     },
     {
       "album": {
+        "name": "TRUE MAGIC, DELUXE",
+        "url": "https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257424,
+      "name": "more soul",
+      "url": "https://open.spotify.com/track/6n8cm6hPcYMYOUtdIjDkSC"
+    },
+    {
+      "album": {
         "name": "Lorings",
         "url": "https://open.spotify.com/album/61edjeTzA9eXBLQ1JxyJFI"
       },

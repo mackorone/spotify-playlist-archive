@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Distant Places",
+        "url": "https://open.spotify.com/album/6g9tYRm1M1nBATMtMSu7QA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Pichon",
+          "url": "https://open.spotify.com/artist/1e8hr3rVp1diUWI9mXkHhD"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144858,
+      "name": "Distant Places",
+      "url": "https://open.spotify.com/track/4ht7nj0YiVpK8oP7o7YkcU"
+    },
+    {
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/0Y8HYJSgZUyKFfHKF6GPmY"
       },

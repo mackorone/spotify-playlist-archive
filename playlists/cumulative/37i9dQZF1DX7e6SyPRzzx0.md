@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Ken Carson
 
-159 songs - 6 hr 47 min
+161 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Antisocial \(feat\. Slump6s\)](https://open.spotify.com/track/4KBJ6dFxtup8Ku4uQZcPQ8) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Antisocial](https://open.spotify.com/album/5XOo1c28e4YMxp4uLh70qS) | 2:55 | 2023-12-01 | 2025-05-31 |
 | [As We Speak \(feat\. Drake\)](https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 4:00 | 2024-02-20 | 2024-10-26 |
 | [Aye Rage](https://open.spotify.com/track/6DJFJDAkJ08Xs0NSqSOeUw) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [YourRAGE](https://open.spotify.com/artist/5hom1iOuFnM4ctlY6MzRbk) | [Aye Rage](https://open.spotify.com/album/6PnrtDw6cnjYjggPY9ZzkC) | 1:53 | 2025-02-22 |  |
+| [BA$$](https://open.spotify.com/track/51OiK90giWwDI0RedEYBcg) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [REST IN BASS](https://open.spotify.com/album/67A39lP2d2oyDkRukYYm4F) | 2:33 | 2025-07-18 |  |
 | [BABYRINO](https://open.spotify.com/track/59ROR8sJpSxM16hqXtFUGU) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [BABYRINO](https://open.spotify.com/album/0x4lDg9zVDZth6nlP5Maar) | 2:12 | 2025-07-04 |  |
 | [Bad Man](https://open.spotify.com/track/2IurP1tbU3cozJx5U849zp) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Glokk Files](https://open.spotify.com/album/4AWrZMeLeNpWJoOYTQXRUC) | 2:49 | 2023-12-01 | 2024-04-13 |
 | [BE RIGHT BACK](https://open.spotify.com/track/57cLYltn1gF5Dbp0a6te5p) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Glokk Files](https://open.spotify.com/album/4AWrZMeLeNpWJoOYTQXRUC) | 2:47 | 2023-12-01 | 2024-03-16 |
@@ -54,7 +55,7 @@
 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 | 2025-03-25 |  |
 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 | 2024-03-15 |  |
 | [GEEK TIMË](https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:50 | 2024-10-25 |  |
-| [Get Out My Way!](https://open.spotify.com/track/3PjaLvrmPhg3tdJ9xeXuaO) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Get Out My Way!](https://open.spotify.com/album/5jvnXox1rfma5Z9eyag3Zq) | 2:22 | 2025-07-11 |  |
+| [Get Out My Way!](https://open.spotify.com/track/3PjaLvrmPhg3tdJ9xeXuaO) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Get Out My Way!](https://open.spotify.com/album/5jvnXox1rfma5Z9eyag3Zq) | 2:22 | 2025-07-11 | 2025-07-19 |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2024-03-15 | 2025-03-26 |
 | [givenchy jeans](https://open.spotify.com/track/3xlQipBAHPoTwQ8fXRtKxj) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [givenchy jeans](https://open.spotify.com/album/7vzUXa6KCUly9coSH1X7UV) | 1:22 | 2024-12-06 | 2025-06-07 |
 | [Givenchy Kick\-Flip](https://open.spotify.com/track/0xtwb8CmysbHcqLYVUqWdy) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Music B4 Music](https://open.spotify.com/album/2NDLmnHVgicUmK6oEz0JMH) | 2:11 | 2024-05-14 | 2024-08-21 |
@@ -62,7 +63,7 @@
 | [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 | 2024-10-25 | 2025-05-17 |
 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
 | [Gossip Girl](https://open.spotify.com/track/4dWs7JmYmVSYZsW7gzPVm9) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Gossip Girl](https://open.spotify.com/album/3i1c09GkRUjaZPvhBc7mBS) | 1:20 | 2025-05-30 | 2025-06-14 |
-| [Green Day](https://open.spotify.com/track/3CUo7RAPdgAxDZUMJBb4OY) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Green Day](https://open.spotify.com/album/1eEneWgWu1KV4O3WueIV7a) | 2:03 | 2025-05-16 |  |
+| [Green Day](https://open.spotify.com/track/3CUo7RAPdgAxDZUMJBb4OY) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Green Day](https://open.spotify.com/album/1eEneWgWu1KV4O3WueIV7a) | 2:03 | 2025-05-16 | 2025-07-19 |
 | [Hate Me](https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Hate Me](https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy) | 2:41 | 2024-07-31 |  |
 | [Headrush](https://open.spotify.com/track/6DO3EWwZc2wBBS2wJgl4fs) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Headrush](https://open.spotify.com/album/6K4LqNp0rbZVOYj4KchUcX) | 2:50 | 2024-05-14 | 2025-07-12 |
 | [Heavy stunts \(with Don Toliver\)](https://open.spotify.com/track/6aC3a6uYGxo2uTAmYPUI1d) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 3:25 | 2024-05-05 |  |
@@ -76,6 +77,7 @@
 | [IDK IT DEPENDS](https://open.spotify.com/track/0CgH8C1KQbv67P0birF4MN) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [2012](https://open.spotify.com/album/6ndv4g7482HJZ2pLAbpzrY) | 2:14 | 2024-07-31 |  |
 | [if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:14 | 2023-12-01 |  |
 | [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 | 2023-12-01 | 2024-03-16 |
+| [IM YEAT](https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [IM YEAT](https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae) | 2:48 | 2025-07-18 |  |
 | [inthej](https://open.spotify.com/track/0AJTkZVEpSVmn6Yf5rsx8l) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [WE LOVE D\. SAVAGE](https://open.spotify.com/album/2fJeIpfjtSy0D1ZMpsYZfn) | 1:49 | 2025-02-22 | 2025-05-24 |
 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 | 2023-12-01 | 2024-08-01 |
 | [just score it](https://open.spotify.com/track/2AxMqRbs9U6JBJaS3GL5wx) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [just score it](https://open.spotify.com/album/73cibirs94ZVsObZcEdyny) | 1:47 | 2024-12-06 |  |

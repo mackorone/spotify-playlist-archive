@@ -4,7 +4,7 @@
 
 > Celebrate with these recession pop &amp; hip\-hop party tracks everyone knows and loves!
 
-330 songs - 18 hr 27 min
+331 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 | 2023-12-01 | 2024-03-02 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2022-04-29 | 2022-07-16 |
 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 | 2023-05-12 |  |
+| [boffum](https://open.spotify.com/track/2OZIyvTgufOY7Gr7P854y4) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/46WwTBqiYNeVSD0GsgkUVb) | 2:07 | 2025-07-18 |  |
 | [Bomb Intro / Pass That Dutch](https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [This Is Not a Test!](https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK) | 3:37 | 2024-03-20 |  |
 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-09-08 | 2024-03-21 |
 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 | 2024-02-02 | 2024-03-02 |
@@ -335,7 +336,7 @@
 | [Without You \(feat\. Usher\)](https://open.spotify.com/track/1tAutlhI9FwnKn7fVgmd5P) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:28 | 2023-11-01 | 2024-03-02 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2023-05-12 |  |
 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 | 2023-02-03 | 2024-03-21 |
-| [YIPPEE\-KI\-YAY\. \(feat\. T\-Pain\)](https://open.spotify.com/track/3YmHHuxf2jfGEllrfs1KV7) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [YIPPEE\-KI\-YAY.](https://open.spotify.com/album/5yCGtpqoFL9NqmcLq7y6iw) | 3:32 | 2025-04-23 |  |
+| [YIPPEE\-KI\-YAY\. \(feat\. T\-Pain\)](https://open.spotify.com/track/3YmHHuxf2jfGEllrfs1KV7) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [YIPPEE\-KI\-YAY.](https://open.spotify.com/album/5yCGtpqoFL9NqmcLq7y6iw) | 3:32 | 2025-04-23 | 2025-07-19 |
 | [You Make Me Feel..\. \(feat\. Sabi\)](https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY), [Sabi](https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo) | [Night Shades](https://open.spotify.com/album/5gXDrzBIzmAhiE0dNKwy0i) | 3:35 | 2025-04-23 |  |
 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 | 2023-09-29 |  |
 

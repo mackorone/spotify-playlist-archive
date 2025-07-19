@@ -4,7 +4,7 @@
 
 > Classic Disney songs reimagined by your favorite popular artists.
 
-146 songs - 7 hr 44 min
+147 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Into the Unknown](https://open.spotify.com/track/4qnWpnSp46M3OZCNtA5Hox) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Into the Unknown](https://open.spotify.com/album/05TLl9rIoLNnH3lYl2c19q) | 2:43 | 2025-05-21 |  |
 | [Into the Unknown \- Panic! At The Disco Version](https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:09 | 2025-05-21 |  |
 | [It's A Small World](https://open.spotify.com/track/2V4RIzWfOBWDJmV7ok6gpb) | [We Love Disney Artists](https://open.spotify.com/artist/4umlyQ2OcifCUUuagH5cVw) | [We Love Disney \(Deluxe\)](https://open.spotify.com/album/1F4gXThIF2VepRiWYyowAY) | 3:03 | 2025-05-21 |  |
+| [It's A Small World \(70th Anniversary\) \- From "Disneyland Resort 70th Celebration"](https://open.spotify.com/track/6hVrlsXwBWVp5Lrc8FV4iB) | [The Disneyland Children's Chorus](https://open.spotify.com/artist/4OO3sW1MwAxI5MW3V1Dx4v) | [It's A Small World \(70th Anniversary\) \[From "Disneyland Resort 70th Celebration"\]](https://open.spotify.com/album/6FfisIeGTA7FHuudaKCuOm) | 5:03 | 2025-07-18 |  |
 | [It's Not Easy Being Green \- From "The Muppet Show"](https://open.spotify.com/track/4YiQncVI63DgPUhb0hxnJd) | [Brenna Whitaker](https://open.spotify.com/artist/4VIXJZgRL9hIOmF5CbTIJK) | [We Love Disney \(Deluxe\)](https://open.spotify.com/album/1F4gXThIF2VepRiWYyowAY) | 3:54 | 2025-05-21 |  |
 | [It's Oh So Quiet \- Original Version](https://open.spotify.com/track/417Ic8xVsU3knDmr7cHHhj) | [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE) | [Ice Princess](https://open.spotify.com/album/6NfXy1XXbd5GsU3BVLlB6e) | 3:39 | 2025-05-21 |  |
 | [Kiss the Girl](https://open.spotify.com/track/77ltWp9xNbfhldXx3IEqVx) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Disneymania 5](https://open.spotify.com/album/4QUVJSHDCCMW1hxXvpMxMf) | 3:24 | 2025-05-21 |  |

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-997 songs - 2 day 6 hr 25 min
+998 songs - 2 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,7 +561,7 @@
 | [Make Friends \- Pocket Size Radio Edit](https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Make Friends](https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm) | 4:08 | 2024-03-29 | 2025-01-25 |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2021-12-15 | 2023-01-28 |
 | [Make Me Whole](https://open.spotify.com/track/2hjkKFr4umuhj1Ru3tmcsO) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [For You](https://open.spotify.com/album/5J4McIA9reqqfM5nopbWHC) | 2:55 | 2025-03-29 |  |
-| [Make Money \(feat\. Mereba\)](https://open.spotify.com/track/3boX0zz8RxicdCuPK8TVdb) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Make Money \(feat\. Mereba\)](https://open.spotify.com/album/3u56W9N5UzKF7ZWVfwHLui) | 3:51 | 2024-10-18 |  |
+| [Make Money \(feat\. Mereba\)](https://open.spotify.com/track/3boX0zz8RxicdCuPK8TVdb) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Make Money \(feat\. Mereba\)](https://open.spotify.com/album/3u56W9N5UzKF7ZWVfwHLui) | 3:51 | 2024-10-18 | 2025-07-19 |
 | [makeitliveforever](https://open.spotify.com/track/2xXSBf2g9yFvNwL966JrUO) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/53gOm5R7JN5DAkIuZymFOZ) | 1:50 | 2021-12-15 | 2022-02-12 |
 | [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 | 2024-03-01 | 2024-08-25 |
 | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 | 2022-02-11 | 2023-04-15 |
@@ -901,6 +901,7 @@
 | [Tomorrow](https://open.spotify.com/track/0PFptuWqSctnyhq2VXxxrD) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Tomorrow](https://open.spotify.com/album/6SvW6Kh0xDNgcsrkFxPprt) | 3:16 | 2024-11-22 | 2025-05-17 |
 | [Too Late \(feat\. James Fauntleroy & Elena Pinderhughes\)](https://open.spotify.com/track/3eNf4OuKOBp1pCkuvVRaxT) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [Fine Tune](https://open.spotify.com/album/09UpRR73PXQlWjBnDvKoZZ) | 4:31 | 2023-06-30 | 2023-09-02 |
 | [Too Much to Ask](https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/6XkV7UX68o3meM5Yl3BnMC) | 3:47 | 2021-12-15 | 2022-07-28 |
+| [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 | 2025-07-18 |  |
 | [Trash](https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Trash](https://open.spotify.com/album/06dSrdMvvtas3Y4OvQXXkb) | 3:29 | 2023-04-21 | 2024-07-09 |
 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 | 2021-12-15 | 2023-03-11 |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-08 | 2023-10-21 |

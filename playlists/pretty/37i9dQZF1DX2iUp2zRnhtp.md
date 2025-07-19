@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > vi leker ikke hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,722 likes - 122 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,725 likes - 122 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 | 13 | [Jellyfish](https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Jellyfish](https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi) | 3:06 |
 | 14 | [I veit](https://open.spotify.com/track/2BVufDWowBtrpyN2rIHmzy) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN) | [I veit](https://open.spotify.com/album/14aX895lIZdOR9iq3ZDvMj) | 2:27 |
 | 15 | [Telefon](https://open.spotify.com/track/2EaIpVMVVBRjis49eEE5RI) | [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Telefon](https://open.spotify.com/album/2F2mAmeqLVci16NxcQhcFm) | 2:40 |
-| 16 | [LYSEBLÅ BAGUETTES](https://open.spotify.com/track/2tZNua267z99XuspJdJhdi) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [LYSEBLÅ BAGUETTES](https://open.spotify.com/album/4AUzkGlxLfH5FYbLDJuyob) | 2:55 |
+| 16 | [LYSEBLÅ BAGUETTES](https://open.spotify.com/track/2tZNua267z99XuspJdJhdi) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [LYSEBLÅ BAGUETTES](https://open.spotify.com/album/4AUzkGlxLfH5FYbLDJuyob) | 2:55 |
 | 17 | [Meant2Be](https://open.spotify.com/track/3841zePJnhIsQ3iBuZGgdD) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Meant2Be](https://open.spotify.com/album/5NWtkEhGJFFOPSn4mi8bS5) | 3:26 |
 | 18 | [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 |
 | 19 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 |

@@ -2,7 +2,7 @@
 
 ### [Locker Room ](https://open.spotify.com/playlist/37i9dQZF1DX8SaiEt4OVJw)
 
-> Imagine not being Chelsea 💙
+> Proper Chels.
 
 815 songs - 2 day 2 hr 30 min
 
@@ -382,7 +382,7 @@
 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 | 2023-10-27 | 2025-07-15 |
 | [Jies](https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 2:52 | 2025-07-14 |  |
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2024-02-02 | 2024-02-04 |
-| [Joga Bonito](https://open.spotify.com/track/13bPROSNrEszkMcTtX2SHh) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Joga Bonito](https://open.spotify.com/album/3wUqdGZHeCToWX30bQMphr) | 2:04 | 2025-07-14 |  |
+| [Joga Bonito](https://open.spotify.com/track/13bPROSNrEszkMcTtX2SHh) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Joga Bonito](https://open.spotify.com/album/3wUqdGZHeCToWX30bQMphr) | 2:04 | 2025-07-14 | 2025-07-19 |
 | [JOUEZ](https://open.spotify.com/track/6ChNSx9uwn99kNgMfgmX8g) | [Lydol](https://open.spotify.com/artist/2ceQA8sHk6LFo9LlnoqbL8), [Krys M](https://open.spotify.com/artist/6B6DGmfpucF3zITrGDzbCi), [Kameni](https://open.spotify.com/artist/6kzVncWDmhnNOtlfvgBpfg) | [JOUEZ](https://open.spotify.com/album/3yTNbsAnXH9mbPoqII9sUL) | 3:36 | 2024-01-12 | 2024-02-02 |
 | [Journey](https://open.spotify.com/track/29sTUexyzr70mKJA2CqxNV) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Journey](https://open.spotify.com/album/11jrr5vVsHak6fPeNmyVGB) | 2:14 | 2024-02-02 | 2024-02-04 |
 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 | 2025-04-30 | 2025-06-15 |
@@ -683,7 +683,7 @@
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2024-02-23 | 2024-07-02 |
 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 | 2023-09-07 | 2024-08-01 |
 | [Swipe Regs](https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:40 | 2023-07-11 | 2023-07-29 |
-| [System \(feat\. WizKid\)](https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:01 | 2025-07-14 | 2025-07-18 |
+| [System \(feat\. WizKid\)](https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:01 | 2025-07-14 |  |
 | [Sénégal](https://open.spotify.com/track/0nfzcEx8zmGT9kUAKok6yf) | [Pape Diouf](https://open.spotify.com/artist/54SeJkg1IKFUMgXde8cgaj) | [Ràkkaaju](https://open.spotify.com/album/4FTZdFwrV3O0HK5B6qDnm5) | 6:42 | 2022-11-29 | 2023-07-12 |
 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-08-25 | 2024-06-11 |
 | [Talibans II \- Bonus Track](https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:56 | 2023-08-25 | 2023-09-08 |

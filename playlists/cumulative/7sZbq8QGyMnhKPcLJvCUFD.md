@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-733 songs - 1 day 12 hr 55 min
+734 songs - 1 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Escape](https://open.spotify.com/track/3pr8PMLXqvDWVIB0pAP1Kq) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [Escape](https://open.spotify.com/album/2pWEZNtbgw1OriZClqaNLD) | 2:22 | 2022-04-16 | 2023-04-28 |
 | [Escape \- Juan Dileju & Sam Ourt VIP Mix](https://open.spotify.com/track/1JfPvINntzaONpjJ9sEHPT) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0) | [Escape \(Juan Dileju & Sam Ourt VIP Mix\)](https://open.spotify.com/album/7g07T8MA5I4JYLieH80XkQ) | 2:17 | 2022-12-12 | 2023-08-10 |
 | [Eternity](https://open.spotify.com/track/4mljaiRBQOvFCjcnzxlQ3F) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 3:43 | 2023-06-21 | 2023-08-10 |
+| [Euphoria](https://open.spotify.com/track/6KSZ2KlNXqw94Usne24emg) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [VALLO](https://open.spotify.com/artist/4BIIvS5s6ed82JswZFSAoJ), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [Euphoria](https://open.spotify.com/album/6k2nOUDd0yqt4ZTOj4MJsm) | 3:20 | 2025-07-18 |  |
 | [Everyday](https://open.spotify.com/track/0crDTU208G6G6JRw1GyFRZ) | [Ripple](https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW) | [Everyday](https://open.spotify.com/album/28S3mVZmP3xhem8Wv57TMa) | 2:44 | 2024-04-18 | 2024-11-20 |
 | [Everything](https://open.spotify.com/track/6ouN4BiS8PIHn62uxCqDdH) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Everything](https://open.spotify.com/album/3NFCtwwxPEJ1EJ0Fzgx9XP) | 4:27 | 2023-08-08 | 2024-03-02 |
 | [Everything I Got](https://open.spotify.com/track/2B0W32QOhCV21u5JHJym7y) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Everything I Got](https://open.spotify.com/album/3qPf1ocslpgbPzZ6QoFUWZ) | 2:20 | 2023-12-13 | 2024-05-01 |

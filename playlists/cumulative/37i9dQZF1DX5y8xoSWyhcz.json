@@ -2805,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "break or bend",
+        "url": "https://open.spotify.com/album/4lig4HTeUqylZozgyhS3aQ"
+      },
+      "artists": [
+        {
+          "name": "Cam Kahin",
+          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181718,
+      "name": "break or bend",
+      "url": "https://open.spotify.com/track/6INBv6qjG5veSL8C6lqAgL"
+    },
+    {
+      "album": {
         "name": "Breakfast",
         "url": "https://open.spotify.com/album/5EgfYbZo7zIGxqy3fYfcIc"
       },
@@ -4030,7 +4048,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 208946,
       "name": "Coffee's Ready",
       "url": "https://open.spotify.com/track/30XUPQ3sPmAN9dtLCqoeq5"
@@ -6002,7 +6020,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 203600,
       "name": "Duvet",
       "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
@@ -7562,6 +7580,28 @@
       "duration_ms": 231821,
       "name": "Friends",
       "url": "https://open.spotify.com/track/6Jkwjsiv88sZT3LY3Wfv8z"
+    },
+    {
+      "album": {
+        "name": "Friends Forever",
+        "url": "https://open.spotify.com/album/0aHENRpaOYXCBwOTGNpvyB"
+      },
+      "artists": [
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        },
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170727,
+      "name": "Friends Forever",
+      "url": "https://open.spotify.com/track/5eHgnG2cyhOSXnwWhXHzBH"
     },
     {
       "album": {

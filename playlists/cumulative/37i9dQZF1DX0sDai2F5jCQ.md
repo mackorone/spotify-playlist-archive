@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Clipse
 
-621 songs - 1 day 6 hr 19 min
+622 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Blue Devils \(feat\. DaBaby\) \- Remix](https://open.spotify.com/track/29a9AZPAMPSifXvDnk4h3b) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blue Devils \(Remix\)](https://open.spotify.com/album/3UKANlbbyiPtZ2bwKyda5I) | 2:28 | 2024-08-29 | 2024-12-13 |
 | [BOA](https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BOA](https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop) | 2:34 | 2024-05-10 | 2024-07-19 |
 | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:12 | 2024-05-16 | 2024-09-06 |
+| [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 | 2025-07-17 |  |
 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-09-22 | 2023-10-24 |
 | [Boogieman](https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Boogieman](https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh) | 2:11 | 2024-07-18 | 2024-11-08 |
 | [BOSSIN'](https://open.spotify.com/track/27jnzUW6AKDSFfM2p7eZ6v) | [Yung Milla](https://open.spotify.com/artist/3tmKWcTtmvmyM4Erdv8lV5) | [BOSSIN'](https://open.spotify.com/album/5GDMN7TuSvHvPtwV7X6GwE) | 2:37 | 2024-12-05 | 2025-01-17 |
@@ -550,7 +551,7 @@
 | [Tiffanys](https://open.spotify.com/track/3XGOPGW6OpRBsYarBlcyIb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [ALONE](https://open.spotify.com/album/7CQWEPM5BVSDy3QS4Eb38H) | 3:08 | 2024-04-25 | 2024-05-03 |
 | [Timbo Type Beat](https://open.spotify.com/track/0qz6hQeb69yQajjfcavCOz) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [Timbo Type Beat](https://open.spotify.com/album/4uhxTNi5IxFO5klcK4KXxK) | 2:11 | 2024-07-18 | 2024-09-20 |
 | [Time](https://open.spotify.com/track/1KHB41wdGhshT3UBIn9ZPk) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Time](https://open.spotify.com/album/42uL2bKebx2L3HgHZAKaNY) | 2:52 | 2024-03-07 | 2024-06-28 |
-| [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:18 | 2025-07-10 |  |
+| [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:17 | 2025-07-10 |  |
 | [Timeless \(feat\. Playboi Carti & Doechii\) \- Remix](https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless \(Remix\)](https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv) | 3:48 | 2025-05-08 |  |
 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-10 | 2025-04-04 |
 | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/album/5fjHswZXTtTNkMoIX8XV7X) | 2:49 | 2024-06-21 | 2024-09-14 |

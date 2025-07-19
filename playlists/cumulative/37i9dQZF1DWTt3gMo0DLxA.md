@@ -4,7 +4,7 @@
 
 > Trending songs from Tollywood! <br/>Cover: HIT 3
 
-212 songs - 13 hr 54 min
+213 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Vaaru Veeru](https://open.spotify.com/track/2os5ZEWZ2lwGRh4aBYOAE4) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Anjana Sowmya](https://open.spotify.com/artist/1MRWm9vbsdOdqD1GYQEihD) | [Devadas](https://open.spotify.com/album/0xcDSSJZtVGNIOFch0L99D) | 4:26 | 2021-09-24 | 2023-08-31 |
 | [Veera Dheera](https://open.spotify.com/track/1oyA1gaiHOj7HtDWo35K25) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Kalki 2898 Ad \(Telugu\)](https://open.spotify.com/album/7FVfeI4Xa5CgRYKv82goj7) | 4:05 | 2024-07-16 | 2024-08-10 |
 | [Vellake](https://open.spotify.com/track/2cDyQDAoP0cPQXzaviXu2f) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vellake](https://open.spotify.com/album/5wJ35PHDoH8sL0C74s4fQL) | 3:37 | 2023-08-30 | 2025-01-08 |
+| [Viral Vayyari \( From "Junior"\)](https://open.spotify.com/track/6cd9eJFXIl72tDwLguJxSp) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h), [Kalyan Chakravarthy](https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO) | [Viral Vayyari \( From "Junior"\)](https://open.spotify.com/album/7CklTvDTIaM5UBWBM986GU) | 4:24 | 2025-07-18 |  |
 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 | 2021-09-24 | 2023-08-31 |
 | [Wi Wi Wi Wi Wifi](https://open.spotify.com/track/4UmwA3J8jkGaTgVG6GP6LZ) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Christopher Stanley](https://open.spotify.com/artist/21U7OdOREja3hRaxem7U4X), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [S3 Yamudu 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6aB0DvgVAQ1w5QijK04ceY) | 4:50 | 2021-09-24 | 2022-05-08 |
 | [Yaalo Yaalaa](https://open.spotify.com/track/5BUtT8DGziwD6l9tA7FjJu) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 3:02 | 2023-12-11 | 2024-05-20 |

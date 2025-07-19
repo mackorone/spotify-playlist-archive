@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Adam Klobi
 
-515 songs - 1 day 5 hr 9 min
+518 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,12 +139,14 @@
 | [Easy, Love](https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Oncoming Clouds](https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux) | 3:27 | 2021-11-12 | 2022-07-24 |
 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-17 | 2023-08-21 |
 | [Eat Your Young](https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:03 | 2023-08-18 | 2024-03-30 |
+| [Either](https://open.spotify.com/track/2eXRgdwREO1B8jt5k2n2cW) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Either](https://open.spotify.com/album/7m0ZMDJ3lqepjUQJ2KpwsQ) | 3:10 | 2025-07-18 |  |
 | [Eloise](https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Finch](https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo) | 2:48 | 2021-11-12 | 2024-03-30 |
 | [Embers](https://open.spotify.com/track/5narWdetexXv1ucBDuZJfO) | [The Brevet](https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM) | [E M B E R S: Ch\. 2](https://open.spotify.com/album/0HzOvrhMs78v5rqBqhXLCD) | 3:10 | 2021-11-12 | 2022-07-21 |
 | [Enjoy the view](https://open.spotify.com/track/6WDHGgsxiB2YQIib7kcmRf) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Enjoy the view](https://open.spotify.com/album/1MYDttHKjrYFTc8G9DYeYy) | 2:32 | 2024-07-12 | 2024-10-19 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-01-27 | 2025-01-11 |
 | [Everything We Need](https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Everything We Need](https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M) | 3:33 | 2023-08-01 | 2025-01-18 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-25 | 2025-03-01 |
+| [Fair To You](https://open.spotify.com/track/21ZKNvnpr0ahYMFsTffZCm) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Fair To You](https://open.spotify.com/album/6nXMgFLI7FcMiDR9OHnLaQ) | 3:38 | 2025-07-18 |  |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-11-12 | 2023-09-30 |
 | [Fallen Angel](https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Ghost of Our Past](https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT) | 2:44 | 2024-07-12 |  |
 | [Falling Faster](https://open.spotify.com/track/08mpiFeuRWQeJsswcdSTDl) | [Dylan Espeseth](https://open.spotify.com/artist/7wS3LzIpvpoPcpZKFpFAv0) | [Falling Faster](https://open.spotify.com/album/55Kd1nwppQaWjuKmphoeih) | 1:32 | 2024-05-17 |  |
@@ -402,7 +404,7 @@
 | [Solo](https://open.spotify.com/track/0zcCGdrTZqUVfWOOgPYLLB) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 3:19 | 2024-03-29 | 2024-08-24 |
 | [Some Kind Of Love](https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Some Kind Of Love](https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT) | 3:48 | 2022-03-12 | 2022-12-28 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-12 | 2023-09-16 |
-| [Something Sweet](https://open.spotify.com/track/2PEGdMDXT6J033J8nURr6j) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Something Sweet](https://open.spotify.com/album/5wsWBTOvnLAw4UHTZffoi8) | 3:37 | 2025-05-02 |  |
+| [Something Sweet](https://open.spotify.com/track/2PEGdMDXT6J033J8nURr6j) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Something Sweet](https://open.spotify.com/album/5wsWBTOvnLAw4UHTZffoi8) | 3:37 | 2025-05-02 | 2025-07-19 |
 | [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2023-11-22 | 2024-03-30 |
 | [Something's Gonna Go Our Way](https://open.spotify.com/track/42h5v4NgHTnrhDyiZPRt3G) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Something's Gonna Go Our Way](https://open.spotify.com/album/7AWXKA4YeEJAVvqK4XO5Hw) | 3:03 | 2024-03-22 | 2024-03-30 |
 | [Sometimes](https://open.spotify.com/track/4DiGpFIA8ja7wyAap7kCxX) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Sometimes](https://open.spotify.com/album/4DwT6hfMRqWEghV4HHK7UI) | 3:12 | 2024-04-05 |  |
@@ -458,6 +460,7 @@
 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:51 | 2023-03-10 | 2023-09-28 |
 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:51 | 2023-09-22 | 2024-03-30 |
 | [Time](https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 3:37 | 2021-11-12 | 2023-08-26 |
+| [Time After Time](https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Time After Time](https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x) | 3:39 | 2025-07-18 |  |
 | [Time Stand Still](https://open.spotify.com/track/6DblObtQQRnyqx9z6KVGFy) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life \(In Progress…\)](https://open.spotify.com/album/58dF8ETOhaFmNwngKEX1e7) | 4:39 | 2021-11-12 | 2022-07-29 |
 | [time zones](https://open.spotify.com/track/4PwAIYkeLM1dxVpSpw9mno) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [retrograde rodeo](https://open.spotify.com/album/5662DUUWrUnbd5rMa11ker) | 3:59 | 2025-03-14 |  |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-29 |  |

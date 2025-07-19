@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-613 songs - 2 day 3 hr 4 min
+614 songs - 2 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Echoes](https://open.spotify.com/track/5iQf9pkvWsCr04zimLkusr) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Echoes](https://open.spotify.com/album/1nm30Bq5LbhXGUiTDoGSj8) | 3:49 | 2025-04-11 |  |
 | [Echoes](https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Echoes](https://open.spotify.com/album/0xr2nntVBXisNTLyan5wZt) | 6:03 | 2022-02-21 | 2023-09-12 |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-05-26 |  |
-| [Electric Birds](https://open.spotify.com/track/0B8eWg1gdVO3ctAK392FYz) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [For Real](https://open.spotify.com/album/706xtFNjk7TMRnHGzNrOHR) | 5:16 | 2025-03-21 |  |
+| [Electric Birds](https://open.spotify.com/track/0B8eWg1gdVO3ctAK392FYz) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [For Real](https://open.spotify.com/album/706xtFNjk7TMRnHGzNrOHR) | 5:16 | 2025-03-21 | 2025-07-19 |
 | [Eleuthera \(Catching Flies Remix\)](https://open.spotify.com/track/5EM9H0b9vbwPAkl7CWlEmS) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oasis Sky \(Remixes\)](https://open.spotify.com/album/0SPKzHlhMuoAeQoRwJWCgb) | 4:23 | 2022-02-21 | 2025-01-18 |
 | [Embrace \- Black Coffee + Aquatone Remix](https://open.spotify.com/track/26wBcR6Damyd7l4xGI6DNg) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Embrace \(Black Coffee + Aquatone Remix\)](https://open.spotify.com/album/3vFWCPubU6GiPuJm2wJXHv) | 6:56 | 2022-01-14 | 2022-11-17 |
 | [Embre](https://open.spotify.com/track/770lpPPoDrrdb67bTKSnGe) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Moho EP](https://open.spotify.com/album/32qvWoJh8qTJ8hrD6snjwx) | 8:56 | 2023-11-17 | 2024-04-13 |
@@ -559,6 +559,7 @@
 | [These Things Take Time \- AK Remix](https://open.spotify.com/track/1oir1oGiRYsPRYuMmw5Wap) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [These Things Take Time \(AK Remix\)](https://open.spotify.com/album/2uNQfjGaUKDqpgmeeHzO4N) | 3:01 | 2023-11-10 |  |
 | [These Things Will Come To Be](https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:56 | 2021-12-08 |  |
 | [This Life](https://open.spotify.com/track/444vT3ohxrihxUqD8hEyLl) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Mawimbi](https://open.spotify.com/album/4yX07wB5aU4jIe90XCm7KE) | 2:55 | 2025-05-23 |  |
+| [Tiyami](https://open.spotify.com/track/12tfRcDDjbZs8xrXrVpdjF) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [Laska](https://open.spotify.com/artist/4nxZFyKthDfXuL8o7K2TsW) | [Tiyami](https://open.spotify.com/album/5Mlu5D0ryziQnvnWLthf4d) | 6:01 | 2025-07-18 |  |
 | [To Feel Happy](https://open.spotify.com/track/2ykGnGyPhwMw8ALjrAGvI9) | [Ronnie Pacitti](https://open.spotify.com/artist/2iBVVqkMHQEUvUkSr7HHoh) | [To Feel Happy](https://open.spotify.com/album/1dfi8YaoRYgsIqGJpvX1Ma) | 3:11 | 2022-02-21 | 2022-03-09 |
 | [Trace](https://open.spotify.com/track/6GiNEkzxsD0IQARCc6eHjE) | [Tommy Tickle](https://open.spotify.com/artist/6fdPipPgwuSQrqDkAFpqu9) | [Trace](https://open.spotify.com/album/5eyT1hs1NEOkcSk6uyBDxT) | 3:31 | 2021-12-08 | 2022-07-29 |
 | [Tranquility](https://open.spotify.com/track/1FTbeseqg1XrgTnPjhChjn) | [Tommy Vercetti](https://open.spotify.com/artist/2noNB4p7pYhP4XfNcdDfJc) | [Tranquility EP](https://open.spotify.com/album/3sb10HqXfC7j3JXdp1j9Up) | 5:56 | 2021-12-08 | 2022-07-29 |

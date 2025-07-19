@@ -2,9 +2,9 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  عمرو دياب
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  رامي صبري
 
-380 songs - 22 hr 12 min
+382 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,12 +258,13 @@
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-04-13 | 2023-01-03 |
 | [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/track/2uq6KhwXlCogpNTmN1cq7x) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/album/0thPfaJUCA1Pe3UPNo7wOl) | 5:42 | 2024-05-07 | 2024-09-10 |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-04-13 | 2024-02-03 |
-| [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 | 2025-04-10 |  |
+| [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 | 2025-04-10 | 2025-07-19 |
 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 | 2023-06-26 | 2024-02-17 |
 | [الدهب](https://open.spotify.com/track/6Xw3zZd7uXObNVeDox4ZpT) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الدهب](https://open.spotify.com/album/6LCL6l60ELVYSucbUDwL0P) | 3:09 | 2024-02-16 | 2024-04-19 |
 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Seif](https://open.spotify.com/artist/5pEMAuF7RVXLCCiIkqVC0q) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-09-26 | 2023-01-17 |
 | [السهر و الإنبساط](https://open.spotify.com/track/1GQxXFBrOx8KYIFcpBlZPe) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [السهر و الإنبساط](https://open.spotify.com/album/4mKwxA8nkxUg5VThfazP4g) | 2:16 | 2023-01-03 | 2023-02-24 |
 | [العدل فوق الجميع](https://open.spotify.com/track/72MAyfGDYRcbDYV7MCXbHM) | [Badrya Elsayed](https://open.spotify.com/artist/1V31n208uyKy8sKkGkMDUw) | [العدل فوق الجميع](https://open.spotify.com/album/7yWzFC4m4zb9qFER5ARKDr) | 2:32 | 2023-09-05 | 2023-12-09 |
+| [العوض على الله](https://open.spotify.com/track/3yeRnlbwNCyMEhnsqR6RxZ) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 4:09 | 2025-07-18 |  |
 | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/1x77KcxyDUitE4trltji2r) | [Eslam Shendy](https://open.spotify.com/artist/2dYNk7MJlaOMlM9oXbrlfn) | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/6Cvk4ibByAaFlzNtAbNjZv) | 3:09 | 2024-07-08 | 2025-04-15 |
 | [اللي جاي بتاعنا](https://open.spotify.com/track/1BNhn1lZF39HCgaO1afuE4) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [اللي جاي بتاعنا](https://open.spotify.com/album/5Qcj7F2YKWE8hWEm8ryAPR) | 2:40 | 2024-01-20 | 2024-03-19 |
 | [انا من غيرك](https://open.spotify.com/track/2nQeY3iJpE57Rnc7r8z2Qx) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [انا من غيرك](https://open.spotify.com/album/6r21z8FXZjYr4Lz1s86u2o) | 3:31 | 2024-11-22 |  |
@@ -287,6 +288,7 @@
 | [بيكلموني](https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 5:16 | 2024-04-30 |  |
 | [توأمي](https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [توأمي](https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu) | 3:34 | 2025-05-13 |  |
 | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/2GbSrRs5VUoKTbnEiqoa4v) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/2om5xx9EYHCw8NPFIP9tnD) | 3:55 | 2024-06-21 | 2024-09-10 |
+| [تيجي نتصور](https://open.spotify.com/track/1nyylMku4Hlheim1suER3t) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 2:46 | 2025-07-18 |  |
 | [تيجي نسيب](https://open.spotify.com/track/0hZaYE3a53y2VbZq85MceM) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 3:45 | 2024-09-09 |  |
 | [جامدين جامدين](https://open.spotify.com/track/6p8MwOiWSDv6bhgfSjCppL) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [جامدين جامدين](https://open.spotify.com/album/2zR5PYwezfeSwhaSs7dUBp) | 2:36 | 2024-07-08 | 2025-01-22 |
 | [جاية جاية](https://open.spotify.com/track/4pphE4xWp08tPAkBW8p1ni) | [Pepsi Egypt](https://open.spotify.com/artist/7rvQhlTMhXIqxMTFAaxhKN), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جاية جاية](https://open.spotify.com/album/6Eqy1TyVZVghna1QLvh30K) | 1:25 | 2023-05-29 | 2023-06-16 |
@@ -341,7 +343,7 @@
 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 | 2024-07-01 |  |
 | [لسه شوفتوا حاجه](https://open.spotify.com/track/0V6UZDdkqatuBp96nyyUew) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [لسه شوفتوا حاجه](https://open.spotify.com/album/03XpqW1KW0zGsVovuosHNk) | 3:35 | 2024-01-16 | 2024-06-22 |
 | [لفينا الدنيا](https://open.spotify.com/track/4Vm5J277k6HH6CNZEZXAE9) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لفينا الدنيا](https://open.spotify.com/album/6hBfYe9PE9Wp1CAs9C2nRq) | 3:20 | 2023-07-04 | 2025-02-13 |
-| [لما بيوحشني](https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 4:32 | 2024-12-11 |  |
+| [لما بيوحشني](https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 4:32 | 2024-12-11 | 2025-07-19 |
 | [لما تضلم](https://open.spotify.com/track/0g2cQuLfbu8D5iaWQg9Txj) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [لما تضلم](https://open.spotify.com/album/59Eme8mflDl9BF7dIJ7MGx) | 2:46 | 2024-04-02 | 2024-06-14 |
 | [لمستك](https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:53 | 2023-02-23 | 2023-03-10 |
 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 | 2023-07-26 | 2024-09-10 |

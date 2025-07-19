@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,475 likes - 115 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,568 likes - 115 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 59 | [The End of a Gun](https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5) | [GHOSTWOMAN](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Anne, If](https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX) | 3:11 |
 | 60 | [Smoke Machine](https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Autoflower](https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ) | 3:04 |
 | 61 | [Fazon](https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0) | [Sopwith Camel](https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf) | [The Miraculous Hump Returns From The Moon](https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ) | 5:14 |
-| 62 | [RISE](https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [RISE](https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ) | 5:03 |
-| 63 | [The Gold \- Nick Waterhouse Remix](https://open.spotify.com/track/5qVVPptGHVCPMci6NCbLCq) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [The Gold \(Nick Waterhouse Remix\)](https://open.spotify.com/album/0QgLeJOCYZN6V9kUTlgNHu) | 4:09 |
+| 62 | [The Gold \- Nick Waterhouse Remix](https://open.spotify.com/track/5qVVPptGHVCPMci6NCbLCq) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [The Gold \(Nick Waterhouse Remix\)](https://open.spotify.com/album/0QgLeJOCYZN6V9kUTlgNHu) | 4:09 |
+| 63 | [RISE](https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [RISE](https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ) | 5:03 |
 | 64 | [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 |
 | 65 | [Talk About It](https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Talk About It \(B\-Side\)](https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr) | 2:12 |
 | 66 | [Next to Normal](https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:10 |

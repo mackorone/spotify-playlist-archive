@@ -2,9 +2,9 @@
 
 ### [Marvel Music](https://open.spotify.com/playlist/37i9dQZF1DX5pOp62IUR81)
 
-> Go inside the music from the Marvel worlds that you love!
+> Go inside the Marvel worlds that you love, with music from films including The Fantastic Four: First Steps, in theaters soon.
 
-218 songs - 9 hr 21 min
+220 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Everybody's Groot](https://open.spotify.com/track/0DYuk9yQ2lkLxBVif6UR0q) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF) | [I Am Groot: Season 2](https://open.spotify.com/album/6yWMCUS4EmYTDDQNFcgmL8) | 2:32 | 2024-01-05 |  |
 | [Explorer](https://open.spotify.com/track/3Eun97bPFxQvti5Z1JNSO9) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [What If...T'Challa Became a Star\-Lord? \(Original Soundtrack\)](https://open.spotify.com/album/2MYSnenXp8RIchyqzjf87d) | 1:39 | 2024-01-05 |  |
 | [Fa La La](https://open.spotify.com/track/6IXiFdmK9vZ7mmffeNpjsy) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If..\. Happy Hogan Saved Christmas? \(Season 2/Episode 3\) \[Original Soundtrack\]](https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293) | 1:11 | 2024-05-22 | 2025-01-31 |
+| [Fate of Both Worlds \- From "MARVEL Rivals: Galactic Tunes"/Summer Remix](https://open.spotify.com/track/2VvK0FkSq5o8MbdK1OMSN8) | [Luna Snow](https://open.spotify.com/artist/2GP1Zfa8XEcPmeXvoTVc4M), [AL Ho](https://open.spotify.com/artist/0KnLrkMoSkPyPJXwA8EV2t) | [Fate of Both Worlds \(From "MARVEL Rivals: Galactic Tunes"/Summer Remix\)](https://open.spotify.com/album/0e7ogJZPnhlxocijWl4ZYh) | 3:53 | 2025-07-18 |  |
 | [Figure Out Your Life](https://open.spotify.com/track/6FLIReCyVOkDpzdhhtXzOI) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Ms\. Marvel: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/7dcPn4IdB0lC5Wd54kA8l5) | 1:24 | 2024-01-05 |  |
 | [First Flight](https://open.spotify.com/track/6tDfqbmotxjk4cmR1S8mWV) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Thunderbolts\* \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5JTAY7hOUdzJx2GslB4nwc) | 1:25 | 2025-05-01 |  |
 | [First Heist](https://open.spotify.com/track/5VcSb2clCxuBUW5yMlgebD) | [Dara Taylor](https://open.spotify.com/artist/6DXeA5nK5RwxNAs8a3nHLG) | [Marvel's Ironheart Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/2vb4MoZBXdLqV28FGKJIQT) | 2:28 | 2025-06-27 |  |
@@ -181,6 +182,7 @@
 | [The Bamboo Spring](https://open.spotify.com/track/3i4VFsgDWhd1L52DlNS4qE) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 3:18 | 2024-01-05 |  |
 | [The Convergence \(Main Theme\)](https://open.spotify.com/track/06oxloNrchPg8GOovW6k1V) | [Moonju Lee](https://open.spotify.com/artist/0vepBUJFXH3lLEUO8bdbbS), [Netmarble Monster Sound Team](https://open.spotify.com/artist/4FltW3DdTf4VjREPFrpmBq) | [MARVEL Future Revolution: The Convergence Soundtrack \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7xdi478x5z8DrcRcC7WG1w) | 1:43 | 2024-01-05 |  |
 | [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps Main Theme \(From "The Fantastic Four: First Steps"\)](https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj) | 3:22 | 2025-06-06 |  |
+| [The Fantastic Four: First Steps Main Theme Extended Version](https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB) | 4:10 | 2025-07-18 |  |
 | [The Final Battle Begins](https://open.spotify.com/track/3dmbpL8b6XIi3B0iM7G3Bw) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy \(Original Score\)](https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM) | 4:21 | 2024-01-05 |  |
 | [The Hero of the Multiverse](https://open.spotify.com/track/0CnD6Y8D8rOIM5rstdwDGG) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If...? \- An Immersive Story \(Original Soundtrack\)](https://open.spotify.com/album/54SlomuJZjSdzwHL9mXjM8) | 1:23 | 2024-08-16 |  |
 | [The Jabari](https://open.spotify.com/track/6i0hIiIRiHU2CouXvYCq8Z) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 1:08 | 2024-01-05 |  |

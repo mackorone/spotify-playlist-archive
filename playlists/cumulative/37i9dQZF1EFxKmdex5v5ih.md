@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-521 songs - 1 day 4 hr 41 min
+522 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [In The Stars \- French Version](https://open.spotify.com/track/0GucRM0BPRGxuzYPN3tF6T) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET), [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [In The Stars \(French Version\)](https://open.spotify.com/album/2VmbPgtq2R4rqZbZQjWD3u) | 2:56 | 2024-03-12 |  |
 | [Inside Out \(feat\. Griff\)](https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Inside Out \(feat\. Griff\)](https://open.spotify.com/album/4eAf9fHtOj0mVTSV3cB2km) | 3:06 | 2021-12-27 |  |
 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 | 2021-12-27 |  |
+| [Interlude 1](https://open.spotify.com/track/1PGdPa85RzJyi6Bz9maRW9) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 1:14 | 2025-07-18 |  |
 | [Interlude 2](https://open.spotify.com/track/7qI8JlsqM2UuAWJu1Ps5GV) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 1:30 | 2025-06-19 |  |
 | [Invisible Things](https://open.spotify.com/track/1ShHhJlzaLuoZbJ3aP4z0m) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:17 | 2021-12-27 | 2022-11-18 |
 | [Invisible Things](https://open.spotify.com/track/24n8p4vCkwNL9OhvTrwe9z) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:17 | 2022-11-17 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 68621,
+  "num_followers": 68631,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -559,30 +559,6 @@
     {
       "added_at": "2025-07-01 11:03:35",
       "album": {
-        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
-        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Chantal Juillet",
-          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
-        },
-        {
-          "name": "Pascal Rog\u00e9",
-          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
-      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
-    },
-    {
-      "added_at": "2025-07-01 11:03:35",
-      "album": {
         "name": "Ravel Voyageur",
         "url": "https://open.spotify.com/album/4irqRK8eAtenUdWwwCr6aR"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 867640,
       "name": "Violin Sonata No. 1, M. 12",
       "url": "https://open.spotify.com/track/3lZFQIggcH1NQN5nX4BXPX"
+    },
+    {
+      "added_at": "2025-07-01 11:03:35",
+      "album": {
+        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
+        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Chantal Juillet",
+          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
+        },
+        {
+          "name": "Pascal Rog\u00e9",
+          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
+      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
     },
     {
       "added_at": "2025-07-01 11:03:35",
@@ -667,26 +667,6 @@
     {
       "added_at": "2025-07-01 11:03:35",
       "album": {
-        "name": "Miroirs - Ravel Piano Works",
-        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexander Krichel",
-          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Miroirs, M. 43: I. Noctuelles",
-      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
-    },
-    {
-      "added_at": "2025-07-01 11:03:35",
-      "album": {
         "name": "Ravel: Fragments",
         "url": "https://open.spotify.com/album/2dEZ88vUwYQVA8cv3UMeQk"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 77600,
       "name": "Ravel: Chanson de la mari\u00e9e",
       "url": "https://open.spotify.com/track/6tdE3qCLXbRBiqRGiYwXLU"
+    },
+    {
+      "added_at": "2025-07-01 11:03:35",
+      "album": {
+        "name": "Miroirs - Ravel Piano Works",
+        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexander Krichel",
+          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Miroirs, M. 43: I. Noctuelles",
+      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
     },
     {
       "added_at": "2025-07-01 11:03:35",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2025-07-01 11:03:35",
       "album": {
-        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
-        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
+        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
+        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
       },
       "artists": [
         {
@@ -1168,13 +1168,17 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Quatuor \u00c9b\u00e8ne",
-          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
         }
       ],
-      "duration_ms": 530026,
-      "name": "Ravel: String Quartet, M. 35: I. Allegro moderato - Tr\u00e8s doux",
-      "url": "https://open.spotify.com/track/4bFVSHcI8wpIY4qBskfMcx"
+      "duration_ms": 208173,
+      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: III. Laideronnette, imp\u00e9ratrice des pagodes",
+      "url": "https://open.spotify.com/track/5I11A5koQ25fBYqZD0XZ5T"
     },
     {
       "added_at": "2025-07-01 11:03:35",
@@ -1199,8 +1203,8 @@
     {
       "added_at": "2025-07-01 11:03:35",
       "album": {
-        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
-        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
+        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
+        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
       },
       "artists": [
         {
@@ -1208,17 +1212,13 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
         }
       ],
-      "duration_ms": 208173,
-      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: III. Laideronnette, imp\u00e9ratrice des pagodes",
-      "url": "https://open.spotify.com/track/5I11A5koQ25fBYqZD0XZ5T"
+      "duration_ms": 530026,
+      "name": "Ravel: String Quartet, M. 35: I. Allegro moderato - Tr\u00e8s doux",
+      "url": "https://open.spotify.com/track/4bFVSHcI8wpIY4qBskfMcx"
     },
     {
       "added_at": "2025-07-01 11:03:35",

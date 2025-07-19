@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PzNMpCPMDMo1pOUjNhDUC.md) - [plain]
 
 > The perfect playlist for a great party\. Fun, happy, joyful..\. the kids will love it!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,407 likes - 44 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,374 likes - 44 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/6PzNMpCPMDMo1pOUjNhDUC.md) - [plain]
 | 37 | [Super Mario Bros\. \(Theme\)](https://open.spotify.com/track/1oLFqOLGARvpOoKANj1wDa) | [Cover Guru](https://open.spotify.com/artist/5ViORA1xMSmL77eTxmzZPZ) | [Super Mario Bros\. \(Theme\)](https://open.spotify.com/album/5ahY8otaemYLLt8lvh3JUq) | 1:25 |
 | 38 | [Mamma Mia \- Radio Version](https://open.spotify.com/track/24GYmF6atbc1mOmyN5RA0R) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [The ABBA Generation](https://open.spotify.com/album/2SqZJw91GsVBRYr8pXHBNN) | 3:45 |
 | 39 | [Scooby\-doo, Where Are You?](https://open.spotify.com/track/32k9RK51iwSvJ3wjwKmDJo) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [As Seen On TV Cartoon Theme Songs](https://open.spotify.com/album/2N5Rl6gUX8JvlTWYIwpzmc) | 0:59 |
-| 40 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 |
+| 40 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/32XFczkeHJUL22Kx0ll3nk) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 |
 | 41 | [Batman](https://open.spotify.com/track/4iDYfTn2HLNT98JkQsSEb6) | [Royal Philharmonic Concert Orchestra](https://open.spotify.com/artist/0KF6aZe84u9WE8JaLdvLLY) | [100 Greatest TV Themes](https://open.spotify.com/album/7D31xIneotn8D1JGWB0bKB) | 1:46 |
 | 42 | [Hot Chocolate](https://open.spotify.com/track/0xG51SjOyHb0JOVcfiOEQw) | [Tom Hanks](https://open.spotify.com/artist/3OCGqx0Y3UyrBnyzjIokIr) | [The Polar Express \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk) | 2:31 |
 | 43 | [Happy Birthday, Princess!](https://open.spotify.com/track/2pM4FD9d1EkmGc553o6tua) | [Ariel](https://open.spotify.com/artist/1RJ9qwSsCfnOcTXBSqotNk) | [Disney Princess Party](https://open.spotify.com/album/4HmPzlvQLtd6rsiXh3jHSg) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 4680,
+  "num_followers": 4682,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -799,70 +799,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Quiet Storm: A Night Record",
-        "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Swings",
-          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "Stars (feat. Verbal Jint & Swings)",
-      "url": "https://open.spotify.com/track/06zn2az5EBXfRSmWJMQ4iZ"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Massmediah",
-        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 260062,
-      "name": "compass",
-      "url": "https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Handalas",
-        "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
-      },
-      "artists": [
-        {
-          "name": "Leo Kekoa",
-          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
-        },
-        {
-          "name": "MC Meta",
-          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 216821,
-      "name": "Handalas",
-      "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "More Than Music",
         "url": "https://open.spotify.com/album/0LmooMzTUYiGpGAdesf5Vq"
       },
@@ -911,6 +847,70 @@
       "duration_ms": 333946,
       "name": "Hip Hop For Respect (feat. Verbal Jint, Gaknakunae, TBNY, BILL STAX, Simon Dominic, Garion, Dok2, Sean2Slow, MC Sungchun)",
       "url": "https://open.spotify.com/track/4arB8dvHCT1jlEPfYrAU2N"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Massmediah",
+        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
+      },
+      "artists": [
+        {
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+        }
+      ],
+      "duration_ms": 260062,
+      "name": "compass",
+      "url": "https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Handalas",
+        "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
+      },
+      "artists": [
+        {
+          "name": "Leo Kekoa",
+          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
+        },
+        {
+          "name": "MC Meta",
+          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 216821,
+      "name": "Handalas",
+      "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Quiet Storm: A Night Record",
+        "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "Stars (feat. Verbal Jint & Swings)",
+      "url": "https://open.spotify.com/track/06zn2az5EBXfRSmWJMQ4iZ"
     },
     {
       "added_at": "2024-11-20 08:34:55",

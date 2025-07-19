@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Brent Faiyaz
 
-715 songs - 1 day 11 hr 50 min
+716 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-04 | 2025-05-17 |
 | [I Don't Mind](https://open.spotify.com/track/3jL2NEybvvgwpepnbF1bAN) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lil Pump 2](https://open.spotify.com/album/1ly2H0S0Ru5gJ2yvZZ18Uv) | 2:51 | 2023-03-17 | 2023-04-01 |
 | [I Like ft\. Lil Durk \- Remix](https://open.spotify.com/track/607kN00EPahVTsTCzuAGHJ) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [TwoFr 2 \(Extended\)](https://open.spotify.com/album/29OibCCL3P8GQDAAcEwbcO) | 3:17 | 2021-07-16 | 2022-02-19 |
+| [I Love This Bitch](https://open.spotify.com/track/7tfzblrqYDfOGLLlFryGTd) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I Love This Bitch](https://open.spotify.com/album/0A4bZoMJuwYBqgHwBnvCZZ) | 2:27 | 2025-07-18 |  |
 | [I Luv Dat](https://open.spotify.com/track/4pOHXEWncM34G4t57veFtl) | [3xbravo](https://open.spotify.com/artist/0lPZJTNurUF05u2JHm48cH) | [Mixed Emotions](https://open.spotify.com/album/60D4MdGC0mm4MG1TVLiS32) | 2:33 | 2021-06-04 | 2022-01-15 |
 | [I LUV HER \(wth T\-Pain\)](https://open.spotify.com/track/1GpDcABDptCpIOALmD2S5f) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [I LUV HER \(wth T\-Pain\)](https://open.spotify.com/album/62JqX6BIBj6uqUTFVWjTQP) | 2:56 | 2024-11-22 |  |
 | [I Might \(feat\. Summer Walker\)](https://open.spotify.com/track/7jOH0c8zwNLteXLsCW8gvT) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:55 | 2023-12-01 | 2024-01-20 |
@@ -620,7 +621,7 @@
 | [Too Much](https://open.spotify.com/track/2sZmxXCO6mZCPTHd6DRcBH) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 3:47 | 2021-10-07\* | 2021-12-04 |
 | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw) | 3:00 | 2023-06-16 | 2023-07-08 |
 | [Touch You](https://open.spotify.com/track/6ISm3GwztEFGsDKuF2X8fl) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Touch You](https://open.spotify.com/album/4Mk7V7BkcDEobk4xs7HTft) | 2:38 | 2021-10-07\* | 2021-10-23 |
-| [TOXIC](https://open.spotify.com/track/1QFWH5PC7GadXlqR9xuJFp) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [TOXIC](https://open.spotify.com/album/1RlGoHO2qylUYmwe9C6N2d) | 2:46 | 2025-06-27 |  |
+| [TOXIC](https://open.spotify.com/track/1QFWH5PC7GadXlqR9xuJFp) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [TOXIC](https://open.spotify.com/album/1RlGoHO2qylUYmwe9C6N2d) | 2:46 | 2025-06-27 | 2025-07-19 |
 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 | 2022-08-12 | 2023-04-09 |
 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 | 2023-04-28 | 2023-05-06 |
 | [Toxic Traits \(with KB Mike\)](https://open.spotify.com/track/3ip51s5ui2OEur1fzCKsaJ) | [Lul Bob](https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj), [KB Mike](https://open.spotify.com/artist/6dGMlf9UbIdCyLvUiAS4yY) | [Toxic Traits \(with KB Mike\)](https://open.spotify.com/album/4sYNQCQPR4fgNLHtl2hBhp) | 2:39 | 2022-07-08 | 2022-09-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,203 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,207 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 23 | [Carolina](https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amame](https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx) | 4:49 |
 | 24 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
 | 25 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 |
-| 26 | [Celoso](https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Explosivo](https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ) | 4:03 |
-| 27 | [Gotas De Pena](https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:32 |
+| 26 | [Gotas De Pena](https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:32 |
+| 27 | [Celoso](https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Explosivo](https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ) | 4:03 |
 | 28 | [Hipocresía](https://open.spotify.com/track/0k8nK5uk57o3gYEjy8KDEv) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 5:15 |
 | 29 | [Nadie Se Muere](https://open.spotify.com/track/4U8hIlxenPSa9Z2yL1ng7t) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [20 Exitos](https://open.spotify.com/album/1alYgeDVoeCIvmA7OtI8FA) | 3:51 |
 | 30 | [Jenny](https://open.spotify.com/track/5uLGkinVFCTlB4BaqUveE2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Y Más](https://open.spotify.com/album/2i8ck7yEbr1MCqzKeJckke) | 4:08 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 67 | [Melina](https://open.spotify.com/track/6GHOBqeLlPkYabtn1ltqqC) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Edición Limitada](https://open.spotify.com/album/21TzuVhh3Nm12AFIqnZjF0) | 4:26 |
 | 68 | [Burbujas de Amor](https://open.spotify.com/track/2pag7Y4noCdbVHEfKDKzzq) | [Merengue Exitos](https://open.spotify.com/artist/5fb57nU7czfRxNAzrwIsts) | [Merengue Exitos](https://open.spotify.com/album/014lrTIQrjrGVQOTPrYKY7) | 4:55 |
 | 69 | [Las Locas](https://open.spotify.com/track/0weR0n8ubbO0hJuyN8pYsP) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:59 |
-| 70 | [Como Duele \- En Vivo](https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [En Vivo](https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56) | 4:33 |
+| 70 | [La Nave Del Olvido](https://open.spotify.com/track/7KCj9ZAENKI71pJvF2bfnU) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [100% Merengue '99](https://open.spotify.com/album/5oytlALvjjbQFuM6G7i4MZ) | 4:45 |
 | 71 | [Con las Manos en la Masa](https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 4:02 |
 | 72 | [El Negrito Del Batey](https://open.spotify.com/track/7fzn2U8JQoRzMvnqpdOh1T) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Raices](https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz) | 3:18 |
-| 73 | [La Nave Del Olvido](https://open.spotify.com/track/7KCj9ZAENKI71pJvF2bfnU) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [100% Merengue '99](https://open.spotify.com/album/5oytlALvjjbQFuM6G7i4MZ) | 4:45 |
+| 73 | [Como Duele \- En Vivo](https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [En Vivo](https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56) | 4:33 |
 | 74 | [Me Tiene Amarrao](https://open.spotify.com/track/07QUDnW5QUY6v3S3B2JreR) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:26 |
 | 75 | [Morena / Los Diseñadores / Por Ella / El Equipo](https://open.spotify.com/track/2BgxqdufX10rDrxp0O2ECa) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v) | 6:01 |
 | 76 | [Que Es Lo Que Tienes](https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |

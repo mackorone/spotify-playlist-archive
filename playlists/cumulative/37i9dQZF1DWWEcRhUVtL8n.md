@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: HAIM
 
-2,153 songs - 4 day 18 hr 1 min
+2,155 songs - 4 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,11 +454,12 @@
 | [Crush](https://open.spotify.com/track/7jHMDHHLkFQxWnKTYq7Aan) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Crush](https://open.spotify.com/album/4aXpzEONl3ZdbGhPTYoigH) | 3:13 | 2020-10-13\* | 2021-05-28 |
 | [crutches](https://open.spotify.com/track/5Hf6nME2UxqODXQj9pP1qw) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [crutches](https://open.spotify.com/album/7i3jTmHGPr5PMVE8gYfQFX) | 2:30 | 2022-11-07 | 2022-12-10 |
 | [Cry Baby](https://open.spotify.com/track/6EhLEIwLKrqjf6VTx9eGOd) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Cry Baby](https://open.spotify.com/album/6fjgfwIVFrvn4P7KlgOeyG) | 2:25 | 2022-04-25 | 2022-07-20 |
+| [Cry Cry Cry](https://open.spotify.com/track/7khKM6qJ3Yg48VOxLVoKNj) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cry Cry Cry](https://open.spotify.com/album/3VqLwj6IxrX2XYXU8XHI4F) | 2:58 | 2025-07-18 |  |
 | [Crying at CVS](https://open.spotify.com/track/5Zci5CbR7aJftdHCPJVP0M) | [Kilder](https://open.spotify.com/artist/7DvSsGJcVuhweaoQu7nta0), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Crying at CVS](https://open.spotify.com/album/5G0T45PfRA7Mb2mKuU7Um2) | 3:16 | 2021-05-05 | 2021-05-24 |
 | [Crying In Public \- MUNA Remix](https://open.spotify.com/track/6ouu4XNaN3pQMRo6BUvsaV) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Crying In Public \(MUNA Remix\)](https://open.spotify.com/album/5CG5Hrcv8PYM6GMIbTGBkI) | 3:58 | 2021-11-12 | 2022-07-29 |
 | [Crying In The Club](https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:50 | 2021-11-12 | 2022-04-13 |
 | [Crying On My Own](https://open.spotify.com/track/0RrsFlWwmBxPA96PIMwhsu) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Crying On My Own](https://open.spotify.com/album/0L8dLRDXS1neezbmE0QiVP) | 3:35 | 2021-02-23 | 2021-05-28 |
-| [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 | 2025-06-06 |  |
+| [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 | 2025-06-06 | 2025-07-19 |
 | [crystal clear](https://open.spotify.com/track/6qr6skNUEldlmc1p0fK7Gh) | [Goodie Bag](https://open.spotify.com/artist/2wfGvctJZV4yvkfzcb5Itk) | [crystal clear](https://open.spotify.com/album/1ddlffh87rXt5ZYAr54mBR) | 2:15 | 2021-03-19 | 2021-03-22 |
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2021-10-02 | 2023-02-10 |
 | [Current Affairs](https://open.spotify.com/track/1cQQB9z7fNQQ2VzSkslt7Y) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:18 | 2025-07-04 |  |
@@ -615,6 +616,7 @@
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-05-31 | 2025-06-28 |
 | [Effortless](https://open.spotify.com/track/1kERj1mdR9X6ZkCGsbIwYc) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Effortless](https://open.spotify.com/album/32En4ZcvsHfgeQh26fX9wn) | 2:41 | 2020-10-13\* | 2020-10-23 |
 | [Egotism](https://open.spotify.com/track/5tVMIkfYa1gRl58ByUsNkx) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Peach](https://open.spotify.com/album/47BjK21VMGti5QReZnn3Pd) | 3:12 | 2021-02-10 | 2021-10-12 |
+| [Either](https://open.spotify.com/track/2eXRgdwREO1B8jt5k2n2cW) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Either](https://open.spotify.com/album/7m0ZMDJ3lqepjUQJ2KpwsQ) | 3:10 | 2025-07-18 |  |
 | [El Camino High](https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Dream Girl](https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt) | 3:47 | 2024-11-08 | 2025-03-10 |
 | [elephant in the room \(feat\. gnash\)](https://open.spotify.com/track/56HNSLs2MTdyEG5wmFmrmq) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [elephant in the room \(feat\. gnash\)](https://open.spotify.com/album/6Y1FI0cFIx4YThAYC5D8CW) | 2:39 | 2020-10-13\* | 2021-03-02 |
 | [Elevator](https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Elevator](https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC) | 2:45 | 2022-10-21 | 2022-12-07 |
@@ -2015,7 +2017,7 @@
 | [USMO](https://open.spotify.com/track/1hblRUhOt2Yi618eAJGGiK) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [USMO](https://open.spotify.com/album/0dM6Nusk6TGd5X8DbHBQuF) | 2:33 | 2021-02-09 | 2021-06-03 |
 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 | 2024-04-05 | 2024-05-15 |
 | [Valleyheart](https://open.spotify.com/track/3ebeGj7ac0mMlO5PhFK80L) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Valleyheart](https://open.spotify.com/album/42sitHkcawmZVLe2Kt45xK) | 2:28 | 2021-03-07 | 2021-08-11 |
-| [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 | 2025-07-11 |  |
+| [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 | 2025-07-11 | 2025-07-19 |
 | [victim of nostalgia](https://open.spotify.com/track/6oHXQQLzea4keyHSbFUxtS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [victim of nostalgia](https://open.spotify.com/album/1q368d6nMTceCEkSYdIqHl) | 2:36 | 2022-04-29 | 2022-05-21 |
 | [Victoria](https://open.spotify.com/track/4X8JkeMSFFiVpWqIpS6ajC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Victoria](https://open.spotify.com/album/36YM5gHJmJ415NomqukOME) | 3:18 | 2022-03-18 | 2022-04-20 |
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2021-02-23 | 2021-02-26 |

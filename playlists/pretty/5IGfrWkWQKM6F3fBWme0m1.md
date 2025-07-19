@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,500 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,499 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Too Close](https://open.spotify.com/track/0FlYCmQM5q3TcdvwRT53Tt) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Too Close](https://open.spotify.com/album/3WxC9B4azmE7Y4RpwPx39b) | 3:44 |
+| 1 | [Too Close](https://open.spotify.com/track/0FlYCmQM5q3TcdvwRT53Tt) | [Verses GT](https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Too Close](https://open.spotify.com/album/3WxC9B4azmE7Y4RpwPx39b) | 3:44 |
 | 2 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 |
 | 3 | [Toes Down](https://open.spotify.com/track/4RBltccJevBLRCaKx8GeP0) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Toes Down](https://open.spotify.com/album/3WbZidLDFb4DEMnMKJ6w6s) | 2:54 |
 | 4 | [Creationizm](https://open.spotify.com/track/3lvRuQaYkPm6gpfhvhVHnK) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Oxytoxin](https://open.spotify.com/album/6IB5Af6Ipn3EWd6S6eZhel) | 5:05 |

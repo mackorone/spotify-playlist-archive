@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Shallipopi & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,828 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,842 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 18 | [Suh Good](https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Suh Good](https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu) | 2:29 |
 | 19 | [Glory II \(with Fridayy\)](https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Glory II \(with Fridayy\)](https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f) | 2:55 |
 | 20 | [MACHO \(feat\. NLE Choppa\)](https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:43 |
-| 21 | [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:18 |
+| 21 | [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:17 |
 | 22 | [Timing](https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Timing](https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8) | 2:58 |
 | 23 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 |
 | 24 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 |

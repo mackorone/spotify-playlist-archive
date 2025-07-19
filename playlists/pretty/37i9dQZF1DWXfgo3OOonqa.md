@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,370 likes - 123 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,367 likes - 123 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Continental](https://open.spotify.com/track/7cpXS5OjqB5JFFPZLPLOv6) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Continental](https://open.spotify.com/album/0lEsWnbDE0MSFsyc4gDNic) | 2:31 |
-| 2 | [B.Baby ft Dani M \- Spola om](https://open.spotify.com/track/3IwBe9A1oqs69eIsBelEJj) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Spola om](https://open.spotify.com/album/7I3Jf6ORUFFvPGYXprHfoE) | 2:32 |
+| 2 | [Spola om](https://open.spotify.com/track/3IwBe9A1oqs69eIsBelEJj) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Spola om](https://open.spotify.com/album/7I3Jf6ORUFFvPGYXprHfoE) | 2:32 |
 | 3 | [Sweet Propane](https://open.spotify.com/track/4qltoD1gaii37oKvSxEen8) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Sweet Propane](https://open.spotify.com/album/44v4ygwjuv7BdyPgHueDyH) | 2:38 |
 | 4 | [Pierroo](https://open.spotify.com/track/3R8R5KFhnCsNk1i5XEEbL9) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Pierroo](https://open.spotify.com/album/3amKSCNRWVk7tSdPhKpRRh) | 2:15 |
 | 5 | [MER ÄN EN M](https://open.spotify.com/track/3SvzE8kBBFFXsgcYpUZLlf) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [MER ÄN EN M](https://open.spotify.com/album/2qd9pHzgZaNSeGtGo3YDxs) | 2:47 |

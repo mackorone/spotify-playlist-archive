@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/44W6QUfJqX5yZfYMwfDZRz"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/30ouShJoiM39l7QLMhdcIr"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119736,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/1qePhOackBVh5ISekEqLx4"
+    },
+    {
+      "album": {
         "name": "Dinge",
         "url": "https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB"
       },
@@ -2401,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Lat Hulle Praat",
+        "url": "https://open.spotify.com/album/56xBnu7o4Aa2osStHXdyrs"
+      },
+      "artists": [
+        {
+          "name": "AdieOG",
+          "url": "https://open.spotify.com/artist/35lToWKxIoARmGThv1SpBA"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142229,
+      "name": "Lat Hulle Praat",
+      "url": "https://open.spotify.com/track/5UHfOavQGvHHByJirdaZjl"
+    },
+    {
+      "album": {
         "name": "Bishop Lavis",
         "url": "https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF"
       },
@@ -2926,7 +2962,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 194037,
       "name": "Nikes & Jordans (Original)",
       "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
@@ -3842,7 +3878,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 122834,
       "name": "SOMS",
       "url": "https://open.spotify.com/track/56KNLWoTjcewPvVDeBoZzt"

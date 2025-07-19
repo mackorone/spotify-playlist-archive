@@ -391,6 +391,28 @@
     },
     {
       "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219008,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/4tSrGUb119Qx4sAZBzfFgd"
+    },
+    {
+      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
       },
@@ -796,7 +818,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
@@ -1436,7 +1458,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 158711,
       "name": "El Conjuntito",
       "url": "https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf"
@@ -2580,6 +2602,28 @@
       "duration_ms": 232843,
       "name": "Los Aparatos",
       "url": "https://open.spotify.com/track/4b6KA8SAIvDy9wT12Emzfc"
+    },
+    {
+      "album": {
+        "name": "LOVE PA TI NO HAY",
+        "url": "https://open.spotify.com/album/6WGtFJVs1FsyAgFIv5akUR"
+      },
+      "artists": [
+        {
+          "name": "Fer Ariza",
+          "url": "https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160260,
+      "name": "LOVE PA TI NO HAY",
+      "url": "https://open.spotify.com/track/67MBhIes3QKhQDuZWKHKBw"
     },
     {
       "album": {
@@ -4051,6 +4095,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Motor",
+        "url": "https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187459,
+      "name": "Qu\u00e9 Motor",
+      "url": "https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
@@ -4662,7 +4724,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 176853,
       "name": "SORNEROS",
       "url": "https://open.spotify.com/track/72hoUXOjvxRLKjUPSfnYne"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B in the UK\. Cover: CARI
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,954 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,968 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 43 | [Bonjour](https://open.spotify.com/track/0KAGwhaTafxQHXYHrw7dIl) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Bonjour](https://open.spotify.com/album/6F8CRhHrrExSCk9ZZLxo4B) | 2:38 |
 | 44 | [Lay With Me](https://open.spotify.com/track/0ELxuwozi70IAT4lGEkuZD) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Lay With Me](https://open.spotify.com/album/3M5JronLMReR15Fw21tpzA) | 3:44 |
 | 45 | [Angel in Disguise \- Spotify Singles](https://open.spotify.com/track/6As4ASyAXTOuzub0MOligf) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Rodney Jerkins](https://open.spotify.com/artist/33b5NkaZsL1YoW7pO19Sc7) | [Angel in Disguise \- Spotify Singles](https://open.spotify.com/album/0uGn4uXVGKMPb5F4ZHdnx6) | 4:02 |
-| 46 | [New Hands/Writers Block](https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [New Hands/Writers Block](https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u) | 2:54 |
+| 46 | [been a minute](https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi) | [Lily Agnes](https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ), [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [been a minute](https://open.spotify.com/album/1t85pHIFaVr6q6jeF3nN0p) | 3:36 |
 | 47 | [Bending My Rules](https://open.spotify.com/track/797M1rBDoxy7pPsTkXPqUn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:44 |
-| 48 | [been a minute](https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi) | [Lily Agnes](https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ), [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [been a minute](https://open.spotify.com/album/1t85pHIFaVr6q6jeF3nN0p) | 3:36 |
-| 49 | [She Said](https://open.spotify.com/track/24WrsFDNWrRiyBnJa5eSJj) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [She Said](https://open.spotify.com/album/3To0wqAZiL8bcjRK7XsSK5) | 2:28 |
-| 50 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 |
-| 51 | [We Both Know](https://open.spotify.com/track/66icVgS93an9cJqSsZqpsl) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [We Both Know](https://open.spotify.com/album/6jH3dYAf3mJDg0I2q8hoyJ) | 3:24 |
+| 48 | [New Hands/Writers Block](https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [New Hands/Writers Block](https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u) | 2:54 |
+| 49 | [We Both Know](https://open.spotify.com/track/66icVgS93an9cJqSsZqpsl) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [We Both Know](https://open.spotify.com/album/6jH3dYAf3mJDg0I2q8hoyJ) | 3:24 |
+| 50 | [She Said](https://open.spotify.com/track/24WrsFDNWrRiyBnJa5eSJj) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [She Said](https://open.spotify.com/album/3To0wqAZiL8bcjRK7XsSK5) | 2:28 |
+| 51 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 |
 | 52 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 |
 | 53 | [Better Now](https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Better Now](https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC) | 3:16 |
 | 54 | [I Swear](https://open.spotify.com/track/0wfRDY7ervDHWGNByS7xPz) | [Owen Saward](https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd) | [I Swear](https://open.spotify.com/album/6NFiUMCDwKUrWfrhPyHOJq) | 3:05 |

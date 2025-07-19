@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 23078,
+  "num_followers": 23084,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADPwDqzCNBtKaEIc5CDWNoG",
+  "snapshot_id": "aHg9AAAAAACcHLVTsx/WejUmnw/moiyr",
   "tracks": [
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 168680,
-      "name": "Allowed to be Happy",
-      "url": "https://open.spotify.com/track/5WGCkFCPDoi06SAXIF05bu"
+      "duration_ms": 144626,
+      "name": "Beyond Desolation",
+      "url": "https://open.spotify.com/track/7FJl0uqxLDfH9bhQ1Gte0x"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 67640,
-      "name": "Forgotten Memories",
-      "url": "https://open.spotify.com/track/4TVtXw28cKW0qT8aNM2ODh"
+      "duration_ms": 187853,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5PvWM8RrfJ1vNBoRHviWMB"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 144626,
-      "name": "Beyond Desolation",
-      "url": "https://open.spotify.com/track/7FJl0uqxLDfH9bhQ1Gte0x"
+      "duration_ms": 168680,
+      "name": "Allowed to be Happy",
+      "url": "https://open.spotify.com/track/5WGCkFCPDoi06SAXIF05bu"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 187853,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5PvWM8RrfJ1vNBoRHviWMB"
+      "duration_ms": 67640,
+      "name": "Forgotten Memories",
+      "url": "https://open.spotify.com/track/4TVtXw28cKW0qT8aNM2ODh"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 174586,
-      "name": "Cordon de Plata",
-      "url": "https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7"
+      "duration_ms": 154906,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 154906,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1"
+      "duration_ms": 174586,
+      "name": "Cordon de Plata",
+      "url": "https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 152834,
+      "name": "Little Sadie (feat. Gustavo Santaolalla)",
+      "url": "https://open.spotify.com/track/7aQQcbDXJMpvL0koPH5cW5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUR",
         "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
@@ -759,6 +779,26 @@
       "duration_ms": 170919,
       "name": "Yarar\u00e1",
       "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "duration_ms": 86757,
+      "name": "Bravery",
+      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
     },
     {
       "added_at": null,
@@ -795,46 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Juan Luqui",
-          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
-        }
-      ],
-      "duration_ms": 86757,
-      "name": "Bravery",
-      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
-      },
-      "artists": [
-        {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        },
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 152834,
-      "name": "Little Sadie (feat. Gustavo Santaolalla)",
-      "url": "https://open.spotify.com/track/7aQQcbDXJMpvL0koPH5cW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camino",
         "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
       },
@@ -847,6 +847,42 @@
       "duration_ms": 224280,
       "name": "Seguir",
       "url": "https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nueve",
+        "url": "https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU"
+      },
+      "artists": [
+        {
+          "name": "Massacre",
+          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 300809,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 42197,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
     },
     {
       "added_at": null,
@@ -879,42 +915,6 @@
       "duration_ms": 158093,
       "name": "Sendero",
       "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 42197,
-      "name": "Forsaken",
-      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nueve",
-        "url": "https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU"
-      },
-      "artists": [
-        {
-          "name": "Massacre",
-          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
-        },
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 300809,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL"
     },
     {
       "added_at": null,
@@ -971,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 116240,
-      "name": "Brokeback Mountain 2",
-      "url": "https://open.spotify.com/track/5kgQk3nXmgrd0UeC7440ac"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 113400,
       "name": "Partida del Leprosario",
       "url": "https://open.spotify.com/track/33IC7R7wIuBZJcY9xb6q4v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 116240,
+      "name": "Brokeback Mountain 2",
+      "url": "https://open.spotify.com/track/5kgQk3nXmgrd0UeC7440ac"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,568 likes - 174 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,567 likes - 174 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 69 | [We Had Everything](https://open.spotify.com/track/2YtGWoI8YM9yT41bPoyqWy) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:23 |
 | 70 | [Couldn't Believe](https://open.spotify.com/track/2SCblOXQDX2ToK7JvqCksw) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:04 |
 | 71 | [No Better](https://open.spotify.com/track/1cSO94kRdktvh9zbndRhFX) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [No Better](https://open.spotify.com/album/22YruYAHSJb8TxSmk1PBKn) | 2:50 |
-| 72 | [Sister](https://open.spotify.com/track/3zx6dcYuKX7sYrI1TaDf4y) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Solutions](https://open.spotify.com/album/1CJDBCPg27ASz4eWE7oeNz) | 3:25 |
-| 73 | [Fear Of Water](https://open.spotify.com/track/3NGulWlwuwKJNdLJNe07qR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 2:51 |
+| 72 | [Fear Of Water](https://open.spotify.com/track/3NGulWlwuwKJNdLJNe07qR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 2:51 |
+| 73 | [Sister](https://open.spotify.com/track/3zx6dcYuKX7sYrI1TaDf4y) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Solutions](https://open.spotify.com/album/1CJDBCPg27ASz4eWE7oeNz) | 3:25 |
 | 74 | [Happy Place](https://open.spotify.com/track/0Kd7GHTM4093wuWwWCs3e7) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:20 |
 | 75 | [Conscious](https://open.spotify.com/track/5aEVumHjIBObFBfNLWTrUV) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:00 |
 | 76 | [Easy](https://open.spotify.com/track/27xk5s3fAAwfvptEshbM3J) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:36 |
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 154 | [This Is It](https://open.spotify.com/track/7Co3LZPuLTtrEjLDQtEjtc) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:13 |
 | 155 | [Take My Hand](https://open.spotify.com/track/0UBdJfTnB82221NYnIsT5R) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:38 |
 | 156 | [I Need This](https://open.spotify.com/track/211EszPlTiEiiHbphXiuEX) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:33 |
-| 157 | [No Way to Escape](https://open.spotify.com/track/3MBFqZzK2l8lThJ5Vbw067) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:13 |
-| 158 | [Ride Up To The Door](https://open.spotify.com/track/4PegP7kf2a5RlgVgRZRmon) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Abomination EP](https://open.spotify.com/album/35G5xhEUPV2BPz0uqS9tBp) | 3:51 |
+| 157 | [Ride Up To The Door](https://open.spotify.com/track/4PegP7kf2a5RlgVgRZRmon) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Abomination EP](https://open.spotify.com/album/35G5xhEUPV2BPz0uqS9tBp) | 3:51 |
+| 158 | [No Way to Escape](https://open.spotify.com/track/3MBFqZzK2l8lThJ5Vbw067) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:13 |
 | 159 | [Hard to Watch You Go](https://open.spotify.com/track/5n0ihcc3PgTOjHM02xo9wu) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:40 |
 | 160 | [Suffer](https://open.spotify.com/track/14AZMIKWh6fBGfW9URdpEM) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:08 |
 | 161 | [Drown](https://open.spotify.com/track/1QeKfCodBXp0uFCUfDlbXC) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:06 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 173 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
 | 174 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `Ab3DMgAAAADI1P/2cpyInlRlGlkhhCV2`
+Snapshot ID: `Ab3I0gAAAAApd2gZtBcgH+ybVAtNvfVr`

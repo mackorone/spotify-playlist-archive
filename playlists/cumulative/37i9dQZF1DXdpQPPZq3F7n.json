@@ -1943,6 +1943,32 @@
     },
     {
       "album": {
+        "name": "Jab Tu Sajan (From \"Aap Jaisa Koi\")",
+        "url": "https://open.spotify.com/album/5gyC0Z4BwSxuVoFJGS2YqU"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251124,
+      "name": "Jab Tu Sajan (From \"Aap Jaisa Koi\")",
+      "url": "https://open.spotify.com/track/0v716URUxpcG1AhIZmulz7"
+    },
+    {
+      "album": {
         "name": "Sultan",
         "url": "https://open.spotify.com/album/0tAi6H8acUKefYMIEuxcMA"
       },
@@ -5570,7 +5596,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 286380,
       "name": "Tere Sang Yaara",
       "url": "https://open.spotify.com/track/72CkpVdvmc8t28o8I9N32J"

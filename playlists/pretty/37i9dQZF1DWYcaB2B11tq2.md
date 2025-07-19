@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,062 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,216 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 47 | [Dame de Beber](https://open.spotify.com/track/6o3ErDVIenw0j4ZrP7nJkC) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Yvonne Muñoz](https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi) | [Encuentros Con Dios, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5HXu7IjkXfju5ZO5S8qBdo) | 4:20 |
 | 48 | [No Hay Condenación](https://open.spotify.com/track/3ynl2B7FLTTFEz8o6ilNlR) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo](https://open.spotify.com/album/6O8ZMuA6u7fcmLkAydmlmP) | 4:08 |
 | 49 | [Grito de Jubilo](https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN) | [Tranz4mando el Universo \(Los Legendarios Presenta Triple Seven\)](https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX) | 3:30 |
-| 50 | [Eres Mi Dueno](https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 4:47 |
-| 51 | [La Historia De Cristo](https://open.spotify.com/track/2ubGStDma4Ag4lMo8xE8uY) | [Roberto Orellana](https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN) | [Pistas](https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs) | 5:04 |
+| 50 | [La Historia De Cristo](https://open.spotify.com/track/2ubGStDma4Ag4lMo8xE8uY) | [Roberto Orellana](https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN) | [Pistas](https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs) | 5:04 |
+| 51 | [Eres Mi Dueno](https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 4:47 |
 | 52 | [Lo Peor de Mi](https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Lo Peor de Mi](https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn) | 4:40 |
 | 53 | [Más Allá De Tu Ventana](https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Todos Mis Mejores Amigos](https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR) | 5:05 |
 | 54 | [No Lo Has Visto Aún](https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [No Lo Has Visto Aún](https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK) | 4:05 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 79 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |
 | 80 | [Sólo a Ti Jesús](https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Sólo a Ti Jesús](https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc) | 3:36 |
 | 81 | [Mareas \(todo a su tiempo\)](https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Mareas](https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia) | 3:53 |
-| 82 | [Me enamoré](https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai) | [Jonathan Giménez](https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G) | [Me enamoré](https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5) | 4:06 |
-| 83 | [Me Sumerjo en Ti](https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Me Sumerjo en Ti](https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4) | 3:22 |
+| 82 | [Me Sumerjo en Ti](https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Me Sumerjo en Ti](https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4) | 3:22 |
+| 83 | [Me enamoré](https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai) | [Jonathan Giménez](https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G) | [Me enamoré](https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5) | 4:06 |
 | 84 | [Tu Luz](https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8) | [Winicius Nathan](https://open.spotify.com/artist/0okMmUI1LhZRWZVrtHmEqU), [Kevin Mendoza](https://open.spotify.com/artist/5RcvhYmXXlPzchje5Y3DxK) | [Tu Luz](https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad) | 3:50 |
 | 85 | [Inima Mea Va Canta](https://open.spotify.com/track/4RWLO76SLaRgXmFpKcLPyN) | [PAS](https://open.spotify.com/artist/6FAriCKEIsbXXlLdXebgXu) | [Aproape de Tine](https://open.spotify.com/album/7dIcBnTIrOLKcodyuYv7hQ) | 3:33 |
 | 86 | [Dios Está en Control \- Radio Master](https://open.spotify.com/track/2PQEIqYiwLbQAT3k70Lkd2) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Dios Está en Control 2.0](https://open.spotify.com/album/2izTsmQHPf6BV4snaHjKGk) | 4:30 |

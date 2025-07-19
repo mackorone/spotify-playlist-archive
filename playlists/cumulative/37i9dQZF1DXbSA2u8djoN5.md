@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: OG Eastbull, Jamil
 
-175 songs - 8 hr 32 min
+176 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [CONTACT FATAL 3](https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [CONTACT FATAL 3](https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr) | 2:51 | 2024-08-01 | 2024-11-01 |
 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 | 2024-11-28 |  |
 | [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 | 2025-04-24 |  |
-| [Craft](https://open.spotify.com/track/0M3cDeSQ4IsjC8fJHpsUop) | [Keri](https://open.spotify.com/artist/0M2OddlqkyfHNR2ySoT85l), [Butch](https://open.spotify.com/artist/2mrbr3l5ErDgGpQfukAtZr) | [Craft](https://open.spotify.com/album/3B8Fm9cvoc2ds8wj5Z2ITp) | 2:52 | 2025-06-19 |  |
+| [Craft](https://open.spotify.com/track/0M3cDeSQ4IsjC8fJHpsUop) | [Keri](https://open.spotify.com/artist/0M2OddlqkyfHNR2ySoT85l), [Butch](https://open.spotify.com/artist/2mrbr3l5ErDgGpQfukAtZr) | [Craft](https://open.spotify.com/album/3B8Fm9cvoc2ds8wj5Z2ITp) | 2:52 | 2025-06-19 | 2025-07-19 |
 | [CUM ADUNI](https://open.spotify.com/track/0D6UMM7ZGaCahAT36P0BEM) | [Cazacov](https://open.spotify.com/artist/4NZ6mc6jykZVesq2izEoE1), [Dodut](https://open.spotify.com/artist/1rUHZkQph9E782V1DjlS0U) | [CUM ADUNI](https://open.spotify.com/album/5NUnaek88CpJie3xlgH5lV) | 2:30 | 2025-05-01 | 2025-05-16 |
 | [Cum mă cheamă?](https://open.spotify.com/track/1yGhOBi6bFHqu56NuTj8eo) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Cum mă cheamă?](https://open.spotify.com/album/1qDeoXEXvyZyTxT15MGolf) | 3:20 | 2025-02-27 | 2025-03-15 |
 | [CÂNTĂ LĂUTARI](https://open.spotify.com/track/094PRfQisHTEmguKV2Opzi) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [CÂNTĂ LĂUTARI](https://open.spotify.com/album/5jvsNiukhMrBg09PLbeIF3) | 2:45 | 2025-06-19 | 2025-07-08 |
@@ -129,7 +129,7 @@
 | [PLOAIA](https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [PRNY](https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 3:06 | 2024-06-27 |  |
 | [PM AM](https://open.spotify.com/track/1HeonIzy7Pic6n0GjK8leX) | [FRAXU](https://open.spotify.com/artist/2raLNB0A17S6DfYuQfv4jb), [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [PM AM](https://open.spotify.com/album/3e6SEz3zGQjWoj3dVvizE6) | 2:00 | 2024-07-04 | 2024-07-27 |
 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 | 2024-06-27 | 2025-06-27 |
-| [Poseidon](https://open.spotify.com/track/1DWHungfvvL0Olwu1tSrBO) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Poseidon](https://open.spotify.com/album/4o3Qn53H6XlU1KSDM1YaYV) | 2:40 | 2025-06-26 |  |
+| [Poseidon](https://open.spotify.com/track/1DWHungfvvL0Olwu1tSrBO) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Poseidon](https://open.spotify.com/album/4o3Qn53H6XlU1KSDM1YaYV) | 2:40 | 2025-06-26 | 2025-07-19 |
 | [POVESTEA NOASTRA](https://open.spotify.com/track/2IuPe40fG60s3MEV7JvpRN) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [POVESTEA NOASTRA](https://open.spotify.com/album/0OyBGc5qeRRXiYJMweI4Kd) | 3:46 | 2025-04-10 | 2025-06-06 |
 | [Poze De Album](https://open.spotify.com/track/3YONtB47D1iQRAt7WF9lXS) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Poze De Album](https://open.spotify.com/album/143jn9yB4pplszneiXneKK) | 2:52 | 2024-11-14 | 2025-01-17 |
 | [Prietena ta](https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [8 Culcat](https://open.spotify.com/album/2Zldu0YI5hLE6nNwaQd0Ss) | 2:48 | 2024-06-27 | 2024-07-19 |
@@ -151,7 +151,7 @@
 | [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 | 2024-09-19 | 2025-06-20 |
 | [Sper Ca Esti Bine](https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E) | 2:53 | 2024-06-27 | 2025-06-17 |
 | [STILL IN LUV](https://open.spotify.com/track/2o7xkPKZ3nvp1zjyhrbyoS) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [STILL IN LUV](https://open.spotify.com/album/5DU4TXi3lF6JnLBOkDHzkB) | 2:46 | 2025-05-01 | 2025-05-16 |
-| [Sufletul tău](https://open.spotify.com/track/6KMoVF88KgKkiHaigqvU4K) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Sufletul tău](https://open.spotify.com/album/2tqXTltj5kC5wobURhsdXo) | 3:05 | 2025-06-05 | 2025-07-12 |
+| [Sufletul tău](https://open.spotify.com/track/6KMoVF88KgKkiHaigqvU4K) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Sufletul tău](https://open.spotify.com/album/2tqXTltj5kC5wobURhsdXo) | 3:05 | 2025-06-05 |  |
 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 | 2025-02-06 |  |
 | [Te văd în trecut](https://open.spotify.com/track/3kl91tdXeshmSSMFUNS6fd) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Te văd în trecut](https://open.spotify.com/album/4BJUgkCCs9y1bswEb28zV0) | 3:52 | 2025-02-13 | 2025-06-20 |
 | [TEL AVIV](https://open.spotify.com/track/5RuV7f3rEoQeqZ8YvT4mVZ) | [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9) | [TEL AVIV](https://open.spotify.com/album/6KOfz6EiIEDW8qTRSlPiwV) | 2:04 | 2024-08-15 | 2024-09-20 |
@@ -182,6 +182,7 @@
 | [ÎNPAI](https://open.spotify.com/track/2Ltwedxz1aSahjXER3LIEA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ÎNPAI](https://open.spotify.com/album/0hdybSBVj1H0CAlP02cKRa) | 2:49 | 2024-12-05 | 2025-01-10 |
 | [Îți mai aduci aminte?](https://open.spotify.com/track/2WPAOakhyTWkBBoXf8T700) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Îți mai aduci aminte?](https://open.spotify.com/album/4eldcutCk47V7I88N7XBqC) | 3:11 | 2025-01-30 | 2025-02-07 |
 | [Șapte](https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Șapte](https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm) | 2:30 | 2025-02-20 |  |
+| [Șmecher](https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V) | [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Șmecher](https://open.spotify.com/album/2y0W7bqPbV8D7gSKJIDuCX) | 2:37 | 2025-07-18 |  |
 | [ȘTII…](https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ȘTII…](https://open.spotify.com/album/03fZeyHkQowEPjTjDdOeW4) | 3:28 | 2024-06-27 | 2025-02-28 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

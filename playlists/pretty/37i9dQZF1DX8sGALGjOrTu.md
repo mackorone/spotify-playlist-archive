@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,778 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,877 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 56 | [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 |
 | 57 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |
 | 58 | [Rookie](https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX) | 4:13 |
-| 59 | [Studying Politics](https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Question](https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet) | 3:30 |
-| 60 | [Take Me Back](https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 |
+| 59 | [Take Me Back](https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 |
+| 60 | [Studying Politics](https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Question](https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet) | 3:30 |
 | 61 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
 | 62 | [Ride The Wings Of Pestilence](https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 4:27 |
 | 63 | [Mouths Like Sidewinder Missles](https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:44 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 74 | [Remember To Feel Real](https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:21 |
 | 75 | [Goodbye My Love](https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM) | [Lovehatehero](https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq) | [White Lies](https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs) | 3:33 |
 | 76 | [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 |
-| 77 | [Deep Down](https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:25 |
+| 77 | [The Crimson](https://open.spotify.com/track/062gY8uXDt5kjtAOcSmL4z) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse](https://open.spotify.com/album/0Re8J0tmk2LNlRl4GxUowc) | 4:01 |
 | 78 | [We'rewolf](https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 3:24 |
-| 79 | [The Crimson](https://open.spotify.com/track/062gY8uXDt5kjtAOcSmL4z) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse](https://open.spotify.com/album/0Re8J0tmk2LNlRl4GxUowc) | 4:01 |
+| 79 | [Deep Down](https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:25 |
 | 80 | [Blueprints For Future Homes](https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Redeemer](https://open.spotify.com/album/7ju4BQgiknmVAQSb2V3vky) | 2:49 |
 | 81 | [In the Belly of a Shark](https://open.spotify.com/track/0khj70h8pejNRukEhOn86O) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Orchestra Of Wolves \(new version\)](https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx) | 2:41 |
 | 82 | [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 91 | [Apathy Is a Cold Body](https://open.spotify.com/track/3nZI9YTYInLiCdjGx7v9tK) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [You Come Before You \(U.S\. Version\)](https://open.spotify.com/album/1jWoSWzUjyq2v2jnmRv3p8) | 5:00 |
 | 92 | [Pages](https://open.spotify.com/track/1xJULOj0c01wovNn42lOsC) | [There For Tomorrow](https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM) | [There For Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/0ZRygrECnzHvuOjRXnQtkd) | 3:31 |
 | 93 | [Medicating](https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw) | [Boys Night Out](https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ) | [Trainwreck](https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P) | 4:00 |
-| 94 | [Hang 'Em High](https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [A Static Lullaby](https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ) | 3:59 |
-| 95 | [Escape Artists Never Die](https://open.spotify.com/track/34RIandjffS6fEMitjZnvF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:17 |
+| 94 | [Escape Artists Never Die](https://open.spotify.com/track/34RIandjffS6fEMitjZnvF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:17 |
+| 95 | [Hang 'Em High](https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [A Static Lullaby](https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ) | 3:59 |
 | 96 | [I Am Hollywood](https://open.spotify.com/track/0FKGUcrMijjbZYlJyZEJHR) | [He Is Legend](https://open.spotify.com/artist/53cAPynhUIC5WFgPPfbp2r) | [I Am Hollywood](https://open.spotify.com/album/6tooAA6e8rMEkgbMrsdo3r) | 2:41 |
 | 97 | [No Son Of Mine](https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 3:23 |
 | 98 | [Counting 5\-4\-3\-2\-1](https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 3:19 |

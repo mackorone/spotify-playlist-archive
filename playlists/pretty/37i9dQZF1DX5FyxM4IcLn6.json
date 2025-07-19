@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 67th GRAMMY Awards.",
-  "num_followers": 151614,
+  "num_followers": 151598,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
         "name": "Saviors",
         "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
       },
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Bright Future",
-        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+        "name": "LAS LETRAS YA NO IMPORTAN",
+        "url": "https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
         }
       ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu"
+      "duration_ms": 458451,
+      "name": "Ren\u00e9",
+      "url": "https://open.spotify.com/track/1GmHEl2cWpMvkDCuEh0tQY"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1531,22 +1547,6 @@
       "duration_ms": 250200,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
-        "name": "LAS LETRAS YA NO IMPORTAN",
-        "url": "https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        }
-      ],
-      "duration_ms": 458451,
-      "name": "Ren\u00e9",
-      "url": "https://open.spotify.com/track/1GmHEl2cWpMvkDCuEh0tQY"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "The Collective",
-        "url": "https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "BYE BYE",
-      "url": "https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Choirmaster II (Live)",
         "url": "https://open.spotify.com/album/4Nqqfoi87fORR9WqZssv78"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 370399,
       "name": "Hold On - Live",
       "url": "https://open.spotify.com/track/4QTXebgW5IJJS8WpBLn6Zc"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "The Collective",
+        "url": "https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t"
     },
     {
       "added_at": "2025-02-03 18:19:52",

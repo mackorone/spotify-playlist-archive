@@ -4,7 +4,7 @@
 
 > Innately spellbinding & meditative, absent of endings & beginnings\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-58 songs - 5 hr 3 min
+59 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Dizzy Spin](https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 4:45 | 2025-04-10 |  |
 | [En Medio](https://open.spotify.com/track/2cB4PvkqmSASF4YfGTAOwO) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [En Medio](https://open.spotify.com/album/6e0VAj0pMV7BqLz2MAwkAt) | 5:34 | 2025-04-10 |  |
 | [Everything Everything](https://open.spotify.com/track/33WlDnFFCjmlqCL7H4lUcl) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:26 | 2025-04-10 |  |
+| [Exhale](https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Exhale](https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60) | 3:16 | 2025-07-18 |  |
 | [Flies](https://open.spotify.com/track/3TsnTyxNFVGg6NSBQE5ZkX) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Portrait of a Time: 2010\-2016](https://open.spotify.com/album/2zQLWuvxPSb572kjmeAEYN) | 6:36 | 2025-04-10 |  |
 | [Funny](https://open.spotify.com/track/1NjQvWlo2JxKc4ST0hJdxZ) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Funny](https://open.spotify.com/album/5EZn9ph9YN8zbioYjNrMmm) | 3:57 | 2025-04-10 |  |
 | [Green Arrow](https://open.spotify.com/track/6o65Xn8X3IXf7zmxVjXDWJ) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:43 | 2025-04-10 |  |

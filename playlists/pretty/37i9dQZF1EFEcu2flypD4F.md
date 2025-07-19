@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,278 likes - 338 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,280 likes - 338 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 94 | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [MC Matheuzim](https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo) | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu) | 2:03 |
 | 95 | [Free the Animal](https://open.spotify.com/track/5J8MPzzufgbhutBl8gEr6r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:24 |
 | 96 | [You Don't Know](https://open.spotify.com/track/1nkRwGuEnySwY2PbdT25Hb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [The Bigger Picture](https://open.spotify.com/album/5shtXocLO7yZoLsztFHhqF) | 2:47 |
-| 97 | [Hostage](https://open.spotify.com/track/42PnVxGUSKziKSKXCNXoob) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 2:56 |
-| 98 | [Strange Birds](https://open.spotify.com/track/5Qn7UBFKV5iemqZMJ5F5ve) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 3:03 |
+| 97 | [Strange Birds](https://open.spotify.com/track/5Qn7UBFKV5iemqZMJ5F5ve) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 3:03 |
+| 98 | [Hostage](https://open.spotify.com/track/42PnVxGUSKziKSKXCNXoob) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 2:56 |
 | 99 | [Confetti](https://open.spotify.com/track/3kikZxz3Sg6lwG72ZLssIL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:06 |
 | 100 | [Puppies Are Forever](https://open.spotify.com/track/5Uj1LL6HaSFYlfyC6o42ZC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:43 |
 | 101 | [Opportunity](https://open.spotify.com/track/4RlEfpp0p8TzRwseTUA4fp) | [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:06 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Ab3DMgAAAADHtMu/w0RITel5imQYBAl8`
+Snapshot ID: `Ab3I0gAAAABpI7qynct/IAm3jtRQI7Ip`

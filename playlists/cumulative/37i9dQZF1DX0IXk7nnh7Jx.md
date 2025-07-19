@@ -2,9 +2,9 @@
 
 ### [Indie Spirit](https://open.spotify.com/playlist/37i9dQZF1DX0IXk7nnh7Jx)
 
-> Listen to the best songs from faith\-based indie artists\.  Cover: <br/>MUCH MORE
+> Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Allie Paige
 
-734 songs - 1 day 18 hr 40 min
+735 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Kinda Wild](https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Kinda Wild](https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy) | 4:57 | 2023-08-04 | 2024-06-08 |
 | [King of My Heart](https://open.spotify.com/track/221wISKB6AmZqZjrhrIrTv) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [King of My Heart](https://open.spotify.com/album/3LCnkn9T7aaHT3PLMrQWtb) | 4:03 | 2023-08-04 | 2024-01-27 |
 | [Kingdom Business](https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [ST\-Saint](https://open.spotify.com/artist/1Ibt48HCzHnDbkZYstwnTw), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Kingdom Business](https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr) | 3:30 | 2023-12-01 | 2024-06-08 |
+| [Kingdom II](https://open.spotify.com/track/5b10tFDfOl5YEisiPoirvW) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Kingdom II](https://open.spotify.com/album/7IYtLO16qDk12GNZrqJImI) | 3:00 | 2025-07-18 |  |
 | [KMFTF](https://open.spotify.com/track/2A6tZQNqhjNXu6adGokOut) | [Austin Koukal](https://open.spotify.com/artist/47e5G9UHhlQ2O39lG7aBJy), [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1) | [KMFTF](https://open.spotify.com/album/0shzlmMAakU3u2PBfJkCVX) | 4:40 | 2024-01-26 | 2024-09-26 |
 | [Knives](https://open.spotify.com/track/3pLFUo2x1houM7HRmjCYUe) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [I Wish I Didn't Love You](https://open.spotify.com/album/2n8AKEhKljSHbWuZCuZDAt) | 3:13 | 2023-08-04 | 2024-01-11 |
 | [Know Your Heart](https://open.spotify.com/track/3R4jwXTEZKjs5G7Uc6Ehzs) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Know Your Heart](https://open.spotify.com/album/1YxRqQgjwH5Qq739qnrML9) | 3:59 | 2020-12-18 | 2022-07-28 |
@@ -649,7 +650,7 @@
 | [Together Alone](https://open.spotify.com/track/6BZfQ4qQpjXjruDwkJiyP9) | [Shelltown Paradise](https://open.spotify.com/artist/4jNKRbeZhuY5xoZ2jURbhX) | [Together Alone](https://open.spotify.com/album/158EccgNmsZ7shtcV7Ms20) | 3:08 | 2025-02-14 |  |
 | [together forever](https://open.spotify.com/track/28CX4c59AswgTJgt0BB6m1) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [together forever](https://open.spotify.com/album/63j9BaXZoVMISZ89x8iYU6) | 3:10 | 2024-09-26 |  |
 | [Too Much](https://open.spotify.com/track/5ZpNrG5qK5ve7uNHMx1IG8) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Too Much](https://open.spotify.com/album/0prltCaGMX57gAkUIUAzIA) | 2:06 | 2024-06-07 | 2024-07-19 |
-| [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 | 2025-05-31 |  |
+| [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 | 2025-05-31 | 2025-07-19 |
 | [Trust](https://open.spotify.com/track/2Ymjppgp5agBspxZDzKQa5) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Trust](https://open.spotify.com/album/0IB32GKzb1LTt89nFnqUpG) | 3:03 | 2023-02-24 | 2023-11-07 |
 | [Trust](https://open.spotify.com/track/0sPyXfEgBXTAvI5LMdyY91) | [Strahan](https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP) | [Trust](https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64) | 5:17 | 2020-12-18 | 2023-02-19 |
 | [Trust](https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD) | [The Bookouts](https://open.spotify.com/artist/4mJUqOlgsaXtBDn3TjaaTF) | [Trust](https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN) | 5:20 | 2020-12-18 | 2023-01-23 |

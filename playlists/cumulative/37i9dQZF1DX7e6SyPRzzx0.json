@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "REST IN BASS",
+        "url": "https://open.spotify.com/album/67A39lP2d2oyDkRukYYm4F"
+      },
+      "artists": [
+        {
+          "name": "Che",
+          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153658,
+      "name": "BA$$",
+      "url": "https://open.spotify.com/track/51OiK90giWwDI0RedEYBcg"
+    },
+    {
+      "album": {
         "name": "BABYRINO",
         "url": "https://open.spotify.com/album/0x4lDg9zVDZth6nlP5Maar"
       },
@@ -940,7 +958,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 142027,
       "name": "Get Out My Way!",
       "url": "https://open.spotify.com/track/3PjaLvrmPhg3tdJ9xeXuaO"
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 123951,
       "name": "Green Day",
       "url": "https://open.spotify.com/track/3CUo7RAPdgAxDZUMJBb4OY"
@@ -1354,6 +1372,28 @@
       "duration_ms": 135122,
       "name": "ILoveUIHateU",
       "url": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
+    },
+    {
+      "album": {
+        "name": "IM YEAT",
+        "url": "https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168549,
+      "name": "IM YEAT",
+      "url": "https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC"
     },
     {
       "album": {

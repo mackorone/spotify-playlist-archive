@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-462 songs - 1 day 3 hr 13 min
+463 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Facada](https://open.spotify.com/track/32m3Lx5u3gtktYlDGLn0i9) | [Helena Novais](https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG), [Jéf](https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR) | [Facada](https://open.spotify.com/album/1E6NmlrvGQ25oJMNW6TB0L) | 3:12 | 2022-07-04 | 2022-07-27 |
 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 | 2022-03-25 | 2022-04-10 |
 | [Falar de Ti](https://open.spotify.com/track/2s4q3NGH0PfuABhcKzOKiY) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Falar de Ti](https://open.spotify.com/album/3Bczt4cDgulMmvfJOa34Iu) | 3:44 | 2021-12-24 | 2022-05-09 |
-| [Falta](https://open.spotify.com/track/4GxYuiyGijRuGslaPLl2MJ) | [Joaquim](https://open.spotify.com/artist/2whUuDjJvXiJqxVhYhsnSr), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Varanda dos Palpites](https://open.spotify.com/album/3vMBt9c6LGUvwbZ7e3J1HD) | 3:59 | 2025-05-16 |  |
+| [Falta](https://open.spotify.com/track/4GxYuiyGijRuGslaPLl2MJ) | [Joaquim](https://open.spotify.com/artist/2whUuDjJvXiJqxVhYhsnSr), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Varanda dos Palpites](https://open.spotify.com/album/3vMBt9c6LGUvwbZ7e3J1HD) | 3:59 | 2025-05-16 | 2025-07-19 |
 | [Fantasia \- Acústico](https://open.spotify.com/track/4nnKcnDaW7iqkNNgVn5DVM) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Fantasia \(Acústico\)](https://open.spotify.com/album/4uRZNPrsAVaPGKoMsDjRIw) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [Featherstone](https://open.spotify.com/track/45p0MAVey0dnjZXo8kMUzh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:49 | 2022-03-25 | 2022-04-16 |
 | [Featherstone](https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:49 | 2022-07-04 | 2024-04-19 |
@@ -459,6 +459,7 @@
 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 | 2022-03-25 | 2025-02-22 |
 | [Waves](https://open.spotify.com/track/5Ba2ASYfis5drreEoHKfLY) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Waves](https://open.spotify.com/album/4DtZEvhgFPtboz4fox2R5h) | 3:37 | 2021-12-24 | 2022-06-28 |
 | [We Deserve To Dream](https://open.spotify.com/track/4uxap3PpnxFo7BeNcXtEnq) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [We Deserve To Dream](https://open.spotify.com/album/2J5kTcG1hkK1E1n1uS0ONx) | 5:17 | 2022-03-25 |  |
+| [When The Wind Blows \- Private Sessions](https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [When The Wind Blows \(Private Sessions\)](https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc) | 4:04 | 2025-07-19 |  |
 | [Who Says](https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:55 | 2022-03-25 | 2025-02-22 |
 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 | 2022-03-25 | 2025-02-22 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-30 | 2025-02-22 |

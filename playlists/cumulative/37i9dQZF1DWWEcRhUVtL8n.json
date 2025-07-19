@@ -8221,6 +8221,24 @@
     },
     {
       "album": {
+        "name": "Cry Cry Cry",
+        "url": "https://open.spotify.com/album/3VqLwj6IxrX2XYXU8XHI4F"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178098,
+      "name": "Cry Cry Cry",
+      "url": "https://open.spotify.com/track/7khKM6qJ3Yg48VOxLVoKNj"
+    },
+    {
+      "album": {
         "name": "Crying at CVS",
         "url": "https://open.spotify.com/album/5G0T45PfRA7Mb2mKuU7Um2"
       },
@@ -8312,7 +8330,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 195394,
       "name": "Crying Over Nothing",
       "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
@@ -11216,6 +11234,24 @@
       "duration_ms": 192141,
       "name": "Egotism",
       "url": "https://open.spotify.com/track/5tVMIkfYa1gRl58ByUsNkx"
+    },
+    {
+      "album": {
+        "name": "Either",
+        "url": "https://open.spotify.com/album/7m0ZMDJ3lqepjUQJ2KpwsQ"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190630,
+      "name": "Either",
+      "url": "https://open.spotify.com/track/2eXRgdwREO1B8jt5k2n2cW"
     },
     {
       "album": {
@@ -37282,7 +37318,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 198000,
       "name": "Vicious Delicious",
       "url": "https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO"

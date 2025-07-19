@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,050 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,099 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 46 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
 | 47 | [Like That](https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Like That](https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To) | 2:24 |
 | 48 | [Bounce To This \- Official Bounce Anthem 2024](https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Bounce To This \(Official Bounce Anthem 2024\)](https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR) | 3:16 |
-| 49 | [Like A Boss](https://open.spotify.com/track/11S4IH19vfC8TRKBWo9CVW) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Like A Boss](https://open.spotify.com/album/4AQXRW8Hwrs9h9XyVOfyHD) | 2:47 |
-| 50 | [13th Hour](https://open.spotify.com/track/1rgdTcDjGjOLW1apRVcIA7) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [13th Hour](https://open.spotify.com/album/3o1ZBqfs69XWB4JvEyLRUG) | 2:41 |
+| 49 | [13th Hour](https://open.spotify.com/track/1rgdTcDjGjOLW1apRVcIA7) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [13th Hour](https://open.spotify.com/album/3o1ZBqfs69XWB4JvEyLRUG) | 2:41 |
+| 50 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 |
 
 Snapshot ID: `aGOPZQAAAADwMmA6RP/mlhUwFWkcgdG7`

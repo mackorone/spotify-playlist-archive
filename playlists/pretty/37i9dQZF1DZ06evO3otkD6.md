@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,130 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,229 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 38 | [En El Amor Hay Que Perdonar](https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:59 |
 | 39 | [Bugatti](https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Bugatti](https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC) | 2:45 |
 
-Snapshot ID: `aHbrgAAAAADgJ58uGBeWvnSP6m4OwMOI`
+Snapshot ID: `aHg9AAAAAADxzJ07Vc2r7MAlqBljEwCP`

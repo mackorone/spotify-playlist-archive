@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,681 likes - 89 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,720 likes - 89 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 78 | [Se va la luna](https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Se va la luna](https://open.spotify.com/album/7chklGslK4E9zT744tmEy8) | 3:01 |
 | 79 | [Agua Nueva](https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Agua Nueva](https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl) | 3:42 |
 | 80 | [Waitin](https://open.spotify.com/track/27Kx5R1fh1tov999b6hfSA) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Waitin](https://open.spotify.com/album/4enVRuv9QzD2jsvk6EeLtT) | 3:42 |
-| 81 | [Si Tú No Estás](https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [E.N Young](https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf) | [Si Tú No Estás](https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi) | 3:10 |
-| 82 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
+| 81 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
+| 82 | [Si Tú No Estás](https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [E.N Young](https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf) | [Si Tú No Estás](https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi) | 3:10 |
 | 83 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 |
 | 84 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
 | 85 | [Hombres De Hierro](https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hombres De Hierro](https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC) | 4:39 |

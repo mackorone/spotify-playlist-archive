@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,149 likes - 31 songs - 2 hr 6 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,153 likes - 33 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 29 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 |
 | 30 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
 | 31 | [West Of Samoa](https://open.spotify.com/track/6UtAZWcMKQdehuKLql1Xh8) | [Speedy West](https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ) | [Steel Guitar](https://open.spotify.com/album/5Gv5lcvdHr08tZDp80EKl7) | 2:33 |
+| 32 | [Real Thing](https://open.spotify.com/track/70oLoBhpHsNEDVLsMDlheU) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:18 |
+| 33 | [Louisiana](https://open.spotify.com/track/7dvpMd2PhxFzlpyp8Ru308) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 4:11 |
 
-Snapshot ID: `AAAM0s1fGXnmObYg00DE/pp8er/WZgs0`
+Snapshot ID: `AAAM1FeXygsIYzqSwWPkLHiKqPsJXD91`

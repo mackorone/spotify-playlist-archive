@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 51065,
+  "num_followers": 51076,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABlZT0Lx3TifsJI/Y7WD3by",
+  "snapshot_id": "aHg9AAAAAADc3dqm2xXUrd/fm/hu4FhT",
   "tracks": [
     {
       "added_at": null,
@@ -443,38 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Legend",
-        "url": "https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "The Motor City Is Burning",
-      "url": "https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "You Know, I Know",
-      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
       },
@@ -495,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues: The Missing Album",
-        "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
       "artists": [
         {
@@ -504,9 +472,25 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 208800,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
+      "duration_ms": 233266,
+      "name": "You Know, I Know",
+      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Legend",
+        "url": "https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "The Motor City Is Burning",
+      "url": "https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
       "duration_ms": 319693,
       "name": "Annie Mae (2007 - Remaster)",
       "url": "https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Real Folk Blues: The Missing Album",
+        "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
     },
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 266533,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 191266,
       "name": "Kiddio (2007 - Remaster)",
       "url": "https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
     },
     {
       "added_at": null,

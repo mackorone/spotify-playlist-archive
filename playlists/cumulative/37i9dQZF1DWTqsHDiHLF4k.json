@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF"
+    },
+    {
+      "album": {
         "name": "Portrait of a Time: 2010-2016",
         "url": "https://open.spotify.com/album/2zQLWuvxPSb572kjmeAEYN"
       },

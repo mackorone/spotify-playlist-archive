@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  عمرو دياب
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  رامي صبري
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,192 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,311 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ebtadena](https://open.spotify.com/track/54MaPJYSZOG3SZ36dzjFC9) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 3:54 |
-| 2 | [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 |
-| 3 | [Fostanek El Abyad](https://open.spotify.com/track/0oapF7Y8c9TdHBw4BpZMNK) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Fostanek El Abyad](https://open.spotify.com/album/4A3rKCk7hs12wnisY4YPSd) | 4:53 |
-| 4 | [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 |
+| 1 | [تيجي نتصور](https://open.spotify.com/track/1nyylMku4Hlheim1suER3t) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 2:46 |
+| 2 | [Ebtadena](https://open.spotify.com/track/54MaPJYSZOG3SZ36dzjFC9) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 3:54 |
+| 3 | [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 |
+| 4 | [Fostanek El Abyad](https://open.spotify.com/track/0oapF7Y8c9TdHBw4BpZMNK) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Fostanek El Abyad](https://open.spotify.com/album/4A3rKCk7hs12wnisY4YPSd) | 4:53 |
 | 5 | [صحبي يا صحبي](https://open.spotify.com/track/0ZJ2vlWyCoMA52VbECDMEL) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [صحبي يا صحبي](https://open.spotify.com/album/4YzIMteqKKaYZlipibsnqw) | 2:13 |
 | 6 | [هو انت مين](https://open.spotify.com/track/1qGEGcxFCJ0LhBCBSeZmqO) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 4:41 |
 | 7 | [أنا بابا](https://open.spotify.com/track/5PPphP4W68g1VWhghpGK0U) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [أنا بابا](https://open.spotify.com/album/368APOrzIAWbdIJo3YkiVS) | 3:10 |
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 13 | [حلال فيك \- من البوم لينا معاد](https://open.spotify.com/track/65uNDYpRRj01SwndtXTHhA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [حلال فيك \(من البوم لينا معاد\)](https://open.spotify.com/album/0ZhDVNeX12HV67XvWLMDvA) | 3:01 |
 | 14 | [Kalam Faregh](https://open.spotify.com/track/3bkkYSKgGjsToIbAhl654c) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Kalam Faregh](https://open.spotify.com/album/7dR1LiIeAibr5NL2jYjnDb) | 4:34 |
 | 15 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
-| 16 | [جيت متأخر](https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [جيت متأخر](https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L) | 3:18 |
-| 17 | [WARANA EH](https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [WARANA EH](https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9) | 3:15 |
-| 18 | [تيجي نسيب](https://open.spotify.com/track/0hZaYE3a53y2VbZq85MceM) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 3:45 |
-| 19 | [Ahla Rasma](https://open.spotify.com/track/4TOTz0WysSu9eI40QT2vZp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ahla Rasma](https://open.spotify.com/album/5CziKAAQ10z1hfzr8VfnBO) | 3:36 |
-| 20 | [لما بيوحشني](https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 4:32 |
+| 16 | [العوض على الله](https://open.spotify.com/track/3yeRnlbwNCyMEhnsqR6RxZ) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 4:09 |
+| 17 | [جيت متأخر](https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [جيت متأخر](https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L) | 3:18 |
+| 18 | [WARANA EH](https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [WARANA EH](https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9) | 3:15 |
+| 19 | [تيجي نسيب](https://open.spotify.com/track/0hZaYE3a53y2VbZq85MceM) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 3:45 |
+| 20 | [Ahla Rasma](https://open.spotify.com/track/4TOTz0WysSu9eI40QT2vZp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ahla Rasma](https://open.spotify.com/album/5CziKAAQ10z1hfzr8VfnBO) | 3:36 |
 | 21 | [مش سالكين](https://open.spotify.com/track/5qvVsntT1YqYUFdnhtvZBc) | [Alhassan Adel](https://open.spotify.com/artist/1rSKg6fabB8hw5y1rcxYdk) | [مش سالكين](https://open.spotify.com/album/1524gRI219NvKNVJe7Kdc2) | 2:24 |
 | 22 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
 | 23 | [مرجعليش](https://open.spotify.com/track/7JTf7bVijxgDdkmozrswvE) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [مرجعليش](https://open.spotify.com/album/7aKK7jGo8ONkv0HX0vrisi) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/track/72QK9YQ9EFco9G9eGTaHlA) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/album/358XYlavUBk8EpZfU65SrP) | 4:04 |
 | 50 | [أول حب](https://open.spotify.com/track/6m686JPy4eKbumXZ3Unf4n) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أول حب](https://open.spotify.com/album/63ataOFd510uJ8XnLyW1WF) | 3:52 |
 
-Snapshot ID: `aGaWtAAAAACNWXelCv6uxsWjDbkRB8/1`
+Snapshot ID: `aHoUpQAAAACsSLfWyc1rYdvcUcUFK3tn`

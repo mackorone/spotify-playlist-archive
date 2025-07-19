@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request a song @ FurryRadio.com
 
-365 songs - 19 hr 26 min
+366 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [antler crimes](https://open.spotify.com/track/4aNz4UAOIBvC6hnnobhUuF) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [herdbound](https://open.spotify.com/album/1U37WNDGRpBEG0SreBA2Yy) | 4:43 | 2025-03-11 |  |
 | [antler crimes](https://open.spotify.com/track/1I7TUj9ZSZNxfHoQ9MwqlA) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [herdbound](https://open.spotify.com/album/0cQBvrHqCGFkET8ODs57rF) | 4:44 | 2024-04-21 |  |
 | [ANTONYMPH](https://open.spotify.com/track/6wmn9nN4of6GOnJ15qWfjU) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [CUTIEMARKS \(And the Things That Bind Us\)](https://open.spotify.com/album/5gm9CpZupuvq1cFVvdvdPB) | 4:02 | 2025-07-05 |  |
+| [anxiety](https://open.spotify.com/track/0nlySXaY4zkVNNmFfXO8FS) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [chattybaxi](https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj) | [anxiety](https://open.spotify.com/album/7FB48AGZIDX4JkMqsOjWlX) | 1:51 | 2025-07-18 |  |
 | [April's Fool](https://open.spotify.com/track/16MZjQqrS1Dvni4IxKrJh4) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [Don't Waste Good Names on an EP](https://open.spotify.com/album/2ShEAf3Yx2jb6fSzjp5S6D) | 3:22 | 2024-05-28 |  |
 | [Are you for me?](https://open.spotify.com/track/2mOw8RRSIC6wPocTRuaITf) | [Koa](https://open.spotify.com/artist/1D2fuywbAodeGUc1xitNJ7) | [Circles](https://open.spotify.com/album/4efUO1YCPDx3mrcaSGFbrD) | 2:24 | 2024-05-28 |  |
 | [Around You](https://open.spotify.com/track/5ehLnLEsE4bcJW1ad2RWlx) | [Khaliber](https://open.spotify.com/artist/27uhOz3aj61Jbvnoc0yUrH), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Pagan Pegasus](https://open.spotify.com/artist/6PjziLb2WCuAT7QInQt8vX), [T1M3K33P3R](https://open.spotify.com/artist/6LEePlrr96IOh11y11tlte) | [Around You](https://open.spotify.com/album/4W5A1Nsd7RTcl5br0sdLaR) | 3:08 | 2024-02-23 |  |

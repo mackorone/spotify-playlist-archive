@@ -536,6 +536,10 @@
         {
           "name": "Sandeep Shrivastava",
           "url": "https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
         }
       ],
       "date_added": "2025-07-11",
@@ -710,7 +714,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 218724,
       "name": "Dil Banjaara - From \"Kaalidhar Laapata\"",
       "url": "https://open.spotify.com/track/7ef4CiVjsaAi6YKIQSrQhR"
@@ -1044,7 +1048,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 193622,
       "name": "Hosh Kaha Hai",
       "url": "https://open.spotify.com/track/4yrc04uld3JOTr6JxM73OU"
@@ -1289,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Jahaan Hain Tujhse",
+        "url": "https://open.spotify.com/album/0rUNtvScmKYPlbvobOLMO5"
+      },
+      "artists": [
+        {
+          "name": "Om Bhalerao",
+          "url": "https://open.spotify.com/artist/3DQVNIxH7UFpwieVINPQeF"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Jahaan Hain Tujhse",
+      "url": "https://open.spotify.com/track/5fYsx59aKIAHK9mOuoKXDm"
+    },
+    {
+      "album": {
         "name": "Jee Na Paaye",
         "url": "https://open.spotify.com/album/7ddSBdRGiFibkVZsqEztuL"
       },
@@ -1412,6 +1434,36 @@
       "duration_ms": 163899,
       "name": "Kaise Ho Tum",
       "url": "https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim"
+    },
+    {
+      "album": {
+        "name": "Son Of Sardaar 2",
+        "url": "https://open.spotify.com/album/1o4KfwcqqrXwn6KsWMKkkP"
+      },
+      "artists": [
+        {
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195100,
+      "name": "Kali Ainak",
+      "url": "https://open.spotify.com/track/776UVW6sTcUVlynZ5r8dhe"
     },
     {
       "album": {
@@ -1905,6 +1957,36 @@
     },
     {
       "album": {
+        "name": "Son Of Sardaar 2",
+        "url": "https://open.spotify.com/album/1o4KfwcqqrXwn6KsWMKkkP"
+      },
+      "artists": [
+        {
+          "name": "Harsh Upadhyay",
+          "url": "https://open.spotify.com/artist/3y0Y3G1hDwoQv48m7U6NdU"
+        },
+        {
+          "name": "Jay Mavani",
+          "url": "https://open.spotify.com/artist/0ve4WGc6I3yRjd1vyDS7eN"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Pranav Vatsa",
+          "url": "https://open.spotify.com/artist/0ULukl02WRv4XNhnxT6OWR"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213152,
+      "name": "Nazar Battu",
+      "url": "https://open.spotify.com/track/5vRJOAa7gYCcvHn5ETs4ns"
+    },
+    {
+      "album": {
         "name": "Nazara (From \"Aankhon Ki Gustaakhiyan\")",
         "url": "https://open.spotify.com/album/3313HgfGwFWXd7stwk5jyQ"
       },
@@ -1938,7 +2020,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 153711,
       "name": "O Soneya",
       "url": "https://open.spotify.com/track/7LjP1dq5r0t36fhG2Ft3n8"
@@ -1986,6 +2068,28 @@
       "duration_ms": 231140,
       "name": "Pehla Tu Duja Tu (From \"Son Of Sardaar 2\")",
       "url": "https://open.spotify.com/track/7ifZHMfYIE9yL5dBo8qqHF"
+    },
+    {
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4j3Q0oWVdnU3pw0Y8G8h06"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207916,
+      "name": "Phir Na Milenge",
+      "url": "https://open.spotify.com/track/1eTTBpmpHHe0Or4hZ54qJV"
     },
     {
       "album": {
@@ -2282,7 +2386,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 167045,
       "name": "Saiyyan Na Maane",
       "url": "https://open.spotify.com/track/1k2YAgMhCzveYZkNcloocK"
@@ -2716,7 +2820,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 276375,
       "name": "the search",
       "url": "https://open.spotify.com/track/4niKbGcfQW3MJpciMWxEJS"
@@ -2742,6 +2846,28 @@
       "duration_ms": 180248,
       "name": "Thodi Si Daaru",
       "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
+    },
+    {
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4j3Q0oWVdnU3pw0Y8G8h06"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Toot Gaya",
+      "url": "https://open.spotify.com/track/28vq8tUVGxs6Xk8F1VceDa"
     },
     {
       "album": {

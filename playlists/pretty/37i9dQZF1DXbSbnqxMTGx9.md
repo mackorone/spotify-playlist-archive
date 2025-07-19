@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,132,720 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,133,075 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 53 | [I Love King Selassie](https://open.spotify.com/track/1m8km5zdC0WDsdwKnCZ6sa) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:29 |
 | 54 | [Forward Ever Backward Never](https://open.spotify.com/track/37UsDnU8CMBbZ1bV1WZAkz) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:05 |
 | 55 | [Street Corner](https://open.spotify.com/track/1lUhuX9dXk4U1xSsx4p74z) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 3:03 |
-| 56 | [Illya Kuryakin](https://open.spotify.com/track/55f5wRhUlYivT5RoFulIbl) | [Ike Bennett & The Crystalites](https://open.spotify.com/artist/1TA2u2QNYt7wxULMk9uPnZ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:21 |
-| 57 | [La La Bam\-Bam](https://open.spotify.com/track/7z9tKI5lpgMmvEsVpchGiz) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:47 |
+| 56 | [La La Bam\-Bam](https://open.spotify.com/track/7z9tKI5lpgMmvEsVpchGiz) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:47 |
+| 57 | [Illya Kuryakin](https://open.spotify.com/track/55f5wRhUlYivT5RoFulIbl) | [Ike Bennett & The Crystalites](https://open.spotify.com/artist/1TA2u2QNYt7wxULMk9uPnZ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:21 |
 | 58 | [Dr\. Dekker](https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:55 |
 | 59 | [Ballistic Affair](https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl) | [Leroy Smart](https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:13 |
 | 60 | [Babylon](https://open.spotify.com/track/7EKP7Qa6F4GKtxxnlLLxnV) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:20 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 91 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
 | 92 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
 | 93 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
-| 94 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
-| 95 | [Life](https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA) | 3:42 |
-| 96 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
-| 97 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
-| 98 | [Here I Am Baby](https://open.spotify.com/track/3k43Kjy0zLxAzE0VdxzCvB) | [Al Brown](https://open.spotify.com/artist/7vFFeBpCQpQq4YYm9qsAKk) | [Simply Reggae](https://open.spotify.com/album/1stTDEXohrHtgoG6mvr1AD) | 4:11 |
-| 99 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
-| 100 | [Red Red Wine](https://open.spotify.com/track/1DLe77IuTY32Lj3Kh50Uzi) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:02 |
+| 94 | [Pass The Dutchie](https://open.spotify.com/track/7iWk45E2wIpFc3YUWm3VVn) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/5IdwXEZnCs41jsRzYg6IVM) | 3:24 |
+| 95 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
+| 96 | [Life](https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA) | 3:42 |
+| 97 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
+| 98 | [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 |
+| 99 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
+| 100 | [Here I Am Baby](https://open.spotify.com/track/3k43Kjy0zLxAzE0VdxzCvB) | [Al Brown](https://open.spotify.com/artist/7vFFeBpCQpQq4YYm9qsAKk) | [Simply Reggae](https://open.spotify.com/album/1stTDEXohrHtgoG6mvr1AD) | 4:11 |
 
 Snapshot ID: `ZpD3ewAAAAAuqBXwCaQuYYvR5ZILQp2M`

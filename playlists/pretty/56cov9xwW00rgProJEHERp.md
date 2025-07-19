@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,514 likes - 99 songs - 5 hr 45 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,514 likes - 103 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,9 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 97 | [Last Name](https://open.spotify.com/track/2NRXoDCQ8e0NGmGLWqyP1s) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Last Name](https://open.spotify.com/album/7DYUTwehPLO68ul4LSTq5O) | 3:47 |
 | 98 | [to be held](https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [to be held](https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI) | 3:54 |
 | 99 | [family party](https://open.spotify.com/track/4WXhsnnPXl3EtRElw9G4EF) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [family party](https://open.spotify.com/album/6W5VZbgjiI0SyoL9p3GKD0) | 2:19 |
+| 100 | [Oranges](https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 2:52 |
+| 101 | [Enigami \(with Mei Semones\)](https://open.spotify.com/track/1WCDMaCfChlyJo6qD281x4) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Enigami \(with Mei Semones\)](https://open.spotify.com/album/72uSrGrIdFXdzTLhsmU65O) | 2:30 |
+| 102 | [Spill My Wine](https://open.spotify.com/track/2i1wCVx8fkd4SqraEb97C5) | [Clara Smallman](https://open.spotify.com/artist/77tfrMyPTZhylacDaqY8SQ) | [Spill My Wine](https://open.spotify.com/album/6gd0ZuJxPETARwjH6n9q3p) | 5:09 |
+| 103 | [Lovesick](https://open.spotify.com/track/2HLozrMrP9kSZTjRPWWlyF) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Lovesick](https://open.spotify.com/album/1KBbXD1cmVf0Xgyqptyl1F) | 3:19 |
 
-Snapshot ID: `AAAVhLLdRo6J0qwdTbVpfh2x5pCMwMNg`
+Snapshot ID: `AAAViJq+dOSPJvkm9rhNxhUFwhnW90QI`

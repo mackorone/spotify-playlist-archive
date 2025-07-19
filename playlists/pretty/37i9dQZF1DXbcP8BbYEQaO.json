@@ -1,13 +1,29 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 276631,
+  "num_followers": 276623,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHCMUwAAAACo84YBP3m9LO5aToCtQllP",
+  "snapshot_id": "aHnOkgAAAACiO9+Cf94MQ+qBVZa9roL9",
   "tracks": [
+    {
+      "added_at": "2025-07-18 04:33:22",
+      "album": {
+        "name": "needle and thread",
+        "url": "https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "needle and thread",
+      "url": "https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA"
+    },
     {
       "added_at": "2025-07-11 04:00:19",
       "album": {
@@ -109,6 +125,22 @@
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
+      "added_at": "2025-07-18 04:00:32",
+      "album": {
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/40WL9iL1HCYnppQLDbRuGJ"
+      },
+      "artists": [
+        {
+          "name": "PHEA",
+          "url": "https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL"
+        }
+      ],
+      "duration_ms": 164338,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/7A6BREshRrCXX6nWgGLSan"
+    },
+    {
       "added_at": "2025-07-11 04:00:19",
       "album": {
         "name": "Moonlight",
@@ -161,6 +193,22 @@
       "url": "https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos"
     },
     {
+      "added_at": "2025-07-18 04:00:32",
+      "album": {
+        "name": "I luv that babe",
+        "url": "https://open.spotify.com/album/4Tkh0wRWbGH1qLq00laUYc"
+      },
+      "artists": [
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "I luv that babe",
+      "url": "https://open.spotify.com/track/6ZT6neqII47y0pj6jekfS4"
+    },
+    {
       "added_at": "2025-06-20 04:00:49",
       "album": {
         "name": "Odin St",
@@ -191,22 +239,6 @@
       "duration_ms": 179853,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK"
-    },
-    {
-      "added_at": "2025-06-20 04:00:49",
-      "album": {
-        "name": "Lion",
-        "url": "https://open.spotify.com/album/619Wh8C4Di3SWsdyeYrhFq"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "Lion",
-      "url": "https://open.spotify.com/track/5aM7hLOmeWtQt0M8wAJQ8k"
     },
     {
       "added_at": "2025-06-13 04:01:00",
@@ -727,26 +759,6 @@
       "duration_ms": 197586,
       "name": "DISCO (FT. TOMMY GENESIS)",
       "url": "https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC"
-    },
-    {
-      "added_at": "2025-01-10 05:00:43",
-      "album": {
-        "name": "Disco Nap",
-        "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Disco Nap",
-      "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
     },
     {
       "added_at": "2025-01-24 05:00:50",
@@ -1303,22 +1315,6 @@
       "duration_ms": 197080,
       "name": "VAN GOGH",
       "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Lost In The Moment",
-        "url": "https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ"
-      },
-      "artists": [
-        {
-          "name": "Blanks",
-          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
-        }
-      ],
-      "duration_ms": 153214,
-      "name": "Lost In The Moment",
-      "url": "https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa"
     },
     {
       "added_at": "2024-08-30 04:00:00",

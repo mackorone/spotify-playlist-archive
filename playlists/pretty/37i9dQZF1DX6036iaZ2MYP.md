@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: 1da Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,846 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,304 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 9 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
 | 10 | [Sha Na \(with Minz\)](https://open.spotify.com/track/3UArau2uq69qp4UaptkKAL) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Sha Na \(with Minz\)](https://open.spotify.com/album/5wnNA3swYhPsAXWaN03pHO) | 2:50 |
 | 11 | [Mamadona](https://open.spotify.com/track/4bCbJ8BY8LFCh0XQP6rVB9) | [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Mamadona](https://open.spotify.com/album/2MXUTTjpheKu416Ek1e1Ho) | 2:45 |
-| 12 | [SOAK](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [SOAK](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 |
+| 12 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 |
 | 13 | [CELUI QUE T'AS CONNU](https://open.spotify.com/track/7fyJQ3isSNCtiJV34aD8td) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [NO MAN'S LAND](https://open.spotify.com/album/27vmqM2BAbsocmzcmXHhcn) | 2:12 |
 | 14 | [Ewo](https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 3:00 |
 | 15 | [Amina](https://open.spotify.com/track/5ajTBYcxM2mxKZICrHYVwn) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Amina](https://open.spotify.com/album/69pKKJ6chCJGwvzQuiks3C) | 2:34 |

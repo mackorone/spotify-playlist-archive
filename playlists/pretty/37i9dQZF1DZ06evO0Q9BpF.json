@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 48119,
+  "num_followers": 48128,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAAxXBVno5t03nldzhOntIf+",
+  "snapshot_id": "aHg9AAAAAAA/lmf0VI1T9cJUkre1sNS1",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 389946,
-      "name": "La Nube De Tu Gloria",
-      "url": "https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH"
+      "duration_ms": 208733,
+      "name": "Mientras Viva",
+      "url": "https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI"
     },
     {
       "added_at": null,
@@ -703,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Mientras Viva",
-      "url": "https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI"
+      "duration_ms": 389946,
+      "name": "La Nube De Tu Gloria",
+      "url": "https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-13",
-  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Anuel AA",
+  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Cover: Bad Bunny",
   "name": "\u00c9xitos Puerto Rico",
   "tracks": [
     {
@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "ALAMBRE P\u00faA",
+        "url": "https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146017,
+      "name": "ALAMBRE P\u00faA",
+      "url": "https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -450,7 +468,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 186791,
       "name": "Amber (with Omar Courtz)",
       "url": "https://open.spotify.com/track/3XoLRrcg9ga7Op6Y6NIdpn"
@@ -3770,7 +3788,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 159501,
       "name": "Lolly (with Clarent)",
       "url": "https://open.spotify.com/track/4B18y89IGhU1XbTzDK8Q4k"
@@ -3892,6 +3910,36 @@
       "duration_ms": 230400,
       "name": "Los Rockstar No Van Al Cielo",
       "url": "https://open.spotify.com/track/5bh8LBXTKPJ8nl9yWuonqo"
+    },
+    {
+      "album": {
+        "name": "Los Rockstar No Van Al Cielo (Remix)",
+        "url": "https://open.spotify.com/album/3uqKgqJu5XEBTZEYWzgiOF"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297623,
+      "name": "Los Rockstar No Van Al Cielo - Remix",
+      "url": "https://open.spotify.com/track/63NzbBRuMRtzMNKhL0RizU"
     },
     {
       "album": {
@@ -4610,7 +4658,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 392258,
       "name": "MUVI",
       "url": "https://open.spotify.com/track/73hUKLJJqRRBPNZulaqZtt"
@@ -4918,7 +4966,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 161964,
       "name": "No Signal",
       "url": "https://open.spotify.com/track/6xHIG58E2FngeHZ2t33wg3"
@@ -6284,7 +6332,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 206946,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez"
@@ -6977,6 +7025,32 @@
     },
     {
       "album": {
+        "name": "SUERTE",
+        "url": "https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "Slow Jamz",
+          "url": "https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193654,
+      "name": "SUERTE",
+      "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"
+    },
+    {
+      "album": {
         "name": "Tacos Gucci",
         "url": "https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5"
       },
@@ -7072,6 +7146,24 @@
       "duration_ms": 156506,
       "name": "TE VI EN MIS PESADILLAS",
       "url": "https://open.spotify.com/track/3vfq1ovR6oBGJPvoy4Oy1B"
+    },
+    {
+      "album": {
+        "name": "ISLAND BOYZ",
+        "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211101,
+      "name": "TENGO CELOS",
+      "url": "https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq"
     },
     {
       "album": {
@@ -7700,6 +7792,28 @@
       "duration_ms": 186000,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
+    },
+    {
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210047,
+      "name": "Verano Rosa",
+      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
     },
     {
       "album": {

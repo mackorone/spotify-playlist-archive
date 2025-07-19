@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3013,
+  "num_followers": 3015,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADzE6hBUMbVx8aY/1ujrqnk",
+  "snapshot_id": "aHg9AAAAAAAi5bon+p3iz/TlEVdoJnoP",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUALIDAD",
-        "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 201499,
-      "name": "DUALIDAD - feat. Esteman",
-      "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUALIDAD",
+        "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 201499,
+      "name": "DUALIDAD - feat. Esteman",
+      "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
     },
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRANSFORMANDO",
-        "url": "https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "TRANSFORMANDO - feat. Ximena Sari\u00f1ana",
-      "url": "https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Lo Que Llega La Primavera",
         "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/4d7FYD48HxrJc7HcmjHmGN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRANSFORMANDO",
+        "url": "https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "TRANSFORMANDO - feat. Ximena Sari\u00f1ana",
+      "url": "https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 328018,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRAVEDAD",
         "url": "https://open.spotify.com/album/2yV4CHrPLbeYTB9U0jbrOB"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 179586,
       "name": "GRAVEDAD - feat. \u00c7antamarta",
       "url": "https://open.spotify.com/track/3g1ag6GtD3ntvNWfw0ub04"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 328018,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontr\u00e9",
-        "url": "https://open.spotify.com/album/5ddBTNmz3PTFRRvW3mmcZJ"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Paulino Monroy",
-          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
-        }
-      ],
-      "duration_ms": 196207,
-      "name": "Encontr\u00e9",
-      "url": "https://open.spotify.com/track/7aCYpJHSFGGFYP5e0hEcfe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 260526,
       "name": "Puro Pasado",
       "url": "https://open.spotify.com/track/3pjRiGXyrXcRwrcHHhyzO0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encontr\u00e9",
+        "url": "https://open.spotify.com/album/5ddBTNmz3PTFRRvW3mmcZJ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Paulino Monroy",
+          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
+        }
+      ],
+      "duration_ms": 196207,
+      "name": "Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7aCYpJHSFGGFYP5e0hEcfe"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OPTEMOS",
-        "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "OPTEMOS",
-      "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -607,28 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fue Solo un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Fue Solo un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+        "name": "OPTEMOS",
+        "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
       },
       "artists": [
         {
@@ -636,13 +596,13 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         },
         {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 91658,
-      "name": "OJO DE DIOS",
-      "url": "https://open.spotify.com/track/71KjTsyGt8v43JMFtg82Aj"
+      "duration_ms": 178500,
+      "name": "OPTEMOS",
+      "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
     },
     {
       "added_at": null,
@@ -663,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 205576,
+      "name": "CONTRACORRIENTE",
+      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 219449,
       "name": "Hbls Mucho",
       "url": "https://open.spotify.com/track/5bR2TZ4Umy1W5ItjCT0GYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fue Solo un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Fue Solo un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
       "duration_ms": 230921,
       "name": "beso",
       "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 203633,
-      "name": "Hasta la Fantas\u00eda",
-      "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
     },
     {
       "added_at": null,

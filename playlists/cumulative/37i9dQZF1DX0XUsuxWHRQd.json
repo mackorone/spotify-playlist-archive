@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Drake, Travis Scott and The Clipse.",
+  "description": "New music from Travis Scott's JACKBOYS collective.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -225,6 +225,28 @@
     },
     {
       "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/5ZqVzbaifdjMAYbIRDfFGy"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289426,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/0Qopdd7xJyhNd3tcvZEAgG"
+    },
+    {
+      "album": {
         "name": "E. 1999 Eternal",
         "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
       },
@@ -236,7 +258,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 314680,
       "name": "1st of Tha Month",
       "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
@@ -838,7 +860,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 190581,
       "name": "4X4",
       "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
@@ -1574,7 +1596,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 154066,
       "name": "Ace Trumpets",
       "url": "https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi"
@@ -1692,6 +1714,28 @@
       "duration_ms": 158332,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/4eIT2gZ0WZyJpgfmoD6saJ"
+    },
+    {
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/2vtoNlKHu3xNePj5kdbj1c"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221758,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/1VrODX54oswn1CrX9mf8jX"
     },
     {
       "album": {
@@ -2432,7 +2476,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 348144,
       "name": "Animals (Pt. I) [with Eminem]",
       "url": "https://open.spotify.com/track/3QKXo5IoMxnVwNm2bMRiVc"
@@ -6586,7 +6630,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 151912,
       "name": "Boys Don\u2019t Cry",
       "url": "https://open.spotify.com/track/6aCzWpIVNoaT8OTeQ3w8If"
@@ -20756,7 +20800,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 168066,
       "name": "I WANNA WIN - from the Short Film \"Red Clay\"",
       "url": "https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi"
@@ -21123,6 +21167,36 @@
     },
     {
       "album": {
+        "name": "ICED TEA (feat. 21 Savage, Project Pat & Coupe)",
+        "url": "https://open.spotify.com/album/4CxFVh0Sql5np80VHTKqbl"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        },
+        {
+          "name": "Coupe",
+          "url": "https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "ICED TEA (feat. 21 Savage, Project Pat & Coupe)",
+      "url": "https://open.spotify.com/track/48cyq6H1Ec3C1fGvoJFpSA"
+    },
+    {
+      "album": {
         "name": "Icy Chain",
         "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
       },
@@ -21290,6 +21364,28 @@
       "duration_ms": 173440,
       "name": "ILL WHAT I BLEED",
       "url": "https://open.spotify.com/track/2k8JxnsUCkaxpE50KTGFHn"
+    },
+    {
+      "album": {
+        "name": "IM YEAT",
+        "url": "https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168549,
+      "name": "IM YEAT",
+      "url": "https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC"
     },
     {
       "album": {
@@ -23104,7 +23200,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 230400,
       "name": "Kickboxer",
       "url": "https://open.spotify.com/track/1DZVU51224wv6TtRvAzmaZ"
@@ -26788,7 +26884,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 284000,
       "name": "Messiah (Devil's Diss)",
       "url": "https://open.spotify.com/track/2wgcsZWtqctDORc2eSoKNQ"
@@ -27200,6 +27296,24 @@
       "duration_ms": 201173,
       "name": "MLK BLVD (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/0hXWc7YdbXNgIC614mPfg4"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174532,
+      "name": "MM3",
+      "url": "https://open.spotify.com/track/2D8i2yY8z3kB5gRaUJ5weK"
     },
     {
       "album": {
@@ -31671,6 +31785,28 @@
     },
     {
       "album": {
+        "name": "Outfit (with 21 Savage)",
+        "url": "https://open.spotify.com/album/6w8kBHoOsT1tvoNO05BTwj"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Outfit (with 21 Savage)",
+      "url": "https://open.spotify.com/track/6mxKWahJzbv7SVF8nkZwLT"
+    },
+    {
+      "album": {
         "name": "WHAM",
         "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
       },
@@ -31686,7 +31822,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 177000,
       "name": "Outfit (with 21 Savage)",
       "url": "https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr"
@@ -43760,7 +43896,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 164897,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8"
@@ -49339,6 +49475,32 @@
     },
     {
       "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272941,
+      "name": "WHERE WAS YOU",
+      "url": "https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe"
+    },
+    {
+      "album": {
         "name": "A Demon In 6lue",
         "url": "https://open.spotify.com/album/40zMiWd6ctIydNFnPgqdM3"
       },
@@ -50012,6 +50174,24 @@
       "duration_ms": 217880,
       "name": "Wockesha (with Lil Wayne & Ashanti) - Remix",
       "url": "https://open.spotify.com/track/3mLx5JNbIi12thSZ4ExWHg"
+    },
+    {
+      "album": {
+        "name": "Woke Up / The Face",
+        "url": "https://open.spotify.com/album/58M14WhzI5uN9Yg2jbII9L"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133877,
+      "name": "Woke Up",
+      "url": "https://open.spotify.com/track/3Pu6ami9THr2rDArjZ0Oqg"
     },
     {
       "album": {

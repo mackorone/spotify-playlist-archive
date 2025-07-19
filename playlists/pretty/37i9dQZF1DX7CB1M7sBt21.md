@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,432 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,444 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 59 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ) | 2:46 |
 | 60 | [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 |
 | 61 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 |
-| 62 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
-| 63 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 |
+| 62 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 |
+| 63 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
 | 64 | [SLEEP TONIGHT \(THIS IS THE LIFE\) \- with R3HAB and Sam Feldt](https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [SLEEP TONIGHT \(THIS IS THE LIFE\) \[with R3HAB and Sam Feldt\]](https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru) | 2:16 |
 | 65 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 |
 | 66 | [Tokyo](https://open.spotify.com/track/4obMuJXFa9APNiFtlQHFBh) | [Dwin](https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd), [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Tokyo](https://open.spotify.com/album/3vTD4MwDGe43XjKk0eNCNg) | 2:12 |

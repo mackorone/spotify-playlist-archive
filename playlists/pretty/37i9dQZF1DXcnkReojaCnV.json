@@ -1,522 +1,438 @@
 {
-  "description": "<a href=\"spotify:artist:1aTDTChWWyiJH3SEnYrdVp\">Taj Mahal</a> and <a href=\"spotify:artist:6iDaoPZVgxrTkndDCisX8F\">Keb' Mo'</a> are taking over to share their blues favorites",
-  "num_followers": 473959,
-  "original_name": "In the Name of the Blues: Taj Mahal & Keb' Mo' Takeover",
+  "description": "<a href=\"spotify:artist:2SNzxY1OsSCHBLVi77mpPQ\">Joe Bonamassa</a> is taking over to share his blues favorites",
+  "num_followers": 473987,
+  "original_name": "In the Name of the Blues: Joe Bonamassa Takeover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDB1UAAAAAD1RVjRa0Uq4z2+dr7PmKHy",
+  "snapshot_id": "aHp9rQAAAABHTW/M/9KOb0G2Jbt5gY8g",
   "tracks": [
     {
-      "added_at": "2025-05-23 13:17:04",
+      "added_at": "2025-07-18 17:00:29",
       "album": {
-        "name": "Room On The Porch [Feat. Ruby Amanfu]",
-        "url": "https://open.spotify.com/album/0JfWoPk879EM5WZDjlbpCH"
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        },
-        {
-          "name": "Ruby Amanfu",
-          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 245482,
-      "name": "Room On The Porch [Feat. Ruby Amanfu]",
-      "url": "https://open.spotify.com/track/7pP1IYTzfviqtXtXEjy4ae"
+      "duration_ms": 418120,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/5SC1EaTcQ4ndI9sQkHpjVT"
     },
     {
-      "added_at": "2025-05-23 13:17:04",
+      "added_at": "2025-07-18 17:00:29",
       "album": {
-        "name": "I'm Jimmy Reed",
-        "url": "https://open.spotify.com/album/4dWBAPMMPEkot90oS5h4UY"
+        "name": "Blues Chase The Blues Away",
+        "url": "https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx"
       },
       "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "You Don't Have To Go",
-      "url": "https://open.spotify.com/track/5WiDYbAx2kqcf1QvSGypDX"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Leaps And Bounds",
-        "url": "https://open.spotify.com/album/7BPFyFzT4e9dxYFQ1QRo6n"
-      },
-      "artists": [
-        {
-          "name": "Bill Doggett",
-          "url": "https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Honky Tonk Pt. 1",
-      "url": "https://open.spotify.com/track/17vPHgh4mReVZZNKEoTqmB"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Leaps And Bounds",
-        "url": "https://open.spotify.com/album/7BPFyFzT4e9dxYFQ1QRo6n"
-      },
-      "artists": [
-        {
-          "name": "Bill Doggett",
-          "url": "https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY"
-        }
-      ],
-      "duration_ms": 156226,
-      "name": "Honky Tonk Pt 2",
-      "url": "https://open.spotify.com/track/0glCNGEoJQKfNS96TgW9oJ"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "My Darling My Dear",
-        "url": "https://open.spotify.com/album/2otFFJsMi2j3dG0pB1sUNI"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 260653,
-      "name": "Junkyard Dog",
-      "url": "https://open.spotify.com/track/6B4jSkEcmSsckivT1KjTPX"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "TajMo",
-        "url": "https://open.spotify.com/album/5BNZeSCIoOtJcxmG6kRJEl"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 268346,
-      "name": "Diving Duck Blues",
-      "url": "https://open.spotify.com/track/53pwDJrjKebdQdPKoluuQz"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "The Genius Sings the Blues",
-        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "The Right Time",
-      "url": "https://open.spotify.com/track/1piX68vNesm5gA3ZRM3z6Y"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Rockin\u2019 Classics",
-        "url": "https://open.spotify.com/album/4ySPLzGC1NUc78dp9IoFYV"
-      },
-      "artists": [
-        {
-          "name": "Ray Sharpe",
-          "url": "https://open.spotify.com/artist/4Tnu2xPRWy7IsD0ja3WP7D"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Linda Lu",
-      "url": "https://open.spotify.com/track/5eFtAb55Lmb9wj739PBi0O"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Little Brother Montgomery (1930-1954)",
-        "url": "https://open.spotify.com/album/0FDwQ6Uy56ez9wsm6gsdrx"
-      },
-      "artists": [
-        {
-          "name": "Little Brother Montgomery",
-          "url": "https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz"
-        }
-      ],
-      "duration_ms": 194403,
-      "name": "Vicksburg Blues",
-      "url": "https://open.spotify.com/track/38XrBJszxnGA5y6jZnrsAP"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "My Darling My Dear",
-        "url": "https://open.spotify.com/album/2otFFJsMi2j3dG0pB1sUNI"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "My Darling My Dear",
-      "url": "https://open.spotify.com/track/74B59u2Q87CZ2IJFKirdpM"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Oh Me, Oh My",
-        "url": "https://open.spotify.com/album/5iH7mjO3slFhxigRPVTb5i"
-      },
-      "artists": [
-        {
-          "name": "Jessie Hill",
-          "url": "https://open.spotify.com/artist/0LeecN3yVUDsHFFzrTLp5v"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Ooh Poo Pah Doo, Part 1",
-      "url": "https://open.spotify.com/track/2LZ670fNl1hhi58pP9my0Q"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 139760,
-      "name": "Shake For Me",
-      "url": "https://open.spotify.com/track/5kj3Q1fVwgb2f8SxFT6bD5"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Music Fuh Ya' (Musica Para Tu)",
-        "url": "https://open.spotify.com/album/5WpJGo7sLd1zGx4CjWSQ71"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 286333,
-      "name": "Freight Train",
-      "url": "https://open.spotify.com/track/53oVXPr7TTjvrAq2xQ5zqr"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Room On The Porch",
-        "url": "https://open.spotify.com/album/6EALtPtZMwrtaKVOtvJFg7"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        },
-        {
-          "name": "Wendy Moten",
-          "url": "https://open.spotify.com/artist/6X0dG1JElAP4z0ardgJGjY"
-        }
-      ],
-      "duration_ms": 303765,
-      "name": "Better Than Ever [Feat. Wendy Moten]",
-      "url": "https://open.spotify.com/track/3xNy8TMHYO6bhrfoHYASuO"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Blues With A Feeling",
-      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "TajMo",
-        "url": "https://open.spotify.com/album/5BNZeSCIoOtJcxmG6kRJEl"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "Don't Leave Me Here",
-      "url": "https://open.spotify.com/track/6YYGRnnA5b9H2WP130ITPd"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Blues Jam in Chicago, Vol. 2",
-        "url": "https://open.spotify.com/album/0wLDpHkO9TN4SPeysHnajk"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 346426,
-      "name": "Hungry Country Girl",
-      "url": "https://open.spotify.com/track/3kBTC2FUe4Wd5oMj3NlwNn"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Howlin' For My Darlin'",
-      "url": "https://open.spotify.com/track/4LYZ56NfIsuIizQewrfEr9"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Room On The Porch",
-        "url": "https://open.spotify.com/album/6EALtPtZMwrtaKVOtvJFg7"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 222098,
-      "name": "Nobody Knows You When You\u2019re Down And Out",
-      "url": "https://open.spotify.com/track/0yolueQDOjP2AtvD3vJw6K"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "If I Had My Way: Early Home Recordings",
-        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 286426,
-      "name": "If I Had My Way",
-      "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Father Of The Delta Blues: The Complete 1965 Sessions",
-        "url": "https://open.spotify.com/album/5SsZBxF3sRSJnFd0rZ3vcF"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 259160,
-      "name": "Death Letter Blues",
-      "url": "https://open.spotify.com/track/0W0euvQlhbcsTydzsD4EQk"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Good Morning Schoolgirl",
-      "url": "https://open.spotify.com/track/0jcggWMJbg0VfBsuiWb57T"
+      "duration_ms": 289600,
+      "name": "Blues Chase The Blues Away",
+      "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
     },
     {
-      "added_at": "2025-05-23 13:17:04",
+      "added_at": "2025-07-18 17:00:29",
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+        "name": "Hold Of My Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/0mzTOuC6sVkzUpkuiYZmAG"
       },
       "artists": [
         {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 173533,
-      "name": "Back Door Man",
-      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
+      "duration_ms": 227455,
+      "name": "Hold Of My Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/3HlPerCgO0rf8kaB9FaWBs"
     },
     {
-      "added_at": "2025-05-23 13:17:04",
+      "added_at": "2025-07-18 17:00:29",
       "album": {
-        "name": "Blues At Home 2",
-        "url": "https://open.spotify.com/album/7p6xBQmWvYoO7JK4Obdtkc"
+        "name": "Written In The Stars",
+        "url": "https://open.spotify.com/album/5fBzydK76i4ySit3yvEqL6"
       },
       "artists": [
         {
-          "name": "Sam Chatmon",
-          "url": "https://open.spotify.com/artist/43zvSKiJXk1dzluo4Vum5J"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/5o70eqFclRStLVu1gBMgs1"
-    },
-    {
-      "added_at": "2025-05-23 13:17:04",
-      "album": {
-        "name": "TajMo",
-        "url": "https://open.spotify.com/album/5BNZeSCIoOtJcxmG6kRJEl"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "Chambers DesLauriers",
+          "url": "https://open.spotify.com/artist/1arcq3eCE5lXEA9XwOhj72"
         },
         {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "Annika Chambers",
+          "url": "https://open.spotify.com/artist/4wHfKN1JrTybnWW4cK82SJ"
+        },
+        {
+          "name": "Paul Deslauriers",
+          "url": "https://open.spotify.com/artist/241SeN4DdAtszd339F7xMh"
         }
       ],
-      "duration_ms": 202160,
-      "name": "All Around The World",
-      "url": "https://open.spotify.com/track/6ZeSrUdJ9sqZI3Qs5dftoc"
+      "duration_ms": 189226,
+      "name": "Written In The Stars",
+      "url": "https://open.spotify.com/track/0VQaWR6CMXM5TqI9uAAFKu"
     },
     {
-      "added_at": "2025-05-23 13:17:04",
+      "added_at": "2025-07-18 17:00:29",
       "album": {
-        "name": "Presenting Tampa Red",
-        "url": "https://open.spotify.com/album/0rkgubKMe8PInoXKK5NWcU"
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
       "artists": [
         {
-          "name": "Tampa Red",
-          "url": "https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 172493,
-      "name": "You Can't Get That Stuff No More",
-      "url": "https://open.spotify.com/track/15co8gy9duJ3D0bRgVqddi"
+      "duration_ms": 214640,
+      "name": "I'll Take The Blame",
+      "url": "https://open.spotify.com/track/0f0URCUVpgCJdmu3VjsiI6"
     },
     {
-      "added_at": "2025-05-23 13:17:04",
+      "added_at": "2025-07-18 17:00:29",
       "album": {
-        "name": "Blind Willie McTell -Statesboro Blues - The Early Years 1927-1935",
-        "url": "https://open.spotify.com/album/1Q2F3ap707VLHoqmMq3DGp"
+        "name": "Talkin' Heavy",
+        "url": "https://open.spotify.com/album/3B613bVZ4d0OVnJwRykrIo"
       },
       "artists": [
         {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/3l4HdjB4azgGjltvL9ov5Y"
+          "name": "D.K. Harrell",
+          "url": "https://open.spotify.com/artist/33YoCLWWu9T6IdrXxCHsyx"
         }
       ],
-      "duration_ms": 152853,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/05Fqtv0hpBriJj803R6x8i"
+      "duration_ms": 275500,
+      "name": "Vibe With Me",
+      "url": "https://open.spotify.com/track/1doli38doVA6Ypm5Z1TnzR"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Somebody (feat. Buddy Guy & Roosevelt Collier)",
+        "url": "https://open.spotify.com/album/5icLCOWWIZiFzHEN5RDavE"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Roosevelt Collier",
+          "url": "https://open.spotify.com/artist/7b10aYN6jh7Dai5c4tshD9"
+        }
+      ],
+      "duration_ms": 239160,
+      "name": "Somebody (feat. Buddy Guy and Roosevelt Collier)",
+      "url": "https://open.spotify.com/track/2qgRPwjxR6PYVr23fwEqTI"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0IMJyZewJS5Lj2WHBG23J3"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "Back To What Feels Right",
+      "url": "https://open.spotify.com/track/5d7DlOz4W7snQiDrRYGqKp"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/7a3lCWnJGFqM0Dyrt23vkb"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Mileage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5HEhRRauT0QRcMtdXAkziu"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 163038,
+      "name": "Hold On I'm Coming",
+      "url": "https://open.spotify.com/track/2g571V5ZiJwrPjKPfmBuMl"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Get Up And Go",
+        "url": "https://open.spotify.com/album/3ArJdGkBSBENlXr5ipXJtU"
+      },
+      "artists": [
+        {
+          "name": "Little Magic Sam",
+          "url": "https://open.spotify.com/artist/7dpdHV7UXA4uvsVivR2HfU"
+        }
+      ],
+      "duration_ms": 187701,
+      "name": "Get Up And Go",
+      "url": "https://open.spotify.com/track/24BQJuprw8xZ48JM0Y6ctp"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Ride On",
+        "url": "https://open.spotify.com/album/5woesXSC5TWdm4a4bqTek3"
+      },
+      "artists": [
+        {
+          "name": "Monica Valli",
+          "url": "https://open.spotify.com/artist/4OAlMIpSOtS2YRNxrkKVV9"
+        }
+      ],
+      "duration_ms": 216001,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/0hxKn7ONOzNsTO0kEX4Rbc"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Young Fashioned Ways",
+        "url": "https://open.spotify.com/album/7mOQINgLEPn6qh11ICNhWp"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        },
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Long Way From Home",
+      "url": "https://open.spotify.com/track/1vVdPBhhh6GV8D4NC5JbjE"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Preacher Kids",
+        "url": "https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph",
+          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
+        }
+      ],
+      "duration_ms": 293760,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6SBBUPEqojwKTEJUZkXFzJ"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Voodoo Charm",
+        "url": "https://open.spotify.com/album/0aaGePntScMAQkV87h4rr3"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Voodoo Charm",
+      "url": "https://open.spotify.com/track/68dgcG0PJyYarPW4LLDaK9"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 295373,
+      "name": "Life After Dark",
+      "url": "https://open.spotify.com/track/1asRUKGIpkIyxUhH6by0T6"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Moses",
+        "url": "https://open.spotify.com/album/5RmDdNSbvDbf5Auccd3o6b"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 252602,
+      "name": "Gold Tooth Devil Blues",
+      "url": "https://open.spotify.com/track/672J6RmsEo29L8CPKULe4S"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Paper Doll",
+        "url": "https://open.spotify.com/album/0Gp2WizYQ34bXTL5vA85Fq"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 344388,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/688joP02CmoHbjB5GpQlpd"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Aim To Please",
+        "url": "https://open.spotify.com/album/1brLX9udYqOn6V6m1mCY5i"
+      },
+      "artists": [
+        {
+          "name": "The Jesse Williams Band",
+          "url": "https://open.spotify.com/artist/25bTqoUyhe5jwszJNB4zwo"
+        }
+      ],
+      "duration_ms": 376602,
+      "name": "Aim To Please",
+      "url": "https://open.spotify.com/track/2dW1rXLh6rNd0sEKKWYklb"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Heartbreak City",
+        "url": "https://open.spotify.com/album/6069Q408vtPl0pcne5egPX"
+      },
+      "artists": [
+        {
+          "name": "Larry McCray",
+          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Try To Be A Good Man",
+      "url": "https://open.spotify.com/track/5gnQVADFxuqnktZ6JLb9xr"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 346413,
+      "name": "Pain's On Me",
+      "url": "https://open.spotify.com/track/1PsuXNLxsQbBPShaXMrBmu"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Hate the Bite",
+        "url": "https://open.spotify.com/album/4BD2bBXb1XwSfVmbg1JQDB"
+      },
+      "artists": [
+        {
+          "name": "Harrell \"Young Rell\" Davenport",
+          "url": "https://open.spotify.com/artist/6iB5eOcGNGZoSMwTUjsEPf"
+        }
+      ],
+      "duration_ms": 152038,
+      "name": "Hate the Bite",
+      "url": "https://open.spotify.com/track/4SxC5JgtEf7Z0Dz7fBFj4Q"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Six String Baby",
+        "url": "https://open.spotify.com/album/55XOFwylsOP9z3liQ7VpMj"
+      },
+      "artists": [
+        {
+          "name": "Striking Matches",
+          "url": "https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar"
+        }
+      ],
+      "duration_ms": 211685,
+      "name": "Six String Baby",
+      "url": "https://open.spotify.com/track/6qlhUpeKhob6WJksrTOshl"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Money & Power",
+        "url": "https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        }
+      ],
+      "duration_ms": 209508,
+      "name": "Feel That Sting",
+      "url": "https://open.spotify.com/track/4sHytClqeMxD1XI5CWXRqT"
+    },
+    {
+      "added_at": "2025-07-18 17:00:29",
+      "album": {
+        "name": "Three Hundred Pounds of Joy",
+        "url": "https://open.spotify.com/album/4OCgflGCqhPAukaiCH3H3T"
+      },
+      "artists": [
+        {
+          "name": "Antone's 50th Allstars",
+          "url": "https://open.spotify.com/artist/3Em3zuDg3PfjRqMQAO4GXE"
+        },
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 287998,
+      "name": "Three Hundred Pounds of Joy",
+      "url": "https://open.spotify.com/track/6apS9KyNIEpZTLwwxHkEEk"
     }
   ],
-  "unique_name": "In the Name of the Blues: Taj Mahal & Keb' Mo' Takeover",
+  "unique_name": "In the Name of the Blues: Joe Bonamassa Takeover",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcnkReojaCnV"
 }

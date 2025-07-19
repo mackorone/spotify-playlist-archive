@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-451 songs - 1 day 0 hr 32 min
+452 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2024-03-27 | 2025-04-06 |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-12-06 | 2022-06-06 |
 | [In the morning](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:52 | 2022-07-04 | 2024-03-28 |
+| [In Your Fantasy](https://open.spotify.com/track/3Z4BxvgOJ8KupcDIV3OV2f) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:12 | 2025-07-18 |  |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-16 | 2025-04-19 |
 | [isle](https://open.spotify.com/track/77yv6fASf9WOxyPm3qqyMc) | [pigfrog](https://open.spotify.com/artist/37sRcX6lbXm3LbG8IHPTkB) | [pigfrog](https://open.spotify.com/album/2BtpxA0g6PcyMzg30T7c0Z) | 3:21 | 2022-03-23 | 2022-04-17 |
 | [It's Beautiful Digging Club Seoul Version](https://open.spotify.com/track/6jMhNF4hbbB8zr7ugpksLe) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Pt\. 3](https://open.spotify.com/album/1wODyT1p1d1XjvwMqIChsM) | 3:54 | 2022-03-23 | 2022-04-19 |
@@ -443,7 +444,7 @@
 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 | 2024-03-27 | 2024-05-03 |
 | [YES or YES](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:57 | 2022-07-04 | 2024-03-28 |
 | [YES or YES](https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x) | 3:57 | 2021-12-28 | 2022-04-29 |
-| [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2024-03-27 |  |
+| [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2024-03-27 | 2025-07-19 |
 | [You make Me](https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:38 | 2021-12-06 | 2022-07-29 |
 | [You&I 인사](https://open.spotify.com/track/6AoISiNZ4ibepHHkBGHvNH) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [You&I 인사](https://open.spotify.com/album/23NbTefiEEVOUKekR8ocYT) | 3:41 | 2022-04-04 | 2022-04-09 |
 | [Your Light](https://open.spotify.com/track/0NJQUkvJT9PY8TMIRPq1oA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Your Light \(From The Original TV Show "Live On"\)](https://open.spotify.com/album/5xHrhwZ4ufLSUVXUcW05yX) | 3:37 | 2021-12-06 | 2022-07-22 |

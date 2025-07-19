@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 309519,
+  "num_followers": 309569,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
+        "name": "Before The Next Teardrop Falls",
+        "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
+      },
+      "artists": [
+        {
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+        }
+      ],
+      "duration_ms": 171761,
+      "name": "Wasted Days And Wasted Nights",
+      "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 178733,
       "name": "Good Hearted Woman",
       "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
-        "name": "Before The Next Teardrop Falls",
-        "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
-      },
-      "artists": [
-        {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
-        }
-      ],
-      "duration_ms": 171761,
-      "name": "Wasted Days And Wasted Nights",
-      "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
-      },
-      "artists": [
-        {
-          "name": "Donna Fargo",
-          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
-        }
-      ],
-      "duration_ms": 151306,
-      "name": "The Happiest Girl In The Whole U.S.A.",
-      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
         "name": "Let's Keep It That Way",
         "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 169266,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
+      },
+      "artists": [
+        {
+          "name": "Donna Fargo",
+          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "The Happiest Girl In The Whole U.S.A.",
+      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 139760,
+      "name": "Amos Moses",
+      "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
         "name": "The Essential Johnny Duncan",
         "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 189786,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 139760,
-      "name": "Amos Moses",
-      "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Till The End",
-        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
         "name": "Every Time Two Fools Collide",
         "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 180906,
       "name": "Every Time Two Fools Collide",
       "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
+        "name": "Till The End",
+        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
+      },
+      "artists": [
+        {
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
     },
     {
       "added_at": "2024-11-04 17:53:04",

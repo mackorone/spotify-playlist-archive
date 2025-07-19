@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 286387,
+  "num_followers": 286502,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABaZiss0tTrdOaR7yTN5w+s",
+  "snapshot_id": "aHg9AAAAAABl9fwxCk9aEnem+qIaKHdi",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 300300,
-      "name": "Amor al Arte",
-      "url": "https://open.spotify.com/track/5ZmdCVprp0xw4LRT66Q65J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Chidas Pal Cuarto",
         "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 210076,
-      "name": "Cumbia Morena",
-      "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
+      "duration_ms": 300300,
+      "name": "Amor al Arte",
+      "url": "https://open.spotify.com/track/5ZmdCVprp0xw4LRT66Q65J"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 205007,
       "name": "Cuchillo en la Yugular",
       "url": "https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 210076,
+      "name": "Cumbia Morena",
+      "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Como la Espuma",
-      "url": "https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 245562,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "Como la Espuma",
+      "url": "https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD"
     },
     {
       "added_at": null,

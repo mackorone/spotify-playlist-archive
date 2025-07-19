@@ -335,6 +335,28 @@
     },
     {
       "album": {
+        "name": "Adhoora",
+        "url": "https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234683,
+      "name": "Adhoora",
+      "url": "https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk"
+    },
+    {
+      "album": {
         "name": "Ae Bandey",
         "url": "https://open.spotify.com/album/2QvEclNhlVvllLkRhRr1LT"
       },
@@ -1738,7 +1760,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 223714,
       "name": "Dilshad",
       "url": "https://open.spotify.com/track/487NdFWy4ie4r5xb0avzKw"

@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 39460,
+  "num_followers": 39498,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADlMn5WUPiPZoXHXSwvQ+Oe",
+  "snapshot_id": "aHg9AAAAAAAVusTi1EX05jBLulVtYmHj",
   "tracks": [
     {
       "added_at": null,
@@ -175,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
       "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
+      "duration_ms": 170322,
+      "name": "Ole (feat. BNXN)",
+      "url": "https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz"
     },
     {
       "added_at": null,
@@ -299,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
       },
       "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Ole (feat. BNXN)",
-      "url": "https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz"
+      "duration_ms": 191976,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
     },
     {
       "added_at": null,

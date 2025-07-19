@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 95197,
+  "num_followers": 95228,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACh2I8nQI/N3L7tZzdCRaId",
+  "snapshot_id": "aHg9AAAAAAAQLdVNUSGjOe9psgzrrpB5",
   "tracks": [
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maserati (Remix)",
+        "url": "https://open.spotify.com/album/2rUhpReSQ0taUFdT9kEt50"
+      },
+      "artists": [
+        {
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 208420,
+      "name": "Maserati (Remix)",
+      "url": "https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doe",
         "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 242886,
       "name": "Doe",
       "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
-      },
-      "artists": [
-        {
-          "name": "Yung Alpha",
-          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 185396,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
     },
     {
       "added_at": null,
@@ -979,22 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maserati (Remix)",
-        "url": "https://open.spotify.com/album/2rUhpReSQ0taUFdT9kEt50"
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
       },
       "artists": [
         {
-          "name": "Olakira",
-          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+          "name": "Yung Alpha",
+          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 208420,
-      "name": "Maserati (Remix)",
-      "url": "https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5"
+      "duration_ms": 185396,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
     }
   ],
   "unique_name": "This Is Davido",

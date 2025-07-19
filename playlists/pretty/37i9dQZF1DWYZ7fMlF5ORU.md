@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,554 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,593 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 24 | [Ele é Exaltado](https://open.spotify.com/track/4azlxzbtyRcnxBB2bDwaZ6) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Ele é Exaltado](https://open.spotify.com/album/624cqcbuC4W1xu3WECphWq) | 3:17 |
 | 25 | [SoLámento](https://open.spotify.com/track/03WxyQeysg0DnQiTvtOUOM) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X) | [SoLámento](https://open.spotify.com/album/6WgpLh2PWatLc4oFuq2Tgn) | 3:43 |
 | 26 | [Pirei \- Ao Vivo](https://open.spotify.com/track/3qowb3VU8LBMd2FL3tOmoU) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Ton Carfi 20 anos \(Ao Vivo\)](https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p) | 5:13 |
-| 27 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/7hQHwgb9BVVL6NYIUIUiLr) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Ele Vem \(Ao Vivo\)](https://open.spotify.com/album/5HWqHBnIpw1welskR8ym0r) | 5:51 |
-| 28 | [Ele vem \(feat\. Coral Black To Black\)](https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Coral Black To Black](https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC) | [Luz \- Parte 2](https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa) | 4:58 |
+| 27 | [Ele vem \(feat\. Coral Black To Black\)](https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Coral Black To Black](https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC) | [Luz \- Parte 2](https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa) | 4:58 |
+| 28 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/7hQHwgb9BVVL6NYIUIUiLr) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Ele Vem \(Ao Vivo\)](https://open.spotify.com/album/5HWqHBnIpw1welskR8ym0r) | 5:51 |
 | 29 | [Brighter Day \- Kirk's Mix](https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [A Season Of Remixes](https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV) | 4:11 |
 | 30 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo) | [Pablo Simplicio](https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5) | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4) | 2:49 |
 | 31 | [O Que Há Por Dentro](https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU) | [Sobre Deixar](https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt) | 3:40 |
-| 32 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
-| 33 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 |
+| 32 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 |
+| 33 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
 | 34 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
 | 35 | [Mulher de Ló \(AO VIVO\)](https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 3:57 |
 | 36 | [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,916 likes - 43 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,928 likes - 43 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 42 | [Reciprocate](https://open.spotify.com/track/5xGqh5mjKgOhp9TOlFeCcJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:02 |
 | 43 | [Something Real \(with London On Da Track & Chris Brown\)](https://open.spotify.com/track/4otQJBpb8okSeykALR3eCH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Something Real \(with London On Da Track & Chris Brown\)](https://open.spotify.com/album/3sKfMROqgj9nNxOuyPDndH) | 3:03 |
 
-Snapshot ID: `aHbrgAAAAAD9vDUqBz15oLqzT1bY5tKe`
+Snapshot ID: `aHg9AAAAAABc1vqtVxM7yIMaHXKKqEGx`

@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9048,
+  "num_followers": 9053,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABStQ7GBMhRjgvAssFlqufu",
+  "snapshot_id": "aHg9AAAAAACXMGLCtjmsNMydRQDGAea7",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MY LIFE. MY DESTINY",
-        "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
+        "name": "No Tomorrow (Give It Up)",
+        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "LAZYLOXY",
-          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
         }
       ],
-      "duration_ms": 239600,
-      "name": "MY LIFE. MY DESTINY",
-      "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
+      "duration_ms": 266406,
+      "name": "No Tomorrow (Give It Up)",
+      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
     },
     {
       "added_at": null,
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tomorrow (Give It Up)",
-        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
+        "name": "MY LIFE. MY DESTINY",
+        "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
         }
       ],
-      "duration_ms": 266406,
-      "name": "No Tomorrow (Give It Up)",
-      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
+      "duration_ms": 239600,
+      "name": "MY LIFE. MY DESTINY",
+      "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Jungle Love",
-      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INGLOURIOUS EASTERN COWBOY",
         "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 246839,
       "name": "Whole Lotta Love",
       "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Jungle Love",
+      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
     },
     {
       "added_at": null,

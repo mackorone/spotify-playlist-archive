@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-132 songs - 10 hr 0 min
+133 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [暁の車](https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [Destination](https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB) | 5:03 | 2023-05-07 | 2024-04-19 |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-02-28 |  |
 | [櫂](https://open.spotify.com/track/4MmbhBWuOX0FChh2gb1fXv) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [PARADE](https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq) | 5:01 | 2023-04-18 |  |
+| [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 | 2025-07-18 |  |
 | [水の証](https://open.spotify.com/track/5mizgqUfE7BrNZtbPiNWdy) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [水の証](https://open.spotify.com/album/1TVw6SHvytnhXTGMijSJK2) | 4:27 | 2022-02-28 |  |
 | [海と真珠](https://open.spotify.com/track/4dDBdgmfZxoLE8SR41RH70) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [海と真珠](https://open.spotify.com/album/2b7R36JmXl2ajwIMnkjs67) | 4:40 | 2022-02-28 |  |
 | [深海の孤独](https://open.spotify.com/track/3W7cfHOierxSmWSnrQpRVK) | [桑島法子](https://open.spotify.com/artist/4InNxmyyefEtcBZE6XqSwr) | [深海の孤独](https://open.spotify.com/album/6VxiR4xgzWYXi3RPh9E9Qv) | 4:00 | 2022-02-28 |  |

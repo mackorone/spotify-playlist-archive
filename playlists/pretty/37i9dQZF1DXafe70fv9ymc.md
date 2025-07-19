@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > sexy afrobeats
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,485 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,493 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 19 | [Get It \(Oou Wee\)](https://open.spotify.com/track/03TcmxQ6A6IeRb0HE0dTGS) | [Nunu Eluma](https://open.spotify.com/artist/60C5hwoLoFJBdVHx6HZZid), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Get It \(Oou Wee\)](https://open.spotify.com/album/29P2AJTS35lUlsaW6ER6u7) | 2:38 |
 | 20 | [Water](https://open.spotify.com/track/2CzH2SQpEHxki6qN7eMddA) | [Dove Nicol](https://open.spotify.com/artist/4EivwNwx6JdqaTRF9yT89Q) | [Water](https://open.spotify.com/album/6dLJ1tn2cdxRl8vb5VseRz) | 2:45 |
 | 21 | [Rhythm & Blues](https://open.spotify.com/track/6MatF34mUyDaaf9diQgCDA) | [Dr.Ish](https://open.spotify.com/artist/4NPYdsxHeTKjVyM1gzme77), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Rhythm & Blues](https://open.spotify.com/album/4MJf04FlpbTj1y1luauTee) | 3:16 |
-| 22 | [SOAK](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [SOAK](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 |
+| 22 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 |
 | 23 | [Nufftime](https://open.spotify.com/track/0pMwoHmBn1QG6vsbTP2Ipa) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [PHAEMOUS](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Baby Boy](https://open.spotify.com/album/3JNMIrtiqa028JR0XoG7xw) | 3:06 |
 | 24 | [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 |
 | 25 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 |

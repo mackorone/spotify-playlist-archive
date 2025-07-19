@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 204925,
+  "num_followers": 204947,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADufrxqOinIle7ga2QhLLa7",
+  "snapshot_id": "aHg9AAAAAABzZywm9YZEdM348ktHOxRG",
   "tracks": [
     {
       "added_at": null,
@@ -27,34 +27,6 @@
       "duration_ms": 420019,
       "name": "The Church - Live",
       "url": "https://open.spotify.com/track/6AJXSUyRgduRgdIYHWi2Ok"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After Your Heart (Live)",
-        "url": "https://open.spotify.com/album/4x4UmPRjnEjP1Jj4RRcIL9"
-      },
-      "artists": [
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        },
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 564856,
-      "name": "After Your Heart [feat. Tiffany Hudson] - Live",
-      "url": "https://open.spotify.com/track/7jjqO8CGgr4cALKRWi8H7G"
     },
     {
       "added_at": null,
@@ -207,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand In Your Love (Radio Version)",
-        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Stand In Your Love (Radio Version)",
-      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victory (Live)",
         "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
       },
@@ -247,6 +199,26 @@
       "duration_ms": 470880,
       "name": "Raise a Hallelujah (Live)",
       "url": "https://open.spotify.com/track/2NLjbOQWD20oy0WpZJByap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand In Your Love (Radio Version)",
+        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Stand In Your Love (Radio Version)",
+      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
     },
     {
       "added_at": null,
@@ -503,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        }
-      ],
-      "duration_ms": 318115,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
@@ -543,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Sake of the World",
-        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
       },
       "artists": [
         {
@@ -552,13 +504,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         }
       ],
-      "duration_ms": 408826,
-      "name": "Our Father",
-      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
+      "duration_ms": 318115,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy"
     },
     {
       "added_at": null,
@@ -579,6 +531,26 @@
       "duration_ms": 412048,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For the Sake of the World",
+        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 408826,
+      "name": "Our Father",
+      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
     },
     {
       "added_at": null,
@@ -619,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 382600,
-      "name": "Egypt (Live)",
-      "url": "https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -675,6 +627,26 @@
       "duration_ms": 409414,
       "name": "Tend - Live",
       "url": "https://open.spotify.com/track/48coTJmM6gVsjGQcvzihge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 382600,
+      "name": "Egypt (Live)",
+      "url": "https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w"
     },
     {
       "added_at": null,
@@ -779,18 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
+        "name": "I Want Jesus (Live)",
+        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
       },
       "artists": [
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        },
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         }
       ],
-      "duration_ms": 344880,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/1odJaKOxq4jK5MkbyMuWEG"
+      "duration_ms": 146993,
+      "name": "You're Worthy of My Praise/As The Deer - Live",
+      "url": "https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ"
     },
     {
       "added_at": null,
@@ -851,26 +827,6 @@
       "duration_ms": 260260,
       "name": "You're Gonna Be Ok",
       "url": "https://open.spotify.com/track/66JDQEKj1rdeAz1D080mJw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Want Jesus (Live)",
-        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
-      },
-      "artists": [
-        {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        },
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 146993,
-      "name": "You're Worthy of My Praise/As The Deer - Live",
-      "url": "https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ"
     },
     {
       "added_at": null,
@@ -955,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
-        }
-      ],
-      "duration_ms": 293377,
-      "name": "Tend",
-      "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Even Though I Walk (Live)",
         "url": "https://open.spotify.com/album/1cTH0uZFMhuQj40YiQUipJ"
       },
@@ -991,6 +927,26 @@
       "duration_ms": 437655,
       "name": "Even Though I Walk - Live",
       "url": "https://open.spotify.com/track/2VfTW8FhSpyxUXSyIE7TfR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "duration_ms": 293377,
+      "name": "Tend",
+      "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
     },
     {
       "added_at": null,
@@ -1035,6 +991,54 @@
       "duration_ms": 479771,
       "name": "Son Of Suffering (Live)",
       "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Promises Never Fail (Live)",
+      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Your Heart (Live)",
+        "url": "https://open.spotify.com/album/4x4UmPRjnEjP1Jj4RRcIL9"
+      },
+      "artists": [
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 564856,
+      "name": "After Your Heart [feat. Tiffany Hudson] - Live",
+      "url": "https://open.spotify.com/track/7jjqO8CGgr4cALKRWi8H7G"
     }
   ],
   "unique_name": "This Is Bethel Music",

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,798 songs - 3 day 7 hr 49 min
+1,800 songs - 3 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Echoes of You](https://open.spotify.com/track/4NSorTl9g80CArixVtqGfz) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 2:20 | 2019-05-26\* | 2019-12-17 |
 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 | 2023-04-11 | 2025-04-09 |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2021-10-01 | 2022-07-16 |
-| [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 | 2023-10-09 |  |
+| [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 | 2023-10-09 | 2025-07-19 |
 | [Elegy For The Arctic](https://open.spotify.com/track/7B5OjrUhDBJao8CrIlnXBI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Elegy For The Arctic](https://open.spotify.com/album/03IcjA0YrUxqOvFmbKwnA9) | 2:38 | 2019-05-26\* | 2019-11-19 |
 | [Elegy Of Solace](https://open.spotify.com/track/5OwbUwe2qFPQ1iUSosmR9u) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Elegy Of Solace](https://open.spotify.com/album/230v9G7h2iSAN8gibtd8eU) | 2:38 | 2024-04-30 |  |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2021-12-21 | 2022-12-21 |
@@ -450,6 +450,7 @@
 | [Et spørgsmål](https://open.spotify.com/track/6d6yZionLIexUZpzbrh4Gq) | [Tosh Møller](https://open.spotify.com/artist/2CUZliHXKYjXEV2BOZqMvi) | [Et spørgsmål](https://open.spotify.com/album/6bvkPH8RTKxTI75DujyeYV) | 2:05 | 2020-06-09 | 2021-11-11 |
 | [Etc...](https://open.spotify.com/track/5h4x9rXrsUALN1eYzY611B) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Hymnus Faunus](https://open.spotify.com/album/3jKzoIOYPUKxduucDofbCh) | 2:42 | 2021-04-08 | 2021-12-08 |
 | [Eternal Light](https://open.spotify.com/track/0utTxlkXq7mv67jgyL7XEg) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Eternal Light](https://open.spotify.com/album/0kKtZbnc8mRAEz6VMdhIZg) | 2:18 | 2022-02-02 | 2022-12-21 |
+| [Eternal Moon](https://open.spotify.com/track/2hegfLKqobbWtYPg0Z31vm) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Eternal Moon](https://open.spotify.com/album/5UVS5hHLLxQgH22bXKrFUi) | 2:28 | 2025-07-18 |  |
 | [Ethereal](https://open.spotify.com/track/7uC95ammTjIPwrMYb8YOkz) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Ethereal](https://open.spotify.com/album/1fZSnvJTvlQS220yBlAfvz) | 2:05 | 2022-01-26 | 2022-09-24 |
 | [Eukelade](https://open.spotify.com/track/0o92u9sKcLXiAS6eqLNXGn) | [Lionel Scardino](https://open.spotify.com/artist/15rfm6rSfsn4RuQQO6BumY) | [Júpiter](https://open.spotify.com/album/1Ad9OqOW7QIPcgqA0sinZo) | 2:51 | 2019-11-26 | 2019-12-04 |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2021-11-11 | 2022-07-16 |
@@ -1218,7 +1219,7 @@
 | [Quiet Resource](https://open.spotify.com/track/5FoZCDCl6WhrAIm4Ygyjg7) | [Evelyn Stein](https://open.spotify.com/artist/4rygF1Cuu6aehFfLcK8ZjN) | [Quiet resource](https://open.spotify.com/album/39XZKMpNJsr4nGzXqYHnNL) | 3:27 | 2019-05-26\* | 2020-08-20 |
 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 | 2025-02-25 | 2025-04-05 |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2021-03-06 | 2022-04-23 |
-| [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 | 2024-08-19 |  |
+| [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 | 2024-08-19 | 2025-07-19 |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2021-01-26 | 2021-12-08 |
 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 | 2022-02-23 | 2022-12-21 |
 | [Radiant](https://open.spotify.com/track/5WAuzGamm8rl9rY0ZxTZ5h) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Radiant](https://open.spotify.com/album/7eOhUnQ92WaJvaPo0khuLw) | 1:59 | 2021-06-03 | 2022-07-07 |
@@ -1384,6 +1385,7 @@
 | [Snowed In](https://open.spotify.com/track/1spPkmhaejcIpnjmP6nxq3) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Snowed In](https://open.spotify.com/album/0kKMS7wWm7xonBa1Zf133X) | 2:28 | 2023-02-10 | 2023-11-14 |
 | [Snowfall in a Forest](https://open.spotify.com/track/0DoZ4rU4WmaHcySIJHQY5A) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Snowfall in a Forest](https://open.spotify.com/album/2uL4hLPlY2MyJgKMtUKacZ) | 2:28 | 2021-11-17 | 2023-04-04 |
 | [soft life](https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [soft life](https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8) | 2:15 | 2024-09-02 | 2025-05-15 |
+| [Soft Rain](https://open.spotify.com/track/3C1YOgC9O7ecXCnlkkQAVR) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Soft Rain](https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y) | 2:16 | 2025-07-18 |  |
 | [Softly](https://open.spotify.com/track/1PW5iY60ZqzBqU5OXpiX4N) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Softly](https://open.spotify.com/album/7ojzrIb4RuVzcUJilEbKgr) | 2:24 | 2020-10-06 | 2021-12-08 |
 | [Softly](https://open.spotify.com/track/6plAuHENSbslv0tAe8verB) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Softly](https://open.spotify.com/album/07ymnuv7uKDcQckEtOstPv) | 2:26 | 2020-05-12 | 2022-04-29 |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2020-09-01 | 2022-07-16 |

@@ -4,7 +4,7 @@
 
 > Uutta musiikkia william ja Jore & Zpoppa  monelta muulta!
 
-6,929 songs - 15 day 5 hr 6 min
+6,932 songs - 15 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,6 +730,7 @@
 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 | 2024-09-05 | 2024-09-13 |
 | [Bodygaze](https://open.spotify.com/track/4iiqNekOQNJu9JJ3XUMfJt) | [Tea Sofia](https://open.spotify.com/artist/29VjAXbeZqPa8PSNxF8Q5W) | [Bodygaze](https://open.spotify.com/album/158aESQuoya9mk4r9i973H) | 3:51 | 2025-03-13 | 2025-03-21 |
 | [BODYMAFIA](https://open.spotify.com/track/53glTtkUYYLNBMLPHasvpa) | [Matias Niemi](https://open.spotify.com/artist/2KHuYdF7HE69UP0CFU4Ait), [Musta Barbaari](https://open.spotify.com/artist/0MjMlJw6pfcaeDeVbhQgLC) | [BODYMAFIA](https://open.spotify.com/album/2VRBPDnAyTp4sIl5lDyDmw) | 2:18 | 2024-08-29 | 2024-09-06 |
+| [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 | 2025-07-17 |  |
 | [Bombay Train](https://open.spotify.com/track/4LBjxwrqepJlQ39S5EmxSa) | [Remu](https://open.spotify.com/artist/0v9qVRqk14X8dqcH8YhfqI) | [Bombay Train](https://open.spotify.com/album/3S3GKHcl605qQzR2Xd4s3V) | 3:21 | 2024-09-12 | 2024-09-20 |
 | [Bon Voyage](https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Bon Voyage](https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9) | 3:24 | 2024-10-17 | 2024-10-25 |
 | [Bon Voyage](https://open.spotify.com/track/4CfjowwUEGviS86FoABRCJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Bon Voyage](https://open.spotify.com/album/5VWtm8CuxYiK11Ccv5D1VQ) | 3:43 | 2024-08-08 | 2024-08-16 |
@@ -3622,6 +3623,7 @@
 | [Made Of](https://open.spotify.com/track/4xlcLdfBSMO56LEbhfbVtx) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Made Of](https://open.spotify.com/album/3qrzLXpKrkxYvdS5oDfpDV) | 3:01 | 2025-01-16 | 2025-01-24 |
 | [Made Of Metal](https://open.spotify.com/track/6YvnVtMnUipiiJXKexq9MI) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Made Of Metal](https://open.spotify.com/album/6iF2V3BdIyQY21w3JyZcSN) | 4:12 | 2024-08-08 | 2024-08-16 |
 | [made you cry](https://open.spotify.com/track/1Dd6rQWeJCWRDULkmN5ioJ) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [made you cry](https://open.spotify.com/album/35jHspHi3rG9PUkuEPhgjY) | 2:40 | 2025-04-10 | 2025-04-18 |
+| [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 | 2025-07-17 |  |
 | [Madhouse](https://open.spotify.com/track/0Of4d6e4EHgv63xvwXh3gi) | [Roope](https://open.spotify.com/artist/5hjnFiCqvWkXIFS2BgjW5P), [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi) | [Madhouse](https://open.spotify.com/album/3ToM1Lx9uYM4rRCNubGxwc) | 4:58 | 2024-12-12 | 2024-12-20 |
 | [madly](https://open.spotify.com/track/7fmt9chGer2jvnUhysySW1) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [madly](https://open.spotify.com/album/1A04yD0uVhmPJgpRyia9Lc) | 2:42 | 2025-02-06 | 2025-02-14 |
 | [Madonna](https://open.spotify.com/track/0xiu17S2aub8gvlPCfSJ9x) | [Maxin](https://open.spotify.com/artist/3rYG05hlpuT7IK1Qwqy7s9) | [Madonna](https://open.spotify.com/album/1YbhCspxEdKqH1PrnuYfgd) | 2:27 | 2024-09-05 | 2024-09-13 |
@@ -4365,7 +4367,7 @@
 | [One Last Song](https://open.spotify.com/track/24NBREHOjfgmysUJ4SBJ2j) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [One Last Song](https://open.spotify.com/album/2Yk7ZhlAuz5q2JXcIwKjOp) | 2:31 | 2024-09-26 | 2024-10-04 |
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-06 | 2025-02-14 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-15 | 2025-05-23 |
-| [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i), [Eden Leshem](https://open.spotify.com/artist/49NRXEvNMMkyewpxD2ikH4), [Alice Phoebe Lou Matthew](https://open.spotify.com/artist/0VsqD71hCI2ABkZyHlYCzP), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:43 | 2025-07-17 |  |
+| [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:42 | 2025-07-17 |  |
 | [One Way Out](https://open.spotify.com/track/0iF3gPD348i6e4xeEloHqu) | [Shereign](https://open.spotify.com/artist/7tgPZfj2NRxY5eKnjeGWZW) | [One Way Out](https://open.spotify.com/album/0eZFx4b4ICjRevNYYtzHZ0) | 3:28 | 2025-02-06 | 2025-02-14 |
 | [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 | 2025-07-04 | 2025-07-11 |
 | [Ongelmii](https://open.spotify.com/track/12FZTPQnH8P4EdYyAgNSD7) | [Ruma](https://open.spotify.com/artist/0lcGTyjTjKRDQpgKaT5bGJ) | [Ongelmii](https://open.spotify.com/album/0K6teAYF0EVjkUJK9KKZNz) | 3:17 | 2025-04-10 | 2025-04-18 |
@@ -6015,6 +6017,7 @@
 | [Tili tuli, tili meni](https://open.spotify.com/track/62fvSFu3kdDzTd0z5LQcnX) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tili tuli, tili meni](https://open.spotify.com/album/6N1NMvekc9JN5miaabjIRr) | 2:33 | 2025-01-09 | 2025-01-17 |
 | [Tim Duncan](https://open.spotify.com/track/0W3kiQw2yDnZvFq92jq1Gx) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [VilleGalle](https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb) | [Tim Duncan](https://open.spotify.com/album/3QwEqCZdjvBx7reS3veYTB) | 2:17 | 2024-05-02 | 2024-05-10 |
 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2024-06-27 | 2024-07-05 |
+| [Time After Time](https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Time After Time](https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x) | 3:39 | 2025-07-17 |  |
 | [Time After Time](https://open.spotify.com/track/5VpPQHUxGdz7ntrITnaRBg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Time After Time](https://open.spotify.com/album/2Cx2YJ3A63ywLbsP8zLUj8) | 2:19 | 2025-05-22 | 2025-05-30 |
 | [Time Machine](https://open.spotify.com/track/1iJHHbVSiEt1sO4NhfGq4Z) | [Redrama](https://open.spotify.com/artist/3qy9C549vuJzgevoM0ZiRA) | [Time Machine](https://open.spotify.com/album/152Nhjk19bltTuGYlfPaxk) | 3:08 | 2025-04-03 | 2025-04-11 |
 | [Time Of My Life](https://open.spotify.com/track/65qcCeaBTWMMUTOWurS7pb) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Time Of My Life](https://open.spotify.com/album/25q7aE2QDCQEpwKF4yyXWl) | 3:16 | 2024-08-15 | 2024-08-23 |

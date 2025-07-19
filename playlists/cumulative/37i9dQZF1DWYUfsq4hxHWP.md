@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Scott Wolverton, Artwork: Fanélie Muselier
 
-3,281 songs - 7 day 9 hr 35 min
+3,282 songs - 7 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [A Boy Like You](https://open.spotify.com/track/6M7GFhIz5Xm2EkPAKy7BET) | [Alison Turner](https://open.spotify.com/artist/6uOJfkUZHmxicixCxw5gLo) | [A Boy Like You](https://open.spotify.com/album/1nQQawFasiz21Hrfoj8T1N) | 3:10 | 2022-06-08 | 2022-07-21 |
 | [A Boy That's Into Trucks](https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [A Boy That's Into Trucks](https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar) | 3:25 | 2023-06-14 | 2023-08-31 |
 | [A Cigarette](https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [A Cigarette](https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u) | 2:59 | 2024-02-07 | 2024-02-29 |
+| [A Country Heart Can](https://open.spotify.com/track/7HYok2NXE23LtYygubuvIO) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [A Country Heart Can](https://open.spotify.com/album/18ly6QslPPTJFkE5XBwjmS) | 3:43 | 2025-07-18 |  |
 | [A Cowboy Who Would](https://open.spotify.com/track/0JIMr2UNWjUDiNMxWsuKgU) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [A Cowboy Who Would](https://open.spotify.com/album/4eh5jwKtkW95XNSslXLc1q) | 3:33 | 2024-01-17 | 2024-03-07 |
 | [A Few Beers Ago](https://open.spotify.com/track/14Gc5YB4FloXsbdw7d703H) | [Alex Smith](https://open.spotify.com/artist/7G59QheB0YWvELrCpnqKjX) | [A Few Beers Ago](https://open.spotify.com/album/2T3BgZKrj4ksSjamoXtIvF) | 3:04 | 2023-03-15 | 2023-04-20 |
 | [A Few Years Back](https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [A Few Years Back](https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4) | 3:40 | 2023-10-18 | 2023-11-30 |

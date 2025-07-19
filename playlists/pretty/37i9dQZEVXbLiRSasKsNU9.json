@@ -1,15 +1,35 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1772910,
+  "num_followers": 1772828,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MAxuKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MA26+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Soft Machine (U.S. Version)",
+        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Punkrocker (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -41,27 +61,31 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
-        "name": "Soft Machine",
-        "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
       "artists": [
         {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
         },
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
         }
       ],
-      "duration_ms": 246786,
-      "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
-      "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
+      "duration_ms": 194866,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -93,31 +117,7 @@
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Let God Sort Em Out",
-        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
-      },
-      "artists": [
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Malice",
-          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "So Be It",
-      "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Hotel Rock Bottom (Deluxe)",
         "url": "https://open.spotify.com/album/5QmpBvbxMNgvB1ttqBEkcu"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/3m0AFZnXVMkd8ppGuxLJxW"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Young Black & Rich",
         "url": "https://open.spotify.com/album/4So2lxknlUUwSVMaPuU1XV"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Sahiba",
         "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Bir \u00c7ift G\u00f6z",
         "url": "https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH"
@@ -269,27 +269,23 @@
       "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
-        "name": "Dame Un Grrr",
-        "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
       },
       "artists": [
         {
-          "name": "Fantomel",
-          "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
-        },
-        {
-          "name": "Kate Linn",
-          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
         }
       ],
-      "duration_ms": 133220,
-      "name": "Dame Un Grrr",
-      "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -321,7 +317,55 @@
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Dame Un Grrr",
+        "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
+      },
+      "artists": [
+        {
+          "name": "Fantomel",
+          "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
+        },
+        {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        }
+      ],
+      "duration_ms": 133220,
+      "name": "Dame Un Grrr",
+      "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Saiyaara (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 370875,
+      "name": "Saiyaara (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -353,7 +397,7 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
@@ -373,51 +417,7 @@
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Saiyaara (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Faheem Abdullah",
-          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
-        },
-        {
-          "name": "Arslan Nizami",
-          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        }
-      ],
-      "duration_ms": 370875,
-      "name": "Saiyaara (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/1JvQhXD5FxkK2GjHCyFmZa"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -493,39 +493,7 @@
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Dusty Bibles",
-        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
-      },
-      "artists": [
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Dusty Bibles",
-      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 180353,
-      "name": "FAMOUS",
-      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Franchement !",
         "url": "https://open.spotify.com/album/0PzJH1Xml9Cr3uYhQEAdy6"
@@ -553,7 +521,71 @@
       "url": "https://open.spotify.com/track/7L3QwPvyfbithlAKjGj8Mf"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 180353,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Dusty Bibles",
+        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Dusty Bibles",
+      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "I ONE",
+        "url": "https://open.spotify.com/album/46slN6OuQu3lRKvfUeIBOW"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "duration_ms": 174910,
+      "name": "1&Only",
+      "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Eu Venci o Mundo",
         "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
@@ -573,39 +605,7 @@
       "url": "https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "I ONE",
-        "url": "https://open.spotify.com/album/46slN6OuQu3lRKvfUeIBOW"
-      },
-      "artists": [
-        {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
-        }
-      ],
-      "duration_ms": 174910,
-      "name": "1&Only",
-      "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e19\u0e32\u0e19 \u0e46 (HAVE A GOOD TIME)",
         "url": "https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL"
@@ -621,55 +621,7 @@
       "url": "https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
-      },
-      "artists": [
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        },
-        {
-          "name": "Malachiii",
-          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
-        },
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Positions",
-      "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "PlaqueBoyMax",
-          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
-        }
-      ],
-      "duration_ms": 165857,
-      "name": "Victory Lap",
-      "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Mirzapur",
         "url": "https://open.spotify.com/album/1m7HJi4LyJDQAUhFCoRRiC"
@@ -693,99 +645,71 @@
       "url": "https://open.spotify.com/track/4sgYmcu4FKb1ZC6qBlxMiw"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
-        "name": "Shelly 2",
-        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
       },
       "artists": [
         {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 228692,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
-      },
-      "artists": [
-        {
-          "name": "\u652c\u4f6cSKAI ISYOURGOD",
-          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
-        }
-      ],
-      "duration_ms": 173037,
-      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-      "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Ma Tnsani (Yalla Habibi)",
-        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
-      },
-      "artists": [
-        {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
         },
         {
-          "name": "AYA",
-          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Ma Tnsani (Yalla Habibi)",
-      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Na Pegada da Talita",
-        "url": "https://open.spotify.com/album/2d16MsbSMtv2snzc2FPwsg"
-      },
-      "artists": [
-        {
-          "name": "Talita Mel",
-          "url": "https://open.spotify.com/artist/5wbSuC0q60AcyFwikoH8k3"
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
         },
         {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 144160,
-      "name": "Melzinho",
-      "url": "https://open.spotify.com/track/3ZbetlcfZ0tgVWdvnRzuLB"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Yerinde Dur",
-        "url": "https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8"
-      },
-      "artists": [
-        {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        },
-        {
-          "name": "Demet Akal\u0131n",
-          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
         }
       ],
       "duration_ms": 148000,
-      "name": "Yerinde Dur",
-      "url": "https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI"
+      "name": "Positions",
+      "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "duration_ms": 165857,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Baila de Gasolina",
+        "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
+      },
+      "artists": [
+        {
+          "name": "Effe Serieus",
+          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
+        }
+      ],
+      "duration_ms": 140782,
+      "name": "Baila de Gasolina",
+      "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "ILMB (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/0OORiZ1arhRjbiSzNq9itT"
@@ -805,7 +729,115 @@
       "url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
+      },
+      "artists": [
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        }
+      ],
+      "duration_ms": 173037,
+      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+      "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Ma Tnsani (Yalla Habibi)",
+        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "AYA",
+          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Ma Tnsani (Yalla Habibi)",
+      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Shelly 2",
+        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 228692,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Na Pegada da Talita",
+        "url": "https://open.spotify.com/album/2d16MsbSMtv2snzc2FPwsg"
+      },
+      "artists": [
+        {
+          "name": "Talita Mel",
+          "url": "https://open.spotify.com/artist/5wbSuC0q60AcyFwikoH8k3"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 144160,
+      "name": "Melzinho",
+      "url": "https://open.spotify.com/track/3ZbetlcfZ0tgVWdvnRzuLB"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Yerinde Dur",
+        "url": "https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Yerinde Dur",
+      "url": "https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 121089,
+      "name": "poster boy",
+      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "2+2",
         "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
@@ -825,23 +857,7 @@
       "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 157191,
-      "name": "WICKED",
-      "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Calon Mantu Idaman (feat. Ncum)",
         "url": "https://open.spotify.com/album/4n4ZdQUXAs9BevRhBHtGdr"
@@ -861,27 +877,23 @@
       "url": "https://open.spotify.com/track/5EWyweCJ5igLl6bjbGRmGm"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
-        "name": "MA\u015eALLAH",
-        "url": "https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON"
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
       },
       "artists": [
         {
-          "name": "Do\u011fukan Sar\u0131ta\u015f",
-          "url": "https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC"
-        },
-        {
-          "name": "Reynmen",
-          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
         }
       ],
-      "duration_ms": 137671,
-      "name": "MA\u015eALLAH",
-      "url": "https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3"
+      "duration_ms": 157191,
+      "name": "WICKED",
+      "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Pelotero A La Bola",
         "url": "https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6"
@@ -901,7 +913,43 @@
       "url": "https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "MA\u015eALLAH",
+        "url": "https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON"
+      },
+      "artists": [
+        {
+          "name": "Do\u011fukan Sar\u0131ta\u015f",
+          "url": "https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC"
+        },
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "duration_ms": 137671,
+      "name": "MA\u015eALLAH",
+      "url": "https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
+      "album": {
+        "name": "Cant Go Broke (Remix)",
+        "url": "https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "duration_ms": 107777,
+      "name": "Cant Go Broke - Remix",
+      "url": "https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz"
+    },
+    {
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Vem Vem",
         "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
@@ -921,23 +969,7 @@
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Cant Go Broke (Remix)",
-        "url": "https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg"
-      },
-      "artists": [
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        }
-      ],
-      "duration_ms": 107777,
-      "name": "Cant Go Broke - Remix",
-      "url": "https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Ba Ba Bad Remix",
         "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
@@ -965,7 +997,7 @@
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Pa\u015fa G\u00f6n\u00fcl \u015eark\u0131lar\u0131",
         "url": "https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T"
@@ -981,47 +1013,7 @@
       "url": "https://open.spotify.com/track/5rElOY8KtcQFqlSZ7hgEuC"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
-        "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 209051,
-      "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
-      "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
-      "album": {
-        "name": "Deslocado",
-        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
-      },
-      "artists": [
-        {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
-        }
-      ],
-      "duration_ms": 179996,
-      "name": "Deslocado",
-      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
-    },
-    {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
         "name": "Ehsaas",
         "url": "https://open.spotify.com/album/12ShvJkszHFeRxDuZz2OYk"
@@ -1049,72 +1041,60 @@
       "url": "https://open.spotify.com/track/5PetOhEX9N0oyBB0Keqobv"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
-        "name": "TABOLA BALE",
-        "url": "https://open.spotify.com/album/56paKQ8XwNS0fSkWaMiJMm"
+        "name": "GET NAKED",
+        "url": "https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh"
       },
       "artists": [
         {
-          "name": "Silet Open Up",
-          "url": "https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36"
-        },
-        {
-          "name": "Jacson Seran",
-          "url": "https://open.spotify.com/artist/7sGSFhUe26nmXPxw3KuXrj"
-        },
-        {
-          "name": "Juan Reza",
-          "url": "https://open.spotify.com/artist/0eYCIajsbVsMjVUIkcomIY"
-        },
-        {
-          "name": "Diva Aurel",
-          "url": "https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u"
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
         }
       ],
-      "duration_ms": 274381,
-      "name": "TABOLA BALE",
-      "url": "https://open.spotify.com/track/6KfugJFINWqA42k59hmjFr"
+      "duration_ms": 126933,
+      "name": "GET NAKED",
+      "url": "https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
-        "name": "DIA DEL\u00cdCIA",
-        "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
+        "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
+        "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
       },
       "artists": [
         {
-          "name": "Nakama",
-          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
-          "name": "Mc Staff",
-          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
-          "name": "\u03a3P",
-          "url": "https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1"
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 75461,
-      "name": "DIA DEL\u00cdCIA",
-      "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
+      "duration_ms": 209051,
+      "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
+      "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
     },
     {
-      "added_at": "2025-07-17 17:25:16",
+      "added_at": "2025-07-18 16:02:07",
       "album": {
-        "name": "THIS IS FOR (DELUXE)",
-        "url": "https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U"
+        "name": "Deslocado",
+        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
         }
       ],
-      "duration_ms": 180293,
-      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
-      "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
+      "duration_ms": 179996,
+      "name": "Deslocado",
+      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
     }
   ],
   "unique_name": "Viral 50 - Global",

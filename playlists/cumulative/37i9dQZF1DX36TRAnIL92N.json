@@ -865,6 +865,28 @@
     },
     {
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g"
+      },
+      "artists": [
+        {
+          "name": "METODI",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        },
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222672,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/78CcHDIIw093COMGylrkXj"
+    },
+    {
+      "album": {
         "name": "Darkness Falls",
         "url": "https://open.spotify.com/album/0jKYzvWcpUZErGjZCcQPHL"
       },
@@ -2276,7 +2298,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 275394,
       "name": "Latin Lovers - Joyhauser Remix",
       "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"

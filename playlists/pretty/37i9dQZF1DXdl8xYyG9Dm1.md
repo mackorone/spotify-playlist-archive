@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Cassper Nyovest
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,736 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,751 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 60 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 |
 | 61 | [EKELEBE \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EKELEBE \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw) | 3:42 |
 | 62 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 |
-| 63 | [No Love In Lagos](https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3) | 3:09 |
-| 64 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 |
-| 65 | [Machete](https://open.spotify.com/track/3PlVucfcEIzQzmMZkRDTgB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Machete](https://open.spotify.com/album/79Wm9Oj6zGEx6yRYvajE7Q) | 2:34 |
-| 66 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
-| 67 | [Abebrese](https://open.spotify.com/track/6wXa8h2vC297a8ks2Ta9Gu) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Abebrese](https://open.spotify.com/album/5ZdHKnvxVASTL9RQ82QluX) | 4:20 |
-| 68 | [Love Is Forever](https://open.spotify.com/track/1JeYfu8pc5FtsRtGlwp49p) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [David Acekeyz](https://open.spotify.com/artist/4QlxtMchAil1VX7K1aKJzs) | [Love Is Forever](https://open.spotify.com/album/0sDCTuDE6AwjkxF0zlLqLZ) | 2:53 |
+| 63 | [Love Is Forever](https://open.spotify.com/track/1JeYfu8pc5FtsRtGlwp49p) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [David Acekeyz](https://open.spotify.com/artist/4QlxtMchAil1VX7K1aKJzs) | [Love Is Forever](https://open.spotify.com/album/0sDCTuDE6AwjkxF0zlLqLZ) | 2:53 |
+| 64 | [No Love In Lagos](https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3) | 3:09 |
+| 65 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 |
+| 66 | [Machete](https://open.spotify.com/track/3PlVucfcEIzQzmMZkRDTgB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Machete](https://open.spotify.com/album/79Wm9Oj6zGEx6yRYvajE7Q) | 2:34 |
+| 67 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
+| 68 | [Abebrese](https://open.spotify.com/track/6wXa8h2vC297a8ks2Ta9Gu) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Abebrese](https://open.spotify.com/album/5ZdHKnvxVASTL9RQ82QluX) | 4:20 |
 | 69 | [Bluff](https://open.spotify.com/track/20o16MJXk6Jib9dx2bOUR9) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:05 |
 | 70 | [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 |
 

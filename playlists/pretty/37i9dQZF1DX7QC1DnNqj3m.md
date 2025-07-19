@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 
 > Bask in the sound of soul, old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,097 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,098 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 68 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 69 | [This body](https://open.spotify.com/track/1OMgq21kzpvXOJzE8Cufnx) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Do you feel the same?](https://open.spotify.com/album/5yWWc7zmTtLFxB9aqFWA0N) | 4:20 |
 | 70 | [Shoulda Woulda Coulda](https://open.spotify.com/track/60klOfI3BgFCTWrnve4TAH) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [Who I Am](https://open.spotify.com/album/0aQ68gBcrnVrsjXFIJzKLR) | 3:32 |
-| 71 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 |
-| 72 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
+| 71 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
+| 72 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 |
 | 73 | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 |
 | 74 | [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 |
 | 75 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 |

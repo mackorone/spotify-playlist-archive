@@ -4,7 +4,7 @@
 
 > All the best songs from your favorite classic Disney films, TV shows and more.
 
-217 songs - 11 hr 9 min
+218 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [If I Didn't Have You](https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:37 | 2023-02-09 |  |
 | [If I Didn't Have You \- From "Monsters, Inc."](https://open.spotify.com/track/6ItHXNPMp42sbvRaI9Ik9E) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Disney Classics](https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF) | 3:38 | 2023-02-09 | 2024-06-06 |
 | [It's a Small World](https://open.spotify.com/track/0o4BDzJtzNvw7hsyvRmNeg) | [Richard M\. Sherman](https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb), [Robert B\. Sherman](https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ) | [Disney Classics](https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF) | 5:04 | 2023-02-09 | 2024-06-06 |
-| [It's a Small World \- From "It's a Small World"](https://open.spotify.com/track/6STSsfLEr567uyoK6EbvOc) | [Richard M\. Sherman](https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb), [Robert B\. Sherman](https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 5:04 | 2023-02-09 |  |
+| [It's A Small World \(70th Anniversary\) \- From "Disneyland Resort 70th Celebration"](https://open.spotify.com/track/6hVrlsXwBWVp5Lrc8FV4iB) | [The Disneyland Children's Chorus](https://open.spotify.com/artist/4OO3sW1MwAxI5MW3V1Dx4v) | [It's A Small World \(70th Anniversary\) \[From "Disneyland Resort 70th Celebration"\]](https://open.spotify.com/album/6FfisIeGTA7FHuudaKCuOm) | 5:03 | 2025-07-18 |  |
+| [It's a Small World \- From "It's a Small World"](https://open.spotify.com/track/6STSsfLEr567uyoK6EbvOc) | [Richard M\. Sherman](https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb), [Robert B\. Sherman](https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 5:04 | 2023-02-09 | 2025-07-19 |
 | [It's Not Easy \- From "Pete's Dragon"](https://open.spotify.com/track/1JmKi52p96lrcGrfG3CDfy) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO), [Sean Marshall](https://open.spotify.com/artist/5jR6zZugUWoU9PClPLoFa2) | [Disney Classics](https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF) | 3:10 | 2023-02-09 | 2024-06-06 |
 | [It's Not Easy \- From "Pete's Dragon"/Soundtrack Version](https://open.spotify.com/track/05ZwvpRTSpE2fxnexxDIRq) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO), [Sean Marshall](https://open.spotify.com/artist/5jR6zZugUWoU9PClPLoFa2) | [Pete's Dragon](https://open.spotify.com/album/04X3K8C6QNxPM3BE3u2iV1) | 3:09 | 2023-02-09 |  |
 | [It's Tough To Be a Bug \- From "It's Tough to Be a Bug"](https://open.spotify.com/track/7pDwsbaKgXOi7RqBONfdoI) | [George Wilkins](https://open.spotify.com/artist/1FpQePOviBLxEaMUfwd3AV), [Kevin Rafferty](https://open.spotify.com/artist/22W3HDtg9pLLD8PHmTIAHY) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 0:45 | 2023-02-09 |  |

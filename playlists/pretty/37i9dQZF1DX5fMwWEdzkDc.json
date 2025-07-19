@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 18662,
+  "num_followers": 18684,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Freestyle 3",
-        "url": "https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY"
-      },
-      "artists": [
-        {
-          "name": "freestyle",
-          "url": "https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9"
-        }
-      ],
-      "duration_ms": 280026,
-      "name": "Y (Please Tell Me Why)",
-      "url": "https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Princess Hours (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
       },
@@ -211,6 +195,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Freestyle 3",
+        "url": "https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY"
+      },
+      "artists": [
+        {
+          "name": "freestyle",
+          "url": "https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9"
+        }
+      ],
+      "duration_ms": 280026,
+      "name": "Y (Please Tell Me Why)",
+      "url": "https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Bluetory",
         "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
@@ -223,38 +223,6 @@
       "duration_ms": 217835,
       "name": "Loner",
       "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "The 3rd Album Part.1",
-        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Please don\u2019t\u2026",
-      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "SHAKE IT",
-        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "SHAKE IT",
-      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -275,18 +243,34 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Difference",
-        "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
+        "name": "SHAKE IT",
+        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
       },
       "artists": [
         {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
         }
       ],
-      "duration_ms": 238880,
-      "name": "\uc0ac\ub791\ud588\ub098\ubd10",
-      "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
+      "duration_ms": 208506,
+      "name": "SHAKE IT",
+      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "The 3rd Album Part.1",
+        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Please don\u2019t\u2026",
+      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -303,6 +287,22 @@
       "duration_ms": 226548,
       "name": "\uc751\uae09\uc2e4",
       "url": "https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Difference",
+        "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "duration_ms": 238880,
+      "name": "\uc0ac\ub791\ud588\ub098\ubd10",
+      "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 265379,
-      "name": "\uc544\ub85c\ud558",
-      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Ames Room",
         "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 263079,
       "name": "Then Then Then",
       "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 265379,
+      "name": "\uc544\ub85c\ud558",
+      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Exhibition",
-        "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
+        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
+        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
       },
       "artists": [
         {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
         }
       ],
-      "duration_ms": 313106,
-      "name": "Etude of Memory",
-      "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
+      "duration_ms": 285234,
+      "name": "\uac10\uc0ac",
+      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
-        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
+        "name": "Exhibition",
+        "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
       },
       "artists": [
         {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
         }
       ],
-      "duration_ms": 285234,
-      "name": "\uac10\uc0ac",
-      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
+      "duration_ms": 313106,
+      "name": "Etude of Memory",
+      "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "M.C The Max! Vol.1",
-        "url": "https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T"
-      },
-      "artists": [
-        {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
-        }
-      ],
-      "duration_ms": 408678,
-      "name": "\uc7a0\uc2dc\ub9cc \uc548\ub155",
-      "url": "https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
         "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 287741,
       "name": "\ub2e4\uc2dc \uc0ac\ub791\ud55c\ub2e4 \ub9d0\ud560\uae4c",
       "url": "https://open.spotify.com/track/52p5RtEaTXx1u1udrx8Fqr"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "M.C The Max! Vol.1",
+        "url": "https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "duration_ms": 408678,
+      "name": "\uc7a0\uc2dc\ub9cc \uc548\ub155",
+      "url": "https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Mc The Max - Solitude Love\u2026",
-        "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
-      },
-      "artists": [
-        {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
-        }
-      ],
-      "duration_ms": 358870,
-      "name": "\ud589\ubcf5\ud558\uc9c0\ub9d0\uc544\uc694",
-      "url": "https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Pretty Girl (2nd Mini Album)",
         "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 209920,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Mc The Max - Solitude Love\u2026",
+        "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "duration_ms": 358870,
+      "name": "\ud589\ubcf5\ud558\uc9c0\ub9d0\uc544\uc694",
+      "url": "https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Type B (1)",
-        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
-      },
-      "artists": [
-        {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "With L.O.V.E Brown Eyed Girls",
         "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 217626,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Type B (1)",
+        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
+      },
+      "artists": [
+        {
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "REMIND",
-        "url": "https://open.spotify.com/album/2wA8OXIv1JXX9kTY2ddfR4"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
-        }
-      ],
-      "duration_ms": 232019,
-      "name": "I Guess I Loved You - 2016 Version",
-      "url": "https://open.spotify.com/track/3CRYykOC8kHuSUWKPOmpgN"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Gugip: C.J.2002",
         "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 260480,
       "name": "Seulpun honjatmal",
       "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "REMIND",
+        "url": "https://open.spotify.com/album/2wA8OXIv1JXX9kTY2ddfR4"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
+        }
+      ],
+      "duration_ms": 232019,
+      "name": "I Guess I Loved You - 2016 Version",
+      "url": "https://open.spotify.com/track/3CRYykOC8kHuSUWKPOmpgN"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Longing",
-        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Monologue",
         "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 213813,
       "name": "Like A Child (feat. ALEX)",
       "url": "https://open.spotify.com/track/6ANNMivJIkzYXzh8u76IsE"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
     },
     {
       "added_at": "2024-08-05 16:59:31",

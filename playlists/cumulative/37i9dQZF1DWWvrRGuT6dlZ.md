@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of  unearthing your new favourite artists\. Cover: gels\.  Artwork: Isu Kim.
 
-1,112 songs - 2 day 12 hr 32 min
+1,113 songs - 2 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -713,6 +713,7 @@
 | [Pedestrian](https://open.spotify.com/track/7iPmsX8RhvQJT8arQh2Q8f) | [Hijack Hayley](https://open.spotify.com/artist/0yXoiuY9ZVzJRNu15X6eCU) | [Pedestrian](https://open.spotify.com/album/6ZqnZzq94gZHS6cXugjc52) | 4:20 | 2023-09-22 | 2024-05-10 |
 | [Pemandu E\-hailing](https://open.spotify.com/track/0kcbLEssQeSPb0slCuRFqr) | [Rafi Imran](https://open.spotify.com/artist/6kipjd0aWkA1kGF9dKUikB), [Arif Gelap](https://open.spotify.com/artist/5YOaHGeEKSFmnw4v95jsHT) | [Pemandu E\-hailing](https://open.spotify.com/album/2byhd9OvqFw46ZxfX62CDv) | 2:49 | 2025-07-11 |  |
 | [Perfect Getaway](https://open.spotify.com/track/6656Ak9PB4HkvDAfICctCe) | [Maneloren](https://open.spotify.com/artist/7jsU0zbfhjktw9lamotkR2) | [Perfect Getaway](https://open.spotify.com/album/0Y547L4ZNwHpVjjRhVwyUI) | 4:06 | 2025-07-04 |  |
+| [Persimmon Tree](https://open.spotify.com/track/5LkD2rtKVMBdCKfGi8tzP4) | [Billie Blue Blackstone](https://open.spotify.com/artist/5qzBQ1YLBp6aV6aG7wSB7v) | [Persimmon Tree](https://open.spotify.com/album/6cw07qQpDGemG2hZRhCVwg) | 4:40 | 2025-07-18 |  |
 | [Phase](https://open.spotify.com/track/2f9EHje9lKlY4GOnm6qtE0) | [Dimes](https://open.spotify.com/artist/2KtEEvQeBMwBpAnQB7YlvY) | [Phase](https://open.spotify.com/album/6wNjpS8urvAkB83wqLCFNJ) | 4:47 | 2024-02-29 | 2024-08-16 |
 | [Phases](https://open.spotify.com/track/4UYkU6dLvb702ketvDqGyb) | [The Analog Girl](https://open.spotify.com/artist/4PK6Yoxg2Ba8C2KQbysQkM) | [Phases](https://open.spotify.com/album/5fTg25WrY01ZAIfnu0fGtR) | 5:21 | 2024-02-15 | 2024-11-22 |
 | [Physical](https://open.spotify.com/track/2jZiBBDtv6PxKgpnoKujkM) | [Herbal Candy](https://open.spotify.com/artist/4iS9f9ZV9yAHQ9wUcPtFPi), [F.Rider](https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq) | [Physical](https://open.spotify.com/album/3GUvyZmAqeb9deklhEdYr5) | 2:46 | 2023-01-12 | 2023-03-10 |

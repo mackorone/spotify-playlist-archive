@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rohaan
+> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Shadient
 
-179 songs - 10 hr 4 min
+180 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [In The Stars](https://open.spotify.com/track/3qPJQhBBLPtr1R9ojGQFKk) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [Into The HEYZ, Part I](https://open.spotify.com/album/4Pmq8bZNhxmBYBdGzMhjg4) | 3:40 | 2023-12-01 |  |
 | [Incubator](https://open.spotify.com/track/5hDu5RuLPXJC75IUNzv4af) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Incubator](https://open.spotify.com/album/7dI7AvrDZLpVVwsvw2wRui) | 2:22 | 2023-12-01 | 2025-05-03 |
 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:48 | 2025-03-14 |  |
+| [INTERLOPER](https://open.spotify.com/track/5H6iYgErtz6byQPsE1DdTa) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd) | [INTERLOPER](https://open.spotify.com/album/306vdXdPyoP51Y3JBiHPdW) | 3:14 | 2025-07-18 |  |
 | [Into The Abyss](https://open.spotify.com/track/0eq4dBI0Z0Jbvz4DxO7SuE) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Into The Abyss](https://open.spotify.com/album/0iPD7Qr7nagkhzLUN9JQek) | 4:05 | 2023-12-01 | 2025-03-15 |
 | [It Gets Better](https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [It Gets Better](https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6) | 3:04 | 2023-12-01 | 2025-05-03 |
 | [It's Our Destiny](https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [It's Our Destiny](https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF) | 2:33 | 2023-12-01 | 2025-05-03 |

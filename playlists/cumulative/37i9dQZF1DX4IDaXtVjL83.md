@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: JVKE & TAEHYUN & Kim Chaewon\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: MAX & JAY \(ENHYPEN\)\)
 
-245 songs - 12 hr 58 min
+246 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) | 2:46 | 2024-05-10 |  |
 | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/track/3sheUbqssFt6H7JGWfZFK5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/album/1TgswMNuhpRfmO411liq1R) | 3:25 | 2021-12-20 | 2022-05-17 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
+| [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/track/3IglY1ukGerwdCA0FVWY2i) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JAY \(ENHYPEN\)](https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ) | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/album/2U3VnUzhG6tRWT7ZrjOWQI) | 2:31 | 2025-07-18 |  |
 | [Love me once again](https://open.spotify.com/track/7bfquwu5xobFp4axJkXVdg) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp), [YUN MIN SOO](https://open.spotify.com/artist/1FNZfvjCk9f579v5fBAPbP) | [Love me once again](https://open.spotify.com/album/4t6H6kJeG5QrElmIeDYZA4) | 5:24 | 2021-12-20 | 2022-01-22 |
 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-15 |  |
 | [Love,Maybe\(Japanese ver.\)](https://open.spotify.com/track/68gj7zHltrak3vcx0GHAAm) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/0whVgabqObgiYZ5WmAPgpv) | 3:08 | 2023-04-07 | 2024-10-15 |
@@ -250,7 +251,7 @@
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-29 | 2024-10-18 |
 | [如果可以 \(韓文版\) \- 電影"月老"主題曲](https://open.spotify.com/track/579jTwYxNQ1dKQjcKGXPy3) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(韓文版\) \[電影"月老"主題曲\]](https://open.spotify.com/album/3dPvM0IdO54j1m3zFjU8hv) | 4:34 | 2022-03-10 | 2023-02-17 |
 | [妳在哪裡 \(WYA\)](https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [妳在哪裡 \(WYA\)](https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt) | 3:43 | 2023-08-04 |  |
-| [妳在哪裡 \(WYA\) Remix \(Feat\. pH\-1, Lexie Liu, ØZI, Masiwei\)](https://open.spotify.com/track/07dT7SCgoq9ntHReX3bbqQ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [妳在哪裡 \(WYA\) Remix](https://open.spotify.com/album/7gxJr2sZru2NyUT7fNtbU4) | 4:09 | 2023-08-18 |  |
+| [妳在哪裡 \(WYA\) Remix \(Feat\. pH\-1, Lexie Liu, ØZI, Masiwei\)](https://open.spotify.com/track/07dT7SCgoq9ntHReX3bbqQ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [妳在哪裡 \(WYA\) Remix](https://open.spotify.com/album/7gxJr2sZru2NyUT7fNtbU4) | 4:09 | 2023-08-18 | 2025-07-19 |
 | [雨恋](https://open.spotify.com/track/7IhPNuQ9Wofe1wnvksz0a3) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [雨恋](https://open.spotify.com/album/5vZyHXMwvNbgCQACWO2lHm) | 3:51 | 2021-12-20 | 2022-03-05 |
 | [나란히 나란히 \(feat\. ATARASHII GAKKO!\)](https://open.spotify.com/track/33UW0S5w5bBTaB5GD96RW7) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [나란히 나란히 \(feat\. ATARASHII GAKKO!\)](https://open.spotify.com/album/1rlMLLKihzjtrNCmSZ5eyH) | 3:44 | 2025-06-20 |  |
 

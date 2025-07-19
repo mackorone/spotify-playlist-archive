@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 
 > This is Arctic Monkeys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,733,608 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,733,723 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 | 33 | [Old Yellow Bricks](https://open.spotify.com/track/5KGbRvZyVyKP2AEJMHErB4) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:13 |
 | 34 | [Leave Before The Lights Come On](https://open.spotify.com/track/4Du0BRUJvKybzxcRplp7HF) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 3:53 |
 | 35 | [Suck It and See](https://open.spotify.com/track/0LxeKwg9t7HOnyfv4bTALT) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:45 |
-| 36 | [Four Out Of Five](https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 5:12 |
-| 37 | [Too Much To Ask](https://open.spotify.com/track/1LSwssG5oIAMXYcvpOoPLC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Fluorescent Adolescent](https://open.spotify.com/album/5SkPWtT5QFPsV2ix1J5Lnm) | 3:03 |
+| 36 | [Too Much To Ask](https://open.spotify.com/track/1LSwssG5oIAMXYcvpOoPLC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Fluorescent Adolescent](https://open.spotify.com/album/5SkPWtT5QFPsV2ix1J5Lnm) | 3:03 |
+| 37 | [Four Out Of Five](https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 5:12 |
 | 38 | [Pretty Visitors](https://open.spotify.com/track/45n7uujqwmMyBMjBu9SwRu) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:40 |
 | 39 | [She's Thunderstorms](https://open.spotify.com/track/5xw2cHVLw1rlDPp3cL9Zuv) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:54 |
 | 40 | [Sculptures Of Anything Goes](https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 | 49 | [Star Treatment](https://open.spotify.com/track/0b93tWwuoAC0nXe1CfR30I) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 5:54 |
 | 50 | [Hello You](https://open.spotify.com/track/5ygEUpyZy5qtZ1423zymBW) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:04 |
 
-Snapshot ID: `aHbrgAAAAABIJyMkctEPYf4y+McMP6lB`
+Snapshot ID: `aHg9AAAAAAAHZQgMPHkWtEIB7lUH1ilX`

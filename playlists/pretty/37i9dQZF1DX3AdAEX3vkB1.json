@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 302763,
+  "num_followers": 302953,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Ring Of Fire: The Best Of Johnny Cash",
-        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "The Doors",
@@ -327,6 +311,22 @@
       "duration_ms": 429760,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Ring Of Fire: The Best Of Johnny Cash",
+        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "The Second",
-        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Magic Carpet Ride",
-      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Everything's Archie",
@@ -407,6 +391,22 @@
       "duration_ms": 167213,
       "name": "Sugar Sugar",
       "url": "https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "The Second",
+        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The House of the Rising Sun: Best of The Animals",
         "url": "https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 269906,
       "name": "The House of the Rising Sun",
       "url": "https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "These Boots Are Made for Walkin'",
-      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best Of Chubby Checker 1959-1963",
         "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 153760,
       "name": "The Twist",
       "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "These Boots Are Made for Walkin'",
+      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "At Abbey Road",
-        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
+        "name": "Johnny Burnette's Hits And Other Favorites",
+        "url": "https://open.spotify.com/album/1AOL5ae6xRGUAvcTGUGPxs"
       },
       "artists": [
         {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+          "name": "Johnny Burnette",
+          "url": "https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl"
         }
       ],
-      "duration_ms": 114986,
-      "name": "How Do You Do It? - Mono",
-      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
+      "duration_ms": 119026,
+      "name": "You're Sixteen, You're Beautiful (And You're Mine)",
+      "url": "https://open.spotify.com/track/5oeFEW0WGSGEdXMDKNI4z4"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Johnny Burnette's Hits And Other Favorites",
-        "url": "https://open.spotify.com/album/1AOL5ae6xRGUAvcTGUGPxs"
+        "name": "At Abbey Road",
+        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
       },
       "artists": [
         {
-          "name": "Johnny Burnette",
-          "url": "https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl"
+          "name": "Gerry & The Pacemakers",
+          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
         }
       ],
-      "duration_ms": 119026,
-      "name": "You're Sixteen, You're Beautiful (And You're Mine)",
-      "url": "https://open.spotify.com/track/5oeFEW0WGSGEdXMDKNI4z4"
+      "duration_ms": 114986,
+      "name": "How Do You Do It? - Mono",
+      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Needles & Pins",
-        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
-      },
-      "artists": [
-        {
-          "name": "The Searchers",
-          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
-        }
-      ],
-      "duration_ms": 131360,
-      "name": "Needles and Pins - Mono",
-      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "You Never Can Tell: His Complete Chess Recordings 1960 -1966",
         "url": "https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 161946,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/7xcFTtcCiyRvqLLq8s61WF"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Needles & Pins",
+        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
+      },
+      "artists": [
+        {
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+        }
+      ],
+      "duration_ms": 131360,
+      "name": "Needles and Pins - Mono",
+      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "My Kind Of Broadway",
+        "url": "https://open.spotify.com/album/7MJ6rkVywaHJsugKkhcLnv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 314133,
+      "name": "Luck Be A Lady",
+      "url": "https://open.spotify.com/track/3MIEsuQuZQeLSfD2EnM2BS"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "More Hits By The Supremes - Expanded Edition",
         "url": "https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 175893,
       "name": "Carrie Anne",
       "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "My Kind Of Broadway",
-        "url": "https://open.spotify.com/album/7MJ6rkVywaHJsugKkhcLnv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 314133,
-      "name": "Luck Be A Lady",
-      "url": "https://open.spotify.com/track/3MIEsuQuZQeLSfD2EnM2BS"
     },
     {
       "added_at": "2022-06-16 22:02:00",

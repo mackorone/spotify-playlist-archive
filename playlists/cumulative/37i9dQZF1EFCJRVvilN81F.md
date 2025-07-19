@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-199 songs - 11 hr 32 min
+200 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Another Lover](https://open.spotify.com/track/2KwW2VyIp48UXatX8S2TuL) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Silk Canvas](https://open.spotify.com/album/2EbhWs13R3DTnsGXHVZSPy) | 3:48 | 2022-09-08 |  |
 | [At All](https://open.spotify.com/track/0aR99yr1CNoxlZxm2veB65) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [At All / Hilarity Duff EP](https://open.spotify.com/album/6VD74xHxGq77aSCaTSMDIw) | 4:47 | 2022-09-08 | 2023-12-14 |
 | [At All](https://open.spotify.com/track/35iNiYHSzx3sv6XuqYh8HJ) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [At All / Hilarity Duff EP](https://open.spotify.com/album/4oo1zyAMnLVjZmQoyNP3h5) | 4:47 | 2023-12-13 |  |
+| [AVENTADOR](https://open.spotify.com/track/1HfRUONTeuX9dwOdgLFCe0) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [ENOCH](https://open.spotify.com/album/6iosJzmbhMPivxtY4Wd3bX) | 1:29 | 2025-07-18 |  |
 | [Be Careful \(feat\. Thundercat\)](https://open.spotify.com/track/73VGs4bdVRt4O8D7a4lCwJ) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 2:43 | 2022-09-08 |  |
 | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/0NdKnpfDtqT4ejsW4H58x4) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/77jeUjXkwa8D5WQYIs8eBu) | 4:28 | 2023-12-23 | 2024-12-20 |
 | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/38spM0LahLUfQhOMAqA7AI) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/72D0SqH6YFJ7kiZUjKt20c) | 4:28 | 2022-09-08 | 2023-12-24 |

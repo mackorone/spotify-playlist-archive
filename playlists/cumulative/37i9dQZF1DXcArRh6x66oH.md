@@ -4,7 +4,7 @@
 
 > roots run deep
 
-394 songs - 23 hr 35 min
+396 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Jesse](https://open.spotify.com/track/5loHd8KKK93wxEOkgGU12Q) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 3:51 | 2023-02-24 | 2024-08-29 |
 | [Jesse](https://open.spotify.com/track/7qb6DlOmbPOllTfCvmmkH6) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 3:51 | 2023-05-05 | 2024-04-19 |
 | [Johnny Moonshine](https://open.spotify.com/track/0stjCXW1ny6dRPtxhU6cqz) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Johnny Moonshine](https://open.spotify.com/album/2xgWJk6MgbNCnmesnaOqif) | 2:58 | 2024-07-10 |  |
+| [Keeps Me Sane](https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA) | 3:12 | 2025-07-18 |  |
 | [Kentucky Sky](https://open.spotify.com/track/0U2l0UpHPDGAkrh9jeDTsM) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Dark Black Coal](https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z) | 3:49 | 2023-11-10 | 2024-04-19 |
 | [Kentucky Sky](https://open.spotify.com/track/4GBHsMtMopYUNZP6pRI6Dn) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Kentucky Sky](https://open.spotify.com/album/5CMjTjCvOAMzNDGP9tL4gF) | 3:49 | 2023-03-03 |  |
 | [Kiss Me In The Dark](https://open.spotify.com/track/3bZKIfJVpW8HktEafRnRP2) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Just A Matter Of Time](https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT) | 3:48 | 2023-02-24 | 2023-07-28 |
@@ -213,6 +214,7 @@
 | [Mad Man](https://open.spotify.com/track/1i1GjxicCX9W9tBWwbFve5) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Mad Man](https://open.spotify.com/album/5qvuzIfBRmQP8XTi0jQWmR) | 2:52 | 2023-09-01 |  |
 | [Made To Love Someone](https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Made To Love Someone](https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i) | 3:06 | 2024-02-09 | 2024-07-11 |
 | [Madeline](https://open.spotify.com/track/7IW0YwaqaIJUTkCsayk4cs) | [Sons of Habit](https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp) | [Madeline](https://open.spotify.com/album/0CSkndwqaDGbN4LOs6Ws2a) | 3:54 | 2025-01-02 |  |
+| [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 | 2025-07-18 |  |
 | [Make You Weep \(OurVinyl Sessions\)](https://open.spotify.com/track/4pbgFPJ0ikbjAyrX5CmMNU) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [J.R\. Carroll \| OurVinyl Sessions](https://open.spotify.com/album/72089SOlxYZ4GbnDxqaXgQ) | 4:11 | 2023-03-10 | 2023-11-18 |
 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 | 2025-04-18 |  |
 | [Marlboro Man](https://open.spotify.com/track/7g3WvWRM3wTOhbOmM9f6u4) | [Colten Jesse](https://open.spotify.com/artist/2a54v7t8zdzGJxDKHhEGrT) | [Marlboro Man](https://open.spotify.com/album/7LVd1AfhUSn8smErFirp0y) | 3:50 | 2023-02-24 |  |

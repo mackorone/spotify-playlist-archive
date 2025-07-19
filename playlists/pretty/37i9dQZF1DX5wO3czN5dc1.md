@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ?si=0ZxenLTyQye86khZOoOfug">Nitefreak</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,384 likes - 49 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,479 likes - 49 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 17 | [Imikhuleko](https://open.spotify.com/track/0eCIJB7EZg4EShvFGsUiYc) | [Neiza SA](https://open.spotify.com/artist/1UiETZ57axAzahVdBabccU), [Dr 'Mario](https://open.spotify.com/artist/1NxCGFqbg15fwfCCuIWdMM), [Salga RSA](https://open.spotify.com/artist/3DrtS8ypvWia8quagIG2w4) | [Imikhuleko](https://open.spotify.com/album/1PxWStJ5RTCig67KUJRqcU) | 5:31 |
 | 18 | [Ungayeki \- Reborn Mix](https://open.spotify.com/track/2F7HaRJy8GDYd3lqEbJYKe) | [Dj Gálio](https://open.spotify.com/artist/5kEAI09rkVpxUw2epuXRwP), [DJ Satelite](https://open.spotify.com/artist/3Jbb0CKTNea0vdoBVrXaYk), [FabYo Gomez](https://open.spotify.com/artist/3AuUO1PjzGz5OREqJjRiex), [TK.](https://open.spotify.com/artist/5XNuvNYvWFd6VcfDR6U3wG) | [Ungayeki \(Reborn Mix\)](https://open.spotify.com/album/0qnDiUZZUsAiRh6qMPd7A2) | 6:32 |
 | 19 | [Emandulo](https://open.spotify.com/track/51tG3lFafTShrD5Zei8ewG) | [FiNE](https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Emandulo](https://open.spotify.com/album/4Eiwz4UCEbYjf5n9CI6pQQ) | 3:27 |
-| 20 | [Thonga Lami](https://open.spotify.com/track/3nBzoSYfVHHDMVlM37YAui) | [Harricane](https://open.spotify.com/artist/58Zaghu7BDXbq72pNggeh3), [SBO SA](https://open.spotify.com/artist/1eA17YzZx9iVEvSOjcFUvo), [Catalyst](https://open.spotify.com/artist/7we5WqcBSJ5SuGANciiz8T) | [Thonga Lami](https://open.spotify.com/album/1A4qOjyfhz3X55CvRBEIyH) | 5:31 |
+| 20 | [Thonga Lami](https://open.spotify.com/track/3nBzoSYfVHHDMVlM37YAui) | [Harricane](https://open.spotify.com/artist/58Zaghu7BDXbq72pNggeh3), [SBO SA](https://open.spotify.com/artist/1eA17YzZx9iVEvSOjcFUvo), [Catalyst](https://open.spotify.com/artist/7we5WqcBSJ5SuGANciiz8T), [Teekay](https://open.spotify.com/artist/2YA5TR00ZNaKMrkwpN0SJD) | [Thonga Lami](https://open.spotify.com/album/1A4qOjyfhz3X55CvRBEIyH) | 5:31 |
 | 21 | [Qula](https://open.spotify.com/track/6tawA3kM9Q2RbOl4vDOjtt) | [Deejay Soso](https://open.spotify.com/artist/6t9XXzELFCYuL7ZCaRTDNe), [VID Musique](https://open.spotify.com/artist/3ZfhN8TDwwQJZlrN6IKPi4) | [Qula](https://open.spotify.com/album/0fB3ZB14mXqaNEn8JpYUVb) | 3:35 |
 | 22 | [Limit To Your Love](https://open.spotify.com/track/3YVzxCURw2xAAUbt6wKI4E) | [Matt Davies](https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV), [Bass Odyssey](https://open.spotify.com/artist/1wOTXNecpnGJs6saibX7MV) | [Limit To Your Love](https://open.spotify.com/album/4INic9L1g4PB4PUyrruG2O) | 5:26 |
 | 23 | [FAYA \- Khaney Afro House Remix Radio Edit](https://open.spotify.com/track/2ndB9kibZc5yolI8Qp0dgP) | [Khaney](https://open.spotify.com/artist/0PxPREVwFHTaFJaKWbmxgY), [Meaku](https://open.spotify.com/artist/2zD28cZO766exrIWQBDFEJ), [Denzel Wilson](https://open.spotify.com/artist/3EFqjj8k2v3N9NaxOrN18I) | [FAYA \(Khaney Afro House Remix\)](https://open.spotify.com/album/2IIn9eOqhDWQSJDy5GUhHf) | 3:04 |

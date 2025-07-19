@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
 
-384 songs - 21 hr 4 min
+386 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Briston](https://open.spotify.com/track/65VpwcmfM8WMvEPrI0cCtF) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Briston](https://open.spotify.com/album/5cmC9O768yOGu5tU1qf0f8) | 2:47 | 2024-06-07 |  |
 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2023-08-15 |  |
 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2023-09-22 | 2024-01-17 |
+| [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 | 2025-07-18 |  |
 | [burner phone](https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in another life](https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R) | 3:51 | 2023-09-15 | 2024-01-11 |
 | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n), [Karen Fairchild](https://open.spotify.com/artist/3RXtieA0L2l22SWlOUMNca) | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y) | 2:49 | 2021-12-06 | 2023-08-16 |
 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 | 2021-12-06 | 2023-08-16 |
@@ -98,6 +99,7 @@
 | [Dreamer](https://open.spotify.com/track/22arMgKuiDLRBo3uso19S6) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Dreamer](https://open.spotify.com/album/3lxmDYMwjQUw1ilmhuUmED) | 3:42 | 2024-07-26 | 2024-10-10 |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-26 | 2025-02-18 |
 | [Earl Grey Tea](https://open.spotify.com/track/3EL5qpV96RVFOOd6D54d8u) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:47 | 2023-08-28 | 2024-06-15 |
+| [Easy Goodbye](https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Easy Goodbye](https://open.spotify.com/album/6g3tbC8kDxONtGl1eYJwGx) | 4:14 | 2025-07-18 |  |
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-06-07 | 2024-08-17 |
 | [EDIE CELINE](https://open.spotify.com/track/6j2SK5z0tnZjfpVxL0oZwM) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [EDIE CELINE](https://open.spotify.com/album/1ZQHz49qJwDG9W7jh9V9dy) | 3:03 | 2023-12-04 | 2024-02-17 |
 | [Elevation](https://open.spotify.com/track/5uwE7RLzB2mbSE3z5GDEA9) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Elevation](https://open.spotify.com/album/5b0CljUZdKO42HODyZeWhE) | 3:57 | 2021-12-06 | 2023-08-16 |

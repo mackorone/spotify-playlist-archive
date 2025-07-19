@@ -723,6 +723,28 @@
     },
     {
       "album": {
+        "name": "Jugraafiya (From \"Super 30\")",
+        "url": "https://open.spotify.com/album/3D4OuBfCaBO8FnY5RiZVIj"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274352,
+      "name": "Jugraafiya - From \"Super 30\"",
+      "url": "https://open.spotify.com/track/2TYxwTH2HhL6OLVkZlsDLV"
+    },
+    {
+      "album": {
         "name": "Bachna Ae Haseeno",
         "url": "https://open.spotify.com/album/4mFLdK8SkUo3cx8ERLQC92"
       },
@@ -1770,7 +1792,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 240000,
       "name": "Ve Haaniyaan",
       "url": "https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b"

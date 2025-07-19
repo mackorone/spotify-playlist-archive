@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Bring Me The Horizon
 
-197 songs - 13 hr 51 min
+198 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Chop Suey!](https://open.spotify.com/track/37SgiDGQSiUTQXZo2Ml888) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Chop Suey!](https://open.spotify.com/album/0TkVuK1bb6hvlJOjZlV80i) | 3:38 | 2022-05-25 | 2023-02-20 |
 | [Chop Suey!](https://open.spotify.com/track/6mAtV1MrrpaAFtcUgSj3q0) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [Chop Suey!](https://open.spotify.com/album/6FDx7On1oIaLAn95L3Swhx) | 3:34 | 2022-05-25 | 2023-02-20 |
 | [Cinnamon Girl](https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 4:08 | 2022-05-25 |  |
+| [Civil War](https://open.spotify.com/track/7aaZoyuVxcKZSWIY1PeuBv) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [Civil War](https://open.spotify.com/album/2dE9FvXmxlQmp1fyHXpVkA) | 7:12 | 2025-07-18 |  |
 | [Come Together](https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN) | 3:46 | 2023-08-23 | 2024-04-19 |
 | [Come Together](https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live And Inspired](https://open.spotify.com/album/4KvZhLes9MpE8IUZKhxiRF) | 3:46 | 2024-04-01 |  |
 | [Come Together \- Live From Fox Theatre Detroit, MI/2012](https://open.spotify.com/track/02LrmnkHvOcQo6L2RBdfqu) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4qq3w5Bfb46Rw9kE6QSYNT) | 3:46 | 2023-02-19 | 2023-06-23 |
@@ -106,7 +107,7 @@
 | [Lonely Nights](https://open.spotify.com/track/1aqBMkIKxCp481UfL3FWcx) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Lonely Nights](https://open.spotify.com/album/1TwHNQDT1hOPnA0ejik8RS) | 3:48 | 2022-05-25 | 2022-07-28 |
 | [Looks That Kill](https://open.spotify.com/track/6EsmreLQ4j67JOyq9cDiA5) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Looks That Kill](https://open.spotify.com/album/4SgYiHjpOwZ1EqweySZRun) | 4:11 | 2022-05-25 | 2022-11-13 |
 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 | 2022-05-25 | 2024-09-15 |
-| [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 | 2023-02-19 |  |
+| [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 | 2023-02-19 | 2025-07-19 |
 | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/track/73lnNys5DP9GOM2YKqNkQz) | [Time, The Valuator](https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ), [Charlotte Buchholz](https://open.spotify.com/artist/6wkvIFk3Ao7Rjr2cUdJ8Kc) | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/album/2zXwjDE1op3goWSzN31I4G) | 3:58 | 2022-06-13 | 2023-02-20 |
 | [Mambo No\. 5 \- Cover](https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Mambo No\. 5 \(Cover\)](https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn) | 3:30 | 2022-05-25 | 2023-02-14 |
 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 | 2022-05-25 |  |

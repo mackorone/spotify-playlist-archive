@@ -4,7 +4,7 @@
 
 > Sommeren er her!🍹
 
-233 songs - 12 hr 5 min
+234 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dum og lovende](https://open.spotify.com/track/5xKfbK1rSRZVaxRSgkGrey) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 3:07 | 2024-10-31 | 2024-12-11 |
 | [Dårlig idé](https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Dårlig idé](https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx) | 2:12 | 2024-06-27 | 2025-02-26 |
 | [Eli](https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Eli](https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w) | 3:25 | 2025-03-27 |  |
+| [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 |  |
 | [eu te amo bebê](https://open.spotify.com/track/6ZgFFrkRhUyJPB0Kq6AeGk) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [eu te amo bebê](https://open.spotify.com/album/5AXj1uz4Ltn2R4bVtMQiuH) | 1:46 | 2025-04-24 |  |
 | [Every Part of Me](https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Silver Bead Eyes](https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA) | 3:34 | 2025-02-27 | 2025-04-05 |
 | [evig og alltid \(med Emma Steinbakken\)](https://open.spotify.com/track/7BUb5sLSVC8xIE54NN8Vx1) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [tanker blir ting](https://open.spotify.com/album/5YPHiDi5V5r4a8QVK8nCVX) | 3:04 | 2024-06-27 | 2024-07-10 |
@@ -54,7 +55,7 @@
 | [Fargepalett](https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Fargepalett](https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6) | 2:21 | 2024-10-03 |  |
 | [Faster](https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Woods](https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN) | 3:27 | 2025-03-06 | 2025-03-30 |
 | [Finaste så finns](https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Finaste så finns](https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1) | 3:10 | 2024-06-27 |  |
-| [Finding You Again](https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Finding You Again](https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD) | 3:18 | 2025-03-13 |  |
+| [Finding You Again](https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Finding You Again](https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD) | 3:18 | 2025-03-13 | 2025-07-19 |
 | [Fineste Dama På Utestedet](https://open.spotify.com/track/0VJAnLZlBHZIPsRcBW3kSw) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Fineste Dama På Utestedet](https://open.spotify.com/album/7pU45MsJfs2xoqC34wPKeV) | 2:44 | 2025-06-26 |  |
 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 | 2025-04-17 | 2025-05-07 |
 | [forever on my mind](https://open.spotify.com/track/7Mgl85DExMmXZQK63YoyBJ) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [forever on my mind](https://open.spotify.com/album/3PTXIacmqhTYHyO4txzx7p) | 2:53 | 2024-10-24 | 2025-01-10 |

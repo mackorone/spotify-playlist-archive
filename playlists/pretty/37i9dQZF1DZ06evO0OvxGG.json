@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABeVGQ6rGg12yoqBkZgbe+L",
+  "snapshot_id": "aHg9AAAAAADgqw7wGreZCTV3oYvPq97V",
   "tracks": [
     {
       "added_at": null,
@@ -179,46 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EU GOSTO DE GAROTAS",
-        "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
-      },
-      "artists": [
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "PALHA\u00c7ADA",
-      "url": "https://open.spotify.com/track/4ZoCo1ETO88Ywu6NBQUVMQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malvatrem",
-        "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "Oompa Loompa",
-      "url": "https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SALA VERMELHA #31 - Slipmami",
         "url": "https://open.spotify.com/album/5MKkPTLOt6yR0NGj328ToX"
       },
@@ -243,6 +203,46 @@
       "duration_ms": 119225,
       "name": "SALA VERMELHA #31 - Slipmami",
       "url": "https://open.spotify.com/track/6BfldmhgnMCt8PHM8xHY7n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malvatrem",
+        "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "Oompa Loompa",
+      "url": "https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EU GOSTO DE GAROTAS",
+        "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
+      },
+      "artists": [
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "PALHA\u00c7ADA",
+      "url": "https://open.spotify.com/track/4ZoCo1ETO88Ywu6NBQUVMQ"
     },
     {
       "added_at": null,

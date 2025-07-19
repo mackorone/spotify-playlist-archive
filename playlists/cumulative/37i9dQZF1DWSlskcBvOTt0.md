@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-967 songs - 3 day 9 hr 49 min
+968 songs - 3 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Innocent](https://open.spotify.com/track/6OQsyB9GiCflqxFRY2RBQs) | [Re.You](https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Innocent](https://open.spotify.com/album/4LywYeuBUjMzFS1vfXSeFC) | 3:18 | 2025-01-17 | 2025-02-02 |
 | [Inside My Head](https://open.spotify.com/track/1r8aDSQwCBdfHWHQE0Vvhr) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Inside My Head](https://open.spotify.com/album/2jjIP47viQxEy1d6JOp9MW) | 6:50 | 2022-04-15 | 2022-07-29 |
 | [Intention](https://open.spotify.com/track/3XUeay5T8hizznK7TilThF) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Unique](https://open.spotify.com/album/12eXCWyllUjbEFLI1yFa5s) | 3:45 | 2025-02-14 | 2025-04-26 |
+| [Intersexy \(Thakzin Remix\)](https://open.spotify.com/track/3mUpLs4JexPKtrd8l5rLz6) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Intersexy \(Thakzin Remix\)](https://open.spotify.com/album/6cbI8L2XkSCYwFa8j8wyj7) | 6:24 | 2025-07-18 |  |
 | [Intina](https://open.spotify.com/track/0J7Doa7oWtMqSNTifFjpZJ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7) | [Maasai](https://open.spotify.com/album/51VRG6BjxHM2nZ9a7qEbPD) | 3:13 | 2024-03-29 | 2024-06-17 |
 | [Intuición](https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Sil Romero](https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG) | [Intuición](https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE) | 4:12 | 2022-05-06 | 2023-11-18 |
 | [iPlan](https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Permanent Music 3](https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow) | 6:50 | 2023-12-01 | 2024-05-11 |
@@ -972,7 +973,7 @@
 | [YOUR NAME](https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SILVERLAKE 03](https://open.spotify.com/album/3EHHWKU0W1jIsFcmpaXqas) | 5:11 | 2023-10-06 | 2024-04-19 |
 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 | 2022-08-19 | 2024-04-19 |
 | [Your Way](https://open.spotify.com/track/2V64rudkFZ9gciglMM0t5S) | [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Your Way](https://open.spotify.com/album/0QZrG85ir88fpUnbxzgFe6) | 6:18 | 2022-09-30 | 2022-10-29 |
-| [Yours to Take](https://open.spotify.com/track/1lCnkwov638dkrJhQf2nmv) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Yours to Take](https://open.spotify.com/album/6chCBhvEyDp2WexX9hi7is) | 5:02 | 2025-05-30 |  |
+| [Yours to Take](https://open.spotify.com/track/1lCnkwov638dkrJhQf2nmv) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Yours to Take](https://open.spotify.com/album/6chCBhvEyDp2WexX9hi7is) | 5:02 | 2025-05-30 | 2025-07-19 |
 | [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 | 2023-05-12 | 2024-04-13 |
 | [Águila Vuela](https://open.spotify.com/track/7aXrG73Gaol5K7pJwyY2yf) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J) | [Águila Vuela](https://open.spotify.com/album/2ea6IQF8ALW452y6Jdi8Ai) | 6:52 | 2023-08-25 | 2023-10-01 |
 

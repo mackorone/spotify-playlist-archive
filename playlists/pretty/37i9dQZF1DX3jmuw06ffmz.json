@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 2000. Foto: Paulina Rubio",
-  "num_followers": 375008,
+  "num_followers": 375292,
   "original_name": "Pop Latino: Los 2000",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "Natalia Lafourcade",
-        "url": "https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "En el 2000",
-      "url": "https://open.spotify.com/track/2cVJwPD5CaTx2kBZyomzGN"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "Utopia 2",
         "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 225373,
       "name": "Bella Traicion",
       "url": "https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "Natalia Lafourcade",
+        "url": "https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "En el 2000",
+      "url": "https://open.spotify.com/track/2cVJwPD5CaTx2kBZyomzGN"
     },
     {
       "added_at": "2024-06-12 20:29:16",

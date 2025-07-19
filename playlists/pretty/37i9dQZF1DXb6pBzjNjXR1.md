@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech as it travels the world's dancefloors\. Cover: <a href="https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9?si=RvirRjnkTbmHpN0xKXsVAA">Vanco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,978 likes - 55 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,000 likes - 55 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 6 | [Nomvula \(feat\. Nia Pearl & Bontle Smith\)](https://open.spotify.com/track/43yHwDUgHXuRx4Ntur15dL) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC) | [Nomvula \(feat\. Nia Pearl & Bontle Smith\)](https://open.spotify.com/album/7kvszdC2oRoR9eQzlKT8DM) | 4:22 |
 | 7 | [Thin' Izizwe \- Dazz B MusiQ Change Down Mix](https://open.spotify.com/track/39vdnBY1lcyQgw7I75l5cZ) | [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf), [Dazz\-B MusiQ](https://open.spotify.com/artist/2uXPRBlQzbT3xMPV2Fbotn) | [Thin'Izizwe \- Shifting Down a Gear M2KR](https://open.spotify.com/album/28jtz1dNH4pyS9rkKl4VPC) | 3:34 |
 | 8 | [African Vibe PT 2 \- Ka Valungu \- 3 Step Remix](https://open.spotify.com/track/3jbBtITwX7GLqWcqz3odek) | [Peta Teanet](https://open.spotify.com/artist/7BeJbenrKbpNEUIsbvrl3d), [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts) | [African Vibe PT 2 \- Ka Valungu \(3 Step Remix\)](https://open.spotify.com/album/5JvzmgfOX9gzhwcXUt2NrI) | 5:58 |
-| 9 | [Justice \- Extended Mix](https://open.spotify.com/track/43WytbVJjoSZZl9sb36kfZ) | [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Justice](https://open.spotify.com/album/5aKaUWsPW9KFNvtXFzQAKP) | 7:00 |
+| 9 | [Justice \(You're the one\) \- Sean Rocket's Extended Mix](https://open.spotify.com/track/43WytbVJjoSZZl9sb36kfZ) | [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Justice \(You're the one\)](https://open.spotify.com/album/5aKaUWsPW9KFNvtXFzQAKP) | 7:01 |
 | 10 | [Thaa 3 Way Chant](https://open.spotify.com/track/5CmEZVVPmR0V7c5MNIZGFo) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Spice Drums](https://open.spotify.com/artist/2t94pHkpQ9heBi98hoeD7b), [Drip Gogo](https://open.spotify.com/artist/34OZxmMzGYIx0VSQ8NaUOP) | [The Cradle Of Art](https://open.spotify.com/album/0sSMJHFf9UMYfIqSvLLx4a) | 6:33 |
 | 11 | [Diaspora](https://open.spotify.com/track/2HGIdR9lyQwUL9N86lWCVx) | [Privacii](https://open.spotify.com/artist/7DtDULI8CPkqPhcfbau3Hd) | [Diaspora](https://open.spotify.com/album/6i3ywltmPTg1xAFGZIYV7x) | 6:27 |
 | 12 | [Wicked Evolution](https://open.spotify.com/track/6zW5BUp5cJp8gr1iDGT3Sj) | [Duncan R32](https://open.spotify.com/artist/52X5UIn4TQYFTDbcwpZYCN) | [Wicked Evolution](https://open.spotify.com/album/0j81Y53HKVeFLkBKijLCg4) | 6:46 |

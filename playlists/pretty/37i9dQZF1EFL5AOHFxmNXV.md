@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,984 likes - 170 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,983 likes - 170 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 85 | [Grown Woman](https://open.spotify.com/track/0l1eHXBH9pNSW6MVQFTK1z) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:25 |
 | 86 | [WEST DISTRICT](https://open.spotify.com/track/4louS1zw5coBPLDyJLD5Sm) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 5:03 |
 | 87 | [Deserve It](https://open.spotify.com/track/4DhcorFL5TTEMuh17ZQUqY) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dark Sky Paradise \(Deluxe\)](https://open.spotify.com/album/4Nlbt2EuXedr6UqaeXEI4c) | 4:21 |
-| 88 | [NOTHING LESS](https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:28 |
-| 89 | [WHEN HE'S GONE](https://open.spotify.com/track/6mmPe3Y3SEtYb9HZsHTyrj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:29 |
+| 88 | [WHEN HE'S GONE](https://open.spotify.com/track/6mmPe3Y3SEtYb9HZsHTyrj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:29 |
+| 89 | [NOTHING LESS](https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:28 |
 | 90 | [TRAUMA](https://open.spotify.com/track/1EwY5MatBtBEnHeyAFT8kP) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:50 |
 | 91 | [LASERS](https://open.spotify.com/track/2vjFTjmvpFjFM01cNdG2ik) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:18 |
-| 92 | [Bout It](https://open.spotify.com/track/2wgiJddOedrZCNyeV1vBuF) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:25 |
-| 93 | [C h e e r s](https://open.spotify.com/track/6OyOjq2nMELgQX7GspwXlR) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:54 |
+| 92 | [C h e e r s](https://open.spotify.com/track/6OyOjq2nMELgQX7GspwXlR) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:54 |
+| 93 | [Bout It](https://open.spotify.com/track/2wgiJddOedrZCNyeV1vBuF) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:25 |
 | 94 | [Don't Choose](https://open.spotify.com/track/0xSjn8x3Tj9fathvZvH8Yk) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 3:41 |
 | 95 | [ANOTHER DAY](https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:32 |
 | 96 | [Muse](https://open.spotify.com/track/1tALmYRIRErjPRxisWWf3P) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:23 |
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 152 | [Brown Skin](https://open.spotify.com/track/5lNkkcArjQnPUTZ1bzmPAj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:58 |
 | 153 | [Nothing but Net](https://open.spotify.com/track/0Kuuk3DYQwNsD6qWA3EmPV) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [We Run This, Vol\. 13 \(Mixed by Mr\. E\)](https://open.spotify.com/album/34wToEA3gR8J6qez359k39) | 3:31 |
 | 154 | [A M o t h e r' s P r a y e r](https://open.spotify.com/track/0mK4zU8fsYz84QMrc1b1JA) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb) | 0:44 |
-| 155 | [CUFFED UP \(feat\. Quavo\)](https://open.spotify.com/track/1Fvwwdc1OMPXXelzEot3mk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 1:55 |
-| 156 | [DON'T DO IT FOR YOU NO MORE](https://open.spotify.com/track/2Tm4VevGfmqUUA5W0Ef0sf) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:55 |
+| 155 | [DON'T DO IT FOR YOU NO MORE](https://open.spotify.com/track/2Tm4VevGfmqUUA5W0Ef0sf) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:55 |
+| 156 | [CUFFED UP \(feat\. Quavo\)](https://open.spotify.com/track/1Fvwwdc1OMPXXelzEot3mk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 1:55 |
 | 157 | [GIRL FROM OAKLAND](https://open.spotify.com/track/4boBDGtJWGiWUosp2JVEVy) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:37 |
 | 158 | [The Right Way](https://open.spotify.com/track/73Gwvrhm0HmltoFoLgQqcs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:41 |
 | 159 | [Love Me Again](https://open.spotify.com/track/0tq66loaJTREh2wYnShVL9) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:18 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 169 | [Elevate](https://open.spotify.com/track/3HEe35p5i97KcFoBra4pIn) | [Siedd](https://open.spotify.com/artist/0BjgliR7fzJazTNUaaal14) | [Elevate](https://open.spotify.com/album/01Abn8AtQ1psk6jwqqHPta) | 2:12 |
 | 170 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 
-Snapshot ID: `Ab3DMgAAAAD4WLP9HPtM5kK/CvmWFPzN`
+Snapshot ID: `Ab3I0gAAAADU1tpNGg1gdHvwUBpGb8VZ`

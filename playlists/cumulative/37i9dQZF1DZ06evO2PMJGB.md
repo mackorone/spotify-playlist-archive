@@ -4,7 +4,7 @@
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 11 min
+79 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I) | 1:58 | 2025-04-27 |  |
 | [MTG Sagrado Profano](https://open.spotify.com/track/4bieMkyQdNwyTYtqfYWHzd) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 2:32 | 2024-09-24 |  |
 | [MULHER DO ANO XD](https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:35 | 2023-10-10 |  |
+| [Não Me Provoca](https://open.spotify.com/track/1xFMviPJFR4mPRRxQbadpu) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Me Provoca](https://open.spotify.com/album/4zoOC66ELs5xOesaO0tD1z) | 2:44 | 2025-07-19 |  |
 | [Não Sirvo \- Ao Vivo](https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Sirvo \(Ao Vivo\)](https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN) | 2:41 | 2024-01-20 |  |
 | [Não Vai Embora](https://open.spotify.com/track/28atBekPVlTdnU4M9Z7udd) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Não Vai Embora](https://open.spotify.com/album/6JwoRKYnWd1Dv5z6zfv0bo) | 3:25 | 2023-10-10 |  |
 | [Não Vai Embora \- Acústico](https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Vai Embora \(Acústico\)](https://open.spotify.com/album/4bH36H3ghOHKihdYY0kNWf) | 3:47 | 2023-10-10 | 2024-05-27 |

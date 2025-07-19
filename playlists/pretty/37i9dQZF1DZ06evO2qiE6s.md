@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,408 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,417 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 21 | [Gentle on My Mind](https://open.spotify.com/track/0znQyUrJwmuLenUzJXawEY) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 2:36 |
 | 22 | [Mean To Me \- Remastered/1998](https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:10 |
 | 23 | [My Rifle, My Pony And Me \- Remastered](https://open.spotify.com/track/73VWTEHnoZyULD840kEX49) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:10 |
-| 24 | [Cha Cha Cha d´Amour](https://open.spotify.com/track/0GaVD2xG18kwPJpa8jfoeX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Cha Cha De Amor](https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n) | 2:18 |
-| 25 | [My Rifle, My Pony And Me \- Remastered](https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [At The Movies](https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK) | 2:48 |
+| 24 | [My Rifle, My Pony And Me \- Remastered](https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [At The Movies](https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK) | 2:48 |
+| 25 | [Cha Cha Cha d´Amour](https://open.spotify.com/track/0GaVD2xG18kwPJpa8jfoeX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Cha Cha De Amor](https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n) | 2:18 |
 | 26 | [Heaven Can Wait \- Remastered 1998](https://open.spotify.com/track/291IQsv9uraExolqtoRczv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:29 |
 | 27 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
 | 28 | [Non Dimenticar \- Remastered 1998](https://open.spotify.com/track/0M7yY7udI6Cj2RzIXUVNg7) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [You Belong To Me \- Remastered](https://open.spotify.com/track/05oFDCPK2YuNm5uBtCmm1B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Capitol Years](https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI) | 3:03 |
 | 50 | [Vieni Su \(Say You Love Me, Too\) \- Remastered 1998](https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:26 |
 
-Snapshot ID: `aHbrgAAAAACkcnENg10fkbGfGfIU93vr`
+Snapshot ID: `aHg9AAAAAADf2ed+aHJ58LhVgI+a/8H6`

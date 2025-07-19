@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Lupita en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Karol G y Marco Antonio Solis en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 168140,
       "name": "Amiga M\u00eda, Ese hombre No Se Toca",
       "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
@@ -2019,6 +2019,46 @@
     },
     {
       "album": {
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
+    },
+    {
+      "album": {
+        "name": "Brujer\u00eda (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6FHoFi6CTNoTK8e5wEg852"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123136,
+      "name": "Brujer\u00eda - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/3sD5xTCmglML7uUHkLRtDN"
+    },
+    {
+      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -2850,7 +2890,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 208308,
       "name": "Como Un P\u00e1jaro",
       "url": "https://open.spotify.com/track/4zVznkVDNdQNnXsj058THT"
@@ -3452,6 +3492,28 @@
       "duration_ms": 195573,
       "name": "Darte Un Beso - Spotify Singles",
       "url": "https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48"
+    },
+    {
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116611,
+      "name": "De Color De Rosa",
+      "url": "https://open.spotify.com/track/29Xfj1s53QYHFeJnQSTo0b"
     },
     {
       "album": {
@@ -4136,6 +4198,28 @@
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238508,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
     },
     {
       "album": {
@@ -6240,7 +6324,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 185559,
       "name": "Jaula de Oro",
       "url": "https://open.spotify.com/track/4t32m1qys5lJhLabV81UO4"
@@ -6338,6 +6422,24 @@
       "duration_ms": 258441,
       "name": "Kbron y Medio",
       "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
+    },
+    {
+      "album": {
+        "name": "KHE CALOR",
+        "url": "https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "KHE CALOR",
+      "url": "https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw"
     },
     {
       "album": {
@@ -6604,6 +6706,28 @@
       "duration_ms": 210960,
       "name": "La Cumbia Triste",
       "url": "https://open.spotify.com/track/5tsZWdsk2emPhUXNYs5Jnr"
+    },
+    {
+      "album": {
+        "name": "La del Primer Puesto",
+        "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "La del Primer Puesto",
+      "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
     },
     {
       "album": {
@@ -8860,7 +8984,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 134014,
       "name": "Mientras La Ciudad Descansa - Re-versi\u00f3n",
       "url": "https://open.spotify.com/track/4HDDaURdyjlURlWDlhcqaQ"
@@ -14732,7 +14856,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 183021,
       "name": "WIFEY",
       "url": "https://open.spotify.com/track/2CAZRdOniNbyR1ehg8rUYF"
@@ -15230,7 +15354,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 192976,
       "name": "\u00bfQu\u00e9 Esperabas?",
       "url": "https://open.spotify.com/track/6fGd8PEso2vyufhfxxioPg"

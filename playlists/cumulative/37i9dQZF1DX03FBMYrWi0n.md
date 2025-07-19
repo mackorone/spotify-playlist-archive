@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Population II
 
-236 songs - 13 hr 38 min
+237 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 | 2023-02-10 |  |
 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 | 2024-02-02 |  |
 | [Antennes](https://open.spotify.com/track/2IWRxRcB3MpsKptIzs4zdS) | [Jesuslesfilles](https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W) | [L'heure idéale](https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR) | 2:08 | 2023-03-24 | 2023-04-05 |
-| [ANTI\-GUÉRISON](https://open.spotify.com/track/3dKLqqYzxWyFK54zhaGc5L) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [ANTI\-GUÉRISON](https://open.spotify.com/album/6hM7kqdd2WkEkQ7g17FMGi) | 3:51 | 2025-02-06 |  |
+| [ANTI\-GUÉRISON](https://open.spotify.com/track/3dKLqqYzxWyFK54zhaGc5L) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [ANTI\-GUÉRISON](https://open.spotify.com/album/6hM7kqdd2WkEkQ7g17FMGi) | 3:51 | 2025-02-06 | 2025-07-19 |
 | [Anyway](https://open.spotify.com/track/3UxA34eO5Ueii16F9FklMY) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Stay Safe!](https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1) | 3:45 | 2024-02-02 | 2024-10-26 |
 | [Anyway](https://open.spotify.com/track/3lbmkS5HlBqsuefMgvkxka) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Anyway](https://open.spotify.com/album/09krY5QSpZboazWATr2T2S) | 3:45 | 2023-04-14 | 2023-06-17 |
 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 | 2023-02-10 |  |
@@ -77,6 +77,7 @@
 | [Détours](https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Snake eyes](https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8) | 2:52 | 2023-02-10 | 2023-03-11 |
 | [Ekuan Ek\(u\)](https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 3:46 | 2023-04-07 | 2024-01-27 |
 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 | 2023-04-28 | 2024-08-30 |
+| [EN FACE](https://open.spotify.com/track/0wcTxSHwmzBBWCo5zkfZ9z) | [La Monarque](https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3) | [EN FACE](https://open.spotify.com/album/7i91xBaYY4pPJHP31x6PyJ) | 2:08 | 2025-07-18 |  |
 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 | 2023-02-10 |  |
 | [Espacia](https://open.spotify.com/track/5tAH4gpZQGctdBoJl2hdg3) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Espacia](https://open.spotify.com/album/4Y73mMgDuqVCQjuFHu6g9I) | 3:52 | 2024-08-23 | 2024-10-17 |
 | [Et Hop](https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Et Hop](https://open.spotify.com/album/5aVvhOTAFcdh4QxQs4aF0Z) | 3:14 | 2023-02-10 | 2023-04-30 |

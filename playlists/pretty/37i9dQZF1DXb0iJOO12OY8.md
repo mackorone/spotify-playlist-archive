@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,053 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,045 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 39 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 |
 | 40 | [Positiv](https://open.spotify.com/track/2c0f6RoKEFac8rsQ42WNIl) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Positiv](https://open.spotify.com/album/19ZPN1zBZRJrDXkoCkHbvK) | 3:13 |
 | 41 | [En Vakker Dag](https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [En Vakker Dag](https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB) | 2:30 |
-| 42 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
-| 43 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 |
+| 42 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 |
+| 43 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
 | 44 | [Gode Tider \(feat\. Streetboys\)](https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa), [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Gode Tider \(feat\. Streetboys\)](https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW) | 2:49 |
 | 45 | [Da Vi Møtte Fanden](https://open.spotify.com/track/4D6hnelZ3b9XOfetGZCxrD) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Da Vi Møtte Fanden](https://open.spotify.com/album/3b9FdXRlIqsqvlR6g2M0jk) | 2:58 |
 | 46 | [Dette er livet \(feat\. OnklP\)](https://open.spotify.com/track/07i2PdaFfEclgdsnT4WKEk) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6) | [Dette er livet \(feat\. OnklP\)](https://open.spotify.com/album/5SrPHNFUtPbv5RgRlRe61v) | 2:38 |

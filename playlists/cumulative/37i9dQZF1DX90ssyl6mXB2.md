@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off\. cover: Karri
 
-230 songs - 10 hr 40 min
+231 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [None Of Your Concern \(feat\. Big Sean\)](https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:19 | 2024-02-02 | 2024-03-30 |
 | [Not Mine](https://open.spotify.com/track/0s0HQde8B10UnQJGFDEqmI) | [Tona Glover](https://open.spotify.com/artist/0MnMT3Q8i2O43b73SLANwT) | [Not Mine](https://open.spotify.com/album/66gGdAHsqcdYrVjQOFrJcG) | 2:29 | 2024-10-18 |  |
 | [NOT THE ONE](https://open.spotify.com/track/5odrgttxGTjodGqpIc4Kqr) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [NOT THE ONE](https://open.spotify.com/album/6gS1GTD1AAKREG85KdJcQd) | 2:40 | 2024-11-22 |  |
+| [Oakland Baby](https://open.spotify.com/track/1eCmhxAjTh2tJgyT9wntHL) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Oakland Baby](https://open.spotify.com/album/46jcanZS4AwhaavD9WAxTC) | 2:09 | 2025-07-18 |  |
 | [Oakland Pt\. 2](https://open.spotify.com/track/53ZSD18jfaGFqSnj4FL8Lq) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Oakland Pt\. 2](https://open.spotify.com/album/17mz6AvacvJo6kK9stQTLK) | 2:36 | 2024-09-13 |  |
 | [On The Low](https://open.spotify.com/track/3h4t0ZP2mzTPYyiyERgtVR) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Before I Go](https://open.spotify.com/album/366XvcUJsBFppuOhYRvsLW) | 4:16 | 2025-06-13 |  |
 | [One Call](https://open.spotify.com/track/32uc3iXCQV6QzFl1y3Fi4b) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu), [Norah's World](https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh) | [One Call](https://open.spotify.com/album/2yLn4HfVWzARzFXxjt9sEd) | 2:20 | 2025-04-25 |  |

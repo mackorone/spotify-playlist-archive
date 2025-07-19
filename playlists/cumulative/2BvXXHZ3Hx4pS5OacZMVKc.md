@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-404 songs - 20 hr 59 min
+405 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Enemies](https://open.spotify.com/track/5OkJvUvwFbbiejQ2Tsv2pE) | [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW), [XTOM](https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5) | [Enemies](https://open.spotify.com/album/1FGSlHg8ZaXHBVVH4pBQad) | 1:54 | 2023-02-23 |  |
 | [Escape](https://open.spotify.com/track/3pr8PMLXqvDWVIB0pAP1Kq) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [Escape](https://open.spotify.com/album/2pWEZNtbgw1OriZClqaNLD) | 2:22 | 2022-04-16 | 2023-08-11 |
 | [Escape \- Juan Dileju & Sam Ourt VIP Mix](https://open.spotify.com/track/1JfPvINntzaONpjJ9sEHPT) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0) | [Escape \(Juan Dileju & Sam Ourt VIP Mix\)](https://open.spotify.com/album/7g07T8MA5I4JYLieH80XkQ) | 2:17 | 2023-08-10 | 2023-12-09 |
+| [Euphoria](https://open.spotify.com/track/6KSZ2KlNXqw94Usne24emg) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [VALLO](https://open.spotify.com/artist/4BIIvS5s6ed82JswZFSAoJ), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [Euphoria](https://open.spotify.com/album/6k2nOUDd0yqt4ZTOj4MJsm) | 3:20 | 2025-07-18 |  |
 | [Everyday](https://open.spotify.com/track/4lcjr2iSJLwZwshmqXvHlC) | [Beatcore](https://open.spotify.com/artist/72et9F2RPU0kc5tQXtflxY), [Ashley Apollodor](https://open.spotify.com/artist/6n8gDEl7sDBnK4z08bsijw) | [Everyday](https://open.spotify.com/album/4iZOf3kwYME2J28mivO6ex) | 3:30 | 2023-08-10 |  |
 | [Everything](https://open.spotify.com/track/2goIIAg5kdzfwclJMFZM33) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Everything](https://open.spotify.com/album/4cKQLSgQBD6gnxp7U9lK4X) | 4:27 | 2023-08-10 |  |
 | [Evolution](https://open.spotify.com/track/27Jox9FmzQcLvDCdp0qcLw) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [3rd Prototype](https://open.spotify.com/artist/1zzlu7Aj6Dx6hFhS5sehOM), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Debris](https://open.spotify.com/artist/4SdjRO432fApGQp8iHbgIF), [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Evolution](https://open.spotify.com/album/2RDdelfgAcDoe7ZeAZQBSa) | 2:28 | 2022-02-03 | 2022-09-15 |

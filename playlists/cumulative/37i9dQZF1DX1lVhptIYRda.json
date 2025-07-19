@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Miranda Lambert and Chris Stapleton",
+  "description": "Today's top country hits. Cover: Dylan Gossett",
   "name": "Hot Country",
   "tracks": [
     {
@@ -644,6 +644,28 @@
       "duration_ms": 162344,
       "name": "All I Need Is You",
       "url": "https://open.spotify.com/track/02FAxAwzApe6pAqfAL3dLr"
+    },
+    {
+      "album": {
+        "name": "All My Exes",
+        "url": "https://open.spotify.com/album/6zGfim0ztjuT7qnXXXEDcW"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173367,
+      "name": "All My Exes (feat. Chase Matthew)",
+      "url": "https://open.spotify.com/track/0cjJKsmTPUZeZY5A9IyXca"
     },
     {
       "album": {
@@ -7636,7 +7658,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 173499,
       "name": "I Wish You Would (ft. Midland)",
       "url": "https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo"
@@ -7712,7 +7734,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 188106,
       "name": "I'm Gonna Love You",
       "url": "https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC"
@@ -14186,6 +14208,24 @@
       "duration_ms": 187880,
       "name": "The Devil I Know",
       "url": "https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7"
+    },
+    {
+      "album": {
+        "name": "Leather Deluxe Edition",
+        "url": "https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/4QpuZ1Qbcd11aOtY1kGMRg"
     },
     {
       "album": {

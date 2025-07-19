@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Jay Som
+> Explore all things indie rock right now\. Featuring music from Rainbow Kitten Surprise
 
-1,948 songs - 4 day 13 hr 45 min
+1,957 songs - 4 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [10 Steps](https://open.spotify.com/track/4U2GQlVHIerwX78jHpkOYN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [10 Steps](https://open.spotify.com/album/2garISLyF8l9yII625vI6R) | 3:29 | 2021-09-03 | 2022-06-11 |
 | [10:36](https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [10:36](https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz) | 3:15 | 2022-06-17 | 2022-07-16 |
 | [19](https://open.spotify.com/track/4eXjrOYY9hxmJkS0hkhZxQ) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [19](https://open.spotify.com/album/6IQUj5eSse9rXx2WHUHg8p) | 2:34 | 2021-10-22 | 2022-06-08 |
+| [19](https://open.spotify.com/track/4dd4aXsxKoFIabi7tYlpQz) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [19](https://open.spotify.com/album/6BDIWeTB0A905y20y8xoJT) | 2:43 | 2025-07-18 |  |
 | [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 | 2024-08-02 | 2024-09-21 |
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-10-14 | 2022-11-12 |
 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 | 2023-09-08 | 2024-02-10 |
@@ -165,6 +166,7 @@
 | [Bandits](https://open.spotify.com/track/0ukrz7KoFpJGRrob2BGZA0) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Bandits](https://open.spotify.com/album/6BiD9oYcID3klKiQRe97Ep) | 3:36 | 2023-05-19 | 2023-07-15 |
 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 | 2023-03-03 | 2023-04-29 |
 | [Barbaric](https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF) | 4:08 | 2023-07-21 | 2023-08-19 |
+| [Barnard](https://open.spotify.com/track/5Eif8jXrg8NtFe8Wufw9A6) | [Forth Wanderers](https://open.spotify.com/artist/5UjbehtgZGbNmmanbVW9Bs) | [The Longer This Goes On](https://open.spotify.com/album/5IWKBOaYZM9sX3kr6SCB27) | 2:39 | 2025-07-18 |  |
 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 | 2023-03-03 | 2023-04-22 |
 | [Be By Your Side](https://open.spotify.com/track/1Vh0ZXykuBBR0mcERksAqw) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be By Your Side](https://open.spotify.com/album/0ocfNOe1DGjYob591ipgcC) | 4:54 | 2022-01-28 | 2022-04-20 |
 | [Be Easy](https://open.spotify.com/track/0NMukraEM5cTE6xRhKqJik) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [Be Easy](https://open.spotify.com/album/6EM0HNbNcofoF9Ih78GS6E) | 3:59 | 2023-07-14 | 2023-08-05 |
@@ -446,6 +448,8 @@
 | [Dancing Shoes](https://open.spotify.com/track/50EFKtKoGK05ayofX4s3gQ) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [On The Wall In The Morning Light](https://open.spotify.com/album/3c03M42fIDZscw7VrBpzdS) | 3:57 | 2023-02-15 | 2023-03-18 |
 | [Dancing, Alone](https://open.spotify.com/track/0RO0CjcQhTGoQsmHybVRx7) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Dancing, Alone](https://open.spotify.com/album/2VXleQVQpNyoFjYIDrW9G6) | 4:05 | 2023-04-07 | 2023-05-27 |
 | [DANDELION](https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [DANDELION](https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc) | 3:21 | 2022-03-25 | 2022-04-18 |
+| [Dandelions](https://open.spotify.com/track/4trAC02hAH0E6u55iHok0u) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Dandelions](https://open.spotify.com/album/7yszWjQIIM4WrHH3MhgicV) | 3:16 | 2025-07-18 |  |
+| [Dang](https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Dang](https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv) | 3:22 | 2025-07-18 |  |
 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 | 2023-04-07 | 2023-07-22 |
 | [Dark](https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Dark](https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1) | 3:13 | 2024-03-22 | 2024-06-01 |
 | [Dark Angel](https://open.spotify.com/track/58lQsFCu6wlgDvOI0MjMmu) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Dark Angel](https://open.spotify.com/album/7vLW18eOsIVNFMqiBGXafe) | 6:15 | 2022-03-22 | 2022-05-28 |
@@ -1284,6 +1288,7 @@
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-01-28 | 2022-04-21 |
 | [Ooh! Sumthin' New](https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Ooh! Sumthin' New](https://open.spotify.com/album/3w6clsgJhlKzGVLzQ6VOfc) | 4:45 | 2022-07-29 | 2022-10-29 |
 | [Orange](https://open.spotify.com/track/0r0SZamMJGK79OyQtVdgs1) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Orange](https://open.spotify.com/album/4FSK9LM4KN6rza3sZjAMXI) | 4:29 | 2021-08-27 | 2022-01-29 |
+| [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-18 |  |
 | [Orbit](https://open.spotify.com/track/5prO0h2vJBh5jUgzNFCvG4) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:32 | 2023-04-21 | 2023-06-17 |
 | [Orbit](https://open.spotify.com/track/5szx7r9yarz9Duw9F0NT6w) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6eT8wyBSQsTmCk5HGNzPiV) | 3:32 | 2023-04-21 | 2023-04-30 |
 | [Orbit](https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6WnZa9u2hVV2jgPTSelyjX) | 3:32 | 2023-04-21 | 2023-06-12 |
@@ -1732,6 +1737,7 @@
 | [Think It's Real](https://open.spotify.com/track/06nE4D9SWTUFkFDhOnc4l4) | [Stanley](https://open.spotify.com/artist/3Gx4Zbk2yisVcOMxYISvxc) | [Think It's Real](https://open.spotify.com/album/2ShZJhDFUtup4Fm8TsF39h) | 4:42 | 2022-06-17 | 2022-07-09 |
 | [Think Nothing](https://open.spotify.com/track/2beHFbJTzHSDZ9smRsq9TK) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Think Nothing](https://open.spotify.com/album/1pW4u5dnjaMZVMJHR4oIZ6) | 3:31 | 2022-06-25 | 2022-08-27 |
 | [This Is Life](https://open.spotify.com/track/79EYgUv9JojcgVVEJXdPbI) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn), [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [This is Life](https://open.spotify.com/album/25g1BNalfJaZflKcyuANmz) | 3:32 | 2024-06-28 | 2024-10-19 |
+| [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-18 |  |
 | [This Time](https://open.spotify.com/track/1n6kvOFn2qK5iTS5QJcaAV) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [This Time](https://open.spotify.com/album/4MD1aVgYMaer9QktxqHJQU) | 3:01 | 2024-03-01 | 2024-04-06 |
 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 | 2025-02-07 | 2025-03-08 |
 | [Through My Teeth](https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Through My Teeth](https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ) | 3:25 | 2025-04-11 | 2025-06-28 |
@@ -1846,6 +1852,7 @@
 | [Warm Blanket](https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Warm Blanket](https://open.spotify.com/album/0sIS7juiZ3tedOqliEmxvM) | 3:19 | 2023-04-07 | 2023-05-27 |
 | [Wasted \(YTYKS\)](https://open.spotify.com/track/2qSAQ9xQDQUgNduZU4IXbt) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Wasted \(YTYKS\)](https://open.spotify.com/album/7e5MyGbbCFILWzac4BVPAv) | 4:15 | 2024-07-05 | 2024-08-03 |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-09 | 2024-01-13 |
+| [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 | 2025-07-18 |  |
 | [Watching The Credits](https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s) | 3:15 | 2023-03-31 | 2023-07-01 |
 | [Watching The Credits](https://open.spotify.com/track/71qgKwa2bSdb2gB6Qob5qT) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY) | 3:15 | 2023-03-31 | 2023-04-30 |
 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-07 | 2024-08-31 |
@@ -1903,6 +1910,7 @@
 | [Wild Days](https://open.spotify.com/track/4J1zHD22PDW4Jdw6XYXs28) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Wild Days](https://open.spotify.com/album/0p7Ovi78Z8SEfl7easPLF3) | 3:39 | 2024-01-19 | 2024-02-17 |
 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 | 2023-04-07 | 2023-06-17 |
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-06 | 2025-01-18 |
+| [Willow](https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [Willow](https://open.spotify.com/album/34H26omESs9CrxasleR1Cy) | 2:35 | 2025-07-18 |  |
 | [Window](https://open.spotify.com/track/6lF1XaolkUtIIVUlxLFMi8) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Window](https://open.spotify.com/album/79kiwS8SnWG6qHqJXEX0Z6) | 2:41 | 2024-11-22 | 2024-12-21 |
 | [Windows](https://open.spotify.com/track/0mt0tRbBHOoWDFH60iFFH1) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Windows](https://open.spotify.com/album/7h5CI5YCFigjxUV6ISsQlD) | 4:09 | 2025-01-03 | 2025-04-19 |
 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-03-10 | 2023-05-27 |
@@ -1952,6 +1960,7 @@
 | [Your Direction](https://open.spotify.com/track/3jz7UGDFInrDs2IJHnffoj) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Your Direction](https://open.spotify.com/album/5WEiSxfRD9m86UKEjOFhfs) | 4:57 | 2025-03-28 |  |
 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2021-06-11 | 2022-04-14 |
 | [Your Room](https://open.spotify.com/track/1Ys4oRpVBdVoU0VxSghpVa) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Your Room](https://open.spotify.com/album/2NE4Oqe55M7rQW7i2FMvzl) | 3:21 | 2023-07-21 | 2023-09-09 |
+| [Yucky's Song](https://open.spotify.com/track/5cRJk8e9Y2qgIFPo0lE3dr) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Vice City Magic](https://open.spotify.com/album/4nYVLUVhQb9bD7l1QlYoFS) | 2:11 | 2025-07-18 |  |
 | [Zum Herz](https://open.spotify.com/track/3w0F6bkQdev902vrCxDHe4) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO), [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Zum Herz](https://open.spotify.com/album/0miVSp8X4tYSuxINhZRyO8) | 4:18 | 2022-07-29 | 2022-10-15 |
 | [zzz](https://open.spotify.com/track/6jMbYChkL89v2SlsrjyURG) | [60 juno](https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9) | [zzz](https://open.spotify.com/album/4gklfgELi4bE9MhaPe9PDF) | 2:57 | 2023-09-01 | 2024-01-06 |
 | [‎maybe ‎i ‎should ‎have ‎read ‎the ‎instructions ‎first, ‎oh ‎well](https://open.spotify.com/track/2TM5Q0iKwAfpsYiSxISv8v) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎telephone ‎wires](https://open.spotify.com/album/5sEdWftSr0o2CN2dSg5y2q) | 2:42 | 2021-11-19 | 2022-04-10 |

@@ -2,9 +2,9 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Kingdom
+> Bringing out the best of latest love tracks<br/>Cover : Andhra King Taluka
 
-315 songs - 20 hr 21 min
+316 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Nuvve Nuvve \(From "Sapta Sagaralu Dhaati \- Side B"\)](https://open.spotify.com/track/1rB5ytMmm0IjMOydmIwX75) | [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k), [Battu Vijay Kumar](https://open.spotify.com/artist/3yywCO2Grag7FotoRYObNR), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Nuvve Nuvve \(From "Sapta Sagaralu Dhaati \- Side B"\)](https://open.spotify.com/album/6ZUTj4n7Kf5mtu2K41LdzV) | 3:12 | 2023-11-06 | 2023-12-31 |
 | [Nuvvunnadi Nee Lokam Kademo](https://open.spotify.com/track/7KQAar5zi5jb0Vhk9RY044) | [Yogeshwara SharmaUsha Munukutla](https://open.spotify.com/artist/0QEC139weFVWdsRIXdItkA), [Sirivennela Seetharama Sastry](https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO) | [Ee Kathalo Nenu](https://open.spotify.com/album/0UVb5aNY7oP4hX3UiQNao3) | 4:30 | 2025-06-03 |  |
 | [Nuvvunte Chaalu \- From "Rudhrudu"](https://open.spotify.com/track/1JWFAxXYPU4hwK3B0Kk2Of) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Nuvvunte Chaalu \(From "Rudhrudu"\)](https://open.spotify.com/album/0T4mEjDL3HVG3vEwOEuXIf) | 4:12 | 2023-04-12 | 2023-09-17 |
+| [Nuvvunte Chaley \(From "Andhra King Taluka"\)](https://open.spotify.com/track/24wSWZLoKMRZvJVbxHkKMg) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ram Pothineni](https://open.spotify.com/artist/4yN1sB4NaGAgJhcSAH4fqq) | [Nuvvunte Chaley \(From "Andhra King Taluka"\)](https://open.spotify.com/album/54OTEy2kqJqKPH9wHMcJ1h) | 4:00 | 2025-07-18 |  |
 | [O Cheli Anarkhali \(From "Nachindi Girl Friendu"\)](https://open.spotify.com/track/0IcuXHf69ZuBAiarYrnY4V) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [O Cheli Anarkhali \(From "Nachindi Girl Friendu"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2TTmIcGu9BzL3JSRX2DDdQ) | 5:00 | 2023-02-09 | 2023-03-28 |
 | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT) | 5:14 | 2022-12-20 | 2023-11-07 |
 | [O Tene Palukula \(From "Bimbisara"\)](https://open.spotify.com/track/1moaPNMvcmSEu9XmlXo3Vh) | [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV), [Varikuppala Yadagiri](https://open.spotify.com/artist/3cycJl75lhSFTnSYNaMbqN) | [O Tene Palukula \(From "Bimbisara"\) \- Single](https://open.spotify.com/album/2pDPWuV0UN03bx0zQK45Df) | 3:55 | 2022-07-22 | 2023-04-25 |

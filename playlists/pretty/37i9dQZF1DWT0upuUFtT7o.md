@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > Celebrating 10 years of the best new indie music from independent artists\. Cover: Polami Roko
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,519 likes - 130 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,549 likes - 130 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 8 | [Cannot Get Enough](https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema Sound System](https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv) | 4:24 |
 | 9 | [Cylinders](https://open.spotify.com/track/5FsZynJzfzg1FeOQ9eWUK6) | [Oranje Space](https://open.spotify.com/artist/6ajCmj3tdt8yLcRgadH1bL) | [Ebb and Flow](https://open.spotify.com/album/2aXjnHZBA3zttSnzlwj3hZ) | 4:49 |
 | 10 | [tell me how you're doing](https://open.spotify.com/track/2LJFSnPez3V7n0TxnPcu4I) | [Aisa](https://open.spotify.com/artist/0YBEhX6xbkcMuhH3OD6D9L) | [tell me how you're doing](https://open.spotify.com/album/56ghcbgSbrADmfSiHjICvn) | 2:30 |
-| 11 | [403 Westbound](https://open.spotify.com/track/1adPbH0MkXsyVomkicsuGK) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [403 Westbound](https://open.spotify.com/album/3QaQhECbtdaB84P2lC7lNH) | 2:50 |
+| 11 | [403 westbound](https://open.spotify.com/track/1adPbH0MkXsyVomkicsuGK) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [403 westbound](https://open.spotify.com/album/3QaQhECbtdaB84P2lC7lNH) | 2:50 |
 | 12 | [Radio Silence](https://open.spotify.com/track/0PruwEXl96i47UbZlHrV7e) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB), [Margaux](https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp) | [Make 'Em Laugh](https://open.spotify.com/album/34IZTp2myzYx04vS3JF59r) | 2:50 |
 | 13 | [Touch Me](https://open.spotify.com/track/44ombxPL3ykpsfAQmu6B53) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Touch Me](https://open.spotify.com/album/2Xs6HVeECn4S0bsrsNn1KD) | 3:47 |
 | 14 | [Waking Up](https://open.spotify.com/track/6XhaBJyRHsYgT1kbJHiEM2) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0), [Maxi](https://open.spotify.com/artist/2MWn1cRYRIhMXTe6U2LPQC) | [In Russia\. A is a 9](https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU) | 3:06 |

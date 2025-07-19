@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,028 songs - 2 day 9 hr 41 min
+1,029 songs - 2 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Amatista](https://open.spotify.com/track/5KTWIABrKytyRNaiB6LDH2) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Amatista](https://open.spotify.com/album/5w3tcd7riGxhbFSvjXdSp2) | 3:24 | 2023-04-18 | 2023-07-14 |
 | [Amber Sunlight Falls](https://open.spotify.com/track/4mcGFZGuoRJfrLocxwC11E) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N) | [Amber Sunlight Falls](https://open.spotify.com/album/0JpOBCi8iRoiGSHYt9khJL) | 3:02 | 2025-06-17 |  |
 | [Angels](https://open.spotify.com/track/13vQWuSdCKWW7HgalrdMqH) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Angels](https://open.spotify.com/album/2J2Fq5jGYkwTrzSSbPrzLK) | 3:17 | 2022-08-25 | 2022-11-01 |
+| [Animal](https://open.spotify.com/track/0hnCtTIkfYPoiTZTLqa1kf) | [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [M.D.E](https://open.spotify.com/album/6FpaiHvj1oJNGrjNxCgFY9) | 3:53 | 2025-07-18 |  |
 | [Anna](https://open.spotify.com/track/3IMhLID7oyBD0agguYFAkO) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Astroleaf](https://open.spotify.com/artist/0bt0mRWS5att8pFhUkToj4) | [Anna](https://open.spotify.com/album/5zFicqaCzRszFnV8wl0Ipz) | 4:27 | 2022-07-29 | 2022-10-11 |
 | [Another Light](https://open.spotify.com/track/5EwM7BZizrzcJYY3CXLKC0) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Another Light](https://open.spotify.com/album/246lmuP4COwpbWT4jpDuM8) | 3:56 | 2024-03-19 | 2024-06-06 |
 | [Another World](https://open.spotify.com/track/2zzdZqzq6GZ5Vlr4Z2Ghep) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Another World](https://open.spotify.com/album/1F2S0yuHSOnWaEjQRyMSq6) | 3:43 | 2024-05-24 | 2024-08-15 |

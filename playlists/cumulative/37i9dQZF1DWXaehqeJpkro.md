@@ -4,7 +4,7 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: IU\)
 
-334 songs - 21 hr 50 min
+335 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 | 2021-03-11 | 2022-02-18 |
 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 | 2022-02-23 | 2024-04-19 |
 | [Gift](https://open.spotify.com/track/6pDvQuoG0AhHTdy7yWyvMG) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/6js0OoNg9GZleGi2B2QN3b) | 4:20 | 2022-02-17 |  |
+| [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-07-18 |  |
 | [Good day](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) | 3:53 | 2022-02-17 |  |
 | [Good Night Good Dream](https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Good Night Good Dream](https://open.spotify.com/album/4lFbDrujNnh4oFGBHIGYiv) | 4:25 | 2023-11-14 |  |
 | [Good old days](https://open.spotify.com/track/5Kh4U2f0W2Kz7zRilOMwth) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [Good old days](https://open.spotify.com/album/6X25SlTOwDCA7bxvMZfsoo) | 3:52 | 2022-02-17 |  |

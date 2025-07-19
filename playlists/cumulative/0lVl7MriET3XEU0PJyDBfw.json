@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
+    },
+    {
+      "album": {
         "name": "As The Beat Goes Onnn",
         "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
       },
@@ -1332,7 +1350,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 195107,
       "name": "Beat the Beat",
       "url": "https://open.spotify.com/track/3zfuGEAKUMfYMJk0A6WZ3H"
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 206132,
       "name": "Bottom of the Rave",
       "url": "https://open.spotify.com/track/1ppffgUVHpBk5fRlw4GBcj"
@@ -2325,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "Catch & Kiss",
+        "url": "https://open.spotify.com/album/0xmEJPLljH2ze5Clnu6OG7"
+      },
+      "artists": [
+        {
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194645,
+      "name": "Catch & Kiss",
+      "url": "https://open.spotify.com/track/7bsnw2T51YIOAkqvUjKzad"
+    },
+    {
+      "album": {
         "name": "STAY GOLD Vol.1",
         "url": "https://open.spotify.com/album/0WF9ZuauyWkOeBAn9qLMak"
       },
@@ -2874,7 +2910,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 165230,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/4SElyILhlzo6DOVjCGJbvk"
@@ -3092,7 +3128,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 201377,
       "name": "Demon Time",
       "url": "https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4"
@@ -3674,7 +3710,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 207251,
       "name": "Drip",
       "url": "https://open.spotify.com/track/0dfNT0PN07Ea7EU7lpoedL"
@@ -3732,7 +3768,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 192631,
       "name": "Drip (feat. Eliza Legzdina)",
       "url": "https://open.spotify.com/track/030t6Ow4qRRbJQk3TtWLLH"
@@ -5315,6 +5351,24 @@
     },
     {
       "album": {
+        "name": "Get Serious",
+        "url": "https://open.spotify.com/album/0BRsc1SXOCprRgl3FkgoKp"
+      },
+      "artists": [
+        {
+          "name": "Niko The Kid",
+          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182290,
+      "name": "Get Serious",
+      "url": "https://open.spotify.com/track/7yYuobfuCJSatM3gLQ2sJ8"
+    },
+    {
+      "album": {
         "name": "Get Stupid",
         "url": "https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK"
       },
@@ -5836,6 +5890,28 @@
       "duration_ms": 145846,
       "name": "Hey Mister",
       "url": "https://open.spotify.com/track/54IchD76QNHYQyZ94sFspF"
+    },
+    {
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/3y1vId2PKuBtWxsjloX56k"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        },
+        {
+          "name": "Kevin Knapp",
+          "url": "https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175309,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/5BtOZObSYJhp02KlpkC3rU"
     },
     {
       "album": {
@@ -6565,6 +6641,28 @@
     },
     {
       "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/1Zja8mNunZiTp3kLBHJKJW"
+      },
+      "artists": [
+        {
+          "name": "N!smo",
+          "url": "https://open.spotify.com/artist/0s0b8dEQMbh5OuHC96ClbC"
+        },
+        {
+          "name": "SEPHINE",
+          "url": "https://open.spotify.com/artist/3IN4yD250XDmppwptNKjXJ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156995,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/2f4bz1HblvodZZRc146cyY"
+    },
+    {
+      "album": {
         "name": "If U Need It",
         "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
       },
@@ -6920,7 +7018,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 234633,
       "name": "Jump n' Shout",
       "url": "https://open.spotify.com/track/4Axp6RBfspEXQscqc0MpUp"
@@ -7882,7 +7980,7 @@
       },
       "artists": [
         {
-          "name": "MorganJ",
+          "name": "MORGANJ",
           "url": "https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW"
         }
       ],
@@ -8405,6 +8503,28 @@
     },
     {
       "album": {
+        "name": "Mind On Beat",
+        "url": "https://open.spotify.com/album/3Zcq6EZKYiub7RHMfdI8YH"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156882,
+      "name": "Mind On Beat",
+      "url": "https://open.spotify.com/track/4u8ZVQIFgT18sB7WzpFM1W"
+    },
+    {
+      "album": {
         "name": "Mind Your Business",
         "url": "https://open.spotify.com/album/7e8gCH2b87tPpDFkoVU6D9"
       },
@@ -8548,6 +8668,24 @@
       "duration_ms": 129373,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4VGaRRuyAvEgc2IAkcJbt3"
+    },
+    {
+      "album": {
+        "name": "Rain in LA EP",
+        "url": "https://open.spotify.com/album/62YTfKtALuNWKRH79hGJMO"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356363,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/0v3GGmPiFIaXE0h4nuL5Wr"
     },
     {
       "album": {
@@ -9142,7 +9280,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 171390,
       "name": "No Joke",
       "url": "https://open.spotify.com/track/46UzMU4yX1D4ARkMhEiPe2"
@@ -9296,7 +9434,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 161976,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/0dIK6A97udcCJ3oq55sl2f"
@@ -9760,7 +9898,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 180000,
       "name": "P!NK",
       "url": "https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV"
@@ -10672,6 +10810,24 @@
       "duration_ms": 232500,
       "name": "Reload",
       "url": "https://open.spotify.com/track/0B6twHJlRxSM9Q68NpGCKg"
+    },
+    {
+      "album": {
+        "name": "Reposado",
+        "url": "https://open.spotify.com/album/1LzroJg1OlUwdzlmFmNFXS"
+      },
+      "artists": [
+        {
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Reposado",
+      "url": "https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3"
     },
     {
       "album": {
@@ -11657,6 +11813,28 @@
     },
     {
       "album": {
+        "name": "Shiny Disco Balls",
+        "url": "https://open.spotify.com/album/1tgSEOSxqlemShSJDQwmes"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        },
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180301,
+      "name": "Shiny Disco Balls",
+      "url": "https://open.spotify.com/track/64YbQpF1rTpXpvxbZNAXO9"
+    },
+    {
+      "album": {
         "name": "Litterbox 17",
         "url": "https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB"
       },
@@ -12496,7 +12674,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 182343,
       "name": "TAKE ME BACK",
       "url": "https://open.spotify.com/track/72dvUMJXDWf5RfeEp0Vbow"
@@ -13154,6 +13332,24 @@
       "duration_ms": 218653,
       "name": "THE ONLY ONE - Mixed",
       "url": "https://open.spotify.com/track/38ZvhEgLB3mQzsf98iy8Oh"
+    },
+    {
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/1EKtBiMswY0ulnozSY1eUC"
+      },
+      "artists": [
+        {
+          "name": "R3WIRE",
+          "url": "https://open.spotify.com/artist/7fWHxqQznKDOJeJofEjDcn"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210976,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/54u05DJVY3qQ9GfLhUBG19"
     },
     {
       "album": {

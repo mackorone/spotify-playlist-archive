@@ -4,7 +4,7 @@
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-124 songs - 9 hr 12 min
+125 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Belleza en el Aire \- Remix](https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Albura Remixed](https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f) | 5:14 | 2023-08-11 | 2024-04-19 |
 | [Bienvenidos: Maiche Anawateuo](https://open.spotify.com/track/3OidV2Umts84YFsvronNGW) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Cantos de la Tierra Sin Mal](https://open.spotify.com/album/14ceeyAvexxa2oMN2AuOl5) | 5:04 | 2023-08-11 | 2024-04-19 |
 | [Cada Uno con Su Bandera](https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi) | [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW) | [Cada Uno con Su Bandera](https://open.spotify.com/album/64VFo7Z9zmG9AQUVARHhvh) | 4:03 | 2024-03-29 |  |
+| [Canto Tehuelche](https://open.spotify.com/track/6mAHuu86f3XaKXssBvCppt) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Canto Tehuelche](https://open.spotify.com/album/2M7tTALkfy3YZA4vJTWUKG) | 3:29 | 2025-07-18 |  |
 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp) | 3:48 | 2024-03-29 |  |
 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3) | 3:48 | 2023-08-11 | 2024-04-19 |
 | [Caracol](https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 4:08 | 2023-08-11 | 2024-04-19 |
@@ -83,7 +84,7 @@
 | [Legüero](https://open.spotify.com/track/7LEg0ZY8b0bMs362uEA76T) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Legüero](https://open.spotify.com/album/77qx8SgJM8U1OftyQtFghx) | 4:04 | 2024-09-26 |  |
 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 | 2023-08-11 |  |
 | [Los Pajaros](https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK) | [Asimetrico](https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit) | 4:20 | 2023-08-11 | 2024-04-19 |
-| [Los Pájaros](https://open.spotify.com/track/3of6tull2ZmGDZImXi32yz) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK) | [Los Pájaros](https://open.spotify.com/album/6ep3yZWQVPVmHjxEBCZwfl) | 4:20 | 2024-03-29 |  |
+| [Los Pájaros](https://open.spotify.com/track/3of6tull2ZmGDZImXi32yz) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK) | [Los Pájaros](https://open.spotify.com/album/6ep3yZWQVPVmHjxEBCZwfl) | 4:20 | 2024-03-29 | 2025-07-19 |
 | [Luchin](https://open.spotify.com/track/0g5PWF2pQUNw4xdpPQrsV3) | [Manu Sija](https://open.spotify.com/artist/0YJbC4MQ0KFv3bhFz8uUnx), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X), [Santiago Molina](https://open.spotify.com/artist/4znLjgx0xuv4XZpUYalOXl) | [Luchin](https://open.spotify.com/album/4qIzBYCPefEh2KypK1Uuk9) | 4:19 | 2023-08-11 |  |
 | [Lupuna](https://open.spotify.com/track/5LTk1XzBCaTz20Ofd60KTC) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Claudio Reche](https://open.spotify.com/artist/6kfpY9G6unVKEBsr8CdqQJ) | [Lupuna](https://open.spotify.com/album/19nZKevjR88xBmIl8qXv0F) | 7:13 | 2023-08-11 |  |
 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 | 2023-08-11 |  |

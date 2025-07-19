@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: Chilli Beans.
 
-1,327 songs - 3 day 15 hr 11 min
+1,329 songs - 3 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/track/6u5POngpCtZfnIyLU2izjg) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/album/5FE6XRVjwqvXE4tQqiW5gx) | 2:37 | 2024-01-18 | 2024-01-20 |
 | [Entertain](https://open.spotify.com/track/6jxS9Z1610FPfKcT339Kfb) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [Entertain](https://open.spotify.com/album/2bnZXiHyF1C2F1cMZWn2zX) | 3:36 | 2022-09-08 | 2022-09-15 |
 | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/track/0NFygNu7nBTxL1jqq0lkUB) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/album/45ACzJq5h6fGVFImpWxwuI) | 3:21 | 2023-07-25 | 2023-08-02 |
-| [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 | 2025-07-01 |  |
+| [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 | 2025-07-01 | 2025-07-19 |
 | [EPISODE 7](https://open.spotify.com/track/0UkJuv4tuSYAq07KW2XUUL) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [THE NEW ALBUM](https://open.spotify.com/album/1oUP4voVB2HB89sPPsXCzO) | 4:59 | 2022-05-17 | 2022-06-15 |
 | [escape](https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [blue night](https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH) | 3:36 | 2024-12-03 | 2025-01-08 |
 | [ETA](https://open.spotify.com/track/0XeyTwIqd2GPPcIFpM10IX) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu) | 4:47 | 2022-05-31 | 2022-06-23 |
@@ -954,7 +954,7 @@
 | [シンシャ](https://open.spotify.com/track/5jAHFipcLURLl4NiEWpjaV) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [シンシャ](https://open.spotify.com/album/2Wbjn9gW8to9OtHHzcNkHF) | 3:56 | 2023-11-14 | 2023-11-22 |
 | [シーグラス](https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [COLD DISC](https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ) | 3:02 | 2024-02-27 | 2024-09-18 |
 | [シーズンエンド](https://open.spotify.com/track/7pdMesCX4Vulq75t7wb6bZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FRIENDS Ⅲ](https://open.spotify.com/album/1GphZ6CslazKeXBAnmWPj3) | 4:37 | 2022-05-22 | 2022-07-12 |
-| [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2023-06-27 |  |
+| [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2023-06-27 | 2025-07-19 |
 | [ジャガーノート](https://open.spotify.com/track/5wPW2TG7Pk3paFuG2NaJcn) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [ジャガーノート](https://open.spotify.com/album/2TBNmBacaxlCcGZNAPdwhH) | 3:11 | 2023-11-08 | 2024-04-24 |
 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 | 2024-04-23 | 2024-07-06 |
 | [ジューシーマーマレード](https://open.spotify.com/track/5WDwzXGICt44ZaDEAuODHX) | [THE COLLECTORS](https://open.spotify.com/artist/3OV5dcuHvNPXmgPFwXLf37) | [ジューシーマーマレード](https://open.spotify.com/album/1Ag9kXkDqWOZLNHHWJG7yu) | 4:38 | 2022-11-22 | 2022-11-30 |
@@ -1117,6 +1117,7 @@
 | [大好きだから…](https://open.spotify.com/track/4fEPiXCWScnKv977GEkPZY) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [大好きだから…](https://open.spotify.com/album/4iwyN2f8GMc3WzfUciv63N) | 3:38 | 2022-05-12 | 2022-07-29 |
 | [天体観測](https://open.spotify.com/track/3hRRYgBeunE3PTmnzATTS0) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [jupiter](https://open.spotify.com/album/0onaVQoaiffqxbds3QDR1m) | 4:23 | 2023-07-04 | 2024-02-07 |
 | [天地創造](https://open.spotify.com/track/3kh6LMx3DLaMcmcUEJyagL) | [THE ALFEE](https://open.spotify.com/artist/04bitarCLkcC3GVESLDZgY) | [天地創造](https://open.spotify.com/album/3qLCcHe7lTSLlIYTpnbGhn) | 6:17 | 2022-05-22 | 2022-06-03 |
+| [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 | 2025-07-18 |  |
 | [太陽が見ている](https://open.spotify.com/track/2BXR9MebWatB9V19daKFWD) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [太陽が見ている](https://open.spotify.com/album/1lg9HSKbPxeEHOPPfAetpg) | 4:46 | 2022-05-19 | 2022-07-11 |
 | [太陽とイカロス](https://open.spotify.com/track/41uHvpM5mLrsotiYx53He8) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [太陽とイカロス](https://open.spotify.com/album/5rfhHPlQ4oRCHr83LuScPP) | 4:30 | 2023-03-07 | 2023-03-09 |
 | [女々しくて \- 2022流行語ver.](https://open.spotify.com/track/2Q0JyzagFtM4cxlM0bXblO) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [女々しくて \(2022流行語ver.\)](https://open.spotify.com/album/0oDvDvwS2PnFUZWqIPvgJg) | 2:29 | 2022-12-06 | 2022-12-08 |
@@ -1198,6 +1199,7 @@
 | [楽しいことしかない](https://open.spotify.com/track/52IZlcQsdTNzRilIoo8Gic) | [Kinniku Shōjo Tai](https://open.spotify.com/artist/49Ih923DaLzIEGqAe0PirH) | [君だけが憶えている映画](https://open.spotify.com/album/3uI67Iy2XHfOHGx7q5qPXJ) | 4:47 | 2022-05-12 | 2022-05-31 |
 | [欲望の種類](https://open.spotify.com/track/0tH51HhTDdVlk2LDlsR9TY) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [欲望の種類](https://open.spotify.com/album/53xPqQvVSyHA63t5LwgkU5) | 3:27 | 2022-05-10 | 2022-07-25 |
 | [歌えニッポンの空](https://open.spotify.com/track/4haAEK652y6L2Z2r64IGVz) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [歌えニッポンの空](https://open.spotify.com/album/1iP54ywpeh0moWni82OKXo) | 4:07 | 2023-08-01 | 2023-08-03 |
+| [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 | 2025-07-18 |  |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-05-10 | 2022-11-09 |
 | [水割りをうすくつくっていつまでも](https://open.spotify.com/track/0KlLXIG5ZtKrSqDN2IOKt5) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [水割りをうすくつくっていつまでも](https://open.spotify.com/album/1V2e27tAPHcBPNvh0VStNn) | 3:14 | 2024-02-20 | 2024-02-22 |
 | [水色と空色](https://open.spotify.com/track/3ng50f0XnhrTWF8ooA8wzJ) | [Fumiya Fujii](https://open.spotify.com/artist/5uDMiTt5fxXmUyPS5HPwvS) | [水色と空色](https://open.spotify.com/album/55BY83icZvzWxKSShP7Bb9) | 4:41 | 2022-05-24 | 2022-06-01 |

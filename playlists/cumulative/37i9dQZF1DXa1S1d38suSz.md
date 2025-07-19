@@ -2,13 +2,13 @@
 
 ### [Para Enamorados](https://open.spotify.com/playlist/37i9dQZF1DXa1S1d38suSz)
 
-> Tú, nosotros y esta lista de canciones\. Foto: Andrés Cepeda
+> Tú, nosotros y esta lista de canciones\. Foto: KAROL G, Marco Antonio Solís
 
-104 songs - 6 hr 48 min
+105 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 0:00 | 2022-01-14 |  |
+| [](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 0:00 | 2022-01-14 | 2025-07-19 |
 | [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 | 2023-03-07 | 2023-04-28 |
 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 | 2022-01-14 | 2022-07-02 |
 | [A un minuto de ti](https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Naufragios](https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV) | 3:53 | 2022-01-14 |  |
@@ -29,6 +29,7 @@
 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 | 2022-01-14 |  |
 | [Casi](https://open.spotify.com/track/511RYafYu9yoYBZN6fyhB5) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Casi](https://open.spotify.com/album/3h84MHwqGAdHPX03BfKvpV) | 3:07 | 2022-09-09 | 2022-11-12 |
 | [Castillos de arena](https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Castillos de arena](https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq) | 4:12 | 2022-01-14 | 2022-04-02 |
+| [Coleccionando Heridas](https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:24 | 2025-07-18 |  |
 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 | 2022-01-14 |  |
 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 | 2022-09-29 | 2023-03-04 |
 | [Conquistar El Planeta](https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Conquistar El Planeta](https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd) | 2:43 | 2023-03-03 | 2023-05-12 |

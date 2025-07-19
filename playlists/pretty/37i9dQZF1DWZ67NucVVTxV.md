@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Money on my Mind\. Mind on my money.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,278 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,304 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 43 | [BIG FISH](https://open.spotify.com/track/4MuPi6byWbrASaeNrn3Ut8) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [BIG FISH](https://open.spotify.com/album/4091Kab1EkfxqxZNEdzNSf) | 2:38 |
 | 44 | [Stubborn](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 |
 | 45 | [Lifestyle](https://open.spotify.com/track/6YuC0er4QTtapTlAamM74d) | [Randommuzik](https://open.spotify.com/artist/4OeKf1TH79nu7kW1e82NHk) | [Lifestyle / Tattoo](https://open.spotify.com/album/7mU7DGQe5o3U3yYls1Zr5I) | 3:00 |
-| 46 | [KOSELOMI \(RMX\)](https://open.spotify.com/track/0YLa9X8vIx1KH4La4cCJPm) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 2:23 |
+| 46 | [KOSELOMI RMX](https://open.spotify.com/track/0YLa9X8vIx1KH4La4cCJPm) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [ICE PRINCE ZAMANI](https://open.spotify.com/artist/6i9hIYUfVVbZ70mcTE0ucr) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 2:23 |
 | 47 | [Next Of Kin](https://open.spotify.com/track/7i81pm0b5hGPovAyI8KvS5) | [DennyB](https://open.spotify.com/artist/4CpA6KhbohKW7a1huUT7oU) | [Next Of Kin](https://open.spotify.com/album/6oLjr8imlTeMKgoK9GkeYK) | 2:36 |
 | 48 | [Alright](https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [HADURAH](https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco) | [Alright](https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi) | 2:54 |
 | 49 | [A Million Blessings](https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:10 |

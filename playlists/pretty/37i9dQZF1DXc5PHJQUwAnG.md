@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,044 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,064 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 17 | [Romeo y Julieta](https://open.spotify.com/track/3CoSvuPCBq0XyjAUHrAonc) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Los Ángeles Más Brillantes](https://open.spotify.com/album/6W334E1HwPaVfbqNdSCyie) | 2:32 |
 | 18 | [Pepelepluggg \- Remix](https://open.spotify.com/track/4c1uAUH9OARNdAhwSTGNyC) | [Kidd Wings](https://open.spotify.com/artist/66ftqaZX4clrvY88DGzCH7), [Black Paste](https://open.spotify.com/artist/0040M1zAPFzb4k0Dpvj1hM), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [POLUSS](https://open.spotify.com/artist/0yBa8tNg5UMfZ1ypyEp0iI) | [Pepelepluggg \(Remix\)](https://open.spotify.com/album/1wbhLPsfN3oWvkOURj4z2E) | 3:31 |
 | 19 | [Le Gustan Así](https://open.spotify.com/track/4ZP264Ld4mOd72cNa0LvVF) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [De Vuelta a las Andadas](https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q) | 2:59 |
-| 20 | [OSIRIS](https://open.spotify.com/track/7Iq8SvKliXuh8rcPpjJZed) | [Charro Ma](https://open.spotify.com/artist/0gscaylKde9RrbYFKBD3nS), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [OSIRIS](https://open.spotify.com/album/0VDwIM9pqzbYSHTWXO5p3g) | 2:28 |
+| 20 | [OSIRIS](https://open.spotify.com/track/7Iq8SvKliXuh8rcPpjJZed) | [Mafia44](https://open.spotify.com/artist/1EgodS0jIHF9bPo7jtfCCn), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [OSIRIS](https://open.spotify.com/album/0VDwIM9pqzbYSHTWXO5p3g) | 2:28 |
 | 21 | [Bonus Trap](https://open.spotify.com/track/7qt0PKcr4JKshKHiCLfW1W) | [Leo Torrez](https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Bonus Trap](https://open.spotify.com/album/48SuTjpt9DTbLpDH1pIK3n) | 4:16 |
 | 22 | [De Niro](https://open.spotify.com/track/61hMgj0Y74kOf3GXItObEf) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [De Niro](https://open.spotify.com/album/2TfnQ10UhlxXGp1BkRPV5K) | 2:40 |
 | 23 | [Mucha Weed](https://open.spotify.com/track/5jCrXCRwLPqGf8d8Zr4Inw) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Mundo Marihuana](https://open.spotify.com/album/15MAIBFmZZZG2jfuws4CIW) | 2:57 |

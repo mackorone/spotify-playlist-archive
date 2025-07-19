@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 17532,
+  "num_followers": 17538,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADZYae1ZdC9DuMyAehZ0Ne9",
+  "snapshot_id": "aHg9AAAAAADYghA0p7QZIN6kN1mDC+2H",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rules of the Road",
+        "url": "https://open.spotify.com/album/4sVCJ30mcb8ZoyAL8sANyW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Cunnamulla Feller - Remastered 2017",
+      "url": "https://open.spotify.com/track/1wmhQHJmtJIQmwPAOdMrJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirit of the Anzacs",
         "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 233293,
       "name": "Spirit of the Anzacs",
       "url": "https://open.spotify.com/track/2gxV3aK7K1RYZ50rQkfqpl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rules of the Road",
-        "url": "https://open.spotify.com/album/4sVCJ30mcb8ZoyAL8sANyW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Cunnamulla Feller - Remastered 2017",
-      "url": "https://open.spotify.com/track/1wmhQHJmtJIQmwPAOdMrJi"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Texas Qld 4385 - Remastered 2017",
-      "url": "https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 161875,
       "name": "Dumb Things",
       "url": "https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Texas Qld 4385 - Remastered 2017",
+      "url": "https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1959",
-        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Skinny Dippin' - Remastered 2017",
-      "url": "https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw"
+      "duration_ms": 212720,
+      "name": "When the First Bombs Fell",
+      "url": "https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Anzacs",
-        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+        "name": "1959",
+        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 212720,
-      "name": "When the First Bombs Fell",
-      "url": "https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5"
+      "duration_ms": 186933,
+      "name": "Skinny Dippin' - Remastered 2017",
+      "url": "https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Bush (Remastered 2017)",
-        "url": "https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB"
+        "name": "1959",
+        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Mate - Remastered 2017",
-      "url": "https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6"
+      "duration_ms": 234400,
+      "name": "Country Crowd - Remastered 2017",
+      "url": "https://open.spotify.com/track/11zQvjFccpnImml13XWNdS"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1959",
-        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Country Crowd - Remastered 2017",
-      "url": "https://open.spotify.com/track/11zQvjFccpnImml13XWNdS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Chain Road",
         "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 254800,
       "name": "'Cause I'm Country - Remastered 2017",
       "url": "https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit of the Bush (Remastered 2017)",
+        "url": "https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 220973,
+      "name": "Mate - Remastered 2017",
+      "url": "https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6"
     },
     {
       "added_at": null,

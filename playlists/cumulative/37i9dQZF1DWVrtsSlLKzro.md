@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-385 songs - 22 hr 45 min
+386 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Empty Promise](https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 3:51 | 2022-07-15 | 2024-04-19 |
 | [Equal in the Darkness](https://open.spotify.com/track/6zpW8dKlAei8kiPZuUthq7) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Equal in the Darkness](https://open.spotify.com/album/1eVHCjvrzVFc8TJuZLn4RJ) | 3:30 | 2021-12-03 | 2022-02-12 |
 | [Everybody Feels \(feat\. Zack Gray\)](https://open.spotify.com/track/1B1YBXBQwN0DCBLJTSMVMy) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Everybody Feels \(feat\. Zack Gray\)](https://open.spotify.com/album/7M946h8d4VNNcQ0715dWsJ) | 3:16 | 2021-12-03 | 2022-05-07 |
+| [eye2eye](https://open.spotify.com/track/4MvAYkzdJjzZnmmgTBXeai) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [eye2eye](https://open.spotify.com/album/5cdNLvhFw398LMAmuL4uyg) | 3:15 | 2025-07-18 |  |
 | [Fake A Smile](https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Fake A Smile](https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN) | 2:48 | 2021-12-03 | 2022-12-03 |
 | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY) | 2:23 | 2024-07-12 |  |
 | [Fall Down](https://open.spotify.com/track/6591V8mJSzKn29si2hx9iC) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Fall Down](https://open.spotify.com/album/3BULrq5tWKnyI2GhIZfTwg) | 2:46 | 2022-01-21 | 2023-06-10 |

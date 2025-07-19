@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: maye",
+  "description": "Fresh Latin Indie you should know. Cover: Niko Rubio",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1684,6 +1684,24 @@
       "duration_ms": 195646,
       "name": "babita",
       "url": "https://open.spotify.com/track/1x99j4oWkvuVRyKxjJlXO5"
+    },
+    {
+      "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222871,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K"
     },
     {
       "album": {
@@ -4415,6 +4433,28 @@
     },
     {
       "album": {
+        "name": "El Amor Vuela (feat. Manuel Carrasco)",
+        "url": "https://open.spotify.com/album/1ygQ33ZTDf01TMeNrSKe0N"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        },
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248446,
+      "name": "El Amor Vuela (feat. Manuel Carrasco)",
+      "url": "https://open.spotify.com/track/5KaNFY843tNHHtDRZPHrAN"
+    },
+    {
+      "album": {
         "name": "El Big Bang",
         "url": "https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz"
       },
@@ -5393,6 +5433,28 @@
     },
     {
       "album": {
+        "name": "Espina De Rosas",
+        "url": "https://open.spotify.com/album/2NQoTjRdoLR7juZQHH5Iyr"
+      },
+      "artists": [
+        {
+          "name": "Inzul",
+          "url": "https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp"
+        },
+        {
+          "name": "Dave Hurtts",
+          "url": "https://open.spotify.com/artist/2jtOpRamEvaZuoOPfcZYXK"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233096,
+      "name": "Espina De Rosas",
+      "url": "https://open.spotify.com/track/4RyIoIeXZXvu7nwc4nEWxM"
+    },
+    {
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/2CDiUmUqK5PKkYjzpa1qgf"
       },
@@ -6262,7 +6324,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 177598,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/1KGt05jHnHhFwvw8F5AlOy"
@@ -7662,7 +7724,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 166541,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/57ghtDy5WJewLL0ggGG8E4"
@@ -12132,7 +12194,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 169973,
       "name": "Padiante",
       "url": "https://open.spotify.com/track/0RdRTdsqK9BVJnmbQPWLOX"

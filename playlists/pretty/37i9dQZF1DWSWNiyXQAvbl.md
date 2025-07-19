@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,038 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,087 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 58 | [Superstition \- Single Version](https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number Ones](https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz) | 4:04 |
 | 59 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
 | 60 | [Rocket Man \(I Think It's Going To Be A Long Long Time\)](https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau \(Remastered\)](https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6) | 4:41 |
-| 61 | [Dreams](https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh) | 4:14 |
-| 62 | [My Sweet Lord](https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered\)](https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M) | 4:41 |
-| 63 | [Give A Little Bit](https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments \(Remastered\)](https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU) | 4:08 |
+| 61 | [Give A Little Bit](https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments \(Remastered\)](https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU) | 4:08 |
+| 62 | [Dreams](https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh) | 4:14 |
+| 63 | [My Sweet Lord](https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered\)](https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M) | 4:41 |
 | 64 | [Wonderful Tonight](https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G) | 3:45 |
 | 65 | [Take A Chance On Me](https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5rHIYv9tgmZjvvMOMhho2x) | 4:03 |
 | 66 | [Easy](https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/0TcKS5p50aNE2c0Zuhs3Zl) | 4:16 |

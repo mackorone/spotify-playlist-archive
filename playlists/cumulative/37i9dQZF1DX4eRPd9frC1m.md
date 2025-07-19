@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-427 songs - 23 hr 3 min
+428 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [HAPPY SONG](https://open.spotify.com/track/4nCW3tSl82LPbmrrwYpF4b) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [HAPPY SONG](https://open.spotify.com/album/2X2n5AtyOVFBKajAVQkBg6) | 3:47 | 2023-08-18 | 2023-09-10 |
 | [Harsh](https://open.spotify.com/track/4dZpVthxO7J7f7RHCdfSXP) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Red Hood Squad](https://open.spotify.com/artist/06MFEUOcADxVpRKLC9EZXn) | [Harsh](https://open.spotify.com/album/6uuJWGvPodKtM29QgZBoNu) | 3:56 | 2022-02-04 | 2022-07-29 |
 | [HAWT](https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [HAWT](https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV) | 3:49 | 2024-07-12 | 2025-01-19 |
-| [Head Banger](https://open.spotify.com/track/6QxZiw8PpWCH1w5Hg3233x) | [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Head Banger](https://open.spotify.com/album/4nzDinBKYwN8dWjlq4P9uj) | 2:48 | 2025-05-16 |  |
+| [Head Banger](https://open.spotify.com/track/6QxZiw8PpWCH1w5Hg3233x) | [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Head Banger](https://open.spotify.com/album/4nzDinBKYwN8dWjlq4P9uj) | 2:48 | 2025-05-16 | 2025-07-19 |
 | [Heads Or Tails](https://open.spotify.com/track/2o5GJ6ODpzswofGKNI2ZYv) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Heads or Tails](https://open.spotify.com/album/2Vwyw648RQRBunjOXcG6oW) | 3:47 | 2021-11-19 | 2022-01-08 |
 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-05-26 | 2024-12-21 |
 | [Heartbroken Twenty Twenty](https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Heartbroken Twenty Twenty](https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4) | 2:51 | 2021-11-19 | 2022-08-27 |
@@ -355,6 +355,7 @@
 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 | 2022-06-17 | 2024-11-09 |
 | [SPITFIRE](https://open.spotify.com/track/0IzEFIuQ216h7pq4HKsqY4) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [HAWAII SLIM](https://open.spotify.com/artist/2sGZiuhYWjfElrC65muVWz) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 1:29 | 2025-04-04 |  |
 | [Stallions](https://open.spotify.com/track/7Mgpc7PoSvWV73jhfpmxoE) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Stallions](https://open.spotify.com/album/0I3fZYjDRb5g7VulqKfm1f) | 3:55 | 2021-11-19 | 2022-01-08 |
+| [STAR CANNON](https://open.spotify.com/track/2KZ3vJPCmKh9Him926mDsH) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [HALF BLOOD](https://open.spotify.com/album/0KvaKQ6sOPmlZTOvsGjoQA) | 3:28 | 2025-07-18 |  |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2021-11-19 | 2022-10-21 |
 | [Steamroller](https://open.spotify.com/track/6nJydgohLfCuoPr9BbrUMy) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Steamroller](https://open.spotify.com/album/2CcC9vuinUNRbWTQp0pS0y) | 4:09 | 2024-08-23 | 2024-09-14 |
 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 | 2024-05-31 | 2024-11-23 |

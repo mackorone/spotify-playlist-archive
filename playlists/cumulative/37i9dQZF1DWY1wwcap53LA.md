@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Sacha
 
-229 songs - 11 hr 52 min
+230 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 | 2021-12-03 |  |
 | [Red Dirt Cursed](https://open.spotify.com/track/71UT0ooGTviqmCfpdClNoY) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/64evxUin5gboW74Ko8TFef) | 3:56 | 2022-05-27 | 2023-02-18 |
 | [Remember Her Name](https://open.spotify.com/track/6YMnz4CTX2NSg2JtXiSFJU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/2rAvDy2nHanof8iWkFUWKg) | 2:58 | 2021-12-03 |  |
-| [Rodeo](https://open.spotify.com/track/1vatH00GQmecBevlKY5ztN) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Rodeo](https://open.spotify.com/album/7onB4ESplhXRNbxMJrg1z1) | 2:25 | 2023-02-10 |  |
+| [Rodeo](https://open.spotify.com/track/1vatH00GQmecBevlKY5ztN) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Rodeo](https://open.spotify.com/album/7onB4ESplhXRNbxMJrg1z1) | 2:25 | 2023-02-10 | 2025-07-19 |
 | [RUNNIN'](https://open.spotify.com/track/0oizb3QaqA45EQ7Isq85Ly) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [RUNNIN'](https://open.spotify.com/album/0KlPRSFsYdaBgzREzE8Vla) | 3:36 | 2021-12-03 |  |
 | [Same Beer Different Problem](https://open.spotify.com/track/2bLa8N2vtooX5Sc0r1NmzO) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Same Beer Different Problem](https://open.spotify.com/album/699sP9cMgoC77MayudRDkk) | 3:00 | 2022-06-01 |  |
 | [Scary Love](https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Scary Love](https://open.spotify.com/album/3F9p267m68RpVbRhksOlhN) | 3:00 | 2024-04-26 | 2025-06-05 |
@@ -181,6 +181,7 @@
 | [SPAGHETTII](https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Linda Martell](https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:38 | 2024-04-04 |  |
 | [Standards](https://open.spotify.com/track/1XQcnIA8QsYmNuNVUzWVMQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Best Thing](https://open.spotify.com/album/7Gw93eT5wLVQfpRVizuNka) | 2:54 | 2021-12-03 | 2024-04-23 |
 | [Stay in Bed](https://open.spotify.com/track/4iwjHOttd1glzNXJTEOSdV) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Stay in Bed](https://open.spotify.com/album/6Rvln9KI4IeotOFYLdasN0) | 2:46 | 2023-11-17 | 2024-04-19 |
+| [Step Right Up](https://open.spotify.com/track/365BO6bwCwqzb9HFNtmyAM) | [The BoykinZ](https://open.spotify.com/artist/45yX0sqYmkP2IgBtKVJKSL) | [Step Right Up](https://open.spotify.com/album/5EFHjRUi3GHGWgifPohIPc) | 2:54 | 2025-07-18 |  |
 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 | 2021-12-03 |  |
 | [Stuck In The Middle](https://open.spotify.com/track/4ApYBiJuL9cKgrjYVQ6nNb) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Stuck In The Middle](https://open.spotify.com/album/6BVZYnD89rJA6USQhwfm2P) | 2:49 | 2023-02-17 | 2023-08-15 |
 | [Stuck In The Middle](https://open.spotify.com/track/4Tz1V1PaksTofLYLZVoaVr) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Blood Harmony](https://open.spotify.com/album/1qWvMwDIbDa9Qt5cuHFLRy) | 2:49 | 2023-08-11 | 2024-04-19 |

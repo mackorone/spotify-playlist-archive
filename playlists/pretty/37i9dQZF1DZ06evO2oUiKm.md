@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,030 likes - 45 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,037 likes - 44 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 24 | [You’re Not Here](https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 5:14 |
 | 25 | [We'll Meet Again](https://open.spotify.com/track/5ptXBoHYyiJ2NOgCLb02wP) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Still Blooming](https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj) | 4:14 |
 | 26 | [Inside \(feat\. Cynthia Erivo\)](https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 2:20 |
-| 27 | [What About Love?](https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 3:57 |
+| 27 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bad Times At The El Royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f) | 3:03 |
 | 28 | [Alive](https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:32 |
-| 29 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bad Times At The El Royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f) | 3:03 |
+| 29 | [What About Love?](https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 3:57 |
 | 30 | [When You Believe](https://open.spotify.com/track/3j4uq0VAGJcrsouND9kSe4) | [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk) | [When You Believe](https://open.spotify.com/album/5GsYME9CdX571wxD1WgLvi) | 4:07 |
 | 31 | [Fly Before You Fall](https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Beyond The Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI) | 3:03 |
 | 32 | [Glowing Up](https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:52 |
@@ -52,6 +52,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 42 | [Si Pudiera Leer Tus Sueños](https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Singing You Home \- Children's Songs for Family Reunification](https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv) | 2:37 |
 | 43 | [Take Me Away](https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:58 |
 | 44 | [Our Prayer](https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Joaquina Kalukango](https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb), [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Kevyn Morrow](https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:38 |
-| 45 | [Bridge Over Troubled Water](https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA) | [Alison Jiear](https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Inspirational](https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ) | 6:00 |
 
-Snapshot ID: `aHbrgAAAAABn1kuYzxo8Uwyj1xzA62bu`
+Snapshot ID: `aHg9AAAAAABzz3qid5jvnP24fFls/Iqd`

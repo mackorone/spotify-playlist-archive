@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103801,
+  "num_followers": 103798,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAD4nsZBzhrkUXZOYWW7K9lR",
+  "snapshot_id": "aHg9AAAAAAC72BD8M89uXJm08V7kuQmC",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Triste",
-        "url": "https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 263429,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 5",
         "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
       },
@@ -515,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+        "name": "El Triste",
+        "url": "https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6"
       },
       "artists": [
         {
@@ -524,25 +508,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 224656,
-      "name": "Adios Amor",
-      "url": "https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX"
+      "duration_ms": 263429,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP"
     },
     {
       "added_at": null,
@@ -563,6 +531,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 224656,
+      "name": "Adios Amor",
+      "url": "https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Covers, Vol. 5",
         "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
       },
@@ -575,38 +575,6 @@
       "duration_ms": 191460,
       "name": "Mi Mayor Anhelo",
       "url": "https://open.spotify.com/track/5GF4Jwl28VSwPZrweQEXst"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 182787,
-      "name": "Nadie Es Indispensable",
-      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "No Me Hubiera Enamorado",
-      "url": "https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4"
     },
     {
       "added_at": null,
@@ -627,6 +595,38 @@
       "duration_ms": 258480,
       "name": "Si Quieres - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 197137,
+      "name": "No Me Hubiera Enamorado",
+      "url": "https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 182787,
+      "name": "Nadie Es Indispensable",
+      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
     },
     {
       "added_at": null,

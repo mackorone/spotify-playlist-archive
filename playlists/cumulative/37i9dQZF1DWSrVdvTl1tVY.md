@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Chloé Caillet, Luke Alessi
 
-1,091 songs - 2 day 14 hr 12 min
+1,092 songs - 2 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,6 +708,7 @@
 | [Only You](https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Only You](https://open.spotify.com/album/6HvGmXvwlzqqhAtKFi6cAl) | 2:49 | 2022-11-25 | 2023-01-13 |
 | [Only You](https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM), [Noa Milee](https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4) | [Only You](https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD) | 2:47 | 2025-02-21 | 2025-06-20 |
 | [OOO \(Out Of Office\)](https://open.spotify.com/track/4tbTPGK4Q9kpFVpNWJfqbE) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt) | [OOO \(Out Of Office\)](https://open.spotify.com/album/6BtcW9uCW8fpQXbHGwNGDt) | 3:40 | 2023-02-03 | 2023-06-17 |
+| [Open Your Eyes](https://open.spotify.com/track/0Tk1bGsHNJWVgsw6nK3cIi) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Open Your Eyes](https://open.spotify.com/album/1S50W2WN9qp2nclzQuFaFE) | 4:19 | 2025-07-18 |  |
 | [Organ Belta](https://open.spotify.com/track/0Uo3ri0yFn2iUh2c3Z54uO) | [Jamie Roy](https://open.spotify.com/artist/79ABJJGvLA87FSIayREkBM) | [Organ Belta](https://open.spotify.com/album/4DuqITm0UJZ2HQTpJ6gMga) | 6:00 | 2022-09-30 | 2023-03-31 |
 | [Osmo](https://open.spotify.com/track/0a5BDMp06R0SVwH2WyQdnP) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Can't Help U](https://open.spotify.com/album/6AGOWIKeILE1B7qEDM3yVz) | 3:42 | 2022-06-02 | 2022-09-16 |
 | [Ostia](https://open.spotify.com/track/0qEH6uPXtjLZ9Ut132gHJ3) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Ostia](https://open.spotify.com/album/08uHg0ZtyHm2o49InQY9Nn) | 5:02 | 2024-03-22 | 2024-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,984 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,993 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 24 | [When I stop thinking](https://open.spotify.com/track/2lC9w6JGMzBkiQrx8Wy6uM) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [When I stop thinking](https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw) | 3:16 |
 | 25 | [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 |
 | 26 | [지금 이대로 Stay with me](https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:10 |
-| 27 | [Green Tree Frog](https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ) | [chiyoonhae](https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq) | [Green Tree Frog](https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8) | 2:29 |
-| 28 | [light](https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [雨後 uuhu](https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo) | 3:41 |
+| 27 | [light](https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [雨後 uuhu](https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo) | 3:41 |
+| 28 | [Green Tree Frog](https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ) | [chiyoonhae](https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq) | [Green Tree Frog](https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8) | 2:29 |
 | 29 | [To the other side of greed](https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:47 |
 | 30 | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 |
 | 31 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 37 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 |
 | 38 | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv) | 3:23 |
 | 39 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 |
-| 40 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
-| 41 | [One of Those Nights \(with seolim\)](https://open.spotify.com/track/3bDhXnVVPE20CYkZdgk5QV) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7), [seolim](https://open.spotify.com/artist/3WRKmOTYMBYLPqqzjWBtcQ) | [One of Those Nights \(with seolim\)](https://open.spotify.com/album/2YHLp2W48Z8wDCuI2YhlZi) | 2:29 |
-| 42 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 |
+| 40 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 |
+| 41 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
+| 42 | [One of Those Nights \(with seolim\)](https://open.spotify.com/track/3bDhXnVVPE20CYkZdgk5QV) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7), [seolim](https://open.spotify.com/artist/3WRKmOTYMBYLPqqzjWBtcQ) | [One of Those Nights \(with seolim\)](https://open.spotify.com/album/2YHLp2W48Z8wDCuI2YhlZi) | 2:29 |
 | 43 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 |
-| 44 | [Winded](https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Winded](https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p) | 3:03 |
-| 45 | [Han River 220625](https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Han River 220625](https://open.spotify.com/album/0f7xCKNQAbQKVilN4C95pQ) | 2:24 |
+| 44 | [Han River 220625](https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Han River 220625](https://open.spotify.com/album/0f7xCKNQAbQKVilN4C95pQ) | 2:24 |
+| 45 | [Winded](https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Winded](https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p) | 3:03 |
 | 46 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
-| 47 | [비밀 얘기를 하고 싶어](https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.18](https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD) | 3:00 |
-| 48 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
+| 47 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
+| 48 | [비밀 얘기를 하고 싶어](https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.18](https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD) | 3:00 |
 | 49 | [You don't have to say anything \(I already know\)](https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [You don't have to say anything \(I already know\)](https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC) | 4:25 |
 | 50 | [What Should I do](https://open.spotify.com/track/4ARhTCA10vYH49DceecURl) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [What Should I do](https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt) | 4:27 |
 

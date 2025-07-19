@@ -4,7 +4,7 @@
 
 > The cream of today's country crop\. Cover: James Johnston
 
-994 songs - 2 day 6 hr 16 min
+995 songs - 2 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Made From The Dirt](https://open.spotify.com/track/74RsHt0dw97fwb9HETbpop) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Made From The Dirt](https://open.spotify.com/album/0ELdmzBhy7nntFgHogbhv9) | 3:31 | 2024-09-19 | 2025-01-24 |
 | [Made Your Bed](https://open.spotify.com/track/31MzWcw631ZhqvFSQFyZC0) | [Tori Forsyth](https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w) | [Made Your Bed](https://open.spotify.com/album/5WvxLCVOUaTSyftyLpWrFh) | 3:49 | 2023-11-23 | 2024-03-01 |
 | [Madeline](https://open.spotify.com/track/2LPkPV3xEQegxAp3dTQseZ) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Beach House EP](https://open.spotify.com/album/6rUHR6JumTPgpP3q5G3Usq) | 3:14 | 2023-06-15 | 2023-07-28 |
+| [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 | 2025-07-17 |  |
 | [Making Up For Lost Wine](https://open.spotify.com/track/1KL31CycjUK0ZPzMUBiYyo) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Making Up For Lost Wine](https://open.spotify.com/album/4FSQnscHa5ywBYP3z5r3Xl) | 3:08 | 2022-06-02 | 2022-07-29 |
 | [Mama's Eyes](https://open.spotify.com/track/3vDIOac07rO5yGTvNeNSh7) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Mama's Eyes](https://open.spotify.com/album/2OUWJQrzQJNk3Oeew9oN0T) | 3:10 | 2023-05-18 | 2023-07-21 |
 | [Mamaw's House](https://open.spotify.com/track/4HeViKsdSOLkOvwfcRVkK8) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [20 Number Ones \(Bonus Version\)](https://open.spotify.com/album/5H2qv56KuvEfPjPVYWStUe) | 3:07 | 2023-09-28 | 2024-04-19 |

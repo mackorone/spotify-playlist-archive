@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,154 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,144 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 42 | [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 |
 | 43 | [La Caperuputa y el Lobo Culión](https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y) | [Cuentos de los Hermanos Grind](https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC) | [Los Cantipuercos](https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw) | 3:00 |
 | 44 | [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 |
-| 45 | [Exoplanets](https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t) | [SYRACUSÆ](https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy) | [Radix Nebulæ](https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX) | 4:01 |
-| 46 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
+| 45 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
+| 46 | [Exoplanets](https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t) | [SYRACUSÆ](https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy) | [Radix Nebulæ](https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX) | 4:01 |
 | 47 | [Strong as Hell](https://open.spotify.com/track/30QNaLNk7w1eOV8HeiATZr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Death Based Illusions](https://open.spotify.com/album/3srYoLcpQ2m6oDMyvJQ5af) | 4:19 |
 | 48 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 |
 | 49 | [No Olvido de Donde Soy](https://open.spotify.com/track/42f1zC2QXFIrnuIvrgZgnv) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Lanza en Mano](https://open.spotify.com/album/40tqGOnfjUC2oaZwiOjmmN) | 4:16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Chris Stapleton and the biggest hits in country music.",
+  "description": "Bailey Zimmerman and the biggest hits in country music.",
   "name": "All About Country",
   "tracks": [
     {
@@ -796,7 +796,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 197403,
       "name": "Amen",
       "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 173064,
       "name": "Bar None",
       "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 339333,
       "name": "Bleed On Paper",
       "url": "https://open.spotify.com/track/6Y7329Uz6FhJS7bRlkOoxy"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 182008,
       "name": "Bloodline (with Jelly Roll)",
       "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 161613,
       "name": "Boots Off",
       "url": "https://open.spotify.com/track/3MlvvRRwYfCpgIqUUPeYQ0"
@@ -1850,6 +1850,24 @@
       "duration_ms": 160760,
       "name": "Borrow My Boots",
       "url": "https://open.spotify.com/track/3K5ejUtwpzA2pnlsyt7hdr"
+    },
+    {
+      "album": {
+        "name": "Bourbon",
+        "url": "https://open.spotify.com/album/2PPKl3Tl9e69ub8MJr0jjc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Griffiths",
+          "url": "https://open.spotify.com/artist/01rGBVJvFssZjs5soni9Cw"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223882,
+      "name": "Bourbon",
+      "url": "https://open.spotify.com/track/5c0ppzyyMEYFaYeGaR9qfU"
     },
     {
       "album": {
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 197280,
       "name": "Broken Branches (feat. John Anderson, Riley Green)",
       "url": "https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ"
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 184818,
       "name": "Car That Drove You Away",
       "url": "https://open.spotify.com/track/3js7hQ6DUHQ2shBJ0snwEn"
@@ -3241,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "Let Your Horses Run - The Album",
+        "url": "https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "Cowboys & Dreamers",
+      "url": "https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6"
+    },
+    {
+      "album": {
         "name": "Cowboys And Angels",
         "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
       },
@@ -3462,7 +3498,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 148626,
       "name": "Damn Good Country Song",
       "url": "https://open.spotify.com/track/7xXtjD7xcsp7HHl8T7Vy38"
@@ -3870,7 +3906,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 196520,
       "name": "Did It Anyway",
       "url": "https://open.spotify.com/track/23sot0mxmxT3nhmxS4cNbb"
@@ -4242,7 +4278,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 181933,
       "name": "Dreams Don\u2019t Die",
       "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
@@ -4478,7 +4514,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 164026,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/3yG18Ue8wjrlcHfCiKYgjs"
@@ -4822,7 +4858,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 187787,
       "name": "First Love",
       "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
@@ -5206,7 +5242,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 223493,
       "name": "Gettin' Gone (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE"
@@ -5600,7 +5636,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
@@ -5882,7 +5918,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 206626,
       "name": "Hangin\u2019 On",
       "url": "https://open.spotify.com/track/7Itz5KrLl0ITKRR1iYL7Ud"
@@ -6024,7 +6060,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 264800,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
@@ -6100,6 +6136,24 @@
       "duration_ms": 199040,
       "name": "Heart Like A Truck",
       "url": "https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI"
+    },
+    {
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181773,
+      "name": "Heart of Stone",
+      "url": "https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i"
     },
     {
       "album": {
@@ -6894,6 +6948,24 @@
       "duration_ms": 175271,
       "name": "I Ain't Comin' Back (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
+    },
+    {
+      "album": {
+        "name": "I Ain't Country",
+        "url": "https://open.spotify.com/album/0nxNOATwqWpPcjR5EizThO"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163895,
+      "name": "I Ain't Country",
+      "url": "https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5"
     },
     {
       "album": {
@@ -8024,7 +8096,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
@@ -8206,6 +8278,24 @@
       "duration_ms": 179213,
       "name": "Just About Over You",
       "url": "https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX"
+    },
+    {
+      "album": {
+        "name": "Just In Case",
+        "url": "https://open.spotify.com/album/1LgijIY2d3GFKb5bhWYOf4"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166206,
+      "name": "Just In Case",
+      "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
     },
     {
       "album": {
@@ -8470,7 +8560,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 168680,
       "name": "Learn The Hard Way",
       "url": "https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT"
@@ -8488,7 +8578,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 191928,
       "name": "Leave Me Too",
       "url": "https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD"
@@ -8524,7 +8614,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 181453,
       "name": "Left To Get Right",
       "url": "https://open.spotify.com/track/5KUD7qUTDNyyweV4zpjxsF"
@@ -8640,7 +8730,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 179986,
       "name": "Let Your Horses Run",
       "url": "https://open.spotify.com/track/7jnYERjueuBLWWu445HcVz"
@@ -8832,7 +8922,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 246857,
       "name": "Lonely Dirt Road",
       "url": "https://open.spotify.com/track/6uBXlvLz3g0WHI5n2qIz7u"
@@ -8982,7 +9072,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 199575,
       "name": "Love In Letting Go",
       "url": "https://open.spotify.com/track/5CXIuI2IL88KY3L9Vd259d"
@@ -9386,7 +9476,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 167508,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/4mSfyqUcjl0Zwb2YWYohyO"
@@ -10010,7 +10100,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 221462,
       "name": "My Expense",
       "url": "https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i"
@@ -10162,7 +10252,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 251776,
       "name": "Neon Moon (with Morgan Wallen)",
       "url": "https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72"
@@ -10634,7 +10724,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 181870,
       "name": "Nobody Likes Your Girlfriend",
       "url": "https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS"
@@ -11941,6 +12031,24 @@
     },
     {
       "album": {
+        "name": "Rally Around",
+        "url": "https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159468,
+      "name": "Rally Around",
+      "url": "https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt"
+    },
+    {
+      "album": {
         "name": "Record High",
         "url": "https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY"
       },
@@ -12446,7 +12554,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 208613,
       "name": "Said No Country Boy Ever",
       "url": "https://open.spotify.com/track/1lKNwH63kNy9rmNTdf6esw"
@@ -12736,7 +12844,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 184892,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/3Y86mi6er0gPd1iWSCZgow"
@@ -13108,7 +13216,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 222998,
       "name": "Slow Dancing In A Burning Room - Spotify Singles",
       "url": "https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN"
@@ -13336,7 +13444,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 163444,
       "name": "Snakeskin",
       "url": "https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w"
@@ -13372,7 +13480,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 208946,
       "name": "Solid Country Gold",
       "url": "https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP"
@@ -13868,7 +13976,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 166207,
       "name": "Spin the Block",
       "url": "https://open.spotify.com/track/0m2Ekl3KKiBvtRbbIWleEz"
@@ -15342,7 +15450,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 159706,
       "name": "Till I Can't, I Will",
       "url": "https://open.spotify.com/track/3GLjg6Zmjw3gPrKUheQZfR"
@@ -16488,7 +16596,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 211863,
       "name": "What Could Go Right (feat. Lanie Gardner)",
       "url": "https://open.spotify.com/track/2iMX5bHSf125ZHBIysZ9na"
@@ -16550,6 +16658,24 @@
       "duration_ms": 184517,
       "name": "What I Want (feat. Tate McRae)",
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+    },
+    {
+      "album": {
+        "name": "What Kinda Man",
+        "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259022,
+      "name": "What Kinda Man",
+      "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
     },
     {
       "album": {
@@ -16974,7 +17100,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 177760,
       "name": "WHY (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"

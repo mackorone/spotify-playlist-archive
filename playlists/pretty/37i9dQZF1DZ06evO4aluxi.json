@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18567,
+  "num_followers": 18569,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABAcAddJGzs6EUOfUqVIH32",
+  "snapshot_id": "aHg9AAAAAADv56posJeI0bnxq/8GKK+/",
   "tracks": [
     {
       "added_at": null,
@@ -246,15 +246,11 @@
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Rock Of Ages",
-      "url": "https://open.spotify.com/track/2wfog0JEHVGS3jMqFWj3xO"
+      "duration_ms": 205466,
+      "name": "Joyful, Joyful, We Adore Thee",
+      "url": "https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6"
     },
     {
       "added_at": null,
@@ -322,11 +318,15 @@
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 205466,
-      "name": "Joyful, Joyful, We Adore Thee",
-      "url": "https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6"
+      "duration_ms": 219320,
+      "name": "Rock Of Ages",
+      "url": "https://open.spotify.com/track/2wfog0JEHVGS3jMqFWj3xO"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock Of Ages...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 180973,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/57RD1fWWeuT9zsYtFMOu4K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart In Motion",
         "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
@@ -475,30 +491,6 @@
       "duration_ms": 239493,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FAITHFUL: Go and Speak",
-        "url": "https://open.spotify.com/album/0mm5FD6nio4NSm9YMa0Vum"
-      },
-      "artists": [
-        {
-          "name": "FAITHFUL",
-          "url": "https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW"
-        },
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 320626,
-      "name": "A Woman",
-      "url": "https://open.spotify.com/track/6hCJLBQi1UmxvryFRZgwHu"
     },
     {
       "added_at": null,
@@ -535,18 +527,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Of Ages...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
+        "name": "FAITHFUL: Go and Speak",
+        "url": "https://open.spotify.com/album/0mm5FD6nio4NSm9YMa0Vum"
       },
       "artists": [
         {
+          "name": "FAITHFUL",
+          "url": "https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW"
+        },
+        {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 180973,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/57RD1fWWeuT9zsYtFMOu4K"
+      "duration_ms": 320626,
+      "name": "A Woman",
+      "url": "https://open.spotify.com/track/6hCJLBQi1UmxvryFRZgwHu"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Galileo",
-      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 233200,
       "name": "Be Still And Know",
       "url": "https://open.spotify.com/track/3WD7NRVmvnoNwVf3NtufTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > All the J\-Pop tunes you love in one playlist\. Cover: Vaundy
 
-294 songs - 18 hr 47 min
+296 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 | 2024-05-17 | 2025-06-14 |
 | [天国](https://open.spotify.com/track/2eKEFanCoyAlSPc5XPSkrj) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [天国](https://open.spotify.com/album/4G8BinCuBHYrwGLjsBqKg3) | 5:23 | 2025-05-05 | 2025-06-14 |
 | [天球\(そら\)のMúsica](https://open.spotify.com/track/2X3zHvUVqnMX081GIXpnMi) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [天球\(そら\)のMúsica](https://open.spotify.com/album/1ypTFEY0nlC2nSl74hPNM3) | 4:39 | 2025-04-10 | 2025-05-23 |
+| [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 | 2025-07-17 |  |
 | [小さな丘の木の下で](https://open.spotify.com/track/0NcKo2eMGsFWinUHR2gUuG) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [小さな丘の木の下で](https://open.spotify.com/album/11NQEVKz3pIb5VtHUq20wB) | 3:05 | 2023-06-19 | 2024-02-13 |
 | [巡ループ](https://open.spotify.com/track/6p8xc2hx0ZXDyFe4CNxSMy) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [巡ループ](https://open.spotify.com/album/1edhuNkoP27i5vOYM4qr35) | 4:12 | 2025-07-10 |  |
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-02-12 | 2025-04-04 |
@@ -275,6 +276,7 @@
 | [正しくなれない](https://open.spotify.com/track/2Kpsws23Oqf0wFwPrzJnWA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [正しくなれない](https://open.spotify.com/album/2TJa7e6vIJnq5xS5Ejn9VS) | 4:01 | 2023-06-19 | 2024-02-13 |
 | [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 | 2024-01-26 | 2024-05-18 |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2024-04-19 | 2024-07-06 |
+| [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 | 2025-07-17 |  |
 | [毎日 \- Every Day](https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [毎日 \- Every Day](https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978) | 3:02 | 2024-06-08 | 2024-08-09 |
 | [水平線](https://open.spotify.com/track/3RvdkNMcSy71m0aT6UF9Uf) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 4:48 | 2023-06-19 | 2024-12-14 |
 | [燈](https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [i 触れる SAD UFO](https://open.spotify.com/album/39l5XqHOxUnSvkyToqhtIt) | 3:59 | 2023-08-27 | 2025-03-10 |

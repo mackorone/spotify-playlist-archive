@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: strongboi
 
-1,668 songs - 3 day 23 hr 50 min
+1,669 songs - 3 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,6 +604,7 @@
 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-01-16 | 2025-01-31 |
 | [haha](https://open.spotify.com/track/7dFNL1uMQihYMxXRArmjV9) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2BPr6OlHJj2zKIvbbnWU1d) | 2:01 | 2025-06-05 | 2025-07-04 |
 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 | 2025-06-19 | 2025-07-04 |
+| [Haircut](https://open.spotify.com/track/4Mc1AZ4SnYmfTzdDLnfKqb) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e), [Vicky McClure](https://open.spotify.com/artist/3JTG488XeXxejYSjo7iN6n) | [Haircut](https://open.spotify.com/album/2LW7ptrKbFtTLLxCpnv82w) | 2:32 | 2025-07-18 |  |
 | [Half A World Away](https://open.spotify.com/track/38bhJA3cZk1SSTSYfokY5X) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Début](https://open.spotify.com/album/5GU3MLRne1jD18iKcoutfW) | 2:38 | 2025-05-29 | 2025-06-20 |
 | [Happening Lately](https://open.spotify.com/track/0u7nzVO1ZA9wffIfyNmucT) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Happening Lately](https://open.spotify.com/album/7KJaETONnBiT2eejZoPYIc) | 2:56 | 2024-11-07 | 2024-11-22 |
 | [Happier](https://open.spotify.com/track/669Zc1LeXs5jr0VtjzTij6) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Happier](https://open.spotify.com/album/0rx5QiDk1siqGcllKSI1Ul) | 2:58 | 2024-11-28 | 2025-01-10 |
@@ -1080,7 +1081,7 @@
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-06 | 2025-02-21 |
 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 | 2025-01-23 | 2025-02-21 |
 | [One of Each](https://open.spotify.com/track/12eWiYEblFgedfDE46en5r) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Different Talking](https://open.spotify.com/album/3ZJ9WuMbj6DynnoqegrJE0) | 1:55 | 2025-06-26 | 2025-07-18 |
-| [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i), [Eden Leshem](https://open.spotify.com/artist/49NRXEvNMMkyewpxD2ikH4), [Alice Phoebe Lou Matthew](https://open.spotify.com/artist/0VsqD71hCI2ABkZyHlYCzP), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:43 | 2025-07-17 |  |
+| [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:42 | 2025-07-17 |  |
 | [One Way or the Other](https://open.spotify.com/track/6bX80hmB6BJQgHGeCn41OU) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [In Breech](https://open.spotify.com/album/0PsNN3eGsmrzfB1R2QRkfC) | 3:57 | 2024-12-05 | 2025-01-17 |
 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-01-16 | 2025-02-07 |
 | [Only Boy](https://open.spotify.com/track/2fcbp4jpBI7pXYgozMafFT) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Only Boy](https://open.spotify.com/album/1D1l81UaKfMsEbEdXksCgf) | 2:11 | 2025-03-13 | 2025-03-21 |
@@ -1314,7 +1315,7 @@
 | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/album/3MNnWYFEBWSo8bfbCwtkd7) | 3:48 | 2024-12-05 | 2025-01-17 |
 | [Space Bar](https://open.spotify.com/track/02Y354oENgQxVBV1SMeBDg) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm) | [Space Bar](https://open.spotify.com/album/12O2glGHEliaoG1BU7JMaJ) | 2:43 | 2024-10-03 | 2024-10-18 |
 | [Space Invader](https://open.spotify.com/track/25Z5WIk6ORaCTU7dLtz349) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Space Invader](https://open.spotify.com/album/1vhdCQ2nTd5vupxIwUsEmx) | 4:45 | 2024-08-22 | 2024-09-13 |
-| [Spaced Out](https://open.spotify.com/track/2q5vyK48JeyTLtGIDuNd01) | [Flanger Kids](https://open.spotify.com/artist/0Z6OJHkHFz4JiwDHaCzhE9) | [Spaced Out](https://open.spotify.com/album/1IjfDke3aUl5XcSBea9oqd) | 3:11 | 2025-07-10 |  |
+| [Spaced Out](https://open.spotify.com/track/2q5vyK48JeyTLtGIDuNd01) | [Flanger Kids](https://open.spotify.com/artist/0Z6OJHkHFz4JiwDHaCzhE9) | [Spaced Out](https://open.spotify.com/album/1IjfDke3aUl5XcSBea9oqd) | 3:11 | 2025-07-10 | 2025-07-19 |
 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-05-29 | 2025-06-27 |
 | [Speed Freak](https://open.spotify.com/track/36qGcGSAI3rzgOQkoJHu6U) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Speed Freak](https://open.spotify.com/album/5XQHf9voY21g3m8dV7XwPs) | 3:29 | 2025-01-09 | 2025-01-24 |
 | [Spike Island](https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Spike Island](https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy) | 4:42 | 2025-04-10 | 2025-05-09 |

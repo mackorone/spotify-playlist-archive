@@ -4,7 +4,7 @@
 
 > Music from "Demon Slayer"\. © 吾峠呼世晴／集英社・アニプレックス・ufotable
 
-51 songs - 2 hr 27 min
+54 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,12 +21,14 @@
 | [堕姫撃破](https://open.spotify.com/track/2IWefWj5lC8C5p1iKW25w7) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」遊郭編 オリジナルサウンドトラック](https://open.spotify.com/album/5czFPP3dehjE4C3PeP4HO4) | 3:29 | 2025-06-28 |  |
 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 | 2025-04-03 |  |
 | [大団円](https://open.spotify.com/track/3cFpmIKUmifiAhvkH3TrxV) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」遊郭編 オリジナルサウンドトラック](https://open.spotify.com/album/5czFPP3dehjE4C3PeP4HO4) | 3:23 | 2025-06-28 |  |
+| [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 | 2025-07-18 |  |
 | [妓夫太郎の猛攻～譜面の完成](https://open.spotify.com/track/0POXT5xS0X7GzhfrRtGZT0) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」遊郭編 オリジナルサウンドトラック](https://open.spotify.com/album/5czFPP3dehjE4C3PeP4HO4) | 2:15 | 2025-06-28 |  |
 | [感謝の見送り](https://open.spotify.com/track/7COP718eNyYdXOzmQxOVvC) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック](https://open.spotify.com/album/3XWluQCHEe2W1M0NvbPQOq) | 0:54 | 2025-06-28 |  |
 | [新たなる任務～無限列車に向かって](https://open.spotify.com/track/4mwToOFdRj2k8tMnzQEhrA) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/2NTJua5Rhkszhg6b99TK78) | 2:50 | 2025-06-28 |  |
 | [明け星](https://open.spotify.com/track/60iYkEAcSpAFcsjRrgTlrc) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:29 | 2025-04-03 |  |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2025-04-03 |  |
 | [柱のテーマ \-OST ver.\-](https://open.spotify.com/track/5IzC4F0EkiEfKWjX7ScXV9) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/7wN7HLAWdOTtPBGUHxP3tv) | 2:14 | 2025-06-28 |  |
+| [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 | 2025-07-18 |  |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2025-04-03 |  |
 | [水の呼吸](https://open.spotify.com/track/5RAiB2stCSKb5491X17Rhq) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/7wN7HLAWdOTtPBGUHxP3tv) | 3:07 | 2025-06-28 |  |
 | [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 | 2025-04-03 |  |
@@ -47,6 +49,7 @@
 | [甘露寺対憎珀天](https://open.spotify.com/track/1I621rkd45JUzPqr0lCbtm) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック](https://open.spotify.com/album/3XWluQCHEe2W1M0NvbPQOq) | 1:38 | 2025-06-28 |  |
 | [白銀](https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [白銀](https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy) | 4:24 | 2025-04-03 |  |
 | [竈門兄妹からのスペシャルメッセージ！](https://open.spotify.com/track/4btkEps958MzCBmSW2tQQP) | [アニメ『鬼滅の刃』](https://open.spotify.com/artist/676pVWYrnO5W0OswIifHH3) | [アニメ『鬼滅の刃』竈門兄妹からのスペシャルメッセージ！](https://open.spotify.com/album/2ssuoYK7DrmWnfXZFtXtal) | 0:30 | 2025-06-28 | 2025-07-18 |
+| [竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/track/6ys0JJGcNwFPI4oALyGBFq) | [アニメ『鬼滅の刃』](https://open.spotify.com/artist/676pVWYrnO5W0OswIifHH3) | [アニメ『鬼滅の刃』竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/album/6bGEyoQIOkv1OJH8OjqJqd) | 0:33 | 2025-07-18 |  |
 | [竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/track/368lNWCxahPu7knjKiFiPT) | [鬼滅の刃](https://open.spotify.com/artist/7BBuPCKtEkrrjtUVVuKlOY) | [『鬼滅の刃』竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/album/3K4xydXnttfKb9IVRh1upw) | 0:25 | 2025-04-03 | 2025-07-18 |
 | [竈門炭治郎のうた \-OST ver.\-](https://open.spotify.com/track/3wJujLcsrXsmrr5M9fRdyW) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH), [中川奈美](https://open.spotify.com/artist/6fRAchGeMqG9ppHP8QBQuk) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/7wN7HLAWdOTtPBGUHxP3tv) | 5:30 | 2025-06-28 |  |
 | [竈門禰豆子のうた \-full ver.\-](https://open.spotify.com/track/6LrRR9ufxrf4UUpqO1PFgU) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH), [中川奈美](https://open.spotify.com/artist/6fRAchGeMqG9ppHP8QBQuk) | [「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック](https://open.spotify.com/album/3XWluQCHEe2W1M0NvbPQOq) | 11:15 | 2025-06-28 |  |

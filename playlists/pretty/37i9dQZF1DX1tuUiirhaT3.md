@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,538 likes - 104 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,550 likes - 104 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 103 | [417 Hz Calma \(Nature\)](https://open.spotify.com/track/5RpPrA45N1wKZRUjVR2NJk) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation with Nature Sounds](https://open.spotify.com/album/0luGXVbbrR8hDxjDl3Rx68) | 2:46 |
 | 104 | [Halcyon](https://open.spotify.com/track/12oD6SvmWKnczs0fsav0wy) | [Nature Calm](https://open.spotify.com/artist/7q3i8BbWfYPSZmTMJtge2P) | [Halcyon](https://open.spotify.com/album/6wnFMdZuBo3X6vuH3d9LFZ) | 2:54 |
 
-Snapshot ID: `aFlIOQAAAABDO8tSsP2m2EFcQRSfSWAq`
+Snapshot ID: `aHq8QwAAAACHRkozA0WlIN0ruDIbwTFZ`

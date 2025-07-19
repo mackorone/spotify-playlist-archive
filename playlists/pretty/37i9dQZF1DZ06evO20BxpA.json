@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1482,
+  "num_followers": 1483,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACQsPeaVFk/dFToiG+r2HMF",
+  "snapshot_id": "aHg9AAAAAADoIqCAZF5bkmA1bKjqnE3M",
   "tracks": [
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 152266,
-      "name": "Foundations",
-      "url": "https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe"
+      "duration_ms": 231440,
+      "name": "Everything is Bathed in Sunlight",
+      "url": "https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 231440,
-      "name": "Everything is Bathed in Sunlight",
-      "url": "https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM"
+      "duration_ms": 152266,
+      "name": "Foundations",
+      "url": "https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 102920,
-      "name": "Soyuz",
-      "url": "https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc"
+      "duration_ms": 173346,
+      "name": "ISS",
+      "url": "https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY"
     },
     {
       "added_at": null,
@@ -495,6 +495,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 55920,
+      "name": "The Seasonal Seas",
+      "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 102920,
+      "name": "Soyuz",
+      "url": "https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wonder Park (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A"
       },
@@ -515,38 +547,6 @@
       "duration_ms": 298786,
       "name": "Hideaway Medley",
       "url": "https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gravity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "ISS",
-      "url": "https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
-        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 55920,
-      "name": "The Seasonal Seas",
-      "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
     },
     {
       "added_at": null,

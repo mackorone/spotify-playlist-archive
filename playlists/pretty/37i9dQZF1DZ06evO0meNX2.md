@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,266 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,285 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 29 | [DELANTE DE MI \- En Vivo desde Los Ángeles](https://open.spotify.com/track/0zCDvSDndSus3dDtcsyAoI) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:38 |
 | 30 | [Una Coronita](https://open.spotify.com/track/3h9gDBAAhEGK7xPCBse93k) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NLIEC 2 \(LIVE SESSION\)](https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle) | 3:45 |
 | 31 | [QuesoXte](https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [X Amor II](https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM) | 2:31 |
-| 32 | [Si Yo Me Activo](https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:30 |
+| 32 | [Vida Loca](https://open.spotify.com/track/0TQjuQbF9O7wEZucVz4OT4) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 4:06 |
 | 33 | [AMOR PRISIONERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/0r9D3PXAe3Fpa22nWDEDU2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:04 |
 | 34 | [Los Hermanos](https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Los Hermanos](https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS) | 3:37 |
 | 35 | [Antídoto de Amor](https://open.spotify.com/track/2l8XMlszk4UXd0mK5hA4BA) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 3:16 |
-| 36 | [Vida Loca](https://open.spotify.com/track/0TQjuQbF9O7wEZucVz4OT4) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 4:06 |
+| 36 | [Si Yo Me Activo](https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:30 |
 | 37 | [SOLDADO BLANCO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:11 |
 | 38 | [Parque De Diversiones](https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NLIEC 2 \(LIVE SESSION\)](https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle) | 3:18 |
 | 39 | [Mente Activa](https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Mente Activa](https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 49 | [El General](https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El General](https://open.spotify.com/album/3GbcMCpdYObAqoAaQC09vg) | 3:47 |
 | 50 | [Te Vi](https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Te Vi](https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x) | 2:42 |
 
-Snapshot ID: `aHbrgAAAAACVI65qYHn4H7G1QjNyhzEA`
+Snapshot ID: `aHg9AAAAAABUWnuzuhgmwe7vz4eJXM0a`

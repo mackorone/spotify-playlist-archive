@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: Pastor Mike Jr.
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Kierra Sheard
 
-687 songs - 2 day 10 hr 45 min
+689 songs - 2 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,7 +414,7 @@
 | [My Worship \- Live](https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [My Worship \(Live\)](https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb) | 10:37 | 2023-09-15 | 2024-05-04 |
 | [Needs](https://open.spotify.com/track/71GkZGiodoUdpfL8Smvnm1) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Needs](https://open.spotify.com/album/0gRF9GgWiZyRQeBoPgucGi) | 3:27 | 2023-09-08 | 2023-10-07 |
 | [Never Be the Same](https://open.spotify.com/track/0bvf9gsH7z0nfiI1J2yav8) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Never Be the Same](https://open.spotify.com/album/6RZj2LbPznyiLoxqkV85O5) | 3:54 | 2024-03-01 | 2024-12-07 |
-| [Never Be the Same](https://open.spotify.com/track/3WKsdpakGifkudd5NEjUdd) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [One Night in California](https://open.spotify.com/album/6d5OAxPXyg0vTqfTO0N5pK) | 3:54 | 2025-02-28 |  |
+| [Never Be the Same](https://open.spotify.com/track/3WKsdpakGifkudd5NEjUdd) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [One Night in California](https://open.spotify.com/album/6d5OAxPXyg0vTqfTO0N5pK) | 3:54 | 2025-02-28 | 2025-07-19 |
 | [Never Deny You](https://open.spotify.com/track/3M27JviHxxcEQzzlGpghSr) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Never Deny You](https://open.spotify.com/album/0QBwXIF4MPfb5LVAsYQ8yv) | 2:46 | 2024-05-24 |  |
 | [Never Find](https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Never Find](https://open.spotify.com/album/7F8fxwQCce2toBYI1NBPxK) | 4:00 | 2024-08-23 | 2025-03-15 |
 | [Never Let Me Down \- Radio Edit](https://open.spotify.com/track/0vlEquyZ5kmN7BRAEd1prT) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Never Let Me Down \(Radio Edit\)](https://open.spotify.com/album/3gbha6N9JuiaXLB29z4AeN) | 4:09 | 2022-02-18 | 2022-07-16 |
@@ -430,6 +430,7 @@
 | [No Longer Slaves](https://open.spotify.com/track/6tHP4uaA7GRsW7vQh9KCz7) | [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc) | [SOUTH WIND, Vol\. 1](https://open.spotify.com/album/0CVPbXccgxmh9iZwTyAZ1W) | 5:18 | 2024-08-16 |  |
 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 | 2023-06-02 | 2024-04-13 |
 | [No Never Alone \(feat\. Ruth La'Ontra\) \- Live](https://open.spotify.com/track/1AD2MydzlPJSTIxhUnPeVt) | [Bishop Leonard Scott](https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW), [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq) | [No Never Alone \(feat\. Ruth La'Ontra\) \[Live\]](https://open.spotify.com/album/1oP4awAAv6cRvKtLmThKWg) | 4:41 | 2023-08-25 | 2023-09-16 |
+| [No Tears \(Live in Detroit\)](https://open.spotify.com/track/2uvkS2aA5LDBfEL8nVHR9T) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [No Tears \(Live in Detroit\)](https://open.spotify.com/album/1TYYw7gsKHxR2nO6eov4fQ) | 4:01 | 2025-07-18 |  |
 | [No Weapon \- Live](https://open.spotify.com/track/4hASz5Bp3VYs2D1j91Lz7R) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [No Weapon \(Live\)](https://open.spotify.com/album/2Sbxlw1WYFQKb3GISnsvJk) | 4:50 | 2023-05-19 | 2023-10-28 |
 | [No Weapon \- Radio Edit](https://open.spotify.com/track/1BpdiLpLSoszquPuwrL2gq) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [No Weapon \(Live\)](https://open.spotify.com/album/0jlEDqKqZ57QoxX9JsV4qN) | 3:40 | 2024-01-26 | 2024-11-16 |
 | [No words](https://open.spotify.com/track/6vORdtborYd1kyGbsjc1OW) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [No words](https://open.spotify.com/album/4TTZoiV1mFYUWX0PJncDhu) | 4:01 | 2024-07-12 | 2024-11-02 |
@@ -503,6 +504,7 @@
 | [Run](https://open.spotify.com/track/0YRMoVqvnAGzDlnYF2yIWq) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Run](https://open.spotify.com/album/1zvRvvWd3VHXROLpdUnIux) | 4:12 | 2022-02-18 | 2022-07-29 |
 | [Run](https://open.spotify.com/track/0txsCUPrDpQ0E4Aldhd0fb) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Die To Live](https://open.spotify.com/album/0vIgAd7zKtJwQDUHXb9QhA) | 4:12 | 2022-07-22 | 2023-03-25 |
 | [Run On](https://open.spotify.com/track/2dFwwb7q8lfR4cJR4K2weJ) | [JoJo Martin](https://open.spotify.com/artist/7gyT3c9PhZWtGgJ43adxKU) | [Temporary Tears](https://open.spotify.com/album/3kZxVbCo3dEXwWyifG4Vhh) | 4:27 | 2022-07-15 | 2023-07-15 |
+| [Run On](https://open.spotify.com/track/3CR90fLq3ntjMa851TbbLz) | [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Love Is The Only Key](https://open.spotify.com/album/01WIXAl5rM4crlxNduptr8) | 3:26 | 2025-07-18 |  |
 | [Rush On It](https://open.spotify.com/track/1oEQrW0vpktemRlt20cInz) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [Rush On It](https://open.spotify.com/album/7MQCkYVh7eQbC032vvvN6r) | 2:59 | 2023-02-10 | 2023-12-24 |
 | [Rush On It](https://open.spotify.com/track/3RHZtUgRiRHIfyjpsOdR7Z) | [J\. Moss](https://open.spotify.com/artist/7GOz2zIfLCrlyqQYVCfQtW) | [Rush On It](https://open.spotify.com/album/5TYLB2Bi4yBLiAlpky4bb4) | 2:59 | 2023-12-15 | 2024-03-09 |
 | [Rushing In \- Live](https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Peace: The Album](https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s) | 7:42 | 2022-02-18 | 2022-04-29 |
@@ -686,7 +688,7 @@
 | [You're Coming Out](https://open.spotify.com/track/68oy8qZSZt6O7Pxmr0KGRm) | [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [You're Coming Out](https://open.spotify.com/album/4MSwgp7O7CE2qSheIzb9OW) | 3:38 | 2022-02-18 | 2023-01-21 |
 | [You're Gonna Make It](https://open.spotify.com/track/33qkn2qtJepscrlw7XZYmW) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW), [Milton Biggham](https://open.spotify.com/artist/0dgemTZLNtQWYRkp6CLtW6) | [You're Gonna Make It](https://open.spotify.com/album/5voOg38YTVXBB9eEZ0wZVS) | 6:26 | 2024-08-09 | 2024-08-24 |
 | [You're The Worthy One](https://open.spotify.com/track/66CzJlOG9NhQbwSX3ImhWp) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You're The Worthy One](https://open.spotify.com/album/41nAXYitdpFqk1LmbekoP1) | 4:48 | 2022-11-11 | 2024-02-03 |
-| [Your Amazing Love](https://open.spotify.com/track/3TaosRVEjWj45rmrAUNBKz) | [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Your Amazing Love](https://open.spotify.com/album/6EmxddDI1oUeesbVOAYRmb) | 4:47 | 2024-08-16 |  |
+| [Your Amazing Love](https://open.spotify.com/track/3TaosRVEjWj45rmrAUNBKz) | [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Your Amazing Love](https://open.spotify.com/album/6EmxddDI1oUeesbVOAYRmb) | 4:47 | 2024-08-16 | 2025-07-19 |
 | [Your Hand](https://open.spotify.com/track/3BCRsqflSL5BsiGsdT6HiA) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [Your Hand](https://open.spotify.com/album/0xCfBoEbEvp3NZtQPkDkuj) | 3:15 | 2024-07-19 |  |
 | [Your love](https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love](https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh) | 3:53 | 2025-03-14 |  |
 | [Your Name](https://open.spotify.com/track/6Y1gaH2z0FQwOgfVCt88PV) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Your Name](https://open.spotify.com/album/1e2c2giTtpKsjwxq3T5Y7N) | 3:56 | 2024-07-12 | 2025-05-24 |

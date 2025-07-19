@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 94511,
+  "num_followers": 94519,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACxeHvqOWuj5azKT4D/h/fB",
+  "snapshot_id": "aHg9AAAAAAAVlhKhcHG/FRfAtxN/N/H8",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 173854,
       "name": "Dime x Que",
       "url": "https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sky Blue",
+        "url": "https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 162358,
+      "name": "Sky Blue",
+      "url": "https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK"
     },
     {
       "added_at": null,
@@ -591,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Exceso Me Encanto",
+        "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 160153,
+      "name": "El Exceso Me Encanto",
+      "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gabbana Es El Porte",
         "url": "https://open.spotify.com/album/3BJkR82p0ArgHkjaZLyAld"
       },
@@ -607,22 +639,6 @@
       "duration_ms": 151690,
       "name": "Gabbana Es El Porte",
       "url": "https://open.spotify.com/track/4KSo7rlreDnU5TuilX7vLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Exceso Me Encanto",
-        "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 160153,
-      "name": "El Exceso Me Encanto",
-      "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
     },
     {
       "added_at": null,
@@ -779,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1or 80",
-        "url": "https://open.spotify.com/album/5xWFLe8Tlnhe6HVmqHQsrf"
+        "name": "No Quiero Agarrar El Rollo",
+        "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
       },
       "artists": [
         {
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 143357,
-      "name": "Se\u00f1or 80",
-      "url": "https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd"
+      "duration_ms": 121209,
+      "name": "No Quiero Agarrar El Rollo",
+      "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
     },
     {
       "added_at": null,
@@ -811,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Quiero Agarrar El Rollo",
-        "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
+        "name": "Se\u00f1or 80",
+        "url": "https://open.spotify.com/album/5xWFLe8Tlnhe6HVmqHQsrf"
       },
       "artists": [
         {
@@ -820,29 +836,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 121209,
-      "name": "No Quiero Agarrar El Rollo",
-      "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ace of Spades",
-        "url": "https://open.spotify.com/album/4gvnBYrlVxacLhUeBfuIqr"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        },
-        {
-          "name": "Christian Zepeda",
-          "url": "https://open.spotify.com/artist/1OOzpB4qc8zndHFs9O4dzo"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ace of Spades",
-      "url": "https://open.spotify.com/track/5NAJzQnVtRPmug4PcwiFgm"
+      "duration_ms": 143357,
+      "name": "Se\u00f1or 80",
+      "url": "https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd"
     }
   ],
   "unique_name": "This Is El de La Guitarra",

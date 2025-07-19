@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,405 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,799 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 18 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 |
 | 19 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6cii6vbf1gITzGEpDrc5BP) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/1UtDjgbJnpqtAhfeMrb4Qm) | 4:28 |
 | 20 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
-| 21 | [METAMORPHOSIS \- Slowed + Reverb](https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Slowed + Reverb\)](https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO) | 2:52 |
-| 22 | [Close Eyes \- Slowed + Reverb](https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes \(Slowed + Reverb\)](https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm) | 2:23 |
-| 23 | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR) | [Xantesha](https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em) | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM) | 2:18 |
-| 24 | [i like the way you kiss me \- burnt](https://open.spotify.com/track/7FKLbfLP8JK1MXKRrYx4Kd) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me \(burnt\)](https://open.spotify.com/album/45Qix7gFNajr6IofEIhhE4) | 2:42 |
+| 21 | [Close Eyes \- Slowed + Reverb](https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes \(Slowed + Reverb\)](https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm) | 2:23 |
+| 22 | [METAMORPHOSIS \- Slowed + Reverb](https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Slowed + Reverb\)](https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO) | 2:52 |
+| 23 | [i like the way you kiss me \- burnt](https://open.spotify.com/track/7FKLbfLP8JK1MXKRrYx4Kd) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me \(burnt\)](https://open.spotify.com/album/45Qix7gFNajr6IofEIhhE4) | 2:42 |
+| 24 | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR) | [Xantesha](https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em) | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM) | 2:18 |
 | 25 | [Shootout \(Slowed + Reverb\)](https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(Slowed + Reverb\)](https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG) | 2:20 |
 | 26 | [Call Me \- Slowed](https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Call Me \(Slowed\)](https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N) | 2:40 |
 | 27 | [It's Ok \- Slowed](https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [It's Ok \(Slowed\)](https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj) | 3:34 |

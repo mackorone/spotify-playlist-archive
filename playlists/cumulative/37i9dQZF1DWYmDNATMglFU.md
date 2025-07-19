@@ -4,7 +4,7 @@
 
 > new gen alt ⛓ ft\. julia wolf
 
-963 songs - 2 day 0 hr 15 min
+965 songs - 2 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Black Swan](https://open.spotify.com/track/2PdkKj2wpK2kqQ0hstJmPu) | [Block of Flats](https://open.spotify.com/artist/1Hr0GjUPxbMDrkRFhXA7p4) | [Black Swan](https://open.spotify.com/album/7d2gBxXcc7dmJ1mEKwxyC4) | 3:15 | 2023-01-27 | 2023-02-24 |
 | [Blame Brett \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/5qPmI0WgZ624bsXQ9iYOtD) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Blame Brett \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/5WM5bjR2J83u3dryKTZTn3) | 2:57 | 2024-05-09 | 2024-09-27 |
 | [blame me for everything](https://open.spotify.com/track/5gdiHedipHaBBXcp7TkPmK) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [blame me for everything](https://open.spotify.com/album/1t8JBCtRzQaHY6ZQXEt3Z1) | 2:13 | 2023-12-01 | 2024-06-28 |
+| [Bleed](https://open.spotify.com/track/4U0yFMPR9ibgt92xZxCt79) | [Keyawna Nikole](https://open.spotify.com/artist/1lSj9S0kfy7AtuqxPv11Gk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Bleed](https://open.spotify.com/album/1VQWF8mZdJm4fhUSmkC9F0) | 3:27 | 2025-07-18 |  |
 | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 | 2021-12-31 | 2022-01-08 |
 | [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 | 2023-03-24 | 2023-11-17 |
 | [bLeSs uR hEaRt](https://open.spotify.com/track/5dUgbxgqNmCBSmpH5GqKbD) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/7GDQZo95yvUhGpYCeEWYuU) | 3:11 | 2024-03-08 | 2024-03-09 |
@@ -691,6 +692,7 @@
 | [red flags](https://open.spotify.com/track/5oBpQ7gTP6fJy6g27Cu8ij) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [red flags](https://open.spotify.com/album/5uK2p6rLbCnmdfLN12MI9y) | 2:39 | 2023-09-01 | 2024-01-26 |
 | [RED GUITAR](https://open.spotify.com/track/6XxJPNJrLzr5ulspbPF9Rq) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [RED GUITAR](https://open.spotify.com/album/0vgXkq8T199cZ1wN8ppb51) | 2:27 | 2025-07-17 |  |
 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 | 2023-08-03 | 2023-09-22 |
+| [right time](https://open.spotify.com/track/17Liqrnyoir6xsw4NTxd87) | [Capital Soiree](https://open.spotify.com/artist/1sd5vbMAYXlLoJNTQfY0HV) | [Right Time](https://open.spotify.com/album/0Vfz1oFr0BAiGvx0tmqQBc) | 3:29 | 2025-07-17 |  |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-10 | 2024-03-09 |
 | [Rust](https://open.spotify.com/track/20aegDZC6JqMj5zrOopRzJ) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Rust](https://open.spotify.com/album/0O71DHS2Bk5As3ZQNOBrPy) | 2:48 | 2025-02-07 |  |
 | [SABOTAGE//](https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SABOTAGE//](https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e) | 3:20 | 2023-06-15 | 2023-08-25 |
@@ -810,7 +812,7 @@
 | [SURVIVE](https://open.spotify.com/track/3Cvsj3gXkN6ojl4BUVVumL) | [BLUNDER](https://open.spotify.com/artist/5eWWzmiUGtQErIfSk6GXna) | [SURVIVE](https://open.spotify.com/album/4JyslMBjqGDod435XtCcgv) | 2:51 | 2022-12-02 | 2023-04-28 |
 | [Survivor's Guilt](https://open.spotify.com/track/6jNN6oZaHZ7PiFsRgN8RFT) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [I Feel A Bit Weird](https://open.spotify.com/album/4KhsMrML9a4mIMwsHdXWXj) | 4:18 | 2023-10-13 | 2024-02-23 |
 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 | 2024-01-12 | 2024-05-10 |
-| [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 | 2025-03-19 |  |
+| [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 | 2025-03-19 | 2025-07-19 |
 | [synthesizer](https://open.spotify.com/track/3ST3gm2fbhUf3k7xi3ThiX) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [synthesizer](https://open.spotify.com/album/3Nvooh5H5kTox66kB68S85) | 3:00 | 2024-03-15 | 2025-03-20 |
 | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \- Remix](https://open.spotify.com/track/7eCEFon46sdQ93C9Bn1A1U) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \(Remix\)](https://open.spotify.com/album/7nh9bTQBhetVOYSXWBhK8l) | 3:19 | 2022-01-07 | 2022-03-25 |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-12-31 | 2022-01-08 |

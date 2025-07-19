@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69271,
+  "num_followers": 69278,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABr9isjce8mWIRR3Ems2gE5",
+  "snapshot_id": "aHg9AAAAAAD0TyIGMUA5nC0PVSi1UUjq",
   "tracks": [
     {
       "added_at": null,
@@ -395,30 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 231765,
-      "name": "VUD\u00da",
-      "url": "https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 315862,
       "name": "Mi Error - Remix",
       "url": "https://open.spotify.com/track/5IjOqh4XLyjHINuOGolmAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 231765,
+      "name": "VUD\u00da",
+      "url": "https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP"
     },
     {
       "added_at": null,
@@ -759,30 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMIGA CON BENEFICIOS",
-        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
-      },
-      "artists": [
-        {
-          "name": "LOS DUROS SON ELLOS",
-          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 193411,
-      "name": "AMIGA CON BENEFICIOS",
-      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Condado",
         "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 235226,
       "name": "En Mi Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/4ie9colBgieHEOULuCfK3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMIGA CON BENEFICIOS",
+        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
+      },
+      "artists": [
+        {
+          "name": "LOS DUROS SON ELLOS",
+          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 193411,
+      "name": "AMIGA CON BENEFICIOS",
+      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
     },
     {
       "added_at": null,

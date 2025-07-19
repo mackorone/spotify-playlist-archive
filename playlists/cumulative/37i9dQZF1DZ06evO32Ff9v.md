@@ -4,7 +4,7 @@
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 15 min
+81 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A.L.V.](https://open.spotify.com/track/29gK0gdgTdn0LsU9UTEwsn) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3) | [A.L.V.](https://open.spotify.com/album/3SxCRrJRJuFwtw2x4j86bU) | 2:39 | 2024-12-01 | 2025-03-08 |
 | [Andares](https://open.spotify.com/track/1HteRXTExneqPT4b62Vkmf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [El Filly Y Sus Aliados](https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt) | [Andares](https://open.spotify.com/album/3VZIepgxFPJVhurSNpy80p) | 2:31 | 2024-11-12 |  |
 | [Borracho y De Perro](https://open.spotify.com/track/37wZuY6x3ucmg8aeubIs5R) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Borracho y De Perro](https://open.spotify.com/album/6q7UBtdNN9uJU1Dm89gzOO) | 3:55 | 2024-01-29 | 2024-03-01 |
+| [Cuatro Letras](https://open.spotify.com/track/2xQdn2sYrp4bNJunP8aEOx) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Forjando El Camino](https://open.spotify.com/album/5NcAXKjS33TtqttBKRjcsx) | 2:49 | 2025-07-19 |  |
 | [Cuñados y Compadres](https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Cuñados y Compadres](https://open.spotify.com/album/1AEo9kTiKt4lUxwNV9gF7c) | 3:50 | 2024-01-29 | 2024-03-04 |
 | [Dago Perez](https://open.spotify.com/track/6PIN0TBnwVek7Gu3okURNf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:01 | 2024-01-29 | 2024-12-18 |
 | [De Que Puedo Puedo](https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Puedo Puedo](https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0) | 2:53 | 2024-02-20 |  |
@@ -80,7 +81,7 @@
 | [Ortiz](https://open.spotify.com/track/1szpyTT0Be1WuC62neWYIW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Torre De Oro](https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y) | 3:05 | 2025-02-15 | 2025-03-12 |
 | [Ortiz](https://open.spotify.com/track/6t5WA2338P7d8UUphfnH5c) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ortiz](https://open.spotify.com/album/4EJqxOOWo7zgEkZ0l1B7Sb) | 3:05 | 2025-01-15 | 2025-01-25 |
 | [Por Que Te Vas De Mi](https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:04 | 2024-01-29 |  |
-| [Que Casualidad](https://open.spotify.com/track/4ijcJd0qbM3i51wVAdoiMt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Que Casualidad](https://open.spotify.com/album/40AK5iEvmLqAYdWLKaBWDV) | 3:39 | 2025-05-18 |  |
+| [Que Casualidad](https://open.spotify.com/track/4ijcJd0qbM3i51wVAdoiMt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Que Casualidad](https://open.spotify.com/album/40AK5iEvmLqAYdWLKaBWDV) | 3:39 | 2025-05-18 | 2025-07-19 |
 | [Que Suerte La Mia](https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:30 | 2024-01-29 | 2025-02-15 |
 | [Sacandole Cuentas](https://open.spotify.com/track/2Kq027U4uFxcbMolvib7Nw) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Sacandole Cuentas](https://open.spotify.com/album/0vlcVWWLFeHE40u4oDKHdt) | 4:13 | 2024-01-29 |  |
 | [Señor Miedo](https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Señor Miedo](https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb) | 3:52 | 2024-01-29 |  |

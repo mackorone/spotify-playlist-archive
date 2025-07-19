@@ -4,7 +4,7 @@
 
 > Alex Warren, Jul & GIMS et Ronisia  au top des nouveautés de la semaine !
 
-5,563 songs - 12 day 1 hr 0 min
+5,564 songs - 12 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb) | 2:12 | 2024-12-05 | 2024-12-13 |
 | [Bodycount](https://open.spotify.com/track/1xet8SJiFFvsv5b0bmAi5n) | [K\-Rosif](https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV) | [Bodycount](https://open.spotify.com/album/1baXYkA27qJSVC3F90qw6d) | 2:23 | 2025-06-19 | 2025-06-27 |
 | [Bodyguard](https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [GINGER BOY](https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i) | 2:31 | 2024-05-09 | 2024-05-17 |
+| [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 | 2025-07-17 |  |
 | [Bollywood](https://open.spotify.com/track/6YQuwMRXGbbBHGw54F1BPl) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Bollywood](https://open.spotify.com/album/6stKRosdbqJWhxg0GFxP34) | 2:52 | 2025-04-17 | 2025-04-25 |
 | [Bon Voyage](https://open.spotify.com/track/0erFMrDuaEjyzLcZWeJ7FU) | [Alastair Lane](https://open.spotify.com/artist/6TlnZfBVbxeu6ss2jcPDJo), [VONFELT](https://open.spotify.com/artist/6A93vsKzaeq6m03BwAkTAU) | [Bon Voyage](https://open.spotify.com/album/2gFCZ1r5sA1vipWqauYWVl) | 2:10 | 2025-03-20 | 2025-03-28 |
 | [Bonde do Brunão](https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Bonde do Brunão](https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ) | 0:57 | 2025-06-19 | 2025-06-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Camilú.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,204 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,224 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 73 | [Campanas en la Noche \- Versión Juan José Vasconcellos](https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Juan José Vasconcellos](https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A) | [De Mi Flor](https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P) | 3:41 |
 | 74 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 |
 | 75 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 |
-| 76 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
-| 77 | [Me Estás Tratando Mal \- En Vivo Acústico](https://open.spotify.com/track/6YKN33GKbvLF3dcZtXPIlP) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:20 |
+| 76 | [Me Estás Tratando Mal \- En Vivo Acústico](https://open.spotify.com/track/6YKN33GKbvLF3dcZtXPIlP) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:20 |
+| 77 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
 | 78 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
 | 79 | [Superpoder](https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Superpoder](https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2) | 2:24 |
 | 80 | [Lo Que Perdí](https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Lo Que Perdí](https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6) | 3:43 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 95 | [Vete](https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Mil Caminos](https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID) | 3:54 |
 | 96 | [Voy Con Vos \- En Vivo](https://open.spotify.com/track/1t3Op2vLVRwSVATVvJzHzR) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Constelaciones en el Luna Park \(En Vivo\)](https://open.spotify.com/album/0kjW8an3vJajEiUQ8Uvu10) | 3:26 |
 | 97 | [Seminare](https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [Seminare](https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI) | 3:24 |
-| 98 | [Se Vos](https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Pedro Rossi](https://open.spotify.com/artist/32uq3m742M8DXd4WvpCIjC) | [Se Vos](https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM) | 4:36 |
-| 99 | [enero \- versión acústica](https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [enero \(versión acústica\)](https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg) | 3:26 |
+| 98 | [enero \- versión acústica](https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [enero \(versión acústica\)](https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg) | 3:26 |
+| 99 | [Se Vos](https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Pedro Rossi](https://open.spotify.com/artist/32uq3m742M8DXd4WvpCIjC) | [Se Vos](https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM) | 4:36 |
 | 100 | [Salvaje](https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Salvaje](https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR) | 2:53 |
 
 Snapshot ID: `aB1vywAAAAACarla+dBkwdxLsKdnYvK6`

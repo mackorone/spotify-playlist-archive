@@ -1,6 +1,6 @@
 {
   "description": "Sweat it out with your favorite country workout songs. Cover: Carrie Underwood",
-  "num_followers": 118194,
+  "num_followers": 118249,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Pontoon",
-      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
         "name": "Whiskey On You",
         "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 183789,
       "name": "Whiskey On You",
       "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Pontoon",
+      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -907,18 +907,22 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Real Friends",
-        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
+        "name": "You Should Be Here",
+        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
       },
       "artists": [
         {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 165586,
-      "name": "Good Vibes",
-      "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
+      "duration_ms": 177066,
+      "name": "Flatliner (feat. Dierks Bentley)",
+      "url": "https://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -939,22 +943,18 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "You Should Be Here",
-        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
+        "name": "Real Friends",
+        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        },
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
         }
       ],
-      "duration_ms": 177066,
-      "name": "Flatliner (feat. Dierks Bentley)",
-      "url": "https://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr"
+      "duration_ms": 165586,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 169920,
       "name": "All To Myself",
       "url": "https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
     },
     {
       "added_at": "2024-07-15 15:07:12",

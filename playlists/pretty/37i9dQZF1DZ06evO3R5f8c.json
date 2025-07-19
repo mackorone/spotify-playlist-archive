@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 175590,
+  "num_followers": 175651,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADNr7iOHSQw9FJlPaIDeBvg",
+  "snapshot_id": "aHg9AAAAAAD8APD1YN/FmBJVvY4Yjoh0",
   "tracks": [
     {
       "added_at": null,
@@ -995,30 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveller (Extended Mix)",
-        "url": "https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Nomsa Mazwai",
-          "url": "https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5"
-        },
-        {
-          "name": "Black Motion",
-          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
-        }
-      ],
-      "duration_ms": 439308,
-      "name": "Traveller - Extended Mix",
-      "url": "https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maturo",
         "url": "https://open.spotify.com/album/3QzA2IsFBMCjThvKDxvS7H"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 480005,
       "name": "Superman - Club Mix",
       "url": "https://open.spotify.com/track/5rBDK9SA9qa5yJra1iCPuV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traveller (Extended Mix)",
+        "url": "https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Nomsa Mazwai",
+          "url": "https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5"
+        },
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+        }
+      ],
+      "duration_ms": 439308,
+      "name": "Traveller - Extended Mix",
+      "url": "https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU"
     }
   ],
   "unique_name": "This Is Black Coffee",

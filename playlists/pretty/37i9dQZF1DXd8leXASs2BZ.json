@@ -1,12 +1,12 @@
 {
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 11",
-  "num_followers": 4912,
+  "num_followers": 4915,
   "original_name": "+81 Connect FRESH",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHZtDgAAAAD2V5Ysdephjh8g1qDIUu1q",
+  "snapshot_id": "aHoIzAAAAAByO5nRSaaKK5gkNUlQ5Y6u",
   "tracks": [
     {
       "added_at": "2025-07-15 15:00:30",
@@ -47,6 +47,26 @@
       "duration_ms": 146610,
       "name": "Baddie (feat. Ashley)",
       "url": "https://open.spotify.com/track/2NIJ3Vo4D3nNloyfvrV0qu"
+    },
+    {
+      "added_at": "2025-07-18 08:41:48",
+      "album": {
+        "name": "Juggin (feat. JuggrixhSentana)",
+        "url": "https://open.spotify.com/album/4gU26klhI2oIkXQg2ebWCv"
+      },
+      "artists": [
+        {
+          "name": "M3R",
+          "url": "https://open.spotify.com/artist/0My6iE80NWFYIob8q4GknJ"
+        },
+        {
+          "name": "JuggrixhSentana",
+          "url": "https://open.spotify.com/artist/3ijoOXa68U7MRSFIw3JnVP"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "Juggin (feat. JuggrixhSentana)",
+      "url": "https://open.spotify.com/track/0dWe0ElHM9gWdz1LJw2iNZ"
     },
     {
       "added_at": "2025-07-15 15:00:30",

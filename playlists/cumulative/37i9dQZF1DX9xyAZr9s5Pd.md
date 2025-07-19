@@ -4,7 +4,7 @@
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Jaze
 
-108 songs - 6 hr 8 min
+109 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Este Momento](https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM) | 3:45 | 2023-09-22 | 2023-11-18 |
 | [Estrella](https://open.spotify.com/track/6rEtb8R6eV1bSOJEx5Um9v) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Blanca](https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y) | 3:18 | 2023-09-22 |  |
 | [Fighting Ghosts](https://open.spotify.com/track/3zB85E2AyFwv90Bo3MOHY5) | [No Stories](https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc) | [Fighting Ghosts](https://open.spotify.com/album/7BgbqiWI2lp6U3tfpXqiU1) | 3:13 | 2023-09-22 |  |
+| [FILA DE 1000 LAMENTOS](https://open.spotify.com/track/43oDXMSn2jqpX0nCAVn1nM) | [Yampeer](https://open.spotify.com/artist/62dq8Iu5VkMxzo41GDIOLW) | [FILA DE 1000 LAMENTOS](https://open.spotify.com/album/4Tc7s9877YpORGgfGDvQ8b) | 3:37 | 2025-07-18 |  |
 | [Florecer Contigo](https://open.spotify.com/track/7BizyJuwuuRYp4hnExnO16) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Florecer Contigo](https://open.spotify.com/album/60u8fR1xRaw7SWKIn0J3XG) | 2:47 | 2024-08-23 | 2024-10-18 |
 | [Gravity](https://open.spotify.com/track/1uZjGWW5zZ7W0NKuxcCPp1) | [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws), [Amantina](https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7), [San Pedro Bonfim](https://open.spotify.com/artist/2zgWIWNakYzjY1IJaj6QFp) | [Gravity](https://open.spotify.com/album/6CsC1YU6PlbzRCV9pWpbFT) | 3:12 | 2023-09-22 |  |
 | [Génesis](https://open.spotify.com/track/3RwaAtM12WAUgfUcYVqNF1) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Génesis](https://open.spotify.com/album/05a8mBM0Y8jviCgp84igyN) | 2:25 | 2023-09-22 |  |
@@ -107,7 +108,7 @@
 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 | 2023-09-22 |  |
 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 | 2023-09-29 | 2024-02-17 |
 | [Tobogán Amarillo](https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF) | [Efecto Gloria](https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR) | [Tobogán Amarillo](https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26) | 4:31 | 2023-09-22 | 2024-10-26 |
-| [Todo Está Mejor](https://open.spotify.com/track/135CDJyX7CNJ55vBEsK1bZ) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Todo Está Mejor](https://open.spotify.com/album/1oY5hKTTwplywgqrKKzGdE) | 3:23 | 2023-09-22 |  |
+| [Todo Está Mejor](https://open.spotify.com/track/135CDJyX7CNJ55vBEsK1bZ) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Todo Está Mejor](https://open.spotify.com/album/1oY5hKTTwplywgqrKKzGdE) | 3:23 | 2023-09-22 | 2025-07-19 |
 | [Tutorial Para Olvidarme de Ti](https://open.spotify.com/track/0S5tLL40N5MtaxbYLEfjkT) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [Tutorial Para Olvidarme de Ti](https://open.spotify.com/album/0rFXbUb5ZLQs4xPBNKUprC) | 3:16 | 2023-09-29 |  |
 | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6v640lAjrFzNyut6aRqnro) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:23 | 2025-04-11 |  |
 | [Ver Tus Ojos Mirándome](https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Ver Tus Ojos Mirándome](https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1) | 3:30 | 2024-03-01 |  |

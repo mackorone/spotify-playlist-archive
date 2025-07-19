@@ -2,9 +2,9 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Max Carra & Lira.
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Bauti Mascia & Amigo de Artistas.
 
-654 songs - 1 day 8 hr 22 min
+655 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [No Bailo Pa Ti](https://open.spotify.com/track/6pveQFGqbuSqV26wR6E8Gr) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [No Bailo Pa Ti](https://open.spotify.com/album/6VBqm98KdFteyqI3IwSfRi) | 2:51 | 2021-12-23 | 2022-07-28 |
 | [No Eres Tu Soy Yo](https://open.spotify.com/track/0Uhd9gaVgQrDkLDov3udGA) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [Damaris Keyla](https://open.spotify.com/artist/7lJW0vlaLC6fTHJvdUPByy) | [No Eres Tu Soy Yo](https://open.spotify.com/album/2FY4gxzVXgcgytLWEFHsMz) | 2:43 | 2021-12-23 | 2022-07-14 |
 | [NO ES LO QUE PARECE](https://open.spotify.com/track/1WrTj4KU7QNgm6qS3lSocA) | [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DJ Cuba](https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE), [Alexis Exequiel](https://open.spotify.com/artist/71jc5HAeS4ge2rhqwWdjtY) | [NO ES LO QUE PARECE](https://open.spotify.com/album/1pMv2WnLf6GSiSL3pVki7O) | 2:04 | 2023-05-05 | 2023-12-24 |
+| [No Fue Culpa Tuya](https://open.spotify.com/track/3S0pR6KMZdaBL0QC9SI2vY) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP) | [No Fue Culpa Tuya](https://open.spotify.com/album/6V2h9j8lyA1DxaKALu0ue6) | 2:28 | 2025-07-18 |  |
 | [NO FUIMOS](https://open.spotify.com/track/717KavpEoZakUVizYk70TU) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [NO FUIMOS](https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf) | 2:16 | 2024-03-01 |  |
 | [No hay más nada](https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Cuestión de tiempo](https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw) | 3:54 | 2021-12-23 | 2024-12-13 |
 | [No la Quiere Perder](https://open.spotify.com/track/4Rrwz7H1asTbkRBWfUBuOM) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [No la Quiere Perder](https://open.spotify.com/album/5SquwXZlPSdHY5yflK0XMN) | 2:48 | 2022-04-01 | 2022-07-12 |
@@ -516,7 +517,7 @@
 | [Si Nos Vamos Ahora](https://open.spotify.com/track/5iq0EYWdPy832UAdvLO78h) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2), [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R) | [Si Nos Vamos Ahora](https://open.spotify.com/album/72kD2RhgcaQxpHUmeEB7e6) | 2:17 | 2023-06-30 | 2023-08-30 |
 | [Si Te Vuelvo a Llamar](https://open.spotify.com/track/70B2wI5RkccQVGhq0PEJQi) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Si Te Vuelvo a Llamar](https://open.spotify.com/album/5Yv7F7ivWnR8Xxryuv1bHG) | 2:39 | 2025-07-18 |  |
 | [Si Te Vuelvo a Ver](https://open.spotify.com/track/60SCplQppNz0tJIIxf52EH) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Mawi](https://open.spotify.com/artist/2oPc9LzQ7NP9DIqY70jubf) | [Si Te Vuelvo a Ver](https://open.spotify.com/album/5QkeaHYbkt3PcyvCiPzu3o) | 2:27 | 2022-05-06 | 2022-06-19 |
-| [Si Tu Supieras](https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si Tu Supieras](https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv) | 3:02 | 2021-12-23 |  |
+| [Si Tu Supieras](https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si Tu Supieras](https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv) | 3:02 | 2021-12-23 | 2025-07-19 |
 | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/track/5AkLEnorFvb7WIJOGqKYVT) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/album/2nEAqrVGMybdrkN3gP9NGF) | 2:44 | 2024-09-06 |  |
 | [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 | 2021-12-23 | 2023-07-01 |
 | [Simplemente Amigos / Eclipse Total](https://open.spotify.com/track/09O1Ve5IytaVPzPGZlDe54) | [Damian Perez](https://open.spotify.com/artist/3mrlxgWaEt5MNjAoAq6IRy) | [Simplemente Amigos / Eclipse Total](https://open.spotify.com/album/1UYhKpS4A9rKS74h6ht9ug) | 3:24 | 2022-07-29 | 2022-08-07 |

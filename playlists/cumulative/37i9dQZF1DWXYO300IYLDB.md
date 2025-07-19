@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-528 songs - 1 day 7 hr 23 min
+529 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [LA On A Saturday Night \- Acoustic](https://open.spotify.com/track/4DUsBOTsiqZkiF4ePwUPWx) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [LA On A Saturday Night \(Acoustic\)](https://open.spotify.com/album/4VbPKiMuTR1xwYxdHO4myV) | 3:10 | 2023-09-05 | 2024-11-08 |
 | [Lady by the Sea](https://open.spotify.com/track/4wPKUEm0EOoyUiFtI6mz1a) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Lady by the Sea](https://open.spotify.com/album/1RIfaHeT5rAniJ6i0x8zjU) | 3:02 | 2024-03-07 | 2024-04-28 |
 | [landslide](https://open.spotify.com/track/0St46Irltgo5FSrylfQxHN) | [Piezoluminescence](https://open.spotify.com/artist/39yIOX8TUTRhzYq6R7q0df), [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR), [mippopotamus](https://open.spotify.com/artist/0g5R6Ju7ftKle2mliZt6WF) | [Four Leaves](https://open.spotify.com/album/1Uik5aQQyQ8bsSHhB0H20R) | 2:14 | 2024-02-27 | 2024-11-08 |
-| [Latch \- Acoustic](https://open.spotify.com/track/4d75stQ2jRfq8lzaqhFFKs) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Japanese Edition\)](https://open.spotify.com/album/5N2cKMFxO89SjxJgDWmsQ5) | 3:43 | 2025-07-10 |  |
+| [Latch \- Acoustic](https://open.spotify.com/track/4d75stQ2jRfq8lzaqhFFKs) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Japanese Edition\)](https://open.spotify.com/album/5N2cKMFxO89SjxJgDWmsQ5) | 3:43 | 2025-07-10 | 2025-07-19 |
 | [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 | 2023-04-25 | 2023-05-03 |
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-09 | 2023-06-02 |
 | [Let It Go](https://open.spotify.com/track/0gVbkmFqq5fIkXtJJ3UTfM) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Let It Go](https://open.spotify.com/album/77pO3mE0cJA9SPinHHXkKL) | 4:15 | 2022-10-20 | 2022-11-16 |
@@ -300,6 +300,7 @@
 | [No One \- Acoustic](https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:19 | 2022-10-25 | 2023-03-27 |
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-21 | 2025-07-11 |
 | [Nobody Knows \(Acoustic\)](https://open.spotify.com/track/42pQzfx4pTUbTWNnUY2xw8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [Nobody Knows \(Acoustic\)](https://open.spotify.com/album/16Cx5MBA4HTIPnhBA6VhO3) | 2:15 | 2022-10-20 | 2022-12-14 |
+| [North Marine Drive](https://open.spotify.com/track/1Z6hLIXSRczR1GiEXGcqZt) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [North Marine Drive](https://open.spotify.com/album/4FjsXGxYbYGobkIspixnlw) | 3:30 | 2025-07-10 |  |
 | [Not Needed Anymore](https://open.spotify.com/track/2BfkNEDzO5UtSzPpMsfg5Q) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Not Needed Anymore](https://open.spotify.com/album/61TDNDxvXigXAMVVOdyKat) | 1:32 | 2022-10-20 | 2022-12-14 |
 | [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 | 2023-12-07 | 2024-01-24 |
 | [Oak Hill](https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Oak Hill](https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo) | 4:17 | 2023-02-09 | 2023-03-22 |

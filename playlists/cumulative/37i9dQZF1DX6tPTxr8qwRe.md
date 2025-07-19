@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: DYLAN
 
-933 songs - 1 day 19 hr 3 min
+936 songs - 1 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Carsick.](https://open.spotify.com/track/4zLQaRBedzVlO1RgTizzOA) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Saint Rich.](https://open.spotify.com/album/1Jr7qnqpYyQKa0305wjNTP) | 3:33 | 2024-05-17 | 2024-07-13 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 | 2022-03-12 |
 | [Catatonic](https://open.spotify.com/track/496EwIE0cD8Wp6ylc6D9bH) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [The Death Of Daisies](https://open.spotify.com/album/4E6DCiAAURzas9udSwr5NG) | 2:42 | 2024-10-11 | 2025-04-05 |
+| [Catch Me If You Can](https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Catch Me If You Can](https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm) | 2:37 | 2025-07-18 |  |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-02-25 | 2022-05-28 |
 | [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-01-28 | 2022-02-19 |
 | [Charisma](https://open.spotify.com/track/2mtBjvQzQHtknKFQKTbCbX) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Charisma](https://open.spotify.com/album/2TcKAlzwi9pSGMpVOIXho4) | 2:57 | 2023-12-08 | 2024-02-24 |
@@ -241,12 +242,13 @@
 | [Dolls](https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:12 | 2023-02-03 | 2023-09-02 |
 | [DON'T](https://open.spotify.com/track/09KcJTiSWfibriFPchj0Jt) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [DON'T](https://open.spotify.com/album/4uaMlHLDGX7sv3sKWVxBOw) | 2:09 | 2024-05-10 | 2024-07-13 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-02-19 |
+| [DON'T FOLLOW ME](https://open.spotify.com/track/7uNeoglAQECDt8ugEh0i7f) | [Ella Collier](https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ) | [DON'T FOLLOW ME](https://open.spotify.com/album/7zNkbscL9SxzWG5zFq6SQF) | 3:11 | 2025-07-18 |  |
 | [DON'T!](https://open.spotify.com/track/6oIW5g7RHZtok3cjF2nePu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [DON'T!](https://open.spotify.com/album/0ybgOat40TvYvG3iLc2O20) | 2:38 | 2024-10-18 | 2025-04-12 |
 | [Donkey Kong](https://open.spotify.com/track/7xn7WXN302ayw4JPJWf5qZ) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Donkey Kong](https://open.spotify.com/album/7g3V0Gwowdfwcxqt3c4Bf2) | 2:31 | 2022-04-22 | 2022-07-02 |
 | [Don’t Call Me](https://open.spotify.com/track/3bU91SbdFFrxKTu6L02r5r) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Don’t Call Me](https://open.spotify.com/album/5Q4FL6AO9WxaWTLGX4uuYN) | 2:48 | 2023-07-28 | 2023-12-09 |
 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-21 | 2023-10-21 |
 | [dot dot dot](https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dot dot dot](https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1) | 2:17 | 2023-05-19 | 2023-07-29 |
-| [Double Yellow](https://open.spotify.com/track/62w0Jrsug4dvHCDlrsGTEs) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Double Yellow](https://open.spotify.com/album/0wvNBeErYuMsy9NcdVDJM5) | 2:44 | 2025-04-11 |  |
+| [Double Yellow](https://open.spotify.com/track/62w0Jrsug4dvHCDlrsGTEs) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Double Yellow](https://open.spotify.com/album/0wvNBeErYuMsy9NcdVDJM5) | 2:44 | 2025-04-11 | 2025-07-19 |
 | [Drama King](https://open.spotify.com/track/4dlGGvKNYl5uC9bwUZfrqa) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Drama King](https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7) | 2:37 | 2023-03-31 | 2023-06-10 |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2021-10-22 | 2022-07-23 |
 | [Dream Girl](https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Chapter One](https://open.spotify.com/album/0UY2iRcHONUFNMkfd6zLtA) | 2:21 | 2022-11-18 | 2023-05-13 |
@@ -340,6 +342,7 @@
 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 | 2025-05-23 |  |
 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 | 2024-04-26 | 2024-06-29 |
 | [Goodbye \(from the series Arcane League of Legends\)](https://open.spotify.com/track/7pwF2SFF9LUeqD0f5wWrSR) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/1hQaM7OHSXpXcNK7qExkW5) | 3:50 | 2021-11-12 | 2022-03-18 |
+| [Goodbye, Good Riddance](https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Goodbye, Good Riddance](https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG) | 2:39 | 2025-07-18 |  |
 | [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 | 2022-05-20 | 2023-03-25 |
 | [GRASS IS GREENER](https://open.spotify.com/track/03NGvMraKPHuigMw4pSLyv) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [GRASS IS GREENER](https://open.spotify.com/album/2eCZsqAFPqiGQ3Uy8jZzoQ) | 2:27 | 2025-04-04 | 2025-06-21 |
 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 | 2023-02-10 | 2023-08-19 |
@@ -720,7 +723,7 @@
 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-09 | 2023-04-22 |
 | [Sex Concept](https://open.spotify.com/track/056QhSuhJ822uO45NZtq1X) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Sex Concept](https://open.spotify.com/album/2JOwZaCHcUSJUxQPQ9WfmY) | 3:52 | 2024-08-16 | 2025-01-25 |
 | [SEX MACHINA](https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq) | 2:09 | 2023-11-10 | 2024-03-23 |
-| [Shagidi](https://open.spotify.com/track/7zKYsYbbC7N8C5QOOtTlZx) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Shagidi](https://open.spotify.com/album/14xJ5Qg9sEbCJmg2vBRCUZ) | 2:28 | 2025-06-06 |  |
+| [Shagidi](https://open.spotify.com/track/7zKYsYbbC7N8C5QOOtTlZx) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Shagidi](https://open.spotify.com/album/14xJ5Qg9sEbCJmg2vBRCUZ) | 2:28 | 2025-06-06 | 2025-07-19 |
 | [Shapeshifter](https://open.spotify.com/track/5bmGMXvdLlUdLp0qYauHcC) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shapeshifter](https://open.spotify.com/album/0mfYRLKHbGtozSzkKMmUol) | 2:26 | 2024-04-12 | 2024-06-29 |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-02-04 | 2022-07-02 |
 | [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-01-15 | 2024-04-27 |

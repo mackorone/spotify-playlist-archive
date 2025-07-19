@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Fourth quarter, two minutes left .\. get locked in\. Cover: Damian Lillard
 
-821 songs - 1 day 18 hr 8 min
+822 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 | 2022-08-19 | 2023-06-10 |
 | [2022 Freestyle](https://open.spotify.com/track/3HWcK5EIfIdOQD1Rsj4yek) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [2022 Freestyle](https://open.spotify.com/album/1WRiN6skJPCcnoP99a0oIQ) | 2:56 | 2023-02-17 | 2023-02-22 |
 | [21](https://open.spotify.com/track/1AdXchAT6hBUm5d6y4nKjI) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blank Blank](https://open.spotify.com/album/6L2X9oAs6pLMweH6pSpfTT) | 2:50 | 2021-09-02 | 2022-09-17 |
-| [3AM in ToKEYo](https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [3AM in ToKEYo](https://open.spotify.com/album/5dx9ylPTCSU1SHR2b3uqXh) | 2:26 | 2025-02-07 |  |
+| [3AM in ToKEYo](https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [3AM in ToKEYo](https://open.spotify.com/album/5dx9ylPTCSU1SHR2b3uqXh) | 2:26 | 2025-02-07 | 2025-07-19 |
 | [3G \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:50 | 2023-02-17 | 2023-02-22 |
 | [4 Da Gang \(with Roddy Ricch\)](https://open.spotify.com/track/1mAey8kEPmDM2icL56kS9d) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 2:36 | 2022-06-24 | 2023-06-10 |
 | [4 Thangs \(feat\. Big Sean & Hit\-Boy\)](https://open.spotify.com/track/4wmZtoif8SGm7PDqgKrEXr) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [4 Thangs \(feat\. Big Sean & Hit\-Boy\)](https://open.spotify.com/album/7DaO2NczGej6crL0eTAXcS) | 1:44 | 2021-09-02 | 2022-06-25 |
@@ -463,6 +463,7 @@
 | [Misery](https://open.spotify.com/track/7IHO1YDxrXDA2S8sMtpL1i) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Directors Cut Scene 3](https://open.spotify.com/album/0hubsrjgOlCONCIrRwERgI) | 2:33 | 2023-08-25 | 2023-09-02 |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-09-02 | 2023-06-10 |
 | [MISS YOU BLOOD](https://open.spotify.com/track/6jLttfStq669B1lQGkEgoD) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [CHILDREN OF THE SLUMS](https://open.spotify.com/album/3uhGsFAXshXmRs9qLiYqGz) | 2:46 | 2024-07-12 | 2024-07-19 |
+| [MM3](https://open.spotify.com/track/2D8i2yY8z3kB5gRaUJ5weK) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:54 | 2025-07-18 |  |
 | [Mmhmm](https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:59 | 2024-03-22 |  |
 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 | 2023-02-13 |  |
 | [Mo Chicken \(feat\. French Montana\)](https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:00 | 2024-12-13 |  |

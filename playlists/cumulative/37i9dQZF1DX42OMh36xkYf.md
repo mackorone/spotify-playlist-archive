@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con ha$lopablito en portada.
 
-183 songs - 10 hr 13 min
+184 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,12 +66,13 @@
 | [El Triste](https://open.spotify.com/track/0u7u1vVxQHagcqOK1lANhL) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [El Triste](https://open.spotify.com/album/6ZvocIvlt006fUlDF1d7Nq) | 4:45 | 2025-04-04 |  |
 | [En La Oscuridad](https://open.spotify.com/track/69UvsEF4Kah8cbACRyREqF) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bolero Apocalíptico \(Deluxe Version\)](https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0) | 4:22 | 2023-10-13 | 2024-03-30 |
 | [Enero](https://open.spotify.com/track/3ts1l52tE1aQhQDxeDD2sS) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Enero](https://open.spotify.com/album/4op9IrJHnFCf8k1kxMlpNw) | 4:10 | 2023-10-13 | 2023-11-25 |
-| [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 | 2024-03-01 |  |
+| [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 | 2024-03-01 | 2025-07-19 |
 | [Episodio 1: A Solas Contigo](https://open.spotify.com/track/6HGbAwKcGp9xOZIxeXMlUX) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Episodio 1: A Solas Contigo](https://open.spotify.com/album/2y6K3mEBRdYPtKh8C2O5Jz) | 3:11 | 2024-03-01 |  |
 | [Estrella](https://open.spotify.com/track/6rEtb8R6eV1bSOJEx5Um9v) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Blanca](https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y) | 3:18 | 2023-09-22 | 2023-11-11 |
 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 | 2023-10-27 | 2023-11-18 |
 | [Feriado](https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Feriado](https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet) | 2:46 | 2023-09-22 |  |
 | [Fiesta](https://open.spotify.com/track/1atYmd4arC3jqNuKyYWQ0t) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta](https://open.spotify.com/album/3kZvskU8KnmX8ZMJnSKJj4) | 3:54 | 2025-05-23 |  |
+| [FILA DE 1000 LAMENTOS](https://open.spotify.com/track/43oDXMSn2jqpX0nCAVn1nM) | [Yampeer](https://open.spotify.com/artist/62dq8Iu5VkMxzo41GDIOLW) | [FILA DE 1000 LAMENTOS](https://open.spotify.com/album/4Tc7s9877YpORGgfGDvQ8b) | 3:37 | 2025-07-18 |  |
 | [Florecer Contigo](https://open.spotify.com/track/7BizyJuwuuRYp4hnExnO16) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Florecer Contigo](https://open.spotify.com/album/60u8fR1xRaw7SWKIn0J3XG) | 2:47 | 2024-08-23 |  |
 | [Fractal](https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Fractal](https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2) | 4:25 | 2023-09-22 | 2023-10-21 |
 | [Fue Por Ti](https://open.spotify.com/track/3Zf9tMuhSXNVvjtBjYzbEg) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ), [Nicolle Jadad](https://open.spotify.com/artist/6WKvXvkXVojnonsPLmzSUP) | [Fue Por Ti](https://open.spotify.com/album/7MlRZt1qs5PYIFb3Nw6Om1) | 2:14 | 2023-09-22 | 2023-09-30 |

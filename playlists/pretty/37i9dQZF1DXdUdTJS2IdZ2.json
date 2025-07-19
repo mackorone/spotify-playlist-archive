@@ -59,10 +59,14 @@
     {
       "added_at": "2025-07-17 16:00:09",
       "album": {
-        "name": "Not Alone (Sg60 Version)",
+        "name": "Not Alone (SG60 Version)",
         "url": "https://open.spotify.com/album/74O0v4PbrRSkysZ1fqMpKc"
       },
       "artists": [
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        },
         {
           "name": "RRILEY",
           "url": "https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj"
@@ -70,14 +74,10 @@
         {
           "name": "shazza",
           "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
-        },
-        {
-          "name": "Benjamin Kheng",
-          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
         }
       ],
       "duration_ms": 219789,
-      "name": "Not Alone - Sg60 Version",
+      "name": "Not Alone (SG60 Version)",
       "url": "https://open.spotify.com/track/2yhjvnIY9OacvgZhY8mITc"
     },
     {

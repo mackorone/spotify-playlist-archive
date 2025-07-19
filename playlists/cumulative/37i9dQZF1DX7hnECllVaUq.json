@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-01",
-  "description": "The biggest hits from country artists around the globe. Cover: Josh Ross",
+  "description": "The biggest hits from country artists around the globe. Cover: Lewis Love",
   "name": "Country Worldwide",
   "tracks": [
     {
@@ -128,10 +128,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 189780,
       "name": "5 Foot 9",
       "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+    },
+    {
+      "album": {
+        "name": "6 Months Later",
+        "url": "https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182868,
+      "name": "6 Months Later",
+      "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
     },
     {
       "album": {
@@ -150,6 +168,24 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "album": {
+        "name": "A Lot More Free",
+        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "A Lot More Free",
+      "url": "https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p"
     },
     {
       "album": {
@@ -189,6 +225,28 @@
     },
     {
       "album": {
+        "name": "All The Way (feat. Bailey Zimmerman)",
+        "url": "https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "All The Way (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
+    },
+    {
+      "album": {
         "name": "Country Squire",
         "url": "https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb"
       },
@@ -222,6 +280,28 @@
       "duration_ms": 235002,
       "name": "Am I Okay?",
       "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+    },
+    {
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
     },
     {
       "album": {
@@ -315,6 +395,28 @@
     },
     {
       "album": {
+        "name": "Backup Plan (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181518,
+      "name": "Backup Plan (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+    },
+    {
+      "album": {
         "name": "Bar Stool",
         "url": "https://open.spotify.com/album/0SjN1060n5MWfmGaveIxx0"
       },
@@ -387,6 +489,46 @@
     },
     {
       "album": {
+        "name": "Night Diving",
+        "url": "https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194120,
+      "name": "Better Me For You (Brown Eyes)",
+      "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
+    },
+    {
+      "album": {
+        "name": "Bloodline (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182008,
+      "name": "Bloodline (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
+    },
+    {
+      "album": {
         "name": "Body Like A Back Road",
         "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
@@ -398,7 +540,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 165386,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
@@ -811,6 +953,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
+        "url": "https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218946,
+      "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
+      "url": "https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH"
+    },
+    {
+      "album": {
         "name": "Dream Baby",
         "url": "https://open.spotify.com/album/3IwClZfwpNZyHpbaS38D7V"
       },
@@ -1006,7 +1170,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 242746,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
@@ -1086,6 +1250,24 @@
       "duration_ms": 174111,
       "name": "Good Beer",
       "url": "https://open.spotify.com/track/78S1U4SYfjUKhJ2CbCsixJ"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
     },
     {
       "album": {
@@ -1407,6 +1589,42 @@
     },
     {
       "album": {
+        "name": "House Again",
+        "url": "https://open.spotify.com/album/4LP7dD3panB9oryXnMBqJW"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203822,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5"
+    },
+    {
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204963,
+      "name": "I Got Better",
+      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
+    },
+    {
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
       },
@@ -1483,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Cold Beer & Country Music",
+        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "I Never Lie",
+      "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -1556,7 +1792,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 209586,
       "name": "I'm On Fire - Spotify Singles",
       "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
@@ -1621,6 +1857,28 @@
     },
     {
       "album": {
+        "name": "Restless Mind",
+        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286634,
+      "name": "Indigo (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+    },
+    {
+      "album": {
         "name": "The Lemonade Stand",
         "url": "https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI"
       },
@@ -1632,10 +1890,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 245813,
       "name": "Jersey on the Wall - I'm Just Asking",
       "url": "https://open.spotify.com/track/4Ii1EFQX6EZXkojk4CO9pm"
+    },
+    {
+      "album": {
+        "name": "Just In Case",
+        "url": "https://open.spotify.com/album/1LgijIY2d3GFKb5bhWYOf4"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166206,
+      "name": "Just In Case",
+      "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
     },
     {
       "album": {
@@ -1704,7 +1980,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
@@ -1802,6 +2078,28 @@
       "duration_ms": 234493,
       "name": "Man! I Feel Like A Woman!",
       "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
+    },
+    {
+      "album": {
+        "name": "Miles On It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168355,
+      "name": "Miles On It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
       "album": {
@@ -2198,7 +2496,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 218160,
       "name": "Pretty Little Poison",
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
@@ -2234,7 +2532,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 172861,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv"
@@ -2444,7 +2742,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 202560,
       "name": "She Hurts Like Tequila",
       "url": "https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L"
@@ -2588,7 +2886,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 213826,
       "name": "Somethin' 'Bout A Truck",
       "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
@@ -2794,7 +3092,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
@@ -2852,7 +3150,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
@@ -2870,7 +3168,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 197293,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
@@ -2892,6 +3190,24 @@
       "duration_ms": 203550,
       "name": "The Devil I've Seen",
       "url": "https://open.spotify.com/track/4MLomKQI0oeXO1DeJBiRp2"
+    },
+    {
+      "album": {
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
     },
     {
       "album": {
@@ -2942,7 +3258,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 211413,
       "name": "The Painter",
       "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
@@ -3044,10 +3360,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 177387,
       "name": "Thinkin\u2019 Bout Me",
       "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
+    },
+    {
+      "album": {
+        "name": "The Select",
+        "url": "https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246141,
+      "name": "Thought It Was Love",
+      "url": "https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF"
     },
     {
       "album": {
@@ -3224,7 +3558,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 178520,
       "name": "Wasted On You",
       "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
@@ -3278,10 +3612,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 189049,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/47vfptpehRy0aFaiUYVJLi"
+    },
+    {
+      "album": {
+        "name": "still hungover",
+        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM"
     },
     {
       "album": {
@@ -3300,6 +3652,28 @@
       "duration_ms": 153906,
       "name": "What He'll Never Have",
       "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"
+    },
+    {
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
     },
     {
       "album": {
@@ -3426,10 +3800,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 183789,
       "name": "Whiskey On You",
       "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
+    },
+    {
+      "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/2ipTgmp5HdUuiFI85oBA5U"
+      },
+      "artists": [
+        {
+          "name": "Lewis Love",
+          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "Whiskey Tears",
+      "url": "https://open.spotify.com/track/3gJdB3HBTbnEyelJKmXbKN"
     },
     {
       "album": {
@@ -3462,7 +3854,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
@@ -3484,7 +3876,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 141367,
       "name": "Wild Ones (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz"
@@ -3502,7 +3894,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 166040,
       "name": "Wind Up Missin' You",
       "url": "https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr"
@@ -3524,6 +3916,24 @@
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
+    },
+    {
+      "album": {
+        "name": "Worst Way",
+        "url": "https://open.spotify.com/album/2pEZkJlkzLMBXPUPWyQJxn"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220558,
+      "name": "Worst Way",
+      "url": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
     },
     {
       "album": {

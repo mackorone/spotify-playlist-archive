@@ -2175,6 +2175,36 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/6k2nOUDd0yqt4ZTOj4MJsm"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "VALLO",
+          "url": "https://open.spotify.com/artist/4BIIvS5s6ed82JswZFSAoJ"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        },
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200228,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6KSZ2KlNXqw94Usne24emg"
+    },
+    {
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/4iZOf3kwYME2J28mivO6ex"
       },

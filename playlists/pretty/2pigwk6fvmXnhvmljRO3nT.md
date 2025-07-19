@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,393 songs - 19 day 5 hr 10 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,394 songs - 19 day 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5776,7 +5776,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 5766 | [Me or Us](https://open.spotify.com/track/0JaN65P0DapRjboDEv2g08) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 2:37 |
 | 5767 | [For Y'all \(feat\. Jacquees\)](https://open.spotify.com/track/5e5LyZy3k83xTQKnerVrif) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 3:39 |
 | 5768 | [Best Friend](https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Best Friend](https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO) | 3:33 |
-| 5769 | [pick up the phone](https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:12 |
+| 5769 | [pick up the phone \(feat\. Quavo\)](https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:12 |
 | 5770 | [Parade on Cleveland \(feat\. Drake\)](https://open.spotify.com/track/05CTjmZKjZoCKQvM1Ldq9M) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:48 |
 | 5771 | [Cars Bring Me Out \(feat\. Future\)](https://open.spotify.com/track/2Okh2n1EHlGhviAYv75MOB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:22 |
 | 5772 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 |
@@ -7401,5 +7401,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7391 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 4:36 |
 | 7392 | [Mind Over Matter \(Reprise\)](https://open.spotify.com/track/77KnJc8o5G1eKVwX5ywMeZ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirrorball / Mind Over Matter \(Reprise\)](https://open.spotify.com/album/2Xp4fbuZF8UNC3b774j7zE) | 3:50 |
 | 7393 | [1995](https://open.spotify.com/track/0Qopdd7xJyhNd3tcvZEAgG) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [1995](https://open.spotify.com/album/5ZqVzbaifdjMAYbIRDfFGy) | 4:49 |
+| 7394 | [Animals \(Pt\. I\) \[with Eminem\]](https://open.spotify.com/track/3QKXo5IoMxnVwNm2bMRiVc) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [GDLU \(Preluxe\)](https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ) | 5:48 |
 
-Snapshot ID: `AAAHmY/58SjoZn12uGhlUNOT6DWTOswr`
+Snapshot ID: `AAAHmg5PfZPahvZl4CWIPvmPwFtNhITo`

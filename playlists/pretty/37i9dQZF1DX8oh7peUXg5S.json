@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 340890,
+  "num_followers": 340939,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-07-17 22:00:49",
       "album": {
+        "name": "Esc\u00fachame",
+        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
+      },
+      "artists": [
+        {
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Yo no soy esa",
+      "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
+    },
+    {
+      "added_at": "2025-07-17 22:00:49",
+      "album": {
         "name": "Unicornio",
         "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 308510,
       "name": "Unicornio",
       "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
-    },
-    {
-      "added_at": "2025-07-17 22:00:49",
-      "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 110266,
-      "name": "Aquellas Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
     },
     {
       "added_at": "2025-07-17 22:00:49",
@@ -783,18 +783,18 @@
     {
       "added_at": "2025-07-17 22:00:49",
       "album": {
-        "name": "Esc\u00fachame",
-        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
       "artists": [
         {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         }
       ],
-      "duration_ms": 152906,
-      "name": "Yo no soy esa",
-      "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
+      "duration_ms": 110266,
+      "name": "Aquellas Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
     },
     {
       "added_at": "2025-07-17 22:00:49",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-07-17 22:00:49",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
-      },
-      "artists": [
-        {
-          "name": "Jose Merce",
-          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
-        }
-      ],
-      "duration_ms": 256839,
-      "name": "Al alba",
-      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
-    },
-    {
-      "added_at": "2025-07-17 22:00:49",
-      "album": {
         "name": "Silvio Rodriguez y Pablo Milanes",
         "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2025-07-17 22:00:49",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
+      },
+      "artists": [
+        {
+          "name": "Jose Merce",
+          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
+        }
+      ],
+      "duration_ms": 256839,
+      "name": "Al alba",
+      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "added_at": "2025-07-17 22:00:49",
+      "album": {
         "name": "Los Mares De China",
         "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
       },
@@ -1371,26 +1371,6 @@
       "duration_ms": 186801,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
-    },
-    {
-      "added_at": "2025-07-17 22:00:49",
-      "album": {
-        "name": "No Nos Supimos Querer",
-        "url": "https://open.spotify.com/album/6he5LUMBMFkPeE9actOsnh"
-      },
-      "artists": [
-        {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
-        },
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 142586,
-      "name": "No Nos Supimos Querer",
-      "url": "https://open.spotify.com/track/3dPJ14K2niYKmEV1BjbqVX"
     },
     {
       "added_at": "2025-07-17 22:00:49",
@@ -1435,6 +1415,26 @@
       "duration_ms": 187146,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/7COfZjseddNFUpZcONru4M"
+    },
+    {
+      "added_at": "2025-07-17 22:00:49",
+      "album": {
+        "name": "No Nos Supimos Querer",
+        "url": "https://open.spotify.com/album/6he5LUMBMFkPeE9actOsnh"
+      },
+      "artists": [
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "No Nos Supimos Querer",
+      "url": "https://open.spotify.com/track/3dPJ14K2niYKmEV1BjbqVX"
     },
     {
       "added_at": "2025-07-17 22:00:49",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-07-17 22:00:49",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
-    },
-    {
-      "added_at": "2025-07-17 22:00:49",
-      "album": {
         "name": "La Vida Plena",
         "url": "https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2025-07-17 22:00:49",
       "album": {
-        "name": "Cecilia",
-        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
       },
       "artists": [
         {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Dama Dama (Album Version)",
-      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2025-07-17 22:00:49",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2025-07-17 22:00:49",
       "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Dama Dama (Album Version)",
+      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
+    },
+    {
+      "added_at": "2025-07-17 22:00:49",
+      "album": {
         "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
         "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 264493,
       "name": "Soy un Coraz\u00f3n Tendido al Sol",
       "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
-    },
-    {
-      "added_at": "2025-07-17 22:00:49",
-      "album": {
-        "name": "Deseos de cosas imposibles",
-        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 214881,
-      "name": "Deseos de cosas imposibles",
-      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
     },
     {
       "added_at": "2025-07-17 22:00:49",
@@ -1731,18 +1715,18 @@
     {
       "added_at": "2025-07-17 22:00:49",
       "album": {
-        "name": "Albanta",
-        "url": "https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M"
+        "name": "Deseos de cosas imposibles",
+        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
       },
       "artists": [
         {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 297040,
-      "name": "Al Alba",
-      "url": "https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt"
+      "duration_ms": 214881,
+      "name": "Deseos de cosas imposibles",
+      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
     },
     {
       "added_at": "2025-07-17 22:00:49",
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2025-07-17 22:00:49",
       "album": {
+        "name": "Albanta",
+        "url": "https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 297040,
+      "name": "Al Alba",
+      "url": "https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt"
+    },
+    {
+      "added_at": "2025-07-17 22:00:49",
+      "album": {
         "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
         "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
       },
@@ -1783,22 +1783,22 @@
     {
       "added_at": "2025-07-17 22:00:49",
       "album": {
-        "name": "De c\u00f3mo empezamos (Cruce de Caminos)",
-        "url": "https://open.spotify.com/album/6zlvhd64pu6iO8KDu1eFw5"
+        "name": "Yo Sin T\u00fa",
+        "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
       },
       "artists": [
         {
-          "name": "Depedro",
-          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+          "name": "El Jose",
+          "url": "https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP"
         },
         {
-          "name": "Xoel L\u00f3pez",
-          "url": "https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx"
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
         }
       ],
-      "duration_ms": 196402,
-      "name": "De c\u00f3mo empezamos (Cruce de Caminos)",
-      "url": "https://open.spotify.com/track/6YtegG7HMyUZR0ukaBS2mu"
+      "duration_ms": 308333,
+      "name": "Un Solo Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
     }
   ],
   "unique_name": "Cantautores",

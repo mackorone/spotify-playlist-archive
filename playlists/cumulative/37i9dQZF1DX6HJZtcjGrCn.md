@@ -4,12 +4,13 @@
 
 > ☀️O teu verão alternativo chegou☀️\. Foto: The Favors
 
-305 songs - 17 hr 59 min
+306 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20 \. 08 \. A fearless party between a kid and his own thoughts](https://open.spotify.com/track/7Hl1qkIjWiVRXzcq33F24W) | [Noiserv](https://open.spotify.com/artist/2DLUyAtFcP1bEOd8l6ZMys), [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz) | [20 \. 08 \. A fearless party between a kid and his own thoughts](https://open.spotify.com/album/6Q69qRCmapZsjzSqh6EjKL) | 3:15 | 2025-07-17 |  |
 | [26 \(I'm Drowning\)](https://open.spotify.com/track/64REKg8Q7WDwjcP3XS87ea) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a) | [26 \(I'm Drowning\)](https://open.spotify.com/album/5FqmQnAuKP5icz2Ay0OZ4Z) | 3:19 | 2024-07-25 | 2024-08-09 |
+| [7 dias](https://open.spotify.com/track/3todR6e3uhzaqY2Guq4Qjo) | [Tiago Bettencourt](https://open.spotify.com/artist/7Aqr06WngG4dj6rArzKgUG) | [7 dias](https://open.spotify.com/album/05LW24oVoRGt8w8KpO5LWV) | 3:30 | 2025-07-18 |  |
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-04-10 | 2025-04-25 |
 | [A Cantiga É](https://open.spotify.com/track/11dMkIHbpNiBHp6aZZSvcF) | [Linda Martini](https://open.spotify.com/artist/4Pv6qAkea25i2DlW1quQ8t) | [Tudo E O Seu Contrário](https://open.spotify.com/album/6qi8DPvnici0jD17JXXlb7) | 4:32 | 2024-09-27 | 2024-10-18 |
 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 | 2025-04-10 | 2025-06-06 |
@@ -73,7 +74,7 @@
 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 | 2025-02-28 | 2025-05-09 |
 | [Constelação](https://open.spotify.com/track/21t2rAN3JYaUh0BmFZv0Pj) | [Manel Cruz](https://open.spotify.com/artist/3kIHdzOf4v1eV2xQZakYsY) | [Constelação](https://open.spotify.com/album/7LUPwhBK4wh1Eh6zTOqM0y) | 3:17 | 2025-05-29 | 2025-06-21 |
 | [CRYCRYCRY](https://open.spotify.com/track/5pqmGMNILxh3RGi6hwPDAM) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [CRYCRYCRY](https://open.spotify.com/album/1QFXUfpUPvURM2Dy4ddNJM) | 4:07 | 2024-10-24 | 2024-12-07 |
-| [CUPID'S GIRL](https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUPID'S GIRL](https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB) | 3:28 | 2025-03-21 |  |
+| [CUPID'S GIRL](https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUPID'S GIRL](https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB) | 3:28 | 2025-03-21 | 2025-07-19 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2025-04-25 |
 | [Dark Vacay](https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Dark Vacay](https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb) | 3:33 | 2024-06-20 | 2025-03-11 |
 | [De Marginal](https://open.spotify.com/track/31CIsXuLfGdTs58g8Exbpi) | [Pedro da Linha](https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Mc Junior Pk](https://open.spotify.com/artist/4WRkJpqyrKEdwhrFlCrI4A) | [De Marginal](https://open.spotify.com/album/55izj5A0vkIhr465e5OlQA) | 3:08 | 2024-11-08 | 2024-11-22 |

@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Thirumali
 
-372 songs - 19 hr 4 min
+373 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [La Vida](https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:21 | 2023-11-07 | 2025-07-01 |
 | [Legacy](https://open.spotify.com/track/1K9kBW3vwRLdUCmyopR6vz) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [Legacy](https://open.spotify.com/album/5WkNj0ut9KlpGrc1vor49m) | 2:59 | 2024-09-09 | 2025-01-10 |
 | [Legacy](https://open.spotify.com/track/4pvagScsAtlcfKm0Mbc8p4) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [Legacy](https://open.spotify.com/album/4YTYTGCVUhvTj5dErwAGbg) | 3:00 | 2024-02-13 | 2024-02-18 |
+| [LEVIATHAN](https://open.spotify.com/track/2OUhc6yaPWsCocDWwbg8Ck) | [THE JGS](https://open.spotify.com/artist/1flgPX9tG9qslLNwlTXtiE), [JISHI GEORGE](https://open.spotify.com/artist/7H2JCjNyUM1KkvVuJKqpHD) | [LEVIATHAN](https://open.spotify.com/album/7BJ5V2EPihOUtnlnB5hhrT) | 2:26 | 2025-07-18 |  |
 | [Lifejil](https://open.spotify.com/track/0Itdhb56vDIdPbI6XfVGn6) | [Jilshad Vallapuzha](https://open.spotify.com/artist/1gsx9dFH26ilNmKsfbta1x) | [Lifejil](https://open.spotify.com/album/5vMVc3OjCwcWM6fnwz8bCf) | 3:04 | 2025-05-16 | 2025-07-10 |
 | [Loading Bazooka \(From "Bazooka"\)](https://open.spotify.com/track/1FU4zTnVKJ7X8rAV8p3W9K) | [Saeed Abbas](https://open.spotify.com/artist/3r3BIxNm1kAWHIAc2Gg36h), [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX) | [Loading Bazooka \(From "Bazooka"\)](https://open.spotify.com/album/1tP3dwBC1GfN8tFhYaUO6R) | 2:40 | 2025-04-07 | 2025-06-10 |
 | [Lockdown Trap](https://open.spotify.com/track/3uHaXQZA7hUaJPPqVbNoON) | [Haseeb Razak](https://open.spotify.com/artist/09CaZS4Yx74q9vLPQzRTa8), [Hashim Azeez](https://open.spotify.com/artist/5bkSNzOpTyAdAKWIgg83OO), [Ansif Abdulla](https://open.spotify.com/artist/46ur722CJpQIVEmu1hDQUF) | [Lockdown Trap](https://open.spotify.com/album/2zetFzoqjh1GpNBc96PszI) | 1:30 | 2025-03-20 | 2025-04-17 |
@@ -238,7 +239,7 @@
 | [Njan Enthaakum](https://open.spotify.com/track/3FkYqORzmtP4mH6tuXMRB6) | [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ), [TATLOO](https://open.spotify.com/artist/2J9o1jOxSvpwoF5rQ56GsN) | [Njan Enthaakum](https://open.spotify.com/album/2y7tplvjKDTY8CGpccA0mU) | 3:15 | 2025-07-15 |  |
 | [NNIV](https://open.spotify.com/track/7MxaW6IbtJsnbTvKHCRgoB) | [EXTER](https://open.spotify.com/artist/6GlV4Epde8mUG4SccVf7Vg), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P), [L4TERN](https://open.spotify.com/artist/3ocwwpzYk8POOMqGiPP6N4), [Owltrix](https://open.spotify.com/artist/5AJFuAsx761Hx7KCsq5hZS) | [NNIV](https://open.spotify.com/album/2wFR5sI241SlJ0sn5yzCWU) | 2:32 | 2025-03-17 | 2025-04-08 |
 | [Non stop \- Original Mix](https://open.spotify.com/track/4WrjJnmBcZP8LoSAEs9FV0) | [EK](https://open.spotify.com/artist/6tvycdUtKZqqVKPxek64gN), [Dopeboyghost](https://open.spotify.com/artist/0kgftNbtoiZeiPFYNfmv6C) | [Non Stop](https://open.spotify.com/album/2PJdMazq1OXwWkl8TLvaMw) | 2:48 | 2025-06-09 |  |
-| [Off Beat](https://open.spotify.com/track/0VfJ3oN2pLfbNEOhDWHSVW) | [Mc Nasrani](https://open.spotify.com/artist/5aFSicJRS8LVWngpNLh4DB) | [Off Beat](https://open.spotify.com/album/79uOviJWVAKFpWRFtPPL3U) | 3:44 | 2025-05-23 |  |
+| [Off Beat](https://open.spotify.com/track/0VfJ3oN2pLfbNEOhDWHSVW) | [Mc Nasrani](https://open.spotify.com/artist/5aFSicJRS8LVWngpNLh4DB) | [Off Beat](https://open.spotify.com/album/79uOviJWVAKFpWRFtPPL3U) | 3:44 | 2025-05-23 | 2025-07-19 |
 | [Old School Lady](https://open.spotify.com/track/3W4wKsqx5gNHAyQG7LGHVd) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Arcado](https://open.spotify.com/artist/5zmWaSsrRerKIj3Fk8nGlq) | [Old School Lady](https://open.spotify.com/album/0c3Bfxk1nrXU9tA2xtVodR) | 2:38 | 2025-03-21 | 2025-05-17 |
 | [ONAARAA](https://open.spotify.com/track/20Q0IbHm6ZIjuZBAdCa3EW) | [EMEN](https://open.spotify.com/artist/7dMFovuZ30lz7mAkfTNP0U) | [ONAARAA](https://open.spotify.com/album/1QRW93si3V23Bc45bit4Wl) | 1:54 | 2024-05-02 | 2024-05-22 |
 | [Ookkatte](https://open.spotify.com/track/6djlUD5bLEJ2ZMZ9LEaX7g) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Ookkatte](https://open.spotify.com/album/7MaBmAwa4dn0Yt5gtO2mQN) | 2:55 | 2024-02-07 | 2024-04-01 |

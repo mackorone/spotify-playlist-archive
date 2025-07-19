@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 172766,
+  "num_followers": 172778,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACC7pfAZ70/2o4F2sBZQLMo",
+  "snapshot_id": "aHg9AAAAAABlaRLTjddH725YTI2rm9nB",
   "tracks": [
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 185326,
-      "name": "P\u00d3LVORA",
-      "url": "https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/6sId7HxwowQflyXaVS8PUZ"
       },
@@ -675,6 +655,50 @@
       "duration_ms": 192650,
       "name": "Replay",
       "url": "https://open.spotify.com/track/1Khrw3Kue4yG8n3e8S1i1v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 185326,
+      "name": "P\u00d3LVORA",
+      "url": "https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pierdo la Cabeza (Remix)",
+        "url": "https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "Pierdo la Cabeza - Remix",
+      "url": "https://open.spotify.com/track/7dnOGJWp5Mspq4drP0oaxZ"
     },
     {
       "added_at": null,
@@ -723,30 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pierdo la Cabeza (Remix)",
-        "url": "https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Pierdo la Cabeza - Remix",
-      "url": "https://open.spotify.com/track/7dnOGJWp5Mspq4drP0oaxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "La Calle Me Lo Pidio",
+      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SANDUNGA",
         "url": "https://open.spotify.com/album/0SeTjJL8a6kfFlBQQTyNID"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 241921,
       "name": "SANDUNGA",
       "url": "https://open.spotify.com/track/4QJF76nruk2vvuCzGDCqsL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quien Contra Mi",
-        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "La Calle Me Lo Pidio",
-      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
     },
     {
       "added_at": null,
@@ -959,42 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonita (Remix)",
-        "url": "https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 322906,
-      "name": "Bonita - Remix",
-      "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -1031,6 +995,42 @@
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonita (Remix)",
+        "url": "https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 322906,
+      "name": "Bonita - Remix",
+      "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
     },
     {
       "added_at": null,

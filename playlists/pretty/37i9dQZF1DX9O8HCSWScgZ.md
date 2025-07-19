@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,347 likes - 73 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,350 likes - 73 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Midnight Stuff](https://open.spotify.com/track/2MGJydjBonGOlIzDQZL3dQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Midnight Stuff](https://open.spotify.com/album/0Vcjo60rQ38NPW8MLsG6gG) | 2:09 |
 | 2 | [Ends](https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Ends](https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc) | 2:22 |
-| 3 | [Walk Away](https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Couch Potato](https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI) | 2:26 |
-| 4 | [ghee](https://open.spotify.com/track/2tIuYjDRwnJfJEt4uDEjRl) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [ghee](https://open.spotify.com/album/2u7bj6y7s28vB8Vsa0QhCg) | 3:00 |
-| 5 | [empty beach](https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [empty beach](https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx) | 2:33 |
-| 6 | [Dream Drift](https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Dream Drift](https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi) | 2:04 |
+| 3 | [ghee](https://open.spotify.com/track/2tIuYjDRwnJfJEt4uDEjRl) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [ghee](https://open.spotify.com/album/2u7bj6y7s28vB8Vsa0QhCg) | 3:00 |
+| 4 | [Walk Away](https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Couch Potato](https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI) | 2:26 |
+| 5 | [Dream Drift](https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Dream Drift](https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi) | 2:04 |
+| 6 | [empty beach](https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [empty beach](https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx) | 2:33 |
 | 7 | [machine](https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng) | [aroramo](https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr) | [machine](https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz) | 2:08 |
 | 8 | [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 |
 | 9 | [what´s my name](https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [what´s my name](https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG) | 1:52 |
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 12 | [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 |
 | 13 | [Bottled Message](https://open.spotify.com/track/1jPB55XVsJo36Q7qnqr5v4) | [Coltsfoot](https://open.spotify.com/artist/2yWG9itzl6vVT4af2DPZoS) | [Bottled Message](https://open.spotify.com/album/0rgTLDn3rZBDe2facgkYWe) | 2:00 |
 | 14 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 |
-| 15 | [First Things First](https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [First Things First](https://open.spotify.com/album/26GxtM80uLUiS82C069HQm) | 2:06 |
-| 16 | [In The Clouds](https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [In The Clouds](https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e) | 2:24 |
-| 17 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 |
-| 18 | [still images](https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [still images](https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg) | 2:07 |
+| 15 | [In The Clouds](https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [In The Clouds](https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e) | 2:24 |
+| 16 | [First Things First](https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [First Things First](https://open.spotify.com/album/26GxtM80uLUiS82C069HQm) | 2:06 |
+| 17 | [still images](https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [still images](https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg) | 2:07 |
+| 18 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 |
 | 19 | [Fragments](https://open.spotify.com/track/2QCuFQMtOre4xzLglVQAOP) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf) | [Fragments](https://open.spotify.com/album/6c1f28v4fH9t5lQ4xa1AO2) | 2:00 |
 | 20 | [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 |
-| 21 | [Days to Come](https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Days to Come](https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW) | 2:27 |
-| 22 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
+| 21 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
+| 22 | [Days to Come](https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Days to Come](https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW) | 2:27 |
 | 23 | [Inconspicuous](https://open.spotify.com/track/2OnnVbgVtWHzLLSne6IXT8) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Inconspicuous](https://open.spotify.com/album/7njxinH6A0xtEB5QPO3A6b) | 1:57 |
 | 24 | [Open Doors](https://open.spotify.com/track/7GhpBmlLkehIvowAgeU7wU) | [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [At Ease](https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG) | 2:30 |
 | 25 | [Renaissance](https://open.spotify.com/track/6rjWO9LcpRRAovhVpJ93pr) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Renaissance](https://open.spotify.com/album/1j1RJtqUsyL4P9ATPCIf2x) | 2:08 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 39 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 |
 | 40 | [Give Me a Slice](https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ) | [Amai Beats](https://open.spotify.com/artist/0NtUCeUWjMMexOZfBoWnOp) | [Give Me a Slice](https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD) | 2:26 |
 | 41 | [Amnesia](https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Amnesia](https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67) | 2:25 |
-| 42 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
-| 43 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 |
-| 44 | [On The Surface](https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [On The Surface](https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3) | 2:05 |
-| 45 | [Golden Spices](https://open.spotify.com/track/4fqT0kNekNtRVzGu6Ln5bB) | [Bandarr](https://open.spotify.com/artist/7rOTQynBDwYkAxZpy9bSEi) | [Porcelain Nebula](https://open.spotify.com/album/1OE5DSycVW3eHCONqFsPAc) | 2:40 |
+| 42 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 |
+| 43 | [Golden Spices](https://open.spotify.com/track/4fqT0kNekNtRVzGu6Ln5bB) | [Bandarr](https://open.spotify.com/artist/7rOTQynBDwYkAxZpy9bSEi) | [Porcelain Nebula](https://open.spotify.com/album/1OE5DSycVW3eHCONqFsPAc) | 2:40 |
+| 44 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
+| 45 | [On The Surface](https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [On The Surface](https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3) | 2:05 |
 | 46 | [dawn to dawn](https://open.spotify.com/track/40LJYr9L3F8r2I1AXiV2QA) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [dawn to dawn](https://open.spotify.com/album/0BKPWdx8EYZxf81MCjot5C) | 2:31 |
 | 47 | [mirror maze](https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [mirror maze](https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp) | 2:28 |
 | 48 | [decorate](https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [decorate](https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt) | 2:25 |

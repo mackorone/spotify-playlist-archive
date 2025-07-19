@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Hey, JID \nthat's DOPE!",
+  "description": "Hey, Clipse\nthat's DOPE!",
   "name": "DOPE.",
   "tracks": [
     {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 248551,
       "name": "Beverly Drive",
       "url": "https://open.spotify.com/track/0OkPSNqgtzOZUiXXQmHKWX"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 130293,
       "name": "Carry It On",
       "url": "https://open.spotify.com/track/4nhEY6NPHhiNt1ZTDqoZ16"
@@ -3621,6 +3621,36 @@
     },
     {
       "album": {
+        "name": "ICED TEA (feat. 21 Savage, Project Pat & Coupe)",
+        "url": "https://open.spotify.com/album/4CxFVh0Sql5np80VHTKqbl"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        },
+        {
+          "name": "Coupe",
+          "url": "https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "ICED TEA (feat. 21 Savage, Project Pat & Coupe)",
+      "url": "https://open.spotify.com/track/48cyq6H1Ec3C1fGvoJFpSA"
+    },
+    {
+      "album": {
         "name": "ILL WHAT I BLEED",
         "url": "https://open.spotify.com/album/13qwsJ7ZhrTSPJLN8nhBCH"
       },
@@ -4852,7 +4882,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
@@ -4998,7 +5028,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 152013,
       "name": "No Bad News (feat. Kanye West)",
       "url": "https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp"
@@ -6597,6 +6627,32 @@
     },
     {
       "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
+    },
+    {
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -7391,6 +7447,36 @@
     },
     {
       "album": {
+        "name": "Time is Money",
+        "url": "https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197837,
+      "name": "Time Is Money",
+      "url": "https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi"
+    },
+    {
+      "album": {
         "name": "time to go",
         "url": "https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p"
       },
@@ -8085,6 +8171,32 @@
     },
     {
       "album": {
+        "name": "What Happens",
+        "url": "https://open.spotify.com/album/4wupDRVZTyWSn3yg8IHo6D"
+      },
+      "artists": [
+        {
+          "name": "Nieman J",
+          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154522,
+      "name": "What Happens",
+      "url": "https://open.spotify.com/track/3nUYsVWNPRaCh2a5PoOP2P"
+    },
+    {
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -8192,6 +8304,32 @@
       "duration_ms": 173861,
       "name": "Where They At",
       "url": "https://open.spotify.com/track/0OI6FqVRdAFhWOBo4tq0UV"
+    },
+    {
+      "album": {
+        "name": "ELEMENTS Vol. 2",
+        "url": "https://open.spotify.com/album/0Ign7x9QgYkG3sDMZhMAqY"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Saukrates",
+          "url": "https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73"
+        },
+        {
+          "name": "Jully Black",
+          "url": "https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230713,
+      "name": "Who's Driving You?",
+      "url": "https://open.spotify.com/track/7jVl8vn5RKZFXodIXZd13j"
     },
     {
       "album": {

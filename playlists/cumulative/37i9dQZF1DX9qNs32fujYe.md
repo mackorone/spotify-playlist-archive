@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
+> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Amon Amarth
 
-1,094 songs - 3 day 7 hr 42 min
+1,097 songs - 3 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Crimson Skies](https://open.spotify.com/track/0Jj1US4hB3vCZrgN8rHvRh) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Phantom Tomorrow](https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD) | 4:09 | 2022-11-18 | 2024-04-19 |
 | [Crimson Skies](https://open.spotify.com/track/0kAeOySijs6f5J97cEP5uq) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Crimson Skies](https://open.spotify.com/album/0SsMZzgebkTGO5mduRB7ji) | 4:09 | 2022-07-13 | 2022-08-30 |
 | [Cross the Divide](https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Cross The Divide](https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2) | 4:18 | 2025-01-31 |  |
-| [Crossing Over](https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB) | [Elysion](https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v) | [Bring Out Your Dead](https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf) | 4:02 | 2024-04-05 |  |
+| [Crossing Over](https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB) | [Elysion](https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v) | [Bring Out Your Dead](https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf) | 4:02 | 2024-04-05 | 2025-07-19 |
 | [Crossing the Blades](https://open.spotify.com/track/4diHw8YPlaaKbcqATN3WBd) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Crossing the Blades](https://open.spotify.com/album/4FMF6kWNYex6Poy4GA8FQ3) | 5:26 | 2021-12-17 | 2022-05-11 |
 | [Crow Killer Blues](https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 5:00 | 2022-07-13 |  |
 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 | 2024-01-26 |  |
@@ -413,6 +413,7 @@
 | [Hephaistos](https://open.spotify.com/track/29pGGSryvaKUklXcCkpiBI) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Hephaistos](https://open.spotify.com/album/0DIvSc4l7bbgBlpi479nQI) | 4:06 | 2021-12-17 | 2022-07-27 |
 | [Heroes](https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Heroes](https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN) | 3:45 | 2024-08-01 | 2025-05-24 |
 | [Heroes Are Calling](https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes Are Calling](https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e) | 2:59 | 2024-04-19 | 2024-09-14 |
+| [High Priestess Of The Night](https://open.spotify.com/track/3HGEyFRFdHwlCef4Jw1ajX) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [High Priestess Of The Night](https://open.spotify.com/album/11lrh8twUzhKKNaDzhcX3S) | 4:27 | 2025-07-18 |  |
 | [Higher](https://open.spotify.com/track/00U3KfqUWAsJV8GE2mi14b) | [NorthTale](https://open.spotify.com/artist/0cxYOcvgOWW1MJEoWeuCvg) | [Higher](https://open.spotify.com/album/3pp9yIzgFspykfMxcUhf54) | 3:45 | 2021-12-17 | 2022-04-21 |
 | [Higher Ground](https://open.spotify.com/track/5FKSyEdE0RvXOazOj2uEns) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [Higher Ground](https://open.spotify.com/album/1VWjKU9656yLo3YwtnSVPb) | 4:13 | 2025-01-31 | 2025-03-10 |
 | [Highlander \- English Version](https://open.spotify.com/track/6pihX9dY5MGrWIXNk2qqys) | [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI) | [Highlander](https://open.spotify.com/album/3hkHaaVtwSP3sWoQsj1mA5) | 3:19 | 2024-03-08 | 2024-06-24 |
@@ -478,7 +479,7 @@
 | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 | 2024-11-04 | 2025-01-11 |
 | [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 | 2025-05-16 |  |
 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 | 2022-03-22 | 2024-04-19 |
-| [In Waves](https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves](https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic) | 5:02 | 2024-04-05 |  |
+| [In Waves](https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves](https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic) | 5:02 | 2024-04-05 | 2025-07-19 |
 | [Inertia](https://open.spotify.com/track/7ojDrvflVkMCy5UErZxi8s) | [Scar Of The Sun](https://open.spotify.com/artist/771ZPlgDeS8Q3y35hm1wAk) | [Inertia](https://open.spotify.com/album/0DnGqEqHsg66rpYia3hrmQ) | 3:50 | 2022-01-07 | 2022-07-15 |
 | [Insatiable](https://open.spotify.com/track/1ttxIAucUPrVzeEILspoe0) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Insatiable](https://open.spotify.com/album/7f0BnKdZMy902smde28brF) | 2:59 | 2023-10-06 | 2023-10-30 |
 | [Into the Black](https://open.spotify.com/track/69uGltZ3kbIqYmPDHp1p2E) | [Lords of Black](https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z) | [Into the Black](https://open.spotify.com/album/4b99g7dJp9C9tCOIT03JaF) | 3:58 | 2021-12-17 | 2022-08-20 |
@@ -1043,9 +1044,10 @@
 | [We Don't Care](https://open.spotify.com/track/0pCmQxPKjj9roW9HJcgmYL) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [We Don't Care](https://open.spotify.com/album/0LCoxC1ihyaiygfwk7Rt3L) | 3:49 | 2024-08-23 | 2025-02-15 |
 | [We Drink Your Blood](https://open.spotify.com/track/3pWvRhml43vlUrGYlIzLM6) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 3:42 | 2022-08-19 | 2023-03-11 |
 | [We Love You](https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [We Love You](https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC) | 6:15 | 2023-05-12 | 2024-01-27 |
+| [We Rule the Waves](https://open.spotify.com/track/2OPtXK15baz70C4r9OaA18) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [We Rule the Waves](https://open.spotify.com/album/4b0t4as9hyLqBEMGttRT4t) | 3:50 | 2025-07-18 |  |
 | [We Stand Alone](https://open.spotify.com/track/4lNksX77bs7kU9qNMjUvzP) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Angelus Apatrida](https://open.spotify.com/album/5XuLS24vdrxouiBERuXTbr) | 4:11 | 2021-12-29 | 2022-07-23 |
 | [We Stand as One](https://open.spotify.com/track/3L8Bjiv40wAcxxmRrXUOwq) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [The Witch of the North](https://open.spotify.com/album/1P6qVXbuLcqJrVZpwoPGkX) | 5:11 | 2021-12-17 | 2022-07-27 |
-| [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 | 2025-05-02 |  |
+| [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 | 2025-05-02 | 2025-07-19 |
 | [We Will Rise](https://open.spotify.com/track/4DqG8CRMKIVHQ8SonkH6eH) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [We Will Rise](https://open.spotify.com/album/0M79v9JpirSe4epQpkL5xC) | 3:24 | 2021-12-17 | 2022-07-22 |
 | [We Will Rise](https://open.spotify.com/track/5dDpM2kdsFF4IMqsLIlajX) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [We Will Rise](https://open.spotify.com/album/3dy0hZ8sr2ixQwDyhgI5lZ) | 3:24 | 2023-01-20 | 2024-01-22 |
 | [Weight of Glory](https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies](https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU) | 2:46 | 2022-03-22 | 2022-04-12 |
@@ -1078,6 +1080,7 @@
 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 | 2023-05-19 |  |
 | [Witch](https://open.spotify.com/track/5MSdmihYEiWhtegR9Ji6mA) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [Witch](https://open.spotify.com/album/7jtLgmvH6nnulQ3mPZKzq6) | 3:39 | 2023-10-27 | 2024-05-03 |
 | [Wolf God](https://open.spotify.com/track/3pmLj6LC9eYGYFi4gqlH03) | [Grand Magus](https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN) | [Wolf God](https://open.spotify.com/album/0WPCnrgLMpR6dpdo2C83Tw) | 3:49 | 2021-12-17 | 2022-07-27 |
+| [WOLF I](https://open.spotify.com/track/6tOMYw2NXSyvSAtp7BiUJJ) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [WOLF I](https://open.spotify.com/album/4AjYtPVaXCKFe4EK5xdbfH) | 4:37 | 2025-07-18 |  |
 | [Wolves At The Door](https://open.spotify.com/track/4xcyvmg5RAdxdQRzvApaUN) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Wolves At The Door](https://open.spotify.com/album/0MVixPgkMXEeGQRMiNcuKR) | 5:54 | 2021-12-17 | 2022-07-25 |
 | [Wolves in Winter](https://open.spotify.com/track/6tk9GCcjDX5racqg7r6M4R) | [Demons & Wizards](https://open.spotify.com/artist/4O6RDLeFX5xuQ7IePFzVcl) | [Wolves in Winter](https://open.spotify.com/album/0LTwRczEIIffADBJr0VUXU) | 4:18 | 2021-12-17 | 2022-07-29 |
 | [Wolves Of War](https://open.spotify.com/track/5ciIVxJBbI45h6wvLKxFT7) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Interludium \(Deluxe Version\)](https://open.spotify.com/album/6GT4LxMljVb8iEe4G3vgJk) | 3:58 | 2023-04-14 | 2023-07-16 |

@@ -1,41 +1,13 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 82040,
+  "num_followers": 82042,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAA9aJ/IPavxRgMprXBfOZB9",
+  "snapshot_id": "aHg9AAAAAABT6Gsl31v589Z/Dhw0ECJ8",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Passando de Fase",
-      "url": "https://open.spotify.com/track/4ByxsdnhZPrxPqic935TJ0"
-    },
     {
       "added_at": null,
       "album": {
@@ -483,6 +455,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Passando de Fase",
+      "url": "https://open.spotify.com/track/4ByxsdnhZPrxPqic935TJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "viciado em mim",
         "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Que Voc\u00ea Faz",
-        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "O Que Voc\u00ea Faz",
-      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oriente Ac\u00fastico",
         "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 250851,
       "name": "Liberta",
       "url": "https://open.spotify.com/track/6tsmtDa7CAXIMSwWpXRUGQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Que Voc\u00ea Faz",
+        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "O Que Voc\u00ea Faz",
+      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
     },
     {
       "added_at": null,
@@ -1099,26 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "No Cais",
-      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Culpa \u00c9 das Igrejas / Sinais",
         "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 247975,
       "name": "A Culpa \u00c9 das Igrejas / Sinais",
       "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "No Cais",
+      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
     },
     {
       "added_at": null,
@@ -1175,6 +1175,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ciclo Vicioso (Deluxe)",
+        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 175135,
+      "name": "Eu To Mudada",
+      "url": "https://open.spotify.com/track/0h69bhGYL2mgspLIVfaNSD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -1199,26 +1219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ciclo Vicioso (Deluxe)",
-        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 175135,
-      "name": "Eu To Mudada",
-      "url": "https://open.spotify.com/track/0h69bhGYL2mgspLIVfaNSD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Efeito Violeta",
         "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
       },
@@ -1239,22 +1239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SALA VERMELHA #20 - Cynthia Luz",
-        "url": "https://open.spotify.com/album/5wZg7OKvX8y2sMcjyAdVTL"
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
       },
       "artists": [
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 161311,
-      "name": "SALA VERMELHA #20 - Cynthia Luz",
-      "url": "https://open.spotify.com/track/7jCAyZWThBcg1IWdSLWKWw"
+      "duration_ms": 232560,
+      "name": "Alaska, Pt. 2",
+      "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

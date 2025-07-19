@@ -4,7 +4,7 @@
 
 > Traditional country sounds from artists of yesterday and today.
 
-207 songs - 11 hr 55 min
+208 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,9 +82,10 @@
 | [I Got A Problem](https://open.spotify.com/track/46ELlro4wExQxafmUT6JQA) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [I Got A Problem](https://open.spotify.com/album/1B8rgYiOXCaPAzZKVQprXK) | 2:27 | 2023-09-08 | 2024-04-19 |
 | [I Got A Problem](https://open.spotify.com/track/5d9Sr7MXI5wSo6I53oW8Hx) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [I Got A Problem](https://open.spotify.com/album/4kBEIGrzwLM9J4hQnmjynt) | 2:27 | 2023-09-08 |  |
 | [I May Hate Myself In The Morning](https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There's More Where That Came From](https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs) | 4:32 | 2022-02-17 |  |
-| [I Met a Girl](https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Vinyl](https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g) | 3:21 | 2022-02-17 |  |
+| [I Met a Girl](https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Vinyl](https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g) | 3:21 | 2022-02-17 | 2025-07-19 |
 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 | 2024-08-19 |  |
 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 | 2022-05-13 |  |
+| [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7) | 2:53 | 2025-07-18 |  |
 | [I'd Do It Different](https://open.spotify.com/track/4rzD1EihpFtcWLtNAQ2ugc) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj) | [I'd Do It Different](https://open.spotify.com/album/5QAZosdEGZeS1cmIJcSm1b) | 3:28 | 2022-02-17 | 2023-01-21 |
 | [I'll Think Of A Reason Later](https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Some Things I Know](https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8) | 3:38 | 2022-06-10 | 2025-07-06 |
 | [I'm No Stranger to the Rain](https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:36 | 2022-02-17 | 2023-06-10 |

@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-279 songs - 16 hr 58 min
+280 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Songs About Jesus](https://open.spotify.com/track/7BIpImnCKnk5PHVYRC9vfa) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Songs About Jesus](https://open.spotify.com/album/7oWHCY0bUwwvVvj2saT4UR) | 3:17 | 2024-05-17 |  |
 | [Songs About Whiskey](https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 2:53 | 2024-04-19 | 2024-12-14 |
 | [Southern Gospel](https://open.spotify.com/track/04gSahNsdUScq5mdvGVU9T) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Southern Gospel](https://open.spotify.com/album/37ANr5ghqad7jp86QiVZVc) | 3:30 | 2022-07-29 | 2025-06-30 |
+| [STILL \(with Zach Williams\)](https://open.spotify.com/track/3Kv3w1eqprdpV2HHtM55aq) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [STILL \(with Zach Williams\)](https://open.spotify.com/album/4aDh8Dl7HGSqLlPf6GLVTK) | 3:12 | 2025-07-18 |  |
 | [Streets](https://open.spotify.com/track/4IGA2hFfOSJSw0gScaNCw6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now \(Deluxe\)](https://open.spotify.com/album/1KElY4EWWoOIQeYfpUbJrM) | 5:05 | 2021-12-10 |  |
 | [Sunday Drive](https://open.spotify.com/track/2GOncX7Qsx9Y2haYlfi0J5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/20oCDZCGgjonrJtxemoB4G) | 4:53 | 2021-12-10 |  |
 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 | 2022-07-15 | 2024-04-19 |

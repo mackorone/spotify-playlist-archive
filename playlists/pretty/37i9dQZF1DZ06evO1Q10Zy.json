@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 37206,
+  "num_followers": 37212,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACpm8fF0+vmzWOh23wZUC6+",
+  "snapshot_id": "aHg9AAAAAAAV15uenGnc2h9bEo8dULF4",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bonafide",
+        "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 273400,
+      "name": "Someone to Love (feat. Babyface)",
+      "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 450600,
       "name": "Slow Jams",
       "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bonafide",
-        "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
-      },
-      "artists": [
-        {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 273400,
-      "name": "Someone to Love (feat. Babyface)",
-      "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As a matter of fact",
-        "url": "https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 144581,
-      "name": "As a matter of fact",
-      "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tender Lover",
         "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 311533,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As a matter of fact",
+        "url": "https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 144581,
+      "name": "As a matter of fact",
+      "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Closer Look",
+        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 352866,
+      "name": "Two Occasions (Live) - Live Version",
+      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Return Of The Tender Lover",
         "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 276560,
       "name": "The Loneliness",
       "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Closer Look",
-        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 352866,
-      "name": "Two Occasions (Live) - Live Version",
-      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
     }
   ],
   "unique_name": "This Is Babyface",

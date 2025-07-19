@@ -8271,6 +8271,28 @@
     },
     {
       "album": {
+        "name": "GDLU (Preluxe)",
+        "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348144,
+      "name": "Animals (Pt. I) [with Eminem]",
+      "url": "https://open.spotify.com/track/3QKXo5IoMxnVwNm2bMRiVc"
+    },
+    {
+      "album": {
         "name": "play with earth! 0.03",
         "url": "https://open.spotify.com/album/527e8WrlMvJBEmlmt7kJCj"
       },
@@ -86917,28 +86939,6 @@
     },
     {
       "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2025-01-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252256,
-      "name": "pick up the phone",
-      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
-    },
-    {
-      "album": {
         "name": "pick up the phone",
         "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
       },
@@ -86958,6 +86958,32 @@
       "duration_ms": 252262,
       "name": "pick up the phone",
       "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
+    },
+    {
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252256,
+      "name": "pick up the phone (feat. Quavo)",
+      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
     },
     {
       "album": {

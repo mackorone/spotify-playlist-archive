@@ -1,6 +1,6 @@
 {
   "description": "When you know, you know. Eclectic love songs with delicate lyrics that say it best.",
-  "num_followers": 280684,
+  "num_followers": 280724,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-01-27 21:36:29",
       "album": {
-        "name": "Do You Like Me?",
-        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 227663,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
-    },
-    {
-      "added_at": "2025-01-27 21:36:29",
-      "album": {
         "name": ":)",
         "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 180568,
       "name": ":)",
       "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+    },
+    {
+      "added_at": "2025-01-27 21:36:29",
+      "album": {
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
       "added_at": "2025-01-27 21:36:29",
@@ -1209,20 +1209,32 @@
       "url": "https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j"
     },
     {
-      "added_at": "2025-06-04 03:23:59",
+      "added_at": "2025-01-27 21:36:29",
       "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/3GeBXNOa1KPiFXNyAqeChF"
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
       "artists": [
         {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 296316,
-      "name": "Forever Ever After",
-      "url": "https://open.spotify.com/track/4MGnciz1ka4fYa3gJO8NTM"
+      "duration_ms": 294626,
+      "name": "We're In Love",
+      "url": "https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH"
     }
   ],
   "unique_name": "Love Letter",

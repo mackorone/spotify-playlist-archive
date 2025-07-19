@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Miranda Lambert and Chris Stapleton
+> Today's top country hits\. Cover: Dylan Gossett
 
-904 songs - 2 day 0 hr 52 min
+906 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [All Again](https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 3:48 | 2024-03-01 | 2024-08-03 |
 | [All American](https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [All American](https://open.spotify.com/album/6lhrfOe8aN6TVyl1cynFmV) | 3:02 | 2021-09-18 | 2022-01-22 |
 | [All I Need Is You](https://open.spotify.com/track/02FAxAwzApe6pAqfAL3dLr) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All I Need Is You](https://open.spotify.com/album/1tc6XshhetHi2jagwM3UhS) | 2:42 | 2023-06-16 | 2023-10-14 |
+| [All My Exes \(feat\. Chase Matthew\)](https://open.spotify.com/track/0cjJKsmTPUZeZY5A9IyXca) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [All My Exes](https://open.spotify.com/album/6zGfim0ztjuT7qnXXXEDcW) | 2:53 | 2025-07-18 |  |
 | [All Night](https://open.spotify.com/track/0gv4JVcgmb8HihoucEXVxh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:48 | 2020-10-09 | 2020-10-18 |
 | [All On You](https://open.spotify.com/track/6wmX0tZ4Dkzg32z1k9x4Y5) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/09eDO7D2wqhuy1bMzfIpm9) | 3:10 | 2019-05-26\* | 2019-06-22 |
 | [All The Good Ones Are](https://open.spotify.com/track/1IjgkEL1a0oBxSulmkQOUR) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 3:23 | 2020-10-09 | 2020-10-18 |
@@ -410,11 +411,11 @@
 | [I Was On a Boat That Day](https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 2:58 | 2021-10-09 | 2021-11-06 |
 | [I Will \(When You Do\)](https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [I Will \(When You Do\)](https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH) | 3:27 | 2023-12-15 | 2024-04-19 |
 | [I Wish Grandpas Never Died](https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 4:10 | 2020-02-29 | 2020-03-28 |
-| [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7) | 2:53 | 2025-02-14 |  |
+| [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7) | 2:53 | 2025-02-14 | 2025-07-19 |
 | [I Wonder](https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Wonder](https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy) | 3:26 | 2022-11-04 | 2023-01-28 |
 | [I'll Be Lovin' You](https://open.spotify.com/track/1io22Thmgw4SvhVBNawJD5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:09 | 2023-03-03 | 2023-07-15 |
 | [I'll Be The One](https://open.spotify.com/track/4g02Ty2n2yAEiRidGVNgmG) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [I'll Be The One](https://open.spotify.com/album/4G47IFDXKyHDv5wTVPCtEC) | 3:21 | 2019-08-09 | 2019-11-16 |
-| [I'm Gonna Love You](https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I'm Gonna Love You](https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9) | 3:08 | 2024-09-27 |  |
+| [I'm Gonna Love You](https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I'm Gonna Love You](https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9) | 3:08 | 2024-09-27 | 2025-07-19 |
 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 | 2021-07-24 | 2021-11-13 |
 | [I'm Not Pretty](https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:01 | 2023-08-25 | 2024-01-20 |
 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 | 2025-01-31 | 2025-05-17 |
@@ -764,6 +765,7 @@
 | [The Bones](https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:17 | 2019-12-08 | 2020-03-14 |
 | [The Bones](https://open.spotify.com/track/7g9YrTuImvIkpS9uveKdCO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL...The Bones](https://open.spotify.com/album/3wRyo249Hi01jeaxnkJ49m) | 3:17 | 2019-05-26\* | 2019-12-11 |
 | [The Devil I Know](https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 3:07 | 2024-05-31 | 2024-08-03 |
+| [The Fall](https://open.spotify.com/track/4QpuZ1Qbcd11aOtY1kGMRg) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather Deluxe Edition](https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0) | 3:17 | 2025-07-18 |  |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 | 2025-04-26 |
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2021-01-30 | 2021-07-04 |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-17 | 2022-11-26 |

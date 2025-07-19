@@ -1,12 +1,12 @@
 {
   "description": "Get happy with today's dose of feel-good songs!",
-  "num_followers": 7858725,
+  "num_followers": 7858583,
   "original_name": "Mood Booster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEuiewAAAAAAaAUqxfrHO1BLX2ep4Fd5",
+  "snapshot_id": "aHnG4gAAAAC/gjvLEZ1NcyIrNQuVuFgM",
   "tracks": [
     {
       "added_at": "2025-05-28 20:17:15",
@@ -113,6 +113,22 @@
       "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
     },
     {
+      "added_at": "2025-07-18 04:00:34",
+      "album": {
+        "name": "I Can't Lose",
+        "url": "https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183284,
+      "name": "I Can\u2019t Lose",
+      "url": "https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H"
+    },
+    {
       "added_at": "2025-05-28 20:17:15",
       "album": {
         "name": "A Minute...",
@@ -127,6 +143,26 @@
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+    },
+    {
+      "added_at": "2025-05-28 20:17:15",
+      "album": {
+        "name": "Bloodline (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 182008,
+      "name": "Bloodline (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
       "added_at": "2025-06-13 04:00:59",
@@ -167,26 +203,6 @@
     {
       "added_at": "2025-05-28 20:17:15",
       "album": {
-        "name": "Bloodline (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Bloodline (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
-    },
-    {
-      "added_at": "2025-05-28 20:17:15",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -215,6 +231,58 @@
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2025-05-28 20:17:15",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
+    },
+    {
+      "added_at": "2025-07-18 04:00:34",
+      "album": {
+        "name": "LOVE INSANE (Feat. JAY of ENHYPEN)",
+        "url": "https://open.spotify.com/album/2U3VnUzhG6tRWT7ZrjOWQI"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "JAY (ENHYPEN)",
+          "url": "https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ"
+        }
+      ],
+      "duration_ms": 151067,
+      "name": "LOVE INSANE (Feat. JAY of ENHYPEN)",
+      "url": "https://open.spotify.com/track/3IglY1ukGerwdCA0FVWY2i"
+    },
+    {
+      "added_at": "2025-05-28 20:17:15",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2025-06-06 04:00:28",
@@ -251,22 +319,6 @@
       "duration_ms": 171488,
       "name": "Not At This Party - David Guetta Remix",
       "url": "https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io"
-    },
-    {
-      "added_at": "2025-05-28 20:17:15",
-      "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2025-05-28 20:17:15",
@@ -315,22 +367,6 @@
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
-    },
-    {
-      "added_at": "2025-05-28 20:17:15",
-      "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
     },
     {
       "added_at": "2025-05-28 20:17:15",
@@ -419,26 +455,6 @@
       "duration_ms": 148500,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
-    },
-    {
-      "added_at": "2025-05-28 20:17:15",
-      "album": {
-        "name": "Mind Reader (with Meghan Trainor)",
-        "url": "https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 151810,
-      "name": "Mind Reader (with Meghan Trainor)",
-      "url": "https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l"
     },
     {
       "added_at": "2025-05-28 20:17:15",
@@ -1187,26 +1203,6 @@
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I"
-    },
-    {
-      "added_at": "2025-05-28 20:17:15",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 155588,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
     },
     {
       "added_at": "2025-05-28 20:17:15",

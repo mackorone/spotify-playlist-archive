@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The playlist sin fronteras elevando a la M\u00fasica Mexicana. Cover: Jasiel Nu\u00f1ez",
+  "description": "The playlist sin fronteras elevando a la M\u00fasica Mexicana. Cover: Los Dareyes De La Sierra ",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -5105,6 +5105,28 @@
     },
     {
       "album": {
+        "name": "El De La Selva",
+        "url": "https://open.spotify.com/album/4vLqOoio32LjRfgOmfbBTm"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118067,
+      "name": "El De La Selva",
+      "url": "https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC"
+    },
+    {
+      "album": {
         "name": "El De Las Mieles",
         "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
       },
@@ -7516,7 +7538,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 220000,
       "name": "Hay Que Prender",
       "url": "https://open.spotify.com/track/5XFx9B2jKBSIg3GlBRaOim"
@@ -12498,7 +12520,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 152284,
       "name": "OTRA VEZ",
       "url": "https://open.spotify.com/track/02OSVDLiLEuHIQgWriH3mu"
@@ -15166,6 +15188,28 @@
       "duration_ms": 175271,
       "name": "Se Volvieron Locos",
       "url": "https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR"
+    },
+    {
+      "album": {
+        "name": "SECRETO",
+        "url": "https://open.spotify.com/album/7GVR3lkK8tz5kcOa6LnQfG"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208451,
+      "name": "SECRETO",
+      "url": "https://open.spotify.com/track/504VfM2pmclGufjypM5c59"
     },
     {
       "album": {

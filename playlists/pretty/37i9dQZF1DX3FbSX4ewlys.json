@@ -1,6 +1,6 @@
 {
   "description": "la generaci\u00f3n del discman y el walkman",
-  "num_followers": 49110,
+  "num_followers": 49140,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Left Of The Middle",
-        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 254240,
       "name": "Antologia",
       "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Ciega, Sordomuda",
-      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Ciega, Sordomuda",
+      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Sixpence None The Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 164280,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/43z6scIZU2QcEieMQFAJRG"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Tierna La Noche",
         "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 281520,
       "name": "Az\u00facar Amargo",
       "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "Sixpence None The Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 164280,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/43z6scIZU2QcEieMQFAJRG"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "The Best Of Hanson 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/1SNNc4pb0aA0GS2PsLr5b5"
+        "name": "Tiempo De Vals",
+        "url": "https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR"
       },
       "artists": [
         {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 238733,
-      "name": "MMMBop - Single Version",
-      "url": "https://open.spotify.com/track/2HNZxbvFvasRtlOJ9M6DgR"
+      "duration_ms": 247933,
+      "name": "Tiempo De Vals",
+      "url": "https://open.spotify.com/track/2d6m2u18196oYQS2mbaO6t"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Tiempo De Vals",
-        "url": "https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR"
+        "name": "The Best Of Hanson 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/1SNNc4pb0aA0GS2PsLr5b5"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
         }
       ],
-      "duration_ms": 247933,
-      "name": "Tiempo De Vals",
-      "url": "https://open.spotify.com/track/2d6m2u18196oYQS2mbaO6t"
+      "duration_ms": 238733,
+      "name": "MMMBop - Single Version",
+      "url": "https://open.spotify.com/track/2HNZxbvFvasRtlOJ9M6DgR"
     },
     {
       "added_at": "2024-07-05 01:24:37",

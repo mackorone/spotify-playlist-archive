@@ -1,29 +1,13 @@
 {
   "description": "Set the mood just right...",
-  "num_followers": 2168709,
+  "num_followers": 2169007,
   "original_name": "Make Out Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHDTGgAAAADAejqXBC8ufOr3vqPWZnEL",
+  "snapshot_id": "aHnG1gAAAABw07BIavnCW6MZZHqUbpyS",
   "tracks": [
-    {
-      "added_at": "2025-07-11 09:02:18",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "GO BABY",
-      "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
-    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2025-07-11 09:02:18",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "GO BABY",
+      "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
     },
     {
       "added_at": "2024-12-27 16:49:33",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
     },
     {
-      "added_at": "2025-05-17 02:53:08",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "supernatural",
-      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "ANTI (Deluxe)",
@@ -307,6 +291,22 @@
       "duration_ms": 224000,
       "name": "Love On The Brain",
       "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
+    },
+    {
+      "added_at": "2025-05-17 02:53:08",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 163381,
+      "name": "supernatural",
+      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn"
     },
     {
-      "added_at": "2025-07-03 03:47:59",
-      "album": {
-        "name": "God Went Crazy",
-        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 183034,
-      "name": "God Went Crazy",
-      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Moonlight",
@@ -915,6 +899,22 @@
       "duration_ms": 187557,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Perfect Girl",
+        "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 194423,
+      "name": "The Perfect Girl",
+      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -939,18 +939,34 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Perfect Girl",
-        "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
       "artists": [
         {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
         }
       ],
-      "duration_ms": 194423,
-      "name": "The Perfect Girl",
-      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "added_at": "2025-07-03 03:47:59",
+      "album": {
+        "name": "God Went Crazy",
+        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 183034,
+      "name": "God Went Crazy",
+      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
     },
     {
       "added_at": "2025-03-07 05:00:37",
@@ -967,22 +983,6 @@
       "duration_ms": 164398,
       "name": "Seoul City",
       "url": "https://open.spotify.com/track/3pY2M4k9BSk7ulLBSV0tcX"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "8701",
         "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 232114,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1565,22 +1565,6 @@
       "url": "https://open.spotify.com/track/5bYOsPMgWyQc94vtLz92ZH"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 196025,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
-    },
-    {
       "added_at": "2024-12-27 16:49:33",
       "album": {
         "name": "Two Star & The Dream Police",
@@ -1595,6 +1579,22 @@
       "duration_ms": 198295,
       "name": "Alesis",
       "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 196025,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1673,22 +1673,6 @@
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
       "added_at": "2025-06-20 16:26:03",
       "album": {
         "name": "with all due respect",
@@ -1707,6 +1691,22 @@
       "duration_ms": 186870,
       "name": "talk you through it (feat. FLO)",
       "url": "https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     }
   ],
   "unique_name": "Make Out Jams",

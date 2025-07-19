@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-127 songs - 7 hr 38 min
+130 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,12 +45,14 @@
 | [Enredadera](https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Pequeños Romances](https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo) | 4:55 | 2024-05-31 |  |
 | [Eres](https://open.spotify.com/track/5dOxmkHjQ0xJIyRzEJsn6e) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Eres](https://open.spotify.com/album/0KiWWTMscBa4ypgrTc8QVQ) | 3:06 | 2025-04-04 |  |
 | [Eres](https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Eres](https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg) | 3:33 | 2021-05-13 |  |
+| [Es Así](https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Así](https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb) | 3:27 | 2025-07-18 |  |
 | [Es Tan Facil Romper Un Corazon \(feat\. Mau Barona\)](https://open.spotify.com/track/0hbK1n62deXhuCCRXA3ZhL) | [Chris Correa](https://open.spotify.com/artist/6gP0olVV5ChX9cwrwv2dBK) | [Es Tan Facil Romper Un Corazon \(feat\. Mau Barona\)](https://open.spotify.com/album/6BKsP9ow0lUGA3mhREMoAx) | 3:44 | 2021-05-13 |  |
 | [Filofobia](https://open.spotify.com/track/0gTiTi0wm2EieibQieFBZ6) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Filofobia](https://open.spotify.com/album/651EBLpZFKrIrLuabctBzp) | 3:02 | 2023-09-08 | 2024-04-19 |
 | [Filofobia](https://open.spotify.com/track/4AmGJdxDucTNGfqJmIUzno) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Filofobia](https://open.spotify.com/album/5eRPK0NiYLmAnTGt8X8lvP) | 3:02 | 2023-02-24 |  |
 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 | 2021-05-13 |  |
 | [Fotografía \- En Directo](https://open.spotify.com/track/4csQ5jSxzM9NOmqjHhUHBj) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Manual De Viaje A Un Lugar Lejano \(En Directo\)](https://open.spotify.com/album/2ulvRTw9dtLhbHO5msBG2t) | 5:00 | 2021-05-13 |  |
 | [Frágil \- Acústico](https://open.spotify.com/track/790I7HQcQPuAYV3KQighlo) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Frágil \(Acústico\)](https://open.spotify.com/album/5pSWTmKOjHKFAI4DI4OydD) | 2:56 | 2024-07-19 |  |
+| [Google Maps](https://open.spotify.com/track/11hJPrFgP58sYa4621xUVW) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Google Maps](https://open.spotify.com/album/0ZOmmB5w1DCTmIh7dkwaGj) | 4:15 | 2025-07-18 |  |
 | [Guadalajara](https://open.spotify.com/track/1P1XBeRnmFevRWTpLjgxcy) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [Guadalajara](https://open.spotify.com/album/5tX54hwlZBMz78Rw44D4eS) | 3:31 | 2025-04-04 |  |
 | [Hasta La Raiz](https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Hasta La Raíz](https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT) | 2:44 | 2021-05-13 |  |
 | [Hogar](https://open.spotify.com/track/03DmOgo2fx4S5Baa0OzQbP) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Hogar](https://open.spotify.com/album/0kwVjm6F6vGo2Ef1G2mc4Q) | 2:52 | 2023-05-19 |  |
@@ -80,6 +82,7 @@
 | [María \- Unplugged](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 | 2021-05-13 |  |
 | [Mas Alto](https://open.spotify.com/track/4nKvT6FQe7pmpkrgeHJ6cT) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [La Reina Del Cañon](https://open.spotify.com/album/3gUh1r0qITb8RAqpvCbSSY) | 4:23 | 2025-05-09 |  |
 | [Me Haces Existir](https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:49 | 2021-05-13 |  |
+| [Me Levanté de la Cama](https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Me Levanté de la Cama](https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc) | 3:02 | 2025-07-18 |  |
 | [Me Presento](https://open.spotify.com/track/5whdmVRrXZ1dU2DWkNc5vn) | [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [Me Presento](https://open.spotify.com/album/3c9LupnZmRqoAHdzdSFMzC) | 3:24 | 2024-06-27 |  |
 | [Me Van A Matar](https://open.spotify.com/track/5DaOTjY1vz38V0RGrrRFGq) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:02 | 2021-05-13 |  |
 | [Me Voy](https://open.spotify.com/track/7EEbMTkfPqFVD5ZoLZLYiD) | [Helfy](https://open.spotify.com/artist/66d5Z5OpnmGw4yWdJbmXWm) | [Me Voy](https://open.spotify.com/album/2157W6oC9ZfjzJxRPO4vwO) | 2:10 | 2021-05-13 |  |

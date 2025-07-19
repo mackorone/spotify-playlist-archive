@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 46821,
+  "num_followers": 46830,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
     },
     {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 340893,
+      "name": "Noche De Ronda",
+      "url": "https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx"
+    },
+    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Samba Para Dos",
@@ -603,22 +619,6 @@
       "duration_ms": 606413,
       "name": "Samba Para Dos",
       "url": "https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 340893,
-      "name": "Noche De Ronda",
-      "url": "https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx"
     },
     {
       "added_at": "2019-10-04 16:01:14",

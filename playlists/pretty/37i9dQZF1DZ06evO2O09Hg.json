@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1648118,
+  "num_followers": 1648181,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACFMZ85x2ymEFc5IvY21/s/",
+  "snapshot_id": "aHg9AAAAAABkywKBqrSThGAcprPRFpNG",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legends Never Die (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "All Life Long",
+      "url": "https://open.spotify.com/track/7mSNtdW0ibJwhaoI2y6RAv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 163902,
       "name": "Flex (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legends Never Die (5 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "All Life Long",
-      "url": "https://open.spotify.com/track/7mSNtdW0ibJwhaoI2y6RAv"
     },
     {
       "added_at": null,

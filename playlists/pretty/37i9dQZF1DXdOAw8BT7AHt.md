@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock\. Cover: SPRINTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,903 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,928 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 32 | [Spineless](https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Keep Planting Flowers](https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR) | 3:23 |
 | 33 | [Johnny](https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Johnny](https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB) | 3:34 |
 | 34 | [Sense of Humor](https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Sense of Humor](https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4) | 3:15 |
-| 35 | [Stepping On A Rake](https://open.spotify.com/track/4j7xEmmnHVhhJfmCSfRc6W) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Fairyland Codex](https://open.spotify.com/album/2SCljWoTOQQORfiWbtGL5j) | 3:47 |
-| 36 | [Love & Co.](https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Crucible Of Life](https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm) | 2:39 |
+| 35 | [Love & Co.](https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Crucible Of Life](https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm) | 2:39 |
+| 36 | [Stepping On A Rake](https://open.spotify.com/track/4j7xEmmnHVhhJfmCSfRc6W) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Fairyland Codex](https://open.spotify.com/album/2SCljWoTOQQORfiWbtGL5j) | 3:47 |
 | 37 | [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 |
 | 38 | [Silver Cloud](https://open.spotify.com/track/4Tb2rQNklBSl7WrSzFPVy4) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 3:08 |
 | 39 | [Sick Of Being Down](https://open.spotify.com/track/6S33PGYHXqJQY5pSrdJsUP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Sick Of Being Down](https://open.spotify.com/album/38sDUnAK5fzcaPIvxVXvyB) | 3:24 |
@@ -70,21 +70,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 60 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
 | 61 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
 | 62 | [Sink Or Swim](https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Sink Or Swim](https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx) | 3:12 |
-| 63 | [Caffeine](https://open.spotify.com/track/03g8UUClsnR55SzLYSqWHy) | [Mattstagraham](https://open.spotify.com/artist/48wLB9JErgk9YvhvAC1KQI) | [Caffeine](https://open.spotify.com/album/3P6BQLq4WpAZ5DH4sJ4GAs) | 3:10 |
-| 64 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
-| 65 | [Che Guevara T\-Shirt](https://open.spotify.com/track/447CJp5XoK2xz8A21mu6Dt) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Che Guevara T\-Shirt](https://open.spotify.com/album/6GmzpO3olDI6OGmsyKAVra) | 2:55 |
-| 66 | [Heat Wave](https://open.spotify.com/track/4OmbsYdDMMa15LqDaiFM3S) | [Pig Pen](https://open.spotify.com/artist/5gz02MKm1uxQLcjE5Cs9Hr) | [Mental Madness](https://open.spotify.com/album/1B6SHyXYxJCSutqH7LJpf3) | 1:42 |
-| 67 | [Active Trauma](https://open.spotify.com/track/4yMM6709W39opUprK6dL7Y) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Active Trauma](https://open.spotify.com/album/6fAIfp3qHFsTduCiJfHQMn) | 1:49 |
+| 63 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
+| 64 | [Active Trauma](https://open.spotify.com/track/4yMM6709W39opUprK6dL7Y) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Active Trauma](https://open.spotify.com/album/6fAIfp3qHFsTduCiJfHQMn) | 1:49 |
+| 65 | [Heat Wave](https://open.spotify.com/track/4OmbsYdDMMa15LqDaiFM3S) | [Pig Pen](https://open.spotify.com/artist/5gz02MKm1uxQLcjE5Cs9Hr) | [Mental Madness](https://open.spotify.com/album/1B6SHyXYxJCSutqH7LJpf3) | 1:42 |
+| 66 | [Che Guevara T\-Shirt](https://open.spotify.com/track/447CJp5XoK2xz8A21mu6Dt) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Che Guevara T\-Shirt](https://open.spotify.com/album/6GmzpO3olDI6OGmsyKAVra) | 2:55 |
+| 67 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 | 68 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 |
-| 69 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
+| 69 | [Caffeine](https://open.spotify.com/track/03g8UUClsnR55SzLYSqWHy) | [Mattstagraham](https://open.spotify.com/artist/48wLB9JErgk9YvhvAC1KQI) | [Caffeine](https://open.spotify.com/album/3P6BQLq4WpAZ5DH4sJ4GAs) | 3:10 |
 | 70 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 |
 | 71 | [Junebug](https://open.spotify.com/track/1WyzPXw5x8wdEssO2cS0aW) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Junebug](https://open.spotify.com/album/7rkZzCrHPKUjVmjpBul358) | 3:16 |
-| 72 | [Anita Ride](https://open.spotify.com/track/28KqDZ2qWkxHHKWL32LlpN) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Anita Ride](https://open.spotify.com/album/0RipZBFRz6HZfS55MyNv7P) | 3:25 |
+| 72 | [Wearing Black](https://open.spotify.com/track/64WyR2OOqHbd3uQA3LH4wn) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Wearing Black](https://open.spotify.com/album/2TPOpoI8YI71QD4Y0Ziq9O) | 3:00 |
 | 73 | [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 |
-| 74 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 |
-| 75 | [Kingbreaker](https://open.spotify.com/track/2PzEuyNwf8TB1sfi8vnDpr) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Kingbreaker](https://open.spotify.com/album/3YikGzdMlbMEUNmRu3bPrF) | 1:59 |
+| 74 | [Anita Ride](https://open.spotify.com/track/28KqDZ2qWkxHHKWL32LlpN) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Anita Ride](https://open.spotify.com/album/0RipZBFRz6HZfS55MyNv7P) | 3:25 |
+| 75 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 |
 | 76 | [5168 Days](https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [5168 Days](https://open.spotify.com/album/54Hh6C6wWiLK9Rn4JKHLqg) | 3:15 |
-| 77 | [Wearing Black](https://open.spotify.com/track/64WyR2OOqHbd3uQA3LH4wn) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Wearing Black](https://open.spotify.com/album/2TPOpoI8YI71QD4Y0Ziq9O) | 3:00 |
+| 77 | [Kingbreaker](https://open.spotify.com/track/2PzEuyNwf8TB1sfi8vnDpr) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Kingbreaker](https://open.spotify.com/album/3YikGzdMlbMEUNmRu3bPrF) | 1:59 |
 | 78 | [Mirage](https://open.spotify.com/track/486JaB4ZK017faPW9kNpje) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Mirage](https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa) | 2:52 |
 | 79 | [nosebleeds](https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [i’m still breathing](https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI) | 3:02 |
 | 80 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |

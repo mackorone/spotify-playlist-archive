@@ -2,9 +2,9 @@
 
 ### [New Music Friday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWT2SPAYawYcO)
 
-> Brand new music from Ruel, Alex Warren, Flume, Emma Louise, FISHER, bbyclose + more
+> Brand new music from Ruel, Alex Warren, Flume, Emma Louise, FISHER, bbyclose, Zach Bryan, Gabriella Rose + more
 
-9,492 songs - 21 day 10 hr 51 min
+9,494 songs - 21 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1142,6 +1142,7 @@
 | [BODY TOUCHING BODY \(feat\. Victoria Monét\)](https://open.spotify.com/track/2NKUIkh9fZLR7C7PXiJIsP) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [BORN FOR GREATNESS](https://open.spotify.com/album/37A8OxnuHRRRd8QJcwzEfg) | 2:37 | 2023-09-07 | 2023-09-15 |
 | [BODYGUARD](https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:00 | 2024-03-28 | 2024-04-05 |
 | [Bodys Chorus](https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Bodys Chorus](https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4) | 3:58 | 2024-11-28 | 2024-12-06 |
+| [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 | 2025-07-18 |  |
 | [Bomb.com](https://open.spotify.com/track/0QKnVWBMfhPgMHgdqB6Chp) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bomb.com](https://open.spotify.com/album/6cZ5brFf1mSN6UnKLx4o6j) | 2:30 | 2024-10-24 | 2024-11-01 |
 | [Bon Appétit](https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Bon Appétit](https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk) | 3:17 | 2023-11-23 | 2023-12-01 |
 | [Bon Voyage](https://open.spotify.com/track/4CfjowwUEGviS86FoABRCJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Bon Voyage](https://open.spotify.com/album/5VWtm8CuxYiK11Ccv5D1VQ) | 3:43 | 2024-08-08 | 2024-08-16 |
@@ -5191,6 +5192,7 @@
 | [Made Your Bed](https://open.spotify.com/track/31MzWcw631ZhqvFSQFyZC0) | [Tori Forsyth](https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w) | [Made Your Bed](https://open.spotify.com/album/5WvxLCVOUaTSyftyLpWrFh) | 3:49 | 2023-11-23 | 2023-12-01 |
 | [Madeline](https://open.spotify.com/track/6yLHf0uepl3TKVmOWYR4h9) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Madeline](https://open.spotify.com/album/0GSV4bhUShntYdtI7AflFU) | 3:43 | 2024-06-27 | 2024-07-05 |
 | [Madeline](https://open.spotify.com/track/2LPkPV3xEQegxAp3dTQseZ) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Beach House EP](https://open.spotify.com/album/6rUHR6JumTPgpP3q5G3Usq) | 3:14 | 2023-06-15 | 2023-06-23 |
+| [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 | 2025-07-18 |  |
 | [MADMADWORLD](https://open.spotify.com/track/6h20YL68FGRqsfaoMrbXSi) | [Siala](https://open.spotify.com/artist/74NRwx8DjZNrYjExNs7X1D) | [MADMADWORLD](https://open.spotify.com/album/1piO3Yv9ulIhQ4308ovGh1) | 2:37 | 2025-07-10 | 2025-07-18 |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2023-11-02 | 2023-11-10 |
 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-09-05 | 2024-09-13 |
@@ -7435,7 +7437,7 @@
 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 | 2024-10-17 | 2024-10-25 |
 | [SO WHAT](https://open.spotify.com/track/2rYv2giHFPi4UDRlNUWh6D) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [SO WHAT](https://open.spotify.com/album/26OBK5ltVNsRhw9EtCtYa1) | 3:15 | 2024-08-01 | 2024-08-09 |
 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 | 2023-08-17 | 2023-08-25 |
-| [SOAK](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [SOAK](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-18 |  |
+| [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-18 |  |
 | [Sober](https://open.spotify.com/track/7zdb638L9029cS2v2PyHZY) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Sober](https://open.spotify.com/album/3TnYDTkVNfMDas18U22SEH) | 3:50 | 2024-06-27 | 2024-07-05 |
 | [SOBER](https://open.spotify.com/track/673krmlD3UUTMrn8coVoyg) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [SOBER](https://open.spotify.com/album/34EGXNAdQcDnduc5tkpGpm) | 2:50 | 2024-04-04 | 2024-04-12 |
 | [Soca](https://open.spotify.com/track/0YVnSnoAEFYKNdsNSSNaoC) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Soca](https://open.spotify.com/album/4qOdMNuIadjeRDbWunbWgp) | 2:46 | 2024-07-25 | 2024-08-02 |

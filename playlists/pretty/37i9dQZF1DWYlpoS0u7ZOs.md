@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: BEX
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,340 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,345 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

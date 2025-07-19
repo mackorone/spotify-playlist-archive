@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20245,
+  "num_followers": 20250,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACKcNkQhCJ50zhMSvYtNFlg",
+  "snapshot_id": "aHg9AAAAAAC7Zw4TKDNrck8VNpVyFD5/",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decline",
         "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 188172,
       "name": "Decline",
       "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankulize (Remix)",
-        "url": "https://open.spotify.com/album/4CEJZ6mKWl1zTMCyv6GYAZ"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 192017,
-      "name": "Bankulize - Remix",
-      "url": "https://open.spotify.com/track/2VX5UXX0VvAr4JtusKcbXP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sample You (Remix)",
         "url": "https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE"
       },
@@ -911,6 +891,46 @@
       "duration_ms": 213812,
       "name": "Sample You - Remix",
       "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marry",
+        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 209841,
+      "name": "Marry",
+      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bankulize (Remix)",
+        "url": "https://open.spotify.com/album/4CEJZ6mKWl1zTMCyv6GYAZ"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 192017,
+      "name": "Bankulize - Remix",
+      "url": "https://open.spotify.com/track/2VX5UXX0VvAr4JtusKcbXP"
     },
     {
       "added_at": null,
@@ -939,26 +959,6 @@
       "duration_ms": 213354,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marry",
-        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 209841,
-      "name": "Marry",
-      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
     },
     {
       "added_at": null,

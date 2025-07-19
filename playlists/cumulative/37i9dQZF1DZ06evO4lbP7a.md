@@ -4,7 +4,7 @@
 
 > This is yama\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 0 min
+85 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 | 2025-01-11 |  |
 | [D\(evil\) feat\. yama](https://open.spotify.com/track/64taNX9xrRu6cYf0a0v72w) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/2XskQcykcw8kEH6xkDjUkO) | 2:41 | 2023-12-26 |  |
 | [Downtown](https://open.spotify.com/track/3nQ0KEIfiXpO7CaawPcMrL) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Downtown](https://open.spotify.com/album/2rbYW032hNHIaUuVfMSnMD) | 3:28 | 2023-12-26 | 2025-04-27 |
+| [Ever](https://open.spotify.com/track/3WiGi6UeOTH1hhjCaTTQwT) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Ever](https://open.spotify.com/album/7x0EC8RQn7L2ZghQDGZ7qe) | 3:16 | 2025-07-19 |  |
 | [Film](https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 3:15 | 2025-03-08 |  |
 | [GRIDOUT](https://open.spotify.com/track/3vPxuqeKOCpguz5aqhHtQr) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [GRIDOUT](https://open.spotify.com/album/22yU6RnbXhgWPi53eDpSyS) | 2:57 | 2025-04-04 |  |
 | [Grown](https://open.spotify.com/track/31c9Tq85Z69RuBp7RSYBgy) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Reconnect / Grown](https://open.spotify.com/album/1ClCtBUepPqdue5we1Mrnj) | 2:55 | 2023-12-26 | 2024-02-01 |
@@ -88,7 +89,7 @@
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2023-12-26 | 2024-10-03 |
 | [色彩](https://open.spotify.com/track/5H37zP5tQCneoCRJEMRcnV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:12 | 2024-10-03 |  |
 | [血流](https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:28 | 2023-12-26 |  |
-| [返光（Movie Edition）](https://open.spotify.com/track/1lLsIUCAXc8U7QuS3J87Fu) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [返光（Movie Edition）](https://open.spotify.com/album/0QNXYlm9zDHKXZA8UFa3DQ) | 4:05 | 2023-12-26 |  |
+| [返光（Movie Edition）](https://open.spotify.com/track/1lLsIUCAXc8U7QuS3J87Fu) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [返光（Movie Edition）](https://open.spotify.com/album/0QNXYlm9zDHKXZA8UFa3DQ) | 4:05 | 2023-12-26 | 2025-07-19 |
 | [陽だまり](https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 5:13 | 2024-01-28 | 2024-04-13 |
 | [雫](https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [雫](https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa) | 4:36 | 2025-03-01 |  |
 | [麻痺](https://open.spotify.com/track/5v1dhqe9vgvp87eyd27hkb) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:18 | 2023-12-26 |  |

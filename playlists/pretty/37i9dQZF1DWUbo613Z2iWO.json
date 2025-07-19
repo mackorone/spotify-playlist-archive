@@ -1,13 +1,97 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover:  CARI",
-  "num_followers": 55974,
+  "description": "R&B of the moment by the artists of the future. Cover:  Isaia Huron",
+  "num_followers": 55986,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHC4GwAAAAA5p4F9pRIXbj+HriG6BCGa",
+  "snapshot_id": "aHnd8gAAAAAEbWzfy6meNWGUD70e+//B",
   "tracks": [
+    {
+      "added_at": "2025-07-18 05:38:58",
+      "album": {
+        "name": "FIDDY",
+        "url": "https://open.spotify.com/album/1bstRIaPe6BBqSP0goUYcM"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 222862,
+      "name": "FIDDY",
+      "url": "https://open.spotify.com/track/74XIK4w35FhBxTfkZ8dKd6"
+    },
+    {
+      "added_at": "2025-06-27 04:00:50",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/7oYlVvoOXd5vT7tH1Y6KNe"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 172366,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2pDPS1bUC7vARDFMFiE4Ll"
+    },
+    {
+      "added_at": "2025-07-18 05:38:58",
+      "album": {
+        "name": "Oakland Baby",
+        "url": "https://open.spotify.com/album/46jcanZS4AwhaavD9WAxTC"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 129850,
+      "name": "Oakland Baby",
+      "url": "https://open.spotify.com/track/1eCmhxAjTh2tJgyT9wntHL"
+    },
+    {
+      "added_at": "2025-07-18 05:38:58",
+      "album": {
+        "name": "Turning Me On",
+        "url": "https://open.spotify.com/album/0FfPRELBt3o766q99sVKW6"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 130119,
+      "name": "Turning Me On",
+      "url": "https://open.spotify.com/track/6BsCBcs9Mcek0Bg2LgzsVr"
+    },
+    {
+      "added_at": "2025-07-18 05:38:58",
+      "album": {
+        "name": "It's Me, Not You",
+        "url": "https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        }
+      ],
+      "duration_ms": 282444,
+      "name": "Same Ol\u2019 Love",
+      "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
+    },
     {
       "added_at": "2025-07-11 07:07:07",
       "album": {
@@ -41,58 +125,6 @@
       "url": "https://open.spotify.com/track/6BISvNEPsKcFuX8o0xPrOs"
     },
     {
-      "added_at": "2025-06-27 04:00:50",
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/7oYlVvoOXd5vT7tH1Y6KNe"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 172366,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/2pDPS1bUC7vARDFMFiE4Ll"
-    },
-    {
-      "added_at": "2025-06-27 04:00:50",
-      "album": {
-        "name": "I Choose You",
-        "url": "https://open.spotify.com/album/59oQeJbXbZnz69c9DksMEc"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 126902,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/62Q0tAz3JvaYUfTS2o0zrT"
-    },
-    {
-      "added_at": "2025-07-11 07:07:07",
-      "album": {
-        "name": "It's Me, Not You",
-        "url": "https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI"
-      },
-      "artists": [
-        {
-          "name": "JANE HANDCOCK",
-          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
-        }
-      ],
-      "duration_ms": 248045,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/36UBEKa5kVWmWW7JxDmyvm"
-    },
-    {
       "added_at": "2025-07-11 07:07:07",
       "album": {
         "name": "Stay Home",
@@ -107,6 +139,26 @@
       "duration_ms": 157021,
       "name": "Stay Home",
       "url": "https://open.spotify.com/track/7EHpanFygP4PvGj1XK5ZdZ"
+    },
+    {
+      "added_at": "2025-07-18 05:38:58",
+      "album": {
+        "name": "Toastyyy",
+        "url": "https://open.spotify.com/album/3q7h0Omq36LKtcGtmHufqk"
+      },
+      "artists": [
+        {
+          "name": "Genia",
+          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 147427,
+      "name": "Toastyyy",
+      "url": "https://open.spotify.com/track/5MhvKenRholQWMeJQkt7uL"
     },
     {
       "added_at": "2025-06-20 04:00:55",
@@ -179,6 +231,26 @@
       "duration_ms": 159322,
       "name": "Touch me (feat. Ya Levis)",
       "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
+    },
+    {
+      "added_at": "2025-07-18 05:38:58",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/1Nv8jZuC0lWUQPRvASlg1s"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "duration_ms": 214204,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/2mQPA3FjEoknJJPBmqMM4c"
     },
     {
       "added_at": "2025-06-27 04:00:50",
@@ -333,6 +405,22 @@
       "url": "https://open.spotify.com/track/46nmFflkXHOsvROPEMsxGr"
     },
     {
+      "added_at": "2025-07-18 05:38:58",
+      "album": {
+        "name": "Love Lost",
+        "url": "https://open.spotify.com/album/3rv9EP8mcHrVDku4nhIMLv"
+      },
+      "artists": [
+        {
+          "name": "Algee Smith",
+          "url": "https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/0NfSVJbmfCo0NOlA5tKM56"
+    },
+    {
       "added_at": "2025-06-20 04:00:55",
       "album": {
         "name": "Prettiest Girl (QueMix)",
@@ -367,22 +455,6 @@
       "duration_ms": 223738,
       "name": "PROMISE",
       "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
-    },
-    {
-      "added_at": "2025-06-27 04:00:50",
-      "album": {
-        "name": "BMF",
-        "url": "https://open.spotify.com/album/4yOiuDiKW9ahoYRAoEX1bF"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 154612,
-      "name": "BMF",
-      "url": "https://open.spotify.com/track/2qt9FKV2qvTBZX1ATFtNIC"
     },
     {
       "added_at": "2025-07-11 07:07:07",
@@ -699,22 +771,6 @@
     {
       "added_at": "2025-06-13 04:00:40",
       "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/6F8CRhHrrExSCk9ZZLxo4B"
-      },
-      "artists": [
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/0KAGwhaTafxQHXYHrw7dIl"
-    },
-    {
-      "added_at": "2025-06-13 04:00:40",
-      "album": {
         "name": "WHITEOUT",
         "url": "https://open.spotify.com/album/5vCEqiG1dV85k656D0qSxD"
       },
@@ -929,26 +985,6 @@
       "url": "https://open.spotify.com/track/4xlJlOrT1vgRrL2xxGHcRG"
     },
     {
-      "added_at": "2025-05-09 04:00:22",
-      "album": {
-        "name": "Sympathy",
-        "url": "https://open.spotify.com/album/4tU6JQsRx6NRmGPDLduQ8l"
-      },
-      "artists": [
-        {
-          "name": "Aaron Page",
-          "url": "https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ"
-        },
-        {
-          "name": "Domani",
-          "url": "https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq"
-        }
-      ],
-      "duration_ms": 179591,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/7AGwFQn8ETG3cE8MVSjXBT"
-    },
-    {
       "added_at": "2025-06-06 06:15:40",
       "album": {
         "name": "Cruel, Cruel World",
@@ -1131,22 +1167,6 @@
       "duration_ms": 96048,
       "name": "What I Gotta Do",
       "url": "https://open.spotify.com/track/74Plt6f5SaJrkQrKRxoCMQ"
-    },
-    {
-      "added_at": "2025-06-06 06:15:40",
-      "album": {
-        "name": "Club",
-        "url": "https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll"
-      },
-      "artists": [
-        {
-          "name": "BJRNCK",
-          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
-        }
-      ],
-      "duration_ms": 159512,
-      "name": "Club",
-      "url": "https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE"
     },
     {
       "added_at": "2025-05-30 04:33:38",
@@ -1365,6 +1385,22 @@
       "url": "https://open.spotify.com/track/0s7b23E8bLpvObuIGFKjwX"
     },
     {
+      "added_at": "2025-03-21 05:20:48",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6jLmRQtbgeKWp0qJ9rlKuM"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 201739,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3AhjqljvTK2yuiMHSJXQyx"
+    },
+    {
       "added_at": "2025-05-23 04:00:52",
       "album": {
         "name": "robbery",
@@ -1379,26 +1415,6 @@
       "duration_ms": 158902,
       "name": "robbery",
       "url": "https://open.spotify.com/track/5debpjgROE9Q7IiyrAZtF0"
-    },
-    {
-      "added_at": "2025-05-23 04:00:52",
-      "album": {
-        "name": "Risk It All (feat. Honey Bxby)",
-        "url": "https://open.spotify.com/album/270peq8BtBB3gRLJxI0Ouo"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        },
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 178543,
-      "name": "Risk It All (feat. Honey Bxby)",
-      "url": "https://open.spotify.com/track/0YwFzB0wgGn2XhloqPzVH6"
     },
     {
       "added_at": "2025-04-11 14:58:37",
@@ -2263,22 +2279,6 @@
       "duration_ms": 212500,
       "name": "I'll Be Good",
       "url": "https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p"
-    },
-    {
-      "added_at": "2025-03-21 05:20:48",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/6jLmRQtbgeKWp0qJ9rlKuM"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 201739,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3AhjqljvTK2yuiMHSJXQyx"
     },
     {
       "added_at": "2025-02-21 05:16:16",

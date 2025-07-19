@@ -1,29 +1,13 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 107597,
+  "num_followers": 107624,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAAQOMsp45bZRIaECg7M6Mub",
+  "snapshot_id": "aHg9AAAAAAD/H4odZd5UcEpXCJStRFcT",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trigger Finger",
-        "url": "https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Trigger Finger",
-      "url": "https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P"
-    },
     {
       "added_at": null,
       "album": {
@@ -119,6 +103,22 @@
       "duration_ms": 492066,
       "name": "Sloe Gin",
       "url": "https://open.spotify.com/track/5hob2jVM2gA74CyJ4G4bJZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trigger Finger",
+        "url": "https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Trigger Finger",
+      "url": "https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tales Of Time (Live)",
+        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 511933,
+      "name": "The Heart That Never Waits (Live)",
+      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S.O.S. 4: Blues For Your Soul",
         "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 246306,
       "name": "When Will I Let Her Go",
       "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tales Of Time (Live)",
-        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 511933,
-      "name": "The Heart That Never Waits (Live)",
-      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 400240,
+      "name": "Just 'Cos You Can Don't Mean You Should",
+      "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreak City",
         "url": "https://open.spotify.com/album/6069Q408vtPl0pcne5egPX"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 280360,
       "name": "I Know What I've Done",
       "url": "https://open.spotify.com/track/54eHBjp3SBOGXqP2gdJhWa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 400240,
-      "name": "Just 'Cos You Can Don't Mean You Should",
-      "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
     },
     {
       "added_at": null,

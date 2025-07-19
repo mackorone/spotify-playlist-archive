@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Kokoroko
 
-303 songs - 18 hr 11 min
+304 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Smooth Sailin'](https://open.spotify.com/track/7ll3XGMKU9EbyFc4JX3fqk) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Smooth Sailin'](https://open.spotify.com/album/4LRCHqOhJHx58Cp7UmGkVd) | 3:03 | 2021-10-01 | 2022-07-29 |
 | [So Far Apart](https://open.spotify.com/track/1Vw7Vrc20fQQKyiamAZdCG) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Wilderness Within You](https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2) | 4:16 | 2023-09-15 | 2024-04-19 |
 | [So Far Apart](https://open.spotify.com/track/2WAr6cxtkxJM4NYVNJhBDU) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [So Far Apart](https://open.spotify.com/album/39jts29CdvBOo6sMI5NTpy) | 4:16 | 2023-03-17 | 2025-01-15 |
+| [So It Goes](https://open.spotify.com/track/4T9ZCCAll4F0PYCPHWYSpJ) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [The Diamond Street Sessions](https://open.spotify.com/album/5sSO4OXzEb3GetOjKh9wCS) | 4:14 | 2025-07-18 |  |
 | [Sold My Soul](https://open.spotify.com/track/07YRWfNwH15kXCAz9E6GBR) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/1GvCetmOWQbkkmG6fpXWgu) | 6:11 | 2021-10-01 | 2022-07-29 |
 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 | 2022-06-01 | 2024-04-19 |
 | [Something In The Water](https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Something In The Water](https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM) | 3:23 | 2021-10-01 |  |
@@ -298,7 +299,7 @@
 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 | 2024-07-05 |  |
 | [We Can Always Come Back To This](https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3) | [Brian Tyree Henry](https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK) | [We Can Always Come Back To This \(Music From The Series This Is Us\)](https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN) | 4:14 | 2024-03-01 |  |
 | [We Shouldn't Talk About It \(feat\. Emily Gimble\)](https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25) | [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2), [Emily Gimble](https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK) | [Plus de Sauce](https://open.spotify.com/album/329yK2nEn3owPZOdYcFHvQ) | 2:26 | 2021-10-01 | 2023-04-02 |
-| [What Does It Mean to Be](https://open.spotify.com/track/2KBUrHOzhyEA6bnhCyB563) | [American Babies](https://open.spotify.com/artist/5VCANg5vJdUmB2GyD6A7iF) | [An Epic Battle Between Light and Dark](https://open.spotify.com/album/2oU1UJK8nE7HmL5EooMy1q) | 3:21 | 2021-10-01 |  |
+| [What Does It Mean to Be](https://open.spotify.com/track/2KBUrHOzhyEA6bnhCyB563) | [American Babies](https://open.spotify.com/artist/5VCANg5vJdUmB2GyD6A7iF) | [An Epic Battle Between Light and Dark](https://open.spotify.com/album/2oU1UJK8nE7HmL5EooMy1q) | 3:21 | 2021-10-01 | 2025-07-19 |
 | [What You Don't Do](https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [What You Don't Do](https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF) | 3:40 | 2021-10-01 |  |
 | [When We Were On Fire](https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Dark Of The Morning EP](https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy) | 3:59 | 2024-03-01 |  |
 | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy) | 3:39 | 2024-03-01 |  |

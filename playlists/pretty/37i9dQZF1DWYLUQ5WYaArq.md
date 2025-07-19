@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Celebrating 10 years of Currents, and the world and influence of Tame Impala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,517 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,532 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 20 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 | 21 | [Perfect Illusion](https://open.spotify.com/track/56ZrTFkANjeAMiS14njg4E) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:02 |
 | 22 | [Confide in Me](https://open.spotify.com/track/1NoHpCTOAjjwZQeA3dWyrb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Minogue](https://open.spotify.com/album/1g7UibEq6u73nf5gr5w3WD) | 4:26 |
-| 23 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 |
+| 23 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 |
 | 24 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 |
 | 25 | [1\-5\-9](https://open.spotify.com/track/3SRzqB4Wc1gAXdpJ2YOBtE) | [Koi Child](https://open.spotify.com/artist/3gBGBZz7YrFW3wQ0WUiDES) | [Koi Child](https://open.spotify.com/album/21wNeEaw7iFxDzvhHXEzcI) | 4:51 |
 | 26 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [Annie](https://open.spotify.com/track/73EP9JZ6jwrTSxIlOqanep) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [VEGA INTL\. Night School](https://open.spotify.com/album/6wE53FbAuCb6z8Ngem0bJG) | 4:02 |
 | 50 | [H.f.g.w \(Canyons Drunken Rage\)](https://open.spotify.com/track/2wxeIcUPu0hdlB8pFsxSAi) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Tame Impala](https://open.spotify.com/album/6E20CoLGEFPoBxJNTyMEIx) | 5:34 |
 
-Snapshot ID: `aHewfwAAAAC7cQuYPzJKxzrKB8vF+24P`
+Snapshot ID: `aHnbbQAAAACvHEYLdkIGFXtn3sT0+1eG`

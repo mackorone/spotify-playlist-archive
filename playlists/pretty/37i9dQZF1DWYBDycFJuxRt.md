@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Vaundy \*👉 <a href="https://spice.eplus.jp/articles/339374">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,782 likes - 86 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,834 likes - 86 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 32 | [巡ループ](https://open.spotify.com/track/6p8xc2hx0ZXDyFe4CNxSMy) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [巡ループ](https://open.spotify.com/album/1edhuNkoP27i5vOYM4qr35) | 4:12 |
 | 33 | [Be Alright](https://open.spotify.com/track/0OnWu3G0i9Kg4Mqha5QvvH) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Be Alright](https://open.spotify.com/album/6DWLBLfRNofRfjgKozFKKV) | 2:51 |
 | 34 | [One Bite](https://open.spotify.com/track/3qmqZ0xagja2QLmotPLXnD) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [One Bite](https://open.spotify.com/album/6dWrSCMiO8AWFvIXkoaQJg) | 2:38 |
-| 35 | [DOREMI](https://open.spotify.com/track/05NoTRUIxv24AvRfdPmMkV) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/5ySi9bqqdg7M5h8UdNSUWb) | 3:44 |
+| 35 | [DOREMI](https://open.spotify.com/track/5sDqhLuWrPyy0HWL4AYMe8) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/6R8YM1EtrlW6mOQTg93k9j) | 3:44 |
 | 36 | [愛が通り過ぎた跡](https://open.spotify.com/track/6lYyAMPOD6XXVNrVyxakAL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [愛が通り過ぎた跡](https://open.spotify.com/album/1IprJ7zbzRu4w0OhmBc14n) | 3:04 |
 | 37 | [Stand up](https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Stand up](https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh) | 3:55 |
 | 38 | [Lit me up like summer](https://open.spotify.com/track/7hpw5siAGpIixwclICzv2p) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Lit me up like summer](https://open.spotify.com/album/1zUC7eSQI55dAi02BIVuHv) | 3:22 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 85 | [Perm](https://open.spotify.com/track/3sn3fLNdDcEH0ARdfGiMLj) | [サウルス](https://open.spotify.com/artist/2hinMi1MTf5qoUysITWKW3) | [Perm](https://open.spotify.com/album/0c7z2wuZftlNYiePR1wbly) | 3:06 |
 | 86 | [CIEN ARAÑAS](https://open.spotify.com/track/5ypJc6N6xhPMcKJ64h19s5) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [CIEN ARAÑAS](https://open.spotify.com/album/1UvskZidWJeykqSosfV1Q4) | 2:25 |
 
-Snapshot ID: `aHeiagAAAABXmXnAFlcb8BRpROqbQeRZ`
+Snapshot ID: `aHnpxQAAAAAY1tLSgeJ7FMfg1cIGr3Ed`

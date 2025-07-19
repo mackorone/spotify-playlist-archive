@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The world series of Ska. Cover: Madness\n",
+  "description": "The world series of Ska. Cover: Sublime\n",
   "name": "Ska Around The Globe",
   "tracks": [
     {
@@ -3039,6 +3039,28 @@
     },
     {
       "album": {
+        "name": "El Insecto",
+        "url": "https://open.spotify.com/album/7lpWO0u641KTkfedlWP2Nr"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        },
+        {
+          "name": "La Lupita",
+          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211297,
+      "name": "El Insecto",
+      "url": "https://open.spotify.com/track/7AjLVPzp4u4CdT2JF5xM7K"
+    },
+    {
+      "album": {
         "name": "Bajo Palabra",
         "url": "https://open.spotify.com/album/0P6fdBVXRIYsx3HSCCd6ct"
       },
@@ -3054,6 +3076,28 @@
       "duration_ms": 163653,
       "name": "El Mi\u00f3n",
       "url": "https://open.spotify.com/track/6aHoNnabXZzxzsjZP2y8Rc"
+    },
+    {
+      "album": {
+        "name": "El Mosquito",
+        "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188772,
+      "name": "El Mosquito",
+      "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
     },
     {
       "album": {
@@ -3249,6 +3293,24 @@
     },
     {
       "album": {
+        "name": "Ensenada",
+        "url": "https://open.spotify.com/album/1uQ9JO4DlACYQiJWy3bGtw"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154484,
+      "name": "Ensenada",
+      "url": "https://open.spotify.com/track/2sRWqEaeb91Lv6KwDQnHlO"
+    },
+    {
+      "album": {
         "name": "Bailar\u00edn Apocal\u00edptico",
         "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
       },
@@ -3430,6 +3492,24 @@
       "duration_ms": 196240,
       "name": "Fashion Zombies!",
       "url": "https://open.spotify.com/track/6T2QCAFNrCOuLOJmF8H1dU"
+    },
+    {
+      "album": {
+        "name": "Fass die Uhr nicht an",
+        "url": "https://open.spotify.com/album/6qt1KwR5r0XGDtf1jOQWo1"
+      },
+      "artists": [
+        {
+          "name": "Rantanplan",
+          "url": "https://open.spotify.com/artist/06L7YPmlQkpMaKz8sFJsyM"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152938,
+      "name": "Fass Die Uhr Nicht An - Blast off NY",
+      "url": "https://open.spotify.com/track/1xfLcmQMzvTF0AmG76jTKs"
     },
     {
       "album": {
@@ -4084,7 +4164,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 209640,
       "name": "Haters Envy",
       "url": "https://open.spotify.com/track/21MjKwnm0PH5JV9ls5r2t1"
@@ -5829,6 +5909,32 @@
     },
     {
       "album": {
+        "name": "Looking Out For #1",
+        "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "Bob Rock",
+          "url": "https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL"
+        },
+        {
+          "name": "Adam Greenholtz",
+          "url": "https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150553,
+      "name": "Looking Out For #1 - Ska Version",
+      "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
+    },
+    {
+      "album": {
         "name": "Los Salvajes",
         "url": "https://open.spotify.com/album/1j5v9mz2gERAWz07Qnwmw5"
       },
@@ -6762,7 +6868,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 255500,
       "name": "Mudik",
       "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
@@ -7746,7 +7852,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 161818,
       "name": "Pancho",
       "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
@@ -8010,7 +8116,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 131594,
       "name": "Preface",
       "url": "https://open.spotify.com/track/2aIs7kCv6PcexznU1q4ALR"
@@ -8818,7 +8924,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 182600,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
@@ -11085,6 +11191,28 @@
     },
     {
       "album": {
+        "name": "The Slash",
+        "url": "https://open.spotify.com/album/0TCls5nFPP9LoBliC428gr"
+      },
+      "artists": [
+        {
+          "name": "Aurelio Voltaire",
+          "url": "https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241185,
+      "name": "The Slash",
+      "url": "https://open.spotify.com/track/5G5s543gsx1B4bqo85vn0n"
+    },
+    {
+      "album": {
         "name": "The Tears of a Clown",
         "url": "https://open.spotify.com/album/5wnW6dBs2MsXrl2prLPqYO"
       },
@@ -12400,7 +12528,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 243615,
       "name": "Yes It's True",
       "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"

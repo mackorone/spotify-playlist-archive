@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Araceli Julio FOR EVER! Viva el Ska Latino! Viva Sat\u00e9lite Kingston!",
-  "num_followers": 404919,
+  "num_followers": 404983,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
+        "name": "Hello Rockview",
+        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "All My Best Friends Are Metalheads",
+      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
         "name": "Slow Ride",
         "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 232444,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
-        "name": "Hello Rockview",
-        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "All My Best Friends Are Metalheads",
-      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "She Got Arrested",
-      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 186266,
       "name": "The Science of Selling Yourself Short",
       "url": "https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "She Got Arrested",
+      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "Ball Of Fire",
-        "url": "https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        }
-      ],
-      "duration_ms": 420840,
-      "name": "Rock Fort Rock",
-      "url": "https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
         "name": "Losing Streak",
         "url": "https://open.spotify.com/album/5cpnq6VX4FCWQJpm2tA8np"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 169106,
       "name": "Johnny Quest Thinks We're Sellouts",
       "url": "https://open.spotify.com/track/3Sl62Dyoh3wI3gLIJSypnb"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
+        "name": "Ball Of Fire",
+        "url": "https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "duration_ms": 420840,
+      "name": "Rock Fort Rock",
+      "url": "https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "No Piensa En Ti (Sonando Desde El Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/6RlTdExC3Yd0wIxL8MTpBw"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 217978,
-      "name": "No Piensa En Ti - Sonando Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/5ZY4KPgjOVBMAzZXdUIGyH"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 130373,
       "name": "180 Degrees",
       "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
+        "name": "No Piensa En Ti (Sonando Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/6RlTdExC3Yd0wIxL8MTpBw"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 217978,
+      "name": "No Piensa En Ti - Sonando Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/5ZY4KPgjOVBMAzZXdUIGyH"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
-      },
-      "artists": [
-        {
-          "name": "The Planet Smashers",
-          "url": "https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 220693,
       "name": "Beer",
       "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
+      },
+      "artists": [
+        {
+          "name": "The Planet Smashers",
+          "url": "https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
+        "name": "The Band Geek Mafia",
+        "url": "https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Glow Skulls",
+          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Delinquent Song",
+      "url": "https://open.spotify.com/track/44XOi657umNvDxNw8JvljD"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
         "name": "Kosmopoliturbo",
         "url": "https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "The Band Geek Mafia",
-        "url": "https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk"
+        "name": "Civil Disobedients",
+        "url": "https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs"
       },
       "artists": [
         {
-          "name": "Voodoo Glow Skulls",
-          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
+          "name": "Capdown",
+          "url": "https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb"
         }
       ],
-      "duration_ms": 194840,
-      "name": "Delinquent Song",
-      "url": "https://open.spotify.com/track/44XOi657umNvDxNw8JvljD"
+      "duration_ms": 251573,
+      "name": "Ska Wars",
+      "url": "https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1119,22 +1135,6 @@
       "duration_ms": 240000,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
-        "name": "Civil Disobedients",
-        "url": "https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs"
-      },
-      "artists": [
-        {
-          "name": "Capdown",
-          "url": "https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb"
-        }
-      ],
-      "duration_ms": 251573,
-      "name": "Ska Wars",
-      "url": "https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "Ordinary Life",
-        "url": "https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9"
-      },
-      "artists": [
-        {
-          "name": "We Are The Union",
-          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "Morbid Obsessions",
-      "url": "https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
         "name": "Arcade Perfect",
         "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 194640,
       "name": "Sound of a Revolution",
       "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
+        "name": "Ordinary Life",
+        "url": "https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9"
+      },
+      "artists": [
+        {
+          "name": "We Are The Union",
+          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "Morbid Obsessions",
+      "url": "https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "Cold in the City",
-        "url": "https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 206163,
-      "name": "Cold in the City",
-      "url": "https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
         "name": "Gemini, Her Majesty",
         "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 291147,
       "name": "Ruby Cumulous",
       "url": "https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
+        "name": "Cold in the City",
+        "url": "https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 206163,
+      "name": "Cold in the City",
+      "url": "https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
+        "name": "Stomp",
+        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
+      },
+      "artists": [
+        {
+          "name": "Big D and the Kids Table",
+          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Stepping Out",
+      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
         "name": "Crossfire",
         "url": "https://open.spotify.com/album/221u5wiwOUjnFbjXB04dX7"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 186674,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/0K1okkRcZ3Ruz3YdRFIGn6"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
-        "name": "Stomp",
-        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
-      },
-      "artists": [
-        {
-          "name": "Big D and the Kids Table",
-          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Stepping Out",
-      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "Up From The Downside",
-        "url": "https://open.spotify.com/album/4y2MyNht24cW6HhUm3NKK7"
-      },
-      "artists": [
-        {
-          "name": "Cherry Poppin' Daddies",
-          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
-        }
-      ],
-      "duration_ms": 275933,
-      "name": "Up From The Downside",
-      "url": "https://open.spotify.com/track/5MCLkQQ0uKJTjxubpgRJkT"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
         "name": "Self Care",
         "url": "https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 280626,
       "name": "Skinhead",
       "url": "https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
+        "name": "Up From The Downside",
+        "url": "https://open.spotify.com/album/4y2MyNht24cW6HhUm3NKK7"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Up From The Downside",
+      "url": "https://open.spotify.com/track/5MCLkQQ0uKJTjxubpgRJkT"
     },
     {
       "added_at": "2025-07-11 05:52:37",

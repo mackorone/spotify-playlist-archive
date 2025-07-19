@@ -2,9 +2,9 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más placosas y llegadoras de nuestra música! Al millón con Chuy Montana 🕊️🙏
+> ¡Las más placosas y llegadoras de nuestra música! Al millón con Tombochio, Chino Pacas.
 
-736 songs - 1 day 14 hr 36 min
+737 songs - 1 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Gracias a Ti](https://open.spotify.com/track/44PK0PRRKlF16JbXx6erQB) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Gracias a Ti](https://open.spotify.com/album/6KLyjUQiHec4t9KtcQFeph) | 3:25 | 2022-02-11 | 2022-03-05 |
 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 | 2024-03-22 | 2024-08-31 |
 | [GUCCI LOS PAÑOS](https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:06 | 2023-02-24 | 2023-04-01 |
-| [Géminis](https://open.spotify.com/track/4kfDvhPfvIdenNKFETFUkr) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Géminis](https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T) | 2:18 | 2025-06-20 |  |
+| [Géminis](https://open.spotify.com/track/4kfDvhPfvIdenNKFETFUkr) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Géminis](https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T) | 2:18 | 2025-06-20 | 2025-07-19 |
 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 | 2023-10-27 | 2024-05-25 |
 | [Hay Que Hacer Dinero](https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Hay Que Hacer Dinero](https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN) | 2:59 | 2022-04-15 | 2022-06-25 |
 | [Hecha Pa' Mí](https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Hecha Pa' Mí](https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF) | 3:15 | 2024-10-04 | 2025-03-07 |
@@ -596,6 +596,7 @@
 | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3) | 3:22 | 2021-12-17 | 2022-11-05 |
 | [Se Vienen Días Tristes](https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [¿Quién + Como Yo?](https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded) | 2:39 | 2025-05-23 |  |
 | [Se Volvieron Locos](https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [El Comienzo](https://open.spotify.com/album/0vCLnUAU6odhQC7c5zla9O) | 2:55 | 2025-04-04 |  |
+| [SECRETO](https://open.spotify.com/track/504VfM2pmclGufjypM5c59) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [SECRETO](https://open.spotify.com/album/7GVR3lkK8tz5kcOa6LnQfG) | 3:28 | 2025-07-18 |  |
 | [Secretos De Mi Memoria](https://open.spotify.com/track/09aZzS1QTGtrBx4Ys0xIRr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 4:07 | 2025-02-07 | 2025-03-07 |
 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 | 2023-09-22 | 2023-12-23 |
 | [Selfies](https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Selfies](https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg) | 3:00 | 2022-10-14 | 2022-12-10 |

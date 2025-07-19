@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,550 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,569 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 41 | [Maybe I'll Catch Fire](https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 3:07 |
 | 42 | [Blackbird](https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:20 |
 | 43 | [My Standard Break from Life](https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 2:34 |
-| 44 | [Over and Out](https://open.spotify.com/track/0MWnY2bmf7QnVsBVF4nzFC) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:13 |
+| 44 | [Kiss You To Death](https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:21 |
 | 45 | [Fuck You Aurora](https://open.spotify.com/track/2VDhNJigUBtbkxToyLPu2I) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 4:49 |
-| 46 | [Kiss You To Death](https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:21 |
-| 47 | [Cringe](https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/6600hazblXXS27uIdcPLBs) | 2:23 |
+| 46 | [Cringe](https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/6600hazblXXS27uIdcPLBs) | 2:23 |
+| 47 | [Over and Out](https://open.spotify.com/track/0MWnY2bmf7QnVsBVF4nzFC) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:13 |
 | 48 | [Is This Thing Cursed?](https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:43 |
 | 49 | [Dead End Road](https://open.spotify.com/track/4bbSe35IfOSjm2vYqdp4Af) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 3:08 |
-| 50 | [Do You Wanna Know?](https://open.spotify.com/track/29PCRRuIs7enxT7Oih4VEE) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:36 |
+| 50 | [The Sacrifice](https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Sacrifice / At Sickness](https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL) | 3:28 |
 
-Snapshot ID: `aHbrgAAAAABSp3CawLhh6LIazl3kKgB5`
+Snapshot ID: `aHg9AAAAAADZr/Qdn3OkTz9DE+IPDyod`

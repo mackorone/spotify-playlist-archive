@@ -4,7 +4,7 @@
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-79 songs - 6 hr 27 min
+80 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Psalm 84 \(I'm Home\)](https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:02 | 2023-03-17 |  |
 | [Psalm 90 \(Satisfy Us with Your Love\)](https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:15 | 2023-03-17 |  |
 | [Psalm 91 \(On Eagles' Wings\)](https://open.spotify.com/track/572afBiucwePeZgB1BBRfC) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 4:04 | 2023-03-17 |  |
+| [Reckless Love](https://open.spotify.com/track/6c9VDGxy9ya9T346SWa9ym) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 15](https://open.spotify.com/album/0Txe6THVtQlR42C0YPvUp4) | 5:38 | 2025-07-19 |  |
 | [Sovereign Over Us](https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:48 | 2023-03-17 |  |
 | [Speak O Lord](https://open.spotify.com/track/3aeNn39bXDyE2HNPkdYI62) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Modern Hymns](https://open.spotify.com/album/3um1S34YTMpbdo2kEum7k1) | 5:48 | 2024-09-05 | 2025-04-22 |
 | [Tell the Story \(Psalm 8\) \- Live](https://open.spotify.com/track/1sUB2adev4A2MPZaEFzsUk) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs \(Live\)](https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv) | 4:21 | 2023-04-04 | 2023-11-11 |
@@ -78,7 +79,7 @@
 | [Though You Slay Me](https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Bring Your Nothing](https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa) | 4:38 | 2023-03-17 | 2024-07-29 |
 | [Thy Word / Where Else Would I Go](https://open.spotify.com/track/4DNg9Fj8uPHFHyP9FiToOr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Thy Word / Where Else Would I Go](https://open.spotify.com/album/4MvZpn0juam6DajxgdwOI2) | 4:57 | 2024-06-30 | 2024-07-20 |
 | [Thy Word / Where Else Would I Go](https://open.spotify.com/track/4o42lXdzE4OvTJNIbPPhtV) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage, Vol\. 2](https://open.spotify.com/album/25aDYnEtVSRnxFEghUmGGy) | 4:57 | 2024-08-06 | 2024-08-26 |
-| [Turn Your Eyes Upon Jesus \(Acoustic\)](https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:50 | 2023-03-17 |  |
+| [Turn Your Eyes Upon Jesus \(Acoustic\)](https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:50 | 2023-03-17 | 2025-07-19 |
 | [Unto Him \(Jude 24\-25\) \- Live](https://open.spotify.com/track/3xlbN7RNiqrpMo4YCzUrkR) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs \(Live\)](https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv) | 4:33 | 2023-03-26 | 2023-12-14 |
 | [Worthy of It All \- Live](https://open.spotify.com/track/0adk2kXGdxRVILjoFUUeX4) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 25 \(Live\)](https://open.spotify.com/album/6AaJ2dqRVXDBEDC4HsaP7Q) | 6:21 | 2023-03-17 |  |
 | [Yahweh \(Psalm 84\)](https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Writers Well](https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Max Dasher](https://open.spotify.com/artist/3wq2iqRqMHZm9KQ8GybUCE) | [Psalms from the Well](https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic) | 4:58 | 2023-11-10 |  |

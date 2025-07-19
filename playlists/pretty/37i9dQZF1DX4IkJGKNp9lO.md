@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,411 likes - 140 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,414 likes - 140 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 37 | [Bipolär & Kär](https://open.spotify.com/track/6K0sbOwK1P3XPGCxBU6YNO) | [Krispig Botten](https://open.spotify.com/artist/6nSEM4Qp20aVhFWfjKfPVN) | [Bipolär & Kär](https://open.spotify.com/album/60S14JbrY1QAvPLinywSVz) | 3:05 |
 | 38 | [Parasit](https://open.spotify.com/track/1444rqkJkj584AmeUdHEbv) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Parasit](https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK) | 2:32 |
 | 39 | [Äganderätt?](https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F) | [Gymnastiken](https://open.spotify.com/artist/2Y0hhrOobEr0wh8JbCBiI2) | [Ännu En Gång](https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F) | 2:35 |
-| 40 | [Pappas tant](https://open.spotify.com/track/4yyEVHkCHDPmb4Ub83JfgL) | [Tant Strul](https://open.spotify.com/artist/2EUZieXlU07oWuMDi8H3KF) | [Klassiker](https://open.spotify.com/album/7djroGmIBob2EFwmbYNZA4) | 2:50 |
-| 41 | [Fablernas Värld](https://open.spotify.com/track/6jpKn9kaYlcKsq1XfJLLyu) | [Riksväg 51](https://open.spotify.com/artist/6Q2tDhc9HGjZbKR1SrafQv) | [Fablernas Värld](https://open.spotify.com/album/2PCDvwdeY2Iz3FwmmwVeA8) | 2:32 |
+| 40 | [Fablernas Värld](https://open.spotify.com/track/6jpKn9kaYlcKsq1XfJLLyu) | [Riksväg 51](https://open.spotify.com/artist/6Q2tDhc9HGjZbKR1SrafQv) | [Fablernas Värld](https://open.spotify.com/album/2PCDvwdeY2Iz3FwmmwVeA8) | 2:32 |
+| 41 | [Pappas tant](https://open.spotify.com/track/4yyEVHkCHDPmb4Ub83JfgL) | [Tant Strul](https://open.spotify.com/artist/2EUZieXlU07oWuMDi8H3KF) | [Klassiker](https://open.spotify.com/album/7djroGmIBob2EFwmbYNZA4) | 2:50 |
 | 42 | [Gamla ideal](https://open.spotify.com/track/2xDX2oOUlUJcNhJh7kqKhX) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Bland tomtar och troll](https://open.spotify.com/album/5qpQHc2lLSL8klOE7Yiyx0) | 3:22 |
 | 43 | [Boostade Egon](https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 1:08 |
 | 44 | [Meningslösa Måndag](https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [What We Did Best](https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp) | 4:03 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 61 | [Förlorarna](https://open.spotify.com/track/6XVXlChzCSbdpMbkPIKFMx) | [Hata Som Lejon](https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw) | [Förlorarna](https://open.spotify.com/album/3KeQBgt24FXOqtzEfpRJxT) | 3:11 |
 | 62 | [Sex Noll Två](https://open.spotify.com/track/2cDhN8iMlxEQPpjkcqCgQP) | [Shuvit](https://open.spotify.com/artist/1ydU8JWvSYgDkNetiiWxgM) | [Sex Noll Två](https://open.spotify.com/album/1RQDWa5oI0JVu5WUq9mxnw) | 3:29 |
 | 63 | [Innan du försvinner](https://open.spotify.com/track/38n2koCjpSxcGm5kiun02Q) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Innan du försvinner](https://open.spotify.com/album/5vzyrifDDM1ZfYSkVVPJSW) | 3:20 |
-| 64 | [BANG! \(Vi sänker Close\-up\-båten\)](https://open.spotify.com/track/4Sit1AqfvIgnio8QWuT9yt) | [Anal kallsup](https://open.spotify.com/artist/4b7yq9W7t6Sk5qw7EyVvPE) | [BANG! \(Vi sänker Close\-up\-båten\)](https://open.spotify.com/album/1Hy1mW2whKFkWAGPYv5XJt) | 1:58 |
-| 65 | [Åt helvete med kungafamiljen](https://open.spotify.com/track/6aVpTnwr4Z1cSRiUtdgAfI) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 1:12 |
+| 64 | [Åt helvete med kungafamiljen](https://open.spotify.com/track/6aVpTnwr4Z1cSRiUtdgAfI) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 1:12 |
+| 65 | [BANG! \(Vi sänker Close\-up\-båten\)](https://open.spotify.com/track/4Sit1AqfvIgnio8QWuT9yt) | [Anal kallsup](https://open.spotify.com/artist/4b7yq9W7t6Sk5qw7EyVvPE) | [BANG! \(Vi sänker Close\-up\-båten\)](https://open.spotify.com/album/1Hy1mW2whKFkWAGPYv5XJt) | 1:58 |
 | 66 | [Solidaritet](https://open.spotify.com/track/3YHnUzkxw8T74vSGWz9AO5) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Solidaritet](https://open.spotify.com/album/3oZ5BccCuonR7hvzAL1PM5) | 2:40 |
 | 67 | [Allting](https://open.spotify.com/track/3RcOF4HdKHLqFrG0h9Fjcj) | [Spader Kung](https://open.spotify.com/artist/2mEFbDp6rw4nL1p3RRGZ6t) | [Allting](https://open.spotify.com/album/4TeP1PFOOZ9piaT5K1n6jk) | 3:26 |
 | 68 | [Den här stan](https://open.spotify.com/track/7yHpuyqiWdljDEF855hMgC) | [Skithuvve](https://open.spotify.com/artist/74aaVl8iprrvSfvYUsyHIB) | [Bryter ihop för idag](https://open.spotify.com/album/5MWVgUzeKPg3dcY8u1t8o7) | 2:13 |
@@ -91,13 +91,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 81 | [Lamotten is nådd](https://open.spotify.com/track/0Ne2ltkBiEHWx2CqBj9t09) | [Headons](https://open.spotify.com/artist/5ILHTFZeVJHlBFC2MkbPe8) | [Bäst före 16\-10\-2014](https://open.spotify.com/album/33RtuRWy4kXhzg6tsqGy7E) | 1:08 |
 | 82 | [Idrottslärarn e sträng!](https://open.spotify.com/track/2mNxYWVvBvNUkVT4AlhzQ8) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 2:08 |
 | 83 | [Kollektivt självmord](https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT) | [Civil Olydnad](https://open.spotify.com/artist/1Ec2RuosR3mXrq6Q6egvUK) | [Kollektivt självmord](https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L) | 1:43 |
-| 84 | [Leviatan](https://open.spotify.com/track/0ycZqaqz68u8u7nYLUdQaE) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 2:15 |
+| 84 | [Röda stugor med ruttnande knutar](https://open.spotify.com/track/53Rpz0CH9beiCm7n7OaVja) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 3:08 |
 | 85 | [Perfektion](https://open.spotify.com/track/2BC87opiqN4nkYnzUdEwzR) | [Siken för Helvete](https://open.spotify.com/artist/02S9xjQRvXIyEUkmtIfHIw) | [Perfektion](https://open.spotify.com/album/4j9ASlDUrwhNnDU9LVXWXR) | 1:41 |
 | 86 | [Håll er borta](https://open.spotify.com/track/6Z4AJPLETPWXWiTAJ2jeO3) | [Strikt](https://open.spotify.com/artist/038TPyCS10QOwQQWOaAOF7) | [Håll er borta](https://open.spotify.com/album/21bgNIWT3KRS1SES6CBcQ2) | 3:16 |
 | 87 | [Bilan Faller](https://open.spotify.com/track/21380NKEU260jmXgzIuB2u) | [Bödel](https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa) | [Bilan Faller](https://open.spotify.com/album/3dTPA6G1AQMSlHFSZVb6pb) | 2:13 |
 | 88 | [Tid\-övertid](https://open.spotify.com/track/3bYTorXoefvnMoVpFLYMHn) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tid\-övertid](https://open.spotify.com/album/6mZtFPUxeQ0VUDyuADt2Wa) | 2:48 |
 | 89 | [Du E Plast](https://open.spotify.com/track/1j4OXmGlWv9dlaS9u5htdt) | [City Saints](https://open.spotify.com/artist/3OqJ3cRfFxPVKATChVmrho), [Christer "Blomman" Blomgren](https://open.spotify.com/artist/3zadbGPA3eib5aidFnvzen) | [Du E Plast](https://open.spotify.com/album/6Wp0WRKdyr5osrASK5A0r4) | 1:21 |
-| 90 | [Röda stugor med ruttnande knutar](https://open.spotify.com/track/53Rpz0CH9beiCm7n7OaVja) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 3:08 |
+| 90 | [Leviatan](https://open.spotify.com/track/0ycZqaqz68u8u7nYLUdQaE) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 2:15 |
 | 91 | [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 |
 | 92 | [Fattigdom suger!](https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 2:21 |
 | 93 | [Lördag kan bli farlig](https://open.spotify.com/track/6lAmB5k8Hjrl5k77f99v3L) | [DÖDSÖGONBLICKET](https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU) | [Lördag kan bli farlig](https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs) | 1:36 |

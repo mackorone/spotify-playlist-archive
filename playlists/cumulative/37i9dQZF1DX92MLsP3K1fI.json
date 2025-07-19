@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Paloma Mami en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Cancamusa en portada.",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -422,7 +422,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 155121,
       "name": "Al Mali (TQM, BB)",
       "url": "https://open.spotify.com/track/58PPaCuX97R4Pl4ChqPlrV"
@@ -630,6 +630,24 @@
       "duration_ms": 194210,
       "name": "ANTES",
       "url": "https://open.spotify.com/track/18z0oXWIOBLT3qruaegt5o"
+    },
+    {
+      "album": {
+        "name": "Antes de que apague el sol",
+        "url": "https://open.spotify.com/album/5JIWBd8fxFUALqYyJw6ltf"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Antes de que apague el sol",
+      "url": "https://open.spotify.com/track/0tzIXA7B2NkhASmE7r06vC"
     },
     {
       "album": {
@@ -2818,7 +2836,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 149210,
       "name": "Donde Quiero Estar",
       "url": "https://open.spotify.com/track/2LXFXj4xmV5d86o3LQ6fjn"
@@ -3782,7 +3800,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 212326,
       "name": "Fondo",
       "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
@@ -4706,7 +4724,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "La Otra",
       "url": "https://open.spotify.com/track/5lArsjEue0iJAZeoPv3RJV"
@@ -9826,6 +9844,24 @@
       "duration_ms": 186617,
       "name": "Verano En NY",
       "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
+    },
+    {
+      "album": {
+        "name": "canciones tristes pa no llorar",
+        "url": "https://open.spotify.com/album/0FaRNdli65vIkMkKCk01cq"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159254,
+      "name": "vete conmigo d la disco",
+      "url": "https://open.spotify.com/track/14grcOL24xAh8vRjwmK7Rt"
     },
     {
       "album": {

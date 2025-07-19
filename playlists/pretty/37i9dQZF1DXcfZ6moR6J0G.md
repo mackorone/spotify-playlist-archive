@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > John Otto, take 'em to the Matthews Bridge!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,061,155 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,061,723 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,15 +59,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 49 | [Counterfeit](https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 5:08 |
 | 50 | [Jumpdafuckup](https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Primitive \(Special Edition\)](https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l) | 5:11 |
 | 51 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
-| 52 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 |
-| 53 | [Southtown](https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:07 |
+| 52 | [Southtown](https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:07 |
+| 53 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 |
 | 54 | [I Stand Alone](https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk) | 4:06 |
 | 55 | [Bodies](https://open.spotify.com/track/1cqWEQ6TRfYr3SBNh7Ni2w) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner \(Unlucky 13th Anniversary Deluxe Edition\)](https://open.spotify.com/album/74n5sNia8GcWvAeJ1z40Tb) | 3:22 |
 | 56 | [I'm So Sick](https://open.spotify.com/track/3v0ylYF51SKkgAi4PrfKTq) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/0k64QfYJiwT7ko5K8z91S3) | 2:56 |
 | 57 | [New Skin](https://open.spotify.com/track/2peJ2zSVyENaSIvA6k3c6M) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:51 |
 | 58 | [Death Blooms](https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 4:51 |
-| 59 | [Poem](https://open.spotify.com/track/7mQwxVogsnpR3h6AJLQLlR) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Welcome](https://open.spotify.com/album/713d2aig86cskmj4zdL9nR) | 3:09 |
-| 60 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
+| 59 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
+| 60 | [Poem](https://open.spotify.com/track/7mQwxVogsnpR3h6AJLQLlR) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Welcome](https://open.spotify.com/album/713d2aig86cskmj4zdL9nR) | 3:09 |
 | 61 | [Black](https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Sevendust \(Definitive Edition\)](https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3) | 4:08 |
 | 62 | [Stoopid](https://open.spotify.com/track/3lvMZTPh9snQKo4OiP13CU) | [Snot](https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8) | [Get Some](https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda) | 3:52 |
 | 63 | [Vitamin](https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:13 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 76 | [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 |
 | 77 | [Price to Play](https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 3:35 |
 | 78 | [Drowning](https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 3:18 |
-| 79 | [Bartender](https://open.spotify.com/track/5yrGsJoG4FsTg6luHlNGK2) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [The Best Of \(Hed\) Planet Earth](https://open.spotify.com/album/5V71iMTF4jNj6cBJkAqNjI) | 4:00 |
-| 80 | [Pitiful](https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Silence](https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl) | 3:12 |
+| 79 | [Pitiful](https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Silence](https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl) | 3:12 |
+| 80 | [Bartender](https://open.spotify.com/track/5yrGsJoG4FsTg6luHlNGK2) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [The Best Of \(Hed\) Planet Earth](https://open.spotify.com/album/5V71iMTF4jNj6cBJkAqNjI) | 4:00 |
 
 Snapshot ID: `aArgcgAAAAARsO+fCokwK580lpo3Updx`

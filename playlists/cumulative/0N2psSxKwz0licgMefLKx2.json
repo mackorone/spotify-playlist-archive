@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: James Barker Band",
+  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross",
   "name": "New Country Hits (Country Life)",
   "tracks": [
     {
@@ -128,6 +128,28 @@
       "duration_ms": 191839,
       "name": "After All The Bars Are Closed",
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "album": {
+        "name": "About A Woman (& A Good Ol' Boy)",
+        "url": "https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187917,
+      "name": "Ain't A Bad Life",
+      "url": "https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt"
     },
     {
       "album": {
@@ -398,6 +420,24 @@
       "duration_ms": 189924,
       "name": "Band On Her T-Shirt",
       "url": "https://open.spotify.com/track/3aQH4moGvuz3JTU4I2lsFW"
+    },
+    {
+      "album": {
+        "name": "Bar None",
+        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173064,
+      "name": "Bar None",
+      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
     },
     {
       "album": {
@@ -3079,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "Later Tonight",
+        "url": "https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "Later Tonight",
+      "url": "https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7"
+    },
+    {
+      "album": {
         "name": "Leads Me Home",
         "url": "https://open.spotify.com/album/3BWWEzqzihiQp8EOQQLNNZ"
       },
@@ -3108,7 +3166,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 168680,
       "name": "Learn The Hard Way",
       "url": "https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT"
@@ -5387,6 +5445,24 @@
     },
     {
       "album": {
+        "name": "Westward",
+        "url": "https://open.spotify.com/album/22iWmNK24h2hurzUzXnY1V"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179022,
+      "name": "Sweet Lady",
+      "url": "https://open.spotify.com/track/3qki7H1syBM1mvFXAVgjn8"
+    },
+    {
+      "album": {
         "name": "Tail Lights",
         "url": "https://open.spotify.com/album/3UnKGVmIllBTCsAbj4i9Wk"
       },
@@ -5657,6 +5733,24 @@
     },
     {
       "album": {
+        "name": "Till I Get To Heaven",
+        "url": "https://open.spotify.com/album/0Nv8TTXDUNOLfWU5PzGx9L"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Till I Get To Heaven",
+      "url": "https://open.spotify.com/track/11keHpMPuloSDRF7iEAm8a"
+    },
+    {
+      "album": {
         "name": "Too Good to be True",
         "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
       },
@@ -5852,6 +5946,24 @@
       "duration_ms": 205573,
       "name": "Turn",
       "url": "https://open.spotify.com/track/75gZhzqWDaqJgy19YERY5g"
+    },
+    {
+      "album": {
+        "name": "Turn On The Lights",
+        "url": "https://open.spotify.com/album/3oCS87hsUM8NDpoGsvrRBL"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214103,
+      "name": "Turn On The Lights",
+      "url": "https://open.spotify.com/track/0dFJxcjmxNma9wt40UAn41"
     },
     {
       "album": {

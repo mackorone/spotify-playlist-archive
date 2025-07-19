@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-05-30",
   "description": "Get ready for the upcoming concert by listening to the best songs from the concert lineup! The interview is coming soon! (\ubbf8\ud305\ub8f8 \ucc38\uac00 \ub77c\uc778\uc5c5\uc758 \ubca0\uc2a4\ud2b8 \uace1\ub4e4\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \uacf5\uc5f0\uc744 \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
-  "name": "MEETING ROOM - 001",
+  "name": "MEETING ROOM - 002",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 206000,
       "name": "A Fleeting Dream",
       "url": "https://open.spotify.com/track/3lbJFgvy8T89ZN5qYHquVI"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 196625,
       "name": "Algorithm",
       "url": "https://open.spotify.com/track/19Vb1qOI9p2ehcERTbp0eb"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 180318,
       "name": "And",
       "url": "https://open.spotify.com/track/6LLUwTdSNX87kRjY6q6jQ4"
@@ -70,10 +70,28 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 184426,
       "name": "Annoying Magician",
       "url": "https://open.spotify.com/track/08zhrnVDU158EaDwsnO3dQ"
+    },
+    {
+      "album": {
+        "name": "PoP!? Plant",
+        "url": "https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212321,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/3gw7wDia6YZfngCTPw8Eon"
     },
     {
       "album": {
@@ -88,7 +106,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 280592,
       "name": "Arrogant Person",
       "url": "https://open.spotify.com/track/38mmijeCb3MpWjaT58Tk1i"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 172497,
       "name": "At The Square",
       "url": "https://open.spotify.com/track/2ynpYlJ5CAw69BK791TAA7"
@@ -124,10 +142,64 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 299966,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/3qskC8JU43ViEaAialvezb"
+    },
+    {
+      "album": {
+        "name": "Drowsiness of DOEK",
+        "url": "https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175875,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/5A2nLhK3EcURO5IL1h1J2v"
+    },
+    {
+      "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349640,
+      "name": "Cloud City",
+      "url": "https://open.spotify.com/track/6PpiaBT36awZoXl0G3rjPt"
+    },
+    {
+      "album": {
+        "name": "Drowsiness of DOEK",
+        "url": "https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63000,
+      "name": "DOOR PLANT",
+      "url": "https://open.spotify.com/track/4vJrV5opMzpBZ3pi8KEM94"
     },
     {
       "album": {
@@ -142,7 +214,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 182154,
       "name": "Drive Living Dead",
       "url": "https://open.spotify.com/track/1pGncZ6azi9P7am6E164p8"
@@ -160,10 +232,28 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 190666,
       "name": "Dying Star",
       "url": "https://open.spotify.com/track/60fJwXfsLswVout8DYaAzf"
+    },
+    {
+      "album": {
+        "name": "PoP!? Plant",
+        "url": "https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226163,
+      "name": "East To Earth",
+      "url": "https://open.spotify.com/track/1eVbCGzNmahnxDz77Gch9G"
     },
     {
       "album": {
@@ -178,10 +268,28 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 250432,
       "name": "Flower",
       "url": "https://open.spotify.com/track/2wtVTHWTIM6j3SQX8ukyGI"
+    },
+    {
+      "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321546,
+      "name": "Flower Tail",
+      "url": "https://open.spotify.com/track/6PorHyMtGAV6tfuY37gGDL"
     },
     {
       "album": {
@@ -196,7 +304,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 253874,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/1sXgvMxfhPaVUDjsmSXLe6"
@@ -214,7 +322,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 242133,
       "name": "HANA",
       "url": "https://open.spotify.com/track/1AwrXfDO0AH9WaM5uuojMQ"
@@ -232,10 +340,68 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 249013,
       "name": "HYS",
       "url": "https://open.spotify.com/track/41BhpkssE5sqdOso5B7Xiz"
+    },
+    {
+      "album": {
+        "name": "Drowsiness of DOEK",
+        "url": "https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        },
+        {
+          "name": "Yonlapa",
+          "url": "https://open.spotify.com/artist/32ooaUUIwxLFGvXVOGWdBt"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235372,
+      "name": "I love to sleep more than you",
+      "url": "https://open.spotify.com/track/7yZT1DnSMfaUqSncqb2nKx"
+    },
+    {
+      "album": {
+        "name": "I'M GONNA BREAKDOWN AGAIN",
+        "url": "https://open.spotify.com/album/48Nw5E9oWA603BQXtphrsf"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "I'M GONNA BREAKDOWN AGAIN",
+      "url": "https://open.spotify.com/track/7m7zxiGX2CUkeN2Z8GjWVg"
+    },
+    {
+      "album": {
+        "name": "I'm Saying, Love you",
+        "url": "https://open.spotify.com/album/0XvO83YK3x6WkPRaT3KGMM"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293052,
+      "name": "I'm Saying, Love you",
+      "url": "https://open.spotify.com/track/3GG8NzDS00WV0kErCMT1D9"
     },
     {
       "album": {
@@ -250,10 +416,68 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 233415,
       "name": "It Happens",
       "url": "https://open.spotify.com/track/4V1Gzo4WtlYaF3ZhMehJm6"
+    },
+    {
+      "album": {
+        "name": "But, All The Shining Things Are",
+        "url": "https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296386,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/15OhePm7rHFdHUCHsbs1jj"
+    },
+    {
+      "album": {
+        "name": "Jungle Gym",
+        "url": "https://open.spotify.com/album/6hKA6V8a72Ld7IxpIveTcR"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        },
+        {
+          "name": "Takashi Kashikura",
+          "url": "https://open.spotify.com/artist/6wtd4TOkA6vsvmnex0gTtY"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261262,
+      "name": "Jungle Gym",
+      "url": "https://open.spotify.com/track/4AsUeG6OBiXQo9IaSWsozL"
+    },
+    {
+      "album": {
+        "name": "Let me summer",
+        "url": "https://open.spotify.com/album/57ZAIs6QVVeBGay14A0Ijr"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286748,
+      "name": "Just Sometime",
+      "url": "https://open.spotify.com/track/1a3OQ5pOJ2qjspMBB3f7pX"
     },
     {
       "album": {
@@ -268,10 +492,28 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 228433,
       "name": "Kid Blue",
       "url": "https://open.spotify.com/track/57vIAKd39ZR9My3ow9Jwud"
+    },
+    {
+      "album": {
+        "name": "Drowsiness of DOEK",
+        "url": "https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270497,
+      "name": "Kor hai ter",
+      "url": "https://open.spotify.com/track/5yJn5NY5DiSQSeir4ccIsi"
     },
     {
       "album": {
@@ -286,10 +528,28 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 214903,
       "name": "Life Without Headache",
       "url": "https://open.spotify.com/track/5VPx7w6VpNVx4LoxPOOA6q"
+    },
+    {
+      "album": {
+        "name": "But, All The Shining Things Are",
+        "url": "https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310853,
+      "name": "Look of a Dream",
+      "url": "https://open.spotify.com/track/0zeFm6Rj1exxilhkXEBwvQ"
     },
     {
       "album": {
@@ -347,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316320,
+      "name": "One, World, Wound",
+      "url": "https://open.spotify.com/track/7KBolE43T13MHuiPLYV5x0"
+    },
+    {
+      "album": {
         "name": "Yin",
         "url": "https://open.spotify.com/album/4JFRakX5a8UEqnFa2FfLGP"
       },
@@ -362,10 +640,28 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 171250,
       "name": "Open Your Eyes (feat. Choi WonBin)",
       "url": "https://open.spotify.com/track/2KPe823XmG3zHJdOuCFco1"
+    },
+    {
+      "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246506,
+      "name": "Origin",
+      "url": "https://open.spotify.com/track/00trFnWtt2REuEwmKoh0GM"
     },
     {
       "album": {
@@ -380,10 +676,100 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 215031,
       "name": "Play",
       "url": "https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3"
+    },
+    {
+      "album": {
+        "name": "But, All The Shining Things Are",
+        "url": "https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291640,
+      "name": "Playing Alone",
+      "url": "https://open.spotify.com/track/5fNb4E7j0VKDPr4RkzYoKU"
+    },
+    {
+      "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279160,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/5M0xXqKL5dfJyGNzZN8xfK"
+    },
+    {
+      "album": {
+        "name": "Drowsiness of DOEK",
+        "url": "https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237187,
+      "name": "Plum",
+      "url": "https://open.spotify.com/track/2Qc7skjzis9Ttcu1mQQFdw"
+    },
+    {
+      "album": {
+        "name": "But, All The Shining Things Are",
+        "url": "https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401040,
+      "name": "Polydream",
+      "url": "https://open.spotify.com/track/6HNgyf3EW5WHSOPkHBbo0Q"
+    },
+    {
+      "album": {
+        "name": "PoP!? Plant",
+        "url": "https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239126,
+      "name": "Poppy Love",
+      "url": "https://open.spotify.com/track/5craJQqSUloqin0oDRYX8S"
     },
     {
       "album": {
@@ -398,10 +784,46 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 291833,
       "name": "R.I.P.",
       "url": "https://open.spotify.com/track/78mAdRXmL6GINa6WMSZKZ8"
+    },
+    {
+      "album": {
+        "name": "PoP!? Plant",
+        "url": "https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166747,
+      "name": "Sabye",
+      "url": "https://open.spotify.com/track/1kxZxuLUqsvx5nwnM1D1Ez"
+    },
+    {
+      "album": {
+        "name": "Drowsiness of DOEK",
+        "url": "https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214763,
+      "name": "SEED",
+      "url": "https://open.spotify.com/track/6PCVA9thJoTOHsUQXnBgv0"
     },
     {
       "album": {
@@ -416,7 +838,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 236691,
       "name": "Spring Dream",
       "url": "https://open.spotify.com/track/3CSM1d9lHNnroBmLgQ8Fh8"
@@ -434,10 +856,100 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 318621,
       "name": "Spring Rain",
       "url": "https://open.spotify.com/track/7sjvfX9NaFF6OTjb2ZH9QH"
+    },
+    {
+      "album": {
+        "name": "PoP!? Plant",
+        "url": "https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165322,
+      "name": "Strawberry Jam",
+      "url": "https://open.spotify.com/track/4i7p00tYpD0EP4z8x6gV3Q"
+    },
+    {
+      "album": {
+        "name": "But, All The Shining Things Are",
+        "url": "https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255306,
+      "name": "Summer Game",
+      "url": "https://open.spotify.com/track/7qrOo0Hzv2qa9FllU4eyP3"
+    },
+    {
+      "album": {
+        "name": "\uc800\ub9c8\ub2e4 \uc12c",
+        "url": "https://open.spotify.com/album/7xzXHPEwf14sQV05govqIx"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339727,
+      "name": "Surfer",
+      "url": "https://open.spotify.com/track/6C221NQLt7j0cTeye3WUEf"
+    },
+    {
+      "album": {
+        "name": "But, All The Shining Things Are",
+        "url": "https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294813,
+      "name": "Sway and Waver",
+      "url": "https://open.spotify.com/track/2kYWx6Y5M8oAjNBGvtDI60"
+    },
+    {
+      "album": {
+        "name": "Drowsiness of DOEK",
+        "url": "https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254457,
+      "name": "Ter nun ngai",
+      "url": "https://open.spotify.com/track/3n9ttHh5XfX8pS7imb6TyP"
     },
     {
       "album": {
@@ -452,7 +964,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 242853,
       "name": "The Dog's Point of View",
       "url": "https://open.spotify.com/track/4j8YCLfHcZM9QJK4EelvO9"
@@ -470,7 +982,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 342226,
       "name": "There Is Always More Than One",
       "url": "https://open.spotify.com/track/5JiEy1nZzTYQ9OtZVLsbXm"
@@ -488,7 +1000,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 305120,
       "name": "Uselessly",
       "url": "https://open.spotify.com/track/2Zw1RBmFHpooFkaKuOKk0R"
@@ -506,7 +1018,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 145533,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/2KAZemXZCmVODPbVPQWJyn"
@@ -524,7 +1036,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 161374,
       "name": "You Always",
       "url": "https://open.spotify.com/track/5EOMupI6xuvU7rndNNPKKZ"
@@ -546,7 +1058,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 151037,
       "name": "Zenly (feat. Dajung)",
       "url": "https://open.spotify.com/track/2HJj0N9aCxMmWSitr6plyx"
@@ -564,7 +1076,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 228500,
       "name": "\u3072\u3068\u308a\u306b\u3057\u3066",
       "url": "https://open.spotify.com/track/3zHywpvNTvYQVtH5Qiu3eB"
@@ -582,7 +1094,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 173800,
       "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/7yhdsc2KmPgEgo1PY3NP3Z"
@@ -600,10 +1112,46 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 243933,
       "name": "\u793e\u4f1a\u306e\u6b6f\u8eca",
       "url": "https://open.spotify.com/track/3hILwwVIWMDCwiqKFhavCh"
+    },
+    {
+      "album": {
+        "name": "\uc800\ub9c8\ub2e4 \uc12c",
+        "url": "https://open.spotify.com/album/7xzXHPEwf14sQV05govqIx"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181592,
+      "name": "\uc18c\uc18c\ub9ac\ubc14\ub78c",
+      "url": "https://open.spotify.com/track/6hi5oK5Dxij58AxLThlSqD"
+    },
+    {
+      "album": {
+        "name": "\uc800\ub9c8\ub2e4 \uc12c",
+        "url": "https://open.spotify.com/album/7xzXHPEwf14sQV05govqIx"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281033,
+      "name": "\uccad\ucd98",
+      "url": "https://open.spotify.com/track/5ooqFNim3S9d9ulyct6uOy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6UuzUke94Zy"

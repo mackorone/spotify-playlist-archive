@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,398 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,400 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 17 | [If And When](https://open.spotify.com/track/5OkcQcCdSqQMpU4WYdT2ir) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 7:09 |
 | 18 | [You're the Fool](https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:49 |
 | 19 | [My Simple Heart](https://open.spotify.com/track/1DPxZZCpNJ0zbgrvVZ4Ni4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:29 |
-| 20 | [Long Lost Lover](https://open.spotify.com/track/6NUvRBMnhKax5XvI2I4a62) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 2:57 |
+| 20 | [What I Did for Love](https://open.spotify.com/track/5ivPBMpp37NridLZrQDwsx) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees \- The Very Best Of](https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l) | 3:38 |
 | 21 | [I Didn't Know](https://open.spotify.com/track/21Y28bL36SaVy1tRc6KATk) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:49 |
-| 22 | [What I Did for Love](https://open.spotify.com/track/5ivPBMpp37NridLZrQDwsx) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees \- The Very Best Of](https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l) | 3:38 |
+| 22 | [Long Lost Lover](https://open.spotify.com/track/6NUvRBMnhKax5XvI2I4a62) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 2:57 |
 | 23 | [Jump The Gun](https://open.spotify.com/track/74HHvkOUslEi5ra2hifet1) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:59 |
 | 24 | [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 |
 | 25 | [Without You](https://open.spotify.com/track/4qnrPJTT53BkMjolkDxRI7) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:04 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 36 | [Contact](https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 |
 | 37 | [Stardust](https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:55 |
 | 38 | [La chanson poupulaire](https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 |
-| 39 | [Magic In The Air](https://open.spotify.com/track/6130TGiRy7xaXkRQ6P6jSf) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [New Dimensions](https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg) | 5:46 |
+| 39 | [Look in My Eyes](https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:37 |
 | 40 | [I Do Take You](https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:16 |
 | 41 | [Rosegarden](https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:44 |
 | 42 | [Distant Lover](https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 |
-| 43 | [Look in My Eyes](https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:37 |
+| 43 | [Magic In The Air](https://open.spotify.com/track/6130TGiRy7xaXkRQ6P6jSf) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [New Dimensions](https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg) | 5:46 |
 | 44 | [Ebb Tide](https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:55 |
 | 45 | [Together](https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:37 |
 | 46 | [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 |
-| 47 | [Here I Am](https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 |
-| 48 | [No, No Not Again](https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [60's Girl Groups](https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP) | 2:45 |
+| 47 | [No, No Not Again](https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [60's Girl Groups](https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP) | 2:45 |
+| 48 | [Here I Am](https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 |
 | 49 | [Caught Between Two Fires](https://open.spotify.com/track/2BmlYNJN4MTjm0VJQFkGpH) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:09 |
 | 50 | [Who Is She and What Is She to You](https://open.spotify.com/track/64ZPcaZ4LrUht1wGJS62AL) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [70's Deep Funk](https://open.spotify.com/album/7nlO16jDzNDHVfxUt8vPAY) | 3:17 |
 
-Snapshot ID: `aHbrgAAAAAB7rxCGfNcmQIO6LSuk2VAf`
+Snapshot ID: `aHg9AAAAAAAGc0joWHGETqYNO6ImtuX0`

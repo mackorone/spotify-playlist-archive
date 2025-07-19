@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 54846,
+  "num_followers": 54860,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACmdsfVN1nHJJt967IT6bnb",
+  "snapshot_id": "aHg9AAAAAADrpYrK8s4Z0ZDlN+DVOnc8",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Laughing with a Mouth of Blood",
-      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Nowhere Inn",
         "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 35776,
       "name": "Tour Bus",
       "url": "https://open.spotify.com/track/4KB1r2SFtOEK221pPJclKN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Laughing with a Mouth of Blood",
+      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
     },
     {
       "added_at": null,

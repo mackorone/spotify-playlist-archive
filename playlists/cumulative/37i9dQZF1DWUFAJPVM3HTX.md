@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0toaL49WhSJAPcTs94NCJt?si=dHWRSPStRFCdP9TX\_6nY2A"> MAXX MOOR</a>\. Updates every Wednesday.
 
-3,400 songs - 7 day 4 hr 6 min
+3,405 songs - 7 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [4 U](https://open.spotify.com/track/3dgYiTnp4V5MXYSXUkO9uE) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [4 U](https://open.spotify.com/album/6KkakMphv8W356KiT3pVAf) | 2:15 | 2024-01-10 |  |
 | [4 U \(feat\. K CAMP\)](https://open.spotify.com/track/6A1qkxIAMLXJwOKhIKHlND) | [Kyle Banks](https://open.spotify.com/artist/7fCkVWEYTo1f7hLsAyVaWE), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Uncommon](https://open.spotify.com/album/5uAoxq451k7pjHJrNlKxAy) | 3:21 | 2022-01-26 | 2022-03-03 |
 | [4000!](https://open.spotify.com/track/0fq9lmOZ50X2Oo0apdDk62) | [Matt Cleare](https://open.spotify.com/artist/0b8g4LkPm3GWYRqFd938AD) | [4000!](https://open.spotify.com/album/5THAwu7Evl2Tid9Ln4cxCT) | 3:21 | 2023-03-10 | 2023-06-03 |
-| [403 Westbound](https://open.spotify.com/track/1adPbH0MkXsyVomkicsuGK) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [403 Westbound](https://open.spotify.com/album/3QaQhECbtdaB84P2lC7lNH) | 2:50 | 2025-07-16 |  |
+| [403 westbound](https://open.spotify.com/track/1adPbH0MkXsyVomkicsuGK) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [403 westbound](https://open.spotify.com/album/3QaQhECbtdaB84P2lC7lNH) | 2:50 | 2025-07-16 |  |
 | [4AM](https://open.spotify.com/track/76PJvOgDL3o8VRlPmhuidA) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [KALENA](https://open.spotify.com/artist/2HMhMpGsN9POmGXvvN1WZB) | [Phases](https://open.spotify.com/album/0nI7acr4uqpq7fndB2E2G9) | 2:41 | 2023-02-10 | 2024-01-11 |
 | [4AM](https://open.spotify.com/track/0djp1WNBOIa6sE117Y4b8u) | [Samajay](https://open.spotify.com/artist/2CICVtX9IY45k5cV1dbaHz) | [4AM](https://open.spotify.com/album/2I4lmCQ7hdizYNqXzu9zAB) | 3:10 | 2022-05-04 | 2022-07-02 |
 | [4EVA](https://open.spotify.com/track/2LftHOFPfXdPtPK6yCnZXj) | [thndo](https://open.spotify.com/artist/4NKTT4ovD0uyL6YssNGF2n) | [4EVA](https://open.spotify.com/album/5VK922NbC81kfS2tCnDAM0) | 2:39 | 2023-06-02 | 2023-08-04 |
@@ -156,6 +156,7 @@
 | [All The Diamonds](https://open.spotify.com/track/66y6cgIVYltBhOwgKevwiy) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M) | [All The Diamonds](https://open.spotify.com/album/7BS3XuM7AMdWyznozmhYqK) | 3:48 | 2022-02-09 | 2022-10-06 |
 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 | 2024-03-22 | 2024-05-18 |
 | [ALL THE TIME](https://open.spotify.com/track/0SJpyExB722bVpoqzrhFj5) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [ALL THE TIME](https://open.spotify.com/album/4NLfYhSIdnaEy1ODScJQMX) | 2:48 | 2024-08-02 | 2024-12-05 |
+| [All the Way](https://open.spotify.com/track/4dh8BWFSX5FDCzZa2iediF) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [All the Way](https://open.spotify.com/album/0TCaZdV6IM6TswFeiIpUeA) | 3:01 | 2025-07-18 |  |
 | [All There Is](https://open.spotify.com/track/4X9Emc9xzo2X5xcw8iJnJn) | [Jasmine Janai](https://open.spotify.com/artist/7vNrZ0Dps51Eg9LrY0FVjU) | [All There Is](https://open.spotify.com/album/3nrwZaK2dheRVsisWn8MA1) | 2:33 | 2022-10-28 | 2022-12-01 |
 | [All They Wanna Do](https://open.spotify.com/track/1z3GRT22Vm8FWwadTqoxuq) | [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [All They Wanna Do](https://open.spotify.com/album/10R0owBaqbjtUM5A8XeSYN) | 2:38 | 2022-05-20 | 2022-08-11 |
 | [All This Shit](https://open.spotify.com/track/3vFDCpTCWOHZsiASHOBsSl) | [YaYa](https://open.spotify.com/artist/0lnt4wK63mus1T57yf7aUE) | [All This Shit](https://open.spotify.com/album/2uVS8UpmidkIccUAdbHCNV) | 2:06 | 2022-02-23 | 2022-03-17 |
@@ -554,6 +555,7 @@
 | [Circus](https://open.spotify.com/track/1pTv67DA0c5HuYvKshYglx) | [Allyn](https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3) | [Circus](https://open.spotify.com/album/0x0ZFXlpjhICvqyLWTwOvV) | 2:39 | 2025-04-05 |  |
 | [City](https://open.spotify.com/track/5n8mDfxIjIu7Hdka3vk2Kb) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [City](https://open.spotify.com/album/2MFa5EfzAbigqFo4GlHvqr) | 3:18 | 2023-08-03 | 2023-10-04 |
 | [clap4me](https://open.spotify.com/track/6SIeF6KG8l06YDpFn0mfrT) | [Syo](https://open.spotify.com/artist/52kJJ2Qq6KuzX2seCSTlXn) | [Table Manners](https://open.spotify.com/album/1oGu4rzfCutP4mXLSZ8I5B) | 3:26 | 2023-03-17 | 2023-04-06 |
+| [Clarity](https://open.spotify.com/track/0KLl2IaY4hRTozBs3YZkmv) | [The Amours](https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE) | [Clarity](https://open.spotify.com/album/3N0K7Kjkcl2fZv49pn0mdS) | 3:39 | 2025-07-18 |  |
 | [Clear](https://open.spotify.com/track/6y9L61mld4slmaF6BiUpVF) | [Rell Moore](https://open.spotify.com/artist/3GRr7D52O6vZBcmBI9O8rM) | [Clear](https://open.spotify.com/album/1XidvFq9fLWuWOViO5Gorw) | 3:01 | 2025-06-06 |  |
 | [Clearly](https://open.spotify.com/track/0SyCWDjhJuqcglYm79x1So) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Clearly](https://open.spotify.com/album/1ZN9S3bFT4e0r56FyOmF4I) | 2:22 | 2022-04-27 | 2022-07-02 |
 | [Cliché](https://open.spotify.com/track/3ff4ohi1t7RmhVBTJXtFY5) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [Cliché](https://open.spotify.com/album/194XIHe7ezygLaOIcPi9HM) | 2:20 | 2025-01-17 |  |
@@ -2178,6 +2180,7 @@
 | [OPTIONS](https://open.spotify.com/track/1h1ad5ERaW20I3J9Va4GsI) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [OPTIONS](https://open.spotify.com/album/7wxMg3wnhxQ4AYwM8r4lo6) | 2:17 | 2024-03-08 | 2024-05-04 |
 | [Options](https://open.spotify.com/track/5LHzOlQkBViBZSjFh2qv6p) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ) | [Options](https://open.spotify.com/album/739qSfNAMbuoyl9MjZ407j) | 3:35 | 2023-02-10 | 2023-04-13 |
 | [Orange](https://open.spotify.com/track/67QdCgQHAnBKCrs5mmbqcr) | [Ballad](https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx), [Tim Hall](https://open.spotify.com/artist/6oXJ7P410Y0HA5seK7DclJ) | [Orange](https://open.spotify.com/album/6CtzbK9WpdoBIMd4E9X49M) | 3:16 | 2022-11-30 | 2023-01-12 |
+| [Oranges](https://open.spotify.com/track/4h4flk3IG8JekXKP9ZZxi7) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Player's Club](https://open.spotify.com/album/2pg02YuWb4Tj620g9SOhQK) | 1:34 | 2025-07-18 |  |
 | [ordinary love](https://open.spotify.com/track/5A7aINCrHYQ0JKDqZhfoch) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 3:12 | 2024-03-22 | 2024-04-19 |
 | [ordinary love](https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [ordinary love](https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA) | 3:12 | 2024-03-22 | 2024-06-08 |
 | [Ordinary Love](https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Ordinary Love](https://open.spotify.com/album/2R6EzaM8RREXn9jkFK7BEd) | 2:56 | 2024-02-09 | 2024-04-11 |
@@ -2562,6 +2565,7 @@
 | [Say Less](https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Say Less](https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS) | 4:03 | 2022-03-02 | 2022-04-28 |
 | [Say No More](https://open.spotify.com/track/2rw7YQhhzqeVb42RgZ4DFv) | [Idele](https://open.spotify.com/artist/3ISRnAkBjxvDzi4Pe5pAP3) | [Say No More](https://open.spotify.com/album/38jucpZQUktqk8DxvU5KZ4) | 2:48 | 2025-01-31 |  |
 | [Say Something](https://open.spotify.com/track/58XjOiqlTBkjphq9LvQZjb) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla) | [Say Something](https://open.spotify.com/album/5SsymrDivUY3SJhNdbFpyp) | 2:54 | 2025-03-21 |  |
+| [say swear](https://open.spotify.com/track/6Hzi9t6gc3JeSVmYbAx9vm) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [say swear](https://open.spotify.com/album/2QcPPDHyYRFsBctu3Sa3ha) | 3:48 | 2025-07-18 |  |
 | [SAY THAT](https://open.spotify.com/track/5HkxO1BgXYsyMnmobjpwOa) | [Samaki](https://open.spotify.com/artist/5sqFxtsACgJNFctsg9VZQZ) | [SAY THAT](https://open.spotify.com/album/04yekOcy7bARp79ki4INvT) | 3:43 | 2023-02-22 | 2024-01-11 |
 | [Say The Word](https://open.spotify.com/track/01X2XLxPRRQGxgFA0RrLGr) | [Todd Zack Jr.](https://open.spotify.com/artist/2bt82NyaCILDtSoTHlwdMl), [Tyler McNeil](https://open.spotify.com/artist/2qTg2UOiqk3aGJEgoIPPeK) | [You Know Where to Find Me](https://open.spotify.com/album/3asMWSyOXZ2FicGa0F2pU7) | 2:58 | 2023-09-08 | 2023-11-30 |
 | [Say We're Done](https://open.spotify.com/track/7gWIO4OlgQYniIpFOKOm24) | [Forwes](https://open.spotify.com/artist/2yHQYmwvWSaVwlcfQMlyov) | [Say We're Done](https://open.spotify.com/album/3zwU5VDqkh1cxBeIhDxRMI) | 2:48 | 2025-07-11 |  |
@@ -2897,6 +2901,7 @@
 | [Take Flight](https://open.spotify.com/track/6G0N1IkBWHsO8WQHxqpz44) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Take Flight](https://open.spotify.com/album/1XWQCrHuszOJyjdcnbTUdH) | 3:05 | 2022-11-12 | 2022-12-01 |
 | [Take It Or Leave It](https://open.spotify.com/track/60Yax8o3dvkGUtUYXfPp2t) | [Ketu](https://open.spotify.com/artist/1qObbEr928j18cwHIDUtWQ), [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb) | [Take It Or Leave It](https://open.spotify.com/album/3jIr18C9mheJgiWaqILdQS) | 2:46 | 2024-09-13 | 2025-01-18 |
 | [Take It Personal](https://open.spotify.com/track/51pmSmEShGFFKKZ4wszESe) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Take It Personal](https://open.spotify.com/album/4n4InJrgimhQkVcyEvo85K) | 2:45 | 2024-01-10 | 2024-03-30 |
+| [Take It Slow](https://open.spotify.com/track/1E0C0qP1ZgIxboC6KnRShJ) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Are You Bored Yet?](https://open.spotify.com/album/5cQnXNogeOsQhyYMesRS4O) | 3:00 | 2025-07-18 |  |
 | [Take Me Out](https://open.spotify.com/track/2u5kgkYchdxbhdrYwzvycW) | [Anjoli](https://open.spotify.com/artist/2HIo2lcofrHHGCTQNFlGca) | [Take Me Out](https://open.spotify.com/album/1b2wP1XGAIK2Eech62CRrx) | 2:22 | 2024-10-04 | 2024-12-05 |
 | [Take Me With You](https://open.spotify.com/track/5ZAnMdq2nG3QtbZxRuNWLh) | [JAYLIEN](https://open.spotify.com/artist/6t3YMGSTDtFDBUFfUHsJS0) | [THE BLUE PROJECT](https://open.spotify.com/album/1rIySHtLcb0pdjRSp3Nr3U) | 4:06 | 2022-09-14 | 2022-12-01 |
 | [Take My Picture](https://open.spotify.com/track/41N0IYG9GNyWxHwOnApnWx) | [Anaïs](https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82) | [Take My Picture](https://open.spotify.com/album/6LHXZpXfe1uSRvFdCbMOCA) | 2:32 | 2022-06-16 | 2022-09-29 |

@@ -4,7 +4,7 @@
 
 > Turn on the movement with the latest and greatest in K\-Pop! \(Cover: BLACKPINK\)
 
-690 songs - 1 day 11 hr 56 min
+692 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-17 | 2022-08-04 |
 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 | 2024-01-15 | 2024-04-23 |
 | [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 | 2025-02-14 | 2025-04-16 |
-| [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-09 |  |
+| [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-09 | 2025-07-19 |
 | [Dear My Light](https://open.spotify.com/track/0UXLLeFAFbo5JbSR9C4STe) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [Dear My Light](https://open.spotify.com/album/1HIwbRLI1l4U0HcfCZwo11) | 2:55 | 2023-04-21 | 2023-07-15 |
 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-13 | 2022-02-04 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-01 | 2024-08-27 |
@@ -201,7 +201,7 @@
 | [FINAL LOVE SONG](https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a Signal Song \(Applicants Version\)](https://open.spotify.com/album/34esSejdtngmSozv4mZCUR) | 3:17 | 2024-04-07 | 2024-06-18 |
 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-09-30 | 2023-01-03 |
 | [FLAT COKE \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/1P6QKJ1Vyskavy98wtV7W7) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [FLAT COKE \(Feat\. Lee Young Ji\)](https://open.spotify.com/album/3nHPK4QlfOEuWZ3rGDkthY) | 2:47 | 2024-07-24 | 2024-08-20 |
-| [Flip Flop \(Prod\. Padi\)](https://open.spotify.com/track/6RZMwZQkoTLoPkwkA9rurA) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:59 | 2025-06-13 |  |
+| [Flip Flop \(Prod\. Padi\)](https://open.spotify.com/track/6RZMwZQkoTLoPkwkA9rurA) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:59 | 2025-06-13 | 2025-07-19 |
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-27 | 2022-08-25 |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-03-31 | 2023-08-22 |
 | [Fly Up](https://open.spotify.com/track/4rRDmXBKB2X2Jnb8yLzAKZ) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/4YqJnxf3dYKhosGRrfoQQo) | 2:58 | 2025-05-20 | 2025-07-05 |
@@ -482,6 +482,7 @@
 | [REASON](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[REASON\]](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) | 3:17 | 2023-01-20 | 2023-03-11 |
 | [Rebel](https://open.spotify.com/track/4Vawz7UCdavhRW1OxovN4a) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [20&2 \- The 9th Album](https://open.spotify.com/album/4I6px53lYqErgJcsJkUNlu) | 2:44 | 2023-12-27 | 2024-01-26 |
 | [REBEL HEART](https://open.spotify.com/track/1jtlHteF4y7FFHKgYFld4f) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/7wDskR5Q6K1qqLPEG8W8kB) | 3:08 | 2025-01-13 | 2025-06-14 |
+| [Remedy](https://open.spotify.com/track/6dQfthVqZvG39aBUdWOnb9) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Remedy](https://open.spotify.com/album/4NMF7zEoWEnKcybYCoZkCu) | 3:13 | 2025-07-18 |  |
 | [Renegade](https://open.spotify.com/track/6qmGitkEMN6TVM5Cc25W47) | [LUCAS](https://open.spotify.com/artist/6S3tOdgtc5qz16hwmMjEBN) | [Renegade \- The 1st Single](https://open.spotify.com/album/0JTKRqDGKIDhtoCfqRyJf6) | 3:13 | 2024-04-07 | 2024-06-18 |
 | [Rich Kids Anthem \(Feat\. Lee Hi\)](https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:37 | 2022-02-16 | 2022-04-09 |
 | [Ridin′ \(Prod\. THE HUB\)](https://open.spotify.com/track/4bGMm3NwFM8q8YC3Y6VLOE) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [JIWOO](https://open.spotify.com/artist/1AqG0h7s7G7UOeEOAWKCF7), [KYUJIN](https://open.spotify.com/artist/5ml2UIgNVH6l7i4vm3aaRw) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:47 | 2025-06-13 |  |
@@ -523,6 +524,7 @@
 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 | 2023-04-26 | 2023-10-11 |
 | [Shopper](https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:35 | 2024-02-20 | 2024-04-30 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 | 2023-07-11 |
+| [SING ALONG!](https://open.spotify.com/track/3i4BISVO0L6mrVM7V0IPGo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [The 1st full album \[BLISS\]](https://open.spotify.com/album/6Ez3OGFT3yV9zRkKEs2S6d) | 2:36 | 2025-07-18 |  |
 | [Siren](https://open.spotify.com/track/0lCT7dZovwscmIRIltborh) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Siren](https://open.spotify.com/album/13eyoNteqwQJmUqhUcWuQt) | 2:27 | 2024-04-18 | 2024-07-09 |
 | [Siren](https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Siren](https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO) | 2:27 | 2024-04-07 | 2024-04-19 |
 | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 | 2024-07-24 | 2024-09-21 |

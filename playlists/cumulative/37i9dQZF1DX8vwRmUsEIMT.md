@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: The Last Dinner Party
 
-3,094 songs - 6 day 23 hr 9 min
+3,095 songs - 6 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1743,6 +1743,7 @@
 | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-21 | 2025-04-04 |
 | [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 | 2024-11-29 | 2025-01-24 |
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-27 |  |
+| [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 | 2025-07-17 |  |
 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 | 2022-09-08 | 2022-10-14 |
 | [Make a W \(feat\. Skrillex, AJ Tracey & BEAM\)](https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 2:57 | 2024-06-27 | 2024-08-16 |
 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 | 2024-12-06 | 2025-01-24 |

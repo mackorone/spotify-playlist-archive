@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Eliangel en portada.",
-  "num_followers": 65823,
+  "num_followers": 65847,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -911,42 +911,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "Lunita (J.Pool Remix)",
-        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
-      },
-      "artists": [
-        {
-          "name": "J.Pool",
-          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
-        },
-        {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
-        }
-      ],
-      "duration_ms": 380878,
-      "name": "Lunita - J.Pool Remix",
-      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "CONTIGO",
-        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148005,
-      "name": "CONTIGO",
-      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "Pachuco",
         "url": "https://open.spotify.com/album/7gnCSYZGh8zZOzy5qCINDh"
       },
@@ -967,6 +931,42 @@
       "duration_ms": 123692,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/7AOTRIjLg70ALz46yeWk2h"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "CONTIGO",
+        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148005,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "Lunita (J.Pool Remix)",
+        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
+      },
+      "artists": [
+        {
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+        },
+        {
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
+        }
+      ],
+      "duration_ms": 380878,
+      "name": "Lunita - J.Pool Remix",
+      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/7LKF88fJJvIQIUVhTFXAl6"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "2 Da Floor",
         "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 185600,
       "name": "2 Da Floor",
       "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/7LKF88fJJvIQIUVhTFXAl6"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2qWJxA1LE4FCzzfHtWhPsx"
+      },
+      "artists": [
+        {
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3gN1Aw7DmcrIFeDO1yqGZc"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "LLORAR!",
         "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 107200,
       "name": "LLORAR!",
       "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2qWJxA1LE4FCzzfHtWhPsx"
-      },
-      "artists": [
-        {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3gN1Aw7DmcrIFeDO1yqGZc"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "guapa (Fcukers Remix)",
-        "url": "https://open.spotify.com/album/4rr8sZSyaYKRze8kf5AN8D"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 318019,
-      "name": "guapa - Fcukers Remix",
-      "url": "https://open.spotify.com/track/0D9N14fy8z1AWC12c7V2Uf"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "Franca Barona",
         "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 215294,
       "name": "Franca Barona",
       "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "guapa (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/4rr8sZSyaYKRze8kf5AN8D"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 318019,
+      "name": "guapa - Fcukers Remix",
+      "url": "https://open.spotify.com/track/0D9N14fy8z1AWC12c7V2Uf"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "CRAYZI",
-        "url": "https://open.spotify.com/album/77o3N2J6knMchqNBrWLHzH"
-      },
-      "artists": [
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        },
-        {
-          "name": "Chzter",
-          "url": "https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj"
-        }
-      ],
-      "duration_ms": 173731,
-      "name": "CRAYZI",
-      "url": "https://open.spotify.com/track/353cf2mcZqNBaWTfnFFRao"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "Living on Video (The Wookies Remix)",
         "url": "https://open.spotify.com/album/2z3kKzncLPsYHOTk2QhXzt"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 338181,
       "name": "Living on Video - The Wookies Remix",
       "url": "https://open.spotify.com/track/2JGthAWXjnTVQK8cwhvftv"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "CRAYZI",
+        "url": "https://open.spotify.com/album/77o3N2J6knMchqNBrWLHzH"
+      },
+      "artists": [
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        },
+        {
+          "name": "Chzter",
+          "url": "https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj"
+        }
+      ],
+      "duration_ms": 173731,
+      "name": "CRAYZI",
+      "url": "https://open.spotify.com/track/353cf2mcZqNBaWTfnFFRao"
     },
     {
       "added_at": "2025-07-04 06:00:11",

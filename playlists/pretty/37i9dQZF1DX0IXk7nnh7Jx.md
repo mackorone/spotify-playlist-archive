@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 ### [Indie Spirit](https://open.spotify.com/playlist/37i9dQZF1DX0IXk7nnh7Jx)
 
-> Listen to the best songs from faith\-based indie artists\.  Cover: <br/>MUCH MORE
+> Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Allie Paige
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,538 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,561 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ruins](https://open.spotify.com/track/0VTWQ9ha8yYmE4XsUmZoky) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs), [Graham Bright](https://open.spotify.com/artist/4ge64s0YP6PtLqOduvpYeg) | [Ruins](https://open.spotify.com/album/6A3Ratwofe5HRsCXRjEEpG) | 2:16 |
-| 2 | [WONT FLY \(JESUS AT MY DOOR\)](https://open.spotify.com/track/4ijo9j5TRYehTkSUIeo9iU) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [WONT FLY \(JESUS AT MY DOOR\)](https://open.spotify.com/album/16SXq6XmbWgyKPPpgzYT6b) | 3:25 |
-| 3 | [Circles](https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Circles](https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D) | 2:00 |
-| 4 | [SOMETIME](https://open.spotify.com/track/2dpyYp2a4HJj5UhdzS14dB) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [SOMETIME](https://open.spotify.com/album/3EVfzhpYLVPbqhvbN7R4E0) | 2:58 |
-| 5 | [Sticks & Stones](https://open.spotify.com/track/790RHaiScvZpHfns86HYGY) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Sticks & Stones](https://open.spotify.com/album/4y0S2B7k2vOzWZTf17ue7s) | 3:29 |
-| 6 | [Bloodline](https://open.spotify.com/track/1Y1s6jQ2ypxlf0RLSIdIcl) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Welcome To The Bloodline](https://open.spotify.com/album/6uzfnOsa8YCptMbOJoMM1M) | 4:32 |
-| 7 | [whisper and the wind \- b+CL version](https://open.spotify.com/track/4ccZ3mBc2gtSRW6xzrxEQb) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC), [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [whisper and the wind \(b+CL version\)](https://open.spotify.com/album/3nLiutNSYBngqPRzTOB7Br) | 3:18 |
-| 8 | [Reckoner \(An Axe Laid at the Root\)](https://open.spotify.com/track/3EtEM53wzZkunSZiRXEik8) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Reckoner \(An Axe Laid at the Root\)](https://open.spotify.com/album/1t9LECAcunYvpr3edukjqr) | 3:57 |
-| 9 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
-| 10 | [Find Me \- Before I'm Too Far Gone](https://open.spotify.com/track/4TvGZ8qQf8Xh1rzNFVYeO5) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Soren Bryce](https://open.spotify.com/artist/3EPBoq3UlOpWoABQpdDSCB) | [Find Me \(Before I'm Too Far Gone\)](https://open.spotify.com/album/3gazbIQ7cao6LtSHWEWskP) | 4:29 |
-| 11 | [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 |
+| 1 | [Kingdom II](https://open.spotify.com/track/5b10tFDfOl5YEisiPoirvW) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Kingdom II](https://open.spotify.com/album/7IYtLO16qDk12GNZrqJImI) | 3:00 |
+| 2 | [Ruins](https://open.spotify.com/track/0VTWQ9ha8yYmE4XsUmZoky) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs), [Graham Bright](https://open.spotify.com/artist/4ge64s0YP6PtLqOduvpYeg) | [Ruins](https://open.spotify.com/album/6A3Ratwofe5HRsCXRjEEpG) | 2:16 |
+| 3 | [WONT FLY \(JESUS AT MY DOOR\)](https://open.spotify.com/track/4ijo9j5TRYehTkSUIeo9iU) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [WONT FLY \(JESUS AT MY DOOR\)](https://open.spotify.com/album/16SXq6XmbWgyKPPpgzYT6b) | 3:25 |
+| 4 | [Circles](https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Circles](https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D) | 2:00 |
+| 5 | [SOMETIME](https://open.spotify.com/track/2dpyYp2a4HJj5UhdzS14dB) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [SOMETIME](https://open.spotify.com/album/3EVfzhpYLVPbqhvbN7R4E0) | 2:58 |
+| 6 | [Sticks & Stones](https://open.spotify.com/track/790RHaiScvZpHfns86HYGY) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Sticks & Stones](https://open.spotify.com/album/4y0S2B7k2vOzWZTf17ue7s) | 3:29 |
+| 7 | [Bloodline](https://open.spotify.com/track/1Y1s6jQ2ypxlf0RLSIdIcl) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Welcome To The Bloodline](https://open.spotify.com/album/6uzfnOsa8YCptMbOJoMM1M) | 4:32 |
+| 8 | [whisper and the wind \- b+CL version](https://open.spotify.com/track/4ccZ3mBc2gtSRW6xzrxEQb) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC), [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [whisper and the wind \(b+CL version\)](https://open.spotify.com/album/3nLiutNSYBngqPRzTOB7Br) | 3:18 |
+| 9 | [Reckoner \(An Axe Laid at the Root\)](https://open.spotify.com/track/3EtEM53wzZkunSZiRXEik8) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Reckoner \(An Axe Laid at the Root\)](https://open.spotify.com/album/1t9LECAcunYvpr3edukjqr) | 3:57 |
+| 10 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
+| 11 | [Find Me \- Before I'm Too Far Gone](https://open.spotify.com/track/4TvGZ8qQf8Xh1rzNFVYeO5) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Soren Bryce](https://open.spotify.com/artist/3EPBoq3UlOpWoABQpdDSCB) | [Find Me \(Before I'm Too Far Gone\)](https://open.spotify.com/album/3gazbIQ7cao6LtSHWEWskP) | 4:29 |
 | 12 | [The Whole Thing](https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Whole Thing](https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n) | 3:51 |
 | 13 | [love me as i am](https://open.spotify.com/track/2Jv2IG9MfvfC2saWaqnqJH) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [love me as i am](https://open.spotify.com/album/4LGRl4mRDLz8b6tyTOtKKq) | 4:42 |
 | 14 | [Every Little Thing](https://open.spotify.com/track/2aHijQHQYZfCtNFkojLlDz) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Every Little Thing](https://open.spotify.com/album/22LAQAYAN8N9lG5oujD06U) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 74 | [Together Alone](https://open.spotify.com/track/6BZfQ4qQpjXjruDwkJiyP9) | [Shelltown Paradise](https://open.spotify.com/artist/4jNKRbeZhuY5xoZ2jURbhX) | [Together Alone](https://open.spotify.com/album/158EccgNmsZ7shtcV7Ms20) | 3:08 |
 | 75 | [bound to break \- Maggie Youngs Version](https://open.spotify.com/track/5DHIjoGwFdJcMPwzMudmKI) | [Jordan Blaine](https://open.spotify.com/artist/553lq8J2X0RKxYbQkO512x), [Maggie Youngs](https://open.spotify.com/artist/1od0eEAnxBM6dStqE5lUv0), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [bound to break \(Maggie Youngs Version\)](https://open.spotify.com/album/3hlvAg2I9xUmSEF4ia9EW7) | 3:02 |
 
-Snapshot ID: `aFZnGgAAAADgtyOwrFmqfzx1e4Wxh1Zj`
+Snapshot ID: `aHod5wAAAADoIZy/tqPObVLG5LF4mD9x`

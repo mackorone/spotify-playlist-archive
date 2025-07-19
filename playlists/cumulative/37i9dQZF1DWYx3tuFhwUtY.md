@@ -4,7 +4,7 @@
 
 > Buen indie rock para contar historietas...
 
-140 songs - 8 hr 15 min
+141 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Cosas que probablemente no van a pasar](https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Cosas Que Probablemente No Van a Pasar](https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw) | 2:40 | 2023-10-23 |  |
 | [Creep in a T\-Shirt](https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:53 | 2023-10-23 |  |
 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 | 2023-10-23 |  |
+| [Dark Star](https://open.spotify.com/track/3XyC1bFuMZ66GsZLkuZslB) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Dark Star b/w Pastel Sunrise](https://open.spotify.com/album/7rlNQp7Dyv3jcauw13L0Jg) | 3:08 | 2024-07-12 |  |
 | [Days](https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc) | 5:20 | 2023-10-23 | 2024-04-19 |
 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 | 2023-10-23 | 2024-04-19 |
 | [Detroit Basketball](https://open.spotify.com/track/4rIRYYplwlYNXwX8qqaWdY) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Walkman](https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY) | 2:27 | 2023-10-23 | 2024-04-19 |
@@ -117,7 +118,7 @@
 | [Sing](https://open.spotify.com/track/0kqSGKnMo3JDbzaW0QrXmA) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Meet Glen Campbell](https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz) | 3:45 | 2023-10-23 |  |
 | [Sinking Feeling](https://open.spotify.com/track/0S1FtpRFRXS6XiZXYv1F3C) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Sinking Feeling](https://open.spotify.com/album/4FkSkBf3iQKjV9PLZPAQVr) | 3:33 | 2023-10-23 |  |
 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2023-10-23 | 2024-04-19 |
-| [Strong Feelings](https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Strong Feelings](https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY) | 4:04 | 2024-07-12 |  |
+| [Strong Feelings](https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Strong Feelings](https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY) | 4:04 | 2024-07-12 | 2025-07-19 |
 | [Talking Straight](https://open.spotify.com/track/0pAe3wp6qI0q3BrpQo6nFa) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Hope Downs](https://open.spotify.com/album/0zL1ncgS3vbeh8iQ2qywwY) | 3:44 | 2023-10-23 | 2024-04-19 |
 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 | 2023-10-23 |  |
 | [Teenage Headache Dreams \(with Ellie Rowsell\)](https://open.spotify.com/track/5X8FVIy9iaXoDEiIlCjcmp) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Ellie Rowsell](https://open.spotify.com/artist/60t20hnY4HFbjM0sbJ07vc), [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Teenage Headache Dreams \(with Ellie Rowsell\)](https://open.spotify.com/album/5R8GPzld0YydbKawqmbigD) | 4:43 | 2023-10-23 |  |

@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Changin Me",
+        "url": "https://open.spotify.com/album/1mOKUsrP4CiJwI13cMlBZB"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186866,
+      "name": "Changin Me",
+      "url": "https://open.spotify.com/track/0ohz67ESfEL7m6xYGRPTHu"
+    },
+    {
+      "album": {
         "name": "Homage to Delusion",
         "url": "https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76"
       },
@@ -3348,6 +3366,24 @@
       "duration_ms": 159000,
       "name": "Girl in Red",
       "url": "https://open.spotify.com/track/5LhQtsLrhgHpbpyS9NcTN9"
+    },
+    {
+      "album": {
+        "name": "GNAT",
+        "url": "https://open.spotify.com/album/1BNuN0l6Z4G4KHqq80MiFH"
+      },
+      "artists": [
+        {
+          "name": "ZOO",
+          "url": "https://open.spotify.com/artist/6d4fitLNR82dlkyALodJWR"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270005,
+      "name": "GNAT",
+      "url": "https://open.spotify.com/track/2kHcjE4XH8nL0BGlw67UY5"
     },
     {
       "album": {

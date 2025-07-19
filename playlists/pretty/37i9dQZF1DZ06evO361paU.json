@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 285710,
+  "num_followers": 285741,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACoU6OJ3wO3C2B2eOiGgUoI",
+  "snapshot_id": "aHg9AAAAAADH9ge9rK6yHWM6XVta0aCz",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "Eleutheria",
-      "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baptism",
         "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 156866,
       "name": "California",
       "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 293466,
+      "name": "Eleutheria",
+      "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 242440,
-      "name": "5 More Days 'Til Summer",
-      "url": "https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ride (Edit)",
         "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 220310,
       "name": "Ride (Edit)",
       "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 242440,
+      "name": "5 More Days 'Til Summer",
+      "url": "https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE"
     },
     {
       "added_at": null,
@@ -783,26 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Pain",
-        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
+        "name": "Let It Ride (Jamie Jones Remix)",
+        "url": "https://open.spotify.com/album/69huZFB3RkeoW4VNMd7BdY"
       },
       "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        },
         {
           "name": "Lenny Kravitz",
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         },
         {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
         }
       ],
-      "duration_ms": 398217,
-      "name": "Don't Think You Ever Loved Me (feat. Lenny Kravitz, Le'Andria Johnson)",
-      "url": "https://open.spotify.com/track/7Hau6gKa1qB6YT4AYtn1qd"
+      "duration_ms": 206785,
+      "name": "Let It Ride - Jamie Jones Remix",
+      "url": "https://open.spotify.com/track/4Qia8t2vNSY3qyMYe6zCU9"
     },
     {
       "added_at": null,

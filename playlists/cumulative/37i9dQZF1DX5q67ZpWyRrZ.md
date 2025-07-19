@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Faheem Abdullah
 
-270 songs - 15 hr 21 min
+271 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Sage](https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:50 | 2022-07-25 | 2024-04-19 |
 | [Sage](https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Sage](https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn) | 3:50 | 2022-01-05 | 2024-05-29 |
 | [Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sahiba](https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb) | 3:10 | 2024-11-06 |  |
-| [Sajde](https://open.spotify.com/track/4BGfzLrK6lgvKDjKSU7wrN) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 7:40 | 2025-05-30 |  |
+| [Sajde](https://open.spotify.com/track/4BGfzLrK6lgvKDjKSU7wrN) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 7:40 | 2025-05-30 | 2025-07-19 |
 | [Sajde \- From "Lost;Found"](https://open.spotify.com/track/6lXXUx3PwJ4B4cln5FJfzo) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy) | [Sajde \(From "Lost;Found"\)](https://open.spotify.com/album/7JLLnVxx07iCxVm81N7BSG) | 7:40 | 2025-07-04 |  |
 | [Sajna](https://open.spotify.com/track/6Px3kJxZiQzGe9hU5twvy2) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Sajna](https://open.spotify.com/album/3l2xpQwu7pgc5ic1GyR1PG) | 3:25 | 2022-12-22 | 2023-01-24 |
 | [Sajni](https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Sajni](https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar) | 4:58 | 2022-01-27 | 2022-02-05 |
@@ -264,6 +264,7 @@
 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2022-01-05 | 2023-10-19 |
 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 | 2024-10-05 |  |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2021-12-06 | 2022-02-05 |
+| [Unse Jaake Kehdo](https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Unse Jaake Kehdo](https://open.spotify.com/album/6fl0XZZ3Prg5rfGSjdsgAV) | 2:57 | 2025-07-18 |  |
 | [Wagairah Wagairah](https://open.spotify.com/track/5GcjIiSS47T64N1DFxn1UK) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [The Ghalat Family](https://open.spotify.com/artist/2TOUVQAEhJJDSvqjLS4X7x) | [Side A](https://open.spotify.com/album/4y3rYukqA7L8aPmkCaMj5P) | 3:37 | 2021-12-06 | 2022-03-17 |
 | [Waqt Ki Baatein](https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein](https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO) | 4:03 | 2022-07-25 | 2024-04-19 |
 | [Waqt Ki Baatein](https://open.spotify.com/track/1lIYP8fDGGnp91OMTUnwjV) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein \- Single](https://open.spotify.com/album/0SH6gTE06saGgjmvsDWIba) | 4:03 | 2021-12-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 545508,
+  "num_followers": 545497,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Repeater",
-        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
-      },
-      "artists": [
-        {
-          "name": "King Buffalo",
-          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
-        }
-      ],
-      "duration_ms": 356824,
-      "name": "Centurion",
-      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 213333,
       "name": "Rabbit One",
       "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Repeater",
+        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
+      },
+      "artists": [
+        {
+          "name": "King Buffalo",
+          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
+        }
+      ],
+      "duration_ms": 356824,
+      "name": "Centurion",
+      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Damned by Fate",
-        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
-      },
-      "artists": [
-        {
-          "name": "Red Desert",
-          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
-        }
-      ],
-      "duration_ms": 336720,
-      "name": "Older No Wiser",
-      "url": "https://open.spotify.com/track/3vX40kM91roJS58JpFMWct"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Capricorn",
         "url": "https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 433706,
       "name": "Eyes Behind the Wall",
       "url": "https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Damned by Fate",
+        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
+      },
+      "artists": [
+        {
+          "name": "Red Desert",
+          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
+        }
+      ],
+      "duration_ms": 336720,
+      "name": "Older No Wiser",
+      "url": "https://open.spotify.com/track/3vX40kM91roJS58JpFMWct"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "A Drug Problem That Never Existed",
-        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
+        "name": "There is Nothing New Under the Sun",
+        "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
       "artists": [
         {
-          "name": "Mondo Generator",
-          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
+          "name": "Slomosa",
+          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
         }
       ],
-      "duration_ms": 155066,
-      "name": "So High, So Low",
-      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
+      "duration_ms": 237424,
+      "name": "There is Nothing New Under the Sun",
+      "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "There is Nothing New Under the Sun",
-        "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
+        "name": "A Drug Problem That Never Existed",
+        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
       },
       "artists": [
         {
-          "name": "Slomosa",
-          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
+          "name": "Mondo Generator",
+          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
         }
       ],
-      "duration_ms": 237424,
-      "name": "There is Nothing New Under the Sun",
-      "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
+      "duration_ms": 155066,
+      "name": "So High, So Low",
+      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4"
-      },
-      "artists": [
-        {
-          "name": "Graveyard",
-          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
-        }
-      ],
-      "duration_ms": 233599,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love Fear Choices and Astronauts",
         "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 651110,
       "name": "Bright Dawn of the Soul",
       "url": "https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4"
+      },
+      "artists": [
+        {
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+        }
+      ],
+      "duration_ms": 233599,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dos E.P.'s",
-        "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
-      },
-      "artists": [
-        {
-          "name": "Nebula",
-          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
-        }
-      ],
-      "duration_ms": 328960,
-      "name": "Smokin' Woman",
-      "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Lightning Born",
         "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 275066,
       "name": "Shifting Winds",
       "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dos E.P.'s",
+        "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
+      },
+      "artists": [
+        {
+          "name": "Nebula",
+          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
+        }
+      ],
+      "duration_ms": 328960,
+      "name": "Smokin' Woman",
+      "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Tested By Death",
-        "url": "https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb"
-      },
-      "artists": [
-        {
-          "name": "Wizard Master",
-          "url": "https://open.spotify.com/artist/6X1zEmVicCUxyjqKVxOGNH"
-        }
-      ],
-      "duration_ms": 512011,
-      "name": "Tested By Death",
-      "url": "https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Emerald Liquid Odyssey",
         "url": "https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 189946,
       "name": "Rockin' Course",
       "url": "https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Tested By Death",
+        "url": "https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb"
+      },
+      "artists": [
+        {
+          "name": "Wizard Master",
+          "url": "https://open.spotify.com/artist/6X1zEmVicCUxyjqKVxOGNH"
+        }
+      ],
+      "duration_ms": 512011,
+      "name": "Tested By Death",
+      "url": "https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Thornwyck Hymn",
-        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+        "name": "Gravity X",
+        "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
       },
       "artists": [
         {
-          "name": "My Dying Bride",
-          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
         }
       ],
-      "duration_ms": 407783,
-      "name": "Thornwyck Hymn",
-      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
+      "duration_ms": 449946,
+      "name": "Desert Cruiser",
+      "url": "https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Gravity X",
-        "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
+        "name": "Thornwyck Hymn",
+        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
       },
       "artists": [
         {
-          "name": "Truckfighters",
-          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
+          "name": "My Dying Bride",
+          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
         }
       ],
-      "duration_ms": 449946,
-      "name": "Desert Cruiser",
-      "url": "https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS"
+      "duration_ms": 407783,
+      "name": "Thornwyck Hymn",
+      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     },
     {
       "added_at": "2024-07-19 04:00:00",

@@ -4,7 +4,7 @@
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-122 songs - 5 hr 45 min
+123 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [FOOT SOLDIERS](https://open.spotify.com/track/2MjMV7Z1X9lvZ00SUbH6dr) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:25 | 2024-10-07 | 2024-10-27 |
 | [Gangsta Art \(Yo Gotti, Moneybagg Yo feat\. 42 Dugg, EST Gee, Mozzy, Lehla Samia, Blac Youngsta\)](https://open.spotify.com/track/63u4taM8CTklMQhrcV3via) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 4:58 | 2022-10-28 | 2023-01-05 |
 | [GANGSTAS RELATE \(feat\. Lil Durk\)](https://open.spotify.com/track/2JCWe0T7tj4FGl95dD1slq) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:39 | 2024-06-18 | 2024-07-14 |
-| [GO! \(with BIG30\)](https://open.spotify.com/track/04wzgTWP6YU07PdUjm0XzG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:03 | 2022-10-28 |  |
+| [GO! \(with BIG30\)](https://open.spotify.com/track/04wzgTWP6YU07PdUjm0XzG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:03 | 2022-10-28 | 2025-07-19 |
+| [Hard For The Next \(with Future\)](https://open.spotify.com/track/4ELmykSaWrdjQS5iADqHxS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:46 | 2025-07-19 |  |
 | [Headstrong \(feat\. Kevin Gates\)](https://open.spotify.com/track/0Tuxvc11PSg4SyImVQYO4J) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:31 | 2023-03-14 | 2023-06-05 |
 | [Hear It Back \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/1fz22sUZlpL9jZOWz02wws) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:14 | 2022-10-28 | 2024-02-10 |
 | [Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qyZ6LcHvBiIHLaoED8K4g) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 2:30 | 2022-10-28 | 2024-03-29 |

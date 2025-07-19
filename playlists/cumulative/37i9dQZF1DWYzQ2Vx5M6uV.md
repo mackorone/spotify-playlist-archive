@@ -2,9 +2,9 @@
 
 ### [Afro Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWYzQ2Vx5M6uV)
 
-> Heat that will make you sweat 🥵 Cover: Goyo & Greeicy
+> Heat that will make you sweat 🥵 Cover: Hamilton & Farruko
 
-285 songs - 14 hr 36 min
+288 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,8 @@
 | [La Elegida](https://open.spotify.com/track/2c5LwtWqquh9fVqlVbwxwe) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [La Elegida](https://open.spotify.com/album/6Ny3p7Heqf2ZzvJcosJ6nE) | 2:26 | 2025-03-07 | 2025-06-07 |
 | [La Favorita de Mi Mama](https://open.spotify.com/track/6YBk9MOOX2DHKyuGwLvf33) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [La Favorita de Mi Mama](https://open.spotify.com/album/0DuO3Jyjb8Hr7hCrzNZRse) | 2:35 | 2025-01-31 | 2025-04-05 |
 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 | 2025-02-24 |  |
+| [La Ruta](https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Ruta](https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW) | 2:41 | 2025-07-18 |  |
+| [Laho III](https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Laho III](https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i) | 2:58 | 2025-07-18 |  |
 | [Lento](https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Lento](https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00) | 3:08 | 2022-02-16 | 2024-09-21 |
 | [Like A Queen \- 2023 Remasterizado](https://open.spotify.com/track/7LqBm569RxBvwKwSsyc84u) | [SAID](https://open.spotify.com/artist/23L97OPEAL99fR1xI70qVf), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Waremu](https://open.spotify.com/album/7axGk6fGopyn8YlvKFGVKm) | 2:39 | 2023-11-24 | 2024-04-19 |
 | [Like a Queen \- Remix](https://open.spotify.com/track/34CKU5kPRpvJPCqBZ5224w) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Said Palacios](https://open.spotify.com/artist/2IYe9gw3UV7STpcsbbrsvH) | [Like a Queen \(Remix\)](https://open.spotify.com/album/7oeAp9HBcnrktbdwe22fgK) | 2:38 | 2022-04-14 | 2023-11-08 |
@@ -168,6 +170,7 @@
 | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2) | 2:59 | 2022-03-31 | 2024-09-21 |
 | [Nightshift](https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX) | [Nightshift](https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw) | 2:58 | 2022-02-16 | 2024-06-08 |
 | [No Eres Para Mí](https://open.spotify.com/track/72Vber9fOVazt2HqIr1NdW) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [No Eres Para Mí](https://open.spotify.com/album/4ONJClRXnrFuy8cVamg8jg) | 3:20 | 2025-01-31 | 2025-05-10 |
+| [No Esperes](https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Esperes](https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW) | 3:14 | 2025-07-18 |  |
 | [No Se Dio](https://open.spotify.com/track/4WJlDctOtjnZXgW49DM1Bs) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [No Se Dio](https://open.spotify.com/album/7qkFiccMKg5MaeuaznXLJF) | 2:48 | 2024-11-22 | 2025-06-07 |
 | [No Te Soltaré](https://open.spotify.com/track/2A0m04EDTwS2V5VXYGuX8t) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT) | [No Te Soltaré](https://open.spotify.com/album/5VBD9gdyGCL81c1mkww9p6) | 2:37 | 2025-05-30 |  |
 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 | 2025-05-16 |  |

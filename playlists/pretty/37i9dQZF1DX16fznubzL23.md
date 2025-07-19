@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,384 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,388 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 20 | [How Do You?](https://open.spotify.com/track/1ByWHNLTkPtzImR5jUjvQ2) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [How Do You?](https://open.spotify.com/album/7fLcgyXSupsaclb9IwC736) | 3:30 |
 | 21 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
 | 22 | [Broken Souls](https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v) | [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9) | [Broken Souls](https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp) | 2:37 |
-| 23 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
+| 23 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
 | 24 | [DYANA](https://open.spotify.com/track/31d1jnHHtwc43kLjZDNuRs) | [ERMA](https://open.spotify.com/artist/2PwK5I2RMc0AL6NIRCIUWG) | [DYANA](https://open.spotify.com/album/4uSyCrq4DNXkkgSJNPLDbr) | 3:10 |
-| 25 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
+| 25 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
 | 26 | [Last Time](https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:33 |
 | 27 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 |
 | 28 | [Fool Me Once](https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [Fool Me Once](https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX) | 3:53 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 44 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 45 | [Cry \(shayo\) \(feat\. Lojay\)](https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:48 |
 | 46 | [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 |
-| 47 | [Ojuju](https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Eclipse](https://open.spotify.com/album/0yHslhvyRmnhOCUIYzNE5i) | 3:07 |
-| 48 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
+| 47 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
+| 48 | [Ojuju](https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Eclipse](https://open.spotify.com/album/0yHslhvyRmnhOCUIYzNE5i) | 3:07 |
 | 49 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 |
 | 50 | [letting go](https://open.spotify.com/track/4VmZWEvWcmWFqg7GciQM88) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:35 |
 

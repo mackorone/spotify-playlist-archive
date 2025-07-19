@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 17 | [Holy Water](https://open.spotify.com/track/4x8KGMFJ2KiIvYF03Hoaa9) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:06 |
 | 18 | [seven\-twenty\-four](https://open.spotify.com/track/3agJXAf7NRv8VQ8owdwszX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [seven\-twenty\-four](https://open.spotify.com/album/5QUmgjGrLcwkWO48NEi0Xs) | 4:18 |
 | 19 | [He's Trippi](https://open.spotify.com/track/7CLfpXbv3Nt7QDDclvvyfo) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Facsimile](https://open.spotify.com/album/7avdF6sTNZkC771gxNmj1n) | 3:04 |
-| 20 | [U Dnt Fk Me Up](https://open.spotify.com/track/6e4ixOLC0odrzT2UvDravh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [U Dnt Fk Me Up](https://open.spotify.com/album/3sR01bZudXMyh627XLxn15) | 2:45 |
-| 21 | [no reason to cry](https://open.spotify.com/track/5Byx31VEpvvOBmsVFPzTh0) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [no reason to cry](https://open.spotify.com/album/39t4Ap861N3r7OaJaZJ2CM) | 3:03 |
+| 20 | [no reason to cry](https://open.spotify.com/track/5Byx31VEpvvOBmsVFPzTh0) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [no reason to cry](https://open.spotify.com/album/39t4Ap861N3r7OaJaZJ2CM) | 3:03 |
+| 21 | [U Dnt Fk Me Up](https://open.spotify.com/track/6e4ixOLC0odrzT2UvDravh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [U Dnt Fk Me Up](https://open.spotify.com/album/3sR01bZudXMyh627XLxn15) | 2:45 |
 | 22 | [How To Dance](https://open.spotify.com/track/17TLMCiWbRnNblIfXiDLfF) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:09 |
 | 23 | [What I Know Now](https://open.spotify.com/track/4TdvTst17a1sB4nFgEgMC1) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [What I Know Now](https://open.spotify.com/album/6CEcy25megcuYifhqxgzkn) | 3:04 |
 | 24 | [Show Me](https://open.spotify.com/track/4U9O5yQAIxi4GsZGhcRXsS) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Show Me](https://open.spotify.com/album/1nVmuytyAbzD8Bk1SqDv04) | 3:40 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 53 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
 | 54 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
 
-Snapshot ID: `Ab3DMgAAAACWo1wXVHi2LAyhslFmb0Ss`
+Snapshot ID: `Ab3I0gAAAAAbPI4VMsXMjlhJR5as9oP2`

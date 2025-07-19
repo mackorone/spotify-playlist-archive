@@ -4,7 +4,7 @@
 
 > Nuovi brani di Bad Bunny, Artie 5ive, Travis Scott, Mida e VillaBanks, Ele A e Colapesce, Baby Gang con El Alfa e Omega, Maluma e molti altri.
 
-5,704 songs - 11 day 22 hr 39 min
+5,705 songs - 11 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2392,7 +2392,7 @@
 | [IL CIELO È VIOLA](https://open.spotify.com/track/55S6yXbZ1V0UPhSRvD5eQ8) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [IL CIELO È VIOLA](https://open.spotify.com/album/1vZXRwKgfv5GvjJMs4CKDE) | 2:27 | 2024-11-15 | 2024-11-22 |
 | [Il contrario](https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Il contrario](https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq) | 2:54 | 2024-11-15 | 2024-11-22 |
 | [Il Doc 5 \(feat\. Guè, Sayf, Glocky & FT Kings\)](https://open.spotify.com/track/1C9kzg1ucqWi7qbNES3VBd) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Il Doc 5 \(feat\. Guè, Sayf, Glocky & FT Kings\)](https://open.spotify.com/album/65QcVfQCqqmFoIc3yP9QpP) | 4:22 | 2025-03-28 | 2025-04-04 |
-| [IL DOTTORE DI SQUID GAME](https://open.spotify.com/track/7MaHjiw6xM4rJ2yWtPBB6b) | [Medley](https://open.spotify.com/artist/5jYDIXCTEY2CDB1Eln1NGp) | [IL DOTTORE DI SQUID GAME](https://open.spotify.com/album/7u2DTTruKwF0B4NkN5q0Yc) | 1:27 | 2025-07-10 | 2025-07-12 |
+| [IL DOTTORE DI SQUID GAME](https://open.spotify.com/track/7MaHjiw6xM4rJ2yWtPBB6b) | [Medley](https://open.spotify.com/artist/5jYDIXCTEY2CDB1Eln1NGp) | [IL DOTTORE DI SQUID GAME](https://open.spotify.com/album/7u2DTTruKwF0B4NkN5q0Yc) | 1:27 | 2025-07-10 |  |
 | [IL FANTASMA](https://open.spotify.com/track/5GHXpgAkQOTYwyt6o99Jfp) | [Captain Quentin](https://open.spotify.com/artist/7IMh6BewwMs6j7dYkkTjFm), [Max Collini](https://open.spotify.com/artist/3tOrLl8dmGYZyrAfid0Gqd) | [QUATTRO](https://open.spotify.com/album/6qJcWI2d8ngvgjRRrRpMw4) | 3:04 | 2025-06-26 | 2025-07-04 |
 | [il filo rosso](https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [il filo rosso](https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2) | 3:07 | 2024-10-17 | 2024-10-25 |
 | [il frutto](https://open.spotify.com/track/6171i0PgjeJc2vdsXl6UwK) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw) | [il frutto](https://open.spotify.com/album/1zXLcxDv1MskC0C9GnObNW) | 2:09 | 2025-04-17 | 2025-04-23 |
@@ -5232,6 +5232,7 @@
 | [TRÈS JOLIE](https://open.spotify.com/track/1JXKz4JVlfgIDM4yQwXICy) | [CORSO ITALIA](https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK) | [TRÈS JOLIE](https://open.spotify.com/album/5C8hjdnU2OKb2bxnI4h4R4) | 2:52 | 2025-02-20 | 2025-02-28 |
 | [Tsunami](https://open.spotify.com/track/2DpPqSrOsaeqh75qLdrtUX) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk) | [L'Esame Di Maturità](https://open.spotify.com/album/75xPEVP9kQX6fzBRFAOaeU) | 3:36 | 2025-05-29 | 2025-06-06 |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-08-02 |
+| [Tsunami](https://open.spotify.com/track/2n3zCFoj5VM9UYGDeiUlPs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Tsunami](https://open.spotify.com/album/1yI4sqzattJa3bLcyIn29K) | 2:44 | 2025-07-18 |  |
 | [tt ok](https://open.spotify.com/track/1ntCSSTtth70lJMh37pRw3) | [Saphe](https://open.spotify.com/artist/0PfwY5WJuVYmUc6PJzQ9TO) | [tt ok](https://open.spotify.com/album/0QKkoDaj88IerPtWlAbsoF) | 1:53 | 2024-06-06 | 2024-06-14 |
 | [TTT le parole](https://open.spotify.com/track/0On3SACPvpZ4WBhELYfxj8) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [TTT le parole](https://open.spotify.com/album/3g8TCHm0KRmoGtDKrz7AlG) | 3:00 | 2025-02-20 | 2025-02-28 |
 | [TTXTE](https://open.spotify.com/track/56UWbNlndkszMWEkgQVKsh) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [TTXTE](https://open.spotify.com/album/0XkK1MN64eJ5GI5r4Hs2H8) | 2:17 | 2025-05-01 | 2025-05-09 |

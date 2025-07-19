@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Hecht, Bad Bunny, Jamule and RAF Camora, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,189 likes - 99 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,335 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 40 | [Bitte sei vorsichtig](https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Bitte sei vorsichtig](https://open.spotify.com/album/2kTU5wPrLFTHoVP7Q1zP0C) | 2:36 |
 | 41 | [Rock Lee](https://open.spotify.com/track/0weBlwsaaCdIsX5TVcbTjf) | [MAS](https://open.spotify.com/artist/4tNQM7m6fS2XvpLk3IGeye) | [Rock Lee](https://open.spotify.com/album/5FhMlIsDPJg3e6GO6dI0f1) | 2:26 |
 | 42 | [blonded radio](https://open.spotify.com/track/3IOmPZ1vcncCHZKUTxKVFX) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blonded radio](https://open.spotify.com/album/1Ad5Lvdxh1Zt68BZZksIIp) | 2:47 |
-| 43 | [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i), [Eden Leshem](https://open.spotify.com/artist/49NRXEvNMMkyewpxD2ikH4), [Alice Phoebe Lou Matthew](https://open.spotify.com/artist/0VsqD71hCI2ABkZyHlYCzP), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:43 |
+| 43 | [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:42 |
 | 44 | [Ceiling](https://open.spotify.com/track/2jmX4HP6gwXieqWRoQtuPd) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv), [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Ceiling](https://open.spotify.com/album/0WV9CKVq9Z1zz80VMNKcCy) | 3:17 |
 | 45 | [Super P](https://open.spotify.com/track/3Tms31oBYAg86wagtLDW41) | [Nevu](https://open.spotify.com/artist/4Jlz6ftcKgbGMSMszLoEz7) | [Super P](https://open.spotify.com/album/3kcrvq8bKNr7s5dJevsrFV) | 2:17 |
 | 46 | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP) | 3:03 |
@@ -106,6 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 96 | [I'm Not Sorry](https://open.spotify.com/track/1oKAhXZsG5BaeTYiLfRGc3) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [I'm Not Sorry](https://open.spotify.com/album/3079nT3EARPRRCFIqfGANZ) | 2:48 |
 | 97 | [Thierry Henry](https://open.spotify.com/track/5pqLT31JcC7kwjqIsq74D2) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [36](https://open.spotify.com/artist/7DGmBOT6629EbsQOqINEqJ) | [Thierry Henry](https://open.spotify.com/album/5LuSGdSF3GM7tFz9g2m7B3) | 3:05 |
 | 98 | [New Romantic \- English Version](https://open.spotify.com/track/2pX3BJ8Dth7FycBchBZPmh) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [New Romantic](https://open.spotify.com/album/0CTUBmq4C8SGei4uMG8TpY) | 2:55 |
-| 99 | [My Heart's A Crowded Room](https://open.spotify.com/track/1upx2CHNbauM1Fa9EdPlze) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [My Heart's A Crowded Room](https://open.spotify.com/album/1xUibDNIkBquUUX6Tou9S0) | 3:05 |
+| 99 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
+| 100 | [My Heart's A Crowded Room](https://open.spotify.com/track/1upx2CHNbauM1Fa9EdPlze) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [My Heart's A Crowded Room](https://open.spotify.com/album/1xUibDNIkBquUUX6Tou9S0) | 3:05 |
 
 Snapshot ID: `aHlykQAAAAAN0ERlIMjRD9SDFdOs4bsy`

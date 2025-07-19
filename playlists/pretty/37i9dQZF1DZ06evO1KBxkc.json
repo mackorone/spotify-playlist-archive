@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 201952,
+  "num_followers": 201976,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAATcHebRwJyBf2xi7xY+Az+",
+  "snapshot_id": "aHg9AAAAAAAVuzqAcZSvk+QdAFmEWPlc",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 235776,
+      "name": "Friend Zone",
+      "url": "https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winter's Over",
         "url": "https://open.spotify.com/album/5FiAdqj0b6uDckZ1vU8Xcq"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 150002,
       "name": "Winter's Over",
       "url": "https://open.spotify.com/track/1zKTAM10B7Z5ES2A0SsQ3W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artist",
-        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 235776,
-      "name": "Friend Zone",
-      "url": "https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Artist 2.0",
+        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 196618,
+      "name": "Blood On My Denim",
+      "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LP1",
         "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 249240,
       "name": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artist 2.0",
-        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 196618,
-      "name": "Blood On My Denim",
-      "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Tip Toe (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meet The Woo 2",
         "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 161120,
       "name": "Foreigner (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Tip Toe (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

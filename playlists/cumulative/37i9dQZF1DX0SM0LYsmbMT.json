@@ -3601,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Another One",
+      "url": "https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w"
+    },
+    {
+      "album": {
         "name": "Anthracite",
         "url": "https://open.spotify.com/album/1FiKHHRVwzf5ghwHFQ3wtZ"
       },
@@ -6860,7 +6878,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 147000,
       "name": "Beach Day",
       "url": "https://open.spotify.com/track/5rLNtBBUmPFjbR2fjV5qBQ"
@@ -26519,6 +26537,24 @@
     },
     {
       "album": {
+        "name": "Follow The Sun",
+        "url": "https://open.spotify.com/album/0sNiLYTTTXxgzQE0uwPqSp"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121445,
+      "name": "Follow The Sun",
+      "url": "https://open.spotify.com/track/4ch77Hai24RaR1hXMZfpf3"
+    },
+    {
+      "album": {
         "name": "Singer EP",
         "url": "https://open.spotify.com/album/5el6xbHl0FGHUOLdolCzm4"
       },
@@ -29756,7 +29792,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 120731,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/41Zbx9gIwTvzLKI4W4aIRi"
@@ -34904,7 +34940,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 127586,
       "name": "If I Were You",
       "url": "https://open.spotify.com/track/0AAWIOVPxFfjwvPaxfBBV4"
@@ -85354,6 +85390,28 @@
       "duration_ms": 180000,
       "name": "Want Do It Better",
       "url": "https://open.spotify.com/track/1OEXbuL1PJwlU2YbnnDLZU"
+    },
+    {
+      "album": {
+        "name": "Warden",
+        "url": "https://open.spotify.com/album/5r84rvFrce1IbuqzcycxSX"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "Fully Bold",
+          "url": "https://open.spotify.com/artist/7ggXEIg4mIZob9FvP51tM9"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Warden",
+      "url": "https://open.spotify.com/track/38MMHpFanYIJQDBAPfbJsH"
     },
     {
       "album": {

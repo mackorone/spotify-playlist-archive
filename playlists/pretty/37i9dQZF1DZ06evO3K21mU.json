@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 923042,
+  "num_followers": 923091,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAAS9KAQ1Iucy49fn6AWF1WH",
+  "snapshot_id": "aHg9AAAAAABsRGC3BTHMgku7CvqpLr+v",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "East Atlanta Love Letter",
+        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 240341,
+      "name": "Pretty Little Fears (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 218801,
       "name": "m y . l i f e (with 21 Savage & Morray)",
       "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "East Atlanta Love Letter",
-        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 240341,
-      "name": "Pretty Little Fears (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOD",
-        "url": "https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 200309,
-      "name": "Kevin\u2019s Heart",
-      "url": "https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 147666,
       "name": "To Summer, From Cole - Audio Hug",
       "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KOD",
+        "url": "https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 200309,
+      "name": "Kevin\u2019s Heart",
+      "url": "https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ"
     },
     {
       "added_at": null,

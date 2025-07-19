@@ -4,7 +4,7 @@
 
 > Nuevo sonido, misma actitud.<br/>📷 MARTTEIN
 
-289 songs - 16 hr 37 min
+291 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Estás acá](https://open.spotify.com/track/4q2adyzkct9AlMxrtsVHSK) | [Telepáticos](https://open.spotify.com/artist/0r4Bb4UTFpuFvIvENU6Az0) | [Telepáticos](https://open.spotify.com/album/3RIPF4H67CpBKiXrE1A8WR) | 3:31 | 2022-06-29 | 2022-07-20 |
 | [FANTINO](https://open.spotify.com/track/5dLzWnp0GXZyEFGhreAy9g) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [CULTURA FAMÉLICA](https://open.spotify.com/album/7z8JY0oZEWjeDI055rNyHo) | 3:20 | 2023-11-24 |  |
 | [Fornai](https://open.spotify.com/track/6zzkVxSr17jP2B7PbnsoXk) | [BARRO](https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41) | [Barro](https://open.spotify.com/album/2oUg7X1bWG4JfAkmuSDNMS) | 2:54 | 2023-05-19 | 2023-07-29 |
+| [FRIKI FRIKI](https://open.spotify.com/track/4K5rkuYVaInky94Qy2CWJr) | [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7) | [FRIKI FRIKI](https://open.spotify.com/album/0pdh2LkicARabft0VRzG3h) | 2:10 | 2025-07-18 |  |
 | [Frontera](https://open.spotify.com/track/1Do9XJmrqphuNTk3XJ37ah) | [Años Luz](https://open.spotify.com/artist/46N1BjrxCmtoQO0RVjVzlP) | [Frontera](https://open.spotify.com/album/0EdNh6GwvHJViNFEXdVOBA) | 3:01 | 2022-09-09 | 2023-05-20 |
 | [Fuera de Foco](https://open.spotify.com/track/3HBuXMWVqplKX6GXaQCyrS) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [El Show del Fin del Mundo, Vol\. 1](https://open.spotify.com/album/1NwffYreHko6QEXjoAdSmq) | 3:16 | 2022-07-19 | 2022-09-10 |
 | [Fugaces](https://open.spotify.com/track/3KMzdWj8zpNC6PtFR4sAg3) | [Ricci Nostra](https://open.spotify.com/artist/3EAz9wWHQN5JwG5K1FqdMs) | [Fugaces](https://open.spotify.com/album/6rXurRSqTKOsFEsfMRr5aA) | 3:27 | 2022-06-29 | 2022-07-20 |
@@ -260,6 +261,7 @@
 | [Something In The Way](https://open.spotify.com/track/1tlTFxB34VorrZnJNfRWcs) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:01 | 2023-05-30 | 2023-06-09 |
 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 | 2022-06-29 | 2023-05-20 |
 | [SONIDO DEL AÑO](https://open.spotify.com/track/1QNifxPOa17DtmPn54Ac4d) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [TU DUO FAVORITO](https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ) | 2:49 | 2024-05-10 |  |
+| [SUPEROFERTAS](https://open.spotify.com/track/6anZ372zVQrtqrUEPYzCy4) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [SUPEROFERTAS](https://open.spotify.com/album/49fLoy8XuvcMIjetPKw4gO) | 2:01 | 2025-07-18 |  |
 | [Superstar](https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pura Casualidad](https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a) | 3:02 | 2022-07-19 | 2022-09-10 |
 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 | 2022-07-19 | 2023-05-20 |
 | [Tan Capaz](https://open.spotify.com/track/7rfTrFMb6pHxYZE8HpkSVe) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Tan Capaz](https://open.spotify.com/album/0XxiIUxCsCmnhoUBNAiVS4) | 4:07 | 2022-10-14 | 2023-05-20 |

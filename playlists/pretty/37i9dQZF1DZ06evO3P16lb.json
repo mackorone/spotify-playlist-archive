@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAC72DL8E4iKHUdnbFrrThEO",
+  "snapshot_id": "aHg9AAAAAADf+TzdAtXfuNKdhoEytPQl",
   "tracks": [
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+        "name": "Pa' Dentro",
+        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 160589,
-      "name": "Yo He Nacido Mexicana",
-      "url": "https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx"
+      "duration_ms": 152160,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Dentro",
-        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 152160,
-      "name": "Pa' Dentro - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
+      "duration_ms": 160589,
+      "name": "Yo He Nacido Mexicana",
+      "url": "https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx"
     },
     {
       "added_at": null,
@@ -643,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo (En Vivo)",
-        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
+        "name": "Una \u00daltima Noche",
+        "url": "https://open.spotify.com/album/5n7p3WM14jf5amvkY6rKMq"
       },
       "artists": [
+        {
+          "name": "Reto\u00f1os Del Rio",
+          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
+        },
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 212983,
-      "name": "El Mundo - En Vivo",
-      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
+      "duration_ms": 169596,
+      "name": "Una \u00daltima Noche",
+      "url": "https://open.spotify.com/track/3qarQbqnHhVji8OObEFeWK"
     },
     {
       "added_at": null,
@@ -675,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una \u00daltima Noche",
-        "url": "https://open.spotify.com/album/5n7p3WM14jf5amvkY6rKMq"
+        "name": "El Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
       },
       "artists": [
-        {
-          "name": "Reto\u00f1os Del Rio",
-          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
-        },
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 169596,
-      "name": "Una \u00daltima Noche",
-      "url": "https://open.spotify.com/track/3qarQbqnHhVji8OObEFeWK"
+      "duration_ms": 212983,
+      "name": "El Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
     },
     {
       "added_at": null,

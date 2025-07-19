@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2025\. Cover: BGYO
+> Discover new artists on the horizon this 2025\. Cover: Zae
 
-274 songs - 16 hr 22 min
+276 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Fools](https://open.spotify.com/track/6DrkG6Um9xknX1s1EEAiOt) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [Fools](https://open.spotify.com/album/72KInjGAd2d3lnnUfq4kSH) | 4:58 | 2021-11-25 | 2022-03-25 |
 | [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 | 2025-03-27 |  |
 | [Gayuma](https://open.spotify.com/track/6afFPpTmuVBwZ8OpCSBSYe) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 4:12 | 2023-04-13 | 2024-04-03 |
+| [Get That Peso \(Crank Dat\)](https://open.spotify.com/track/53CyvLDorWmatOzIlYJsHr) | [Matt White](https://open.spotify.com/artist/5wwh2J5HHs38gBfeOUgK93), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Get That Peso \(Crank Dat\)](https://open.spotify.com/album/1dvuTTGbwRqXvNpvqA1AUS) | 3:19 | 2025-07-18 |  |
 | [GET THIS BREAD PT\. I](https://open.spotify.com/track/7wNF4ciwy22SbgKGBTsFHY) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [GET THIS BREAD](https://open.spotify.com/album/0oCyTQxXS70olcur2hSe9R) | 3:33 | 2021-11-25 | 2022-03-25 |
 | [Girls Need Love \- Remix](https://open.spotify.com/track/4rWXfXphKXHxrB56npwV4k) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Girls Need Love \(Remix\)](https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL) | 2:43 | 2024-01-11 | 2024-04-03 |
 | [Go Crazy](https://open.spotify.com/track/2uprvwdE45v3PnfLMNHRBE) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Go Crazy](https://open.spotify.com/album/6Kiq3yPwoquYd8dxOA4EoY) | 3:33 | 2021-11-25 | 2022-03-25 |
@@ -108,6 +109,7 @@
 | [Hue](https://open.spotify.com/track/58uGxLvKGorVzU2VbilKk6) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Vivid](https://open.spotify.com/album/6xdFPvtm4YKclLHnWxFLJM) | 2:52 | 2021-11-25 | 2022-03-25 |
 | [Huli](https://open.spotify.com/track/3fWRjcmyiuRIodbyHH2c7A) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Huli](https://open.spotify.com/album/0ER3BPTPVNeIEh6MN9H3Lf) | 4:24 | 2022-08-26 | 2022-12-01 |
 | [Huwag Muna Tayong Umuwi](https://open.spotify.com/track/7haQq014RoahMX6spW4z1z) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/7H64wogfyQUcRqFZFbMV9S) | 4:57 | 2024-04-02 | 2025-03-28 |
+| [I can be the one](https://open.spotify.com/track/4rgexTquOBLYzQWusUsLyb) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [I can be the one](https://open.spotify.com/album/1A8lPVdz7nGht81w9PrwKo) | 3:45 | 2025-07-18 |  |
 | [I'll Be There](https://open.spotify.com/track/5gZV0o24zaNzzhaMMOgnVx) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [I'll Be There](https://open.spotify.com/album/6yYv4nsfKhHXWv3EqZ4h9g) | 3:08 | 2025-03-27 |  |
 | [I'M FINE](https://open.spotify.com/track/6rD22TasmUeZMz4dX8VLku) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb), [Hijo](https://open.spotify.com/artist/5FKfbso0qRACpiLxHQ0Ad6) | [CHANGIN' Vol\. 1](https://open.spotify.com/album/4bXcecNzDmfAS8pTtxNKT9) | 3:47 | 2021-11-25 | 2022-03-25 |
 | [If](https://open.spotify.com/track/4Ji644TkVvAvuUbNYkmuMv) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [If](https://open.spotify.com/album/6venqEQk0VxnehajThSHrI) | 2:58 | 2023-04-13 | 2024-04-03 |

@@ -2685,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "Gasoline (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6nCPvy37Ift4HZgMOnhC9i"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202706,
+      "name": "Gasoline - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1AtAj9ArYUprSRwdLjItvl"
+    },
+    {
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/2okSmN83SWjZXl1Fgqwt4S"
       },
@@ -6306,7 +6324,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 249789,
       "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf"

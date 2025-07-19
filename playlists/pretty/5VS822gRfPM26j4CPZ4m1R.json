@@ -1,13 +1,45 @@
 {
   "description": "Playlist",
-  "num_followers": 17766,
+  "num_followers": 17769,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAL3loD7PXeSc2Sjv7McpO8eeAS47/C",
+  "snapshot_id": "AAAL4q9w7YycZ7Fd7LL7brLlw5wN6yHX",
   "tracks": [
+    {
+      "added_at": "2025-07-18 09:37:51",
+      "album": {
+        "name": "Changin Me",
+        "url": "https://open.spotify.com/album/1mOKUsrP4CiJwI13cMlBZB"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Changin Me",
+      "url": "https://open.spotify.com/track/0ohz67ESfEL7m6xYGRPTHu"
+    },
+    {
+      "added_at": "2025-05-19 09:23:07",
+      "album": {
+        "name": "Venice In Vegas",
+        "url": "https://open.spotify.com/album/6LvqM78DSiJhlF7qgiTDSg"
+      },
+      "artists": [
+        {
+          "name": "Cool Sounds",
+          "url": "https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU"
+        }
+      ],
+      "duration_ms": 239434,
+      "name": "Venice In Vegas",
+      "url": "https://open.spotify.com/track/4e3SbftWWthMLLC2NiLxsR"
+    },
     {
       "added_at": "2025-05-30 08:54:06",
       "album": {
@@ -27,22 +59,6 @@
       "duration_ms": 184000,
       "name": "Honey",
       "url": "https://open.spotify.com/track/752BS2kpBhOU6PGxRYXT0C"
-    },
-    {
-      "added_at": "2025-05-19 09:23:07",
-      "album": {
-        "name": "Venice In Vegas",
-        "url": "https://open.spotify.com/album/6LvqM78DSiJhlF7qgiTDSg"
-      },
-      "artists": [
-        {
-          "name": "Cool Sounds",
-          "url": "https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU"
-        }
-      ],
-      "duration_ms": 239434,
-      "name": "Venice In Vegas",
-      "url": "https://open.spotify.com/track/4e3SbftWWthMLLC2NiLxsR"
     },
     {
       "added_at": "2025-02-21 09:18:09",
@@ -9843,6 +9859,22 @@
       "duration_ms": 169879,
       "name": "Bye Dummy",
       "url": "https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz"
+    },
+    {
+      "added_at": "2025-07-18 09:42:29",
+      "album": {
+        "name": "GNAT",
+        "url": "https://open.spotify.com/album/1BNuN0l6Z4G4KHqq80MiFH"
+      },
+      "artists": [
+        {
+          "name": "ZOO",
+          "url": "https://open.spotify.com/artist/6d4fitLNR82dlkyALodJWR"
+        }
+      ],
+      "duration_ms": 270005,
+      "name": "GNAT",
+      "url": "https://open.spotify.com/track/2kHcjE4XH8nL0BGlw67UY5"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

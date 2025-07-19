@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "ENOCH",
+        "url": "https://open.spotify.com/album/6iosJzmbhMPivxtY4Wd3bX"
+      },
+      "artists": [
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89673,
+      "name": "AVENTADOR",
+      "url": "https://open.spotify.com/track/1HfRUONTeuX9dwOdgLFCe0"
+    },
+    {
+      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y"
       },

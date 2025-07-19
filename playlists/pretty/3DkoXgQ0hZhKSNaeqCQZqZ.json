@@ -1,13 +1,33 @@
 {
   "description": "All songs made for furs, by furs.  Request a song @ FurryRadio.com",
-  "num_followers": 625,
+  "num_followers": 627,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADtgZYGUAXK+6LG6nsYXsaeNACzRoU",
+  "snapshot_id": "AAADt9gGcAUpzlNN0eMsRxGWAZfQ8njN",
   "tracks": [
+    {
+      "added_at": "2025-07-18 23:42:13",
+      "album": {
+        "name": "anxiety",
+        "url": "https://open.spotify.com/album/7FB48AGZIDX4JkMqsOjWlX"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "chattybaxi",
+          "url": "https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj"
+        }
+      ],
+      "duration_ms": 111629,
+      "name": "anxiety",
+      "url": "https://open.spotify.com/track/0nlySXaY4zkVNNmFfXO8FS"
+    },
     {
       "added_at": "2025-07-17 23:09:21",
       "album": {

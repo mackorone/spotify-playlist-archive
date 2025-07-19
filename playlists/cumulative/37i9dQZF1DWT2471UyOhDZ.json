@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "A hand-picked selection for an extraordinary palette. Cover: Ethel Cain",
+  "description": "A hand-picked selection for an extraordinary palette. Cover: The Charlatans",
   "name": "The Listening Post",
   "tracks": [
     {
@@ -648,7 +648,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 216757,
       "name": "Besties",
       "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 191342,
       "name": "But I'll Keep Trying",
       "url": "https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo"
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 228999,
       "name": "drains",
       "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 247940,
       "name": "Every Dawn's a Mountain",
       "url": "https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d"
@@ -2721,6 +2721,42 @@
     },
     {
       "album": {
+        "name": "Let All That We Imagine Be The Light",
+        "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273598,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/7y9jNvL0e0jTu0yr4OJ7Yd"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131906,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC"
+    },
+    {
+      "album": {
         "name": "Honeycomb",
         "url": "https://open.spotify.com/album/1bXymWHWPNubbjT9Pi2HBH"
       },
@@ -3236,7 +3272,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 319561,
       "name": "Like The End",
       "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
@@ -3528,6 +3564,24 @@
       "duration_ms": 189947,
       "name": "Man Made of Meat",
       "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
+    },
+    {
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "album": {
@@ -4058,10 +4112,28 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 299354,
       "name": "Once A Bunch",
       "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
+    },
+    {
+      "album": {
+        "name": "Oranges",
+        "url": "https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172786,
+      "name": "Oranges",
+      "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
     },
     {
       "album": {
@@ -4876,7 +4948,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 174233,
       "name": "Statue In The Square",
       "url": "https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE"
@@ -5076,6 +5148,24 @@
       "duration_ms": 118835,
       "name": "Tambourine",
       "url": "https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY"
+    },
+    {
+      "album": {
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
     },
     {
       "album": {
@@ -5480,6 +5570,24 @@
       "duration_ms": 342796,
       "name": "The Silence That Remains",
       "url": "https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu"
+    },
+    {
+      "album": {
+        "name": "The Sofa",
+        "url": "https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266306,
+      "name": "The Sofa",
+      "url": "https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh"
     },
     {
       "album": {
@@ -6010,6 +6118,24 @@
       "duration_ms": 258493,
       "name": "Way Over Your Head",
       "url": "https://open.spotify.com/track/0BrlNgoHkld65rRAosLY3h"
+    },
+    {
+      "album": {
+        "name": "We Are Love",
+        "url": "https://open.spotify.com/album/34RkN67xQ6o5Hz3OZHc050"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229567,
+      "name": "We Are Love",
+      "url": "https://open.spotify.com/track/0H2OWzwSFI9wFuHZxZihim"
     },
     {
       "album": {

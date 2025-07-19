@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-751 songs - 2 day 9 hr 24 min
+752 songs - 2 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Constellations](https://open.spotify.com/track/6KkU1Ohy73YvLv9nCzyDXV) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Constellations](https://open.spotify.com/album/4tuLrYKsQd8M01SsvdU5MY) | 6:03 | 2023-02-17 | 2023-02-28 |
 | [Contact](https://open.spotify.com/track/5ludDBASLNjFINkMhMs8Al) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Contact](https://open.spotify.com/album/1LOWYMjMQJxGazjrlpnI6L) | 3:12 | 2024-10-03 | 2024-10-25 |
 | [Continuum \- Moritz Hofbauer Remix](https://open.spotify.com/track/3LriBnhljZSB6xWmqP5Pqw) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Continuum \(Moritz Hofbauer Remix\)](https://open.spotify.com/album/0CGXqPj2TDdDJxpZU6W8tT) | 5:16 | 2024-08-29 | 2024-09-20 |
-| [Control](https://open.spotify.com/track/25dv1J3uB2S7V5QZTyySmL) | [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Control](https://open.spotify.com/album/3x4m9uYBzKtjkNqS3ous14) | 4:06 | 2025-05-08 |  |
+| [Control](https://open.spotify.com/track/25dv1J3uB2S7V5QZTyySmL) | [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Control](https://open.spotify.com/album/3x4m9uYBzKtjkNqS3ous14) | 4:06 | 2025-05-08 | 2025-07-19 |
 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-11-23 | 2024-01-06 |
 | [Cosmovision](https://open.spotify.com/track/32JWyOLWccN1BwBvwjuChN) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/5jXLIlcuEhUQIjo9H5ruo9) | 3:33 | 2024-01-12 | 2024-04-19 |
 | [Crashing Down](https://open.spotify.com/track/5FcA6iffnImU3QTQmBc7PO) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Bigfett](https://open.spotify.com/artist/7x68cYMeDnvneRvfFyEyae), [Frýnn](https://open.spotify.com/artist/7qKTe67KmBqhVbkCwrO3Av) | [Crashing Down](https://open.spotify.com/album/0DRL45LlPLza9uxJl3nIpu) | 3:36 | 2025-04-17 |  |
@@ -549,6 +549,7 @@
 | [RITMO](https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [RITMO](https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q) | 3:13 | 2024-10-31 |  |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2022-12-28 | 2023-01-06 |
 | [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-04 | 2024-01-06 |
+| [Rohrdommel](https://open.spotify.com/track/5dp3GmE5fxaVpU1Txh7CrE) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Rohrdommel](https://open.spotify.com/album/2gLaWHcazbQZl5CGvx4Djd) | 7:19 | 2025-07-18 |  |
 | [Rondo](https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Rondo](https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD) | 2:26 | 2024-04-04 |  |
 | [Run](https://open.spotify.com/track/4bZh8RQpNQCJs5A7WvVC69) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Run](https://open.spotify.com/album/0zJtwrOgT3IqXpYAOFX71i) | 4:05 | 2024-11-28 | 2025-03-28 |
 | [Run & Hide \- Ae:ther Remix](https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Run & Hide \(Ae:ther Remix\)](https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS) | 7:02 | 2022-12-02 | 2023-02-04 |

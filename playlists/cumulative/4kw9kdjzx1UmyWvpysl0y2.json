@@ -1137,6 +1137,36 @@
     },
     {
       "album": {
+        "name": "M.D.E",
+        "url": "https://open.spotify.com/album/6FpaiHvj1oJNGrjNxCgFY9"
+      },
+      "artists": [
+        {
+          "name": "DJ DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0hnCtTIkfYPoiTZTLqa1kf"
+    },
+    {
+      "album": {
         "name": "Anna",
         "url": "https://open.spotify.com/album/5zFicqaCzRszFnV8wl0Ipz"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Nieuwe muziek: Roxy Dekker, Frenna, Alex Warren, Bad Bunny en meer",
-  "num_followers": 280248,
+  "num_followers": 280922,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
@@ -451,7 +451,7 @@
     {
       "added_at": "2025-07-17 22:00:41",
       "album": {
-        "name": "SOAK",
+        "name": "SOAK (feat. Ocean Banks)",
         "url": "https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD"
       },
       "artists": [
@@ -462,10 +462,14 @@
         {
           "name": "Rotimi",
           "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        },
+        {
+          "name": "Ocean Banks",
+          "url": "https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK"
         }
       ],
       "duration_ms": 156947,
-      "name": "SOAK",
+      "name": "SOAK (feat. Ocean Banks)",
       "url": "https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd"
     },
     {
@@ -1048,7 +1052,7 @@
           "url": "https://open.spotify.com/artist/3q1SvFNWA77vrDRqEpgjbS"
         }
       ],
-      "duration_ms": 109057,
+      "duration_ms": 109224,
       "name": "New Boys",
       "url": "https://open.spotify.com/track/3yqVXOeFuYgYcQrcB2lehE"
     },
@@ -1227,6 +1231,26 @@
       "duration_ms": 238262,
       "name": "Tear Me Down",
       "url": "https://open.spotify.com/track/7igaOWovZvVG2sjgsaa0UE"
+    },
+    {
+      "added_at": "2025-07-17 22:00:41",
+      "album": {
+        "name": "boffum",
+        "url": "https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "J White Did It",
+          "url": "https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir"
+        }
+      ],
+      "duration_ms": 127862,
+      "name": "boffum",
+      "url": "https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS"
     },
     {
       "added_at": "2025-07-17 22:00:41",

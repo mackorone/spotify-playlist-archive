@@ -4,7 +4,7 @@
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. caroline on the cover.
 
-55 songs - 4 hr 15 min
+57 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,9 @@
 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 | 2025-07-10 |  |
 | [goop](https://open.spotify.com/track/3Wgbbu9iHJ0kQtokHnCCfl) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 3:20 | 2025-07-10 |  |
 | [Gymnopédie](https://open.spotify.com/track/2nG9BddUCV1MsPnmQ5U00f) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 3:50 | 2025-07-10 |  |
+| [Harry and the Jets](https://open.spotify.com/track/6lSAHuOAfFC5DtSQrCsfE3) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [Harry and the Jets](https://open.spotify.com/album/6FQ9I0d2e7pvddqHb3UgIC) | 4:16 | 2025-07-18 |  |
 | [Honest Song](https://open.spotify.com/track/1jOHyaoZuxjJuHvkaf3AAK) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [Bohemian Clutter](https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3) | 4:39 | 2025-07-10 |  |
+| [I Was Here](https://open.spotify.com/track/0sh49tZQQG9Qsd46dbh2UY) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [I Was Here](https://open.spotify.com/album/27pZBFE96hTJNPctbRQMLm) | 3:38 | 2025-07-18 |  |
 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 | 2025-07-10 |  |
 | [kick the stars around the trashy sky](https://open.spotify.com/track/0E8oNrJF130vV7XhrKTih3) | [School Fair](https://open.spotify.com/artist/2QPVdwHQoGwMiWEDHT8HF7) | [bird the kid](https://open.spotify.com/album/1nZ8LRi5osH0S4MUjGXtim) | 3:29 | 2025-07-10 |  |
 | [Landscaping](https://open.spotify.com/track/7LQ4TRgCras6mN4D9kUvx6) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Landscaping](https://open.spotify.com/album/1aTksRGuBQJkDTTzW9hiG1) | 5:59 | 2025-07-10 |  |

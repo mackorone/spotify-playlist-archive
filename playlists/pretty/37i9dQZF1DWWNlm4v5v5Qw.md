@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Curated: <a href="spotify:artist:4Ge9GwmWnOQsohwPTrXyHc">Gordo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,567 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,593 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

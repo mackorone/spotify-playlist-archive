@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,854 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,861 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 37 | [It Won't Be Anything Anyway \(with deulrejang\)](https://open.spotify.com/track/1A5xMM3UvEL1pldYBhfN2J) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 5:14 |
 | 38 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
 | 39 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
-| 40 | [To My Beloved](https://open.spotify.com/track/1UL1Xm1RRo2SZqVJ2lzS33) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [To My Beloved](https://open.spotify.com/album/39Bql5WDBY9VfIMhMf7CQn) | 3:16 |
-| 41 | [A long goodbye \(with jangheewon\)](https://open.spotify.com/track/061Ux23ax9kBY7WnrwZJEi) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [A long goodbye \(with jangheewon\)](https://open.spotify.com/album/6CpMftwOS947ubCDQaTodv) | 3:28 |
+| 40 | [A long goodbye \(with jangheewon\)](https://open.spotify.com/track/061Ux23ax9kBY7WnrwZJEi) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [A long goodbye \(with jangheewon\)](https://open.spotify.com/album/6CpMftwOS947ubCDQaTodv) | 3:28 |
+| 41 | [To My Beloved](https://open.spotify.com/track/1UL1Xm1RRo2SZqVJ2lzS33) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [To My Beloved](https://open.spotify.com/album/39Bql5WDBY9VfIMhMf7CQn) | 3:16 |
 | 42 | [그 밤](https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:34 |
-| 43 | [melody of LOVE](https://open.spotify.com/track/0IeMvdtKd6FgEWgVFdtQQm) | [Jang Pill Soon](https://open.spotify.com/artist/4huxWg4T8DauhitzX1qSWI) | [melody of LOVE](https://open.spotify.com/album/0ckTN1RbF46tC87PLSM4vh) | 4:14 |
-| 44 | [To eunbi](https://open.spotify.com/track/0MEpiC2Qa5IN1IpNkifI2x) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [A Form Of Love](https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8) | 2:47 |
-| 45 | [Night you went away \(Korean Ver.\) \(Vocal\. Kim gyeol\)](https://open.spotify.com/track/23clB8BECFpgtKMCHtalKA) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [Night you went away](https://open.spotify.com/album/7IyhdnLq6eepb1UlrC4ngp) | 3:38 |
+| 43 | [To eunbi](https://open.spotify.com/track/0MEpiC2Qa5IN1IpNkifI2x) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [A Form Of Love](https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8) | 2:47 |
+| 44 | [Night you went away \(Korean Ver.\) \(Vocal\. Kim gyeol\)](https://open.spotify.com/track/23clB8BECFpgtKMCHtalKA) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [Night you went away](https://open.spotify.com/album/7IyhdnLq6eepb1UlrC4ngp) | 3:38 |
+| 45 | [melody of LOVE](https://open.spotify.com/track/0IeMvdtKd6FgEWgVFdtQQm) | [Jang Pill Soon](https://open.spotify.com/artist/4huxWg4T8DauhitzX1qSWI) | [melody of LOVE](https://open.spotify.com/album/0ckTN1RbF46tC87PLSM4vh) | 4:14 |
 | 46 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 47 | [Dream](https://open.spotify.com/track/46eCeipMrAoRS5gTkmzgrK) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV) | 6:14 |
 | 48 | [Youth](https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:36 |

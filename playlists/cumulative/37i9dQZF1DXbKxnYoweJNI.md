@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 椅子樂團 \(The Chairs\)
 
-2,618 songs - 6 day 8 hr 14 min
+2,620 songs - 6 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Call Me Anytime](https://open.spotify.com/track/1JGkVljTRDzfaWo8ZhxYEU) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Call Me Anytime](https://open.spotify.com/album/4qDvI9Su8xRbhEkEgZmhGO) | 3:33 | 2024-09-26 | 2024-10-18 |
 | [Call me back](https://open.spotify.com/track/3cUCjxhqXsCoxgu3sHbduV) | [Lambert凌](https://open.spotify.com/artist/61u8FEElPIrXoGWzVldLnC) | [Call me back](https://open.spotify.com/album/6fPct47zH48kejFW9HJfGA) | 3:21 | 2024-07-25 | 2024-08-30 |
 | [Call me bae](https://open.spotify.com/track/0axuBJII4kOrI958dT5djA) | [WiZY](https://open.spotify.com/artist/5VxlZjfWT6az0ANHGfEcwB) | [Call me bae](https://open.spotify.com/album/7mRQ5QMXXvdvpdg8Mb2NBo) | 3:36 | 2024-10-31 | 2024-11-22 |
-| [Call Me Psycho](https://open.spotify.com/track/3FaZ7RlQwUg32wFe6lENVV) | [鄧佳坤](https://open.spotify.com/artist/4JgKGHn3UcX2jj412WrFLw) | [Call Me Psycho](https://open.spotify.com/album/0CGrOfQabcY4v6fSZBKXuf) | 2:25 | 2025-07-17 |  |
+| [Call Me Psycho](https://open.spotify.com/track/3FaZ7RlQwUg32wFe6lENVV) | [邓佳坤](https://open.spotify.com/artist/4JgKGHn3UcX2jj412WrFLw) | [Call Me Psycho](https://open.spotify.com/album/0CGrOfQabcY4v6fSZBKXuf) | 2:25 | 2025-07-17 |  |
 | [Calling you](https://open.spotify.com/track/4j7QbY66Spx4CmTdWI0GDJ) | [王泰翔2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa), [AcRoss](https://open.spotify.com/artist/6B1Wv7BlRtTN8OoVNyL6sC) | [Calling you](https://open.spotify.com/album/0bLnKPcAOMcgk4zlubpURF) | 3:02 | 2025-05-15 | 2025-06-06 |
 | [Came From The Struggle](https://open.spotify.com/track/0oObBxo4yqQbZCf2Tv5DY8) | [Barry Chen](https://open.spotify.com/artist/45sDYsh1i1bXB3IRi04MTz) | [Came From The Struggle](https://open.spotify.com/album/237xAGcZmjM0DMdsuqkl6z) | 3:08 | 2024-07-18 | 2024-08-16 |
 | [Camus Boy](https://open.spotify.com/track/2uwPZfm64lRvzOxuAqA7RF) | [陸可兒Kirby](https://open.spotify.com/artist/0St6D4v6pgqI42vxvre6pY), [饭卡](https://open.spotify.com/artist/4Ak4OMWvPvUb0wIDC4wdfp) | [Camus Boy](https://open.spotify.com/album/1etXhganL2sZCqFP72pRuR) | 3:44 | 2025-03-20 | 2025-04-18 |
@@ -245,6 +245,7 @@
 | [Follow me](https://open.spotify.com/track/6CmpcgBoRUMYIGAQBmXP9W) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [Follow me](https://open.spotify.com/album/2Iwn7xEFprpZHwXabS4Ldj) | 2:13 | 2024-08-29 | 2024-09-20 |
 | [For a Better Day \(feat\. 連炳發\) \- 影集《化外之醫》插曲](https://open.spotify.com/track/5DAcdDEm8Ngegfi6QIv4qx) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX), [Liên Bỉnh Phát](https://open.spotify.com/artist/1vrJLalQTydLmzJwe3Lw10) | [For a Better Day \(feat\. 連炳發\) \[影集《化外之醫》插曲\]](https://open.spotify.com/album/7AubzUnyNmztdMF1z0wvTR) | 3:37 | 2025-03-13 | 2025-03-28 |
 | [For Me](https://open.spotify.com/track/2GVTS8oQaOE3luPlQLuzJd) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [For Me](https://open.spotify.com/album/3MR628PTur3huxnP2S6pJs) | 4:20 | 2024-10-10 | 2024-11-01 |
+| [FORMAT](https://open.spotify.com/track/0UIyQx5A3dE154W2rX1D6S) | [thehopend](https://open.spotify.com/artist/32lrEgDlSQ0p6KLJckSvXd) | [FORMAT](https://open.spotify.com/album/3c4mNkSlQyeqJqbAefhT58) | 2:47 | 2025-07-17 |  |
 | [Fortune Cookie](https://open.spotify.com/track/62Ao4j78KwCmAWxOdOH7bU) | [张静汶](https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB) | [Fortune Cookie](https://open.spotify.com/album/2YgUmtC569w5hLi6ZsXxFd) | 3:27 | 2024-10-17 | 2024-10-25 |
 | [Found me \- 原生基因型](https://open.spotify.com/track/71mf7Rd6XwQvPmmYEHVIDF) | [Plutato](https://open.spotify.com/artist/3A3zuAop7uM5dY6Vs41dsR) | [Ctrl+Z](https://open.spotify.com/album/63qLX0ZafYEXOHIEFDmDt6) | 3:43 | 2024-12-26 | 2025-01-17 |
 | [Freedom](https://open.spotify.com/track/1Kb8k1lx00kItso7EBh97x) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [Freedom](https://open.spotify.com/album/11nO58mkteDM9vnY1dJLNt) | 3:42 | 2024-08-22 | 2024-08-30 |
@@ -1232,6 +1233,7 @@
 | [夏天的微笑 \(原創版\)](https://open.spotify.com/track/0mJISCFvLcJ7YYGfHPdIVf) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [夏天的微笑 \(原創版\)](https://open.spotify.com/album/2pebVEzJzkX2bpt5co7Lam) | 4:51 | 2024-08-29 | 2024-09-13 |
 | [夏季之前](https://open.spotify.com/track/3YteoxUf57hDdnbarlveYy) | [kaine](https://open.spotify.com/artist/0fS1DTXibMLKv67V3DjQd5) | [夏季之前](https://open.spotify.com/album/6AzrouELeloCO66eUd4yeR) | 4:07 | 2025-04-17 | 2025-04-25 |
 | [夏日最後的祕密 \(電影《夏日最後的祕密》同名主題曲\)](https://open.spotify.com/track/1O7jE1knGizkfHJIM8Rhbm) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [夏日最後的祕密 \(電影《夏日最後的祕密》同名主題曲\)](https://open.spotify.com/album/6gfCSz1ofNNZYTanphkysV) | 5:00 | 2025-04-24 | 2025-05-16 |
+| [夏日浮現](https://open.spotify.com/track/4CxR9Dd0qbjVqw5gTk9GAa) | [Elvin Chang](https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM) | [夏日浮現](https://open.spotify.com/album/0TImvWKwv0JZ03CTBM92YR) | 4:29 | 2025-07-17 |  |
 | [夏日的氣息](https://open.spotify.com/track/0clawY40v1TFDc0XCJWNcm) | [stancsz](https://open.spotify.com/artist/3Yd1ranaGvAK5wtC7muHIV) | [夏日的氣息](https://open.spotify.com/album/1M4cQNMBRC0RIWbjxGAqb9) | 2:00 | 2025-07-10 | 2025-07-18 |
 | [夕陽海（《洋洋海產店》沈浸式劇場遊戲主題曲）](https://open.spotify.com/track/6JCAOTIh843VpXxEkOnEJN) | [張倚瑄](https://open.spotify.com/artist/5ojl4BbvoKI48xMojtSmdS) | [夕陽海（《洋洋海產店》沈浸式劇場遊戲主題曲）](https://open.spotify.com/album/3w6AoJSs6VEOdgoau2uZfh) | 4:13 | 2025-05-15 | 2025-05-23 |
 | [多一天 Another Day](https://open.spotify.com/track/4meJ5ad7qAydmPQ9FaIQ5l) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [多一天 Another Day](https://open.spotify.com/album/0UrVI2FBSXBTyxwclGJ6Lq) | 3:04 | 2024-11-21 | 2025-02-07 |
@@ -1267,6 +1269,7 @@
 | [天亮](https://open.spotify.com/track/4B1Elfm077Mm9Ujs76ritl) | [瑀禾](https://open.spotify.com/artist/7CMnTDS8VyLz3Irr8UzRiD) | [天亮](https://open.spotify.com/album/4ipGxhJiCNLJ8Saul5H3K2) | 3:56 | 2025-05-01 | 2025-05-16 |
 | [天問](https://open.spotify.com/track/2bj33kQHDICutlN9brpRod) | [信樂團](https://open.spotify.com/artist/1YfpT6Dl8tJDmYQKWRoxjn) | [天問](https://open.spotify.com/album/1SKn2JCkfYuaJ7q8NwPmmj) | 5:13 | 2025-02-27 | 2025-03-14 |
 | [天曉得](https://open.spotify.com/track/0oB5huriVD6J1s6tkKsSLy) | [簡少年](https://open.spotify.com/artist/2BITGzEkZIXJoTQSJDEtxv) | [天曉得](https://open.spotify.com/album/2suhhZff6WF4ecXhrdBIpD) | 3:36 | 2024-11-14 | 2024-11-29 |
+| [天注定](https://open.spotify.com/track/1LNAhea421zMAdsUkWQc4T) | [彈殼Danko](https://open.spotify.com/artist/3fkwbLdzv3rzPg19f2YHOL), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [天注定](https://open.spotify.com/album/0IRsIlGclhzwFWU74jXcAA) | 3:37 | 2025-07-17 |  |
 | [天灵灵](https://open.spotify.com/track/1yZyGa1XOKYFcyQIicw3qe) | [艾志恒Asen](https://open.spotify.com/artist/6r2q02rEyw3DQXDXpNFwpp), [Finesse'Boy](https://open.spotify.com/artist/3qS2lXfLasuWpBEaLn1bbt) | [FINESSE THE WORLD](https://open.spotify.com/album/2KBck3il2H6IhrJMBbGOnh) | 2:27 | 2024-07-18 | 2024-08-02 |
 | [天狗](https://open.spotify.com/track/5MKhuAt6fFCsxGvcTQxkyT) | [太一](https://open.spotify.com/artist/5jxliDFxfzNzI2PHwpB37C) | [天狗](https://open.spotify.com/album/4Z0nwubm2pOHagkEObottq) | 3:35 | 2025-01-23 | 2025-02-14 |
 | [天狗食月](https://open.spotify.com/track/3Gp3apBDZoqIg9lSdmkhEI) | [田亞霍](https://open.spotify.com/artist/2gWiiqMQFlfLjYp43IiQit), [李東軒](https://open.spotify.com/artist/6wrsX5BCZRw1ZA2myQARn9) | [天狗食月](https://open.spotify.com/album/2lmmM6QzPa6IebSBLgoVkV) | 3:16 | 2024-08-08 | 2024-08-30 |
@@ -1555,7 +1558,7 @@
 | [戏台](https://open.spotify.com/track/1tGMtQN0zko6bc8XKfQHZU) | [蔡秋鳳](https://open.spotify.com/artist/5jZkkQlg3sVBkz7iqR5O5a) | [戲台](https://open.spotify.com/album/2oufQcB2olu3Y86V4tyvnW) | 4:03 | 2024-12-19 | 2025-01-03 |
 | [成功路上 \- 電視劇《成功路上》片頭曲](https://open.spotify.com/track/586UjqmtFiFn50kSZXfhwh) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [成功路上 \(電視劇《成功路上》片頭曲\)](https://open.spotify.com/album/2IV0iXbnEW4goknvCfrtgS) | 3:23 | 2025-05-08 | 2025-05-30 |
 | [成大人之道](https://open.spotify.com/track/2Ks3vITMPSER4n8RVvtvLl) | [尤時雨](https://open.spotify.com/artist/6VZlJla5fcw20R97dOIadz), [黃昭禓](https://open.spotify.com/artist/12R6hH9umH31i7oTjUhFgQ) | [成大人之道](https://open.spotify.com/album/5UogI2Fxke5e2V1BwmGzfe) | 4:00 | 2025-04-24 | 2025-05-09 |
-| [成為藝術之前的必要脆弱與非必要沈默 \- 單曲版](https://open.spotify.com/track/01DOXPyGyA7mD4wguj2uxk) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [成為藝術之前的必要脆弱與非必要沈默 \(單曲版\)](https://open.spotify.com/album/3HwDCCxyfqthZatxXQKPf3) | 2:27 | 2025-07-17 |  |
+| [成為藝術之前的必要脆弱與非必要沉默](https://open.spotify.com/track/01DOXPyGyA7mD4wguj2uxk) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [成為藝術之前的必要脆弱與非必要沉默](https://open.spotify.com/album/3HwDCCxyfqthZatxXQKPf3) | 2:27 | 2025-07-17 |  |
 | [成見 \(feat\. 艾怡良\)](https://open.spotify.com/track/14snAqF5iYj3sxIYurWJqx) | [陳建瑋](https://open.spotify.com/artist/6efddg2D2BhHmcYoV4pTqS), [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [成見 \(feat\. 艾怡良\)](https://open.spotify.com/album/39nGdvUtKAVHdJZdjsY0EC) | 4:48 | 2024-06-27 | 2024-07-12 |
 | [成都太冷咯freestyle](https://open.spotify.com/track/5T4qabbGAP6JFwM1TBVSOs) | [王晨宇IceCraz](https://open.spotify.com/artist/2Hn1JOz00GeUV7iEfdYfYM) | [成都太冷咯freestyle](https://open.spotify.com/album/74FbpGYfYOLVRfWgtwKCwR) | 2:15 | 2025-02-20 | 2025-03-07 |
 | [成長痛](https://open.spotify.com/track/6DLlMMO0aXnxdydgefNtZr) | [寬仔 KayC](https://open.spotify.com/artist/0M9DxjE7JknX8mQAa75xQA) | [成長痛](https://open.spotify.com/album/2BxCwCepfEqsmgYvPMJdfk) | 3:47 | 2024-12-26 | 2025-01-17 |
@@ -1856,7 +1859,6 @@
 | [某某](https://open.spotify.com/track/33XIrUtplNa4YZCKJ7tq37) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [聆聽˙某某](https://open.spotify.com/album/7HoXsKHZgb7JO11swrWXOz) | 3:54 | 2024-08-22 | 2024-08-30 |
 | [查埔人一首歌](https://open.spotify.com/track/0KJf1SrZke3Hl3Z06AC8qM) | [潘信維](https://open.spotify.com/artist/0qQzar6a1SPUdjilmWBykS) | [查埔人一首歌](https://open.spotify.com/album/6aLylYc9Qyg6eWeWBhRaHb) | 4:05 | 2024-10-24 | 2024-11-15 |
 | [查明人天](https://open.spotify.com/track/45gOfsoyVS1DoUM3VfeXto) | [Spark 皇毅](https://open.spotify.com/artist/2u725US4lQSMSwhtf2YvcR) | [查明人天](https://open.spotify.com/album/3bmiCbUgJeHZDz5cUU99ke) | 3:26 | 2024-09-26 | 2024-10-04 |
-| [格式化](https://open.spotify.com/track/0UIyQx5A3dE154W2rX1D6S) | [thehopend](https://open.spotify.com/artist/32lrEgDlSQ0p6KLJckSvXd) | [格式化](https://open.spotify.com/album/3c4mNkSlQyeqJqbAefhT58) | 2:47 | 2025-07-17 |  |
 | [棉床頂兮向望](https://open.spotify.com/track/4i8EX2iTWSGUxIA0Mp9gkR) | [昭霖](https://open.spotify.com/artist/6QG7iU3HlpXfClUyquYIj3) | [棉床頂兮向望](https://open.spotify.com/album/5T3W8LYRpFRynx07CKgZvG) | 4:02 | 2024-08-01 | 2024-08-09 |
 | [森と星の約束 \(森林與星星的約定\)](https://open.spotify.com/track/1gydnqDRfR9E0fiXUre5DT) | [林忠諭 Cosmos J](https://open.spotify.com/artist/6z96kF9JzUTvkwSHFbobmm) | [森と星の約束 \(森林與星星的約定\)](https://open.spotify.com/album/0xrk2Gd2ASJvXP9eKA3cv3) | 5:21 | 2025-01-02 | 2025-01-24 |
 | [森林](https://open.spotify.com/track/3i1e3oxlVy7mS4qJEiE70z) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [森林](https://open.spotify.com/album/4Sk07QtJtcHrCKt90zvNd2) | 4:49 | 2025-05-15 | 2025-06-06 |

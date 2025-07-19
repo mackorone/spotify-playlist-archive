@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Estevie",
-  "num_followers": 275552,
+  "num_followers": 275553,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-06-06 06:55:41",
       "album": {
+        "name": "Formas De Amor",
+        "url": "https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Klaz Y Keroz",
+          "url": "https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Suave Y Tierno",
+      "url": "https://open.spotify.com/track/1boomhGAEyfVaMiODGyate"
+    },
+    {
+      "added_at": "2025-06-06 06:55:41",
+      "album": {
         "name": "A LA ORDEN",
         "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 175058,
       "name": "A LA ORDEN",
       "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
-    },
-    {
-      "added_at": "2025-06-06 06:55:41",
-      "album": {
-        "name": "Formas De Amor",
-        "url": "https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Klaz Y Keroz",
-          "url": "https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Suave Y Tierno",
-      "url": "https://open.spotify.com/track/1boomhGAEyfVaMiODGyate"
     },
     {
       "added_at": "2025-06-06 06:55:41",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-06-06 06:55:41",
       "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
+        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
+      },
+      "artists": [
+        {
+          "name": "Joe Rodriguez Y Su Grupo Latino",
+          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
+        }
+      ],
+      "duration_ms": 199447,
+      "name": "Cumbia de los Pobres",
+      "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
+    },
+    {
+      "added_at": "2025-06-06 06:55:41",
+      "album": {
         "name": "La Bandera",
         "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 160006,
       "name": "La Bandera",
       "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
-    },
-    {
-      "added_at": "2025-06-06 06:55:41",
-      "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
-        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
-      },
-      "artists": [
-        {
-          "name": "Joe Rodriguez Y Su Grupo Latino",
-          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
-        }
-      ],
-      "duration_ms": 199447,
-      "name": "Cumbia de los Pobres",
-      "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
     },
     {
       "added_at": "2025-06-06 06:55:41",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-06-06 06:55:41",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 316004,
-      "name": "Las Palmitas del Ecuador",
-      "url": "https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C"
-    },
-    {
-      "added_at": "2025-06-06 06:55:41",
-      "album": {
         "name": "Gran Encuentro",
         "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
       },
@@ -1563,22 +1547,18 @@
     {
       "added_at": "2025-06-06 06:55:41",
       "album": {
-        "name": "Diamante",
-        "url": "https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1"
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
       "artists": [
         {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
         }
       ],
-      "duration_ms": 156467,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq"
+      "duration_ms": 316004,
+      "name": "Las Palmitas del Ecuador",
+      "url": "https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C"
     },
     {
       "added_at": "2025-06-06 06:55:41",
@@ -1595,6 +1575,26 @@
       "duration_ms": 188736,
       "name": "Por las Ma\u00f1anas - En Vivo",
       "url": "https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf"
+    },
+    {
+      "added_at": "2025-06-06 06:55:41",
+      "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq"
     },
     {
       "added_at": "2025-06-06 06:55:41",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2025-06-06 06:55:41",
       "album": {
+        "name": "El Paso Del Gigante (Remix)",
+        "url": "https://open.spotify.com/album/6YWuqstKsgDvzMNVQnIEN0"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "El Paso Del Gigante - Remix",
+      "url": "https://open.spotify.com/track/3xr2DkBynhPVhVAPOrUJ8K"
+    },
+    {
+      "added_at": "2025-06-06 06:55:41",
+      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 295526,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R"
-    },
-    {
-      "added_at": "2025-06-06 06:55:41",
-      "album": {
-        "name": "El Paso Del Gigante (Remix)",
-        "url": "https://open.spotify.com/album/6YWuqstKsgDvzMNVQnIEN0"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "El Paso Del Gigante - Remix",
-      "url": "https://open.spotify.com/track/3xr2DkBynhPVhVAPOrUJ8K"
     },
     {
       "added_at": "2025-06-06 06:55:41",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-06-06 06:55:41",
       "album": {
-        "name": "Quienes Somos",
-        "url": "https://open.spotify.com/album/3A20APioynHFJaz8sItaP1"
-      },
-      "artists": [
-        {
-          "name": "INSPIRACION COLOMBIANA",
-          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "Cumbia En La Playa",
-      "url": "https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT"
-    },
-    {
-      "added_at": "2025-06-06 06:55:41",
-      "album": {
         "name": "No Hay Vida Sin Ti",
         "url": "https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 247093,
       "name": "No Hay Vida Sin Ti",
       "url": "https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z"
+    },
+    {
+      "added_at": "2025-06-06 06:55:41",
+      "album": {
+        "name": "Quienes Somos",
+        "url": "https://open.spotify.com/album/3A20APioynHFJaz8sItaP1"
+      },
+      "artists": [
+        {
+          "name": "INSPIRACION COLOMBIANA",
+          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
+        }
+      ],
+      "duration_ms": 345240,
+      "name": "Cumbia En La Playa",
+      "url": "https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT"
     },
     {
       "added_at": "2025-06-06 06:55:41",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-06-06 06:55:41",
       "album": {
-        "name": "Chimenea (En Vivo)",
-        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 180491,
-      "name": "Chimenea - En Vivo",
-      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
-    },
-    {
-      "added_at": "2025-06-06 06:55:41",
-      "album": {
         "name": "Gritar\u00eda (Remix)",
         "url": "https://open.spotify.com/album/4Irm6WebB7Z2OT8Z4tnPQJ"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 209224,
       "name": "Gritar\u00eda - Remix",
       "url": "https://open.spotify.com/track/4r3gyRGbwgL5gdQT4AIwuz"
+    },
+    {
+      "added_at": "2025-06-06 06:55:41",
+      "album": {
+        "name": "Chimenea (En Vivo)",
+        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 180491,
+      "name": "Chimenea - En Vivo",
+      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
     },
     {
       "added_at": "2025-06-06 06:55:41",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2025-06-06 06:55:41",
       "album": {
-        "name": "El Fantasma del Amor",
-        "url": "https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ"
+        "name": "Balada Pop",
+        "url": "https://open.spotify.com/album/3PZmctrjLYvAjQEDhDlxtz"
       },
       "artists": [
         {
-          "name": "Grupo Ternura Dinastia Toxqui",
-          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 253226,
-      "name": "El Fantasma del Amor",
-      "url": "https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH"
+      "duration_ms": 142081,
+      "name": "Balada Pop",
+      "url": "https://open.spotify.com/track/7ivqF3wpJIW2kxkS5utDSH"
     }
   ],
   "unique_name": "Super Cumbias",

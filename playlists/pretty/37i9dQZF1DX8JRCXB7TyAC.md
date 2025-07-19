@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,812 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,844 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 31 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 |
 | 32 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |
 | 33 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |
-| 34 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 |
-| 35 | [Haryana Side](https://open.spotify.com/track/7fHUxpAV4YIPnk0QIzmtGP) | [Ash Bhardwaj](https://open.spotify.com/artist/3S0GVWEMxgcQgMM7EScrX5), [Dhruv Balyaan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw) | [Haryana Side](https://open.spotify.com/album/0Io4qN1ciIoZwubHch7Use) | 2:46 |
+| 34 | [Haryana Side](https://open.spotify.com/track/7fHUxpAV4YIPnk0QIzmtGP) | [Ash Bhardwaj](https://open.spotify.com/artist/3S0GVWEMxgcQgMM7EScrX5), [Dhruv Balyaan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw) | [Haryana Side](https://open.spotify.com/album/0Io4qN1ciIoZwubHch7Use) | 2:46 |
+| 35 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 |
 | 36 | [Intro](https://open.spotify.com/track/4doPskLCTEmR9az9gwiQKj) | [Happie](https://open.spotify.com/artist/1eGqvRKEMYXmbXzOLPVnB8), [Sihag Muzik](https://open.spotify.com/artist/04XbdTO8fkae4s1ExLeYyC) | [Intro](https://open.spotify.com/album/51YgKSHDHcjJIIsA3eUOn9) | 2:42 |
 | 37 | [Power](https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Power](https://open.spotify.com/album/2K1UUqgmoUp5BD7hjw602v) | 2:53 |
 | 38 | [Desi](https://open.spotify.com/track/3MF6RjV3MRlKKkg9dlel3V) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Vishvajeet Choudhary](https://open.spotify.com/artist/1mfAGblExpLNFZtiv88m9D), [Subhash Foji](https://open.spotify.com/artist/0Q338JH1hWC6gDIpAbQKvP) | [Desi](https://open.spotify.com/album/1GIcXhnAkvNExAcUMEoaHH) | 3:02 |

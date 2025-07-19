@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Franco Masciarelli & Benjamin Walker",
-  "num_followers": 60742,
+  "num_followers": 60756,
   "original_name": "folk & invierno",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,26 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
+        "name": "Ojos Viejos",
+        "url": "https://open.spotify.com/album/6m1fsCTrBhLDPCsWce3jCZ"
+      },
+      "artists": [
+        {
+          "name": "Clara Ballestero",
+          "url": "https://open.spotify.com/artist/3BpPBrcj89LCkZJykqXrRL"
+        },
+        {
+          "name": "David Bensimon",
+          "url": "https://open.spotify.com/artist/618xJLHv3QguoWJighQJJH"
+        }
+      ],
+      "duration_ms": 297123,
+      "name": "Ojos Viejos",
+      "url": "https://open.spotify.com/track/331jpq4eMaLd5bw7oM2ZIm"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
         "name": "T\u00c1",
         "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 178439,
       "name": "La Capital",
       "url": "https://open.spotify.com/track/138AMAxJawuLPkPlxgHsHq"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
-        "name": "Ojos Viejos",
-        "url": "https://open.spotify.com/album/6m1fsCTrBhLDPCsWce3jCZ"
-      },
-      "artists": [
-        {
-          "name": "Clara Ballestero",
-          "url": "https://open.spotify.com/artist/3BpPBrcj89LCkZJykqXrRL"
-        },
-        {
-          "name": "David Bensimon",
-          "url": "https://open.spotify.com/artist/618xJLHv3QguoWJighQJJH"
-        }
-      ],
-      "duration_ms": 297123,
-      "name": "Ojos Viejos",
-      "url": "https://open.spotify.com/track/331jpq4eMaLd5bw7oM2ZIm"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 182599,
-      "name": "Vapor",
-      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "Para\u00edso Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 206777,
-      "name": "M\u00fasica de Computadora",
-      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
         "name": "Carretera Austral",
         "url": "https://open.spotify.com/album/09aNyCG1HL7eBxvJSpDpWg"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 264582,
       "name": "Carretera Austral",
       "url": "https://open.spotify.com/track/5xtCrCYy7q5od2jx0GHkdg"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
+        "name": "Para\u00edso Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 206777,
+      "name": "M\u00fasica de Computadora",
+      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
         "name": "Suerte para m\u00ed",
         "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 183786,
       "name": "Suerte para m\u00ed",
       "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "Camino libre medio",
-        "url": "https://open.spotify.com/album/71qLgCiOOv7SRPkOBcHCSd"
-      },
-      "artists": [
-        {
-          "name": "Delair\u00eb",
-          "url": "https://open.spotify.com/artist/1tkmkMPY8p0LWx3c4Y4Ltj"
-        },
-        {
-          "name": "Astronautiko",
-          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
-        }
-      ],
-      "duration_ms": 189109,
-      "name": "Camino libre medio",
-      "url": "https://open.spotify.com/track/6RQrXgG9tb70dQx2rZVExp"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
         "name": "Ay, Mi Gorri\u00f3n!",
         "url": "https://open.spotify.com/album/3eejHVYQFBUCGtVQRDGfMQ"
       },
@@ -835,18 +815,22 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "INFRUTESCENCIA",
-        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+        "name": "Camino libre medio",
+        "url": "https://open.spotify.com/album/71qLgCiOOv7SRPkOBcHCSd"
       },
       "artists": [
         {
-          "name": "CATALINA SEGURA",
-          "url": "https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx"
+          "name": "Delair\u00eb",
+          "url": "https://open.spotify.com/artist/1tkmkMPY8p0LWx3c4Y4Ltj"
+        },
+        {
+          "name": "Astronautiko",
+          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
         }
       ],
-      "duration_ms": 139264,
-      "name": "PARA VERTE",
-      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
+      "duration_ms": 189109,
+      "name": "Camino libre medio",
+      "url": "https://open.spotify.com/track/6RQrXgG9tb70dQx2rZVExp"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -867,6 +851,22 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+      },
+      "artists": [
+        {
+          "name": "CATALINA SEGURA",
+          "url": "https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx"
+        }
+      ],
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
         "name": "Ser\u00e9 m\u00eda",
         "url": "https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 194611,
       "name": "Ser\u00e9 m\u00eda",
       "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
+        "name": "Locomotora",
+        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "Que Placer",
+      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -903,22 +919,6 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "Locomotora",
-        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "Que Placer",
-      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
         "name": "Comida China",
         "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 165808,
       "name": "Particular",
       "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "Tur Blues",
-        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
+        "name": "Comerte la boca (Nos Vamos a Comer)",
+        "url": "https://open.spotify.com/album/7F2KSKTlQTkbKRS1DSeSo1"
       },
       "artists": [
         {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
         },
         {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "laia",
+          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
         }
       ],
-      "duration_ms": 213112,
-      "name": "Tur Blues",
-      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
+      "duration_ms": 147658,
+      "name": "Comerte la boca (Nos Vamos a Comer)",
+      "url": "https://open.spotify.com/track/51O0WXWf7ZrcNGuNWCzfWl"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "Comerte la boca (Nos Vamos a Comer)",
-        "url": "https://open.spotify.com/album/7F2KSKTlQTkbKRS1DSeSo1"
+        "name": "Tur Blues",
+        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
       "artists": [
         {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
         },
         {
-          "name": "laia",
-          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 147658,
-      "name": "Comerte la boca (Nos Vamos a Comer)",
-      "url": "https://open.spotify.com/track/51O0WXWf7ZrcNGuNWCzfWl"
+      "duration_ms": 213112,
+      "name": "Tur Blues",
+      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "Chao (Remix Reversiones)",
-        "url": "https://open.spotify.com/album/1sQOiViouYbWFukqN2iNxi"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Ketekalles",
-          "url": "https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "\u00c1ndate - Reversi\u00f3n",
-      "url": "https://open.spotify.com/track/38Oju5aqwHRAageQuYfrdL"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
         "name": "Coquimbo, Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 264732,
       "name": "Coquimbo, Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
+        "name": "Chao (Remix Reversiones)",
+        "url": "https://open.spotify.com/album/1sQOiViouYbWFukqN2iNxi"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Ketekalles",
+          "url": "https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "\u00c1ndate - Reversi\u00f3n",
+      "url": "https://open.spotify.com/track/38Oju5aqwHRAageQuYfrdL"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
+        "name": "Caparaz\u00f3n",
+        "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
+      },
+      "artists": [
+        {
+          "name": "Delfi Moore",
+          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
+        }
+      ],
+      "duration_ms": 187594,
+      "name": "Caparaz\u00f3n",
+      "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 234527,
       "name": "a\u00fan as\u00ed",
       "url": "https://open.spotify.com/track/6xhZTQCPxvPVAhptkjL7x1"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
-        "name": "Caparaz\u00f3n",
-        "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
-      },
-      "artists": [
-        {
-          "name": "Delfi Moore",
-          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
-        }
-      ],
-      "duration_ms": 187594,
-      "name": "Caparaz\u00f3n",
-      "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "Mi lugar en el mundo",
-        "url": "https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC"
-      },
-      "artists": [
-        {
-          "name": "Agustina Pampin",
-          "url": "https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Mi lugar en el mundo",
-      "url": "https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
         "name": "Trance",
         "url": "https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
+        "name": "Mi lugar en el mundo",
+        "url": "https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC"
+      },
+      "artists": [
+        {
+          "name": "Agustina Pampin",
+          "url": "https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Mi lugar en el mundo",
+      "url": "https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
         "name": "Sigo Llorando",
         "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
       },
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-07-18 03:00:30",
       "album": {
-        "name": "cuidar el mango",
-        "url": "https://open.spotify.com/album/4SUdavkGS6dTcKCCr2IIQp"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "cuidar el mango",
-      "url": "https://open.spotify.com/track/7wktHW9MlxOYsvxJoAmdsM"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
         "name": "Un Nuevo Refugio (Dulce Cuarto Sesiones) [En Vivo]",
         "url": "https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ"
       },
@@ -1619,34 +1603,6 @@
       "duration_ms": 228000,
       "name": "despegar mis pies - En Vivo",
       "url": "https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U"
-    },
-    {
-      "added_at": "2025-07-18 03:00:30",
-      "album": {
-        "name": "La Melancol\u00eda",
-        "url": "https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t"
-      },
-      "artists": [
-        {
-          "name": "Perrop\u00e1jaro",
-          "url": "https://open.spotify.com/artist/1GEPR0e1faYM4A0q6TugVT"
-        },
-        {
-          "name": "Santiago Adano",
-          "url": "https://open.spotify.com/artist/39x4k2KdpPJQ2rrzRLht7Q"
-        },
-        {
-          "name": "Victoria Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0Plbanani9vlKgJH0XteYu"
-        },
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "duration_ms": 109000,
-      "name": "La Melancol\u00eda",
-      "url": "https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU"
     },
     {
       "added_at": "2025-07-18 03:00:30",
@@ -1687,6 +1643,50 @@
       "duration_ms": 187000,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
+        "name": "La Melancol\u00eda",
+        "url": "https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t"
+      },
+      "artists": [
+        {
+          "name": "Perrop\u00e1jaro",
+          "url": "https://open.spotify.com/artist/1GEPR0e1faYM4A0q6TugVT"
+        },
+        {
+          "name": "Santiago Adano",
+          "url": "https://open.spotify.com/artist/39x4k2KdpPJQ2rrzRLht7Q"
+        },
+        {
+          "name": "Victoria Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0Plbanani9vlKgJH0XteYu"
+        },
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "duration_ms": 109000,
+      "name": "La Melancol\u00eda",
+      "url": "https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU"
+    },
+    {
+      "added_at": "2025-07-18 03:00:30",
+      "album": {
+        "name": "cuidar el mango",
+        "url": "https://open.spotify.com/album/4SUdavkGS6dTcKCCr2IIQp"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "cuidar el mango",
+      "url": "https://open.spotify.com/track/7wktHW9MlxOYsvxJoAmdsM"
     },
     {
       "added_at": "2025-07-18 03:00:30",

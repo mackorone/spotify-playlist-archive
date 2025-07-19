@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 286389,
+  "num_followers": 286512,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 124586,
-      "name": "Come On, Let's Go",
-      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "One Dozen Berry's",
         "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 180746,
       "name": "Sweet Little Sixteen",
       "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 124586,
+      "name": "Come On, Let's Go",
+      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -663,18 +663,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+        "name": "The Best Of The Diamonds",
+        "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
       },
       "artists": [
         {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+          "name": "The Diamonds",
+          "url": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
         }
       ],
-      "duration_ms": 143240,
-      "name": "Maybellene",
-      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
+      "duration_ms": 129333,
+      "name": "Little Darlin'",
+      "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Best Of The Diamonds",
-        "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
       "artists": [
         {
-          "name": "The Diamonds",
-          "url": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 129333,
-      "name": "Little Darlin'",
-      "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
+      "duration_ms": 143240,
+      "name": "Maybellene",
+      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Buddy Knox",
-        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
-      },
-      "artists": [
-        {
-          "name": "Buddy Knox",
-          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
-        }
-      ],
-      "duration_ms": 135173,
-      "name": "Party Doll",
-      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rock 'N' Roll Legends",
         "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 128639,
       "name": "Good Golly, Miss Molly",
       "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Buddy Knox",
+        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
+      },
+      "artists": [
+        {
+          "name": "Buddy Knox",
+          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
+        }
+      ],
+      "duration_ms": 135173,
+      "name": "Party Doll",
+      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Bear Cat / Walkin' in the Rain",
-        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
-      },
-      "artists": [
-        {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Bear Cat",
-      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Shoobie Oobie / Cheese and Crackers",
         "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 174003,
       "name": "Shoobie Oobie",
       "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Bear Cat / Walkin' in the Rain",
+        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Bear Cat",
+      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
     },
     {
       "added_at": "2022-06-07 05:25:13",

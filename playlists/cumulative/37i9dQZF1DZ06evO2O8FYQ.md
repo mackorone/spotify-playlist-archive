@@ -4,7 +4,7 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 29 min
+64 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [It's Tricky](https://open.spotify.com/track/4zbDMXa67MBJ4h7APUeGDj) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [It's Tricky](https://open.spotify.com/album/4gHLIjjsfGiNopeMqxoZMX) | 3:08 | 2022-09-16 |  |
 | [Long Way Down](https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 4:33 | 2022-09-16 | 2025-03-18 |
 | [Love to Hate Me](https://open.spotify.com/track/0glicUGi6G8zIJxXQ0sLFJ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:30 | 2022-09-16 |  |
+| [Love's The Worst](https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Love's The Worst](https://open.spotify.com/album/26S3PSq7r4OA47qMo9I4JC) | 2:47 | 2025-07-19 |  |
 | [Might as Well](https://open.spotify.com/track/4in6QMzkh6nljWeECsxBNx) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:53 | 2022-10-11 | 2022-10-13 |
 | [Mona Lisa](https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 4:00 | 2022-09-16 |  |
 | [My Way](https://open.spotify.com/track/0HELTZyVi4APXu85RtVGfn) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [My Way](https://open.spotify.com/album/1Rs26b0YSzU5phBWVVwkL1) | 3:24 | 2025-04-12 |  |

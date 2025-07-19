@@ -4,7 +4,7 @@
 
 > clocking in for elderberry wine summer 🍇
 
-298 songs - 19 hr 7 min
+299 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Runner](https://open.spotify.com/track/5DRnssBoVo8e7uAQZkNT8O) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:36 | 2023-02-23 |  |
 | [Runnin](https://open.spotify.com/track/01HfhwZbc9bHQl9wKQHjNj) | [Ohtis](https://open.spotify.com/artist/3u39r3hiQU2sq7VrV38L6x) | [Curve of Earth \(Deluxe Version\)](https://open.spotify.com/album/5lKZGMY4mh2IJTJ6goyzQV) | 4:21 | 2023-06-23 | 2024-06-22 |
 | [Saddle](https://open.spotify.com/track/6qtCLNxE5pkbVDoFP2yf4a) | [Symbol Soup](https://open.spotify.com/artist/10GZjzJnxuL9DuVcNYUyal) | [Slow Puncture](https://open.spotify.com/album/20JCvbAdAKeQIvj97M8Ayk) | 2:51 | 2023-07-28 | 2024-03-09 |
+| [Salt n Lime](https://open.spotify.com/track/4JkjG6bAOrpY8AgTSfoNkD) | [Cleo Reed](https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi) | [Cuntry](https://open.spotify.com/album/1W2KhzQHJrTNqr4AGfp3pB) | 8:16 | 2025-07-18 |  |
 | [Sandy](https://open.spotify.com/track/03xrlJLkVBNiCY2DebTaFU) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Sandy EP](https://open.spotify.com/album/03cBUI3wQZrq5ia2wGe2zK) | 3:55 | 2023-06-09 |  |
 | [Sandy](https://open.spotify.com/track/48qv6X8wNBhjQKPCns2CFw) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Country River](https://open.spotify.com/album/2LhqkKyEXH5huDebuxSvss) | 3:55 | 2023-12-08 | 2024-04-19 |
 | [Sarah](https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:56 | 2024-01-12 |  |

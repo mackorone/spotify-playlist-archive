@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 14044,
+  "num_followers": 14084,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAC5+PwJ1KcTmGH9JxKtihRX",
+  "snapshot_id": "aHg9AAAAAACj/P088Rl1H/sNG5Ccxcn8",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/5sYQPKa0a6cIVUjcksLmto"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tanto Faz",
         "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 196800,
       "name": "Tanto Faz",
       "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/5sYQPKa0a6cIVUjcksLmto"
     },
     {
       "added_at": null,

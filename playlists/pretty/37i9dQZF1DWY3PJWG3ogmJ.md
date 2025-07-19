@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,467 likes - 118 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,589 likes - 118 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 36 | [Epitaph](https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Epitaph](https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9) | 3:37 |
 | 37 | [The Beauty of Suffering](https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 5:37 |
 | 38 | [Forward!](https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [A New Kind of Horror](https://open.spotify.com/album/7ML6J0j6KW0Y3X6N6qvTta) | 3:29 |
-| 39 | [Divine Apprehension](https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Opening Fire: 2008\-2014](https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5) | 4:17 |
-| 40 | [Human Carrying Capacity](https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:17 |
+| 39 | [Human Carrying Capacity](https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:17 |
+| 40 | [Divine Apprehension](https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Opening Fire: 2008\-2014](https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5) | 4:17 |
 | 41 | [Divine](https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Divine](https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA) | 3:39 |
 | 42 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 |
 | 43 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 71 | [Playing the Victim](https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b) | [Blood Youth](https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb) | [Playing the Victim](https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe) | 3:46 |
 | 72 | [Nekketsu](https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 3:11 |
 | 73 | [Feast of the Damned](https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1) | [Black Breath](https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg) | [Sentenced to Life](https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb) | 2:51 |
-| 74 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
-| 75 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
+| 74 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
+| 75 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
 | 76 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 |
 | 77 | [Hammer of the Witch](https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Hammer of the Witch \(Deluxe Version\)](https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU) | 3:22 |
 | 78 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 97 | [Firefight](https://open.spotify.com/track/1dYkWaH2SMZ3ZX0wOkVCBN) | [Full Blown Chaos](https://open.spotify.com/artist/1zABhVAXI7p40y57hnfDlV) | [Heavy Lies The Crown](https://open.spotify.com/album/4nb8gewxZnfoOmqQEwZ3qa) | 5:39 |
 | 98 | [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 |
 | 99 | [Impending Dominance](https://open.spotify.com/track/2o4kpCx4JnNk65gZepC7S1) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Impending Dominance](https://open.spotify.com/album/3rpE4lxvQ3VrizOlYFjVto) | 3:55 |
-| 100 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
-| 101 | [So Much for Love](https://open.spotify.com/track/0DGdIxB7uUIgmyRvSmt3HO) | [Xile](https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3) | [I Am Your God](https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw) | 2:55 |
+| 100 | [So Much for Love](https://open.spotify.com/track/0DGdIxB7uUIgmyRvSmt3HO) | [Xile](https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3) | [I Am Your God](https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw) | 2:55 |
+| 101 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
 | 102 | [Strength to Draw the Line](https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg) | [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Strength to Draw the Line](https://open.spotify.com/album/53js4P31lZMSZlINykloRH) | 2:48 |
 | 103 | [Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes](https://open.spotify.com/track/3DeAaXxQH2jmtWLKezKqa1) | [Nile](https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE) | [Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes](https://open.spotify.com/album/1xkFCu7kOfF55Qp5uZ3qZy) | 3:50 |
 | 104 | [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 113 | [Army of Cops](https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB) | [Pig Destroyer](https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7) | [Army of Cops](https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR) | 3:18 |
 | 114 | [ManiaCult](https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [ManiaCult](https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir) | 3:37 |
 | 115 | [Eat What You Kill](https://open.spotify.com/track/6yz2HojEuzMLx1yJoMYVSH) | [Confess](https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw) | [Eat What You Kill](https://open.spotify.com/album/4g9x50zBfdnemdovUhjwyt) | 5:15 |
-| 116 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 |
-| 117 | [Writhe](https://open.spotify.com/track/6GG08QXPhf0GweL9WIUZbF) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Writhe](https://open.spotify.com/album/3VJXuxoFeVp58orpuHY9UM) | 3:22 |
-| 118 | [Sadness Rains](https://open.spotify.com/track/1BkqHo0wVuIuJvcCnqbwqv) | [Violent Life Violent Death](https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ) | [Sadness Rains](https://open.spotify.com/album/0j6VPPJdHULwpv5ObOPbDW) | 2:40 |
+| 116 | [Writhe](https://open.spotify.com/track/6GG08QXPhf0GweL9WIUZbF) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Writhe](https://open.spotify.com/album/3VJXuxoFeVp58orpuHY9UM) | 3:22 |
+| 117 | [Sadness Rains](https://open.spotify.com/track/1BkqHo0wVuIuJvcCnqbwqv) | [Violent Life Violent Death](https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ) | [Sadness Rains](https://open.spotify.com/album/0j6VPPJdHULwpv5ObOPbDW) | 2:40 |
+| 118 | [The Cavalry](https://open.spotify.com/track/2N30U6cJfBadNeLpGI2pjW) | [Pig Destroyer](https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7) | [The Cavalry](https://open.spotify.com/album/7uHf3n8HA3BmLEAWAyCElZ) | 3:48 |
 
 Snapshot ID: `ZppzBQAAAAABBHNJZt2NwNe7LTug88gR`

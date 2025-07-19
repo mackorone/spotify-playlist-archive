@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of Currents, and the world and influence of Tame Impala.
 
-3,635 songs - 9 day 21 hr 48 min
+3,636 songs - 9 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -924,6 +924,7 @@
 | [Evacuate the Dancefloor](https://open.spotify.com/track/6uH6wz08OPQ2WpvEcst2S8) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Best of Cascada](https://open.spotify.com/album/2Os4qaiAkGibVhjVTH4pEH) | 3:25 | 2024-07-17 | 2024-07-25 |
 | [Evacuate The Dancefloor \- Radio Edit](https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Evacuate The Dancefloor](https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo) | 3:25 | 2024-02-28 | 2024-03-07 |
 | [Even When I'm Sleeping](https://open.spotify.com/track/5VPy7NeI6uCRCcZp3VIqsJ) | [Leonardo's Bride](https://open.spotify.com/artist/7bLwCpWq5uZb7PoccAaEsV) | [Angel Blood](https://open.spotify.com/album/2LsVtEwJVynQBCL83ZYMkZ) | 3:54 | 2025-02-12 | 2025-02-20 |
+| [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2025-07-18 |  |
 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2024-06-26 | 2025-04-24 |
 | [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 | 2024-07-24 | 2024-08-01 |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2024-09-18 | 2025-05-08 |
@@ -2156,7 +2157,7 @@
 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 | 2023-09-27 | 2024-01-18 |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2023-09-20 | 2025-06-26 |
 | [New Craze](https://open.spotify.com/track/1nNRdcsKmZgPU3vDakTHNN) | [The Black Sorrows](https://open.spotify.com/artist/1iES8Ckei3eLmSBPo4vwU7) | [Beat Club](https://open.spotify.com/album/090OV60e4FiF9FAzDVcgB8) | 4:44 | 2024-11-27 | 2024-12-05 |
-| [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 | 2025-07-16 |  |
+| [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 | 2025-07-16 | 2025-07-19 |
 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 | 2023-09-14 | 2023-09-21 |
 | [New Sensation](https://open.spotify.com/track/2xcrseImDFEf8Urommws03) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick \(Remastered 2011\)](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu) | 3:40 | 2025-04-02 | 2025-04-10 |
 | [New Slang](https://open.spotify.com/track/1wAqhAF1dynDjMy7m5CSSE) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/1OXUnUd8QPoVJpStlBGn0J) | 3:51 | 2024-10-02 | 2025-07-10 |

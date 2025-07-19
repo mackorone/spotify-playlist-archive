@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 291877,
+  "num_followers": 292009,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABhPMKVXy6LVXdJQ0QntLEI",
+  "snapshot_id": "aHg9AAAAAAAJGg5ufaEbIQIc3W4QQK1i",
   "tracks": [
     {
       "added_at": null,
@@ -271,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dime t\u00fa",
-        "url": "https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD"
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
       "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 210302,
-      "name": "Dime t\u00fa",
-      "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
+      "duration_ms": 183253,
+      "name": "Binikini",
+      "url": "https://open.spotify.com/track/0P0BTqkBQuAlzbwbTEV57m"
     },
     {
       "added_at": null,
@@ -323,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+        "name": "Dime t\u00fa",
+        "url": "https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD"
       },
       "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 183253,
-      "name": "Binikini",
-      "url": "https://open.spotify.com/track/0P0BTqkBQuAlzbwbTEV57m"
+      "duration_ms": 210302,
+      "name": "Dime t\u00fa",
+      "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
     },
     {
       "added_at": null,
@@ -739,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
+        "name": "amor tonight",
+        "url": "https://open.spotify.com/album/5IDYpetjP1jw3MboyXqoDc"
       },
       "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 205210,
-      "name": "Fino",
-      "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
+      "duration_ms": 210526,
+      "name": "amor tonight",
+      "url": "https://open.spotify.com/track/6jmjb6lF1vRv6lHIrdGFAI"
     },
     {
       "added_at": null,
@@ -811,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "amor tonight",
-        "url": "https://open.spotify.com/album/5IDYpetjP1jw3MboyXqoDc"
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
       },
       "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 210526,
-      "name": "amor tonight",
-      "url": "https://open.spotify.com/track/6jmjb6lF1vRv6lHIrdGFAI"
+      "duration_ms": 205210,
+      "name": "Fino",
+      "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
     },
     {
       "added_at": null,

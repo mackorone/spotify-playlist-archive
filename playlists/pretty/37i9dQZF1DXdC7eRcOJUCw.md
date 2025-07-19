@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > ¡Las mujeres de la Música Mexicana! Camila Fernández en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,286 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,347 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 9 | [Corazón De Piedra](https://open.spotify.com/track/10oBqwLXOzXYUWpqhODyN8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Corazón De Piedra](https://open.spotify.com/album/44aY7PghA7MIdWvwvgdfn6) | 2:40 |
 | 10 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
 | 11 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
-| 12 | [Dos Gotas De Agua](https://open.spotify.com/track/7iQe3AR9ZsQpJ2OEzQBV6u) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Éxitos Rancheros](https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG) | 2:31 |
-| 13 | [Qué Manera de Perder](https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:28 |
+| 12 | [Qué Manera de Perder](https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:28 |
+| 13 | [Dos Gotas De Agua](https://open.spotify.com/track/7iQe3AR9ZsQpJ2OEzQBV6u) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Éxitos Rancheros](https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG) | 2:31 |
 | 14 | [El Equivocado](https://open.spotify.com/track/7b21sdY6oHTYzQj0Ne5boZ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [El Equivocado](https://open.spotify.com/album/5j8Q6ph4kpanHF2bnKx7mI) | 2:45 |
 | 15 | [Tres Veces Te Engañe](https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Tres Veces Te Engañe](https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz) | 3:19 |
 | 16 | [¿Qué Creías?](https://open.spotify.com/track/4qaGrZ8LjKgNRBaOhltdJ8) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [¿Qué Creías?](https://open.spotify.com/album/4j8oI2vABlw0aIhB5ax7WN) | 3:37 |

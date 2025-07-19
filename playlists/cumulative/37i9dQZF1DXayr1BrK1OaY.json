@@ -717,6 +717,28 @@
     },
     {
       "album": {
+        "name": "are u alright?",
+        "url": "https://open.spotify.com/album/7pSxubD8Db5Gu9OJb2gOYY"
+      },
+      "artists": [
+        {
+          "name": "puulse",
+          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+        },
+        {
+          "name": "Jai Cuzco",
+          "url": "https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128225,
+      "name": "are u alright?",
+      "url": "https://open.spotify.com/track/43EvhhuaG1fPTpRsbzXXZ6"
+    },
+    {
+      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
       },
@@ -1453,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Can You Fix Your Heart",
+        "url": "https://open.spotify.com/album/2f1YeI2ufkpylmc6WmSqmJ"
+      },
+      "artists": [
+        {
+          "name": "HU",
+          "url": "https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180424,
+      "name": "Can You Fix Your Heart?",
+      "url": "https://open.spotify.com/track/5TgnPAEtz84lYjljbcu8MG"
+    },
+    {
+      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/1W4kGJYKUseEJQA4Od8JxR"
       },
@@ -1800,7 +1840,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 221925,
       "name": "Clouds & Rain",
       "url": "https://open.spotify.com/track/2gfXFD8HYFEgPrqecE7unL"
@@ -2525,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "Drinking To Get Drunk",
+        "url": "https://open.spotify.com/album/7aVwCoTaALsMdLYkpx82Jl"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206663,
+      "name": "Drinking To Get Drunk",
+      "url": "https://open.spotify.com/track/74UOSZYTg7ZvqLmxdqFuT7"
+    },
+    {
+      "album": {
         "name": "Driving Fast",
         "url": "https://open.spotify.com/album/1LM3dBanBig1Fqy4IwF0E8"
       },
@@ -2878,7 +2936,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 211409,
       "name": "Feel It For You",
       "url": "https://open.spotify.com/track/76vnxLIS70EvlISthDydnE"
@@ -6072,7 +6130,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 194887,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/5Pjs5I7sQPgip0iabFNip6"

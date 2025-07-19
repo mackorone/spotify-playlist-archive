@@ -7889,6 +7889,28 @@
     },
     {
       "album": {
+        "name": "Show Up (Live)",
+        "url": "https://open.spotify.com/album/1J1n3e15bHM3wgP6O2U24o"
+      },
+      "artists": [
+        {
+          "name": "Ema Onyx",
+          "url": "https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F"
+        },
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525048,
+      "name": "Show Up - Live",
+      "url": "https://open.spotify.com/track/64QSlc4hsh1ABuNkiyrIWg"
+    },
+    {
+      "album": {
         "name": "Sing Hallelujah",
         "url": "https://open.spotify.com/album/1b46ZBLiS7hkot89IFTV9p"
       },
@@ -8594,7 +8616,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 247500,
       "name": "The Benediction",
       "url": "https://open.spotify.com/track/636EGinKoOcTZc5pTKrFxs"

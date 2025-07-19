@@ -4,7 +4,7 @@
 
 > 
 
-427 songs - 1 day 4 hr 23 min
+428 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Meant To Be](https://open.spotify.com/track/6QPA0xHqefqGqyEfcPQ7Ao) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 3:44 | 2023-06-09 | 2023-08-18 |
 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 | 2022-06-28 | 2023-05-19 |
 | [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 | 2024-06-10 | 2024-09-12 |
+| [more soul](https://open.spotify.com/track/6n8cm6hPcYMYOUtdIjDkSC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:17 | 2025-07-18 |  |
 | [Motorway](https://open.spotify.com/track/7LvrMSPnW345xGt48D4D6X) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d) | [Lorings](https://open.spotify.com/album/61edjeTzA9eXBLQ1JxyJFI) | 1:48 | 2025-04-25 |  |
 | [Mr Rain](https://open.spotify.com/track/2YuezDnHILhFMwwvZoWv0m) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Mr Rain](https://open.spotify.com/album/5yqR98yFe70XgYfBOe4iAg) | 3:44 | 2025-03-26 | 2025-04-01 |
 | [munerah](https://open.spotify.com/track/21mWEFHpAdR6k0KvmtXmRE) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:42 | 2023-03-24 | 2023-07-29 |

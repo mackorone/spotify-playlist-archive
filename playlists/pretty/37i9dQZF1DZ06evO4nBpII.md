@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,639 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,837 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 27 | [The American Dream Is Killing Me](https://open.spotify.com/track/0yq78eXBvWVgkqojBe46SX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:06 |
 | 28 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 |
 | 29 | [Warning](https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:41 |
-| 30 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 |
+| 30 | [Stray Heart](https://open.spotify.com/track/2Q22sa3Y4lKXHHBBAxEhYY) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡DOS!](https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs) | 3:44 |
 | 31 | [Look Ma, No Brains!](https://open.spotify.com/track/6zypPV86f8oALbijmqDsrv) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:03 |
-| 32 | [Stray Heart](https://open.spotify.com/track/2Q22sa3Y4lKXHHBBAxEhYY) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡DOS!](https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs) | 3:44 |
+| 32 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 |
 | 33 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 |
 | 34 | [Nice Guys Finish Last](https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:48 |
 | 35 | [When It's Time](https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- The Original Broadway Cast Recording](https://open.spotify.com/album/1wO2srr9om17YtEvouoBue) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [Scattered](https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 3:02 |
 | 50 | [Jaded](https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 1:30 |
 
-Snapshot ID: `aHbrgAAAAACEFPaukcmt3i0CGXwmeq0m`
+Snapshot ID: `aHg9AAAAAACQywByocV5T7+ycN8dvbsc`

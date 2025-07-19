@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: verifiziert
 
-1,306 songs - 2 day 13 hr 37 min
+1,307 songs - 2 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [erstewahl](https://open.spotify.com/track/6BgNaRs4Cm5F5keHvCcRMo) | [lönneberger](https://open.spotify.com/artist/1XVqVLT2sgaiJFThXBGPHc) | [erstewahl](https://open.spotify.com/album/2cINsNoDtdF6RYT1LdCSoV) | 2:42 | 2025-02-14 | 2025-03-14 |
 | [Es bleibt spannend](https://open.spotify.com/track/7lZIoGYClxerbOwUgip8Vd) | [Tigermilch](https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN) | [Es bleibt spannend](https://open.spotify.com/album/13enGCel0CjCAUoo2fvQX4) | 2:25 | 2024-02-22 | 2024-03-22 |
 | [Es hört nicht auf](https://open.spotify.com/track/0Uc0m7ThckGvaT0TFG7snX) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:15 | 2023-09-22 | 2024-03-08 |
-| [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 | 2025-06-05 | 2025-07-18 |
+| [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 | 2025-06-05 |  |
 | [Es ist Sommer](https://open.spotify.com/track/2xHwDKt677Awl7APE99TQF) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Es ist Sommer](https://open.spotify.com/album/20yXDw5CJvidYkfNcyWUHa) | 2:04 | 2024-07-04 | 2024-08-23 |
 | [es ist spät](https://open.spotify.com/track/5eg2Kn2Z85VdZYX6mYkdkw) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [es ist spät](https://open.spotify.com/album/4kiJxNQKvKzuClgBAbHcdW) | 2:01 | 2023-09-14 | 2023-10-06 |
 | [Es könnte kaum schöner sein](https://open.spotify.com/track/33MXR5r04svgngdnT1odIR) | [Paul Gerlinger](https://open.spotify.com/artist/3Jh90nIsxexWk4CfSv8EBV) | [Es könnte kaum schöner sein](https://open.spotify.com/album/4hMkHNxP1dsI9322YAKUnk) | 2:47 | 2024-06-20 | 2024-07-19 |
@@ -778,6 +778,7 @@
 | [Mitte 20](https://open.spotify.com/track/6bpdsIBLD8UcP9mZl9FAdM) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Mitte 20](https://open.spotify.com/album/2yEnMwdfZrhKs4WtUuxY5e) | 2:14 | 2024-01-12 | 2024-07-12 |
 | [Mittelfinger an die Welt](https://open.spotify.com/track/45tBd0y6RzCjxsvvhXtu36) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Mittelfinger an die Welt](https://open.spotify.com/album/3byCUpqK0ejOy6F31HUG5P) | 3:05 | 2025-06-19 |  |
 | [mitternacht](https://open.spotify.com/track/4AHCFsAT9wNWFHv0hxq3tb) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [mitternacht](https://open.spotify.com/album/6p6oE4QlYjl9MDyS1bFx8H) | 2:26 | 2024-11-14 | 2025-02-21 |
+| [mkgee](https://open.spotify.com/track/4CEfrOIldUMFo9RblPpM95) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [mkgee](https://open.spotify.com/album/7DlnVM0rPlJTCA6elSbKgY) | 2:54 | 2025-07-18 |  |
 | [Mo\-Fr](https://open.spotify.com/track/5yNUQuj43NzLCXqCOjWfGZ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Mo\-Fr](https://open.spotify.com/album/4etBEAEb9JcVFw1CwmgUmt) | 2:53 | 2023-11-16 | 2024-02-14 |
 | [Moment](https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Moment](https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW) | 2:43 | 2023-08-10 | 2023-10-20 |
 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 | 2024-02-08 | 2024-06-21 |

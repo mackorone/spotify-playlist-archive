@@ -1,6 +1,6 @@
 {
   "description": "Meticulously selected by Spotify music experts.\n",
-  "num_followers": 13902,
+  "num_followers": 17051,
   "original_name": "Editors' Picks: Best Songs of the Year So Far",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
-        "name": "Baby (Is it a Crime)",
-        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 164151,
-      "name": "Baby (Is it a Crime)",
-      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
         "name": "DAISY",
         "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 215250,
       "name": "malibU",
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2025-06-30 01:25:23",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
-        "name": "Head in a Jar",
-        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Head in a Jar",
-      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
         "name": "BOTH WAYS",
         "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 141538,
       "name": "WHIM WHAMIEE (feat. YKNIECE)",
       "url": "https://open.spotify.com/track/177s589pGfNvcIX07n2Ecl"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
+        "name": "Head in a Jar",
+        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Head in a Jar",
+      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
       "added_at": "2025-06-30 01:25:23",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 316301,
-      "name": "There's A Rhythmn",
-      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
         "name": "I Guess We\u2019re Not The Same",
         "url": "https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 211575,
       "name": "I Guess We're Not The Same",
       "url": "https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 316301,
+      "name": "There's A Rhythmn",
+      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
     },
     {
       "added_at": "2025-06-30 01:25:23",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
-        "name": "LOOK OUT FOR ME",
-        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 403520,
-      "name": "LOOK OUT FOR ME",
-      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 240629,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
+        "name": "LOOK OUT FOR ME",
+        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 403520,
+      "name": "LOOK OUT FOR ME",
+      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
     },
     {
       "added_at": "2025-06-30 01:25:23",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
-        "name": "Pirouette",
-        "url": "https://open.spotify.com/album/3MAtJ9jJmvkBZTGUhAHupj"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 256795,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/0f5JzkjAfuxwDDDkcX2lrY"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
         "name": "Yay! Saturday",
         "url": "https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 195363,
       "name": "Yay! Saturday",
       "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
+        "name": "Pirouette",
+        "url": "https://open.spotify.com/album/3MAtJ9jJmvkBZTGUhAHupj"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 256795,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/0f5JzkjAfuxwDDDkcX2lrY"
     },
     {
       "added_at": "2025-06-30 01:25:23",

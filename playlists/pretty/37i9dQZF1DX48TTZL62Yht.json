@@ -1,6 +1,6 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Travis Scott",
-  "num_followers": 500380,
+  "num_followers": 500406,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,26 @@
     {
       "added_at": "2025-07-17 23:19:12",
       "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2025-07-17 23:19:12",
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 264334,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
-    },
-    {
-      "added_at": "2025-07-17 23:19:12",
-      "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
       "added_at": "2025-07-17 23:19:12",
@@ -659,18 +659,18 @@
     {
       "added_at": "2025-07-17 23:19:12",
       "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
       },
       "artists": [
         {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 222093,
-      "name": "Trap Queen",
-      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
+      "duration_ms": 90760,
+      "name": "on one tonight",
+      "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
     },
     {
       "added_at": "2025-07-17 23:19:12",
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-07-17 23:19:12",
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
         }
       ],
-      "duration_ms": 90760,
-      "name": "on one tonight",
-      "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
+      "duration_ms": 222093,
+      "name": "Trap Queen",
+      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
     },
     {
       "added_at": "2025-07-17 23:19:12",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-07-17 23:19:12",
       "album": {
-        "name": "Whatever She Wants",
-        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "Whatever She Wants",
-      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
-    },
-    {
-      "added_at": "2025-07-17 23:19:12",
-      "album": {
         "name": "Too Hard",
         "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 162053,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
+    },
+    {
+      "added_at": "2025-07-17 23:19:12",
+      "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
       "added_at": "2025-07-17 23:19:12",
@@ -975,8 +975,8 @@
     {
       "added_at": "2025-07-17 23:19:12",
       "album": {
-        "name": "CAN'T RUSH GREATNESS",
-        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
+        "name": "BAND4BAND (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
       },
       "artists": [
         {
@@ -984,13 +984,13 @@
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 154800,
-      "name": "GBP (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK"
+      "duration_ms": 140733,
+      "name": "BAND4BAND (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
     },
     {
       "added_at": "2025-07-17 23:19:12",
@@ -1071,8 +1071,8 @@
     {
       "added_at": "2025-07-17 23:19:12",
       "album": {
-        "name": "BAND4BAND (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
       },
       "artists": [
         {
@@ -1080,13 +1080,13 @@
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 140733,
-      "name": "BAND4BAND (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+      "duration_ms": 154800,
+      "name": "GBP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK"
     },
     {
       "added_at": "2025-07-17 23:19:12",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-07-17 23:19:12",
       "album": {
-        "name": "Glockoma 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 140106,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
-    },
-    {
-      "added_at": "2025-07-17 23:19:12",
-      "album": {
         "name": "KEHLANI",
         "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+    },
+    {
+      "added_at": "2025-07-17 23:19:12",
+      "album": {
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 140106,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     },
     {
       "added_at": "2025-07-17 23:19:12",
@@ -1575,22 +1575,18 @@
     {
       "added_at": "2025-07-17 23:19:12",
       "album": {
-        "name": "Just Us (feat. Doja Cat)",
-        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
       "artists": [
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 172877,
-      "name": "Just Us (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
+      "duration_ms": 156578,
+      "name": "Tyler Herro",
+      "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
     },
     {
       "added_at": "2025-07-17 23:19:12",
@@ -1663,18 +1659,22 @@
     {
       "added_at": "2025-07-17 23:19:12",
       "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+        "name": "Just Us (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
       },
       "artists": [
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 156578,
-      "name": "Tyler Herro",
-      "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
+      "duration_ms": 172877,
+      "name": "Just Us (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
     },
     {
       "added_at": "2025-07-17 23:19:12",

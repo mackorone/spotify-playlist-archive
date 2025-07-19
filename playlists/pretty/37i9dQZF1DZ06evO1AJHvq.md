@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 
 > This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,027 likes - 37 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,116 likes - 37 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 | 28 | [A Cada Rato](https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 2:40 |
 | 29 | [Los Principios \- En Vivo](https://open.spotify.com/track/1VjQKGK78EJe98zYNHtnxy) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 3:03 |
 | 30 | [El Corrido Del Cabe \- En Vivo](https://open.spotify.com/track/63y6f3wuJhab73GOoWyY4G) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk) | 3:38 |
-| 31 | [Los Primos](https://open.spotify.com/track/7I4QTnJEspPX1uyoW0fF5d) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 3:25 |
+| 31 | [La Muerte Del Cardenal](https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 4:12 |
 | 32 | [El Toro Encartado](https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 3:02 |
 | 33 | [Edgar Guzman \- En Vivo](https://open.spotify.com/track/6kHc0gC9JVPX0zxk7IMiLF) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 3:07 |
-| 34 | [La Muerte Del Cardenal](https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 4:12 |
+| 34 | [Los Primos](https://open.spotify.com/track/7I4QTnJEspPX1uyoW0fF5d) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 3:25 |
 | 35 | [El Rey De Corazones](https://open.spotify.com/track/6N11HRZvYMon459IGNv3gF) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 4:06 |
 | 36 | [El Empanada](https://open.spotify.com/track/1QYw5mvSXRDagazPC2eaRP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 3:51 |
 | 37 | [El Karma](https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 2:44 |
 
-Snapshot ID: `aHbrgAAAAAA7Dhic8hSygHBCW+C9VO9T`
+Snapshot ID: `aHg9AAAAAAD5DAhiFlG7TK5cPigP6FeD`

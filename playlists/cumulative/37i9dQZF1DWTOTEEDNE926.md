@@ -2,9 +2,9 @@
 
 ### [Rica, Latina y Famosa](https://open.spotify.com/playlist/37i9dQZF1DWTOTEEDNE926)
 
-> las mujeres ya no lloran ✨ Karol G  en portada.
+> las mujeres ya no lloran ✨ Danna  en portada.
 
-138 songs - 6 hr 38 min
+140 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 | 2024-05-17 |  |
 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 | 2024-10-18 | 2025-02-22 |
 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 | 2024-11-29 |  |
+| [KHE CALOR](https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [KHE CALOR](https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M) | 2:06 | 2025-07-18 |  |
 | [La Cuadrada](https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Cuadrada](https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J) | 2:40 | 2025-01-24 |  |
 | [LA FOTO](https://open.spotify.com/track/3M5cksDfuPEF68TZfPr76h) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [LA FOTO](https://open.spotify.com/album/7Hm5bpCKmGmuWwoIcQTCFb) | 2:26 | 2024-06-21 | 2024-11-30 |
 | [LA MALA](https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LA MALA](https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO) | 2:24 | 2024-10-18 | 2024-11-30 |
@@ -81,7 +82,7 @@
 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 | 2023-11-29 | 2024-04-13 |
 | [Mala Suerte](https://open.spotify.com/track/59Hg9EqA8kEW2pmDNjyIWU) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:10 | 2025-04-25 |  |
 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2023-11-29 | 2024-05-04 |
-| [Maldita](https://open.spotify.com/track/6DieloG6t0uynBRRfQaVkR) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [De Chava \(Deluxe\)](https://open.spotify.com/album/2POWzkq5gUJckg3lZmfz8g) | 1:45 | 2025-07-04 |  |
+| [Maldita](https://open.spotify.com/track/6DieloG6t0uynBRRfQaVkR) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [De Chava \(Deluxe\)](https://open.spotify.com/album/2POWzkq5gUJckg3lZmfz8g) | 1:45 | 2025-07-04 | 2025-07-19 |
 | [Mami](https://open.spotify.com/track/0HTcD1SJ9xLdDHJ1BIr6KS) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 3:14 | 2023-11-29 | 2024-02-16 |
 | [Mamita Rica](https://open.spotify.com/track/7vWCNYFkxVmQM2PfegA9YE) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:58 | 2024-04-26 | 2025-07-05 |
 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 | 2024-11-29 |  |
@@ -130,7 +131,7 @@
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-10-18 |  |
 | [Super](https://open.spotify.com/track/1rSf5hRY0WREuRfiDLETqZ) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Super](https://open.spotify.com/album/4tPyjMTlhXtroKXgm67zT0) | 1:43 | 2025-04-25 |  |
 | [Supongo Que Lo Sabes](https://open.spotify.com/track/0poZ5t6JLsuxtUXfhPDLJI) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:46 | 2023-11-29 | 2025-04-12 |
-| [Suéltate](https://open.spotify.com/track/4oEMWJoOgHqDLwG5hLuo85) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Suéltate](https://open.spotify.com/album/6cWIv2C8VPNbNL3Xi8aQpJ) | 3:13 | 2025-06-27 |  |
+| [Suéltate](https://open.spotify.com/track/4oEMWJoOgHqDLwG5hLuo85) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Suéltate](https://open.spotify.com/album/6cWIv2C8VPNbNL3Xi8aQpJ) | 3:13 | 2025-06-27 | 2025-07-19 |
 | [Tas Texteandome](https://open.spotify.com/track/7spAR93xvPOfkxIeTGbpPf) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Tas Texteandome](https://open.spotify.com/album/4lcpQOkpFBp3qGV0jR8N6v) | 2:56 | 2023-11-29 | 2024-02-16 |
 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 | 2023-11-29 | 2024-03-09 |
 | [Tipz & Trickz](https://open.spotify.com/track/0JP27lPyI1QZDO80cZ6SRq) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:41 | 2025-04-11 | 2025-04-26 |
@@ -141,6 +142,7 @@
 | [Tsunami](https://open.spotify.com/track/03xiVJYbab7t7CXOpoqvGq) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Tsunami](https://open.spotify.com/album/4GjjGPNztWRpc1QxHclJvh) | 1:34 | 2025-04-11 | 2025-05-24 |
 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 | 2023-11-29 | 2024-05-18 |
 | [U R SUCH A LAME!](https://open.spotify.com/track/1Ybt52Gx6UdrI9z0qUbJP3) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [U R SUCH A LAME!](https://open.spotify.com/album/38XZ32UdU2fnN2sk2XO6uP) | 2:16 | 2024-05-03 |  |
+| [vete conmigo d la disco](https://open.spotify.com/track/14grcOL24xAh8vRjwmK7Rt) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [canciones tristes pa no llorar](https://open.spotify.com/album/0FaRNdli65vIkMkKCk01cq) | 2:39 | 2025-07-18 |  |
 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 | 2025-04-25 |  |
 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 | 2023-11-29 | 2025-01-25 |
 | [Y Yo Me Le Pego](https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA) | [Y Yo Me Le Pego](https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu) | 2:52 | 2023-11-29 | 2024-06-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: Cloud 雲浩影
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,012 likes - 522 songs - 1 day 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,015 likes - 522 songs - 1 day 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -513,7 +513,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 503 | [別氹我](https://open.spotify.com/track/20GS43c9bGvL7UEb4lJeme) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [別氹我](https://open.spotify.com/album/2mq0PIl6szXutOTmn4Vb6d) | 4:25 |
 | 504 | [拔刺](https://open.spotify.com/track/1icuPSnNj9wTgJ0yOc07Mt) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [拔刺](https://open.spotify.com/album/2MuztZ0L43RNeeIUp6OqMu) | 3:32 |
 | 505 | [天光前](https://open.spotify.com/track/5UlWJqt2iwFInXuNbEIJYg) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [天光前](https://open.spotify.com/album/6YkSTBMkKxFVL8myvSCy8U) | 4:01 |
-| 506 | [十分錯](https://open.spotify.com/track/2bQnja5RV6tU7IAhwkaxpe) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [十分錯](https://open.spotify.com/album/1jYw2Vba9sZ8Bql4KM40km) | 3:38 |
+| 506 | [十分錯](https://open.spotify.com/track/2bQnja5RV6tU7IAhwkaxpe) | [Jude](https://open.spotify.com/artist/0gOq3pkJVZDHXAHQoPndZy) | [十分錯](https://open.spotify.com/album/1jYw2Vba9sZ8Bql4KM40km) | 3:38 |
 | 507 | [所有遺失的東西](https://open.spotify.com/track/0Inm9JzNVVQd16oUXeHeDF) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [所有遺失的東西](https://open.spotify.com/album/6DLV0oJzp9NaPjiIeHi8Pk) | 3:36 |
 | 508 | [我本人](https://open.spotify.com/track/1phM99AMGMC8DhmCOKFbBa) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [我本人](https://open.spotify.com/album/4BKs6hUWu0ALzAzJXmlRCZ) | 4:17 |
 | 509 | [灰夠](https://open.spotify.com/track/5DZhpdN5UGpNwRkBsltNfp) | [Stephanie Ho](https://open.spotify.com/artist/0eXGbuvMWBpHQ5GE56OCq2) | [灰夠](https://open.spotify.com/album/5GNLhJitwKeYaaptjTxFOP) | 3:31 |

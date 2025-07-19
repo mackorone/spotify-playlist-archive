@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol 🌺☀️🌴🎶 Buscabulla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,405 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,409 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 49 | [Poco a Poco \- Remix](https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Poco a Poco \(Remix\)](https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW) | 2:57 |
 | 50 | [traguito](https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 3:56 |
 | 51 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 |
-| 52 | [Lo Siento](https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 2:55 |
-| 53 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
+| 52 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
+| 53 | [Lo Siento](https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 2:55 |
 | 54 | [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 |
 | 55 | [En Cantos](https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En Cantos](https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl) | 3:32 |
 | 56 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 |

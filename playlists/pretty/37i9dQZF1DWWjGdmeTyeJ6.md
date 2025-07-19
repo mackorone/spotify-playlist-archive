@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: DC3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,163 likes - 205 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,184 likes - 205 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TBH](https://open.spotify.com/track/78UENIHzoxWF75JO1R5xRu) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [TBH](https://open.spotify.com/album/6JQJHr8cvixFtuTNJ3IhwP) | 2:01 |
-| 2 | [403 Westbound](https://open.spotify.com/track/1adPbH0MkXsyVomkicsuGK) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [403 Westbound](https://open.spotify.com/album/3QaQhECbtdaB84P2lC7lNH) | 2:50 |
+| 2 | [403 westbound](https://open.spotify.com/track/1adPbH0MkXsyVomkicsuGK) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [403 westbound](https://open.spotify.com/album/3QaQhECbtdaB84P2lC7lNH) | 2:50 |
 | 3 | [safe&sound](https://open.spotify.com/track/4rXTf33YpKgW6dUaCCix3d) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [safe&sound](https://open.spotify.com/album/498G3DcCb1NtieGRW00j9w) | 3:38 |
 | 4 | [Severed](https://open.spotify.com/track/6HjceSo92em0QBGdF69ZZt) | [Maxx Moor](https://open.spotify.com/artist/0toaL49WhSJAPcTs94NCJt) | [Severed](https://open.spotify.com/album/7GjZayofncKicRO8zTDHUb) | 1:54 |
 | 5 | [Felt It Again](https://open.spotify.com/track/1Ng0kLgvqPUJGcFhrDGbUR) | [Kislaw](https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh) | [Felt It Again](https://open.spotify.com/album/573nQdQ2h2aRxiwgCduYyv) | 2:40 |

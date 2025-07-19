@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La BO officielle de ton été 🌞 Photo : KeBlack x Guy2Bezbar
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,194 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,773 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 14 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 15 | [Mood](https://open.spotify.com/track/58rVY9wmIYBOzdLXygVs6i) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Focus](https://open.spotify.com/album/3DC0X3LwqpYnAnfTge7YE7) | 2:51 |
 | 16 | [I'm Still Standing](https://open.spotify.com/track/4oWCrSyeEjOguYbzp1rlnT) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [I'm Still Standing](https://open.spotify.com/album/1alxyy8q5B64oNIKUwI6cp) | 2:25 |
-| 17 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
+| 17 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/0pP39ryqTNnZqUeS7rCboX), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
 | 18 | [Noventa \(with J Balvin\)](https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Noventa \(with J Balvin\)](https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ) | 2:26 |
 | 19 | [AIR FORCE BLANCHE](https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [AIR FORCE BLANCHE](https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ) | 3:06 |
 | 20 | [Believe](https://open.spotify.com/track/6GM7rDq7TgtS6MEYVoyieD) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [Astrid James](https://open.spotify.com/artist/5JCfpZxK6ir2Gj4X4pBKcJ) | [Believe](https://open.spotify.com/album/1Y6a0UOSfREIxGoCbzWl5m) | 2:41 |

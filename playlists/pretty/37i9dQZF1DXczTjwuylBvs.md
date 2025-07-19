@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczTjwuylBvs.md) - [plain]
 
 > All the best songs from your favorite classic Disney films, TV shows and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,767 likes - 119 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,801 likes - 119 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczTjwuylBvs.md) - [plain]
 | 89 | [Gitchee Gitchee Goo](https://open.spotify.com/track/1ujI34NkQGLxiWxeLG7uNf) | [Phineas and the Ferbtones](https://open.spotify.com/artist/1pz6Uk6RETJmyNuxp4TD5m) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 1:57 |
 | 90 | [Look Through My Eyes \- From "Brother Bear"/Soundtrack Version](https://open.spotify.com/track/400abutrj9yS5YBkd3fE6P) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Brother Bear](https://open.spotify.com/album/0aJ2SqX6w8pJsaFaTiBUgJ) | 4:00 |
 | 91 | [We Belong Together](https://open.spotify.com/track/2m1mYan1nvOMORlb12q2Y9) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y8MjpBVOSPzJLdgUGNIZQ) | 4:02 |
-| 92 | [It's a Small World \- From "It's a Small World"](https://open.spotify.com/track/6STSsfLEr567uyoK6EbvOc) | [Richard M\. Sherman](https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb), [Robert B\. Sherman](https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 5:04 |
+| 92 | [It's A Small World \(70th Anniversary\) \- From "Disneyland Resort 70th Celebration"](https://open.spotify.com/track/6hVrlsXwBWVp5Lrc8FV4iB) | [The Disneyland Children's Chorus](https://open.spotify.com/artist/4OO3sW1MwAxI5MW3V1Dx4v) | [It's A Small World \(70th Anniversary\) \[From "Disneyland Resort 70th Celebration"\]](https://open.spotify.com/album/6FfisIeGTA7FHuudaKCuOm) | 5:03 |
 | 93 | [Gummi Bears Theme](https://open.spotify.com/track/6NosySWwM5j7uttw3olHDx) | [The Disney Afternoon Studio Chorus](https://open.spotify.com/artist/0kzp6Ezum8UhblfmLkcyPq) | [The Disney Afternoon](https://open.spotify.com/album/0sKZZI3UI2foLkTaiWupSI) | 2:23 |
 | 94 | [Little April Shower \- From "Bambi"/Soundtrack Version](https://open.spotify.com/track/1OwcR9OYz2vuUttTQSOVZN) | [Amy Lou Barnes](https://open.spotify.com/artist/4R0cSnUwirqaBOdD7CGKJh), [Sally Mueller](https://open.spotify.com/artist/6Knu1GBSexbXop7ougKLc3), [Mary Moder](https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh), [Alice Sixer](https://open.spotify.com/artist/38hKa4GYWbtkBXufkutBBn), [Betty Bayne](https://open.spotify.com/artist/0F23svEwc83LQJTYeLDpXf), [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Bambi](https://open.spotify.com/album/30ztQHKhC0EqPNkAt6QQIK) | 3:53 |
 | 95 | [Cheetah Sisters](https://open.spotify.com/track/3WjbOhfEyBp4lvEf06jGRJ) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [The Cheetah Girls \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/2GHNXCbcVV9rvtN2g7bUDX) | 3:06 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczTjwuylBvs.md) - [plain]
 | 118 | [A Dream Is a Wish Your Heart Makes \- From "Cinderella"/Soundtrack Version](https://open.spotify.com/track/3uVkugZz6yCTw5Z8sDI19F) | [Ilene Woods](https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj), [Cinderella's Mice Chorus](https://open.spotify.com/artist/2CLqnyyWmenxxGYMagqlee) | [Disney's Greatest Volume 2](https://open.spotify.com/album/6KSC0FkAhdErc0azFDze0i) | 4:36 |
 | 119 | [The Ellie Badge](https://open.spotify.com/track/33riuTg9aVoiRhHTqm2Qq8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 1:30 |
 
-Snapshot ID: `aHEK6gAAAADSF1Agyast4bqJEoNIMm+D`
+Snapshot ID: `aHpFZQAAAADO/U0Yoq16qXTfMZCBCkac`

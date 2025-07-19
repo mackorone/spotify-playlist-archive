@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-266 songs - 15 hr 19 min
+267 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [\[Solo\-Leveling\]SymphonicSuite\-Lv.2](https://open.spotify.com/track/7vXN0O6cc1DVUrXp6tgJBy) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [\[Solo\-Leveling\]SymphonicSuite\-Lv.2](https://open.spotify.com/album/31Lbc4yZkE3N7ZTJmkODBE) | 2:44 | 2024-02-02 |  |
 | [\[Solo\-Leveling\]SymphonicSuite\-Lv.3](https://open.spotify.com/track/5Yii2VWmLpSCtR7hsXZdYO) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [\[Solo\-Leveling\]SymphonicSuite\-Lv.3](https://open.spotify.com/album/3S5bCqO3Fp5zyPGzj58qf3) | 4:53 | 2024-02-02 |  |
 | [\[Solo\-Leveling\]SymphonicSuite\-Lv.8](https://open.spotify.com/track/0WYhgrgXCa7LmgOq4dbNeO) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [\[Solo\-Leveling\]SymphonicSuite\-Lv.8](https://open.spotify.com/album/33PJlQUa6r9BgLwhZJe4Hn) | 2:41 | 2024-02-02 |  |
-| [A Remix of The Marukane Department Store Jingle \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/0l0g1LNR1kUBMOFvzDJSKr) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [FeatherHATS](https://open.spotify.com/artist/6fOlx8VF1ozQaZJbn0qArC) | [A Remix of The Marukane Department Store Jingle \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/3HEAYfZrvGu71xe7i5OnVy) | 1:46 | 2025-06-27 | 2025-07-05 |
+| [A Remix of The Marukane Department Store Jingle \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/0l0g1LNR1kUBMOFvzDJSKr) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [FeatherHATS](https://open.spotify.com/artist/6fOlx8VF1ozQaZJbn0qArC) | [A Remix of The Marukane Department Store Jingle \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/3HEAYfZrvGu71xe7i5OnVy) | 1:46 | 2025-06-27 |  |
 | [After Howl](https://open.spotify.com/track/3UyG8wL4PHNs12ODcsfZ6X) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Spice and Wolf: MERCHANT MEETS THE WISE WOLF \(Original Soundtrack\) \[Volume 2\]](https://open.spotify.com/album/37SRJg1KPKebYZyYdEef9F) | 3:41 | 2024-06-21 |  |
 | [Akuma no Ko](https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Akuma no Ko](https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR) | 3:47 | 2023-01-13 | 2024-10-12 |
 | [All This](https://open.spotify.com/track/5OBX7Rctz74QUse0SZeyjN) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ) | [Family Portrait EP](https://open.spotify.com/album/6vtMs29mzabSqMhWnJXBy3) | 3:56 | 2022-02-18 | 2022-12-10 |
@@ -116,7 +116,7 @@
 | [Mugen Houyou](https://open.spotify.com/track/5Bm0efJ8bgZbLf5hdtebhC) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [NEON GENESIS EVANGELION III \(Original Soundtrack\)](https://open.spotify.com/album/15kyXcDWyZkpcVEeuKBdUk) | 5:26 | 2023-02-10 | 2025-04-12 |
 | [My Beautiful Life](https://open.spotify.com/track/6Il0TOAUXXIDxQwkaWXG1k) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/2YqVnb5lJqSNgeQarsqWs8) | 3:21 | 2023-07-21 | 2025-05-03 |
 | [My Nonfiction](https://open.spotify.com/track/77wmpTzmexp0gvyeQq45zV) | [白銀御行\(CV:古川慎\)](https://open.spotify.com/artist/0oTiO95sHpwUlOp7RZ2mPp), [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [My Nonfiction](https://open.spotify.com/album/2naRwNTQ1LHtsxQjDOCZ7R) | 2:35 | 2023-01-13 | 2025-04-12 |
-| [My☆Hero](https://open.spotify.com/track/3o6ob6bZPyoEde5C9VT7PZ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [POP STEP](https://open.spotify.com/artist/4OasGaM4Wm6Id0fzTHnCkX) | [My☆Hero](https://open.spotify.com/album/2oj3gtuMsPrmADdeKw0RXk) | 3:02 | 2025-06-27 | 2025-07-05 |
+| [My☆Hero](https://open.spotify.com/track/3o6ob6bZPyoEde5C9VT7PZ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [POP STEP](https://open.spotify.com/artist/4OasGaM4Wm6Id0fzTHnCkX) | [My☆Hero](https://open.spotify.com/album/2oj3gtuMsPrmADdeKw0RXk) | 3:02 | 2025-06-27 |  |
 | [NARUTO Main Theme](https://open.spotify.com/track/5kKloaKFvAuDNFi8m52hxy) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 4:26 | 2022-12-09 | 2024-05-25 |
 | [NIGHT](https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT](https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP) | 2:54 | 2024-10-11 |  |
 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2023-01-13 | 2024-09-21 |
@@ -236,6 +236,7 @@
 | [ポラリス](https://open.spotify.com/track/1IUfuujoaeWKI9MTQksvtl) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [POLARIS \(World Edition\)](https://open.spotify.com/album/7J1E36Fw6eyLUtdg58a4QU) | 3:45 | 2022-12-09 | 2024-01-13 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-12-09 | 2024-03-30 |
 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 |  |
+| [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 | 2025-07-18 |  |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-21 |  |
 | [堕天](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 | 2023-01-13 | 2024-11-09 |
 | [夢で逢えたら](https://open.spotify.com/track/6YEEDqbKxnTiSymWyIyn43) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [吉田美奈子 ゴールデン☆ベスト](https://open.spotify.com/album/58Kjvj88MR89KwNJ2UBBUI) | 3:50 | 2023-01-13 | 2024-07-13 |

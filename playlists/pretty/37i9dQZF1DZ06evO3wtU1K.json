@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36365,
+  "num_followers": 36369,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAAivxunj9cHdxewwrcGstoI",
+  "snapshot_id": "aHg9AAAAAABk1AMDp4QSB2vYOJmPVZh5",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 326346,
-      "name": "Jesus Saves - Live",
-      "url": "https://open.spotify.com/track/2Gv1xrd1QQeZNG99PhVdIx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 262124,
       "name": "Burdens Down - Live",
       "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 326346,
+      "name": "Jesus Saves - Live",
+      "url": "https://open.spotify.com/track/2Gv1xrd1QQeZNG99PhVdIx"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1 Mic 1 Take",
+        "url": "https://open.spotify.com/album/5n9MXmKpCKEryX2oITZ6H1"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 307140,
+      "name": "Fill Me Up / Overflow - Medley/1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/5K4x0ZKK32t6EWbrhzOoV1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart. Passion. Pursuit.",
         "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 383973,
       "name": "Forever At Your Feet",
       "url": "https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1 Mic 1 Take",
-        "url": "https://open.spotify.com/album/5n9MXmKpCKEryX2oITZ6H1"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 307140,
-      "name": "Fill Me Up / Overflow - Medley/1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/5K4x0ZKK32t6EWbrhzOoV1"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 166798,
-      "name": "I Have Decided",
-      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
+      "duration_ms": 333247,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 333247,
-      "name": "I Will Follow",
-      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
+      "duration_ms": 166798,
+      "name": "I Have Decided",
+      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
     },
     {
       "added_at": null,
@@ -779,6 +779,34 @@
       "duration_ms": 347746,
       "name": "Smile - Live",
       "url": "https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Together (We'll Get Through This)",
+        "url": "https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        },
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 204601,
+      "name": "Together (We'll Get Through This)",
+      "url": "https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt"
     },
     {
       "added_at": null,
@@ -815,34 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Together (We'll Get Through This)",
-        "url": "https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        },
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 204601,
-      "name": "Together (We'll Get Through This)",
-      "url": "https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 231073,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 214872,
       "name": "Blessings (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 231073,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi"
     },
     {
       "added_at": null,

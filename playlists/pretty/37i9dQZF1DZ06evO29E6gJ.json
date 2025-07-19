@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACUPRWZpqtBgAD8b5vvhjT4",
+  "snapshot_id": "aHg9AAAAAAAB/1PgBsqab43xpjFBaLeH",
   "tracks": [
     {
       "added_at": null,
@@ -571,38 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
-        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Una Sola Ca\u00edda - Ranchera",
-      "url": "https://open.spotify.com/track/63OuAYsEK8xo1A8c5WEljj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
-        "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 146026,
-      "name": "Tu Nuevo Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/4S44UwAoCh9kdT9macDuGk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Alegres De Ter\u00e1n, Sus Mejores Corridos Y Rancheras Contestadas",
         "url": "https://open.spotify.com/album/43Eu9c8JiKyvuWMAnJCuxc"
       },
@@ -623,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 1",
-        "url": "https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR"
+        "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
+        "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
       },
       "artists": [
         {
@@ -632,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 167866,
-      "name": "Los Pilares de la C\u00e1rcel",
-      "url": "https://open.spotify.com/track/3kx7GR0EaE6LOaVQYEYKB5"
+      "duration_ms": 146026,
+      "name": "Tu Nuevo Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/4S44UwAoCh9kdT9macDuGk"
     },
     {
       "added_at": null,
@@ -648,9 +616,25 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 168066,
-      "name": "Hermos\u00edsimo Lucero",
-      "url": "https://open.spotify.com/track/5G9HznDbXaU9UII6Sy2v1T"
+      "duration_ms": 170173,
+      "name": "Una Sola Ca\u00edda - Ranchera",
+      "url": "https://open.spotify.com/track/63OuAYsEK8xo1A8c5WEljj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 1",
+        "url": "https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "Los Pilares de la C\u00e1rcel",
+      "url": "https://open.spotify.com/track/3kx7GR0EaE6LOaVQYEYKB5"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "Hermos\u00edsimo Lucero",
+      "url": "https://open.spotify.com/track/5G9HznDbXaU9UII6Sy2v1T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Famosos",
         "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
       },
@@ -715,26 +715,6 @@
       "duration_ms": 197453,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Contestadas",
-        "url": "https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        },
-        {
-          "name": "Las Jilgueritas",
-          "url": "https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "La Mosca",
-      "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
     },
     {
       "added_at": null,
@@ -783,6 +763,26 @@
       "duration_ms": 170306,
       "name": "La Mula Bronca",
       "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Contestadas",
+        "url": "https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        },
+        {
+          "name": "Las Jilgueritas",
+          "url": "https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "La Mosca",
+      "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
     }
   ],
   "unique_name": "This Is Los Alegres De Teran",

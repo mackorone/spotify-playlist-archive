@@ -1007,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "Bambina",
+        "url": "https://open.spotify.com/album/28TWfwYUHwA01HtRdoic38"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Bambina feat. Martina Camargo - Dream Edit",
+      "url": "https://open.spotify.com/track/0yjBRyMzzVcB4v76Tt4Lro"
+    },
+    {
+      "album": {
         "name": "Bamboleo",
         "url": "https://open.spotify.com/album/22idVlsqG98oknXXTtd6Sy"
       },
@@ -8690,7 +8712,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 191475,
       "name": "una noche con hugel",
       "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"

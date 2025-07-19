@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 42237,
+  "num_followers": 42247,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABVVbG3c+kEBhkZKmlT9jlI",
+  "snapshot_id": "aHg9AAAAAABp97WAUZEcqLmdNHlVer5N",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 196562,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Whole New Sound",
         "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 178823,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 196562,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makes Me Sick",
-        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 180655,
-      "name": "Happy Being Miserable",
-      "url": "https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radiosurgery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 192599,
       "name": "Anthem for the Unwanted",
       "url": "https://open.spotify.com/track/2mV7oWnebEFSv8TpQTKKav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Makes Me Sick",
+        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 180655,
+      "name": "Happy Being Miserable",
+      "url": "https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever And Ever x Infinity",
-        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 177037,
-      "name": "Greatest Of All Time",
-      "url": "https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radiosurgery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 122582,
       "name": "Blitzkrieg Bop",
       "url": "https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever And Ever x Infinity",
+        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 177037,
+      "name": "Greatest Of All Time",
+      "url": "https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever And Ever x Infinity",
-        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 204470,
-      "name": "Stay Awhile",
-      "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radiosurgery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 177461,
       "name": "Summer Fling, Don't Mean a Thing",
       "url": "https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever And Ever x Infinity",
+        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204470,
+      "name": "Stay Awhile",
+      "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
     },
     {
       "added_at": null,

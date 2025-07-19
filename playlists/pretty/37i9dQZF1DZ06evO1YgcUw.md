@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,293 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,363 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 15 | [That's Not Me](https://open.spotify.com/track/0j0y0KnYpbNSiJ0YBwRx9E) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:31 |
 | 16 | [California Dreamin' \- 2007 Digital Remaster](https://open.spotify.com/track/4MHzXgBy7hexDe2Bto11hP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Warmth Of The Sun](https://open.spotify.com/album/2dZC8JN4oGdw4BrRzmvS4m) | 3:24 |
 | 17 | [Little Deuce Coupe \- Remastered 2001](https://open.spotify.com/track/75WMOzv7195ziyx0qEw1yE) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 1:40 |
-| 18 | [Then I Kissed Her \- Remastered 2001](https://open.spotify.com/track/3Ez3Pk5Xe6GmocOVZ6dEks) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:17 |
+| 18 | [A Thing Or Two \- Track & Backing Vocals](https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [1967 \- Sunshine Tomorrow](https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G) | 1:00 |
 | 19 | [You Still Believe In Me](https://open.spotify.com/track/2xNZK0n7SV7qvV1AlH30Dp) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:36 |
-| 20 | [A Thing Or Two \- Track & Backing Vocals](https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [1967 \- Sunshine Tomorrow](https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G) | 1:00 |
+| 20 | [Then I Kissed Her \- Remastered 2001](https://open.spotify.com/track/3Ez3Pk5Xe6GmocOVZ6dEks) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:17 |
 | 21 | [Surfer Girl \- Remastered 2001](https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:28 |
 | 22 | [Darlin' \- Remastered 2001](https://open.spotify.com/track/4BcAcEbp6j6luowfAliUfW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Wild Honey \(Remastered\)](https://open.spotify.com/album/01uTaEF0YlcBgNwaSS9iIl) | 2:14 |
 | 23 | [Don't Talk \(Put Your Head On My Shoulder\)](https://open.spotify.com/track/6BWZ4BPsftc9v7sUMFOAr4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 49 | [Wouldn’t It Be Nice](https://open.spotify.com/track/4gySZmwNJcFvVUR0SaELUK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Beach Boys With The Royal Philharmonic Orchestra](https://open.spotify.com/album/11IshdNymucuMOL1GcleRX) | 3:13 |
 | 50 | [Surf's Up \- Remastered 2009](https://open.spotify.com/track/5YniFjdw9nU8jCzvWlVVQC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:13 |
 
-Snapshot ID: `aHbrgAAAAAAOOY620sKrZOfoWbWteE1X`
+Snapshot ID: `aHg9AAAAAABjOazYvaQq2orh2y1abh0C`

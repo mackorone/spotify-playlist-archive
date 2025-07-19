@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks, via the South of Africa\. Cover: <a href="https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB?si=dsgp5IquSnqmaQoKBox7Yg">Alex Warren</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,003 likes - 62 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,001 likes - 62 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

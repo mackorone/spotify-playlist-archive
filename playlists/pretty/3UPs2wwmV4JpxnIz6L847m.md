@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3UPs2wwmV4JpxnIz6L847m.md) - [plain]
 
 > rap&\#x2F;hip hop, best to play on shuffle
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 36 likes - 4,785 songs - 11 day 0 hr 29 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 36 likes - 4,786 songs - 11 day 0 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1978,7 +1978,7 @@ pretty - [cumulative](/playlists/cumulative/3UPs2wwmV4JpxnIz6L847m.md) - [plain]
 | 1968 | [I'm Scared \(feat\. 21 Savage & Doe Boy\)](https://open.spotify.com/track/4y00KeXFOME9ABLEfaNg37) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 3:20 |
 | 1969 | [Intro](https://open.spotify.com/track/3EQ9QP2E7wjYQba8OSPBst) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:33 |
 | 1970 | [Trauma](https://open.spotify.com/track/45CCe4gu08OYG1I4MH8TU6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:58 |
-| 1971 | [pick up the phone](https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:12 |
+| 1971 | [pick up the phone \(feat\. Quavo\)](https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:12 |
 | 1972 | [YELL OH](https://open.spotify.com/track/003VDDA7J3Xb2ZFlNx7nIZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [YELL OH](https://open.spotify.com/album/2orYogfKeURqyS1hRP1vZ4) | 3:56 |
 | 1973 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 |
 | 1974 | [IDK](https://open.spotify.com/track/1tdofYaObJtffeWsCFrg04) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [IDK](https://open.spotify.com/album/1s3Fi0Esr37lOvmigDbMkv) | 3:06 |
@@ -4793,5 +4793,6 @@ pretty - [cumulative](/playlists/cumulative/3UPs2wwmV4JpxnIz6L847m.md) - [plain]
 | 4783 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
 | 4784 | [Dark Thoughts](https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:16 |
 | 4785 | [OWA OWA](https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:12 |
+| 4786 | [God Loves You](https://open.spotify.com/track/7y2EELtWhCaDU9A0vOYVHv) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:28 |
 
-Snapshot ID: `AAAbmmOVoHXnc3RnJmWuLuFtVxfsGILg`
+Snapshot ID: `AAAbmxFvPViGKHdAetNk16jjC3OR1/6/`

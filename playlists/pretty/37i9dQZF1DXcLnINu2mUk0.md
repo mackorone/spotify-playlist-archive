@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Uma edição especial com a co\-curadoria única de Lhast
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,397 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,437 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 51 | [Olhar](https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Olhar](https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm) | 3:39 |
 | 52 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
 | 53 | [Fala\-me A Verdade](https://open.spotify.com/track/215AyS6uVbzOkoaFgLJyVC) | [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Fala\-me A Verdade](https://open.spotify.com/album/5HXZqmE9FWCR5r87YlI7eJ) | 2:52 |
-| 54 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
-| 55 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 |
+| 54 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 |
+| 55 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
 | 56 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 |
 | 57 | [Weed e Wine](https://open.spotify.com/track/1AA6bIw2kpC1dEYAWdrwUp) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Mood](https://open.spotify.com/album/3pkwUDP6ZWZyl6HSbFv9x4) | 2:48 |
 | 58 | [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mulatooh](https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 |

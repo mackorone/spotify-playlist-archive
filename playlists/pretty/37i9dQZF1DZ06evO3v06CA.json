@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 202307,
+  "num_followers": 202329,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADjuiGBTNydDm7a6Uvz/cdJ",
+  "snapshot_id": "aHg9AAAAAABO5mN7WGCc38wo+ipX220f",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Willie Nelson The Collection",
+        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On The Road Again (Live)",
         "url": "https://open.spotify.com/album/6Cs43kWsaHLDRUcYMYqcc0"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 156173,
       "name": "On The Road Again - Live",
       "url": "https://open.spotify.com/track/0vcJzE2LuNY9aoq2hdMjHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Willie Nelson The Collection",
-        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On A Rock",
-        "url": "https://open.spotify.com/album/69A2qjbFkwSfxJgPNquFzx"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 203746,
-      "name": "Coconut Tree (with Willie Nelson) (with Willie Nelson)",
-      "url": "https://open.spotify.com/track/0VGb5Vy75Hkb5DKBHvuJJg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire & Brimstone",
         "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 181173,
       "name": "Welcome To Hazeville",
       "url": "https://open.spotify.com/track/39TYRr1lPpurfYPXzsOiBV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life On A Rock",
+        "url": "https://open.spotify.com/album/69A2qjbFkwSfxJgPNquFzx"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 203746,
+      "name": "Coconut Tree (with Willie Nelson) (with Willie Nelson)",
+      "url": "https://open.spotify.com/track/0VGb5Vy75Hkb5DKBHvuJJg"
     },
     {
       "added_at": null,
@@ -975,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "Shotgun Willie",
-      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 157053,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Country Boy Can Survive (Box Set)",
         "url": "https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 259360,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yesterday's Wine",
         "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 228560,
       "name": "Me and Paul",
       "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
     },
     {
       "added_at": null,

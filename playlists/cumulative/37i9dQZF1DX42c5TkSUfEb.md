@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-401 songs - 1 day 0 hr 37 min
+402 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Clover](https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Clover](https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z) | 3:30 | 2025-06-20 |  |
 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 | 2023-09-28 |  |
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2022-11-25 | 2023-12-14 |
-| [Come on By](https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Come on By](https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX) | 3:25 | 2023-11-20 |  |
+| [Come on By](https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Come on By](https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX) | 3:25 | 2023-11-20 | 2025-07-19 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-05-12 | 2023-05-26 |
 | [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 | 2025-02-27 |  |
 | [Crosses](https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:42 | 2023-02-21 | 2023-12-14 |
@@ -233,6 +233,7 @@
 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2023-02-14 | 2023-09-29 |
 | [Mechanic](https://open.spotify.com/track/2i3iyyy30E5seBJpNpUeOy) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Mechanic](https://open.spotify.com/album/4UHg2EEr1xOgBz97W5aJJN) | 2:15 | 2024-05-13 | 2024-08-16 |
 | [Miedo](https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [SANTS](https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N) | 2:15 | 2024-07-25 | 2025-01-24 |
+| [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 | 2025-07-18 |  |
 | [Mindjeris De Panu Pretu](https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 4:31 | 2024-04-15 | 2025-01-24 |
 | [Misread](https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:08 | 2023-01-27 | 2024-04-19 |
 | [Misread](https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:08 | 2022-11-25 | 2023-01-28 |

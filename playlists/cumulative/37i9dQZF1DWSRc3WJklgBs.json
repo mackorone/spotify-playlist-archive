@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "3am",
+        "url": "https://open.spotify.com/album/4iwqQzA2I4bjGedTQjCKQV"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172928,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h"
+    },
+    {
+      "album": {
         "name": "4am Calls (feat. Alex Hackett)",
         "url": "https://open.spotify.com/album/0vkscTuUlBS3rhTGK2udgJ"
       },
@@ -1270,10 +1288,32 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 244235,
       "name": "All That Really Matters",
       "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
+    },
+    {
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/2VpQLsVZOBVzuDmTHsQETP"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223898,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/0m00au0MMoII2767mu4sj7"
     },
     {
       "album": {
@@ -3658,7 +3698,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 179428,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is"
@@ -4716,7 +4756,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 278226,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/1ByxuN2e68C9mAx85Vcumt"
@@ -5008,7 +5048,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 236417,
       "name": "close to you",
       "url": "https://open.spotify.com/track/2a657moilAHrsI75o595Mz"
@@ -5690,7 +5730,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 145741,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
@@ -7390,7 +7430,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 151820,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j"
@@ -8234,7 +8274,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 167538,
       "name": "Favorite Sound",
       "url": "https://open.spotify.com/track/2YoKWnMwaPaBtHrJ0Mpunm"
@@ -10704,7 +10744,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 260312,
       "name": "Heart",
       "url": "https://open.spotify.com/track/1BKpgXxb9OgZfmQsHRcbls"
@@ -11138,7 +11178,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 134160,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1Msjub09jLhkGbyThmMLsp"
@@ -11302,7 +11342,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 211771,
       "name": "Here By Now (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ"
@@ -12056,7 +12096,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
@@ -14710,7 +14750,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 217789,
       "name": "Just Begun",
       "url": "https://open.spotify.com/track/6hb842ueBBNX0Pw6cwZsgc"
@@ -16344,7 +16384,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 190440,
       "name": "Looking for Someone",
       "url": "https://open.spotify.com/track/0itdqhILsN7MBOYr8M9DFw"
@@ -16778,7 +16818,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 194769,
       "name": "Love Is A Feeling",
       "url": "https://open.spotify.com/track/58Hifha3MJmYBa3vj7vHN8"
@@ -17776,7 +17816,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 216796,
       "name": "Magnets in the Dark (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/2jIWIrT95AuZoHmBl6DIBX"
@@ -18932,7 +18972,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 144602,
       "name": "Need Me Right",
       "url": "https://open.spotify.com/track/6bGTVNNA07wWwyPFPa7PyD"
@@ -19555,6 +19595,28 @@
     },
     {
       "album": {
+        "name": "No One Else (Feat. Corbyn Besson)",
+        "url": "https://open.spotify.com/album/5Cs89RR1Pn0ApHb634A9k6"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129175,
+      "name": "No One Else (Feat. Corbyn Besson)",
+      "url": "https://open.spotify.com/track/6fsBBty7c7eEWvdgkNIWpa"
+    },
+    {
+      "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
       },
@@ -20160,7 +20222,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 155097,
       "name": "One Last Time (with R3HAB) (feat. Enny-Mae)",
       "url": "https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw"
@@ -24758,7 +24820,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 176122,
       "name": "State Of My Heart",
       "url": "https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q"
@@ -25790,7 +25852,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Take Me Somewhere",
       "url": "https://open.spotify.com/track/6Qmalh6imfMxJAiO6HjiZh"
@@ -27460,7 +27522,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 172133,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ"
@@ -29914,7 +29976,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 236250,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/1PB6iX4kAw1t13ozPVF9vo"
@@ -30478,7 +30540,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
@@ -31054,7 +31116,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 189797,
       "name": "You Are Not Alone (feat. Dear Sara)",
       "url": "https://open.spotify.com/track/310TW3iypnMo8laEWughHb"

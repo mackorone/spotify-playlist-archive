@@ -1,6 +1,6 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 265377,
+  "num_followers": 265443,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
         "name": "Recorded Fall '61",
         "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 419626,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "The Girl From Ipanema - The Bossa Nova Years",
-        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 321826,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "Sarah Vaughan's Golden Hits",
         "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 179373,
       "name": "Misty",
       "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "The Girl From Ipanema - The Bossa Nova Years",
+        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 321826,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Jazz p\u00e5 svenska",
-        "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
-      },
-      "artists": [
-        {
-          "name": "Jan Johansson",
-          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Visa fr\u00e5n Utanmyra",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "The Essential Frank Sinatra",
         "url": "https://open.spotify.com/album/0r7da132K35RCtPvE7H7U3"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 147560,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/5cdBPBfYeRFDZWHAk4UPOH"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "Jazz p\u00e5 svenska",
+        "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
+      },
+      "artists": [
+        {
+          "name": "Jan Johansson",
+          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Visa fr\u00e5n Utanmyra",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/2EzE1ti66ASZLKQ0VdJzRX"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "Shirley / Let's Face the Music",
         "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 174600,
       "name": "If I Were a Bell - 2004 Remaster",
       "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/2EzE1ti66ASZLKQ0VdJzRX"
     },
     {
       "added_at": "2024-07-17 12:31:26",

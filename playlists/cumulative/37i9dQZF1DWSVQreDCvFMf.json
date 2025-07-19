@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: JERGE",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Solace Out The Door",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 277145,
       "name": "A Little Bit",
       "url": "https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 236571,
       "name": "Aking Mithiin",
       "url": "https://open.spotify.com/track/4E6SCQoYgnOr8U9RwtdRzQ"
@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "ano na?",
+        "url": "https://open.spotify.com/album/4pdjDYCoUzkUxx6OOx9U4s"
+      },
+      "artists": [
+        {
+          "name": "rhodessa",
+          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "ano na?",
+      "url": "https://open.spotify.com/track/4gkzPjkYp7ktLcAflF5aPa"
+    },
+    {
+      "album": {
         "name": "Apat Na Buwan",
         "url": "https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM"
       },
@@ -522,6 +540,24 @@
       "duration_ms": 203883,
       "name": "Atin Ang Walang Hanggan",
       "url": "https://open.spotify.com/track/3wyps5olGora4qX2g02DuK"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs"
+      },
+      "artists": [
+        {
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318867,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ"
     },
     {
       "album": {
@@ -962,7 +998,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 227451,
       "name": "Bitin",
       "url": "https://open.spotify.com/track/6pJzf9R1mN0C2BdIf5KI02"
@@ -1056,7 +1092,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 234000,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/1TBrZPMfvvfcD84o7iYWgs"
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 253583,
       "name": "Dahlia",
       "url": "https://open.spotify.com/track/1CGAsC6flV1mYjLhrob26x"
@@ -1760,6 +1796,36 @@
       "duration_ms": 208283,
       "name": "edsa",
       "url": "https://open.spotify.com/track/64p2tRd4zsBsJUucEnfWrX"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/3IIaHuWa8ExBM7iIuxDVpd"
+      },
+      "artists": [
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        },
+        {
+          "name": "Jay Chan",
+          "url": "https://open.spotify.com/artist/3IeDT4U7I5MOk729r0SHVE"
+        },
+        {
+          "name": "Sen Peders",
+          "url": "https://open.spotify.com/artist/0X8q0FUuwS6GElbkwhHfxH"
+        },
+        {
+          "name": "Soup Pha",
+          "url": "https://open.spotify.com/artist/2WRp2MrdxMV3BNiES6iTt4"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142499,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/4QosPAbuOSaDQsOSwl6AG1"
     },
     {
       "album": {
@@ -2855,6 +2921,28 @@
     },
     {
       "album": {
+        "name": "I can be the one",
+        "url": "https://open.spotify.com/album/1A8lPVdz7nGht81w9PrwKo"
+      },
+      "artists": [
+        {
+          "name": "Zae",
+          "url": "https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD"
+        },
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225926,
+      "name": "I can be the one",
+      "url": "https://open.spotify.com/track/4rgexTquOBLYzQWusUsLyb"
+    },
+    {
+      "album": {
         "name": "I hope you're doing well",
         "url": "https://open.spotify.com/album/4zwOMvKkBEqE4vZZ22yx8m"
       },
@@ -3004,7 +3092,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 174000,
       "name": "ikaw, ikaw, ikaw",
       "url": "https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi"
@@ -4537,6 +4625,24 @@
     },
     {
       "album": {
+        "name": "manhid",
+        "url": "https://open.spotify.com/album/0GZpsueCFFY5HuJSNgc530"
+      },
+      "artists": [
+        {
+          "name": "aira",
+          "url": "https://open.spotify.com/artist/3xw27soRxsKLiMChP0VQ4Q"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237987,
+      "name": "manhid",
+      "url": "https://open.spotify.com/track/3C8nbgxt7nykyPyM05LEuj"
+    },
+    {
+      "album": {
         "name": "MANLOLOKO",
         "url": "https://open.spotify.com/album/5GW4SV8mOPJjq0QcW2t5FR"
       },
@@ -4548,7 +4654,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 176000,
       "name": "MANLOLOKO",
       "url": "https://open.spotify.com/track/1r7HZ4sJRWWca4w4ypLK7q"
@@ -5022,7 +5128,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 317693,
       "name": "Nahanap Kita",
       "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
@@ -5397,6 +5503,24 @@
     },
     {
       "album": {
+        "name": "Oras Makina",
+        "url": "https://open.spotify.com/album/3KtZ4DY9M97qZhZLbIbgO0"
+      },
+      "artists": [
+        {
+          "name": "Solace Out The Door",
+          "url": "https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207250,
+      "name": "Oras Makina",
+      "url": "https://open.spotify.com/track/6xlECypWfYEQ1iRf9EctIN"
+    },
+    {
+      "album": {
         "name": "OTW",
         "url": "https://open.spotify.com/album/1v3iD7TUq8F7PFCbIKunhw"
       },
@@ -5550,7 +5674,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 234000,
       "name": "Pag-ibig Na Walang Hanggan",
       "url": "https://open.spotify.com/track/1RYRRz8IiuZdqw9EKCPr7j"
@@ -6064,7 +6188,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 146000,
       "name": "Parking Lot (with Darren Cashwell & Chie Filomeno)",
       "url": "https://open.spotify.com/track/29tmagQbIElVlFxjM4arKd"
@@ -6422,7 +6546,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 302338,
       "name": "Puso",
       "url": "https://open.spotify.com/track/23GZMUl9aJvSmb2QpBS55j"
@@ -7760,6 +7884,28 @@
       "duration_ms": 245636,
       "name": "The Boy Who Cried Wolf",
       "url": "https://open.spotify.com/track/3dNKnbTBjliNTwCeLqlMG3"
+    },
+    {
+      "album": {
+        "name": "The Moment (with KOKORO)",
+        "url": "https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        },
+        {
+          "name": "KOKORO",
+          "url": "https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "The Moment (with KOKORO)",
+      "url": "https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: BLACKPINK
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Jigsaw Story, MONICA
 
-182 songs - 10 hr 52 min
+183 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,9 +125,10 @@
 | [ค้าง \(STILL\)](https://open.spotify.com/track/43Cjq1AFlF93a4wh8yWYoJ) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ค้าง \(STILL\) \- Single](https://open.spotify.com/album/7IX2i9DpXH6GO3VcD9PFTC) | 4:09 | 2024-12-16 | 2025-01-24 |
 | [ง้อ \(ALRIGHT\)](https://open.spotify.com/track/7ykcQ6Jx9Q6JbLGAazWuKS) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ง้อ \(ALRIGHT\) \- Single](https://open.spotify.com/album/6IsszUhBvsoqnBIQeDwE3w) | 3:05 | 2024-08-28 | 2024-09-27 |
 | [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 | 2024-06-20 | 2025-02-22 |
+| [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r) | [Jigsaw Story](https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv), [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/album/6R6wGeqTE7snGX2qR0ckHs) | 3:33 | 2025-07-18 |  |
 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/6xUrGOUoBkhE6EVXr5RI70) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 | 2024-06-20 | 2024-11-05 |
 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 | 2024-06-20 | 2025-02-22 |
-| [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx) | 3:20 | 2025-04-28 |  |
+| [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx) | 3:20 | 2025-04-28 | 2025-07-19 |
 | [ฉันจะรีบบอกรักเธอ](https://open.spotify.com/track/0VOIQcLeVfauNE0uwmIWD6) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ) | [ฉันจะรีบบอกรักเธอ](https://open.spotify.com/album/0c6IP7EnaX9ezWtHYBseCM) | 3:13 | 2025-05-30 |  |
 | [ฉันไม่ต้องการตัวเธอในตอนนี้](https://open.spotify.com/track/2QV4JzbjMvgBRXsZHE0vW5) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ฉันไม่ต้องการตัวเธอในตอนนี้](https://open.spotify.com/album/3fGfAm9QQEuVE2QBdLk4DT) | 6:05 | 2024-09-19 | 2024-11-23 |
 | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/track/6NDNXuo2bGX7aFGA0jndEn) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/album/4nXAcObYOJHopK1CpkE5OI) | 3:33 | 2025-03-21 | 2025-04-19 |

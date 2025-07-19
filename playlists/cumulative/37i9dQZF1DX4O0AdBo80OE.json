@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 158658,
       "name": "0cm",
       "url": "https://open.spotify.com/track/4WCk2VAPDqySlBSxZTlNjK"
@@ -508,6 +508,24 @@
       "duration_ms": 169684,
       "name": "Apaga la Luz",
       "url": "https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY"
+    },
+    {
+      "album": {
+        "name": "Aprend\u00ed",
+        "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183033,
+      "name": "Aprend\u00ed",
+      "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
     },
     {
       "album": {
@@ -1552,10 +1570,32 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 159007,
       "name": "Duele",
       "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
+    },
+    {
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/5I0m1VdqstrGOYY8J7y9GS"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187579,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/43wXTUWmwPXlzCZaSigw5R"
     },
     {
       "album": {
@@ -2604,7 +2644,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 152600,
       "name": "Loquera",
       "url": "https://open.spotify.com/track/5OlspCona9qgcuBuMI7rOD"
@@ -3105,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "MTV",
+        "url": "https://open.spotify.com/album/1ZK7bGucPcVbzRyhvfFgj2"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/3BahxOSsDS3aJQqltgTacl"
+    },
+    {
+      "album": {
         "name": "Mucho para M\u00ed",
         "url": "https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5"
       },
@@ -3168,6 +3226,32 @@
       "duration_ms": 170306,
       "name": "Ni bien ni mal",
       "url": "https://open.spotify.com/track/6KUQvfFKLMF2fL3xFXoZbG"
+    },
+    {
+      "album": {
+        "name": "No Es Mala Idea",
+        "url": "https://open.spotify.com/album/5DwBczskT737Pj0enuIXew"
+      },
+      "artists": [
+        {
+          "name": "Hione",
+          "url": "https://open.spotify.com/artist/0F3owIAAiwFiIzGP2YU6mg"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Dj Kay Fear",
+          "url": "https://open.spotify.com/artist/54nmJ9XTJMCad8cxQwsrE6"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "No Es Mala Idea",
+      "url": "https://open.spotify.com/track/5c18b7Ir7M4VhHzehheFHk"
     },
     {
       "album": {
@@ -4752,7 +4836,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 252923,
       "name": "Tocando Arena",
       "url": "https://open.spotify.com/track/75tNS9948mAaxl7uTAkj4k"

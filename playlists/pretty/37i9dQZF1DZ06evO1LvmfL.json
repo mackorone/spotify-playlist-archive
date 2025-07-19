@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 409850,
+  "num_followers": 410156,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABHfo+izbGfI3PSjIXtfzAl",
+  "snapshot_id": "aHg9AAAAAACuG/gU5eQQyr0LOComQK6X",
   "tracks": [
     {
       "added_at": null,
@@ -75,42 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "About A Woman (From A Small Town)",
-        "url": "https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 207794,
-      "name": "Somethin' 'Bout A Woman",
-      "url": "https://open.spotify.com/track/2GnohZK1q5obRmQ2SuASyT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -131,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Went Crazy",
-        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
@@ -140,9 +104,29 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 183034,
-      "name": "God Went Crazy",
-      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "About A Woman (From A Small Town)",
+        "url": "https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 207794,
+      "name": "Somethin' 'Bout A Woman",
+      "url": "https://open.spotify.com/track/2GnohZK1q5obRmQ2SuASyT"
     },
     {
       "added_at": null,
@@ -167,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 176424,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+        "name": "God Went Crazy",
+        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 176424,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
+      "duration_ms": 183034,
+      "name": "God Went Crazy",
+      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
     },
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Complete Edition)",
-        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 190124,
-      "name": "Need You More",
-      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
+      "duration_ms": 234090,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/0NckAiGfjwxWfRGaeC8eEB"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 234090,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/0NckAiGfjwxWfRGaeC8eEB"
+      "duration_ms": 190124,
+      "name": "Need You More",
+      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
     },
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Gas No Brakes (feat. BigXthaPlug)",
-        "url": "https://open.spotify.com/album/541bm0KL5yWslIgIis3jPi"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ"
       },
       "artists": [
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 163314,
-      "name": "All Gas No Brakes (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/5OdPAqU4a0EZq8LOJgO5og"
+      "duration_ms": 214874,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ"
+        "name": "All Gas No Brakes (feat. BigXthaPlug)",
+        "url": "https://open.spotify.com/album/541bm0KL5yWslIgIis3jPi"
       },
       "artists": [
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 214874,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
+      "duration_ms": 163314,
+      "name": "All Gas No Brakes (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/5OdPAqU4a0EZq8LOJgO5og"
     },
     {
       "added_at": null,

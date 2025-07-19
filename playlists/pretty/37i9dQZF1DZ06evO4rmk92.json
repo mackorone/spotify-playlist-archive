@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 121687,
+  "num_followers": 121698,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADgMuO73xiZjMHOOI4K3VSS",
+  "snapshot_id": "aHg9AAAAAABJuL1hY5AbaHKNdcvJ1caH",
   "tracks": [
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 153866,
-      "name": "Orange Colored Sky",
-      "url": "https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC"
+      "duration_ms": 173533,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 173533,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
+      "duration_ms": 153866,
+      "name": "Orange Colored Sky",
+      "url": "https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want To Be Hurt Anymore",
-        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "I Don't Want To See Tomorrow",
-      "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mis Amigos",
         "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 133066,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/35uu4l4jYnCLMh88URXqoX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Want To Be Hurt Anymore",
+        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "I Don't Want To See Tomorrow",
+      "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Love Letters - Remastered",
-      "url": "https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank You, Pretty Baby",
         "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 172040,
       "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
       "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Love Letters - Remastered",
+      "url": "https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm"
     },
     {
       "added_at": null,

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 
 > El amor no se escucha, se siente...
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,094 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,141 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 |
-| 2 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 |
+| 2 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
 | 3 | [Querida Yo](https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Querida Yo](https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7) | 1:55 |
 | 4 | [Fondo](https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK) | [Pambo](https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P) | [Lo Que Mi Corazón Desea Mis Ojos Lo Ven](https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP) | 3:32 |
 | 5 | [Milagro](https://open.spotify.com/track/5uAwmFcI1aSSYp3AI8k6U1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Milagro](https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR) | 2:48 |
-| 6 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
+| 6 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 |
 | 7 | [Jaula de Oro](https://open.spotify.com/track/4t32m1qys5lJhLabV81UO4) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL) | [Jaula de Oro](https://open.spotify.com/album/2IhRPbAP4SI7m9bLngdpOZ) | 3:05 |
 | 8 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 9 | [Nacer Una Vez Más](https://open.spotify.com/track/426ejofZz5y8H3Xb9nw7HT) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk) | [Nacer Una Vez Más](https://open.spotify.com/album/2NrzFxXEIOJjpiDGh4EFpt) | 3:39 |

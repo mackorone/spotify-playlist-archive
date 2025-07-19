@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre 📸 Santiago Motorizado.
+> Más vivo que nunca, más nuestro que siempre 📸 Estelares.
 
-404 songs - 1 day 1 hr 3 min
+405 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Reloj De Plastilina](https://open.spotify.com/track/39TSahzhyETcOxJSoXyFoi) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Reloj De Plastilina](https://open.spotify.com/album/6FGgUO2s8saavc4DGHvvzf) | 2:36 | 2024-03-22 | 2024-09-21 |
 | [Rock es rock!](https://open.spotify.com/track/7mearCDj7s3ztuwX3BS6Ph) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rock es rock! / Hijos de la tempestad / Cuando sane tu corazón / Mujer Amante](https://open.spotify.com/album/2N5ILDgxaUUz8MftHtymYb) | 3:51 | 2024-10-24 | 2025-04-30 |
 | [Rola de Primera](https://open.spotify.com/track/6DPQLhYRp5PJrhgk2OWVJE) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Rola de Primera](https://open.spotify.com/album/4Weh68myPcgmZtGITPYIi1) | 3:37 | 2023-10-26 | 2024-03-16 |
+| [Roma](https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Los Lobos](https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP) | 3:48 | 2025-07-18 |  |
 | [Rompela](https://open.spotify.com/track/3BSA7eRvD25S4oX4rdngpU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 1:44 | 2024-09-12 | 2025-03-08 |
 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 | 2022-07-08 |  |
 | [Roto](https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Roto](https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV) | 3:48 | 2023-09-22 | 2025-03-08 |

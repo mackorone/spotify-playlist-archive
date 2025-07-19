@@ -4,7 +4,7 @@
 
 > All the highlights from the world of indie! Cover: Wolf Alice
 
-830 songs - 1 day 23 hr 42 min
+831 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [Million To One](https://open.spotify.com/track/6o4ZKhZgT5yUzLsYSQksOm) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Million To One](https://open.spotify.com/album/3PAx5BFmViU4y1izpSXrL1) | 3:36 | 2024-11-14 | 2025-01-24 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-13 |
 | [Mind Control](https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Mind Control](https://open.spotify.com/album/5pcrj1R40plmpD3EXv61XX) | 2:35 | 2024-10-31 | 2024-11-22 |
+| [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 | 2025-07-18 |  |
 | [Minns det som igår](https://open.spotify.com/track/2vpLChsaL4r2pnNLZ9zibN) | [Dalmatin](https://open.spotify.com/artist/6Fydl2UeADvnfloGHWW4uJ) | [Minns det som igår](https://open.spotify.com/album/30PtdgopOGchFu2QXBGEE1) | 3:15 | 2025-01-23 | 2025-02-14 |
 | [Miss U](https://open.spotify.com/track/5sJ1xbRFMVUgTy8qLaEHba) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Miss U](https://open.spotify.com/album/2OESSRquRHX18HYGPsIHsq) | 2:41 | 2025-01-16 | 2025-02-28 |
 | [Mitt DNA](https://open.spotify.com/track/5IjRmRyfhyzArQVK7EQaFe) | [Honungsvägen](https://open.spotify.com/artist/2oPrh5oUwZfr7FUiIuAWmP) | [Mitt DNA](https://open.spotify.com/album/0zmafqoQULIJkivinzBw7G) | 3:32 | 2024-11-07 | 2024-12-06 |

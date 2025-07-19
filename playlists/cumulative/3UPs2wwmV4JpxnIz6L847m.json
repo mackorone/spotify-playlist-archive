@@ -34561,6 +34561,28 @@
     },
     {
       "album": {
+        "name": "SCARING THE HOES",
+        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148417,
+      "name": "God Loves You",
+      "url": "https://open.spotify.com/track/7y2EELtWhCaDU9A0vOYVHv"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -66383,28 +66405,6 @@
     },
     {
       "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2020-02-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252256,
-      "name": "pick up the phone",
-      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
-    },
-    {
-      "album": {
         "name": "pick up the phone",
         "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
       },
@@ -66424,6 +66424,32 @@
       "duration_ms": 252262,
       "name": "pick up the phone",
       "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
+    },
+    {
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2020-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252256,
+      "name": "pick up the phone (feat. Quavo)",
+      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
     },
     {
       "album": {

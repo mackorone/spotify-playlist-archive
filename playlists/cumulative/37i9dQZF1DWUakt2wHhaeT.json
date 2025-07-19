@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-08",
-  "description": "The best songs from the new shows and the buzziest hits. Cover: BOOP!",
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Jonathan Groff in Just in Time",
   "name": "Broadway Rising",
   "tracks": [
     {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 345088,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/7aaQQCNoksyfd1fZAeG4Pa"
@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 315924,
       "name": "Roaring On",
       "url": "https://open.spotify.com/track/56oQFmaTWSQFocRNT6AYyA"
@@ -3293,6 +3293,28 @@
     },
     {
       "album": {
+        "name": "Splish Splash",
+        "url": "https://open.spotify.com/album/3efJxEtOZkEKX2vHlSNnA0"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Original Broadway Cast of Just In Time",
+          "url": "https://open.spotify.com/artist/3mjvQw6QJSp0X2cIHn6QnG"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164146,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/71Efa4RB8YjaQEj5kvh9v5"
+    },
+    {
+      "album": {
         "name": "Stay Gold",
         "url": "https://open.spotify.com/album/0gG73d6zYl2QdYPWqjJCo8"
       },
@@ -3638,6 +3660,40 @@
       "duration_ms": 309520,
       "name": "The Wizard And I - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/7279cZz7RhBAmRHAPraTeV"
+    },
+    {
+      "album": {
+        "name": "This Could Be The Start Of Something Big",
+        "url": "https://open.spotify.com/album/75nOdlCjTfWcMwaqPyz3qo"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Christine Cornish",
+          "url": "https://open.spotify.com/artist/1F3lM45dGEGppDug2A7tqV"
+        },
+        {
+          "name": "Julia Grondin",
+          "url": "https://open.spotify.com/artist/0XtPLSsCr9Txq8fvZJAQWu"
+        },
+        {
+          "name": "Valeria Yamin",
+          "url": "https://open.spotify.com/artist/5VpVrgflDFdUrWxMTykTsf"
+        },
+        {
+          "name": "Original Broadway Cast of Just In Time",
+          "url": "https://open.spotify.com/artist/3mjvQw6QJSp0X2cIHn6QnG"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217410,
+      "name": "This Could Be The Start Of Something Big / Just In Time",
+      "url": "https://open.spotify.com/track/303nIQSkkcgcMrUUWbhOWL"
     },
     {
       "album": {

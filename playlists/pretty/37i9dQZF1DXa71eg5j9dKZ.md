@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,691 likes - 101 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,703 likes - 101 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 17 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 18 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
 | 19 | [Not Checkers](https://open.spotify.com/track/0phTA5cDBB3ighHgjUDYyK) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Not Checkers](https://open.spotify.com/album/4SPm87TvwiAGgYGSnireQv) | 2:44 |
-| 20 | [All Systems Are Lying](https://open.spotify.com/track/6BEv1WwbbwL7SqYU9eowI7) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying / Run Free](https://open.spotify.com/album/2PvfvL5KzRnuo7AD4hpd3t) | 3:20 |
+| 20 | [Run Free](https://open.spotify.com/track/6FpGarU82UbiZXyI7Dyh6M) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying / Run Free](https://open.spotify.com/album/2PvfvL5KzRnuo7AD4hpd3t) | 4:40 |
 | 21 | [gbesoke](https://open.spotify.com/track/0VCnH45PSB8fIMG1w779gV) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [gbesoke](https://open.spotify.com/album/79TzsN0X2I2O4khudMIslP) | 4:15 |
 | 22 | [Back Of My Mind](https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Back Of My Mind](https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4) | 4:26 |
 | 23 | [Unidos](https://open.spotify.com/track/053G1LzgAp6h89rrotgsn0) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Unidos](https://open.spotify.com/album/2dJgxHSvlhIM3bxxQozioO) | 5:17 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 100 | [Generator](https://open.spotify.com/track/3FV2AQ5XPCCXqHvalR7SMA) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Generator EP](https://open.spotify.com/album/0fjFfo4fjXex8kNyEu4CZ0) | 4:57 |
 | 101 | ['Til Tomorrow](https://open.spotify.com/track/3Pntr5dHwavXxNQv0ktXY2) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | ['Til Tomorrow](https://open.spotify.com/album/6lNZirW2o0knujzrLydFEQ) | 3:00 |
 
-Snapshot ID: `aHDWdAAAAABapJNnUnTfSKNrpNWDf0R0`
+Snapshot ID: `aHpmawAAAADZu63Uc/NuB7R58ddNMtsS`

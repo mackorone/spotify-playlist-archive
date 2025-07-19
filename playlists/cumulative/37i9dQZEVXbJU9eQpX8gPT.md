@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,790 songs - 4 day 1 hr 40 min
+1,791 songs - 4 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1624,7 +1624,7 @@
 | [TTT](https://open.spotify.com/track/5MJeXPp7TRk6FV8eLNofrA) | [Coyote Jo Bastard](https://open.spotify.com/artist/3nDLTOGw0WwwddP3tq5561), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [TTT](https://open.spotify.com/album/3r0oic7aHB18g1SifqxbaJ) | 3:02 | 2022-04-09 | 2022-04-29 |
 | [Tukoh Taka \- Official FIFA Fan Festival™ Anthem](https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Tukoh Taka \(Official FIFA Fan Festival™Anthem\)](https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO) | 2:58 | 2022-12-07 | 2022-12-13 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-24 | 2025-02-22 |
-| [TWINS](https://open.spotify.com/track/3IeTr3DQ1SSTrBGUUAGqln) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 | 2025-01-10 |  |
+| [TWINS](https://open.spotify.com/track/3IeTr3DQ1SSTrBGUUAGqln) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 | 2025-01-10 | 2025-07-19 |
 | [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-09-17 | 2022-09-20 |
 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-23 | 2024-04-01 |
 | [UGH!](https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:45 | 2022-02-25 | 2022-02-27 |
@@ -1764,6 +1764,7 @@
 | [Zendaya](https://open.spotify.com/track/7oZZcZOMSG743m8awHqWGS) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Zendaya](https://open.spotify.com/album/33hMxOxJZVA8XuvN07tuq9) | 3:04 | 2025-04-15 | 2025-05-04 |
 | [Zest](https://open.spotify.com/track/2fx7NwHSBNHXTq4p2SVY0h) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 3:01 | 2022-05-07 | 2022-05-29 |
 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 | 2023-10-01 | 2024-06-16 |
+| [Zin li fik](https://open.spotify.com/track/5OX14CaITyh9dgCkSxO45A) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Zin li fik](https://open.spotify.com/album/3jXCGMrHxXhAwx1zrDwb9p) | 2:04 | 2025-07-18 |  |
 | [Zina](https://open.spotify.com/track/6aSUxiUElMeHaUhVJdTSPl) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 2:45 | 2022-09-03 | 2022-09-05 |
 | [ZOK](https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZOK](https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb) | 3:03 | 2023-07-30 | 2023-12-11 |
 | [Zorro](https://open.spotify.com/track/6FFZbpO7EEjz1LfMQfpq1s) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 2:51 | 2025-07-05 | 2025-07-07 |

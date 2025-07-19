@@ -4,7 +4,7 @@
 
 > mostly rock
 
-917 songs - 2 day 10 hr 43 min
+921 songs - 2 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Deeeeep!](https://open.spotify.com/track/3CaQdboLeE42pFJ35bUsy1) | [Lionel Hsiao](https://open.spotify.com/artist/7Jva80kAaicgR3vZ69ojia) | [Deeeeep!](https://open.spotify.com/album/0VJo7QD4AS5BCcZhWOGlsD) | 2:49 | 2024-06-30 |  |
 | [deep love](https://open.spotify.com/track/3KVVXyYUrPiWqIfPXYsfZM) | [Split end](https://open.spotify.com/artist/7HxOuo5CXeShZ03FzmtFKv) | [deep love](https://open.spotify.com/album/2ZO8nAjCwDNVB8Vi4vxom0) | 3:55 | 2024-04-07 |  |
 | [delusionalism](https://open.spotify.com/track/10FC7rI5KzGmyTHowOoebw) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [kirametal](https://open.spotify.com/album/1C8uN2OHUV6UZmkEPu9rzv) | 3:41 | 2023-07-15 |  |
-| [DENNO MIENMIEN MAO \(feat\. namigroove\)](https://open.spotify.com/track/2qXS1nJJpH6EaTvqt9JwXC) | [chinoi momone](https://open.spotify.com/artist/0zdGwa8ihyor4J729eSIGI), [なみぐる](https://open.spotify.com/artist/32ljht9dPnlZACgqyVTn6c) | [As Tenshi\-sama says](https://open.spotify.com/album/29ivIRiC7xB0VrWyDfcXor) | 2:34 | 2025-05-12 |  |
+| [DENNO MIENMIEN MAO \(feat\. namigroove\)](https://open.spotify.com/track/2qXS1nJJpH6EaTvqt9JwXC) | [chinoi momone](https://open.spotify.com/artist/0zdGwa8ihyor4J729eSIGI), [なみぐる](https://open.spotify.com/artist/32ljht9dPnlZACgqyVTn6c) | [As Tenshi\-sama says](https://open.spotify.com/album/29ivIRiC7xB0VrWyDfcXor) | 2:34 | 2025-05-12 | 2025-07-19 |
 | [DIC 954](https://open.spotify.com/track/4fp3ZHvEaK8dQN1x24l7EC) | [VELTPUNCH](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [Paint your life gray](https://open.spotify.com/album/7BlaeJiWruJTiEduWgz2Y3) | 4:03 | 2023-08-13 |  |
 | [Disco Crimson](https://open.spotify.com/track/00TazEoB0bLPQMkGOslGlp) | [CQ](https://open.spotify.com/artist/7HNhnD4Yu2sJWyvWbRyc2e) | [Communication, Cultural, Curiosity Quotient](https://open.spotify.com/album/2SjH6VMdKVKYDKl6MD4Yio) | 4:29 | 2024-02-22 |  |
 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2024-10-02 |  |
@@ -192,6 +192,7 @@
 | [fuwari \(wip\)](https://open.spotify.com/track/1PJz2WRMo04YYyVovFwET1) | [mikanzil](https://open.spotify.com/artist/1lG3lwW6606R3gvvmrf05H), [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6) | [fuwari \(wip\)](https://open.spotify.com/album/4YD5GWsK5fy2nRjGPYcuFv) | 3:26 | 2023-07-21 |  |
 | [ghost town](https://open.spotify.com/track/6V8dvmzNErJnUKQ5J3d4VV) | [tiny yawn](https://open.spotify.com/artist/4qiB0gKNq2SHDGl2pVvXrD) | [yawn](https://open.spotify.com/album/1dMU914e1Pem3ZH1l3AFpL) | 3:25 | 2024-07-18 |  |
 | [Ghost Town Polaroids](https://open.spotify.com/track/0qcYgEGLluOQo2Yx5wEiUD) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [he\(r\)art](https://open.spotify.com/album/1gpZubJVqBRpILdObbjhjl) | 3:36 | 2023-12-21 |  |
+| [ginger snaps](https://open.spotify.com/track/3GPykjpQnlfdy2JLSFBYo0) | [sana](https://open.spotify.com/artist/7ui2RoF4OYUgPGX937n5xQ) | [Hush a by little girl](https://open.spotify.com/album/0A7PVTTcEVLVJ9VaQbJ2cR) | 2:53 | 2025-07-18 |  |
 | [Girl meets NUMBER GIRL](https://open.spotify.com/track/4VPNKFzFnvC4cm4Lzezm1K) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [渦になる](https://open.spotify.com/album/33If3et94InFSJsipiARYH) | 5:02 | 2024-01-02 |  |
 | [Girl's Searchlight](https://open.spotify.com/track/5SrT4b4l6scDoD1YVvsjV4) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [New Young City](https://open.spotify.com/album/0LplyvdRYizAysouFyvZxh) | 4:14 | 2024-05-18 |  |
 | [glimmer](https://open.spotify.com/track/2oiW5hme6rnJXR64i1oVhU) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [あめにながす](https://open.spotify.com/album/3GcmNN6Vh6LG0hzEWsRZnn) | 3:14 | 2025-04-28 |  |
@@ -255,6 +256,7 @@
 | [Island](https://open.spotify.com/track/4fAJv1RIhg7MN2bytfifUr) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [slow down](https://open.spotify.com/album/3wya6kva0X60zWCjRXpyNq) | 3:48 | 2024-07-14 |  |
 | [isn't Anything](https://open.spotify.com/track/5UKZvasVQIieyjXSOa3BEI) | [宇宙ネコ子](https://open.spotify.com/artist/3xSs5iXfAy7FPN8cUqBEfm), [lulu](https://open.spotify.com/artist/1D663bTJFEgoHXHPSn7B00) | [日々のあわ](https://open.spotify.com/album/6YqBUccKA9IaxPwNWXVooN) | 3:22 | 2024-02-14 |  |
 | [Ithna](https://open.spotify.com/track/50ZKUOdJMWpvGlYLHObqKy) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | [Ithna](https://open.spotify.com/album/1WC5hje3M2ZA01UK1yb2vP) | 4:18 | 2024-10-08 |  |
+| [itsuka](https://open.spotify.com/track/50WGsChSYCruoRs8VQdtnb) | [ひとひら](https://open.spotify.com/artist/3PKV6Xh7jBI15NF76VX0hp) | [human](https://open.spotify.com/album/0Ut9D3KvQ1i1Na89teeeOP) | 1:59 | 2025-07-18 |  |
 | [It’s\(Not\)Ordinary feat.MICO](https://open.spotify.com/track/5jkeYu3DmpKX9GsOIIjROG) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [MICO](https://open.spotify.com/artist/1GFDOeNM3C96EdodFxXMMr), [GIRLS FIGHT CLUB](https://open.spotify.com/artist/3XWSVZ6WIrJJ36ifzHUc3Q) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 1:17 | 2024-05-03 |  |
 | [IVY](https://open.spotify.com/track/6Li0KxzWFaDj5jLTs9a4eb) | [spaghetti vabune!](https://open.spotify.com/artist/7HC10alZLikeywn8gMNkYE) | [GUITAR POP FESTA](https://open.spotify.com/album/7pzPE6Lq22nkC5AjaekNgl) | 4:12 | 2024-06-07 |  |
 | [Jason](https://open.spotify.com/track/0muSzxcpLf9pLLydlTPwyV) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 2:00 | 2024-01-23 |  |
@@ -404,6 +406,7 @@
 | [RED](https://open.spotify.com/track/4qFtMrmaF5q9vN9ckSJvVN) | [INUMOKUWANEEYO](https://open.spotify.com/artist/3a4KASWFtSw0PKhqoyZD1b) | [Vocaloid kei hommage only \~Animation ver\~](https://open.spotify.com/album/6kkvt5BVWFLWe9u432Nrof) | 2:19 | 2023-04-06 |  |
 | [Red Eyes Alternative Black Dragon](https://open.spotify.com/track/0sFFN81gBDRTZzrtN3wSTZ) | [kudaranai1nichi](https://open.spotify.com/artist/75E3iu2PfQXjKv4B6lyAIa) | [rebound](https://open.spotify.com/album/5CAQImKGNH4OaIBJXmA5l4) | 1:50 | 2023-09-05 |  |
 | [Ren](https://open.spotify.com/track/6X3a7rPtku9uL3wYeQO0LQ) | [ayumi](https://open.spotify.com/artist/05hCaZuPtLaqKMp22GFjiT) | [Minikui Mojika no Ko Original Sound Track](https://open.spotify.com/album/71U9piaXqmKbmvjQOlz8ik) | 3:55 | 2025-06-10 |  |
+| [Replaceable Goodbye](https://open.spotify.com/track/2TqJl9fWbn8CMaoH9nlBwa) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [寓話](https://open.spotify.com/album/4dD0hnVXxV4nJ0aZO23Wrb) | 5:04 | 2025-07-18 |  |
 | [Replicas](https://open.spotify.com/track/6DZ4GfPt5kKBgrDCIynnJh) | [Seventeen Years Old And Berlin Wall](https://open.spotify.com/artist/00epidt1rfpJJKIfi7dSQJ) | [Object](https://open.spotify.com/album/5MPvrs3Xzela08ir7DTHhV) | 3:44 | 2024-05-18 |  |
 | [Rirubii](https://open.spotify.com/track/0yCM1ny0b5Z4gFAIR5blHX) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [A Little Bit](https://open.spotify.com/album/5moQ6KVO0X09p7smbM6pjq) | 3:34 | 2023-10-25 |  |
 | [rise](https://open.spotify.com/track/0fCzwt5RNMbazGY28FVVMR) | [uku kasai](https://open.spotify.com/artist/41J8oHMrDrY3QWUwZ8GcSM) | [coldsmokestar](https://open.spotify.com/album/5C8icC5GfRmgUtCb6U7Lfq) | 2:00 | 2024-03-05 |  |
@@ -558,7 +561,7 @@
 | [Wozwald](https://open.spotify.com/track/3okYYZTWf6Z2MLxwdDkwVw) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x), [NILFRUITS](https://open.spotify.com/artist/4vb4gG2AkqqY7W6wBIGJfU) | [Wozwald](https://open.spotify.com/album/5u0ESZHKZumWBJQD2RXRCv) | 4:52 | 2023-09-09 |  |
 | [Yarusenai](https://open.spotify.com/track/2LQZmLAwIMEgZACET5VDjk) | [kudaranai1nichi](https://open.spotify.com/artist/75E3iu2PfQXjKv4B6lyAIa) | [rebound](https://open.spotify.com/album/5CAQImKGNH4OaIBJXmA5l4) | 2:35 | 2024-01-18 |  |
 | [yasasihikari](https://open.spotify.com/track/02YruPz8Z3P6dWsXJNP1ud) | [Cruyff In The Bedroom](https://open.spotify.com/artist/4tuW8N80UUAOJjJLkP0y1z) | [ukiyogunjou](https://open.spotify.com/album/4LFPA0612qiC5mSfUPs8am) | 5:49 | 2024-09-13 |  |
-| [Yellow](https://open.spotify.com/track/6apSb22tD25mECiPTUE1Ua) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [月刊エスケープ](https://open.spotify.com/album/11NTb0Ln56CnPtzKK1RRZF) | 3:13 | 2024-12-13 |  |
+| [Yellow](https://open.spotify.com/track/6apSb22tD25mECiPTUE1Ua) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [月刊エスケープ](https://open.spotify.com/album/11NTb0Ln56CnPtzKK1RRZF) | 3:13 | 2024-12-13 | 2025-07-19 |
 | [yellow](https://open.spotify.com/track/3wjdR1VUyR9VFZElNd406D) | [rem time rem time](https://open.spotify.com/artist/3b8cBjWSd3Ape2B5PjSxPI) | [エピソード](https://open.spotify.com/album/1LlIfE93tMDKjerzTsbSaz) | 5:14 | 2025-03-15 |  |
 | [YELLOW](https://open.spotify.com/track/6oLejuhWNQf76ydBbtLrT9) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [SHIAWASE NA OTONA](https://open.spotify.com/album/7x6VFsg9C0oqfiv70xV3yl) | 2:58 | 2023-04-06 |  |
 | [yodachi](https://open.spotify.com/track/6cfK69bgpl1GoYC2GDEyDE) | [simsiis](https://open.spotify.com/artist/4hU2ZgZUCCp8Bns1OP6JkA) | [white hot](https://open.spotify.com/album/7yGTNyOd5FilSoWqcx8Yp1) | 4:15 | 2024-03-18 |  |
@@ -921,6 +924,7 @@
 | [風を食む](https://open.spotify.com/track/68OYaxreTGmAuD9cAztr2p) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [風を食む](https://open.spotify.com/album/2DLy9De7JWCiNVLk0IAHIJ) | 4:29 | 2023-08-11 |  |
 | [風化する教室](https://open.spotify.com/track/7EYle044tuItnJemEbG6LK) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [eureka](https://open.spotify.com/album/3PYWQo89juaAr0HooKtfEH) | 3:20 | 2023-12-31 |  |
 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 | 2025-02-19 |  |
+| [飛翔](https://open.spotify.com/track/1gMy9ccSflz0l4R2HJtw0N) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l), [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U), [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [覚醒](https://open.spotify.com/album/10gtDo5NX1O0clKC2A6UJq) | 3:48 | 2025-07-18 |  |
 | [飛翔するmeme](https://open.spotify.com/track/6ehA6ywofuweHyI41AzAXv) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm) | [飛翔するmeme](https://open.spotify.com/album/2h8lvNAbaCxdvH5cjlv7v4) | 3:54 | 2024-08-18 |  |
 | [魔法使いのマキちゃん](https://open.spotify.com/track/1arFqwuuN8o0aNX8xC69Yp) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [上々](https://open.spotify.com/album/0xIATZFGcGgUbT6JG5When) | 4:50 | 2024-05-31 |  |
 | [麦の海に沈む果実](https://open.spotify.com/track/5h4vlGH1Cfyt80E4WEeQvk) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [New Young City](https://open.spotify.com/album/0LplyvdRYizAysouFyvZxh) | 4:38 | 2024-05-18 |  |

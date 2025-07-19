@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1Perreo del bueno! twerk that \ud83c\udf51 Cover: Yeri Mua & Bb trickz",
+  "description": "\u00a1Perreo del bueno! twerk that \ud83c\udf51 Cover: Katteyes, Jere Klein & Lucky Brown",
   "name": "Puro Perreo",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 195683,
       "name": "2x1",
       "url": "https://open.spotify.com/track/4Vl4Ljum5W4v8w8EiqWTHA"
@@ -1925,6 +1925,28 @@
     },
     {
       "album": {
+        "name": "Bellakita",
+        "url": "https://open.spotify.com/album/4etGoXtLTZTej0gYGGedPH"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219008,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/1wRaUAWhi14iC3ptYzYuWu"
+    },
+    {
+      "album": {
         "name": "Porque La Demora",
         "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
       },
@@ -1940,10 +1962,32 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 219008,
       "name": "Bellakita",
       "url": "https://open.spotify.com/track/4tSrGUb119Qx4sAZBzfFgd"
+    },
+    {
+      "album": {
+        "name": "Gangsta Love",
+        "url": "https://open.spotify.com/album/5gpRa5a1GPka0N0q6RxtU8"
+      },
+      "artists": [
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127832,
+      "name": "Bellakiti",
+      "url": "https://open.spotify.com/track/2kDCwtnBqAw2MhCoCZCdy9"
     },
     {
       "album": {
@@ -2374,6 +2418,24 @@
       "duration_ms": 115384,
       "name": "BRINKEN",
       "url": "https://open.spotify.com/track/1mCfNPVJ0IfcYe1A4GAi3Q"
+    },
+    {
+      "album": {
+        "name": "ISLAND BOYZ",
+        "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163093,
+      "name": "BUCHANANS 18",
+      "url": "https://open.spotify.com/track/0nLRSsZQNZ74i6h5z79EC4"
     },
     {
       "album": {
@@ -5035,6 +5097,36 @@
     },
     {
       "album": {
+        "name": "Diabla",
+        "url": "https://open.spotify.com/album/68gtQW3RL7b4xLTaWBzsig"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "LAKELLY",
+          "url": "https://open.spotify.com/artist/4jg7aE94hJ1qY93unfcyA5"
+        },
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243120,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/04VzWruL4xtanaEFgpgaDA"
+    },
+    {
+      "album": {
         "name": "LA PANTERA NEGRA",
         "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
       },
@@ -5666,7 +5758,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 152441,
       "name": "EL BABY",
       "url": "https://open.spotify.com/track/6NH2uIx74R5VbLM3jjXLN3"
@@ -6795,6 +6887,24 @@
     },
     {
       "album": {
+        "name": "(((REXX)))",
+        "url": "https://open.spotify.com/album/4a4gi4zJPboFcefHJZwYBw"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148709,
+      "name": "ESTO TAMBIEN ES REGGAETON MEXA",
+      "url": "https://open.spotify.com/track/033wAL9AOf65vhGhLIq9uP"
+    },
+    {
+      "album": {
         "name": "LOS 9 DE FERXXO Y SKY ROMPIENDO",
         "url": "https://open.spotify.com/album/5L3PAo50R75rOZLlEvokZZ"
       },
@@ -7361,6 +7471,28 @@
     },
     {
       "album": {
+        "name": "ISLAND BOYZ",
+        "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157478,
+      "name": "FREAKY (feat. LUDMILLA)",
+      "url": "https://open.spotify.com/track/6AScOrn9TiSuFanMrW9Xju"
+    },
+    {
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -7762,6 +7894,28 @@
       "duration_ms": 142125,
       "name": "GATITA OFICIAL",
       "url": "https://open.spotify.com/track/30RUPqywtsbXklcqmRn0Cn"
+    },
+    {
+      "album": {
+        "name": "GATITA SEPHORA",
+        "url": "https://open.spotify.com/album/34MmK8rSmHUGk26m3nfA3t"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164494,
+      "name": "GATITA SEPHORA",
+      "url": "https://open.spotify.com/track/3RWRImPPKeuBeO8ovkQA7W"
     },
     {
       "album": {
@@ -8386,7 +8540,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 231693,
       "name": "Holanda",
       "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
@@ -9146,6 +9300,28 @@
       "duration_ms": 180662,
       "name": "La Favorita",
       "url": "https://open.spotify.com/track/7ztnCQ5bj6EIUPvrRaz1SM"
+    },
+    {
+      "album": {
+        "name": "C\u00d3DiGOS DE MU\u00d1EKA",
+        "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158210,
+      "name": "LA FREAK",
+      "url": "https://open.spotify.com/track/34OeWFapJcyotfNV4h2Xuj"
     },
     {
       "album": {
@@ -10638,7 +10814,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 105856,
       "name": "Maldita",
       "url": "https://open.spotify.com/track/6DieloG6t0uynBRRfQaVkR"
@@ -11100,7 +11276,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 160000,
       "name": "MARINO",
       "url": "https://open.spotify.com/track/4YsQ3uERJUFPf9cp62lTYI"
@@ -11216,7 +11392,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 245274,
       "name": "MASOQUISTA",
       "url": "https://open.spotify.com/track/3hpdPi4I8d0uBMrRYTWLbZ"
@@ -13762,7 +13938,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
@@ -21458,7 +21634,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
@@ -21708,6 +21884,32 @@
       "duration_ms": 180000,
       "name": "Zona",
       "url": "https://open.spotify.com/track/40ITk1Q3t8QTGgtzK8KPZE"
+    },
+    {
+      "album": {
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196274,
+      "name": "Zun Zun",
+      "url": "https://open.spotify.com/track/7uQ3MlGpYURF2ED8E5xFIa"
     },
     {
       "album": {

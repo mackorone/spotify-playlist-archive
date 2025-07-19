@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de AQUA VS.
 
-289 songs - 14 hr 43 min
+290 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [CHAINZ](https://open.spotify.com/track/5IZPp18xCMZBoIi0Ws2K1E) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Jaegen](https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6) | [G LOVE 2](https://open.spotify.com/album/7euUENdmFe3U1pw8p6q38g) | 2:16 | 2022-08-25 | 2023-08-12 |
 | [Chat](https://open.spotify.com/track/4Wa1K30gzHFlntJ7gijLMB) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Xtaciss](https://open.spotify.com/album/7i85NxfIZcsAXR8zF9xCcA) | 3:01 | 2022-01-20 | 2022-03-18 |
 | [Chinese \(feat\. King Savagge\)](https://open.spotify.com/track/3riIoSIEMCU45UDaVuc7v2) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:21 | 2023-03-30 |  |
+| [Chucky](https://open.spotify.com/track/4gbdNWMM1ZThItsAke3CLL) | [Shisosaloud](https://open.spotify.com/artist/6TBZdTaCa4lbCCi8BQemuD), [Baruj31](https://open.spotify.com/artist/40OrVogEt6jy4nWCpNmhFl) | [Chucky](https://open.spotify.com/album/2xTA3N5tUBmux4DkqGqwXK) | 2:34 | 2025-07-18 |  |
 | [CLAP](https://open.spotify.com/track/0WF17ZUQCLX2eIgq99bIUe) | [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Savage Bright](https://open.spotify.com/artist/6BrFszfIlVIvrox20vz3uQ) | [CLAP](https://open.spotify.com/album/7djt3Er4AULCNXTFlgnYrk) | 2:45 | 2024-06-21 |  |
 | [Como en Casa](https://open.spotify.com/track/5uW502BCyLOyBQJMYuWSAp) | [Benji Bendi](https://open.spotify.com/artist/1p7MJGY1B2qF1svG3yxn7T) | [Como en Casa](https://open.spotify.com/album/2zYTTeV7F0jvc3dNJarCTd) | 3:08 | 2025-06-13 |  |
 | [Como Lo Soñamos](https://open.spotify.com/track/73MxLebHswOiNzYqHlKDW9) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Lo Soñamos](https://open.spotify.com/album/13fkbJw2bElBpM00Em4AgW) | 3:16 | 2022-01-20 |  |

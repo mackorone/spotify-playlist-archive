@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Sing-along to your favorite songs from Disney Jr. shows including music from SuperKitties.",
+  "description": "Sing-along to your favorite songs from Disney Jr. shows including music from Mickey Mouse Clubhouse+",
   "name": "Disney Junior Music",
   "tracks": [
     {
@@ -3533,6 +3533,28 @@
     },
     {
       "album": {
+        "name": "Su-Purr Wild (From \"Disney Jr. Music: SuperKitties\")",
+        "url": "https://open.spotify.com/album/1WGRBhlHHsEw8a3pJsn0Pn"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68812,
+      "name": "Su-Purr Wild - From \"Disney Jr. Music: SuperKitties\"",
+      "url": "https://open.spotify.com/track/155yJC9x3vtqokdmTiPhmh"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends",
         "url": "https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT"
       },
@@ -4360,6 +4382,28 @@
       "duration_ms": 63978,
       "name": "Webs Up - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
       "url": "https://open.spotify.com/track/73oKdtqfhexTnNvp2QFBns"
+    },
+    {
+      "album": {
+        "name": "Welcome to the Clubhouse (Hot Dog!) [From \"Disney Jr. Music: Mickey Mouse Clubhouse+\"]",
+        "url": "https://open.spotify.com/album/0sHn61de25GeXbJzcWk4Cq"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Clubhouse+ - Cast",
+          "url": "https://open.spotify.com/artist/2tUJ9RmG3zSwctpikuzuzq"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169062,
+      "name": "Welcome to the Clubhouse (Hot Dog!) - From \"Disney Jr. Music: Mickey Mouse Clubhouse+\"",
+      "url": "https://open.spotify.com/track/0GhJ70rt4cDAUrYWGBPG88"
     },
     {
       "album": {

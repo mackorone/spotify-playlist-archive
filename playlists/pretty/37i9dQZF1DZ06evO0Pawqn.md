@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,003 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,004 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 40 | [Te Pido y Te Ruego](https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Asomate a Mi Alma](https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph) | 2:54 |
 | 41 | [Amor de Ayer](https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 2](https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD) | 3:10 |
 | 42 | [Que Te Perdone Dios](https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:25 |
-| 43 | [El Libro de los Dioses](https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:16 |
-| 44 | [De La Tierra Al Cielo](https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De La Tierra Al Cielo](https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd) | 2:37 |
+| 43 | [De La Tierra Al Cielo](https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De La Tierra Al Cielo](https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd) | 2:37 |
+| 44 | [El Libro de los Dioses](https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:16 |
 | 45 | [Por Una Mujer Bonita](https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 3:12 |
 | 46 | [Tu Maldad](https://open.spotify.com/track/5GHuhu0CHdccMRO1L6fNZa) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:15 |
 | 47 | [Para la Reina](https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Reina](https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [Eslabon por Eslabon](https://open.spotify.com/track/4TAJnxpLy9BBJSVk9K76RI) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Homenaje a Los Invasores](https://open.spotify.com/album/77cenBu4ilcCyiu4iARvrG) | 3:16 |
 | 50 | [Mares de Licor \- En Vivo](https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 2:26 |
 
-Snapshot ID: `aHbrgAAAAACoYoGc/dw0jlpSBynT5GhG`
+Snapshot ID: `aHg9AAAAAACwVzCfsSWtK2aYP3bfB5R1`

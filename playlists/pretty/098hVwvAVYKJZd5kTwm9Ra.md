@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 
 > BBQ \- Summer Barbeque grilling essentials for your backyard party\. Backyard BBQ, Cookout, Block Party, Summer BBQ, Barbeque Mix, BBQ Chill\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,784 likes - 214 songs - 14 hr 19 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,852 likes - 214 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 | 213 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
 | 214 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
 
-Snapshot ID: `AAAFYSXoQRjefDJEo18VUWm3hlozxlRi`
+Snapshot ID: `AAAFYxGgzkKSIJjktCUlnUg6SB8bcA1s`

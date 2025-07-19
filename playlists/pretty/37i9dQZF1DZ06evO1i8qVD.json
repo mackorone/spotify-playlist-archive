@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 36567,
+  "num_followers": 36585,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACo4nB/diZwWNQErFAhje/7",
+  "snapshot_id": "aHg9AAAAAAA2p2f6KRDwbWE1q05f//c4",
   "tracks": [
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Blue No More (feat. James Bay)",
-      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 174466,
       "name": "Snatch It Back And Hold It",
       "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Blue No More (feat. James Bay)",
+      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Don't Lie",
-        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Follow The Money (feat. James Taylor)",
-      "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DJ Play My Blues",
         "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
       },
@@ -751,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 314026,
+      "name": "The Devil's Daughter",
+      "url": "https://open.spotify.com/track/2DgqYxUQw3YODAgaqmS6SJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bring 'Em In",
         "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
@@ -767,22 +763,6 @@
       "duration_ms": 296280,
       "name": "I've Got Dreams To Remember",
       "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "The Devil's Daughter",
-      "url": "https://open.spotify.com/track/2DgqYxUQw3YODAgaqmS6SJ"
     },
     {
       "added_at": null,
@@ -823,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 276293,
+      "name": "All That Makes Me Happy Is the Blues",
+      "url": "https://open.spotify.com/track/7hsbxGPIEBr9G2wP9cTO2L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
       },
@@ -843,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+        "name": "The Blues Don't Lie",
+        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 276293,
-      "name": "All That Makes Me Happy Is the Blues",
-      "url": "https://open.spotify.com/track/7hsbxGPIEBr9G2wP9cTO2L"
+      "duration_ms": 222000,
+      "name": "Follow The Money (feat. James Taylor)",
+      "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
       "duration_ms": 126933,
       "name": "Hoodoo Man Blues",
       "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Blues Don't Care (feat. Gary Clark, Jr.)",
+      "url": "https://open.spotify.com/track/5fs3sNq3KK9jpbTNCf324m"
     },
     {
       "added_at": null,
@@ -911,26 +931,6 @@
       "duration_ms": 320640,
       "name": "Midnight Train (feat. Jonny Lang)",
       "url": "https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Blues Don't Care (feat. Gary Clark, Jr.)",
-      "url": "https://open.spotify.com/track/5fs3sNq3KK9jpbTNCf324m"
     },
     {
       "added_at": null,

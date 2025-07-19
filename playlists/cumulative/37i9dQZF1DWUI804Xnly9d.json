@@ -2058,6 +2058,10 @@
         {
           "name": "Sandeep Shrivastava",
           "url": "https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
         }
       ],
       "date_added": "2025-07-11",
@@ -6277,6 +6281,32 @@
     },
     {
       "album": {
+        "name": "Maanliya",
+        "url": "https://open.spotify.com/album/615P5SIufwS2mN89GG0ebG"
+      },
+      "artists": [
+        {
+          "name": "Ashku pishku",
+          "url": "https://open.spotify.com/artist/2ICU5Htew2uhWBpJWjjbqG"
+        },
+        {
+          "name": "Soham Majumdar",
+          "url": "https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW"
+        },
+        {
+          "name": "Harshad NLT",
+          "url": "https://open.spotify.com/artist/3fU9eGeT7xj2vw8qfTjfID"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216521,
+      "name": "Maanliya",
+      "url": "https://open.spotify.com/track/1KpsvdF5MDK8Xflp22gl04"
+    },
+    {
+      "album": {
         "name": "Mahi Mere Mahi",
         "url": "https://open.spotify.com/album/1hxEJVTQVGFz4xbuvS2kHK"
       },
@@ -8813,6 +8843,28 @@
     },
     {
       "album": {
+        "name": "Sahiba Unplugged",
+        "url": "https://open.spotify.com/album/3kZvEoMvxad8D3HudeayxB"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "UNPLG'd",
+          "url": "https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75045,
+      "name": "Sahiba Unplugged",
+      "url": "https://open.spotify.com/track/1oOYt0YDdoUkSo22NGNj8o"
+    },
+    {
+      "album": {
         "name": "Sajna Ve (Unplugged)",
         "url": "https://open.spotify.com/album/5ffdP0dt1juD6S2JwtDC4C"
       },
@@ -8916,7 +8968,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 157353,
       "name": "Sapne",
       "url": "https://open.spotify.com/track/31phalzjaw7CIcmrLcwbvv"
@@ -9950,7 +10002,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 182449,
       "name": "Titli",
       "url": "https://open.spotify.com/track/7hIo0oSJq396AsNH0r1zCv"

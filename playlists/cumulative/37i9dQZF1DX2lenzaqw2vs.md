@@ -4,7 +4,7 @@
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: YADAM
 
-359 songs - 19 hr 35 min
+360 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [No hay nadie como tú](https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [No hay nadie como tú](https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF) | 3:05 | 2024-06-07 |  |
 | [No Pensar en Ti](https://open.spotify.com/track/7wT65lCgV2geLUK0FcKF2J) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Covers](https://open.spotify.com/album/54RJ3EzLIGbaiQXycO2kBq) | 3:54 | 2021-12-09 | 2022-06-01 |
 | [NO PUTX \- Spotify Singles](https://open.spotify.com/track/79yTQjvKcRzO9Qb0wZJzkL) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Tito Fuentes](https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo) | [NO PUTX \- Spotify Singles](https://open.spotify.com/album/59gNuylpSUihz8qxcHHeJx) | 3:51 | 2021-12-09 | 2022-06-01 |
-| [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 | 2023-07-07 |  |
+| [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 | 2023-07-07 | 2025-07-19 |
 | [Noches De Verano](https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Noches De Verano](https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF) | 3:06 | 2024-03-15 |  |
 | [Nosotras](https://open.spotify.com/track/4nFDjLt6B26zHLmc1Tz8rn) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Contragolpe](https://open.spotify.com/album/09og5AoFa5Qq8Tlny8t0BG) | 2:47 | 2022-06-01 | 2023-01-25 |
 | [Nunca Fue](https://open.spotify.com/track/1yoDprcj9nMx1kq9ZRRsG5) | [Una Típica Francisca](https://open.spotify.com/artist/7mCCpnILGKRMZ4RCA9e4lG), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Nunca Fue](https://open.spotify.com/album/0NexOUhIG5wHThaul9GwPG) | 4:42 | 2023-01-24 | 2023-05-13 |
@@ -364,6 +364,7 @@
 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 | 2023-09-15 |  |
 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 | 2023-11-17 | 2024-06-08 |
 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2021-12-09 | 2023-01-25 |
+| [YUMMi ‹𝟹](https://open.spotify.com/track/6AAXDBDExlkCAdJAZiOCfL) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [YUMMi ‹𝟹](https://open.spotify.com/album/105S0cR3xG70Z9xb5c4kZ0) | 2:33 | 2025-07-18 |  |
 | [ZORRA](https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [ZORRA](https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf) | 3:03 | 2024-02-16 |  |
 | [Ácido Sabor](https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ácido Sabor](https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh) | 3:30 | 2023-01-24 |  |
 | [Último Perreo](https://open.spotify.com/track/0EkR27maX2BlhZEYaAaRZN) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Último Perreo](https://open.spotify.com/album/4i4jE0qiWsNxIVbxbYFHoX) | 3:23 | 2021-12-09 | 2022-06-01 |

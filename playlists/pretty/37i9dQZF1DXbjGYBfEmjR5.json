@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 350472,
+  "num_followers": 350522,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Cyber Love",
+        "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "The Way U Make Me Feel",
+      "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Miki Matsubara Night Tempo Presents the Showa Groove",
         "url": "https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 238760,
       "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
       "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Cyber Love",
-        "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "The Way U Make Me Feel",
-      "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -851,8 +851,8 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
         }
       ],
-      "duration_ms": 173421,
-      "name": "Palm Road",
-      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+      "duration_ms": 142372,
+      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -931,8 +931,8 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
         }
       ],
-      "duration_ms": 142372,
-      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
+      "duration_ms": 173421,
+      "name": "Palm Road",
+      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -959,22 +959,6 @@
       "duration_ms": 232699,
       "name": "Mode",
       "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Pure Love",
-        "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
-      },
-      "artists": [
-        {
-          "name": "Pure Gem",
-          "url": "https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA"
-        }
-      ],
-      "duration_ms": 141145,
-      "name": "Shiny Shiny",
-      "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -999,6 +983,22 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
+      },
+      "artists": [
+        {
+          "name": "Pure Gem",
+          "url": "https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA"
+        }
+      ],
+      "duration_ms": 141145,
+      "name": "Shiny Shiny",
+      "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "MOTORWAY",
+        "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 158518,
+      "name": "Facts",
+      "url": "https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "You Can't Run",
         "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 164000,
       "name": "Sailor Saturn",
       "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "MOTORWAY",
-        "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 158518,
-      "name": "Facts",
-      "url": "https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
-      },
-      "artists": [
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 124363,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "SAILORSATURDAYS",
         "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 240000,
       "name": "SAILORSATURDAYS",
       "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
+      },
+      "artists": [
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 124363,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Dance Tonite",
+        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Dance Tonite",
+      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "At the End of the Day",
         "url": "https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 164000,
       "name": "Tokyo City Nightlife (feat. Aritus)",
       "url": "https://open.spotify.com/track/2UcHmNTQCb0GjmINRoUd6q"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Dance Tonite",
-        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Dance Tonite",
-      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "TIMERIDER 1983",
-        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
-      },
-      "artists": [
-        {
-          "name": "Adrianwave",
-          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
-        }
-      ],
-      "duration_ms": 260625,
-      "name": "\u541bKimi (You Came Along)",
-      "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Notilde Tapes, Vol. 1",
         "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 230655,
       "name": "Answer",
       "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "TIMERIDER 1983",
+        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
+      },
+      "artists": [
+        {
+          "name": "Adrianwave",
+          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
+        }
+      ],
+      "duration_ms": 260625,
+      "name": "\u541bKimi (You Came Along)",
+      "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Goodbye Future Funk",
-        "url": "https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Le Knight Club Is Playing at My House",
-      "url": "https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Disco Soul",
         "url": "https://open.spotify.com/album/52D8ESbEYlQw75nStkEone"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 456393,
       "name": "Disco Soul - Mr. Hoosteen's \"Disco's Revenge\" Mix",
       "url": "https://open.spotify.com/track/79V22C8lQvcYQMWtZgBzeo"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Goodbye Future Funk",
+        "url": "https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Le Knight Club Is Playing at My House",
+      "url": "https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea"
     },
     {
       "added_at": "2023-07-18 02:21:29",

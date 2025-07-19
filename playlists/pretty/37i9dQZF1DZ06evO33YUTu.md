@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,252 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,257 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 30 | [Te Estás Enamorando de Mí](https://open.spotify.com/track/0VKNy1fBPb3ZcMJE3v17VF) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Te Estás Enamorando de Mí](https://open.spotify.com/album/6dIOyfEblWiLaoRfJkNdLY) | 2:45 |
 | 31 | [Guatapé](https://open.spotify.com/track/0lLo2KPtFaXcB82klIgMN6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [En Las Nubes \- Con Mis Panas](https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q) | 2:59 |
 | 32 | [Cuando Te Vi](https://open.spotify.com/track/6hFoqFZ7hiEafAkIVXtytB) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:10 |
-| 33 | [Perfecta](https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perfecta](https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur) | 3:02 |
-| 34 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 |
+| 33 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 |
+| 34 | [Perfecta](https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perfecta](https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur) | 3:02 |
 | 35 | [La Magia de Tus Ojos \- Versión Pop](https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Magia de Tus Ojos \(Versión Pop\)](https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph) | 2:48 |
 | 36 | [Locos Dementes](https://open.spotify.com/track/1avccdZyIOpCisznKwu47H) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Locos Dementes](https://open.spotify.com/album/49nZLyZDBKph8WzxuLGkF8) | 3:35 |
 | 37 | [Perdón](https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perdón](https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 49 | [Tal vez](https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:09 |
 | 50 | [Si Superamos Esta Noche](https://open.spotify.com/track/6bzOf2vhI5j3KAnOtDhd8X) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 2:52 |
 
-Snapshot ID: `aHbrgAAAAADLHMPRLy0OWTJpPFwcbZMX`
+Snapshot ID: `aHg9AAAAAAB7e+VDZLqk9G6e05dbmrNA`

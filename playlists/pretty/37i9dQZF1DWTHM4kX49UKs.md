@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHM4kX49UKs.md) - [plain]
 
 > The best indie rock/pop/hip hop/dance/r&b of the 2010s\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,597 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,595 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

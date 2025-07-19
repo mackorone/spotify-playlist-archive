@@ -1,13 +1,29 @@
 {
   "description": "iykyk",
-  "num_followers": 4172830,
+  "num_followers": 4173038,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHlq5QAAAADrZm3hrXI+ZcZ0Hz+ZqmXG",
+  "snapshot_id": "aHnG1wAAAABZGfCs0TQ2KrES8UY6Bbtk",
   "tracks": [
+    {
+      "added_at": "2025-07-18 04:00:23",
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
     {
       "added_at": "2025-05-27 15:47:05",
       "album": {
@@ -429,6 +445,22 @@
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
     },
     {
+      "added_at": "2025-07-18 04:00:23",
+      "album": {
+        "name": "GET NAKED",
+        "url": "https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "duration_ms": 126933,
+      "name": "GET NAKED",
+      "url": "https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ"
+    },
+    {
       "added_at": "2025-06-19 15:51:00",
       "album": {
         "name": "Happy Hour: The Greatest Hits",
@@ -839,22 +871,6 @@
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2025-02-07 20:56:50",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2025-05-27 15:47:05",

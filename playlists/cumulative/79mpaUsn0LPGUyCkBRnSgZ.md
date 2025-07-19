@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-849 songs - 2 day 8 hr 30 min
+850 songs - 2 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,6 +808,7 @@
 | [War at the Door](https://open.spotify.com/track/3CK3oybt0KITkdz6F4yAMd) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:07 | 2024-03-24 |  |
 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 | 2023-11-30 | 2024-10-24 |
 | [Watch 'At Breakdown](https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [How To Grow A Woman From The Ground](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) | 4:14 | 2024-04-02 |  |
+| [Watch My Hands](https://open.spotify.com/track/7q2sBotZw4bVLg8Hvkmbnb) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko) | [Magic, Alive!](https://open.spotify.com/album/0RXsRwX4iMCKkSFPoSs8Go) | 1:45 | 2025-07-18 |  |
 | [Wayside/Back in Time](https://open.spotify.com/track/7kBgZQP85cQBKKDTmjcDf3) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Soul Journey](https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr) | 3:28 | 2024-02-07 |  |
 | [We Got It For Cheap \(Intro\)](https://open.spotify.com/track/3YKR7Wglf9JvWg5O7xdA5g) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:41 | 2022-04-29 |  |
 | [Weird Part Of The Night](https://open.spotify.com/track/5Q9r5uZtc1bHTS0Wd6uS0i) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Time](https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr) | 4:20 | 2024-01-15 |  |

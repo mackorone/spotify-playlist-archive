@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2010s.",
-  "num_followers": 45963,
+  "num_followers": 45989,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Asylum (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Endgame",
         "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+        "name": "Asylum (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3OgZdIAHaDMOtYq8Z5iCQ5"
+      "duration_ms": 204826,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1175,6 +1159,22 @@
       "duration_ms": 238760,
       "name": "I'll Follow You",
       "url": "https://open.spotify.com/track/0ILR5GMSzBRp2LrI8GX1Si"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3OgZdIAHaDMOtYq8Z5iCQ5"
     },
     {
       "added_at": "2024-07-12 15:00:09",

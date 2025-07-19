@@ -10,12 +10,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1y0jny.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Nani Koolau](https://open.spotify.com/track/2vj1gPvngTblmHXCvH3u2H) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:28 |
 | 2 | [Na Puuwai Haokila](https://open.spotify.com/track/5I0FPQKECMecGJTkney4jd) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Kūhaʻo Maunakea](https://open.spotify.com/album/59nqTMWkBplZCBqsXwBBcY) | 3:07 |
-| 3 | [Kewalo Uka](https://open.spotify.com/track/5Y7mpD51hYpOhZfit1wuwz) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 3:03 |
-| 4 | [Heha Waipiʻo](https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:36 |
+| 3 | [Heha Waipiʻo](https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:36 |
+| 4 | [Kewalo Uka](https://open.spotify.com/track/5Y7mpD51hYpOhZfit1wuwz) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 3:03 |
 | 5 | [Hanohano Haiku](https://open.spotify.com/track/7vhH5BJgH5Cr9jlWwfXtXJ) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:28 |
 | 6 | [Lei Pua Melia](https://open.spotify.com/track/1JaviJ1xC3U42tspbEUpDR) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:32 |
-| 7 | [It's a Small World \- Hawaiian Version](https://open.spotify.com/track/7jmFUb4cFl2qzvfODI8Ne0) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Disney Hawaiian Album \~DA BEST!\~](https://open.spotify.com/album/0A7jcBToDjWVYphBypyghi) | 1:46 |
-| 8 | [Kuʻu Ipo Onaona](https://open.spotify.com/track/1mkJROOWWEhGilNP9d4pVr) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:12 |
+| 7 | [Kuʻu Ipo Onaona](https://open.spotify.com/track/1mkJROOWWEhGilNP9d4pVr) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:12 |
+| 8 | [It's a Small World \- Hawaiian Version](https://open.spotify.com/track/7jmFUb4cFl2qzvfODI8Ne0) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Disney Hawaiian Album \~DA BEST!\~](https://open.spotify.com/album/0A7jcBToDjWVYphBypyghi) | 1:46 |
 | 9 | [Eleu Mikimiki](https://open.spotify.com/track/2rJ22DZjY656aEpQ9OlD5h) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:18 |
 | 10 | [Maui](https://open.spotify.com/track/7cZpEshCy8Ncbd6jIDXbux) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:04 |
 | 11 | [Pua o ka Hēʻī](https://open.spotify.com/track/773itJWhCype5MRKbIYrri) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 3:13 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1y0jny.md) - [plain]
 | 31 | [Honokowai](https://open.spotify.com/track/3vEK9J9FuhBMAK9koYYbQZ) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Lei Nāhonoapiʻilani: Nā Mele Hou](https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5) | 3:08 |
 | 32 | [Aloha Kuu Aina o Kauaula](https://open.spotify.com/track/0s3YBKhXcbIVe4tlNC94Ir) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Lei Nāhonoapiʻilani: Nā Mele Hou](https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5) | 2:21 |
 
-Snapshot ID: `aHbrgAAAAAA24cQwieZ9wMi3vw+ODYha`
+Snapshot ID: `aHg9AAAAAAD6EV8HWoAHs1dXwEvPnulh`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Africa.
 
-2,450 songs - 7 day 6 hr 3 min
+2,451 songs - 7 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -809,7 +809,7 @@
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-27 | 2024-04-21 |
 | [Grounding](https://open.spotify.com/track/5gslmolwQnfoS3o67UP03O) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:54 | 2023-01-28 | 2023-02-06 |
 | [GTA](https://open.spotify.com/track/4XF9fk0STp9hx8xn5Suwpz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:53 | 2024-03-23 | 2024-03-25 |
-| [Gucci](https://open.spotify.com/track/0zSGfaxDJWmzfRT67F4dnM) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Gucci](https://open.spotify.com/album/4kQHlm4N8kbWqsLFPLMi1x) | 4:07 | 2024-09-28 |  |
+| [Gucci](https://open.spotify.com/track/0zSGfaxDJWmzfRT67F4dnM) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Gucci](https://open.spotify.com/album/4kQHlm4N8kbWqsLFPLMi1x) | 4:07 | 2024-09-28 | 2025-07-19 |
 | [Gucci](https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Gucci](https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8) | 4:07 | 2024-09-30 | 2025-02-16 |
 | [Gucci Grocery Bag](https://open.spotify.com/track/02vvwHxBoZtnNDQFFE64NQ) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:55 | 2023-06-24 | 2023-06-26 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-06 | 2024-08-10 |
@@ -1272,6 +1272,7 @@
 | [LUMBERJACK](https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [LUMBERJACK](https://open.spotify.com/album/4FUZ2K8iROpZzhWjusmH9e) | 2:18 | 2021-06-19 | 2021-06-21 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-06-16 |
 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-23 | 2025-07-12 |
+| [Luyazenzela](https://open.spotify.com/track/18z13CvLX9wuxVfbE3Lhnv) | [Phangandawo](https://open.spotify.com/artist/3irECGtZGGBOARaZElSiLb), [Shenge](https://open.spotify.com/artist/1xIivPK6sC42jpYgBl45v4), [Mjabulisi](https://open.spotify.com/artist/7cHTggdS9DqKE9oP1FTuZS) | [Luyazenzela](https://open.spotify.com/album/5UOGjj9wPp6u69IHy1vVaP) | 4:00 | 2025-07-18 |  |
 | [Lwandle Xiluva](https://open.spotify.com/track/3s9jBEwEJNJD7Ynzoh8K5I) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Jessica LM](https://open.spotify.com/artist/3Q259wuL2vRuisWyvYcebg), [ThackzinDJ](https://open.spotify.com/artist/0bklXcSWnh72t6Uo1RPeGA), [Tee Jay](https://open.spotify.com/artist/7LaiNte25fh24EljHwBUcM) | [Lwandle Xiluva](https://open.spotify.com/album/5iMfvmpd5AcAAxjxZ1GxuK) | 7:26 | 2021-09-24 | 2021-09-26 |
 | [Lyf Styl](https://open.spotify.com/track/1VSqIYu2mCrGgurfE6mdXc) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8) | [Yimi Lo](https://open.spotify.com/album/4qsxQElnfnsgWzkG1ozu6b) | 6:21 | 2022-01-02 | 2022-01-04 |
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-05-18 | 2024-05-20 |

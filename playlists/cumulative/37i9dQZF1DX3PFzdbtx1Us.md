@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-398 songs - 16 hr 0 min
+399 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Denouement \(Scaled Down Version\)](https://open.spotify.com/track/47NH3o8N8jfKZXXWwj4okO) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [KEEN: Complete Concentration Vol\. 1](https://open.spotify.com/album/6wae1HkPxiUmb3ntigcqXR) | 2:20 | 2022-07-05 | 2022-11-14 |
 | [Denouement \(Scaled Down Version\)](https://open.spotify.com/track/4cmmWMIqEMDhq2GFT2dl6f) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Berceuse](https://open.spotify.com/album/3CapLnomeQByNOs4WBPOAZ) | 2:20 | 2021-06-27 | 2022-07-29 |
 | [Dianthus](https://open.spotify.com/track/1AFS4HPrOmxvVgKGVuylWI) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Dianthus](https://open.spotify.com/album/2NVyXMffU56Xmv5Dqs8Aix) | 2:33 | 2025-03-21 |  |
+| [Distant Places](https://open.spotify.com/track/4ht7nj0YiVpK8oP7o7YkcU) | [Joseph Pichon](https://open.spotify.com/artist/1e8hr3rVp1diUWI9mXkHhD) | [Distant Places](https://open.spotify.com/album/6g9tYRm1M1nBATMtMSu7QA) | 2:24 | 2025-07-18 |  |
 | [Doubt](https://open.spotify.com/track/3D0LhoqGyjdOV6760uOsJS) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [RISE](https://open.spotify.com/album/0Y8HYJSgZUyKFfHKF6GPmY) | 1:55 | 2023-05-15 | 2023-08-16 |
 | [Dreamscape](https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dreamscape](https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM) | 2:26 | 2023-08-15 |  |
 | [Dulcimer](https://open.spotify.com/track/0c5hNxzYagIuyNTjW4Fzux) | [Shira Joseph](https://open.spotify.com/artist/5X31MelGPpqOWS7WZu8n7F) | [Dulcimer](https://open.spotify.com/album/58ejRk8RGyGafjyWQQVE6o) | 3:00 | 2023-05-15 | 2025-04-10 |

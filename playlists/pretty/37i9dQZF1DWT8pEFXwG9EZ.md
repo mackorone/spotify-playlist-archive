@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,232 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,278 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 65 | [B.\-Loved \(feat\. Cécile McLorin Salvant\) \- French Version](https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6) | [Fabrice Lecomte](https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Sylvie's Love \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj) | 1:59 |
 | 66 | [From Russia with Love \- Single Version](https://open.spotify.com/track/0WBIlfElfs2GCpE4kxEZDt) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [The Best Of Matt Monro](https://open.spotify.com/album/41IR9ViLL2GlvI3uzfXo5F) | 2:35 |
 | 67 | [It Had To Be You](https://open.spotify.com/track/1LKN5pN5RyB9NCdE7ANvMN) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Boardwalk Empire Volume 2: Music From The HBO Original Series](https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP) | 3:17 |
-| 68 | [The Windmills of Your Mind \(Theme from the Thomas Crown Affair \) \- with Vocals by Noel Harrison](https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [The Thomas Crown Affair](https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv) | 2:21 |
-| 69 | [Thinking Of Baby \- From "Johnny Staccato" Score / Remastered](https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG) | [Elmer Bernstein](https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c) | [Staccato \(Original Johnny Staccato Score\)](https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd) | 2:59 |
+| 68 | [Thinking Of Baby \- From "Johnny Staccato" Score / Remastered](https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG) | [Elmer Bernstein](https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c) | [Staccato \(Original Johnny Staccato Score\)](https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd) | 2:59 |
+| 69 | [The Windmills of Your Mind \(Theme from the Thomas Crown Affair \) \- with Vocals by Noel Harrison](https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [The Thomas Crown Affair](https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv) | 2:21 |
 | 70 | [Amore mio aiutami \- Version 6](https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Amore mio aiutami \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF) | 3:01 |
 | 71 | [Body and Soul](https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 5:54 |
 | 72 | [Kipling Theme](https://open.spotify.com/track/5tLqCq1AZB2U9LPVHwamp7) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 5:00 |

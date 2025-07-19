@@ -4,24 +4,20 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,517 likes - 15 songs - 52 min 34 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,516 likes - 11 songs - 39 min 43 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kettinki peti](https://open.spotify.com/track/1qWTGJRzPIUzscJJjz0Yoi) | [Huge L](https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB) | [Kettinki peti](https://open.spotify.com/album/3pvGYySiQFL2yd5UqnUlbU) | 3:10 |
-| 2 | [imy everyday](https://open.spotify.com/track/0mk5RqjOkMTLTdO980YLQr) | [TeYo](https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC) | [imy everyday](https://open.spotify.com/album/2c8AuIygkDOKCNE71MzXft) | 3:16 |
-| 3 | [Dive](https://open.spotify.com/track/5upWcLRwZ9u7WabxoTTGyE) | [Renata Queli](https://open.spotify.com/artist/2LLPL2Pvq1UeuBhgVvUmny) | [Dive](https://open.spotify.com/album/5WTyFIhZIEphZr9kWbEE2N) | 3:16 |
-| 4 | [Kaos \[Sista Tåget\]](https://open.spotify.com/track/0dBFp3rJaYwoGnF4IWUiqA) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [Kaos \[Sista Tåget\]](https://open.spotify.com/album/603SmrsM8Qz0Unfqyx6eqC) | 3:18 |
-| 5 | [You](https://open.spotify.com/track/3U4dZoulX2luqz9xf1VJhk) | [TRIP RGAZZI](https://open.spotify.com/artist/0SK8CcodNPQb6on1zFWq5e) | [You](https://open.spotify.com/album/403gYGDlzy47ocO39HB1we) | 4:06 |
-| 6 | [Bitter Bitch](https://open.spotify.com/track/0y8SM4VavK65kuHw3IDwYv) | [Jasmine Kara](https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj) | [Bitter Bitch](https://open.spotify.com/album/4wLz8lKVbgssUcDzud1zfh) | 2:36 |
-| 7 | [Darkened Apathy](https://open.spotify.com/track/42dhuD9TOhPkg2ysJVCESL) | [Grand Cadaver](https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC) | [Darkened Apathy](https://open.spotify.com/album/0Gs3AFIYJpfAhEFV8lEo99) | 4:54 |
-| 8 | [Flyttar ut på landet](https://open.spotify.com/track/7f2DupV0pss4fpccqgbZjw) | [Amanda Warren](https://open.spotify.com/artist/5IXA2Evm4dcj8KLg7ZzayA), [Hugo Den Fete](https://open.spotify.com/artist/0u6YesByZo3nVghHwGFPwX), [West11](https://open.spotify.com/artist/70VJLyt1Xs8zZG5Qf0v2LK) | [Flyttar ut på landet](https://open.spotify.com/album/6P6vvyvRDjkF0MIvo7AM0x) | 3:28 |
-| 9 | [Sweet M16](https://open.spotify.com/track/6eYxcHBJkjiWN7fPVsCjy3) | [I Am Low](https://open.spotify.com/artist/0VLxzSdK1g4pL3U0aaiFMu) | [Sweet M16](https://open.spotify.com/album/6aTcxjKkRauqWoz7aHFeuF) | 4:42 |
-| 10 | [Race Cars](https://open.spotify.com/track/1hZ1vQh8X8Tp60lFmGJyuh) | [Paul Allen](https://open.spotify.com/artist/1ewhAtkWJhsTs8GsseqBft) | [Race Cars](https://open.spotify.com/album/0r0QOZV2GzEYOKnn4pAgSO) | 2:15 |
-| 11 | [When the angel came](https://open.spotify.com/track/74Lpeet7NjokS5ao4xM3vm) | [Alain Picard](https://open.spotify.com/artist/0Ib8HAyJqte4QkjQosNqXO) | [When the angel came](https://open.spotify.com/album/1cfoKVPTAXwF0OYlBTB81P) | 3:40 |
-| 12 | [Kulot!](https://open.spotify.com/track/7o8tcwGNQSRAx1Q3Th8ikz) | [Dino Santos](https://open.spotify.com/artist/0OKuaRwk6gjqtgr8vBQzW3) | [Kulot!](https://open.spotify.com/album/1ERGNG6LyUUsf3fpFSje3h) | 4:36 |
-| 13 | [Oh My](https://open.spotify.com/track/7xr3jzj35OtI8tQURYG75o) | [Dakota Chappy](https://open.spotify.com/artist/2wSuwnAjR8ofGWbE1sbtNn) | [Oh My](https://open.spotify.com/album/5Cjzooqlhy5LOGNDiecCBJ) | 2:44 |
-| 14 | [Dream](https://open.spotify.com/track/40DpkRFaKuGMpvuUE4FFBG) | [Wildflower](https://open.spotify.com/artist/0PTceGyYgxGaCjChdXxaqq) | [blush](https://open.spotify.com/album/1PihOA9YdCU0rXFF94m7VN) | 3:07 |
-| 15 | [Conversations](https://open.spotify.com/track/1cgrdVynbKJsCaZ1a8vItk) | [The Night Owls Project](https://open.spotify.com/artist/48eiBKVOggxFyr1O8fdT3l), [LAEL](https://open.spotify.com/artist/6u0N8dav5uO0AdKr6l9EFp) | [Conversations](https://open.spotify.com/album/4xXQmE80OxvXZr0nnaoWQU) | 3:18 |
+| 1 | [The Novel Of The Past](https://open.spotify.com/track/52Yrt9M7Ix1czDv1hgniaH) | [Symphony Of Sweden](https://open.spotify.com/artist/6AvBsDOrRn8rAdJdj3srdJ) | [The Novel Of The Past](https://open.spotify.com/album/5LYSyO2GEGFJHnOybrH1ID) | 2:54 |
+| 2 | [Can't Bring Me Down](https://open.spotify.com/track/6VUF1W8lbkoRvPfjfCYSXq) | [Electric Pets](https://open.spotify.com/artist/5vcnO1y3jGvpaTc22C5QLi) | [Can't Bring Me Down](https://open.spotify.com/album/7CJnpSVFHaKGSS5d877Kpt) | 3:11 |
+| 3 | [Voices Inside](https://open.spotify.com/track/0G2n3AjvyXQw7GP2k9Xs2K) | [TheRealDeez](https://open.spotify.com/artist/1INqmKjV3U8q0KAz2aECU3) | [Asylum: 217](https://open.spotify.com/album/3NS8UtVHYUFDuvJJcdBUJs) | 4:22 |
+| 4 | [TOGETHER IN DARKNESS \(DRAG ME DOWN\)](https://open.spotify.com/track/4tg4dPeq1GYYr0ySkE7gNO) | [Invictra](https://open.spotify.com/artist/5bn8tClDtoV1J9jTbmoCO9) | [THE TRENCHES](https://open.spotify.com/album/2AWGoBUEmyhq6fKAKIev54) | 4:37 |
+| 5 | [25 anni manifesto](https://open.spotify.com/track/0YjnNK0gfm7XqQvxkJaI30) | [GEAR](https://open.spotify.com/artist/2y7LPvPg5VXwMDtqdAAeNo) | [MANIFESTO](https://open.spotify.com/album/1kCjVajFwIqHaONtSNMvRI) | 2:00 |
+| 6 | [TRAPHOUSE](https://open.spotify.com/track/6ke5FmBaugf714dnFgJ67E) | [Brian](https://open.spotify.com/artist/5YkWvCYEDwq4AXjKFHG80T) | [TRAPHOUSE](https://open.spotify.com/album/5azoSBpcAXHsEjvEBTC87T) | 2:54 |
+| 7 | [Atropos](https://open.spotify.com/track/7xJ9Ou31DDsLsk7RzcqCGh) | [Katakomba](https://open.spotify.com/artist/6odb6JOVKBnYrwMUmnAPab), [Svartkonst](https://open.spotify.com/artist/66VqcI3lF4ldMcjnuUZxSP) | [Atropos](https://open.spotify.com/album/4Dl88Rp8kUgpe5nOV9sKli) | 4:32 |
+| 8 | [Den kom till oss](https://open.spotify.com/track/20AdfQk01ixT7AMlbfysU5) | [River Talks](https://open.spotify.com/artist/5C1mTjVFpQoTk9s08NlqCB) | [Den kom till oss](https://open.spotify.com/album/45q0Wlfp2ANzrXQMqyvyoU) | 3:15 |
+| 9 | [Hård Våt](https://open.spotify.com/track/5T9gUpdSIL1VUQs7Jqjbb4) | [CNIDARIEL](https://open.spotify.com/artist/2VlPH4uGkwsEbOoQVSIDQj) | [Hård Våt](https://open.spotify.com/album/6RJt865ObjUa9C1C844tbQ) | 4:14 |
+| 10 | [Kulttibändi](https://open.spotify.com/track/1PNfPEBAD3CpzSKF3GPjPp) | [Ou´touhka](https://open.spotify.com/artist/3HbsNsxsqE7YrO7vIInr58) | [Kulttibändi](https://open.spotify.com/album/6J0d3wpAuK1RMdKgC08oZL) | 2:50 |
+| 11 | [FACTORY LIGHTS](https://open.spotify.com/track/01AsyQLvfvqhD9tG5Croxa) | [Gunblue](https://open.spotify.com/artist/68fsa5cF2DTslFDLugvdGj) | [BETTER](https://open.spotify.com/album/6w6ofIDYcYGUXPO17GbgXc) | 4:49 |
 
-Snapshot ID: `AAAENusHnieERwgDa0KB5eyqrrowiHQT`
+Snapshot ID: `AAAEOCfojt7TVNu2tJvknOacl4VqLXDA`

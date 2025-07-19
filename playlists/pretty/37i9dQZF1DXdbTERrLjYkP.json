@@ -1,13 +1,61 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Storm Henshaw",
-  "num_followers": 218675,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Whitney Whitney",
+  "num_followers": 218700,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHCMUQAAAAAp0BiwjCC0L/2MmovaD9MM",
+  "snapshot_id": "aHpN8gAAAAB5bzyDB43ipxlwAJWQOf8r",
   "tracks": [
+    {
+      "added_at": "2025-07-18 04:00:21",
+      "album": {
+        "name": "1.1",
+        "url": "https://open.spotify.com/album/1JGCFxl6s6lUtquONRWtPA"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "duration_ms": 168693,
+      "name": "Touching You",
+      "url": "https://open.spotify.com/track/1QRdejzkrwoZxWS7DSJVgE"
+    },
+    {
+      "added_at": "2025-07-18 04:00:21",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
+    },
+    {
+      "added_at": "2025-07-18 04:00:21",
+      "album": {
+        "name": "Sweetheart",
+        "url": "https://open.spotify.com/album/5YRCEVDf3R3TLwPJsKdctz"
+      },
+      "artists": [
+        {
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+        }
+      ],
+      "duration_ms": 215955,
+      "name": "Sweetheart",
+      "url": "https://open.spotify.com/track/5XSBmZKP9J3ZRdqwygm2ee"
+    },
     {
       "added_at": "2025-07-11 04:00:17",
       "album": {
@@ -25,6 +73,86 @@
       "url": "https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv"
     },
     {
+      "added_at": "2025-07-18 04:00:21",
+      "album": {
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/1lNjDZCDvudPwxCZHhn5nf"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 240586,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/2nnCgU9J5aZciocscHIhQ9"
+    },
+    {
+      "added_at": "2025-07-18 12:38:41",
+      "album": {
+        "name": "What's This Really About",
+        "url": "https://open.spotify.com/album/1FQmyUtauhTMIlQw1zoP6o"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "What's This Really About",
+      "url": "https://open.spotify.com/track/0lIcZEJMNWL1wkjaXZnOjr"
+    },
+    {
+      "added_at": "2025-07-18 04:04:31",
+      "album": {
+        "name": "tightrope",
+        "url": "https://open.spotify.com/album/5lvUj2vXEFl5Zd2T18szOg"
+      },
+      "artists": [
+        {
+          "name": "Savanna Leigh",
+          "url": "https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt"
+        }
+      ],
+      "duration_ms": 309454,
+      "name": "tightrope",
+      "url": "https://open.spotify.com/track/16GBUPnzB2pSU5x0Vby14u"
+    },
+    {
+      "added_at": "2025-07-18 04:00:21",
+      "album": {
+        "name": "Turn Red",
+        "url": "https://open.spotify.com/album/1u2RNnee15k34sv5gMf5IM"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Turn Red",
+      "url": "https://open.spotify.com/track/7ruY9EHnzkOc01D5zxGQ1N"
+    },
+    {
+      "added_at": "2025-07-18 13:36:50",
+      "album": {
+        "name": "The Only Good Thing In This City",
+        "url": "https://open.spotify.com/album/2b3qbzeJSVrfl64JdnOvHi"
+      },
+      "artists": [
+        {
+          "name": "Muryel",
+          "url": "https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn"
+        }
+      ],
+      "duration_ms": 210371,
+      "name": "The Only Good Thing In This City",
+      "url": "https://open.spotify.com/track/6clLMpnHUkoHawSUn1SGod"
+    },
+    {
       "added_at": "2025-07-11 04:00:17",
       "album": {
         "name": "Basis of a Pinky Promise",
@@ -39,6 +167,22 @@
       "duration_ms": 170955,
       "name": "Better in Person",
       "url": "https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU"
+    },
+    {
+      "added_at": "2025-07-18 04:00:21",
+      "album": {
+        "name": "Ramona",
+        "url": "https://open.spotify.com/album/1JJmc71cvmsm31GbBRy4MA"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Sterling",
+          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Ramona",
+      "url": "https://open.spotify.com/track/4xCfoEDoc2lR5O5Q6bF6Kd"
     },
     {
       "added_at": "2025-07-11 04:00:17",
@@ -87,6 +231,22 @@
       "duration_ms": 198680,
       "name": "Do You Like That, Baby?",
       "url": "https://open.spotify.com/track/1I7QWW2rjALUtIDrVBWJQm"
+    },
+    {
+      "added_at": "2025-07-18 04:00:21",
+      "album": {
+        "name": "I Tried",
+        "url": "https://open.spotify.com/album/151XFBOwvm6LvudHhqDlNP"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 152815,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/7GvGFGMeck6jUymfuqDUTc"
     },
     {
       "added_at": "2025-06-27 04:00:39",
@@ -201,22 +361,6 @@
       "url": "https://open.spotify.com/track/4elg3DXTnAzPLmIMGj9ULf"
     },
     {
-      "added_at": "2025-06-27 04:00:39",
-      "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/44zCI5RAkDwK2fFJpqNvZ0"
-      },
-      "artists": [
-        {
-          "name": "Luke Dunleavy",
-          "url": "https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/0Po4nPZoSyDf0GE8MXJgoo"
-    },
-    {
       "added_at": "2025-06-06 04:00:17",
       "album": {
         "name": "Witching Hour",
@@ -249,22 +393,6 @@
       "url": "https://open.spotify.com/track/5QqIpatrYBsKX4pEcmzKxo"
     },
     {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Lasting Effects",
-        "url": "https://open.spotify.com/album/113HR1TbXie2s9xTeGEGck"
-      },
-      "artists": [
-        {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Lasting Effects",
-      "url": "https://open.spotify.com/track/3bYuvzuTTyLlehuQoiGVPA"
-    },
-    {
       "added_at": "2025-06-13 04:00:59",
       "album": {
         "name": "I Can Be Your Mother",
@@ -295,22 +423,6 @@
       "duration_ms": 158387,
       "name": "T-Shirt",
       "url": "https://open.spotify.com/track/14t5xsqdGQXdMhRkeCMZaN"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Pretty Clever",
-        "url": "https://open.spotify.com/album/5NqYGKayOtLVKKUDN3yMDG"
-      },
-      "artists": [
-        {
-          "name": "Darcy Lane",
-          "url": "https://open.spotify.com/artist/2Jp7AC0nIPSgOFOeX6N4Uh"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Pretty Clever",
-      "url": "https://open.spotify.com/track/2tuokOUfUCdjJ0UMaCHixP"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -749,54 +861,6 @@
       "url": "https://open.spotify.com/track/2sab89Tv3lCK0sR23SAHUC"
     },
     {
-      "added_at": "2025-04-18 04:00:56",
-      "album": {
-        "name": "The Bend",
-        "url": "https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "The Bend",
-      "url": "https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1"
-    },
-    {
-      "added_at": "2025-04-11 04:00:21",
-      "album": {
-        "name": "kissing for practice",
-        "url": "https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Thompson",
-          "url": "https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j"
-        }
-      ],
-      "duration_ms": 209506,
-      "name": "kissing for practice",
-      "url": "https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy"
-    },
-    {
-      "added_at": "2025-04-07 20:13:58",
-      "album": {
-        "name": "Duel",
-        "url": "https://open.spotify.com/album/5fi1Z4VzXeNAYg4BxNCWgR"
-      },
-      "artists": [
-        {
-          "name": "Ruby Plume",
-          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/2BeBp0IazmkqGVc0PxxDye"
-    },
-    {
       "added_at": "2025-04-11 04:00:21",
       "album": {
         "name": "Future Emma",
@@ -811,102 +875,6 @@
       "duration_ms": 259557,
       "name": "Future Emma",
       "url": "https://open.spotify.com/track/2v8pOMgEEvFjAFSJXBRwhQ"
-    },
-    {
-      "added_at": "2025-04-18 04:00:56",
-      "album": {
-        "name": "Vincent's Wife (p.33)",
-        "url": "https://open.spotify.com/album/3aj4SLrcyZzswSqbfBflP9"
-      },
-      "artists": [
-        {
-          "name": "Salty Licorice",
-          "url": "https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs"
-        }
-      ],
-      "duration_ms": 273882,
-      "name": "Vincent's Wife (p.33)",
-      "url": "https://open.spotify.com/track/2YqjRiCr5WfH7VBd2ctHcX"
-    },
-    {
-      "added_at": "2025-04-11 04:00:21",
-      "album": {
-        "name": "AMERICAN DREAMERS, Vol. 2",
-        "url": "https://open.spotify.com/album/12a16yqWGANg0GSrNleOqm"
-      },
-      "artists": [
-        {
-          "name": "Carver Jones",
-          "url": "https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid"
-        }
-      ],
-      "duration_ms": 148732,
-      "name": "GOOD MEASURE",
-      "url": "https://open.spotify.com/track/6P8L4RZSh7NoguKjUFmO1i"
-    },
-    {
-      "added_at": "2025-04-11 04:00:21",
-      "album": {
-        "name": "placeholder",
-        "url": "https://open.spotify.com/album/5wIu0AYkYEuZ1tKg9PFsUd"
-      },
-      "artists": [
-        {
-          "name": "Julia Minichiello",
-          "url": "https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS"
-        }
-      ],
-      "duration_ms": 215883,
-      "name": "placeholder",
-      "url": "https://open.spotify.com/track/0P81XsLbHOGPMzTwMtmxfP"
-    },
-    {
-      "added_at": "2025-04-04 04:00:25",
-      "album": {
-        "name": "How did I let this get so serious?",
-        "url": "https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 174935,
-      "name": "Hospitals",
-      "url": "https://open.spotify.com/track/5UD6uQp41jdj91OgaTNYt6"
-    },
-    {
-      "added_at": "2025-04-04 04:00:25",
-      "album": {
-        "name": "I Know What I Want",
-        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 230260,
-      "name": "5 More Minutes",
-      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
-    },
-    {
-      "added_at": "2025-04-04 04:00:25",
-      "album": {
-        "name": "an hour in your mind",
-        "url": "https://open.spotify.com/album/6So7znoRkUXewTpcEJbFhG"
-      },
-      "artists": [
-        {
-          "name": "Siena",
-          "url": "https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "an hour in your mind",
-      "url": "https://open.spotify.com/track/1Ukan5nhkQA27cuzMdN8WG"
     },
     {
       "added_at": "2025-03-28 04:00:47",
@@ -971,38 +939,6 @@
       "duration_ms": 222162,
       "name": "Why Keep Trying?",
       "url": "https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj"
-    },
-    {
-      "added_at": "2025-03-21 04:57:38",
-      "album": {
-        "name": "The Alchemist (Gold Edition)",
-        "url": "https://open.spotify.com/album/2hPaUJ88PvHKtaz8HtaLKu"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Love Will Find Me",
-      "url": "https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1"
-    },
-    {
-      "added_at": "2025-03-07 05:00:33",
-      "album": {
-        "name": "Josephine",
-        "url": "https://open.spotify.com/album/1smFBTxb71pr5K3rVjc1Yt"
-      },
-      "artists": [
-        {
-          "name": "SOFIA ISELLA",
-          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
-        }
-      ],
-      "duration_ms": 277037,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/14ZMcrAWGFB0ltAxgrtH5U"
     },
     {
       "added_at": "2025-03-07 05:00:33",

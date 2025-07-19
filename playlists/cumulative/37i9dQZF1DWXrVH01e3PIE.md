@@ -4,7 +4,7 @@
 
 > Zell & Tiago PZK en la casa del Trap Argentino.
 
-524 songs - 1 day 1 hr 44 min
+525 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [FANTASTICO](https://open.spotify.com/track/1CkgsitdwO2QQJcrZaXCKi) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [FANTASTICO](https://open.spotify.com/album/2TNyG3m9RQhbcZKkw0TtTu) | 2:29 | 2023-03-17 | 2023-07-07 |
 | [FANTASTICO](https://open.spotify.com/track/4MXvgHbIRDW4iB4PmMvvJc) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:29 | 2023-06-23 | 2023-09-16 |
 | [Fardos](https://open.spotify.com/track/4VMElk3Khv5DxcFwsJ6XEq) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Fardos](https://open.spotify.com/album/2ZRgzrrwtBEtP9j2XVhyIq) | 1:45 | 2025-05-09 |  |
+| [Filmemos Una Peli](https://open.spotify.com/track/6KnFis52cOM20q8R6pdRtz) | [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB) | [Filmemos Una Peli](https://open.spotify.com/album/22Nv7vE6YOlyl1pZxsGlTM) | 2:17 | 2025-07-18 |  |
 | [FINA](https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:36 | 2025-04-11 | 2025-04-22 |
 | [Finesse](https://open.spotify.com/track/5jRs6APlrIx42hBfmbXSCS) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Finesse](https://open.spotify.com/album/4y2eGTZ4KUQcP57ijZ3uDI) | 2:53 | 2022-01-21 | 2022-11-19 |
 | [Flash](https://open.spotify.com/track/2DFIUhox4TTAAl8dSI3yQV) | [Naim](https://open.spotify.com/artist/73vcIhWNd7keZe6whmxSwK), [Killato](https://open.spotify.com/artist/7jKDei7T6rvNeXyW6WeDxo), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Flash](https://open.spotify.com/album/1S95j2ax2dnfp4GFYNW8X6) | 3:30 | 2022-01-21 | 2022-05-20 |

@@ -1245,6 +1245,28 @@
     },
     {
       "album": {
+        "name": "The Worship Initiative, Vol. 15",
+        "url": "https://open.spotify.com/album/0Txe6THVtQlR42C0YPvUp4"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338151,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/6c9VDGxy9ya9T346SWa9ym"
+    },
+    {
+      "album": {
         "name": "The Worship Initiative, Vol. 11",
         "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
       },
@@ -1412,7 +1434,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 290566,
       "name": "Turn Your Eyes Upon Jesus (Acoustic)",
       "url": "https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz"

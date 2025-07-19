@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "album": {
         "name": "The Alexander Technique",
         "url": "https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8"
       },
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 175750,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"

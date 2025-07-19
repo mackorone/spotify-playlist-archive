@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466 likes - 121 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 467 likes - 121 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 14 | [Tummy Hurts](https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:48 |
 | 15 | [Anti\-Everything](https://open.spotify.com/track/5d1fRO6RYAtbPPgbpSHnlA) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Paper Crowns \(Deluxe\)](https://open.spotify.com/album/6Z0dLHgtpQBXnnQJ0Ykott) | 3:03 |
 | 16 | [New York City](https://open.spotify.com/track/3r7BL2MBMeE62aWj7TOh2a) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [The Chainsmokers\- Japan Special Edition](https://open.spotify.com/album/3ShQFl9FladFKlonwPGZFc) | 3:50 |
-| 17 | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/track/4YAg8h8WliHZlW5wuv8Jpk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/album/4GulJ0PbD2o6ThcdvIw8Bd) | 3:14 |
-| 18 | [Siren sounds \(bonus\)](https://open.spotify.com/track/6A18pcBX8QZGwI8EkR7aIP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:03 |
+| 17 | [Siren sounds \(bonus\)](https://open.spotify.com/track/6A18pcBX8QZGwI8EkR7aIP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:03 |
+| 18 | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/track/4YAg8h8WliHZlW5wuv8Jpk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/album/4GulJ0PbD2o6ThcdvIw8Bd) | 3:14 |
 | 19 | [Our Summer](https://open.spotify.com/track/1EjwugLrwb3kbcar1HKddN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/6nQZyPFtbKeTq6FZGb01FO) | 3:30 |
 | 20 | [grave](https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:13 |
 | 21 | [Wanted](https://open.spotify.com/track/1lGVyEkGHUz7Pg78QGaS4a) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Wanted](https://open.spotify.com/album/5sPC6RYCERdNCzHLRf9zHb) | 2:40 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 47 | [Waste](https://open.spotify.com/track/79cH8EYScu6oy4jchIKT5Z) | [Katemale](https://open.spotify.com/artist/0Rth3Qh5ir5RzlPwRpKYqp) | [Waste](https://open.spotify.com/album/1u0G8aMkahjuKzDOjpZdPy) | 3:29 |
 | 48 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 |
 | 49 | [Bad Guy](https://open.spotify.com/track/34LbYwWS8Vxr6dsdZ64OXd) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Starting Over](https://open.spotify.com/album/1ZWlheyrmKAaNoaa1dsq5T) | 3:33 |
-| 50 | [Sugarcoat](https://open.spotify.com/track/1QEi9M0fBXIQ810EjLVnAb) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Burn Slow](https://open.spotify.com/album/1COYJVkWo2wHdz5UehGouY) | 3:24 |
-| 51 | [Even When I’m Not](https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Wild Robot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i) | 3:05 |
+| 50 | [Even When I’m Not](https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Wild Robot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i) | 3:05 |
+| 51 | [Sugarcoat](https://open.spotify.com/track/1QEi9M0fBXIQ810EjLVnAb) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Burn Slow](https://open.spotify.com/album/1COYJVkWo2wHdz5UehGouY) | 3:24 |
 | 52 | [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 |
 | 53 | [No High](https://open.spotify.com/track/2y8ulWFNrVbcO8gjXwfLC3) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/52O89bnT0vPNtrzF1AtWJ2) | 3:02 |
 | 54 | [Cry For You](https://open.spotify.com/track/45d42op5b8Lec8TlxLFnVX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:23 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 120 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 121 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `Ab3DMgAAAADpsSnf2nY6X+NT/8tk6Sm6`
+Snapshot ID: `Ab3I0gAAAABStEWTTqM5IAWqQovJqkgP`

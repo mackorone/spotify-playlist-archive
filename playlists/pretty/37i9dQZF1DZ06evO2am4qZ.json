@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4866,
+  "num_followers": 4867,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADOTbKTtwgyzn1m5L5hFOjD",
+  "snapshot_id": "aHg9AAAAAAC2TX255JDvcmU87KtT4EkO",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FINE",
-        "url": "https://open.spotify.com/album/3cXA1skgfeePscQgcLaw3P"
-      },
-      "artists": [
-        {
-          "name": "Izye",
-          "url": "https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 171431,
-      "name": "FINE",
-      "url": "https://open.spotify.com/track/70YrYj7TOzfd00NX7Ynlrt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Stranger",
         "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 180174,
       "name": "Aura (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FINE",
+        "url": "https://open.spotify.com/album/3cXA1skgfeePscQgcLaw3P"
+      },
+      "artists": [
+        {
+          "name": "Izye",
+          "url": "https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 171431,
+      "name": "FINE",
+      "url": "https://open.spotify.com/track/70YrYj7TOzfd00NX7Ynlrt"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 172793,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "While You Wait",
         "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
       },
@@ -559,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
       },
       "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 172793,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq"
+      "duration_ms": 192386,
+      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
     },
     {
       "added_at": null,
@@ -591,26 +611,6 @@
       "duration_ms": 161595,
       "name": "oOo that's my type (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
     },
     {
       "added_at": null,

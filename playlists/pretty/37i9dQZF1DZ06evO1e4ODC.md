@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,910 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,948 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 31 | [Soplando Vida](https://open.spotify.com/track/3T1HAdzG1iXUmgGV7lO9Mb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 4:15 |
 | 32 | [Eras Tú](https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:22 |
 | 33 | [No Hay Paredes](https://open.spotify.com/track/2j7FpHZDjUERGXxqL6Dzoi) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 4:06 |
-| 34 | [El Anhelo de Mi Voz](https://open.spotify.com/track/60dUV3Tt4lpU5ghaIIFKA6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:53 |
-| 35 | [Vuelve \(feat\. Jesús Adrián Romero\)](https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u) | [Satélite](https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Encontrarme Contigo](https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql) | 4:15 |
+| 34 | [Vuelve \(feat\. Jesús Adrián Romero\)](https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u) | [Satélite](https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Encontrarme Contigo](https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql) | 4:15 |
+| 35 | [El Anhelo de Mi Voz](https://open.spotify.com/track/60dUV3Tt4lpU5ghaIIFKA6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:53 |
 | 36 | [Esperar En Ti \- En Vivo](https://open.spotify.com/track/0u8VsRafqJ4kXcdl8iDtBi) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Cerca De Ti](https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM) | 4:37 |
 | 37 | [Tal Como Soy](https://open.spotify.com/track/6pkcy9PJt40IsyNpd7NV0s) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 7:39 |
 | 38 | [Suave Voz \- En Vivo](https://open.spotify.com/track/3w3FGKINqJhLZZGFvcp9eG) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 49 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 |
 | 50 | [Mundo Interior](https://open.spotify.com/track/5LJMEK8ZaRVptww0R1RlqI) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:18 |
 
-Snapshot ID: `aHbrgAAAAABrf3zc8PIMDq6a8j04+kO1`
+Snapshot ID: `aHg9AAAAAABemYbt7UsGodVWbGjzu6eT`

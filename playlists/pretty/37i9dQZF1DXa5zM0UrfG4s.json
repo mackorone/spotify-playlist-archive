@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 115375,
+  "num_followers": 115393,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-07-17 22:00:28",
       "album": {
-        "name": "Aleine over fjell",
-        "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
-      },
-      "artists": [
-        {
-          "name": "Br\u00e5tabrann",
-          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
-        }
-      ],
-      "duration_ms": 173289,
-      "name": "Aleine over fjell",
-      "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
-    },
-    {
-      "added_at": "2025-07-17 22:00:28",
-      "album": {
         "name": "GUT OG KAR",
         "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 187206,
       "name": "GUT OG KAR",
       "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
+    },
+    {
+      "added_at": "2025-07-17 22:00:28",
+      "album": {
+        "name": "Aleine over fjell",
+        "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
+      },
+      "artists": [
+        {
+          "name": "Br\u00e5tabrann",
+          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
+        }
+      ],
+      "duration_ms": 173289,
+      "name": "Aleine over fjell",
+      "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
     },
     {
       "added_at": "2025-07-17 22:00:28",
@@ -1207,6 +1207,50 @@
     {
       "added_at": "2025-07-17 22:00:28",
       "album": {
+        "name": "Helt til slutt",
+        "url": "https://open.spotify.com/album/7IhaD1xpp1iBIALvtD5mn7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        },
+        {
+          "name": "Lekeland",
+          "url": "https://open.spotify.com/artist/4WB8tsKNvtX2CtAs3lvLyZ"
+        },
+        {
+          "name": "Han Helge & Han H\u00e5kon",
+          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
+        }
+      ],
+      "duration_ms": 129279,
+      "name": "Helt til slutt",
+      "url": "https://open.spotify.com/track/5CyQYGN0RmJRkql6qdyNMK"
+    },
+    {
+      "added_at": "2025-07-17 22:00:28",
+      "album": {
+        "name": "Se dig naken igen",
+        "url": "https://open.spotify.com/album/30YVIl0fpuUAH1IrILSvJQ"
+      },
+      "artists": [
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        },
+        {
+          "name": "\u00d6rnen",
+          "url": "https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy"
+        }
+      ],
+      "duration_ms": 136977,
+      "name": "Se dig naken igen",
+      "url": "https://open.spotify.com/track/7CyHiCbqRj4RokUXYbHndJ"
+    },
+    {
+      "added_at": "2025-07-17 22:00:28",
+      "album": {
         "name": "Vakker og vill",
         "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
       },
@@ -1219,38 +1263,6 @@
       "duration_ms": 226946,
       "name": "Vakker og vill",
       "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
-    },
-    {
-      "added_at": "2025-07-17 22:00:28",
-      "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 160868,
-      "name": "Best p\u00e5 fest",
-      "url": "https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT"
-    },
-    {
-      "added_at": "2025-07-17 22:00:28",
-      "album": {
-        "name": "Bygdas Rebell",
-        "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
-      },
-      "artists": [
-        {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
-        }
-      ],
-      "duration_ms": 221833,
-      "name": "Bygdas Rebell",
-      "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

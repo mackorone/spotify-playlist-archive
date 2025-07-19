@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Chet Faker
 
-1,200 songs - 3 day 7 hr 28 min
+1,201 songs - 3 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Dream Machine](https://open.spotify.com/track/4qmZWX639GLcrQijRgBk9W) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Paradise \(Bonus Edition\)](https://open.spotify.com/album/5SWlTGKudlEfbI4hfja9NJ) | 3:26 | 2025-04-17 |  |
 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 | 2022-12-15 | 2023-02-17 |
 | [Dreaming](https://open.spotify.com/track/2iQGLQk81BqoA5cJCwTawF) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Dreaming](https://open.spotify.com/album/7iALUtKcf57yVL2ncziE0K) | 3:36 | 2025-05-01 | 2025-05-23 |
+| [Dreams Go](https://open.spotify.com/track/08js71Oxets2ohP8KYJ7hB) | [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [Dreams Go](https://open.spotify.com/album/0kgpv5WgddU6zl6ny5Osg4) | 3:47 | 2025-07-18 |  |
 | [Dreamweavers](https://open.spotify.com/track/7ax4HwtfP1KbxF9Q4OUdn8) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [DíSA](https://open.spotify.com/artist/4cAOGeZj3uwNHB1QR5HURM) | [Dreamweavers](https://open.spotify.com/album/4hdos8eRNVnURJOB5a7nbO) | 5:23 | 2024-06-20 | 2024-12-20 |
 | [Dreiklangsdimensionen \- Remastered 2005](https://open.spotify.com/track/6T5M7HGvF8YBh2fxhYDyML) | [Rheingold](https://open.spotify.com/artist/4SO3c1EwLFfWiqVmQ0zAeJ) | [Rheingold \(Remastered 2005\)](https://open.spotify.com/album/1eWIWijF1aBupxodnXj4Pv) | 5:53 | 2024-12-26 | 2025-01-02 |
 | [Drink In Paris](https://open.spotify.com/track/18CpVX2rKdyGGZYtQmLKTh) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [Lhana Marlet](https://open.spotify.com/artist/3rSJsE4Hrmnj8s5bLI451R) | [Drink In Paris](https://open.spotify.com/album/45RDImJpcXkyH6SU8Hhfed) | 3:42 | 2023-06-01 | 2023-10-13 |
@@ -991,7 +992,7 @@
 | [Surfside Sex](https://open.spotify.com/track/1popQOfGkea2VJ1VQLDL2X) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO) | [Afternooners](https://open.spotify.com/album/1qLqr2Fs2ACB6FAwmlapdY) | 6:19 | 2022-12-30 | 2023-01-02 |
 | [Survivor](https://open.spotify.com/track/3IzfxJ3w7fDEjewRrSlSrS) | [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru), [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [C.A.R.](https://open.spotify.com/artist/0f5WhR4J5QIfykB15aOKNK) | [Survivor](https://open.spotify.com/album/4lV2QLJcoCFy8BNzFkJcQC) | 6:23 | 2023-07-06 | 2023-08-11 |
 | [sweatshop](https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [sweatshop](https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS) | 2:29 | 2023-11-16 | 2023-12-15 |
-| [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-30 |  |
+| [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-30 | 2025-07-19 |
 | [Swept Up \- Shakedown Remix](https://open.spotify.com/track/7GQskDnCN4IeyiM6bcav68) | [Shuttle](https://open.spotify.com/artist/5QtW5ZhAsPzCUqZYldTWCh), [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1) | [Swept Up \(Shakedown Remix\)](https://open.spotify.com/album/2F4EWvGw0sCvM4752tw7Lx) | 3:01 | 2023-08-24 | 2024-02-23 |
 | [swim](https://open.spotify.com/track/3z0wu0aE5CGRKyklWuBV6H) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [swim](https://open.spotify.com/album/6ac199VGYaOpv21gYAd3Ya) | 4:42 | 2025-01-30 |  |
 | [Swimming Away](https://open.spotify.com/track/52uK2lEzonx7t74TIdnqKE) | [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [When It's Going Wrong](https://open.spotify.com/album/1y9pZMiGd5JbIi4rimq0Ja) | 2:42 | 2023-03-30 | 2023-04-14 |

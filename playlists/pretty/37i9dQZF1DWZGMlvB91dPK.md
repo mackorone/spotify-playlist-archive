@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,233 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,234 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 10 | [Toutes les filles du monde](https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Toutes les filles du monde](https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz) | 4:17 |
 | 11 | [Candyman](https://open.spotify.com/track/28kt0Oq3Oow8SPCStnMn9a) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 4:46 |
 | 12 | [Kind Words \- Demo Version](https://open.spotify.com/track/3qatnoAJZkX7G1PUSqoWCH) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [Kind Words \(Demo Version\)](https://open.spotify.com/album/6HXHicGEUwfMh5oJZIAw2u) | 2:37 |
-| 13 | [Diego Suarez](https://open.spotify.com/track/01B4uncwhANixLex6qoqq4) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [Diego Suarez](https://open.spotify.com/album/1iy2dIamS6sYkSghQi6EW6) | 3:34 |
-| 14 | [West](https://open.spotify.com/track/5ywG1CGRBdJiV67i6hjXKX) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:37 |
+| 13 | [West](https://open.spotify.com/track/5ywG1CGRBdJiV67i6hjXKX) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:37 |
+| 14 | [Diego Suarez](https://open.spotify.com/track/01B4uncwhANixLex6qoqq4) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [Diego Suarez](https://open.spotify.com/album/1iy2dIamS6sYkSghQi6EW6) | 3:34 |
 | 15 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
 | 16 | [Tout le Monde](https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd) | [Nathalie Froehlich](https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq) | [Système](https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23) | 4:00 |
 | 17 | [Shatta Des Menteuses](https://open.spotify.com/track/4uFefjrV1tIY7ejYAuGIZz) | [Scorpio Qveen](https://open.spotify.com/artist/4wi6SmqKntxGQIZz4mXjGF), [Maraboutage](https://open.spotify.com/artist/4cBFtyicoQa53BYgvyOGfK), [Cardozo](https://open.spotify.com/artist/5WLQjcJM3NezY41dwCxRCH) | [Disquette \#1 Roots](https://open.spotify.com/album/7bWg14UeWOpwiNNKucnra5) | 2:38 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 23 | [Alex](https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:16 |
 | 24 | [Angoisse](https://open.spotify.com/track/4maRX67tL8ObXWdnfxv4PZ) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Angoisse](https://open.spotify.com/album/7AvsmObsUkT0MEAP0UQN7K) | 3:42 |
 | 25 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 |
-| 26 | [NO GOZO](https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq) | [NO GOZO](https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J) | 2:18 |
-| 27 | [Kini Dub](https://open.spotify.com/track/4dEndC43ptFlFpw5nUGvCG) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 4:22 |
+| 26 | [Kini Dub](https://open.spotify.com/track/4dEndC43ptFlFpw5nUGvCG) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 4:22 |
+| 27 | [NO GOZO](https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq) | [NO GOZO](https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J) | 2:18 |
 | 28 | [Don't Waste My Time](https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [528Hz](https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V) | 2:45 |
 | 29 | [HYPNOSE](https://open.spotify.com/track/0kzApf7h9Z4fpkjYnhtCYC) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [HYPNOSE](https://open.spotify.com/album/2kUJV1HpZPsQDWcbpsnGYB) | 2:57 |
 | 30 | [Do Things Right](https://open.spotify.com/track/0R9wB9ssVRhJQzsOiIQ7hS) | [DITTER](https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ) | [Do Things Right](https://open.spotify.com/album/5QoRLEUibCebF1jefIwK2T) | 2:47 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 33 | [Otaké](https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Otaké](https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X) | 6:33 |
 | 34 | [ENFANT SUICIDE](https://open.spotify.com/track/3UP2QAMOp9nhYGrye1f8ST) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [ENFANT SUICIDE](https://open.spotify.com/album/1fiZFwHRvHhO5ks9GDGwnn) | 3:20 |
 | 35 | [Noise](https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:27 |
-| 36 | [ACID](https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt) | [Hyper Jacuzzi](https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1) | [ACID](https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ) | 4:18 |
-| 37 | [Togbui Ha](https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 5:07 |
+| 36 | [Togbui Ha](https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 5:07 |
+| 37 | [ACID](https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt) | [Hyper Jacuzzi](https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1) | [ACID](https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ) | 4:18 |
 | 38 | [Follow No One](https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf) | [DITTER](https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ) | [Follow No One](https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz) | 3:26 |
 | 39 | [Folie](https://open.spotify.com/track/0Ueh3QgfcnrlBipgoWjkDW) | [MIMOSA](https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl) | [Folie](https://open.spotify.com/album/10zfAail7mEa7dOw45R7Mc) | 2:51 |
 | 40 | [Can't Wait](https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:34 |

@@ -4,7 +4,7 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 7 min
+72 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Pop Dat](https://open.spotify.com/track/69IaTU22g3APresMDbF4g9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 2:06 | 2022-10-28 |  |
 | [Poppin](https://open.spotify.com/track/2ALg7dHbjG6S2HrlRN8n6R) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:34 | 2022-10-28 |  |
 | [Pretty Brown](https://open.spotify.com/track/2H0wxi6MurPj7C6JxuuDEs) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Keymix III](https://open.spotify.com/album/3ZkhHJ5yXx7q5EIPONr7Ni) | 2:25 | 2024-12-02 | 2025-01-20 |
+| [Raw Btch](https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Raw Btch](https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a) | 2:41 | 2025-07-19 |  |
 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 | 2022-10-28 |  |
 | [Reason](https://open.spotify.com/track/52hWMRYetR1B4qm2GtLPCY) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:45 | 2022-10-28 |  |
 | [Record Straight](https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 1:56 | 2022-10-28 |  |

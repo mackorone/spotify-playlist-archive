@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "A Team Spirit",
+        "url": "https://open.spotify.com/album/6YXtM0W5nbQLL59VccR07P"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        },
+        {
+          "name": "Connie Mitchell",
+          "url": "https://open.spotify.com/artist/5WvmGpIR7GxL0EoKFWISSe"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193669,
+      "name": "A Team Spirit",
+      "url": "https://open.spotify.com/track/2jh6C7wU122Jh3RgbT2RIa"
+    },
+    {
+      "album": {
         "name": "A&S",
         "url": "https://open.spotify.com/album/6axKcYTdVeXG0eRyZOHn2p"
       },
@@ -854,7 +876,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 140763,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1oXqOjCEwbyDU0X6Ymy2xC"
@@ -2318,7 +2340,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 286013,
       "name": "Dime Girl",
       "url": "https://open.spotify.com/track/7eu3iYBABXk0QTjfIBJMSW"
@@ -7210,7 +7232,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 168400,
       "name": "Love Takeover",
       "url": "https://open.spotify.com/track/5dCh4pv5Bmay1CFeRt80YE"
@@ -8434,6 +8456,28 @@
       "duration_ms": 277440,
       "name": "Need a Friend",
       "url": "https://open.spotify.com/track/7MTvhUxHavuk1eF1Gsp2E3"
+    },
+    {
+      "album": {
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/6rkguXAldm7dTMZjRkxF8C"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201511,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/0AEymXR4R7Qi8nzb2L6zCg"
     },
     {
       "album": {
@@ -11878,6 +11922,28 @@
       "duration_ms": 228750,
       "name": "The Sit Down",
       "url": "https://open.spotify.com/track/3UpfKPp1JRAcKxqJTTB76s"
+    },
+    {
+      "album": {
+        "name": "The Sound of Disco",
+        "url": "https://open.spotify.com/album/3ATGThNfow7JtuMPa4gsDZ"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        },
+        {
+          "name": "4NEY",
+          "url": "https://open.spotify.com/artist/6DVJ9PbSQ673wgYUvqPRXh"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165576,
+      "name": "The Sound of Disco",
+      "url": "https://open.spotify.com/track/2HGUmmffiyBKXgmIfjnr8X"
     },
     {
       "album": {

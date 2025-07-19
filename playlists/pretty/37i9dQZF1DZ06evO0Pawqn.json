@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10003,
+  "num_followers": 10004,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAACoYoGc/dw0jlpSBynT5GhG",
+  "snapshot_id": "aHg9AAAAAACwVzCfsSWtK2aYP3bfB5R1",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 196075,
-      "name": "El Libro de los Dioses",
-      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De La Tierra Al Cielo",
         "url": "https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 157559,
       "name": "De La Tierra Al Cielo",
       "url": "https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 196075,
+      "name": "El Libro de los Dioses",
+      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,195 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,944 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 61 | [Find You \(Gerd Janson Remix\)](https://open.spotify.com/track/3Jxo5oojrX6Xmm69sP7T51) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Find You \(Gerd Janson Remix\)](https://open.spotify.com/album/7hW9Z12KBU2Wb5Ikx993eU) | 6:14 |
 | 62 | [Baciami](https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b), [Giorgi](https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN) | [Baciami](https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP) | 2:56 |
 | 63 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
-| 64 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
+| 64 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
 | 65 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 |
-| 66 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
+| 66 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
 | 67 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 |
 | 68 | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ) | [ROLLOVER DJS](https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Saturnino](https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd) | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/album/00uw3T85RTvuXDX4QnUem4) | 4:17 |
 | 69 | [Emanuela \(Giu Le Mani\) \- Protopapa Remix](https://open.spotify.com/track/7CrM3VsvrSPTqUzXfZRban) | [Crucchi Gang](https://open.spotify.com/artist/3ArPx3d8MOwCmBx9UDkQig), [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Emanuela \(Giu Le Mani\) \[Protopapa Remix\]](https://open.spotify.com/album/3HQn5Q1RsHAWtJ7pzp91sn) | 4:44 |

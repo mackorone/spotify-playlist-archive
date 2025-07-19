@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152890,
+  "num_followers": 152891,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAC2/2FdmhAp7byZr+s6BI0Y",
+  "snapshot_id": "aHg9AAAAAAC24CarCn7XC0erQKplz/9+",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguachile",
-        "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
       "artists": [
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 182866,
-      "name": "CASTIGO",
-      "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
+      "duration_ms": 490762,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
     },
     {
       "added_at": null,
@@ -371,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+        "name": "Aguachile",
+        "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
       },
       "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 490762,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
+      "duration_ms": 182866,
+      "name": "CASTIGO",
+      "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
     },
     {
       "added_at": null,

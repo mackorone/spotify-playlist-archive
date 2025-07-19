@@ -4,7 +4,7 @@
 
 > Snuggling in for the evening with a nice soundtrack
 
-250 songs - 15 hr 6 min
+251 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2024-02-08 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-11 | 2023-06-17 |
 | [Dinner with Friends](https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-19 | 2025-07-06 |
-| [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2022-05-25 |  |
+| [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2022-05-25 | 2025-07-19 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-05-27 |  |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-27 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/364WrvvlA619RFuGgZyJo3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis \- The Best Of Louis Armstrong](https://open.spotify.com/album/1xOuAgtDiqwzXV4ohTx0jX) | 3:04 | 2022-05-25 | 2022-05-27 |
@@ -118,6 +118,7 @@
 | [I Can't Wait To Get There](https://open.spotify.com/track/0bcZ7xN9IcjSNxLerzR2yl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:08 | 2025-02-03 |  |
 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 | 2024-03-19 | 2024-05-28 |
 | [i hope i never fall in love](https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [i hope i never fall in love](https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz) | 3:36 | 2024-07-12 | 2024-11-17 |
+| [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 | 2025-07-18 |  |
 | [I'm Not In Love](https://open.spotify.com/track/79uTMlc8BJYCw8VGfosNO6) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [I'm Not In Love](https://open.spotify.com/album/3ZiNT1O7TFH3tj6gRPxeob) | 6:54 | 2022-05-25 | 2022-05-28 |
 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 | 2022-07-21 | 2024-01-13 |
 | [I'm Ready to Move On / Wild Heart Reprise](https://open.spotify.com/track/1PpztPgGhKciEqfjjvL4Ld) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [Terrible Thrills, Vol\. 2](https://open.spotify.com/album/3dDJdCf37ggndgAng53yHC) | 4:18 | 2022-05-25 | 2022-06-12 |

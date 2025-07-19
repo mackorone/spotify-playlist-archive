@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,598 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,606 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 46 | [Minute](https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 4:25 |
 | 47 | [New To You \(with Normani, Tinashe & Offset\)](https://open.spotify.com/track/5Axapk6xMmSHK2A75EZiYo) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 5:02 |
 | 48 | [FAN](https://open.spotify.com/track/41JN30LlL093JqC2YUJ0IW) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:36 |
-| 49 | [do what you want \(feat\. Offset\)](https://open.spotify.com/track/170yLcujNwGwgfvjicjPfF) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:45 |
-| 50 | [Came A Long Way](https://open.spotify.com/track/1X5F8qFnvUe4sYmIqowEkB) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 2:52 |
+| 49 | [Came A Long Way](https://open.spotify.com/track/1X5F8qFnvUe4sYmIqowEkB) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 2:52 |
+| 50 | [do what you want \(feat\. Offset\)](https://open.spotify.com/track/170yLcujNwGwgfvjicjPfF) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:45 |
 
-Snapshot ID: `aHbrgAAAAACs7jqMHVYN67scTXnaZMCC`
+Snapshot ID: `aHg9AAAAAABlcYLIUfUUUqZiDUtN0nvs`

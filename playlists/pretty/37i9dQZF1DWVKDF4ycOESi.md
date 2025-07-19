@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Bad Bunny, Artie 5ive, Travis Scott, Mida e VillaBanks, Ele A e Colapesce, Baby Gang con El Alfa e Omega, Maluma e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,303 likes - 83 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,948 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,11 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 75 | [Hey Lady](https://open.spotify.com/track/032o922UoYW7Zccc7Dvsgh) | [Alex Fernet](https://open.spotify.com/artist/0SRTURSTzG8vb5BJXxm72J) | [Hey Lady](https://open.spotify.com/album/0dshqtfGOAWnSIMgP7bfjK) | 4:06 |
 | 76 | [!LA BALLATA DELLA FOGLIA](https://open.spotify.com/track/01fWjvbCVM4CzBrnfZM5gv) | [!ROBERTO](https://open.spotify.com/artist/4JONd2ePUMrFGzk7Ntgr3K), [Riva Undici](https://open.spotify.com/artist/5FSVpE59IU9PCSgEyuLkUv), [Cip](https://open.spotify.com/artist/47FkgPa4YNWEwGBVYNxYiE) | [!LA BALLATA DELLA FOGLIA](https://open.spotify.com/album/0WmibR2nHWrySyfuXrv7kI) | 2:33 |
 | 77 | [Stare Con Te](https://open.spotify.com/track/0HT5SmVUWHfhUJtfvrjNzs) | [Dasplan](https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP) | [Stare con te](https://open.spotify.com/album/0np8rWtlHR3rskrsGtP6H3) | 2:58 |
-| 78 | [crickets!!!](https://open.spotify.com/track/5wFONkT1kjKdDVz9jePnRu) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [crickets!!!](https://open.spotify.com/album/7LvJPylY82V3nH6M7a5u8k) | 1:39 |
-| 79 | [D’amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D’amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
-| 80 | [ti vedo](https://open.spotify.com/track/4XWlkMRO8kpkCnMRCgVgzD) | [IPOTERMIA](https://open.spotify.com/artist/6R6EYk4H9pcwr1LMinyxiA), [Lasa](https://open.spotify.com/artist/2JAg6JWnY8zg9m0At240Py) | [ti vedo](https://open.spotify.com/album/4UzJB6AVirbncnR4Bz6Seh) | 2:55 |
-| 81 | [L'amore mente](https://open.spotify.com/track/1Ivby8otzhKexjXWmZ2Vv0) | [MIVERGOGNO](https://open.spotify.com/artist/2ViO7phpBZJNKwhNqoWSau) | [L'amore mente](https://open.spotify.com/album/4rjXTW9l4mhmIUYJfKQFB6) | 3:45 |
-| 82 | [In Bilico](https://open.spotify.com/track/6N8EtHuolhtssYJH2cE1Sl) | [Luvi!](https://open.spotify.com/artist/690tqqfa78b8LrE7wazaHi) | [In Bilico](https://open.spotify.com/album/34YlHYFdR9tXK98MfcmafS) | 3:02 |
-| 83 | [FUORISEDE](https://open.spotify.com/track/0sEb1ViSwfkLtgwOSnOMjg) | [LeUltimeParoleFamose](https://open.spotify.com/artist/5oo7NgTzaaryCa35ZIEqg1) | [FUORISEDE](https://open.spotify.com/album/7tzPnaLL0jxNHeN8dHo9pw) | 3:05 |
+| 78 | [IL DOTTORE DI SQUID GAME](https://open.spotify.com/track/7MaHjiw6xM4rJ2yWtPBB6b) | [Medley](https://open.spotify.com/artist/5jYDIXCTEY2CDB1Eln1NGp) | [IL DOTTORE DI SQUID GAME](https://open.spotify.com/album/7u2DTTruKwF0B4NkN5q0Yc) | 1:27 |
+| 79 | [crickets!!!](https://open.spotify.com/track/5wFONkT1kjKdDVz9jePnRu) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [crickets!!!](https://open.spotify.com/album/7LvJPylY82V3nH6M7a5u8k) | 1:39 |
+| 80 | [D’amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D’amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
+| 81 | [Tsunami](https://open.spotify.com/track/2n3zCFoj5VM9UYGDeiUlPs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Tsunami](https://open.spotify.com/album/1yI4sqzattJa3bLcyIn29K) | 2:44 |
+| 82 | [ti vedo](https://open.spotify.com/track/4XWlkMRO8kpkCnMRCgVgzD) | [IPOTERMIA](https://open.spotify.com/artist/6R6EYk4H9pcwr1LMinyxiA), [Lasa](https://open.spotify.com/artist/2JAg6JWnY8zg9m0At240Py) | [ti vedo](https://open.spotify.com/album/4UzJB6AVirbncnR4Bz6Seh) | 2:55 |
+| 83 | [L'amore mente](https://open.spotify.com/track/1Ivby8otzhKexjXWmZ2Vv0) | [MIVERGOGNO](https://open.spotify.com/artist/2ViO7phpBZJNKwhNqoWSau) | [L'amore mente](https://open.spotify.com/album/4rjXTW9l4mhmIUYJfKQFB6) | 3:45 |
+| 84 | [In Bilico](https://open.spotify.com/track/6N8EtHuolhtssYJH2cE1Sl) | [Luvi!](https://open.spotify.com/artist/690tqqfa78b8LrE7wazaHi) | [In Bilico](https://open.spotify.com/album/34YlHYFdR9tXK98MfcmafS) | 3:02 |
+| 85 | [FUORISEDE](https://open.spotify.com/track/0sEb1ViSwfkLtgwOSnOMjg) | [LeUltimeParoleFamose](https://open.spotify.com/artist/5oo7NgTzaaryCa35ZIEqg1) | [FUORISEDE](https://open.spotify.com/album/7tzPnaLL0jxNHeN8dHo9pw) | 3:05 |
 
-Snapshot ID: `aHlyuQAAAAADBFOvNqQaRz8YPFeZpTqU`
+Snapshot ID: `aHoKzAAAAACpFddY8srJ6cKufK9/BRI3`

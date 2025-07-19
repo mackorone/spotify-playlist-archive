@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Simple Plan",
+  "description": "The best rock songs of the moment. Cover: Nine Inch Nails",
   "name": "Rock Now",
   "tracks": [
     {
@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "As Alive As You Need Me To Be",
+        "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233562,
+      "name": "As Alive As You Need Me To Be",
+      "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
+    },
+    {
+      "album": {
         "name": "At Peace",
         "url": "https://open.spotify.com/album/6xdKQ53JqAMqBZlYyjZeV4"
       },
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 261006,
       "name": "Bad State of Mind",
       "url": "https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX"
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 286186,
       "name": "Believer",
       "url": "https://open.spotify.com/track/7dpT7mBli8ORIJAeUfUH8O"
@@ -8893,6 +8911,24 @@
     },
     {
       "album": {
+        "name": "Holy Roller",
+        "url": "https://open.spotify.com/album/6PhbtNq2G3vSiHR3J9DJto"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/2TzLoXPH7pUs9SESRwV6rG"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2nQoXfaAd6ZFqb6ylCqySD"
       },
@@ -13088,7 +13124,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 189146,
       "name": "miss melancholy",
       "url": "https://open.spotify.com/track/2GHQimEGRvo0OSyvqLIf8d"
@@ -16366,7 +16402,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 174634,
       "name": "Rejects",
       "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
@@ -18739,6 +18775,24 @@
     },
     {
       "album": {
+        "name": "Stepper",
+        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196748,
+      "name": "Stepper",
+      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
+    },
+    {
+      "album": {
         "name": "Still Breathing",
         "url": "https://open.spotify.com/album/5b5kRKvYp0DyO3idMNV3jY"
       },
@@ -20668,6 +20722,24 @@
       "duration_ms": 171384,
       "name": "Thinkin' Bout Love",
       "url": "https://open.spotify.com/track/53M1YXcWQVLtEyCcaR5dkN"
+    },
+    {
+      "album": {
+        "name": "This is the Killer Speaking",
+        "url": "https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294773,
+      "name": "This is the Killer Speaking",
+      "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
     },
     {
       "album": {

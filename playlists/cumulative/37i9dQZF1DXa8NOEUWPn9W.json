@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Peggy Gou",
+  "description": "House music lives here. United under one roof, featuring Gorgon City",
   "name": "Housewerk",
   "tracks": [
     {
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 225250,
       "name": "Bad Habit - Cl\u00fcb De Combat Remix",
       "url": "https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D"
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 170909,
       "name": "Badder",
       "url": "https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v"
@@ -6165,6 +6165,24 @@
     },
     {
       "album": {
+        "name": "Don't You Want My Love",
+        "url": "https://open.spotify.com/album/7bHOgHyrQ7N7Os1uJWBVtP"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Don't You Want My Love",
+      "url": "https://open.spotify.com/track/3hQ18r26uEFyUMjWL5OUiF"
+    },
+    {
+      "album": {
         "name": "Done",
         "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
       },
@@ -7002,6 +7020,32 @@
       "duration_ms": 203134,
       "name": "Fallin In Love",
       "url": "https://open.spotify.com/track/6zIoRp8gHbDcXz1MtCCvtt"
+    },
+    {
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Alexis Roberts",
+          "url": "https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250664,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi"
     },
     {
       "album": {
@@ -7859,6 +7903,24 @@
     },
     {
       "album": {
+        "name": "Forbidden Fruit",
+        "url": "https://open.spotify.com/album/7GnTlRiJC8e2NG6oNkm8FL"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179380,
+      "name": "Forbidden Fruit",
+      "url": "https://open.spotify.com/track/2O2qDKPqS7SIU9OsI4Rk7c"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb"
       },
@@ -8010,7 +8072,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 180000,
       "name": "Freak",
       "url": "https://open.spotify.com/track/3OlywDkPJRPQY1L4wy6mcF"
@@ -8266,6 +8328,24 @@
       "duration_ms": 260156,
       "name": "From The Stars",
       "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
+    },
+    {
+      "album": {
+        "name": "Front 2 Back",
+        "url": "https://open.spotify.com/album/0GjU9EI6COpbjnLEh049Ct"
+      },
+      "artists": [
+        {
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179770,
+      "name": "Front 2 Back",
+      "url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW"
     },
     {
       "album": {
@@ -13512,6 +13592,24 @@
     {
       "album": {
         "name": "Like That",
+        "url": "https://open.spotify.com/album/5l4PG0gF6ZCm6UhES0cvjA"
+      },
+      "artists": [
+        {
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192260,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2wX9TgK9Dba7d4EY1w9i1i"
+    },
+    {
+      "album": {
+        "name": "Like That",
         "url": "https://open.spotify.com/album/4xKJ8VVgGr27I0ebi8yDSw"
       },
       "artists": [
@@ -13588,7 +13686,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 210234,
       "name": "Lil Freaky",
       "url": "https://open.spotify.com/track/25Rk41lvT9FK9VEdqeUlC0"
@@ -14382,6 +14480,24 @@
       "duration_ms": 175000,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3J7RqdFl8npQPq43yPTngZ"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193576,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm"
     },
     {
       "album": {
@@ -16694,7 +16810,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 217322,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/6PuSrhsfW1SuB26lDtahRJ"
@@ -17846,7 +17962,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 129619,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/7lx4RfYCIoZvieFHASRg2l"
@@ -19036,6 +19152,28 @@
       "duration_ms": 179062,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/636kRUoh1D1ZJifHip4RtS"
+    },
+    {
+      "album": {
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
     },
     {
       "album": {
@@ -20306,7 +20444,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 244000,
       "name": "Smoke (feat. Clubhouse)",
       "url": "https://open.spotify.com/track/4IMVC2fbZO6rVw9dE3piCZ"
@@ -22377,6 +22515,28 @@
     },
     {
       "album": {
+        "name": "The Devil Works Hard",
+        "url": "https://open.spotify.com/album/3Y3UmB3THsefvGMZh1BGw4"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169453,
+      "name": "The Devil Works Hard",
+      "url": "https://open.spotify.com/track/0hP0E1XXzOmCBJI7ROF0Ni"
+    },
+    {
+      "album": {
         "name": "The Edge",
         "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
       },
@@ -23412,7 +23572,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 175393,
       "name": "Trapped In Silence",
       "url": "https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP"
@@ -23778,6 +23938,24 @@
       "duration_ms": 161973,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/5s7nFwGLm6V2PUVhX45Sbi"
+    },
+    {
+      "album": {
+        "name": "Up Front",
+        "url": "https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP"
+      },
+      "artists": [
+        {
+          "name": "DREYA V",
+          "url": "https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207230,
+      "name": "Up Front",
+      "url": "https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL"
     },
     {
       "album": {
@@ -25740,7 +25918,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 199680,
       "name": "Your River",
       "url": "https://open.spotify.com/track/3cNZ8hIsqbFYbkcKQPQK5R"

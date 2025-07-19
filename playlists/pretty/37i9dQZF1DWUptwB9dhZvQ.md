@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,058 likes - 75 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,075 likes - 75 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 72 | [Beat of Master \- Instrumental](https://open.spotify.com/track/7wQR696XF4L91Zr9groP8v) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 1:15 |
 | 73 | [Interval Fight \- Background Score](https://open.spotify.com/track/58rVdRJUkvtupU7J3UIrvB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 2:10 |
 | 74 | [Jawan Prevue Theme](https://open.spotify.com/track/29Lsdm869Qk82RS5he08R4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan Prevue Theme](https://open.spotify.com/album/2bE8aLgWEZkHvTRhosPwmC) | 2:07 |
-| 75 | [Jailer Theme \- Instrumental](https://open.spotify.com/track/53Y7ZNZ6p26V460x89B70A) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:02 |
+| 75 | [Vidaamuyarchi Theme \(From "Vidaamuyarchi"\)](https://open.spotify.com/track/79E8OWqnXS94tghoQH4xtz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vidaamuyarchi Theme \(From "Vidaamuyarchi"\)](https://open.spotify.com/album/5wvo1WUmTzaIOOBuErUNq5) | 1:36 |
 
 Snapshot ID: `aG0mGAAAAACZnEENwjfBC7s6UqKxLi+c`

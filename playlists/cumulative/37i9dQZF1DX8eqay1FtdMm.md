@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 육성재\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 허용별 \(HYB\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-608 songs - 1 day 15 hr 46 min
+609 songs - 1 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [How Much I Love You](https://open.spotify.com/track/55tsR9WU9Rtl8eLKTz242N) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [How Much I Love You](https://open.spotify.com/album/5NpyatjHKN1GJur16L3dfR) | 3:37 | 2024-01-29 | 2024-03-09 |
 | [Hug Me](https://open.spotify.com/track/29iBmddkKfwYrUbfJmjj6K) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Hug Me](https://open.spotify.com/album/4l2KIzsKsMlYzn9TNS458F) | 2:46 | 2024-05-20 | 2024-08-01 |
 | [I \(feat\. MINSEO\)](https://open.spotify.com/track/0OmPQqX1CajqAZ4MkBz6tb) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [I \(feat\. MINSEO\)](https://open.spotify.com/album/7wcgA4iskyzVb8s4w7St3e) | 4:00 | 2021-12-20 | 2022-07-29 |
-| [I can't forget you](https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [If You Wish Upon Me OST Part.3](https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9) | 3:38 | 2022-08-19 |  |
+| [I can't forget you](https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [If You Wish Upon Me OST Part.3](https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9) | 3:38 | 2022-08-19 | 2025-07-19 |
 | [I Can't Help It \(Prod\. Jungkey\)](https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can't Help It](https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd) | 3:44 | 2022-09-21 | 2023-03-28 |
 | [I Can’t](https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can’t \(Re:WIND 4MEN Vol.02\)](https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6) | 4:10 | 2022-10-08 | 2023-02-02 |
 | [I Don't Want](https://open.spotify.com/track/3aNsBkmdh6MO8UkLd42BUA) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 3:43 | 2022-01-14 | 2022-04-16 |
@@ -480,6 +480,7 @@
 | [The Letter](https://open.spotify.com/track/761kP7yDzrhyFjn6Og7Piz) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [\[Vol.7\] You Hee yul's Sketchbook 10th Anniversary Project : 3rd Voice 'Sketchbook X Yang Da Il'](https://open.spotify.com/album/0ATgzdCJ5ykg7KF3YcMtD4) | 5:05 | 2021-12-27 | 2022-07-05 |
 | [The Little Prince](https://open.spotify.com/track/0LGmR0txlWO9k6NY24G7Uv) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Little Prince](https://open.spotify.com/album/4IhQK9dp1h4Iex4cFzFEkY) | 4:21 | 2024-07-23 | 2024-09-25 |
 | [The Moment](https://open.spotify.com/track/7JAtLgcpxB3wqAK2u9OAzO) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [The Moment](https://open.spotify.com/album/1Hbf8vmmYBJnE22paMisFy) | 3:51 | 2021-12-20 | 2022-04-14 |
+| [The Moment of Stars](https://open.spotify.com/track/7hbK4I7VSph2BNpAupbQET) | [HYB \(Huh Gak,Shin Yong Jae,Onestar\)](https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt) | [H.Y.B\. Project \#4 \- The Moment of Stars](https://open.spotify.com/album/4pxW6kpXQmf9ON5g6GoUX0) | 3:31 | 2025-07-18 |  |
 | [The Only Star](https://open.spotify.com/track/4fNzkjJzuV3By2FRrl38yE) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be Myself](https://open.spotify.com/album/2Ew3wpXdMGdw5FYVNQvm6L) | 3:52 | 2022-03-29 | 2022-04-17 |
 | [The opposite side](https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Crash Course in Romance OST Part 3](https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH) | 4:10 | 2023-02-15 | 2023-05-13 |
 | [The Reason](https://open.spotify.com/track/5g2tSqR4UoX4jZKI1p1r9e) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [The Reason](https://open.spotify.com/album/7BRaMYu6sVXyxhS5vXMe54) | 4:56 | 2025-07-07 |  |

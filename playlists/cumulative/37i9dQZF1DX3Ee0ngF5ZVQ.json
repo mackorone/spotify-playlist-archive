@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
+  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randall King",
   "name": "Texas Country Now",
   "tracks": [
     {
@@ -847,6 +847,28 @@
     },
     {
       "album": {
+        "name": "Baby You Do",
+        "url": "https://open.spotify.com/album/7rTdxhNOzNI1C1rbLL5tvC"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        },
+        {
+          "name": "David Dorn",
+          "url": "https://open.spotify.com/artist/76drAK5KEEqdjYONSaEC5n"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199922,
+      "name": "Baby You Do",
+      "url": "https://open.spotify.com/track/6SVKmktKVg5daArMbig0T3"
+    },
+    {
+      "album": {
         "name": "Back My Way",
         "url": "https://open.spotify.com/album/7DWLNaWd3IuUXKhL9eqHb1"
       },
@@ -1636,7 +1658,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 227305,
       "name": "Buffalo Return To The Plains",
       "url": "https://open.spotify.com/track/4746bZlBy5z7YcrKK3lXHa"
@@ -5630,6 +5652,24 @@
       "duration_ms": 224894,
       "name": "I Just Want You",
       "url": "https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi"
+    },
+    {
+      "album": {
+        "name": "I Keep Your Memory Around",
+        "url": "https://open.spotify.com/album/7waJk7mvaaMcC6lauq5KbE"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186133,
+      "name": "I Keep Your Memory Around",
+      "url": "https://open.spotify.com/track/2mESfK7oU1V1CHr1j78FE8"
     },
     {
       "album": {
@@ -12178,7 +12218,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 183613,
       "name": "When My Baby\u2019s In Boots",
       "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"

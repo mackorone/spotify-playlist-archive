@@ -4,7 +4,7 @@
 
 > New music from Alex Warren, Dimitri Vegas, Judith, Roxy Dekker and more...
 
-5,554 songs - 12 day 5 hr 43 min
+5,555 songs - 12 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,6 +651,7 @@
 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 | 2025-02-13 | 2025-02-21 |
 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 | 2024-09-05 | 2024-09-13 |
 | [Boerenland](https://open.spotify.com/track/6JPS6X6k4Xpk8yu8fJkpPZ) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Boerenland](https://open.spotify.com/album/1HgJ0ncLENyQ6kSWjwbxzE) | 2:22 | 2025-04-03 | 2025-04-11 |
+| [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 | 2025-07-17 |  |
 | [Bolingo](https://open.spotify.com/track/0gujX0nd7F1MRFww7ZhhtN) | [Noah Mungongo](https://open.spotify.com/artist/5i2B24bMIz6S17Evv06R3B), [Kunginho](https://open.spotify.com/artist/6HOWAImZuRFCX4ndszzj8M) | [Bolingo](https://open.spotify.com/album/1vahSiuyWOWFvMMsZSxTDp) | 2:53 | 2024-11-15 | 2024-11-22 |
 | [Bollywood](https://open.spotify.com/track/6YQuwMRXGbbBHGw54F1BPl) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Bollywood](https://open.spotify.com/album/6stKRosdbqJWhxg0GFxP34) | 2:52 | 2025-04-17 | 2025-04-25 |
 | [Boloko](https://open.spotify.com/track/3HCPeuWbzSiUqSYnK2rknX) | [Tengaïshy](https://open.spotify.com/artist/6wTUi3tBXJTcKthaaTTXzq) | [Boloko](https://open.spotify.com/album/2q9L3mUF7DPLLOZYOMrCiN) | 2:17 | 2025-04-24 | 2025-05-02 |
@@ -4313,7 +4314,7 @@
 | [So Naive](https://open.spotify.com/track/3F1N7UKQ1ecGuARbGm9n9y) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [So Naive](https://open.spotify.com/album/6aONMheRrx1pwVRUoNSYwg) | 3:14 | 2024-09-05 | 2024-09-13 |
 | [So Not Sober](https://open.spotify.com/track/2RVChbMVi7Q0CKFnKSTGMr) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over \(It's Really Really Really Over Edition\)](https://open.spotify.com/album/60MSlGTw8G4KR2l05F3t7P) | 2:38 | 2024-04-26 | 2024-05-03 |
 | [So Stunning](https://open.spotify.com/track/11H0FOYFDAQ2z6DUwIK5VZ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [So Stunning](https://open.spotify.com/album/77iJPDjDNyKhQdsiFBNkUy) | 2:18 | 2024-07-19 | 2024-07-27 |
-| [SOAK](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [SOAK](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-17 |  |
+| [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-17 |  |
 | [Soaring](https://open.spotify.com/track/3cxlzVOT1FpMdxs0TzovkA) | [Walfang](https://open.spotify.com/artist/5sq7265cobmLVY0wfpgUVn) | [Soaring](https://open.spotify.com/album/0c7urMI9TcPP0TGtfpSOw3) | 4:36 | 2024-10-03 | 2024-10-11 |
 | [Soca](https://open.spotify.com/track/0YVnSnoAEFYKNdsNSSNaoC) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Soca](https://open.spotify.com/album/4qOdMNuIadjeRDbWunbWgp) | 2:46 | 2024-07-26 | 2024-08-02 |
 | [Soca Calling](https://open.spotify.com/track/6nnBViKXD3OLFfDgzjJjdu) | [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2), [KD Soundsystem](https://open.spotify.com/artist/7yPOMcYNwv9by1xUxAljPA), [Ty](https://open.spotify.com/artist/3NKu7vpRSb2MkSmUeQok0H) | [Soca Calling](https://open.spotify.com/album/2pf1rVqgD1dYaij8GrYPbU) | 2:36 | 2025-07-03 | 2025-07-11 |

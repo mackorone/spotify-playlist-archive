@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: NCT DREAM
 
-653 songs - 1 day 12 hr 11 min
+655 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Believe in You](https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Believe in You](https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH) | 4:16 | 2024-07-09 | 2024-11-15 |
 | [Best Friend](https://open.spotify.com/track/6LiTEXFsVO0hbSnplg5HNO) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Best Friend](https://open.spotify.com/album/6AD5IWv6dxm5JGo6D4lulH) | 3:17 | 2025-03-06 | 2025-03-18 |
 | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/track/1beUALLSloBEvYre65QiW6) | [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF), [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9) | 3:54 | 2025-03-06 | 2025-04-09 |
+| [BIG BANDS \(狂想曲\)](https://open.spotify.com/track/1wPgCPMdqb1YA7tyE079xd) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [BIG BANDS \- The 7th Mini Album](https://open.spotify.com/album/7bznUQPHdmQnEPx0AjC9qI) | 2:58 | 2025-07-17 |  |
 | [Birthday](https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 | 2024-10-01 | 2025-03-07 |
 | [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 | 2023-12-12 | 2024-01-17 |
 | [BLAST](https://open.spotify.com/track/7CIaSfRtvvFZw7W8x4PqBl) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [BLAST](https://open.spotify.com/album/4F8jUoMpJyqtpqZI4atNHQ) | 2:37 | 2025-06-17 | 2025-06-20 |
@@ -252,7 +253,8 @@
 | [Imagination](https://open.spotify.com/track/3KpNOsT8D9pU5qKDPG1IKo) | [w\-inds.](https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn) | [Imagination](https://open.spotify.com/album/1TeZi1NtgcETvxImnvTNpB) | 2:52 | 2024-04-30 | 2024-05-29 |
 | [In My Head](https://open.spotify.com/track/14fYNWLL13lnpV8pdJmREV) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [In My Head](https://open.spotify.com/album/1xJb2W3tod9ecek8mAl2Bf) | 3:20 | 2024-02-20 | 2024-02-22 |
 | [In My Head](https://open.spotify.com/track/1ca1fujaysoprH04Pcjnfe) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Back & Forth](https://open.spotify.com/album/6chK5tRYokqZR6fTN8SDNP) | 3:20 | 2024-02-20 | 2024-04-24 |
-| [In Your Fantasy \(Korean Ver.\)](https://open.spotify.com/track/2Bolr7uiAoqeccV3MJ7Kjx) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:12 | 2025-07-10 |  |
+| [In Your Fantasy \(Korean Ver.\)](https://open.spotify.com/track/2Bolr7uiAoqeccV3MJ7Kjx) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:12 | 2025-07-10 | 2025-07-19 |
+| [In Your Fantasy \- Korean Ver.](https://open.spotify.com/track/1ng2YXmSmbj0evM5QRBqHK) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 \(In Your Fantasy Edition\)](https://open.spotify.com/album/49niymyM1a8TlYSbt9tPfo) | 3:12 | 2025-07-18 |  |
 | [INFERNO](https://open.spotify.com/track/212BPxhwlB49xBb19xrEoh) | [RIKU](https://open.spotify.com/artist/5nnTRY8f0Gi8rIC9bgrnZG), [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [INFERNO](https://open.spotify.com/album/4NqvSNYyzoeddxkQgSdTvX) | 3:41 | 2024-01-31 | 2024-02-07 |
 | [Interlunar](https://open.spotify.com/track/1VPIkehzQNPo6syFKXLL1F) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Interlunar](https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O) | 2:41 | 2025-06-17 |  |
 | [INZM](https://open.spotify.com/track/55paYSUx1VJB5kUHljI8ov) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [INZM](https://open.spotify.com/album/0PXVVti0BzJC5atBVVFMNh) | 3:30 | 2024-08-22 | 2024-09-25 |

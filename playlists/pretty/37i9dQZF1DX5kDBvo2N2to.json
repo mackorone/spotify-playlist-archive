@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59880,
+  "num_followers": 59923,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
-      },
-      "artists": [
-        {
-          "name": "Vella",
-          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
-        }
-      ],
-      "duration_ms": 187537,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "Josephine",
         "url": "https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx"
       },
@@ -323,18 +307,18 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "MSN & Lunar",
-        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
       },
       "artists": [
         {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
         }
       ],
-      "duration_ms": 213680,
-      "name": "MSN & Lunar",
-      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
+      "duration_ms": 187537,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -351,6 +335,22 @@
       "duration_ms": 160601,
       "name": "Dominos",
       "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "MSN & Lunar",
+        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 213680,
+      "name": "MSN & Lunar",
+      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -403,34 +403,18 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Sv\u00e5rt",
-        "url": "https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9"
+        "name": "Tappar det",
+        "url": "https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C"
       },
       "artists": [
         {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+          "name": "Arwin",
+          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
         }
       ],
-      "duration_ms": 179616,
-      "name": "Sv\u00e5rt",
-      "url": "https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
-        "name": "02:30",
-        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "02:30",
-      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
+      "duration_ms": 155975,
+      "name": "Tappar det",
+      "url": "https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -451,18 +435,34 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Tappar det",
-        "url": "https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C"
+        "name": "02:30",
+        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
       },
       "artists": [
         {
-          "name": "Arwin",
-          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
         }
       ],
-      "duration_ms": 155975,
-      "name": "Tappar det",
-      "url": "https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT"
+      "duration_ms": 217000,
+      "name": "02:30",
+      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "Sv\u00e5rt",
+        "url": "https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9"
+      },
+      "artists": [
+        {
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+        }
+      ],
+      "duration_ms": 179616,
+      "name": "Sv\u00e5rt",
+      "url": "https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "N\u00e5gon annan \u00e4n dig",
         "url": "https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Tom Cruisin'",
-        "url": "https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL"
-      },
-      "artists": [
-        {
-          "name": "JUNG",
-          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
-        }
-      ],
-      "duration_ms": 172432,
-      "name": "Tom Cruisin'",
-      "url": "https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "Do You Love Me",
         "url": "https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 174480,
       "name": "Do You Love Me",
       "url": "https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "Tom Cruisin'",
+        "url": "https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL"
+      },
+      "artists": [
+        {
+          "name": "JUNG",
+          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
+        }
+      ],
+      "duration_ms": 172432,
+      "name": "Tom Cruisin'",
+      "url": "https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
+        "name": "Tiderna i Solna",
+        "url": "https://open.spotify.com/album/6rRfCs1pgXT33V8azO2jmu"
+      },
+      "artists": [
+        {
+          "name": "Joel Nordenberg",
+          "url": "https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW"
+        }
+      ],
+      "duration_ms": 138913,
+      "name": "Tiderna i Solna",
+      "url": "https://open.spotify.com/track/0mJahyRnWWalqO1e0HERBj"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
         "name": "1000 \u00e5r av regn",
         "url": "https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Tiderna i Solna",
-        "url": "https://open.spotify.com/album/6rRfCs1pgXT33V8azO2jmu"
+        "name": "TVIVEL & TRO",
+        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
       },
       "artists": [
         {
-          "name": "Joel Nordenberg",
-          "url": "https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW"
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
         }
       ],
-      "duration_ms": 138913,
-      "name": "Tiderna i Solna",
-      "url": "https://open.spotify.com/track/0mJahyRnWWalqO1e0HERBj"
+      "duration_ms": 168928,
+      "name": "DELILAH",
+      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -811,22 +827,6 @@
       "duration_ms": 169709,
       "name": "LIE TO ME",
       "url": "https://open.spotify.com/track/0TwwvWNpQySYUrK3XsR74m"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
-        "name": "TVIVEL & TRO",
-        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
-      },
-      "artists": [
-        {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
-        }
-      ],
-      "duration_ms": 168928,
-      "name": "DELILAH",
-      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Aldrig g\u00e5",
-        "url": "https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d"
-      },
-      "artists": [
-        {
-          "name": "Lov1",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        }
-      ],
-      "duration_ms": 187782,
-      "name": "Aldrig g\u00e5",
-      "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "t-shirt",
         "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 152629,
       "name": "t-shirt",
       "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "Aldrig g\u00e5",
+        "url": "https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d"
+      },
+      "artists": [
+        {
+          "name": "Lov1",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "Aldrig g\u00e5",
+      "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Innan det \u00e4r f\u00f6rsent",
-        "url": "https://open.spotify.com/album/0XPmaDlH2k0VRk3kzWNEpS"
-      },
-      "artists": [
-        {
-          "name": "Vince Wavy",
-          "url": "https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Hybris",
-      "url": "https://open.spotify.com/track/1iG2K8PaC5j0LqtuM7YcaK"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "PAUS",
         "url": "https://open.spotify.com/album/5Sex1byhqJdLxAWW9Ru3D2"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "F\u00f6rst\u00f6raren",
-        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
+        "name": "Innan det \u00e4r f\u00f6rsent",
+        "url": "https://open.spotify.com/album/0XPmaDlH2k0VRk3kzWNEpS"
       },
       "artists": [
         {
-          "name": "Hemliga Klubben",
-          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
+          "name": "Vince Wavy",
+          "url": "https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW"
         }
       ],
-      "duration_ms": 146778,
-      "name": "F\u00f6rst\u00f6raren",
-      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
+      "duration_ms": 201400,
+      "name": "Hybris",
+      "url": "https://open.spotify.com/track/1iG2K8PaC5j0LqtuM7YcaK"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -1147,6 +1131,22 @@
       "duration_ms": 148906,
       "name": "violet",
       "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "F\u00f6rst\u00f6raren",
+        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
+      },
+      "artists": [
+        {
+          "name": "Hemliga Klubben",
+          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
+        }
+      ],
+      "duration_ms": 146778,
+      "name": "F\u00f6rst\u00f6raren",
+      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Mormors Sommarvisa",
-        "url": "https://open.spotify.com/album/1DB94nhmlINo21fAr3CzWJ"
-      },
-      "artists": [
-        {
-          "name": "Rebi",
-          "url": "https://open.spotify.com/artist/0GFFikqfJwSVfFSk71nvzH"
-        }
-      ],
-      "duration_ms": 143649,
-      "name": "Mormors Sommarvisa",
-      "url": "https://open.spotify.com/track/2Q9n5vvOyFz7feO8bYNb8g"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "Dansa med mig sj\u00e4lv",
         "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 127250,
       "name": "Dansa med mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "Mormors Sommarvisa",
+        "url": "https://open.spotify.com/album/1DB94nhmlINo21fAr3CzWJ"
+      },
+      "artists": [
+        {
+          "name": "Rebi",
+          "url": "https://open.spotify.com/artist/0GFFikqfJwSVfFSk71nvzH"
+        }
+      ],
+      "duration_ms": 143649,
+      "name": "Mormors Sommarvisa",
+      "url": "https://open.spotify.com/track/2Q9n5vvOyFz7feO8bYNb8g"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "The Prettiest Face",
-        "url": "https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "The Prettiest Face",
-      "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "Feel Free",
         "url": "https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 182372,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "The Prettiest Face",
+        "url": "https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "The Prettiest Face",
+      "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"
     },
     {
       "added_at": "2025-07-17 22:00:37",

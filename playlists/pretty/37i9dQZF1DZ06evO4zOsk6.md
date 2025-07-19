@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 
 > This is Libido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,692 likes - 46 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,691 likes - 46 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 | 33 | [Nada Que Me Ate a Ti](https://open.spotify.com/track/2mi7rEuUsGLzuMYLpN0Bk3) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:55 |
 | 34 | [Un Día Nuevo](https://open.spotify.com/track/5VYZqC5272yRi8tUPJXSxu) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 4:03 |
 | 35 | [Fantasma \(En Vivo\)](https://open.spotify.com/track/6nITBK0KfnuoP7RJ8Mmfoi) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 3:46 |
-| 36 | [Cuelgo el Teléfono](https://open.spotify.com/track/4LsSBw9Jey4ZW7F0LXb9WF) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Cuelgo el Teléfono](https://open.spotify.com/album/3btzsxko2imX9tsWIdBE5r) | 3:25 |
+| 36 | [Vientos y Amarguras](https://open.spotify.com/track/3EMDgB880IOf11eZXSaw33) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 2:36 |
 | 37 | [Llévame](https://open.spotify.com/track/4qr3HrKbAVrGRpVgbsmWbI) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:36 |
 | 38 | [Octubre](https://open.spotify.com/track/3KlpVNhI3ofN0i4qYQp0Ss) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 3:43 |
-| 39 | [Vientos y Amarguras](https://open.spotify.com/track/3EMDgB880IOf11eZXSaw33) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 2:36 |
+| 39 | [Cuelgo el Teléfono](https://open.spotify.com/track/4LsSBw9Jey4ZW7F0LXb9WF) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Cuelgo el Teléfono](https://open.spotify.com/album/3btzsxko2imX9tsWIdBE5r) | 3:25 |
 | 40 | [Hablar No Es Necesario](https://open.spotify.com/track/3UYfq8kTp93CXHheiTKsN7) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/5cEeV7MdJVVfr20xKUCuYY) | 2:16 |
 | 41 | [Igual Que Ayer](https://open.spotify.com/track/4hkZKqqskYe2KzV9n8TOaT) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:27 |
 | 42 | [Sentir Que Hoy](https://open.spotify.com/track/689JndbnnR4l3KeVE0dQlR) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 3:30 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 | 45 | [La Mujer](https://open.spotify.com/track/2EvrCdXPxTlvjBYzlDsJnT) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 3:16 |
 | 46 | [Something](https://open.spotify.com/track/0m76CdizGAfdk7ARAYIqlN) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 2:46 |
 
-Snapshot ID: `aHbrgAAAAADAijvU/5s4biDIYef95qUg`
+Snapshot ID: `aHg9AAAAAAD2/zSJRc1ig37rggahvStO`

@@ -695,6 +695,22 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
+        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "duration_ms": 259713,
+      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
         "name": "YELLOW DANCER",
         "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 273960,
       "name": "Branches",
       "url": "https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
-        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
-      },
-      "artists": [
-        {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
-        }
-      ],
-      "duration_ms": 259713,
-      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -791,54 +791,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
-      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
-        "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
-        "url": "https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u91ce\u96c4\u5927",
-          "url": "https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "THE UNION",
         "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
@@ -859,6 +811,54 @@
       "duration_ms": 286366,
       "name": "Twinkle Stars",
       "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
+        "url": "https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u91ce\u96c4\u5927",
+          "url": "https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
+      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "Westbound EP",
-        "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 228005,
-      "name": "Separate Seasons",
-      "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
         "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+        "name": "Westbound EP",
+        "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
       },
       "artists": [
         {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
         }
       ],
-      "duration_ms": 240323,
-      "name": "Mellow",
-      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
+      "duration_ms": 228005,
+      "name": "Separate Seasons",
+      "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1263,22 +1247,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
-        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
-      },
-      "artists": [
-        {
-          "name": "Takehara Pistol",
-          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
-        }
-      ],
-      "duration_ms": 331984,
-      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
-      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "\u3081\u3050\u308b",
         "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
       },
@@ -1295,18 +1263,18 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "THUNDERBIRD",
-        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
+        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
+        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
       },
       "artists": [
         {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+          "name": "Takehara Pistol",
+          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
         }
       ],
-      "duration_ms": 238800,
-      "name": "\u3064\u3050\u307f",
-      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
+      "duration_ms": 331984,
+      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
+      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1320,9 +1288,25 @@
           "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
         }
       ],
-      "duration_ms": 287827,
-      "name": "\u7a93",
-      "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
+      "duration_ms": 240323,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "THUNDERBIRD",
+        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "\u3064\u3050\u307f",
+      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1379,6 +1363,22 @@
       "duration_ms": 392173,
       "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
       "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 287827,
+      "name": "\u7a93",
+      "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "\u7dba\u9e97",
         "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 233666,
       "name": "NEVER FALL IN LOVE AGAIN",
       "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
-        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "\u306d\u3080\u308b\u306e\u307e\u3061\uff5eTidur Tidur\uff5e",
-      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
         "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "\u79cb \u305d\u3070\u306b\u3044\u308b\u3088",
-        "url": "https://open.spotify.com/album/3VWtvGEGzET3ztfQSKTkUc"
+        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
+        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
       },
       "artists": [
         {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 359693,
-      "name": "\u304a\u3084\u3059\u307f\u306a\u3055\u3044",
-      "url": "https://open.spotify.com/track/3fGUorfiin7I5V8YvTaoFK"
+      "duration_ms": 310520,
+      "name": "\u306d\u3080\u308b\u306e\u307e\u3061\uff5eTidur Tidur\uff5e",
+      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1579,6 +1563,22 @@
       "duration_ms": 317853,
       "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
       "url": "https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "\u79cb \u305d\u3070\u306b\u3044\u308b\u3088",
+        "url": "https://open.spotify.com/album/3VWtvGEGzET3ztfQSKTkUc"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "duration_ms": 359693,
+      "name": "\u304a\u3084\u3059\u307f\u306a\u3055\u3044",
+      "url": "https://open.spotify.com/track/3fGUorfiin7I5V8YvTaoFK"
     },
     {
       "added_at": "2025-07-17 15:02:14",

@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 84508,
+  "num_followers": 84518,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAC7LsmtgrhskOaLKMqUregn",
+  "snapshot_id": "aHg9AAAAAAAa+mFrzzg71fQ+8sXEIyo1",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Nace Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Me Nace Del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "+Mexicana",
         "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 183733,
       "name": "Es Complicado",
       "url": "https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Nace Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Me Nace Del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
     },
     {
       "added_at": null,
@@ -739,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
-        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
       },
       "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 176440,
-      "name": "El Nido (with Edith M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
+      "duration_ms": 207986,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV"
     },
     {
       "added_at": null,
@@ -775,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
+        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
       "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 207986,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV"
+      "duration_ms": 176440,
+      "name": "El Nido (with Edith M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
       "duration_ms": 251666,
       "name": "Esta vez",
       "url": "https://open.spotify.com/track/3qAFGQR28oP4REx4m0tHcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones de Amor y Sentimiento",
         "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pasiones de Cabaret",
-        "url": "https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 238030,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Costumbres",
         "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 259144,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pasiones de Cabaret",
+        "url": "https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 238030,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY"
     }
   ],
   "unique_name": "This Is Edith M\u00e1rquez",

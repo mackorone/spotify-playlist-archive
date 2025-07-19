@@ -379,6 +379,28 @@
     },
     {
       "album": {
+        "name": "anxiety",
+        "url": "https://open.spotify.com/album/7FB48AGZIDX4JkMqsOjWlX"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "chattybaxi",
+          "url": "https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111629,
+      "name": "anxiety",
+      "url": "https://open.spotify.com/track/0nlySXaY4zkVNNmFfXO8FS"
+    },
+    {
+      "album": {
         "name": "Don't Waste Good Names on an EP",
         "url": "https://open.spotify.com/album/2ShEAf3Yx2jb6fSzjp5S6D"
       },

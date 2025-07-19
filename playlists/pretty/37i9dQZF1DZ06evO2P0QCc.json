@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 118976,
+  "num_followers": 119001,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADp0t1z3fGVAYwZjVQMjsHu",
+  "snapshot_id": "aHg9AAAAAACRdnGBgWfgeOAkDePnxO+D",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ska Wars Monterrey",
+        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Breve Historia de Amor y una Mujer",
+      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 214000,
       "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
       "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ska Wars Monterrey",
-        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Breve Historia de Amor y una Mujer",
-      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Desatinos",
-      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blanco y Negro",
         "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 154897,
       "name": "Ara\u00f1a Ska",
       "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Desatinos",
+      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Det er fredag! Ny musik fra Anton Westerlin & Artigeardit, Alex Warren, ILMA og mange flere \ud83d\udc40",
-  "num_followers": 121625,
+  "num_followers": 121749,
   "original_name": "New Music Friday Denmark",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,26 @@
     {
       "added_at": "2025-07-17 22:00:36",
       "album": {
+        "name": "Madeline (feat. Gabriella Rose)",
+        "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        }
+      ],
+      "duration_ms": 145146,
+      "name": "Madeline (feat. Gabriella Rose)",
+      "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
+    },
+    {
+      "added_at": "2025-07-17 22:00:36",
+      "album": {
         "name": "Easy Love",
         "url": "https://open.spotify.com/album/6KqYzpCTT9a7LJPwl86fyp"
       },
@@ -479,6 +499,26 @@
     {
       "added_at": "2025-07-17 22:00:36",
       "album": {
+        "name": "boffum",
+        "url": "https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "J White Did It",
+          "url": "https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir"
+        }
+      ],
+      "duration_ms": 127862,
+      "name": "boffum",
+      "url": "https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS"
+    },
+    {
+      "added_at": "2025-07-17 22:00:36",
+      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
@@ -495,7 +535,7 @@
     {
       "added_at": "2025-07-17 22:00:36",
       "album": {
-        "name": "F*K It",
+        "name": "F*k It",
         "url": "https://open.spotify.com/album/6ZI4Q0v3NnwiGHiPqxGGhE"
       },
       "artists": [
@@ -505,7 +545,7 @@
         }
       ],
       "duration_ms": 195027,
-      "name": "F*K It",
+      "name": "F*k It",
       "url": "https://open.spotify.com/track/1ALPYfHOBhuxYozai5ATPP"
     },
     {
@@ -978,6 +1018,10 @@
         {
           "name": "AVGVSTVS",
           "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        },
+        {
+          "name": "FRAM",
+          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
         }
       ],
       "duration_ms": 175393,
@@ -1055,6 +1099,22 @@
       "duration_ms": 201015,
       "name": "Poison",
       "url": "https://open.spotify.com/track/42FZFAgjADqKkEEnm0YZnI"
+    },
+    {
+      "added_at": "2025-07-17 22:00:36",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
     },
     {
       "added_at": "2025-07-17 22:00:36",

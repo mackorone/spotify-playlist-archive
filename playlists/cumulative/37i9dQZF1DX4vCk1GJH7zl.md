@@ -2,9 +2,9 @@
 
 ### [Rock Leve](https://open.spotify.com/playlist/37i9dQZF1DX4vCk1GJH7zl)
 
-> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Nasi
+> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Detonautas
 
-201 songs - 12 hr 2 min
+204 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,12 +57,12 @@
 | [dear god](https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:12 | 2023-07-21 | 2024-05-03 |
 | [Desculpa te Ligar \- Versão Estendida, Ao Vivo](https://open.spotify.com/track/2gJaKTrXgaNQzAbNRCJSkK) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Desculpa te Ligar \(Versão Estendida, Ao Vivo\)](https://open.spotify.com/album/0ZcuzvxFwJXLhiidHmPJDQ) | 3:28 | 2023-08-04 | 2023-08-19 |
 | [Desejo](https://open.spotify.com/track/0MLo95YCIR2kFP3TAh8BkP) | [Odair Jose](https://open.spotify.com/artist/3kUC3a0wTkjsdkJiytULkN) | [Desejo](https://open.spotify.com/album/7FVpzdYE9QU3Yza7nnXK6G) | 3:44 | 2024-05-31 | 2024-06-15 |
-| [Desejo Hostil](https://open.spotify.com/track/54MHgaSeIjTsTCBL6RVmTI) | [Universo Will](https://open.spotify.com/artist/30N6YR0KILQLFvvR7VTgfw) | [Desejo Hostil](https://open.spotify.com/album/6NjmgbqiODgs6Q08tLPvEl) | 2:45 | 2024-06-28 |  |
+| [Desejo Hostil](https://open.spotify.com/track/54MHgaSeIjTsTCBL6RVmTI) | [Universo Will](https://open.spotify.com/artist/30N6YR0KILQLFvvR7VTgfw) | [Desejo Hostil](https://open.spotify.com/album/6NjmgbqiODgs6Q08tLPvEl) | 2:45 | 2024-06-28 | 2025-07-19 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2023-07-21 | 2023-08-26 |
 | [Diz que me ama \(Lua\)](https://open.spotify.com/track/62mknPDv8tCAbcnCJPc25e) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Diz que me ama \(Lua\)](https://open.spotify.com/album/6WYGShHH2DUZywA4DlAzXW) | 3:00 | 2025-05-23 | 2025-05-31 |
 | [Dizem](https://open.spotify.com/track/0slJ2ORPHsjlnVRbPOzVhi) | [Odair Jose](https://open.spotify.com/artist/3kUC3a0wTkjsdkJiytULkN) | [Seres Humanos \(e a Inteligência Artificial\)](https://open.spotify.com/album/76vczkF1upttoxgHfgHjo3) | 2:50 | 2024-06-21 | 2024-07-13 |
 | [Dois Mundos](https://open.spotify.com/track/0yWPnJ50IOP1Vbzf3jYxbX) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Tulio Freitas](https://open.spotify.com/artist/1jDI5QIP2tPVrFDqwQY4Dj) | [Dois Mundos](https://open.spotify.com/album/64ZYrxz7k8QunMzLd3Wrcv) | 4:17 | 2023-07-21 | 2024-03-16 |
-| [Doomed](https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Doomed](https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0) | 3:26 | 2024-03-29 |  |
+| [Doomed](https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Doomed](https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0) | 3:26 | 2024-03-29 | 2025-07-19 |
 | [Dragon](https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Dragon](https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1) | 3:05 | 2024-03-15 |  |
 | [Elefantes](https://open.spotify.com/track/3pe1rds7yMY2A3RBpDNuEz) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Elefantes](https://open.spotify.com/album/6L78lDEA7z65ZD8srvw9C2) | 3:05 | 2024-09-27 |  |
 | [Espetacular](https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ) | [Márcio Greyck](https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4) | [Espetacular](https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc) | 4:33 | 2023-07-21 |  |
@@ -107,6 +107,7 @@
 | [Menina Linda](https://open.spotify.com/track/1YnLOI6vNwFKUPD0Ym1zQg) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/02G0M9OAq48KLDJ06m6eRU) | 3:00 | 2024-04-19 | 2025-02-15 |
 | [Menina Linda](https://open.spotify.com/track/7HUiek8MyBiLGM33NzgUSm) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:00 | 2023-07-21 | 2024-04-19 |
 | [Mercado](https://open.spotify.com/track/18o5wKZ5M3onKU69OZD5Cs) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [B\-Sides Gêmeos](https://open.spotify.com/album/1ef3KBKANvCTkDauRecAa5) | 3:06 | 2023-07-21 | 2023-08-05 |
+| [Moletom](https://open.spotify.com/track/6sYEvTZfUFDo9IY02b1DD1) | [Ondastral](https://open.spotify.com/artist/1PLVBYQrlY7TUtoyRspbuV) | [Moletom](https://open.spotify.com/album/5yVc8jYrfoQy007gd3teKt) | 2:53 | 2025-07-19 |  |
 | [Monólogo](https://open.spotify.com/track/16Ll3Z8PNf86gll9zV5Lq8) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Hecto](https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9) | [Canções Para Um Novo Mundo](https://open.spotify.com/album/0tTtokpLm9C1CvMD0JWIA5) | 3:12 | 2025-01-10 |  |
 | [Mulher da Vida \- Acústica\) \(Faixa Bônus](https://open.spotify.com/track/2EzZE6Nsnl25qROTiTXTQP) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Reviravolta \(Edição Deluxe\)](https://open.spotify.com/album/6Zcg2ml3VjVsWyQA4F1w0m) | 2:26 | 2024-01-26 | 2024-05-11 |
 | [Música de Botar o Papo no Lugar](https://open.spotify.com/track/38389u9gqu5jd9RiSy2jEH) | [Scatolove](https://open.spotify.com/artist/0icMce3ZQU1HdA8gGHo5Rg) | [Música de Botar o Papo no Lugar](https://open.spotify.com/album/2dU7Mwqk5B31axoHYs5LqY) | 2:53 | 2023-07-21 | 2024-02-24 |
@@ -117,7 +118,8 @@
 | [Nada Sei \- Apneia, Ao Vivo](https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2) | [Paula Toller](https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Nada Sei \(Apneia\)](https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO) | 3:49 | 2024-07-05 |  |
 | [No Delta dos Rios](https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Power Trio](https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR) | 4:03 | 2023-09-15 |  |
 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2023-07-21 | 2025-02-15 |
-| [Not the One](https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Not the One](https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO) | 4:26 | 2023-07-21 |  |
+| [Noites Frias](https://open.spotify.com/track/7e96OPvQVaD87adQR4eYu4) | [Flamha](https://open.spotify.com/artist/7lOLfXrHGsOi23UAhshyJh) | [Noites Frias](https://open.spotify.com/album/4aTzZgKLAj2JGmPbOU7JZj) | 3:13 | 2025-07-19 |  |
+| [Not the One](https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Not the One](https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO) | 4:26 | 2023-07-21 | 2025-07-19 |
 | [Novo Eu](https://open.spotify.com/track/43Kflo9KhPF8PwdsVwAIZz) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Novo Eu](https://open.spotify.com/album/5HxKiS9SHZuKHNCZT3O4QY) | 4:05 | 2024-04-12 | 2024-06-22 |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 | 2025-03-08 |
 | [Não Diga Nada](https://open.spotify.com/track/1T1xneWDmxbb9rcgB0Svz8) | [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Não Diga Nada](https://open.spotify.com/album/3kf71hYy9zqknjwKGyi2mj) | 4:10 | 2025-04-05 |  |
@@ -194,6 +196,7 @@
 | [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 | 2023-07-21 | 2024-01-27 |
 | [Tudo Fica Bem \- Acústico](https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Tudo Fica Bem \(Acústico\)](https://open.spotify.com/album/3ELasphaer4uFY996px5iC) | 2:45 | 2024-09-13 |  |
 | [um bar, um shot, um começo](https://open.spotify.com/track/41TEbGzlsA7vm01I7egF7I) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw) | [um bar, um shot, um começo](https://open.spotify.com/album/4sdSxG6ySgmn4vtessDHUH) | 3:29 | 2024-05-03 | 2024-06-15 |
+| [Um Sonhador](https://open.spotify.com/track/7fb8DZxvDLSmymtO2aizdL) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Um Sonhador](https://open.spotify.com/album/4dsHFCDLAPaqCPjNCrs1Xo) | 4:17 | 2025-07-19 |  |
 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2023-11-10 | 2025-01-11 |
 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 | 2024-09-02 |  |
 | [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 | 2024-09-27 |  |

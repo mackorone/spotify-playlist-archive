@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Blondshell
 
-483 songs - 1 day 5 hr 35 min
+484 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Forever Young](https://open.spotify.com/track/25kayNrSANYsXe31x6VdOq) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Forever Young](https://open.spotify.com/album/6uzTTLKNNiMxG2iqQgzRHs) | 3:08 | 2021-03-12 | 2022-04-19 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2021-03-12 | 2022-07-29 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2021-03-12 | 2023-08-09 |
+| [Gasoline \- triple j Like A Version](https://open.spotify.com/track/1AtAj9ArYUprSRwdLjItvl) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gasoline \(triple j Like A Version\)](https://open.spotify.com/album/6nCPvy37Ift4HZgMOnhC9i) | 3:22 | 2025-07-18 |  |
 | [Genesis](https://open.spotify.com/track/2whpmafYrsKIIeqwdSCjj1) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Genesis](https://open.spotify.com/album/2okSmN83SWjZXl1Fgqwt4S) | 4:29 | 2021-03-19 | 2022-06-01 |
 | [Genius of Love](https://open.spotify.com/track/0UMfconu33lpuioJ696nKv) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Genius of Love](https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv) | 3:25 | 2024-05-17 |  |
 | [Gente Corriente](https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Gente Corriente](https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ) | 3:31 | 2023-07-20 | 2024-09-07 |
@@ -347,7 +348,7 @@
 | [Safety Dance](https://open.spotify.com/track/41iyTkS7vxn5sOJTMjOrL8) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Safety Dance](https://open.spotify.com/album/7rvR8Bfm6DbVDThl64aVD9) | 3:51 | 2021-08-20 | 2022-07-05 |
 | [Save a Prayer \- Acoustic](https://open.spotify.com/track/2TMLHRfHlVvj4ukwVoWBVQ) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Unplugged](https://open.spotify.com/album/5w8054iUeNxpJ8uN05ugx2) | 3:50 | 2021-03-12 | 2022-06-23 |
 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 | 2021-07-21 | 2022-04-19 |
-| [Sea of Love \(with The National\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sea of Love \(with The National\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN) | 4:09 | 2023-10-13 |  |
+| [Sea of Love \(with The National\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sea of Love \(with The National\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN) | 4:09 | 2023-10-13 | 2025-07-19 |
 | [See You Again](https://open.spotify.com/track/0ui5dB70Qkj815Lcm6K2sp) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [See You Again](https://open.spotify.com/album/0OrCA83wSnzoUFMFaYuMIg) | 3:51 | 2021-10-08 | 2022-06-30 |
 | [September](https://open.spotify.com/track/6n64BkrkLEgaQUliMeAMhD) | [Charming Liars](https://open.spotify.com/artist/478LE0Vmglapdba9xQQt0J) | [September](https://open.spotify.com/album/2iBqAGVB2PiQDgfi6g2Za6) | 3:02 | 2021-10-08 | 2022-04-16 |
 | [Shake That Devil](https://open.spotify.com/track/1mLdMXS86MxTuZHdRW5UqA) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Shake That Devil](https://open.spotify.com/album/5KmuniNQ2g7UKgImMLrnO3) | 3:05 | 2021-08-13 | 2022-04-03 |

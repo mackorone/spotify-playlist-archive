@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-457 songs - 1 day 5 hr 18 min
+458 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 | 2024-01-18 | 2024-05-24 |
 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 | 2024-01-18 | 2024-04-19 |
 | [95 Project \(Reprise\)](https://open.spotify.com/track/6XY6EHw2syj0We0U0GxCf7) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [95 Project \(Reprise\)](https://open.spotify.com/album/6V8BnI070YFCoWX0T8A60r) | 2:30 | 2023-07-11 | 2023-11-24 |
+| [A Dawning](https://open.spotify.com/track/373lcOHga6YNmZRbqycxFe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [A Dawning](https://open.spotify.com/album/0RcCTsEXvwS2u788FqfpIs) | 4:00 | 2025-07-11 |  |
 | [A Dream Goes On Forever](https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [A Dream Goes On Forever](https://open.spotify.com/album/3GlvdGXfhdSubUQ2uKYXKI) | 4:39 | 2024-02-20 | 2024-04-03 |
 | [A Million More](https://open.spotify.com/track/70PorMN2mwLfWi3jKZ1jS3) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW) | 3:02 | 2024-02-20 | 2024-08-09 |
 | [A Million More](https://open.spotify.com/track/7r0YOMoBepzw3405MOPfZ1) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/0jNrLxV0aeNF03bMin0L9f) | 3:02 | 2024-02-20 | 2024-04-19 |
@@ -89,7 +90,7 @@
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-08-10 | 2023-10-06 |
 | [CD](https://open.spotify.com/track/0MxfrxF46gT6S3oz6CbNbF) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [CD](https://open.spotify.com/album/3x4ngwfnySLcB3UBtAID91) | 3:06 | 2023-07-11 | 2023-08-18 |
 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 | 2025-07-11 |  |
-| [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-08 |  |
+| [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-08 | 2025-07-19 |
 | [Chama](https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Chama](https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A) | 3:16 | 2024-09-25 | 2025-01-14 |
 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 | 2023-08-01 |  |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-23 |  |

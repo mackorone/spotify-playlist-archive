@@ -1,13 +1,85 @@
 {
-  "description": "The best songs from the new shows and the buzziest hits. Cover: BOOP!",
-  "num_followers": 112862,
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Jonathan Groff in Just in Time",
+  "num_followers": 112865,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHDlBgAAAABphrX9GFMiBctDBM2OLrFA",
+  "snapshot_id": "aHnQbgAAAACZYtA5gu4NQYA9CgNYEr4S",
   "tracks": [
+    {
+      "added_at": "2025-07-18 04:00:02",
+      "album": {
+        "name": "Splish Splash",
+        "url": "https://open.spotify.com/album/3efJxEtOZkEKX2vHlSNnA0"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Original Broadway Cast of Just In Time",
+          "url": "https://open.spotify.com/artist/3mjvQw6QJSp0X2cIHn6QnG"
+        }
+      ],
+      "duration_ms": 164146,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/71Efa4RB8YjaQEj5kvh9v5"
+    },
+    {
+      "added_at": "2025-02-21 05:00:16",
+      "album": {
+        "name": "Death Becomes Her - Broadway Sneak Preview",
+        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
+      },
+      "artists": [
+        {
+          "name": "Megan Hilty",
+          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+        },
+        {
+          "name": "'Death Becomes Her' Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc"
+        }
+      ],
+      "duration_ms": 256444,
+      "name": "For The Gaze",
+      "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
+    },
+    {
+      "added_at": "2025-06-16 02:48:49",
+      "album": {
+        "name": "Real Women Have Curves: The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0KKuGKaHvSPtYYUXHq2YNN"
+      },
+      "artists": [
+        {
+          "name": "Tatianna C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/4NzAALgQdqh2ts1FO94Etd"
+        },
+        {
+          "name": "Carla Jimenez",
+          "url": "https://open.spotify.com/artist/11H3IXQy9MAM9hY2aEyyQa"
+        },
+        {
+          "name": "Florencia Cuenca",
+          "url": "https://open.spotify.com/artist/1W5tuAWRhPuKMJN438XYac"
+        },
+        {
+          "name": "Justina Machado",
+          "url": "https://open.spotify.com/artist/0Caerv4ooDH953kuV32Yzj"
+        },
+        {
+          "name": "Real Women Have Curves Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3iQQnAznu8N9ope2iEuv7W"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Real Women Have Curves",
+      "url": "https://open.spotify.com/track/6n0QCWBSvicnbepDHsar4S"
+    },
     {
       "added_at": "2025-03-11 05:00:06",
       "album": {
@@ -31,26 +103,6 @@
       "duration_ms": 177689,
       "name": "Something To Shout About",
       "url": "https://open.spotify.com/track/4AOW90hm0ZcRV9laXtHM8g"
-    },
-    {
-      "added_at": "2025-03-31 16:26:09",
-      "album": {
-        "name": "Maybe Happy Ending (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd"
-      },
-      "artists": [
-        {
-          "name": "Helen J Shen",
-          "url": "https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ"
-        },
-        {
-          "name": "Darren Criss",
-          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
-        }
-      ],
-      "duration_ms": 162700,
-      "name": "When You're in Love",
-      "url": "https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql"
     },
     {
       "added_at": "2025-07-11 10:18:46",
@@ -89,56 +141,88 @@
       "url": "https://open.spotify.com/track/7DGXvp8bQzG2chQqRx5d3t"
     },
     {
-      "added_at": "2025-06-16 02:48:49",
+      "added_at": "2025-06-09 02:20:47",
       "album": {
-        "name": "Real Women Have Curves: The Musical (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/0KKuGKaHvSPtYYUXHq2YNN"
+        "name": "Buena Vista Social Club (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4hhestx62URk30bHlDHrOp"
       },
       "artists": [
         {
-          "name": "Tatianna C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/4NzAALgQdqh2ts1FO94Etd"
+          "name": "Original Broadway Cast of Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/7oRPYjLIiju9Exueu7WbO4"
         },
         {
-          "name": "Carla Jimenez",
-          "url": "https://open.spotify.com/artist/11H3IXQy9MAM9hY2aEyyQa"
+          "name": "Renesito Avich",
+          "url": "https://open.spotify.com/artist/2siDY3yXwZYMjPPHIh6IHW"
         },
         {
-          "name": "Florencia Cuenca",
-          "url": "https://open.spotify.com/artist/1W5tuAWRhPuKMJN438XYac"
+          "name": "Da'Von T. Moody",
+          "url": "https://open.spotify.com/artist/46B1msLqEf1PSZXvXwMFxE"
         },
         {
-          "name": "Justina Machado",
-          "url": "https://open.spotify.com/artist/0Caerv4ooDH953kuV32Yzj"
+          "name": "David Oquendo",
+          "url": "https://open.spotify.com/artist/5bu3qGHSHAk5eR1vZhgWjL"
         },
         {
-          "name": "Real Women Have Curves Original Broadway Company",
-          "url": "https://open.spotify.com/artist/3iQQnAznu8N9ope2iEuv7W"
+          "name": "Buena Vista Social Club Original Broadway Band",
+          "url": "https://open.spotify.com/artist/0ggSmpzu61hUULS4UAyxXH"
         }
       ],
-      "duration_ms": 223333,
-      "name": "Real Women Have Curves",
-      "url": "https://open.spotify.com/track/6n0QCWBSvicnbepDHsar4S"
+      "duration_ms": 229399,
+      "name": "Qu\u00e9 Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/5BquOusMamGg7QoUhvpKLd"
     },
     {
-      "added_at": "2025-02-21 05:00:16",
+      "added_at": "2025-03-31 16:26:09",
       "album": {
-        "name": "Death Becomes Her - Broadway Sneak Preview",
-        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
+        "name": "Maybe Happy Ending (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd"
       },
       "artists": [
         {
-          "name": "Megan Hilty",
-          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+          "name": "Helen J Shen",
+          "url": "https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ"
         },
         {
-          "name": "'Death Becomes Her' Original Broadway Cast",
-          "url": "https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc"
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
         }
       ],
-      "duration_ms": 256444,
-      "name": "For The Gaze",
-      "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
+      "duration_ms": 162700,
+      "name": "When You're in Love",
+      "url": "https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql"
+    },
+    {
+      "added_at": "2025-07-18 04:00:02",
+      "album": {
+        "name": "This Could Be The Start Of Something Big",
+        "url": "https://open.spotify.com/album/75nOdlCjTfWcMwaqPyz3qo"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Christine Cornish",
+          "url": "https://open.spotify.com/artist/1F3lM45dGEGppDug2A7tqV"
+        },
+        {
+          "name": "Julia Grondin",
+          "url": "https://open.spotify.com/artist/0XtPLSsCr9Txq8fvZJAQWu"
+        },
+        {
+          "name": "Valeria Yamin",
+          "url": "https://open.spotify.com/artist/5VpVrgflDFdUrWxMTykTsf"
+        },
+        {
+          "name": "Original Broadway Cast of Just In Time",
+          "url": "https://open.spotify.com/artist/3mjvQw6QJSp0X2cIHn6QnG"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "This Could Be The Start Of Something Big / Just In Time",
+      "url": "https://open.spotify.com/track/303nIQSkkcgcMrUUWbhOWL"
     },
     {
       "added_at": "2025-06-16 02:48:49",
@@ -227,38 +311,6 @@
       "duration_ms": 145737,
       "name": "My Generation (From \"Just For One Day - The Live Aid Musical\")",
       "url": "https://open.spotify.com/track/2gCG5sYdP6oTTjJpe2EJVO"
-    },
-    {
-      "added_at": "2025-06-09 02:20:47",
-      "album": {
-        "name": "Buena Vista Social Club (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/4hhestx62URk30bHlDHrOp"
-      },
-      "artists": [
-        {
-          "name": "Original Broadway Cast of Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/7oRPYjLIiju9Exueu7WbO4"
-        },
-        {
-          "name": "Renesito Avich",
-          "url": "https://open.spotify.com/artist/2siDY3yXwZYMjPPHIh6IHW"
-        },
-        {
-          "name": "Da'Von T. Moody",
-          "url": "https://open.spotify.com/artist/46B1msLqEf1PSZXvXwMFxE"
-        },
-        {
-          "name": "David Oquendo",
-          "url": "https://open.spotify.com/artist/5bu3qGHSHAk5eR1vZhgWjL"
-        },
-        {
-          "name": "Buena Vista Social Club Original Broadway Band",
-          "url": "https://open.spotify.com/artist/0ggSmpzu61hUULS4UAyxXH"
-        }
-      ],
-      "duration_ms": 229399,
-      "name": "Qu\u00e9 Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/5BquOusMamGg7QoUhvpKLd"
     },
     {
       "added_at": "2025-06-06 04:00:06",
@@ -1139,42 +1191,6 @@
       "duration_ms": 222239,
       "name": "My Days",
       "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Roaring On / My Green Light / Past is Catching Up to Me | The Great Gatsby - A New Musical (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/0WOb0bOotTCHNGDsnLjpUL"
-      },
-      "artists": [
-        {
-          "name": "Original Broadway Cast of The Great Gatsby - A New Musical",
-          "url": "https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM"
-        }
-      ],
-      "duration_ms": 315924,
-      "name": "Roaring On",
-      "url": "https://open.spotify.com/track/56oQFmaTWSQFocRNT6AYyA"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Illinoise: A New Musical (Original Cast Recording)",
-        "url": "https://open.spotify.com/album/7bELJsLJfeTYzgtVsQiwUa"
-      },
-      "artists": [
-        {
-          "name": "Elijah Lyons",
-          "url": "https://open.spotify.com/artist/3mNGrNlQWwUMXeVH6erp17"
-        },
-        {
-          "name": "Original Cast of Illinoise: A New Musical",
-          "url": "https://open.spotify.com/artist/60YCQIxNBYpPLVhEvCy8Mr"
-        }
-      ],
-      "duration_ms": 345088,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/7aaQQCNoksyfd1fZAeG4Pa"
     }
   ],
   "unique_name": "Broadway Rising",

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-366 songs - 20 hr 30 min
+367 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Forgotten Desires](https://open.spotify.com/track/5TsPiBgoHxpBuf8upDnLln) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Forgotten Desires](https://open.spotify.com/album/65vjvKUEuZv3cFLrBZjWp0) | 2:21 | 2024-01-30 | 2025-05-15 |
 | [Forgotten Echoes](https://open.spotify.com/track/3o4IZzGzihgdK8LcmqU4nl) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Forgotten Echoes](https://open.spotify.com/album/3kYsiZd3nIqiI4n6aWfgGY) | 2:45 | 2023-04-21 | 2024-12-08 |
 | [Forgotten Lullaby](https://open.spotify.com/track/1Ro3UnADPrmE9iyk1i2Qam) | [Altered Echoes](https://open.spotify.com/artist/3wUAuh9pHdfvZuw5y7VE1f) | [Forgotten Lullaby](https://open.spotify.com/album/1SUSNATyDjlk5LaHzh4AkJ) | 2:11 | 2025-05-14 |  |
+| [Freefall](https://open.spotify.com/track/1ujbFpWro9LW6OprUiX8zr) | [tonin](https://open.spotify.com/artist/6vh92pGd0glJjM8j9xgQZG) | [Freefall](https://open.spotify.com/album/1WhbMi2QmuyL7phaa3DTcL) | 3:55 | 2025-07-15 |  |
 | [Frigate birds](https://open.spotify.com/track/2BWu8Uq8IF37tPTo4L8Nzp) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/6MEySYP7MoW6HTEL0fkXwF) | 2:55 | 2020-12-08\* | 2020-12-25 |
 | [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 | 2023-02-14 |  |
 | [Frozen waves](https://open.spotify.com/track/6RA2OBqaRhntWewbRaFkQQ) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Frozen waves](https://open.spotify.com/album/0nuSAQCegaaVpIslk2buc4) | 2:41 | 2024-03-07 |  |
@@ -263,7 +264,7 @@
 | [raindots](https://open.spotify.com/track/5dx19zeb4CeKdBoKodem8y) | [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [silver sands](https://open.spotify.com/album/0IOh4ctpPg5eFKW3KQ6r1p) | 3:12 | 2022-11-22 |  |
 | [Remeber](https://open.spotify.com/track/2UhEhSNnO7nNEwcOiy5Dxh) | [Noble S](https://open.spotify.com/artist/16I5ZrxxRz1JXlj8emMyKU) | [Remeber](https://open.spotify.com/album/04JqQZKjEkBykd74ZxSdtE) | 3:12 | 2023-06-23 |  |
 | [Remember Me](https://open.spotify.com/track/6T2od6U05UjZFPqwh00kKw) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [Remember Me](https://open.spotify.com/album/1L6IW2bhnayjpQgN2D9TKi) | 3:07 | 2020-12-08\* | 2021-02-20 |
-| [Resonatic](https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj) | [Inverse Gradient](https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl) | [Resonatic](https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy) | 2:40 | 2020-12-08\* |  |
+| [Resonatic](https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj) | [Inverse Gradient](https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl) | [Resonatic](https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy) | 2:40 | 2020-12-08\* | 2025-07-19 |
 | [Response](https://open.spotify.com/track/0RxznT4d9yj4Uc70jYC95k) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Response](https://open.spotify.com/album/7jA8d1DuXyHGtN7uWsnFxl) | 3:09 | 2020-12-08\* | 2024-02-05 |
 | [Retreat Bubble](https://open.spotify.com/track/1M7KwdBtaGsBNzUcOyidzy) | [Rombos Aran](https://open.spotify.com/artist/5urp8Oh8Gq6I7H53TgRjpi) | [Retreat Bubble](https://open.spotify.com/album/4dwdIrQLJUn0tmpwFtUhKe) | 1:55 | 2021-12-09 | 2023-07-29 |
 | [Reveries](https://open.spotify.com/track/2Vjjo1WB2m1YBYyJqrcA9u) | [Dream City](https://open.spotify.com/artist/0xKWlgGQrGhZgWxhbQlBSE) | [Somnolent Summer](https://open.spotify.com/album/7lvhfPxqTsvbM5ZFKPinq2) | 2:02 | 2022-05-26 |  |
@@ -299,7 +300,7 @@
 | [Soak It Up](https://open.spotify.com/track/2MjJ8ajY6WfoCChcA74olC) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [All Night](https://open.spotify.com/album/06zYYJUeDmFAmnDrwJPRMJ) | 4:04 | 2020-12-08\* | 2021-03-06 |
 | [Sol](https://open.spotify.com/track/78s9ENMqB5MBgV8nhP3ogF) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Movements](https://open.spotify.com/album/4nICR7VmmfEp78mfcZ4WUC) | 8:31 | 2020-12-08\* | 2021-01-30 |
 | [Solar Winds](https://open.spotify.com/track/13iYeXC6LAzTierH7y8kJZ) | [Ninna Hall](https://open.spotify.com/artist/5x5NAEHfpaMyyMuDBLhyJv) | [Wind EP](https://open.spotify.com/album/5ekSFZojGT4a28c5yMmDfa) | 3:02 | 2020-12-08\* | 2021-05-27 |
-| [Solicitude](https://open.spotify.com/track/3RlM2UQzdojpM6BzCyY37v) | [Garden of Sound](https://open.spotify.com/artist/71ZYJKoUfvXPoqzxdrVeH9) | [Solicitude](https://open.spotify.com/album/3p2ACTKxG9jRenqzfVi6x3) | 3:09 | 2022-06-16 | 2025-07-16 |
+| [Solicitude](https://open.spotify.com/track/3RlM2UQzdojpM6BzCyY37v) | [Garden of Sound](https://open.spotify.com/artist/71ZYJKoUfvXPoqzxdrVeH9) | [Solicitude](https://open.spotify.com/album/3p2ACTKxG9jRenqzfVi6x3) | 3:09 | 2022-06-16 |  |
 | [Song For No One](https://open.spotify.com/track/7d0F63Ynv9ZvPQlJPVZOql) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Migratory Patterns](https://open.spotify.com/album/68uVvxhvuWHu5juoBT6jMh) | 5:01 | 2020-12-08\* |  |
 | [Sonno scintillante](https://open.spotify.com/track/5tmH0bmkkk5haZdbvWLzAk) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Sonno scintillante](https://open.spotify.com/album/2BRhy7AI0W4k4sUNjxhL4z) | 2:03 | 2022-01-06 | 2024-09-20 |
 | [Space Musec](https://open.spotify.com/track/3JOyNKgNwndDAOh4lh5gyV) | [neon cosmo](https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV) | [Space Musec](https://open.spotify.com/album/6bwSamSLY9C3h6PLqAANir) | 2:58 | 2025-05-14 |  |
@@ -338,7 +339,7 @@
 | [Tired Eyes](https://open.spotify.com/track/41RcpktSrVWYmI8XaNZA07) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 4:12 | 2020-12-08\* | 2025-05-15 |
 | [To Unwind](https://open.spotify.com/track/7ov7MmCvTeQsHyDscGKTKD) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [To Unwind](https://open.spotify.com/album/2bGAKzje194VHkf6iR0l0t) | 2:42 | 2024-09-19 |  |
 | [Towards Silence](https://open.spotify.com/track/25stZHn22KgYL9roXriBe9) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Towards Silence](https://open.spotify.com/album/4e3UJoorTIvwDfg8D4DDYr) | 2:54 | 2022-10-14 |  |
-| [Transcendence EMDR](https://open.spotify.com/track/5g81eo7gUrc0exnDOhnoQJ) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Transcendence EMDR](https://open.spotify.com/album/2UOrOP0NQGSotpi2unJkxY) | 3:04 | 2025-05-14 |  |
+| [Transcendence EMDR](https://open.spotify.com/track/5g81eo7gUrc0exnDOhnoQJ) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Transcendence EMDR](https://open.spotify.com/album/2UOrOP0NQGSotpi2unJkxY) | 3:04 | 2025-05-14 | 2025-07-19 |
 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 |  |
 | [Traveling South](https://open.spotify.com/track/403ONsS1ggfGlohDshBgjG) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Traveling South](https://open.spotify.com/album/3a1knsci6NazXIV5pK4OFh) | 3:00 | 2023-09-22 | 2025-07-16 |
 | [Tropicana](https://open.spotify.com/track/0rSCtkQ7F8QdunymZPZRgb) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Tropicana](https://open.spotify.com/album/3uzJKosEYNBmsxjXF7rUU5) | 3:02 | 2024-11-14 | 2025-02-27 |

@@ -2531,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "eye2eye",
+        "url": "https://open.spotify.com/album/5cdNLvhFw398LMAmuL4uyg"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "eye2eye",
+      "url": "https://open.spotify.com/track/4MvAYkzdJjzZnmmgTBXeai"
+    },
+    {
+      "album": {
         "name": "Fake A Smile",
         "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
       },

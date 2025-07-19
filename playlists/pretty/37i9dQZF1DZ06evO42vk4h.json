@@ -1,12 +1,12 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4155,
+  "num_followers": 4156,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAAk5DJq4hFrct823wIwoWpW",
+  "snapshot_id": "aHg9AAAAAADNJOH7pnPojzSMDXrvIL61",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sizophelelaphi",
+        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 259285,
+      "name": "Sizophelelaphi",
+      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Keep Hope Alive",
         "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 344070,
       "name": "Imizamo",
       "url": "https://open.spotify.com/track/12zPpq22jKVhhQT4ZKyuEP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sizophelelaphi",
-        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "Sizophelelaphi",
-      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
     },
     {
       "added_at": null,
@@ -560,25 +560,25 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Kamoh Xaba",
-          "url": "https://open.spotify.com/artist/2Fotv9MULwrtOPORxgtRui"
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
         },
         {
-          "name": "Mashudu",
-          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+          "name": "Khathapillar",
+          "url": "https://open.spotify.com/artist/2NJ4G5sIHIfma9PF2MO0yi"
         },
         {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+          "name": "Xylokeys",
+          "url": "https://open.spotify.com/artist/5wfEXTMqrNTusWA0DQQdRg"
         },
         {
           "name": "Shane907",
           "url": "https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX"
         }
       ],
-      "duration_ms": 229384,
-      "name": "Mpulele (feat. King Tone SA & Shane907) - Radio Edit",
-      "url": "https://open.spotify.com/track/1YuLielZbBk98qv6KYAgH6"
+      "duration_ms": 505747,
+      "name": "Iminyaka (feat. Xylokeys & Shane907)",
+      "url": "https://open.spotify.com/track/37CUYkpnqJEmYZ2gcy1pDv"
     },
     {
       "added_at": null,
@@ -664,25 +664,25 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Ze2",
-          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+          "name": "Kamoh Xaba",
+          "url": "https://open.spotify.com/artist/2Fotv9MULwrtOPORxgtRui"
         },
         {
-          "name": "Khathapillar",
-          "url": "https://open.spotify.com/artist/2NJ4G5sIHIfma9PF2MO0yi"
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
         },
         {
-          "name": "Xylokeys",
-          "url": "https://open.spotify.com/artist/5wfEXTMqrNTusWA0DQQdRg"
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
         },
         {
           "name": "Shane907",
           "url": "https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX"
         }
       ],
-      "duration_ms": 505747,
-      "name": "Iminyaka (feat. Xylokeys & Shane907)",
-      "url": "https://open.spotify.com/track/37CUYkpnqJEmYZ2gcy1pDv"
+      "duration_ms": 229384,
+      "name": "Mpulele (feat. King Tone SA & Shane907) - Radio Edit",
+      "url": "https://open.spotify.com/track/1YuLielZbBk98qv6KYAgH6"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lagos to Jozi",
+        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 249983,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1QOyzYu0Yp8wywHpMl3QY1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Iphupho",
         "url": "https://open.spotify.com/album/7CGPtiXMbG5pWqdyxjbNFv"
       },
@@ -851,30 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inhliziyo",
-        "url": "https://open.spotify.com/album/3PHgYflLYP6ecau1a75NXF"
-      },
-      "artists": [
-        {
-          "name": "Ze2",
-          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 377617,
-      "name": "Inhliziyo - Club Mix",
-      "url": "https://open.spotify.com/track/74FK6QRjxt4ZaesW9N6pS7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Next Gen",
         "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
       },
@@ -903,22 +899,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagos to Jozi",
-        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
+        "name": "Inhliziyo",
+        "url": "https://open.spotify.com/album/3PHgYflLYP6ecau1a75NXF"
       },
       "artists": [
         {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
         },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
         }
       ],
-      "duration_ms": 249983,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/1QOyzYu0Yp8wywHpMl3QY1"
+      "duration_ms": 377617,
+      "name": "Inhliziyo - Club Mix",
+      "url": "https://open.spotify.com/track/74FK6QRjxt4ZaesW9N6pS7"
     },
     {
       "added_at": null,
@@ -947,70 +947,6 @@
       "duration_ms": 221415,
       "name": "Pakinou",
       "url": "https://open.spotify.com/track/55PRpaKqYP3iLMIKS6gADm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afro Wave",
-        "url": "https://open.spotify.com/album/1cGMWl5ce7XiIoLP3ecUqp"
-      },
-      "artists": [
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        },
-        {
-          "name": "Phila Dlozi",
-          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
-        }
-      ],
-      "duration_ms": 411428,
-      "name": "Afro Wave",
-      "url": "https://open.spotify.com/track/6MqvxQI4W6zgGvL3BmsDam"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Next Gen",
-        "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Banzo",
-          "url": "https://open.spotify.com/artist/3HlCmrWP1oQcjFtCytB1BL"
-        },
-        {
-          "name": "Leandra.Vert",
-          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
-        },
-        {
-          "name": "Shane907",
-          "url": "https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX"
-        }
-      ],
-      "duration_ms": 583008,
-      "name": "I Belong To You (feat. Shane907)",
-      "url": "https://open.spotify.com/track/5O3s7hWj3k0uTfq1pjebQv"
     },
     {
       "added_at": null,
@@ -1051,6 +987,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Next Gen",
+        "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Shane907",
+          "url": "https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX"
+        },
+        {
+          "name": "Leandra.Vert",
+          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
+        },
+        {
+          "name": "Dot Mega",
+          "url": "https://open.spotify.com/artist/0DnvMgwUAfLV06uffraoeJ"
+        }
+      ],
+      "duration_ms": 560769,
+      "name": "Muntu Wam (feat. Dot Mega)",
+      "url": "https://open.spotify.com/track/3jJWBAWmVRCfisHPyVf2OC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afro Wave",
+        "url": "https://open.spotify.com/album/1cGMWl5ce7XiIoLP3ecUqp"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        },
+        {
+          "name": "Phila Dlozi",
+          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
+        }
+      ],
+      "duration_ms": 411428,
+      "name": "Afro Wave",
+      "url": "https://open.spotify.com/track/6MqvxQI4W6zgGvL3BmsDam"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listen to the Kids",
         "url": "https://open.spotify.com/album/7ARgpYp0gR8rTsuQUV5LW5"
       },
@@ -1079,26 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe 2013",
-        "url": "https://open.spotify.com/album/2JOqYLF4kZeYY76toSULUC"
-      },
-      "artists": [
-        {
-          "name": "Berita",
-          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 440506,
-      "name": "Thandolwethu - Remix",
-      "url": "https://open.spotify.com/track/41nYrZjMX3h5nC5Hc5UbrB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "iThuba",
         "url": "https://open.spotify.com/album/3A58oIuIwH9osLRMmV7kQD"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 432144,
       "name": "iThuba - Deep House Mix",
       "url": "https://open.spotify.com/track/5swyymcx1oXoHa8R5Tueth"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe 2013",
+        "url": "https://open.spotify.com/album/2JOqYLF4kZeYY76toSULUC"
+      },
+      "artists": [
+        {
+          "name": "Berita",
+          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 440506,
+      "name": "Thandolwethu - Remix",
+      "url": "https://open.spotify.com/track/41nYrZjMX3h5nC5Hc5UbrB"
     },
     {
       "added_at": null,
@@ -1227,54 +1227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lets Dance",
-        "url": "https://open.spotify.com/album/7z0AkhtKqqU9W1GxCdGa8U"
-      },
-      "artists": [
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 185811,
-      "name": "Lets Dance",
-      "url": "https://open.spotify.com/track/2Z2p1Znqos094TNvjHQqIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Keep Hope Alive",
-        "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "King Monada",
-          "url": "https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP"
-        }
-      ],
-      "duration_ms": 437419,
-      "name": "Fofa",
-      "url": "https://open.spotify.com/track/3jLOLJszeaSo5IcKDxQ2pM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Master & The Karate Kid",
         "url": "https://open.spotify.com/album/5rmwShVOOaaV4w4LJBFMRt"
       },
@@ -1307,6 +1259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Keep Hope Alive",
+        "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "King Monada",
+          "url": "https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP"
+        }
+      ],
+      "duration_ms": 437419,
+      "name": "Fofa",
+      "url": "https://open.spotify.com/track/3jLOLJszeaSo5IcKDxQ2pM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/5wV2Moflz96nWgiuVdju0e"
       },
@@ -1323,6 +1295,34 @@
       "duration_ms": 206202,
       "name": "Rababa",
       "url": "https://open.spotify.com/track/6x8LhiuIikuuPZDdcPs29y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lets Dance",
+        "url": "https://open.spotify.com/album/7z0AkhtKqqU9W1GxCdGa8U"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "duration_ms": 185811,
+      "name": "Lets Dance",
+      "url": "https://open.spotify.com/track/2Z2p1Znqos094TNvjHQqIS"
     }
   ],
   "unique_name": "This Is OSKIDO",

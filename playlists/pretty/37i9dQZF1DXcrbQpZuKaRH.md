@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,324 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,365 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 99 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 |
 | 100 | [Sentimental](https://open.spotify.com/track/1eAFXZP3IlDUNE4fXUyw8E) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Sentimental](https://open.spotify.com/album/0ocJg4WeN8H8Rq1fKsAfw6) | 2:57 |
 
-Snapshot ID: `aFlSDwAAAADKNBbKkkCgKC2XUl1hGD9g`
+Snapshot ID: `aHrHJAAAAACZbl419UZsunrgX4MmRX5a`

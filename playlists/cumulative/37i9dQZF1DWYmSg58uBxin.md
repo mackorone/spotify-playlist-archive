@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-319 songs - 14 hr 31 min
+322 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,16 +231,18 @@
 | [Resilient](https://open.spotify.com/track/3qcqLrOeFOaWzpHK7GK6Qo) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Resilient](https://open.spotify.com/album/0uETRAhCKO0BjQHHxtW4YP) | 3:26 | 2020-10-20\* | 2024-07-30 |
 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-09-08 |  |
 | [Returning Home](https://open.spotify.com/track/5KVFLNcGq5JH0TPfRLLmZZ) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Returning Home](https://open.spotify.com/album/273naH3CicGBwVjxxKO8lP) | 3:07 | 2024-12-11 |  |
-| [Root Flower](https://open.spotify.com/track/2zzO7vk8Z8SuguCHydFnkg) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Root Flower](https://open.spotify.com/album/488shae3ei66l5yQvTP0Fz) | 2:10 | 2025-01-22 |  |
+| [Root Flower](https://open.spotify.com/track/2zzO7vk8Z8SuguCHydFnkg) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Root Flower](https://open.spotify.com/album/488shae3ei66l5yQvTP0Fz) | 2:10 | 2025-01-22 | 2025-07-19 |
 | [Saga Menuette](https://open.spotify.com/track/3EwA8gI0oi0vtmIBZBjGRQ) | [Marie Depauw](https://open.spotify.com/artist/3YrkixibPYT9i5JliqmLK7) | [Saga Menuette](https://open.spotify.com/album/0h1xKYfHHxyIEUKQDie39S) | 1:51 | 2020-10-20\* | 2023-09-09 |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2020-10-20\* |  |
 | [Secret Admirer](https://open.spotify.com/track/2lHQrHpOz29hr1HYMuYfO4) | [Carl Easterling](https://open.spotify.com/artist/1BpbMpMfqgyXdsZmUXsoIx) | [Secret Admirer](https://open.spotify.com/album/3Vzz6AtfJGbirjpPCnFnlq) | 2:07 | 2023-09-26 |  |
 | [Serenade For Strings](https://open.spotify.com/track/3nJuP6wP2C3KagblFUjsBS) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Serenade For Strings](https://open.spotify.com/album/4MJu2Ro6UfS4zE90VOZ6Lf) | 2:13 | 2020-10-20\* | 2023-09-09 |
+| [Shimmer](https://open.spotify.com/track/0JJjOOXHvXcpr7okiNGOe5) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Shimmer](https://open.spotify.com/album/6V4uuBOhnY4XTZE6wr0vCk) | 2:31 | 2025-07-18 |  |
 | [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 | 2020-10-20\* | 2025-05-21 |
 | [Silver Moon](https://open.spotify.com/track/6ctSMybCtQT5a4BkdcpfHU) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Silver Moon](https://open.spotify.com/album/2prGAm4grMizINuJ6OR4MB) | 3:03 | 2025-02-26 |  |
 | [Sincerity](https://open.spotify.com/track/3fQdsoPpWz3sbwlvlMfBF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Sentient](https://open.spotify.com/album/0tAguXAg4RwGUtle2ngQaQ) | 2:24 | 2020-10-28 | 2023-09-09 |
 | [Sleepless](https://open.spotify.com/track/5oH5ijHVrmgwEfUttQ9pjX) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Sleepless](https://open.spotify.com/album/5ngJnKqFA5xkve0BQxjUUv) | 2:53 | 2020-10-20\* | 2023-09-09 |
 | [Snowfall](https://open.spotify.com/track/2clc722RMKNSOSgleEgXE4) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Snowfall](https://open.spotify.com/album/4Lr598YUKKD8cMRZu8QPf0) | 2:11 | 2023-09-08 |  |
+| [Soft Rain](https://open.spotify.com/track/3C1YOgC9O7ecXCnlkkQAVR) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Soft Rain](https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y) | 2:16 | 2025-07-18 |  |
 | [Sogni di Notturno](https://open.spotify.com/track/6FnrJardubPPSYmp8oVxyZ) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Sogni di Notturno](https://open.spotify.com/album/7hSrAcxKNUJd1QGTCper6y) | 2:19 | 2024-09-03 |  |
 | [Sol Da Manhã](https://open.spotify.com/track/50N1j5jEo9Wj30rnG6OuIH) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Sol Da Manhã](https://open.spotify.com/album/6j4tS64diWDcR9suydI2dz) | 2:38 | 2020-10-20\* | 2025-05-21 |
 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 | 2024-04-17 |  |
@@ -270,6 +272,7 @@
 | [Sunset at the Veranda](https://open.spotify.com/track/1DSFdhs58XvcJs6OFFR6B2) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Sunset at the Veranda](https://open.spotify.com/album/0mnIZBUOqZjxG0Gn8Asp2o) | 2:38 | 2020-10-20\* | 2020-11-28 |
 | [Surrender](https://open.spotify.com/track/2XT3IIDjd9ve1bHoavN1L6) | [Frozen Forests](https://open.spotify.com/artist/3JMKuMIkqPhpsXO0nAUhs9) | [Elevate](https://open.spotify.com/album/3Jr1NEoQbFZ9xi1fYa4Fq6) | 3:32 | 2020-10-20\* | 2021-12-11 |
 | [Sweet Gesture](https://open.spotify.com/track/72qpJcGJO8yGMDoJpKsMBQ) | [Bruno Joel](https://open.spotify.com/artist/3YojgmGKYcr1V6480v3qwy) | [By Your Side](https://open.spotify.com/album/1IHOhvP4jBMk7dgRw8k2JI) | 2:34 | 2020-10-20\* | 2023-09-09 |
+| [sérénade](https://open.spotify.com/track/4L2r0Em9lqGCDSbsxk4C1g) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [sérénade](https://open.spotify.com/album/5caaM4yQzP89GlNu2bDNQh) | 2:32 | 2025-07-18 |  |
 | [Tender](https://open.spotify.com/track/3gWc1zZPLqHPtt4oKLhXmn) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Tender](https://open.spotify.com/album/3NfGrGowW0H58RO8ZBDcP6) | 2:45 | 2020-10-20\* | 2023-09-09 |
 | [Terai\-Duar](https://open.spotify.com/track/1rkonLSBTFJhP5bMGaRjUS) | [Taj Mendel](https://open.spotify.com/artist/0xWF2XH0Nmxm0ZFL55ylfp) | [Terai\-Duar](https://open.spotify.com/album/4BROYeb4u3YNEcwlknFhlC) | 4:11 | 2020-10-20\* | 2023-09-09 |
 | [Thankful](https://open.spotify.com/track/0fLniMyx3JO0FBuW8AjvNz) | [Allysa Nelson](https://open.spotify.com/artist/6h7cuFH2XtPwuplHby1gT0) | [Spring is Here](https://open.spotify.com/album/59xOA3f8FmCObSHn9pJuxk) | 3:07 | 2020-10-20\* | 2023-09-09 |

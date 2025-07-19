@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1823897,
+  "num_followers": 1823905,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGxHJgAAAAAVybZ+hLcrQVQnHJ/i7Z9q",
+  "snapshot_id": "aHnG2AAAAACnzrVo45lgguf7EkaOyaWu",
   "tracks": [
     {
       "added_at": "2025-01-10 05:00:39",
@@ -39,6 +39,22 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "added_at": "2025-07-18 04:00:24",
+      "album": {
+        "name": "I'd Be Lost",
+        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 167012,
+      "name": "I'd Be Lost",
+      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -127,22 +143,6 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -155,6 +155,22 @@
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
       "added_at": "2025-07-04 04:00:24",
@@ -189,6 +205,22 @@
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
       "added_at": "2025-02-17 21:55:42",
       "album": {
         "name": "$ome $exy $ongs 4 U",
@@ -213,22 +245,6 @@
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
     },
     {
-      "added_at": "2025-02-17 17:41:15",
-      "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
-    },
-    {
       "added_at": "2025-01-10 05:00:39",
       "album": {
         "name": "Beatopia",
@@ -243,6 +259,22 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "added_at": "2025-02-17 17:41:15",
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -279,22 +311,6 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 233866,
       "name": "On Melancholy Hill",
       "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -403,6 +403,22 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -527,6 +543,22 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -543,22 +575,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -727,6 +743,22 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
       },
@@ -755,22 +787,6 @@
       "duration_ms": 200626,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -885,6 +901,22 @@
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "The Painter",
+      "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
+    },
+    {
       "added_at": "2025-06-06 04:00:28",
       "album": {
         "name": "The Little Mess You Made",
@@ -907,22 +939,6 @@
       "duration_ms": 201284,
       "name": "The Little Mess You Made",
       "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 211413,
-      "name": "The Painter",
-      "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -963,22 +979,6 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Add Up My Love",
-      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 223120,
       "name": "Jackie and Wilson",
       "url": "https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Add Up My Love",
+      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1179,6 +1195,22 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
         "name": "FACE MYSELF",
         "url": "https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u"
       },
@@ -1199,22 +1231,6 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Give Me the Night",
-      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Give Me the Night",
+      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1453,6 +1469,22 @@
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
+      "added_at": "2025-07-18 04:00:24",
+      "album": {
+        "name": "Sweet Serotonin",
+        "url": "https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 181310,
+      "name": "Sweet Serotonin",
+      "url": "https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa"
+    },
+    {
       "added_at": "2025-01-10 05:00:39",
       "album": {
         "name": "Comfortable",
@@ -1467,22 +1499,6 @@
       "duration_ms": 228961,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/0SnCZasgqjqS07tI6O2Z5P"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 221335,
-      "name": "How It's Gotta Be",
-      "url": "https://open.spotify.com/track/3Cd66VhIMNHdjXnG4wh6nH"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1503,6 +1519,22 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/0SnCZasgqjqS07tI6O2Z5P"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 221335,
+      "name": "How It's Gotta Be",
+      "url": "https://open.spotify.com/track/3Cd66VhIMNHdjXnG4wh6nH"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
@@ -1515,26 +1547,6 @@
       "duration_ms": 182076,
       "name": "Every Second",
       "url": "https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "Dear August",
-        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
-      },
-      "artists": [
-        {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 200940,
-      "name": "Dear August",
-      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1555,6 +1567,26 @@
       "duration_ms": 248013,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Dear August",
+        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 200940,
+      "name": "Dear August",
+      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1595,22 +1627,6 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Slow Sipper",
-      "url": "https://open.spotify.com/track/3GQbKZxmRv1mbrKBMCe8sK"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -1625,68 +1641,36 @@
       "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
     },
     {
-      "added_at": "2025-06-23 16:49:46",
-      "album": {
-        "name": "Bring Your Love / Angel Eyes",
-        "url": "https://open.spotify.com/album/2O5qigf4jDcHkhU4l7jRyb"
-      },
-      "artists": [
-        {
-          "name": "The Charities",
-          "url": "https://open.spotify.com/artist/6sj6p5wxfR9ueVEp93RRBf"
-        }
-      ],
-      "duration_ms": 150815,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/4EVkYQKxqD5JgdFSkyMjaS"
-    },
-    {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 262544,
-      "name": "drivers license - Spotify Singles",
-      "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
+      "duration_ms": 180386,
+      "name": "Slow Sipper",
+      "url": "https://open.spotify.com/track/3GQbKZxmRv1mbrKBMCe8sK"
     },
     {
-      "added_at": "2025-01-10 05:00:39",
+      "added_at": "2025-07-18 04:00:24",
       "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+        "name": "Dodged A Bullet",
+        "url": "https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9"
       },
       "artists": [
         {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
         }
       ],
-      "duration_ms": 209906,
-      "name": "Crowded Table",
-      "url": "https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW"
+      "duration_ms": 158658,
+      "name": "Dodged A Bullet",
+      "url": "https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw"
     }
   ],
   "unique_name": "Dinner with Friends",

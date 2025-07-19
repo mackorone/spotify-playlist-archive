@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,928 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,975 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 57 | [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 |
 | 58 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
 | 59 | [Stay](https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK) | 2:45 |
-| 60 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/5RuROg27RZTvqixblmzYG5) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/6CNWkUVb8kLkM3B464RMTx) | 4:27 |
-| 61 | [My Head Is A Jungle \- MK Remix / Radio Edit](https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [My Head Is A Jungle \(MK Remix / Radio Edit\)](https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn) | 3:25 |
+| 60 | [My Head Is A Jungle \- MK Remix / Radio Edit](https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [My Head Is A Jungle \(MK Remix / Radio Edit\)](https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn) | 3:25 |
+| 61 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/5RuROg27RZTvqixblmzYG5) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/6CNWkUVb8kLkM3B464RMTx) | 4:27 |
 | 62 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
 | 63 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
 | 64 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 21956,
+  "num_followers": 21957,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADuwq6aXzd4WeLiR/z6RW8b",
+  "snapshot_id": "aHg9AAAAAABLrQiwRU9GtmVBosA17uI+",
   "tracks": [
     {
       "added_at": null,
@@ -623,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Deus dos Pequeninos",
-        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
+        "name": "Em Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
       },
       "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 281000,
-      "name": "O Deus dos Pequeninos",
-      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
+      "duration_ms": 272697,
+      "name": "Prossiga (feat. Midian Lima)",
+      "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
     },
     {
       "added_at": null,
@@ -659,42 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Em Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
       },
       "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 272697,
-      "name": "Prossiga (feat. Midian Lima)",
-      "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 314542,
-      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
     },
     {
       "added_at": null,
@@ -715,6 +695,26 @@
       "duration_ms": 325720,
       "name": "Vencer ou Vencer (Ao Vivo)",
       "url": "https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 314542,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
     },
     {
       "added_at": null,
@@ -791,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele N\u00e3o Muda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK"
+        "name": "Enquanto a Igreja Ora (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
       },
       "artists": [
         {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+          "name": "Fam\u00edlia Cavalcanty",
+          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 487671,
-      "name": "Ele N\u00e3o Muda - Ao Vivo",
-      "url": "https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf"
+      "duration_ms": 196200,
+      "name": "Enquanto a Igreja Ora (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
     },
     {
       "added_at": null,
@@ -827,22 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enquanto a Igreja Ora (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
+        "name": "Ele N\u00e3o Muda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK"
       },
       "artists": [
         {
-          "name": "Fam\u00edlia Cavalcanty",
-          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 196200,
-      "name": "Enquanto a Igreja Ora (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
+      "duration_ms": 487671,
+      "name": "Ele N\u00e3o Muda - Ao Vivo",
+      "url": "https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf"
     },
     {
       "added_at": null,

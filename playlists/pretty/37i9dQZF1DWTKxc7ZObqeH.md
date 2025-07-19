@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing Jazz on a warm summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,127 likes - 170 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,176 likes - 170 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 169 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 |
 | 170 | [You Turned The Tables On Me](https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Expanded Edition\)](https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b) | 2:59 |
 
-Snapshot ID: `aGPLdQAAAAAQO7D2BrXWecdtTqYlIwHL`
+Snapshot ID: `aHqz2AAAAACp3INb8dBYjurtghEF8zjW`

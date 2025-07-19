@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: David Hasert
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,897 likes - 90 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,089 likes - 90 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 42 | [Baiser](https://open.spotify.com/track/5OgCt5TbDC5GcgBUCZqsKd) | [Enzo Elia](https://open.spotify.com/artist/0DY1hXIhEQqRJU9wDoHHu1) | [The Present \#3: Baiser](https://open.spotify.com/album/3t66gbP3CN3EMNdS47fFJI) | 5:12 |
 | 43 | [Guru](https://open.spotify.com/track/4eT4dsc4fMQLC34mQfQQMy) | [Return Fall](https://open.spotify.com/artist/2cyxOYiCRIb8zwTfdLyTx2) | [Guru](https://open.spotify.com/album/156A3yg7WI2JoXjIOzlEaU) | 3:40 |
 | 44 | [Bicycle Day](https://open.spotify.com/track/7EXSepWCmpyf1SuK6NBX52) | [Always on Acid](https://open.spotify.com/artist/3hP6JTmI988Z4SKo66nwpp) | [Bicycle Day](https://open.spotify.com/album/0jyD8HgdPMi25KHa4BbG8j) | 4:25 |
-| 45 | [Red Sun](https://open.spotify.com/track/2yIBy01zOPGwJkBF3DSzAU) | [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Red Sun](https://open.spotify.com/album/1P5t2RvqUwQgsz2LpZIDyF) | 3:46 |
+| 45 | [Red Sun](https://open.spotify.com/track/2yIBy01zOPGwJkBF3DSzAU) | [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Red Sun](https://open.spotify.com/album/1P5t2RvqUwQgsz2LpZIDyF) | 3:44 |
 | 46 | [Moving](https://open.spotify.com/track/5mdibkDvY1GnmJcGLUWFO8) | [MAZ'N](https://open.spotify.com/artist/1yYMHWtDyG3bb1DYKUpNOL) | [Moving](https://open.spotify.com/album/5Gu8leJQxcL0c2cKzgZxBQ) | 4:46 |
 | 47 | [Rohrdommel](https://open.spotify.com/track/5dp3GmE5fxaVpU1Txh7CrE) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Rohrdommel](https://open.spotify.com/album/2gLaWHcazbQZl5CGvx4Djd) | 7:19 |
 | 48 | [Dangerous Feelings](https://open.spotify.com/track/1TgOrY29FgE0qSv1Odn7xF) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Astrø](https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ) | [Dangerous Feelings](https://open.spotify.com/album/33iQDUoA1TQKNRh1xGKMo1) | 6:03 |

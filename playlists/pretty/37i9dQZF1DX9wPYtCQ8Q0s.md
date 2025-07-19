@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,489 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,463 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 67 | [Twerk \(feat\. Cardi B\)](https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:46 |
 | 68 | [Babushka Boi](https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Babushka Boi](https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v) | 3:07 |
 | 69 | [Go Loko \(feat\. Tyga, Jon Z\)](https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [4REAL 4REAL](https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm) | 4:59 |
-| 70 | [West Life](https://open.spotify.com/track/7c1VOpvkdr5aPqlv7huLlB) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Don't Die Before You're Dead](https://open.spotify.com/album/1P89eAvz1jjWXSL9wileVn) | 3:49 |
-| 71 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 |
+| 70 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 |
+| 71 | [West Life](https://open.spotify.com/track/7c1VOpvkdr5aPqlv7huLlB) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Don't Die Before You're Dead](https://open.spotify.com/album/1P89eAvz1jjWXSL9wileVn) | 3:49 |
 | 72 | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe) | 3:33 |
 | 73 | [APESHIT](https://open.spotify.com/track/62GXGpd73vslqIBHq8XqOx) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/7jbdod8XNRfe2nIhppht46) | 4:24 |
 | 74 | [Turks \(feat\. Travis Scott\)](https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Turks](https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6) | 2:41 |

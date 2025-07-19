@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 91,453 likes - 213 songs - 9 hr 13 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 91,678 likes - 213 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 212 | [I Just Might](https://open.spotify.com/track/4zxdvKmFpXoTLClXzijzbT) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [RÆ](https://open.spotify.com/artist/4Tyf5eR5dtPiPFM2WaME4h) | [I Just Might](https://open.spotify.com/album/4GmXryaqgOrpCdSTw5ebss) | 2:33 |
 | 213 | [Silence](https://open.spotify.com/track/2byCVqyzzpEdlAIDEVCZhd) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Silence](https://open.spotify.com/album/1HEeUhoxsJDWK9dOL1cakm) | 3:02 |
 
-Snapshot ID: `AABLaGwPvESJyYHHiIdkI0eDDNG8gJNH`
+Snapshot ID: `AABLaj4FDJpbX48LAoPNzKQXi1oKjMvG`

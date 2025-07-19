@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 72 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 73 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 70 | [Fall So Easy](https://open.spotify.com/track/0luP4uMdiFgBaOEBNC8cEl) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elkin](https://open.spotify.com/artist/4emwUTOdG3XWavS57kZhgn) | [Fall So Easy](https://open.spotify.com/album/0URTcjVa6Fdohlq4NaAxMs) | 3:22 |
 | 71 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
 | 72 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
+| 73 | [Tragic, Really](https://open.spotify.com/track/5SgJNSTHLNGozF7ZyfuSYB) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Tragic, Really](https://open.spotify.com/album/0gjH5kgyCijfhaiiK6OQqq) | 2:34 |
 
-Snapshot ID: `Ab3DFAAAAABC8KlZSLrjrTvJn6EaBK/m`
+Snapshot ID: `Ab3I0gAAAAAFMpDfEkRYL7ihoCUa1qwU`

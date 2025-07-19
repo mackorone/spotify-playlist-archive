@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,646 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,648 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 19 | [El Tuna](https://open.spotify.com/track/2FhDsHZwgCILLXbpIHOget) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 3:33 |
 | 20 | [EL CRESTA](https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [BAJITA LA TENAZA](https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd) | 3:18 |
 | 21 | [Bohemio de Afición \- En Vivo](https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 2:57 |
-| 22 | [Soy Rencoroso](https://open.spotify.com/track/50ocU9plfD2wa1j6NmClEj) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:15 |
+| 22 | [Cabezones Azules](https://open.spotify.com/track/05y6GAASJNXAOAyk4dZVKQ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Cabezones Azules](https://open.spotify.com/album/1Lkokal6RcHYzxDfqMrPY9) | 3:36 |
 | 23 | [Jardin Verde](https://open.spotify.com/track/2hO3w9dSz1FLgzXFdA0Bzv) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:29 |
-| 24 | [Cabezones Azules](https://open.spotify.com/track/05y6GAASJNXAOAyk4dZVKQ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Cabezones Azules](https://open.spotify.com/album/1Lkokal6RcHYzxDfqMrPY9) | 3:36 |
+| 24 | [Soy Rencoroso](https://open.spotify.com/track/50ocU9plfD2wa1j6NmClEj) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:15 |
 | 25 | [Quintana Roo](https://open.spotify.com/track/527qFT8pKSgaULC82IAuCs) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 3:10 |
 | 26 | [El Taliban](https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Taliban](https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r) | 3:04 |
 | 27 | [48th Piso](https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [48th Piso](https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj) | 2:02 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 29 | [Andaba En Pausa](https://open.spotify.com/track/5fMmWArt0QdYewK6HKE4Tq) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Los DL Mar](https://open.spotify.com/artist/6mXXpIAnRDVzhPDludHYRf) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 3:11 |
 | 30 | [Vivo En Los Angeles](https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 3:26 |
 | 31 | [6 Colores](https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:47 |
-| 32 | [Carta A Mi Familia](https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:51 |
-| 33 | [Cuando Me Faltaban](https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:56 |
-| 34 | [De Botas O Gabanas](https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [De Botas O Gabanas](https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp) | 2:50 |
+| 32 | [De Texas A California](https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:15 |
+| 33 | [De Botas O Gabanas](https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [De Botas O Gabanas](https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp) | 2:50 |
+| 34 | [Cuando Me Faltaban](https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:56 |
 | 35 | [Mujer Paseada \- En Vivo](https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:03 |
-| 36 | [De Texas A California](https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:15 |
+| 36 | [Carta A Mi Familia](https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:51 |
 | 37 | [Willy Checks](https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:07 |
 | 38 | [La Casa De La Esquina](https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Casa De La Esquina](https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP) | 1:57 |
 | 39 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 49 | [Recordando La Sierra](https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 3:02 |
 | 50 | [COMPTON](https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:45 |
 
-Snapshot ID: `aHbrgAAAAAAtToQV0p536DxExgFBz5FA`
+Snapshot ID: `aHg9AAAAAACNFLj5hAarUlf34ZgK4Yu5`

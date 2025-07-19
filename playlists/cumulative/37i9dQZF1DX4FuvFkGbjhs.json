@@ -4425,6 +4425,24 @@
     },
     {
       "album": {
+        "name": "HOLY",
+        "url": "https://open.spotify.com/album/1L8q0DB5CzUO91LWy8dyER"
+      },
+      "artists": [
+        {
+          "name": "Dayana",
+          "url": "https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183535,
+      "name": "HOLY",
+      "url": "https://open.spotify.com/track/0hvdFZHa5Q84E1PEysUE5y"
+    },
+    {
+      "album": {
         "name": "Paradise Now",
         "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
       },

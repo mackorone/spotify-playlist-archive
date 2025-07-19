@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,333 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,435 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 66 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
 | 67 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |
 | 68 | [Something More](https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:18 |
-| 69 | [My Dreaming Hill](https://open.spotify.com/track/6WwaIdQ1Ub79fsgwM5k2CK) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 6:12 |
-| 70 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
+| 69 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
+| 70 | [My Dreaming Hill](https://open.spotify.com/track/6WwaIdQ1Ub79fsgwM5k2CK) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 6:12 |
 | 71 | [Dance AM](https://open.spotify.com/track/6MJh7i7sDHNcjXoW0XWP1s) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Dance AM](https://open.spotify.com/album/52R2Lt3CRjW7tvf0slRYtE) | 4:32 |
 | 72 | [A Fading Smile](https://open.spotify.com/track/4zV1IR8ZGLMWgBbVNGnYgd) | [Alcian Blue](https://open.spotify.com/artist/3hIgKWB9U0IMNJsBLfixET) | [Years Too Late](https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v) | 4:20 |
 | 73 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 |
@@ -128,12 +128,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 118 | [For the Kill](https://open.spotify.com/track/7JDoiqNTFEkzHGTUTRz2pG) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Odes to the Void](https://open.spotify.com/album/4i5SFwqCIqlqtNFyYIXojb) | 3:28 |
 | 119 | [Vapour \(Remastered\)](https://open.spotify.com/track/42sZ8Gql4apwiWWXUIrjb4) | [Loop](https://open.spotify.com/artist/0ReGrqp2iQLy9fySkDCIDh) | [A Gilded Eternity \(Remastered\)](https://open.spotify.com/album/1J6jJ8zba2HkQ2Y3BMUO0R) | 6:08 |
 | 120 | [in another way](https://open.spotify.com/track/06G8mgjP4x4q4ctddKbSNe) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [m b v](https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a) | 5:30 |
-| 121 | [Star Roving](https://open.spotify.com/track/0eNeturRjWHoi2SxITY0XC) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Star Roving](https://open.spotify.com/album/6pUMKhdr42lTqhzoqC3CBa) | 5:38 |
+| 121 | [Everyone Knows](https://open.spotify.com/track/5gCMldzBtCPajx3JNLtVB6) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:22 |
 | 122 | [Tastes Like Honey](https://open.spotify.com/track/4t0YSm5foVoTYHLpxoK9t2) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/0ySteqpbwjhNcttU9kiAaw) | 4:41 |
 | 123 | [Sugar & Spice](https://open.spotify.com/track/1ZZr5C2vRZCUCrFtHdtWlT) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sugar & Spice](https://open.spotify.com/album/4ugWYdIKaP1af3MCWzyjU0) | 3:08 |
 | 124 | [In Undertow](https://open.spotify.com/track/4fh4Zjs8KY4LfVUf3JnweG) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [In Undertow](https://open.spotify.com/album/61a1ci1fZ9jmDfXJ33hu5E) | 3:17 |
 | 125 | [Swallow \(EP Version\)](https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 4:53 |
-| 126 | [Everyone Knows](https://open.spotify.com/track/5gCMldzBtCPajx3JNLtVB6) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:22 |
+| 126 | [Star Roving](https://open.spotify.com/track/0eNeturRjWHoi2SxITY0XC) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Star Roving](https://open.spotify.com/album/6pUMKhdr42lTqhzoqC3CBa) | 5:38 |
 | 127 | [Slow Burner](https://open.spotify.com/track/1K8BOrMP2OvhC3nLEghysM) | [Almighty Mighty](https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e) | [Slow Burner](https://open.spotify.com/album/6ebK1vEcESDStL6bMvnsQw) | 5:18 |
 | 128 | [Solar Song](https://open.spotify.com/track/46gX5K76xOjp80hRROhuKy) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Écailles de lune](https://open.spotify.com/album/67g2ZVpS6tLus7uvIt5dZT) | 5:24 |
 | 129 | [She Rides the Waves \(John Peel Sessions\)](https://open.spotify.com/track/4bK5kA6fYm1QjdfQsyFQvA) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [The Comforts of Madness \(30th Anniversary Reissue\)](https://open.spotify.com/album/7xQDvA5N69lyWSRyQnUtBF) | 1:52 |

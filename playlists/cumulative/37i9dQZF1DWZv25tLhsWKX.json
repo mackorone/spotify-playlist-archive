@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Walking On The Edge",
+        "url": "https://open.spotify.com/album/4nT3ippvZML5sJlOzsD3ht"
+      },
+      "artists": [
+        {
+          "name": "Sons of Legion",
+          "url": "https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267053,
+      "name": "Walking On The Edge",
+      "url": "https://open.spotify.com/track/3K6poepPfveodD8NQq1R0X"
+    },
+    {
+      "album": {
         "name": "The Best of Percy Sledge",
         "url": "https://open.spotify.com/album/1Nyr1yLuCndptRRMZ0wmlP"
       },

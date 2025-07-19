@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Trunks",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Boaventura",
   "name": "Dose Trap",
   "tracks": [
+    {
+      "album": {
+        "name": "\" INVIS\u00cdVEL \"",
+        "url": "https://open.spotify.com/album/6r6CF8HNDKqZxwYHD6yW1r"
+      },
+      "artists": [
+        {
+          "name": "Vyne",
+          "url": "https://open.spotify.com/artist/3ikRBDxosTEYZHi2pnXoub"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142434,
+      "name": "\" INVIS\u00cdVEL \"",
+      "url": "https://open.spotify.com/track/1zQsQqy8QCKO16wlacYmgW"
+    },
     {
       "album": {
         "name": "##BE4REAL",
@@ -2100,6 +2122,32 @@
       "duration_ms": 133507,
       "name": "Alt\u00edssimo",
       "url": "https://open.spotify.com/track/1MqDwcQP4qOVSR2SnB9qnl"
+    },
+    {
+      "album": {
+        "name": "Alvo",
+        "url": "https://open.spotify.com/album/40kVaqAwkXZqex3ZNkcVoD"
+      },
+      "artists": [
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "DSR",
+          "url": "https://open.spotify.com/artist/79TTYxMKrND5NcKFUbpuTQ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94222,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/3fu29XDWtWRxc78fJ7Lc54"
     },
     {
       "album": {
@@ -5184,7 +5232,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 261825,
       "name": "Bombay",
       "url": "https://open.spotify.com/track/7xOZEfVDgkQ57eh9xJprh7"
@@ -6352,6 +6400,40 @@
       "duration_ms": 198724,
       "name": "Cara Dura",
       "url": "https://open.spotify.com/track/3VkMpucpevh2Hn4rFvXsis"
+    },
+    {
+      "album": {
+        "name": "Cara Fechada",
+        "url": "https://open.spotify.com/album/30OhLLuz5LQaq8Dq6layQ9"
+      },
+      "artists": [
+        {
+          "name": "Badazz",
+          "url": "https://open.spotify.com/artist/6Z7gyYX48yvQJeoD6YvwqH"
+        },
+        {
+          "name": "Thisc",
+          "url": "https://open.spotify.com/artist/4HLKeS9sCaroBapSqTbVFf"
+        },
+        {
+          "name": "Mattyahu",
+          "url": "https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        },
+        {
+          "name": "Prod.Chipzz",
+          "url": "https://open.spotify.com/artist/034hICE3RKwd6hmV7N383u"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270422,
+      "name": "Cara Fechada",
+      "url": "https://open.spotify.com/track/2sgajBu5Xx9VBPEERCY8JE"
     },
     {
       "album": {
@@ -12501,6 +12583,28 @@
     },
     {
       "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/6mSGXrTsXeTyJ0EPVcTrSQ"
+      },
+      "artists": [
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Lipinho Oficial",
+          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127179,
+      "name": "Ela dnv",
+      "url": "https://open.spotify.com/track/7vSYTqtWg25hEOjEz4l61q"
+    },
+    {
+      "album": {
         "name": "Ela gosta",
         "url": "https://open.spotify.com/album/7EyXEHkVI5GEw8dGLtUZVC"
       },
@@ -12524,7 +12628,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 140307,
       "name": "Ela gosta",
       "url": "https://open.spotify.com/track/1OUWKVNdjm2fjoh2MympNH"
@@ -15828,7 +15932,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 122831,
       "name": "Fujifilm",
       "url": "https://open.spotify.com/track/5sSIL26rpQ208K9gxdDgGF"
@@ -25822,7 +25926,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 111955,
       "name": "OSK",
       "url": "https://open.spotify.com/track/7DKgcOtcCKEqlqSVv2Wx0A"

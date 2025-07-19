@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342535,
+  "num_followers": 342544,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Keep on Moving",
-        "url": "https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy"
-      },
-      "artists": [
-        {
-          "name": "Kastuvas",
-          "url": "https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "Keep on Moving",
-      "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 160849,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Keep on Moving",
+        "url": "https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy"
+      },
+      "artists": [
+        {
+          "name": "Kastuvas",
+          "url": "https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Keep on Moving",
+      "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
     },
     {
       "added_at": "2025-02-14 16:04:15",

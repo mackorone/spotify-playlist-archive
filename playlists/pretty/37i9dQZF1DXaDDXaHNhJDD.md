@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Finest collection of Malayalam Music from the past 10 years Cover : Thudarum
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,643 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,720 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 21 | [Nyabagam](https://open.spotify.com/track/6UhmvgtRBBhjdReJbilMem) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm), [Sindoora Jishnu](https://open.spotify.com/artist/1eT2WBZM7bUwaSBmDBhigO) | [Varshangalkku Shesham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EqiK7RdZWRqk8X1yC9oXs) | 3:47 |
 | 22 | [Tharam](https://open.spotify.com/track/1KVjiCSWmJnvxUCWL3hp2S) | [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg), [Santhosh Varma](https://open.spotify.com/artist/57muzX4Ow2NbBL4nOa5bvp) | [Shikkari Shambhu](https://open.spotify.com/album/0VaJjqiL2fkajtCHcSbcFt) | 3:44 |
 | 23 | [Neeyilla Neram](https://open.spotify.com/track/150QIbzsnzGQLLcXVbJaXQ) | [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [LUCA](https://open.spotify.com/album/4xfJ7sRBl9WgJuTB5oASJ8) | 3:36 |
-| 24 | [Nee Himamazhayayi \- From "Edakkad Battalion 06"](https://open.spotify.com/track/0BCaEJQFk94ushm4Jc97Vo) | [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [Nee Himamazhayayi \(From "Edakkad Battalion 06"\)](https://open.spotify.com/album/6k4bzogIhV1Xl2Trbiuq9k) | 5:04 |
+| 24 | [Nee Himamazhayayi \- From "Edakkad Battalion 06"](https://open.spotify.com/track/0BCaEJQFk94ushm4Jc97Vo) | [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [Nee Himamazhayayi \(From "Edakkad Battalion 06"\)](https://open.spotify.com/album/6k4bzogIhV1Xl2Trbiuq9k) | 5:04 |
 | 25 | [Aaro Nenjil](https://open.spotify.com/track/6YINoRUOzEFYOnGwOafdEI) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Godha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fK4A4OH1dG8XNCQ2KtpZQ) | 4:27 |
 | 26 | [Nagumo](https://open.spotify.com/track/7dcXGzIAaoe19A6kgnrCaQ) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Arvind Venugopal](https://open.spotify.com/artist/3HVwgnV1o8772u3BtdhcHF) | [Hridayam \(Side B\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6nuAnvIVNkw6pwqzuF2GJG) | 2:39 |
 | 27 | [Venmegham \- From "2018"](https://open.spotify.com/track/1GcMVclJHbwwbGC6zBc2bJ) | [Nobin Paul](https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf), [Joe Paul](https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [2018 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3J2gTFZt1B5DITYXVXCEes) | 3:15 |

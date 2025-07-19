@@ -2199,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "BIG BANDS - The 7th Mini Album",
+        "url": "https://open.spotify.com/album/7bznUQPHdmQnEPx0AjC9qI"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "BIG BANDS - Korean Version",
+      "url": "https://open.spotify.com/track/65ivb51ZNPZzsuea4qL3QX"
+    },
+    {
+      "album": {
         "name": "bomb",
         "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
       },
@@ -7828,7 +7846,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 202000,
       "name": "Fly to the youth (feat. YUQI)",
       "url": "https://open.spotify.com/track/4bBAhOKM5yayK3z5y2wL6J"

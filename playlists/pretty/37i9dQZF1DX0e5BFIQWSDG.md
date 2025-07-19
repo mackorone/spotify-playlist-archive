@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Sicario
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,188 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,326 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 28 | [DEMON II](https://open.spotify.com/track/1Dq9yztl0OSwtNMIytx1xP) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [VICE CITY](https://open.spotify.com/album/1icTqcbOlU00sFNbEKNI0G) | 3:12 |
 | 29 | [Gia Sena](https://open.spotify.com/track/5DfPEPrd3BoWL0NnwPlpTw) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Grandbois](https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm) | [Gia Sena](https://open.spotify.com/album/0xh2nXqadeywn61LgjmOe7) | 2:57 |
 | 30 | [Ximeia](https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Ximeia](https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ) | 3:13 |
-| 31 | [GRISELDA](https://open.spotify.com/track/1f8q0UF64hUKlEezIzIc4N) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [GRISELDA](https://open.spotify.com/album/1lZIZU7UJjGC2o3Bq3i1B3) | 2:10 |
+| 31 | [GRISELDA](https://open.spotify.com/track/1f8q0UF64hUKlEezIzIc4N) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [VIDO](https://open.spotify.com/artist/6sxb4bGpNLFGZKUzrWc7ZJ) | [GRISELDA](https://open.spotify.com/album/1lZIZU7UJjGC2o3Bq3i1B3) | 2:10 |
 | 32 | [Kati Xereis](https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Kati Xereis](https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w) | 2:44 |
 | 33 | [FENOMENO](https://open.spotify.com/track/51i9nwjFcApOFpVFhAQZzk) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Kest](https://open.spotify.com/artist/2EnhdBc8wuBfUBIWDBVjEv) | [FENOMENO](https://open.spotify.com/album/6WanYajraCQ2b9zbOhkpao) | 2:35 |
 | 34 | [Ax Kardia Mou](https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Ax Kardia Mou](https://open.spotify.com/album/12DviWYgAjScvO1TTpoUnf) | 2:59 |

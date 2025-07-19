@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,645 likes - 305 songs - 16 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,646 likes - 305 songs - 16 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,9 +108,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 98 | [City That Never Sleeps](https://open.spotify.com/track/2jv9q6oVcAlrVLk9QEmzar) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [City That Never Sleeps](https://open.spotify.com/album/6FBlk7tAhSkKtzslsX7Xce) | 2:44 |
 | 99 | [Feels](https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Feels](https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK) | 2:27 |
 | 100 | [Always \- Route 94 Radio Edit](https://open.spotify.com/track/53xHlKNBZQSeZFfoV8d9v7) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Alana](https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u) | [Always \[feat\. Alana\] \(Route 94 Radio Edit\)](https://open.spotify.com/album/4Kcs3dTM6kutcRMlAY2M5y) | 3:01 |
-| 101 | [Tongue](https://open.spotify.com/track/6TYyyYYfOYGAvCJQQVrY8y) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:28 |
-| 102 | [Don't Wanna Dance](https://open.spotify.com/track/6b56B8Ew3d0WDnd4Vq01Gh) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Don't Wanna Dance](https://open.spotify.com/album/3KY9oIQZYFg1w2h2DQFmpz) | 2:49 |
-| 103 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
+| 101 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
+| 102 | [Tongue](https://open.spotify.com/track/6TYyyYYfOYGAvCJQQVrY8y) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:28 |
+| 103 | [Don't Wanna Dance](https://open.spotify.com/track/6b56B8Ew3d0WDnd4Vq01Gh) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Don't Wanna Dance](https://open.spotify.com/album/3KY9oIQZYFg1w2h2DQFmpz) | 2:49 |
 | 104 | [Entirety](https://open.spotify.com/track/7Cu9VJOK9A0gJtTTLbJ9GU) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Entirety](https://open.spotify.com/album/32LE97oCqz8Nw0DvJOK1PT) | 3:08 |
 | 105 | [Feel Good \(It's Alright\) \(feat\. Karen Harding\)](https://open.spotify.com/track/46VKKXfpbJDi9aqhomNFrZ) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Feel Good \(It's Alright\) \[feat\. Karen Harding\]](https://open.spotify.com/album/0NQhCyUDNtZvd7pVBiHP4I) | 3:11 |
 | 106 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
@@ -314,4 +314,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 304 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 | 305 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `Ab3DFAAAAABwo3myqB9cHDkqseyW8yqd`
+Snapshot ID: `Ab3I0gAAAACTYLWu/2MxS26lKymZZ8nN`

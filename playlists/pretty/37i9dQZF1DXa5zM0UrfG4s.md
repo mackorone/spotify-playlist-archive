@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,375 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,393 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 48 | [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 |
 | 49 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 |
 | 50 | [Naboen har operert kona si](https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [Naboen har operert kona si](https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE) | 2:30 |
-| 51 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 |
-| 52 | [GUT OG KAR](https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF) | [Skei & PT](https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV), [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC) | [GUT OG KAR](https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e) | 3:07 |
+| 51 | [GUT OG KAR](https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF) | [Skei & PT](https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV), [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC) | [GUT OG KAR](https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e) | 3:07 |
+| 52 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 |
 | 53 | [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 |
 | 54 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
 | 55 | [Cowgirl](https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:20 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 65 | [Hva skjedde i går](https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Hva skjedde i går](https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD) | 2:46 |
 | 66 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
 | 67 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
-| 68 | [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 |
-| 69 | [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 |
-| 70 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 |
+| 68 | [Helt til slutt](https://open.spotify.com/track/5CyQYGN0RmJRkql6qdyNMK) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Lekeland](https://open.spotify.com/artist/4WB8tsKNvtX2CtAs3lvLyZ), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Helt til slutt](https://open.spotify.com/album/7IhaD1xpp1iBIALvtD5mn7) | 2:09 |
+| 69 | [Se dig naken igen](https://open.spotify.com/track/7CyHiCbqRj4RokUXYbHndJ) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Se dig naken igen](https://open.spotify.com/album/30YVIl0fpuUAH1IrILSvJQ) | 2:16 |
+| 70 | [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 |
 
 Snapshot ID: `aHlyfAAAAAB23/XUQ+i2xcqBgieoYxPi`

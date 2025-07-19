@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Acopia",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Fade Evare",
   "name": "Cph+",
   "tracks": [
     {
@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 237540,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/1F9eoTtJcbxIlCY0o0Imsp"
@@ -1917,6 +1917,42 @@
     },
     {
       "album": {
+        "name": "second place",
+        "url": "https://open.spotify.com/album/5gYgcCmZo9BaWmvyW4ZX2k"
+      },
+      "artists": [
+        {
+          "name": "soki yue",
+          "url": "https://open.spotify.com/artist/3pSvLi87jU6OWr1zk8lBj9"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165391,
+      "name": "second place",
+      "url": "https://open.spotify.com/track/1fbOvCYi48oNtnUvTU3Khr"
+    },
+    {
+      "album": {
+        "name": "Welcome Back",
+        "url": "https://open.spotify.com/album/7MCIpeJrXNn3KnKTtmwSKh"
+      },
+      "artists": [
+        {
+          "name": "Fade Evare",
+          "url": "https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270326,
+      "name": "Send Me Out",
+      "url": "https://open.spotify.com/track/4eRdQSJXcfsgkQxG5sEanc"
+    },
+    {
+      "album": {
         "name": "Should've known better (choices)",
         "url": "https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP"
       },
@@ -1964,7 +2000,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 185581,
       "name": "Sky Writing",
       "url": "https://open.spotify.com/track/5KeFtENdNGpvvsdXq9lddW"

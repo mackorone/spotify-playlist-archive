@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Top trending country tracks from the last few months. Cover: BigXthaPlug and Shaboozey",
+  "description": "Top trending country tracks from the last few months. Cover: Dylan Scott",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 178326,
       "name": "All I Forgot (feat. Joe Jonas)",
       "url": "https://open.spotify.com/track/4fuLKB0OQsrvsPh9lQWepR"
@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 216718,
       "name": "Country in the Clouds",
       "url": "https://open.spotify.com/track/7FjO69pOVGMhZMEeMsPWkT"
@@ -2610,7 +2610,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 240437,
       "name": "Drunk Love",
       "url": "https://open.spotify.com/track/18ZbxBOI520oLWi4SlIblW"
@@ -5273,6 +5273,24 @@
     },
     {
       "album": {
+        "name": "Leaving Carolina",
+        "url": "https://open.spotify.com/album/5LXXVatilaIfc7XayYVhMe"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225374,
+      "name": "Leaving Carolina",
+      "url": "https://open.spotify.com/track/5smjahcnDCjHK53UeG4YRt"
+    },
+    {
+      "album": {
         "name": "Left You For Me",
         "url": "https://open.spotify.com/album/03gbxBbvrYa9tfMtBOorEj"
       },
@@ -5407,6 +5425,24 @@
     },
     {
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/72z8nsQyY1ncs5b7fodeYQ"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174709,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/2SF6DL81zTodxZPW7m3VHl"
+    },
+    {
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -5498,6 +5534,24 @@
       "duration_ms": 190680,
       "name": "Love Like",
       "url": "https://open.spotify.com/track/6rdmyLJtIibFRaCU7XRg3x"
+    },
+    {
+      "album": {
+        "name": "Love Me Tonight",
+        "url": "https://open.spotify.com/album/49mkNoZXgbUHUnB97bfP4e"
+      },
+      "artists": [
+        {
+          "name": "Jay Webb",
+          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202370,
+      "name": "Love Me Tonight",
+      "url": "https://open.spotify.com/track/2xtJzZk0TkqB3wD6qaNKuw"
     },
     {
       "album": {
@@ -6538,7 +6592,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 175973,
       "name": "Nose On The Grindstone",
       "url": "https://open.spotify.com/track/41qeQaiSa09dPsGzgechek"
@@ -6744,6 +6798,24 @@
       "duration_ms": 206864,
       "name": "One Thing At A Time",
       "url": "https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE"
+    },
+    {
+      "album": {
+        "name": "Oneida",
+        "url": "https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278213,
+      "name": "Oneida",
+      "url": "https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x"
     },
     {
       "album": {
@@ -9400,6 +9472,24 @@
       "duration_ms": 237200,
       "name": "Watching You 2.0",
       "url": "https://open.spotify.com/track/5mMzJ5hJop4tKupdj2Dr21"
+    },
+    {
+      "album": {
+        "name": "Water At A Wedding",
+        "url": "https://open.spotify.com/album/2Kjy6rn4SiL3N4tnMpHbHE"
+      },
+      "artists": [
+        {
+          "name": "Greylan James",
+          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213315,
+      "name": "Water At A Wedding",
+      "url": "https://open.spotify.com/track/6h1vhmOA7RdRQACZ0yjGDq"
     },
     {
       "album": {

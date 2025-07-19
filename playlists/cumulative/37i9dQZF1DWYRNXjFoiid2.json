@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 122221,
       "name": "Hex",
       "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
@@ -5880,7 +5880,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 131467,
       "name": "Pinky Swear?",
       "url": "https://open.spotify.com/track/4Yvu5lwTuoxmesv3oizLRa"
@@ -6895,6 +6895,28 @@
     },
     {
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219749,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn"
+    },
+    {
+      "album": {
         "name": "Stateside",
         "url": "https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z"
       },
@@ -6990,6 +7012,28 @@
       "duration_ms": 126969,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
+    },
+    {
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147451,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M"
     },
     {
       "album": {
@@ -7340,7 +7384,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
@@ -8320,6 +8364,24 @@
       "duration_ms": 189727,
       "name": "Wandered To LA (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5J6rTmMjF9DVIAF8G3M9n4"
+    },
+    {
+      "album": {
+        "name": "Wanna Play",
+        "url": "https://open.spotify.com/album/1c2bb7hltrw7luhWlyM0Tk"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172208,
+      "name": "Wanna Play",
+      "url": "https://open.spotify.com/track/4gdWFUGosyJpTIpnnwU901"
     },
     {
       "album": {

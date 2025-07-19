@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Keep it Punjabi, keep it real. Cover: Shubh",
+  "description": "Keep it Punjabi, keep it real. Cover: Prince Narula ",
   "name": "Ghaint Flow",
   "tracks": [
     {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 128155,
       "name": "A To Z",
       "url": "https://open.spotify.com/track/2FockdBcn1bP5TffQyk2Vz"
@@ -6693,6 +6693,24 @@
     },
     {
       "album": {
+        "name": "Jawani",
+        "url": "https://open.spotify.com/album/704hfPfdqUbNWyY2Nt20cz"
+      },
+      "artists": [
+        {
+          "name": "Tippu Sultan",
+          "url": "https://open.spotify.com/artist/5CLrCvwdH6ZNjrcqx4XnzN"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Jawani",
+      "url": "https://open.spotify.com/track/3oscAAxcjgxBGBabso3kqi"
+    },
+    {
+      "album": {
         "name": "Jazbaat",
         "url": "https://open.spotify.com/album/64qpkJf1ndfxiSDXpykzxi"
       },
@@ -7138,7 +7156,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 178500,
       "name": "Kangni",
       "url": "https://open.spotify.com/track/1dcKwzZXeFL9PdUmKR2uwH"
@@ -11122,6 +11140,32 @@
       "duration_ms": 178102,
       "name": "Responsible",
       "url": "https://open.spotify.com/track/50PVqUQXKUG5CvtJUowAfl"
+    },
+    {
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/7EUSZsjZiW53ClBO9pKlX5"
+      },
+      "artists": [
+        {
+          "name": "Prince Narula",
+          "url": "https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II"
+        },
+        {
+          "name": "Janta Toor",
+          "url": "https://open.spotify.com/artist/2vqw9iwCdfBW0CAKm2hc3K"
+        },
+        {
+          "name": "Preet Hundal",
+          "url": "https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/06sshfxgOdyohmTTissULJ"
     },
     {
       "album": {

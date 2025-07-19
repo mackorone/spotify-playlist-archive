@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Mooi van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,575 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,585 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 6 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 |
 | 7 | [Bij Deze](https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Bij Deze](https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek) | 2:48 |
 | 8 | [Kom Je Me Halen](https://open.spotify.com/track/66t9LXJ9dSziqLlnAukBn3) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Kom Je Me Halen](https://open.spotify.com/album/5KoWzJLpcVMGdasgczfUtS) | 3:11 |
-| 9 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
-| 10 | [Tussen Jou en Mij](https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6) | [Willem & Jan](https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tussen Jou en Mij](https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm) | 2:58 |
+| 9 | [Tussen Jou en Mij](https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6) | [Willem & Jan](https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tussen Jou en Mij](https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm) | 2:58 |
+| 10 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
 | 11 | [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 |
 | 12 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 |
 | 13 | [Morgen Wordt Fantastisch](https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Morgen Wordt Fantastisch](https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61) | 2:38 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 42 | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6) | 4:10 |
 | 43 | [Alleen Maar Jou](https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Alleen Maar Jou](https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0) | 3:13 |
 | 44 | [Mes In M'n Rug](https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2024 \(Aflevering 4\- SERA\)](https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V) | 2:57 |
-| 45 | [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 |
-| 46 | [Ik Heb Het Altijd Al Geweten](https://open.spotify.com/track/2njW15Fh9UeTzEFof6FTVY) | [Sani van Mullem](https://open.spotify.com/artist/37xCqbiUuhlWWEfPsjJe0O) | [Ik Heb Het Altijd Al Geweten](https://open.spotify.com/album/1eojJp3XzyKFnRuCRKeNYZ) | 3:04 |
+| 45 | [Ik Heb Het Altijd Al Geweten](https://open.spotify.com/track/2njW15Fh9UeTzEFof6FTVY) | [Sani van Mullem](https://open.spotify.com/artist/37xCqbiUuhlWWEfPsjJe0O) | [Ik Heb Het Altijd Al Geweten](https://open.spotify.com/album/1eojJp3XzyKFnRuCRKeNYZ) | 3:04 |
+| 46 | [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 |
 | 47 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 |
 | 48 | [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 |
 | 49 | [Droom Een Beetje Meer](https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Droom Een Beetje Meer](https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt) | 3:25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Goyo & Greeicy",
+  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Hamilton & Farruko",
   "name": "Afro Ritmo",
   "tracks": [
     {
@@ -2509,6 +2509,50 @@
     },
     {
       "album": {
+        "name": "La Ruta",
+        "url": "https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161181,
+      "name": "La Ruta",
+      "url": "https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct"
+    },
+    {
+      "album": {
+        "name": "Laho III",
+        "url": "https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Laho III",
+      "url": "https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
       },
@@ -3534,6 +3578,28 @@
       "duration_ms": 200869,
       "name": "No Eres Para M\u00ed",
       "url": "https://open.spotify.com/track/72Vber9fOVazt2HqIr1NdW"
+    },
+    {
+      "album": {
+        "name": "No Esperes",
+        "url": "https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Shine TTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194347,
+      "name": "No Esperes",
+      "url": "https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i"
     },
     {
       "album": {

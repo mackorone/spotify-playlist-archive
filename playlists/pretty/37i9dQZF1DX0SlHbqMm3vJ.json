@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Fave",
-  "num_followers": 253881,
+  "num_followers": 253904,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
         "name": "Ifeoma",
         "url": "https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx"
       },
@@ -507,6 +523,22 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
+        "name": "Bad Boy Good Lover",
+        "url": "https://open.spotify.com/album/62f6dBkd70E23CWhFFG04t"
+      },
+      "artists": [
+        {
+          "name": "Thutmose",
+          "url": "https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d"
+        }
+      ],
+      "duration_ms": 130529,
+      "name": "Bad Boy Good Lover",
+      "url": "https://open.spotify.com/track/0VNXFNNEjyHLO1rm8SbUvd"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
         "name": "Constantly",
         "url": "https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O"
       },
@@ -527,38 +559,6 @@
       "duration_ms": 193567,
       "name": "Constantly",
       "url": "https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "Bad Boy Good Lover",
-        "url": "https://open.spotify.com/album/62f6dBkd70E23CWhFFG04t"
-      },
-      "artists": [
-        {
-          "name": "Thutmose",
-          "url": "https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d"
-        }
-      ],
-      "duration_ms": 130529,
-      "name": "Bad Boy Good Lover",
-      "url": "https://open.spotify.com/track/0VNXFNNEjyHLO1rm8SbUvd"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "London Summers",
-        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "London Summers",
-      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "Wrong Places",
         "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 177600,
       "name": "Wrong Places",
       "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "London Summers",
+        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "London Summers",
+      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "Obimo",
-        "url": "https://open.spotify.com/album/029jK5j2qqcKKn4vMTm5o9"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "Obimo",
-      "url": "https://open.spotify.com/track/0YfgKt9WlVCXPEx0HGvrds"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "Soundgod Fest IV",
         "url": "https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 128660,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "Obimo",
+        "url": "https://open.spotify.com/album/029jK5j2qqcKKn4vMTm5o9"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "Obimo",
+      "url": "https://open.spotify.com/track/0YfgKt9WlVCXPEx0HGvrds"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "Still The Mayor",
-        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Diamonds (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/09JFIHQ8IPDKrbaDxTICxY"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 170666,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "Still The Mayor",
+        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Diamonds (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/09JFIHQ8IPDKrbaDxTICxY"
     },
     {
       "added_at": "2025-07-18 00:01:20",

@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: JENNIE",
-  "num_followers": 4077200,
+  "num_followers": 4076971,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -901,26 +901,6 @@
       "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Aquamarine / Arcamarine",
-        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 194180,
-      "name": "Aquamarine / Arcamarine",
-      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
@@ -943,6 +923,26 @@
       "duration_ms": 125280,
       "name": "Do It To It - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Aquamarine / Arcamarine",
+        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 194180,
+      "name": "Aquamarine / Arcamarine",
+      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1385,26 +1385,6 @@
       "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
     },
     {
-      "added_at": "2024-09-13 18:27:00",
-      "album": {
-        "name": "I Can Do It With a Broken Heart (Dombresky Remix)",
-        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 189391,
-      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
-      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Players",
@@ -1447,6 +1427,26 @@
       "duration_ms": 234411,
       "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
+    },
+    {
+      "added_at": "2024-09-13 18:27:00",
+      "album": {
+        "name": "I Can Do It With a Broken Heart (Dombresky Remix)",
+        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
     },
     {
       "added_at": "2025-02-27 16:42:59",

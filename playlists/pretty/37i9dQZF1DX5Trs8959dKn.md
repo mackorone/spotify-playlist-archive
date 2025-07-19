@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,019 likes - 50 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,076 likes - 50 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 42 | [Father](https://open.spotify.com/track/2PnfKLfeJbVjRtGYrAXPPM) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Fathered by the best](https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY) | 4:45 |
 | 43 | [Onye \(Here by Your Grace\)](https://open.spotify.com/track/75POWlcXylJsi50mqHxRoY) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Onye \(Here by Your Grace\)](https://open.spotify.com/album/0qx0uFWGKK1OK9qlwGCRYq) | 8:16 |
 | 44 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 |
-| 45 | [Let It Rain](https://open.spotify.com/track/79GIdsRB1B2nQ8RIWVpG1I) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 7:35 |
-| 46 | [EYES ON JESUS](https://open.spotify.com/track/4jVxnz2MZ2Cpbj6XzW1OPu) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [EYES ON JESUS](https://open.spotify.com/album/6oUEpWrV8phxswXk4Tc1EP) | 12:06 |
+| 45 | [EYES ON JESUS](https://open.spotify.com/track/4jVxnz2MZ2Cpbj6XzW1OPu) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [EYES ON JESUS](https://open.spotify.com/album/6oUEpWrV8phxswXk4Tc1EP) | 12:06 |
+| 46 | [Let It Rain](https://open.spotify.com/track/79GIdsRB1B2nQ8RIWVpG1I) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 7:35 |
 | 47 | [Kumama](https://open.spotify.com/track/3DhC1to2LhIihmWtufsGIA) | [ABOSEDE](https://open.spotify.com/artist/6gzSZLr4GiPCcW4WWWcXoS) | [Kumama](https://open.spotify.com/album/1roldFx55pNuxcmyy1o3U6) | 1:32 |
 | 48 | [So Good](https://open.spotify.com/track/0SHtiTJHKedzCfu32dIFQ7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Fearless Wrshp](https://open.spotify.com/album/0qUGI3RkYQIKuIXhrPE9Fd) | 6:13 |
 | 49 | [Dry Bones](https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Dry Bones](https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g) | 11:31 |
-| 50 | [Baba](https://open.spotify.com/track/0H5lLW8qybOadIxSO730jY) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Lost in His Glory](https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5) | 5:55 |
+| 50 | [Kabi O Osi O](https://open.spotify.com/track/7wvd86p1SSGKhb6iLRMCG2) | [Victor Olayeni](https://open.spotify.com/artist/0TRdYFzxaxrp8DCiBp4UiR) | [Life and Worship Chapter 1](https://open.spotify.com/album/09CZxo7F03KAMVuGwKQz9X) | 4:17 |
 
 Snapshot ID: `Z+uKdQAAAAAhbPecuQgS/+FQObtZVjrF`

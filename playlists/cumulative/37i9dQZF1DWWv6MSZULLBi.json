@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Adam Klobi",
+  "description": "A laid-back trip in the folk scene. Cover: Georgia Harmer",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -326,6 +326,24 @@
       "duration_ms": 256000,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
+    },
+    {
+      "album": {
+        "name": "Aches and Breaks",
+        "url": "https://open.spotify.com/album/79HHbHJW8emSzzDufMmjaA"
+      },
+      "artists": [
+        {
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129890,
+      "name": "Aches and Breaks",
+      "url": "https://open.spotify.com/track/6GkgsEHMp9nWybnGkPTvnw"
     },
     {
       "album": {
@@ -2640,7 +2658,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 208109,
       "name": "Broke Skin",
       "url": "https://open.spotify.com/track/5fQMaOutNKEkqrxEAtq4uC"
@@ -3954,7 +3972,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 243403,
       "name": "Cowboys of Los",
       "url": "https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc"
@@ -4871,6 +4889,28 @@
     },
     {
       "album": {
+        "name": "Don't Wake Me Up [Feat. Jesse Welles]",
+        "url": "https://open.spotify.com/album/0FU6mSNsf8fDlQGQhwIg2M"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253561,
+      "name": "Don't Wake Me Up [Feat. Jesse Welles]",
+      "url": "https://open.spotify.com/track/28Lt8UhUhJLgGsJQpDEJDE"
+    },
+    {
+      "album": {
         "name": "Don't Listen to Me",
         "url": "https://open.spotify.com/album/06dXUUq97AhxSoKp5x5rgt"
       },
@@ -5138,7 +5178,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 167530,
       "name": "Easter Island",
       "url": "https://open.spotify.com/track/69u13cqyVRR4vlMkcsT81C"
@@ -5218,6 +5258,24 @@
       "duration_ms": 141773,
       "name": "Easy Violence",
       "url": "https://open.spotify.com/track/5ej9MfgSDNbc1qiPfrtIP2"
+    },
+    {
+      "album": {
+        "name": "Easy, Going",
+        "url": "https://open.spotify.com/album/0FEYWbvPfkG4cKkgbokFhV"
+      },
+      "artists": [
+        {
+          "name": "Laura Lucas",
+          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256857,
+      "name": "Easy, Going",
+      "url": "https://open.spotify.com/track/43kDSzOZ8dcXd8OpmaNFYB"
     },
     {
       "album": {
@@ -5380,7 +5438,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 252453,
       "name": "Emily and Me",
       "url": "https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX"
@@ -6203,6 +6261,24 @@
     },
     {
       "album": {
+        "name": "Farmhouse",
+        "url": "https://open.spotify.com/album/4B6oAdwuSKU0IW0z0YyYJD"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227542,
+      "name": "Farmhouse",
+      "url": "https://open.spotify.com/track/2h8NGYVcmhtjdXmgYkpftE"
+    },
+    {
+      "album": {
         "name": "living room sessions 2",
         "url": "https://open.spotify.com/album/3LJZtEJFAbw8SFdANQ2C9X"
       },
@@ -6452,7 +6528,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 172866,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3fBvBMzxJp9LNxkq8dhRY7"
@@ -7056,7 +7132,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 237088,
       "name": "Four Strong Winds",
       "url": "https://open.spotify.com/track/1OfBdmEGmQsM1HNhJtCrPP"
@@ -7962,7 +8038,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 183221,
       "name": "He Has Your Heart",
       "url": "https://open.spotify.com/track/4XNej3qLdWZwDz3ZZajiEi"
@@ -11027,6 +11103,24 @@
     },
     {
       "album": {
+        "name": "Lemon Garland",
+        "url": "https://open.spotify.com/album/5WWXbyxbIGQamPGXBdK5dE"
+      },
+      "artists": [
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191662,
+      "name": "Lemon Garland",
+      "url": "https://open.spotify.com/track/3aYhz0jePYH14KmiHEE9J4"
+    },
+    {
+      "album": {
         "name": "Lesser of the Worst",
         "url": "https://open.spotify.com/album/1jXQIRWe4Hsrm2RgHA4BXe"
       },
@@ -11923,6 +12017,28 @@
     },
     {
       "album": {
+        "name": "Madeline (feat. Gabriella Rose)",
+        "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145146,
+      "name": "Madeline (feat. Gabriella Rose)",
+      "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
+    },
+    {
+      "album": {
         "name": "Maggie",
         "url": "https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA"
       },
@@ -12690,7 +12806,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 136471,
       "name": "Moon, Sea, Devil",
       "url": "https://open.spotify.com/track/3jUvtsuNDIxDLcDfLYjTXN"
@@ -14274,6 +14390,24 @@
       "duration_ms": 299354,
       "name": "Once A Bunch",
       "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
+    },
+    {
+      "album": {
+        "name": "No Silent Monks",
+        "url": "https://open.spotify.com/album/4xYUBosfxtM0xofFQCJnyn"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "One",
+      "url": "https://open.spotify.com/track/6ATGoNeKZih1AhZ8Ossy1H"
     },
     {
       "album": {
@@ -17015,6 +17149,24 @@
     },
     {
       "album": {
+        "name": "Billy Raffoul",
+        "url": "https://open.spotify.com/album/7qg4d56S9VEuBCpfjfuUsZ"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158325,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/6kjYwJ1mfBWABfoYWMiIQC"
+    },
+    {
+      "album": {
         "name": "slow dance in the diner",
         "url": "https://open.spotify.com/album/0m4mFKvycRZ4QstEEjzfKl"
       },
@@ -17640,6 +17792,24 @@
       "duration_ms": 305306,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
+    },
+    {
+      "album": {
+        "name": "Spill My Wine",
+        "url": "https://open.spotify.com/album/6gd0ZuJxPETARwjH6n9q3p"
+      },
+      "artists": [
+        {
+          "name": "Clara Smallman",
+          "url": "https://open.spotify.com/artist/77tfrMyPTZhylacDaqY8SQ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309655,
+      "name": "Spill My Wine",
+      "url": "https://open.spotify.com/track/2i1wCVx8fkd4SqraEb97C5"
     },
     {
       "album": {
@@ -18666,7 +18836,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 131306,
       "name": "Telling Lies",
       "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
@@ -18832,7 +19002,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 207562,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/3EwdutRwI1EhwZn5RrRxHT"
@@ -20003,6 +20173,24 @@
     },
     {
       "album": {
+        "name": "Tongue Tied",
+        "url": "https://open.spotify.com/album/6qaa92H8qSXZXrJy5rXPNh"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146949,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/3xXpLxoBD0x5QglLcRrBto"
+    },
+    {
+      "album": {
         "name": "Too Good to be True",
         "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
       },
@@ -20604,7 +20792,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 242993,
       "name": "Untils",
       "url": "https://open.spotify.com/track/4Dj8DEhu07x2VyGn4jnDyc"
@@ -20860,6 +21048,24 @@
       "duration_ms": 216186,
       "name": "Wasted On You",
       "url": "https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU"
+    },
+    {
+      "album": {
+        "name": "The Cosmic Selector Vol. 1",
+        "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186987,
+      "name": "Watch Me Go",
+      "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
     },
     {
       "album": {

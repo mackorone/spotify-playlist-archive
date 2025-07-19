@@ -2399,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Either",
+        "url": "https://open.spotify.com/album/7m0ZMDJ3lqepjUQJ2KpwsQ"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190630,
+      "name": "Either",
+      "url": "https://open.spotify.com/track/2eXRgdwREO1B8jt5k2n2cW"
+    },
+    {
+      "album": {
         "name": "Finch",
         "url": "https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo"
       },
@@ -2504,6 +2522,24 @@
       "duration_ms": 261005,
       "name": "Fable",
       "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+    },
+    {
+      "album": {
+        "name": "Fair To You",
+        "url": "https://open.spotify.com/album/6nXMgFLI7FcMiDR9OHnLaQ"
+      },
+      "artists": [
+        {
+          "name": "Vincent Lima",
+          "url": "https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218226,
+      "name": "Fair To You",
+      "url": "https://open.spotify.com/track/21ZKNvnpr0ahYMFsTffZCm"
     },
     {
       "album": {
@@ -7280,7 +7316,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 217906,
       "name": "Something Sweet",
       "url": "https://open.spotify.com/track/2PEGdMDXT6J033J8nURr6j"
@@ -8310,6 +8346,24 @@
       "duration_ms": 217966,
       "name": "Time",
       "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219413,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
     },
     {
       "album": {

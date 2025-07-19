@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: verifiziert
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,947 likes - 73 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,177 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 71 | [an mir vorbei](https://open.spotify.com/track/4GkCMFKlylyKIMfsQida90) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [an mir vorbei](https://open.spotify.com/album/1yxFByfea9YFybtgP9wuPf) | 3:01 |
 | 72 | [Feuerkind](https://open.spotify.com/track/56ldjSVqZJ332ntiGLSPvW) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Feuerkind](https://open.spotify.com/album/5zwr0tXhxtJmfvgL1G8BK0) | 3:40 |
 | 73 | [ismiregal](https://open.spotify.com/track/6tnnQ7zSdahtnfOYc4X7fX) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26), [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [ismiregal](https://open.spotify.com/album/1Yaya7TW57MTnlhhOvDeqN) | 4:00 |
+| 74 | [mkgee](https://open.spotify.com/track/4CEfrOIldUMFo9RblPpM95) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [mkgee](https://open.spotify.com/album/7DlnVM0rPlJTCA6elSbKgY) | 2:54 |
+| 75 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
 
-Snapshot ID: `aHlygwAAAADGLcUKBA9Qs+juyfILx1FC`
+Snapshot ID: `aHn2FAAAAADdrh25rrhOoU2fcx7erjGq`

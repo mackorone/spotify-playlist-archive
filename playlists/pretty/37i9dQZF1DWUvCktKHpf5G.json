@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 255569,
+  "num_followers": 255605,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217546,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
         "name": "ROMEO",
         "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
       },
@@ -1027,6 +1043,26 @@
       "duration_ms": 190624,
       "name": "ROMEO",
       "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1055,42 +1091,6 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217546,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 212312,
       "name": "Reggaetonera",
       "url": "https://open.spotify.com/track/6yVkakCN460KOVol9ZazjH"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
-        "name": "Tak Tiki Tak",
-        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        }
-      ],
-      "duration_ms": 212406,
-      "name": "Tak Tiki Tak",
-      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1139,6 +1123,22 @@
       "duration_ms": 202453,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/7JNh1cfm0eXjqFVOzKLyau"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
+        "name": "Tak Tiki Tak",
+        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 212406,
+      "name": "Tak Tiki Tak",
+      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
         "name": "Como mi Nena 2025",
         "url": "https://open.spotify.com/album/1v9NQP8WJtDO5IKXPsZR7y"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 257937,
       "name": "Como mi Nena 2025",
       "url": "https://open.spotify.com/track/6XjzNWpibzE4ylWuIUZOAO"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "DUBAI",
-        "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "DUBAI",
-      "url": "https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -1803,22 +1783,22 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "Panas",
-        "url": "https://open.spotify.com/album/5HETiPl8SfoMxsQLRFoI1C"
+        "name": "DUBAI",
+        "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         },
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
         }
       ],
-      "duration_ms": 247637,
-      "name": "Panas",
-      "url": "https://open.spotify.com/track/1ce0KvZOhRL0O6x1YYQPS8"
+      "duration_ms": 146000,
+      "name": "DUBAI",
+      "url": "https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1839,6 +1819,26 @@
       "duration_ms": 211542,
       "name": "Mu\u00e9vete",
       "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
+        "name": "Panas",
+        "url": "https://open.spotify.com/album/5HETiPl8SfoMxsQLRFoI1C"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 247637,
+      "name": "Panas",
+      "url": "https://open.spotify.com/track/1ce0KvZOhRL0O6x1YYQPS8"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 226010,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 226010,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
     },
     {
       "added_at": "2025-06-20 06:00:35",

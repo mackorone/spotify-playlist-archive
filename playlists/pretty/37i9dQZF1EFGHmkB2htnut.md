@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110 likes - 107 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 114 likes - 107 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 78 | [321](https://open.spotify.com/track/6uXbGI1bxyK8LSdztpcbFV) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [321](https://open.spotify.com/album/2ORKOz6jqkqbE9kRpYRsA8) | 2:53 |
 | 79 | [Space](https://open.spotify.com/track/4on6Xseo0OdXhSsgIW7q6W) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [The Project](https://open.spotify.com/album/4iHXcNSnljATcFMO1UiEDy) | 3:08 |
 | 80 | [Pink Cadillac](https://open.spotify.com/track/5VPLhwxEQ2p6phOQLlUWO9) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Pink Cadillac](https://open.spotify.com/album/4ZnEbHYgAYhq2yyZbyRuH3) | 3:28 |
-| 81 | [good, not great](https://open.spotify.com/track/6FRP4bqIl1mVZz53WM36QP) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(L\)only Child](https://open.spotify.com/album/5Hnz7UVM87JZyhahIEmdOQ) | 2:34 |
-| 82 | [Merry Bitchmas](https://open.spotify.com/track/34rNbRykHwMbKHxI87O03w) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Merry Bitchmas](https://open.spotify.com/album/53AHqaUwDxyBusu6SZSIXe) | 3:24 |
+| 81 | [Merry Bitchmas](https://open.spotify.com/track/34rNbRykHwMbKHxI87O03w) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Merry Bitchmas](https://open.spotify.com/album/53AHqaUwDxyBusu6SZSIXe) | 3:24 |
+| 82 | [good, not great](https://open.spotify.com/track/6FRP4bqIl1mVZz53WM36QP) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(L\)only Child](https://open.spotify.com/album/5Hnz7UVM87JZyhahIEmdOQ) | 2:34 |
 | 83 | [For the Best](https://open.spotify.com/track/3aeHpO3TkNbBOAhLObf0rr) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Born to Rule](https://open.spotify.com/album/1f9yeJSa7rfvzZaiDOjbiA) | 3:28 |
 | 84 | [Daffodils](https://open.spotify.com/track/6KbzHdUehItEUjJYAVYy5j) | [Rosse](https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i) | [Daffodils](https://open.spotify.com/album/6kGxq7A0BaPGLYX9MPracQ) | 2:55 |
 | 85 | [Come Alive](https://open.spotify.com/track/7uT7BTOkJ40U3nsU2yWQST) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Journey](https://open.spotify.com/album/1TXZLZHDHFSq0ckd8bZoIh) | 3:11 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 106 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 107 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
 
-Snapshot ID: `Ab3DMgAAAABE/vPah6Z/G+KKNU+K4cDz`
+Snapshot ID: `Ab3I0gAAAABzgebEnaiFvMxB6rUKefKP`

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,321 songs - 2 day 20 hr 9 min
+1,323 songs - 2 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Break](https://open.spotify.com/track/0Qih8wH7Smf780cwH2Pqxk) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Break](https://open.spotify.com/album/2P40voWuU97H7NJGckbEOF) | 2:45 | 2021-09-11 | 2021-12-11 |
 | [Break My Fall](https://open.spotify.com/track/2D2wLzadfYEvxzoQAHtCm5) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1ge5wbmkpeytkR9oiIyJb9) | 3:26 | 2022-05-20 | 2022-05-21 |
 | [Break My Fall](https://open.spotify.com/track/3vWAeJGKEQGrvCKut2uMzy) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1at7bad2VMRKWewCs9yBgt) | 3:28 | 2022-12-02 | 2024-04-19 |
+| [break or bend](https://open.spotify.com/track/6INBv6qjG5veSL8C6lqAgL) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [break or bend](https://open.spotify.com/album/4lig4HTeUqylZozgyhS3aQ) | 3:01 | 2025-07-18 |  |
 | [Breakfast](https://open.spotify.com/track/1gZ5gMhXQm2fBogPFvuYOb) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Breakfast](https://open.spotify.com/album/5EgfYbZo7zIGxqy3fYfcIc) | 2:25 | 2023-11-10 | 2024-06-15 |
 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-07-19 |  |
 | [Broke Mine](https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Broke Mine](https://open.spotify.com/album/7a4GgADrERVlml8GnNZWvd) | 3:31 | 2022-03-11 | 2022-06-04 |
@@ -225,7 +226,7 @@
 | [Clumsy Heart](https://open.spotify.com/track/1MRqpfmQtgkJArEQPRkf12) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Clumsy Heart](https://open.spotify.com/album/50XroDDpEBS38FecZiEt5H) | 3:42 | 2021-07-24 | 2021-10-23 |
 | [Coat Check](https://open.spotify.com/track/1B5TgBX9UxelP09rjBHEIU) | [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Coat Check](https://open.spotify.com/album/3BUrGZn9S2edYQJVAV1hWG) | 2:56 | 2022-07-08 | 2022-12-03 |
 | [COCO PEBBLES](https://open.spotify.com/track/4ufErBvRiHTVaKHWBD332f) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [COCO PEBBLES](https://open.spotify.com/album/6MQ0WXfM4hBgjUtC5B1uOg) | 2:26 | 2021-08-07 | 2021-09-04 |
-| [Coffee's Ready](https://open.spotify.com/track/30XUPQ3sPmAN9dtLCqoeq5) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Coffee's Ready](https://open.spotify.com/album/5pidK0ZCnUOcPU5KYb4lMt) | 3:28 | 2025-06-27 |  |
+| [Coffee's Ready](https://open.spotify.com/track/30XUPQ3sPmAN9dtLCqoeq5) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Coffee's Ready](https://open.spotify.com/album/5pidK0ZCnUOcPU5KYb4lMt) | 3:28 | 2025-06-27 | 2025-07-19 |
 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 | 2021-04-03 | 2021-04-24 |
 | [Cold Tea \- Spotify Singles](https://open.spotify.com/track/6tLG0UWSYJSU8FscGtDqIt) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Spotify Singles](https://open.spotify.com/album/2nqXS6xc2WJyDn86KikFJ2) | 3:20 | 2023-10-06 | 2025-05-24 |
 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 | 2021-06-26 | 2021-07-17 |
@@ -331,7 +332,7 @@
 | [drugs are for fun](https://open.spotify.com/track/3EAPXckxzS63OgxbDgaAZz) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [drugs are for fun](https://open.spotify.com/album/7IhqRJzrwITx7QCXzYitzT) | 2:22 | 2022-08-05 | 2022-12-10 |
 | [Dumb](https://open.spotify.com/track/3ADZ5dT4Gdau4pVmFhleBF) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Dumb](https://open.spotify.com/album/66u2QlWEFzKwpqLeHIR1Q2) | 3:58 | 2021-06-27 | 2021-09-04 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-07-10 | 2021-10-16 |
-| [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2023-12-15 |  |
+| [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2023-12-15 | 2025-07-19 |
 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 | 2021-10-30 | 2022-02-19 |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 |  |
 | [Earthstar](https://open.spotify.com/track/12HfxXiDIpdYiD1h2AqHCX) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/2bxcJhoKxnmm8qiNtUCa75) | 4:03 | 2025-01-31 |  |
@@ -414,6 +415,7 @@
 | [French Class](https://open.spotify.com/track/4uLFxuc0xbis1F4i3ZpecK) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [French Class](https://open.spotify.com/album/6DhUFvTEWoyocvCdP0156u) | 3:47 | 2022-10-21 | 2023-05-23 |
 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 | 2020-10-29\* | 2021-01-21 |
 | [Friends](https://open.spotify.com/track/6Jkwjsiv88sZT3LY3Wfv8z) | [Malcolm.](https://open.spotify.com/artist/2tKBSStIhOKU5GDrPEeVLS) | [Friends](https://open.spotify.com/album/25XUSaCWoeghAkqL2YMFFy) | 3:51 | 2021-01-30 | 2021-03-06 |
+| [Friends Forever](https://open.spotify.com/track/5eHgnG2cyhOSXnwWhXHzBH) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Friends Forever](https://open.spotify.com/album/0aHENRpaOYXCBwOTGNpvyB) | 2:50 | 2025-07-18 |  |
 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 | 2021-05-15 | 2021-07-04 |
 | [Frontlawn](https://open.spotify.com/track/7k4ry2kxLh7c3a1JI5P1OZ) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Frontlawn](https://open.spotify.com/album/5ZZv0sG8MwiWG81ANQ9Jdd) | 2:32 | 2020-10-29\* | 2020-12-07 |
 | [FTL](https://open.spotify.com/track/2m6ikQazVLpm5XYxAy3OFz) | [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [FTL](https://open.spotify.com/album/2Q1eT7WtiyaXZ3BxbpLiYV) | 3:22 | 2020-12-19 | 2021-03-14 |

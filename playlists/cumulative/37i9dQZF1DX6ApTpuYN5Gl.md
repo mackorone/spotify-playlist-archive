@@ -4,7 +4,7 @@
 
 > sad beats\. deep vibes.
 
-82 songs - 4 hr 45 min
+83 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 | 2023-08-25 |  |
 | [Kyle \(i found you\)](https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:16 | 2023-08-25 |  |
 | [Laika.](https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Laika.](https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP) | 3:00 | 2024-08-01 |  |
-| [Let It Bleed](https://open.spotify.com/track/4u5KbHYUrsO5ZTfAZe9Wa1) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [HIISAK](https://open.spotify.com/artist/45cP3p476ZtqaaATv4cScf) | [Let It Bleed](https://open.spotify.com/album/5sDLRWZHNSxWX0KoKdOgNI) | 2:41 | 2023-12-22 |  |
+| [Let It Bleed](https://open.spotify.com/track/4u5KbHYUrsO5ZTfAZe9Wa1) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [HIISAK](https://open.spotify.com/artist/45cP3p476ZtqaaATv4cScf) | [Let It Bleed](https://open.spotify.com/album/5sDLRWZHNSxWX0KoKdOgNI) | 2:41 | 2023-12-22 | 2025-07-19 |
 | [life gets hard](https://open.spotify.com/track/0LoPQfWaoGGnu1tIA6FScX) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/64NXiz0recaVJwJl0Bzabp) | 2:05 | 2023-11-08 | 2023-11-18 |
 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2023-11-10 | 2024-04-19 |
 | [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-08-01 |  |
@@ -71,6 +71,7 @@
 | [People Help the People](https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [People Help the People](https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k) | 2:37 | 2023-08-25 |  |
 | [Rain](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Rain](https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin) | 2:32 | 2023-08-25 |  |
 | [Rewind](https://open.spotify.com/track/2Jbux7OvBzPTa7NxwUhsTA) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Rewind](https://open.spotify.com/album/6PnKRAtOuYQzXl96Fk8ggA) | 3:46 | 2023-10-27 | 2023-11-11 |
+| [Rush](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Rush](https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI) | 3:07 | 2024-08-01 |  |
 | [Shadows](https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:45 | 2023-08-25 |  |
 | [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 | 2023-10-27 | 2023-11-11 |
 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2024-08-01 | 2025-05-21 |

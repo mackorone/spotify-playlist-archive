@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: PLUTO",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Saweetie",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -1954,6 +1954,28 @@
       "duration_ms": 142809,
       "name": "Body Do",
       "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
+    },
+    {
+      "album": {
+        "name": "boffum",
+        "url": "https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "J White Did It",
+          "url": "https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127862,
+      "name": "boffum",
+      "url": "https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS"
     },
     {
       "album": {
@@ -4788,7 +4810,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 93658,
       "name": "Gimme Him",
       "url": "https://open.spotify.com/track/6qA9aWqahJZLUuC5WFUObu"
@@ -11024,7 +11046,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 157459,
       "name": "Single Summer",
       "url": "https://open.spotify.com/track/0OewShx11d3rmWIp3rtc98"
@@ -11336,6 +11358,28 @@
       "duration_ms": 121386,
       "name": "So DISRESPECTFUL",
       "url": "https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231"
+    },
+    {
+      "album": {
+        "name": "Grady Baby",
+        "url": "https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164946,
+      "name": "So Fine (feat. Tink)",
+      "url": "https://open.spotify.com/track/69on3Xiwv2k4s0hZUGpukQ"
     },
     {
       "album": {
@@ -13016,7 +13060,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 168533,
       "name": "WE ON GO",
       "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"

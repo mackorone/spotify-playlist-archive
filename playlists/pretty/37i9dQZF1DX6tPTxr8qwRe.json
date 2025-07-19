@@ -1,13 +1,29 @@
 {
   "description": "Dark, hard hitting pop. Cover: DYLAN",
-  "num_followers": 426058,
+  "num_followers": 426043,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHCMVQAAAACcfzfpFZTjquaOxOhIo8V4",
+  "snapshot_id": "aHnICQAAAABeMp0ATz1PWu1LDqzykrKt",
   "tracks": [
+    {
+      "added_at": "2025-07-18 04:00:23",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm"
+      },
+      "artists": [
+        {
+          "name": "Just For Fun",
+          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV"
+    },
     {
       "added_at": "2025-07-11 04:00:21",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/0mt50jzA5xVZXBfnX9X5kJ"
     },
     {
-      "added_at": "2025-07-11 04:00:21",
+      "added_at": "2025-07-18 04:00:23",
       "album": {
-        "name": "ROCKNROLL",
-        "url": "https://open.spotify.com/album/6YZrNliHSuIg4tbI1vc27j"
+        "name": "Goodbye, Good Riddance",
+        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
       },
       "artists": [
         {
-          "name": "vi0let",
-          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 149549,
-      "name": "ROCKNROLL",
-      "url": "https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3"
+      "duration_ms": 159275,
+      "name": "Goodbye, Good Riddance",
+      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
     },
     {
       "added_at": "2025-06-20 04:00:50",
@@ -55,6 +71,38 @@
       "duration_ms": 152786,
       "name": "Bad",
       "url": "https://open.spotify.com/track/4HaPoW6VbjC0iWBsuAmw5z"
+    },
+    {
+      "added_at": "2025-07-18 04:05:29",
+      "album": {
+        "name": "DON'T FOLLOW ME",
+        "url": "https://open.spotify.com/album/7zNkbscL9SxzWG5zFq6SQF"
+      },
+      "artists": [
+        {
+          "name": "Ella Collier",
+          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
+        }
+      ],
+      "duration_ms": 191911,
+      "name": "DON'T FOLLOW ME",
+      "url": "https://open.spotify.com/track/7uNeoglAQECDt8ugEh0i7f"
+    },
+    {
+      "added_at": "2025-07-11 04:00:21",
+      "album": {
+        "name": "ROCKNROLL",
+        "url": "https://open.spotify.com/album/6YZrNliHSuIg4tbI1vc27j"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "duration_ms": 149549,
+      "name": "ROCKNROLL",
+      "url": "https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3"
     },
     {
       "added_at": "2025-07-11 04:00:21",
@@ -347,22 +395,6 @@
       "duration_ms": 164610,
       "name": "SLEEPING WITH KARMA",
       "url": "https://open.spotify.com/track/3yJDEWDY4mj4fslXhVLcLx"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
-        "name": "Shagidi",
-        "url": "https://open.spotify.com/album/14xJ5Qg9sEbCJmg2vBRCUZ"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 148861,
-      "name": "Shagidi",
-      "url": "https://open.spotify.com/track/7zKYsYbbC7N8C5QOOtTlZx"
     },
     {
       "added_at": "2025-05-30 04:00:35",
@@ -767,22 +799,6 @@
       "duration_ms": 177644,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/0BnGkx3tOWDLcdinr7RtkU"
-    },
-    {
-      "added_at": "2025-04-11 04:00:29",
-      "album": {
-        "name": "Double Yellow",
-        "url": "https://open.spotify.com/album/0wvNBeErYuMsy9NcdVDJM5"
-      },
-      "artists": [
-        {
-          "name": "Amber Van Day",
-          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
-        }
-      ],
-      "duration_ms": 164727,
-      "name": "Double Yellow",
-      "url": "https://open.spotify.com/track/62w0Jrsug4dvHCDlrsGTEs"
     },
     {
       "added_at": "2025-04-11 04:00:29",

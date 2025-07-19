@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZtZ8vUCzche.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZtZ8vUCzche) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZtZ8vUCzche)
 
-### [Songs To Test Headphones With](https://open.spotify.com/playlist/37i9dQZF1DWZtZ8vUCzche)
+### [Songs to Test Speakers With](https://open.spotify.com/playlist/37i9dQZF1DWZtZ8vUCzche)
 
-> An eclectic collection of brilliantly produced and recorded tracks.
+> Put your speakers to the test with this eclectic collection of legendary tracks.
 
 400 songs - 1 day 8 hr 30 min
 

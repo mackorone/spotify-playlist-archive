@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-135 songs - 7 hr 34 min
+136 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [BANDIDOS](https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:50 | 2024-01-29 | 2025-07-15 |
 | [Brillando Bengalas](https://open.spotify.com/track/2mYry3CA7QdxQcbXXSkt81) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Nivel Dios](https://open.spotify.com/album/7CundRMbGZHSxzu6xjbRe0) | 2:27 | 2024-09-22 | 2025-07-08 |
 | [Brillando Bengalas](https://open.spotify.com/track/2riTGN7mgQH7VO0W5qbMF1) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Nivel Dios](https://open.spotify.com/album/3wgoM6ZJLIVwkDBtZ0Lb1u) | 2:27 | 2024-03-01 | 2024-09-22 |
+| [CABALLO DE PATAS BLANCAS \- En Vivo](https://open.spotify.com/track/2MTDXfv0im1inQzt0iArQG) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Tizoc](https://open.spotify.com/artist/5gaHJ88nCwXAItiSUwwqJ2) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:12 | 2025-07-19 |  |
 | [Cajita De Oro \(Live\)](https://open.spotify.com/track/4sLDHPWudebdkvgfRZcugM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:52 | 2024-01-29 |  |
 | [CELOSO](https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CELOSO](https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb) | 3:05 | 2024-02-24 | 2025-07-14 |
 | [CELOSO](https://open.spotify.com/track/2zQaIkHQ4Z0QZI50z4kYWC) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:05 | 2025-04-24 | 2025-05-26 |
@@ -129,7 +130,7 @@
 | [Sueños De La Calle: Sueños De La Calle](https://open.spotify.com/track/0UFOcVbGpZw4Xl58wJoDZ9) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Sueños De La Calle \(Vol\. 1\)](https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx) | 2:23 | 2025-05-07 |  |
 | [Sueños De La Calle: X Ella](https://open.spotify.com/track/7pYuADOcpDjrzCRk7AKUQN) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Sueños De La Calle \(Vol\. 1\)](https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx) | 2:37 | 2025-05-07 |  |
 | [Te Vi Con el](https://open.spotify.com/track/7pv40g1fao791aNhcQZ9Tu) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Sigo Firme de Pie](https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT) | 2:52 | 2024-05-07 | 2024-05-22 |
-| [Trato De Muerte \- En Vivo](https://open.spotify.com/track/22QCnHj9YU33d0IfjhQadE) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Trato De Muerte \(En Vivo\)](https://open.spotify.com/album/3ExhBTPMqMnOqCDTwF1FKu) | 4:10 | 2024-01-29 |  |
+| [Trato De Muerte \- En Vivo](https://open.spotify.com/track/22QCnHj9YU33d0IfjhQadE) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Trato De Muerte \(En Vivo\)](https://open.spotify.com/album/3ExhBTPMqMnOqCDTwF1FKu) | 4:10 | 2024-01-29 | 2025-07-19 |
 | [Tu Conciencia](https://open.spotify.com/track/1XzuxgapAUAG410B5LuidA) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Tu Conciencia](https://open.spotify.com/album/36nqP6gvOrWZBQJnOmapjq) | 3:49 | 2024-11-24 |  |
 | [TUMBADÓN](https://open.spotify.com/track/1nlWsqcnO3VL9UfMvEGuzY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:35 | 2024-01-29 | 2024-06-24 |
 | [TÍO LITO](https://open.spotify.com/track/1kl8WWxQ2chrpQQ97CF1jR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:57 | 2024-12-02 | 2024-12-20 |

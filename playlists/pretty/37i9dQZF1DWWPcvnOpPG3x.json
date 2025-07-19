@@ -1,6 +1,6 @@
 {
   "description": "Run to the world of R&B and hip-hop.",
-  "num_followers": 949146,
+  "num_followers": 949188,
   "original_name": "Run This Town",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-05-17 13:30:04",
       "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/4DM34NuOlqu5S8PZAje4iF"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Trap Queen",
+      "url": "https://open.spotify.com/track/5iNRPN7oYQvdB9AmeSW6d3"
+    },
+    {
+      "added_at": "2023-05-17 13:30:04",
+      "album": {
         "name": "All About You",
         "url": "https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD"
       },
@@ -745,20 +761,20 @@
       "url": "https://open.spotify.com/track/0x3TibRgnSqzkcwrqBd4iX"
     },
     {
-      "added_at": "2023-05-17 13:30:04",
+      "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/4DM34NuOlqu5S8PZAje4iF"
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },
       "artists": [
         {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 222093,
-      "name": "Trap Queen",
-      "url": "https://open.spotify.com/track/5iNRPN7oYQvdB9AmeSW6d3"
+      "duration_ms": 181933,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -775,22 +791,6 @@
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
-        "name": "If You're Reading This It's Too Late",
-        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW"
     },
     {
       "added_at": "2023-01-03 14:49:24",

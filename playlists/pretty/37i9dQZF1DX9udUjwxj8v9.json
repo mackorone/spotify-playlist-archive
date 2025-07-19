@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 153037,
+  "num_followers": 153028,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
+        "name": "\u00c9 Demais Meu Rei!!!",
+        "url": "https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t"
+      },
+      "artists": [
+        {
+          "name": "Cheiro de Amor",
+          "url": "https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Vai Sacudir, Vai Abalar",
+      "url": "https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
         "name": "Ax\u00e9 Bahia",
         "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 194533,
       "name": "A Luz De Tieta",
       "url": "https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
-        "name": "\u00c9 Demais Meu Rei!!!",
-        "url": "https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t"
-      },
-      "artists": [
-        {
-          "name": "Cheiro de Amor",
-          "url": "https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Vai Sacudir, Vai Abalar",
-      "url": "https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk"
     },
     {
       "added_at": "2025-07-11 03:00:07",

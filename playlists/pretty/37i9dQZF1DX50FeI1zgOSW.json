@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Keethan",
-  "num_followers": 15420,
+  "num_followers": 15425,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHSigwAAAACLuycdlUWCJurTctrRT84U",
+  "snapshot_id": "aHnyIAAAAABF5Jrsd5CnPMQy1Zg4m4aO",
   "tracks": [
     {
       "added_at": "2025-06-30 11:07:31",
@@ -57,6 +57,50 @@
       "url": "https://open.spotify.com/track/779aAw1mmWwlit2D48nshG"
     },
     {
+      "added_at": "2025-07-18 07:03:25",
+      "album": {
+        "name": "Yaaradiyo",
+        "url": "https://open.spotify.com/album/1H6VBTuuhR3ih6Uy5kLUVb"
+      },
+      "artists": [
+        {
+          "name": "Sajay ARS",
+          "url": "https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2"
+        },
+        {
+          "name": "Samyuktha V",
+          "url": "https://open.spotify.com/artist/0jhMaJGxY3zGdHpS6xJYFv"
+        },
+        {
+          "name": "Thirunavukarasu",
+          "url": "https://open.spotify.com/artist/5UW43m1UMyl1eOeztikqoH"
+        }
+      ],
+      "duration_ms": 213563,
+      "name": "Yaaradiyo",
+      "url": "https://open.spotify.com/track/53FD6AvDk6GhbWbtLWbm7D"
+    },
+    {
+      "added_at": "2025-07-18 07:05:04",
+      "album": {
+        "name": "Konji Pesa",
+        "url": "https://open.spotify.com/album/3OT4puDbCCHSZwv0CXbdSL"
+      },
+      "artists": [
+        {
+          "name": "Rajaganapathy",
+          "url": "https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq"
+        },
+        {
+          "name": "47seconds",
+          "url": "https://open.spotify.com/artist/6zSpeGx3zxDEH4QxixbJn6"
+        }
+      ],
+      "duration_ms": 202410,
+      "name": "Konji Pesa",
+      "url": "https://open.spotify.com/track/4rxltwAsWLvTN3mvMLxoc9"
+    },
+    {
       "added_at": "2025-05-06 10:25:16",
       "album": {
         "name": "Uyir Ponaalum",
@@ -79,6 +123,30 @@
       "duration_ms": 205479,
       "name": "Kaettu Paaru",
       "url": "https://open.spotify.com/track/6QHs1itvQeNRQ9C1AN2vhU"
+    },
+    {
+      "added_at": "2025-07-18 07:00:20",
+      "album": {
+        "name": "Cool Mama Cool",
+        "url": "https://open.spotify.com/album/1RspbYpah61ZLr3alpAvTg"
+      },
+      "artists": [
+        {
+          "name": "Rajalakshmi Senthilganesh",
+          "url": "https://open.spotify.com/artist/7tgZJJ2T8gSqQm5mjxFX0s"
+        },
+        {
+          "name": "Pranitiofficial",
+          "url": "https://open.spotify.com/artist/38PhsJooOD2scwAquHs3tL"
+        },
+        {
+          "name": "Jeyakumar K",
+          "url": "https://open.spotify.com/artist/0BVy5roTdaPdu67uJFqqRO"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Cool Mama Cool",
+      "url": "https://open.spotify.com/track/1czfXEeDHkBWtX02GbvbJV"
     },
     {
       "added_at": "2025-07-11 12:31:24",
@@ -893,50 +961,6 @@
       "url": "https://open.spotify.com/track/4NECvEaHKVULjEqLXU8dgQ"
     },
     {
-      "added_at": "2025-05-15 05:37:23",
-      "album": {
-        "name": "Pinam",
-        "url": "https://open.spotify.com/album/729Anhb2kWzyYK0YQ20CTZ"
-      },
-      "artists": [
-        {
-          "name": "DUMEEL",
-          "url": "https://open.spotify.com/artist/3viKoScukHFcuoMc8vpolo"
-        },
-        {
-          "name": "Irai",
-          "url": "https://open.spotify.com/artist/2Ow69iKQjp5sxmWcipjcfo"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Pinam",
-      "url": "https://open.spotify.com/track/7DuiTuykvOxspW8grWxpCs"
-    },
-    {
-      "added_at": "2025-05-16 03:40:31",
-      "album": {
-        "name": "Somalalaya",
-        "url": "https://open.spotify.com/album/2yoszgg3WTmrmDcpfCKL91"
-      },
-      "artists": [
-        {
-          "name": "Darsan Ravichandran",
-          "url": "https://open.spotify.com/artist/3aKvK9RuKSm12BZAbSNlvr"
-        },
-        {
-          "name": "SJK",
-          "url": "https://open.spotify.com/artist/7x5YUmm1SGsB5vYQlZp8Vr"
-        },
-        {
-          "name": "John Beno",
-          "url": "https://open.spotify.com/artist/72zt2927ksGWmZZyTd3hHl"
-        }
-      ],
-      "duration_ms": 182019,
-      "name": "Somalalaya",
-      "url": "https://open.spotify.com/track/2HmsZdVYbxF6gjd9nzdENy"
-    },
-    {
       "added_at": "2025-05-02 10:50:53",
       "album": {
         "name": "Manasu Mattume",
@@ -975,22 +999,6 @@
       "duration_ms": 102620,
       "name": "Uyir Ponaalum",
       "url": "https://open.spotify.com/track/0op614boUrlYXkjo2aBkJR"
-    },
-    {
-      "added_at": "2025-05-02 05:13:10",
-      "album": {
-        "name": "En Vaasal Vanthal",
-        "url": "https://open.spotify.com/album/52CZ2hV4ccmhRpK8IQRkiB"
-      },
-      "artists": [
-        {
-          "name": "Suriya Karthikeya Kumaran",
-          "url": "https://open.spotify.com/artist/53T0PTMSmd3vQ1WCKPKlZR"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "En Vaasal Vanthal",
-      "url": "https://open.spotify.com/track/52pAMIxc4ODy82jTKN5PNv"
     },
     {
       "added_at": "2025-05-02 10:50:53",

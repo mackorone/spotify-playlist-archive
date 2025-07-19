@@ -2513,6 +2513,24 @@
     },
     {
       "album": {
+        "name": "Deslocado",
+        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179996,
+      "name": "Deslocado",
+      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
+    },
+    {
+      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -3326,6 +3344,28 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "album": {
+        "name": "ISLAND BOYZ",
+        "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157478,
+      "name": "FREAKY (feat. LUDMILLA)",
+      "url": "https://open.spotify.com/track/6AScOrn9TiSuFanMrW9Xju"
     },
     {
       "album": {
@@ -5878,7 +5918,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 296567,
       "name": "Ouro de Tolo",
       "url": "https://open.spotify.com/track/3JmULmAsT5nAEd9NrsJOLg"
@@ -6578,7 +6618,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 163263,
       "name": "Que Pecado!",
       "url": "https://open.spotify.com/track/5djr1EgrgGLBbZD8xOxNPs"

@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Acopia
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Fade Evare
 
-137 songs - 7 hr 44 min
+139 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Air](https://open.spotify.com/track/3jjBLJCxq4xD5n0h8dz4wC) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Air](https://open.spotify.com/album/54TRcRE5cExljtlDYn6pH1) | 2:40 | 2025-06-26 |  |
 | [Amephrey and Ontario](https://open.spotify.com/track/34pLkzjOYuPTC7Seq0bona) | [Jura](https://open.spotify.com/artist/7o47tXCHgjbz4cGuYgg7AM), [abji\_hypersun](https://open.spotify.com/artist/5t15kyeJJYD6BnJ6s8J1Rt), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V), [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S), [Kristoffer Raasted](https://open.spotify.com/artist/4dlJoZ0e3YkcKz4tWGJXfP), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC), [Helene Norup Due](https://open.spotify.com/artist/0o1fgVWvRNSPuuurEKVRWb) | [Formality Jerne\-Site](https://open.spotify.com/album/3XxXPVRE1E8aJGuYYNaKxn) | 5:31 | 2025-03-31 |  |
 | [An Embroidery](https://open.spotify.com/track/7FG7r7bGcTqjapPULaJ2v6) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [World of Work](https://open.spotify.com/album/7r1cQPyAwQfhQIw9H9eGB5) | 4:09 | 2025-03-13 |  |
-| [Anymore](https://open.spotify.com/track/1F9eoTtJcbxIlCY0o0Imsp) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Anymore](https://open.spotify.com/album/2erxKF4TfbJnSZ9cSD44ef) | 3:57 | 2025-06-19 |  |
+| [Anymore](https://open.spotify.com/track/1F9eoTtJcbxIlCY0o0Imsp) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Anymore](https://open.spotify.com/album/2erxKF4TfbJnSZ9cSD44ef) | 3:57 | 2025-06-19 | 2025-07-19 |
 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 | 2025-05-22 |  |
 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 | 2025-03-13 |  |
 | [Blinkmoth \(July Mix\)](https://open.spotify.com/track/6kvYlDN7rVedMOE7VxeQGg) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Hypersoft Lovejinx Junkdream](https://open.spotify.com/album/59V4YNExoSF8HH4JVEtn6k) | 7:03 | 2025-03-13 |  |
@@ -108,9 +108,11 @@
 | [Roll the dice](https://open.spotify.com/track/1lg1XJk0XHBfeqT389cfcJ) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Roll the dice](https://open.spotify.com/album/21zZA3rsn2kmFoCRmpIUrt) | 2:07 | 2025-04-10 | 2025-07-16 |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-06-26 |  |
 | [Sacrificial Code](https://open.spotify.com/track/18xisk5Sg6dJVobPvDovNp) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw) | 5:29 | 2025-05-08 |  |
+| [second place](https://open.spotify.com/track/1fbOvCYi48oNtnUvTU3Khr) | [soki yue](https://open.spotify.com/artist/3pSvLi87jU6OWr1zk8lBj9) | [second place](https://open.spotify.com/album/5gYgcCmZo9BaWmvyW4ZX2k) | 2:45 | 2025-07-18 |  |
+| [Send Me Out](https://open.spotify.com/track/4eRdQSJXcfsgkQxG5sEanc) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Welcome Back](https://open.spotify.com/album/7MCIpeJrXNn3KnKTtmwSKh) | 4:30 | 2025-07-18 |  |
 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 | 2025-05-01 |  |
 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 | 2025-04-03 |  |
-| [Sky Writing](https://open.spotify.com/track/5KeFtENdNGpvvsdXq9lddW) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Sky Writing](https://open.spotify.com/album/2UrkYjEt3aCRtfY5yXQ2EL) | 3:05 | 2025-05-16 |  |
+| [Sky Writing](https://open.spotify.com/track/5KeFtENdNGpvvsdXq9lddW) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Sky Writing](https://open.spotify.com/album/2UrkYjEt3aCRtfY5yXQ2EL) | 3:05 | 2025-05-16 | 2025-07-19 |
 | [Sober Love](https://open.spotify.com/track/68sQfgn2MTUxMwo5iXOxWK) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Sober Love](https://open.spotify.com/album/34Y7XtOzScB4f6B7bXyPrF) | 2:30 | 2025-06-19 |  |
 | [Something in the way you move](https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Something in the way you move](https://open.spotify.com/album/4KiagNACvTlWB1tu0sONBK) | 4:59 | 2025-05-01 |  |
 | [Spirals On My Tongue](https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Spirals On My Tongue](https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC) | 2:45 | 2025-04-17 |  |

@@ -1,28 +1,32 @@
 {
-  "description": "New music from your favorite women.  Cover: Girlfriend",
-  "num_followers": 224274,
+  "description": "New music from your favorite women.  Cover: Zyah Belle",
+  "num_followers": 224259,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHDGfQAAAADrOBRZBmpV7yGyB41cQcW5",
+  "snapshot_id": "aHnl4QAAAABLw8qywBm08QfcMe3MN3Yi",
   "tracks": [
     {
-      "added_at": "2025-06-20 04:00:55",
+      "added_at": "2025-07-18 06:12:49",
       "album": {
-        "name": "It's Complicated",
-        "url": "https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/1Nv8jZuC0lWUQPRvASlg1s"
       },
       "artists": [
         {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
         }
       ],
-      "duration_ms": 160476,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x"
+      "duration_ms": 214204,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/2mQPA3FjEoknJJPBmqMM4c"
     },
     {
       "added_at": "2025-06-20 04:00:55",
@@ -419,6 +423,22 @@
     {
       "added_at": "2025-06-20 04:00:55",
       "album": {
+        "name": "It's Complicated",
+        "url": "https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 160476,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x"
+    },
+    {
+      "added_at": "2025-06-20 04:00:55",
+      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D"
       },
@@ -767,22 +787,6 @@
       "duration_ms": 243232,
       "name": "Deus Deus",
       "url": "https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b"
-    },
-    {
-      "added_at": "2025-06-20 04:00:55",
-      "album": {
-        "name": "WE NEED TO TALK: LOVE",
-        "url": "https://open.spotify.com/album/2mX5bnPllHCjS0GdXTUi6W"
-      },
-      "artists": [
-        {
-          "name": "Keri Hilson",
-          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
-        }
-      ],
-      "duration_ms": 176596,
-      "name": "Say That",
-      "url": "https://open.spotify.com/track/0WMr60ITPZdLH3wrIbs85p"
     },
     {
       "added_at": "2025-06-20 04:00:55",

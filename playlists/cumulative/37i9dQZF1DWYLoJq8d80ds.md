@@ -2,9 +2,9 @@
 
 ### [FOLCLORE CARNAVALERO](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> Para bailar hasta el amanecer\. Foto: Los Nocheros
+> Para bailar hasta el amanecer\. Foto: Campedrinos
 
-194 songs - 10 hr 52 min
+196 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dime](https://open.spotify.com/track/0mTJEkZDInEstChLEpfs2x) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Dime](https://open.spotify.com/album/3QEzOj8u8OHAr3uYe2FVJC) | 2:50 | 2021-12-31 | 2024-11-16 |
 | [Dueles](https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:09 | 2022-03-11 |  |
 | [Días para Celebrar](https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 2:20 | 2021-12-31 | 2025-01-11 |
+| [ECO \- En Vivo Estadio Delmi](https://open.spotify.com/track/64wuY4vJtmvkA0a6GguQk2) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [ECO \(En Vivo Estadio Delmi\)](https://open.spotify.com/album/6LjBDbHR5tGa3jQ13GGqZG) | 4:02 | 2025-07-18 |  |
 | [El Antigal](https://open.spotify.com/track/32CIU2BQzqyWAChePiMiu1) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ) | 4:18 | 2022-07-01 | 2024-04-19 |
 | [El Antigal](https://open.spotify.com/track/45VTmXO39bMxc8w6sE0YCd) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz) | 4:18 | 2021-12-31 |  |
 | [El Bailongo en Lo del Rengo](https://open.spotify.com/track/4JbQUJ6o0M80Q3GgvL87is) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 1:53 | 2024-10-14 |  |
@@ -134,6 +135,7 @@
 | [No Te Vayas \- Balada Remix](https://open.spotify.com/track/5VF7ZMcWjiVne6bCbJ44TH) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [No Te Vayas \(Balada Remix\)](https://open.spotify.com/album/6twuTUS4ZNfg1zGSvwjj9z) | 3:45 | 2024-09-26 |  |
 | [No Te Vayas Carnaval](https://open.spotify.com/track/4P1iwTp5ZqynYoV4X1GQx4) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Jorge Rojas](https://open.spotify.com/album/4Zu0dRK3MZLBOdKr5cM70J) | 4:00 | 2021-12-31 |  |
 | [No te Vayas Carnaval](https://open.spotify.com/track/3ffKytEfJquWshu4qZrxm8) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [No te Vayas Carnaval](https://open.spotify.com/album/4CCfH1kFY5qNOXmBqjNIPE) | 3:22 | 2025-01-10 |  |
+| [No Vuelvas Más](https://open.spotify.com/track/383F4ADOx1fRbz6LVaEfm9) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Bipolar](https://open.spotify.com/album/5ZrvLttzeC8rj6VA8irWN6) | 2:54 | 2025-07-18 |  |
 | [Noctilucado](https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Noctilucado](https://open.spotify.com/album/7crNDxDK2sO3bp9hs1JTxw) | 2:45 | 2021-12-31 | 2022-05-14 |
 | [Nuestras Flores](https://open.spotify.com/track/6wk1i2Wi2eYX4YjPoGnljA) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Nuestras Flores](https://open.spotify.com/album/6DE4XqVKpCNKf59JvyIcRE) | 4:29 | 2022-08-19 | 2023-07-15 |
 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 | 2022-09-23 |  |

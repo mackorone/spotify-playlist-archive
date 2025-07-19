@@ -1021,6 +1021,28 @@
     },
     {
       "album": {
+        "name": "Chucky",
+        "url": "https://open.spotify.com/album/2xTA3N5tUBmux4DkqGqwXK"
+      },
+      "artists": [
+        {
+          "name": "Shisosaloud",
+          "url": "https://open.spotify.com/artist/6TBZdTaCa4lbCCi8BQemuD"
+        },
+        {
+          "name": "Baruj31",
+          "url": "https://open.spotify.com/artist/40OrVogEt6jy4nWCpNmhFl"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154936,
+      "name": "Chucky",
+      "url": "https://open.spotify.com/track/4gbdNWMM1ZThItsAke3CLL"
+    },
+    {
+      "album": {
         "name": "CLAP",
         "url": "https://open.spotify.com/album/7djt3Er4AULCNXTFlgnYrk"
       },

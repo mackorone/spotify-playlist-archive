@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: ClariS
 
-763 songs - 2 day 2 hr 32 min
+764 songs - 2 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [milky way](https://open.spotify.com/track/3lKpFtBHX0Q17ABO380mhv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [We will](https://open.spotify.com/album/0r5oazd96lslNQTYaBXd2g) | 3:32 | 2024-09-12 | 2025-02-12 |
 | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/track/3w9Y16TCQvLe3HXc1b3whd) | [Tachibana Hina](https://open.spotify.com/artist/3A6gmtAT07cw8v4QP25sCo) | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/album/5vAJTeQLsiaYLWCzaoVW1D) | 4:18 | 2023-11-16 | 2023-12-20 |
 | [Moonlight Magic](https://open.spotify.com/track/71OPYknlGaRHqKrgIrLLwt) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 4:09 | 2022-06-09 | 2022-07-25 |
-| [MOONWORK](https://open.spotify.com/track/3TDHoVJgHjsU9Ky2v1cZ07) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [MOONWORK](https://open.spotify.com/album/2NK3lfUUWC0oB8omR53KxM) | 4:44 | 2025-06-03 |  |
+| [MOONWORK](https://open.spotify.com/track/3TDHoVJgHjsU9Ky2v1cZ07) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [MOONWORK](https://open.spotify.com/album/2NK3lfUUWC0oB8omR53KxM) | 4:44 | 2025-06-03 | 2025-07-19 |
 | [MY VOICE](https://open.spotify.com/track/7hP8TRaqvJd4nwGmz9mGme) | [工藤晴香](https://open.spotify.com/artist/0U9bZHBbrFVL4T4NShSvdc) | [MY VOICE](https://open.spotify.com/album/1bRoDKeDqu1o1KPWhH1yLH) | 3:41 | 2022-06-24 | 2022-07-06 |
 | [narrow](https://open.spotify.com/track/2l5LkdRTsylhqx3LPM7l4N) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [narrow](https://open.spotify.com/album/7jwJgkGWSepDEsapqf1E3h) | 4:52 | 2022-06-09 | 2022-07-27 |
 | [Never Let It Go](https://open.spotify.com/track/0j4avB5X9orUlcVMOFYlTh) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Never Let It Go](https://open.spotify.com/album/0IfxyrotK7g8vQKLRHZOFI) | 3:45 | 2025-02-11 | 2025-03-12 |
@@ -440,6 +440,7 @@
 | [だらけ。](https://open.spotify.com/track/4fgQuGF8yThQkNGxf0cA1H) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [だらけ。](https://open.spotify.com/album/2KqWfBx4exHse4O8RemB2v) | 3:52 | 2024-07-03 | 2024-07-19 |
 | [つむじかぜ](https://open.spotify.com/track/4y7twNI9ShIyjZ71355UUo) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [TVアニメ「本好きの下剋上 司書になるためには手段を選んでいられません」第二部 オープニングテーマ つむじかぜ](https://open.spotify.com/album/5zgLhYuG5JdShOAti8B4Wx) | 4:33 | 2022-06-21 | 2022-07-29 |
 | [つらぬいて憂鬱](https://open.spotify.com/track/0iaXrVoiTMagsrnEg6JouC) | [ニノミヤユイ](https://open.spotify.com/artist/4rOv8M7dd60wAgtFI981VE) | [つらぬいて憂鬱](https://open.spotify.com/album/5X7Y1EmmutAh1xm2F53PUb) | 3:45 | 2022-06-21 | 2022-06-25 |
+| [ときはなて！](https://open.spotify.com/track/21Wgqu00gOXzmnycUnF1Ny) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [ときはなて！](https://open.spotify.com/album/5VUOIuIKEMn26nUczsVSB9) | 3:45 | 2025-07-18 |  |
 | [ときめき](https://open.spotify.com/track/4hhlE9Eyj8vVydzO3bAi8m) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 4:59 | 2023-09-12 | 2023-09-27 |
 | [ないない](https://open.spotify.com/track/2lD8rPegYoYC1WucU3vU1W) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:14 | 2022-06-09 | 2022-11-12 |
 | [なんどだって約束!](https://open.spotify.com/track/35uS5Q48O49N9Eh8aeKJ62) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [なんどだって約束!](https://open.spotify.com/album/5JYeCxjJH30WbFMDDY5dix) | 4:18 | 2022-06-12 | 2022-07-24 |

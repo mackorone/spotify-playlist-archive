@@ -2,9 +2,9 @@
 
 ### [Queen](https://open.spotify.com/playlist/37i9dQZF1DWSIO2QWRavWZ)
 
-> New music from your favorite women\.  Cover: Girlfriend
+> New music from your favorite women\.  Cover: Zyah Belle
 
-361 songs - 22 hr 56 min
+362 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Ass Like That](https://open.spotify.com/track/6fT7QIf55thVWCZyEnaHk0) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Ass Like That](https://open.spotify.com/album/0xBFZmh78uSCcI475PqlVr) | 3:40 | 2024-02-09 | 2024-10-05 |
 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 | 2024-02-09 | 2024-10-05 |
 | [Attitude \- from the "Bruised" Soundtrack](https://open.spotify.com/track/0ZlPqSmpq7lUJ77RbVyCpZ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Attitude \(from the "Bruised" Soundtrack\)](https://open.spotify.com/album/7AQasdBcwHRxcKZLyd7FMR) | 1:56 | 2021-11-24 | 2022-02-12 |
+| [Automatic](https://open.spotify.com/track/2mQPA3FjEoknJJPBmqMM4c) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Automatic](https://open.spotify.com/album/1Nv8jZuC0lWUQPRvASlg1s) | 3:34 | 2025-07-18 |  |
 | [Automatic Woman \- from the "Bruised" Soundtrack](https://open.spotify.com/track/76he7a2rF6Ot9eiA61GZFW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Automatic Woman \(from the "Bruised" Soundtrack\)](https://open.spotify.com/album/1FboinsGK9BvoEcYvUynfv) | 3:58 | 2021-11-24 | 2022-02-12 |
 | [B\*tch From Da Souf \(Remix\) \(feat\. Trina\)](https://open.spotify.com/track/39GH3B0XsTd4SsqT7DJijs) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:44 | 2021-11-24 | 2022-02-12 |
 | [Baby](https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:25 | 2024-10-04 | 2025-06-21 |
@@ -283,7 +284,7 @@
 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 | 2022-02-11 | 2023-08-26 |
 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 | 2021-11-24 | 2022-02-12 |
 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 | 2024-10-04 | 2025-06-21 |
-| [Say That](https://open.spotify.com/track/0WMr60ITPZdLH3wrIbs85p) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [WE NEED TO TALK: LOVE](https://open.spotify.com/album/2mX5bnPllHCjS0GdXTUi6W) | 2:56 | 2025-06-20 |  |
+| [Say That](https://open.spotify.com/track/0WMr60ITPZdLH3wrIbs85p) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [WE NEED TO TALK: LOVE](https://open.spotify.com/album/2mX5bnPllHCjS0GdXTUi6W) | 2:56 | 2025-06-20 | 2025-07-19 |
 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 | 2024-02-01 | 2024-02-10 |
 | [Scared \- from the "Bruised" Soundtrack](https://open.spotify.com/track/0xEIY4zMquic0MRv9lSekG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Scared \(from the "Bruised" Soundtrack\)](https://open.spotify.com/album/1VuOFnoveM2MzoLSEeTEHk) | 2:39 | 2021-11-24 | 2022-02-12 |
 | [Sending My Love](https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 3:40 | 2023-11-10 | 2024-02-10 |

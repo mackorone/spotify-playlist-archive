@@ -4,7 +4,7 @@
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-88 songs - 3 hr 41 min
+89 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Light Beyond the Sea](https://open.spotify.com/track/04NDnHXLfZI2opryvLW2o5) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Light Beyond the Sea](https://open.spotify.com/album/5wyOeH6huy4171uMSekTgw) | 2:06 | 2025-07-16 |  |
 | [Little House In Silver Lake](https://open.spotify.com/track/1QQXKivwrfMS3ma2ZBUGyr) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Little House In Silver Lake](https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs) | 2:52 | 2025-03-07 |  |
 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 | 2025-03-07 |  |
+| [Meadows](https://open.spotify.com/track/3lbUG1o2SurxnJkijry5dI) | [Adrian Solen](https://open.spotify.com/artist/0YXmGTBUBq6Pikq8MvNngn) | [Meadows](https://open.spotify.com/album/5ny5NcwkfOoChD522hi6j0) | 2:19 | 2025-07-18 |  |
 | [Meet Me At Noon](https://open.spotify.com/track/1nq30PCzNrkktaSxn2uxds) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Meet Me At Noon](https://open.spotify.com/album/1afrHdIQvjlrC8GfRrHg4B) | 2:36 | 2025-03-26 |  |
 | [Moment In Time](https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Moment In Time](https://open.spotify.com/album/2THxRrRB28hjygxAf7y7JW) | 2:10 | 2025-03-07 | 2025-06-11 |
 | [Noapte](https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq) | [Alexandru Andrei Popescu](https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp) | [Noapte](https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4) | 3:19 | 2025-05-02 |  |

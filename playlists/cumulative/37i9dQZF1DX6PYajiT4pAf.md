@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes España](https://open.spotify.com/playlist/37i9dQZF1DX6PYajiT4pAf)
 
-> Natalia Lacunza, Quevedo, Duki, y más novedades de la semana.
+> Myke Towers, Bad Gyal x Ozuna, Bad Bunny, Marta Santos y más novedades de la semana.
 
 2,746 songs - 5 day 19 hr 9 min
 
@@ -2056,7 +2056,7 @@
 | [RAPSINCORTE 52](https://open.spotify.com/track/3Z71w98ZzC2ff5Pe0deXxc) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [RAPSINCORTE 52](https://open.spotify.com/album/19xUkxCFDjvmYSJ6BcZIbD) | 1:31 | 2025-03-20 | 2025-03-28 |
 | [RAPSINCORTE 53](https://open.spotify.com/track/5ofJvtZyDEk7UZmkFsVSo1) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [RAPSINCORTE 53](https://open.spotify.com/album/4HK1IM9sdMFpNY7YaPr8Dh) | 2:09 | 2025-05-22 | 2025-05-30 |
 | [RARI](https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [RARI](https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z) | 2:33 | 2025-03-13 | 2025-03-21 |
-| [RARI](https://open.spotify.com/track/5YDfiwhuZN6qd16sEPN8PW) | [Suave](https://open.spotify.com/artist/0b4DkhqzNopg5GYxYU4tJ9), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [Daytxna](https://open.spotify.com/artist/0nuC9yYbV5Oj0AVTawVNTV) | [RARI](https://open.spotify.com/album/1e8R5U9AbaKO1sVTGukc9S) | 2:36 | 2025-07-18 |  |
+| [RARI](https://open.spotify.com/track/5YDfiwhuZN6qd16sEPN8PW) | [Suave](https://open.spotify.com/artist/0b4DkhqzNopg5GYxYU4tJ9), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [DAYTXNA](https://open.spotify.com/artist/1o8nqi3epUyvBIqDohc7Xh) | [RARI](https://open.spotify.com/album/1e8R5U9AbaKO1sVTGukc9S) | 2:36 | 2025-07-18 |  |
 | [RATONCITA](https://open.spotify.com/track/1PyCbATq73eXTwoxY6riaM) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa) | [RATONCITA](https://open.spotify.com/album/2gsu5jqXqUqWuQDQsZf2iu) | 3:23 | 2025-04-04 | 2025-04-11 |
 | [RAYO DE LUZ](https://open.spotify.com/track/4e48qabruKkdAHWuSh67xM) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [RAYO DE LUZ](https://open.spotify.com/album/2g5GgTx8lV9UNovLeJiTFZ) | 3:16 | 2025-01-23 | 2025-01-31 |
 | [Readyactiva](https://open.spotify.com/track/2hC3hT2iAyHlsANVNjt0kN) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Readyactiva](https://open.spotify.com/album/0xBtr21BdkR4skdcG1IKnR) | 2:34 | 2025-03-20 | 2025-03-28 |
@@ -2345,7 +2345,7 @@
 | [Tarará](https://open.spotify.com/track/7AWN87G7vJmRwrvcHc9Hwp) | [Las Rodes](https://open.spotify.com/artist/3ZNLwVLzrOCDyWMaqiaQoc), [Liderj](https://open.spotify.com/artist/4oFwW8GNt4Seyt1dK3ij2S) | [Tarará](https://open.spotify.com/album/2f2XsqvPHW6wpHsbUMvTWz) | 2:36 | 2024-11-14 | 2024-11-22 |
 | [Tarde](https://open.spotify.com/track/5g9MCDXqfBPdA2j0PCT9Pp) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tarde](https://open.spotify.com/album/2yLveC65KjddM0Cv3g5gqp) | 2:00 | 2024-11-14 | 2024-11-22 |
 | [TARTA](https://open.spotify.com/track/2lc72hthWWkj6gx4IbTs71) | [Lasspina](https://open.spotify.com/artist/1qeLLSEU942x1bwDa14wnT) | [TARTA](https://open.spotify.com/album/13z4Tet4fFpEmdvti1qB0F) | 2:44 | 2025-05-01 | 2025-05-09 |
-| [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 | 2025-07-18 |  |
+| [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 | 2025-07-18 |  |
 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2025-05-22 | 2025-05-30 |
 | [TATUAJE](https://open.spotify.com/track/2TkQlRCqndNJz5LhzDTWkj) | [Yeez Codein](https://open.spotify.com/artist/6NawU3jjryR2GR5Tof3jWB), [John Pollõn](https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh) | [FOR MA´ KIDS](https://open.spotify.com/album/2Bp8a3tF7j58SNREjSdGfe) | 3:11 | 2025-04-24 | 2025-05-02 |
 | [TATÚ](https://open.spotify.com/track/7s2Eb3VgCT8o7ALu1jeTqk) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [TATÚ](https://open.spotify.com/album/25I7wgyiOpw0nJBhAkYutI) | 3:20 | 2025-03-13 | 2025-03-21 |

@@ -2631,6 +2631,28 @@
     },
     {
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238508,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
+    },
+    {
+      "album": {
         "name": "Duelo",
         "url": "https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy"
       },
@@ -5641,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "M\u00c1S DE LO MISMO",
+        "url": "https://open.spotify.com/album/4thd0y5Ie1Qvi7SgwZ5RA1"
+      },
+      "artists": [
+        {
+          "name": "Victor Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "M\u00c1S DE LO MISMO",
+      "url": "https://open.spotify.com/track/3fjHchxzHtJdk9sE0YnuUi"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Tuyo",
         "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
       },
@@ -5782,7 +5822,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 150800,
       "name": "Ni\u00f1a M\u00eda",
       "url": "https://open.spotify.com/track/2zLl44y8k324ML18Jcpre8"
@@ -7818,7 +7858,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 149255,
       "name": "Si no no",
       "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"

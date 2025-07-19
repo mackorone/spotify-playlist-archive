@@ -1,6 +1,6 @@
 {
   "description": "pa' no pensar en nada ",
-  "num_followers": 100570,
+  "num_followers": 100591,
   "original_name": "existir",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-07-08 18:53:20",
       "album": {
+        "name": "Comedown Machine",
+        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "Call It Fate, Call It Karma",
+      "url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp"
+    },
+    {
+      "added_at": "2025-07-08 18:53:20",
+      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 164470,
       "name": "La Vida Sin Ti",
       "url": "https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL"
-    },
-    {
-      "added_at": "2025-07-08 18:53:20",
-      "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "Call It Fate, Call It Karma",
-      "url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp"
     },
     {
       "added_at": "2025-07-08 18:53:20",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-07-08 18:53:20",
       "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
-    },
-    {
-      "added_at": "2025-07-08 18:53:20",
-      "album": {
         "name": "La Segunda Luz del D\u00eda",
         "url": "https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 199341,
       "name": "Tristes Ojos",
       "url": "https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq"
+    },
+    {
+      "added_at": "2025-07-08 18:53:20",
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
     },
     {
       "added_at": "2025-07-08 18:53:20",

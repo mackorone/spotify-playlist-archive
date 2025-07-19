@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHkeCgAAAADIkx/z3T1PDS2S83gOVmeU",
+  "snapshot_id": "aHm7RAAAAACLfykpKErzJm1fASUw746k",
   "tracks": [
     {
       "added_at": "2025-07-17 16:00:10",
@@ -151,6 +151,22 @@
       "duration_ms": 141631,
       "name": "Nursing A Broken Heart",
       "url": "https://open.spotify.com/track/5sGNeXWaFIf9TlJRhDA2U7"
+    },
+    {
+      "added_at": "2025-07-18 03:11:00",
+      "album": {
+        "name": "Persimmon Tree",
+        "url": "https://open.spotify.com/album/6cw07qQpDGemG2hZRhCVwg"
+      },
+      "artists": [
+        {
+          "name": "Billie Blue Blackstone",
+          "url": "https://open.spotify.com/artist/5qzBQ1YLBp6aV6aG7wSB7v"
+        }
+      ],
+      "duration_ms": 280500,
+      "name": "Persimmon Tree",
+      "url": "https://open.spotify.com/track/5LkD2rtKVMBdCKfGi8tzP4"
     },
     {
       "added_at": "2025-07-17 16:00:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,480 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,484 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 27 | [TWINNEM \(Remix\) \(feat\. DaBaby\)](https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TWINNEM \(Remix\)](https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd) | 2:40 |
 | 28 | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD) | 2:42 |
 | 29 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 |
-| 30 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
-| 31 | [Get Loud](https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:50 |
+| 30 | [Get Loud](https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:50 |
+| 31 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
 | 32 | [CUFFIN \(feat\. Coi Leray\)](https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Land Of Nothing Real 2](https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX) | 3:18 |
 | 33 | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 |
 | 34 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [No Angels \(with Lola Brooke\)](https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:30 |
 | 50 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 |
 
-Snapshot ID: `aHbrgAAAAACWvEtl66Ms6eY02gl4PEbx`
+Snapshot ID: `aHg9AAAAAAA1geaU8M46fh93zg2obAJv`

@@ -842,7 +842,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 383400,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
@@ -4034,7 +4034,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 187193,
       "name": "Feels Good (For Tonight)",
       "url": "https://open.spotify.com/track/00lnFfMyY1KuHsU8Ear9Fw"
@@ -6113,6 +6113,24 @@
     },
     {
       "album": {
+        "name": "I'd Be Lost",
+        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167012,
+      "name": "I'd Be Lost",
+      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
+    },
+    {
+      "album": {
         "name": "I'd Know",
         "url": "https://open.spotify.com/album/7kcP5tQTC1m57Bl1BaQGPp"
       },
@@ -7722,6 +7740,24 @@
       "duration_ms": 191808,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
+    },
+    {
+      "album": {
+        "name": "DAISY",
+        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "malibU",
+      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
     },
     {
       "album": {
@@ -12043,6 +12079,28 @@
     },
     {
       "album": {
+        "name": "The Moment (with KOKORO)",
+        "url": "https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        },
+        {
+          "name": "KOKORO",
+          "url": "https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "The Moment (with KOKORO)",
+      "url": "https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX"
+    },
+    {
+      "album": {
         "name": "The Days / Nights",
         "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
       },
@@ -12282,7 +12340,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 296146,
       "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
       "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"

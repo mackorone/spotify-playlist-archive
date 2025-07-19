@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Mouseatouille
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,367 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,369 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 45 | [You Can't Please Everybody All Of The Time](https://open.spotify.com/track/3w0nHdkJCXIFFN2d3lxnkP) | [Quality Used Cars](https://open.spotify.com/artist/3E6OqTqiCpUvb8NbAw0OEm) | [You Can't Please Everybody All Of The Time](https://open.spotify.com/album/6ZkxIZ8nKdHxosoivxoJd5) | 4:48 |
 | 46 | [Thought You'd Know By Now](https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO), [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Thought You'd Know By Now](https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ) | 2:57 |
 | 47 | [OneFiftySix](https://open.spotify.com/track/0DFqnJth2R095rHyUYV5WJ) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [OneFiftySix](https://open.spotify.com/album/10hbqvq12fb3EQYwSVijj6) | 1:43 |
-| 48 | [HU$TLER](https://open.spotify.com/track/4KdGssh3V2bzBwGr0zDHSJ) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [HU$TLER](https://open.spotify.com/album/3GUob6Y5LlOpbDdzRlL3t6) | 2:04 |
+| 48 | [HU$TLER](https://open.spotify.com/track/4KdGssh3V2bzBwGr0zDHSJ) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [HU$TLER](https://open.spotify.com/album/3GUob6Y5LlOpbDdzRlL3t6) | 2:05 |
 | 49 | [Loki Horror Picture Show](https://open.spotify.com/track/76qexjWA6zwpxYgiUBtsFj) | [Selve](https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL) | [Loki Horror Picture Show](https://open.spotify.com/album/5rowQI2ySKjc7ojzi7lYel) | 3:42 |
 | 50 | [DO YOU LIKE GIRLS?](https://open.spotify.com/track/1fy5XQDMZmy4066drJiwzT) | [ixaras](https://open.spotify.com/artist/7pEbXPH6n4tq1E5uMon4PJ) | [DO YOU LIKE GIRLS?](https://open.spotify.com/album/5w5OjTsZXIILnUmw4Vi81R) | 3:16 |
 | 51 | [Pemmican](https://open.spotify.com/track/3W8IWNqEVUryCQd20TE9N6) | [Marsha](https://open.spotify.com/artist/6KvKEh1cDaLlOLC0WNTz3y) | [Pemmican](https://open.spotify.com/album/28PfzaTY6QgRJabXsaygaN) | 3:32 |

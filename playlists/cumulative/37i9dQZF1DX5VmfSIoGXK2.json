@@ -833,6 +833,28 @@
     },
     {
       "album": {
+        "name": "Flourish",
+        "url": "https://open.spotify.com/album/0V9N2j4pphZyIb184jvaQR"
+      },
+      "artists": [
+        {
+          "name": "IONA",
+          "url": "https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r"
+        },
+        {
+          "name": "No\u00e9 Mina",
+          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Flourish",
+      "url": "https://open.spotify.com/track/4Hh1GjfBEjUsYzScundoWs"
+    },
+    {
+      "album": {
         "name": "fourth wave",
         "url": "https://open.spotify.com/album/7hzttSqPCyCw9q2senJNpt"
       },
@@ -2040,7 +2062,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 150378,
       "name": "Spore",
       "url": "https://open.spotify.com/track/7K9ZgydesA3IlT4Pc6ojqJ"

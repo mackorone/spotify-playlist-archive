@@ -4,7 +4,7 @@
 
 > Guerreras e independientes\. Foto: Fin del Mundo.
 
-608 songs - 1 day 10 hr 30 min
+609 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [fantasma](https://open.spotify.com/track/6UHmGelkukDsNbo2lKqoi6) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [fantasma](https://open.spotify.com/album/7yJzwzAmcw0LUZeMWnrYUh) | 3:14 | 2023-09-22 | 2023-10-11 |
 | [Fantasmas](https://open.spotify.com/track/09PyIVzV0oQlDkXwvFExDB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Fantasmas](https://open.spotify.com/album/4CiBWK8rGcw3MjgOqaAJAf) | 3:43 | 2022-01-14 | 2022-10-14 |
 | [Fantasmas](https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:43 | 2022-10-14 | 2023-06-10 |
-| [Fantástico](https://open.spotify.com/track/3FpnoOgJnoihLQoEmm9Y8h) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR), [Oli](https://open.spotify.com/artist/2c1M2ZvDn2Ikm4III7GrOy) | [Fantástico](https://open.spotify.com/album/7D0GfKfbXGfJW6YHfeAWTw) | 4:51 | 2022-01-21 |  |
+| [Fantástico](https://open.spotify.com/track/3FpnoOgJnoihLQoEmm9Y8h) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR), [Oli](https://open.spotify.com/artist/2c1M2ZvDn2Ikm4III7GrOy) | [Fantástico](https://open.spotify.com/album/7D0GfKfbXGfJW6YHfeAWTw) | 4:51 | 2022-01-21 | 2025-07-19 |
 | [Flashback](https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Flashback](https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm) | 3:02 | 2022-01-14 | 2022-07-29 |
 | [Formas](https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:18 | 2022-01-21 | 2025-03-03 |
 | [Fotos y Videos](https://open.spotify.com/track/4FqqOPeMZDiHXkDWakgjN5) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Fotos y Videos](https://open.spotify.com/album/0SlIh51qhhnp3FcqYqCLCL) | 2:56 | 2022-02-11 | 2022-07-27 |
@@ -245,6 +245,7 @@
 | [Honey, No Estás](https://open.spotify.com/track/1E6QpX1YCNfyXtZ4e6HUuS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/2DKRDBbJUMsolMv7mu9epd) | 3:26 | 2022-01-14 | 2022-07-29 |
 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 | 2022-07-15 | 2023-06-10 |
 | [Hospital Sentimental](https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hospital Sentimental](https://open.spotify.com/album/2TI5EI92Ji5MrzH9GcglFO) | 3:19 | 2023-06-09 | 2023-08-23 |
+| [Hoy Dejé De Llorar](https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Hoy Dejé De Llorar](https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D) | 2:31 | 2025-07-17 |  |
 | [Humo Azul](https://open.spotify.com/track/3lzI9bOPbvP2DqBczDFZZe) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Humo Azul](https://open.spotify.com/album/49ir9IVQ7JAqKmuvDpDSiO) | 3:08 | 2022-01-21 | 2022-07-08 |
 | [Huracán](https://open.spotify.com/track/0JSxdsH8gbHfSeSBWln1Sv) | [Yael Meyer](https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r) | [Huracán](https://open.spotify.com/album/6ihDqgMIIGgJSzrim0EVll) | 3:41 | 2022-04-01 | 2022-06-03 |
 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 | 2022-03-09 | 2023-08-19 |

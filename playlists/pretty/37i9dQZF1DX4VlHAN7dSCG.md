@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 宋德鶴 \(Song of crane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,356 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,357 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [如月](https://open.spotify.com/track/27Fjgz9y4VPfuAWLfob6nM) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI) | [如月](https://open.spotify.com/album/2vw9lZRZ6AlBy7i0OyZ2ow) | 4:36 |
-| 2 | [成為藝術之前的必要脆弱與非必要沈默 \- 單曲版](https://open.spotify.com/track/01DOXPyGyA7mD4wguj2uxk) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [成為藝術之前的必要脆弱與非必要沈默 \(單曲版\)](https://open.spotify.com/album/3HwDCCxyfqthZatxXQKPf3) | 2:27 |
+| 2 | [成為藝術之前的必要脆弱與非必要沉默](https://open.spotify.com/track/01DOXPyGyA7mD4wguj2uxk) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [成為藝術之前的必要脆弱與非必要沉默](https://open.spotify.com/album/3HwDCCxyfqthZatxXQKPf3) | 2:27 |
 | 3 | [多個朋友](https://open.spotify.com/track/1972fx4kf59FOjcrtrG5oW) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [ALL IN](https://open.spotify.com/album/17VorWmKJQbDTO6JxIAPgG) | 3:46 |
 | 4 | [優先遺忘](https://open.spotify.com/track/5Dt8Y1r3bLwpvL3TeF2rwX) | [魚條](https://open.spotify.com/artist/5NpkBOIMi2iJocLhi5MTde) | [優先遺忘](https://open.spotify.com/album/4aKVSS8eBnjfRpyxAsvRYM) | 4:17 |
 | 5 | [想和你說說話](https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [愛的對白](https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV) | 3:05 |

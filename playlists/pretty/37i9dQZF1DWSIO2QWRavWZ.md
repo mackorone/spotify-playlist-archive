@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 ### [Queen](https://open.spotify.com/playlist/37i9dQZF1DWSIO2QWRavWZ)
 
-> New music from your favorite women\.  Cover: Girlfriend
+> New music from your favorite women\.  Cover: Zyah Belle
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,274 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,259 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Emergency](https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY) | [It's Complicated](https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo) | 2:40 |
+| 1 | [Automatic](https://open.spotify.com/track/2mQPA3FjEoknJJPBmqMM4c) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Automatic](https://open.spotify.com/album/1Nv8jZuC0lWUQPRvASlg1s) | 3:34 |
 | 2 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
 | 3 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 |
 | 4 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
@@ -32,28 +32,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 22 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 23 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 |
 | 24 | [FEEL SOMETHING](https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW) | 2:32 |
-| 25 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 |
-| 26 | [Phuckups \(Hold Me\)](https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [FLUX](https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9) | 2:05 |
-| 27 | [10AM](https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [10AM](https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD) | 3:36 |
-| 28 | [Misunderstood](https://open.spotify.com/track/0jr7FK6kP2W9JFGsG4bYF4) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 2:18 |
-| 29 | [All I'd Ever Know](https://open.spotify.com/track/37M940BzP44UP3kbGeZCP5) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [All I'd Ever Know](https://open.spotify.com/album/7DXzjhLGPLiNYqM3YhUgpt) | 3:22 |
-| 30 | [Catching Feelings](https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Catching Feelings](https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR) | 3:25 |
-| 31 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
-| 32 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 |
-| 33 | [Kill Switch](https://open.spotify.com/track/1uLxsQ0X6utcJEV5qE5w88) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Kill Switch](https://open.spotify.com/album/2jESbKIGLtz7rRO38a9SFi) | 3:04 |
-| 34 | [Gravity](https://open.spotify.com/track/2pDPS1bUC7vARDFMFiE4Ll) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Who I Am](https://open.spotify.com/album/7oYlVvoOXd5vT7tH1Y6KNe) | 2:52 |
-| 35 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 |
-| 36 | [JOURNEY](https://open.spotify.com/track/3wPlPqFjJsqWayNqXkXyrU) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [S'ABLE SOUNDS](https://open.spotify.com/artist/6U7WxgiiEN0thKCXwAFah7) | [JOURNEY](https://open.spotify.com/album/5y7AKaA4ZqVUT10mnKi4CC) | 2:42 |
-| 37 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
-| 38 | [Soar](https://open.spotify.com/track/70TG24YZzgb1fmoot4XlI4) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/19EeD9KxRuWzZaIka0q9af) | 3:41 |
-| 39 | [FEEL GOOD](https://open.spotify.com/track/2jNtUfgoadBSo5pPfbdtxX) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [FREE](https://open.spotify.com/album/5kYK7Yov59At0MNDQBKR35) | 3:25 |
-| 40 | [money](https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [money](https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS) | 2:58 |
-| 41 | [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 |
-| 42 | [OpenYourEyes](https://open.spotify.com/track/0wD1hxkixWeoJrQIO81yC6) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [OpenYourEyes](https://open.spotify.com/album/1ZHsJmm8PifUz9CTSRFsLT) | 3:13 |
-| 43 | [Crossfaded](https://open.spotify.com/track/6IZ9zRj9hKmQQGaYkRxioA) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [Crossfaded](https://open.spotify.com/album/3oTgCAHMTZs9Nu298dAj8S) | 2:08 |
-| 44 | [In My Skin](https://open.spotify.com/track/2yhA25f6B1mh8YD1LcMMf5) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [In My Skin](https://open.spotify.com/album/0usR1hVcmOJHykaT2u5GGv) | 3:31 |
-| 45 | [Deus Deus](https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Deus Deus](https://open.spotify.com/album/24nI20pGu764BE49WzxMqn) | 4:03 |
-| 46 | [Say That](https://open.spotify.com/track/0WMr60ITPZdLH3wrIbs85p) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [WE NEED TO TALK: LOVE](https://open.spotify.com/album/2mX5bnPllHCjS0GdXTUi6W) | 2:56 |
+| 25 | [Emergency](https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY) | [It's Complicated](https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo) | 2:40 |
+| 26 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 |
+| 27 | [Phuckups \(Hold Me\)](https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [FLUX](https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9) | 2:05 |
+| 28 | [10AM](https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [10AM](https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD) | 3:36 |
+| 29 | [Misunderstood](https://open.spotify.com/track/0jr7FK6kP2W9JFGsG4bYF4) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 2:18 |
+| 30 | [All I'd Ever Know](https://open.spotify.com/track/37M940BzP44UP3kbGeZCP5) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [All I'd Ever Know](https://open.spotify.com/album/7DXzjhLGPLiNYqM3YhUgpt) | 3:22 |
+| 31 | [Catching Feelings](https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Catching Feelings](https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR) | 3:25 |
+| 32 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
+| 33 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 |
+| 34 | [Kill Switch](https://open.spotify.com/track/1uLxsQ0X6utcJEV5qE5w88) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Kill Switch](https://open.spotify.com/album/2jESbKIGLtz7rRO38a9SFi) | 3:04 |
+| 35 | [Gravity](https://open.spotify.com/track/2pDPS1bUC7vARDFMFiE4Ll) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Who I Am](https://open.spotify.com/album/7oYlVvoOXd5vT7tH1Y6KNe) | 2:52 |
+| 36 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 |
+| 37 | [JOURNEY](https://open.spotify.com/track/3wPlPqFjJsqWayNqXkXyrU) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [S'ABLE SOUNDS](https://open.spotify.com/artist/6U7WxgiiEN0thKCXwAFah7) | [JOURNEY](https://open.spotify.com/album/5y7AKaA4ZqVUT10mnKi4CC) | 2:42 |
+| 38 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
+| 39 | [Soar](https://open.spotify.com/track/70TG24YZzgb1fmoot4XlI4) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/19EeD9KxRuWzZaIka0q9af) | 3:41 |
+| 40 | [FEEL GOOD](https://open.spotify.com/track/2jNtUfgoadBSo5pPfbdtxX) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [FREE](https://open.spotify.com/album/5kYK7Yov59At0MNDQBKR35) | 3:25 |
+| 41 | [money](https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [money](https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS) | 2:58 |
+| 42 | [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 |
+| 43 | [OpenYourEyes](https://open.spotify.com/track/0wD1hxkixWeoJrQIO81yC6) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [OpenYourEyes](https://open.spotify.com/album/1ZHsJmm8PifUz9CTSRFsLT) | 3:13 |
+| 44 | [Crossfaded](https://open.spotify.com/track/6IZ9zRj9hKmQQGaYkRxioA) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [Crossfaded](https://open.spotify.com/album/3oTgCAHMTZs9Nu298dAj8S) | 2:08 |
+| 45 | [In My Skin](https://open.spotify.com/track/2yhA25f6B1mh8YD1LcMMf5) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [In My Skin](https://open.spotify.com/album/0usR1hVcmOJHykaT2u5GGv) | 3:31 |
+| 46 | [Deus Deus](https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Deus Deus](https://open.spotify.com/album/24nI20pGu764BE49WzxMqn) | 4:03 |
 | 47 | [Make Me Feel \(with LaRussell\)](https://open.spotify.com/track/3fWFpIGeEWYgrwV1peKywx) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM) | [Say Yes](https://open.spotify.com/album/3KvajQirBv0q6FPpD3JNag) | 3:09 |
 | 48 | [Mine](https://open.spotify.com/track/1vZjhrIgcBUD0HlSxaUbRb) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Mine](https://open.spotify.com/album/7EFyTSLVeJJxf765Z2fkfX) | 2:51 |
 | 49 | [SMH](https://open.spotify.com/track/0r4mIUyLLb3LmBfoyQfgYJ) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [SMH](https://open.spotify.com/album/4y8qnEMm9K0TWwOKSM5B12) | 2:47 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 54 | [Company](https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Company](https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT) | 3:39 |
 | 55 | [More Than Twice](https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:33 |
 
-Snapshot ID: `aHDGfQAAAADrOBRZBmpV7yGyB41cQcW5`
+Snapshot ID: `aHnl4QAAAABLw8qywBm08QfcMe3MN3Yi`

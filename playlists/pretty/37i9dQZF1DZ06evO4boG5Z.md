@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 
 > This is Millencolin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,295 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,302 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 48 | [Vixen](https://open.spotify.com/track/5EBKNotjiE8N7pkOCvPjrk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [The Melancholy Collection](https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V) | 1:49 |
 | 49 | [Fazil's Friend](https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 1:52 |
 
-Snapshot ID: `aHbrgAAAAAC3oCywjaraOEF6G70ArA+L`
+Snapshot ID: `aHg9AAAAAADeWJc+BKSft6AVdBuwyQi9`

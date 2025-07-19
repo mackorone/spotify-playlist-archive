@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The latest in pop. Cover: Sigrid",
+  "description": "The latest in pop. Cover: Jessie Murph",
   "name": "Pop All Day",
   "tracks": [
     {
@@ -190,6 +190,24 @@
       "duration_ms": 189192,
       "name": "15 MINUTES",
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
+    },
+    {
+      "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168247,
+      "name": "1965",
+      "url": "https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h"
     },
     {
       "album": {
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 165107,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
@@ -3198,7 +3216,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 182383,
       "name": "Bad As The Rest",
       "url": "https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH"
@@ -3764,6 +3782,24 @@
       "duration_ms": 156521,
       "name": "BEEEP",
       "url": "https://open.spotify.com/track/74SQFqd2MpOxiYiZLk3KYc"
+    },
+    {
+      "album": {
+        "name": "Been A Minute",
+        "url": "https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Been A Minute",
+      "url": "https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR"
     },
     {
       "album": {
@@ -4796,7 +4832,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 182008,
       "name": "Bloodline (with Jelly Roll)",
       "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
@@ -5604,7 +5640,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 187936,
       "name": "Breaking My Heart",
       "url": "https://open.spotify.com/track/0Eu5EfcaktD0KYCmn9VRYl"
@@ -5912,6 +5948,24 @@
       "duration_ms": 207909,
       "name": "buried alive",
       "url": "https://open.spotify.com/track/2yHcSn169Hjj5UjjLubk8U"
+    },
+    {
+      "album": {
+        "name": "BURN WITH YOU",
+        "url": "https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY"
+      },
+      "artists": [
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174609,
+      "name": "BURN WITH YOU",
+      "url": "https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM"
     },
     {
       "album": {
@@ -8694,7 +8748,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 157964,
       "name": "Dandelion Dreams",
       "url": "https://open.spotify.com/track/1MLA8Qhh3nMFuwnga9FYEJ"
@@ -11261,6 +11315,24 @@
     },
     {
       "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "album": {
         "name": "Europapa",
         "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
       },
@@ -11320,6 +11392,24 @@
       "duration_ms": 178819,
       "name": "Everybody Needs Someone (feat. Vance Joy)",
       "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
+    },
+    {
+      "album": {
+        "name": "Everything Anything",
+        "url": "https://open.spotify.com/album/2zqeDLjSfDLw69sM9VPnsk"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201811,
+      "name": "Everything Anything",
+      "url": "https://open.spotify.com/track/7xwNAdQd4CBZegpwoyCEZc"
     },
     {
       "album": {
@@ -14093,6 +14183,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "GO BABY",
+      "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
+    },
+    {
+      "album": {
         "name": "If Not Now",
         "url": "https://open.spotify.com/album/3bnUQXYTmyk3b3JerLWmza"
       },
@@ -14416,7 +14524,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 233514,
       "name": "Good",
       "url": "https://open.spotify.com/track/7nrMLJ9H40HBWunQZq4QEk"
@@ -14626,7 +14734,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 145706,
       "name": "Good To Be Alone",
       "url": "https://open.spotify.com/track/18f0ngPrmG9Pt219tFCQwm"
@@ -14916,6 +15024,24 @@
       "duration_ms": 168328,
       "name": "GREEN TXTS",
       "url": "https://open.spotify.com/track/7sWnxtGHO5vo5US2S5yIXM"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2ow19W5NPtxxon9dlOLOeC"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159356,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/7z1TcfdSiIg21c627E2MpI"
     },
     {
       "album": {
@@ -16136,6 +16262,24 @@
       "duration_ms": 195215,
       "name": "hell is a teenage girl",
       "url": "https://open.spotify.com/track/4FvcW8lzYpZ4bq9awSHZ1N"
+    },
+    {
+      "album": {
+        "name": "My Island",
+        "url": "https://open.spotify.com/album/6hPCjgkiYWt81n4qUmedX2"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123140,
+      "name": "Hello Kitty",
+      "url": "https://open.spotify.com/track/15DKXUHhpdc8yVV10UUihM"
     },
     {
       "album": {
@@ -17801,6 +17945,24 @@
     },
     {
       "album": {
+        "name": "I Can Die Now",
+        "url": "https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171280,
+      "name": "I Can Die Now",
+      "url": "https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM"
+    },
+    {
+      "album": {
         "name": "I Can Do It With a Broken Heart",
         "url": "https://open.spotify.com/album/3yVqF1TOg60hk9ehgMj3na"
       },
@@ -17906,6 +18068,24 @@
       "duration_ms": 178780,
       "name": "I Can't Help But Feel",
       "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
+    },
+    {
+      "album": {
+        "name": "I Can't Lose",
+        "url": "https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183284,
+      "name": "I Can\u2019t Lose",
+      "url": "https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H"
     },
     {
       "album": {
@@ -19936,7 +20116,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 142030,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/29QaOkFHNTo6ftbcEGGrwe"
@@ -23675,6 +23855,24 @@
     },
     {
       "album": {
+        "name": "Love You From Afar",
+        "url": "https://open.spotify.com/album/2hzVpTM9EvD21sXc8R5gPo"
+      },
+      "artists": [
+        {
+          "name": "CARYS",
+          "url": "https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217794,
+      "name": "Love You From Afar",
+      "url": "https://open.spotify.com/track/5VI3nTinfHqj6KyIwoNCqh"
+    },
+    {
+      "album": {
         "name": "Love You More",
         "url": "https://open.spotify.com/album/2eCzscuLn8UWrA4vMJo8CZ"
       },
@@ -24110,7 +24308,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 174969,
       "name": "Mad",
       "url": "https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K"
@@ -27346,7 +27544,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 114030,
       "name": "NO FAVORS",
       "url": "https://open.spotify.com/track/0yC5FVKCYgPdPqkBxifItx"
@@ -29992,10 +30190,28 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 151302,
       "name": "Polo",
       "url": "https://open.spotify.com/track/1kIaWGC4L8NhLYGh0rZg6z"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories, Volume I",
+        "url": "https://open.spotify.com/album/1jblgU9JKc2imw0p8zmGKn"
+      },
+      "artists": [
+        {
+          "name": "Allegra Jordyn",
+          "url": "https://open.spotify.com/artist/2CVFLhroSUN5E5r8FW25LR"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197177,
+      "name": "Poltergeist",
+      "url": "https://open.spotify.com/track/0JLYg7oPEe1aGQEbcc1JZF"
     },
     {
       "album": {
@@ -36076,10 +36292,28 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 185213,
       "name": "SWEET SPOT",
       "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD"
+    },
+    {
+      "album": {
+        "name": "Sweet Talker",
+        "url": "https://open.spotify.com/album/6NZ7HWOINcxKVJgGANnQzM"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203949,
+      "name": "Sweet Talker",
+      "url": "https://open.spotify.com/track/7iIqUhYCwzIiQkrMvJg6vz"
     },
     {
       "album": {
@@ -40076,7 +40310,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 152245,
       "name": "Useless",
       "url": "https://open.spotify.com/track/47VRidUiwdTanJ8GxyECT2"
@@ -41706,7 +41940,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 170302,
       "name": "When it's Over",
       "url": "https://open.spotify.com/track/1f0RSKXNLaBUpk7XXturyh"
@@ -42102,7 +42336,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 163636,
       "name": "where the sunlight glows",
       "url": "https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu"
@@ -42380,6 +42614,24 @@
       "duration_ms": 91309,
       "name": "whose love",
       "url": "https://open.spotify.com/track/5NuABtgxyIFRZ3Y9PccU10"
+    },
+    {
+      "album": {
+        "name": "Why Is She Still Here?",
+        "url": "https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150255,
+      "name": "Why Is She Still Here?",
+      "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
     },
     {
       "album": {

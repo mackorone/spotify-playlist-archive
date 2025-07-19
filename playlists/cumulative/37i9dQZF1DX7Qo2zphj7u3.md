@@ -4,7 +4,7 @@
 
 > Las románticas de hoy con las de siempre\. Foto: Alejandro Sanz & Shakira
 
-503 songs - 1 day 9 hr 18 min
+504 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 | 2022-01-25 | 2023-05-15 |
 | [Beso a beso..\. dulcemente](https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [En directo](https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ) | 4:12 | 2022-01-25 | 2024-05-11 |
 | [Brazos de Sol \- Si Fuera Mía](https://open.spotify.com/track/2MWVSR5b853R2ikn0cAVda) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Brazos de Sol \(Si Fuera Mía\)](https://open.spotify.com/album/1ApT7fQZcVOSU2ffem3dOX) | 3:57 | 2022-01-25 | 2022-07-29 |
+| [Brecha](https://open.spotify.com/track/5lLK0RKHZSqojJr4kZMAuJ) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Brecha](https://open.spotify.com/album/1YUqU6EcmPdlTm9PQttPqO) | 3:01 | 2025-07-18 |  |
 | [Bésame](https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Bésame](https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl) | 3:22 | 2025-05-23 |  |
 | [Bésame](https://open.spotify.com/track/4LjyEL2sAQU7QZPC6GuTf6) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 4:12 | 2022-01-25 |  |
 | [Bésame](https://open.spotify.com/track/7kcSKOl5rR4zGxFNYhkeRX) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [En Tus Planes](https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy) | 3:20 | 2022-01-25 | 2024-05-11 |
@@ -498,7 +499,7 @@
 | [Yo No Nací para Amar](https://open.spotify.com/track/2DlsKSDKNph8WC6FMeL6TF) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mi Historia Musical \- Juan Gabriel](https://open.spotify.com/album/40MZoVyhtsHn83wB3FevRe) | 4:29 | 2022-01-25 | 2022-07-27 |
 | [Yo No Nací para Amar](https://open.spotify.com/track/5dzyCRgh6GpLg4bUnYWgGI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/7LUl8V8OkpiygImst4pOmk) | 4:30 | 2022-08-05 | 2022-11-14 |
 | [Yo No Sé Que Me Pasó](https://open.spotify.com/track/0UCgNgJYVQDXGB6E2S7Sri) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Los Dúo 2](https://open.spotify.com/album/4NgnRkO39yllR4w9YqSO6a) | 4:42 | 2022-01-25 | 2022-07-29 |
-| [Yo no te pido la luna \(Non voglio mica la luna\)](https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Amor prohibido](https://open.spotify.com/album/6rV8qvncvelhF14cffRfun) | 3:56 | 2022-01-25 |  |
+| [Yo no te pido la luna \(Non voglio mica la luna\)](https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Amor prohibido](https://open.spotify.com/album/6rV8qvncvelhF14cffRfun) | 3:56 | 2022-01-25 | 2025-07-19 |
 | [Yo Quisiera](https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS) | 3:37 | 2022-01-25 |  |
 | [Yo Te Amo](https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 4:48 | 2022-01-25 |  |
 | [Yo Te Pido Amor](https://open.spotify.com/track/6XX94OLURwLYyvh0kdHm6m) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:46 | 2022-01-25 | 2024-04-19 |

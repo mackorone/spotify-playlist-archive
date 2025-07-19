@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1604655,
+  "num_followers": 1604625,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 102106,
-      "name": "Knowledge - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 221506,
       "name": "Personality Crisis",
       "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 102106,
+      "name": "Knowledge - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Fresh Fruit for Rotting Vegetables",
-        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 283800,
       "name": "Add It Up - 2002 Remastered Version",
       "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Fresh Fruit for Rotting Vegetables",
+        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Unknown Pleasures",
-        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 91240,
       "name": "Minor Threat",
       "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Unknown Pleasures",
+        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "She's Lost Control - 2007 Remaster",
+      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 132786,
-      "name": "Banned In D.C.",
-      "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "First Two 7s",
         "url": "https://open.spotify.com/album/3OirN90yBh2bSaIHcWyGsV"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 47226,
       "name": "Straight Edge",
       "url": "https://open.spotify.com/track/1xXKacUn8XhZ2ifv05RjL1"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 132786,
+      "name": "Banned In D.C.",
+      "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Can I Say",
-        "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
-      },
-      "artists": [
-        {
-          "name": "Dag Nasty",
-          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Salad Days",
         "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 166120,
       "name": "Salad Days",
       "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Can I Say",
+        "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
+      },
+      "artists": [
+        {
+          "name": "Dag Nasty",
+          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
     },
     {
       "added_at": "2024-11-29 00:00:00",

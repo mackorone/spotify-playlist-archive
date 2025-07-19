@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,361 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,363 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 36 | [Ay Amor](https://open.spotify.com/track/0FEy5me9ZbbCVPMdPITNhi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:29 |
 | 37 | [Sufrimos De Lo Mismo](https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:41 |
 | 38 | [Cha Cha \- Bandera Blanca](https://open.spotify.com/track/6TnIcW5IzJFr9lqvHmZWDP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:54 |
-| 39 | [Estar Contigo](https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Estar Contigo](https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu) | 3:48 |
-| 40 | [Navegando](https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 2:59 |
-| 41 | [Amor Sincero](https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:34 |
-| 42 | [La Pena](https://open.spotify.com/track/1ixyB5FPbpXJQGRG4jSIdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Pena](https://open.spotify.com/album/5AZrYlE2IghdBW9MZsA9Zu) | 2:02 |
-| 43 | [Tu Nombre](https://open.spotify.com/track/7HvuLU19kk8CyeC6l0WOlq) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu Nombre](https://open.spotify.com/album/5wAhhAcKifWHboMzI9TjmC) | 2:44 |
-| 44 | [Pan y mantequilla \(feat\. Mike Bahía\)](https://open.spotify.com/track/19lKEvyLuIQzHlsXVXJSK3) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Pan y mantequilla \(feat\. Mike Bahía\)](https://open.spotify.com/album/55TklthdUXnsj5YtXKV1Od) | 3:21 |
+| 39 | [Amor Sincero](https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:34 |
+| 40 | [Estar Contigo](https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Estar Contigo](https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu) | 3:48 |
+| 41 | [Navegando](https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 2:59 |
+| 42 | [Pan y mantequilla \(feat\. Mike Bahía\)](https://open.spotify.com/track/3hsRR0tva1cmxWZ2j5M6Rv) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [DIEZ](https://open.spotify.com/album/0djEi0YumLKVrLMQgY6hmC) | 3:21 |
+| 43 | [La Pena](https://open.spotify.com/track/1ixyB5FPbpXJQGRG4jSIdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Pena](https://open.spotify.com/album/5AZrYlE2IghdBW9MZsA9Zu) | 2:02 |
+| 44 | [Tu Nombre](https://open.spotify.com/track/7HvuLU19kk8CyeC6l0WOlq) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu Nombre](https://open.spotify.com/album/5wAhhAcKifWHboMzI9TjmC) | 2:44 |
 | 45 | [Tu Enemiga](https://open.spotify.com/track/3NxJKoYi9WMBuZdk4UdJuK) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu Enemiga](https://open.spotify.com/album/0uAiQ6Ul6cmEZp0py1AQpD) | 3:26 |
 | 46 | [Gracias](https://open.spotify.com/track/5nVQQ8OC27WSMVdOX35DfY) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [ATACA SERGIO! Presents: URBAN SALSA SESSIONS!](https://open.spotify.com/album/4uPusTcYeflF9cHUbqrnBw) | 2:50 |
 | 47 | [Si tú te vas \(feat\. Mike Bahía\)](https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si tú te vas \(feat\. Mike Bahía\)](https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 49 | [La Depre](https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Depre](https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4) | 2:03 |
 | 50 | [Magdalena](https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Magdalena](https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn) | 3:18 |
 
-Snapshot ID: `aHbrgAAAAACheYFfoc+q247Fpzw/k+SQ`
+Snapshot ID: `aHg9AAAAAAB9Z0TZY5rnvM0JmTedqWTj`

@@ -1,13 +1,49 @@
 {
-  "description": "A new take on a classic sound. Cover: Jon Batiste",
-  "num_followers": 367370,
+  "description": "A new take on a classic sound. Cover: Hermanos Guti\u00e9rrez x Leon Bridges",
+  "num_followers": 367504,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHfMTwAAAACbjmUTWBS+rbxhE4mdxU+P",
+  "snapshot_id": "aHnGzAAAAAAw7pje1ZxaHx5gD0vQMVjN",
   "tracks": [
+    {
+      "added_at": "2025-07-18 04:00:12",
+      "album": {
+        "name": "Elegantly Wasted [Feat. Leon Bridges]",
+        "url": "https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 213062,
+      "name": "Elegantly Wasted [Feat. Leon Bridges]",
+      "url": "https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq"
+    },
+    {
+      "added_at": "2025-07-18 04:00:12",
+      "album": {
+        "name": "I'd Be Lost",
+        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 167012,
+      "name": "I'd Be Lost",
+      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
+    },
     {
       "added_at": "2025-07-16 15:59:11",
       "album": {
@@ -23,6 +59,22 @@
       "duration_ms": 154174,
       "name": "BIG MONEY",
       "url": "https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2"
+    },
+    {
+      "added_at": "2025-07-18 04:00:12",
+      "album": {
+        "name": "Amazing",
+        "url": "https://open.spotify.com/album/3WP0A1hksYMbO913fap5PF"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1jjfb6Ne65MgkrT3jTJMLv"
     },
     {
       "added_at": "2025-07-16 15:59:11",
@@ -75,6 +127,22 @@
       "duration_ms": 202533,
       "name": "True Love Can't Be Blind",
       "url": "https://open.spotify.com/track/13XkT1WvbAFyDvltA9ubt6"
+    },
+    {
+      "added_at": "2025-07-18 04:00:12",
+      "album": {
+        "name": "See Through",
+        "url": "https://open.spotify.com/album/64xN67Mp1r0LoKCyMJ9Jsb"
+      },
+      "artists": [
+        {
+          "name": "Patrick Sweany",
+          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
+        }
+      ],
+      "duration_ms": 253354,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/6muJT0L9jOn9SOdd2CWBWg"
     },
     {
       "added_at": "2025-06-13 04:00:36",
@@ -179,6 +247,22 @@
       "duration_ms": 178081,
       "name": "It's Been Too Long (Since I've Loved Someone)",
       "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
+    },
+    {
+      "added_at": "2025-07-18 04:00:12",
+      "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/0t1tbrvYOZhB3ANSUuCzt0"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "duration_ms": 229886,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/0uGAuUzVvLEigxaK9rC7Mp"
     },
     {
       "added_at": "2025-05-16 04:00:18",
@@ -733,26 +817,6 @@
       "url": "https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/1vAppHpW6mUSUIP4MbQUOv"
-      },
-      "artists": [
-        {
-          "name": "Isak Thomas and The Stoop Boys",
-          "url": "https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa"
-        },
-        {
-          "name": "Wildman",
-          "url": "https://open.spotify.com/artist/3cKiY3udEXBzVYO2Ce1PrQ"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/0J682N2n8YoOFq3z02ItvK"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Your Team",
@@ -923,22 +987,6 @@
       "duration_ms": 169533,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1svVLna35B0S0gYRE41UhR"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Perak",
-        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 116550,
-      "name": "No One Else",
-      "url": "https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1621,38 +1669,6 @@
       "url": "https://open.spotify.com/track/6Oao4bGYFGXppmlI0cjIiS"
     },
     {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "Still Alive",
-        "url": "https://open.spotify.com/album/7byQuT5JOWWfHTfu7zpxxT"
-      },
-      "artists": [
-        {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/6op7RGEgw2gs49M87Uct2p"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Ice Cream (Pay Phone)",
-        "url": "https://open.spotify.com/album/4svoTYb9vSUhLISpZu9IYq"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "Ice Cream (Pay Phone)",
-      "url": "https://open.spotify.com/track/3jQfjIyAlnIDXJt5956iSZ"
-    },
-    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "Loving You is All I Want to Do",
@@ -1687,22 +1703,6 @@
       "duration_ms": 237200,
       "name": "This Could Last Forever",
       "url": "https://open.spotify.com/track/4QvXMdjbpYKw86TDFFmXlI"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/3WDkQ6nXADxHuZ4c94TqwE"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 146293,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2Ex6PBUZ3fsF6slCIiqIdp"
     }
   ],
   "unique_name": "Retro Soul",

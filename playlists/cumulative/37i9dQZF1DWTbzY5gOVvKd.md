@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-205 songs - 14 hr 12 min
+206 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Come Rain or Come Shine \(with John Mayer\)](https://open.spotify.com/track/2d02A2eoTYHOnI162zeAKQ) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Partners](https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en) | 4:10 | 2022-08-10 | 2024-04-19 |
 | [Dance me Love](https://open.spotify.com/track/6HuDtUKtqmoEyHV9tdBt4g) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc), [Vince Mendoza](https://open.spotify.com/artist/4E9rsN1uXPIM0zc9CwVBSt), [Stavanger Symphony Orchestra](https://open.spotify.com/artist/6028AM0lpCOWtl8rCfm88l) | [Dance me Love](https://open.spotify.com/album/6mMuAmH1j9RPmq7tU4hBNP) | 6:50 | 2025-02-07 | 2025-02-14 |
 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 | 2019-05-26\* | 2025-06-28 |
+| [Day by Day](https://open.spotify.com/track/7nCLWAwlLfJgg4xDm4qjyA) | [Brandon Estrada](https://open.spotify.com/artist/32s9nbMhyhXRKma5C6VusV), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Day By Day](https://open.spotify.com/album/2gVd0QcZkUBmJJSD6AL9do) | 3:05 | 2025-07-18 |  |
 | [Deep in a Dream](https://open.spotify.com/track/0QR4BgqJvmtqQH7OoTQWIJ) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/3AMHrE4rMoeNdtjS6s7zIY) | 4:05 | 2019-05-27 |  |
 | [Deep in a Dream](https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB) | 4:05 | 2022-10-11 | 2024-04-19 |
 | [Don't Take Your Love from Me](https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem on My Mind](https://open.spotify.com/album/4ke3olYfrnMtMkYORPzGO5) | 4:52 | 2019-05-26\* |  |
@@ -53,7 +54,7 @@
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2022-05-02 |  |
 | [Embraceable You](https://open.spotify.com/track/4DeblNB0dvJEm2icN9mv2L) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 3:40 | 2022-05-02 | 2022-10-22 |
 | [Embraceable You](https://open.spotify.com/track/2TWBu8KQdlGA4SoqeFJ73A) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU) | 3:42 | 2022-11-08 | 2023-08-25 |
-| [Every Time We Say Goodbye](https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads: Remembering John Coltrane](https://open.spotify.com/album/5z4JBgjuPRJa0o3KFmWAOp) | 6:01 | 2019-05-26\* |  |
+| [Every Time We Say Goodbye](https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads: Remembering John Coltrane](https://open.spotify.com/album/5z4JBgjuPRJa0o3KFmWAOp) | 6:01 | 2019-05-26\* | 2025-07-19 |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 6:01 | 2022-06-22 | 2024-04-19 |
 | [First Time](https://open.spotify.com/track/2Um1CzJYNjxvNZZWHiMXtA) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/78qI1KR0g7JiLB3mc2WXYz) | 4:11 | 2019-05-26\* |  |
 | [First Time](https://open.spotify.com/track/2km0Pwo18ZINnBh67fgRA3) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:11 | 2022-09-13 | 2023-12-24 |

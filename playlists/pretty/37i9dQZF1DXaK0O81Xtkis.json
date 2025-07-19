@@ -1,28 +1,80 @@
 {
-  "description": "a little indie, a little pop.  Cover: Fly By Midnight",
-  "num_followers": 227855,
+  "description": "a little indie, a little pop.  Cover: Thomas Day",
+  "num_followers": 227909,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHCMVQAAAADSYl9DuhbhDiu7aZvNIo2V",
+  "snapshot_id": "aHpoxgAAAAB36hrj/kea+ictpElpHZh+",
   "tracks": [
     {
       "added_at": "2025-07-11 04:00:21",
       "album": {
-        "name": "The Fastest Time Of Our Lives",
-        "url": "https://open.spotify.com/album/7r7Q2FOiZugbsWuD9N9ZPl"
+        "name": "she got a thing about her",
+        "url": "https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy"
       },
       "artists": [
         {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
         }
       ],
-      "duration_ms": 187664,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/2sVZmdIZfmUNwn31rQJuxy"
+      "duration_ms": 138646,
+      "name": "she got a thing about her",
+      "url": "https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz"
+    },
+    {
+      "added_at": "2025-07-18 04:13:42",
+      "album": {
+        "name": "I Can Die Now",
+        "url": "https://open.spotify.com/album/0k7o4QYwQEmbCnF6mFhB5H"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 170785,
+      "name": "I Can Die Now",
+      "url": "https://open.spotify.com/track/6fzN61K7pQ6rooDa0zMe5B"
+    },
+    {
+      "added_at": "2025-07-18 04:13:42",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/78dPFW1kVn6CvDKFhz6MOF"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/1bEgyMW0qkchQo6n3lrHp2"
+    },
+    {
+      "added_at": "2025-07-18 04:13:42",
+      "album": {
+        "name": "Summer Uptown",
+        "url": "https://open.spotify.com/album/085rPTSE58Xz9xAUYcfVeZ"
+      },
+      "artists": [
+        {
+          "name": "jasontheween",
+          "url": "https://open.spotify.com/artist/56z8RFFEGWfUFHzvgv70SB"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 155364,
+      "name": "Summer Uptown",
+      "url": "https://open.spotify.com/track/7t98lQEVYPP58rkubC03Mh"
     },
     {
       "added_at": "2025-07-11 04:00:21",
@@ -41,6 +93,70 @@
       "url": "https://open.spotify.com/track/1ISuBnU4WRaIPStD2hktp4"
     },
     {
+      "added_at": "2025-07-18 04:13:42",
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/3EzU1SormJ1SnlKEKg8L91"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 181889,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/02KGJLnY7h0e8P4T0rf0bC"
+    },
+    {
+      "added_at": "2025-07-18 04:13:42",
+      "album": {
+        "name": "Everything Anything",
+        "url": "https://open.spotify.com/album/2zqeDLjSfDLw69sM9VPnsk"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 201811,
+      "name": "Everything Anything",
+      "url": "https://open.spotify.com/track/7xwNAdQd4CBZegpwoyCEZc"
+    },
+    {
+      "added_at": "2025-07-11 04:00:21",
+      "album": {
+        "name": "The Fastest Time Of Our Lives",
+        "url": "https://open.spotify.com/album/7r7Q2FOiZugbsWuD9N9ZPl"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "duration_ms": 187664,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/2sVZmdIZfmUNwn31rQJuxy"
+    },
+    {
+      "added_at": "2025-07-18 04:13:42",
+      "album": {
+        "name": "Cry Cry Cry",
+        "url": "https://open.spotify.com/album/3VqLwj6IxrX2XYXU8XHI4F"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 178098,
+      "name": "Cry Cry Cry",
+      "url": "https://open.spotify.com/track/7khKM6qJ3Yg48VOxLVoKNj"
+    },
+    {
       "added_at": "2025-07-04 04:00:35",
       "album": {
         "name": "dance around it",
@@ -57,20 +173,20 @@
       "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
     },
     {
-      "added_at": "2025-07-11 04:00:21",
+      "added_at": "2025-07-18 04:13:42",
       "album": {
-        "name": "she got a thing about her",
-        "url": "https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy"
+        "name": "Dumb Sh*t",
+        "url": "https://open.spotify.com/album/6IjplgJQMTnwnLxl1ksHKx"
       },
       "artists": [
         {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
         }
       ],
-      "duration_ms": 138646,
-      "name": "she got a thing about her",
-      "url": "https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz"
+      "duration_ms": 183335,
+      "name": "Dumb Sh*t",
+      "url": "https://open.spotify.com/track/3rmV6ecjLBkeGwzEJgiYMP"
     },
     {
       "added_at": "2025-07-11 04:00:21",
@@ -89,6 +205,54 @@
       "url": "https://open.spotify.com/track/5F1QktfxOgkz6ZIU6FUPHD"
     },
     {
+      "added_at": "2025-07-18 13:45:51",
+      "album": {
+        "name": "Life Adjacent",
+        "url": "https://open.spotify.com/album/2lC7g5erRduyc7agA4aQj5"
+      },
+      "artists": [
+        {
+          "name": "scott is okay",
+          "url": "https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "Life Adjacent",
+      "url": "https://open.spotify.com/track/43CUcHTkWFxtzhEdY7MgdF"
+    },
+    {
+      "added_at": "2025-07-18 04:13:42",
+      "album": {
+        "name": "Good Swimmer",
+        "url": "https://open.spotify.com/album/3BgOy8QjXE5ADJ9QmLVRfl"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "duration_ms": 134634,
+      "name": "Good Swimmer",
+      "url": "https://open.spotify.com/track/5xWgfHXQe1avZembVFmbiN"
+    },
+    {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/5agU8VDl3O3RCdslS3p5Wg"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "June",
+      "url": "https://open.spotify.com/track/0cCX9hZfhr138GDXFbTemL"
+    },
+    {
       "added_at": "2025-07-11 04:00:21",
       "album": {
         "name": "Betty",
@@ -103,6 +267,22 @@
       "duration_ms": 163669,
       "name": "Betty",
       "url": "https://open.spotify.com/track/2kb638zLMKUHOx4rhd4ttD"
+    },
+    {
+      "added_at": "2025-07-18 15:31:18",
+      "album": {
+        "name": "Spoil My Night",
+        "url": "https://open.spotify.com/album/5LJrdT0sSUEKE6hDHDYYEQ"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        }
+      ],
+      "duration_ms": 239799,
+      "name": "Spoil My Night",
+      "url": "https://open.spotify.com/track/0fERVAjuA2g2XBONBC5dey"
     },
     {
       "added_at": "2025-07-11 04:00:21",
@@ -135,22 +315,6 @@
       "duration_ms": 183695,
       "name": "Miss Me Vendetta",
       "url": "https://open.spotify.com/track/0gxTKWnU4Nw96sA4na2xUN"
-    },
-    {
-      "added_at": "2025-06-27 04:00:34",
-      "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/5agU8VDl3O3RCdslS3p5Wg"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "June",
-      "url": "https://open.spotify.com/track/0cCX9hZfhr138GDXFbTemL"
     },
     {
       "added_at": "2025-07-11 04:00:21",
@@ -601,22 +765,6 @@
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
     },
     {
-      "added_at": "2025-06-13 04:00:59",
-      "album": {
-        "name": "The Beginning of Us",
-        "url": "https://open.spotify.com/album/4MeY1nCrurVL8oCRNWCBzm"
-      },
-      "artists": [
-        {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "The Beginning of Us",
-      "url": "https://open.spotify.com/track/2qnNiVC07rM5gxzL9f0mgE"
-    },
-    {
       "added_at": "2025-06-20 04:00:45",
       "album": {
         "name": "The Last Laugh (Part I)",
@@ -679,22 +827,6 @@
       "duration_ms": 191050,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/0gNf2MHNWlktWxVRHfGhFb"
-    },
-    {
-      "added_at": "2025-05-30 04:00:34",
-      "album": {
-        "name": "Marianne",
-        "url": "https://open.spotify.com/album/0ucvu4XHxscTNmujLfQTQs"
-      },
-      "artists": [
-        {
-          "name": "Eli",
-          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
-        }
-      ],
-      "duration_ms": 190032,
-      "name": "Marianne",
-      "url": "https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS"
     },
     {
       "added_at": "2025-03-14 04:00:02",
@@ -845,22 +977,6 @@
       "url": "https://open.spotify.com/track/2wQ7cDLALd9OlYMEkhtgwx"
     },
     {
-      "added_at": "2025-05-23 04:00:48",
-      "album": {
-        "name": "body language",
-        "url": "https://open.spotify.com/album/5UyYQgjEMqHNX7EqUZ28cb"
-      },
-      "artists": [
-        {
-          "name": "joan",
-          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "body language",
-      "url": "https://open.spotify.com/track/6xs1WkRjbCHuYrfsCWT7ap"
-    },
-    {
       "added_at": "2025-02-28 05:01:00",
       "album": {
         "name": "Almost, So Close, Maybe",
@@ -875,22 +991,6 @@
       "duration_ms": 167404,
       "name": "Almost, So Close, Maybe",
       "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
-    },
-    {
-      "added_at": "2025-05-30 04:00:34",
-      "album": {
-        "name": "my simple life",
-        "url": "https://open.spotify.com/album/1xAkst526OTH0FQNrApHrj"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 171087,
-      "name": "my simple life",
-      "url": "https://open.spotify.com/track/1FpUKD9oPAKA9jv1BH6jEl"
     },
     {
       "added_at": "2025-05-16 04:00:10",
@@ -923,38 +1023,6 @@
       "duration_ms": 224733,
       "name": "Sleeping With The Lights On",
       "url": "https://open.spotify.com/track/79WmVVG6KbCecp45eyhbfX"
-    },
-    {
-      "added_at": "2025-05-16 04:00:10",
-      "album": {
-        "name": "Out of Your League",
-        "url": "https://open.spotify.com/album/4Tfc6JkbqehfTP7rF725kd"
-      },
-      "artists": [
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Out of Your League",
-      "url": "https://open.spotify.com/track/1oU2liz5XrN3xpT23F6Q3O"
-    },
-    {
-      "added_at": "2025-05-16 04:00:10",
-      "album": {
-        "name": "Disco Cowgirl",
-        "url": "https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 205156,
-      "name": "Disco Cowgirl",
-      "url": "https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp"
     },
     {
       "added_at": "2025-03-21 04:01:01",

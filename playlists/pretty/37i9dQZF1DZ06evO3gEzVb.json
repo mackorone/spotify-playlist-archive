@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 6322,
+  "num_followers": 6326,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADnjT6KVReM7/XFzmyCiWRC",
+  "snapshot_id": "aHg9AAAAAABXTayrLysrtjUcbSC+Za1c",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 297213,
-      "name": "Menya Mpo",
-      "url": "https://open.spotify.com/track/3lTBJkKqCcigu8WXlsuLqF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bubra",
         "url": "https://open.spotify.com/album/5ES10MtwAoKPQ49cLh2RBd"
       },
@@ -95,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Boy",
-        "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
       },
       "artists": [
         {
@@ -104,9 +88,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 355133,
-      "name": "Mensei Da (Harry)",
-      "url": "https://open.spotify.com/track/73rn8UZBXBh4SYbeMxUMX1"
+      "duration_ms": 297213,
+      "name": "Menya Mpo",
+      "url": "https://open.spotify.com/track/3lTBJkKqCcigu8WXlsuLqF"
     },
     {
       "added_at": null,
@@ -127,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
+        "name": "Play Boy",
+        "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
       },
       "artists": [
         {
@@ -136,9 +120,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 349013,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk"
+      "duration_ms": 355133,
+      "name": "Mensei Da (Harry)",
+      "url": "https://open.spotify.com/track/73rn8UZBXBh4SYbeMxUMX1"
     },
     {
       "added_at": null,
@@ -159,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Boy",
-        "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
       },
       "artists": [
         {
@@ -168,9 +152,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 375555,
-      "name": "Bribi Gyegye Wo",
-      "url": "https://open.spotify.com/track/38x7yHTK6rbrpHWPJyAJ9O"
+      "duration_ms": 349013,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk"
     },
     {
       "added_at": null,
@@ -191,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
+        "name": "Play Boy",
+        "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
       },
       "artists": [
         {
@@ -200,9 +184,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 297013,
-      "name": "Akoma Da Akoma So",
-      "url": "https://open.spotify.com/track/0lLBfOYiCfwWjUDhMUumu1"
+      "duration_ms": 375555,
+      "name": "Bribi Gyegye Wo",
+      "url": "https://open.spotify.com/track/38x7yHTK6rbrpHWPJyAJ9O"
     },
     {
       "added_at": null,
@@ -223,6 +207,22 @@
       "duration_ms": 275013,
       "name": "Pony",
       "url": "https://open.spotify.com/track/1nbapexUS9pgxFCEfgUmLg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 297013,
+      "name": "Akoma Da Akoma So",
+      "url": "https://open.spotify.com/track/0lLBfOYiCfwWjUDhMUumu1"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 361813,
-      "name": "111666",
-      "url": "https://open.spotify.com/track/3HpxjvcV8wCi9aDtXgq59t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aben Wo Aha",
         "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 289960,
       "name": "Se Wo Da Ento Pono Mu",
       "url": "https://open.spotify.com/track/7EqpMSnnxLC9gECCX5Y6MJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 361813,
+      "name": "111666",
+      "url": "https://open.spotify.com/track/3HpxjvcV8wCi9aDtXgq59t"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 386089,
-      "name": "S\u025bsee Wo Se",
-      "url": "https://open.spotify.com/track/3bm3TifQ8suct6OfRd0lJM"
+      "duration_ms": 317701,
+      "name": "Anidaso Woho Ma Obiara",
+      "url": "https://open.spotify.com/track/3foSzTyAH65I38QAUl3GQs"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 317701,
-      "name": "Anidaso Woho Ma Obiara",
-      "url": "https://open.spotify.com/track/3foSzTyAH65I38QAUl3GQs"
+      "duration_ms": 386089,
+      "name": "S\u025bsee Wo Se",
+      "url": "https://open.spotify.com/track/3bm3TifQ8suct6OfRd0lJM"
     },
     {
       "added_at": null,

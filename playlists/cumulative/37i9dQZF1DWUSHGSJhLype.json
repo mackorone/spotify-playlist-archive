@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grupo Menos \u00c9 Mais, Simone Mendes",
+  "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grupo Menos \u00c9 Mais",
   "name": "PURO SUCO DO BRASIL",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 192026,
       "name": "Acenda o farol",
       "url": "https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 136500,
       "name": "Alto Padr\u00e3o",
       "url": "https://open.spotify.com/track/4ZjWWshtk4HVKFh6YWpRNG"
@@ -794,6 +794,24 @@
       "duration_ms": 200723,
       "name": "Anota A\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/5a2CIQaMW3Keqtx4BdXbEY"
+    },
+    {
+      "album": {
+        "name": "Apagar (Fundo Raso)",
+        "url": "https://open.spotify.com/album/05WlbzO3TLzH0Qp6Wudg6f"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Apagar (Fundo Raso)",
+      "url": "https://open.spotify.com/track/1MUK1YtogJl1f3SF3APmyL"
     },
     {
       "album": {
@@ -1164,6 +1182,32 @@
       "duration_ms": 136615,
       "name": "BANDIDONA",
       "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
+    },
+    {
+      "album": {
+        "name": "Panda Sem Modera\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146750,
+      "name": "Baqueado - Ao Vivo",
+      "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
     },
     {
       "album": {
@@ -1572,7 +1616,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Cama Embrasa",
       "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
@@ -3595,6 +3639,32 @@
     },
     {
       "album": {
+        "name": "FAMOSINHA",
+        "url": "https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26"
+      },
+      "artists": [
+        {
+          "name": "Dj Caio Vieira",
+          "url": "https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132922,
+      "name": "FAMOSINHA",
+      "url": "https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al"
+    },
+    {
+      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/3z9mu7QMR2plXI3Pg5Kg1g"
       },
@@ -4296,6 +4366,42 @@
       "duration_ms": 137293,
       "name": "Im\u00e3 de Problema",
       "url": "https://open.spotify.com/track/7HrDxxY2b7vOKxJHtqdXN6"
+    },
+    {
+      "album": {
+        "name": "Instinto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
+      },
+      "artists": [
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213559,
+      "name": "Instinto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
+    },
+    {
+      "album": {
+        "name": "Churrasquinho 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311077,
+      "name": "Jejum de Amor / Caixa Postal / Vida Vazia - Ao Vivo",
+      "url": "https://open.spotify.com/track/2je7f5dovpUabOqTSfyD5V"
     },
     {
       "album": {
@@ -5050,7 +5156,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 120115,
       "name": "Malvadinho",
       "url": "https://open.spotify.com/track/3D06dCZbYilOFAB8kR5tYF"
@@ -5110,6 +5216,28 @@
       "duration_ms": 146254,
       "name": "Malvado Favorito",
       "url": "https://open.spotify.com/track/7AjF5gV9s2jJXjuhrpD81m"
+    },
+    {
+      "album": {
+        "name": "Mama Eu",
+        "url": "https://open.spotify.com/album/1moQi2enqOr966XeiWTDzh"
+      },
+      "artists": [
+        {
+          "name": "Os Feras do Pizeiro",
+          "url": "https://open.spotify.com/artist/7dXypG6kRSJnd1H6f3VCKD"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137757,
+      "name": "Mama Eu",
+      "url": "https://open.spotify.com/track/6kjyq3ipytfRExqz11P3c3"
     },
     {
       "album": {
@@ -5298,6 +5426,24 @@
       "duration_ms": 176247,
       "name": "Matadinha De Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/3XqhtjiycwDxCpGqUFTtlW"
+    },
+    {
+      "album": {
+        "name": "Me Ama Ou Me Larga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1UkbgOVEnnomwxvclUDYmS"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148719,
+      "name": "Me Ama Ou Me Larga - Ao Vivo",
+      "url": "https://open.spotify.com/track/2TSYxcrcrtLpdbsLY9NmzL"
     },
     {
       "album": {
@@ -5848,7 +5994,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 132972,
       "name": "Minha Perdi\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2qSFeQotuF6IAsrmoJCfvx"
@@ -5966,7 +6112,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 118081,
       "name": "MOTINHA 2.0 (Mete Marcha)",
       "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
@@ -6325,6 +6471,24 @@
     },
     {
       "album": {
+        "name": "A Sofr\u00eancia dos Pared\u00f5es!",
+        "url": "https://open.spotify.com/album/5qpun3JTycaXPVXO5x1MhT"
+      },
+      "artists": [
+        {
+          "name": "Simone Morena",
+          "url": "https://open.spotify.com/artist/6ZLrr7ThUgVtMaIZRAhK9R"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192528,
+      "name": "Na Maldade",
+      "url": "https://open.spotify.com/track/3v6kV61B29SjuwnKd7fyBS"
+    },
+    {
+      "album": {
         "name": "Atemporal (Ao Vivo)",
         "url": "https://open.spotify.com/album/1Rhh1ACMnj4WR7l0kMcvlh"
       },
@@ -6662,6 +6826,28 @@
       "duration_ms": 144457,
       "name": "N\u00c3O ERA LOVE",
       "url": "https://open.spotify.com/track/6lrQgEPTuOKyvn4bQJuaRU"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Fiz Pilantragem",
+        "url": "https://open.spotify.com/album/3zhF9bj9JVRufMK4jN5RCR"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159689,
+      "name": "N\u00e3o Fiz Pilantragem",
+      "url": "https://open.spotify.com/track/1OjGrTyHaBX6MiDdbvmX9F"
     },
     {
       "album": {
@@ -7765,6 +7951,24 @@
     },
     {
       "album": {
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203894,
+      "name": "Pra voc\u00ea acreditar - Ao vivo",
+      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
+    },
+    {
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -7842,6 +8046,24 @@
       "duration_ms": 150415,
       "name": "Privacidade - Ao Vivo",
       "url": "https://open.spotify.com/track/0GgmNgZbpx4fdSLTqsGCPL"
+    },
+    {
+      "album": {
+        "name": "PROJETO ANOS 2000 (Sequ\u00eancia do Pente / Copo de Vinho / Ela S\u00f3 Pensa em Beijar / Devagarinho)",
+        "url": "https://open.spotify.com/album/6ujnxqGSXhWBwlmtG4qxLY"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221771,
+      "name": "PROJETO ANOS 2000 (Sequ\u00eancia do Pente / Copo de Vinho / Ela S\u00f3 Pensa em Beijar / Devagarinho)",
+      "url": "https://open.spotify.com/track/6NLNTTU3Ab0XAJGWOi35lz"
     },
     {
       "album": {
@@ -7966,7 +8188,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 213453,
       "name": "Quem Vai Ter Coragem - Ao Vivo",
       "url": "https://open.spotify.com/track/16qFrI9PekfS1uAsogDOuJ"
@@ -8176,7 +8398,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 246857,
       "name": "Resenha de Ex-Love",
       "url": "https://open.spotify.com/track/5wV5dO1GOI4srs4Um5cJXo"
@@ -8246,7 +8468,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 127771,
       "name": "Ritmo da Sanfoninha (Fomfomrom)",
       "url": "https://open.spotify.com/track/4NjI4qbTN70oQZ8Alt9cdC"
@@ -9760,6 +9982,24 @@
       "duration_ms": 158790,
       "name": "Tu Xera",
       "url": "https://open.spotify.com/track/2xSRiUXk2nQ65Qngjfxdk7"
+    },
+    {
+      "album": {
+        "name": "Tubar\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Tubar\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
     },
     {
       "album": {

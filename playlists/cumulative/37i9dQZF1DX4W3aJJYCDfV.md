@@ -4,7 +4,7 @@
 
 > Brand new music from Jim Legxacy, The Last Dinner Party, Alex Warren and more!
 
-17,320 songs - 38 day 23 hr 52 min
+17,324 songs - 39 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1933,6 +1933,7 @@
 | [BODY TOUCHING BODY \(feat\. Victoria Monét\)](https://open.spotify.com/track/2NKUIkh9fZLR7C7PXiJIsP) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [BORN FOR GREATNESS](https://open.spotify.com/album/37A8OxnuHRRRd8QJcwzEfg) | 2:37 | 2023-09-07 | 2023-09-15 |
 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 | 2024-09-05 | 2024-09-13 |
 | [Bodybag](https://open.spotify.com/track/1q755EoLIk9hap15Xjd3GO) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Bodybag](https://open.spotify.com/album/0Fj71Ty9bSHXUsBgonEey5) | 4:31 | 2023-10-26 | 2023-11-03 |
+| [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 | 2025-07-17 |  |
 | [Bogeyman](https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Bogeyman](https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm) | 4:45 | 2024-09-05 | 2024-09-13 |
 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 | 2023-05-04 | 2023-05-12 |
 | [Bolo](https://open.spotify.com/track/0jPeLvyoGIDFM6rgY6mDmg) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Bolo](https://open.spotify.com/album/16lZeIeDLx3KBZijvZMxNE) | 4:59 | 2024-07-25 | 2024-08-02 |
@@ -3305,6 +3306,7 @@
 | [Da Feeling](https://open.spotify.com/track/3yAZRpEbliOJUnZH3478xG) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [GFDM](https://open.spotify.com/artist/6AIKpm3NV3gJ4UrvrMCJIj) | [Da Feeling](https://open.spotify.com/album/0cNGG4vhhA9ZL2gdmlbvYm) | 3:21 | 2024-03-29 | 2024-04-05 |
 | [Da Girls](https://open.spotify.com/track/0Vv7lPT21u7YjxpCYdCYwq) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Da Girls](https://open.spotify.com/album/2NdkxbEo8A9zM3boqbWAMq) | 3:44 | 2023-03-24 | 2023-03-31 |
 | [Da Gutter](https://open.spotify.com/track/2ESCX2EqZWB1TooDGvGN8o) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv) | [Da Gutter](https://open.spotify.com/album/75oNw2xOoIe2w8bPJZOhA2) | 2:19 | 2025-04-04 | 2025-04-11 |
+| [DA WIZARD](https://open.spotify.com/track/3MG4uJgccswTKrjheG54eW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 2:36 | 2025-07-18 |  |
 | [Dad's 4Runner](https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Marietta](https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh) | 2:27 | 2024-11-15 | 2024-11-22 |
 | [Daddy](https://open.spotify.com/track/4bahlJIInsjIUKXrod6RqO) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Daddy](https://open.spotify.com/album/7lL7z2Kbqj7gCjRlAKENmb) | 2:12 | 2023-12-15 | 2023-12-22 |
 | [Daddy Issues](https://open.spotify.com/track/1lTHAKbUwcwMdWG8Xq7tqB) | [Milena Sanchez](https://open.spotify.com/artist/0VjiomvbhEWVUJJucZKQ2n) | [Daddy Issues](https://open.spotify.com/album/5MJ6F2jl0vy42CNfFSH2KB) | 2:30 | 2023-06-22 | 2023-06-30 |
@@ -9377,6 +9379,7 @@
 | [Made Out Of Memory](https://open.spotify.com/track/3MtYosUywchE5YIdNdg0vB) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Made Out Of Memory](https://open.spotify.com/album/1329EWe2YqVTTfdNLxVKKy) | 3:34 | 2024-09-05 | 2024-09-13 |
 | [Made Up Your Mind](https://open.spotify.com/track/7y9MSDTGKQphbjLE0pL8OZ) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [Made Up Your Mind](https://open.spotify.com/album/1OIJ6gRVd4Ez5oF16f2Awk) | 3:19 | 2024-01-12 | 2024-01-19 |
 | [Madeline](https://open.spotify.com/track/2cg7tt0ybmEfuyrLBkApJU) | [Zander](https://open.spotify.com/artist/61w5YWu30HuH0qRSsCdJ54) | [Madeline](https://open.spotify.com/album/2m8xbhVhuGvvap833PF21z) | 3:39 | 2025-06-12 | 2025-06-20 |
+| [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 | 2025-07-17 |  |
 | [Madge's Declaration](https://open.spotify.com/track/0ge9NjvRi1K1AfrKumsioo) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Madge's Declaration](https://open.spotify.com/album/6VUq8cJQA9dzK0wVoQ5fWu) | 3:10 | 2022-11-04 | 2022-11-11 |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2023-11-03 | 2023-11-10 |
 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-09-05 | 2024-09-13 |
@@ -11232,6 +11235,7 @@
 | [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 | 2024-07-11 | 2024-07-19 |
 | [Open Up](https://open.spotify.com/track/7CQ65pJJyym5gsmOmv3i0C) | [kwes.](https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Rye Lane \(Suite\)](https://open.spotify.com/album/5yV77i9HJr32Wv6TbIw3ob) | 4:49 | 2023-05-04 | 2023-05-12 |
 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 | 2024-12-06 | 2024-12-13 |
+| [Open Your Eyes](https://open.spotify.com/track/0Tk1bGsHNJWVgsw6nK3cIi) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Open Your Eyes](https://open.spotify.com/album/1S50W2WN9qp2nclzQuFaFE) | 4:19 | 2025-07-18 |  |
 | [Open Your Mind](https://open.spotify.com/track/4xdexoL0fs2yljXSzVrnYj) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Open Your Mind / Saviour \(Single\)](https://open.spotify.com/album/6Amfc8tTRMRzwsWWip8dYX) | 2:23 | 2023-07-13 | 2023-07-21 |
 | [OPENHEARTED](https://open.spotify.com/track/539JumVF9YnJK22sgUCWTm) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [this is no longer a dream \[DELUXE\]](https://open.spotify.com/album/6jlID59b6Nin71hhY6DL6d) | 4:05 | 2023-12-01 | 2023-12-08 |
 | [Opera](https://open.spotify.com/track/25qioGPeNaC1X9FiVPIoJ0) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Opera](https://open.spotify.com/album/4gcOmkhkrG8Ewtq1H0Ss1c) | 2:53 | 2024-02-16 | 2024-02-23 |

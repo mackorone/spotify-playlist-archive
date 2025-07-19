@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 90564,
+  "num_followers": 90557,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-03-13 14:16:58",
       "album": {
+        "name": "A Nancy Wilson Christmas",
+        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
         "name": "Jazz To The World",
         "url": "https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 155641,
       "name": "Merry Christmas Darling",
       "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
-        "name": "A Nancy Wilson Christmas",
-        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "All Through The Night",
-      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
     },
     {
       "added_at": "2025-03-13 14:16:58",

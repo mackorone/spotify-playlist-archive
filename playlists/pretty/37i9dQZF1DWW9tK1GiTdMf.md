@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un'estate non proprio felice \(naska in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,782 likes - 109 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,870 likes - 109 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

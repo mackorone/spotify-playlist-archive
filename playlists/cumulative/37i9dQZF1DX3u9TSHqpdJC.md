@@ -4,7 +4,7 @@
 
 > The best new pop music from new, independent artists\.  Cover: Raissa\. Artwork by Paola Saliby
 
-4,113 songs - 8 day 17 hr 24 min
+4,116 songs - 8 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,7 @@
 | [Boyfriend](https://open.spotify.com/track/7r7RrAfvDiPYXm844DOSYT) | [Dirt Flirt](https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE) | [Boyfriend](https://open.spotify.com/album/55HcEdFWzWzsWkhOH5fU8B) | 3:00 | 2025-03-26 | 2025-05-08 |
 | [boyfriend](https://open.spotify.com/track/7I5Nx5XlEAolrnQEnDcblx) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [boyfriend](https://open.spotify.com/album/32IYSWV4RkXN5bqWPS486t) | 2:48 | 2023-04-26 | 2023-06-29 |
 | [Boyfriend](https://open.spotify.com/track/3PLoB42YuTmORxQnetEqzs) | [Tamar Davis](https://open.spotify.com/artist/1ilVEPAJZ8q45xZoI5Vief) | [My Name Is Ashley](https://open.spotify.com/album/3Icd968YthsMPWv9A2leVj) | 3:41 | 2021-08-20 | 2021-09-10 |
-| [Boys](https://open.spotify.com/track/2PODSkB110NvZg50k2pj8a) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Boys](https://open.spotify.com/album/3aUoM464DNR5Z6bjweulfC) | 2:10 | 2025-05-07 |  |
+| [Boys](https://open.spotify.com/track/2PODSkB110NvZg50k2pj8a) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Boys](https://open.spotify.com/album/3aUoM464DNR5Z6bjweulfC) | 2:10 | 2025-05-07 | 2025-07-19 |
 | [Boys](https://open.spotify.com/track/3r6oQ66z8GfFNdAmjZr2ct) | [Kelianne](https://open.spotify.com/artist/29Umu6q2gjFj4rQCIvmLRm) | [Boys](https://open.spotify.com/album/5KObpEAV5b6d9f6X0Oi3TF) | 2:26 | 2022-01-19 | 2022-03-03 |
 | [boys \(til i had you\)](https://open.spotify.com/track/0KvzV4yMz8dmMNUB7Bg1v7) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [now that i'm here, i feel like myself](https://open.spotify.com/album/0SamIngLVmIHIL0oWI7Rqe) | 3:03 | 2021-02-04 | 2021-03-11 |
 | [boys \(til i had you\)](https://open.spotify.com/track/0TPJsEpt4Xq3lUq2eqJfjf) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [boys \(til i had you\)](https://open.spotify.com/album/5jxdJRgxBfe5y4WIvYxryc) | 3:03 | 2021-01-21 | 2021-02-10 |
@@ -638,6 +638,7 @@
 | [Catch Me](https://open.spotify.com/track/2yDWexKaX2plvcDbomivOK) | [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Wearing a Blindfold and Running](https://open.spotify.com/album/5R45bo2kVxcZE0d1AdWeYZ) | 4:41 | 2021-03-25 | 2021-04-29 |
 | [Catch Me](https://open.spotify.com/track/6AdgfvJ4y3BzOVvUYX6xkb) | [LilSaku](https://open.spotify.com/artist/1ArRwk2d2zyiu9MKfFkUie), [wethher](https://open.spotify.com/artist/4U3s5eKRWiJYp9S9G0B1To) | [Catch Me](https://open.spotify.com/album/7nXGtcBDdEwWiSV4MwCCMJ) | 2:09 | 2021-02-04 | 2021-03-06 |
 | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/track/1Ibb0sjzCNzhHGe3V1RakV) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/album/4EsvEffXkdatx6a7ZqUGZA) | 3:00 | 2023-08-30 | 2024-01-11 |
+| [Catch Me If You Can](https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Catch Me If You Can](https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm) | 2:37 | 2025-07-18 |  |
 | [Catch My Wave](https://open.spotify.com/track/0lKNPIU7N6Lxg2Oh2CukZP) | [Drea Dominique](https://open.spotify.com/artist/4ilEqaKvAQvMmmYkrKLyVn), [AD](https://open.spotify.com/artist/4Maf38TSoYT83qXqsO20JI) | [Catch My Wave](https://open.spotify.com/album/7pYTCysSh5ARNoAwOkl31P) | 3:43 | 2020-10-13\* | 2020-10-22 |
 | [Cautiously Optimistic](https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD) | 2:25 | 2023-01-11 | 2023-02-23 |
 | [CBA](https://open.spotify.com/track/1S6e18JIM3yX43F7cnKuWb) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [CBA](https://open.spotify.com/album/61gvPnaFVPZOBOxdVykX2s) | 2:26 | 2024-07-17 | 2024-09-26 |
@@ -1975,6 +1976,7 @@
 | [Just a Friend](https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Just a Friend](https://open.spotify.com/album/2t3ca5ZOkCVzNQDyFOVFPz) | 2:21 | 2023-09-06 | 2023-11-30 |
 | [just a sign](https://open.spotify.com/track/3CLXYPxV1irffLaqIvcvx7) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [just a sign](https://open.spotify.com/album/2spsMI3VCVezE7RNlMpbsE) | 3:00 | 2021-07-16 | 2021-08-12 |
 | [Just Existing](https://open.spotify.com/track/5LPM9FeQpWnWTZ6BqQJEzf) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS) | [Just Existing](https://open.spotify.com/album/1O5Y4xofSFctxkXFhyjtjM) | 3:07 | 2021-08-12 | 2021-09-16 |
+| [JUST FRIENDS?](https://open.spotify.com/track/5UuX41K7fJC2mJaLDbmdns) | [dolphoe](https://open.spotify.com/artist/0Z37o7UvHfZrbW11TVrfDr) | [JUST FRIENDS?](https://open.spotify.com/album/5lQclnPqFCFvh1w4DYC7ha) | 1:50 | 2025-07-18 |  |
 | [Just In Case](https://open.spotify.com/track/4ovscTvA6JVsx37bAM4IH9) | [Nova Rose](https://open.spotify.com/artist/1zjeYt9UMrgC5kSAOHpkOz) | [Just In Case](https://open.spotify.com/album/57AT5ofY2TYa4Jv1Jz10El) | 3:09 | 2021-06-18 | 2021-08-05 |
 | [Just This Once](https://open.spotify.com/track/4xlMXkSHmYd5BUQcRm5CBn) | [Felid](https://open.spotify.com/artist/1Z7NdZhhvTzjTVzdQauIY2) | [Knowing You, Part One](https://open.spotify.com/album/6mEd6EiLH21279XSSlVOTC) | 2:24 | 2021-01-21 | 2021-01-28 |
 | [Just Woke Up](https://open.spotify.com/track/1avvs20rTyedCIsIVASp3F) | [Oscar DeLaughter](https://open.spotify.com/artist/3X3ArP0sl6OFgYUAPhjsXh) | [Just Woke Up](https://open.spotify.com/album/0NoHxA34fK0OWnXN8Nsvwp) | 1:59 | 2021-01-15 | 2021-02-10 |
@@ -2083,6 +2085,7 @@
 | [Lemonade](https://open.spotify.com/track/2eeufUoiKPhFGFhy3rLRGR) | [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Lemonade](https://open.spotify.com/album/4ryZIaGwGRzAO9MOXwsujX) | 2:26 | 2021-11-11 | 2021-12-01 |
 | [Lemonade](https://open.spotify.com/track/5gK0bv6DMbmfne9ktJ4ZJL) | [Lone Waves](https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS) | [Lemonade](https://open.spotify.com/album/3YFYT5aq1rYO05EdZ4Q7Fd) | 4:04 | 2022-09-14 | 2022-11-10 |
 | [Les gens](https://open.spotify.com/track/3pJoFVanmdOAeyR29X9nIf) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Les gens](https://open.spotify.com/album/7sqpJwq2QQMJ6I7Y0Qr4r1) | 3:14 | 2021-04-08 | 2021-05-13 |
+| [Less is More](https://open.spotify.com/track/5pAhmlaJVD65EKlb6fJi2M) | [Meghan Curtin](https://open.spotify.com/artist/4aMCwH4geSzHn9U4sHXvzB) | [Less is More](https://open.spotify.com/album/2lcpy0xLuRBRlBTvNWZbSy) | 3:54 | 2025-07-18 |  |
 | [Lessons](https://open.spotify.com/track/5MyqCveeVgg5Df5wDicJOX) | [Violet Young](https://open.spotify.com/artist/0SKp6Clc4OkbujfdtUPKtl) | [Lessons](https://open.spotify.com/album/0AfodJxFpXcvGXYAx1lTZu) | 3:45 | 2023-06-07 | 2023-08-10 |
 | [Let Me Go](https://open.spotify.com/track/0JjHU2hGEK9WUKHyOzeH3B) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Let Me Go](https://open.spotify.com/album/3Av7MEg294hReCqSGX5vqn) | 3:38 | 2021-04-22 | 2021-05-27 |
 | [let me love you](https://open.spotify.com/track/2RYbGQvmeIs1ybAV7oLfKr) | [Lunar June](https://open.spotify.com/artist/3pEkJgB6pEHb3sqqP2CP7S) | [let me love you](https://open.spotify.com/album/1zWJ9zzQnB5LRgdXq4gc7d) | 2:26 | 2025-06-04 |  |

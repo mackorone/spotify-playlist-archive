@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 36746,
+  "num_followers": 36751,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAABQEYlc/iRhxmRagFakyctI",
+  "snapshot_id": "aHg9AAAAAADCx+0j6w5xfWBgLCyUwABG",
   "tracks": [
     {
       "added_at": null,
@@ -591,46 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Nasty Song",
-        "url": "https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 144313,
-      "name": "Another Nasty Song",
-      "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Sunshine (feat. Lil Wayne & Childish Gambino)",
-      "url": "https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
         "url": "https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa"
       },
@@ -659,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ISSA PARTY (feat. BabyDrill)",
-        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
       "artists": [
         {
@@ -668,13 +628,33 @@
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 176133,
-      "name": "ISSA PARTY (feat. BabyDrill)",
-      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
+      "duration_ms": 206250,
+      "name": "Sunshine (feat. Lil Wayne & Childish Gambino)",
+      "url": "https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Nasty Song",
+        "url": "https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 144313,
+      "name": "Another Nasty Song",
+      "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
     },
     {
       "added_at": null,
@@ -695,6 +675,26 @@
       "duration_ms": 205170,
       "name": "For the Night",
       "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ISSA PARTY (feat. BabyDrill)",
+        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "ISSA PARTY (feat. BabyDrill)",
+      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Sex Lies (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boom Pt. 2 (feat. Latto)",
         "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 132000,
       "name": "Boom Pt. 2 (feat. Latto)",
       "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Sex Lies (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
     },
     {
       "added_at": null,

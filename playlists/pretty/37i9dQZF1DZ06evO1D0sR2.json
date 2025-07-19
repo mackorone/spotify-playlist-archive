@@ -1,12 +1,12 @@
 {
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
-  "num_followers": 3052,
+  "num_followers": 3053,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAAVe4PboetvZDmDqFLwb+Nv",
+  "snapshot_id": "aHg9AAAAAAAjFEiplwDTKOtM+mwyW6yY",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Deon Kipping",
+          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
+        }
+      ],
+      "duration_ms": 544793,
+      "name": "Reminder (feat. Deon Kipping)",
+      "url": "https://open.spotify.com/track/1GvFbttWSIESrZMbp4P4EG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lifted Up",
         "url": "https://open.spotify.com/album/7cyDxBXDrR7SSPRpyRpK2x"
       },
@@ -115,26 +135,6 @@
       "duration_ms": 479526,
       "name": "Lifted Up - Live",
       "url": "https://open.spotify.com/track/7fVl4R61pmsQwBtSHfQ3EO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believe Again, Vol. II",
-        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Deon Kipping",
-          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
-        }
-      ],
-      "duration_ms": 544793,
-      "name": "Reminder (feat. Deon Kipping)",
-      "url": "https://open.spotify.com/track/1GvFbttWSIESrZMbp4P4EG"
     },
     {
       "added_at": null,
@@ -340,13 +340,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Timothy Reddick",
-          "url": "https://open.spotify.com/artist/3AEo4imgJihO5K7yZNDcu7"
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
         }
       ],
-      "duration_ms": 378506,
-      "name": "You Get The Glory - Live",
-      "url": "https://open.spotify.com/track/4PLTxvaypSdoEJSUSOb7eQ"
+      "duration_ms": 104160,
+      "name": "He Loves Us - Live",
+      "url": "https://open.spotify.com/track/1TeuVFbHkHJMHebfgUUUUw"
     },
     {
       "added_at": null,
@@ -424,13 +424,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Melissa Bethea",
-          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+          "name": "Timothy Reddick",
+          "url": "https://open.spotify.com/artist/3AEo4imgJihO5K7yZNDcu7"
         }
       ],
-      "duration_ms": 104160,
-      "name": "He Loves Us - Live",
-      "url": "https://open.spotify.com/track/1TeuVFbHkHJMHebfgUUUUw"
+      "duration_ms": 378506,
+      "name": "You Get The Glory - Live",
+      "url": "https://open.spotify.com/track/4PLTxvaypSdoEJSUSOb7eQ"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
       },
       "artists": [
         {
@@ -460,13 +460,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+          "name": "Phillip Bryant",
+          "url": "https://open.spotify.com/artist/4puG7yE9LNxmaYFE6Xpn2k"
+        },
+        {
+          "name": "Pocket Of Hope",
+          "url": "https://open.spotify.com/artist/6l2vPgjeinkte8p5r6zqKc"
         }
       ],
-      "duration_ms": 351906,
-      "name": "He Is Exalted / Give You Praise - Live",
-      "url": "https://open.spotify.com/track/036LRl5m776cj31pgv49Wt"
+      "duration_ms": 494042,
+      "name": "You Are Lord Of All",
+      "url": "https://open.spotify.com/track/5XcOW8siarlSb4kxGQ8AgM"
     },
     {
       "added_at": null,
@@ -535,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe Again, Vol. II",
-        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
       },
       "artists": [
         {
@@ -544,17 +548,13 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Demarcus Kelly",
-          "url": "https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf"
-        },
-        {
-          "name": "JaNae Jones",
-          "url": "https://open.spotify.com/artist/5102IyNmHzRcI2gGRf4Ffv"
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 292276,
-      "name": "It's Gonna Be Bigger (feat. Demarcus Kelly & JaNae Jones)",
-      "url": "https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX"
+      "duration_ms": 351906,
+      "name": "He Is Exalted / Give You Praise - Live",
+      "url": "https://open.spotify.com/track/036LRl5m776cj31pgv49Wt"
     },
     {
       "added_at": null,
@@ -603,6 +603,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Demarcus Kelly",
+          "url": "https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf"
+        },
+        {
+          "name": "JaNae Jones",
+          "url": "https://open.spotify.com/artist/5102IyNmHzRcI2gGRf4Ffv"
+        }
+      ],
+      "duration_ms": 292276,
+      "name": "It's Gonna Be Bigger (feat. Demarcus Kelly & JaNae Jones)",
+      "url": "https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 465962,
       "name": "We Serve (feat. Travis Greene)",
       "url": "https://open.spotify.com/track/1XcmuuYKOrWmDebXxb6VgP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Melissa Bethea",
-          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
-        }
-      ],
-      "duration_ms": 747716,
-      "name": "Not Holding Back",
-      "url": "https://open.spotify.com/track/0CM8AO4xLnxdDPjiUPYP5K"
     },
     {
       "added_at": null,
@@ -686,15 +686,35 @@
         {
           "name": "Youthful Praise",
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Jason Nelson",
-          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
         }
       ],
-      "duration_ms": 417773,
-      "name": "I Feel You Moving",
-      "url": "https://open.spotify.com/track/7Ato921tLj55ni6itcAT7T"
+      "duration_ms": 338986,
+      "name": "You Are Worthy",
+      "url": "https://open.spotify.com/track/31NuRDI5McMo8ZjSApHZUq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "duration_ms": 747716,
+      "name": "Not Holding Back",
+      "url": "https://open.spotify.com/track/0CM8AO4xLnxdDPjiUPYP5K"
     },
     {
       "added_at": null,
@@ -711,30 +731,6 @@
       "duration_ms": 330558,
       "name": "Lord You're Mighty",
       "url": "https://open.spotify.com/track/0qUVi7rU50GHhj4uXeR8A3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Phillip Bryant",
-          "url": "https://open.spotify.com/artist/4puG7yE9LNxmaYFE6Xpn2k"
-        },
-        {
-          "name": "Pocket Of Hope",
-          "url": "https://open.spotify.com/artist/6l2vPgjeinkte8p5r6zqKc"
-        }
-      ],
-      "duration_ms": 494042,
-      "name": "You Are Lord Of All",
-      "url": "https://open.spotify.com/track/5XcOW8siarlSb4kxGQ8AgM"
     },
     {
       "added_at": null,
@@ -774,31 +770,15 @@
         {
           "name": "Youthful Praise",
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        }
-      ],
-      "duration_ms": 338986,
-      "name": "You Are Worthy",
-      "url": "https://open.spotify.com/track/31NuRDI5McMo8ZjSApHZUq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
         }
       ],
-      "duration_ms": 413533,
-      "name": "Everything Is Changed - Live",
-      "url": "https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9"
+      "duration_ms": 417773,
+      "name": "I Feel You Moving",
+      "url": "https://open.spotify.com/track/7Ato921tLj55ni6itcAT7T"
     },
     {
       "added_at": null,
@@ -819,6 +799,26 @@
       "duration_ms": 877052,
       "name": "You\u2019re Gonna LIVE",
       "url": "https://open.spotify.com/track/2ljGA4yquXH5LGXgvLvu9c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "duration_ms": 413533,
+      "name": "Everything Is Changed - Live",
+      "url": "https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Chris House",
+          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
+        }
+      ],
+      "duration_ms": 552369,
+      "name": "I Am Thankful",
+      "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I See Victory",
         "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
@@ -995,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Chris House",
-          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
-        }
-      ],
-      "duration_ms": 552369,
-      "name": "I Am Thankful",
-      "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After This",
         "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
       },
@@ -1055,8 +1055,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe Again, Vol. II",
-        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
       },
       "artists": [
         {
@@ -1064,13 +1064,13 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Cristabel Clack",
-          "url": "https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y"
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 421772,
-      "name": "All You've Done (feat. Cristabel Clack)",
-      "url": "https://open.spotify.com/track/12oM3bJN1uFHVLO509Qo96"
+      "duration_ms": 489813,
+      "name": "Spirit of God - Live",
+      "url": "https://open.spotify.com/track/6kQSyWhKq3DC61Bz2KYG3s"
     }
   ],
   "unique_name": "This Is JJ Hairston",

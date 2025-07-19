@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,305 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,382 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 53 | [Pirates](https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5) | [Bullets And Octane](https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9) | [The Revelry](https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp) | 2:19 |
 | 54 | [Low Down Dirty](https://open.spotify.com/track/7Gutanf1Mf2r8ASTlrR5ku) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Last of a Dyin' Breed \(Special Edition\)](https://open.spotify.com/album/4rRCrcBlh0Io9edrPT0oxd) | 3:14 |
 | 55 | [World On Fire](https://open.spotify.com/track/0GnU2sNVI6uP1tlmkVfiEt) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [World On Fire](https://open.spotify.com/album/3ZyFMWdKyIYxCLbK40OvcV) | 4:31 |
-| 56 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
-| 57 | [Fortunate Son](https://open.spotify.com/track/5ppRGoTTMfQtFcmeZqwaAK) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Make Some Noise](https://open.spotify.com/album/5MDP4YHZYFYjFF7TFD4RE9) | 3:23 |
+| 56 | [Fortunate Son](https://open.spotify.com/track/5ppRGoTTMfQtFcmeZqwaAK) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Make Some Noise](https://open.spotify.com/album/5MDP4YHZYFYjFF7TFD4RE9) | 3:23 |
+| 57 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
 | 58 | [Kids in America](https://open.spotify.com/track/6q0EVDx14hHj3DCmQKqFIM) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kids in America](https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8) | 3:08 |
 | 59 | [Seasons](https://open.spotify.com/track/1NE4ga03C5fRXGPcDIo9pA) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Against The Grain](https://open.spotify.com/album/3T2Hq3PpqBroi2CcnmcUUH) | 3:47 |
 | 60 | [Sham Pain](https://open.spotify.com/track/03HyPRDdAwvkovBE6XubBC) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Sham Pain](https://open.spotify.com/album/44udkZDmo8afuEnu0nTgUY) | 3:29 |

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,791 songs - 5 day 2 hr 3 min
+1,792 songs - 5 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1250,7 +1250,7 @@
 | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/track/3aVpX48H8kYiAzeOrFql6N) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/album/4BvRQ4EI84ZyvNPLIpZKnF) | 3:18 | 2020-05-18 | 2021-03-10 |
 | [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-08 | 2024-12-19 |
 | [Positive Vibe](https://open.spotify.com/track/1iPnHP67gobIfXyk6kjYrC) | [SAINT WKND](https://open.spotify.com/artist/4vO1cl2ndGrUPSl6IYTHs6) | [Big Beat Ignition Miami 2015](https://open.spotify.com/album/2MfAVFInryk5YQcaaJov8c) | 3:02 | 2020-05-18 | 2020-07-03 |
-| [Postcards](https://open.spotify.com/track/68lz5UGhqfbGivPA6BCDWF) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Postcards / All Access](https://open.spotify.com/album/2ldKEjyuNyzWPhYmE7Pjrk) | 3:33 | 2025-04-25 |  |
+| [Postcards](https://open.spotify.com/track/68lz5UGhqfbGivPA6BCDWF) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Postcards / All Access](https://open.spotify.com/album/2ldKEjyuNyzWPhYmE7Pjrk) | 3:33 | 2025-04-25 | 2025-07-19 |
 | [POV \(with NEVRMIND\)](https://open.spotify.com/track/63fzBjCtxxS0peGMkyTfVP) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [POV \(with NEVRMIND\)](https://open.spotify.com/album/3cHmRL9soTP6s1XFJNkUyo) | 2:34 | 2022-02-04 | 2022-02-09 |
 | [Pray for Us](https://open.spotify.com/track/49X931MF0VVnHFkhVU3M5r) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:46 | 2020-04-03 | 2020-10-09 |
 | [Pretty Good](https://open.spotify.com/track/07aFPwkdNSvNZvPg8B4dHs) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 3:10 | 2022-08-26 | 2022-09-10 |
@@ -1504,6 +1504,7 @@
 | [Summertime](https://open.spotify.com/track/21CBWF1OV9OrAz9votwzVN) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [New Blood](https://open.spotify.com/album/1mYDKw3w4jPWautkQEs56K) | 3:42 | 2020-05-18 | 2020-07-03 |
 | [sun goes down](https://open.spotify.com/track/5v11oJ61beKkh7Ls2ukLPt) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [sun goes down](https://open.spotify.com/album/2Xcc4avjo74XPgl6B5mKkR) | 2:28 | 2024-12-20 |  |
 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 | 2022-08-26 | 2022-09-10 |
+| [Sun Went Down, Sky Went Dark](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Senes](https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1) | [Sun Went Down, Sky Went Dark](https://open.spotify.com/album/2d8InkYS054gRrEkp64rH0) | 4:12 | 2025-07-18 |  |
 | [sun+tide](https://open.spotify.com/track/0bLKKrrEeAxQPgq8HtXVsR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [everythingeverydayeverything](https://open.spotify.com/album/5gumyvjIFS1YM8VI5bF5wV) | 3:43 | 2022-08-26 | 2022-09-10 |
 | [Sunday Song](https://open.spotify.com/track/2P4wRFA7ftewX1JdN3On2K) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Sunday Song](https://open.spotify.com/album/74R8jlQqkBESah1EvRHjPy) | 4:29 | 2020-02-29\* | 2022-01-21 |
 | [Sunlight](https://open.spotify.com/track/595M3e9mqepEd19NGVEABi) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sunlight](https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM) | 3:49 | 2024-03-22 | 2024-08-03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New music from your favorite women.  Cover: Girlfriend",
+  "description": "New music from your favorite women.  Cover: Zyah Belle",
   "name": "Queen",
   "tracks": [
     {
@@ -486,6 +486,28 @@
       "duration_ms": 116085,
       "name": "Attitude - from the \"Bruised\" Soundtrack",
       "url": "https://open.spotify.com/track/0ZlPqSmpq7lUJ77RbVyCpZ"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/1Nv8jZuC0lWUQPRvASlg1s"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214204,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/2mQPA3FjEoknJJPBmqMM4c"
     },
     {
       "album": {
@@ -5254,7 +5276,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 176596,
       "name": "Say That",
       "url": "https://open.spotify.com/track/0WMr60ITPZdLH3wrIbs85p"

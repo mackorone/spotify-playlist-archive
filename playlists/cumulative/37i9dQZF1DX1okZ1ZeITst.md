@@ -4,7 +4,7 @@
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Disney's Lilo & Stitch.
 
-172 songs - 8 hr 50 min
+173 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [In Summer \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/7bG6SQBGZthPDG5QJL5Gf7) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 1:50 | 2024-01-08 |  |
 | [Into the Unknown \- Panic! At The Disco Version](https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:09 | 2024-01-08 |  |
 | [It's A Small World](https://open.spotify.com/track/2V4RIzWfOBWDJmV7ok6gpb) | [We Love Disney Artists](https://open.spotify.com/artist/4umlyQ2OcifCUUuagH5cVw) | [We Love Disney \(Deluxe\)](https://open.spotify.com/album/1F4gXThIF2VepRiWYyowAY) | 3:03 | 2024-01-08 |  |
+| [It's A Small World \(70th Anniversary\) \- From "Disneyland Resort 70th Celebration"](https://open.spotify.com/track/6hVrlsXwBWVp5Lrc8FV4iB) | [The Disneyland Children's Chorus](https://open.spotify.com/artist/4OO3sW1MwAxI5MW3V1Dx4v) | [It's A Small World \(70th Anniversary\) \[From "Disneyland Resort 70th Celebration"\]](https://open.spotify.com/album/6FfisIeGTA7FHuudaKCuOm) | 5:03 | 2025-07-18 |  |
 | [It's All Right \- From "Soul"/Duet Version](https://open.spotify.com/track/5aEJj3gYSSp82NUy2yaIpe) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [It's All Right \(From "Soul"/Duet Version\)](https://open.spotify.com/album/3cY3iLpzQzRZcUabdnHH4f) | 2:49 | 2024-01-08 |  |
 | [It's On \- From "High School Musical: The Musical: The Series \(Season 3\)"/Camp Rock 2: The Final Jam](https://open.spotify.com/track/0cUUqEzIs5KfFMMoUMQuGO) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [It's On \[From "High School Musical: The Musical: The Series \(Season 3\)"/Camp Rock 2: The Final Jam\]](https://open.spotify.com/album/5aAT0At7qA2oH2CkVN1Iy9) | 3:02 | 2024-01-08 |  |
 | [Jolly Holiday \- From "Mary Poppins"/Soundtrack Version](https://open.spotify.com/track/3sSpgPbDF16wncH7Zw4kqh) | [Dick Van Dyke](https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6), [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [Mary Poppins](https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d) | 5:24 | 2024-01-08 |  |

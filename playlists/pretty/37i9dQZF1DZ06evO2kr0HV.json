@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 39803,
+  "num_followers": 39832,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAAC46VcgDxYTZQENu2BpGein",
+  "snapshot_id": "aHg9AAAAAABmucq/7bDFrs2yBC7/0hMe",
   "tracks": [
     {
       "added_at": null,
@@ -703,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+        "name": "Bailando Por Ti",
+        "url": "https://open.spotify.com/album/69eUUgCWiR86DCzjWCQbY0"
       },
       "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 223920,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
+      "duration_ms": 165000,
+      "name": "Bailando Por Ti",
+      "url": "https://open.spotify.com/track/36o3tX1dcTJ5rwFRk5aOPx"
     },
     {
       "added_at": null,
@@ -743,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailando Por Ti",
-        "url": "https://open.spotify.com/album/69eUUgCWiR86DCzjWCQbY0"
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },
       "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Bailando Por Ti",
-      "url": "https://open.spotify.com/track/36o3tX1dcTJ5rwFRk5aOPx"
+      "duration_ms": 223920,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
     },
     {
       "added_at": null,

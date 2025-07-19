@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHbrgAAAAADPdxTbNQVZs/D+R/1Uk0DE",
+  "snapshot_id": "aHg9AAAAAACG+HZwFNJvDW1DvvqkokOL",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easier (Jr Blender RMX)",
-        "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V"
       },
       "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 198779,
-      "name": "Easier - Jr Blender RMX",
-      "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
+      "duration_ms": 230010,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn"
     },
     {
       "added_at": null,
@@ -607,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V"
+        "name": "Easier (Jr Blender RMX)",
+        "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
       },
       "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 230010,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn"
+      "duration_ms": 198779,
+      "name": "Easier - Jr Blender RMX",
+      "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
     },
     {
       "added_at": null,

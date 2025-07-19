@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: sunwoojunga\(선우정아\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,001 songs - 2 day 12 hr 49 min
+1,002 songs - 2 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,7 @@
 | [Late Night Flaneur](https://open.spotify.com/track/1XvQjUHunvmYIMPgfg9Mul) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Late Night Flaneur](https://open.spotify.com/album/4EMrAEBQQEE9DY9Jb9B8fx) | 2:27 | 2024-11-29 | 2025-02-07 |
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-07-01 | 2024-12-07 |
 | [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 | 2021-12-21 | 2022-05-18 |
-| [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/track/4l1kxi8BziQRbDmov4CXeh) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/album/4qL6T01dRe7p0EghSbfwsc) | 2:43 | 2025-07-10 |  |
+| [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/track/4l1kxi8BziQRbDmov4CXeh) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/album/4qL6T01dRe7p0EghSbfwsc) | 2:43 | 2025-07-10 | 2025-07-19 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/4F9qxQqmkFnBjIvrpiQ7jV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/album/4wMb27rPOFS7vQSNsnjQC7) | 3:07 | 2022-03-31 | 2022-04-14 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 | 2022-07-27 |  |
 | [leodo Island \(Parangdo lsland\)](https://open.spotify.com/track/135gyYI8MukV8Ny5c63vWP) | [BAE CHUL SOO](https://open.spotify.com/artist/5w0paTeWKFlcJytIF06AcU) | [Fly Again](https://open.spotify.com/album/77zmrTi35NrLJ6zzLdtOi9) | 3:13 | 2025-03-04 | 2025-03-22 |
@@ -588,7 +588,7 @@
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-04 | 2022-08-05 |
 | [Night within you 어쩌면 이유가 필요한 밤](https://open.spotify.com/track/0XytXTd3EGup2Fqng4nxau) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Night within you 어쩌면 이유가 필요한 밤](https://open.spotify.com/album/2RRB01nIint1XGgYhFVulM) | 4:14 | 2022-03-31 | 2022-04-18 |
 | [No Destination](https://open.spotify.com/track/62Mtv128QRn9peL7FQHoX8) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [No Destination](https://open.spotify.com/album/6rGF5RhdjEzI9XXKaIZYqh) | 2:43 | 2022-05-11 | 2022-07-05 |
-| [no love to love](https://open.spotify.com/track/41n6rXEGR6d95mc0M7rBDa) | [yawn](https://open.spotify.com/artist/3vodBtJFpi0OtCviDMOHYc) | [no love to love](https://open.spotify.com/album/4D9OCFrGfPGBghK5kU4D7r) | 3:39 | 2025-07-07 |  |
+| [no love to love](https://open.spotify.com/track/41n6rXEGR6d95mc0M7rBDa) | [yawn](https://open.spotify.com/artist/3vodBtJFpi0OtCviDMOHYc) | [no love to love](https://open.spotify.com/album/4D9OCFrGfPGBghK5kU4D7r) | 3:39 | 2025-07-07 | 2025-07-19 |
 | [No One Told Me Why](https://open.spotify.com/track/4p2F176QbCzx8tyxwGmpym) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/2uv3GEXDIyG4LQXdpjaeby) | 3:43 | 2021-12-12 | 2022-07-29 |
 | [No One Told Me Why](https://open.spotify.com/track/5toMPAVWtyrI1R6THYKhiE) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/1uBSQRIdCFLgfaipqfVXp2) | 3:43 | 2023-07-17 |  |
 | [No One Told Me Why](https://open.spotify.com/track/1z9iPDRjp1fZUoisaJiTcA) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/4IBGLlaW7yGfCRCrHj03Vx) | 3:43 | 2022-07-27 | 2023-07-03 |
@@ -676,7 +676,7 @@
 | [Rainbow \(รุ้ง\)](https://open.spotify.com/track/3TBGPc9fUBo3AjBzgiXNGY) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Rainbow \(รุ้ง\)](https://open.spotify.com/album/14QVqgxZbPr8Hd9zjzuJ7W) | 2:18 | 2025-07-01 | 2025-07-17 |
 | [RAL 9002 \(Feat\. Heize\)](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 | 2021-12-12 | 2024-07-13 |
 | [Rather Go Blind](https://open.spotify.com/track/7rBO40xtZaRkpxXKnEQa26) | [ZAYSTIN](https://open.spotify.com/artist/7BQgVJEUzCUX8Q2KZDgrH8) | [Rather Go Blind](https://open.spotify.com/album/6XAmqfdbVy1lpNqMppNg7m) | 3:58 | 2022-03-31 | 2022-04-08 |
-| [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 | 2025-04-11 | 2025-07-15 |
+| [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 | 2025-04-11 |  |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2021-12-21 | 2024-07-27 |
 | [Red Flag](https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Red Flag](https://open.spotify.com/album/5NplbE4HAUdejPhDiHsylB) | 3:10 | 2024-11-11 | 2025-01-10 |
 | [Red Lines](https://open.spotify.com/track/1YJ5G3mdv6Bps9XhbIv89E) | [Pony](https://open.spotify.com/artist/4Lxb5bo6TR7l8QL8UxDdd6), [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [The Pacific Ocean 태평양](https://open.spotify.com/album/21CrO1TGS7e9tTuRzaOiqX) | 2:41 | 2022-03-31 | 2022-04-19 |
@@ -988,6 +988,7 @@
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2021-12-12 |  |
 | [널 지우려 해](https://open.spotify.com/track/2rrYnRZaanjsF4iPbGk3dS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [여름 감성](https://open.spotify.com/album/4yOWIAHIQYOWGkZ3BOKi3o) | 3:29 | 2021-12-21 | 2022-06-28 |
 | [널 쳐다볼 수 없다는 건 \(feat\. 애주레버\)](https://open.spotify.com/track/5pfn2VzX9479nIJpJimI7y) | [ONSEEON](https://open.spotify.com/artist/4cF9R9jQRn9KDSJ7NJukdy), [Azurever](https://open.spotify.com/artist/0e2qmR2yaHGVpsjwZpJ35N) | [널 쳐다볼 수 없다는 건](https://open.spotify.com/album/2C5UnsoKTOXkCStmqKoFjE) | 3:04 | 2025-03-14 | 2025-04-10 |
+| [뉴 로맨틱](https://open.spotify.com/track/52Ui66UsXzLYILg6cTzwAE) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [뉴 로맨틱](https://open.spotify.com/album/2brDUUXgAcB5l1vVmWtiYi) | 2:57 | 2025-07-18 |  |
 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 | 2022-03-31 | 2022-04-08 |
 | [떠날까 Should We Leave](https://open.spotify.com/track/63yfmOOnCoH6CVxJIOl3pm) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [아무도 모르게 Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 4:45 | 2023-07-05 | 2023-07-18 |
 | [마네킨 Mannequin](https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2) | [The ASIANIC](https://open.spotify.com/artist/7hrYxrbbaa7TtlKqg9iruF) | [마네킨 Mannequin](https://open.spotify.com/album/2xuc8x41OZSjTeP255pqdv) | 3:40 | 2023-01-10 | 2023-01-26 |

@@ -2,9 +2,9 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover: Ghost
+> The rock songs you need to know\. Turn it  ⬆️ Cover: Black Veil Brides
 
-1,493 songs - 3 day 17 hr 13 min
+1,496 songs - 3 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Guiding Light](https://open.spotify.com/track/5zANxuoSJcmlwsXzBEb9se) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Guiding Light](https://open.spotify.com/album/7AUOjPixlKhUl2cLq27oLM) | 4:21 | 2022-11-18 | 2023-02-18 |
 | [H8 MY SELF](https://open.spotify.com/track/3o3i8J3phhvFXOaH4wwjbT) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [H8 MY SELF](https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx) | 2:58 | 2023-01-27 | 2023-04-01 |
 | [HADES](https://open.spotify.com/track/1O8rugYWOkrLMd8harTBmR) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [HADES](https://open.spotify.com/album/08pUE6eHo8Z66loPCcmdA2) | 2:46 | 2022-06-17 | 2022-07-23 |
+| [Hallelujah](https://open.spotify.com/track/3KA0M8SYVjkMZhTwnbqUqK) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Hallelujah](https://open.spotify.com/album/2MYRTNNu4oHVf6fx87Gm3S) | 4:13 | 2025-07-18 |  |
 | [Hallelujah](https://open.spotify.com/track/2XCTvpziPXmSayzrzF9mJU) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:01 | 2022-01-14 | 2022-02-12 |
 | [Hallelujah](https://open.spotify.com/track/5S1Tly4ov5kWsJLt73lCUD) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Hallelujah](https://open.spotify.com/album/6oHrvAdPdbYUW6PVR1zngr) | 3:01 | 2021-08-06 | 2022-01-15 |
 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 | 2022-02-11 | 2022-08-20 |
@@ -580,7 +581,7 @@
 | [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 | 2022-12-02 | 2023-01-21 |
 | [Hell Finds You Everywhere \(feat\. Noah Sebastian\)](https://open.spotify.com/track/6EfGrYJ8Kw4xuNRd7UzQA3) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN), [Noah Sebastian](https://open.spotify.com/artist/3w0i7biKO0q6DGVXCKzhj9) | [Hell Finds You Everywhere](https://open.spotify.com/album/4MF4pjJyipArWvVHiPSSVl) | 3:24 | 2022-12-12 | 2023-05-20 |
 | [Hell Is For Children](https://open.spotify.com/track/2Gu034eU66d5MFRKkxWEY1) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Strength](https://open.spotify.com/album/03By4D4AeAw1KPlfFt76yA) | 4:53 | 2021-09-24 | 2022-01-08 |
-| [Hell You Call A Dream](https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:56 | 2024-08-16 |  |
+| [Hell You Call A Dream](https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:56 | 2024-08-16 | 2025-07-19 |
 | [Hello Heaven, Hello](https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hello Heaven, Hello](https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH) | 9:06 | 2025-03-21 | 2025-04-26 |
 | [Here And Now](https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6) | 3:57 | 2023-10-27 | 2024-03-23 |
 | [Here And Now](https://open.spotify.com/track/5ESe8kptK06lCUzaCQUOzz) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9) | 3:57 | 2023-10-13 | 2023-11-03 |
@@ -613,7 +614,7 @@
 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 | 2022-04-01 | 2022-07-30 |
 | [Hurricane](https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Hurricane](https://open.spotify.com/album/65z7MiMcyvptnddVK2LZeC) | 3:00 | 2022-01-14 | 2022-03-05 |
 | [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 | 2024-08-16 | 2024-12-14 |
-| [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 | 2024-12-13 |  |
+| [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 | 2024-12-13 | 2025-07-19 |
 | [Hurts Like Hell](https://open.spotify.com/track/6BrLtFmFUKJVsLCKjqsEsl) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [Hurts Like Hell](https://open.spotify.com/album/6xDyDqx0I2TytWxH04T7Xs) | 3:11 | 2022-11-11 | 2023-05-06 |
 | [Hyperactive](https://open.spotify.com/track/1er58pTJbvjLsBG0bWTo6K) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Hyperactive](https://open.spotify.com/album/721XYQjwy2HJcLBVsDLOF8) | 2:58 | 2023-10-06 | 2023-11-25 |
 | [I Am The Lightning](https://open.spotify.com/track/4wnCcp9LAL9aFl7hev8lg2) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Dream Machine](https://open.spotify.com/album/7s0ZTcFsL35WUQycjHVPnn) | 3:58 | 2023-12-08 | 2024-07-13 |
@@ -809,7 +810,7 @@
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-04-15 | 2022-06-11 |
 | [Masterpiece](https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:26 | 2022-06-10 | 2022-11-19 |
 | [Mattel](https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:30 | 2023-10-27 | 2024-02-10 |
-| [Mayday](https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Mayday](https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3) | 3:23 | 2024-11-22 |  |
+| [Mayday](https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Mayday](https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3) | 3:23 | 2024-11-22 | 2025-07-19 |
 | [Meat & Greet](https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Meat & Greet](https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp) | 3:30 | 2023-10-13 | 2024-03-09 |
 | [Medicate Me](https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Medicate Me](https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp) | 2:47 | 2024-09-13 | 2024-10-05 |
 | [Meditations](https://open.spotify.com/track/2XaZcy1CBRqfEpvy4JuJLr) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Meditations](https://open.spotify.com/album/2BRSukoWknGgMermHbSVt6) | 3:04 | 2024-10-25 | 2025-02-08 |
@@ -1014,6 +1015,7 @@
 | [Rabbit Hole \- Cowards, Pt\. 1](https://open.spotify.com/track/4Zy7UaHmzAxD3V1qNkTaIq) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Rabbit Hole \(Cowards, Pt\. 1\)](https://open.spotify.com/album/40yjj7ZS1HT3jXrhACMmur) | 4:09 | 2025-03-28 |  |
 | [Radiance](https://open.spotify.com/track/2FMNCmWngbfBYBoUSeeKM4) | [Seven Hours After Violet](https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z) | [Radiance](https://open.spotify.com/album/7uEqTi7T7zyRxdhsLCoqp9) | 3:34 | 2024-10-25 | 2025-01-11 |
 | [Radio Face](https://open.spotify.com/track/6mH2fb0nWB5fZtqnfYDTzi) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl) | [Radio Face](https://open.spotify.com/album/4fQpdEpugotYCRA5BQWnjm) | 3:01 | 2023-01-13 | 2023-02-04 |
+| [Rain](https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Rain](https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53) | 3:23 | 2025-07-18 |  |
 | [Rain Down](https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Rain Down](https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc) | 4:07 | 2022-07-08 | 2023-01-14 |
 | [Rain in the River](https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Rain in the River](https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P) | 3:12 | 2025-04-04 | 2025-04-19 |
 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-06-21 | 2024-08-24 |
@@ -1091,6 +1093,7 @@
 | [Say Something](https://open.spotify.com/track/2RDIy0A9tcA4WUiRNuRlJ9) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Say Something](https://open.spotify.com/album/3Wh43fDW2Yssfm8dTKmOmr) | 2:01 | 2022-03-04 | 2022-04-09 |
 | [Say What You Will](https://open.spotify.com/track/6Q47FSXfau9Adh1qmFFmyb) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [Say What You Will](https://open.spotify.com/album/7gSyu9jMUqHOFYXeKtOSfB) | 3:33 | 2024-09-13 | 2024-11-09 |
 | [Scarlet Cross](https://open.spotify.com/track/6FfSelhMMRoigvtAlYPmBd) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Phantom Tomorrow](https://open.spotify.com/album/5GMs2D82ElHRpVGbtUod3J) | 3:37 | 2022-03-04 | 2022-09-24 |
+| [Scars](https://open.spotify.com/track/5t36qVZtuRyySgHeiX3mem) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [I Beat Loneliness](https://open.spotify.com/album/7ISodp9NNdfRptSMPObm0n) | 3:29 | 2025-07-18 |  |
 | [Scream & Shout](https://open.spotify.com/track/3B4hWz3aevZporT3HbcdCt) | [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1) | [Scream & Shout](https://open.spotify.com/album/5EgjGUtBdc7Ct7qJ5rJL0v) | 2:30 | 2022-12-02 | 2023-01-21 |
 | [Screaming Suicide](https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 5:30 | 2024-04-19 | 2024-08-24 |
 | [Screaming Suicide](https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 5:30 | 2024-03-08 | 2024-04-19 |

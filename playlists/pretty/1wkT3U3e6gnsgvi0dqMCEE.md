@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,639 likes - 210 songs - 13 hr 53 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,639 likes - 212 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,5 +218,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 | 208 | [Panopticom \- Bright Side Mix](https://open.spotify.com/track/65ij88ASYO5zfA6VfesajY) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o](https://open.spotify.com/album/1mhuLKVEwZH4aTJXCLuhec) | 5:16 |
 | 209 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 |
 | 210 | [Whiskey In The Jar](https://open.spotify.com/track/6YH9hWz9ypmvbHl1LpCMFz) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 5:47 |
+| 211 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 |
+| 212 | [Give It To Me 2025](https://open.spotify.com/track/4NnFdCD1ZyZVe6yvwPcyGe) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Give It To Me 2025](https://open.spotify.com/album/3NdkhaYtmYhEIRkTw6r7lS) | 2:41 |
 
-Snapshot ID: `AAACzhFc+mNGPNPd+IRiZgEKbx6RK+lv`
+Snapshot ID: `AAACz9Faa7KTA27vtSeyNKuV/roM29bi`

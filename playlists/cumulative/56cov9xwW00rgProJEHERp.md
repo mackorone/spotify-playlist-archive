@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-282 songs - 16 hr 14 min
+286 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2023-12-08 | 2024-11-09 |
 | [Ego](https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Ego](https://open.spotify.com/album/6a51W0b5pxwJZOEvVGIyWm) | 3:43 | 2024-02-16 | 2024-08-24 |
 | [Enemies](https://open.spotify.com/track/1eg0I4UkEhDgaHYxpXXG26) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Manic Party](https://open.spotify.com/album/2C1HRx9Ao5sfj68lROoKkE) | 3:15 | 2023-12-08 | 2024-05-11 |
+| [Enigami \(with Mei Semones\)](https://open.spotify.com/track/1WCDMaCfChlyJo6qD281x4) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Enigami \(with Mei Semones\)](https://open.spotify.com/album/72uSrGrIdFXdzTLhsmU65O) | 2:30 | 2025-07-18 |  |
 | [Enough](https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Enough](https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg) | 3:51 | 2025-02-07 |  |
 | [even forever](https://open.spotify.com/track/1OicUu8wILtHnqX7VTv2MI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [even forever](https://open.spotify.com/album/4RgTLxSbndjcpFA4bTRSeA) | 3:32 | 2024-07-19 | 2025-01-11 |
 | [Evergreen](https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Evergreen](https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf) | 2:30 | 2024-08-23 | 2025-02-22 |
@@ -167,6 +168,7 @@
 | [Love Me For Another Day](https://open.spotify.com/track/1QBoyx9EOFbnFQJGCyEzwz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:03 | 2023-12-08 | 2024-03-16 |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 | 2023-12-08 | 2024-11-09 |
 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-06-27 |  |
+| [Lovesick](https://open.spotify.com/track/2HLozrMrP9kSZTjRPWWlyF) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Lovesick](https://open.spotify.com/album/1KBbXD1cmVf0Xgyqptyl1F) | 3:19 | 2025-07-18 |  |
 | [Loving You \(feat\. Maverick Sabre\)](https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j) | 2:32 | 2024-11-08 |  |
 | [MAKE ME YOUR MONSTER](https://open.spotify.com/track/4bNCgx7wGWP98iP2euzF12) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAKE ME YOUR MONSTER](https://open.spotify.com/album/1xBDETRvO7zwDC5pEUvzAv) | 3:20 | 2024-08-02 |  |
 | [Malibu](https://open.spotify.com/track/20O68YXmVnI0MzVfOy9WQ4) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/2Z5S2hgUpivyXs9T5LnxiS) | 4:02 | 2025-02-21 |  |
@@ -201,6 +203,7 @@
 | [One Of A Kind Love Affair](https://open.spotify.com/track/5PAJzKSzJHI82YBmnzNOvq) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [One Of A Kind Love Affair](https://open.spotify.com/album/5mQYZSGfBe180WE8G0tc6j) | 4:38 | 2023-12-15 | 2024-01-20 |
 | [Only For You](https://open.spotify.com/track/3wSGxnjPm8aY5ZcSNQy8gS) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Only For You](https://open.spotify.com/album/35SLuAIVWSFwR4M4qyn8NQ) | 3:23 | 2024-03-15 | 2024-06-15 |
 | [Only Happen](https://open.spotify.com/track/2zQt3vKJafeBV6JjZD7oSn) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Only Happen](https://open.spotify.com/album/4MEMDFaYFsHgCrTzwbufQR) | 3:28 | 2025-05-09 |  |
+| [Oranges](https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 2:52 | 2025-07-18 |  |
 | [Our Time In The Sun](https://open.spotify.com/track/5p4JYohFMUUX3Ry7cleGYx) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/344Lr7mYQ1StZCxVW5usJ4) | 3:00 | 2024-09-06 | 2025-02-15 |
 | [Over You](https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Over You](https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth) | 2:29 | 2024-01-26 | 2024-08-24 |
 | [Overgrown](https://open.spotify.com/track/2laFygRs4Cft2jsQN1oJud) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Overgrown](https://open.spotify.com/album/1LkmLrGj33RzJTSu0ZMzKC) | 3:39 | 2025-06-20 |  |
@@ -232,6 +235,7 @@
 | [Sometimes](https://open.spotify.com/track/0K4EvBjWxaVLuv8k3nQXKj) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Sometimes / Tomorrow](https://open.spotify.com/album/1OJMwxD58KaCvmLTaSYiiv) | 2:57 | 2024-03-01 | 2024-09-07 |
 | [Songbirds](https://open.spotify.com/track/1wurpE0ZIjWvfHohiGOyaI) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Songbirds](https://open.spotify.com/album/6JjPtFirb4PR6sRuuTEH4P) | 2:56 | 2024-03-08 | 2024-09-07 |
 | [Spanish is The Loving Tongue](https://open.spotify.com/track/2mIriSSWbDa2OHgtXuume7) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Spanish is The Loving Tongue](https://open.spotify.com/album/1J4Mnd8G3cJ1wjYsDjVSeu) | 4:41 | 2024-03-08 | 2024-05-25 |
+| [Spill My Wine](https://open.spotify.com/track/2i1wCVx8fkd4SqraEb97C5) | [Clara Smallman](https://open.spotify.com/artist/77tfrMyPTZhylacDaqY8SQ) | [Spill My Wine](https://open.spotify.com/album/6gd0ZuJxPETARwjH6n9q3p) | 5:09 | 2025-07-18 |  |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-12-08 | 2024-05-04 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-10 | 2025-02-01 |
 | [Stay](https://open.spotify.com/track/1onCvJgV8VL9WSHsrfIl2I) | [Mikhail Laxton](https://open.spotify.com/artist/6WeoKwC3VvK3TtitaFqr19) | [Stay](https://open.spotify.com/album/7DTxFJL32yQaLVZygMqAgY) | 2:43 | 2025-07-04 |  |

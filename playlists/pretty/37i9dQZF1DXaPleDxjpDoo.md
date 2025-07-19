@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,423 likes - 125 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,541 likes - 125 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 124 | [Inner Retreat](https://open.spotify.com/track/6vkgNVCmM2i7ntU3WtUAJ8) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Inner Retreat](https://open.spotify.com/album/39d1Geo2YjAZTd2Du6iuEt) | 2:57 |
 | 125 | [Retreat](https://open.spotify.com/track/03g6bBo4AQ77eNtc2YwUV6) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Retreat](https://open.spotify.com/album/7yh6lCq7TltDkcrxkHk6Ym) | 2:38 |
 
-Snapshot ID: `aG5ZGAAAAAAJaxQFJu4vGtSC6QkMN/NL`
+Snapshot ID: `aHq9YQAAAABfGYUxssOJx57UFgC5KdMQ`

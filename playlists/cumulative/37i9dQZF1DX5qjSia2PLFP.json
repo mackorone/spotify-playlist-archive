@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "They got next and now. Cover: <a href=\"spotify:artist:3SozjO3Lat463tQICI9LcE\">Tyla</a> ",
+  "description": "They got next and now. Cover: <a href=\"spotify:artist:7IrBqZo6diq3hV3GpUhrs2\">Jim Legxacy</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -413,6 +413,28 @@
     },
     {
       "album": {
+        "name": "Grady Baby",
+        "url": "https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118440,
+      "name": "285 (feat. Monaleo)",
+      "url": "https://open.spotify.com/track/6twVbeb9EzKRWqU6lGM0zU"
+    },
+    {
+      "album": {
         "name": "2daside",
         "url": "https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN"
       },
@@ -508,7 +530,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 151537,
       "name": "30 Deep (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3d9VvVyziuFiLIIUJD0KkU"
@@ -1472,10 +1494,36 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 124286,
       "name": "Arike",
       "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
+    },
+    {
+      "album": {
+        "name": "Arike (Remix)",
+        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Arike - Remix",
+      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
     },
     {
       "album": {
@@ -13692,7 +13740,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 206423,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/4vEZaYfiAKzhh5thAQl31g"
@@ -14724,7 +14772,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 180226,
       "name": "Nookie (Pu$$y) (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/4MCuCTuevnlTnwm5Rekfwx"
@@ -17109,6 +17157,36 @@
     },
     {
       "album": {
+        "name": "Pucci / Pilates",
+        "url": "https://open.spotify.com/album/4y7zel1VLuMAlIwF6WOfms"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142809,
+      "name": "Pucci (feat. Zeddy Will)",
+      "url": "https://open.spotify.com/track/0R8PunCMerQPUwBxzD2sUs"
+    },
+    {
+      "album": {
         "name": "Pull Up(s)",
         "url": "https://open.spotify.com/album/3YctpjaNzPkk8faA4Scemh"
       },
@@ -18646,7 +18724,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -18672,7 +18750,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 188593,
       "name": "Shake It To The Max - Tuff Remix",
       "url": "https://open.spotify.com/track/1tSYJVpbGD0iPLQPdesHpU"
@@ -19696,6 +19774,24 @@
       "duration_ms": 202442,
       "name": "Sonho Azul",
       "url": "https://open.spotify.com/track/2J1taExAQxgrsu6crcJXjr"
+    },
+    {
+      "album": {
+        "name": "black british music (2025)",
+        "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136845,
+      "name": "sos",
+      "url": "https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w"
     },
     {
       "album": {
@@ -20866,7 +20962,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 230851,
       "name": "Target",
       "url": "https://open.spotify.com/track/6everQAWrWqcf63uFpZKa2"
@@ -23800,6 +23896,24 @@
       "duration_ms": 213437,
       "name": "Won't Let U Go (Drill)",
       "url": "https://open.spotify.com/track/3CeqnoWGCNX7IG3L1BjkcN"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/3NtyuEu6cVbs3GR9lVaRE0"
+      },
+      "artists": [
+        {
+          "name": "Kaygo Gotti",
+          "url": "https://open.spotify.com/artist/2TukjrSJITQqMa92O3UihS"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/12uSBGnjyndDbEVPnIYbjn"
     },
     {
       "album": {

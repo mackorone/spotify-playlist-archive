@@ -4,7 +4,7 @@
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️ Featuring music from: Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, H.E.R, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more\. Chill vibes \| Romantic dinner 2025
 
-296 songs - 18 hr 28 min
+297 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/track/3sZWxtVuRc1Iet6ELwRz43) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/album/1I8e5aPdqwrP3UJUMyaOMD) | 3:58 | 2022-05-27 | 2023-01-26 |
 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 | 2024-10-04 |  |
 | [Apologize](https://open.spotify.com/track/6q3zC9dDD4lUNk8nfUztXy) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z) | 3:04 | 2025-01-30 |  |
+| [april](https://open.spotify.com/track/7xba9o02EQR0YMrBOZ4d10) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [april](https://open.spotify.com/album/6qJIriPhREpx7cSdgGAtFL) | 2:21 | 2025-07-18 |  |
 | [Baby Be Mine](https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:20 | 2024-10-04 |  |
 | [Babylon](https://open.spotify.com/track/0hltBiPrw06vWjtadBn6oe) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(2020 Remaster\)](https://open.spotify.com/album/65dV0TVZ9BEfudSPEt1hb6) | 4:25 | 2025-05-13 |  |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2022-07-12 | 2024-10-05 |
@@ -245,7 +246,7 @@
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2024-10-04 |  |
 | [Skin](https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:59 | 2024-10-04 |  |
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:02 | 2022-05-27 | 2024-10-05 |
-| [Smile](https://open.spotify.com/track/0HC0DQfCneEYFMRYCG9m4s) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Time \(Spotify Exclusive\)](https://open.spotify.com/album/6ZM59O9R5zjawLVwCMD2zJ) | 3:27 | 2024-10-04 |  |
+| [Smile](https://open.spotify.com/track/0HC0DQfCneEYFMRYCG9m4s) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Time \(Spotify Exclusive\)](https://open.spotify.com/album/6ZM59O9R5zjawLVwCMD2zJ) | 3:27 | 2024-10-04 | 2025-07-19 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2024-10-04 |  |
 | [Snow \(Hey Oh\)](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 5:34 | 2025-01-24 |  |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2022-05-27 | 2024-10-05 |

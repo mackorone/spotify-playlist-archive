@@ -226,7 +226,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 151666,
       "name": "Afterdawn",
       "url": "https://open.spotify.com/track/0V4TpiZBeby9w9CvBrVaNL"
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 130257,
       "name": "Coelum",
       "url": "https://open.spotify.com/track/09zb80ci56DEgN3r1e0F9T"
@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 151898,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/6mope13IMtg7yLe38WjZ0r"
@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 110730,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/2qKRD4hHB07aMhVgX1HqmP"
@@ -5222,7 +5222,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 137142,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/145yNxsDqrlai3CzO2ynzT"
@@ -5464,7 +5464,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 134318,
       "name": "Le Lac - FloFilz Reprise",
       "url": "https://open.spotify.com/track/0AsQKm30IMWGJYM0tnwIFS"
@@ -6172,7 +6172,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 115789,
       "name": "Makaki",
       "url": "https://open.spotify.com/track/3gZTCXigpbjHEhQhBLKyNk"
@@ -7550,7 +7550,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 156000,
       "name": "Out of Reach",
       "url": "https://open.spotify.com/track/1fWjm9Q9ybcmfY85u4xJM6"
@@ -7692,7 +7692,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 144705,
       "name": "Palm Tree Bounce",
       "url": "https://open.spotify.com/track/0wrkpCUbuXc8dDaBNe8B0y"
@@ -8158,6 +8158,32 @@
       "duration_ms": 144613,
       "name": "Pretrip",
       "url": "https://open.spotify.com/track/1dFNTrPWQd9mt1ZaGr9ZH1"
+    },
+    {
+      "album": {
+        "name": "Profondeurs",
+        "url": "https://open.spotify.com/album/3uV2Qo5LNX3oBf9Wl88DFK"
+      },
+      "artists": [
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "Florent Garcia",
+          "url": "https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129998,
+      "name": "Profondeurs",
+      "url": "https://open.spotify.com/track/0u7gu9IVPuIwZaY89I0dTF"
     },
     {
       "album": {
@@ -8878,7 +8904,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 230758,
       "name": "Sleeping Norboo - Moods Remix",
       "url": "https://open.spotify.com/track/3Fgpy0rBMZNP4vvJM4ZYEs"
@@ -8962,7 +8988,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 143414,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/45dCxZ1b32IMjK5FVNI38a"
@@ -10784,7 +10810,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 125082,
       "name": "The Start of Something New",
       "url": "https://open.spotify.com/track/4yX8YNUdCdxMpujziFkQsq"
@@ -11802,7 +11828,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 140816,
       "name": "What If",
       "url": "https://open.spotify.com/track/4nF4pM4QjUdggBFVf2h67C"

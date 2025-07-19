@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "APRIETA",
+        "url": "https://open.spotify.com/album/3Yv0xSnNLbTHEmAkZuCSiK"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135003,
+      "name": "APRIETA",
+      "url": "https://open.spotify.com/track/49s2wvIpWZrrvnGdf1hy1d"
+    },
+    {
+      "album": {
         "name": "Aqui Ando En El Caloron (En Vivo)",
         "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
       },
@@ -1987,6 +2005,32 @@
     },
     {
       "album": {
+        "name": "Chipeado (Original)",
+        "url": "https://open.spotify.com/album/7buxrgyhPyIkvDZwvnYqBr"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        },
+        {
+          "name": "Matias Emmanuel",
+          "url": "https://open.spotify.com/artist/4sWburFBVJuegn1Gs2jQko"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192812,
+      "name": "Chipeado",
+      "url": "https://open.spotify.com/track/3a5GdmCdNcAiEw4gqkhmBf"
+    },
+    {
+      "album": {
         "name": "Chula",
         "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
       },
@@ -2234,6 +2278,36 @@
       "duration_ms": 167386,
       "name": "Con La Brisa",
       "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
+    },
+    {
+      "album": {
+        "name": "Condena",
+        "url": "https://open.spotify.com/album/6727I6VwvHuWfHM5cT6UBl"
+      },
+      "artists": [
+        {
+          "name": "Ice Keed",
+          "url": "https://open.spotify.com/artist/6xy0AOa2J2Rw3iel1cj0Rz"
+        },
+        {
+          "name": "Alto Linaje",
+          "url": "https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        },
+        {
+          "name": "Cool Kids",
+          "url": "https://open.spotify.com/artist/5RFqLdpN2yvT7YbjrAv6TV"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176450,
+      "name": "Condena",
+      "url": "https://open.spotify.com/track/5mcTu7oniVfT5pWA0aDld0"
     },
     {
       "album": {
@@ -4348,7 +4422,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 153388,
       "name": "Estoy Carita",
       "url": "https://open.spotify.com/track/1fioo8JPVz6CEVe52xpYov"
@@ -4476,7 +4550,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 126300,
       "name": "Flore$",
       "url": "https://open.spotify.com/track/7guazDVh85SvvfXjj4xKj0"
@@ -5394,6 +5468,28 @@
       "duration_ms": 186459,
       "name": "Koenigsegg",
       "url": "https://open.spotify.com/track/3jZ24Jd8i5FNpePjYQy4ck"
+    },
+    {
+      "album": {
+        "name": "KULICHI",
+        "url": "https://open.spotify.com/album/2xE8CBQa4sXeJb1vGqcdwQ"
+      },
+      "artists": [
+        {
+          "name": "Dj Chekesito",
+          "url": "https://open.spotify.com/artist/4S0i7CxFJybFWyCsB0vwil"
+        },
+        {
+          "name": "Kapostik",
+          "url": "https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161456,
+      "name": "KULICHI",
+      "url": "https://open.spotify.com/track/3K4jhoCkhAsTPkdOkF2cvF"
     },
     {
       "album": {
@@ -7668,7 +7764,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 194560,
       "name": "Morro Dolido",
       "url": "https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy"
@@ -7840,7 +7936,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 188750,
       "name": "Ni Por Favor (Si No Me Quieres Ni Modo",
       "url": "https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX"
@@ -7928,7 +8024,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 202324,
       "name": "No Fui Yo",
       "url": "https://open.spotify.com/track/3AJAJkOQJwzxaOFjjGommM"
@@ -9379,6 +9475,28 @@
     },
     {
       "album": {
+        "name": "Rappi",
+        "url": "https://open.spotify.com/album/3D0qcdTcQ7AzooH0nexNnv"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145982,
+      "name": "Rappi",
+      "url": "https://open.spotify.com/track/7v9tS338RSDVxMpW1H7QKv"
+    },
+    {
+      "album": {
         "name": "Ratas",
         "url": "https://open.spotify.com/album/6rA3QN7A5wEmJJnFGgvfEZ"
       },
@@ -9528,7 +9646,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 167130,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ"
@@ -11082,6 +11200,36 @@
       "duration_ms": 200600,
       "name": "Toma 4",
       "url": "https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz"
+    },
+    {
+      "album": {
+        "name": "Toma Toma",
+        "url": "https://open.spotify.com/album/3Ab6VuEvQemx5OkmcweiA0"
+      },
+      "artists": [
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "Yell G",
+          "url": "https://open.spotify.com/artist/6wRa5hi05LDZDZZ1XywWdn"
+        },
+        {
+          "name": "Alexey",
+          "url": "https://open.spotify.com/artist/2GYeoxomYHesaL8ppnNcD4"
+        },
+        {
+          "name": "El Menoor",
+          "url": "https://open.spotify.com/artist/5SMywj25R2qgtuSL6wmtUQ"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139963,
+      "name": "Toma Toma",
+      "url": "https://open.spotify.com/track/6HpIyTulkVcUhx9CLCdxvT"
     },
     {
       "album": {

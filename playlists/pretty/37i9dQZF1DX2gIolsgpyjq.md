@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > 10 years of the best new music by independent artists in the Nordics\. Cover: Lover's Skit
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,229 likes - 97 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,247 likes - 97 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

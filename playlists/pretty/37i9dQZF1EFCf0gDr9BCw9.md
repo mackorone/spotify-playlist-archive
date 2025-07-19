@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618 likes - 148 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 619 likes - 148 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 41 | [On the Wrong Side of the Railroad Tracks](https://open.spotify.com/track/3sEbCLAkVB1FmdXdJUverM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Duke Elegant](https://open.spotify.com/album/32944vJtxt5vMbR8dAMViB) | 5:42 |
 | 42 | [Sonnet for Caesar](https://open.spotify.com/track/3ePKylz8H0t1sNI1yBh5sS) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:56 |
 | 43 | [Multi\-Colored Blue](https://open.spotify.com/track/5yOfOxh7w2NgMIvS9rMtqb) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [Easy to Love](https://open.spotify.com/album/6jLzz5vXJ760qXUA6fO5Ve) | 6:29 |
-| 44 | [Smada](https://open.spotify.com/track/7Dmlki6DmsfeSADhrcNsI8) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:36 |
-| 45 | [Strange Feeling](https://open.spotify.com/track/70shQlAT7pBE869zizxBs1) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [The Peaceful Side Of Jazz](https://open.spotify.com/album/6sVhxrGsOI1snNrkTeaHz0) | 3:40 |
+| 44 | [Strange Feeling](https://open.spotify.com/track/70shQlAT7pBE869zizxBs1) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [The Peaceful Side Of Jazz](https://open.spotify.com/album/6sVhxrGsOI1snNrkTeaHz0) | 3:40 |
+| 45 | [Smada](https://open.spotify.com/track/7Dmlki6DmsfeSADhrcNsI8) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:36 |
 | 46 | [I'm Checkin' Out, Goom'bye](https://open.spotify.com/track/73bqQYYWmLKa84O0io4E99) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp), [Matt Munisteri](https://open.spotify.com/artist/2vQcS9cDI4xWJqbqGzch7M), [Mark Shane](https://open.spotify.com/artist/7jJRTFVSa3AEiLLQOWRBgG), [Lee Hudson](https://open.spotify.com/artist/7gcEfARxzB32rfJmwyCvA4) | [Strictly Romancin'](https://open.spotify.com/album/0oyu5Vuai0HPO8zR9X0s36) | 2:25 |
 | 47 | [I Don't Mind](https://open.spotify.com/track/06XRQBBz4XuOyDAlBZUxnh) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Get Out of Town](https://open.spotify.com/album/4fqNWJL8PQEt6eRX6AJ08Q) | 4:12 |
 | 48 | [Sonnet In Search of a Moor](https://open.spotify.com/track/4gnSAjbegG0GIlQTwyG6VI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:19 |
-| 49 | [Half the Fun \(aka Lately\)](https://open.spotify.com/track/08TpH1FwIzbmEkR720Duye) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 4:16 |
-| 50 | [Paris Blues](https://open.spotify.com/track/37oXUGR543Dt5z8DW2W0lB) | [Milt Jackson Quartet](https://open.spotify.com/artist/0OkXd29wRAUpYRin6jbXMQ) | [A Thrill from the Blues](https://open.spotify.com/album/0yNscfZjhm8kQO6MikxrVU) | 2:57 |
+| 49 | [Paris Blues](https://open.spotify.com/track/37oXUGR543Dt5z8DW2W0lB) | [Milt Jackson Quartet](https://open.spotify.com/artist/0OkXd29wRAUpYRin6jbXMQ) | [A Thrill from the Blues](https://open.spotify.com/album/0yNscfZjhm8kQO6MikxrVU) | 2:57 |
+| 50 | [Half the Fun \(aka Lately\)](https://open.spotify.com/track/08TpH1FwIzbmEkR720Duye) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 4:16 |
 | 51 | [Johnny Come Lately](https://open.spotify.com/track/229U3wp0xQTIyk564uyHDR) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:36 |
 | 52 | [The Telecasters](https://open.spotify.com/track/2XWI60h3SScOAvP7XaUxkI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:01 |
 | 53 | [Sonnet for Sister Kate](https://open.spotify.com/track/6M6zmAS7lPdgRbNtfMDPTI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:18 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 147 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 148 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `Ab3DMgAAAAAI3UjhC4XeOSSHcgNOXtfx`
+Snapshot ID: `Ab3I0gAAAAAPXMnwBHLlqC85F5ayhb4n`

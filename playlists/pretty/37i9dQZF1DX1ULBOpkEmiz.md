@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 
 > Feeling like summer in 03'
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,762 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,784 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 | 31 | [Oh Boy](https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:24 |
 | 32 | [Just Friends \(Sunny\)](https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 4:11 |
 | 33 | [Wanna Get To Know You](https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 4:25 |
-| 34 | [Dance Tonight](https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:41 |
-| 35 | [So Gone](https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [After The Storm](https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v) | 4:02 |
+| 34 | [So Gone](https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [After The Storm](https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v) | 4:02 |
+| 35 | [Dance Tonight](https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:41 |
 | 36 | [Shawty Is Da Shit](https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:22 |
 | 37 | [Into You \(feat\. Tamia\)](https://open.spotify.com/track/0yHConG49418wPs8UfAt44) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Street Dreams \(Bonus Track\)](https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl) | 4:55 |
 | 38 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 | 41 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
 | 42 | [Some Cut \(feat\. Cutty\)](https://open.spotify.com/track/07u02f6biDHx5VexfAs41b) | [Trillville](https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY), [Cutty](https://open.spotify.com/artist/3jhkLfgJKRu9Lb0AQd7fkB) | [The King Of Crunk & BME Recordings Present: Welcome to Trillville USA](https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu) | 4:43 |
 | 43 | [Between Me & You](https://open.spotify.com/track/4xwRtK6tfMp4yZwcDvY0gT) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Rule 3:36](https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH) | 4:10 |
-| 44 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
-| 45 | [So What](https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x) | [Field Mob](https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Light Poles And Pine Trees](https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR) | 3:36 |
+| 44 | [So What](https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x) | [Field Mob](https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Light Poles And Pine Trees](https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR) | 3:36 |
+| 45 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 46 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 |
 | 47 | [The Jump Off](https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 3:54 |
 | 48 | [Freakum Dress](https://open.spotify.com/track/3IAyQMTYOsspp9p1htFSak) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO) | 3:20 |

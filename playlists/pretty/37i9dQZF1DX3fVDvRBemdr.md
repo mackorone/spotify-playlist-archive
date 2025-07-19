@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Jeffrey Heesen
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,420 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,440 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 33 | [Ik Wil Met Je Dansen](https://open.spotify.com/track/50Ys1vOJElD0OKI3qGpJks) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Ik Wil Met Je Dansen](https://open.spotify.com/album/6TZqKE8GNYpIWZRxhPSPf6) | 2:54 |
 | 34 | [La La Londen](https://open.spotify.com/track/6vK8TjfQSgfnh9prC5o6zZ) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [La La Londen](https://open.spotify.com/album/19PN5yABA6inimZOPKzRzR) | 2:28 |
 | 35 | [Je Gaat Maar Één Keer Dood](https://open.spotify.com/track/0zAvWNPP6MAc9HpuMBimFN) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Je Gaat Maar Één Keer Dood](https://open.spotify.com/album/7EY00eVW29RWAnSYG7dg32) | 3:27 |
-| 36 | [Seks Mannen & Geld](https://open.spotify.com/track/1mQKhMDXMDETCjR0l7dFbV) | [Jessy Arjaans](https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT) | [Seks Mannen & Geld](https://open.spotify.com/album/4L2IjcvpFPStmN56rAtRAt) | 2:22 |
+| 36 | [Sex Mannen & Geld](https://open.spotify.com/track/1mQKhMDXMDETCjR0l7dFbV) | [Jessy Arjaans](https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT) | [Sex Mannen & Geld](https://open.spotify.com/album/4L2IjcvpFPStmN56rAtRAt) | 2:22 |
 | 37 | [Dansend Op Die Melodie](https://open.spotify.com/track/4keARjEt9p4Y2Cst04f19Y) | [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Dansend Op Die Melodie](https://open.spotify.com/album/3nDvmiAgon6g46Xwm0oTJb) | 2:39 |
 | 38 | [Is Dit Het Begin](https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Voor Altijd](https://open.spotify.com/album/5BBER32xJPBci9lHzOEPub) | 2:49 |
 | 39 | [Feest In De Tent](https://open.spotify.com/track/6rvwaPKrw99V8G7DoGSMvz) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Feest In De Tent](https://open.spotify.com/album/63A6NjvBZNYGbS2XcQ1fQh) | 3:20 |

@@ -982,7 +982,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 229881,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3"
@@ -6442,6 +6442,24 @@
       "duration_ms": 183597,
       "name": "Needing You",
       "url": "https://open.spotify.com/track/2acxmqB7A6OkJYD7H1l7Oq"
+    },
+    {
+      "album": {
+        "name": "needle and thread",
+        "url": "https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "needle and thread",
+      "url": "https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA"
     },
     {
       "album": {

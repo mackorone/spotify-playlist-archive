@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,590 likes - 50 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,651 likes - 50 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 46 | [Even Though](https://open.spotify.com/track/26qQM5sqNWTedLxlWwMqXL) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 |
 | 47 | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/track/1gqlRiladdiWHmQU8GwtwE) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Cara Frew](https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf) | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/album/31CJ5vMMpstJibWF6ESDUD) | 9:48 |
 | 48 | [Take It All Off](https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:37 |
-| 49 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 |
-| 50 | [Superman \- Club Mix](https://open.spotify.com/track/5rBDK9SA9qa5yJra1iCPuV) | [Andy Keys](https://open.spotify.com/artist/5DrHquZcRH9wEDNPCXmCt7), [KingTouch](https://open.spotify.com/artist/19mB8PdWAm23SETJac3rOG), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Maturo](https://open.spotify.com/album/3QzA2IsFBMCjThvKDxvS7H) | 8:00 |
+| 49 | [Superman \- Club Mix](https://open.spotify.com/track/5rBDK9SA9qa5yJra1iCPuV) | [Andy Keys](https://open.spotify.com/artist/5DrHquZcRH9wEDNPCXmCt7), [KingTouch](https://open.spotify.com/artist/19mB8PdWAm23SETJac3rOG), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Maturo](https://open.spotify.com/album/3QzA2IsFBMCjThvKDxvS7H) | 8:00 |
+| 50 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 |
 
-Snapshot ID: `aHbrgAAAAADNr7iOHSQw9FJlPaIDeBvg`
+Snapshot ID: `aHg9AAAAAAD8APD1YN/FmBJVvY4Yjoh0`

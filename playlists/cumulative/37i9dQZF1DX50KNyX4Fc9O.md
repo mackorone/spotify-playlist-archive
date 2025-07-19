@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Alex Warren
 
-2,035 songs - 4 day 8 hr 56 min
+2,036 songs - 4 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,7 +855,7 @@
 | [How You Like Me Now](https://open.spotify.com/track/5XMFdEsdceutSIY3L3LUut) | [Frankie Venter](https://open.spotify.com/artist/4OpEtCxKCkuq7XqJ18zVYn) | [How You Like Me Now](https://open.spotify.com/album/0y4LNch1kYUmV6NXBKYtSm) | 2:41 | 2024-08-22 | 2024-09-13 |
 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 | 2024-04-11 | 2024-05-17 |
 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 | 2024-11-07 | 2024-12-06 |
-| [HU$TLER](https://open.spotify.com/track/4KdGssh3V2bzBwGr0zDHSJ) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [HU$TLER](https://open.spotify.com/album/3GUob6Y5LlOpbDdzRlL3t6) | 2:04 | 2025-07-03 |  |
+| [HU$TLER](https://open.spotify.com/track/4KdGssh3V2bzBwGr0zDHSJ) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [HU$TLER](https://open.spotify.com/album/3GUob6Y5LlOpbDdzRlL3t6) | 2:05 | 2025-07-03 |  |
 | [Humankind](https://open.spotify.com/track/3LH03hNxNUceSZCUXdgfRm) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Humankind](https://open.spotify.com/album/6IHG8lHGYHGVWfrtBosCJd) | 3:03 | 2024-06-20 | 2024-07-27 |
 | [Hurricane](https://open.spotify.com/track/4VmUjQemFIPObiloQu0xgQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [I’m Sorry, Now Say It Back](https://open.spotify.com/album/5zdn7NF3UcpwC9SUsvvGaf) | 3:10 | 2024-10-17 | 2024-11-22 |
 | [Hurt](https://open.spotify.com/track/1i18b7rRxYr3XBI32LMgao) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Love Worth Believing](https://open.spotify.com/album/20ytKvRFBexNfIPs5s4qkM) | 3:09 | 2024-08-01 | 2024-08-30 |
@@ -1804,6 +1804,7 @@
 | [Ties](https://open.spotify.com/track/4yJ3Uhr2tIJc2XP64YWUP3) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Ties](https://open.spotify.com/album/6DkFYWQ3FEqzXDwQ7fuBvi) | 3:11 | 2025-01-16 | 2025-02-21 |
 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2024-06-27 | 2024-08-17 |
 | [Time](https://open.spotify.com/track/4nlJMRr4nGcCpokvgsJVSZ) | [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr), [Indigo Hearts](https://open.spotify.com/artist/7f7vHYP5vonXhTkDHidGTu) | [Time](https://open.spotify.com/album/3WHEGBacu2DeA8VPlDmcYb) | 3:40 | 2025-02-27 | 2025-04-04 |
+| [Time After Time](https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Time After Time](https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x) | 3:39 | 2025-07-17 |  |
 | [Time Of My Life](https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Time Of My Life](https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw) | 2:29 | 2024-08-16 | 2024-09-20 |
 | [Time Of My Life](https://open.spotify.com/track/65qcCeaBTWMMUTOWurS7pb) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Time Of My Life](https://open.spotify.com/album/25q7aE2QDCQEpwKF4yyXWl) | 3:16 | 2024-08-16 | 2024-09-20 |
 | [Timebomb](https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:51 | 2023-06-22 | 2023-08-18 |

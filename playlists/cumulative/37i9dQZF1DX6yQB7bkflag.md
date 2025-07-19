@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Maroon 5
 
-1,921 songs - 4 day 15 hr 21 min
+1,924 songs - 4 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Baby Blue Bathing Suit](https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv) | 3:15 | 2024-05-16 | 2024-06-07 |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-06 | 2024-06-28 |
 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 | 2024-05-16 | 2024-06-07 |
+| [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-07-18 |  |
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 | 2025-05-09 |
 | [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-06 | 2024-07-12 |
 | [BACK TO REALITY](https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [CALL ME DRAMATIC](https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs) | 3:52 | 2024-10-04 | 2024-10-26 |
@@ -1350,6 +1351,7 @@
 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-03-14 | 2025-04-11 |
 | [Relentless Love](https://open.spotify.com/track/0hzt5MB7hjMWDPkM5BLDLt) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Relentless Love](https://open.spotify.com/album/3c8dzx8Vhy0w4eLH8ns5Zj) | 4:03 | 2025-03-28 | 2025-05-16 |
 | [Remaja Selamanya](https://open.spotify.com/track/1GaPhwDdtZuLaTWOy9xM2c) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Kaset](https://open.spotify.com/album/7J9EgZ74dLsD1WnFOVBYEC) | 3:49 | 2025-04-24 | 2025-05-23 |
+| [Remedy](https://open.spotify.com/track/6dQfthVqZvG39aBUdWOnb9) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Remedy](https://open.spotify.com/album/4NMF7zEoWEnKcybYCoZkCu) | 3:13 | 2025-07-17 |  |
 | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere) | 2:02 | 2024-11-14 | 2024-12-21 |
 | [Renaissance Man](https://open.spotify.com/track/3kkrXydZaaor24348eYbIp) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Renaissance Man](https://open.spotify.com/album/3fiZhTVA6QGTc7Xw0uSXom) | 2:22 | 2024-08-22 | 2024-10-04 |
 | [Rent Free](https://open.spotify.com/track/4L6ddqhQWEEZLtpzmFO11f) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Rent Free](https://open.spotify.com/album/5Ut1XZFTurChldDiM5lE5w) | 2:36 | 2024-05-24 | 2024-06-21 |
@@ -1508,6 +1510,7 @@
 | [Sia\-Sia](https://open.spotify.com/track/1m2f6H5giEjXkzpbAIlkvk) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Sia\-Sia](https://open.spotify.com/album/1nDlXZeRWhHGYUC13LnY38) | 3:20 | 2025-04-17 | 2025-05-23 |
 | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/track/7Lm4S2P0MHwBktcdNILLQA) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 2:58 | 2024-06-28 | 2024-08-17 |
 | [Siapa yang Salah](https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [\(Masih\) Kalah](https://open.spotify.com/album/6r2HtvSWwhAU4b74a3OcT3) | 2:58 | 2024-05-30 | 2024-06-21 |
+| [Sidi Ya Sidi](https://open.spotify.com/track/4UzpGVaCX5uGmTDnFYzWNq) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:36 | 2025-07-18 |  |
 | [silence STArEs me down \(feat\. Cuco\)](https://open.spotify.com/track/7zkBwgnY2OQwufiEsaVObV) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [silence STArEs me down \(feat\. Cuco\)](https://open.spotify.com/album/6baKze14ER8USbSNwPGc4l) | 3:06 | 2024-01-25 | 2024-02-17 |
 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 | 2025-04-04 | 2025-05-02 |
 | [Simpan Dulu Rindu](https://open.spotify.com/track/5VMlyJVSWTOdH9jQj2fd15) | [Nuh...](https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT) | [Simpan Dulu Rindu](https://open.spotify.com/album/1S0Ma0Q16iKUbI3YEBQ8Gq) | 4:12 | 2025-07-17 |  |

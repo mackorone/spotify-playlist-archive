@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tantine Theodora.
+> Du Congo, au monde 🌍 avec Tonton Naza.
 
-618 songs - 1 day 11 hr 12 min
+619 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Caler Son](https://open.spotify.com/track/6O8ZZH9r6QRobAbf8xy3rN) | [GAZ FABILOUSS](https://open.spotify.com/artist/6oM8IaVeHCW8MeUkACNo3z), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Caler Son](https://open.spotify.com/album/0rOrnuEczPPCGMDM6fSToX) | 4:32 | 2023-02-10 | 2023-11-25 |
 | [CALMANT](https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [HEARTBREAK LIFE II](https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o) | 2:29 | 2024-01-12 | 2024-07-27 |
 | [Caresse](https://open.spotify.com/track/5gbz2cNy6onybV68m96GFD) | [SevMokonzi](https://open.spotify.com/artist/0FXwUzwyrYyGJkYwAnpYp8) | [Caresse](https://open.spotify.com/album/3aZ3XICAdX8kD7lVOuxaYU) | 2:21 | 2023-03-17 | 2023-11-25 |
-| [Carré \(feat\. Fally Ipupa\)](https://open.spotify.com/track/558wwMmRlaCXruzBg7s1QG) | [Mokobé](https://open.spotify.com/artist/6B535quc1yWnDhnBMCvosY), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Carré \(feat\. Fally Ipupa\)](https://open.spotify.com/album/4oG5nKIyQXVKVozGUbOlnA) | 4:03 | 2023-06-23 |  |
+| [Carré \(feat\. Fally Ipupa\)](https://open.spotify.com/track/558wwMmRlaCXruzBg7s1QG) | [Mokobé](https://open.spotify.com/artist/6B535quc1yWnDhnBMCvosY), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Carré \(feat\. Fally Ipupa\)](https://open.spotify.com/album/4oG5nKIyQXVKVozGUbOlnA) | 4:03 | 2023-06-23 | 2025-07-19 |
 | [Cascade](https://open.spotify.com/track/75qfjGyoLxXZz5ybYNX9pA) | [Elygha](https://open.spotify.com/artist/6Nh15Mr3cEZL5ayTNArNaH) | [Cascade](https://open.spotify.com/album/3nihl21GfnOtRsjrFnZ37x) | 3:43 | 2022-11-25 | 2023-03-18 |
 | [CDQ](https://open.spotify.com/track/0CjGQyX0YHYibChVyStSnj) | [Arnaud Ndongala](https://open.spotify.com/artist/4MxUaA8AFEgDdjLIQKP3j8) | [CDQ](https://open.spotify.com/album/7e50CSpqBejmMVBRhMDIKy) | 2:52 | 2022-06-30 | 2022-07-16 |
 | [Champion](https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Champion](https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl) | 3:10 | 2022-08-12 | 2024-10-05 |
@@ -132,6 +132,7 @@
 | [Comme je suis \- Bonus](https://open.spotify.com/track/6AkRqxKsks8tf0fylxPV61) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Hokage](https://open.spotify.com/album/6HKAdvdWNEkOFpdGF1fd4G) | 2:46 | 2024-03-01 | 2024-05-18 |
 | [Comme moi](https://open.spotify.com/track/5ogkWkQnbMXxSlPbt9p8hB) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Comme moi](https://open.spotify.com/album/4egWqTez7UKNZkliNvLWMT) | 2:28 | 2025-02-07 | 2025-03-29 |
 | [Congo Blinders](https://open.spotify.com/track/69SH3kgTG4ocWctPouAWSP) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Ekoya](https://open.spotify.com/album/5rCvajgZQMkTJoHhiGZxgb) | 2:39 | 2025-01-31 | 2025-02-22 |
+| [Connectés](https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:38 | 2025-07-18 |  |
 | [CORTÈGE \(feat\. Fally Ipupa\)](https://open.spotify.com/track/0VXc8XprBLioRER7VAKo0f) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [AMBITION II](https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f) | 2:54 | 2024-04-12 | 2024-04-19 |
 | [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-17 | 2025-02-12 |
 | [CR7](https://open.spotify.com/track/6WRS0yCNFp8nwFwVRujLA6) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [CR7](https://open.spotify.com/album/1Ugm583SMex1WqKhfb7Xee) | 2:59 | 2024-05-31 | 2024-07-19 |

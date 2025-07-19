@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 11
 
-1,019 songs - 1 day 23 hr 7 min
+1,020 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [JINANBOU](https://open.spotify.com/track/345aQCBMJVBUwa6x74b31c) | [XAN](https://open.spotify.com/artist/5NfqonprYhdYuBctIrOv6B) | [JINANBOU](https://open.spotify.com/album/0d9fXdht0wiTps19Q13wjU) | 2:01 | 2024-04-16 | 2024-04-24 |
 | [Josetsusha!](https://open.spotify.com/track/5MCTIDVidknIGlI9atECh4) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe) | [Josetsusha!](https://open.spotify.com/album/7263wqVHp54oFq8zGlEXTM) | 3:21 | 2024-03-05 | 2024-05-02 |
 | [JOURNEY](https://open.spotify.com/track/2DbUv7eMb1hcoUvgUIfK2h) | [oozash](https://open.spotify.com/artist/26JUF6JZKtiDsxnJCMlNXG) | [JOURNEY](https://open.spotify.com/album/3tCOWAzRu2yR57OMr3FtKK) | 2:33 | 2024-07-30 | 2024-10-23 |
+| [Juggin \(feat\. JuggrixhSentana\)](https://open.spotify.com/track/0dWe0ElHM9gWdz1LJw2iNZ) | [M3R](https://open.spotify.com/artist/0My6iE80NWFYIob8q4GknJ), [JuggrixhSentana](https://open.spotify.com/artist/3ijoOXa68U7MRSFIw3JnVP) | [Juggin \(feat\. JuggrixhSentana\)](https://open.spotify.com/album/4gU26klhI2oIkXQg2ebWCv) | 2:35 | 2025-07-18 |  |
 | [JUMP](https://open.spotify.com/track/0FjAnT7CyjQvIcVYj30hAg) | [Ayagold](https://open.spotify.com/artist/61YfuL1GxBAKmXfHf1B5h8), [Franken](https://open.spotify.com/artist/4DO1uirUEBAjS46GhRlii2) | [JUMP](https://open.spotify.com/album/6jnsHvMtc5VYarNxbQjfQN) | 3:10 | 2024-11-06 | 2024-12-18 |
 | [JUNK](https://open.spotify.com/track/1duIv70E5FCf9JA4vcqXBI) | [eco skinny](https://open.spotify.com/artist/5XAY6FqqxqPclsCmTVaqkb) | [JUNK](https://open.spotify.com/album/3JneRTGSdDpKrQWhID2ZWw) | 2:30 | 2024-02-06 | 2024-04-03 |
 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 | 2023-12-07 | 2024-04-19 |

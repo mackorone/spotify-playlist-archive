@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,128 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,140 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 33 | [Boots Of Spanish Leather](https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:33 |
 | 34 | [Pack Up Your Sorrows](https://open.spotify.com/track/6CHlG9tTROi37XjxVRtaYt) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:53 |
 | 35 | [To Bobby](https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:01 |
-| 36 | [La Llorona](https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:40 |
-| 37 | [Winds Of The Old Days](https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:55 |
+| 36 | [Winds Of The Old Days](https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:55 |
+| 37 | [La Llorona](https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:40 |
 | 38 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 3:01 |
 | 39 | [One Too Many Mornings](https://open.spotify.com/track/2EEwfPipVVar4QgttlX7UR) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 3:13 |
 | 40 | [Forever Young \- Single Version](https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete A&M Recordings](https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [Wildwood Flower](https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:37 |
 | 50 | [If I Wrote You](https://open.spotify.com/track/2kJfMLleWp1UgC5HlGBHi1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters](https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM) | 3:28 |
 
-Snapshot ID: `aHbrgAAAAAAUjRzfA5qP1wSDEDWDmWYl`
+Snapshot ID: `aHg9AAAAAAA/hzZXsbUZO+mjr2cSFoLa`

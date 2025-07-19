@@ -3251,6 +3251,28 @@
     },
     {
       "album": {
+        "name": "I Wish You Would (ft. Midland)",
+        "url": "https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        },
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173499,
+      "name": "I Wish You Would (ft. Midland)",
+      "url": "https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo"
+    },
+    {
+      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
       },
@@ -6588,7 +6610,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 195586,
       "name": "To Hell & Back",
       "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"

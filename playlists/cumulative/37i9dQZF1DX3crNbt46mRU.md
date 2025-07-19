@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Hecht, Bad Bunny, Jamule and RAF Camora, and more.
 
-18,518 songs - 38 day 8 hr 55 min
+18,519 songs - 38 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2296,6 +2296,7 @@
 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 | 2022-07-14 | 2022-07-22 |
 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 | 2025-02-13 | 2025-02-21 |
 | [BODYGUARD](https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:00 | 2024-03-28 | 2024-04-05 |
+| [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 | 2025-07-17 |  |
 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 | 2023-05-04 | 2023-05-12 |
 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 | 2022-02-24 | 2022-03-04 |
 | [Bollywood](https://open.spotify.com/track/6YQuwMRXGbbBHGw54F1BPl) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Bollywood](https://open.spotify.com/album/6stKRosdbqJWhxg0GFxP34) | 2:52 | 2025-04-17 | 2025-04-25 |
@@ -12213,7 +12214,7 @@
 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-02-22 | 2024-03-01 |
 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 | 2022-04-07 | 2022-04-15 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-15 | 2025-05-23 |
-| [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i), [Eden Leshem](https://open.spotify.com/artist/49NRXEvNMMkyewpxD2ikH4), [Alice Phoebe Lou Matthew](https://open.spotify.com/artist/0VsqD71hCI2ABkZyHlYCzP), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:43 | 2025-07-17 |  |
+| [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:42 | 2025-07-17 |  |
 | [ONE TIME](https://open.spotify.com/track/6lOk5fSKVJvI9qRrQZTNFW) | [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [ONE TIME](https://open.spotify.com/album/5jeJ4ZAoxzjb4Ou9g1lYFO) | 2:55 | 2022-05-05 | 2022-05-13 |
 | [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 | 2022-09-09 | 2022-09-16 |
 | [One Two Step](https://open.spotify.com/track/5AMATy3T1MLBoayvQpZ4Lm) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [One Two Step](https://open.spotify.com/album/2zxy5qi885THKGThPpvnGT) | 2:09 | 2022-11-03 | 2022-11-11 |

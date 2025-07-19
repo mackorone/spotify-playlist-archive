@@ -3675,6 +3675,36 @@
     },
     {
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/79e8PZ5KAERcCMeDkPyK8x"
+      },
+      "artists": [
+        {
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
+        },
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226766,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/11A8pDjC04wlmALbtrfoWw"
+    },
+    {
+      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/5JQpMlF00cytK3RkoRwEtb"
       },
@@ -5152,7 +5182,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-19",
       "duration_ms": 291500,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT"
