@@ -45017,6 +45017,24 @@
     },
     {
       "album": {
+        "name": "D'amor traficante",
+        "url": "https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210372,
+      "name": "D'amor traficante",
+      "url": "https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ"
+    },
+    {
+      "album": {
         "name": "D.M.8.",
         "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
       },
@@ -56030,24 +56048,6 @@
       "duration_ms": 154500,
       "name": "D\u00f3nde Tu Est\u00e1s",
       "url": "https://open.spotify.com/track/2evmjqcUcR6nRWjfz7GjWU"
-    },
-    {
-      "album": {
-        "name": "D\u2019amor traficante",
-        "url": "https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "date_added": "2025-07-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210372,
-      "name": "D\u2019amor traficante",
-      "url": "https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ"
     },
     {
       "album": {
@@ -179978,10 +179978,6 @@
         {
           "name": "JC Reyes",
           "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Pedro Calderon",
-          "url": "https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh"
         }
       ],
       "date_added": "2025-07-18",

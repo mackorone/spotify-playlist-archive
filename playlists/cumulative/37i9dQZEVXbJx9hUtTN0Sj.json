@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 174008,
       "name": "Agudo M\u00e1gico 3",
       "url": "https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt"
@@ -2634,7 +2634,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 226831,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
@@ -12018,7 +12018,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 123366,
       "name": "G L\u00e9sou",
       "url": "https://open.spotify.com/track/4bj9zBP1zJJuFgfIJe3VF2"
@@ -14710,7 +14710,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 195705,
       "name": "Hotel Rock Bottom (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/3m0AFZnXVMkd8ppGuxLJxW"
@@ -18658,7 +18658,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 192092,
       "name": "Lekker Ding, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
@@ -19860,7 +19860,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 163941,
       "name": "Lotje - Outsiders' Oldschool Remix",
       "url": "https://open.spotify.com/track/3KCRqj9rrJzer7FdU6BieU"
@@ -20700,10 +20700,28 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 186240,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+    },
+    {
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/7yGhkXjHJP3XeGVnUJGcNs"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/4ar5kJ4FvZk1GmVI5LgP1G"
     },
     {
       "album": {

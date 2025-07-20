@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 椅子樂團 \(The Chairs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,069 likes - 130 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,081 likes - 130 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 112 | [鼓手女孩 G.S.N.H](https://open.spotify.com/track/38pZL94aixG0TB91H9R0SS) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [鼓手女孩 G.S.N.H](https://open.spotify.com/album/1hvwnzbjQVkQkx5fFc03v8) | 2:31 |
 | 113 | [抱歉我是饒舌歌手](https://open.spotify.com/track/6lRsmrgKPzsZeqEOpREPWJ) | [SOWUT](https://open.spotify.com/artist/7moEUZ6Zu2o5F8XQxQphRn) | [抱歉我是饒舌歌手](https://open.spotify.com/album/5gQBg3HUgIyrzMV6wFLQuh) | 2:13 |
 | 114 | [我就想突然在轉角遇見你](https://open.spotify.com/track/1zTa8ueMgagjNDPBQdIGfE) | [Wadewei](https://open.spotify.com/artist/3NO1uEvxv7DM2ZIeSHTQG0) | [我就想突然在轉角遇見你](https://open.spotify.com/album/36Tdq9e53rAQitdUXGWUoO) | 3:47 |
-| 115 | [後空翻的貓](https://open.spotify.com/track/7BTCGSUm2pwBKslxNFfdd2) | [卜星慧樂團](https://open.spotify.com/artist/2ff3KJtn8tSFraz70wiogs) | [後空翻的貓](https://open.spotify.com/album/3JefgtAlRZjjGtIuzfOXjx) | 3:29 |
+| 115 | [後空翻的貓](https://open.spotify.com/track/7BTCGSUm2pwBKslxNFfdd2) | [卜星慧](https://open.spotify.com/artist/5Zz3yt1ts4hZbj1Z0JkThM) | [後空翻的貓](https://open.spotify.com/album/3JefgtAlRZjjGtIuzfOXjx) | 3:29 |
 | 116 | [诺言](https://open.spotify.com/track/0dfGBseHwoK359eQzuoJfD) | [鄧典](https://open.spotify.com/artist/7s83TX2Vm2MS1Ol0udwjYY) | [谍 FM](https://open.spotify.com/album/3G6Wh6hSGKOjZ97grBqkAE) | 3:31 |
 | 117 | [Superwoman](https://open.spotify.com/track/6PHzegfHzlMmdOS5wvRBUY) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Superwoman](https://open.spotify.com/album/0yUasFhwn94QbEgsqDBw9q) | 2:36 |
 | 118 | [感動](https://open.spotify.com/track/4ppRH2Mw6tzOs3cRMe3S0O) | [魚條](https://open.spotify.com/artist/5NpkBOIMi2iJocLhi5MTde) | [感動](https://open.spotify.com/album/3Az5a2Xq5LdtyUw0kVhzi7) | 3:02 |

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Claudia Bouvette
 
-3,413 songs - 7 day 12 hr 26 min
+3,414 songs - 7 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Copy Paste](https://open.spotify.com/track/4JXpQGb6CUa9rf3Ywq3nFs) | [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD) | [Copy Paste](https://open.spotify.com/album/4mkIAFrgUCFLCFGGdDNS8z) | 2:48 | 2023-01-13 | 2023-01-21 |
 | [Corail](https://open.spotify.com/track/2KWBGKai14pB73DiW3IsR3) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Corail](https://open.spotify.com/album/4pbFzAkIlryz0VySQ5fITd) | 3:59 | 2022-08-19 | 2022-09-03 |
 | [Corail](https://open.spotify.com/track/1zhvNd9Owc6MYk4TjV7wdm) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Corail](https://open.spotify.com/album/55NhEOcVmjVT6gWcI18GFJ) | 3:20 | 2025-01-17 | 2025-01-25 |
+| [Corazon](https://open.spotify.com/track/5GU81R3iKvSHkBVQj1KzaV) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Corazon](https://open.spotify.com/album/5kC8331Mp6YWnB7oHQWtXL) | 2:59 | 2025-07-18 |  |
 | [Corde à linge](https://open.spotify.com/track/0U4ukkvUsKmvNw4aUMikco) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Corde à linge](https://open.spotify.com/album/7fPC38bEo6lSGyiTk7SNb2) | 3:19 | 2022-02-11 | 2022-02-26 |
 | [Corde à linge](https://open.spotify.com/track/5Caw8YAzPooXtitP0IzNwJ) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Corde à linge](https://open.spotify.com/album/652iWZmNRzFWHQ45yYzznR) | 6:20 | 2024-09-20 | 2024-09-28 |
 | [CORLEONE II](https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [CORLEONE II](https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02) | 2:18 | 2024-03-08 | 2024-05-03 |
@@ -2810,7 +2811,7 @@
 | [Shloshlo](https://open.spotify.com/track/5MaOfkPL7Fa4pUxmkH4q3K) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Shloshlo](https://open.spotify.com/album/3fn2ktuUz09Mk0dBUMRBBW) | 3:06 | 2024-05-10 | 2024-05-18 |
 | [Shoegaze](https://open.spotify.com/track/4HnwC68UiMaX7hRZwAow5d) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Shoegaze](https://open.spotify.com/album/22JJoxp8HZSE0KNKRDLpBG) | 3:22 | 2022-04-08 | 2022-04-23 |
 | [shoot](https://open.spotify.com/track/3YezPHKA3W9qk4fISAuLul) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [shoot](https://open.spotify.com/album/5CVphjoNSHUR7YRGrGk6zE) | 3:19 | 2023-03-24 | 2023-04-22 |
-| [Shoot](https://open.spotify.com/track/2RouBNPT9c8lzQ5Hc7V45c) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Shoot](https://open.spotify.com/album/5akNMeRxTASzv3Fcowk6kk) | 3:34 | 2025-05-02 |  |
+| [Shoot](https://open.spotify.com/track/2RouBNPT9c8lzQ5Hc7V45c) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Shoot](https://open.spotify.com/album/5akNMeRxTASzv3Fcowk6kk) | 3:34 | 2025-05-02 | 2025-07-20 |
 | [Shooter](https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:43 | 2022-01-28 | 2022-02-12 |
 | [Shooter](https://open.spotify.com/track/7l8gtKRBrpmHWChkwS0v1z) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Pourvu qu'il pleuve](https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8) | 2:43 | 2024-01-19 | 2024-02-03 |
 | [Show Me Your Love](https://open.spotify.com/track/28FhvHsbYVt42ftSlJ15tA) | [Randy](https://open.spotify.com/artist/4lWRGWFZssgySjWbfXwv5g) | [Show Me Your Love](https://open.spotify.com/album/6QRZsooXS3WIkinpPbTQr5) | 2:24 | 2022-05-06 | 2022-05-20 |

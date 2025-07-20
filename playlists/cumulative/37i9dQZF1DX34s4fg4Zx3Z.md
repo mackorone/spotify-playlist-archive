@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Ha Kiem
 
-2,149 songs - 5 day 6 hr 1 min
+2,150 songs - 5 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Chào Buổi Sáng](https://open.spotify.com/track/2Kd3Rb1o6WRWDUYTca3Hr1) | [Madelynn](https://open.spotify.com/artist/2BnEmodoAAWN5O9Jumg8Lm) | [Chào Buổi Sáng](https://open.spotify.com/album/2N2IXBvK8Cuc4sD2tAHky8) | 2:20 | 2025-05-08 | 2025-06-13 |
 | [Chào Mừng Anh Về Với Đội Của Em](https://open.spotify.com/track/4f4yxVL9QVgzqsaqDCZKrD) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh) | [Pop Cưới](https://open.spotify.com/album/68XqmXENFd03FNbxXkNu7v) | 3:22 | 2024-07-01 | 2024-07-12 |
 | [CHÁN CHƯA](https://open.spotify.com/track/1GkSksZXAKoTAWNBCPG33G) | [Tô Hoàng](https://open.spotify.com/artist/2ayvmVvF7sBm2OcaDmfNNB) | [CHÁN CHƯA](https://open.spotify.com/album/55795PhDrGh8ue96FhLIaX) | 3:58 | 2022-02-23 | 2022-03-03 |
+| [Chán Ngấy](https://open.spotify.com/track/3ufw1v1MRts3vBRSxEAzba) | [Gia](https://open.spotify.com/artist/1G5uY0JRHw8ztI9zyU9xUh) | [Chán Ngấy](https://open.spotify.com/album/6VL9HB2hJ8wIdGnxd3lopc) | 3:24 | 2025-07-17 |  |
 | [Chân Tình Parody \(Giấu gương mặt trên vai anh ú òa\)](https://open.spotify.com/track/4EgtWjPgLOYuRBwLTmpbGX) | [Ccmk](https://open.spotify.com/artist/2rlOStil9gdIb581pA8WaS), [GREEN](https://open.spotify.com/artist/4xpissVW4bmlOtdjPgZOLJ), [Hail](https://open.spotify.com/artist/1gT3YnWWNgIElLxCWm8mgG) | [Chân Tình Parody \(Giấu gương mặt trên vai anh ú òa\)](https://open.spotify.com/album/3g4WH3b0lrwJ9HPPgv4sKm) | 2:10 | 2022-04-03 | 2022-05-25 |
 | [Chân Ái Có Còn Không](https://open.spotify.com/track/3s0YC7XbG6mBLIBvG1YEli) | [Ella Mia](https://open.spotify.com/artist/28XyLxwHxob5leILgkHPEN) | [Chân Ái Có Còn Không](https://open.spotify.com/album/4cRSMt12H6jwV7MhElsXOC) | 3:55 | 2023-07-06 | 2023-08-01 |
 | [Chính Là Em … người hãy nhìn xem](https://open.spotify.com/track/7L0Ix7gngaZ9dSahQtsBZM) | [Châu Dương](https://open.spotify.com/artist/0wQBc88XT0U6yRa23QFwV8), [MC Hank](https://open.spotify.com/artist/1WTizZXnVD0FQjKztd4Ma0), [Dương Trần Nghĩa](https://open.spotify.com/artist/1S4crwJi99Z5Yj8q5RyR48) | [Chính Là Em … người hãy nhìn xem](https://open.spotify.com/album/2YnOpAysptpKqwW9udfSDE) | 3:57 | 2023-08-10 | 2023-09-22 |

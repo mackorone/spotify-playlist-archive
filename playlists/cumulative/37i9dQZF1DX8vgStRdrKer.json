@@ -3795,6 +3795,28 @@
     },
     {
       "album": {
+        "name": "How Beautiful",
+        "url": "https://open.spotify.com/album/65YlEzrrxcjYeo7BdIAKiM"
+      },
+      "artists": [
+        {
+          "name": "Hillside Recording",
+          "url": "https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN"
+        },
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258346,
+      "name": "How Beautiful",
+      "url": "https://open.spotify.com/track/0NfszjQLUa711V2KnfibxO"
+    },
+    {
+      "album": {
         "name": "How Can I Forget?",
         "url": "https://open.spotify.com/album/4AHvbn1Co6cKRVGVf0k8is"
       },
@@ -6150,7 +6172,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 160000,
       "name": "My Mind (Mind Control)",
       "url": "https://open.spotify.com/track/66Lbj721U9V87wTWvHH23X"
@@ -6770,7 +6792,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 640000,
       "name": "Ogya - Refix",
       "url": "https://open.spotify.com/track/6Wtt8VwtMGwjbecnafymJd"
@@ -10004,6 +10026,28 @@
       "duration_ms": 242467,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/0wlZMHkTTTHjUMudVOO3PZ"
+    },
+    {
+      "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/1Thgoac8jU5Wjyfd682JTE"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Mahalia Buchanan",
+          "url": "https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363048,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/6XlilInIhEvmmM7eNRRKYx"
     },
     {
       "album": {

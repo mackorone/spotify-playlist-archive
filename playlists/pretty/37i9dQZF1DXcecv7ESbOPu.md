@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Alex Warren, Darin, Shiro & Y4ska och Saga Faye med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,497 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,500 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 59 | [Woke Up](https://open.spotify.com/track/3Pu6ami9THr2rDArjZ0Oqg) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Woke Up / The Face](https://open.spotify.com/album/58M14WhzI5uN9Yg2jbII9L) | 2:13 |
 | 60 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
 | 61 | [Spies](https://open.spotify.com/track/36rpTxhdLZ761o2PuEJa6h) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Spies](https://open.spotify.com/album/09tvEVUY1lCGVL8k5y2zbH) | 3:24 |
-| 62 | [Home Tonight](https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Home Tonight](https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA) | 3:28 |
+| 62 | [Home Tonight](https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Home Tonight](https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA) | 3:27 |
 | 63 | [LIVE](https://open.spotify.com/track/3DPGf3hmoxghMnYXpZzaIQ) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [LIVE](https://open.spotify.com/album/0aUnbeKKwNcC0vyymOEknM) | 1:54 |
 | 64 | [Hvad Forventer De Freestyle](https://open.spotify.com/track/6RmGU9ICkzy6iE9gZf48yL) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Hvad Forventer De Freestyle](https://open.spotify.com/album/4QAoPfSuW02X1wgDOqbkgq) | 2:12 |
 | 65 | [The Way](https://open.spotify.com/track/31PkvZkry8PQu24KLfUipR) | [Simon Möller](https://open.spotify.com/artist/15ZRRN3qAx08HT0b7FnnkZ), [Kempi](https://open.spotify.com/artist/0sGJHnmyYAgJdINyt04bPW) | [The Way](https://open.spotify.com/album/1hSjrE6St2RRfeLJqAbCu2) | 2:46 |

@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Julliany Souza
 
-343 songs - 1 day 10 hr 0 min
+344 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Altar \(Altar\) \- Ao Vivo](https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Altar \(Altar\) \[Ao Vivo\]](https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L) | 6:48 | 2023-04-15 |  |
 | [Além do Impossível \- Ao Vivo](https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Além do Impossível \- Ao Vivo](https://open.spotify.com/album/3DKovkIoXI4UXbJnp8i3pu) | 4:26 | 2023-10-06 | 2024-08-17 |
 | [Alívio](https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Alívio](https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr) | 4:45 | 2022-09-09 | 2024-06-29 |
+| [Amor Infinito / A Mensagem da Cruz \- Ao Vivo](https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Amor Infinito / A Mensagem da Cruz \(Ao Vivo\)](https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI) | 5:55 | 2025-07-19 |  |
 | [Anseio Ardente \- Ao Vivo](https://open.spotify.com/track/3AcVl7SE6owh7okU2oQBUQ) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Anseio Ardente \(Ao Vivo\)](https://open.spotify.com/album/3POR0uxg3pcTRugYmPVGGi) | 6:44 | 2023-02-11 | 2023-04-16 |
 | [Antes e Depois](https://open.spotify.com/track/7BMtQ7eslSqJlijnhl4q0e) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Marina De Oliveira](https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB) | [Antes e Depois](https://open.spotify.com/album/7nf6YTKTrpRnW5C7OGugyg) | 4:28 | 2023-09-01 | 2023-09-09 |
 | [Aqui O Mal Não Vai Entrar](https://open.spotify.com/track/5B3SEBuK3VVyMZyPFjawmK) | [Imafe Music](https://open.spotify.com/artist/7uONDs2xgEa45I088HwX56), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Aqui O Mal Não Vai Entrar](https://open.spotify.com/album/5462EWLaEmkc5G7MDsaiSJ) | 5:50 | 2023-07-07 | 2023-07-29 |
@@ -138,7 +139,7 @@
 | [Existe Uma Força](https://open.spotify.com/track/3oDLoqywfchRMne1pUMU97) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Existe Uma Força](https://open.spotify.com/album/0GxF0Y9XuVBKiAYCNtcAEG) | 5:56 | 2023-06-23 | 2023-07-15 |
 | [Farol](https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Farol](https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww) | 3:58 | 2022-11-25 | 2022-12-10 |
 | [Faz Arder](https://open.spotify.com/track/3I4BzHfreJ5H6aEWokBErB) | [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Faz Arder](https://open.spotify.com/album/2PxsAb7mPbxyvAu9a49M0S) | 1:58 | 2023-09-01 | 2023-10-07 |
-| [Faz Morada](https://open.spotify.com/track/0br0GQIyOtenBfD2UzHYw9) | [Mc João Igor](https://open.spotify.com/artist/6MXfTn1naOMaOEWxZjXGuO), [Jean braguioly](https://open.spotify.com/artist/3T3n3sfgiPDU9PZpnlKw1l) | [Faz Morada](https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa) | 4:48 | 2025-04-03 |  |
+| [Faz Morada](https://open.spotify.com/track/0br0GQIyOtenBfD2UzHYw9) | [Mc João Igor](https://open.spotify.com/artist/6MXfTn1naOMaOEWxZjXGuO), [Jean braguioly](https://open.spotify.com/artist/3T3n3sfgiPDU9PZpnlKw1l) | [Faz Morada](https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa) | 4:48 | 2025-04-03 | 2025-07-20 |
 | [Fidelidade](https://open.spotify.com/track/2u8PtILUXbasNdynPbHvYs) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Fidelidade](https://open.spotify.com/album/1KUWEpW2R8syhvrtMswME6) | 4:07 | 2023-06-16 | 2023-07-22 |
 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 | 2024-12-06 |  |
 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-09 | 2024-12-28 |

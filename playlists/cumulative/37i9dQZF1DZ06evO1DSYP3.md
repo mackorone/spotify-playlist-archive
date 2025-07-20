@@ -4,7 +4,7 @@
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-106 songs - 4 hr 55 min
+107 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [HIP\-HOP](https://open.spotify.com/track/3AzaLnoEWrvD5VMHlG8i09) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO) | [Moovie! 2: The Yeequel](https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps) | 2:01 | 2024-07-07 | 2024-09-27 |
 | [Hoodrat](https://open.spotify.com/track/5ppULvSRsW1NyLc6rbAX9X) | [ShaqO](https://open.spotify.com/artist/5JKI6b6ZEZpy5oNKzL1hbs), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Hoodrat](https://open.spotify.com/album/1rzuy9Ds0R0bAWPJaGiKbs) | 2:25 | 2024-06-07 | 2024-07-08 |
 | [Hotel Lobby](https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF) | [Dezzy Hollow](https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Caught In The Funk](https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8) | 2:00 | 2024-01-29 | 2025-07-17 |
-| [House](https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:24 | 2024-01-29 |  |
+| [House](https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:24 | 2024-01-29 | 2025-07-20 |
 | [How I Feel \(feat\. P\-Lo & ShooterGang Kony\)](https://open.spotify.com/track/43NkAm070i8T29zIBfzGKa) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [ShooterGang Kony](https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK) | [TY4FWM](https://open.spotify.com/album/603ExhUHwUaGi4tgJSBxyx) | 2:56 | 2024-02-23 | 2024-05-11 |
 | [I'm The Shit \(feat\. Guapdad 4000 & P\-Lo\)](https://open.spotify.com/track/7xfezHL3brl8np6x4zCSdy) | [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Life Sucks](https://open.spotify.com/album/4M8wmqEOBiRmTUIlGfLi34) | 2:12 | 2024-10-07 | 2025-02-19 |
 | [In That](https://open.spotify.com/track/0qDh2aqqeI5PQtKTPPXbXA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 3:21 | 2024-01-29 | 2024-06-07 |
@@ -66,6 +66,7 @@
 | [Make a Move](https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Make a Move](https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX) | 2:24 | 2024-01-29 |  |
 | [MARDI GRAS \(GO CRAZY\)](https://open.spotify.com/track/5W6NELOFUgcZYvsR1tKe9y) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO) | [Moovie! 2: The Yeequel](https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps) | 2:15 | 2024-07-05 |  |
 | [My Bitch \(feat\. Kamaiyah\)](https://open.spotify.com/track/0xzqdnZ6rHbPnzjpGwVwRf) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:28 | 2024-01-29 | 2024-06-09 |
+| [Newly](https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Newly](https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK) | 2:57 | 2025-07-20 |  |
 | [nirvana](https://open.spotify.com/track/0qgDLbVDqWaD95BFMcOBut) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 3:16 | 2024-01-29 | 2024-03-03 |
 | [No Hook](https://open.spotify.com/track/1i4ecQNz28w6NTWGxIg1xE) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [No Hook](https://open.spotify.com/album/6OwJ9S4elSLEbD1KnB6J2Z) | 1:36 | 2025-05-18 |  |
 | [Oliver \(feat\. AG Club, Jody Fontaine, P\-Lo, Michael Sneed\)](https://open.spotify.com/track/0tdD2b7fbnOT8KcLIA06QM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Jody Fontaine](https://open.spotify.com/artist/0Os9vXfT92P7eqdqDii0f0), [Michael Sneed](https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Love, The Rascals](https://open.spotify.com/album/3Fa5wkcFpzgTUw2N7uzw6E) | 4:22 | 2024-11-10 | 2025-02-18 |

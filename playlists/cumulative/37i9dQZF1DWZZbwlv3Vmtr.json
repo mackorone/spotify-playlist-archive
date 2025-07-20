@@ -6602,7 +6602,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 129000,
       "name": "Harpiness",
       "url": "https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U"
@@ -8284,6 +8284,24 @@
       "duration_ms": 113333,
       "name": "Kopo",
       "url": "https://open.spotify.com/track/5OleafVdjWJZXpgH0xogCQ"
+    },
+    {
+      "album": {
+        "name": "Kyla",
+        "url": "https://open.spotify.com/album/5D0oykZG18kwIdaNx12Ce1"
+      },
+      "artists": [
+        {
+          "name": "BeatsBySindri",
+          "url": "https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "Kyla",
+      "url": "https://open.spotify.com/track/1VFcm6dHaWzvBo69EyjCnK"
     },
     {
       "album": {

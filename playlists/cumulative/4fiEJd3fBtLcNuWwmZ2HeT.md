@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-317 songs - 18 hr 1 min
+318 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [海馬成長痛](https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [海馬成長痛](https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv) | 3:09 | 2025-02-17 |  |
 | [深海シティアンダーグラウンド](https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS) | [tanaka B](https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO) | [深海シティアンダーグラウンド](https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc) | 4:37 | 2024-08-19 |  |
 | [独全絵図](https://open.spotify.com/track/6sGlStOUrw9skDsxFKzXLP) | [絵心甚八 \(CV.神谷浩史\)](https://open.spotify.com/artist/3RbnpVgnJt7BRCm0Gqsh1G), [帝襟アンリ \(CV.幸村恵理\)](https://open.spotify.com/artist/0QlxDzFKsAUo9703aGAp6h) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.5](https://open.spotify.com/album/03m7RF8VCO6I2UnI4gcgsc) | 3:07 | 2025-02-17 |  |
+| [痛いの痛いの飛んでいけ](https://open.spotify.com/track/5Mi5wHBGH7ck5EghEhHIV1) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [痛いの痛いの飛んでいけ](https://open.spotify.com/album/3CM6XVo41OSyfplg443RRj) | 3:36 | 2025-07-20 |  |
 | [白銀の小舟](https://open.spotify.com/track/4c25GpjkCfkD0K4J3C0mCR) | [魔王魂](https://open.spotify.com/artist/5qcsl4mmKIvcKLs1e5vySU), [森田交一](https://open.spotify.com/artist/21rAvbCpRT7lmNK4d08QfL) | [魔王魂BEST1](https://open.spotify.com/album/1x254RwkdfRbe5zNRB9w8T) | 4:20 | 2024-09-02 |  |
 | [眠れない](https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [眠れない](https://open.spotify.com/album/70pTLXqIjxiRFycmU3VRB4) | 3:47 | 2023-12-29 |  |
 | [砂糖じかけの電影街 \(feat\. GUMI\)](https://open.spotify.com/track/7woJbv6ZxTfNM2eqbTNxYH) | [月裏, ニャントンロン](https://open.spotify.com/artist/2PuJ8LNdrbEHA5yaLhlVR6) | [ゴー・トゥ・大都会](https://open.spotify.com/album/7ercjw6rfspX0S7uJvdjfV) | 3:46 | 2023-07-17 |  |

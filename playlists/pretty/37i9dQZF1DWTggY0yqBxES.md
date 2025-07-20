@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,319 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,287 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 11 | [LIVE RIGHT](https://open.spotify.com/track/6zt0h7qdpcVr2OOTRUJTqg) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [HYPERYOUTH](https://open.spotify.com/album/17BbrYyPUMl3zpcKo7gHML) | 3:39 |
 | 12 | [Sunday In Brooklyn](https://open.spotify.com/track/240LThmj6xe6pBbJXMxWd4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [NO RAP ON SUNDAY](https://open.spotify.com/album/3h1mhf59nhAhNcg68ITKmM) | 3:57 |
 | 13 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 |
-| 14 | [Go Crazy](https://open.spotify.com/track/1RIrAaNe7RyUdp1tvF5GX3) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Antwigadee!](https://open.spotify.com/artist/2XolnmA9D7ZoD07drzHC2H), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [PellowTalk](https://open.spotify.com/artist/48QTHuo5SNcAY5mXZrgdRl) | [Go Crazy](https://open.spotify.com/album/5jfjP7mYBTWhIGPR77FWip) | 2:45 |
+| 14 | [Go Crazy](https://open.spotify.com/track/1RIrAaNe7RyUdp1tvF5GX3) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [ANTWIGADEE](https://open.spotify.com/artist/2XolnmA9D7ZoD07drzHC2H), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [PellowTalk](https://open.spotify.com/artist/48QTHuo5SNcAY5mXZrgdRl) | [Go Crazy](https://open.spotify.com/album/5jfjP7mYBTWhIGPR77FWip) | 2:45 |
 | 15 | [Anxiety](https://open.spotify.com/track/0UXn523dBQ9iTnJneQN6Sq) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP), [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Anxiety](https://open.spotify.com/album/1FZzrvOfi6L8nFhaYG1uxo) | 4:16 |
 | 16 | [13MOS](https://open.spotify.com/track/0Z3HNhCwr080usObQtSw1q) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 4:21 |
 | 17 | [hardheaded](https://open.spotify.com/track/40WLAegRTL6PuZexdJiCYI) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [backroads](https://open.spotify.com/album/1QTsmNuksjnolTFQIThil9) | 2:11 |

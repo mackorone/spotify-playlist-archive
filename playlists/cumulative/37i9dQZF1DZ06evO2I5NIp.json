@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 219672,
       "name": "Cadillac Blue",
       "url": "https://open.spotify.com/track/2fdAfs7JLnHyuUdwD1btC1"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 242129,
       "name": "Heaven Help Us All",
       "url": "https://open.spotify.com/track/71jPKFB9OWCTZab7vfI9SF"
@@ -1569,6 +1569,28 @@
     },
     {
       "album": {
+        "name": "Money & Power",
+        "url": "https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172261,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/1Dm4rrlrrPfUTrxlutFXDB"
+    },
+    {
+      "album": {
         "name": "Unbreakable",
         "url": "https://open.spotify.com/album/7hYyT1qYD7EaZl7UqbqxZ0"
       },
@@ -1584,7 +1606,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 172261,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/2Kh8M6YbyuaP9iOMsYc58i"

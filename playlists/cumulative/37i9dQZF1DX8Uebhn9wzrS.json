@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 169301,
       "name": "arrival",
       "url": "https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF"
@@ -4368,6 +4368,24 @@
       "duration_ms": 120000,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/3HSulWqe4jfbXxfGzC0toF"
+    },
+    {
+      "album": {
+        "name": "blossom",
+        "url": "https://open.spotify.com/album/0ChbU1iWgoZM4TL1HGvt3g"
+      },
+      "artists": [
+        {
+          "name": "les marais",
+          "url": "https://open.spotify.com/artist/5kPiI5sB5mBDOcbFyoEUng"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125053,
+      "name": "blossom",
+      "url": "https://open.spotify.com/track/3ZDVwXqG26wkA81iJFjAvn"
     },
     {
       "album": {
@@ -7840,7 +7858,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 128000,
       "name": "Color Violet",
       "url": "https://open.spotify.com/track/4ZxMXRYsecrYMvVD8FPHwA"
@@ -12016,7 +12034,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 132613,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/5xYkz6G3qPgn5FnZgRgZAp"
@@ -18985,6 +19003,24 @@
     },
     {
       "album": {
+        "name": "jamaica water",
+        "url": "https://open.spotify.com/album/2t020FCabBHFBWwEVpuxWN"
+      },
+      "artists": [
+        {
+          "name": "rollinsmpls",
+          "url": "https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154222,
+      "name": "jamaica water",
+      "url": "https://open.spotify.com/track/5jeuCbfP5AhszbtUcVHPqa"
+    },
+    {
+      "album": {
         "name": "Between Waves",
         "url": "https://open.spotify.com/album/24Pl4Nxe46HJSasA3TPiFP"
       },
@@ -19984,6 +20020,24 @@
       "duration_ms": 159750,
       "name": "Kyiv",
       "url": "https://open.spotify.com/track/6zNOsAGx5GLTb3PeQmZcEo"
+    },
+    {
+      "album": {
+        "name": "Kyla",
+        "url": "https://open.spotify.com/album/5D0oykZG18kwIdaNx12Ce1"
+      },
+      "artists": [
+        {
+          "name": "BeatsBySindri",
+          "url": "https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "Kyla",
+      "url": "https://open.spotify.com/track/1VFcm6dHaWzvBo69EyjCnK"
     },
     {
       "album": {
@@ -32831,6 +32885,24 @@
     },
     {
       "album": {
+        "name": "schoolyard at night",
+        "url": "https://open.spotify.com/album/0vOsJxkkypBHLMmTHoCiEr"
+      },
+      "artists": [
+        {
+          "name": "nearly monday",
+          "url": "https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134153,
+      "name": "schoolyard at night",
+      "url": "https://open.spotify.com/track/0xcQHLr7ZYeH5XZFHGOTqv"
+    },
+    {
+      "album": {
         "name": "Schwebebahn",
         "url": "https://open.spotify.com/album/4AeTGciwqNlZWgbBVFMJ5N"
       },
@@ -33588,7 +33660,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 135375,
       "name": "sherbert lemon",
       "url": "https://open.spotify.com/track/6oPALt4XihU2L0aT8uuuXT"
@@ -38502,7 +38574,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 120604,
       "name": "temporary approved",
       "url": "https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ"
@@ -41572,6 +41644,24 @@
       "duration_ms": 121519,
       "name": "Validation",
       "url": "https://open.spotify.com/track/3fgxxLQpm2ShpABFIh03O6"
+    },
+    {
+      "album": {
+        "name": "ValleyViews",
+        "url": "https://open.spotify.com/album/0j5r810d6h4DmFeaq0hJ0Q"
+      },
+      "artists": [
+        {
+          "name": "Mellow Mirror",
+          "url": "https://open.spotify.com/artist/7kVcHt4VUH5dGb0Gz8IY3G"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118518,
+      "name": "ValleyViews",
+      "url": "https://open.spotify.com/track/7E2GF1dct7xy9GKgp4eQrj"
     },
     {
       "album": {

@@ -4,11 +4,10 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Qs9QUukNfAmA58YskIxQE">Andrew Lloyd Webber</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-694 songs - 1 day 18 hr 26 min
+694 songs - 1 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/0uMhFStb8r4YbyHy4HxyWZ) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3iVEbNFm6egT1IXISUJ8mr) | 0:00 | 2024-09-12 |  |
 | ["Ah, Christine!..."](https://open.spotify.com/track/2je2XxdC1ummbQamQjGFJL) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [Love Never Dies](https://open.spotify.com/album/0rymLJxRADVhIDmjLtVvhF) | 2:29 | 2024-07-24 |  |
 | ["Gustave! Gustave!..."](https://open.spotify.com/track/2IuAqs7AlUNT6zS7lnrR1j) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [Love Never Dies](https://open.spotify.com/album/0rymLJxRADVhIDmjLtVvhF) | 4:58 | 2024-07-24 |  |
 | ["Mother Please, I'm Scared!"](https://open.spotify.com/track/6DXsX7dDAvx780x1AUXyrI) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [Love Never Dies](https://open.spotify.com/album/0rymLJxRADVhIDmjLtVvhF) | 1:15 | 2024-07-24 |  |
@@ -665,6 +664,7 @@
 | [Wein nicht um mich, Argentinien \(Don’t Cry For Me Argentina\)](https://open.spotify.com/track/2mXisGNvIJMmNuz6hsoUDA) | [Katja Ebstein](https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ) | [Liebe \(Originale\)](https://open.spotify.com/album/1wAruwLUWgNUEjwEYnKPxi) | 5:31 | 2024-07-24 |  |
 | [Wein' nicht um mich, Argentinien](https://open.spotify.com/track/1cByzIWot6DvAhEpuCnDvy) | [Isabel Weicken](https://open.spotify.com/artist/6OlQfZSlAvNq5TyotkwrJw) | [Die schönsten Musical\-Melodien](https://open.spotify.com/album/35gG6nJNxWZqjJ00hpy7KK) | 5:16 | 2024-09-12 |  |
 | [What A Dreadful Town!...](https://open.spotify.com/track/4N1HAD6xAUNirCx4EcGi6i) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [Love Never Dies](https://open.spotify.com/album/0rymLJxRADVhIDmjLtVvhF) | 2:28 | 2024-07-24 |  |
+| [What Have I Done ?](https://open.spotify.com/track/0uMhFStb8r4YbyHy4HxyWZ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [BD Music Presents Ray Charles](https://open.spotify.com/album/3iVEbNFm6egT1IXISUJ8mr) | 2:37 | 2024-09-12 |  |
 | [What Have You Got To Say Jeeves? \(Bertie & Jeeves\) \- The American Premier Recording](https://open.spotify.com/track/26DaaxMfh91KYrQrMbjw29) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [By Jeeves Original Broadway Cast](https://open.spotify.com/artist/6x4WkEQ6L15jCPq6ERts36) | [By Jeeves](https://open.spotify.com/album/78olMhlzrTAvpO0Yt0aJEu) | 2:09 | 2024-09-12 |  |
 | [What Were You Thinking? / Introduction To Far Too Late](https://open.spotify.com/track/4kLrclHzA5XwY3oyuaxts2) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Carrie Hope Fletcher](https://open.spotify.com/artist/3b3GjhElzysJ0xS72u9u9k), [Victoria Hamilton\-Barritt](https://open.spotify.com/artist/5YdfQ4cZKevXS9GK2usxEz) | [Andrew Lloyd Webber’s “Cinderella”](https://open.spotify.com/album/3rtC6Cp8eRW9hrDnfkGKb3) | 2:21 | 2024-07-24 |  |
 | [What's Going On, Joe?](https://open.spotify.com/track/2EXkwcN420YNbZcYl2wg47) | [Grace Hodgett Young](https://open.spotify.com/artist/0CjuMsWheFt1DoaQ3imIjZ), [Tom Francis](https://open.spotify.com/artist/1BmpFeWuQkyVbGLIzebnRD), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [SUNSET BLVD: The Album](https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45) | 4:11 | 2024-12-11 |  |

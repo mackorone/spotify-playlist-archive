@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Scotty McCreery, Zach Bryan with Gabriella Rose, Thomas Rhett with Jordan Davis and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,973 likes - 71 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,137 likes - 71 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 2 | [Ain't A Bad Life](https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [About A Woman \(& A Good Ol' Boy\)](https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC) | 3:07 |
 | 3 | [Swim Up Bar](https://open.spotify.com/track/61hKNlJb13rpy8MZJJAh8E) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Scooter & Friends](https://open.spotify.com/album/2i9WvnlqV4bG2vp0U1z4J3) | 3:12 |
 | 4 | [Hangin’ On](https://open.spotify.com/track/4H1lx071cGLnZ3Ct8q2mmd) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Westward](https://open.spotify.com/album/22iWmNK24h2hurzUzXnY1V) | 3:40 |
-| 5 | [Home Tonight](https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Home Tonight](https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA) | 3:28 |
+| 5 | [Home Tonight](https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Home Tonight](https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA) | 3:27 |
 | 6 | [Forever Ain't Long Enough](https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Night Diving \(The Cost of Growing Up\)](https://open.spotify.com/album/0iK9uLukiE9sSqJ7P58C4c) | 3:13 |
 | 7 | [Later Tonight](https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx) | 2:42 |
 | 8 | [Damned If I Do](https://open.spotify.com/track/7mxctiYgZD9JtvEZBJWoAW) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Damned If I Do](https://open.spotify.com/album/5QLiMcqQ9ompXCxU0UxIZF) | 3:37 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 17 | [Wild Horses](https://open.spotify.com/track/5q1eU1O4Va9nIAqshBQafK) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Wild Horses](https://open.spotify.com/album/0NpMNDrLcygfhLAB70596U) | 3:11 |
 | 18 | [Bad Girls](https://open.spotify.com/track/2WLLCWaH89ip4tehpvXkXh) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh), [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Bad Girls](https://open.spotify.com/album/0gzz3aloVUxWs4UpQdoMBH) | 3:41 |
 | 19 | [I Keep Your Memory Around](https://open.spotify.com/track/2mESfK7oU1V1CHr1j78FE8) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [I Keep Your Memory Around](https://open.spotify.com/album/7waJk7mvaaMcC6lauq5KbE) | 3:06 |
-| 20 | [Baby You Do](https://open.spotify.com/track/6SVKmktKVg5daArMbig0T3) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf), [David Dorn](https://open.spotify.com/artist/76drAK5KEEqdjYONSaEC5n) | [Baby You Do](https://open.spotify.com/album/7rTdxhNOzNI1C1rbLL5tvC) | 3:19 |
+| 20 | [Baby You Do](https://open.spotify.com/track/6SVKmktKVg5daArMbig0T3) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Baby You Do](https://open.spotify.com/album/7rTdxhNOzNI1C1rbLL5tvC) | 3:19 |
 | 21 | [Marlboro Man](https://open.spotify.com/track/6Wzl4TwDZLRDmFmv1KHyp5) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Marlboro Man](https://open.spotify.com/album/76zkHW7rcIRtQ8h9Cc2YTW) | 3:35 |
 | 22 | [Turn On The Lights](https://open.spotify.com/track/0dFJxcjmxNma9wt40UAn41) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Turn On The Lights](https://open.spotify.com/album/3oCS87hsUM8NDpoGsvrRBL) | 3:34 |
 | 23 | [Humble](https://open.spotify.com/track/7HOFz6GuWjgZ3QZ5c3iGIX) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Humble](https://open.spotify.com/album/2swwefQjCOhM389zPn5Llf) | 3:03 |

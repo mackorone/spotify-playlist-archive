@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Niko Moon
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,619 likes - 215 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,701 likes - 215 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 2 | [Sunset](https://open.spotify.com/track/5zOUdajRlOsO3Hbn9jNpQA) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Sunset](https://open.spotify.com/album/3cqJloEelz58W6wybqMzD1) | 2:54 |
 | 3 | [Wild Horses](https://open.spotify.com/track/5q1eU1O4Va9nIAqshBQafK) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Wild Horses](https://open.spotify.com/album/0NpMNDrLcygfhLAB70596U) | 3:11 |
 | 4 | [Greener](https://open.spotify.com/track/2sQPWugOP74d6qHT244zLh) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Greener](https://open.spotify.com/album/1PAW3g9fSR0RfNAOtKyZ3N) | 3:25 |
-| 5 | [Baby You Do](https://open.spotify.com/track/6SVKmktKVg5daArMbig0T3) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf), [David Dorn](https://open.spotify.com/artist/76drAK5KEEqdjYONSaEC5n) | [Baby You Do](https://open.spotify.com/album/7rTdxhNOzNI1C1rbLL5tvC) | 3:19 |
+| 5 | [Baby You Do](https://open.spotify.com/track/6SVKmktKVg5daArMbig0T3) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Baby You Do](https://open.spotify.com/album/7rTdxhNOzNI1C1rbLL5tvC) | 3:19 |
 | 6 | [I Ain't Askin'](https://open.spotify.com/track/3Lft2PGlHnSy9p4tQziXq7) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Kasey Tyndall](https://open.spotify.com/album/48CpphXzrAhyf0mBPWLk05) | 2:59 |
 | 7 | [Keeps Me Sane](https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA) | 3:12 |
 | 8 | [RODEO](https://open.spotify.com/track/3lii1atIWdBv5nvNmS1UGM) | [Asher Angel](https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [RODEO](https://open.spotify.com/album/11SFvWJR4xikTXSUsNmagN) | 2:26 |

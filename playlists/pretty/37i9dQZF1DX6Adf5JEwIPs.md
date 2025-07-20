@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Banda MS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,457 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,578 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 32 | [Roman Iriarte \(En Vivo\)](https://open.spotify.com/track/1dbL9oCwGlqycJloh9u4kQ) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Roman Iriarte \(En Vivo\)](https://open.spotify.com/album/3UxT0TOx50b2c1A6VJV0LK) | 3:32 |
 | 33 | [Tierra De Los Cabrera](https://open.spotify.com/track/1X5Qv1lduDAysYBpL0woOu) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Tierra De Los Cabrera](https://open.spotify.com/album/3XifPFeNZGgSuWCEu24T17) | 2:46 |
 | 34 | [Tocando Fondo \- En Vivo](https://open.spotify.com/track/29FTqVtmdmLl5CQQ6DDHPl) | [Oscar Calin](https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Desde La Cuadra 3 Amigos \(En Vivo\)](https://open.spotify.com/album/4CJVAAexoRN3klaWnVyIPt) | 2:49 |
-| 35 | [Paris Hilton](https://open.spotify.com/track/3wXNKzyuuSZoGgnuCI2ly3) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [ANTECEDENTE](https://open.spotify.com/album/6h6mQOGWNmT5saFNmJHfyv) | 3:10 |
+| 35 | [Paris Hilton](https://open.spotify.com/track/3wXNKzyuuSZoGgnuCI2ly3) | [Angel Cervantes](https://open.spotify.com/artist/0qxDNZighUcPqxQzhIuqKS) | [ANTECEDENTE](https://open.spotify.com/album/6h6mQOGWNmT5saFNmJHfyv) | 3:10 |
 | 36 | [Que Bonita Es Mi Tierra \- En Vivo](https://open.spotify.com/track/0mQprxZKrx4RHwkJDMG8fE) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Que Bonita Es Mi Tierra \(En Vivo\)](https://open.spotify.com/album/1Hq9QjaVxyab3NZMv8qmhx) | 3:35 |
 | 37 | [Rosones \- En Vivo](https://open.spotify.com/track/37RBwU1nEFKhJkXZr8efrj) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [PA’L NORTE EN VIVO](https://open.spotify.com/album/299G6KUJ5BQmoiwyGkC4bn) | 3:01 |
 | 38 | [La Piedra \- En Vivo](https://open.spotify.com/track/1VyRvdNkc7mGTB5HjW9Z6J) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [La Piedra \(En Vivo\)](https://open.spotify.com/album/2zKtEidwVVDEgx3YHsl0Z0) | 2:33 |

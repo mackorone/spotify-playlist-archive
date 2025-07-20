@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 122694,
+  "num_followers": 122702,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-07-11 05:44:01",
       "album": {
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
+    },
+    {
+      "added_at": "2025-07-11 05:44:01",
+      "album": {
         "name": "33 000 FT.",
         "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
-    },
-    {
-      "added_at": "2025-07-11 05:44:01",
-      "album": {
-        "name": "Die For This",
-        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Die For This",
-      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
     },
     {
       "added_at": "2025-07-11 05:44:01",
@@ -523,26 +523,6 @@
     {
       "added_at": "2025-07-11 05:44:01",
       "album": {
-        "name": "Late Nights & Heartbreak",
-        "url": "https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp"
-      },
-      "artists": [
-        {
-          "name": "Hannah Williams",
-          "url": "https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg"
-        },
-        {
-          "name": "The Affirmations",
-          "url": "https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Late Nights & Heartbreak",
-      "url": "https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v"
-    },
-    {
-      "added_at": "2025-07-11 05:44:01",
-      "album": {
         "name": "Nossa Chance",
         "url": "https://open.spotify.com/album/6H4qpKGByTw5x6ptH0ERO5"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 224881,
       "name": "Nossa Chance",
       "url": "https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV"
+    },
+    {
+      "added_at": "2025-07-11 05:44:01",
+      "album": {
+        "name": "Late Nights & Heartbreak",
+        "url": "https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp"
+      },
+      "artists": [
+        {
+          "name": "Hannah Williams",
+          "url": "https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg"
+        },
+        {
+          "name": "The Affirmations",
+          "url": "https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Late Nights & Heartbreak",
+      "url": "https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v"
     },
     {
       "added_at": "2025-07-11 05:44:01",
@@ -775,22 +775,18 @@
     {
       "added_at": "2025-07-11 05:44:01",
       "album": {
-        "name": "Don't Forget About Us (KAYTRANADA Remix)",
-        "url": "https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy"
+        "name": "Hive Mind",
+        "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
         }
       ],
-      "duration_ms": 243125,
-      "name": "Don't Forget About Us - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui"
+      "duration_ms": 321853,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz"
     },
     {
       "added_at": "2025-07-11 05:44:01",
@@ -827,18 +823,22 @@
     {
       "added_at": "2025-07-11 05:44:01",
       "album": {
-        "name": "Hive Mind",
-        "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
+        "name": "Don't Forget About Us (KAYTRANADA Remix)",
+        "url": "https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy"
       },
       "artists": [
         {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 321853,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz"
+      "duration_ms": 243125,
+      "name": "Don't Forget About Us - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui"
     },
     {
       "added_at": "2025-07-11 05:44:01",

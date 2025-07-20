@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randall King",
-  "num_followers": 408347,
+  "num_followers": 408319,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -102,10 +102,6 @@
         {
           "name": "Braxton Keith",
           "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
-        },
-        {
-          "name": "David Dorn",
-          "url": "https://open.spotify.com/artist/76drAK5KEEqdjYONSaEC5n"
         }
       ],
       "duration_ms": 199922,
@@ -927,22 +923,6 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
         "name": "Work Boots and More from Leather",
         "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
       },
@@ -955,6 +935,22 @@
       "duration_ms": 169013,
       "name": "Work Boots",
       "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1627,22 +1623,6 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Hit The Hay Runnin'",
-        "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 184271,
-      "name": "Hit The Hay Runnin'",
-      "url": "https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
         "name": "Kick A Little",
         "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
@@ -1667,18 +1647,18 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+        "name": "Hit The Hay Runnin'",
+        "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+      "duration_ms": 184271,
+      "name": "Hit The Hay Runnin'",
+      "url": "https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1711,6 +1691,22 @@
       "duration_ms": 257146,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     }
   ],
   "unique_name": "Texas Country Now",

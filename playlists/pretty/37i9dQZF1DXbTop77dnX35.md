@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Adekunle Gold, Mr Eazi, Lojay, SPINALL  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,440 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,596 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 56 | [Natural Disaster](https://open.spotify.com/track/3itbSdPPsHT8MMi3M7LTAR) | [kelvino\_vibes](https://open.spotify.com/artist/7A5pRpnOkdkW0IJW0Eqrzo), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Natural Disaster](https://open.spotify.com/album/3uE5qLoW9Rx4Cn4lILsszH) | 2:36 |
 | 57 | [No Esperes](https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Esperes](https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW) | 3:14 |
 | 58 | [Magic](https://open.spotify.com/track/03z9KEab2xECAU4b985CQ8) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Ocean Echo](https://open.spotify.com/album/6bzRvzxP4P6l3O9LjdzFar) | 2:41 |
-| 59 | [Letter To My Guys \- \(LTMG\)](https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Letter To My Guys \(LTMG\)](https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce) | 3:12 |
+| 59 | [Letter To My Guys \- LTMG](https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Letter To My Guys \(LTMG\)](https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce) | 2:51 |
 | 60 | [Shege](https://open.spotify.com/track/5REDq0PYmyH2MABGDzfJFT) | [TillDayBreak](https://open.spotify.com/artist/0YK53jXwHUVKcqv3airlZj), [Adam Srae](https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE), [Layo Isaac](https://open.spotify.com/artist/0CvMyV7MOt4FOQsK65ka2f) | [LITT](https://open.spotify.com/album/3xBo2INCSJYKHxhbsfRXb4) | 2:48 |
 
 Snapshot ID: `aHmOzAAAAAC3EfTIF2D6L38Gym6PjtVV`

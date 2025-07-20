@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Myke Towers, Bad Gyal x Ozuna, Bad Bunny, Marta Santos y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,208 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,324 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 |
 | 2 | [Última Noche](https://open.spotify.com/track/08iQaBBx5pkyEam6jxJegI) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Última Noche](https://open.spotify.com/album/1pavsMs5Dq5wLxUsf7HlIp) | 3:55 |
 | 3 | [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 |
-| 4 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 |
+| 4 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 |
 | 5 | [Zun Zun](https://open.spotify.com/track/7uQ3MlGpYURF2ED8E5xFIa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 3:16 |
 | 6 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
 | 7 | [Sevilla](https://open.spotify.com/track/6uCSICr7hzdsrNSOsjf95l) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Sevilla](https://open.spotify.com/album/4lVMvu4pvf4joKAQPzhMdv) | 2:34 |
 | 8 | [Dama en apuros](https://open.spotify.com/track/3cOuEfTWN9YKTQHrfQ30Hr) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Dama en apuros](https://open.spotify.com/album/2WUi48WuXHaHP2kmPzj0vG) | 2:20 |
-| 9 | [D’amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D’amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
-| 10 | [El Amor Vuela \(feat\. Manuel Carrasco\)](https://open.spotify.com/track/5KaNFY843tNHHtDRZPHrAN) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [El Amor Vuela \(feat\. Manuel Carrasco\)](https://open.spotify.com/album/1ygQ33ZTDf01TMeNrSKe0N) | 4:08 |
+| 9 | [D'amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D'amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
+| 10 | [El Amor Vuela](https://open.spotify.com/track/5KaNFY843tNHHtDRZPHrAN) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [El Amor Vuela](https://open.spotify.com/album/1ygQ33ZTDf01TMeNrSKe0N) | 4:08 |
 | 11 | [TUMBAO](https://open.spotify.com/track/5xKs7Penljlm4sfBeWe3NI) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [TUMBAO](https://open.spotify.com/album/2kjDXHbE7ztU2okqWtWQ7c) | 2:46 |
 | 12 | [SEÑORA \(feat\. Manuel Turizo\)](https://open.spotify.com/track/4O2ohvs9oWJdlCV2izX3Jb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:36 |
 | 13 | [Mama ja dola](https://open.spotify.com/track/1y6EBEYiqLSBsgu39kPrn9) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Mama ja dola](https://open.spotify.com/album/3TAIRuW8HHeq0i7VESGsII) | 3:25 |

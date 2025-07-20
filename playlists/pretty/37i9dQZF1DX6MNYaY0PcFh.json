@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 92650,
+  "num_followers": 92688,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2025-07-03 23:00:21",
       "album": {
-        "name": "Feel The Rush",
-        "url": "https://open.spotify.com/album/0RJI2RE716kMq0TWZGPPwi"
+        "name": "DUWML",
+        "url": "https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
         }
       ],
-      "duration_ms": 233823,
-      "name": "Feel The Rush",
-      "url": "https://open.spotify.com/track/3qAHlj0o7h3WkiMTVjMuKr"
+      "duration_ms": 190869,
+      "name": "DUWML",
+      "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
     },
     {
       "added_at": "2025-07-03 23:00:21",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-07-03 23:00:21",
       "album": {
-        "name": "lose my head",
-        "url": "https://open.spotify.com/album/6uZQgll8GIBJ2KvAfW5TtE"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "lose my head",
-      "url": "https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr"
-    },
-    {
-      "added_at": "2025-07-03 23:00:21",
-      "album": {
         "name": "Bad Vibe",
         "url": "https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm"
       },
@@ -1115,8 +1099,24 @@
     {
       "added_at": "2025-07-03 23:00:21",
       "album": {
-        "name": "DUWML",
-        "url": "https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1"
+        "name": "lose my head",
+        "url": "https://open.spotify.com/album/6uZQgll8GIBJ2KvAfW5TtE"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "lose my head",
+      "url": "https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr"
+    },
+    {
+      "added_at": "2025-07-03 23:00:21",
+      "album": {
+        "name": "Feel The Rush",
+        "url": "https://open.spotify.com/album/0RJI2RE716kMq0TWZGPPwi"
       },
       "artists": [
         {
@@ -1124,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
         }
       ],
-      "duration_ms": 190869,
-      "name": "DUWML",
-      "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
+      "duration_ms": 233823,
+      "name": "Feel The Rush",
+      "url": "https://open.spotify.com/track/3qAHlj0o7h3WkiMTVjMuKr"
     },
     {
       "added_at": "2025-07-03 23:00:21",
@@ -1203,6 +1203,38 @@
     {
       "added_at": "2025-07-03 23:00:21",
       "album": {
+        "name": "Take No Chat",
+        "url": "https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Take No Chat",
+      "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
+    },
+    {
+      "added_at": "2025-07-03 23:00:21",
+      "album": {
+        "name": "Refraction",
+        "url": "https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 232992,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz"
+    },
+    {
+      "added_at": "2025-07-03 23:00:21",
+      "album": {
         "name": "Phone Line Crew",
         "url": "https://open.spotify.com/album/3sD7h5FRr64VvUnErucall"
       },
@@ -1243,38 +1275,6 @@
       "duration_ms": 243252,
       "name": "Work",
       "url": "https://open.spotify.com/track/30FR1uCgYGTJLUm7MXoequ"
-    },
-    {
-      "added_at": "2025-07-03 23:00:21",
-      "album": {
-        "name": "Take No Chat",
-        "url": "https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Take No Chat",
-      "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
-    },
-    {
-      "added_at": "2025-07-03 23:00:21",
-      "album": {
-        "name": "Refraction",
-        "url": "https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 232992,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz"
     },
     {
       "added_at": "2025-07-03 23:00:21",

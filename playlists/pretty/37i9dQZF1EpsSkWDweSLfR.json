@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHYfOgAAAABe6XRr//aBPyUzjeBQ2xkv",
+  "snapshot_id": "aHs71QAAAAAkRSlih1Tuo24eTvNGHWRK",
   "tracks": [
     {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
       "album": {
         "name": "Bitters\u00fc\u00df",
         "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
     },
     {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
       "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
@@ -45,39 +45,7 @@
       "url": "https://open.spotify.com/track/7lhAowB1rRlp1UfVkHqpD2"
     },
     {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 148619,
-      "name": "BOY CRAZY.",
-      "url": "https://open.spotify.com/track/4SVlgCR8RCbdrbzIgln1Un"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "SCP",
-        "url": "https://open.spotify.com/album/5J7hUav5e8wYtFog6hWKnt"
-      },
-      "artists": [
-        {
-          "name": "Oakman",
-          "url": "https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "SCP",
-      "url": "https://open.spotify.com/track/3aaWkQBV5D0e8Nw0crBN7I"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
       "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
@@ -93,26 +61,10 @@
       "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
     },
     {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
       "album": {
-        "name": "Something Beautiful",
-        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 250483,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/2rDMtmPctM67hICAZTKAjx"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9"
+        "name": ". (...)",
+        "url": "https://open.spotify.com/album/6xp0NBjMoWgRHKqYPG5Dl3"
       },
       "artists": [
         {
@@ -122,34 +74,26 @@
       ],
       "duration_ms": 214755,
       "name": "RED FLAG.",
-      "url": "https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8"
+      "url": "https://open.spotify.com/track/0M7hOuDqqbrkdJXelxoSW6"
     },
     {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
       "album": {
-        "name": "I Said I Love You First",
-        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+        "name": "SCP",
+        "url": "https://open.spotify.com/album/5J7hUav5e8wYtFog6hWKnt"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Oakman",
+          "url": "https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW"
         }
       ],
-      "duration_ms": 126831,
-      "name": "Call Me When You Break Up (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/6JCdIHw675Lc0u2vXzERqU"
+      "duration_ms": 194400,
+      "name": "SCP",
+      "url": "https://open.spotify.com/track/3aaWkQBV5D0e8Nw0crBN7I"
     },
     {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
       "album": {
         "name": "fishmonger",
         "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
@@ -165,95 +109,7 @@
       "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Where do we go now?",
-      "url": "https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "Poplife",
-        "url": "https://open.spotify.com/album/3yhQdourJwBarIJ1pEO12Z"
-      },
-      "artists": [
-        {
-          "name": "umru",
-          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
-        },
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 163074,
-      "name": "Poplife",
-      "url": "https://open.spotify.com/track/2cClnOEBnNJWxbLuTFVIgK"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "1989 (Taylor's Version) [Deluxe]",
-        "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 250100,
-      "name": "This Love (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/4WBEj8TeGtRPNJdOmT3WJW"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/6YOmMxGC0nYVYXE8z9gKKK"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 166344,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/01A8QEUwHijtzWNB5e1uwR"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "I Said I Love You First",
-        "url": "https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 162995,
-      "name": "Bluest Flame",
-      "url": "https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
       "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
@@ -277,7 +133,119 @@
       "url": "https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe"
     },
     {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 148619,
+      "name": "BOY CRAZY.",
+      "url": "https://open.spotify.com/track/4SVlgCR8RCbdrbzIgln1Un"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/6JCdIHw675Lc0u2vXzERqU"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "Poplife",
+        "url": "https://open.spotify.com/album/3yhQdourJwBarIJ1pEO12Z"
+      },
+      "artists": [
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 163074,
+      "name": "Poplife",
+      "url": "https://open.spotify.com/track/2cClnOEBnNJWxbLuTFVIgK"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/6YOmMxGC0nYVYXE8z9gKKK"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 166344,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/01A8QEUwHijtzWNB5e1uwR"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 162995,
+      "name": "Bluest Flame",
+      "url": "https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
       "album": {
         "name": "comfort noise",
         "url": "https://open.spotify.com/album/0xdxVPOEDH8DUbpV0O6srR"
@@ -301,183 +269,23 @@
       "url": "https://open.spotify.com/track/1tsrQomA3il28K0dyg3P8X"
     },
     {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
       "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 198320,
-      "name": "twilight zone",
-      "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
+      "duration_ms": 243599,
+      "name": "Where do we go now?",
+      "url": "https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa"
     },
     {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "Light hit my face like a straight right",
-        "url": "https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 185940,
-      "name": "Pavement",
-      "url": "https://open.spotify.com/track/05NOojSHkMcdUpAk01vd0r"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/39VuC5rYQHAnR6xQwm1WDk"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "Plants Vs. Zombies (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/3nG37CdJEbz1c7KrOOQn4Z"
-      },
-      "artists": [
-        {
-          "name": "Laura Shigihara",
-          "url": "https://open.spotify.com/artist/2RnGA202UcoKq6KjzQCbNR"
-        }
-      ],
-      "duration_ms": 117655,
-      "name": "Cerebrawl",
-      "url": "https://open.spotify.com/track/7hjygp9ckC3snkqNUQu1F0"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "Addison",
-        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6ouhsRJ7gExB7LCYjITk4Y"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "The Archer",
-      "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/44EyhJ1FgMrPqWBfXESlZg"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "Music",
-      "url": "https://open.spotify.com/track/4kfaLw8sMFbZ1LQxlTaS2y"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "The Veronicas",
-        "url": "https://open.spotify.com/album/2zzBNay9x9XyCmk5SzesAD"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/4DXth8wEpuYO2ZyANSE586"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 141738,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
-      "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 261842,
-      "name": "Butterfly Blue",
-      "url": "https://open.spotify.com/track/1EKjSEd05WhBfdf4BjJ8vu"
-    },
-    {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
       "album": {
         "name": "Fat Juicy & Wet",
         "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
@@ -497,10 +305,190 @@
       "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
     },
     {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
       "album": {
-        "name": "Heaven knows",
-        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
+        "name": "Something Beautiful",
+        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 250483,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/2rDMtmPctM67hICAZTKAjx"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/39VuC5rYQHAnR6xQwm1WDk"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "One More Weekend",
+        "url": "https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 142829,
+      "name": "One More Weekend",
+      "url": "https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/44EyhJ1FgMrPqWBfXESlZg"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/4kfaLw8sMFbZ1LQxlTaS2y"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "The Veronicas",
+        "url": "https://open.spotify.com/album/2zzBNay9x9XyCmk5SzesAD"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/4DXth8wEpuYO2ZyANSE586"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "Plants Vs. Zombies (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3nG37CdJEbz1c7KrOOQn4Z"
+      },
+      "artists": [
+        {
+          "name": "Laura Shigihara",
+          "url": "https://open.spotify.com/artist/2RnGA202UcoKq6KjzQCbNR"
+        }
+      ],
+      "duration_ms": 117655,
+      "name": "Cerebrawl",
+      "url": "https://open.spotify.com/track/7hjygp9ckC3snkqNUQu1F0"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 185940,
+      "name": "Pavement",
+      "url": "https://open.spotify.com/track/05NOojSHkMcdUpAk01vd0r"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "In The Living Room",
+        "url": "https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "In The Living Room",
+      "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 204928,
+      "name": "THE ONE.",
+      "url": "https://open.spotify.com/track/0hEd3sp8R2i0nSvRqG6W2E"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6ouhsRJ7gExB7LCYjITk4Y"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "Dancing With The Devil\u2026The Art of Starting Over",
+        "url": "https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "Met Him Last Night (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
       },
       "artists": [
         {
@@ -508,33 +496,41 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 146240,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/3DrkYwyu8QqZQ05r2gGqHi"
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
-      "added_at": "2025-07-15 09:28:26",
+      "added_at": "2025-07-19 06:31:49",
       "album": {
-        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
-        "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
       },
       "artists": [
         {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        },
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 207280,
-      "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
-      "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS"
+    },
+    {
+      "added_at": "2025-07-19 06:31:49",
+      "album": {
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
     }
   ],
   "unique_name": "On Repeat",

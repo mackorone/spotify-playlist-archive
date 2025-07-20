@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Marte in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,069 likes - 70 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,068 likes - 70 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 2 | [G&V](https://open.spotify.com/track/6GH0stb5CRpcpH9LDGD8JJ) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [G&V](https://open.spotify.com/album/11Fl5ZsX0Z9n97S5MfdBSw) | 1:52 |
 | 3 | [FASHION KILLA](https://open.spotify.com/track/6Sas0SSRy5DXEVOTzrXGRI) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [FASHION KILLA](https://open.spotify.com/album/1fNslbRjAzMYVappolWo30) | 2:31 |
 | 4 | [GIÙ DA ME](https://open.spotify.com/track/4OMdFWA9yLk8zHq6gwnSY6) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [GIÙ DA ME](https://open.spotify.com/album/7djKPOv1ZCuFubOjudHqjr) | 1:55 |
-| 5 | [TIC TAC TOE \(feat\. Low\-Red\)](https://open.spotify.com/track/3WygvwOYzE75B7FtnAjead) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [BIG FRR](https://open.spotify.com/album/2ekLFd6OWgUTEa97NMBPgL) | 2:00 |
+| 5 | [TIC TAC TOE \(feat\. Low\-Red\)](https://open.spotify.com/track/3WygvwOYzE75B7FtnAjead) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [BIG FRRR](https://open.spotify.com/album/2ekLFd6OWgUTEa97NMBPgL) | 2:00 |
 | 6 | [step up](https://open.spotify.com/track/4IJ8wbfYg2iFKfSNXryT05) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [PORTANDO IL PESO](https://open.spotify.com/album/684uZkbeznQXV1qT9UcX9s) | 1:37 |
 | 7 | [GUERRE TRA CLAN](https://open.spotify.com/track/6aTT9Nmf9X2StI8AcNLnMd) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [GUERRE TRA CLAN](https://open.spotify.com/album/7GHSis4K7xHCyyPLGaNMVK) | 2:25 |
 | 8 | [Old Fashion \(feat\. Promessa e Flaco G\)](https://open.spotify.com/track/5j5L8CShNbWaYrFJWbXZs3) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [Old Fashion \(feat\. Promessa e Flaco G\)](https://open.spotify.com/album/0rywnZls7YOlHPcipdSmAq) | 2:50 |

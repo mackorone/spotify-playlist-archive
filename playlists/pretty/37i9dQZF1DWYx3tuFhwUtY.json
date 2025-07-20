@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 136431,
+  "num_followers": 136397,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "Under The Milky Way",
+        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 260101,
+      "name": "Under The Milky Way",
+      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "Reaching Out To You",
         "url": "https://open.spotify.com/album/4vzG02RceY6JR8ytO0qEwa"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 210026,
       "name": "Reaching Out To You",
       "url": "https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Under The Milky Way",
-        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 260101,
-      "name": "Under The Milky Way",
-      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Centipede",
-        "url": "https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 157704,
-      "name": "Centipede",
-      "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/0Q4XHh5ceXXhotebiCJYDp"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 240399,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/1zNrtAQhwbRyFmsf3yoBqT"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Centipede",
+        "url": "https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 157704,
+      "name": "Centipede",
+      "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Un Poco M\u00e1s de Luz",
-        "url": "https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL"
-      },
-      "artists": [
-        {
-          "name": "San Pedro el Cortez",
-          "url": "https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl"
-        }
-      ],
-      "duration_ms": 344145,
-      "name": "Fukushima",
-      "url": "https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Fading Like A Picture",
         "url": "https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 236586,
       "name": "Fading Like A Picture",
       "url": "https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Un Poco M\u00e1s de Luz",
+        "url": "https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL"
+      },
+      "artists": [
+        {
+          "name": "San Pedro el Cortez",
+          "url": "https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl"
+        }
+      ],
+      "duration_ms": 344145,
+      "name": "Fukushima",
+      "url": "https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Crystal Anis",
-        "url": "https://open.spotify.com/album/4YrRNedrhlhpW4pGKfTPsw"
+        "name": "Dark Star b/w Pastel Sunrise",
+        "url": "https://open.spotify.com/album/7rlNQp7Dyv3jcauw13L0Jg"
       },
       "artists": [
         {
-          "name": "The Limi\u00f1anas",
-          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
         }
       ],
-      "duration_ms": 201192,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/1fwOLfBevvNiMoyTT2zUoh"
+      "duration_ms": 188840,
+      "name": "Dark Star",
+      "url": "https://open.spotify.com/track/3XyC1bFuMZ66GsZLkuZslB"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Dark Star b/w Pastel Sunrise",
-        "url": "https://open.spotify.com/album/7rlNQp7Dyv3jcauw13L0Jg"
+        "name": "Crystal Anis",
+        "url": "https://open.spotify.com/album/4YrRNedrhlhpW4pGKfTPsw"
       },
       "artists": [
         {
-          "name": "Chicano Batman",
-          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+          "name": "The Limi\u00f1anas",
+          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Dark Star",
-      "url": "https://open.spotify.com/track/3XyC1bFuMZ66GsZLkuZslB"
+      "duration_ms": 201192,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/1fwOLfBevvNiMoyTT2zUoh"
     }
   ],
   "unique_name": "Diarios de Bicicleta",

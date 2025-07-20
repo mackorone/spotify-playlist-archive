@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Sabba, Navroz Gill and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,188 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,206 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 4 | [\#Wtf](https://open.spotify.com/track/2rXkp5BKHrMtfEqLaGN4oF) | [DJ Sanj](https://open.spotify.com/artist/1kfqHPfj8yygKGMD3NrDE5), [G.S.P.](https://open.spotify.com/artist/3IYSlmCdrGkar3epSbyF42), [Sam.u.el](https://open.spotify.com/artist/3xuHUIBDO2SngybcpSHbb7) | [\#Wtf](https://open.spotify.com/album/2j020FjjyVeWtJpTOaNTfG) | 2:29 |
 | 5 | [Armed & Dangerous](https://open.spotify.com/track/1CUbaM8CidHt7nmXFuh11v) | [Shayar](https://open.spotify.com/artist/698WwbG1K8RbRVcqnUNJcR), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Armed & Dangerous](https://open.spotify.com/album/67HGdVZaSvZZJ9jB2rr7Ty) | 2:13 |
 | 6 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 |
-| 7 | [RACKS](https://open.spotify.com/track/0bphAJlhv5cJLmZJKkz1iF) | [Demon](https://open.spotify.com/artist/5biu9wH2Gx4dWolOQEqu4B), [Meaow](https://open.spotify.com/artist/7FHbO6Lm0DJbdwPRkp3mqQ) | [RACKS](https://open.spotify.com/album/6IsXK17YPBNPEnKnmKilHD) | 2:04 |
+| 7 | [RACKS](https://open.spotify.com/track/0bphAJlhv5cJLmZJKkz1iF) | [Demon](https://open.spotify.com/artist/5biu9wH2Gx4dWolOQEqu4B), [ZELBY](https://open.spotify.com/artist/5DKT9G7XKh0S5X2AJPu25Z), [Meaow](https://open.spotify.com/artist/7FHbO6Lm0DJbdwPRkp3mqQ) | [RACKS](https://open.spotify.com/album/6IsXK17YPBNPEnKnmKilHD) | 2:04 |
 | 8 | [Back Gear](https://open.spotify.com/track/1W99sHmXKF7Gx1uwh4pOlt) | [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back Gear](https://open.spotify.com/album/44T4r4694MWJGUSR0k5TU1) | 2:58 |
 | 9 | [SHUTDOWN](https://open.spotify.com/track/34gGYbEJ8CxAZ4oy4t3FwE) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [GRAVITY](https://open.spotify.com/album/1upZ0J1XNOfk4efImpsBHJ) | 1:47 |
 | 10 | [Parole](https://open.spotify.com/track/7CpZGO2Z5FaZu5DNdSJUJr) | [Laddi Dhaliwal](https://open.spotify.com/artist/2NChQ3cW2yX1UgWXNtbreG) | [Parole](https://open.spotify.com/album/2CQr5cdvxxmfWanUTVZiyC) | 3:03 |

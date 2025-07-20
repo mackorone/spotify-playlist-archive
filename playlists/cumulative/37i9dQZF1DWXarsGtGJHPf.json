@@ -2,6 +2,263 @@
   "date_first_scraped": "2025-04-22",
   "description": "Enjoy the iconic K-OSTs with the music videos (K-OST\ub97c \ubba4\uc9c1\ube44\ub514\uc624\uc640 \ud568\uaed8 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K-OST Music Video",
-  "tracks": [],
+  "tracks": [
+    {
+      "album": {
+        "name": "Burn It Down",
+        "url": "https://open.spotify.com/album/6BmqXesAcont1SRx7BQmWB"
+      },
+      "artists": [
+        {
+          "name": "KimYeji",
+          "url": "https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217983,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/5YidCYG2mDWFz28D5idvH1"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/4N3HlHwGTNPgkBMz5iiQ2n"
+      },
+      "artists": [
+        {
+          "name": "JUNHA PARK",
+          "url": "https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196330,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/6rgRp6WVWibI0c58wmH3vc"
+    },
+    {
+      "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/4aV0SZlbG7vFQSzmjkMmOZ"
+      },
+      "artists": [
+        {
+          "name": "DaHye",
+          "url": "https://open.spotify.com/artist/6MHofs3y2bwFn1s79DfaXw"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/6fwlsk4L5qVSRUFnhmKaj8"
+    },
+    {
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/4Z7wwnpo2e2FQplLqLXyNz"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242303,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/09UK5kAe4SNJPOdU10DH73"
+    },
+    {
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/6bJwmKR5LFN3Rjmc7dSNUR"
+      },
+      "artists": [
+        {
+          "name": "Kim Heewon",
+          "url": "https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264597,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/1RrQAan4viT8Spfbipxdns"
+    },
+    {
+      "album": {
+        "name": "Heavy Heart",
+        "url": "https://open.spotify.com/album/7srQjmEGwrbYEWU0SQviXF"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216554,
+      "name": "Heavy Heart",
+      "url": "https://open.spotify.com/track/3VfIcpqpEr8q0M9OuvS1c7"
+    },
+    {
+      "album": {
+        "name": "If you're with me",
+        "url": "https://open.spotify.com/album/1yRqx40R9ons7xDlDKL2FS"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233493,
+      "name": "If you're with me",
+      "url": "https://open.spotify.com/track/3Edd5X9vy6t49rj74h2pAL"
+    },
+    {
+      "album": {
+        "name": "Love Me Like That",
+        "url": "https://open.spotify.com/album/3Tj0UaVVkdPcGBEQObIVsF"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212885,
+      "name": "Love Me Like That",
+      "url": "https://open.spotify.com/track/3V6LImUODSMql7ANm12ofH"
+    },
+    {
+      "album": {
+        "name": "Love, This",
+        "url": "https://open.spotify.com/album/2g8cbUyPnaZPhhJV1nFC1r"
+      },
+      "artists": [
+        {
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195946,
+      "name": "Love, This",
+      "url": "https://open.spotify.com/track/1Xt1NCcozlsCcRE3ZjFkN0"
+    },
+    {
+      "album": {
+        "name": "Memories More than love",
+        "url": "https://open.spotify.com/album/0MvOuoumNGSAZ1LV0zXR53"
+      },
+      "artists": [
+        {
+          "name": "Kevin Oh",
+          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287381,
+      "name": "Memories More than love",
+      "url": "https://open.spotify.com/track/5jxrqjVmiJqsfB7hNSfs6j"
+    },
+    {
+      "album": {
+        "name": "Never Going Back (From \"Hunter with a Scalpel\")",
+        "url": "https://open.spotify.com/album/4hqh3QH3FVC6jotuKDwAqp"
+      },
+      "artists": [
+        {
+          "name": "Kim Gyeol",
+          "url": "https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225023,
+      "name": "Never Going Back (From \"Hunter with a Scalpel\")",
+      "url": "https://open.spotify.com/track/0n7TN4yNd2TlmfmvfFvQR6"
+    },
+    {
+      "album": {
+        "name": "Nevertheless",
+        "url": "https://open.spotify.com/album/5TPL4cmMjaXMfTKLvsq0lf"
+      },
+      "artists": [
+        {
+          "name": "Night Off",
+          "url": "https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214314,
+      "name": "Nevertheless",
+      "url": "https://open.spotify.com/track/6iWfLdahsxpR0pCRsA4hrM"
+    },
+    {
+      "album": {
+        "name": "ReawakeR (feat. Felix of Stray Kids)",
+        "url": "https://open.spotify.com/album/0OL3dNYRwEE1yCB3DdzLHZ"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        },
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192448,
+      "name": "ReawakeR (feat. Felix of Stray Kids)",
+      "url": "https://open.spotify.com/track/0bppRVbxbVfZO0QrSdTeJi"
+    },
+    {
+      "album": {
+        "name": "We're Already (from \"Nevertheless\" Original Drama Sound Track, Pt. 1)",
+        "url": "https://open.spotify.com/album/5RZ8bSQSdpsHefGnY45F3d"
+      },
+      "artists": [
+        {
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241002,
+      "name": "We're Already (from \"Nevertheless\" Original Drama Sound Track, Pt. 1)",
+      "url": "https://open.spotify.com/track/2hnLWui90ibtGKqVleP4R0"
+    }
+  ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXarsGtGJHPf"
 }

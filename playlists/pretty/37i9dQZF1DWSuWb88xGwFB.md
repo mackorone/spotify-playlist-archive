@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,845 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,865 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Free \- Mood II Swing Radio Edit](https://open.spotify.com/track/0dc6CJ6BsiKxyPvW4yABLo) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av) | [Free](https://open.spotify.com/album/6TpwXfNBW8BSwCAuBDjJSN) | 3:53 |
-| 2 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
-| 3 | [King Of My Castle \- Roy Malone's King Mix](https://open.spotify.com/track/4XZwpHpscrMkbpQPqjnwRJ) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm), [Roy Malone](https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn) | [King Of My Castle](https://open.spotify.com/album/76dgPMKh0jMhFDbWeNF365) | 4:58 |
+| 2 | [King Of My Castle \- Roy Malone's King Mix](https://open.spotify.com/track/4XZwpHpscrMkbpQPqjnwRJ) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm), [Roy Malone](https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn) | [King Of My Castle](https://open.spotify.com/album/76dgPMKh0jMhFDbWeNF365) | 4:58 |
+| 3 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
 | 4 | [I Like to Move It \(feat\. The Mad Stuntman\) \- Erick "More" Club Mix](https://open.spotify.com/track/1r4ZkSJevA68TQzLzJeXeb) | [Reel 2 Real](https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta), [The Mad Stuntman](https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5) | [I Like To Move It \(feat\. The Mad Stuntman\)](https://open.spotify.com/album/2e0wWL0G1nwwS16yNekdVP) | 5:52 |
-| 5 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
-| 6 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
+| 5 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
+| 6 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
 | 7 | [What You Need \(feat\. Duane Harden\) \- Full Intention Radio Edit](https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR) | 3:22 |
 | 8 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
 | 9 | [Unbe \- Erick 'More' Mix](https://open.spotify.com/track/2trtz6D7Y16zZJr5B3XAGD) | [R.A.W.](https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 7:10 |

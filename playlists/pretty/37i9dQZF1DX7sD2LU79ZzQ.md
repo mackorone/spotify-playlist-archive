@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Rafi Sudirman, GAC \(Gamaliél Audrey Cantika\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,645 likes - 113 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,643 likes - 113 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

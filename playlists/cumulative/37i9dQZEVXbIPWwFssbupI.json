@@ -10363,6 +10363,28 @@
     },
     {
       "album": {
+        "name": "D&P \u00e0 vie",
+        "url": "https://open.spotify.com/album/7z7GDzltTvkHX2pQI9QLzA"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179840,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/6ciZJwte2KVXYd92JDyTN6"
+    },
+    {
+      "album": {
         "name": "LA VIE CONTINUE",
         "url": "https://open.spotify.com/album/3pa4I96zdjB4CRR7e0gjyK"
       },
@@ -13482,7 +13504,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 238160,
       "name": "DRAGONS",
       "url": "https://open.spotify.com/track/6bhObRBG732wGeTWWR1781"
@@ -15460,7 +15482,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH"
@@ -15478,7 +15500,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"

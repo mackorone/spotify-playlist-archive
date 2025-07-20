@@ -985,6 +985,28 @@
     },
     {
       "album": {
+        "name": "Digital Jazz Man",
+        "url": "https://open.spotify.com/album/1Rcu44sVNNXx28FLGObDrf"
+      },
+      "artists": [
+        {
+          "name": "Saul Madiope",
+          "url": "https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3"
+        },
+        {
+          "name": "Jamesia Monroe",
+          "url": "https://open.spotify.com/artist/54tyL1Xu3VPjMqpmyBs2lJ"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183024,
+      "name": "Digital Jazz Interlude",
+      "url": "https://open.spotify.com/track/6T2zQhVeNOWeykRe3S9LuS"
+    },
+    {
+      "album": {
         "name": "Indaba Is",
         "url": "https://open.spotify.com/album/3qcN5kODsixA5VcaY37X7T"
       },
@@ -4212,7 +4234,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 394316,
       "name": "Rites",
       "url": "https://open.spotify.com/track/5XhsgJqFcTac7rNqz0fbx1"

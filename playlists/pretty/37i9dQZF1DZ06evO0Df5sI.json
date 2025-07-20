@@ -1,13 +1,29 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 22569,
+  "num_followers": 22578,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHg9AAAAAADZr/Qdn3OkTz9DE+IPDyod",
+  "snapshot_id": "aHmOgAAAAADVqWNPYcG/h05pD8Beb3qc",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/4tqmxRUMi21ZAqKVemewpO"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 192603,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/02bj1hZGIwwTYG6z1bJG1M"
+    },
     {
       "added_at": null,
       "album": {
@@ -52,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 169173,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/4vjr73F3KT000ii3fzPrib"
+      "duration_ms": 210173,
+      "name": "Private Eye",
+      "url": "https://open.spotify.com/track/3pKd2WdIgHxw9ztbAjWUJ6"
     },
     {
       "added_at": null,
@@ -116,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 210173,
-      "name": "Private Eye",
-      "url": "https://open.spotify.com/track/3pKd2WdIgHxw9ztbAjWUJ6"
+      "duration_ms": 169173,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/4vjr73F3KT000ii3fzPrib"
     },
     {
       "added_at": null,
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "We've Had Enough",
-      "url": "https://open.spotify.com/track/7HiVHdZfH5zK9pNttg9yX2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agony & Irony (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 224600,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/2RHNirj8PxX3g6FBiHMney"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "We've Had Enough",
+      "url": "https://open.spotify.com/track/7HiVHdZfH5zK9pNttg9yX2"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agony & Irony (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Over and Out",
-      "url": "https://open.spotify.com/track/0MWnY2bmf7QnVsBVF4nzFC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is This Thing Cursed?",
         "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
       },
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agony & Irony (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Over and Out",
+      "url": "https://open.spotify.com/track/0MWnY2bmf7QnVsBVF4nzFC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Remains",
         "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 188160,
       "name": "Dead End Road",
       "url": "https://open.spotify.com/track/4bbSe35IfOSjm2vYqdp4Af"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sacrifice / At Sickness",
-        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "The Sacrifice",
-      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
     }
   ],
   "unique_name": "This Is Alkaline Trio",

@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Fred again..
 
-1,078 songs - 2 day 11 hr 20 min
+1,079 songs - 2 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Escape Reality](https://open.spotify.com/track/4EcsGwSei1YStJRy3lbpzt) | [munro](https://open.spotify.com/artist/2g9CpiC5J4Rwl38OsLholH), [Serion](https://open.spotify.com/artist/1daCx1huhWZa5aLc1KK9hs), [dabl](https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9) | [Escape Reality](https://open.spotify.com/album/5tHeGvKuuTHaMiddXUAqGL) | 3:31 | 2021-08-06 | 2023-02-11 |
 | [Escape Reality](https://open.spotify.com/track/78aOL8eiuf4IrfCgR0kqfQ) | [munro](https://open.spotify.com/artist/2g9CpiC5J4Rwl38OsLholH), [Serion](https://open.spotify.com/artist/1daCx1huhWZa5aLc1KK9hs), [dabl](https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9) | [Escape Reality](https://open.spotify.com/album/7a7N6ekXcTnHlwgRFImnzy) | 3:31 | 2021-08-06 | 2022-08-26 |
 | [Eternity](https://open.spotify.com/track/4s1YQN2XF5XaNGMQL26nzb) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [Eternity](https://open.spotify.com/album/0f02QTJF14HMHIHJXiWANG) | 3:56 | 2025-06-19 |  |
+| [Euphoria](https://open.spotify.com/track/1Sx86xHVVfdwmkttEHvXtK) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Euphoria](https://open.spotify.com/album/0wSf1WEDoUmpMOMRHlbxSt) | 4:05 | 2025-07-18 |  |
 | [Everybody You Hurt](https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw) | [Aaron Kates](https://open.spotify.com/artist/1exfMe6DfajvxW8ddOC7TT) | [Everybody You Hurt](https://open.spotify.com/album/6fQMIPsKgof7dg56n77QsF) | 3:04 | 2021-08-06 | 2022-12-24 |
 | [Everybody You Hurt](https://open.spotify.com/track/3odHCrMLEkfNslqDbrkLJt) | [Aaron Kates](https://open.spotify.com/artist/1exfMe6DfajvxW8ddOC7TT) | [Everybody You Hurt](https://open.spotify.com/album/2z291DYIYmPosH2qNtbDYH) | 3:04 | 2021-08-06 | 2023-05-13 |
 | [EVERYDAY IS A NEW BEGINNING](https://open.spotify.com/track/6KWyM51UniwFc6rx3u20Ye) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [My Heart Weighs A Ton](https://open.spotify.com/album/3ZrDgzyEV7A1rwsXPeEFOC) | 3:03 | 2024-08-29 | 2024-10-18 |
@@ -973,7 +974,7 @@
 | [Trouble](https://open.spotify.com/track/6wXf0LYYDRUZiCBeIeMm5O) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [DUSK](https://open.spotify.com/album/0redwBOaK57PJoSLEl2OMD) | 2:32 | 2024-02-16 | 2024-02-24 |
 | [Trouble](https://open.spotify.com/track/4dgnbpgmmjW2AearPq7SQG) | [koicha](https://open.spotify.com/artist/4sj3wGbQhfkdj6MGarRdtw), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf), [Gud Griff](https://open.spotify.com/artist/1m5xUB9MDUAy4hJlNSmy2W), [Daniella Binyamin](https://open.spotify.com/artist/0j7DhjdXfuDhB8ciUTh1hK) | [Trouble](https://open.spotify.com/album/397SNGDnP4bMYwf9mB7k5f) | 2:48 | 2024-06-06 | 2024-06-14 |
 | [TRUST](https://open.spotify.com/track/5zCKUok6FtVnEN1ATfBEFJ) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [TRUST](https://open.spotify.com/album/589r4sFNm8R3cETh4lXRRS) | 2:44 | 2024-05-23 | 2024-06-01 |
-| [Tumbleweeds](https://open.spotify.com/track/3ffmHRLqmoZkwikJqC0DVD) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Tumbleweeds](https://open.spotify.com/album/5OVG7AQkRix1NZ8AuBQv1u) | 5:06 | 2025-06-06 |  |
+| [Tumbleweeds](https://open.spotify.com/track/3ffmHRLqmoZkwikJqC0DVD) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Tumbleweeds](https://open.spotify.com/album/5OVG7AQkRix1NZ8AuBQv1u) | 5:06 | 2025-06-06 | 2025-07-20 |
 | [TURN IT DOWN](https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TURN IT DOWN](https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR) | 2:34 | 2021-11-19 | 2022-07-29 |
 | [Turn Me On](https://open.spotify.com/track/5MCU6TnfVoytCTrTqL9RwS) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Turn Me On](https://open.spotify.com/album/3MMW0aU2dYoZo9aDb63Pn7) | 2:40 | 2024-10-17 | 2024-11-08 |
 | [TURN YOUR HEART AROUND](https://open.spotify.com/track/3VVNugqkWk3NqCfTfv0N4C) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [TURN YOUR HEART AROUND](https://open.spotify.com/album/1HGSs2zPelvBSJ6TCvyUMw) | 2:52 | 2024-11-07 | 2025-01-08 |

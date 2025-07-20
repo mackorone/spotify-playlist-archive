@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  1da Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,612 likes - 79 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,640 likes - 79 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

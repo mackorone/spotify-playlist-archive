@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Dive Bar Opera",
+        "url": "https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146054,
+      "name": "Dive Bar Opera",
+      "url": "https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb"
+    },
+    {
+      "album": {
         "name": "DO YOU LIKE ME?",
         "url": "https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS"
       },

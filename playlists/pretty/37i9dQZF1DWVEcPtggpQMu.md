@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Tony Dayimane
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,398 likes - 98 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,434 likes - 98 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 4 | [Bangerville](https://open.spotify.com/track/5qDf3t88e6T0dsbOvqeEz5) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Orish](https://open.spotify.com/artist/3OyqEFF59dNAYg90KTw2qi), [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e) | [Bangerville](https://open.spotify.com/album/5CK9qfCJZneqxcB5KkmKqu) | 2:21 |
 | 5 | [FRESHER THAN YALL](https://open.spotify.com/track/1nWxZB6D5ODZxODe38Vntb) | [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd) | [MARK MY WORDZ](https://open.spotify.com/album/5accUrG81HTdFt59063Gjd) | 2:43 |
 | 6 | [Soft](https://open.spotify.com/track/0Y3kQx93aK7cVwvNn6pfoB) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Soft](https://open.spotify.com/album/1AVJMO0Dyr4EwzLfBXcgrQ) | 2:15 |
-| 7 | [UMAQONDANA \(feat\. Lowfeye & Dahoodhope\)](https://open.spotify.com/track/0W68KPfFyYZbKpbBDx1h0E) | [Fanaticalb3ing](https://open.spotify.com/artist/1J0wQdccirNDCwXzeX49Ti), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Dahoodhope](https://open.spotify.com/artist/1ngdocoXiu79LWVx5syMLd) | [UMAQONDANA \(feat\. Lowfeye & Dahoodhope\)](https://open.spotify.com/album/2lcy0Cp0iZ1fJoBebvxCB7) | 1:20 |
+| 7 | [UMAQONDANA \(feat\. Lowfeye & Dahoodhope\)](https://open.spotify.com/track/0W68KPfFyYZbKpbBDx1h0E) | [Fanaticalb3ing](https://open.spotify.com/artist/1J0wQdccirNDCwXzeX49Ti), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Dahoodhope](https://open.spotify.com/artist/1ngdocoXiu79LWVx5syMLd) | [UMAQONDANA \(feat\. Lowfeye & Dahoodhope\)](https://open.spotify.com/album/2lcy0Cp0iZ1fJoBebvxCB7) | 3:46 |
 | 8 | [Hermano](https://open.spotify.com/track/3jiXyd7yAiExtvvf81Ci4G) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Hermano](https://open.spotify.com/album/5WMiWwu5SQGjkDnBt158fo) | 3:12 |
 | 9 | [MSL FREESTYLE](https://open.spotify.com/track/5kRIS6pUNilLshmMznHyqZ) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR) | [SOLDIER IN TRANSIT](https://open.spotify.com/album/15xG70LDB6Ba7IjrsYFo13) | 2:20 |
 | 10 | [Paco Rabbane](https://open.spotify.com/track/25X5JxSQzUPOS48EFQItLW) | [Seru the Ellipsis](https://open.spotify.com/artist/53P7uxJr3YQx2pmEtrSHmA), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT) | [Paco Rabbane](https://open.spotify.com/album/0AKcmO1mQfDLofcg82pwrU) | 2:42 |

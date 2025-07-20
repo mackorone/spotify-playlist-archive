@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,849 likes - 56 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,687 likes - 56 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 33 | [La traición](https://open.spotify.com/track/1iofHMtGYQZY3NMEv641IQ) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [La traición](https://open.spotify.com/album/0RL5iVXxnP2IwHggO8BBgC) | 3:39 |
 | 34 | [Voltio](https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Voltio](https://open.spotify.com/album/06rL72qm2Gn5YALkQI5v03) | 2:13 |
 | 35 | [GATITA SEPHORA](https://open.spotify.com/track/3RWRImPPKeuBeO8ovkQA7W) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [GATITA SEPHORA](https://open.spotify.com/album/34MmK8rSmHUGk26m3nfA3t) | 2:44 |
-| 36 | [D’amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D’amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
-| 37 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 |
+| 36 | [D'amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D'amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
+| 37 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 |
 | 38 | [Canción Para el Fin del Mundo](https://open.spotify.com/track/1eGObrmyfUk7KxxMFvP8AY) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv), [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Canción Para el Fin del Mundo](https://open.spotify.com/album/32S7YT4SQq1LeQ8zoGP7zd) | 3:42 |
 | 39 | [Diabla](https://open.spotify.com/track/04VzWruL4xtanaEFgpgaDA) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [LAKELLY](https://open.spotify.com/artist/4jg7aE94hJ1qY93unfcyA5), [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G) | [Diabla](https://open.spotify.com/album/68gtQW3RL7b4xLTaWBzsig) | 4:03 |
 | 40 | [RASPAR](https://open.spotify.com/track/7MQFOGThgDkuk0F7QDzU7C) | [Jeyel](https://open.spotify.com/artist/1L0wrpuVUswyb9s2w7kLo8), [KBP EL ALIEN](https://open.spotify.com/artist/4O6h6daISMFjWaM9xqJxAM), [ARM](https://open.spotify.com/artist/7q1ppdQ7pwZpWtV8UAsHPV) | [RASPAR](https://open.spotify.com/album/3hDdREDmxh97cMeH9T1JlF) | 2:46 |

@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Good Charlotte ",
-  "num_followers": 596034,
+  "num_followers": 596077,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2025-07-17 23:00:31",
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/3v9dyqvNaLL57rqIJQ0qvO"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 191357,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/6UcydD46iXzyCpoJYeM8tG"
+    },
+    {
+      "added_at": "2025-07-17 23:00:31",
+      "album": {
         "name": "Red Velvet (with Ari Abdul)",
         "url": "https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 186025,
       "name": "Red Velvet (with Ari Abdul)",
       "url": "https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8"
-    },
-    {
-      "added_at": "2025-07-17 23:00:31",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/3v9dyqvNaLL57rqIJQ0qvO"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 191357,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/6UcydD46iXzyCpoJYeM8tG"
     },
     {
       "added_at": "2025-07-17 23:00:31",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-07-17 23:00:31",
       "album": {
-        "name": "The Crucible Of Life",
-        "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 193250,
-      "name": "Brag",
-      "url": "https://open.spotify.com/track/1HSVmNmRkrAyKahBe6Szx2"
-    },
-    {
-      "added_at": "2025-07-17 23:00:31",
-      "album": {
         "name": "Why Would I Watch",
         "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 169000,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/1RWpjHVBMDONhpD1gTjbPG"
+    },
+    {
+      "added_at": "2025-07-17 23:00:31",
+      "album": {
+        "name": "The Crucible Of Life",
+        "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 193250,
+      "name": "Brag",
+      "url": "https://open.spotify.com/track/1HSVmNmRkrAyKahBe6Szx2"
     },
     {
       "added_at": "2025-07-17 23:00:31",
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-07-17 23:00:31",
       "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
+        "name": "Stepper",
+        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
       },
       "artists": [
         {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 219000,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt"
+      "duration_ms": 196748,
+      "name": "Stepper",
+      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
     },
     {
       "added_at": "2025-07-17 23:00:31",
@@ -815,6 +815,22 @@
       "duration_ms": 172205,
       "name": "By The Way",
       "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
+    },
+    {
+      "added_at": "2025-07-17 23:00:31",
+      "album": {
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt"
     },
     {
       "added_at": "2025-07-17 23:00:31",
@@ -987,6 +1003,30 @@
     {
       "added_at": "2025-07-17 23:00:31",
       "album": {
+        "name": "Burst & Decay (Volume III)",
+        "url": "https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        },
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        },
+        {
+          "name": "Little Kruta",
+          "url": "https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe"
+        }
+      ],
+      "duration_ms": 233040,
+      "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
+      "url": "https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2"
+    },
+    {
+      "added_at": "2025-07-17 23:00:31",
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/5lK5ePFyZ0EQo7RE38ENhm"
       },
@@ -1031,30 +1071,6 @@
       "duration_ms": 220096,
       "name": "Through The Landslide",
       "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
-    },
-    {
-      "added_at": "2025-07-17 23:00:31",
-      "album": {
-        "name": "Burst & Decay (Volume III)",
-        "url": "https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        },
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        },
-        {
-          "name": "Little Kruta",
-          "url": "https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe"
-        }
-      ],
-      "duration_ms": 233040,
-      "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
-      "url": "https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2"
     },
     {
       "added_at": "2025-07-17 23:00:31",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2025-07-17 23:00:31",
       "album": {
-        "name": "Get A Job",
-        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 186581,
-      "name": "Get A Job",
-      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
-    },
-    {
-      "added_at": "2025-07-17 23:00:31",
-      "album": {
         "name": "RESTORATION",
         "url": "https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 177349,
       "name": "WOLVES",
       "url": "https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4"
+    },
+    {
+      "added_at": "2025-07-17 23:00:31",
+      "album": {
+        "name": "Get A Job",
+        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Get A Job",
+      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
     },
     {
       "added_at": "2025-07-17 23:00:31",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2025-07-17 23:00:31",
       "album": {
-        "name": "she will be missed",
-        "url": "https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "she will be missed",
-      "url": "https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6"
-    },
-    {
-      "added_at": "2025-07-17 23:00:31",
-      "album": {
         "name": "If I'm Honest",
         "url": "https://open.spotify.com/album/34PDSAsthwQVMCfQTiiwmw"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 217235,
       "name": "If I'm Honest",
       "url": "https://open.spotify.com/track/5hxC606AyNMf3ZFByarMxA"
+    },
+    {
+      "added_at": "2025-07-17 23:00:31",
+      "album": {
+        "name": "she will be missed",
+        "url": "https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "she will be missed",
+      "url": "https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6"
     },
     {
       "added_at": "2025-07-17 23:00:31",
@@ -1339,22 +1355,6 @@
       "duration_ms": 180959,
       "name": "don't light the match (dyed black 2010)",
       "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
-    },
-    {
-      "added_at": "2025-07-17 23:00:31",
-      "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 200883,
-      "name": "Stop Talking",
-      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

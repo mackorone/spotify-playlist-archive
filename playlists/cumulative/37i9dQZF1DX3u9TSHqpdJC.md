@@ -4,7 +4,7 @@
 
 > The best new pop music from new, independent artists\.  Cover: Raissa\. Artwork by Paola Saliby
 
-4,116 songs - 8 day 17 hr 33 min
+4,118 songs - 8 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1032,6 +1032,7 @@
 | [Drive](https://open.spotify.com/track/2q3k82WIyd0iDQKNxa0FBl) | [SABRINA](https://open.spotify.com/artist/4UHjGBNymOMds31jUgfyVs) | [Drive](https://open.spotify.com/album/42xC3HYtKchvcF5o3i9aZ9) | 3:17 | 2021-07-29 | 2021-08-20 |
 | [drive faster](https://open.spotify.com/track/7hdes67sicWJ4oR1zVchuQ) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [drive faster](https://open.spotify.com/album/6Z819jCN4dzySQfY0HLdER) | 1:56 | 2023-04-26 | 2023-06-15 |
 | [Drive Slow](https://open.spotify.com/track/7dqLvLenLG1xjFoQuHXRNa) | [Lilly Hart](https://open.spotify.com/artist/2Vm9OsgWjGKAvH6Iu5gj5M) | [Drive Slow](https://open.spotify.com/album/2LV4KTwKJIb8LBkqdPk0AG) | 3:21 | 2023-03-15 | 2023-04-27 |
+| [driver's seat](https://open.spotify.com/track/70tV22xFgUQuLZh1GhtIsC) | [the gluu](https://open.spotify.com/artist/0f0dMXkQ590BbEKKtAXegb) | [driver's seat](https://open.spotify.com/album/3nelriQC69sPfAIATvQ03d) | 3:02 | 2025-07-19 |  |
 | [Drives Me Crazy](https://open.spotify.com/track/4wRYig1iN6PwIEHGVxmDyA) | [Tobias Defoe](https://open.spotify.com/artist/4UWYwl77CmLOHrz7Zehl2l) | [Drives Me Crazy](https://open.spotify.com/album/0QN5ToOHmKm01Te3J4Pfpg) | 3:16 | 2024-05-29 | 2024-07-25 |
 | [Driving Home](https://open.spotify.com/track/459i1iK7QehIvYQTMHXvIQ) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6) | [Driving Home](https://open.spotify.com/album/5JVpAaWPJiOteo0YH4ymsi) | 2:21 | 2022-03-30 | 2022-04-28 |
 | [Driving in the City](https://open.spotify.com/track/1koSROGPbhkEzxOE8JYHXW) | [Brandon Mig](https://open.spotify.com/artist/74YPVzM6BBn0HKrMHqD2iK) | [Driving in the City](https://open.spotify.com/album/4uzhGURcS9dnzQVsXrryPH) | 3:30 | 2020-10-13\* | 2021-01-15 |
@@ -4094,6 +4095,7 @@
 | [You Want It Back](https://open.spotify.com/track/44avslxBkMhSkrS6rywMw7) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [You Want It Back](https://open.spotify.com/album/3tXZz83YVEH1d0mvSns0XO) | 3:05 | 2022-01-26 | 2022-03-03 |
 | [You Wanted Me to Stay](https://open.spotify.com/track/0H0skF3IjqUeHNcHuQyLfy) | [Dasie](https://open.spotify.com/artist/5iRM7VatCq3Ea4VM5dB36R) | [Drama](https://open.spotify.com/album/02zUccC4Q2IEuhCRj6smkS) | 3:34 | 2022-06-15 | 2022-07-28 |
 | [you were just drunk](https://open.spotify.com/track/4kzYqtjwhtTi8NXv8Wfm4b) | [Julia Minichiello](https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS) | [you were just drunk](https://open.spotify.com/album/5KBEO2fTXCj1iEjcROyPXA) | 2:56 | 2025-01-22 | 2025-03-27 |
+| [You Were Supposed To Fall In Love With Me](https://open.spotify.com/track/0SoXqAuZPynaPcE6stG97m) | [Leah Dong](https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J) | [Leah Dong](https://open.spotify.com/album/12tjJHPpzChLDiy3YL6lwp) | 3:23 | 2025-07-19 |  |
 | [you won't even call me on my birthday](https://open.spotify.com/track/3Vv2zKApg406qNZz4lKcpI) | [Glowe](https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0) | [you won't even call me on my birthday](https://open.spotify.com/album/3AkqzoLepkdtmPYddrxNvb) | 2:37 | 2020-10-13\* | 2020-10-29 |
 | [You'll Be Fine](https://open.spotify.com/track/5bo9KUYGNK1cwIEGiP79lh) | [Saila](https://open.spotify.com/artist/01ZjCJW32IZZfRpEv9ND14) | [You'll Be Fine](https://open.spotify.com/album/499KHILLKHUzXgMEyTM7aN) | 2:31 | 2025-02-12 | 2025-04-03 |
 | [You're a Lot](https://open.spotify.com/track/7p1yFJ7tvOE8pwCbIB1ggu) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [You're a Lot](https://open.spotify.com/album/6se6xD1VQ6BNGwqD6wPTBg) | 2:32 | 2023-06-14 | 2023-09-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,199 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,251 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 9 | [Settle](https://open.spotify.com/track/6pDeV5DiST952oRhDUQghN) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [Settle](https://open.spotify.com/album/5jURie0Y721Kke4KXMw5pG) | 4:04 |
 | 10 | [These Are The Days](https://open.spotify.com/track/6X4VJwhPhAbpgEMqCuHcl9) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [These Are The Days](https://open.spotify.com/album/6qKWvolh88jomkOHHv35Db) | 4:00 |
 | 11 | [Just be Kool](https://open.spotify.com/track/7wvqZXa92cl7H5mA9WuuGf) | [JODIAN NATTY](https://open.spotify.com/artist/6pibD7qPgbAdzEeDSv3N58), [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx) | [Just be Kool](https://open.spotify.com/album/6PDGp7sGz8Qy6VzqYYvzVr) | 2:31 |
-| 12 | [White Flag](https://open.spotify.com/track/3UqbLM9NyeJOv57bWXQaOI) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [White Flag](https://open.spotify.com/album/4MOMPp99GoeKzxdx7KhUUk) | 4:04 |
+| 12 | [Never Tell](https://open.spotify.com/track/4e2b9PcrsZD8z87sBJYXXO) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [homesick](https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9) | [Never Tell](https://open.spotify.com/album/602ztxO2d7gdwZKTKkqV9e) | 3:16 |
 | 13 | [Reset](https://open.spotify.com/track/0ZVuHCcg955D2hi6tN8Efe) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Reset](https://open.spotify.com/album/7vzcBRrhXqJbJujLqm47un) | 5:31 |
-| 14 | [Never Tell](https://open.spotify.com/track/4e2b9PcrsZD8z87sBJYXXO) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [homesick](https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9) | [Never Tell](https://open.spotify.com/album/602ztxO2d7gdwZKTKkqV9e) | 3:16 |
+| 14 | [White Flag](https://open.spotify.com/track/3UqbLM9NyeJOv57bWXQaOI) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [White Flag](https://open.spotify.com/album/4MOMPp99GoeKzxdx7KhUUk) | 4:04 |
 | 15 | [Makes Me Feel Alive](https://open.spotify.com/track/14w8W3LfenVfz7CaEzaGY8) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [Makes Me Feel Alive](https://open.spotify.com/album/6YSf2vzReWTwWRqIyVE4G2) | 3:29 |
 | 16 | [You](https://open.spotify.com/track/1ZXuKEuTuptd2iuJXPrEF5) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [You / Someday](https://open.spotify.com/album/5x08zzrVrfGVNIfbVa8OMB) | 4:38 |
 | 17 | [Wicked Game](https://open.spotify.com/track/6ZyOx8u50L5HXf5Oxf22D2) | [LIUFO](https://open.spotify.com/artist/4tvDUOqsB8evdtOM1TJhg0), [ABRO](https://open.spotify.com/artist/2LQh8ykDx0SIEBYHrleBRy) | [Wicked Game](https://open.spotify.com/album/1kkTYpKiX3RUYX5bWxh5ij) | 2:16 |

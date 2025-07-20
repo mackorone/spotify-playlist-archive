@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: D\u00e9bora Buzas, Isaias Saad",
-  "num_followers": 345185,
+  "num_followers": 345343,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -175,26 +175,6 @@
     {
       "added_at": "2025-04-28 17:24:37",
       "album": {
-        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY"
-    },
-    {
-      "added_at": "2025-04-28 17:24:37",
-      "album": {
         "name": "Troco",
         "url": "https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 240000,
       "name": "Troco",
       "url": "https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv"
+    },
+    {
+      "added_at": "2025-04-28 17:24:37",
+      "album": {
+        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY"
     },
     {
       "added_at": "2025-04-28 17:24:37",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-04-28 17:24:37",
       "album": {
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 222607,
+      "name": "Encaixe",
+      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
+    },
+    {
+      "added_at": "2025-04-28 17:24:37",
+      "album": {
         "name": "Ton Canta, Vol. 3",
         "url": "https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 205282,
       "name": "O Melhor De Deus",
       "url": "https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t"
-    },
-    {
-      "added_at": "2025-04-28 17:24:37",
-      "album": {
-        "name": "Teu Amor Por Mim",
-        "url": "https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK"
-      },
-      "artists": [
-        {
-          "name": "Igor Roque",
-          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
-        }
-      ],
-      "duration_ms": 185969,
-      "name": "Teu Amor Por Mim",
-      "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
     },
     {
       "added_at": "2025-04-28 17:24:37",
@@ -507,18 +507,18 @@
     {
       "added_at": "2025-04-28 17:24:37",
       "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
+        "name": "Teu Amor Por Mim",
+        "url": "https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK"
       },
       "artists": [
         {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
         }
       ],
-      "duration_ms": 222607,
-      "name": "Encaixe",
-      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
+      "duration_ms": 185969,
+      "name": "Teu Amor Por Mim",
+      "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
     },
     {
       "added_at": "2025-04-28 17:24:37",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-04-28 17:24:37",
       "album": {
-        "name": "Valeu a Pena",
-        "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        },
-        {
-          "name": "Esdras Gondim",
-          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
-        }
-      ],
-      "duration_ms": 237510,
-      "name": "Valeu a Pena",
-      "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
-    },
-    {
-      "added_at": "2025-04-28 17:24:37",
-      "album": {
         "name": "Estou Com Voc\u00ea (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 285000,
       "name": "Estou Com Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX"
+    },
+    {
+      "added_at": "2025-04-28 17:24:37",
+      "album": {
+        "name": "Valeu a Pena",
+        "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
+      },
+      "artists": [
+        {
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+        },
+        {
+          "name": "Esdras Gondim",
+          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
+        }
+      ],
+      "duration_ms": 237510,
+      "name": "Valeu a Pena",
+      "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
     },
     {
       "added_at": "2025-04-28 17:24:37",
@@ -623,18 +623,22 @@
     {
       "added_at": "2025-04-28 17:24:37",
       "album": {
-        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
+        "name": "Ningu\u00e9m Explica Deus",
+        "url": "https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3"
       },
       "artists": [
         {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        },
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 437014,
-      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
+      "duration_ms": 301623,
+      "name": "Ningu\u00e9m Explica Deus",
+      "url": "https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth"
     },
     {
       "added_at": "2025-04-28 17:24:37",
@@ -671,26 +675,6 @@
     {
       "added_at": "2025-04-28 17:24:37",
       "album": {
-        "name": "Ningu\u00e9m Explica Deus",
-        "url": "https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        },
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 301623,
-      "name": "Ningu\u00e9m Explica Deus",
-      "url": "https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth"
-    },
-    {
-      "added_at": "2025-04-28 17:24:37",
-      "album": {
         "name": "Vendavais (Em Casa Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 281142,
       "name": "Vendavais - Em Casa Ac\u00fastico",
       "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
+    },
+    {
+      "added_at": "2025-04-28 17:24:37",
+      "album": {
+        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
+      },
+      "artists": [
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        }
+      ],
+      "duration_ms": 437014,
+      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
     },
     {
       "added_at": "2025-04-28 17:24:37",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-04-28 17:24:37",
       "album": {
-        "name": "Cicatrizes",
-        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 215343,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
-    },
-    {
-      "added_at": "2025-04-28 17:24:37",
-      "album": {
         "name": "Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2025-04-28 17:24:37",
       "album": {
+        "name": "Cicatrizes",
+        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 215343,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
+    },
+    {
+      "added_at": "2025-04-28 17:24:37",
+      "album": {
         "name": "On Tape (Ao Vivo)",
         "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 228388,
       "name": "Falar Com Deus - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
+    },
+    {
+      "added_at": "2025-04-28 17:24:37",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2025-04-28 17:24:37",
@@ -1067,22 +1083,6 @@
       "duration_ms": 269354,
       "name": "Descansa",
       "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
-    },
-    {
-      "added_at": "2025-04-28 17:24:37",
-      "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2025-04-28 17:24:37",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-04-28 17:24:37",
       "album": {
-        "name": "N\u00e1ufrago (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "N\u00e1ufrago - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
-    },
-    {
-      "added_at": "2025-04-28 17:24:37",
-      "album": {
         "name": "Voz e Viol\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6glr1kILyy9z47Uz4BkVFz"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 244917,
       "name": "Eu Prefiro Adorar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6XDaefR7b2nX6seYVYcnQ2"
+    },
+    {
+      "added_at": "2025-04-28 17:24:37",
+      "album": {
+        "name": "N\u00e1ufrago (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "N\u00e1ufrago - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
     },
     {
       "added_at": "2025-04-28 17:24:37",

@@ -4,7 +4,7 @@
 
 > This is No Doubt\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 8 min
+49 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Trapped In A Box](https://open.spotify.com/track/0aqmgKRH04ItzeBUxlujCD) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 3:22 | 2025-03-08 |  |
 | [Under Construction](https://open.spotify.com/track/5LRkVOL0t8G8hLcNhBcJ0t) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:12 | 2025-03-08 |  |
 | [Underneath It All](https://open.spotify.com/track/6fR6Z0Vc1K6yQWNUIKjAIR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF), [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 5:02 | 2025-03-08 |  |
+| [What Is Wrong & What Is Right \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD) | [T.I.M.](https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF), [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [What Is Wrong & What Is Right](https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me) | 2:59 | 2025-07-20 |  |
 | [You're So Foxy](https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:39 | 2025-03-08 |  |
 
 \*This playlist was first scraped on 2025-03-08. Prior content cannot be recovered.

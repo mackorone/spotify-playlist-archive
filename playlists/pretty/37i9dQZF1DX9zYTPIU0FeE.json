@@ -1,6 +1,6 @@
 {
   "description": "In loving memory of the legendary Bra Feya Faku. ",
-  "num_followers": 11365,
+  "num_followers": 11368,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,26 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
+        "name": "Digital Jazz Man",
+        "url": "https://open.spotify.com/album/1Rcu44sVNNXx28FLGObDrf"
+      },
+      "artists": [
+        {
+          "name": "Saul Madiope",
+          "url": "https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3"
+        },
+        {
+          "name": "Jamesia Monroe",
+          "url": "https://open.spotify.com/artist/54tyL1Xu3VPjMqpmyBs2lJ"
+        }
+      ],
+      "duration_ms": 183024,
+      "name": "Digital Jazz Interlude",
+      "url": "https://open.spotify.com/track/6T2zQhVeNOWeykRe3S9LuS"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
         "name": "Rainbow Revisited",
         "url": "https://open.spotify.com/album/4AQs1TiZ7g8HMTMz1DakM5"
       },
@@ -899,22 +919,6 @@
       "duration_ms": 262373,
       "name": "Piano Edit",
       "url": "https://open.spotify.com/track/3S9Hy5ymQZyVDVS6OabuZC"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
-        "name": "Rites",
-        "url": "https://open.spotify.com/album/4b3P5JVBTRdvkLAk8voX40"
-      },
-      "artists": [
-        {
-          "name": "Vuma Levin",
-          "url": "https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX"
-        }
-      ],
-      "duration_ms": 394316,
-      "name": "Rites",
-      "url": "https://open.spotify.com/track/5XhsgJqFcTac7rNqz0fbx1"
     }
   ],
   "unique_name": "Jazz NXT",

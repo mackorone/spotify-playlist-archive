@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Trippie Redd, JACKBOYS, Freddie Gibbs and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,588 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,844 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 34 | [Tattooed Soldiers](https://open.spotify.com/track/1Fp7EWK78L4BtCVcLgpDBw) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [HottBoy Zay](https://open.spotify.com/artist/2sl06zVqd1T6OIX6eR12gT) | [Tattooed Soldiers](https://open.spotify.com/album/049AEpsekW75Ba9yVmip4I) | 2:32 |
 | 35 | [Does It Again \(feat\. Lil Yachty\)](https://open.spotify.com/track/5DT58khLtyj8DS38ImspAa) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Does It Again \(feat\. Lil Yachty\)](https://open.spotify.com/album/2eMtNuJDvEjvNAPX40Ushn) | 1:52 |
 | 36 | [Prayed 4](https://open.spotify.com/track/2Xcuyvjsdx74sPnDF5NH3S) | [Luhh Dyl](https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2) | [Prayed 4](https://open.spotify.com/album/7gaTz2OGXkn3zabHaVObyT) | 1:12 |
-| 37 | [Octane](https://open.spotify.com/track/0fg8hVhheExnE6bkVu1C9e) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg) | [Octane](https://open.spotify.com/album/5PcuD0pR1m3Aha3TCct2z9) | 2:44 |
+| 37 | [Octane](https://open.spotify.com/track/0fg8hVhheExnE6bkVu1C9e) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg) | [Octane](https://open.spotify.com/album/5PcuD0pR1m3Aha3TCct2z9) | 2:38 |
 | 38 | [Beanboozled](https://open.spotify.com/track/25qSz4S7KyfbrIwqSwbGxX) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Beanboozled](https://open.spotify.com/album/2EFSBkguaz0sUOfA5R5f31) | 2:42 |
 | 39 | [No Hands](https://open.spotify.com/track/5mpXzAf0yKcO5xMIqILhiN) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [No Hands](https://open.spotify.com/album/1z2KlTUG6h6UuoipTcjS1Y) | 1:37 |
 | 40 | [Better Than Me?!!](https://open.spotify.com/track/52oJsgZ661epG9lOzz3v8Q) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [Better Than Me?!!](https://open.spotify.com/album/6UTxpnmI3LFO3qtWApuaqM) | 2:26 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 42 | [White Lies \(feat\. G Herbo\)](https://open.spotify.com/track/2xFFAAEhz1bIfYShWEto0K) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [White Lies \(feat\. G Herbo\)](https://open.spotify.com/album/2niITwO5X7ODSlOKvOoAsq) | 2:48 |
 | 43 | [Green Goblin](https://open.spotify.com/track/1TqtiFxjsKraZB1pI7utuE) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [Green Goblin](https://open.spotify.com/album/6fSFuxnth9Nmfs3UnstLqP) | 2:23 |
 | 44 | [Down For Too Long](https://open.spotify.com/track/31XmjiAkFQmFxWJNbyTuQH) | [Kocky Ka](https://open.spotify.com/artist/3XQ18LnZPy6tiOElsC93dU) | [Down For Too Long](https://open.spotify.com/album/70QbCZvRQQgFOUW9XcBVJ6) | 2:45 |
-| 45 | [DREAM](https://open.spotify.com/track/5d9XrpjRsZ2OEiAbDNu1Q5) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [DREAM](https://open.spotify.com/album/60nslBmPtS02Iyw0SChxgN) | 2:37 |
+| 45 | [DREAM](https://open.spotify.com/track/5d9XrpjRsZ2OEiAbDNu1Q5) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [DREAM](https://open.spotify.com/album/60nslBmPtS02Iyw0SChxgN) | 2:37 |
 | 46 | [WHERE I BEEN](https://open.spotify.com/track/6jdGHMZnBfugRVQRI33SCf) | [Jaeychino](https://open.spotify.com/artist/1mVk9jJNL0m9WIs0a1BQdS) | [STILL HERE](https://open.spotify.com/album/28AKx1kv4QH5nYfZRsqKYi) | 1:21 |
 | 47 | [Detail \(feat\. Chaz French\)](https://open.spotify.com/track/5rds2etTXzQSsaYNihTc0S) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [CASH RULES \(Deluxe\)](https://open.spotify.com/album/3lye9L4BNIhjrrxi1tJIAi) | 2:46 |
 | 48 | [Crash Out](https://open.spotify.com/track/1F7lIbNGF48P24UTgAJ5a1) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Crash Out](https://open.spotify.com/album/72cHWfvZzykV3Nv6Ws1oI9) | 2:00 |

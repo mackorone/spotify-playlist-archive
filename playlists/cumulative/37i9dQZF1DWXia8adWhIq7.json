@@ -155,6 +155,28 @@
     },
     {
       "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/43RY8qE0hl6LGdiLXX03n5"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Baena",
+          "url": "https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57"
+        },
+        {
+          "name": "Anderson Feitosa",
+          "url": "https://open.spotify.com/artist/1tL8rvbJP6z3qhIV7Sy5qj"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250102,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/1LBP2k9FkNfTr2RgcbsdSD"
+    },
+    {
+      "album": {
         "name": "Achei um Bom Amigo",
         "url": "https://open.spotify.com/album/7mbMDc3z8S7zaTlZMJ9bDE"
       },
@@ -1302,7 +1324,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 245019,
       "name": "Escrevi (Legado)",
       "url": "https://open.spotify.com/track/5PbMhRZgOKvlJjDOIytCup"
@@ -1661,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Festa no Deserto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227717,
+      "name": "Festa no Deserto - Ao Vivo",
+      "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
+    },
+    {
+      "album": {
         "name": "Fim de Tarde",
         "url": "https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh"
       },
@@ -1816,6 +1856,24 @@
       "duration_ms": 245056,
       "name": "Hosana",
       "url": "https://open.spotify.com/track/1Q6Zk8VtV071NWfIyzzdHY"
+    },
+    {
+      "album": {
+        "name": "Iluminado",
+        "url": "https://open.spotify.com/album/6WidAThASUspFTkUzM9X88"
+      },
+      "artists": [
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/4e3IEiapCBKboOv2QNivDV"
     },
     {
       "album": {
@@ -3006,7 +3064,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 341437,
       "name": "Primeiro Lugar",
       "url": "https://open.spotify.com/track/3piwSIldkuUBVBK5VFFmpn"
@@ -3122,7 +3180,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 236470,
       "name": "Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1"

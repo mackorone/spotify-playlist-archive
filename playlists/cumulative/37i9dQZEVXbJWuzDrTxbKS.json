@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 239999,
       "name": "25",
       "url": "https://open.spotify.com/track/2JkPzGbdMrftzuvTuGp8ut"
@@ -7650,7 +7650,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 184789,
       "name": "CHAMPAIN & VACAY",
       "url": "https://open.spotify.com/track/1097cG16gzkhlPgkUt6KA0"
@@ -12855,6 +12855,24 @@
     },
     {
       "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "album": {
         "name": "euphoria",
         "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
       },
@@ -17984,7 +18002,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -20148,7 +20166,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 181818,
       "name": "It\u0101lija",
       "url": "https://open.spotify.com/track/3Ah0Zwh5MURTocMQtIgfLm"
@@ -21414,6 +21432,24 @@
     {
       "album": {
         "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170498,
+      "name": "KICK OUT",
+      "url": "https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
       "artists": [
@@ -21424,7 +21460,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 170498,
       "name": "KICK OUT",
       "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
@@ -24150,7 +24186,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
@@ -26288,7 +26324,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "Maza R\u012bga",
       "url": "https://open.spotify.com/track/610Shpt2VvaUtzc4RtOpkn"
@@ -33103,6 +33139,32 @@
     },
     {
       "album": {
+        "name": "500 mezgli",
+        "url": "https://open.spotify.com/album/13PoKUYyx5Zu9IJMVopZjp"
+      },
+      "artists": [
+        {
+          "name": "Wiesulis",
+          "url": "https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8"
+        },
+        {
+          "name": "sangvn",
+          "url": "https://open.spotify.com/artist/6eG66XVFe7u2IX3NOmEX9R"
+        },
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279346,
+      "name": "Pirmklas\u012bgs",
+      "url": "https://open.spotify.com/track/3Wis3yIyfiGD8GqzrFYGM3"
+    },
+    {
+      "album": {
         "name": "\u0160\u012b Ir Tikai M\u016bzika",
         "url": "https://open.spotify.com/album/3UUZ95kx80TsieGxZuxEop"
       },
@@ -33540,7 +33602,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 121089,
       "name": "poster boy",
       "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
@@ -34254,6 +34316,28 @@
       "duration_ms": 240355,
       "name": "P\u0113c Simt Gadiem Piebalg\u0101",
       "url": "https://open.spotify.com/track/6C2vXZ133MVEqxUC7Bzapq"
+    },
+    {
+      "album": {
+        "name": "500 mezgli",
+        "url": "https://open.spotify.com/album/13PoKUYyx5Zu9IJMVopZjp"
+      },
+      "artists": [
+        {
+          "name": "Wiesulis",
+          "url": "https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8"
+        },
+        {
+          "name": "sangvn",
+          "url": "https://open.spotify.com/artist/6eG66XVFe7u2IX3NOmEX9R"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183346,
+      "name": "P\u0113d\u0113jo reizi",
+      "url": "https://open.spotify.com/track/0rXgnZh28F8qW1CARTpUHO"
     },
     {
       "album": {
@@ -36247,6 +36331,36 @@
     },
     {
       "album": {
+        "name": "500 mezgli",
+        "url": "https://open.spotify.com/album/13PoKUYyx5Zu9IJMVopZjp"
+      },
+      "artists": [
+        {
+          "name": "Wiesulis",
+          "url": "https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8"
+        },
+        {
+          "name": "galaktik",
+          "url": "https://open.spotify.com/artist/527x2vHAIlEOtrENRecNFl"
+        },
+        {
+          "name": "sangvn",
+          "url": "https://open.spotify.com/artist/6eG66XVFe7u2IX3NOmEX9R"
+        },
+        {
+          "name": "rolands \u010de",
+          "url": "https://open.spotify.com/artist/35liSWoGK1NcMBLNQqamHZ"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "R\u012bgas atsl\u0113ga",
+      "url": "https://open.spotify.com/track/0Jb60iLV0j6Ox6JAz7bL3M"
+    },
+    {
+      "album": {
         "name": "R\u012bts ir t\u0101lu v\u0113l",
         "url": "https://open.spotify.com/album/5Da8teHilH6bxtC9LySWJM"
       },
@@ -38166,7 +38280,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 142539,
       "name": "SINEPES & MEDUS",
       "url": "https://open.spotify.com/track/5ttWL4tsDft8CF0E1rAavp"
@@ -39580,6 +39694,28 @@
       "duration_ms": 175652,
       "name": "Sp\u0113l\u0113t k\u0101 m\u0113s",
       "url": "https://open.spotify.com/track/7zS2GxEz9B9VKJHMLLVbr9"
+    },
+    {
+      "album": {
+        "name": "500 mezgli",
+        "url": "https://open.spotify.com/album/13PoKUYyx5Zu9IJMVopZjp"
+      },
+      "artists": [
+        {
+          "name": "Wiesulis",
+          "url": "https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8"
+        },
+        {
+          "name": "sangvn",
+          "url": "https://open.spotify.com/artist/6eG66XVFe7u2IX3NOmEX9R"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Sp\u012bd un laist\u0101s",
+      "url": "https://open.spotify.com/track/00kZcKrproPZge8jyfrVsK"
     },
     {
       "album": {
@@ -45980,7 +46116,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"

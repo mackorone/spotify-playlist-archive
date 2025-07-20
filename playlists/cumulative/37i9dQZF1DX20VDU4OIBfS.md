@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-392 songs - 1 day 0 hr 45 min
+393 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/66ADzX9sPv4BAR9Haj9AbJ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Rocio Durcal \- Duetos](https://open.spotify.com/album/4d0MyGYds1XCOUy2np0QuI) | 3:43 | 2022-01-01 | 2024-10-02 |
 | [Déjame Volver Contigo](https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 4:23 | 2022-08-31 |  |
 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:48 | 2022-01-01 |  |
+| [Dímelo](https://open.spotify.com/track/0VQuext7zAqPFZ7fpHUFBh) | [Juan Michel](https://open.spotify.com/artist/7Kr4THdJ1fHdoDcyDN9Yng) | [Las Mas Bellas Canciones de Juan Gabriel](https://open.spotify.com/album/4RSb8FnFRXrklJH7uAIvjk) | 4:51 | 2024-06-04 |  |
 | [Dímelo Delante de Ella](https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 2:36 | 2022-06-02 |  |
 | [Echame A Mi La Culpa](https://open.spotify.com/track/01LHmbTALqwnoGWT3gZPYH) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [My Spanish Album](https://open.spotify.com/album/3w9JGqLaRXdzH6QW6ETKAu) | 2:57 | 2022-01-01 |  |
 | [El Amar y el Querer](https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 3:54 | 2022-01-01 |  |
@@ -115,7 +116,7 @@
 | [El Gato Que Está Triste y Azul \- Un Gato Nel Blu](https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [El Arte De Roberto Carlos](https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC) | 3:52 | 2022-01-01 |  |
 | [El Hombre Que Yo Amo](https://open.spotify.com/track/4NmCycJdUGK0q5kBMXjDOY) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Yo Sé Que Te Acordarás Pop Latino \(Vol\. 2\)](https://open.spotify.com/album/49xdM2Df9KmzztftNI3t4v) | 3:32 | 2022-01-01 | 2022-07-29 |
 | [El Hombre Que Yo Amo](https://open.spotify.com/track/5OtonpNWhoAw9z3wRwM2TC) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Todo Lo Mio](https://open.spotify.com/album/1mNEGTs66AF3EPnXcFTOzb) | 3:33 | 2022-08-31 | 2023-12-10 |
-| [El Loco \(with Javier Solís\)](https://open.spotify.com/track/0CFTtVmYOGxriJj1NtPoTW) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Dos Idolos Cantando](https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy) | 2:52 | 2024-06-04 |  |
+| [El Loco \(with Javier Solís\)](https://open.spotify.com/track/0CFTtVmYOGxriJj1NtPoTW) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Dos Idolos Cantando](https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy) | 2:52 | 2024-06-04 | 2025-07-20 |
 | [El Me Mintio](https://open.spotify.com/track/67bbc4lUkhTtDrcu5gv1uN) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol I](https://open.spotify.com/album/1NKOp3Ct4RzmSGIApAKkS6) | 3:39 | 2022-01-01 | 2022-07-29 |
 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 | 2022-06-02 | 2024-05-07 |
 | [El Noa Noa](https://open.spotify.com/track/5CgG9QML3GDyMss6bAMjY1) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Los 15 Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/6bcTRuDsKIe58Z0aYIUyNi) | 4:19 | 2022-01-01 | 2022-07-29 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Belén Aguilera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,499 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,443 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dama en apuros](https://open.spotify.com/track/3cOuEfTWN9YKTQHrfQ30Hr) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Dama en apuros](https://open.spotify.com/album/2WUi48WuXHaHP2kmPzj0vG) | 2:20 |
-| 2 | [D’amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D’amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
+| 2 | [D'amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D'amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
 | 3 | [Me Levanté de la Cama](https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Me Levanté de la Cama](https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc) | 3:02 |
 | 4 | [Zumo de Manzana](https://open.spotify.com/track/5z7M3lkaVpDxiPTadkDtQ9) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [Zumo de Manzana](https://open.spotify.com/album/4pE7i42NAB53SdZMZg2TKI) | 3:02 |
 | 5 | [YUMMi ‹𝟹](https://open.spotify.com/track/6AAXDBDExlkCAdJAZiOCfL) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [YUMMi ‹𝟹](https://open.spotify.com/album/105S0cR3xG70Z9xb5c4kZ0) | 2:33 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 7 | [Milagro](https://open.spotify.com/track/0aAbSDDxn38nxfP9GuCodY) | [Monny Cardona](https://open.spotify.com/artist/1wji0qwVMjtdiDsYUdrrvu) | [Milagro](https://open.spotify.com/album/6Gncko5daSdJEUn5nkVXot) | 2:41 |
 | 8 | [La flor](https://open.spotify.com/track/3NVKTfHRh54yr5bGcCt5Z1) | [Minco](https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0) | [La flor](https://open.spotify.com/album/7AhQPybEfm0TDETnoYNHSY) | 2:57 |
 | 9 | [Algo sobre ti](https://open.spotify.com/track/6lUpx82NCHXJXVVVcjL3s5) | [Alan Troy](https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU) | [Algo sobre ti](https://open.spotify.com/album/12vLLxaafRgbJKD3M5FKRg) | 2:06 |
-| 10 | [El Amor Vuela \(feat\. Manuel Carrasco\)](https://open.spotify.com/track/5KaNFY843tNHHtDRZPHrAN) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [El Amor Vuela \(feat\. Manuel Carrasco\)](https://open.spotify.com/album/1ygQ33ZTDf01TMeNrSKe0N) | 4:08 |
+| 10 | [El Amor Vuela](https://open.spotify.com/track/5KaNFY843tNHHtDRZPHrAN) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [El Amor Vuela](https://open.spotify.com/album/1ygQ33ZTDf01TMeNrSKe0N) | 4:08 |
 | 11 | [Salir de la Ciudad](https://open.spotify.com/track/4yNZCw47a3WBAdMko6aj2E) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD) | [Salir de la Ciudad](https://open.spotify.com/album/4bPfXrELu8dwtdLTeZnFCc) | 2:44 |
 | 12 | [Hablamos Después](https://open.spotify.com/track/0tDFmbPwlKZWndRyNRgK8X) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [Hablamos Después](https://open.spotify.com/album/1mRctRnszaaePAcMvs7tI9) | 2:16 |
 | 13 | [el acuerdo](https://open.spotify.com/track/1dXr9HqhsO9tyMo5Zsllxu) | [Alanra](https://open.spotify.com/artist/1FOjkxoIJqxqgBSmu0n6ie) | [anda agusto el viejo](https://open.spotify.com/album/4cofvxNobNo7CVBMyfY09K) | 2:36 |

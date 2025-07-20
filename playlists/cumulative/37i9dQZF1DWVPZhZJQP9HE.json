@@ -2015,6 +2015,32 @@
     },
     {
       "album": {
+        "name": "Chi Pae Thu",
+        "url": "https://open.spotify.com/album/2p7kl2wvTau1yt2oLHii80"
+      },
+      "artists": [
+        {
+          "name": "Dharan Kumar",
+          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Vaaheesan Rasaiya",
+          "url": "https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222017,
+      "name": "Chi Pae Thu",
+      "url": "https://open.spotify.com/track/3xmDeQMq6cCD2ZJqdkM68u"
+    },
+    {
+      "album": {
         "name": "Chickana",
         "url": "https://open.spotify.com/album/4F9B7w1XZeINGaly1GhJ70"
       },
@@ -8874,7 +8900,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 214770,
       "name": "Nile Nadiye",
       "url": "https://open.spotify.com/track/5EM0SF9j9UmDPIWaJtrY3y"

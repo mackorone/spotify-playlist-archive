@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,817 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,834 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 48 | [Visões](https://open.spotify.com/track/6bBJHkIhYhQCARd5xqO8eO) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh) | [Visões](https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7) | 2:39 |
 | 49 | [Astro Rei](https://open.spotify.com/track/0d4LrgSfIQ6oLxMQbGhTme) | [Zapi](https://open.spotify.com/artist/3GabjOPnWsQikvKkBTp4Eu), [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Astro Rei](https://open.spotify.com/album/1IxiiZj9kjC1s5EHnwO3wr) | 2:57 |
 | 50 | [É Você](https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Mc Chagas](https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj), [Mc Rei Delas](https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i) | [É Você](https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa) | 3:17 |
-| 51 | [Vento Bom](https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [Mc Tekáda\-B](https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU) | [Vento Bom](https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l) | 2:49 |
+| 51 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 |
 | 52 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalu](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
-| 53 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 |
+| 53 | [Vento Bom](https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [Mc Tekáda\-B](https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU) | [Vento Bom](https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l) | 2:49 |
 | 54 | [Nossas Mídias](https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA) | [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6), [Simøn](https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA) | [Nossas Mídias](https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt) | 3:26 |
 | 55 | [Agradeço](https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Felipe Brasil](https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9) | [Agradeço](https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn) | 3:33 |
 | 56 | [Ir Embora](https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO) | [Taz Mureb](https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW), [Scarlet Ohana](https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3) | [Ir Embora](https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj) | 2:05 |

@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Gl\u00f3ria de Deus",
+        "url": "https://open.spotify.com/album/4xxnwl9YQtyFYzdBDJzxAQ"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348541,
+      "name": "Celeste Jerusal\u00e9m",
+      "url": "https://open.spotify.com/track/7gE27RUFCSgZS0wPdLQTsp"
+    },
+    {
+      "album": {
         "name": "Chagas De Amor",
         "url": "https://open.spotify.com/album/1ZFpI0Tk4cIdqBnEPfcMq1"
       },
@@ -3050,7 +3068,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 267428,
       "name": "O Primeiro a Ser Servido",
       "url": "https://open.spotify.com/track/3lhGqMkF0kFccKtjFYKFJ7"
@@ -3322,6 +3340,24 @@
       "duration_ms": 267058,
       "name": "Quando o Sono Bater",
       "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
+    },
+    {
+      "album": {
+        "name": "Camp Fire (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1H0PlzxpVh1DsiytUhMdYL"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381000,
+      "name": "Quarto Homem da Fornalha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5GL8X5opXMUWYlOIioMnUA"
     },
     {
       "album": {
@@ -3752,7 +3788,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 498457,
       "name": "Seja Forte e Corajoso - Ao Vivo",
       "url": "https://open.spotify.com/track/04i8glpUdpgqOa9PWDo4uM"

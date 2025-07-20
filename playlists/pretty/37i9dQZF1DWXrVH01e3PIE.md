@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Zell & Tiago PZK en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,083 likes - 111 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,053 likes - 111 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

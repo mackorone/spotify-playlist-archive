@@ -906,6 +906,24 @@
     {
       "album": {
         "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324373,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/30ZhfyAmOmF6GN2i5fpVen"
+    },
+    {
+      "album": {
+        "name": "Meliora",
         "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
       },
       "artists": [
@@ -916,7 +934,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 324373,
       "name": "Majesty",
       "url": "https://open.spotify.com/track/3Q53KFHVdDhSE4XGA3xmH8"
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 261573,
       "name": "Rats",
       "url": "https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp"
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 261573,
       "name": "Rats",
       "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"

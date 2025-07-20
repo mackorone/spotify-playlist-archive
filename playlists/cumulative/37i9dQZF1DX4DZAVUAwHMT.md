@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Nine Inch Nails
 
-1,027 songs - 2 day 9 hr 5 min
+1,028 songs - 2 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -763,6 +763,7 @@
 | [Scars](https://open.spotify.com/track/3NS2fGOYcpn4gBGiCHSIRN) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Scars](https://open.spotify.com/album/65VaYUp0OcM5me4nEsWet0) | 3:35 | 2024-04-25 | 2024-06-01 |
 | [Scissors](https://open.spotify.com/track/0jIXZaSMj34eUHgMJcWxvk) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Scissors](https://open.spotify.com/album/5JaPTF6lQBgfvhPb7zjYo2) | 4:39 | 2023-07-20 | 2023-08-25 |
 | [Scream from New York, NY](https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:29 | 2024-06-20 | 2024-08-09 |
+| [SCREWDRIVA](https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:02 | 2025-07-19 |  |
 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 | 2023-10-26 | 2024-01-12 |
 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 | 2023-03-08 | 2023-03-09 |
 | [Seeing It Now](https://open.spotify.com/track/0jX0xVN5IOeoOD2hPO4x2d) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [Seeing It Now](https://open.spotify.com/album/2ljAQsk9WhxdgcZrXwsIGT) | 3:18 | 2024-04-18 | 2024-06-21 |

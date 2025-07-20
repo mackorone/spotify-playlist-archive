@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Música sin etiquetas.<br/>📷 Lara91k
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,443 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,455 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [yolo](https://open.spotify.com/track/0oOo4j4cdoi0C7B5LuThc6) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [mvrk](https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0) | [yolo](https://open.spotify.com/album/6V0jRhF296KF9Dve1HPFRO) | 4:02 |
 | 2 | [Super](https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:43 |
-| 3 | [D’amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D’amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
+| 3 | [D'amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D'amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
 | 4 | [Jazmín Chino](https://open.spotify.com/track/36MQ25mKewo0S2fh2e3pUY) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El Retorno](https://open.spotify.com/album/6dj1mxj9H7fHfiM5WmGJAK) | 2:40 |
 | 5 | [TODO ROTO](https://open.spotify.com/track/2neEt3A8fA4Scfwo4jAw1J) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 3:07 |
 | 6 | [Vamos a Casarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 |

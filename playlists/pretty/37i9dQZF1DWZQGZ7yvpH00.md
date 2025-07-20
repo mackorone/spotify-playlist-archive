@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Ysrael Barajas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,837 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,004 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AMARTE DUELE](https://open.spotify.com/track/513pK1MrQqWnzD1ZeanQOT) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [AMARTE DUELE / Plática con Cupido / ALV Cupido](https://open.spotify.com/album/45qBWz1LmpbQ1ZaHdD3hRC) | 3:39 |
 | 2 | [Hablamos Después](https://open.spotify.com/track/0tDFmbPwlKZWndRyNRgK8X) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [Hablamos Después](https://open.spotify.com/album/1mRctRnszaaePAcMvs7tI9) | 2:16 |
-| 3 | [Ya No Vives En Mí](https://open.spotify.com/track/7fluVJ7xcbmbAtCJd9Lu8X) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Luis Sandoval](https://open.spotify.com/artist/29CZrQcy62hjQLwfp1oZl0) | [Ya No Vives En Mí](https://open.spotify.com/album/1o6RJvVIGUVYtmWE3qiUCP) | 4:05 |
+| 3 | [Ya No Vives En Mí](https://open.spotify.com/track/7fluVJ7xcbmbAtCJd9Lu8X) | [Angel Cervantes](https://open.spotify.com/artist/0qxDNZighUcPqxQzhIuqKS), [Luis Sandoval](https://open.spotify.com/artist/29CZrQcy62hjQLwfp1oZl0) | [Ya No Vives En Mí](https://open.spotify.com/album/1o6RJvVIGUVYtmWE3qiUCP) | 4:05 |
 | 4 | [Solo Una Noche](https://open.spotify.com/track/4nht361lsILrnafasoUU9i) | [Said Norzagaray](https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp) | [Solo Una Noche](https://open.spotify.com/album/2hnO1afcXwI6z5jLOOZZd4) | 2:49 |
 | 5 | [Dices](https://open.spotify.com/track/6sBivkZNkKaGVdtklSIvEV) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Dices](https://open.spotify.com/album/2C49ZwhEMeCkYJxiVsx12I) | 2:48 |
 | 6 | [Mujer De Piedra](https://open.spotify.com/track/0PoS4YxvlnJ5cjiDY23xbq) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Mujer De Piedra](https://open.spotify.com/album/1ZmARcKTx2aAdFHL8I8nDj) | 2:13 |

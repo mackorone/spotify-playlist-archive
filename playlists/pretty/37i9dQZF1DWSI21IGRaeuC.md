@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,564 likes - 115 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,620 likes - 115 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 2 | [Back At Ya](https://open.spotify.com/track/02evyVGKt4jjuBAlgHzag5) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Back At Ya](https://open.spotify.com/album/6aQho6eImpDXTxfC8zoVhI) | 3:54 |
 | 3 | [Versatile](https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e) | [Versatile](https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0) | 3:14 |
 | 4 | [Open Your Eyes](https://open.spotify.com/track/0Tk1bGsHNJWVgsw6nK3cIi) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Open Your Eyes](https://open.spotify.com/album/1S50W2WN9qp2nclzQuFaFE) | 4:19 |
-| 5 | [Don't You Want My Love](https://open.spotify.com/track/3hQ18r26uEFyUMjWL5OUiF) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Don't You Want My Love](https://open.spotify.com/album/7bHOgHyrQ7N7Os1uJWBVtP) | 3:52 |
+| 5 | [Don't You Want My Love](https://open.spotify.com/track/3hQ18r26uEFyUMjWL5OUiF) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Don't You Want My Love](https://open.spotify.com/album/7bHOgHyrQ7N7Os1uJWBVtP) | 4:18 |
 | 6 | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/album/7hRW5l0Tm5GCEpFHRYwxfT) | 2:50 |
 | 7 | [Subwave](https://open.spotify.com/track/4i8YMkRxCeClZtz3rnTlpv) | [Dan Fresco](https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB) | [Subwave EP](https://open.spotify.com/album/1EJtinVucStvzmokrBuzTJ) | 4:09 |
 | 8 | [Fixation](https://open.spotify.com/track/2gLdBNejY6h6WTIveyF3gz) | [Tommy Phillips](https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW) | [Fixation EP](https://open.spotify.com/album/7cyD6KMHKXrhOYLXZhkKUI) | 4:22 |

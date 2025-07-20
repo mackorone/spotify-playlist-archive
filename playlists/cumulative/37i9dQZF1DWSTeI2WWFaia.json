@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "The Emperor's New Clothes",
+        "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
+      },
+      "artists": [
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144201,
+      "name": "Bear Hill",
+      "url": "https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn"
+    },
+    {
+      "album": {
         "name": "Hip Hop 50: Vol. 1",
         "url": "https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm"
       },
@@ -6524,7 +6542,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 128780,
       "name": "grindstone",
       "url": "https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu"

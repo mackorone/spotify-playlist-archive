@@ -149,6 +149,32 @@
     },
     {
       "album": {
+        "name": "Alto Pre\u00e7o",
+        "url": "https://open.spotify.com/album/5ZbZZmG0c1OhpD4vyGpam8"
+      },
+      "artists": [
+        {
+          "name": "Dois Irm\u00e3os",
+          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189375,
+      "name": "Alto Pre\u00e7o",
+      "url": "https://open.spotify.com/track/6ygbezTFylWUnp52YjceFO"
+    },
+    {
+      "album": {
         "name": "Alvo",
         "url": "https://open.spotify.com/album/4IHa4QvURqyaLTBidFdwLg"
       },
@@ -632,7 +658,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 200476,
       "name": "Dias de Ver\u00e3o",
       "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
@@ -2176,7 +2202,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 242990,
       "name": "Onde Eu Quero Habitar",
       "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
@@ -3516,6 +3542,28 @@
       "duration_ms": 258750,
       "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea (feat. Marcelo Markes)",
       "url": "https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj"
+    },
+    {
+      "album": {
+        "name": "YOU ARE GOOD",
+        "url": "https://open.spotify.com/album/4N7YMZlUlS4Mx4UAqKRUEJ"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "YOU ARE GOOD",
+      "url": "https://open.spotify.com/track/2K8WQYyYQgCkMn68iK5yiz"
     },
     {
       "album": {

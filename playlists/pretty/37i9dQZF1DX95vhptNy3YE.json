@@ -1,6 +1,6 @@
 {
   "description": "Ebony e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 371343,
+  "num_followers": 371320,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,26 @@
     {
       "added_at": "2025-07-11 21:17:54",
       "album": {
+        "name": "Raiva Nas Outras (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4zB4hs0HFEERIpJtpci1Jx"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        }
+      ],
+      "duration_ms": 207630,
+      "name": "Raiva Nas Outras - Ao Vivo",
+      "url": "https://open.spotify.com/track/4oViBNwGJqPvBu9XT3u7DM"
+    },
+    {
+      "added_at": "2025-07-11 21:17:54",
+      "album": {
         "name": "Boca Louca (Ao Vivo Em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/1cv1uAqQ791LCIihmNtgTF"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 240493,
       "name": "Boca Louca - Ao Vivo Em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/1rVwEMWJl0BUiYZW8oR5r4"
-    },
-    {
-      "added_at": "2025-07-11 21:17:54",
-      "album": {
-        "name": "Em Qualquer Cama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn"
-      },
-      "artists": [
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 170562,
-      "name": "Em Qualquer Cama - Ao Vivo",
-      "url": "https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk"
     },
     {
       "added_at": "2025-07-11 21:17:54",
@@ -823,26 +823,6 @@
     {
       "added_at": "2025-07-11 21:17:54",
       "album": {
-        "name": "Raiva Nas Outras (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4zB4hs0HFEERIpJtpci1Jx"
-      },
-      "artists": [
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        }
-      ],
-      "duration_ms": 207630,
-      "name": "Raiva Nas Outras - Ao Vivo",
-      "url": "https://open.spotify.com/track/4oViBNwGJqPvBu9XT3u7DM"
-    },
-    {
-      "added_at": "2025-07-11 21:17:54",
-      "album": {
         "name": "Boaventura & Kyan On The Radar Freestyle",
         "url": "https://open.spotify.com/album/37BN6HvaiWea7Ex1sDLLrn"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 147692,
       "name": "Boaventura & Kyan On The Radar Freestyle",
       "url": "https://open.spotify.com/track/0eQ8TcNmu8Tk33lKkJLOlG"
+    },
+    {
+      "added_at": "2025-07-11 21:17:54",
+      "album": {
+        "name": "Em Qualquer Cama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Em Qualquer Cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk"
     },
     {
       "added_at": "2025-07-11 21:17:54",

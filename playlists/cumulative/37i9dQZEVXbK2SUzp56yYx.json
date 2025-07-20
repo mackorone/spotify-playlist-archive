@@ -5686,7 +5686,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 142080,
       "name": "Eva (Kavkaz remix)",
       "url": "https://open.spotify.com/track/71qalyQy27kGUqX84aBipO"
@@ -8631,6 +8631,24 @@
     },
     {
       "album": {
+        "name": "Erika (Essential Tunes)",
+        "url": "https://open.spotify.com/album/5t0M5IUCcpE96by5cOVJZ1"
+      },
+      "artists": [
+        {
+          "name": "Erika",
+          "url": "https://open.spotify.com/artist/5N9lpSK39RSCDkLxPNH4KC"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199302,
+      "name": "I Don't Know - Radio Mix",
+      "url": "https://open.spotify.com/track/7iwPGVfoiedHFNHvpxTznL"
+    },
+    {
+      "album": {
         "name": "Life Is Killing Me",
         "url": "https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC"
       },
@@ -11096,10 +11114,28 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 186240,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+    },
+    {
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/7yGhkXjHJP3XeGVnUJGcNs"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/4ar5kJ4FvZk1GmVI5LgP1G"
     },
     {
       "album": {
@@ -13480,7 +13516,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -14564,7 +14600,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 220336,
       "name": "Pitbull Terrier",
       "url": "https://open.spotify.com/track/4Zl4u5XQLxs9FQCSR040eJ"
@@ -18434,7 +18470,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-17",
+      "date_removed": null,
       "duration_ms": 201230,
       "name": "Tipo Nino Vs Kabrinha",
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
@@ -19924,7 +19960,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 83853,
       "name": "web 2.0",
       "url": "https://open.spotify.com/track/054SsgF3L2k5ZeTvbw9PaB"
@@ -21548,7 +21584,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 199972,
       "name": "\u0431\u0435\u0437 \u0442\u0435\u0431\u044f",
       "url": "https://open.spotify.com/track/2d2C4YGXudzgQvZwdVH3SI"
@@ -22208,7 +22244,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 168409,
       "name": "\u0411\u0440\u043e\u0441\u044c \u0440\u0430\u0431\u043e\u0442\u0443",
       "url": "https://open.spotify.com/track/0R2BN9PU0Z9rgLzhhbeQzF"
@@ -28962,7 +28998,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 102923,
       "name": "\u041f\u0410\u041f\u0410",
       "url": "https://open.spotify.com/track/5b6awK2tOZ6thRJIkE9Pbh"
@@ -30610,7 +30646,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 81841,
       "name": "\u0441\u0432\u0430\u043b\u043a\u0430",
       "url": "https://open.spotify.com/track/2VI52uRA66qCoyCZ8cWG27"

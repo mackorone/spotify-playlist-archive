@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 1681,
+  "num_followers": 1685,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Las 4 Estaciones, vol. 11",
-        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 50651,
-      "name": "Osos de Paseo",
-      "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Un Mundo De Canciones",
         "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 103613,
       "name": "El Zapatero",
       "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Las 4 Estaciones, vol. 11",
+        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 50651,
+      "name": "Osos de Paseo",
+      "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -839,22 +839,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "\u00a1Fantastico!",
-        "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
-      },
-      "artists": [
-        {
-          "name": "Lucky Diaz and the Family Jam Band",
-          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Los Numeros",
-      "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Vacaciones tope guay",
         "url": "https://open.spotify.com/album/0Y2c1pfdLGtl1u4d32G7pf"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "La fiesta de cumplea\u00f1os",
-        "url": "https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a"
+        "name": "\u00a1Fantastico!",
+        "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
       },
       "artists": [
         {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
         }
       ],
-      "duration_ms": 97044,
-      "name": "Cocinar",
-      "url": "https://open.spotify.com/track/3dwP741BSojLKWENmU5hHb"
+      "duration_ms": 179026,
+      "name": "Los Numeros",
+      "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -899,6 +883,22 @@
       "duration_ms": 129493,
       "name": "El Sapo Pepe Y La Rana Juana",
       "url": "https://open.spotify.com/track/4zSxmtADvuhuFuEalREYgE"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "La fiesta de cumplea\u00f1os",
+        "url": "https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 97044,
+      "name": "Cocinar",
+      "url": "https://open.spotify.com/track/3dwP741BSojLKWENmU5hHb"
     },
     {
       "added_at": "2020-04-27 15:43:16",

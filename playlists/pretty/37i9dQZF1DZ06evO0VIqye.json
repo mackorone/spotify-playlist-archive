@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 60217,
+  "num_followers": 60222,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHg9AAAAAACvDh6LgQxTxjr1byCwwG91",
+  "snapshot_id": "aHmOgAAAAABu4onbYB4G/ZXu3Baz8KiV",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Fake Friends",
-      "url": "https://open.spotify.com/track/5kvMLw3iuA2dHH7FLFDgsM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
         "url": "https://open.spotify.com/album/6B90EJpSGFOJeTvAq8KWiA"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 302760,
       "name": "Season of the Witch - From the Netflix Series The Sons of Sam: A Descent Into Darkness",
       "url": "https://open.spotify.com/track/6beSKm10DXDnYtOYnJ8dSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/5kvMLw3iuA2dHH7FLFDgsM"
     },
     {
       "added_at": null,

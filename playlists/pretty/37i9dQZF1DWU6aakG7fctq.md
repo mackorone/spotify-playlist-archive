@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Niko Rubio
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,576 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,532 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 2 | [Lento](https://open.spotify.com/track/6H7tS5QBrDzU1H79g10J1y) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Música Para Abrir El Cielo](https://open.spotify.com/album/373sjPmbcfb0MBTscza6S2) | 3:32 |
 | 3 | [Miraverahí](https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Se Amaba Así](https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK) | 3:14 |
 | 4 | [Tu Fantasma](https://open.spotify.com/track/3RdxaQyDTWu6QmDakA7uTd) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Tu Fantasma](https://open.spotify.com/album/0cFzIQagqP392WScfEooRw) | 3:11 |
-| 5 | [El Amor Vuela \(feat\. Manuel Carrasco\)](https://open.spotify.com/track/5KaNFY843tNHHtDRZPHrAN) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [El Amor Vuela \(feat\. Manuel Carrasco\)](https://open.spotify.com/album/1ygQ33ZTDf01TMeNrSKe0N) | 4:08 |
+| 5 | [El Amor Vuela](https://open.spotify.com/track/5KaNFY843tNHHtDRZPHrAN) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [El Amor Vuela](https://open.spotify.com/album/1ygQ33ZTDf01TMeNrSKe0N) | 4:08 |
 | 6 | [Así me va](https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Así me va](https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj) | 2:35 |
 | 7 | [Espina De Rosas](https://open.spotify.com/track/4RyIoIeXZXvu7nwc4nEWxM) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Dave Hurtts](https://open.spotify.com/artist/2jtOpRamEvaZuoOPfcZYXK) | [Espina De Rosas](https://open.spotify.com/album/2NQoTjRdoLR7juZQHH5Iyr) | 3:53 |
 | 8 | [chica de cristal](https://open.spotify.com/track/2JHx88v5T0EU3CGRLyZxZb) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [chica de cristal](https://open.spotify.com/album/0Syqn4KONR5xOyvgVFEMsp) | 3:18 |

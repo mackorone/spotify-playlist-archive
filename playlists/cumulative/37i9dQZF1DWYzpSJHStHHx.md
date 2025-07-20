@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 | 2023-07-13 | 2025-05-23 |
+| [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 | 2023-07-13 |  |
 | [...Anyway](https://open.spotify.com/track/2QDB4p1vU4bMm2PQ1p6lWu) | [Ben Cook](https://open.spotify.com/artist/0oRMmFyViP7UxWZrEcJUYV) | [Bread For Your Broth](https://open.spotify.com/album/3GPwhfmSZSFyZhMTRxYDak) | 3:06 | 2023-07-13 | 2023-07-29 |
 | [809](https://open.spotify.com/track/131EOtvTL1sy5OA8L9pr75) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [We Come In Pieces](https://open.spotify.com/album/5LE4OPOtsxFB5jvXSCf2Yn) | 3:14 | 2021-08-27 | 2022-04-20 |
 | [A.M.](https://open.spotify.com/track/2Y33MDjGDSZt2OLzkS6ZkG) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Hoodratscumbags](https://open.spotify.com/album/4eCYIBxNXxhdB8it5ZHpNo) | 4:03 | 2023-08-18 | 2024-04-19 |
@@ -213,7 +213,7 @@
 | [Natasha Lyonne](https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm) | [Fast Color](https://open.spotify.com/artist/4huERTmJQbJVtA0A8dmY7J) | [Freaks Feel Like Divas](https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn) | 2:30 | 2023-07-13 |  |
 | [Never Going Home](https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C) | 3:56 | 2025-02-07 | 2025-03-08 |
 | [Never Going Home](https://open.spotify.com/track/4iq4RFWmQc3zFgBgyrpahF) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/4tKnS9Q0lgN3i7SmXi4mGI) | 3:56 | 2021-02-05 | 2022-07-13 |
-| [No Worries](https://open.spotify.com/track/2AhPep6xcLbpqLwo4c0P6q) | [Unifya](https://open.spotify.com/artist/0oC2lJahrrjwTYF8DaI4HK) | [No Worries](https://open.spotify.com/album/1kkcMkmzB9DgT3ltUulZFh) | 3:41 | 2023-07-13 |  |
+| [No Worries](https://open.spotify.com/track/2AhPep6xcLbpqLwo4c0P6q) | [Unifya](https://open.spotify.com/artist/0oC2lJahrrjwTYF8DaI4HK) | [No Worries](https://open.spotify.com/album/1kkcMkmzB9DgT3ltUulZFh) | 3:41 | 2023-07-13 | 2025-07-20 |
 | [NOBO](https://open.spotify.com/track/1d150ahPbFUS7Cbe5hcJdn) | [Tijuana Panthers](https://open.spotify.com/artist/5XGoUe0WjmbOtppHlB7Taf) | [Wayne Interest](https://open.spotify.com/album/2v2fKCE9DMHnkg6dQqcaZl) | 4:07 | 2021-02-05 | 2022-04-21 |
 | [Not but for You, Bunny](https://open.spotify.com/track/2J2kGyvyVyOKEJgBCPE1oO) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg) | 4:02 | 2021-02-05 | 2022-07-29 |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2023-03-01 | 2023-07-14 |

@@ -1253,6 +1253,32 @@
     },
     {
       "album": {
+        "name": "Moment With You (feat. Nova Tropics)",
+        "url": "https://open.spotify.com/album/5hWZZhkZJoBQ63d99QKhCS"
+      },
+      "artists": [
+        {
+          "name": "BnO",
+          "url": "https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP"
+        },
+        {
+          "name": "Lulleaux",
+          "url": "https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh"
+        },
+        {
+          "name": "Nova Tropics",
+          "url": "https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Moment With You",
+      "url": "https://open.spotify.com/track/3hQHlu4SSbB37hrHAM2e83"
+    },
+    {
+      "album": {
         "name": "More Than You (Orchestra Version)",
         "url": "https://open.spotify.com/album/14V8LieonDK5IiEvKu6XCY"
       },

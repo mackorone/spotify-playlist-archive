@@ -1,28 +1,32 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 13137,
+  "num_followers": 13148,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHg9AAAAAAAxloYxVANkli8O7VP0FPnx",
+  "snapshot_id": "aHmOgAAAAACkJUaxIoebohxa56gY3R5m",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
+        "name": "Glory II (with Fridayy)",
+        "url": "https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 158690,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
+      "duration_ms": 175690,
+      "name": "Glory II (with Fridayy)",
+      "url": "https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg"
     },
     {
       "added_at": null,
@@ -91,6 +95,22 @@
       "duration_ms": 190819,
       "name": "Cough Syrup",
       "url": "https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 158690,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
     },
     {
       "added_at": null,
@@ -315,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4ua1W0cz4hQfh3VGQdeDAu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "$exy Girl $ummer (Vol.1)",
         "url": "https://open.spotify.com/album/68q09r65wcBidNleimVoLk"
       },
@@ -347,6 +351,22 @@
       "duration_ms": 168979,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/1WZI9KoHg61cChCLEGi2Gn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4ua1W0cz4hQfh3VGQdeDAu"
     },
     {
       "added_at": null,
@@ -747,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deadly (feat. Victony)",
-        "url": "https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL"
-      },
-      "artists": [
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 181979,
-      "name": "Deadly (feat. Victony)",
-      "url": "https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hypertension",
         "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
       },
@@ -783,6 +783,26 @@
       "duration_ms": 168504,
       "name": "No Other",
       "url": "https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deadly (feat. Victony)",
+        "url": "https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 181979,
+      "name": "Deadly (feat. Victony)",
+      "url": "https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf"
     },
     {
       "added_at": null,
@@ -971,30 +991,6 @@
       "duration_ms": 162474,
       "name": "No Joke",
       "url": "https://open.spotify.com/track/7v6BxItknmx4IokrfzamfR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Girl (feat. Wande Coal & Victony)",
-        "url": "https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 204232,
-      "name": "Bad Girl (feat. Wande Coal & Victony)",
-      "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
     }
   ],
   "unique_name": "This Is Victony",

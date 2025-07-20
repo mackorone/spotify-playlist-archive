@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 90526,
+  "num_followers": 90550,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "God's Gonna Cut You Down",
-        "url": "https://open.spotify.com/album/2vQG7LRc8QrNS57X5LhSYt"
-      },
-      "artists": [
-        {
-          "name": "The Native Howl",
-          "url": "https://open.spotify.com/artist/4mPuqkxTxwhEhYhpjKzvM4"
-        }
-      ],
-      "duration_ms": 210715,
-      "name": "God's Gonna Cut You Down",
-      "url": "https://open.spotify.com/track/40wrxy7MzdqNGbvHhRzzdb"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
         "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 233250,
       "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
       "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "God's Gonna Cut You Down",
+        "url": "https://open.spotify.com/album/2vQG7LRc8QrNS57X5LhSYt"
+      },
+      "artists": [
+        {
+          "name": "The Native Howl",
+          "url": "https://open.spotify.com/artist/4mPuqkxTxwhEhYhpjKzvM4"
+        }
+      ],
+      "duration_ms": 210715,
+      "name": "God's Gonna Cut You Down",
+      "url": "https://open.spotify.com/track/40wrxy7MzdqNGbvHhRzzdb"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Summer Skin",
-        "url": "https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2"
-      },
-      "artists": [
-        {
-          "name": "Bones Owens",
-          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "Goin' Back Where I Came From",
-      "url": "https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Heartless Year",
         "url": "https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 235519,
       "name": "Heartless Year",
       "url": "https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Summer Skin",
+        "url": "https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2"
+      },
+      "artists": [
+        {
+          "name": "Bones Owens",
+          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "Goin' Back Where I Came From",
+      "url": "https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
+        "name": "Change Of Heart",
+        "url": "https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 243586,
+      "name": "Change Of Heart",
+      "url": "https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
         "name": "Natchez",
         "url": "https://open.spotify.com/album/7cuM4fOrG1nbdsGggB4Zq4"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 187867,
       "name": "First High",
       "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
-        "name": "Change Of Heart",
-        "url": "https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 243586,
-      "name": "Change Of Heart",
-      "url": "https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW"
     }
   ],
   "unique_name": "Southern Comfort",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Jombriel, Maisak, Kénsel Tell Them & Jøtta
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,814 likes - 170 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,817 likes - 170 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 9 | [Apollo](https://open.spotify.com/track/5zhKQXm4DwC3hwqRaG90uT) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Apollo](https://open.spotify.com/album/1D5nEbve1oBrIk8SMshLNo) | 2:32 |
 | 10 | [TUMBAO](https://open.spotify.com/track/5xKs7Penljlm4sfBeWe3NI) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [TUMBAO](https://open.spotify.com/album/2kjDXHbE7ztU2okqWtWQ7c) | 2:46 |
 | 11 | [GATITA SEPHORA](https://open.spotify.com/track/3RWRImPPKeuBeO8ovkQA7W) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [GATITA SEPHORA](https://open.spotify.com/album/34MmK8rSmHUGk26m3nfA3t) | 2:44 |
-| 12 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 |
+| 12 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 |
 | 13 | [POWER](https://open.spotify.com/track/1gNJLNT3AhQS9oFUVNM8d0) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [POWER](https://open.spotify.com/album/1ndqyd0VW38leZ7XMoIH66) | 2:46 |
 | 14 | [Filmemos Una Peli](https://open.spotify.com/track/6KnFis52cOM20q8R6pdRtz) | [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB) | [Filmemos Una Peli](https://open.spotify.com/album/22Nv7vE6YOlyl1pZxsGlTM) | 2:17 |
 | 15 | [Diabla](https://open.spotify.com/track/04VzWruL4xtanaEFgpgaDA) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [LAKELLY](https://open.spotify.com/artist/4jg7aE94hJ1qY93unfcyA5), [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G) | [Diabla](https://open.spotify.com/album/68gtQW3RL7b4xLTaWBzsig) | 4:03 |

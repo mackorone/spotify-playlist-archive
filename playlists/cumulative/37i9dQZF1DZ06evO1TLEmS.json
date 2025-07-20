@@ -533,6 +533,28 @@
     },
     {
       "album": {
+        "name": "First Class to Nowhere",
+        "url": "https://open.spotify.com/album/5KORmq9soICEzIjR7IME7c"
+      },
+      "artists": [
+        {
+          "name": "The Technicolors",
+          "url": "https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "First Class to Nowhere",
+      "url": "https://open.spotify.com/track/6I4U6o4pGEMVCZosWFU6GY"
+    },
+    {
+      "album": {
         "name": "Ups & Downs",
         "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
       },

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-752 songs - 2 day 9 hr 32 min
+753 songs - 2 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [End Of The Beginning](https://open.spotify.com/track/2IJigwZlLAeBa16rlYrD1x) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [End Of The Beginning](https://open.spotify.com/album/4O46V5aJRyrYiINs18RI78) | 3:40 | 2023-12-15 | 2024-04-23 |
 | [Endless Night](https://open.spotify.com/track/4HAjaDnlER0y8ievujne9P) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Mia Mendi](https://open.spotify.com/artist/7ccAq24esXIKcy6coCLiio), [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [In My Head](https://open.spotify.com/album/31BvViYa9rtNukhDqdCQdP) | 3:59 | 2025-01-16 | 2025-02-14 |
 | [Energy Of Life](https://open.spotify.com/track/4TvWgymXM4iswW8NCwZZSh) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO) | [Energy Of Life](https://open.spotify.com/album/2Ad0p8tuq3cLBqRxKC7yoy) | 3:20 | 2023-06-02 | 2023-06-10 |
+| [Enough](https://open.spotify.com/track/6CCMEOmpBDtetTzmP8if9o) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Enough](https://open.spotify.com/album/6vT0TayGsjWbeBu8mS7yQV) | 3:15 | 2025-07-18 |  |
 | [Enter Machina \- widerberg Remix](https://open.spotify.com/track/3z6VgWenqNydesiIAUzt1Z) | [Mia Mendi](https://open.spotify.com/artist/7ccAq24esXIKcy6coCLiio), [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Enter Machina \(widerberg Remix\)](https://open.spotify.com/album/5VNwexObDwBDLd0SbJG2vk) | 3:18 | 2024-02-29 | 2024-05-24 |
 | [Equal](https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 5:19 | 2023-03-03 | 2023-03-22 |
 | [ESCAPE PLAN](https://open.spotify.com/track/3DYNi7eWOzNfHtbnw9BJLh) | [Mia Mendi](https://open.spotify.com/artist/7ccAq24esXIKcy6coCLiio), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [ESCAPE PLAN](https://open.spotify.com/album/2uo1wyOhMJclsWYTr9Qwr2) | 6:22 | 2024-05-08 | 2024-09-06 |
@@ -550,7 +551,7 @@
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2022-12-28 | 2023-01-06 |
 | [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-04 | 2024-01-06 |
 | [Rohrdommel](https://open.spotify.com/track/5dp3GmE5fxaVpU1Txh7CrE) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Rohrdommel](https://open.spotify.com/album/2gLaWHcazbQZl5CGvx4Djd) | 7:19 | 2025-07-18 |  |
-| [Rondo](https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Rondo](https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD) | 2:26 | 2024-04-04 |  |
+| [Rondo](https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Rondo](https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD) | 2:26 | 2024-04-04 | 2025-07-20 |
 | [Run](https://open.spotify.com/track/4bZh8RQpNQCJs5A7WvVC69) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Run](https://open.spotify.com/album/0zJtwrOgT3IqXpYAOFX71i) | 4:05 | 2024-11-28 | 2025-03-28 |
 | [Run & Hide \- Ae:ther Remix](https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Run & Hide \(Ae:ther Remix\)](https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS) | 7:02 | 2022-12-02 | 2023-02-04 |
 | [Running](https://open.spotify.com/track/1UK6MLsIj7Ioj0BlXl2T8f) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [By My Side](https://open.spotify.com/album/0qpTdZu8Wd1kTdHzYfk5cK) | 6:46 | 2024-02-01 | 2024-03-23 |

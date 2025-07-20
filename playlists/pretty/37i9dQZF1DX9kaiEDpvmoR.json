@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93525,
+  "num_followers": 93522,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
         "name": "Blommor",
         "url": "https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L"
       },
@@ -575,58 +591,6 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
-        "name": "Graven vid Gullmars",
-        "url": "https://open.spotify.com/album/61o6zXe3il75qvCm39Y1o1"
-      },
-      "artists": [
-        {
-          "name": "Mira Ray",
-          "url": "https://open.spotify.com/artist/1CqqL8tzrLhMjrZcFTItul"
-        },
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 299098,
-      "name": "Graven vid Gullmars",
-      "url": "https://open.spotify.com/track/3ehrThyttZSbERKzCbOGKv"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
         "name": "L\u00e5ngholmsgatan 2",
         "url": "https://open.spotify.com/album/6i7vOaZpfoy0qyYCocPAJM"
       },
@@ -647,6 +611,22 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
         "name": "Henrys gitarr",
         "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 173447,
       "name": "Henrys gitarr",
       "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
+        "name": "Graven vid Gullmars",
+        "url": "https://open.spotify.com/album/61o6zXe3il75qvCm39Y1o1"
+      },
+      "artists": [
+        {
+          "name": "Mira Ray",
+          "url": "https://open.spotify.com/artist/1CqqL8tzrLhMjrZcFTItul"
+        },
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 299098,
+      "name": "Graven vid Gullmars",
+      "url": "https://open.spotify.com/track/3ehrThyttZSbERKzCbOGKv"
     },
     {
       "added_at": "2025-07-17 22:00:30",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
-        "name": "Happier Now",
-        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
-      },
-      "artists": [
-        {
-          "name": "Erik Segerstedt",
-          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Happier Now",
-      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
         "name": "Bastard",
         "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 200053,
       "name": "Lilla livet",
       "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
+      },
+      "artists": [
+        {
+          "name": "Erik Segerstedt",
+          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Happier Now",
+      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
     },
     {
       "added_at": "2025-07-17 22:00:30",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
-        "name": "N\u00f6d och lust",
-        "url": "https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP"
-      },
-      "artists": [
-        {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
-        }
-      ],
-      "duration_ms": 171940,
-      "name": "N\u00f6d och lust",
-      "url": "https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
         "name": "F\u00f6rloraren",
         "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 185333,
       "name": "F\u00f6rloraren",
       "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
+        "name": "N\u00f6d och lust",
+        "url": "https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 171940,
+      "name": "N\u00f6d och lust",
+      "url": "https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d"
     },
     {
       "added_at": "2025-07-17 22:00:30",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
-        "name": "Sign on the Window",
-        "url": "https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx"
-      },
-      "artists": [
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Sign on the Window",
-      "url": "https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
         "name": "M\u00e5nen",
         "url": "https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 159329,
       "name": "M\u00e5nen",
       "url": "https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
+        "name": "Sign on the Window",
+        "url": "https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Sign on the Window",
+      "url": "https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX"
     },
     {
       "added_at": "2025-07-17 22:00:30",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
-        "name": "ICONIC",
-        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
-      },
-      "artists": [
-        {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "ICONIC",
-      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
         "name": "Jag dansade en sommar",
         "url": "https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
         "name": "L\u00e5nat",
         "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
       },
@@ -935,26 +935,6 @@
       "duration_ms": 257000,
       "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
       "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
-        "name": "Two Of Us",
-        "url": "https://open.spotify.com/album/0ED0rbxhIywSk2WP7Ym1OB"
-      },
-      "artists": [
-        {
-          "name": "Ola Salo",
-          "url": "https://open.spotify.com/artist/3IfjzLJe109UiT5EXAhjV1"
-        },
-        {
-          "name": "Peter J\u00f6back",
-          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
-        }
-      ],
-      "duration_ms": 205081,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/41l5xoVxJt7gibWtntsnz4"
     },
     {
       "added_at": "2025-07-17 22:00:30",
@@ -991,6 +971,26 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
+        "name": "Two Of Us",
+        "url": "https://open.spotify.com/album/0ED0rbxhIywSk2WP7Ym1OB"
+      },
+      "artists": [
+        {
+          "name": "Ola Salo",
+          "url": "https://open.spotify.com/artist/3IfjzLJe109UiT5EXAhjV1"
+        },
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        }
+      ],
+      "duration_ms": 205081,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/41l5xoVxJt7gibWtntsnz4"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
         "name": "EN D\u00d6ENDE PLANET",
         "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
       },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
+        "name": "Nothing\u2019s Gonna Change My Love for You",
+        "url": "https://open.spotify.com/album/6pkhd1iaxoTvOPAVqwNSgN"
+      },
+      "artists": [
+        {
+          "name": "Dad Harmony",
+          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
+        }
+      ],
+      "duration_ms": 210844,
+      "name": "Nothing's Gonna Change My Love For You",
+      "url": "https://open.spotify.com/track/0nSid5s9n10MPfIwOkcef6"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
         "name": "Maja H\u00f6nstjuv",
         "url": "https://open.spotify.com/album/12gQc5Gu8LolcsQzFvc7Sd"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 204560,
       "name": "Maja H\u00f6nstjuv",
       "url": "https://open.spotify.com/track/7pntr5gKTnl51C3NV1fPBG"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
-        "name": "Nothing\u2019s Gonna Change My Love for You",
-        "url": "https://open.spotify.com/album/6pkhd1iaxoTvOPAVqwNSgN"
-      },
-      "artists": [
-        {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
-        }
-      ],
-      "duration_ms": 210844,
-      "name": "Nothing's Gonna Change My Love For You",
-      "url": "https://open.spotify.com/track/0nSid5s9n10MPfIwOkcef6"
     },
     {
       "added_at": "2025-07-17 22:00:30",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
-        "name": "Dance Cry Laugh Smile",
-        "url": "https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD"
-      },
-      "artists": [
-        {
-          "name": "John Lundvik",
-          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
-        }
-      ],
-      "duration_ms": 162937,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
         "name": "Lake Geneva",
         "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 221560,
       "name": "Lake Geneva",
       "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
+        "name": "Dance Cry Laugh Smile",
+        "url": "https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD"
+      },
+      "artists": [
+        {
+          "name": "John Lundvik",
+          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+        }
+      ],
+      "duration_ms": 162937,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9"
     },
     {
       "added_at": "2025-07-17 22:00:30",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
-        "name": "Alphabet City Songs (Lost and Found Album)",
-        "url": "https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw"
-      },
-      "artists": [
-        {
-          "name": "Eva Dahlgren",
-          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
-        }
-      ],
-      "duration_ms": 235705,
-      "name": "East River Park Song",
-      "url": "https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
         "name": "Men bara om min \u00e4lskade v\u00e4ntar",
         "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
-        "name": "What I'm Running From",
-        "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
+        "name": "Alphabet City Songs (Lost and Found Album)",
+        "url": "https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw"
       },
       "artists": [
         {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
         }
       ],
-      "duration_ms": 227654,
-      "name": "What I'm Running From",
-      "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
+      "duration_ms": 235705,
+      "name": "East River Park Song",
+      "url": "https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR"
     },
     {
       "added_at": "2025-07-17 22:00:30",
@@ -1303,6 +1287,22 @@
       "duration_ms": 354600,
       "name": "Silverregn",
       "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
+        "name": "What I'm Running From",
+        "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "duration_ms": 227654,
+      "name": "What I'm Running From",
+      "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
     },
     {
       "added_at": "2025-07-17 22:00:30",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
+        "name": "Uteblivna vi",
+        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 362920,
+      "name": "Uteblivna vi",
+      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
+    },
+    {
+      "added_at": "2025-07-17 22:00:30",
+      "album": {
         "name": "Caught Me On A Bad Day",
         "url": "https://open.spotify.com/album/5Dvb9sLbETzUR3EhbSuqbo"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
-        "name": "Hate To Love",
-        "url": "https://open.spotify.com/album/5AXLTxMpHICBifTJXDESzS"
-      },
-      "artists": [
-        {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Hate To Love",
-      "url": "https://open.spotify.com/track/0FQrZ9z8qTnG6teIZhb3EY"
-    },
-    {
-      "added_at": "2025-07-17 22:00:30",
-      "album": {
         "name": "\u00c4rligt misstag",
         "url": "https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU"
       },
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2025-07-17 22:00:30",
       "album": {
-        "name": "Uteblivna vi",
-        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
+        "name": "Hate To Love",
+        "url": "https://open.spotify.com/album/5AXLTxMpHICBifTJXDESzS"
       },
       "artists": [
         {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
         }
       ],
-      "duration_ms": 362920,
-      "name": "Uteblivna vi",
-      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
+      "duration_ms": 185400,
+      "name": "Hate To Love",
+      "url": "https://open.spotify.com/track/0FQrZ9z8qTnG6teIZhb3EY"
     },
     {
       "added_at": "2025-07-17 22:00:30",

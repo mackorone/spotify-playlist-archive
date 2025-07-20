@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: LISA",
-  "num_followers": 468688,
+  "num_followers": 468721,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-07-03 18:29:09",
       "album": {
-        "name": "BOY CRAZY. (ONLY FIRE SMASH REMIX.)",
-        "url": "https://open.spotify.com/album/3koj3KGSIVs7dLLT4xkKsy"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        },
-        {
-          "name": "Only Fire",
-          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
-        }
-      ],
-      "duration_ms": 182409,
-      "name": "BOY CRAZY. - ONLY FIRE SMASH REMIX.",
-      "url": "https://open.spotify.com/track/69GHGPPXgnWz9fMAFewvBA"
-    },
-    {
-      "added_at": "2025-07-03 18:29:09",
-      "album": {
         "name": "JOY (Back on 74)",
         "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 271395,
       "name": "JOY (Back On 74)",
       "url": "https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82"
+    },
+    {
+      "added_at": "2025-07-03 18:29:09",
+      "album": {
+        "name": "BOY CRAZY. (ONLY FIRE SMASH REMIX.)",
+        "url": "https://open.spotify.com/album/3koj3KGSIVs7dLLT4xkKsy"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "Only Fire",
+          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
+        }
+      ],
+      "duration_ms": 182409,
+      "name": "BOY CRAZY. - ONLY FIRE SMASH REMIX.",
+      "url": "https://open.spotify.com/track/69GHGPPXgnWz9fMAFewvBA"
     },
     {
       "added_at": "2025-07-03 18:29:09",

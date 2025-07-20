@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,239,980 likes - 101 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,088 likes - 101 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 5 | [No Blickout](https://open.spotify.com/track/5LmBBrrMx2fN9AvCFUhHTh) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [No Blickout](https://open.spotify.com/album/0bxnmZ0IJqRGiBPqjdWGUT) | 2:40 |
 | 6 | [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 |
 | 7 | [Life Of A Hot Nigga](https://open.spotify.com/track/3sj9ebwU57QjJpvpu0DGiK) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Can't Stop Won't Stop 2](https://open.spotify.com/album/3CIhzIIWwWPPHpxSy9sQjl) | 2:23 |
-| 8 | [Octane](https://open.spotify.com/track/0fg8hVhheExnE6bkVu1C9e) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg) | [Octane](https://open.spotify.com/album/5PcuD0pR1m3Aha3TCct2z9) | 2:44 |
+| 8 | [Octane](https://open.spotify.com/track/0fg8hVhheExnE6bkVu1C9e) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg) | [Octane](https://open.spotify.com/album/5PcuD0pR1m3Aha3TCct2z9) | 2:38 |
 | 9 | [How To Bip](https://open.spotify.com/track/64rP4gEgmxJ8Jg5nN3fzDo) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [How To Bip](https://open.spotify.com/album/57xr0iFHq2QFiEjszdBZ8Z) | 2:34 |
 | 10 | [Intro](https://open.spotify.com/track/4arEh3ZrPb0XqHjNfcp101) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [My Evil Thoughts](https://open.spotify.com/album/7dpPnvmvx6aO07j685ayg2) | 2:19 |
 | 11 | [Federal Nightmares](https://open.spotify.com/track/7K43BENx9D8k0RznDLBTie) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:08 |

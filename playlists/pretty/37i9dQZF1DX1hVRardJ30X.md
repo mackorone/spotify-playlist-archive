@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by J Balvin, Bad Bunny, Myke Towers and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,157 likes - 48 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,236 likes - 48 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 17 | [POWER](https://open.spotify.com/track/1gNJLNT3AhQS9oFUVNM8d0) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [POWER](https://open.spotify.com/album/1ndqyd0VW38leZ7XMoIH66) | 2:46 |
 | 18 | [YUMMi ‹𝟹](https://open.spotify.com/track/6AAXDBDExlkCAdJAZiOCfL) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [YUMMi ‹𝟹](https://open.spotify.com/album/105S0cR3xG70Z9xb5c4kZ0) | 2:33 |
 | 19 | [ESTO TAMBIEN ES REGGAETON MEXA](https://open.spotify.com/track/033wAL9AOf65vhGhLIq9uP) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [\(\(\(REXX\)\)\)](https://open.spotify.com/album/4a4gi4zJPboFcefHJZwYBw) | 2:28 |
-| 20 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 |
+| 20 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 |
 | 21 | [Me la Sube](https://open.spotify.com/track/3yZnESD39FSyrqfmPsijYz) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Me la Sube](https://open.spotify.com/album/3gWNYRCXpIr2GulQPaocQL) | 2:40 |
 | 22 | [Bellakiti](https://open.spotify.com/track/2kDCwtnBqAw2MhCoCZCdy9) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Gangsta Love](https://open.spotify.com/album/5gpRa5a1GPka0N0q6RxtU8) | 2:07 |
 | 23 | [GATITA SEPHORA](https://open.spotify.com/track/3RWRImPPKeuBeO8ovkQA7W) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [GATITA SEPHORA](https://open.spotify.com/album/34MmK8rSmHUGk26m3nfA3t) | 2:44 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 27 | [OTRO](https://open.spotify.com/track/4x9oXM2cW8CFvqgxSx91yA) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [OTRO](https://open.spotify.com/album/4aNuUQrYNmS3rsavz5aqx3) | 1:47 |
 | 28 | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR) | 3:33 |
 | 29 | [Mentality](https://open.spotify.com/track/7LZyqWfp3JkyG3YNpYNIpw) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Por El Momento](https://open.spotify.com/album/5ajocepPHfcBFFKxtz9wrL) | 2:49 |
-| 30 | [D’amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D’amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
+| 30 | [D'amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D'amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
 | 31 | [La Niña Bonita](https://open.spotify.com/track/0IALJ8WCPsrErkCYpcS5mp) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Niña Bonita](https://open.spotify.com/album/4QmIcgzqg6Imu2UmRNckxI) | 3:28 |
 | 32 | [Monedita de Oro](https://open.spotify.com/track/2kjX3ywKKzkn0mTJv2iPGN) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Monedita de Oro](https://open.spotify.com/album/2jX6Ebkc0bJOzE8M8RVP4U) | 2:43 |
 | 33 | [Un Idiota \- Te Perdí](https://open.spotify.com/track/1oe42GaLCuxepZNDc6Hl27) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Un Idiota \(Te Perdí\)](https://open.spotify.com/album/2790I5a0CbIcGf9HBnJ6UF) | 5:00 |

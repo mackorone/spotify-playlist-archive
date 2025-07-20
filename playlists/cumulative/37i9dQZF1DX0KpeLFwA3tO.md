@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Panic Shack
 
-2,597 songs - 5 day 9 hr 41 min
+2,598 songs - 5 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,7 +889,7 @@
 | [Giant's Despair](https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Giant's Despair](https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz) | 3:40 | 2024-03-22 | 2024-05-24 |
 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 | 2024-01-19 | 2024-03-08 |
 | [Gimme A Call](https://open.spotify.com/track/0TKWSyue1lOfrSPHcFrPKf) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Tom](https://open.spotify.com/album/574vghWwriC6gXna4Hq6bE) | 3:46 | 2022-04-07 | 2022-05-21 |
-| [Girl Band Starter Pack](https://open.spotify.com/track/4Kc8pHLnsN1MfkFJHKEeXQ) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Girl Band Starter Pack](https://open.spotify.com/album/5FIFu0qCJDIQylnjnWR7be) | 3:03 | 2025-05-01 |  |
+| [Girl Band Starter Pack](https://open.spotify.com/track/4Kc8pHLnsN1MfkFJHKEeXQ) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Girl Band Starter Pack](https://open.spotify.com/album/5FIFu0qCJDIQylnjnWR7be) | 3:03 | 2025-05-01 | 2025-07-20 |
 | [Girl From The Record Shop](https://open.spotify.com/track/12vPIyLJmP1EtrZfcNPpPX) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Girl From The Record Shop](https://open.spotify.com/album/1r7JKGcc4QZ8Eb7wK1ysMr) | 1:46 | 2024-02-23 | 2024-04-26 |
 | [Girl Of My Dreams](https://open.spotify.com/track/5HMj2Nt9YDyOwuzSzTMV0u) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Hot Mess](https://open.spotify.com/album/79sCkEaZDNVVc5P5mPS1R4) | 2:38 | 2024-03-22 | 2024-05-24 |
 | [Girl Shaped Crater](https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Girl Shaped Crater](https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk) | 3:02 | 2024-01-19 | 2024-03-01 |
@@ -1736,6 +1736,7 @@
 | [Plus One](https://open.spotify.com/track/6zi6Oa8jioqPbeqoCbZCkq) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Plus One](https://open.spotify.com/album/3dqTJ8HgLAqqgHE0ou361D) | 3:16 | 2023-06-29 | 2023-08-11 |
 | [PMDD](https://open.spotify.com/track/7cJmt2D9UKosMB4Sb2a2Yr) | [Gymshorts](https://open.spotify.com/artist/7beEZjleJaaPl01bT6S4bz) | [PMDD](https://open.spotify.com/album/2bfbriORUCT1HF8qlUwE0q) | 1:41 | 2025-04-03 | 2025-06-06 |
 | [PMS Police](https://open.spotify.com/track/0O0GhdAcMZsprSzwsDVi4x) | [Sailor Honeymoon](https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C) | [PMS Police](https://open.spotify.com/album/5sAEnRwKGLH5bBI5eb3FUI) | 2:03 | 2024-03-29 | 2024-06-01 |
+| [Pockets](https://open.spotify.com/track/4JUmLb7NjUuF5Dkd63m5Fy) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Panic Shack](https://open.spotify.com/album/2yox6fBqg5BEBHpARToOav) | 3:07 | 2025-07-19 |  |
 | [Pod](https://open.spotify.com/track/4Pd4s9r2rVwxRq6PqkEAXr) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Pod](https://open.spotify.com/album/2GjYLE2ifHo7Dyo1sonejL) | 1:41 | 2023-04-13 | 2023-06-16 |
 | [Poison II \(Miracle Cure\)](https://open.spotify.com/track/0jFiapI6F8TD0mcpD0Hozr) | [Histamine](https://open.spotify.com/artist/3fnoZDfrJLrFDGXZoowJ6i) | [Poison II \(Miracle Cure\)](https://open.spotify.com/album/5nSxxbjNFIiSmrqXPIyC8A) | 1:54 | 2025-05-22 | 2025-07-18 |
 | [Polly](https://open.spotify.com/track/1oLz0WqVox2U4MFXvO8lqL) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Polly](https://open.spotify.com/album/1uPQ4bQDdmMJrTo4fsFoxx) | 2:23 | 2024-09-12 | 2024-11-08 |

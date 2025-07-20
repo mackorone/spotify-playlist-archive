@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Kabza De Small, Cassper Nyovest, Travis Scott and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,877 likes - 99 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,977 likes - 99 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 35 | [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:42 |
 | 36 | [Party](https://open.spotify.com/track/0DPuqZxCcL7XYSkJqR0KJc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:33 |
 | 37 | [Call It What It Is](https://open.spotify.com/track/3uebxoL9P9onWxYq9o0ell) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Dizraeli](https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa) | [Call It What It Is](https://open.spotify.com/album/5Uqik1pX1ZSWmwgBZw17kF) | 3:16 |
-| 38 | [UMAQONDANA \(feat\. Lowfeye & Dahoodhope\)](https://open.spotify.com/track/0W68KPfFyYZbKpbBDx1h0E) | [Fanaticalb3ing](https://open.spotify.com/artist/1J0wQdccirNDCwXzeX49Ti), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Dahoodhope](https://open.spotify.com/artist/1ngdocoXiu79LWVx5syMLd) | [UMAQONDANA \(feat\. Lowfeye & Dahoodhope\)](https://open.spotify.com/album/2lcy0Cp0iZ1fJoBebvxCB7) | 1:20 |
+| 38 | [UMAQONDANA \(feat\. Lowfeye & Dahoodhope\)](https://open.spotify.com/track/0W68KPfFyYZbKpbBDx1h0E) | [Fanaticalb3ing](https://open.spotify.com/artist/1J0wQdccirNDCwXzeX49Ti), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Dahoodhope](https://open.spotify.com/artist/1ngdocoXiu79LWVx5syMLd) | [UMAQONDANA \(feat\. Lowfeye & Dahoodhope\)](https://open.spotify.com/album/2lcy0Cp0iZ1fJoBebvxCB7) | 3:46 |
 | 39 | [Look The Other Way](https://open.spotify.com/track/5bFCImlNEBIuy64PFwxJTx) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Look The Other Way](https://open.spotify.com/album/1RNi7RHmTm66nEGR1wiLm9) | 3:01 |
 | 40 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
 | 41 | [BBL](https://open.spotify.com/track/3w0yAR2LpHARJS8CcmHtIs) | [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Tribby wadi bhozza](https://open.spotify.com/artist/1oSGEqStrxauOi4Gmf8jcQ) | [BBL](https://open.spotify.com/album/4h0DBMAD28j1EHnUi3g7pX) | 4:09 |

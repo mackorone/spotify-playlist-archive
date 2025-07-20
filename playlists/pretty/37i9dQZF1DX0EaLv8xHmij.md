@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow embaçado\. Foto: Kyan, Mu540
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,939 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,937 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 42 | [Final da Liberta](https://open.spotify.com/track/5QVwTAwVPZxaXnWwK8CJPi) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Frugi](https://open.spotify.com/artist/6pnILCpyHaqMnMASeLtpd8) | [Antiherói](https://open.spotify.com/album/1qXU9PGYsVT6hhwl1vVGlC) | 2:42 |
 | 43 | [Coração Puro](https://open.spotify.com/track/1nGAyTNClgVVTqqqRpOF6y) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Coração Puro](https://open.spotify.com/album/6ZfQxM3fhpz1n906yTWq7p) | 2:27 |
 | 44 | [Check\-in](https://open.spotify.com/track/1Ow7PO9wsdbVPAYujLp2j8) | [Exódia Entertainment](https://open.spotify.com/artist/02rQVYHzAkTYPZv6koV920), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW) | [GIG](https://open.spotify.com/album/0FQcywiPJRQyxjXl64BTgC) | 3:40 |
-| 45 | [Trader da Favelinha](https://open.spotify.com/track/3W1UqiHa20R5VRwuvt135l) | [MC Murilo ZS](https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp), [DJ BELLA](https://open.spotify.com/artist/7jEHwlINoHXjHrJCDKDlsn), [4mgang](https://open.spotify.com/artist/5B09OgGYQ6DhcAb8tOifva) | [Trader da Favelinha](https://open.spotify.com/album/5o4Yh9UOO0xYAVrVhKp6Ak) | 1:29 |
+| 45 | [Trader da Favelinha](https://open.spotify.com/track/3W1UqiHa20R5VRwuvt135l) | [MC Murilo ZS](https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp) | [Trader da Favelinha](https://open.spotify.com/album/5o4Yh9UOO0xYAVrVhKp6Ak) | 1:29 |
 | 46 | [SoulCrime](https://open.spotify.com/track/3wdqcWmIbOTxUtFUCJ2M9F) | [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Cronus](https://open.spotify.com/artist/1zK877kicLoZ5q8CiTN8li) | [SoulCrime](https://open.spotify.com/album/2tMpwH9sCsmwr4Sprp7VtQ) | 2:03 |
 | 47 | [A Mudança Sou Eu](https://open.spotify.com/track/25s5UtE3bmc8TUZnqS5MCp) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [A Mudança Sou Eu](https://open.spotify.com/album/04rFRBCMcV2nFtdmtnAPmV) | 1:35 |
 | 48 | [Guerra](https://open.spotify.com/track/2ji9WHNU2CXRPb8Zevnnpf) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Guerra](https://open.spotify.com/album/3PRhDBXhCBniQnZYA5D6CB) | 2:23 |

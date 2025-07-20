@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Bloodstein.",
-  "num_followers": 28620,
+  "num_followers": 28642,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,26 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
+        "name": "Fukushima",
+        "url": "https://open.spotify.com/album/5qa76iILrquI305THT4k16"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        },
+        {
+          "name": "Le\u00f3n Benavente",
+          "url": "https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6"
+        }
+      ],
+      "duration_ms": 215720,
+      "name": "Fukushima",
+      "url": "https://open.spotify.com/track/19sYOzYm0iNpIHyvcfv1ok"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
         "name": "La matanza de Texas",
         "url": "https://open.spotify.com/album/1HOwpCbsknfSwH6ZBFM6WR"
       },
@@ -647,22 +667,18 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "Fukushima",
-        "url": "https://open.spotify.com/album/5qa76iILrquI305THT4k16"
+        "name": "Patatas de chino",
+        "url": "https://open.spotify.com/album/684ZvhyqUrLqIkFi3kSvBz"
       },
       "artists": [
         {
-          "name": "Tri\u00e1ngulo de Amor Bizarro",
-          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
-        },
-        {
-          "name": "Le\u00f3n Benavente",
-          "url": "https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6"
+          "name": "Sobrezero",
+          "url": "https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr"
         }
       ],
-      "duration_ms": 215720,
-      "name": "Fukushima",
-      "url": "https://open.spotify.com/track/19sYOzYm0iNpIHyvcfv1ok"
+      "duration_ms": 185764,
+      "name": "Patatas de chino",
+      "url": "https://open.spotify.com/track/1zlTTbTEAhunokfJDAOUjT"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -683,22 +699,6 @@
       "duration_ms": 257601,
       "name": "El d\u00eda no me da con Shego",
       "url": "https://open.spotify.com/track/0bHYnkMSMwFOaqxKk36sC5"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
-        "name": "Patatas de chino",
-        "url": "https://open.spotify.com/album/684ZvhyqUrLqIkFi3kSvBz"
-      },
-      "artists": [
-        {
-          "name": "Sobrezero",
-          "url": "https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr"
-        }
-      ],
-      "duration_ms": 185764,
-      "name": "Patatas de chino",
-      "url": "https://open.spotify.com/track/1zlTTbTEAhunokfJDAOUjT"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "Hacernos viejos",
-        "url": "https://open.spotify.com/album/401qGLYQOXhMohO9yWWDbc"
-      },
-      "artists": [
-        {
-          "name": "MATEO ERA\u00d1A",
-          "url": "https://open.spotify.com/artist/1sDUoF8qwvVEcTYv2MYwLk"
-        },
-        {
-          "name": "Pu\u00f1o Drag\u00f3n",
-          "url": "https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK"
-        }
-      ],
-      "duration_ms": 230011,
-      "name": "Hacernos viejos",
-      "url": "https://open.spotify.com/track/16bipYCYbPVVMzoVGkN5HU"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
         "name": "Robo Tu Tiempo",
         "url": "https://open.spotify.com/album/6oBeelEQ2XT22hpmgmhMjW"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 164358,
       "name": "Robo Tu Tiempo",
       "url": "https://open.spotify.com/track/4OMZMYLWGpM10z2cwGEXa1"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "Hacernos viejos",
+        "url": "https://open.spotify.com/album/401qGLYQOXhMohO9yWWDbc"
+      },
+      "artists": [
+        {
+          "name": "MATEO ERA\u00d1A",
+          "url": "https://open.spotify.com/artist/1sDUoF8qwvVEcTYv2MYwLk"
+        },
+        {
+          "name": "Pu\u00f1o Drag\u00f3n",
+          "url": "https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK"
+        }
+      ],
+      "duration_ms": 230011,
+      "name": "Hacernos viejos",
+      "url": "https://open.spotify.com/track/16bipYCYbPVVMzoVGkN5HU"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -1199,38 +1199,6 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "MIS AMIGAS TE ODIAN",
-        "url": "https://open.spotify.com/album/5uShqMOiords11EFF9Mjmx"
-      },
-      "artists": [
-        {
-          "name": "La 126",
-          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
-        }
-      ],
-      "duration_ms": 175567,
-      "name": "MIS AMIGAS TE ODIAN",
-      "url": "https://open.spotify.com/track/0kcKR84wqVB1zvOvTHNI7b"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
-        "name": "Los Managers",
-        "url": "https://open.spotify.com/album/25SRIxzCCrl5EeRuCdm0jT"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 223621,
-      "name": "Los Managers",
-      "url": "https://open.spotify.com/track/1BU48UTJMQmfZtBHN91CH4"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
         "name": "Echo de menos a los Arctic Monkeys",
         "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
@@ -1263,6 +1231,38 @@
       "duration_ms": 210700,
       "name": "Candorro",
       "url": "https://open.spotify.com/track/63JIRwhrwP2a4glqAbrH2b"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "MIS AMIGAS TE ODIAN",
+        "url": "https://open.spotify.com/album/5uShqMOiords11EFF9Mjmx"
+      },
+      "artists": [
+        {
+          "name": "La 126",
+          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
+        }
+      ],
+      "duration_ms": 175567,
+      "name": "MIS AMIGAS TE ODIAN",
+      "url": "https://open.spotify.com/track/0kcKR84wqVB1zvOvTHNI7b"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "Los Managers",
+        "url": "https://open.spotify.com/album/25SRIxzCCrl5EeRuCdm0jT"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 223621,
+      "name": "Los Managers",
+      "url": "https://open.spotify.com/track/1BU48UTJMQmfZtBHN91CH4"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "La gran renuncia",
-        "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
-      },
-      "artists": [
-        {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
-        }
-      ],
-      "duration_ms": 146132,
-      "name": "La gran renuncia",
-      "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
         "name": "No va a doler",
         "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
       },
@@ -1347,22 +1331,6 @@
       "duration_ms": 160048,
       "name": "No va a doler",
       "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
-        "name": "Si Me Pierdo",
-        "url": "https://open.spotify.com/album/3MJbzjwIt0YuozGKQcTagl"
-      },
-      "artists": [
-        {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Si Me Pierdo",
-      "url": "https://open.spotify.com/track/6YK7pon3v5QHUH2ceGj3Lp"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -1383,6 +1351,22 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
+        "name": "La gran renuncia",
+        "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
+      },
+      "artists": [
+        {
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+        }
+      ],
+      "duration_ms": 146132,
+      "name": "La gran renuncia",
+      "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
         "name": "Tu nombre es una puerta por cerrar",
         "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
       },
@@ -1395,26 +1379,6 @@
       "duration_ms": 244164,
       "name": "Tu nombre es una puerta por cerrar",
       "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
-        "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
-      },
-      "artists": [
-        {
-          "name": "Erin Memento",
-          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
-        },
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 207181,
-      "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -1439,6 +1403,58 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
+        "name": "L\u00ednea 11",
+        "url": "https://open.spotify.com/album/2JIOtv5cONNBm8ru0JhUGA"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "duration_ms": 231283,
+      "name": "L\u00ednea 11",
+      "url": "https://open.spotify.com/track/3syB1AAFEgXtuP8xBnyJzz"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
+      },
+      "artists": [
+        {
+          "name": "Erin Memento",
+          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
+        },
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 207181,
+      "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "Si Me Pierdo",
+        "url": "https://open.spotify.com/album/3MJbzjwIt0YuozGKQcTagl"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Si Me Pierdo",
+      "url": "https://open.spotify.com/track/6YK7pon3v5QHUH2ceGj3Lp"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
         "name": "Eres Un Regalo",
         "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 210428,
       "name": "Eres Un Regalo",
       "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
-        "name": "por un momento",
-        "url": "https://open.spotify.com/album/7uZQr7eK34WEWHQ45iCcLH"
-      },
-      "artists": [
-        {
-          "name": "grima",
-          "url": "https://open.spotify.com/artist/6DyTFqXa8gxRB2H952Jdxj"
-        }
-      ],
-      "duration_ms": 247575,
-      "name": "por un momento",
-      "url": "https://open.spotify.com/track/4bbhUyXzrmWaFiKdc9sytb"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
+        "name": "por un momento",
+        "url": "https://open.spotify.com/album/7uZQr7eK34WEWHQ45iCcLH"
+      },
+      "artists": [
+        {
+          "name": "grima",
+          "url": "https://open.spotify.com/artist/6DyTFqXa8gxRB2H952Jdxj"
+        }
+      ],
+      "duration_ms": 247575,
+      "name": "por un momento",
+      "url": "https://open.spotify.com/track/4bbhUyXzrmWaFiKdc9sytb"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 193621,
       "name": "ojal\u00e1",
       "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
-        "name": "L\u00ednea 11",
-        "url": "https://open.spotify.com/album/2JIOtv5cONNBm8ru0JhUGA"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 231283,
-      "name": "L\u00ednea 11",
-      "url": "https://open.spotify.com/track/3syB1AAFEgXtuP8xBnyJzz"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -1583,38 +1583,6 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "Pedro Bicicletas",
-        "url": "https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj"
-      },
-      "artists": [
-        {
-          "name": "Ru\u00efnosa y las Strippers de Rahola",
-          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Pedro Bicicletas",
-      "url": "https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
-        "name": "Ni un paso atr\u00e1s",
-        "url": "https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv"
-      },
-      "artists": [
-        {
-          "name": "Pinpilinpussies",
-          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
-        }
-      ],
-      "duration_ms": 163405,
-      "name": "En tu portal",
-      "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
         "name": "Himno de las flores",
         "url": "https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T"
       },
@@ -1635,18 +1603,34 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "Lorazepam",
-        "url": "https://open.spotify.com/album/4GCRYaMud1KDfwdkYHU2Xf"
+        "name": "Ni un paso atr\u00e1s",
+        "url": "https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv"
       },
       "artists": [
         {
-          "name": "Amante Laff\u00f3n",
-          "url": "https://open.spotify.com/artist/73nKf9LdEfuRB5TJRkai1T"
+          "name": "Pinpilinpussies",
+          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
         }
       ],
-      "duration_ms": 185985,
-      "name": "Lorazepam",
-      "url": "https://open.spotify.com/track/7a1daYbxR6nYJcRYP4HXuv"
+      "duration_ms": 163405,
+      "name": "En tu portal",
+      "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "Pedro Bicicletas",
+        "url": "https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj"
+      },
+      "artists": [
+        {
+          "name": "Ru\u00efnosa y las Strippers de Rahola",
+          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Pedro Bicicletas",
+      "url": "https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -1667,22 +1651,6 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "Al Dente",
-        "url": "https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm"
-      },
-      "artists": [
-        {
-          "name": "Supercremalleras",
-          "url": "https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Al Dente",
-      "url": "https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
         "name": "Vivo En Las Nubes",
         "url": "https://open.spotify.com/album/3YVZJjd2b52xDJkyIfQgJ5"
       },
@@ -1699,18 +1667,50 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "Historias que contar",
-        "url": "https://open.spotify.com/album/0RJ13jWwbQkYByaYGIIYBv"
+        "name": "Al Dente",
+        "url": "https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm"
       },
       "artists": [
         {
-          "name": "rumbos",
-          "url": "https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ"
+          "name": "Supercremalleras",
+          "url": "https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15"
         }
       ],
-      "duration_ms": 209582,
-      "name": "Historias que contar",
-      "url": "https://open.spotify.com/track/3taryJdWZSn8ucmFyqHlvR"
+      "duration_ms": 120000,
+      "name": "Al Dente",
+      "url": "https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "Lorazepam",
+        "url": "https://open.spotify.com/album/4GCRYaMud1KDfwdkYHU2Xf"
+      },
+      "artists": [
+        {
+          "name": "Amante Laff\u00f3n",
+          "url": "https://open.spotify.com/artist/73nKf9LdEfuRB5TJRkai1T"
+        }
+      ],
+      "duration_ms": 185985,
+      "name": "Lorazepam",
+      "url": "https://open.spotify.com/track/7a1daYbxR6nYJcRYP4HXuv"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "Huella de ti",
+        "url": "https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH"
+      },
+      "artists": [
+        {
+          "name": "Kokoshca",
+          "url": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Huella de ti",
+      "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
     }
   ],
   "unique_name": "Rock 2025",

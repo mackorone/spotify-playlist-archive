@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8OYzU0lx5hL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8OYzU0lx5hL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8OYzU0lx5hL)
 
-### [This Is Nina Simone](https://open.spotify.com/playlist/37i9dQZF1DX8OYzU0lx5hL)
+### [This Is Nina Simone \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8OYzU0lx5hL)
 
 > One of the finest <a href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">voices</a> we've ever known\. Now hear her greatest songs.
 

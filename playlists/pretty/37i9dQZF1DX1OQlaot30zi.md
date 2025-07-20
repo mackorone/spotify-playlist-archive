@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Artie 5ive, Baby Gang, Noyz Narcos, Ele A, Visino Bianco, Luchetto e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,854 likes - 140 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,879 likes - 140 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 7 | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP) | 3:03 |
 | 8 | [step up](https://open.spotify.com/track/4IJ8wbfYg2iFKfSNXryT05) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [PORTANDO IL PESO](https://open.spotify.com/album/684uZkbeznQXV1qT9UcX9s) | 1:37 |
 | 9 | [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 |
-| 10 | [TIC TAC TOE \(feat\. Low\-Red\)](https://open.spotify.com/track/3WygvwOYzE75B7FtnAjead) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [BIG FRR](https://open.spotify.com/album/2ekLFd6OWgUTEa97NMBPgL) | 2:00 |
+| 10 | [TIC TAC TOE \(feat\. Low\-Red\)](https://open.spotify.com/track/3WygvwOYzE75B7FtnAjead) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [BIG FRRR](https://open.spotify.com/album/2ekLFd6OWgUTEa97NMBPgL) | 2:00 |
 | 11 | [Mi Amor 2.0](https://open.spotify.com/track/2DJB7zAwaPRjy7GEu470jy) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Mi Amor 2.0](https://open.spotify.com/album/39Nv2P1OgzFXkHBNPTcFBa) | 3:31 |
 | 12 | [PADELLA](https://open.spotify.com/track/4LKWSkcMBvTFmQJFqkaMa5) | [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [1994](https://open.spotify.com/album/6AcmCd8XnQlO9ky98kY3l8) | 2:27 |
 | 13 | [SCUSE](https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SCUSE](https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC) | 2:04 |

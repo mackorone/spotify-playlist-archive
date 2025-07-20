@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: LE MOTAT",
-  "num_followers": 10645,
+  "num_followers": 10647,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-07-17 22:00:44",
       "album": {
-        "name": "Dansen met de dood",
-        "url": "https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 204770,
-      "name": "Dansen met de dood",
-      "url": "https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5"
-    },
-    {
-      "added_at": "2025-07-17 22:00:44",
-      "album": {
         "name": "v2.025",
         "url": "https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 211263,
       "name": "VOL v2.025",
       "url": "https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY"
+    },
+    {
+      "added_at": "2025-07-17 22:00:44",
+      "album": {
+        "name": "Dansen met de dood",
+        "url": "https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 204770,
+      "name": "Dansen met de dood",
+      "url": "https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5"
     },
     {
       "added_at": "2025-07-17 22:00:44",
@@ -423,18 +423,18 @@
     {
       "added_at": "2025-07-17 22:00:44",
       "album": {
-        "name": "Toxisch",
-        "url": "https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC"
+        "name": "Aerobics",
+        "url": "https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM"
       },
       "artists": [
         {
-          "name": "Maxime",
-          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+          "name": "Kaat Van Stralen",
+          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
         }
       ],
-      "duration_ms": 162259,
-      "name": "Toxisch",
-      "url": "https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g"
+      "duration_ms": 167901,
+      "name": "Aerobics",
+      "url": "https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta"
     },
     {
       "added_at": "2025-07-17 22:00:44",
@@ -451,6 +451,22 @@
       "duration_ms": 187408,
       "name": "h-e-l-p",
       "url": "https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub"
+    },
+    {
+      "added_at": "2025-07-17 22:00:44",
+      "album": {
+        "name": "LEKKER MET DE MEIDEN v2.025",
+        "url": "https://open.spotify.com/album/3AQSe8C18CAPmlY1gCVFeV"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 251642,
+      "name": "LEKKER MET DE MEIDEN v2.025",
+      "url": "https://open.spotify.com/track/65vKBzAGrgUEaKNaWvl3qY"
     },
     {
       "added_at": "2025-07-17 22:00:44",
@@ -475,34 +491,18 @@
     {
       "added_at": "2025-07-17 22:00:44",
       "album": {
-        "name": "LEKKER MET DE MEIDEN v2.025",
-        "url": "https://open.spotify.com/album/3AQSe8C18CAPmlY1gCVFeV"
+        "name": "Toxisch",
+        "url": "https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC"
       },
       "artists": [
         {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+          "name": "Maxime",
+          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
         }
       ],
-      "duration_ms": 251642,
-      "name": "LEKKER MET DE MEIDEN v2.025",
-      "url": "https://open.spotify.com/track/65vKBzAGrgUEaKNaWvl3qY"
-    },
-    {
-      "added_at": "2025-07-17 22:00:44",
-      "album": {
-        "name": "Aerobics",
-        "url": "https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM"
-      },
-      "artists": [
-        {
-          "name": "Kaat Van Stralen",
-          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
-        }
-      ],
-      "duration_ms": 167901,
-      "name": "Aerobics",
-      "url": "https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta"
+      "duration_ms": 162259,
+      "name": "Toxisch",
+      "url": "https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g"
     },
     {
       "added_at": "2025-07-17 22:00:44",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-07-17 22:00:44",
       "album": {
-        "name": "Als Ik Verdwaal",
-        "url": "https://open.spotify.com/album/6KUBPnMGDsaTNvdplPKYjb"
-      },
-      "artists": [
-        {
-          "name": "Tienson",
-          "url": "https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "Als Ik Verdwaal",
-      "url": "https://open.spotify.com/track/2CO40n2AIdtJb0z4ZSMnHj"
-    },
-    {
-      "added_at": "2025-07-17 22:00:44",
-      "album": {
         "name": "Diep In De Nacht (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 114390,
       "name": "Wauw",
       "url": "https://open.spotify.com/track/2Pqh5BrKly0mN6uvavP6Xm"
+    },
+    {
+      "added_at": "2025-07-17 22:00:44",
+      "album": {
+        "name": "Als Ik Verdwaal",
+        "url": "https://open.spotify.com/album/6KUBPnMGDsaTNvdplPKYjb"
+      },
+      "artists": [
+        {
+          "name": "Tienson",
+          "url": "https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Als Ik Verdwaal",
+      "url": "https://open.spotify.com/track/2CO40n2AIdtJb0z4ZSMnHj"
     },
     {
       "added_at": "2025-07-17 22:00:44",
@@ -767,18 +767,18 @@
     {
       "added_at": "2025-07-17 22:00:44",
       "album": {
-        "name": "Wildernis",
-        "url": "https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ"
+        "name": "De Lucht",
+        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
       },
       "artists": [
         {
-          "name": "Johannes Is Zijn Naam",
-          "url": "https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0"
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
         }
       ],
-      "duration_ms": 211186,
-      "name": "Wildernis",
-      "url": "https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ"
+      "duration_ms": 166663,
+      "name": "WijTwee",
+      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
     },
     {
       "added_at": "2025-07-17 22:00:44",
@@ -799,18 +799,34 @@
     {
       "added_at": "2025-07-17 22:00:44",
       "album": {
-        "name": "De Lucht",
-        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
+        "name": "Wildernis",
+        "url": "https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ"
       },
       "artists": [
         {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+          "name": "Johannes Is Zijn Naam",
+          "url": "https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0"
         }
       ],
-      "duration_ms": 166663,
-      "name": "WijTwee",
-      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
+      "duration_ms": 211186,
+      "name": "Wildernis",
+      "url": "https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ"
+    },
+    {
+      "added_at": "2025-07-17 22:00:44",
+      "album": {
+        "name": "Krijt",
+        "url": "https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE"
+      },
+      "artists": [
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "duration_ms": 148534,
+      "name": "Krijt",
+      "url": "https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c"
     },
     {
       "added_at": "2025-07-17 22:00:44",
@@ -827,22 +843,6 @@
       "duration_ms": 192898,
       "name": "Geef Mij Nog Deze Nacht",
       "url": "https://open.spotify.com/track/5yVGyRGN344cTDdOg1ayJ7"
-    },
-    {
-      "added_at": "2025-07-17 22:00:44",
-      "album": {
-        "name": "Het Hart Bestaat Niet En De Rest Ook Niet",
-        "url": "https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW"
-      },
-      "artists": [
-        {
-          "name": "Droom Dit",
-          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
-        }
-      ],
-      "duration_ms": 209532,
-      "name": "De Grens Tussen Ons",
-      "url": "https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz"
     }
   ],
   "unique_name": "indie.nl",

@@ -1,33 +1,13 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 652859,
+  "num_followers": 652982,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHg9AAAAAABpuLJYy8+0SEils+831b8c",
+  "snapshot_id": "aHmOgAAAAADie7KQwiu/IwrBqQERBvrR",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Now and at the Hour of Our Death (feat. BONES)",
-        "url": "https://open.spotify.com/album/6pqnNGhTMgWt2nvMIn7QlD"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 254734,
-      "name": "Now and at the Hour of Our Death (feat. BONES)",
-      "url": "https://open.spotify.com/track/5g3PPNIHL5yMci2pio9ZoI"
-    },
     {
       "added_at": null,
       "album": {
@@ -79,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 168489,
+      "name": "...And to Those I Love, Thanks for Sticking Around",
+      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sing Me a Lullaby, My Sweet Temptation",
         "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
       },
@@ -95,18 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+        "name": "Now and at the Hour of Our Death (feat. BONES)",
+        "url": "https://open.spotify.com/album/6pqnNGhTMgWt2nvMIn7QlD"
       },
       "artists": [
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
         }
       ],
-      "duration_ms": 168489,
-      "name": "...And to Those I Love, Thanks for Sticking Around",
-      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
+      "duration_ms": 254734,
+      "name": "Now and at the Hour of Our Death (feat. BONES)",
+      "url": "https://open.spotify.com/track/5g3PPNIHL5yMci2pio9ZoI"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part IX: The Soulseek Saga",
-        "url": "https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 136997,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YUNGDEATHLILLIFE",
         "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 133746,
       "name": "LTE",
       "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part IX: The Soulseek Saga",
+        "url": "https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 136997,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Jinu & Rumi 🫶🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,622 likes - 97 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,645 likes - 97 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

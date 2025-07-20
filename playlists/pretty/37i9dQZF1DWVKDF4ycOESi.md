@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Bad Bunny, Artie 5ive, Travis Scott, Mida e VillaBanks, Ele A e Colapesce, Baby Gang con El Alfa e Omega, Maluma e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,948 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,979 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 31 | [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 |
 | 32 | [BIN LADEN \(Red Bull 64 Bars\)](https://open.spotify.com/track/3c4LGoWQBZ2o11Ihp5WnzM) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [BIN LADEN \(Red Bull 64 Bars\)](https://open.spotify.com/album/1XPEku3OQy2TVwaT9qra2v) | 2:35 |
 | 33 | [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 |
-| 34 | [TIC TAC TOE \(feat\. Low\-Red\)](https://open.spotify.com/track/3WygvwOYzE75B7FtnAjead) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [BIG FRR](https://open.spotify.com/album/2ekLFd6OWgUTEa97NMBPgL) | 2:00 |
+| 34 | [TIC TAC TOE \(feat\. Low\-Red\)](https://open.spotify.com/track/3WygvwOYzE75B7FtnAjead) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [BIG FRRR](https://open.spotify.com/album/2ekLFd6OWgUTEa97NMBPgL) | 2:00 |
 | 35 | [step up](https://open.spotify.com/track/4IJ8wbfYg2iFKfSNXryT05) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [PORTANDO IL PESO](https://open.spotify.com/album/684uZkbeznQXV1qT9UcX9s) | 1:37 |
 | 36 | [Estate infinita](https://open.spotify.com/track/0LwnThvzG1jzTKzt59bJQc) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Estate infinita](https://open.spotify.com/album/1tBzvfm387PdGans3y9jnT) | 2:23 |
 | 37 | [incandescente](https://open.spotify.com/track/68zUvet48ksuYWhAXGEg0A) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [incandescente](https://open.spotify.com/album/0GZMU5LlRwJp0XvkG2NuN8) | 2:29 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 77 | [Stare Con Te](https://open.spotify.com/track/0HT5SmVUWHfhUJtfvrjNzs) | [Dasplan](https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP) | [Stare con te](https://open.spotify.com/album/0np8rWtlHR3rskrsGtP6H3) | 2:58 |
 | 78 | [IL DOTTORE DI SQUID GAME](https://open.spotify.com/track/7MaHjiw6xM4rJ2yWtPBB6b) | [Medley](https://open.spotify.com/artist/5jYDIXCTEY2CDB1Eln1NGp) | [IL DOTTORE DI SQUID GAME](https://open.spotify.com/album/7u2DTTruKwF0B4NkN5q0Yc) | 1:27 |
 | 79 | [crickets!!!](https://open.spotify.com/track/5wFONkT1kjKdDVz9jePnRu) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [crickets!!!](https://open.spotify.com/album/7LvJPylY82V3nH6M7a5u8k) | 1:39 |
-| 80 | [D’amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D’amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
+| 80 | [D'amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D'amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |
 | 81 | [Tsunami](https://open.spotify.com/track/2n3zCFoj5VM9UYGDeiUlPs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Tsunami](https://open.spotify.com/album/1yI4sqzattJa3bLcyIn29K) | 2:44 |
 | 82 | [ti vedo](https://open.spotify.com/track/4XWlkMRO8kpkCnMRCgVgzD) | [IPOTERMIA](https://open.spotify.com/artist/6R6EYk4H9pcwr1LMinyxiA), [Lasa](https://open.spotify.com/artist/2JAg6JWnY8zg9m0At240Py) | [ti vedo](https://open.spotify.com/album/4UzJB6AVirbncnR4Bz6Seh) | 2:55 |
 | 83 | [L'amore mente](https://open.spotify.com/track/1Ivby8otzhKexjXWmZ2Vv0) | [MIVERGOGNO](https://open.spotify.com/artist/2ViO7phpBZJNKwhNqoWSau) | [L'amore mente](https://open.spotify.com/album/4rjXTW9l4mhmIUYJfKQFB6) | 3:45 |

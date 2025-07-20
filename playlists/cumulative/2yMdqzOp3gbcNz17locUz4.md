@@ -4,7 +4,7 @@
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/5ZJuxb6oluPvuK2okvCAKk?si=6m21\-sBBRUCQL8sQjE9CwA">Furry Loser</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-218 songs - 11 hr 54 min
+220 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [ENOUGH 4 U](https://open.spotify.com/track/6iOOVsIcmpFSF0Jw4gZOF6) | [f0xtr0t](https://open.spotify.com/artist/671ydWFXmxU9Y7p8I8NaeN), [meer](https://open.spotify.com/artist/7guxb1KDkQyvp4OUEolmsx) | [ENOUGH 4 U](https://open.spotify.com/album/5C81xOkNjPpcEv47vVktYi) | 1:59 | 2024-05-19 | 2025-01-01 |
 | [Eternal Suck](https://open.spotify.com/track/23VT5Pu1myWScuHO12JjJq) | [Stick Crickets](https://open.spotify.com/artist/50Dzofz5fTvlO9WKv6gCeW) | [Eternal Suck](https://open.spotify.com/album/7Cglf0RavnuNQ1mPzf76Do) | 2:54 | 2025-05-10 |  |
 | [Eunuchorn](https://open.spotify.com/track/2iwC8s6kq25it3QzDnu964) | [Deeps Repus](https://open.spotify.com/artist/0tzbuJgJZC3JQkL0StGHvz) | [Cicada Cicatrice](https://open.spotify.com/album/5zfWSHDda5Uu7QXUAqibfs) | 3:30 | 2024-04-12 | 2025-03-01 |
-| [extreme metal](https://open.spotify.com/track/0Si8EAjX3fwcjJjekm9OOE) | [carter c](https://open.spotify.com/artist/0uV7gNXQdzaZA0GjgeUdE6) | [extreme metal](https://open.spotify.com/album/3vlxhtYayJjJopVexsdpS3) | 2:11 | 2024-07-22 |  |
+| [extreme metal](https://open.spotify.com/track/0Si8EAjX3fwcjJjekm9OOE) | [carter c](https://open.spotify.com/artist/0uV7gNXQdzaZA0GjgeUdE6) | [extreme metal](https://open.spotify.com/album/3vlxhtYayJjJopVexsdpS3) | 2:11 | 2024-07-22 | 2025-07-20 |
 | [Faithful Hound](https://open.spotify.com/track/1s916ZyeDRigiExobXHVxx) | [Chocofriendz](https://open.spotify.com/artist/7gn4g9tkezeOyFdN4pPS7y) | [Airplane](https://open.spotify.com/album/2GSNrRtVVg0IoueayPFwXN) | 4:04 | 2024-04-27 |  |
 | [Fault](https://open.spotify.com/track/7rDjCoqge2niofZQGnMqfZ) | [Sideswept Bangs](https://open.spotify.com/artist/7FiTJRufj2n31L9GQLpzXT) | [Fault](https://open.spotify.com/album/45g6CFEm6LPqH7HqEBgcTo) | 2:49 | 2024-05-24 |  |
 | [FFY](https://open.spotify.com/track/1sg2bI7dSVZr9TRqFkWp6j) | [alexx](https://open.spotify.com/artist/0AmAHEoSgWULygymmiY5AI) | [FFY](https://open.spotify.com/album/1iOLj4TFXeuh1WWRGaDar1) | 2:20 | 2025-01-31 |  |
@@ -113,6 +113,7 @@
 | [In Each Other's Pockets](https://open.spotify.com/track/6KXp16dAqp4xbNkvqGHsRV) | [Igitur](https://open.spotify.com/artist/1zXQN30Q288eDjteLFI0QC) | [Tuxarumba](https://open.spotify.com/album/4VwxhQhq3vUmmCBMl30y0c) | 2:44 | 2022-10-29 | 2025-05-27 |
 | [in hindsight](https://open.spotify.com/track/7ek0SJOe1Abud8p9WGynE2) | [daryl dee](https://open.spotify.com/artist/22QtRMzqI4jfkA4rrxybFY) | [in hindsight](https://open.spotify.com/album/22HAd6MwLpLBp5hL0t7lcj) | 2:17 | 2024-04-04 |  |
 | [inconsequential](https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp) | [claymaw](https://open.spotify.com/artist/2k2lkGzy1eLbw3IEvGJbrx), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [UPWARD SPIR4L](https://open.spotify.com/album/1EtOu6cstUwTPQk5qTRsaQ) | 2:47 | 2024-05-19 |  |
+| [instagram artist theme](https://open.spotify.com/track/1xCTNafVcv5nNIkBfoqEWS) | [carter c](https://open.spotify.com/artist/0uV7gNXQdzaZA0GjgeUdE6) | [instagram artist theme](https://open.spotify.com/album/6iZaZ36hlWq9vYa0zlDe2p) | 3:02 | 2025-07-19 |  |
 | [john doe](https://open.spotify.com/track/3dZnXWPQpH9n46psALfiSt) | [deer in headlights](https://open.spotify.com/artist/6zqpo5a4WG5BM5sTMs38k3) | [event horizon](https://open.spotify.com/album/7EEZxaDOCB8S7Nyux8UklI) | 3:17 | 2024-04-20 | 2025-03-01 |
 | [kutna hora](https://open.spotify.com/track/312w1yQem0YU0WBDn8RR4q) | [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g), [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [kutna hora](https://open.spotify.com/album/1CgVNjezGLgBw2wg9Le5fK) | 3:02 | 2024-11-23 | 2025-01-04 |
 | [Kylie](https://open.spotify.com/track/5KrH6LPps3QIIHxg2JevrL) | [ELMUR](https://open.spotify.com/artist/1wiPtax5queGP5dSz5vviY) | [The Day I Met Elmur](https://open.spotify.com/album/5bd5aXwN3YAWNEmW0zhtHk) | 3:05 | 2025-02-28 |  |
@@ -128,6 +129,7 @@
 | [lil boy](https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 2:15 | 2025-01-31 | 2025-05-27 |
 | [Loose Lines \(featuring KENSOWAVY\)](https://open.spotify.com/track/33FtkxD5nTgx7Txz8Ic74W) | [polyana](https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH) | [Open Me \(Revival\)](https://open.spotify.com/album/6tumm1x5R8SobWq3cK272W) | 3:32 | 2025-03-21 | 2025-04-19 |
 | [lucid dreaming](https://open.spotify.com/track/5T7Wxzl5SqOdt2KUrPdrm5) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [lucid dreaming](https://open.spotify.com/album/2Q7AbsDOy0tshyjnOmqs3n) | 3:30 | 2025-02-28 |  |
+| [marionette](https://open.spotify.com/track/797k6S9uqklfBB5JSagbpr) | [RUDEDOG](https://open.spotify.com/artist/67Mz6SeKa3JJo65q9zGK2P) | [marionette](https://open.spotify.com/album/1tCLKBrbccWu1P5MthLFMp) | 4:16 | 2025-07-19 |  |
 | [Matarukaja](https://open.spotify.com/track/0qZtPMswEFFaHE0BUijHMN) | [Plasma Cutter](https://open.spotify.com/artist/4GLMMafAflOXujxZdh4SNW) | [Wolves And Power Lines And Oranges And Waves And Guitar Fights And Some Songs](https://open.spotify.com/album/3ovjiaiNk6njNIaIKRqBmq) | 3:24 | 2024-12-22 |  |
 | [Meet Me at the Convention](https://open.spotify.com/track/1wn8F9YN6js8rZ684bq5tr) | [A.J\. Vega](https://open.spotify.com/artist/0k0ckS7eD1sKQh3rzhsWOc) | [Striped Shirt](https://open.spotify.com/album/5ca7tRuSryJ3FoNknyZeRQ) | 1:59 | 2024-12-10 | 2025-01-10 |
 | [methods](https://open.spotify.com/track/1nYg0Tzg7Z0VuLyUFPMM1y) | [Allen Inuyama](https://open.spotify.com/artist/56wRZVNHA9eqrWPwvPBOl9) | [methods](https://open.spotify.com/album/6tY3AhhtIFLv3xpA6Q9wXc) | 4:44 | 2025-01-31 | 2025-07-09 |
@@ -220,7 +222,7 @@
 | [warmth](https://open.spotify.com/track/3NzwaM70Ahdd5eRTfYZ6dQ) | [gloomy dog](https://open.spotify.com/artist/4Mgi94q8Eu8w5PSow0UVam) | [warmth](https://open.spotify.com/album/4GZxH5pogEjA0J1jFh31sA) | 2:06 | 2025-03-21 | 2025-04-19 |
 | [whatisthetruth](https://open.spotify.com/track/48m5yGOpFG7QAn8EY9ZKKi) | [nightstand lullaby](https://open.spotify.com/artist/0uHNW8Qq4LAZGMMrw66ceM), [InkyFirefly](https://open.spotify.com/artist/5OoLdY1AxARoc1Le6HbrsL) | [dilation](https://open.spotify.com/album/29MNuASiq6KXf6A4IPrQLM) | 3:18 | 2024-11-14 | 2025-05-11 |
 | [when you tell me](https://open.spotify.com/track/4Cg7gdUrduGCuS0hyGe6m3) | [trndytrndy](https://open.spotify.com/artist/3DYTYYROw8SmsIAplPyysz) | [when you tell me](https://open.spotify.com/album/05jhXQWkuROfH2lct4puiO) | 2:14 | 2025-05-10 |  |
-| [wild child](https://open.spotify.com/track/7tPlx8VpOtcCa5RYk1NVZ7) | [RUDEDOG](https://open.spotify.com/artist/67Mz6SeKa3JJo65q9zGK2P) | [vincent](https://open.spotify.com/album/7EkWUtNedNY6gK0DetlzHM) | 3:54 | 2025-05-10 |  |
+| [wild child](https://open.spotify.com/track/7tPlx8VpOtcCa5RYk1NVZ7) | [RUDEDOG](https://open.spotify.com/artist/67Mz6SeKa3JJo65q9zGK2P) | [vincent](https://open.spotify.com/album/7EkWUtNedNY6gK0DetlzHM) | 3:54 | 2025-05-10 | 2025-07-20 |
 | [windwatcher](https://open.spotify.com/track/6rUcxkEDXfIPMIE9Im0tfi) | [thatcherblackwood](https://open.spotify.com/artist/44OljglvOclaPuzzgY2oUs) | [windwatcher](https://open.spotify.com/album/2uaL3PJ6h22Ll0kRFNjMcZ) | 4:36 | 2024-08-17 | 2025-04-19 |
 | [with you](https://open.spotify.com/track/3RYHgICSwjphWmh8ZmRxC2) | [wisp](https://open.spotify.com/artist/7scInd2tt8fsEC4LdYAASv) | [Brumal](https://open.spotify.com/album/044HHaGRFOn1RhKR9q1ea8) | 2:39 | 2025-02-05 |  |
 | [Worms](https://open.spotify.com/track/4fl81glI9CLw1yViHUEhtN) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [Worms](https://open.spotify.com/album/7AGBkxuwEykGu6mQqBX85j) | 3:36 | 2024-11-08 |  |

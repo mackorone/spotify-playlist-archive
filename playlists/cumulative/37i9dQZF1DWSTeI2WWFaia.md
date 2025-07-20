@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-813 songs - 1 day 19 hr 25 min
+814 songs - 1 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Based On True Events, Pt\. 2](https://open.spotify.com/track/6VIF7IamWzKuMlEcW6Bmw8) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:14 | 2023-09-15 | 2023-12-23 |
 | [Bash money \(feat\. Lil Wayne\)](https://open.spotify.com/track/7KOV7goz91wTufZxO51Ebn) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hitler Wears Hermes 8: Sincerely Adolf](https://open.spotify.com/album/0M5cyXHBV0en8q02019vaC) | 2:27 | 2021-09-03 | 2022-02-25 |
 | [BE ILL](https://open.spotify.com/track/0CorkA4Y59hyBQOitHWwOZ) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh) | [BE ILL](https://open.spotify.com/album/2rdd0PveXfP2U8BWeV0gSj) | 3:47 | 2024-06-21 | 2024-06-29 |
+| [Bear Hill](https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [The Emperor's New Clothes](https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck) | 2:24 | 2025-07-18 |  |
 | [Beat Breaks \(feat\. Nas\)](https://open.spotify.com/track/34rwJDeFgvZXd9KtiBkQKI) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Hip Hop 50: Vol\. 1](https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm) | 2:39 | 2022-07-15 | 2022-07-30 |
 | [beautiful brixton](https://open.spotify.com/track/3oh4wdsN5xVsKcWlIvgQH2) | [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx) | [beautiful brixton](https://open.spotify.com/album/6dedBIUKeKk7kGRxZ1rKy3) | 1:27 | 2021-09-03 | 2022-02-23 |
 | [beauty supply](https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:13 | 2023-08-11 | 2024-02-11 |
@@ -304,7 +305,7 @@
 | [Goyard God](https://open.spotify.com/track/28oStvbdfSCqQRMIkvyXCN) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Marciology](https://open.spotify.com/album/6820jxuExN2TtOOa0Bj7kU) | 3:32 | 2024-03-29 | 2024-05-05 |
 | [Grace \(feat\. Hannah Got Raps\)](https://open.spotify.com/track/1zPiEMnznjvZl44HrjM7j7) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Hannah Got Raps](https://open.spotify.com/artist/3a35eUCzh1C3JmwwMVy5Wu) | [To See A Sunset \(Deluxe\)](https://open.spotify.com/album/43DmATz8B7QzovFhSmNZGW) | 2:24 | 2023-04-28 | 2023-05-06 |
 | [Grey Poupon](https://open.spotify.com/track/5YiEYhr37soYqg6uImNfcK) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Steven Young](https://open.spotify.com/artist/1F7MvVKA8aIz7spul2xdl1) | [The Hustler's Catalog 2](https://open.spotify.com/album/4HPx2F56RMxYqmPjWePLVT) | 3:13 | 2021-09-03 | 2022-07-13 |
-| [grindstone](https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:08 | 2024-08-09 |  |
+| [grindstone](https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:08 | 2024-08-09 | 2025-07-20 |
 | [Griselda Express \(with Westside Gunn, Conway The Machine & Rick Hyde\)](https://open.spotify.com/track/3WanwKuwk826e61JQwejQQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Rick Hyde](https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1) | [Everybody Can't Go](https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq) | 5:45 | 2024-01-26 | 2024-05-08 |
 | [Guapanese](https://open.spotify.com/track/39xyIJlo7lsDZf3j2oh6vP) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Guapanese](https://open.spotify.com/album/4shRkNL7YCDYNkp8Mzsnv7) | 2:24 | 2023-07-21 | 2023-07-29 |
 | [Guapanese](https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 2:24 | 2023-12-22 | 2024-04-19 |

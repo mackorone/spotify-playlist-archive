@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 15624,
+  "num_followers": 15660,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHg9AAAAAABLXqnDrBDZMsf7d4Fg15+P",
+  "snapshot_id": "aHmOgAAAAACcbVA5R6YGPwC6VWknGRkN",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "El Juanpa",
-          "url": "https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "La Vida Real",
-      "url": "https://open.spotify.com/track/4hgpatpyGT9sGCCjA1KxEa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EPA",
         "url": "https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq"
       },
@@ -611,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Entendemos",
-        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
+        "name": "Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4"
       },
       "artists": [
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "El Juanpa",
+          "url": "https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8"
         }
       ],
-      "duration_ms": 176016,
-      "name": "Nos Entendemos",
-      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+      "duration_ms": 171093,
+      "name": "La Vida Real",
+      "url": "https://open.spotify.com/track/4hgpatpyGT9sGCCjA1KxEa"
     },
     {
       "added_at": null,
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4"
+        "name": "Nos Entendemos",
+        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 162346,
-      "name": "Donde Estamos Hoy",
-      "url": "https://open.spotify.com/track/4PmB3C9y4zsTuRgz91JUHD"
+      "duration_ms": 176016,
+      "name": "Nos Entendemos",
+      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 189450,
       "name": "Hasta el Dia de Hoy",
       "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "Donde Estamos Hoy",
+      "url": "https://open.spotify.com/track/4PmB3C9y4zsTuRgz91JUHD"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Modo On",
-      "url": "https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Siento Nada",
         "url": "https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 146812,
       "name": "Ya No Siento Nada",
       "url": "https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Modo On",
+      "url": "https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB"
     },
     {
       "added_at": null,

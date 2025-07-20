@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Las Mas Bellas Canciones de Juan Gabriel",
+        "url": "https://open.spotify.com/album/4RSb8FnFRXrklJH7uAIvjk"
+      },
+      "artists": [
+        {
+          "name": "Juan Michel",
+          "url": "https://open.spotify.com/artist/7Kr4THdJ1fHdoDcyDN9Yng"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291546,
+      "name": "D\u00edmelo",
+      "url": "https://open.spotify.com/track/0VQuext7zAqPFZ7fpHUFBh"
+    },
+    {
+      "album": {
         "name": "Pimpinela",
         "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
       },
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 172133,
       "name": "El Loco (with Javier Sol\u00eds)",
       "url": "https://open.spotify.com/track/0CFTtVmYOGxriJj1NtPoTW"

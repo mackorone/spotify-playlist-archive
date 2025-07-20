@@ -5967,6 +5967,24 @@
     },
     {
       "album": {
+        "name": "Le Lune Di Marte",
+        "url": "https://open.spotify.com/album/4jGRF9DJds11TtlqZYbUYR"
+      },
+      "artists": [
+        {
+          "name": "Le Lune Di Marte",
+          "url": "https://open.spotify.com/artist/77tcb1ccZLNvt5UvC5rqYS"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Le Lune Di Marte",
+      "url": "https://open.spotify.com/track/3STXlDp83c3PkDtxwOWG0Q"
+    },
+    {
+      "album": {
         "name": "Una donna",
         "url": "https://open.spotify.com/album/673SSPKOImvM3idfEUHpLj"
       },
@@ -8710,7 +8728,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 242645,
       "name": "Randagio",
       "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"

@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7405,
+  "num_followers": 7407,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 87085,
-      "name": "Overture of Conclave",
-      "url": "https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Queer (Original Score)",
         "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 274463,
       "name": "Pure Love",
       "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 87085,
+      "name": "Overture of Conclave",
+      "url": "https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v"
     },
     {
       "added_at": "2024-12-20 14:00:08",

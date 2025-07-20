@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Panic Shack
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,836 likes - 125 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,888 likes - 125 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 |
 | 2 | [Oblivion](https://open.spotify.com/track/02bj1hZGIwwTYG6z1bJG1M) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Oblivion](https://open.spotify.com/album/4tqmxRUMi21ZAqKVemewpO) | 3:12 |
-| 3 | [Girl Band Starter Pack](https://open.spotify.com/track/4Kc8pHLnsN1MfkFJHKEeXQ) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Girl Band Starter Pack](https://open.spotify.com/album/5FIFu0qCJDIQylnjnWR7be) | 3:03 |
+| 3 | [Pockets](https://open.spotify.com/track/4JUmLb7NjUuF5Dkd63m5Fy) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Panic Shack](https://open.spotify.com/album/2yox6fBqg5BEBHpARToOav) | 3:07 |
 | 4 | [Sharp Teeth](https://open.spotify.com/track/1GkQDxx88mdMSbAx37Kumh) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Sharp Teeth](https://open.spotify.com/album/0qIkzuUEJlCO0eCXTk8wGH) | 2:34 |
 | 5 | [Forgotten Token](https://open.spotify.com/track/0SaFJ21gDyyTrEsHGgJr5d) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Forgotten Token / Un Momento](https://open.spotify.com/album/3Fy6a5Wj5FfY6s9JIU2JtM) | 3:28 |
 | 6 | [Love's The Worst](https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Love's The Worst](https://open.spotify.com/album/26S3PSq7r4OA47qMo9I4JC) | 2:47 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 |
 | 125 | [Che Guevara T\-Shirt](https://open.spotify.com/track/447CJp5XoK2xz8A21mu6Dt) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Che Guevara T\-Shirt](https://open.spotify.com/album/6GmzpO3olDI6OGmsyKAVra) | 2:55 |
 
-Snapshot ID: `aHmAjwAAAABq/eqO66pNwZ31RpIj47aq`
+Snapshot ID: `aHulvQAAAAAZGZ561mC8W/KcDFOBUnY/`

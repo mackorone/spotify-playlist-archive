@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-381 songs - 1 day 11 hr 38 min
+382 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Badra Chhaaye](https://open.spotify.com/track/0xaocSiKSgZdetM5onBTvz) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Badra Chhaaye](https://open.spotify.com/album/4Q4LYEVYMZZbOgEiksRxLa) | 2:50 | 2023-07-13 | 2024-04-19 |
 | [Badra Jhum](https://open.spotify.com/track/0yQOBmCtGInHcLxzgGw5La) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/4QfO5s4jV7ybLfyefmGZNu) | 3:42 | 2023-10-09 | 2024-01-08 |
 | [Badra Jhum](https://open.spotify.com/track/3paWIcLemVopky4tYAjYnn) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/6xzmXaik3FZtgmExS2Il4M) | 3:42 | 2023-12-15 | 2024-03-16 |
+| [Bairi Chhaliya](https://open.spotify.com/track/1tMdhI7lQF47BQhq7Xo9ov) | [Prajakta Shukre](https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB) | [Raagraanis](https://open.spotify.com/album/0iERkUtXHqCAt5pShswsKM) | 3:53 | 2025-07-18 |  |
 | [Baiyaan](https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC) | [Aniket Kar](https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s), [Parul Mishra](https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Baiyaan](https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V) | 5:26 | 2023-09-26 | 2025-07-15 |
 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-05-17 |  |
 | [Balma Roothe](https://open.spotify.com/track/5iwv6Hnc8qK2MMWAEPaxSy) | [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Balma Roothe](https://open.spotify.com/album/3H2bShG6rGWRWpB4zCB3i8) | 2:46 | 2025-02-12 | 2025-05-08 |
@@ -170,7 +171,7 @@
 | [Kin Bairan](https://open.spotify.com/track/2w6DUtvptCNLkod2Z9rbNJ) | [Nitesh Khanna](https://open.spotify.com/artist/4rb2PYf8qNfTQbsEIlyhR1) | [Kin Bairan](https://open.spotify.com/album/5RUZKVfkfMAjmq27RdKVfN) | 2:54 | 2023-01-13 | 2024-01-02 |
 | [Kisi Roz \- From "Auron Mein Kahan Dum Tha"](https://open.spotify.com/track/32pFFYJ4Rhr7JoxupIen7p) | [Maithili Thakur](https://open.spotify.com/artist/4l5GJirMP9yceDJOAqvuQY), [M\. M\. Kreem](https://open.spotify.com/artist/5YewttB9YNwpp5u3SGrRER), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Kisi Roz \(From "Auron Mein Kahan Dum Tha"\)](https://open.spotify.com/album/4871XszA8zb4D0KrtYrmq3) | 5:11 | 2024-06-30 |  |
 | [Koyal](https://open.spotify.com/track/0D45HQbt7taPiyDv6ISCul) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Koyal](https://open.spotify.com/album/6ADOm1jO7iLSc7amxdv5Vw) | 3:28 | 2025-04-08 |  |
-| [Koyal \- Acoustic](https://open.spotify.com/track/6rv0m3ZLBYgDAmbr0PfC8t) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Koyal \(Acoustic\)](https://open.spotify.com/album/4CFSs9NYBo0RbRXVJB1Xkp) | 2:32 | 2025-05-23 |  |
+| [Koyal \- Acoustic](https://open.spotify.com/track/6rv0m3ZLBYgDAmbr0PfC8t) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Koyal \(Acoustic\)](https://open.spotify.com/album/4CFSs9NYBo0RbRXVJB1Xkp) | 2:32 | 2025-05-23 | 2025-07-20 |
 | [Koyeliya Kook Sunave](https://open.spotify.com/track/38UtZoKc7J5ZtMomrIzx7B) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Koyeliya Kook Sunave](https://open.spotify.com/album/37skkokcDhxPvqWodKGJlg) | 4:34 | 2024-04-05 | 2024-05-29 |
 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 | 2022-05-17 | 2024-02-23 |
 | [Kuhu Kuhu Bole Koyalia](https://open.spotify.com/track/0XiwdXAtiAnKPUnCK72N5w) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Kuhu Kuhu](https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg) | 5:55 | 2023-09-28 | 2024-04-19 |

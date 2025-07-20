@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 650 songs - 1 day 9 hr 11 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 651 songs - 1 day 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -658,5 +658,6 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 648 | [21/09/20](https://open.spotify.com/track/6ZLJ9aTzT6gIheuxHmroez) | [Trigore](https://open.spotify.com/artist/0rdJ0VosKZEdMEmdotoHNO) | [Dd/Mm/yy](https://open.spotify.com/album/0oiWVvOeepwQHdjyEtuuuq) | 1:20 |
 | 649 | [09/10/20](https://open.spotify.com/track/0cAdbW89vqd8Tm8zA5FIhh) | [Trigore](https://open.spotify.com/artist/0rdJ0VosKZEdMEmdotoHNO) | [Dd/Mm/yy](https://open.spotify.com/album/0oiWVvOeepwQHdjyEtuuuq) | 1:40 |
 | 650 | [16/10/20](https://open.spotify.com/track/6L7Dk0Vyurf49wTmG7ukHl) | [Trigore](https://open.spotify.com/artist/0rdJ0VosKZEdMEmdotoHNO) | [Dd/Mm/yy](https://open.spotify.com/album/0oiWVvOeepwQHdjyEtuuuq) | 1:10 |
+| 651 | [Asgore Runs Over Dess](https://open.spotify.com/track/2pqgcQT9TBfTWySK2AQM7t) | [2050Records](https://open.spotify.com/artist/0Zt2oUzF5lehRQWmmYOejZ) | [Asgore Runs Over Dess](https://open.spotify.com/album/6VOYDkJ2mIe7IJgVUBxCI9) | 1:58 |
 
-Snapshot ID: `AAABnUtkeC6n2y+kNpClSe2GPu3+WEdC`
+Snapshot ID: `AAABnorOPLASuzDiWkDYtFI0XvbR4aNP`

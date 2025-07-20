@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Led Zeppelin Origins : Led Zeppelin's Greatest Music Influences",
+        "url": "https://open.spotify.com/album/165FYdgKjSIPacCjVYqvt4"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157516,
+      "name": "Babe I'm Gonna Leave You",
+      "url": "https://open.spotify.com/track/5hEd5A6yFqibz5GtYL5QA6"
+    },
+    {
+      "album": {
         "name": "In Concert",
         "url": "https://open.spotify.com/album/0xOIYvDBZVEEQvFEu46Ylg"
       },
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 208893,
       "name": "If I Wrote You",
       "url": "https://open.spotify.com/track/2kJfMLleWp1UgC5HlGBHi1"

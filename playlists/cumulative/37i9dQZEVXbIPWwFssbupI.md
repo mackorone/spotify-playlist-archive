@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,378 songs - 5 day 5 hr 26 min
+2,379 songs - 5 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-15 | 2024-08-24 |
 | [Conséquences](https://open.spotify.com/track/6Iw0IFL3iruOaAsZPUU7o3) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 3:27 | 2024-11-16 | 2024-11-24 |
 | [Corazon](https://open.spotify.com/track/4Uz9uTnqgM0xjZpY9wb8ym) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:45 | 2023-01-28 | 2023-01-30 |
+| [Corazon](https://open.spotify.com/track/6ciZJwte2KVXYd92JDyTN6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [D&P à vie](https://open.spotify.com/album/7z7GDzltTvkHX2pQI9QLzA) | 2:59 | 2025-07-19 |  |
 | [CORDILLÈRE](https://open.spotify.com/track/2rVrFAV4XPF0gonpDwvFQI) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [LA VIE CONTINUE](https://open.spotify.com/album/3pa4I96zdjB4CRR7e0gjyK) | 3:18 | 2024-07-20 | 2024-09-16 |
 | [Corrida](https://open.spotify.com/track/0h5loK7awcpjgerjVSKHCg) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 2:50 | 2021-03-27\* | 2021-04-05 |
 | [Cosmos](https://open.spotify.com/track/3UHp1ZNVPKAIZ3Dvjd7bvN) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 1:48 | 2021-09-12 | 2021-09-13 |
@@ -675,7 +676,7 @@
 | [DP sur le maillot](https://open.spotify.com/track/2t3Z2xxL6gjECHxrRkTLMN) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 3:00 | 2023-06-10 | 2023-06-15 |
 | [DRAGO MALEFOY](https://open.spotify.com/track/2FQkF9KXjfn5l79l6OgMMF) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:15 | 2024-09-28 | 2024-10-06 |
 | [Dragon](https://open.spotify.com/track/14vp956PlLOMun7sDqJ1f7) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Dragon](https://open.spotify.com/album/2mTbxwnmUlK2Syj5blGEqI) | 3:03 | 2021-07-18 | 2021-07-25 |
-| [DRAGONS](https://open.spotify.com/track/6bhObRBG732wGeTWWR1781) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 3:58 | 2025-06-21 |  |
+| [DRAGONS](https://open.spotify.com/track/6bhObRBG732wGeTWWR1781) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 3:58 | 2025-06-21 | 2025-07-20 |
 | [Drama queen](https://open.spotify.com/track/4RVPmkIVvzcWF27zfn3sap) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Drama queen](https://open.spotify.com/album/01mO9ZxpTUCroczjsauart) | 2:39 | 2022-06-24 | 2022-08-04 |
 | [Drap sur les opps](https://open.spotify.com/track/3lYJfW7Cdyrz8PNJ4HIqQ5) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 2:57 | 2022-06-11 | 2022-06-16 |
 | [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 | 2023-11-24 | 2023-11-27 |
@@ -774,8 +775,8 @@
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-08-05 |
 | [Fear Of Heights](https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:35 | 2023-10-07 | 2023-10-09 |
 | [Feel Good](https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:43 | 2025-02-07 | 2025-07-16 |
-| [Feel Good](https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:43 | 2025-01-29 |  |
-| [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2025-01-21 | 2025-07-19 |
+| [Feel Good](https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:43 | 2025-01-29 | 2025-07-20 |
+| [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2025-01-21 |  |
 | [Feel Good](https://open.spotify.com/track/6Q0bFWjAn2WFKML1FCdmZF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good \(Version Acoustique\)](https://open.spotify.com/album/5G6avJEvIXa8pOCRLHind5) | 2:43 | 2025-04-18 | 2025-05-19 |
 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 | 2023-12-25 | 2024-12-28 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-25 | 2024-12-27 |

@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Raagraanis",
+        "url": "https://open.spotify.com/album/0iERkUtXHqCAt5pShswsKM"
+      },
+      "artists": [
+        {
+          "name": "Prajakta Shukre",
+          "url": "https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233592,
+      "name": "Bairi Chhaliya",
+      "url": "https://open.spotify.com/track/1tMdhI7lQF47BQhq7Xo9ov"
+    },
+    {
+      "album": {
         "name": "Baiyaan",
         "url": "https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V"
       },
@@ -3596,7 +3614,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 152999,
       "name": "Koyal - Acoustic",
       "url": "https://open.spotify.com/track/6rv0m3ZLBYgDAmbr0PfC8t"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Scott Wolverton, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,650 likes - 196 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,690 likes - 196 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

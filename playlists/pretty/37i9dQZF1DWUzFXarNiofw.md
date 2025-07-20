@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Karri and Isaiah Falls
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,185 likes - 274 songs - 14 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,304 likes - 274 songs - 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

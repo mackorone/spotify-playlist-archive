@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -7016,7 +7016,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 168844,
       "name": "I'm okay",
       "url": "https://open.spotify.com/track/3vUBxbVBve98rrTTdxa0NH"
@@ -13670,7 +13670,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
@@ -17173,6 +17173,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u7684\u640d\u5931",
+        "url": "https://open.spotify.com/album/4BP6YalAkcuONOuPAjXFis"
+      },
+      "artists": [
+        {
+          "name": "Cloud \u96f2\u6d69\u5f71",
+          "url": "https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238682,
+      "name": "\u4f60\u7684\u640d\u5931",
+      "url": "https://open.spotify.com/track/286eXFCY7vNrWiuazONUNr"
+    },
+    {
+      "album": {
         "name": "Can't Be Half",
         "url": "https://open.spotify.com/album/3VL7eP9OtVVYWHgWLyGQRo"
       },
@@ -17934,7 +17952,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 202666,
       "name": "\u54c0\u50b7\u548c\u611b\u4e0a\u7b97\u4e0d\u7b97\u540c\u97f3\u5b57",
       "url": "https://open.spotify.com/track/4kIuEUKjGdEcNXf7RxsByr"
@@ -22506,7 +22524,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 232839,
       "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
       "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"

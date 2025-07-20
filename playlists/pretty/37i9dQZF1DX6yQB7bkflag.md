@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Maroon 5
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,854 likes - 142 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,853 likes - 142 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

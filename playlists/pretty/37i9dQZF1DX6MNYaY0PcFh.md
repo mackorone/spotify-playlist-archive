@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,650 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,688 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,20 +62,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 52 | [Mash Up](https://open.spotify.com/track/1b6lq9XLhXLq7PQFcfvRtb) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [Mash Up](https://open.spotify.com/album/46MG0EvcJHEW9NKOXJ6e04) | 3:05 |
 | 53 | [Sunrise](https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Sunrise](https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33) | 2:55 |
 | 54 | [I NEED U](https://open.spotify.com/track/44MdpVDAuLaHpNtQp6Hv06) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [I NEED U](https://open.spotify.com/album/2U2xvtb2D69XQHJQWLEhTA) | 3:16 |
-| 55 | [Feel The Rush](https://open.spotify.com/track/3qAHlj0o7h3WkiMTVjMuKr) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Feel The Rush](https://open.spotify.com/album/0RJI2RE716kMq0TWZGPPwi) | 3:53 |
+| 55 | [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 |
 | 56 | [When I'm With You](https://open.spotify.com/track/6nux0bFQdzwaV7JE7eR0G5) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [When I'm With U](https://open.spotify.com/album/3LMxqFuIqxjoWg0ExtlnMe) | 4:47 |
 | 57 | [IF I CAN'T BE YOURS](https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IF I CAN'T BE YOURS](https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB) | 3:35 |
-| 58 | [lose my head](https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [lose my head](https://open.spotify.com/album/6uZQgll8GIBJ2KvAfW5TtE) | 3:13 |
-| 59 | [Bad Vibe](https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Bad Vibe](https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm) | 2:22 |
-| 60 | [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 |
+| 58 | [Bad Vibe](https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Bad Vibe](https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm) | 2:22 |
+| 59 | [lose my head](https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [lose my head](https://open.spotify.com/album/6uZQgll8GIBJ2KvAfW5TtE) | 3:13 |
+| 60 | [Feel The Rush](https://open.spotify.com/track/3qAHlj0o7h3WkiMTVjMuKr) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Feel The Rush](https://open.spotify.com/album/0RJI2RE716kMq0TWZGPPwi) | 3:53 |
 | 61 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 |
 | 62 | [Badman Control](https://open.spotify.com/track/4NmbdhxOHSryHgqMYxLpEs) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [ATW](https://open.spotify.com/artist/69Nx0ikrUq0IMY7aJMt4V6) | [Badman Control](https://open.spotify.com/album/3R9SndcM89m7kAcIOlv54O) | 3:34 |
 | 63 | [Speedy Sax](https://open.spotify.com/track/5iwr0fsr4BV2sDep67lMaT) | [Ken Spieker](https://open.spotify.com/artist/1hFWjKEaPnMKiM73jlEIt2) | [Speedy Sax](https://open.spotify.com/album/6QfzkEhE46wIat9LSbldk1) | 3:37 |
 | 64 | [Burna](https://open.spotify.com/track/6SzRVOjeTqor9jBVZ2PP6W) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Burna](https://open.spotify.com/album/2dg79UazOgFcM51vfwEKKW) | 2:33 |
-| 65 | [Phone Line Crew](https://open.spotify.com/track/44snRRMPaLXI3V48DVvA89) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ), [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Phone Line Crew](https://open.spotify.com/album/3sD7h5FRr64VvUnErucall) | 4:23 |
-| 66 | [Work](https://open.spotify.com/track/30FR1uCgYGTJLUm7MXoequ) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Work](https://open.spotify.com/album/3xjnPsjWTutgkdpwSenz4v) | 4:03 |
-| 67 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
-| 68 | [My Mind](https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Refraction](https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa) | 3:52 |
+| 65 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
+| 66 | [My Mind](https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Refraction](https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa) | 3:52 |
+| 67 | [Phone Line Crew](https://open.spotify.com/track/44snRRMPaLXI3V48DVvA89) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ), [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Phone Line Crew](https://open.spotify.com/album/3sD7h5FRr64VvUnErucall) | 4:23 |
+| 68 | [Work](https://open.spotify.com/track/30FR1uCgYGTJLUm7MXoequ) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Work](https://open.spotify.com/album/3xjnPsjWTutgkdpwSenz4v) | 4:03 |
 | 69 | [Go Back](https://open.spotify.com/track/4c1ZQ1mgwfNZq68iU0Wpmu) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Go Back](https://open.spotify.com/album/24mZt09H2PNWpE5ueKMxrC) | 2:55 |
 | 70 | [WHERE'S MY VAPE?](https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [WHERE'S MY VAPE?](https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi) | 4:39 |
 

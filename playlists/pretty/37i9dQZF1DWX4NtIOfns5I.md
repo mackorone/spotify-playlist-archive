@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > living in the new skullcrusher 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,461 likes - 136 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,480 likes - 136 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 6 | [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [All Night All Day](https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN) | 4:48 |
 | 7 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 |
 | 8 | [Talk About](https://open.spotify.com/track/7fVpU3cHlWW40QtoF8Qr5R) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Talk About](https://open.spotify.com/album/1UvR3ECAyt8twRzOvZ3vRQ) | 2:36 |
-| 9 | [Salt n Lime](https://open.spotify.com/track/4JkjG6bAOrpY8AgTSfoNkD) | [Cleo Reed](https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi) | [Cuntry](https://open.spotify.com/album/1W2KhzQHJrTNqr4AGfp3pB) | 8:16 |
+| 9 | [Salt n' Lime](https://open.spotify.com/track/4JkjG6bAOrpY8AgTSfoNkD) | [Cleo Reed](https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi) | [Cuntry](https://open.spotify.com/album/1W2KhzQHJrTNqr4AGfp3pB) | 8:16 |
 | 10 | [Sidewinder](https://open.spotify.com/track/6omZ70eLDHV7b49sCWGIaC) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [No Silent Monks](https://open.spotify.com/album/4xYUBosfxtM0xofFQCJnyn) | 5:00 |
 | 11 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 |
 | 12 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 |

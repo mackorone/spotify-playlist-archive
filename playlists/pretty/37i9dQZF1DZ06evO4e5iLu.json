@@ -1,29 +1,13 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1356479,
+  "num_followers": 1356835,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHg9AAAAAACCbfpI6VlbKDBIUkTvEcVl",
+  "snapshot_id": "aHmOgAAAAADaPUT6j9wsDAGJwz6TYIpf",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 167180,
-      "name": "Papasito",
-      "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
-    },
     {
       "added_at": null,
       "album": {
@@ -216,9 +200,9 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 222458,
-      "name": "Ivonny Bonita",
-      "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
+      "duration_ms": 167180,
+      "name": "Papasito",
+      "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
     },
     {
       "added_at": null,
@@ -286,15 +270,11 @@
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Eddy Lover",
-          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
         }
       ],
-      "duration_ms": 187508,
-      "name": "Dile Luna",
-      "url": "https://open.spotify.com/track/4n0JnrS5az8qhhQRuofBfo"
+      "duration_ms": 222458,
+      "name": "Ivonny Bonita",
+      "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
     },
     {
       "added_at": null,
@@ -360,13 +340,13 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
         }
       ],
-      "duration_ms": 224414,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/1tTEcJKC5uAtIoPrWCkmXZ"
+      "duration_ms": 187508,
+      "name": "Dile Luna",
+      "url": "https://open.spotify.com/track/4n0JnrS5az8qhhQRuofBfo"
     },
     {
       "added_at": null,
@@ -438,11 +418,15 @@
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 183615,
-      "name": "Tu Perfume",
-      "url": "https://open.spotify.com/track/4iWjsRa7DnFiqiihxnyFoI"
+      "duration_ms": 224414,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/1tTEcJKC5uAtIoPrWCkmXZ"
     },
     {
       "added_at": null,

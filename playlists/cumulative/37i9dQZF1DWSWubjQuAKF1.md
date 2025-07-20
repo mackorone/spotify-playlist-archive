@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Filip Grodowski
 
-529 songs - 1 day 1 hr 41 min
+530 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Daj Mi Znać](https://open.spotify.com/track/5TwGHj8i48jbLa3Vwd5OF1) | [Motyl](https://open.spotify.com/artist/4RXtFJNqv5jLkwPAOE5rP7), [WOLF HOUSE](https://open.spotify.com/artist/3c9ZfnaIlcrOgLSZzfTdDt) | [Daj Mi Znać](https://open.spotify.com/album/5cCz3TGg6Md3Yv9qj0FjtF) | 2:26 | 2024-11-21 | 2025-01-24 |
 | [Dajesz Mi Serce](https://open.spotify.com/track/2DoWTRyBa49tFnlaEow3XC) | [Mateusz Ciawłowski](https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF) | [Dajesz Mi Serce](https://open.spotify.com/album/5cUkR7z4PFhEkRteq1dt4w) | 3:05 | 2025-06-19 |  |
 | [Daję Ci słowo](https://open.spotify.com/track/3vascTwzAFu8bvHbhvEduF) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J), [Karbid](https://open.spotify.com/artist/69Tmta3dLLced5SbYhTg4l) | [Daję Ci słowo](https://open.spotify.com/album/4D1LPMuAnWE10544yIQY5T) | 2:07 | 2024-07-11 | 2024-08-02 |
+| [Dance King](https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Dance King](https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8) | 2:30 | 2025-07-17 |  |
 | [Dancechlor](https://open.spotify.com/track/3Gi9KxBBxjpYnXgxULVqBN) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Dancechlor](https://open.spotify.com/album/3PISRyQEHa8sJBTy7BnGzA) | 2:41 | 2024-06-28 | 2024-09-14 |
 | [Danse Macabre](https://open.spotify.com/track/6q3mJXFVhnRuECh5qyM0wM) | [nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Danse Macabre](https://open.spotify.com/album/01Ud1JJmY6UbrqjMOQa8rt) | 2:47 | 2024-09-13 | 2025-01-24 |
 | [Day Off](https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Day Off](https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD) | 2:22 | 2024-06-28 | 2024-09-20 |
@@ -308,7 +309,7 @@
 | [Nie ze mną](https://open.spotify.com/track/6faAGWMBcX76s25R8QxDwf) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Nie ze mną](https://open.spotify.com/album/7hJStuNFMi5tpEZ94bKAit) | 2:43 | 2024-06-28 | 2024-07-19 |
 | [NIE ZNASZ JEJ](https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ](https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1) | 2:34 | 2024-06-28 | 2024-11-22 |
 | [NIE ZNASZ JEJ \- Acoustic](https://open.spotify.com/track/4TyX7rWOyWbrF8EImwPTff) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ \(Acoustic\)](https://open.spotify.com/album/0ME8iWPExzNtMALCVPpVrJ) | 2:30 | 2024-07-18 | 2024-12-07 |
-| [NIEBA](https://open.spotify.com/track/12kODAZcfMh99l0AitMXFC) | [NAUTOFON](https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [NIEBA](https://open.spotify.com/album/0ZkBawe69ftL7Eiv5eeJu9) | 2:57 | 2025-06-05 |  |
+| [NIEBA](https://open.spotify.com/track/12kODAZcfMh99l0AitMXFC) | [NAUTOFON](https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [NIEBA](https://open.spotify.com/album/0ZkBawe69ftL7Eiv5eeJu9) | 2:57 | 2025-06-05 | 2025-07-20 |
 | [Niebezpiecznie mi](https://open.spotify.com/track/5xi57gTzYxZ7LuSR5FglaT) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [Niebezpiecznie mi](https://open.spotify.com/album/4kC9nmSSW6BlPKI06bD23F) | 4:16 | 2024-06-28 | 2024-07-19 |
 | [Nieboskłon](https://open.spotify.com/track/5zLdBe3yVkWpu6lSsp2Xme) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Nieboskłon](https://open.spotify.com/album/53fKRn1YK40EyjLcUNoTl8) | 3:28 | 2025-04-10 | 2025-04-18 |
 | [Niedosyt](https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 2:47 | 2024-06-28 | 2024-07-05 |

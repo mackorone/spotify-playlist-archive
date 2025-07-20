@@ -420,6 +420,24 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235775,
+      "name": "Ciega X \u00c9l",
+      "url": "https://open.spotify.com/track/4BUoYSsmLpclJV1oCp87wf"
+    },
+    {
+      "album": {
+        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
+        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
       "date_removed": "2024-11-23",
@@ -672,7 +690,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 172462,
       "name": "El Mz",
       "url": "https://open.spotify.com/track/388legjpqnOgFciK1rSJR1"
@@ -1673,6 +1691,28 @@
     },
     {
       "album": {
+        "name": "Nacimos Con Estrella",
+        "url": "https://open.spotify.com/album/2S0FbDrOTKRYbfTl462RV3"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226848,
+      "name": "Nacimos Con Estrella",
+      "url": "https://open.spotify.com/track/1Y3gC8sYbwQYA24CQwpfVu"
+    },
+    {
+      "album": {
         "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
         "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
       },
@@ -1688,7 +1728,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 226848,
       "name": "Nacimos Con Estrella",
       "url": "https://open.spotify.com/track/1r6wwBXpyDphJE8yXBJgOK"
@@ -1719,7 +1759,7 @@
       "artists": [
         {
           "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+          "url": "https://open.spotify.com/artist/0qxDNZighUcPqxQzhIuqKS"
         },
         {
           "name": "Adrian L Santos",

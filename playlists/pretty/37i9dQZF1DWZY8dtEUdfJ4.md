@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,369 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,397 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 33 | [La poupée qui fait non](https://open.spotify.com/track/245la2fLeLCOpBWDjgE8rj) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 3:13 |
 | 34 | [Mirza](https://open.spotify.com/track/0cV7Y3WH3iwsZTjibVyck1) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 2:24 |
 | 35 | [Les filles de mon pays](https://open.spotify.com/track/2n5pxfXa9atiFBwsexG5sF) | [Enrico Macias](https://open.spotify.com/artist/1n1k5yFQxYhohOmSWVmTo6) | [Enfants de tous pays](https://open.spotify.com/album/6UYWhcKky2fdgFF7KNTVvV) | 2:31 |
-| 36 | [Les élucubrations d'Antoine](https://open.spotify.com/track/79JldwTZxGilhRuQlECrz2) | [Antoine](https://open.spotify.com/artist/2n1K6dhzYmJGJQ8j0vXbvr) | [MusicWorld France](https://open.spotify.com/album/0WKozvA71AJGWSNW6y9Aa0) | 3:27 |
+| 36 | [Les élucubrations d'Antoine](https://open.spotify.com/track/79JldwTZxGilhRuQlECrz2) | [Antoine](https://open.spotify.com/artist/5IOV9b39dIJ54y49U2vsj0) | [MusicWorld France](https://open.spotify.com/album/0WKozvA71AJGWSNW6y9Aa0) | 3:27 |
 | 37 | [Vesoul](https://open.spotify.com/track/2F94KDtJjCdzZYCQWBliRC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [J'Arrive \(Vol.12\)](https://open.spotify.com/album/75JBZy6ctvayGftnldYMzZ) | 3:06 |
 | 38 | [La plus belle pour aller danser](https://open.spotify.com/track/2VAm6EZKNckHd1VWXV8WiI) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Le meilleur des années RCA](https://open.spotify.com/album/2esvftu44r8Q9nZUG8chWh) | 2:33 |
 | 39 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/2CLeotsLhEUu0qkj56vbUj) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 2:55 |

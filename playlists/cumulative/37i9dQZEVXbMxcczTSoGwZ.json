@@ -273,6 +273,32 @@
     },
     {
       "album": {
+        "name": "16 ct",
+        "url": "https://open.spotify.com/album/2I8ZiXuYmFptvaDskAnpke"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        },
+        {
+          "name": "Habson",
+          "url": "https://open.spotify.com/artist/1oTR448XOPP7T54lMD6BGa"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181903,
+      "name": "16 ct",
+      "url": "https://open.spotify.com/track/3RbtraQDqbNGuviw5iJDJt"
+    },
+    {
+      "album": {
         "name": "Ministerinpaikal / 1987",
         "url": "https://open.spotify.com/album/0F2xzUyFFvkTIRKHhVsfu7"
       },
@@ -7180,7 +7206,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 151500,
       "name": "Diva",
       "url": "https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy"
@@ -9956,7 +9982,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -9996,6 +10022,24 @@
       "duration_ms": 184237,
       "name": "Eteisvalssi",
       "url": "https://open.spotify.com/track/628LprEZ2tP24jrT3cAdvq"
+    },
+    {
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
       "album": {
@@ -30787,6 +30831,28 @@
     },
     {
       "album": {
+        "name": "Naadindoo (feat. Ege Zulu)",
+        "url": "https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        },
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157788,
+      "name": "Naadindoo (feat. Ege Zulu)",
+      "url": "https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL"
+    },
+    {
+      "album": {
         "name": "Coast to Costi",
         "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
       },
@@ -47118,7 +47184,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 188746,
       "name": "T\u00e4m\u00e4n kes\u00e4n viheltelen",
       "url": "https://open.spotify.com/track/4pPImvY6UT7E0R1kozRkM7"
@@ -49764,7 +49830,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 222439,
       "name": "Viimeinen tanssi",
       "url": "https://open.spotify.com/track/643oAKTJRrWg6sd7Npc0Qk"
@@ -52104,7 +52170,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 169237,
       "name": "Ylibuukattu",
       "url": "https://open.spotify.com/track/2EWr723Hah4EUGjPU5kDXf"

@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 44762,
+  "num_followers": 44791,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 169196,
+      "name": "Come Gimme",
+      "url": "https://open.spotify.com/track/7agUxGNzZz3eaPqH1PQtSf"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 137962,
       "name": "Could This Be Love",
       "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 169196,
-      "name": "Come Gimme",
-      "url": "https://open.spotify.com/track/7agUxGNzZz3eaPqH1PQtSf"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -747,6 +747,26 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
+        "name": "Namipa",
+        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 141521,
+      "name": "Namipa",
+      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 148672,
       "name": "FOR YOU",
       "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "Namipa",
-        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 141521,
-      "name": "Namipa",
-      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/1U6WUqfS0r6nqlqWcwZ9vI"
-      },
-      "artists": [
-        {
-          "name": "Shine TTW",
-          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "TIME",
-      "url": "https://open.spotify.com/track/4ilVnBX3jLEEdkRwRWEA4A"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "Tears Of A Mad Man",
         "url": "https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "Before We Became Strangers",
-        "url": "https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte"
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/1U6WUqfS0r6nqlqWcwZ9vI"
       },
       "artists": [
         {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+          "name": "Shine TTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Maj\u1eb9kaj\u00e1",
-      "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
+      "duration_ms": 139800,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/4ilVnBX3jLEEdkRwRWEA4A"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -1055,6 +1039,22 @@
       "duration_ms": 96521,
       "name": "Well",
       "url": "https://open.spotify.com/track/5GJpGaP79iINgsXERqERlc"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "Before We Became Strangers",
+        "url": "https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Maj\u1eb9kaj\u00e1",
+      "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
+        "name": "I Gotchu",
+        "url": "https://open.spotify.com/album/1NucawOXrbv70VaSLjGtf5"
+      },
+      "artists": [
+        {
+          "name": "Spy Shitta",
+          "url": "https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD"
+        }
+      ],
+      "duration_ms": 159545,
+      "name": "I Gotchu",
+      "url": "https://open.spotify.com/track/0WrjHAphuoRvA1b9EoKW20"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
         "name": "WHEN NOBODY IS WATCHING",
         "url": "https://open.spotify.com/album/7wupiYO6dV8M4Ghs3dWljJ"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "I Gotchu",
-        "url": "https://open.spotify.com/album/1NucawOXrbv70VaSLjGtf5"
-      },
-      "artists": [
-        {
-          "name": "Spy Shitta",
-          "url": "https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD"
-        }
-      ],
-      "duration_ms": 159545,
-      "name": "I Gotchu",
-      "url": "https://open.spotify.com/track/0WrjHAphuoRvA1b9EoKW20"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "JAILER (feat. Victony)",
         "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 235294,
       "name": "JAILER (feat. Victony)",
       "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "Fini",
+        "url": "https://open.spotify.com/album/4kEVAL6PC7RAZZRkyr1z0L"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Fini",
+      "url": "https://open.spotify.com/track/750xvuULIPZ4U5vk251SvI"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "Fini",
-        "url": "https://open.spotify.com/album/4kEVAL6PC7RAZZRkyr1z0L"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Fini",
-      "url": "https://open.spotify.com/track/750xvuULIPZ4U5vk251SvI"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "Disciple",
         "url": "https://open.spotify.com/album/2FRkIxUMIHqsRQk1IYPTEe"
       },
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "Arike",
-        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
       },
       "artists": [
         {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
         }
       ],
-      "duration_ms": 124286,
-      "name": "Arike",
-      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
+      "duration_ms": 196000,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
+        "name": "Arike",
+        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
       },
       "artists": [
         {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
+      "duration_ms": 124286,
+      "name": "Arike",
+      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
     }
   ],
   "unique_name": "Lovin' Beats",

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Molly Tuttle\n",
-  "num_followers": 63952,
+  "num_followers": 63945,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,6 @@
     {
       "added_at": "2025-07-01 04:00:14",
       "album": {
-        "name": "Oh Lala",
-        "url": "https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 230031,
-      "name": "Oh Lala",
-      "url": "https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD"
-    },
-    {
-      "added_at": "2025-07-01 04:00:14",
-      "album": {
         "name": "Real Thing",
         "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 205146,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
+    },
+    {
+      "added_at": "2025-07-01 04:00:14",
+      "album": {
+        "name": "Oh Lala",
+        "url": "https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 230031,
+      "name": "Oh Lala",
+      "url": "https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD"
     },
     {
       "added_at": "2025-07-01 04:00:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-07-01 04:00:14",
       "album": {
-        "name": "Snakeskin",
-        "url": "https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr"
-      },
-      "artists": [
-        {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
-        }
-      ],
-      "duration_ms": 163444,
-      "name": "Snakeskin",
-      "url": "https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w"
-    },
-    {
-      "added_at": "2025-07-01 04:00:14",
-      "album": {
         "name": "Rattlesnake Preacher",
         "url": "https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 235253,
       "name": "Rattlesnake Preacher",
       "url": "https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7"
+    },
+    {
+      "added_at": "2025-07-01 04:00:14",
+      "album": {
+        "name": "Snakeskin",
+        "url": "https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "duration_ms": 163444,
+      "name": "Snakeskin",
+      "url": "https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w"
     },
     {
       "added_at": "2025-07-01 04:00:14",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-07-01 04:00:14",
       "album": {
-        "name": "Ain't Sad About It",
-        "url": "https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 223106,
-      "name": "Ain't Sad About It",
-      "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
-    },
-    {
-      "added_at": "2025-07-01 04:00:14",
-      "album": {
         "name": "Sex, Drugs, & Country Music",
         "url": "https://open.spotify.com/album/759caALCZeFt6jTB2eKMv8"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 217000,
       "name": "Sex, Drugs, & Country Music",
       "url": "https://open.spotify.com/track/7FzbROJvb1vzrwnmkK5EC5"
+    },
+    {
+      "added_at": "2025-07-01 04:00:14",
+      "album": {
+        "name": "Ain't Sad About It",
+        "url": "https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Ain't Sad About It",
+      "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
     },
     {
       "added_at": "2025-07-01 04:00:14",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-07-01 04:00:14",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 193141,
-      "name": "Heartthrob",
-      "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
-    },
-    {
-      "added_at": "2025-07-01 04:00:14",
-      "album": {
         "name": "George F****** Strait",
         "url": "https://open.spotify.com/album/5PzOrHKY9PIZ0FjR4lLglH"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 189165,
       "name": "George F****** Strait",
       "url": "https://open.spotify.com/track/59GPNeu7MDHoAL7eZpqM2l"
+    },
+    {
+      "added_at": "2025-07-01 04:00:14",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 193141,
+      "name": "Heartthrob",
+      "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
     },
     {
       "added_at": "2025-07-01 04:00:14",

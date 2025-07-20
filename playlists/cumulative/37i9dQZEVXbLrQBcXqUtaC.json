@@ -10090,7 +10090,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 295157,
       "name": "Habibi Howa",
       "url": "https://open.spotify.com/track/3rWC89eFiYAC5enhaRLZ5X"
@@ -10470,7 +10470,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 215338,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
@@ -12548,7 +12548,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -24064,7 +24064,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -26818,7 +26818,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 273475,
       "name": "Walla Haram",
       "url": "https://open.spotify.com/track/2FP3VlH0UT5cXxqlFiAGu4"
@@ -28779,6 +28779,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0646\u0627 \u0627\u0644\u0628\u0635\u0645\u0629",
+        "url": "https://open.spotify.com/album/2fnb7JYYwpIfcY7PXPas2c"
+      },
+      "artists": [
+        {
+          "name": "Mohamed AlSalim",
+          "url": "https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226853,
+      "name": "\u0627\u0639\u0648\u0641 \u0627\u0644\u062f\u0646\u064a\u0627",
+      "url": "https://open.spotify.com/track/2yO2XFeewgC5j5wPTZZ5ha"
+    },
+    {
+      "album": {
         "name": "\u0627\u063a\u0627\u0646\u064a \u062a\u064a\u0643 \u062a\u0648\u0643 \u0645\u0637\u0644\u0648\u0628\u0629 - \u0645\u062c\u0646\u0648\u0646 \u0641\u064a\u0643 \u064a\u0627 \u0639\u0645\u0631\u064a \u060c \u064a\u0627\u062d\u0628\u064a \u0627\u0634\u062a\u0648\u0645 \u0627\u0634\u062a\u0648\u0645",
         "url": "https://open.spotify.com/album/0R0CC2N5SYtqntvJa95VFk"
       },
@@ -29150,7 +29168,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 215076,
       "name": "\u0627\u0644\u0639\u064a\u0646 \u0639\u0644\u0649 \u0627\u0644\u062d\u0627\u062c\u0628",
       "url": "https://open.spotify.com/track/4CU10WzYSGCfx1EEOHFoRK"
@@ -31510,7 +31528,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 216944,
       "name": "\u0642\u0644\u0648 \u0646\u0648\u0632 - Gole naz",
       "url": "https://open.spotify.com/track/64bLrZFkl9wQ4sbvuXdzTg"

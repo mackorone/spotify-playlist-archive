@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,174 likes - 43 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,258 likes - 43 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 42 | [SEMRÉH](https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [SEMRÉH](https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw) | 2:27 |
 | 43 | [Sigo na Sombra](https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:15 |
 
-Snapshot ID: `aHg9AAAAAADCAghjyqjWXtloAF+Jpx0L`
+Snapshot ID: `aHmOgAAAAADEiE8Pa5xPSqVXW96aVvfr`

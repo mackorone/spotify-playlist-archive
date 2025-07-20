@@ -4,7 +4,7 @@
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-680 songs - 1 day 11 hr 14 min
+681 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [angelz in paris \#44angelz](https://open.spotify.com/track/4ZHKOE5HhNUgNfKSP7LUyr) | [KidSnorlax](https://open.spotify.com/artist/1dK4UZ6zuHSPzkWpCCQEIL), [cholorofilm](https://open.spotify.com/artist/3kLjcqFmnLnNfBJfjZYa8y) | [angelz in paris \#44angelz](https://open.spotify.com/album/26GpCuf2k0r9VRs3PzNaMm) | 2:12 | 2024-12-16 |  |
 | [Army Of Colors](https://open.spotify.com/track/3qjPVXrK3rJ1HiXWg5r1uK) | [Blurain](https://open.spotify.com/artist/1qoYHtGe1GYUzFpoRIse8y) | [What Life Really Means 2](https://open.spotify.com/album/3xaVoFI1RBrdIAgGGzp94H) | 5:27 | 2024-12-15 |  |
 | [As Long As I Can Tell](https://open.spotify.com/track/2kTuo2WN6QMB4g6f9oLkAI) | [icryduringsex](https://open.spotify.com/artist/5dpFvg3GgOk9bZgG4FN4Fw) | [Songs4her](https://open.spotify.com/album/6Z2NCRKR56C0D5L2iPYD1Z) | 2:07 | 2024-12-15 |  |
+| [Asgore Runs Over Dess](https://open.spotify.com/track/2pqgcQT9TBfTWySK2AQM7t) | [2050Records](https://open.spotify.com/artist/0Zt2oUzF5lehRQWmmYOejZ) | [Asgore Runs Over Dess](https://open.spotify.com/album/6VOYDkJ2mIe7IJgVUBxCI9) | 1:58 | 2025-07-20 |  |
 | [Asking for Money](https://open.spotify.com/track/5AgQybnjMtlRjDuNfVs54C) | [Baskem](https://open.spotify.com/artist/03FChCYZ6EtklEGk5MKcje) | [Unleashed](https://open.spotify.com/album/4fu9h1LOb9MDVSikHhXW2Z) | 3:48 | 2024-12-15 |  |
 | [AUNT WANG SYRUP](https://open.spotify.com/track/2ta2vg1nobvP5AozCRs7v1) | [Breaded Beans](https://open.spotify.com/artist/5pQVwAPuspOhZ4SMJDgctF) | [CALL ME IF YOU GET LOST: LOST TRACKS](https://open.spotify.com/album/18RDbFA8eFqrjM5XZsboxm) | 1:34 | 2024-12-15 |  |
 | [Aunt Wang Syrup](https://open.spotify.com/track/3DjrTjciheq2Lt0eqOzEJ4) | [The Activist](https://open.spotify.com/artist/1e3BzLHwWTlo0Twc47xXJd) | [Tyler EP](https://open.spotify.com/album/3Oy7bDJqtbMKTgetQ3HDop) | 1:30 | 2024-12-15 |  |

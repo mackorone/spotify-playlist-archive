@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 宋德鶴 \(Song of crane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,357 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,356 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 66 | [You just gotta try.](https://open.spotify.com/track/5nsfgF7ETd7jHZnvH77pLI) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [You just gotta try.](https://open.spotify.com/album/4uypJn7SGkFAdP0pMpYjJ1) | 3:20 |
 | 67 | [人青（劇集《拜六禮拜》插曲）](https://open.spotify.com/track/4PWtvbrqC60b3w3D2liYWF) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [人青（劇集《拜六禮拜》插曲）](https://open.spotify.com/album/5OhcBZpw5kEEap0E93jUGS) | 3:58 |
 | 68 | [自由，我就要自由](https://open.spotify.com/track/1DnWvemHvEFbuDi2QfPRka) | [GOTA](https://open.spotify.com/artist/1t3344DpBqbezUv3QIR1DH) | [自由，我就要自由](https://open.spotify.com/album/6MoOzFzBo7wLsna4IXoJHq) | 3:59 |
-| 69 | [後空翻的貓](https://open.spotify.com/track/7BTCGSUm2pwBKslxNFfdd2) | [卜星慧樂團](https://open.spotify.com/artist/2ff3KJtn8tSFraz70wiogs) | [後空翻的貓](https://open.spotify.com/album/3JefgtAlRZjjGtIuzfOXjx) | 3:29 |
+| 69 | [後空翻的貓](https://open.spotify.com/track/7BTCGSUm2pwBKslxNFfdd2) | [卜星慧](https://open.spotify.com/artist/5Zz3yt1ts4hZbj1Z0JkThM) | [後空翻的貓](https://open.spotify.com/album/3JefgtAlRZjjGtIuzfOXjx) | 3:29 |
 | 70 | [無可救藥的浪漫](https://open.spotify.com/track/12AQylKLbujeB4hDrRNqno) | [粗大Band](https://open.spotify.com/artist/3Y5AMY2fQMtIcI0oquKJWi), [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa) | [星電感in](https://open.spotify.com/album/6k50Lq4QlDNX8TjeK0D1ZO) | 3:20 |
 | 71 | [鑫](https://open.spotify.com/track/2nLehOVwPMgHvUXofnzqZX) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/4OXlHVTC0Wf4MkAQfEw2xQ) | 4:07 |
 | 72 | [SUNNYDAY](https://open.spotify.com/track/7CjfU8IOB6Y1BoBLFYYvZi) | [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [SUNNYDAY](https://open.spotify.com/album/6VplCaA9aBrHJ9zSIFgE2B) | 2:49 |

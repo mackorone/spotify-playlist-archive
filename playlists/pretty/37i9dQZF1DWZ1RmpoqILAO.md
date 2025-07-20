@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > clocking in for elderberry wine summer 🍇
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,549 likes - 151 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,598 likes - 151 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 6 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 |
 | 7 | [Cowboy](https://open.spotify.com/track/1Pxk92XAQEuTGWvu9w4OGN) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 4:35 |
 | 8 | [Truck Flipped Over '19](https://open.spotify.com/track/2pOHy7YsTJIjpcGCEdQRgq) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Truck Flipped Over '19](https://open.spotify.com/album/3EZXvsZXpN5xhpTCzAf208) | 3:56 |
-| 9 | [Salt n Lime](https://open.spotify.com/track/4JkjG6bAOrpY8AgTSfoNkD) | [Cleo Reed](https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi) | [Cuntry](https://open.spotify.com/album/1W2KhzQHJrTNqr4AGfp3pB) | 8:16 |
+| 9 | [Salt n' Lime](https://open.spotify.com/track/4JkjG6bAOrpY8AgTSfoNkD) | [Cleo Reed](https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi) | [Cuntry](https://open.spotify.com/album/1W2KhzQHJrTNqr4AGfp3pB) | 8:16 |
 | 10 | [I Don't Want To Die](https://open.spotify.com/track/3pIYkA9PmRsivvLS9QUlCi) | [Good Looks](https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG) | [Lived Here For A While \(Deluxe Edition\)](https://open.spotify.com/album/1yZUAhsXFxTXQvCR312pBI) | 3:23 |
 | 11 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 |
 | 12 | [See People](https://open.spotify.com/track/37piAuK1WhsQDLJ8hmDDSW) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [It's Summer, I Love You, and I'm Surrounded by Snow](https://open.spotify.com/album/7otdTE68bZ0rHjFS5KvN1n) | 3:49 |

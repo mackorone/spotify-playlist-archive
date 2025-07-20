@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-676 songs - 1 day 15 hr 43 min
+677 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Bye Bye Bhaiya](https://open.spotify.com/track/5DeFoUexJicerrgXRXDLUi) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Bye Bye Bhaiya](https://open.spotify.com/album/1CDsn3do1lxwOTsgcYt8BZ) | 3:18 | 2025-02-20 |  |
 | [Champagini \- From "Think Indie"](https://open.spotify.com/track/5K2mySnr02sfLS3MMJZICc) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Champagini \(From "Think Indie"\)](https://open.spotify.com/album/6ku33EXLIvrxSPSet3xTfM) | 1:56 | 2025-04-18 |  |
 | [Chechi](https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj) | [Marshall](https://open.spotify.com/artist/2zzq4pWs2DhacmzdKeY0eD) | [Chechi](https://open.spotify.com/album/6e4ZAz8A7XIA9PBTM6bgP4) | 3:12 | 2025-01-30 |  |
+| [Chi Pae Thu](https://open.spotify.com/track/3xmDeQMq6cCD2ZJqdkM68u) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vaaheesan Rasaiya](https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye) | [Chi Pae Thu](https://open.spotify.com/album/2p7kl2wvTau1yt2oLHii80) | 3:42 | 2025-07-19 |  |
 | [Chickana](https://open.spotify.com/track/6NXhU9FTUN8j8W6Qj86uER) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A) | [Chickana](https://open.spotify.com/album/4F9B7w1XZeINGaly1GhJ70) | 2:50 | 2023-09-26 | 2024-10-15 |
 | [Chikkama \- From "Think Indie"](https://open.spotify.com/track/7IH4rDw73brbfeEFWbSNHq) | [VENGAYO](https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [Chikkama \(From "Think Indie"\)](https://open.spotify.com/album/4F33Dunez72U36L0KPz9CW) | 2:08 | 2025-06-06 |  |
 | [Chillamma](https://open.spotify.com/track/6mlbSetAfxt50bqQyX7hMY) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3) | [Chillamma](https://open.spotify.com/album/2Nj1UHK73NCPQH3JDr7Dqw) | 1:04 | 2022-12-19 | 2023-03-07 |
@@ -413,7 +414,7 @@
 | [Nilai](https://open.spotify.com/track/3ZGTWcFuIURG6gX8omp5kL) | [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj) | [Nilai](https://open.spotify.com/album/6c0bgegNqZ9H9nYjCBO15y) | 4:34 | 2024-10-17 | 2024-11-14 |
 | [Nilai Maarum Payanam](https://open.spotify.com/track/60dwrCvW8ww7iMA8pCX2JX) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Nilai Maarum Payanam](https://open.spotify.com/album/7fpSor3wlk5MUb3CMY3u5y) | 3:15 | 2022-09-23 | 2023-02-09 |
 | [Nilave](https://open.spotify.com/track/0bBFHTeJKIqDZruxAGrAsd) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60), [Sugirtharaja Sapesan](https://open.spotify.com/artist/1VVa6EfoRKLOsx744VfO3C) | [Nilave](https://open.spotify.com/album/0Xg3ZLaeQzbhwm3Tk7vZOR) | 3:16 | 2022-05-31 | 2022-07-28 |
-| [Nile Nadiye](https://open.spotify.com/track/5EM0SF9j9UmDPIWaJtrY3y) | [Amruta Natu](https://open.spotify.com/artist/05oLd4emUQsLievloAOyy5), [Gaurav Bangia](https://open.spotify.com/artist/6gCjKmhyFa8lfu1JSlAIpN) | [Nile Nadiye](https://open.spotify.com/album/1aaICsKcjO6IWmT3KcF4PU) | 3:34 | 2024-12-05 |  |
+| [Nile Nadiye](https://open.spotify.com/track/5EM0SF9j9UmDPIWaJtrY3y) | [Amruta Natu](https://open.spotify.com/artist/05oLd4emUQsLievloAOyy5), [Gaurav Bangia](https://open.spotify.com/artist/6gCjKmhyFa8lfu1JSlAIpN) | [Nile Nadiye](https://open.spotify.com/album/1aaICsKcjO6IWmT3KcF4PU) | 3:34 | 2024-12-05 | 2025-07-20 |
 | [Nilla Mazhaiye](https://open.spotify.com/track/7Hr9ckrf61lR4DzhZVh5qv) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Dharrini Santhabavan](https://open.spotify.com/artist/5RgQJpUJIaouCA81goKiOW) | [Nilla Mazhaiye](https://open.spotify.com/album/3tGnd1qzSk38wdliXhPAyI) | 4:25 | 2023-07-24 | 2025-04-24 |
 | [Ninaivellam \- From "Think Indie"](https://open.spotify.com/track/7HHQ2z0rd1sNMDPdpur1Yl) | [Josh Vivian](https://open.spotify.com/artist/0C48t0nOfxy7ZymGQVpEP8) | [Ninaivellam \(From "Think Indie"\)](https://open.spotify.com/album/5mc2Z5wU2fOylFVuJW372j) | 2:57 | 2022-10-28 | 2023-02-07 |
 | [Ninaivilae](https://open.spotify.com/track/76o6vlGSmfdHzTXGXyzJrs) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs) | [Ninaivilae](https://open.spotify.com/album/4MuHYgfhH6nizT0yezP0h3) | 2:05 | 2023-07-24 | 2025-02-15 |

@@ -5218,7 +5218,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 138857,
       "name": "Bez promo",
       "url": "https://open.spotify.com/track/0CbqbY48Q9lmtsc7q0B15a"
@@ -5558,7 +5558,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -10343,6 +10343,28 @@
     },
     {
       "album": {
+        "name": "CZEGO CHCESZ?",
+        "url": "https://open.spotify.com/album/2kkUazHQMUne1XrpTS73f1"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "CZEGO CHCESZ?",
+      "url": "https://open.spotify.com/track/4eue73ROoFV1r1Rw7uUQbj"
+    },
+    {
+      "album": {
         "name": "Czekam Na Znak",
         "url": "https://open.spotify.com/album/0qlpEOnkA92eMNZNuXJ7bn"
       },
@@ -14002,6 +14024,24 @@
       "duration_ms": 188646,
       "name": "etc. (na disco)",
       "url": "https://open.spotify.com/track/4Vhb4mb1Ydh5AhxEixT5eq"
+    },
+    {
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
       "album": {
@@ -25270,7 +25310,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
@@ -44354,7 +44394,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
@@ -44376,7 +44416,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 174374,
       "name": "taki ma\u0142y ja",
       "url": "https://open.spotify.com/track/23rMVeJqT3Esu6BjTFCscV"
@@ -44482,7 +44522,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 201829,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/6jGFzqqW8VBBf4oLhnP4A6"

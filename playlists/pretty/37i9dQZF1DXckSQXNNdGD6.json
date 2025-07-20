@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  FADES.",
-  "num_followers": 20753,
+  "num_followers": 20752,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
+        "name": "costa brava",
+        "url": "https://open.spotify.com/album/3aH9pg37osLiuR4siGSLxJ"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "costa brava",
+      "url": "https://open.spotify.com/track/7MmdTcUDVkk0TkD1ImJOVj"
+    },
+    {
+      "added_at": "2025-07-01 22:00:27",
+      "album": {
         "name": "GORGONA",
         "url": "https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 170721,
       "name": "Mujer\u00f3n",
       "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
-    },
-    {
-      "added_at": "2025-07-01 22:00:27",
-      "album": {
-        "name": "costa brava",
-        "url": "https://open.spotify.com/album/3aH9pg37osLiuR4siGSLxJ"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 178125,
-      "name": "costa brava",
-      "url": "https://open.spotify.com/track/7MmdTcUDVkk0TkD1ImJOVj"
     },
     {
       "added_at": "2025-07-01 22:00:27",

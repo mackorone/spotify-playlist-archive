@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,046 songs - 1 day 16 hr 31 min
+1,047 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [Hang On](https://open.spotify.com/track/4duI476FUu6iId8JOTOk8i) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Hang On](https://open.spotify.com/album/246psBSULJ3D3tL7zwU4wO) | 1:58 | 2022-04-15 | 2022-07-01 |
 | [Happy Rhythm](https://open.spotify.com/track/3rqXQZIaS8MJxg3ZH4U7PS) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Happy Rhythm](https://open.spotify.com/album/6kUm2VBgPparejM4cqiMOj) | 1:46 | 2022-11-11 | 2024-01-17 |
 | [Happy Vibes](https://open.spotify.com/track/756qohm4sXMyfHT6t0pPOK) | [Banker](https://open.spotify.com/artist/2VTXmYvdlvwrIQ0p2j2XfI) | [Happy Vibes](https://open.spotify.com/album/6emgwxBXdHUBvWy4y0XJwH) | 2:40 | 2022-11-11 | 2025-07-01 |
-| [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 |  |
+| [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 | 2025-07-20 |
 | [have we met before?](https://open.spotify.com/track/096FqtiSIjZqAAZH6U6mW7) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [have we met before?](https://open.spotify.com/album/6MsQoiJdl6aC8QxybR4OF1) | 1:42 | 2022-06-24 | 2025-07-01 |
 | [Haze](https://open.spotify.com/track/3XqZUhZcHpOtP9rhw6O43l) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Haze](https://open.spotify.com/album/3yvDt541gJut8flE9HmCAP) | 2:28 | 2024-07-26 |  |
 | [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 | 2023-11-24 |  |
@@ -445,6 +445,7 @@
 | [KOI FISH](https://open.spotify.com/track/5X4Wk6FiOu74JG3PNxX3LB) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [KOI FISH](https://open.spotify.com/album/3sgn6a1a43LZzkznOWo5Lt) | 2:08 | 2022-11-11 | 2025-07-06 |
 | [koko](https://open.spotify.com/track/2M07oWoOgrpaojZ6dulp3Y) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [koko](https://open.spotify.com/album/1MQbP92gnFWG4CSgyEiZXZ) | 2:29 | 2024-10-25 |  |
 | [Kopo](https://open.spotify.com/track/5OleafVdjWJZXpgH0xogCQ) | [ShoPaRo](https://open.spotify.com/artist/2GkroNSOCAW3rYkMfZyfdn), [Karma Kush](https://open.spotify.com/artist/46c7S778Q0SzgxgdPQriL0), [Meraki99](https://open.spotify.com/artist/1Ahnk99UWwxfK79NVSjcnI) | [Kopo](https://open.spotify.com/album/6FL1U7mZv2170IdhZuXduy) | 1:53 | 2023-01-13 |  |
+| [Kyla](https://open.spotify.com/track/1VFcm6dHaWzvBo69EyjCnK) | [BeatsBySindri](https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV) | [Kyla](https://open.spotify.com/album/5D0oykZG18kwIdaNx12Ce1) | 2:40 | 2025-07-18 |  |
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2022-04-15 | 2022-06-25 |
 | [Lakeview Hotel](https://open.spotify.com/track/64KLZ6ghwEzRH6yAoNfEj2) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Charlie Young](https://open.spotify.com/artist/5HPpufL8VIMnpG7423YMmH) | [Lakeview Hotel](https://open.spotify.com/album/0e5iO95x8kua0wwFU0H3qe) | 2:33 | 2022-04-15 | 2023-10-13 |
 | [lalalala](https://open.spotify.com/track/3y8x4FedCk7oZp1EdTSimF) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [lalalala](https://open.spotify.com/album/0HE6pMfXCjvZPBh3dwzgzo) | 2:29 | 2024-07-26 | 2025-07-19 |

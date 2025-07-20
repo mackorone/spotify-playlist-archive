@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. K4OS en portada.",
-  "num_followers": 42566,
+  "num_followers": 42565,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-07-02 03:01:04",
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/5blrHcFmGcYSgb3oLz4bdk"
+      },
+      "artists": [
+        {
+          "name": "Cornuda Posting",
+          "url": "https://open.spotify.com/artist/6S55BI9rMcZJFtBnCvyg5D"
+        }
+      ],
+      "duration_ms": 133191,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4cvviKvcAJ0xHCcaBeo971"
+    },
+    {
+      "added_at": "2025-07-02 03:01:04",
+      "album": {
         "name": "Hijo de Puta",
         "url": "https://open.spotify.com/album/0OZDFzXBcH8stCmtz7I7cC"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 183408,
       "name": "Hijo de Puta",
       "url": "https://open.spotify.com/track/57scDcITcx6puXDWHzZpPY"
-    },
-    {
-      "added_at": "2025-07-02 03:01:04",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/5blrHcFmGcYSgb3oLz4bdk"
-      },
-      "artists": [
-        {
-          "name": "Cornuda Posting",
-          "url": "https://open.spotify.com/artist/6S55BI9rMcZJFtBnCvyg5D"
-        }
-      ],
-      "duration_ms": 133191,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/4cvviKvcAJ0xHCcaBeo971"
     },
     {
       "added_at": "2025-07-02 03:01:04",

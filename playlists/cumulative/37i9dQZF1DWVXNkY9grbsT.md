@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-530 songs - 1 day 20 hr 16 min
+531 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Beacon of Light](https://open.spotify.com/track/1kn1LfDkxpfQ5U40o4AfH2) | [Jack Burton](https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ) | [Lake Monger](https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ) | 5:12 | 2023-11-14 | 2023-12-02 |
 | [Beasts](https://open.spotify.com/track/2IoGAGwSw2uafOBq9dSe71) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Birds & Beasts](https://open.spotify.com/album/74FpX2nwI2LRt4O8cyfo2p) | 10:02 | 2024-06-28 | 2024-09-07 |
 | [Beautification Technologies](https://open.spotify.com/track/3YXxTG4fUZRWXybgBsMZvW) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Beautification Technologies](https://open.spotify.com/album/0S5QUYkSQT04CpmG1uPmNu) | 4:53 | 2025-05-12 |  |
-| [Become Am](https://open.spotify.com/track/0VHZYg5jbhk8opXpqnmqUf) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Without Mind: Identify](https://open.spotify.com/album/6Er30wsjYbX5CN0Znbe1vj) | 8:48 | 2025-04-11 |  |
+| [Become Am](https://open.spotify.com/track/0VHZYg5jbhk8opXpqnmqUf) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Without Mind: Identify](https://open.spotify.com/album/6Er30wsjYbX5CN0Znbe1vj) | 8:48 | 2025-04-11 | 2025-07-20 |
 | [Beethoven 250](https://open.spotify.com/track/4F4XbR8oZKp4iNj1WAq11d) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [@0 EP2](https://open.spotify.com/album/7JhFp9EZEw22dpg3P93HiO) | 4:11 | 2021-12-26 | 2023-08-12 |
 | [Before the Sun](https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N) | [Araceae](https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6) | [Nothing Will Last](https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr) | 9:17 | 2022-03-25 | 2025-01-11 |
 | [Belt & Carpet](https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 3:58 | 2023-04-14 | 2025-02-08 |
@@ -418,6 +418,7 @@
 | [Sine Waves](https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 4:38 | 2022-09-20 | 2025-05-13 |
 | [Singularity](https://open.spotify.com/track/5H7MkToBZTfphmaYyCFNWS) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [My Space](https://open.spotify.com/album/4u1IvjuiRix1rN7ZoVxVzv) | 6:37 | 2022-01-23 | 2023-07-06 |
 | [Sinnessprung](https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm) | [Mareena](https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s), [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Atlas der Gedanken](https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe) | 5:06 | 2023-08-11 | 2025-01-15 |
+| [Sit Down and Play](https://open.spotify.com/track/6cZVmYX7alw9JONCRhN4YQ) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Sit Down and Play](https://open.spotify.com/album/4Jm4KmC1D5D2alu1CdnxNm) | 9:34 | 2025-07-16 |  |
 | [Sleepless](https://open.spotify.com/track/4IIo7qJZkfUIDJJWK3PjdJ) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate Deluxe](https://open.spotify.com/album/2qtHPZM9dpKraDzJzbKzzR) | 3:05 | 2023-12-01 | 2024-04-19 |
 | [Sleepless](https://open.spotify.com/track/7KB4CfwXx6fdzGvLo4JKsW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 3:05 | 2023-03-23 | 2025-05-24 |
 | [Solace](https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Opal](https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl) | 2:44 | 2023-01-20 | 2024-03-01 |

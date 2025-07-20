@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfdSGwr4MVg.md) - [plain]
 
 > Gentle lullabies that soothe, relax, and ease your baby to sleep 🧸🌙💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 209 likes - 150 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 220 likes - 150 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
