@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 314 songs - 17 hr 47 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 316 songs - 17 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -321,6 +321,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 311 | [ムーンライトロマンス](https://open.spotify.com/track/3p1mXMqfdh9Ehff5nFXm95) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [朝の迎え方](https://open.spotify.com/album/1DQo11k6IX9kBk3j7ZeCIb) | 3:08 |
 | 312 | [KARMA \(VIVINOS \- ALNST Original Soundtrack Part.10\)](https://open.spotify.com/track/54YECaZMpGfvWWaWH3UtQ8) | [Rubyeye](https://open.spotify.com/artist/5mFBPisqWsuM2DaNRRKMNo), [C!naH](https://open.spotify.com/artist/0vA45SriohIjcLXbwPhF2p) | [KARMA \(VIVINOS \- ALNST Original Soundtrack Part.10\)](https://open.spotify.com/album/6bLgRTjG8EttXtntAEupjE) | 5:36 |
 | 313 | [Ruler of My Heart \(VIVINOS \- ALNST Original Soundtrack Part.5\)](https://open.spotify.com/track/5o2rYExTsDD5Xj2WlBU3Ik) | [BL8M](https://open.spotify.com/artist/3oOA09qR93zgp61ALkHIJJ), [Rubyeye](https://open.spotify.com/artist/5mFBPisqWsuM2DaNRRKMNo) | [Ruler of My Heart \(VIVINOS \- ALNST Original Soundtrack Part.5\)](https://open.spotify.com/album/0opXkLZ0oI4EO75k7CNHPx) | 3:38 |
-| 314 | [痛いの痛いの飛んでいけ](https://open.spotify.com/track/5Mi5wHBGH7ck5EghEhHIV1) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [痛いの痛いの飛んでいけ](https://open.spotify.com/album/3CM6XVo41OSyfplg443RRj) | 3:36 |
+| 314 | [あなたはかいぶつ](https://open.spotify.com/track/6rFtgBh6kYpved76LwBdcD) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [あなたはかいぶつ](https://open.spotify.com/album/61FYLfucMYMDbalbqs5Wr0) | 2:50 |
+| 315 | [痛いの痛いの飛んでいけ](https://open.spotify.com/track/5Mi5wHBGH7ck5EghEhHIV1) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [痛いの痛いの飛んでいけ](https://open.spotify.com/album/3CM6XVo41OSyfplg443RRj) | 3:36 |
+| 316 | [心臓](https://open.spotify.com/track/7seqDm8KZRDOpL2z9ONTiA) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:44 |
 
-Snapshot ID: `AAAJIaJYuEsmoYGGS3E/WYxbWvUeR3JE`
+Snapshot ID: `AAAJJPnY+R2MB19Pz3ZATUrjLnKjv41g`

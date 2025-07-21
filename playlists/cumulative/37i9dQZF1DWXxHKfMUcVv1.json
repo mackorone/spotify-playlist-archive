@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Estamos Solos (Nderehe'y)",
+        "url": "https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH"
+      },
+      "artists": [
+        {
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174461,
+      "name": "Estamos Solos (Nderehe'y)",
+      "url": "https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu"
+    },
+    {
+      "album": {
         "name": "Hamaca Paraguaya",
         "url": "https://open.spotify.com/album/7ja8ZfNGuWbvS3lre15CFp"
       },
@@ -606,7 +624,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 188013,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/7dg5Ftm2r7DTWxZ2jStavG"

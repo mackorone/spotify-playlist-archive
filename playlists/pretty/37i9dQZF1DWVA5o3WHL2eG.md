@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: OSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,503 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,498 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 29 | [Summer Affair](https://open.spotify.com/track/2cr0fZFpNvzp9cBaIkld6Q) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Summer affair](https://open.spotify.com/album/1M4FYcP7I3Zv4jvDHGjsoV) | 3:26 |
 | 30 | [Blüten am Block](https://open.spotify.com/track/6iUrisG2WYefYaJrIslsSw) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [ETAGE 3](https://open.spotify.com/album/54uzQar0welzGmd3hWxm6h) | 2:47 |
 | 31 | [Ich schieb dich weg von mir](https://open.spotify.com/track/0sZf4kmVCFQOkyiZKV6gQz) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Ich schieb dich weg von mir](https://open.spotify.com/album/0CKVsNssG0HOfYzKZRG8yD) | 2:29 |
-| 32 | [KC](https://open.spotify.com/track/3HDle0GoI8VcCXGvcT0J7f) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [KC](https://open.spotify.com/album/6peo23Qvr0Hd2ytbuVOx1D) | 2:05 |
-| 33 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
+| 32 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
+| 33 | [KC](https://open.spotify.com/track/3HDle0GoI8VcCXGvcT0J7f) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [KC](https://open.spotify.com/album/6peo23Qvr0Hd2ytbuVOx1D) | 2:05 |
 | 34 | [Save The Last Dance](https://open.spotify.com/track/6dXtAHx10RxPkffHGrlgSs) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Save The Last Dance](https://open.spotify.com/album/4oGVlj2GZGx5MmIVzy6WmR) | 4:23 |
 | 35 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
 | 36 | [Streets of Berlin](https://open.spotify.com/track/0Oe6sobbB0xxgUDC3KVQ4X) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Streets of Berlin EP](https://open.spotify.com/album/5JE10TDCkiBGXbflnlTvOh) | 6:42 |
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 39 | [Bla Bla Bla](https://open.spotify.com/track/5zsxFwHUQoGxxyR2nUB4oS) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Bla Bla Bla](https://open.spotify.com/album/3JtobBe3m80QzFgji9WuJc) | 2:05 |
 | 40 | [haha](https://open.spotify.com/track/7dFNL1uMQihYMxXRArmjV9) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2BPr6OlHJj2zKIvbbnWU1d) | 2:01 |
 | 41 | [es tut weh](https://open.spotify.com/track/5Id40ks3QNsSn3Pffw10vZ) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [es tut weh](https://open.spotify.com/album/2DgX7i7f6OGPjPhGDNGUKz) | 3:05 |
-| 42 | [glow up](https://open.spotify.com/track/4g2xUjGBedq9hlWeT7oS87) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [glow up](https://open.spotify.com/album/2vpzwXCgLvkWEsPGpxzUTi) | 1:59 |
-| 43 | [Starstruck](https://open.spotify.com/track/59kBx7BfPEANrVoO20v9cq) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 2:57 |
+| 42 | [Starstruck](https://open.spotify.com/track/59kBx7BfPEANrVoO20v9cq) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 2:57 |
+| 43 | [glow up](https://open.spotify.com/track/4g2xUjGBedq9hlWeT7oS87) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [glow up](https://open.spotify.com/album/2vpzwXCgLvkWEsPGpxzUTi) | 1:59 |
 | 44 | [Orangenbäume](https://open.spotify.com/track/5CcdmuLOtphmDxyXaPFqL5) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Orangenbäume](https://open.spotify.com/album/1pB1qhaiDTFkGqbjt6RJ98) | 2:04 |
 | 45 | [Times We Will Remember](https://open.spotify.com/track/7bcPwgIrVMXxGYipvmOrie) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Times We Will Remember](https://open.spotify.com/album/34OBEZqZc7i8CzRS3edGeZ) | 3:11 |
 | 46 | [Silicone Mold](https://open.spotify.com/track/5laawOQLotQGCjP2IP5Yz6) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Silicone Mold](https://open.spotify.com/album/46rTeYoEFFpluo0Sq0JZdY) | 2:26 |
-| 47 | [Hands Up](https://open.spotify.com/track/2iB8v9BKs76tvr42sAfk4H) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Look Mom! No Piano, Pt\. 1](https://open.spotify.com/album/15EG5lVNefy0DgkVqrc5lQ) | 6:41 |
-| 48 | [Come Home](https://open.spotify.com/track/7sl0ahXt283MvN1Igktf6K) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Come Home](https://open.spotify.com/album/3d8EZYis9iz5EWU2ptVD4z) | 3:13 |
+| 47 | [Come Home](https://open.spotify.com/track/7sl0ahXt283MvN1Igktf6K) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Come Home](https://open.spotify.com/album/3d8EZYis9iz5EWU2ptVD4z) | 3:13 |
+| 48 | [Hands Up](https://open.spotify.com/track/2iB8v9BKs76tvr42sAfk4H) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Look Mom! No Piano, Pt\. 1](https://open.spotify.com/album/15EG5lVNefy0DgkVqrc5lQ) | 6:41 |
 | 49 | [Wenn die Stadt schläft](https://open.spotify.com/track/6HElf5HIlS9c644BJLPMoG) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Wenn die Stadt schläft](https://open.spotify.com/album/2E09awpdLFO7HmWG5IT6Nx) | 2:39 |
 | 50 | [Invisible](https://open.spotify.com/track/4zrwmTdCCgtnem7UlSz4Ah) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Invisible](https://open.spotify.com/album/0N8xcpseUPyGkgsLjpFebw) | 3:12 |
 

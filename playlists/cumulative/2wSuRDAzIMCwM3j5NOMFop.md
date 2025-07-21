@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-55 songs - 2 hr 51 min
+56 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [I'm In Love With My Car \- Remastered 2011](https://open.spotify.com/track/4WX7njDAz4cDSDPr8Vcj6j) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4) | 3:04 | 2023-03-21 |  |
 | [If You Like It Or Not](https://open.spotify.com/track/7eN56jd24acGjea5YRBCS6) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 3:30 | 2024-12-12 |  |
 | [If You See Light](https://open.spotify.com/track/2WizTIQY0T1hLouDdF2xJX) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh) | 1:58 | 2023-01-07 |  |
+| [Independent Girls & Nasty Evil Gays](https://open.spotify.com/track/6pG2R3eEUtFeH0sHkIcdg5) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Independent Girls & Nasty Evil Gays](https://open.spotify.com/album/4ywC4BFKBC90intbtIV715) | 3:14 | 2025-07-20 |  |
 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 | 2023-07-31 |  |
 | [Insurance Fraud \#2](https://open.spotify.com/track/0q337BaQiBq43WLMm7VKlM) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Coroner's Gambit](https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt) | 3:02 | 2024-11-20 |  |
 | [Kiss Me, Son of God \- Alternate Version](https://open.spotify.com/track/2y7LfqHAlQjOiOATA2yh96) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Then: The Earlier Years](https://open.spotify.com/album/2NxD978NSpgrG9ME6p5Uj7) | 1:49 | 2023-03-26 |  |

@@ -3329,6 +3329,36 @@
     },
     {
       "album": {
+        "name": "Bheja No Dahi",
+        "url": "https://open.spotify.com/album/3nLmHaI8YJETiI0mmoh0HQ"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Harjai",
+          "url": "https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN"
+        },
+        {
+          "name": "Surabhi Dashputra",
+          "url": "https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F"
+        },
+        {
+          "name": "Geet Sagar",
+          "url": "https://open.spotify.com/artist/2794Yv56Ut2J2gFz1p7uce"
+        },
+        {
+          "name": "Anubhav Suman",
+          "url": "https://open.spotify.com/artist/0Hr3yDk35OzAI48SSC4PU8"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Bheja No Dahi",
+      "url": "https://open.spotify.com/track/3HB6DGSmxzzWBBWXkQUW21"
+    },
+    {
+      "album": {
         "name": "Bhool Bhulaiya",
         "url": "https://open.spotify.com/album/5UdtpbfhTvDSz6x78eCSNy"
       },
@@ -21620,7 +21650,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 221333,
       "name": "Tujhe Dekhun Toh (From \"Samaaj - Dance Narrative\")",
       "url": "https://open.spotify.com/track/6nMbTSuTPMA2hjPvzpKRMF"

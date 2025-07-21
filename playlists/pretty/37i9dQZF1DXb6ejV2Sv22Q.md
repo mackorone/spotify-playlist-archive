@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > solo rolitas que son un vibe ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,569 likes - 93 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,571 likes - 93 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

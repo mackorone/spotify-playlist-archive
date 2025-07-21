@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-318 songs - 18 hr 4 min
+320 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [「Crazy ∞ nighT」 feat.いかさん\(カバー\)](https://open.spotify.com/track/0a64sJhQS80cXPWHR7QhdA) | [HitoshizukuP](https://open.spotify.com/artist/5Vozl7NL075bgJOe1iSlcP), [やま△](https://open.spotify.com/artist/5iw5VPMwEb9vomcLBDwFPK) | [ボクらの最終定理](https://open.spotify.com/album/0iFf8I1UnP7pzBtbsyYeij) | 3:22 | 2024-03-10 |  |
 | [あいして。](https://open.spotify.com/track/0AnVedOnc3RvcJHvXzLc2o) | [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [あいして。](https://open.spotify.com/album/5kEv9TrX05FKkrrQdkWEdf) | 2:14 | 2024-08-19 |  |
 | [あっかんべ](https://open.spotify.com/track/4H3CbpffoSJ0YvAcysYF9y) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [ぽいずにゃ〜しんどろーむ](https://open.spotify.com/album/5BqRdVGwJWuwV3c6emUoEZ) | 2:46 | 2022-09-06 |  |
+| [あなたはかいぶつ](https://open.spotify.com/track/6rFtgBh6kYpved76LwBdcD) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [あなたはかいぶつ](https://open.spotify.com/album/61FYLfucMYMDbalbqs5Wr0) | 2:50 | 2025-07-20 |  |
 | [あのバンド](https://open.spotify.com/track/6wvTBMe3zZBv4W3OlpPGbS) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [あのバンド](https://open.spotify.com/album/0Q7q1edTAuH2hifLVFjscF) | 3:33 | 2023-05-06 |  |
 | [うそ鳴き](https://open.spotify.com/track/4Hal50XJ5qW9TtsFWvMlJU) | [心世紀](https://open.spotify.com/artist/3D7WfGrhPBUqfKQ4BAlOa6), [少女革命計画](https://open.spotify.com/artist/7gFHp9H8K8h4B9y7HkFC7N), [御莉姫](https://open.spotify.com/artist/0Ur3wB7R1lkydYPdwATVpe), [佳鏡院](https://open.spotify.com/artist/1ydUxA0KMdyroinaACZFsu), [硝子宮](https://open.spotify.com/artist/71B1IRtrf1zRRSUPOsxOLu) | [うそ鳴き](https://open.spotify.com/album/4VHIOjtivBozJgUHrJgxeo) | 3:16 | 2025-04-16 |  |
 | [うらみのワルツ \- 第一幕Mix](https://open.spotify.com/track/16nHgNk16haiFdhEpHZpWw) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第一幕](https://open.spotify.com/album/61LtVJlmKKinmd80gtNOry) | 4:12 | 2025-02-17 |  |
@@ -280,6 +281,7 @@
 | [孤独の宗教](https://open.spotify.com/track/1ZIr94qQM1N05mSqrZkz9v) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [必死](https://open.spotify.com/album/4hU4a62lifie6pzLvWjUqO) | 3:10 | 2024-09-09 |  |
 | [宵々古今](https://open.spotify.com/track/3KLHSYHSmny4sJo2finqy9) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [Σ](https://open.spotify.com/album/5MruJPW5X4cal6bpN7llrF) | 4:17 | 2023-11-12 |  |
 | [幽霊東京](https://open.spotify.com/track/6gmwKGGuoY7NAqKI3pzMPC) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 3:30 | 2023-07-18 |  |
+| [心臓](https://open.spotify.com/track/7seqDm8KZRDOpL2z9ONTiA) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:44 | 2025-07-20 |  |
 | [忘れてやらない](https://open.spotify.com/track/47xVHFTtByhvrYFZCi0Fgh) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [忘れてやらない](https://open.spotify.com/album/2gcOhrqnwqostpe71Vkqxu) | 3:43 | 2023-05-06 |  |
 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 | 2021-04-05 |  |
 | [愛して 愛して 愛して](https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:12 | 2023-03-14 |  |

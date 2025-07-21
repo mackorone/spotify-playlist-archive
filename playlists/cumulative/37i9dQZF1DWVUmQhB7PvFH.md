@@ -4,7 +4,7 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(JOLIN\)
 
-273 songs - 19 hr 53 min
+274 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [伯樂](https://open.spotify.com/track/5audmVuKTU3RKgcKs7NJmw) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [神秘嘉賓](https://open.spotify.com/album/2f4LCsh9qKYGr7utwtCFzl) | 4:34 | 2024-03-04 | 2024-04-02 |
 | [你不在](https://open.spotify.com/track/2sky5wSdKFF7nuoA8kB5dx) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [不可思議](https://open.spotify.com/album/2cxvk2EK2Rx8fqc4JmHZ0x) | 4:33 | 2024-01-15 | 2025-01-06 |
 | [你不是真正的快樂](https://open.spotify.com/track/1XfWRrji6DBo420tz75tNV) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [後 青春期的詩](https://open.spotify.com/album/3cCdHi2r9iknmDTBSOWlqF) | 4:59 | 2025-02-17 |  |
+| [你怎麼連話都說不清楚](https://open.spotify.com/track/3WRtloZ0sa2OdmLQ2gCYNj) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Lucky Number](https://open.spotify.com/album/6Gwsej9iFzf7zreO1QhFgj) | 5:05 | 2025-07-21 |  |
 | [你是愛我的](https://open.spotify.com/track/7hNXq2VsE4fB8OoDDVkuy2) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [Star](https://open.spotify.com/album/4eMAjsUbDOkARR5MVOLwQ8) | 3:58 | 2024-06-24 | 2024-09-30 |
 | [你是我心內的一首歌 \(feat\. Selina\)](https://open.spotify.com/track/7i2ReN7TSLlQKjvwiMEDIN) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt), [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [改變自己](https://open.spotify.com/album/1lxlQW182pklrfpD93faq1) | 2:46 | 2024-06-09 | 2024-07-09 |
 | [你是我的眼](https://open.spotify.com/track/4bIV2WhRGAlmha8BZzXVu5) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [你是我的眼](https://open.spotify.com/album/6xVpfmtVtbsdnxAJ88nuPF) | 5:21 | 2024-01-15 | 2024-01-23 |
@@ -116,7 +117,7 @@
 | [小薇](https://open.spotify.com/track/1GtHVck6KPSd21Km4K2A2Y) | [黃品源](https://open.spotify.com/artist/22eZSsFE2fxLnnC9Zga25b) | [簡單情歌\-小薇](https://open.spotify.com/album/0DwWYCsOtizAJj7AMAojXw) | 3:16 | 2025-02-03 | 2025-02-17 |
 | [小酒窩](https://open.spotify.com/track/53WV5mAY2opmFC0r0LjRdM) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Charlene Choi](https://open.spotify.com/artist/6wBoKKHhGDrxVtp6XMFpIP) | [JJ陸](https://open.spotify.com/album/1yfwMCcUlm0mewJVrJIEfk) | 3:38 | 2024-11-11 | 2025-02-17 |
 | [就是愛妳](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:21 | 2025-02-17 |  |
-| [布拉格廣場](https://open.spotify.com/track/7xC32ciMAqOjs4yjAtXBWl) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [看我72變](https://open.spotify.com/album/4QUmaboYGilFry5XZeeUi5) | 4:54 | 2025-03-07 |  |
+| [布拉格廣場](https://open.spotify.com/track/7xC32ciMAqOjs4yjAtXBWl) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [看我72變](https://open.spotify.com/album/4QUmaboYGilFry5XZeeUi5) | 4:54 | 2025-03-07 | 2025-07-21 |
 | [帶我走](https://open.spotify.com/track/6xLInOiZPEeqEoLLHlFH8N) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [半熟宣言](https://open.spotify.com/album/7538kuYv86MOmxoHxFkh1o) | 4:49 | 2024-01-22 | 2025-02-17 |
 | [当你孤单你会想起谁](https://open.spotify.com/track/558dTfMGywYbzFX0zVU4aC) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [From Now On 新歌＋精选](https://open.spotify.com/album/5KM8hybz2fW6ThBDWETbX1) | 4:15 | 2024-04-01 | 2024-09-17 |
 | [彩虹](https://open.spotify.com/track/5IkhoLaasyG1yk43K5rePD) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [就是紅光輝全記錄](https://open.spotify.com/album/00XSR2fcZe7vzyYHLIsWAB) | 4:39 | 2024-07-22 | 2024-08-19 |
@@ -166,7 +167,7 @@
 | [拋物線](https://open.spotify.com/track/2oZJWtQZ6CLPHHsnUhC3IY) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 5:07 | 2025-06-09 | 2025-06-23 |
 | [捨得](https://open.spotify.com/track/7aPLvqzqum6JU5XvwTMF9t) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [捨得](https://open.spotify.com/album/4G4eftynKC5F78pDdoVRjb) | 4:11 | 2024-09-16 | 2024-10-14 |
 | [掉了](https://open.spotify.com/track/39tpfLHvnzXk4f8iD0htkn) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [阿密特意識專輯](https://open.spotify.com/album/54VlS75YgBFZXq7Ng1Ue3c) | 3:57 | 2024-12-23 |  |
-| [擦肩而過](https://open.spotify.com/track/484E5ggbqCUi4wYO5SMfHD) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [收放自如](https://open.spotify.com/album/3Op0pkji5hAjXuyzOCvPP4) | 4:49 | 2025-05-26 |  |
+| [擦肩而過](https://open.spotify.com/track/484E5ggbqCUi4wYO5SMfHD) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [收放自如](https://open.spotify.com/album/3Op0pkji5hAjXuyzOCvPP4) | 4:49 | 2025-05-26 | 2025-07-21 |
 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2024-02-19 | 2024-04-19 |
 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 | 2024-04-15 |  |
 | [放手](https://open.spotify.com/track/1Ol3u2KdyfuKb7RvsoGQ6c) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [Energy! Come On!](https://open.spotify.com/album/1KIrULDf8oCDGH3AmNohDC) | 4:42 | 2024-05-13 | 2024-06-10 |
@@ -195,7 +196,7 @@
 | [沿海地帶](https://open.spotify.com/track/4elhQCXOKEDhgFgE3Yxc8Q) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [弦子首張同名專輯](https://open.spotify.com/album/6s9TWJlBBgBJ8O57vMzYoL) | 3:31 | 2024-05-27 | 2025-02-17 |
 | [洋蔥](https://open.spotify.com/track/1YUqUoAsUNK3lWZ0L2paws) | [Aska Yang](https://open.spotify.com/artist/2SOrfXWlb17EoCqupfGX4u) | [鴿子](https://open.spotify.com/album/5DoYNFujkochX4YYQ3eU1O) | 4:38 | 2024-01-15 | 2024-06-24 |
 | [洗牌](https://open.spotify.com/track/1SKfuW7m645yVYSO5aZrle) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [影子](https://open.spotify.com/album/27xfXvSWav5A0hctlGxRAq) | 3:47 | 2024-09-16 | 2024-10-14 |
-| [流星雨](https://open.spotify.com/track/1hPNdCII2b8NOEIqwbbsdG) | [F4](https://open.spotify.com/artist/1JadFMFTjfKAVtOqbrgv0X) | [流星雨](https://open.spotify.com/album/0pjbq9vYCpLsHekvstNM0K) | 4:36 | 2024-01-15 | 2024-02-06 |
+| [流星雨](https://open.spotify.com/track/1hPNdCII2b8NOEIqwbbsdG) | [F4](https://open.spotify.com/artist/1JadFMFTjfKAVtOqbrgv0X) | [流星雨](https://open.spotify.com/album/0pjbq9vYCpLsHekvstNM0K) | 4:36 | 2024-01-15 |  |
 | [淘汰](https://open.spotify.com/track/5sYtvIl1mx9QuIgwC6FDU1) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [認了吧](https://open.spotify.com/album/0o999KbXQDQREsY9VLerc5) | 4:43 | 2024-04-15 | 2025-02-17 |
 | [淘汰](https://open.spotify.com/track/3aawXLnJpcDVXCl1UUksAW) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [認了吧](https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk) | 4:45 | 2024-01-15 | 2024-04-19 |
 | [淚光](https://open.spotify.com/track/6myld9ah88UqJrDndj42jT) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [透明](https://open.spotify.com/album/4GO6vFQNGfxWLqUI6TQGpO) | 4:05 | 2024-08-05 | 2024-09-02 |

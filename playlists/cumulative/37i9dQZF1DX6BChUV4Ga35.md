@@ -4,11 +4,11 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-139 songs - 4 hr 49 min
+140 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 Sleepy Pandas](https://open.spotify.com/track/4wQmNZWej3NHi8XeQvy4mL) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Playtime](https://open.spotify.com/album/7qLeFNZVZHv8hRXyoxVtxL) | 2:04 | 2022-07-25 |  |
+| [10 Sleepy Pandas](https://open.spotify.com/track/4wQmNZWej3NHi8XeQvy4mL) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Playtime](https://open.spotify.com/album/7qLeFNZVZHv8hRXyoxVtxL) | 2:04 | 2022-07-25 | 2025-07-21 |
 | [5 Little Ducks](https://open.spotify.com/track/6a0kfGQL8CXQCXnK6msXPF) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Animal Songs](https://open.spotify.com/album/36tbGzLkVELzT9bF5SUus0) | 2:20 | 2022-02-01 |  |
 | [ABC Animals](https://open.spotify.com/track/0uEfAB3x11vRbkzXnPfheA) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [ABC Kids Favourites](https://open.spotify.com/album/6oJlfg27ZPNomsw3bYKTQ0) | 3:02 | 2022-07-25 | 2022-11-13 |
 | [ABC Animals](https://open.spotify.com/track/3kjsci8HHMLnxb9tE4UYes) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [ABC Animals](https://open.spotify.com/album/2qqBNP16TbPUym2VTjJeop) | 3:06 | 2022-02-01 |  |
@@ -132,6 +132,7 @@
 | [The Lion](https://open.spotify.com/track/0KvAJNPeOcM4vZWpE8kxNR) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 0:59 | 2022-02-01 |  |
 | [The Lion, King of the Jungle](https://open.spotify.com/track/649v9vfqhP2jVL1QL0NVsA) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Carnival of the Animals](https://open.spotify.com/album/4Y9Jp8cifOCilKlph1JVoc) | 1:32 | 2022-07-25 | 2024-04-19 |
 | [The Lion, King Of The Jungle](https://open.spotify.com/track/6dgLHP9sceDeTET9g6StW5) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Carnival Of The Animals](https://open.spotify.com/album/14tIANf79XEg4L9y6ELote) | 1:32 | 2022-02-01 |  |
+| [The Panda Dance](https://open.spotify.com/track/1BDVGmu2TYctovnQFm7c5h) | [Donkey Hodie](https://open.spotify.com/artist/0veqerL1ZVLesDV9eSFMI6), [Grampy Hodie](https://open.spotify.com/artist/5n56YuefcnlRPelmhFeqMQ), [Cousin Hodie](https://open.spotify.com/artist/107kFbUMRtvZpps9cyqoYH) | [Donkey Hodie Hee\-Hawesome Songs](https://open.spotify.com/album/5nzYFdPlSO8CiRARbbG6sS) | 1:47 | 2025-07-20 |  |
 | [The Zebra Question](https://open.spotify.com/track/77kEqhMF5UZOddBwVgA2hW) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Bug Out!](https://open.spotify.com/album/52ZI4mxoOizsmloKZfvesC) | 2:23 | 2022-02-01 |  |
 | [The Zoo](https://open.spotify.com/track/2bKEQq8LickshGi4NdQlUH) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [No Sugar Added](https://open.spotify.com/album/0cqtwAOjYoIxjbDUcyV790) | 2:34 | 2022-02-01 |  |
 | [This Little Piggy](https://open.spotify.com/track/2jg0nkV5VvKEWdrn1GqmTv) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs and Nursery Rhymes for Children, Vol\. 4 \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/3oB4zapMRPG6Poomj8mgbr) | 1:37 | 2022-07-25 | 2024-04-19 |

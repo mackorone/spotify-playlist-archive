@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: \ub3c4\uacbd\uc218(D.O.))",
-  "num_followers": 253598,
+  "num_followers": 253762,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-07-08 05:24:52",
       "album": {
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+    },
+    {
+      "added_at": "2025-07-08 05:24:52",
+      "album": {
         "name": "Dua Lipa (Complete Edition)",
         "url": "https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 189173,
       "name": "Kiss and Make Up",
       "url": "https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i"
-    },
-    {
-      "added_at": "2025-07-08 05:24:52",
-      "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
     },
     {
       "added_at": "2025-07-08 05:24:52",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-07-08 05:24:52",
       "album": {
-        "name": "TREASURE EP.3 : One To All",
-        "url": "https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "WAVE",
-      "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
-    },
-    {
-      "added_at": "2025-07-08 05:24:52",
-      "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo"
+    },
+    {
+      "added_at": "2025-07-08 05:24:52",
+      "album": {
+        "name": "TREASURE EP.3 : One To All",
+        "url": "https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
     },
     {
       "added_at": "2025-07-08 05:24:52",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-07-08 05:24:52",
       "album": {
-        "name": "ICY BBY",
-        "url": "https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "ICY BBY",
-      "url": "https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz"
-    },
-    {
-      "added_at": "2025-07-08 05:24:52",
-      "album": {
         "name": "KARD 1st Mini Album 'Hola Hola'",
         "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 202962,
       "name": "Hola Hola",
       "url": "https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM"
+    },
+    {
+      "added_at": "2025-07-08 05:24:52",
+      "album": {
+        "name": "ICY BBY",
+        "url": "https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "ICY BBY",
+      "url": "https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz"
     },
     {
       "added_at": "2025-07-08 05:24:52",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-07-08 05:24:52",
       "album": {
-        "name": "Mixtape : Time Out",
-        "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Mixtape : Time Out",
-      "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
-    },
-    {
-      "added_at": "2025-07-08 05:24:52",
-      "album": {
         "name": "KARD 5th Mini Album 'Re:'",
         "url": "https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 185053,
       "name": "Ring The Alarm",
       "url": "https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm"
+    },
+    {
+      "added_at": "2025-07-08 05:24:52",
+      "album": {
+        "name": "Mixtape : Time Out",
+        "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Mixtape : Time Out",
+      "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
     },
     {
       "added_at": "2025-07-08 05:24:52",

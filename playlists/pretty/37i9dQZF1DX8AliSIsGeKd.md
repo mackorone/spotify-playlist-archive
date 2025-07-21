@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: David Hasert
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,222 likes - 90 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,329 likes - 90 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

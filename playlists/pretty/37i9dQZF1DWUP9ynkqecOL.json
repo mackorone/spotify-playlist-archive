@@ -491,6 +491,22 @@
     {
       "added_at": "2025-07-18 03:00:29",
       "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
+      },
+      "artists": [
+        {
+          "name": "Puna",
+          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
+        }
+      ],
+      "duration_ms": 379200,
+      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
+      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
+    },
+    {
+      "added_at": "2025-07-18 03:00:29",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH"
       },
@@ -511,24 +527,8 @@
     {
       "added_at": "2025-07-18 03:00:29",
       "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
-      },
-      "artists": [
-        {
-          "name": "Puna",
-          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
-        }
-      ],
-      "duration_ms": 379200,
-      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
-      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
-    },
-    {
-      "added_at": "2025-07-18 03:00:29",
-      "album": {
-        "name": "Leg\u00fcero",
-        "url": "https://open.spotify.com/album/77qx8SgJM8U1OftyQtFghx"
+        "name": "Como la Cigarra",
+        "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
       },
       "artists": [
         {
@@ -536,13 +536,13 @@
           "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
         },
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 244831,
-      "name": "Leg\u00fcero",
-      "url": "https://open.spotify.com/track/7LEg0ZY8b0bMs362uEA76T"
+      "duration_ms": 249970,
+      "name": "Como la Cigarra",
+      "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
     },
     {
       "added_at": "2025-07-18 03:00:29",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-07-18 03:00:29",
       "album": {
-        "name": "Huestes",
-        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
-      },
-      "artists": [
-        {
-          "name": "Weste",
-          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
-    },
-    {
-      "added_at": "2025-07-18 03:00:29",
-      "album": {
         "name": "Ay Palomita",
         "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 391452,
       "name": "Ay Palomita",
       "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
+    },
+    {
+      "added_at": "2025-07-18 03:00:29",
+      "album": {
+        "name": "Huestes",
+        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
+      },
+      "artists": [
+        {
+          "name": "Weste",
+          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
     },
     {
       "added_at": "2025-07-18 03:00:29",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-07-18 03:00:29",
       "album": {
+        "name": "Viaje Astral",
+        "url": "https://open.spotify.com/album/14iJMSksb6BlrFSAiaxIpt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 244408,
+      "name": "Viaje Astral",
+      "url": "https://open.spotify.com/track/5v0CqjvWrHkeUeHhofS3RH"
+    },
+    {
+      "added_at": "2025-07-18 03:00:29",
+      "album": {
         "name": "Wal\u00fcng II",
         "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 244000,
       "name": "Baile De M\u00e1scaras",
       "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
-    },
-    {
-      "added_at": "2025-07-18 03:00:29",
-      "album": {
-        "name": "Viaje Astral",
-        "url": "https://open.spotify.com/album/14iJMSksb6BlrFSAiaxIpt"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 244408,
-      "name": "Viaje Astral",
-      "url": "https://open.spotify.com/track/5v0CqjvWrHkeUeHhofS3RH"
     },
     {
       "added_at": "2025-07-18 03:00:29",
@@ -747,6 +747,26 @@
     {
       "added_at": "2025-07-18 03:00:29",
       "album": {
+        "name": "La Monta\u00f1a Sin Nombre II",
+        "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        },
+        {
+          "name": "Raag",
+          "url": "https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF"
+        }
+      ],
+      "duration_ms": 362653,
+      "name": "CUMBIA ORIENTAL",
+      "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
+    },
+    {
+      "added_at": "2025-07-18 03:00:29",
+      "album": {
         "name": "Sencilla es mi canoa como mis afectos",
         "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
       },
@@ -775,22 +795,18 @@
     {
       "added_at": "2025-07-18 03:00:29",
       "album": {
-        "name": "La Monta\u00f1a Sin Nombre II",
-        "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
+        "name": "Madre de la Sierra",
+        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
       },
       "artists": [
         {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        },
-        {
-          "name": "Raag",
-          "url": "https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF"
+          "name": "Porangu\u00ed",
+          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
         }
       ],
-      "duration_ms": 362653,
-      "name": "CUMBIA ORIENTAL",
-      "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
+      "duration_ms": 275256,
+      "name": "Madre de la Sierra",
+      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
     },
     {
       "added_at": "2025-07-18 03:00:29",
@@ -811,22 +827,6 @@
       "duration_ms": 546568,
       "name": "La L\u00ednea Del Rio - Remix",
       "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
-    },
-    {
-      "added_at": "2025-07-18 03:00:29",
-      "album": {
-        "name": "Madre de la Sierra",
-        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
-      },
-      "artists": [
-        {
-          "name": "Porangu\u00ed",
-          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
-        }
-      ],
-      "duration_ms": 275256,
-      "name": "Madre de la Sierra",
-      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
     },
     {
       "added_at": "2025-07-18 03:00:29",
@@ -855,26 +855,6 @@
     {
       "added_at": "2025-07-18 03:00:29",
       "album": {
-        "name": "El Despertar Del Anfibio (Instrumental)",
-        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
-      },
-      "artists": [
-        {
-          "name": "Trickst4",
-          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
-        },
-        {
-          "name": "Tom\u00e1s Pinkus",
-          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
-        }
-      ],
-      "duration_ms": 383686,
-      "name": "El Despertar Del Anfibio - Instrumental",
-      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
-    },
-    {
-      "added_at": "2025-07-18 03:00:29",
-      "album": {
         "name": "HACIA EL MAR (Pol Nada Remix)",
         "url": "https://open.spotify.com/album/4B1SL9dLGBJCOx7JFfo4x3"
       },
@@ -899,6 +879,26 @@
     {
       "added_at": "2025-07-18 03:00:29",
       "album": {
+        "name": "El Despertar Del Anfibio (Instrumental)",
+        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
+      },
+      "artists": [
+        {
+          "name": "Trickst4",
+          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
+        },
+        {
+          "name": "Tom\u00e1s Pinkus",
+          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
+        }
+      ],
+      "duration_ms": 383686,
+      "name": "El Despertar Del Anfibio - Instrumental",
+      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
+    },
+    {
+      "added_at": "2025-07-18 03:00:29",
+      "album": {
         "name": "Nave",
         "url": "https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 189791,
       "name": "Nave",
       "url": "https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU"
-    },
-    {
-      "added_at": "2025-07-18 03:00:29",
-      "album": {
-        "name": "Litoraleza",
-        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
-      },
-      "artists": [
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Gurisito Cosmico",
-      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
     },
     {
       "added_at": "2025-07-18 03:00:29",
@@ -979,6 +959,26 @@
       "duration_ms": 270666,
       "name": "Adi\u00f3s pueblito de Iruya - Guaz\u00fa Remix",
       "url": "https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv"
+    },
+    {
+      "added_at": "2025-07-18 03:00:29",
+      "album": {
+        "name": "Litoraleza",
+        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
+      },
+      "artists": [
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Gurisito Cosmico",
+      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
     },
     {
       "added_at": "2025-07-18 03:00:29",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-07-18 03:00:29",
       "album": {
+        "name": "Magnetismo",
+        "url": "https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "duration_ms": 241538,
+      "name": "Carnabailito",
+      "url": "https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix"
+    },
+    {
+      "added_at": "2025-07-18 03:00:29",
+      "album": {
         "name": "Tierra Natal (Barzo Remix)",
         "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
       },
@@ -1139,18 +1155,34 @@
     {
       "added_at": "2025-07-18 03:00:29",
       "album": {
-        "name": "Magnetismo",
-        "url": "https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU"
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
       },
       "artists": [
         {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
         }
       ],
-      "duration_ms": 241538,
+      "duration_ms": 325933,
       "name": "Carnabailito",
-      "url": "https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix"
+      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
+    },
+    {
+      "added_at": "2025-07-18 03:00:29",
+      "album": {
+        "name": "Truenatruena",
+        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
+      },
+      "artists": [
+        {
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+        }
+      ],
+      "duration_ms": 272503,
+      "name": "Truenatruena",
+      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
     },
     {
       "added_at": "2025-07-18 03:00:29",
@@ -1191,34 +1223,26 @@
     {
       "added_at": "2025-07-18 03:00:29",
       "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+        "name": "Telesita",
+        "url": "https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI"
       },
       "artists": [
         {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        }
-      ],
-      "duration_ms": 325933,
-      "name": "Carnabailito",
-      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
-    },
-    {
-      "added_at": "2025-07-18 03:00:29",
-      "album": {
-        "name": "Truenatruena",
-        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
-      },
-      "artists": [
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
         {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+        },
+        {
+          "name": "Natalia Schvartz",
+          "url": "https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05"
         }
       ],
-      "duration_ms": 272503,
-      "name": "Truenatruena",
-      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
+      "duration_ms": 264323,
+      "name": "Telesita",
+      "url": "https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL"
     },
     {
       "added_at": "2025-07-18 03:00:29",
@@ -1255,30 +1279,6 @@
       "duration_ms": 351340,
       "name": "Margarita y Margarito (Remix)",
       "url": "https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ"
-    },
-    {
-      "added_at": "2025-07-18 03:00:29",
-      "album": {
-        "name": "Telesita",
-        "url": "https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
-        },
-        {
-          "name": "Natalia Schvartz",
-          "url": "https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05"
-        }
-      ],
-      "duration_ms": 264323,
-      "name": "Telesita",
-      "url": "https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL"
     },
     {
       "added_at": "2025-07-18 03:00:29",

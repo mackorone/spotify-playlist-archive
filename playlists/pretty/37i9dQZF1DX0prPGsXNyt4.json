@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Kekel",
-  "num_followers": 86085,
+  "num_followers": 86087,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
+        "name": "Tom de Pele",
+        "url": "https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Tom de Pele",
+      "url": "https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
         "name": "Mundo Pequeno",
         "url": "https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 228252,
       "name": "Mundo Pequeno",
       "url": "https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
-        "name": "Tom de Pele",
-        "url": "https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Tom de Pele",
-      "url": "https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN"
     },
     {
       "added_at": "2024-12-13 16:53:30",

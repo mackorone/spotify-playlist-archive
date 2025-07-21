@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Rubí
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,867 likes - 199 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,824 likes - 199 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

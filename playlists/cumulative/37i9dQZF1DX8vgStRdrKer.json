@@ -2554,6 +2554,28 @@
     {
       "album": {
         "name": "Everyday",
+        "url": "https://open.spotify.com/album/79hHuR77jAO4mBAfm51KaE"
+      },
+      "artists": [
+        {
+          "name": "Dr Roy",
+          "url": "https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211636,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2IyLPEJDhUiZA4rq9JS4MT"
+    },
+    {
+      "album": {
+        "name": "Everyday",
         "url": "https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3"
       },
       "artists": [
@@ -5246,7 +5268,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 202893,
       "name": "Lean",
       "url": "https://open.spotify.com/track/3qJdny0ZhWHHxJVrEt0yIT"
@@ -6902,6 +6924,32 @@
       "duration_ms": 217341,
       "name": "OLULANA - Live in Lagos",
       "url": "https://open.spotify.com/track/2oJ6YukjG68VK7MrMnFX4B"
+    },
+    {
+      "album": {
+        "name": "OL\u00d3\u00d2TIT\u00d3 NI \u00d3",
+        "url": "https://open.spotify.com/album/33SC0sxTUSvArVHIIayukR"
+      },
+      "artists": [
+        {
+          "name": "Tobi Jeff Richards",
+          "url": "https://open.spotify.com/artist/4otRzds8kWRbAxtnJQHPTP"
+        },
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        },
+        {
+          "name": "Pelumi Deborah",
+          "url": "https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216176,
+      "name": "OL\u00d3\u00d2TIT\u00d3 NI \u00d3",
+      "url": "https://open.spotify.com/track/13FnhTtUrEIbSxvid3AQgD"
     },
     {
       "album": {
@@ -8898,7 +8946,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 412330,
       "name": "Thy Kingdom Come",
       "url": "https://open.spotify.com/track/6Fe9jl3P3crdnN6nisnEi1"

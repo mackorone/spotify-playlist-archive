@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2025 全新陣容出列！MEET THE FUTURE 見證未來巨星！Cover: 艾蜜莉 \(AMILI\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,312 likes - 36 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,314 likes - 36 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

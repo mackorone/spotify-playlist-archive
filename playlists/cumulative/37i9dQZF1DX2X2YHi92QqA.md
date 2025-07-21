@@ -2,7 +2,7 @@
 
 ### [Літній релакс](https://open.spotify.com/playlist/37i9dQZF1DX2X2YHi92QqA)
 
-> Приємна музика для спекотних днів\. Особливо в липні 🍋 🌴💦
+> Don't push the horses 🧘🏼‍♀️🏕️🌻
 
 213 songs - 11 hr 26 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 383030,
+  "num_followers": 383043,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Townes Van Zandt",
-        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Waiting Around to Die",
-      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 140440,
       "name": "Daddy Sang Bass",
       "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Townes Van Zandt",
+        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Waiting Around to Die",
+      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Walk Through This World With Me",
-        "url": "https://open.spotify.com/album/06AQF06cw5or7c4IXr0Kjk"
+        "name": "Honey - The Best of Bobby Goldsboro",
+        "url": "https://open.spotify.com/album/16QapBbCMXHEekBXfUCiKp"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Bobby Goldsboro",
+          "url": "https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o"
         }
       ],
-      "duration_ms": 137960,
-      "name": "Walk Through This World With Me",
-      "url": "https://open.spotify.com/track/21SxnQOkzD11IO3qToKvaG"
+      "duration_ms": 239066,
+      "name": "Honey - 1991 - Remaster",
+      "url": "https://open.spotify.com/track/3ZnlYvqCnjJ7OeZhVKkWPg"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1511,6 +1511,22 @@
       "duration_ms": 166266,
       "name": "Jackson (with June Carter Cash)",
       "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Walk Through This World With Me",
+        "url": "https://open.spotify.com/album/06AQF06cw5or7c4IXr0Kjk"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 137960,
+      "name": "Walk Through This World With Me",
+      "url": "https://open.spotify.com/track/21SxnQOkzD11IO3qToKvaG"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1623,22 +1639,6 @@
       "duration_ms": 133866,
       "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
-        "name": "The Greatest: The Number Ones",
-        "url": "https://open.spotify.com/album/3uQReDOmST2pucGDXd8AvO"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "A Boy Named Sue - Live Version",
-      "url": "https://open.spotify.com/track/6bMvOAtKZ55b00lrGQZPfA"
     }
   ],
   "unique_name": "60s Country",

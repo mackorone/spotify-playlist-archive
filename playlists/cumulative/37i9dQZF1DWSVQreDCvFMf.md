@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Solace Out The Door
 
-459 songs - 1 day 4 hr 48 min
+463 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Blind](https://open.spotify.com/track/2H9pKfmWlpuoSpmcWCgThA) | [Gabo Gatdula](https://open.spotify.com/artist/6l2pwIWEFje2Z0mSi1JMU8) | [Blind](https://open.spotify.com/album/4sj9uYjwwAQUC3ZSrSYss1) | 5:20 | 2025-06-20 |  |
 | [Blink Twice](https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Blink Twice](https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx) | 2:33 | 2025-02-14 | 2025-05-31 |
 | [Bliss](https://open.spotify.com/track/1TBrZPMfvvfcD84o7iYWgs) | [Eunice Rain](https://open.spotify.com/artist/6bd7dF5PF46dezapDpHouS) | [Bliss](https://open.spotify.com/album/7xoACNVcAtZWuDMEpssyLF) | 3:54 | 2025-05-12 | 2025-07-19 |
+| [boarding gate](https://open.spotify.com/track/0mihFDUGIA5Aybxg0rFXXt) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [the world is so small \(after all\)](https://open.spotify.com/album/3sR3y2tVR2T2gIkXMgsfYY) | 3:46 | 2025-07-21 |  |
 | [Boomerang](https://open.spotify.com/track/0Bs1P0jxQvvjQixTbVcUa2) | [BLASTER](https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9) | [Boomerang](https://open.spotify.com/album/10SCAVdi1ZYBKDQvVK51zB) | 4:26 | 2025-02-28 | 2025-05-17 |
 | [BROke](https://open.spotify.com/track/20hKYW4VoQsOpN8ajbxhYc) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw / BROke](https://open.spotify.com/album/1Ly0s70g58vx4v2ET5hphQ) | 3:45 | 2025-06-27 |  |
 | [Bulaklak Sa Buwan](https://open.spotify.com/track/2YepCVrNLhVPdCTM3sZIzv) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Bulaklak Sa Buwan](https://open.spotify.com/album/0NVm3LxQUZZwCb4vSSbef9) | 4:55 | 2024-08-16 | 2024-11-21 |
@@ -295,6 +296,7 @@
 | [Napagod Na](https://open.spotify.com/track/4UZdLLW8Pn5xPrvNdnZJQ4) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Napagod Na](https://open.spotify.com/album/5JMLaYvckd8WSXZnC2uLeN) | 2:27 | 2024-07-02 | 2024-07-09 |
 | [Nasusunog \(Pants On Fire\)](https://open.spotify.com/track/49DurUInR305YE8CU5MU6h) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Nasusunog \(Pants On Fire\)](https://open.spotify.com/album/2yeuyBcLVYn3PldayVr91O) | 2:50 | 2025-05-23 |  |
 | [New Dimensions](https://open.spotify.com/track/2fPTeoTG28JAExuQyoX8b5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Traveller Across Dimensions](https://open.spotify.com/album/3AxFszKy5olWdrPV3bHTFY) | 4:18 | 2024-11-29 | 2025-05-12 |
+| [Ngalan Mo](https://open.spotify.com/track/7vkINABNJgMl0K7xRUrIhp) | [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Ngalan mo](https://open.spotify.com/album/5K20pRwZSozWqH2xn7GSha) | 2:54 | 2025-07-21 |  |
 | [Nilalang](https://open.spotify.com/track/7eMn5OCApyTgqrPPoLJWBq) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Nilalang](https://open.spotify.com/album/7vTwHNQJy2vVhbhDfmF6NY) | 3:29 | 2024-07-19 | 2024-11-21 |
 | [Nobya](https://open.spotify.com/track/6eBIvH2ARm4psC3kkbARSn) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Nobya](https://open.spotify.com/album/5Bhm5NsqTDSjBdUzoWripN) | 6:18 | 2024-11-04 | 2025-04-08 |
 | [Numbers](https://open.spotify.com/track/16przOekKjy6Cta9GmFAn4) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Numbers](https://open.spotify.com/album/5AhOxlO1XfZ7gCjOzCQcD3) | 5:38 | 2025-03-14 | 2025-05-24 |
@@ -371,6 +373,7 @@
 | [Sa Kapwa Ko Ay Alay](https://open.spotify.com/track/0EhqzN5m29ghtmCiAojESv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Kapwa Ko Ay Alay](https://open.spotify.com/album/30TTzRYxVEhPpi1Rokp5T3) | 4:31 | 2025-07-12 |  |
 | [Sa Madaling Araw](https://open.spotify.com/track/2McnK2hTamoKRZs1xB0gtg) | [Hilera](https://open.spotify.com/artist/4iCXhwhRhgWLl57sj9hhbY) | [Sa Madaling Araw](https://open.spotify.com/album/4CALKiBiNt0KOkOzWuf816) | 4:10 | 2025-05-23 |  |
 | [Sabado Night](https://open.spotify.com/track/5RtqAvmQOp8gD6enenvW6Y) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Sabado Night](https://open.spotify.com/album/6A7IfJzNrlkXefG47fUNp6) | 3:00 | 2024-08-09 | 2024-11-09 |
+| [Sabihin Na](https://open.spotify.com/track/4wV2NZuRVLqjoWW2ehmNrP) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [Sabihin Na](https://open.spotify.com/album/4VLPnVy3Tpjx5VD95ODCpg) | 3:42 | 2025-07-21 |  |
 | [Safe Ka Sa’kin](https://open.spotify.com/track/6TVJFTnZH39hC0aOlYf0J4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [Safe Ka Sa’kin](https://open.spotify.com/album/7t5inER3X1tBfYpTDSINTc) | 2:34 | 2024-09-24 | 2024-12-05 |
 | [Sagad](https://open.spotify.com/track/4hLALWdKykfWQDuIrWBXF3) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Sagad](https://open.spotify.com/album/0i01wbyJ9iiq3d65dVKP5l) | 4:25 | 2025-04-25 | 2025-07-13 |
 | [Sagip](https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Sagip](https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO) | 3:52 | 2024-07-02 | 2024-07-09 |
@@ -454,6 +457,7 @@
 | [Umayos Ka](https://open.spotify.com/track/7gOF9CLCcGiEeqXx8VXkjM) | [Joema Lauriano](https://open.spotify.com/artist/55V6iD1PB8ijRT7VS1VbGJ) | [Umayos Ka](https://open.spotify.com/album/6gnBtAHsfwMsuJ9HzmyUw0) | 3:23 | 2024-07-02 | 2024-07-13 |
 | [Walang Humpay](https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Walang Humpay](https://open.spotify.com/album/5vucmfHLuYtE44OtczpUwz) | 3:24 | 2024-07-26 | 2024-11-09 |
 | [wanted you](https://open.spotify.com/track/3PPnxfNm0KIcP0vmTHklLi) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [wanted you](https://open.spotify.com/album/0ckTkTRmAJ2RTka6bybDGW) | 2:44 | 2024-07-19 | 2024-11-05 |
+| [Waters](https://open.spotify.com/track/5SPZ1OEGQDATZ2DvJ24Ofp) | [KREY](https://open.spotify.com/artist/2qsKmvV47a1XIRQizWZUzy) | [Waters](https://open.spotify.com/album/753AxIHX0QpH1WdRvuFxPF) | 3:44 | 2025-07-21 |  |
 | [Weyvs](https://open.spotify.com/track/7aknzRiIoP0iuMBBGDGfcR) | [Preza](https://open.spotify.com/artist/3CbdoW0V6cXKuj9JRYdx7z) | [Weyvs](https://open.spotify.com/album/3QMXC6no9FZzAAEqZD110b) | 4:16 | 2025-05-19 |  |
 | [What U Need](https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [What U Need](https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U) | 2:49 | 2024-12-03 | 2025-05-12 |
 | [When I'm Gone](https://open.spotify.com/track/7HtYsjAAc4KRKSr6L5rZTS) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [When I'm Gone](https://open.spotify.com/album/4oCuzncGTimPrUv61BsXXN) | 2:48 | 2024-07-02 | 2024-09-07 |

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 19 Jul 18:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 20 Jul 08:05 UTC.
 
-5,178 songs - 12 day 0 hr 2 min
+5,179 songs - 12 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [AK47](https://open.spotify.com/track/3PyuAlvHJbv1qFl9LzStFl) | [Young Multi](https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI) | [AK47](https://open.spotify.com/album/59I5TQ7KEZ6AlkC5SQFzZ5) | 3:36 | 2024-09-17 | 2024-09-20 |
 | [Akadiddy](https://open.spotify.com/track/7JnSJsvEsjAxDv3W3iYbjl) | [Scru Face Jean](https://open.spotify.com/artist/0zspuZLm1rglTb82ZVaU7p) | [Akadiddy](https://open.spotify.com/album/4i6KnPklvROrpVLN0dvSpF) | 4:20 | 2025-01-31 | 2025-02-08 |
 | [AL ARBA3](https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [AL ARBA3](https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp) | 3:20 | 2024-06-20 | 2024-06-22 |
-| [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 | 2025-07-15 |  |
+| [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 | 2025-07-15 | 2025-07-21 |
 | [Albatross](https://open.spotify.com/track/6IpolXK6gnVn0c6ilWI2QX) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Albatross](https://open.spotify.com/album/4w4oqNyTpCFFZOQ92mbGn5) | 3:26 | 2024-05-07 | 2024-05-10 |
 | [Alexis Feels Sick](https://open.spotify.com/track/3f2ZJwrEF2Rfl6PHgIeKja) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Alexis Feels Sick](https://open.spotify.com/album/3Zw0ZUbbcm61o4nBG6HhfA) | 4:29 | 2024-07-10 | 2024-07-12 |
 | [Algorhythm](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Algorhythm](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) | 3:07 | 2024-05-14 | 2024-05-17 |
@@ -674,6 +674,7 @@
 | [Breath, Eyes, Memory](https://open.spotify.com/track/24vI2utYaLpJm0kKoku99s) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [J\. Rawls](https://open.spotify.com/artist/3M5miYDu8lWrm0A3Q0OTag) | [Breath, Eyes, Memory](https://open.spotify.com/album/2TMwjsy07LdO8KCxm3NTwJ) | 2:44 | 2024-09-06 | 2024-09-11 |
 | [Breathe](https://open.spotify.com/track/691BUkDzJN4qpyfz5PX2n2) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Breathe](https://open.spotify.com/album/3k0I7evLrcIRNdV1HbNfvW) | 2:29 | 2025-03-03 | 2025-03-07 |
 | [Breathe In, Breathe Out](https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Breathe In, Breathe Out](https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU) | 2:24 | 2025-02-01 | 2025-02-12 |
+| [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 | 2025-07-20 |  |
 | [breathe u in](https://open.spotify.com/track/5dpiC00mcZNgT7ijBGC2PH) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [breathe u in](https://open.spotify.com/album/2pYbGIlP2xK4xYLp21Rhud) | 2:43 | 2024-12-13 | 2024-12-15 |
 | [Brick After Brick \(Ground Level\)](https://open.spotify.com/track/4Y1R3BpKWBZ8RgiW2S897y) | [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [Brick After Brick \(Ground Level\)](https://open.spotify.com/album/2ALEmtbXfUWUaUq8lK2boh) | 3:07 | 2024-08-13 | 2024-08-16 |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-09 | 2024-08-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,662 likes - 267 songs - 1 day 2 hr 25 min
+[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,663 likes - 267 songs - 1 day 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 | 83 | [World Away](https://open.spotify.com/track/4TZPpYNmKuUm3EhkTAjcPq) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Alexis Taylor](https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX) | [WARM UP](https://open.spotify.com/album/1kglXUZZ11ydPppF1Hnoz2) | 4:28 |
 | 84 | [South of the Clouds, Pt\. 2 \- Gregor Tresher Remix](https://open.spotify.com/track/1KbuZ9s1dLqjxZ3peEzOG3) | [Aural Float](https://open.spotify.com/artist/3qVAflPoQurGpWoJqbx2XM), [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC) | [South of the Clouds, Pt\. 2 \(Gregor Tresher Remix\)](https://open.spotify.com/album/7oA9jAp2Sxg1XbbB4FNRG6) | 11:25 |
 | 85 | [New York Is Dead](https://open.spotify.com/track/2gNG3f8tBmJcefPVWjPOMp) | [Black Light Smoke](https://open.spotify.com/artist/6tBzfm9cIQVj3JFJnF2QTm) | [Control](https://open.spotify.com/album/4QwbWJCLB0Yx8z07uMtWLE) | 5:23 |
-| 86 | [ファイアークラッカー（2018 Bob Ludwig Remastering）](https://open.spotify.com/track/05CuE9Av2R8EF3pu2pL7Pe) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Yellow Magic Orchestra](https://open.spotify.com/album/72noAkTZmKDGR5F2wSQNf0) | 4:50 |
+| 86 | [ファイアークラッカー \- 2018 Bob Ludwig Remastering](https://open.spotify.com/track/05CuE9Av2R8EF3pu2pL7Pe) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Yellow Magic Orchestra](https://open.spotify.com/album/72noAkTZmKDGR5F2wSQNf0) | 4:50 |
 | 87 | [Reframing](https://open.spotify.com/track/0gRPbCjHQ3B5R7LnYdxdJg) | [Barker](https://open.spotify.com/artist/3LEGPWdr7sarYtf2u0ETWN) | [Stochastic Drift](https://open.spotify.com/album/3ChV6s15ch9qohd5gZaGOF) | 3:59 |
 | 88 | [Die Gondel](https://open.spotify.com/track/65jU76mbVeq9WIfeaTvXuv) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 3:36 |
 | 89 | [Glide](https://open.spotify.com/track/5GB1FpoEK8Vl6gCSaevYJ9) | [Joachim Spieth](https://open.spotify.com/artist/2EwAX9aQZtKjs0EmZ1LrQJ), [Andrew Thomas](https://open.spotify.com/artist/6KDzd2KO3XNFVNmtTLHzpW) | [Nocturna](https://open.spotify.com/album/1Y4CoaqtnfNoG69tFP7RTr) | 4:27 |

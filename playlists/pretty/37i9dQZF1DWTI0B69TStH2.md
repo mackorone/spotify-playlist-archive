@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Świętujemy 10 lat najlepszych muzycznych odkryć od niezależnych artystów\. Cover: <a href="spotify:artist:0DQncOHnQDbuOhOZ5yB4lK">Nelah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,588 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,587 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-139 songs - 8 hr 9 min
+140 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Deep Cut](https://open.spotify.com/track/1qbopOyKYNpwrpGu08ckk0) | [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Deep Cut](https://open.spotify.com/album/14UJfeRG1LCanJRLb7Blb2) | 3:25 | 2023-12-30 |  |
 | [Diver City in the House](https://open.spotify.com/track/7sDK21co6xDJwVIUwcSigr) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:04 | 2023-12-30 |  |
 | [Diver City Theme](https://open.spotify.com/track/3k2m4S5cIgtiwnzzK7DnKo) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:42 | 2023-12-30 |  |
-| [Don't Be Shy \(Wave Racer Remix\)](https://open.spotify.com/track/72gdVxZ1R0a4goiltMn9tj) | [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [The Singles](https://open.spotify.com/album/78E8eyABvUHdWiiLZlTqey) | 3:01 | 2023-12-30 |  |
+| [Don't Be Shy](https://open.spotify.com/track/5hMnmFo7lzG3KTZHNgAX3O) | [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [The Singles](https://open.spotify.com/album/78E8eyABvUHdWiiLZlTqey) | 3:21 | 2025-07-20 |  |
+| [Don't Be Shy \(Wave Racer Remix\)](https://open.spotify.com/track/72gdVxZ1R0a4goiltMn9tj) | [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [The Singles](https://open.spotify.com/album/78E8eyABvUHdWiiLZlTqey) | 3:01 | 2023-12-30 | 2025-07-21 |
 | [Eat The Runway](https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [Eat The Runway](https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0) | 3:08 | 2023-12-30 |  |
 | [Ember](https://open.spotify.com/track/5vRKDB7qR2A3WBHBuukeqg) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Ember EP](https://open.spotify.com/album/2leC9bFdVDkE4feqKf7xOX) | 3:23 | 2023-12-30 |  |
 | [Energy](https://open.spotify.com/track/7gOdmNazfs5qdtsgWOB1Z4) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Energy](https://open.spotify.com/album/4jnCb5V9ru3GAHtNr7rfkS) | 3:28 | 2023-12-30 |  |

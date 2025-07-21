@@ -16537,6 +16537,24 @@
     },
     {
       "album": {
+        "name": "H1-KEY 4th Mini Album [Lovestruck]",
+        "url": "https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Summer Was You",
+      "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"
+    },
+    {
+      "album": {
         "name": "SUMMERIDE",
         "url": "https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo"
       },
@@ -18294,7 +18312,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"

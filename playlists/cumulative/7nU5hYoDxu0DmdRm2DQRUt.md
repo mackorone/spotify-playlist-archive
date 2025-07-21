@@ -274,6 +274,6 @@
 | [You Are Gods](https://open.spotify.com/track/3JDDDU1lLw6kmg81WFhApn) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI), [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [The Universe Will Take Care Of You](https://open.spotify.com/album/6oAVVDRw6IfC2uHghD8c17) | 8:30 | 2025-06-13 |  |
 | [You're Only SQL \- Remastered](https://open.spotify.com/track/2N873iY5Mbs0f3hLt09ju7) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Further Vexations \(Remastered\)](https://open.spotify.com/album/3ui8Fp4kET2pOUiGU8cal9) | 4:57 | 2025-02-14 |  |
 | [Your Tears](https://open.spotify.com/track/71LYpj1krpThr5aBv5VSih) | [Mioche](https://open.spotify.com/artist/6v35t8oNbqhHLrvxggkfvQ) | [Your Tears](https://open.spotify.com/album/3WMJnSOlh2z7dQqAbpYHP9) | 6:44 | 2025-03-27 |  |
-| [ファイアークラッカー（2018 Bob Ludwig Remastering）](https://open.spotify.com/track/05CuE9Av2R8EF3pu2pL7Pe) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Yellow Magic Orchestra](https://open.spotify.com/album/72noAkTZmKDGR5F2wSQNf0) | 4:50 | 2025-04-07 |  |
+| [ファイアークラッカー \- 2018 Bob Ludwig Remastering](https://open.spotify.com/track/05CuE9Av2R8EF3pu2pL7Pe) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Yellow Magic Orchestra](https://open.spotify.com/album/72noAkTZmKDGR5F2wSQNf0) | 4:50 | 2025-04-07 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

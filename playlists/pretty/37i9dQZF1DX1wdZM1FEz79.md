@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: GYE0M\(겸\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장범준\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,225 likes - 52 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,228 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Seawater](https://open.spotify.com/track/4ZUQdbXvLUn3LHAjYxci0k) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Though We Adrift](https://open.spotify.com/album/2YFgkaictuYC288Ijr8LTd) | 3:40 |
-| 2 | [Not Just Anybody](https://open.spotify.com/track/6nI7npgbFiqYXc3cGWaGq0) | [BeyondAll](https://open.spotify.com/artist/6mPjLovJDCsUhrtEplPW72) | [Breakwater, Sincerity](https://open.spotify.com/album/2Ek9T8lKbXVhOIcN0nXoQj) | 2:53 |
+| 1 | [Oh! Summer night, Romantic Melodies](https://open.spotify.com/track/6MikG6rbwaFoUfoLaNo4uE) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Buscar Buscar](https://open.spotify.com/album/6p6LR7wxGB3Nsy2Bd0zAoe) | 2:35 |
+| 2 | [Seawater](https://open.spotify.com/track/4ZUQdbXvLUn3LHAjYxci0k) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Though We Adrift](https://open.spotify.com/album/2YFgkaictuYC288Ijr8LTd) | 3:40 |
 | 3 | [Love Song \- Acoustic Version](https://open.spotify.com/track/0LxJLDqoQAxxiMFROUjqqT) | [hemming](https://open.spotify.com/artist/62jIpWzkUFaVRfHvE2XEXu) | [Love Song \(Acoustic Version\)](https://open.spotify.com/album/7CC5G0UjPTVEXDJQTGQUNR) | 3:45 |
-| 4 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 |
+| 4 | [Not Just Anybody](https://open.spotify.com/track/6nI7npgbFiqYXc3cGWaGq0) | [BeyondAll](https://open.spotify.com/artist/6mPjLovJDCsUhrtEplPW72) | [Breakwater, Sincerity](https://open.spotify.com/album/2Ek9T8lKbXVhOIcN0nXoQj) | 2:53 |
 | 5 | [Underdog Love](https://open.spotify.com/track/2B3m6yaFZf5Tzwyn1opfT8) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Underdog Love](https://open.spotify.com/album/7krQUrbx4ixgB9xD5eltcm) | 3:18 |
 | 6 | [the moment i see you](https://open.spotify.com/track/6KHoFpqwiy8W6yUTrLFXFl) | [Park Bo\-young](https://open.spotify.com/artist/0jMuf24m4Bn1vcdQmvGp3z) | [the moment i see you](https://open.spotify.com/album/6JIcH9zOzvROTIe7PtqgLq) | 3:22 |
 | 7 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
 | 52 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
 
-Snapshot ID: `aHiXNwAAAADEt5kHPq85VZCKH5mSmiYD`
+Snapshot ID: `aH2U0wAAAADrlsoCsNjf7C8xPGy/3n+K`

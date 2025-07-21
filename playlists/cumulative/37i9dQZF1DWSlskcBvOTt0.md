@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-968 songs - 3 day 9 hr 56 min
+969 songs - 3 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,7 @@
 | [KL427](https://open.spotify.com/track/0tfSHgbBF0wudizTFesANb) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Oxygen Levels Low EP](https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il) | 6:43 | 2022-05-13 | 2022-11-13 |
 | [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 | 2024-02-02 |  |
 | [Korowai](https://open.spotify.com/track/5nGwt2oUROQtaW1EYxY9hj) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Korowai](https://open.spotify.com/album/3ByTN078vPgKLFKEbmUSr4) | 8:24 | 2021-04-21 | 2022-04-21 |
-| [Kuwe](https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Kuwe](https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u) | 2:45 | 2024-12-06 |  |
+| [Kuwe](https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Kuwe](https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u) | 2:45 | 2024-12-06 | 2025-07-21 |
 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 | 2023-06-30 | 2024-09-28 |
 | [La Casa](https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw) | [Souave](https://open.spotify.com/artist/4UhKvEeSMf3oxPvVlkryJw) | [La Casa](https://open.spotify.com/album/6RZPyHpndtGVCh8BfYYByV) | 4:38 | 2024-09-13 | 2025-02-01 |
 | [La Luz](https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [WAYU Various Artists, Vol\. 2](https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL) | 5:28 | 2021-05-07 | 2023-03-11 |
@@ -534,6 +534,7 @@
 | [Matahale](https://open.spotify.com/track/1t2prKx2l2b4mxsk3rlhaD) | [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Matahale](https://open.spotify.com/album/4h8slpY81obL56W9pz0Umj) | 3:12 | 2024-11-15 | 2025-05-03 |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2021-12-10 | 2022-07-29 |
 | [Maundu](https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei) | [Maundu](https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO) | 2:16 | 2024-01-19 | 2024-10-16 |
+| [Mayana](https://open.spotify.com/track/46fdi4VtT9vhfNsw7NGBNX) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Mayana](https://open.spotify.com/album/7jX7fxxYewIXCfqIyz4bSy) | 3:32 | 2025-07-18 |  |
 | [Medieval \- LP Giobbi Remix](https://open.spotify.com/track/3PglnB18NqXPMiDGDHO0t1) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Temple Of Dreams \(Remixes Part 3\)](https://open.spotify.com/album/06hdt6bc2zFnFccUCa4GCR) | 3:41 | 2023-10-27 | 2024-07-13 |
 | [Megatron](https://open.spotify.com/track/3YzchKT35RxM7eZ3nQqEpU) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Megatron EP](https://open.spotify.com/album/6RE2zeSoghUWFFh2aSy3Mp) | 5:59 | 2024-06-28 | 2024-07-27 |
 | [Meka](https://open.spotify.com/track/6YPiDqUt8ITVVOqMBabOSB) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Meka](https://open.spotify.com/album/49ZzIScqGDeC3Hno8pS5jz) | 3:14 | 2025-06-19 |  |

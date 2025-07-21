@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 129735,
+  "num_followers": 129724,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Noise Floor (Rarities: 1998-2005)",
-        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Devil Town",
-      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "brainrot",
         "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 132111,
       "name": "brainrot",
       "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Noise Floor (Rarities: 1998-2005)",
+        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 183240,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
     },
     {
       "added_at": "2024-11-14 23:00:00",

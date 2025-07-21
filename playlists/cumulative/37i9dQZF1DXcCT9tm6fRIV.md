@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-159 songs - 8 hr 58 min
+160 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Qué me van a hablar de amor \- Remastered](https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX) | [Varón \(Remastered\)](https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9) | 3:12 | 2022-03-18 |  |
 | [Remolino](https://open.spotify.com/track/48OjE2RNkrqVOLhiWcWdny) | [Sexteto Mayor](https://open.spotify.com/artist/6Wvfeq2vPFsjNGxFmcz1nq), [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [Our Last Tango \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6KHuXPoSIy51xXU3IB05L4) | 3:10 | 2022-03-18 |  |
 | [Responso](https://open.spotify.com/track/7vBkXx83Ui48fX6G6y3h29) | [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ) | [A Gran Orquesta](https://open.spotify.com/album/42gr2cyiQY9JlB9Lga289b) | 3:07 | 2022-03-18 | 2025-01-30 |
+| [Revuelo sur](https://open.spotify.com/track/7944IqWQ10wwbTgzuct4RO) | [Susy Shock](https://open.spotify.com/artist/7cSEm0IEhlSHyPx0rXC6oY), [La Bandada de Colibríes](https://open.spotify.com/artist/7uke62HqZX7Jn6Del1PkKO) | [Revuelo Sur](https://open.spotify.com/album/3HiRTZaJVTT4HglplKZmF2) | 3:10 | 2025-06-06 |  |
 | [Romance de barrio](https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Manzi, caminos de barro y pampa](https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG) | 3:36 | 2022-03-18 |  |
 | [Se Dice De Mi](https://open.spotify.com/track/7rb5qQHrnnwUwS4udW6J8H) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:28 | 2022-03-18 |  |
 | [Se Tiran Conmigo](https://open.spotify.com/track/52bmeu33Kkm1hfEsuvivs5) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [Tangazos](https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg) | 2:41 | 2022-03-18 | 2024-04-19 |
@@ -152,7 +153,7 @@
 | [Tangos \(Arr\. Vidal\): Decaríssimo](https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ), [Lluís Vidal](https://open.spotify.com/artist/0vVVbsITxDW6vAYpb6AqYH), [Orquestra De Cambra Teatre Lliure](https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr), [Josep Pons](https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV) | [Piazzolla: Bandonéon Concerto; Tangos](https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN) | 2:43 | 2022-03-18 |  |
 | [Tarde](https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Federico Mizrahi](https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:41 | 2022-03-18 |  |
 | [Tinta Roja](https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL) | [Aníbal Troilo](https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN), [Francisco Fiorentino](https://open.spotify.com/artist/0chC6Ta4I8hpmaZ28GUdMT) | [Toda Mi Vida](https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR) | 3:03 | 2022-03-18 |  |
-| [Tinta Roja](https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tinta Roja](https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4) | 3:08 | 2023-06-09 |  |
+| [Tinta Roja](https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tinta Roja](https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4) | 3:08 | 2023-06-09 | 2025-07-21 |
 | [Todo Es Amor](https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH) | [Cristian Chinellato](https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy) | [Todo Es Amor](https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5) | 4:13 | 2022-03-18 |  |
 | [Trenzas](https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:24 | 2022-03-18 |  |
 | [Tuve El Corazon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/0LB7newoKqj7d6IPWxsDk8) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Tuve El Corazon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qQMunB3IfjKVAuq3MRf9O) | 3:17 | 2024-08-02 |  |

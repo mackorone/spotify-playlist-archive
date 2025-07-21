@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
@@ -4835,6 +4835,28 @@
     },
     {
       "album": {
+        "name": "Summer Uptown (feat. d4vd)",
+        "url": "https://open.spotify.com/album/43UkoE610FmVIRutsYdtda"
+      },
+      "artists": [
+        {
+          "name": "jasontheween",
+          "url": "https://open.spotify.com/artist/56z8RFFEGWfUFHzvgv70SB"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155364,
+      "name": "Summer Uptown (feat. d4vd)",
+      "url": "https://open.spotify.com/track/6NarIXlTbRfD9WU7YvXSTM"
+    },
+    {
+      "album": {
         "name": "SUMMER VIBES",
         "url": "https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2"
       },
@@ -5910,6 +5932,10 @@
         {
           "name": "dj gummy bear",
           "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
       "date_added": "2025-07-10",

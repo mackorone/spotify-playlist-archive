@@ -622,9 +622,27 @@
           "url": "https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt"
         }
       ],
-      "date_added": "2023-12-30",
+      "date_added": "2025-07-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201361,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/5hMnmFo7lzG3KTZHNgAX3O"
+    },
+    {
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/78E8eyABvUHdWiiLZlTqey"
+      },
+      "artists": [
+        {
+          "name": "DCup",
+          "url": "https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2025-07-21",
       "duration_ms": 181863,
       "name": "Don't Be Shy (Wave Racer Remix)",
       "url": "https://open.spotify.com/track/72gdVxZ1R0a4goiltMn9tj"

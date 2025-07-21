@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 137454,
       "name": "Day Drinks",
       "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
@@ -5010,10 +5010,36 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 194285,
       "name": "Sun Road",
       "url": "https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W"
+    },
+    {
+      "album": {
+        "name": "Sun Went Down, Sky Went Dark",
+        "url": "https://open.spotify.com/album/2d8InkYS054gRrEkp64rH0"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "GIVVEN",
+          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
+        },
+        {
+          "name": "Senes",
+          "url": "https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252200,
+      "name": "Sun Went Down, Sky Went Dark",
+      "url": "https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo"
     },
     {
       "album": {
@@ -5574,6 +5600,28 @@
       "duration_ms": 236399,
       "name": "Trouble Symphony",
       "url": "https://open.spotify.com/track/6hu6bSo7Vsu4iv1zKvlCxJ"
+    },
+    {
+      "album": {
+        "name": "Un Idiota (Te Perd\u00ed)",
+        "url": "https://open.spotify.com/album/2790I5a0CbIcGf9HBnJ6UF"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300487,
+      "name": "Un Idiota - Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/1oe42GaLCuxepZNDc6Hl27"
     },
     {
       "album": {

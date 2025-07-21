@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Eileen Alister
 
-379 songs - 19 hr 34 min
+380 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Casanova](https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Casanova](https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c) | 3:02 | 2025-05-22 |  |
 | [cause of death](https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [cause of death](https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs) | 2:28 | 2024-10-18 | 2024-12-21 |
 | [Champions](https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [Champions](https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT) | 2:32 | 2024-06-27 | 2024-09-28 |
+| [Chicago](https://open.spotify.com/track/5hkOl3aXRWS6Z5kLT3DUm7) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [July](https://open.spotify.com/album/1tgXKouYi8tcMfSRzeH2E2) | 2:52 | 2025-07-17 |  |
 | [Chlorine](https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D) | [Sivilian](https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI) | [Chlorine](https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY) | 3:00 | 2024-12-20 |  |
 | [Chosen One](https://open.spotify.com/track/6dqTj5gKTMni9esU8TO5jd) | [Paxslim](https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy) | [Chosen One](https://open.spotify.com/album/4VQXn7Ine5IpFCHWGrJxKJ) | 1:44 | 2025-05-15 | 2025-05-23 |
 | [Clean](https://open.spotify.com/track/6Bl5lqZBzc2tgH6fbBoaor) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [Clean](https://open.spotify.com/album/6fzC2pvNHICrZG8j5YUX06) | 3:37 | 2025-05-15 | 2025-05-23 |
@@ -362,7 +363,7 @@
 | [Warrior](https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Warrior](https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa) | 2:28 | 2024-10-11 | 2025-02-04 |
 | [Was Hokksch](https://open.spotify.com/track/2a1KfNrr4wKFNyOxtkn0sb) | [Melina Nora](https://open.spotify.com/artist/0vUj7AXRiRVgGy700ZFSgF) | [Was Hokksch](https://open.spotify.com/album/6wc04duGz2asgmo4tu8G7U) | 3:07 | 2025-04-17 | 2025-04-25 |
 | [was wir möchten](https://open.spotify.com/track/3VTUfB1bU4ojHwBXkWZWem) | [bennet](https://open.spotify.com/artist/69fTTPnlYWytPTTN8zBZgw) | [was wir möchten](https://open.spotify.com/album/36CvDiiGbtrJUbvmI8CB5k) | 2:06 | 2024-08-09 | 2024-09-10 |
-| [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 | 2024-06-27 |  |
+| [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 | 2024-06-27 | 2025-07-21 |
 | [Water Sign](https://open.spotify.com/track/2mzpqasElvXCZWk4mRrY2R) | [Taender](https://open.spotify.com/artist/0IIpoKeAICGwEouaLmrjci) | [Water Sign](https://open.spotify.com/album/3yVbzkOjfKQaSRxm8TOtsK) | 3:31 | 2025-04-17 | 2025-04-25 |
 | [Water To Me](https://open.spotify.com/track/2aZF6ThVCMMVHGNagM26bg) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Water To Me](https://open.spotify.com/album/5FInkaCDvzqsPabrX6ETBg) | 3:05 | 2025-05-22 | 2025-06-21 |
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2024-06-27 |  |

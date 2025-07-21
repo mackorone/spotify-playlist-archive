@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 292632,
+  "num_followers": 292628,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Me Deixe S\u00f3",
-        "url": "https://open.spotify.com/album/0b1UyJHazZPocxMljaURMy"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
-        }
-      ],
-      "duration_ms": 91826,
-      "name": "Me Deixe S\u00f3",
-      "url": "https://open.spotify.com/track/4gF3E79pvTSE4pLSxgb5ge"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "Voc\u00ea Falou pra Mim",
         "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "Me Deixe S\u00f3",
+        "url": "https://open.spotify.com/album/0b1UyJHazZPocxMljaURMy"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+        }
+      ],
+      "duration_ms": 91826,
+      "name": "Me Deixe S\u00f3",
+      "url": "https://open.spotify.com/track/4gF3E79pvTSE4pLSxgb5ge"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -1491,30 +1491,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO"
-      },
-      "artists": [
-        {
-          "name": "EXQUE\u00c7A TUDO PAPAI",
-          "url": "https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D"
-        },
-        {
-          "name": "Nith",
-          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 193728,
-      "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/0mORJWR6L3RSefYVBke8Zs"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1535,6 +1511,30 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO"
+      },
+      "artists": [
+        {
+          "name": "EXQUE\u00c7A TUDO PAPAI",
+          "url": "https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D"
+        },
+        {
+          "name": "Nith",
+          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 193728,
+      "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/0mORJWR6L3RSefYVBke8Zs"
     },
     {
       "added_at": "2025-06-13 03:00:19",

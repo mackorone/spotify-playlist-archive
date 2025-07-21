@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá que tá viral no seu feed sabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,291 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,266 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 39 | [Medley Put4ria Avançada](https://open.spotify.com/track/47jm3FEv1cfE97ILQsqfPq) | [HITS DO NORDESTE](https://open.spotify.com/artist/3OuNp8jY5rNrvBZKbzzUfm) | [Medley Put4ria Avançada](https://open.spotify.com/album/58k3YgPnHa7XWEFOc4ggTd) | 3:19 |
 | 40 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 41 | [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 |
-| 42 | [Patrai Patrai](https://open.spotify.com/track/4BVL2QLF5QQLT15SpAWMVq) | [O REI DA BATIDINHA](https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB) | [No Bar de Tõe Furico \(Ao Vivo\)](https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC) | 1:40 |
+| 42 | [Patrai Patrai \- Ao Vivo](https://open.spotify.com/track/4BVL2QLF5QQLT15SpAWMVq) | [O REI DA BATIDINHA](https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB) | [No Bar de Tõe Furico \(Ao Vivo\)](https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC) | 1:40 |
 | 43 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
 | 44 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 |
 | 45 | [Amor Na Praia](https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Amor Na Praia](https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu) | 2:36 |

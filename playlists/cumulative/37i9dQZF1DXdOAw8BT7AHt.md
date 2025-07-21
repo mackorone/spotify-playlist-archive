@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Shady Nasty
 
-507 songs - 1 day 1 hr 25 min
+508 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [BUTCHER'S BIN](https://open.spotify.com/track/05N99aG3BJQXVUPnTyde8l) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BUTCHER'S BIN](https://open.spotify.com/album/6SfuRdJVKKm9VkbP3HQ3Kj) | 4:00 | 2024-03-15 | 2024-05-19 |
 | [By The Way](https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [By The Way](https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8) | 2:52 | 2025-02-07 |  |
 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 | 2022-12-02 | 2024-06-01 |
-| [Caffeine](https://open.spotify.com/track/03g8UUClsnR55SzLYSqWHy) | [Mattstagraham](https://open.spotify.com/artist/48wLB9JErgk9YvhvAC1KQI) | [Caffeine](https://open.spotify.com/album/3P6BQLq4WpAZ5DH4sJ4GAs) | 3:10 | 2025-02-07 |  |
+| [Caffeine](https://open.spotify.com/track/03g8UUClsnR55SzLYSqWHy) | [Mattstagraham](https://open.spotify.com/artist/48wLB9JErgk9YvhvAC1KQI) | [Caffeine](https://open.spotify.com/album/3P6BQLq4WpAZ5DH4sJ4GAs) | 3:10 | 2025-02-07 | 2025-07-21 |
 | [California Sober](https://open.spotify.com/track/7s5TCAqfDLMmOUqwsOXdId) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [California Sober](https://open.spotify.com/album/7gI0X71p03RtZMYpyCgtY9) | 2:42 | 2024-06-27 | 2024-09-17 |
 | [Call A Doctor](https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [Call A Doctor](https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6) | 5:09 | 2024-05-31 | 2024-07-01 |
 | [Can't See Straight](https://open.spotify.com/track/71MlY5h47k1txHLM1Z03qB) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Can't See Straight](https://open.spotify.com/album/76jpo9MP2lrWtR4x9qyDxU) | 1:03 | 2024-10-10 | 2025-02-08 |
@@ -393,6 +393,7 @@
 | [Separation Anxiety](https://open.spotify.com/track/42GnEj7ZhK9g8I0LttHUdc) | [PET NEEDS](https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP) | [Separation Anxiety](https://open.spotify.com/album/2nYoLJ0l9vgDsgIiajn2ja) | 2:47 | 2023-11-13 | 2023-12-21 |
 | [serotonin](https://open.spotify.com/track/7j1nFsNOimv0aj6CcLIsTj) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge) | 3:03 | 2022-12-02 | 2023-06-29 |
 | [Shame](https://open.spotify.com/track/1mUciZNK2olURLMvqzkkZo) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/7iSh8UZLiaaxaxi6H8BRjc) | 2:34 | 2024-10-10 | 2025-05-09 |
+| [Sharp Teeth](https://open.spotify.com/track/1GkQDxx88mdMSbAx37Kumh) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Sharp Teeth](https://open.spotify.com/album/0qIkzuUEJlCO0eCXTk8wGH) | 2:34 | 2025-07-19 |  |
 | [Should’ve Been Me](https://open.spotify.com/track/6SzyT5365B5XAuDHrTwLlB) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Should’ve Been Me](https://open.spotify.com/album/6A6xRfiOYgZkeLWCovSIJv) | 1:02 | 2024-10-10 | 2024-11-16 |
 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 | 2024-10-10 | 2025-02-08 |
 | [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 | 2023-03-20 | 2024-06-01 |

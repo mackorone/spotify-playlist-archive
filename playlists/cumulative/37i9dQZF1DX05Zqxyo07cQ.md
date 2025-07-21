@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-786 songs - 1 day 14 hr 13 min
+788 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Becalming Silence](https://open.spotify.com/track/73E1cWwhV9iyIfiyyH26Mn) | [La Kalon](https://open.spotify.com/artist/5PdlOF1wMz2X6jSbZXND4l) | [Becalming Silence](https://open.spotify.com/album/7ynySTl54ib9UJLkgwrvak) | 2:29 | 2023-03-23 | 2024-03-21 |
 | [Before The Full Moon](https://open.spotify.com/track/6f9yi7FErSjPN4hWCJURLq) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Before The Full Moon.](https://open.spotify.com/album/1oRxGgmdb4IrBsbKEbU0Qf) | 3:18 | 2023-07-14 | 2024-07-10 |
 | [Begin Again](https://open.spotify.com/track/5KizSeC2r6lnTqVf3j3kMq) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Begin Again](https://open.spotify.com/album/6ZtJLFGZl9rEFG1nukqRp0) | 3:42 | 2023-03-23 | 2024-03-21 |
-| [Benevolent](https://open.spotify.com/track/3qv6UdZerLnFiGkWBynjGv) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Benevolent](https://open.spotify.com/album/5iMRxKGIIbRv8OxwEpj8JP) | 2:20 | 2024-05-04 |  |
+| [Benevolent](https://open.spotify.com/track/3qv6UdZerLnFiGkWBynjGv) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Benevolent](https://open.spotify.com/album/5iMRxKGIIbRv8OxwEpj8JP) | 2:20 | 2024-05-04 | 2025-07-21 |
 | [Berhenti Masa](https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Berhenti Masa](https://open.spotify.com/album/2rjf7QvlfHGsHL6nTTLwfC) | 2:29 | 2023-03-23 | 2024-05-05 |
 | [beyond horizons](https://open.spotify.com/track/1jpVNjs3ljHRGkE6hklAMB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [sleeping moons](https://open.spotify.com/album/5axy78HLC8b3mqrS3qWLJf) | 3:14 | 2023-03-23 | 2024-03-21 |
 | [Beyond the Silence](https://open.spotify.com/track/77h8U4nGrKuREPKF9krrYC) | [Draumur](https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv) | [Beyond the Silence](https://open.spotify.com/album/6Ma31neVFv5LDMNeg6nc40) | 2:53 | 2025-04-09 |  |
@@ -258,6 +258,7 @@
 | [Essence](https://open.spotify.com/track/2EnLnhNkVlMlqwpz4b8lct) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Deep Healing Sessions Vol 2](https://open.spotify.com/album/5K63oXlxc0jMxHooauDXva) | 3:30 | 2023-03-23 | 2024-02-09 |
 | [Essentials](https://open.spotify.com/track/1GJb1W2u1XOC4NnTprGsGk) | [River Hall](https://open.spotify.com/artist/2fuR3LZlCAFO9u0DlORUag) | [Essentials](https://open.spotify.com/album/1k52LUN5DCwcsQB7tqlc48) | 3:00 | 2023-03-23 | 2024-03-21 |
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2023-03-23 | 2024-02-09 |
+| [Eternal](https://open.spotify.com/track/6WSBhGwkN8DHJeE0RD2XUt) | [Nebula Somni](https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV) | [Eternal](https://open.spotify.com/album/3PJgFEqbNBVECfcTvgtD5B) | 2:31 | 2025-07-17 |  |
 | [Eternal mirage](https://open.spotify.com/track/23E3WfMLsstTOfP4HJnVSz) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Eternal mirage](https://open.spotify.com/album/4krCr357O9G5m7we7yB98O) | 2:30 | 2025-03-27 | 2025-04-14 |
 | [Eternal Moon](https://open.spotify.com/track/26nLhM4tNejbXtnUGB1SIp) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Eternal Moon](https://open.spotify.com/album/3MOOaUzMLOAHdSwpUzxe4k) | 2:19 | 2025-03-19 |  |
 | [Eternal Moonlight](https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF) | [Rettifilo Flo](https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE) | [Eternal Moonlight](https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK) | 2:58 | 2024-05-04 | 2025-03-03 |
@@ -443,6 +444,7 @@
 | [Mellow Mountain](https://open.spotify.com/track/0GRKy1mrOocvoIEkVbtkSI) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Mellow Mountain](https://open.spotify.com/album/02JiI8N8HBuoTWwR624r7v) | 3:17 | 2023-03-23 | 2024-05-05 |
 | [Memoirs](https://open.spotify.com/track/36Z3iyI0tvkdGq0iW0NFis) | [Felix Vidal](https://open.spotify.com/artist/4VyiaHiDw8tZ2RB8gLW51A) | [Memoirs](https://open.spotify.com/album/3MWO8fmjTgGp4Uv2Kh6myK) | 2:50 | 2023-03-23 | 2024-05-05 |
 | [Memory Status](https://open.spotify.com/track/0azOIWOPJ5msxrEAU4L88U) | [Pillow Dalliance](https://open.spotify.com/artist/6DM6WLvwOHMENEbAd4jbFN) | [Memory Status](https://open.spotify.com/album/575CZ4LTrkyqRVfrAkDzJ0) | 3:05 | 2024-05-04 | 2025-02-05 |
+| [Midnight Moon](https://open.spotify.com/track/5zVbLUQdjjBcbSVeYGsugB) | [Owen Stiller](https://open.spotify.com/artist/6ewlHDDdGjZgNp4sHUhPeZ) | [Midnight Moon](https://open.spotify.com/album/7tk9GZNLTvfKLEFr1m0wWK) | 1:46 | 2025-07-17 |  |
 | [Midst of Everything](https://open.spotify.com/track/2UScMXkAslXCfMcRx2Wlr7) | [Tora Summer](https://open.spotify.com/artist/59RVWpGZwBN5H2S4yHsxD9) | [Midst of Everything](https://open.spotify.com/album/1RmiiLCKVetsg26CP2b9wM) | 2:46 | 2023-03-23 | 2024-05-05 |
 | [Migla](https://open.spotify.com/track/0AY2x7N94uTmkYruyZDPKu) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Migla](https://open.spotify.com/album/1ImyklVXN9AtfPPDfRNYEH) | 2:00 | 2023-03-23 | 2024-03-21 |
 | [Mind](https://open.spotify.com/track/7DvR34weBiIehUpND2sN6O) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:31 | 2023-03-23 | 2024-02-09 |
@@ -635,7 +637,7 @@
 | [Singularity](https://open.spotify.com/track/7nV2HPhYAWLBtJ2JCUyYfx) | [Everlasting Theta](https://open.spotify.com/artist/0xE2E5AhNCCeAfZj0uVKW9) | [Singularity](https://open.spotify.com/album/648LX1seqqG3MhQPyYjWWK) | 2:50 | 2024-05-04 | 2025-03-05 |
 | [Sky & Sea](https://open.spotify.com/track/4bRFHEiobRkNS6C1bmPxuB) | [Silbo Gomera](https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W) | [Sky & Sea](https://open.spotify.com/album/6FA9uYzacOsCQPPTERRzP4) | 2:53 | 2024-02-08 | 2024-07-13 |
 | [Skyfold](https://open.spotify.com/track/5482qIt2ZNCpnsxLiiRdob) | [Ziraphine](https://open.spotify.com/artist/11GUbolCBySYUL4wIUv1Ex) | [Skyfold](https://open.spotify.com/album/2fPUmnWD9iXgRHsYBLOaAQ) | 2:45 | 2025-06-12 |  |
-| [Sleep Infusion](https://open.spotify.com/track/4FO02oVfqzwAS4pNXnibiV) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Sleep Infusion](https://open.spotify.com/album/4Frl4Lw6O4AFWWIiiQAuXW) | 3:06 | 2024-12-17 |  |
+| [Sleep Infusion](https://open.spotify.com/track/4FO02oVfqzwAS4pNXnibiV) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Sleep Infusion](https://open.spotify.com/album/4Frl4Lw6O4AFWWIiiQAuXW) | 3:06 | 2024-12-17 | 2025-07-21 |
 | [Sleep Meridian](https://open.spotify.com/track/6p0QQYKH786hoZYn1Rm9S5) | [Shimmerweave](https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s) | [Sleep Meridian](https://open.spotify.com/album/6RH1z7gdCq0PUyOmtvBWuE) | 3:21 | 2025-03-27 | 2025-06-26 |
 | [Sleeping Asteroid](https://open.spotify.com/track/4ku5ZI6yCAvTBgEUvoVc5R) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Sleeping Asteroid](https://open.spotify.com/album/4TTHB2J83pa337ICnoYQlu) | 2:57 | 2023-03-23 | 2024-01-18 |
 | [Sleeping Awake](https://open.spotify.com/track/3vAghG2o6zdjgWQikWlYKn) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Daylight](https://open.spotify.com/album/47xd2MThv6TaiTB7tqYJ28) | 3:52 | 2023-03-23 | 2024-01-18 |

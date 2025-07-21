@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,064 songs - 2 day 14 hr 50 min
+1,065 songs - 2 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Memories](https://open.spotify.com/track/7vDvrWD0b8Ff5BF4zU00Pl) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Memories](https://open.spotify.com/album/6W69O0ITYeU5NJfmMgq6Q9) | 2:51 | 2023-05-23 | 2023-05-31 |
 | [metro](https://open.spotify.com/track/3M9HbRpiukEESGhSl4ZS2x) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [liquid city](https://open.spotify.com/album/3Bg6Aso9MrVgtHiih6pclv) | 3:41 | 2024-09-11 | 2024-09-19 |
 | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ) | 3:05 | 2024-01-18 | 2024-03-29 |
+| [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 | 2025-07-16 |  |
 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 | 2025-07-10 |  |
 | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq) | 5:10 | 2024-03-15 | 2024-04-19 |
 | [Midnight Train](https://open.spotify.com/track/3jaZ0zYnnidsLD9qlDMPRp) | [Murakami Keisuke](https://open.spotify.com/artist/34EzrWHspo4wT6YmLjE0IH) | [Midnight Train](https://open.spotify.com/album/7AH6O5WhlOlODKPvlHaurH) | 3:39 | 2022-10-25 | 2022-10-27 |
@@ -639,7 +640,7 @@
 | [Part of me](https://open.spotify.com/track/5KgKtADX8iDLtHL0AOFTsl) | [knowone](https://open.spotify.com/artist/3bWZBx59DSykvf74LKuFio), [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Part of me](https://open.spotify.com/album/4YP0JtfxPkBq2GegreOsc1) | 3:15 | 2024-02-15 | 2024-02-23 |
 | [Passione](https://open.spotify.com/track/5kv3DjlfH5GLQAKHOsS7zv) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Passione](https://open.spotify.com/album/1Lwc4869UaEXBv52G5yuUF) | 3:52 | 2023-06-01 | 2023-07-21 |
 | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s) | 2:49 | 2024-01-18 | 2024-02-07 |
-| [Peace of Mind](https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Peace of Mind](https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG) | 2:36 | 2025-06-25 |  |
+| [Peace of Mind](https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Peace of Mind](https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG) | 2:36 | 2025-06-25 | 2025-07-21 |
 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 | 2025-02-05 | 2025-05-29 |
 | [Pearls](https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Pearls](https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX) | 4:03 | 2023-02-09 | 2023-05-26 |
 | [Peel \(feat\. miida\)](https://open.spotify.com/track/6dtcmIjH4wh7nIn4amUs44) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [Peel \(feat\. miida\)](https://open.spotify.com/album/2G9PCqtBdxkoze7pTV2TFy) | 3:02 | 2023-08-15 | 2023-10-11 |

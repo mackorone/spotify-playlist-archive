@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-714 songs - 2 day 20 hr 39 min
+715 songs - 2 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Dark in Paradise](https://open.spotify.com/track/0p1ZIzmiFz7BcdBFmS2wvp) | [M0B](https://open.spotify.com/artist/1czB7ak5HgzWC5a3MppcmP) | [Dark in Paradise](https://open.spotify.com/album/4TWxweZn0f80leFukuzAxe) | 7:00 | 2019-08-06\* | 2019-08-08 |
 | [Dark Ocean](https://open.spotify.com/track/6djw4hnA30Rbn7Jq8qOqGe) | [Lost Rhythm](https://open.spotify.com/artist/6HKc9lMN8B5NoN113ncFLN) | [Dark Ocean](https://open.spotify.com/album/4IIH55DVtjzmOcPgTNQtmx) | 6:08 | 2023-04-28 | 2023-05-06 |
 | [Dark Woods](https://open.spotify.com/track/23pxKVLwTeaBuzzwkLDF59) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Dark Woods](https://open.spotify.com/album/0WITdoXCPTiq90HCDvOe0g) | 2:51 | 2021-12-17 | 2022-05-17 |
-| [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 | 2022-10-28 |  |
+| [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 | 2022-10-28 | 2025-07-21 |
 | [Daydreams](https://open.spotify.com/track/7mn5kDo1LR7wXf8hny9NIr) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Daydreams](https://open.spotify.com/album/5JsrcGuJKI1ix4GRTORug2) | 6:47 | 2020-02-05 | 2020-04-10 |
 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 | 2021-05-07 | 2021-10-30 |
 | [Deciduous 2022](https://open.spotify.com/track/4RaLwUHOWiLVPOC9CDEzGV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Till Krüger](https://open.spotify.com/artist/3U7VS6CCYQTl65zsyMRYlD) | [Deciduous 2022](https://open.spotify.com/album/4lofrfLhOFLqyt3niwH8RF) | 7:05 | 2022-02-01 | 2022-07-29 |
@@ -576,6 +576,7 @@
 | [Stole the Night \- Oliver Koletzki Remix](https://open.spotify.com/track/4vZ6U4BYEKeuyhbSVofLTS) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Remix Tales](https://open.spotify.com/album/1KFqkjrqm3LwHzqScoKd5u) | 7:19 | 2019-08-06\* | 2021-05-28 |
 | [Stone Flower \- Original](https://open.spotify.com/track/1QrxggFof36TcpeREbDAXI) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ) | [Stone Flower](https://open.spotify.com/album/3ZoEajMzgGXVRdiheQAVas) | 7:48 | 2019-08-06\* | 2020-01-26 |
 | [Subterranean](https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Subterranean](https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn) | 3:30 | 2023-11-11 |  |
+| [Sun Went Down, Sky Went Dark](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Senes](https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1) | [Sun Went Down, Sky Went Dark](https://open.spotify.com/album/2d8InkYS054gRrEkp64rH0) | 4:12 | 2025-07-18 |  |
 | [Sunshine](https://open.spotify.com/track/5asbG4btHJ2h2T4F1EtNK8) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Sunshine](https://open.spotify.com/album/3rbbxT58I3txO7IifNVnPc) | 3:32 | 2025-07-11 |  |
 | [Suvi](https://open.spotify.com/track/3hB45uxnbEjhGJHQZKOpFL) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Suvi](https://open.spotify.com/album/6OYVQ5iCKjq6jIddKMJBds) | 3:11 | 2020-09-19 | 2023-05-19 |
 | [Suvi](https://open.spotify.com/track/5EwMoEspweyiYHBpOrPTml) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:11 | 2023-05-05 | 2023-07-01 |

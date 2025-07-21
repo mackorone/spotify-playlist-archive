@@ -1,6 +1,6 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 395834,
+  "num_followers": 395918,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u79d8\u5bc6\u8b66\u5bdf",
-        "url": "https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe"
+        "name": "\u30c8\u30e9\u30dc\u30c6\u30a3\u30c3\u30af\u30fb\u30c1\u30e5\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/7ARxgUQPhcLdsGau2yblFB"
       },
       "artists": [
         {
-          "name": "Buriru",
-          "url": "https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv"
+          "name": "Toraboruta",
+          "url": "https://open.spotify.com/artist/3SF34yWtPytpoOfEz4GuW4"
         }
       ],
-      "duration_ms": 210000,
-      "name": "\u79d8\u5bc6\u8b66\u5bdf",
-      "url": "https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP"
+      "duration_ms": 282865,
+      "name": "\u30b3\u30b3\u30ed",
+      "url": "https://open.spotify.com/track/6gsd0653qu7ePqE2gXA2ET"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -695,18 +695,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30c8\u30e9\u30dc\u30c6\u30a3\u30c3\u30af\u30fb\u30c1\u30e5\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/7ARxgUQPhcLdsGau2yblFB"
+        "name": "\u79d8\u5bc6\u8b66\u5bdf",
+        "url": "https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe"
       },
       "artists": [
         {
-          "name": "Toraboruta",
-          "url": "https://open.spotify.com/artist/3SF34yWtPytpoOfEz4GuW4"
+          "name": "Buriru",
+          "url": "https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv"
         }
       ],
-      "duration_ms": 282865,
-      "name": "\u30b3\u30b3\u30ed",
-      "url": "https://open.spotify.com/track/6gsd0653qu7ePqE2gXA2ET"
+      "duration_ms": 210000,
+      "name": "\u79d8\u5bc6\u8b66\u5bdf",
+      "url": "https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
-        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
-      },
-      "artists": [
-        {
-          "name": "Storyteller (GAiA x cosMo@Bousou P)",
-          "url": "https://open.spotify.com/artist/5ti01KXPy9ZV9Gw7qvZtXU"
-        }
-      ],
-      "duration_ms": 192150,
-      "name": "\u521d\u97f3\u30df\u30af\u306e\u6fc0\u5531 -MIKU EXPO 2014 in INDONESIA Live-",
-      "url": "https://open.spotify.com/track/2Tpd2eHx7LT60o7BwZlqr3"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
         "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 262000,
       "name": "\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f",
       "url": "https://open.spotify.com/track/0WqE9VjtUmgohp92X7xiq9"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
+        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
+      },
+      "artists": [
+        {
+          "name": "Storyteller (GAiA x cosMo@Bousou P)",
+          "url": "https://open.spotify.com/artist/5ti01KXPy9ZV9Gw7qvZtXU"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "\u521d\u97f3\u30df\u30af\u306e\u6fc0\u5531 -MIKU EXPO 2014 in INDONESIA Live-",
+      "url": "https://open.spotify.com/track/2Tpd2eHx7LT60o7BwZlqr3"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30ef\u30eb\u30c4",
-        "url": "https://open.spotify.com/album/6WDtVilnzePTUujzcVKq59"
-      },
-      "artists": [
-        {
-          "name": "Omoi",
-          "url": "https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u30c6\u30aa",
-      "url": "https://open.spotify.com/track/6LpbtlqwvwxnRKC3xyu1CR"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u30e1\u30c6\u30aa",
         "url": "https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 516642,
       "name": "\u30e1\u30c6\u30aa",
       "url": "https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30ef\u30eb\u30c4",
+        "url": "https://open.spotify.com/album/6WDtVilnzePTUujzcVKq59"
+      },
+      "artists": [
+        {
+          "name": "Omoi",
+          "url": "https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "\u30c6\u30aa",
+      "url": "https://open.spotify.com/track/6LpbtlqwvwxnRKC3xyu1CR"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc"
-      },
-      "artists": [
-        {
-          "name": "tanaka B",
-          "url": "https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO"
-        }
-      ],
-      "duration_ms": 277700,
-      "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "crystaL",
         "url": "https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "FILL e TUA",
-        "url": "https://open.spotify.com/album/7xKMVouj5rNWZ7zwvYEN5I"
+        "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc"
       },
       "artists": [
         {
-          "name": "hinayukki@sigotositeP",
-          "url": "https://open.spotify.com/artist/3YWtMMkde3XUDN049gTpTx"
+          "name": "tanaka B",
+          "url": "https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO"
         }
       ],
-      "duration_ms": 233825,
-      "name": "\u756a\u51e9 -FILL e TUA arrange ver-",
-      "url": "https://open.spotify.com/track/6yabJmz3cyAU6lHaMFXPQf"
+      "duration_ms": 277700,
+      "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1259,6 +1243,22 @@
       "duration_ms": 265846,
       "name": "39\u307f\u3085\u30fc\u3058\u3063\u304f!",
       "url": "https://open.spotify.com/track/11NoD6DdxrVB8LGUSIzadp"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "FILL e TUA",
+        "url": "https://open.spotify.com/album/7xKMVouj5rNWZ7zwvYEN5I"
+      },
+      "artists": [
+        {
+          "name": "hinayukki@sigotositeP",
+          "url": "https://open.spotify.com/artist/3YWtMMkde3XUDN049gTpTx"
+        }
+      ],
+      "duration_ms": 233825,
+      "name": "\u756a\u51e9 -FILL e TUA arrange ver-",
+      "url": "https://open.spotify.com/track/6yabJmz3cyAU6lHaMFXPQf"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
-        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
-      },
-      "artists": [
-        {
-          "name": "Emon",
-          "url": "https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j"
-        }
-      ],
-      "duration_ms": 225936,
-      "name": "shake it! -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
-      "url": "https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u30a2\u30ab\u30c4\u30ad\u30a2\u30e9\u30a4\u30f4\u30a1\u30eb",
         "url": "https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 282239,
       "name": "\u30a2\u30ab\u30c4\u30ad\u30a2\u30e9\u30a4\u30f4\u30a1\u30eb",
       "url": "https://open.spotify.com/track/3BFnhJw3PvOhqMtRedHfL1"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
+        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
+      },
+      "artists": [
+        {
+          "name": "Emon",
+          "url": "https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j"
+        }
+      ],
+      "duration_ms": 225936,
+      "name": "shake it! -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
+      "url": "https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G"
     },
     {
       "added_at": "2021-05-26 02:37:36",

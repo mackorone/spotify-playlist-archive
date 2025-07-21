@@ -58821,6 +58821,24 @@
     },
     {
       "album": {
+        "name": "Paciencia",
+        "url": "https://open.spotify.com/album/3fwWKqyqgDWK65wDJ5bD7z"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315828,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/5D49CFF1HvSiOGsfw6aOuq"
+    },
+    {
+      "album": {
         "name": "Pacto",
         "url": "https://open.spotify.com/album/2Pd0XykNsGJq2ggeAik68R"
       },

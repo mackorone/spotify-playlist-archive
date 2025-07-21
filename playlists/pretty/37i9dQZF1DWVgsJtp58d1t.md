@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Click into the feed to learn about what's going on in the world of Afro Adura\. Cover: <a href="spotify:artist:5c0lDrNyT2RnFhujZpPIas">Victor Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,010 likes - 155 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,880 likes - 155 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

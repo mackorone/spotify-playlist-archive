@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437 likes - 383 songs - 19 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 438 likes - 383 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 37 | [Too Darn Hot](https://open.spotify.com/track/0ZP5fnIUj0dQJpulOreMW8) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:49 |
 | 38 | [I'm In Love](https://open.spotify.com/track/7LCD89We5JZALirKxgsGXM) | [Jennifer Lara](https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4) | [Rare Funk & Disco 42](https://open.spotify.com/album/5FCTng1W3Mu7QxS4XSxMcl) | 3:29 |
 | 39 | [Ridin' High](https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:10 |
-| 40 | [Dream Dancing](https://open.spotify.com/track/4t1V54Hn9P5G8XgPmZI2ru) | [Gabrielle Stravelli](https://open.spotify.com/artist/5Sa8o3V80M1LNtn5tzdxbt) | [Dream Ago](https://open.spotify.com/album/7BQEknQvYR2lEeGlI3SgDQ) | 3:50 |
-| 41 | [You're Sensational](https://open.spotify.com/track/1bbSaQGStvic6NcwS1KI2C) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [ブルー・トレイン](https://open.spotify.com/album/4oSv9oi3eTM7ati3AuJXkI) | 6:52 |
+| 40 | [You're Sensational](https://open.spotify.com/track/1bbSaQGStvic6NcwS1KI2C) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [ブルー・トレイン](https://open.spotify.com/album/4oSv9oi3eTM7ati3AuJXkI) | 6:52 |
+| 41 | [Dream Dancing](https://open.spotify.com/track/4t1V54Hn9P5G8XgPmZI2ru) | [Gabrielle Stravelli](https://open.spotify.com/artist/5Sa8o3V80M1LNtn5tzdxbt) | [Dream Ago](https://open.spotify.com/album/7BQEknQvYR2lEeGlI3SgDQ) | 3:50 |
 | 42 | [Let's Fly Away](https://open.spotify.com/track/23OvK9AlKo3Se4xcAMDwUY) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:31 |
 | 43 | [Big Stuff](https://open.spotify.com/track/6DBTJQB1VxR82nIEwNrPUp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Camarata And His Orchestra](https://open.spotify.com/artist/4TYE75eI4rO1QTLoDFUUGq) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 2:32 |
 | 44 | [You've Got That Thing](https://open.spotify.com/track/5BNbK4zV6qMx4owmFbLoSP) | [Conal Fowkes](https://open.spotify.com/artist/5wkcqSO98UBNmxtMJBG3kd) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 1:44 |
@@ -392,4 +392,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 382 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 | 383 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `Ab3OcgAAAAB3/kBgmMiOlHx1O172vBQ2`
+Snapshot ID: `Ab3UEgAAAAB+pIYKLDoBeUcVcPjTEvPl`

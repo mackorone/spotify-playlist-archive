@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Ashu Shukla, Vasu Raina and other exciting artists.
 
-1,113 songs - 2 day 12 hr 53 min
+1,114 songs - 2 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Bhare Naina](https://open.spotify.com/track/64Axru3p8cCiqIC2Cwi1Tj) | [Khayaal](https://open.spotify.com/artist/5Kfjxy64QteoXxlMjjNU48) | [Bhare Naina](https://open.spotify.com/album/0tY5LWUa04hAoyBCc4VydW) | 2:43 | 2024-05-31 | 2024-06-29 |
 | [Bhari Barsaat Mein](https://open.spotify.com/track/52GJsljLaWyH6h0YNMuS2y) | [Snigdhajit Bhowmik](https://open.spotify.com/artist/0E63Ss1x0irRAeMgMwBBCt) | [Bhari Barsaat Mein](https://open.spotify.com/album/3dRECjj9F6tS4kkSyNQtQS) | 2:59 | 2024-08-09 | 2024-08-17 |
 | [Bhayankar Piya](https://open.spotify.com/track/0IaJjF4NDTr0RZMCUIZKvh) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Zeeshan Khan](https://open.spotify.com/artist/3Um0W0Z5SJPOThaxwq6Il5) | [Bhayankar Piya](https://open.spotify.com/album/5gFeEp2uQBqpUULYNW9GSO) | 4:12 | 2024-10-11 | 2025-01-18 |
+| [Bheja No Dahi](https://open.spotify.com/track/3HB6DGSmxzzWBBWXkQUW21) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F), [Geet Sagar](https://open.spotify.com/artist/2794Yv56Ut2J2gFz1p7uce), [Anubhav Suman](https://open.spotify.com/artist/0Hr3yDk35OzAI48SSC4PU8) | [Bheja No Dahi](https://open.spotify.com/album/3nLmHaI8YJETiI0mmoh0HQ) | 1:45 | 2025-07-18 |  |
 | [Bhool Bhulaiya](https://open.spotify.com/track/5En9zOsP5wURF47Fxzh66o) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Bhool Bhulaiya](https://open.spotify.com/album/5UdtpbfhTvDSz6x78eCSNy) | 3:32 | 2025-03-21 | 2025-07-12 |
 | [Bin Tere](https://open.spotify.com/track/3HmkI0yLP6fE6wPrjjTnWJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Bin Tere](https://open.spotify.com/album/4vTudmkF2X0nlMCcXMUixp) | 3:26 | 2023-08-04 | 2023-09-16 |
 | [Bina Tere](https://open.spotify.com/track/2So52gy410ihmmFJqV4OEh) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Shambhavi Thakur](https://open.spotify.com/artist/2b1YWOv5v6yzuEDComf7fO), [Anshul Mathur](https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX) | [Bina Tere](https://open.spotify.com/album/4VI0RQSAieJ17zSKugPzJq) | 2:34 | 2024-03-01 | 2024-03-16 |
@@ -1040,7 +1041,7 @@
 | [Tu Saath Hai](https://open.spotify.com/track/7h1SEjAxpBPPstLExfj8C3) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Tu Saath Hai](https://open.spotify.com/album/6HwDubGIxghrlQq64qYwwx) | 2:35 | 2023-09-08 | 2023-10-07 |
 | [Tu Sab Vekheya](https://open.spotify.com/track/33wXzWYLd3kJWh4WVZyaIU) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tu Sab Vekheya](https://open.spotify.com/album/35ldZRrH83VXMtjooYmXjk) | 3:19 | 2025-06-13 | 2025-07-05 |
 | [Tu/You](https://open.spotify.com/track/1pthFdmm7VryZcr6kXDta9) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU) | [NidhSan \- EP \(15.09\)](https://open.spotify.com/album/7sNbRk8YwnpIo0NXdqKQLg) | 2:30 | 2025-01-24 | 2025-02-08 |
-| [Tujhe Dekhun Toh \(From "Samaaj \- Dance Narrative"\)](https://open.spotify.com/track/6nMbTSuTPMA2hjPvzpKRMF) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9) | [Samaaj \- Dance Narrative](https://open.spotify.com/album/59p8TnLnbzqXYhTGD1xzfM) | 3:41 | 2025-07-04 |  |
+| [Tujhe Dekhun Toh \(From "Samaaj \- Dance Narrative"\)](https://open.spotify.com/track/6nMbTSuTPMA2hjPvzpKRMF) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9) | [Samaaj \- Dance Narrative](https://open.spotify.com/album/59p8TnLnbzqXYhTGD1xzfM) | 3:41 | 2025-07-04 | 2025-07-21 |
 | [Tujhe Pukara](https://open.spotify.com/track/5qUOx33fdEP9DWAUbTW9rf) | [Ashwin Srinivasan](https://open.spotify.com/artist/0b7kHhI5N93ZxMuMiBy7Tl) | [Tujhe Pukara](https://open.spotify.com/album/04aiEaFZxFv4dcSA57w9vB) | 3:29 | 2024-01-12 | 2024-02-17 |
 | [Tujhi Mein](https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Tujhi Mein](https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag) | 3:05 | 2025-05-23 |  |
 | [Tujhsa Koi](https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey) | [Tujhsa Koi](https://open.spotify.com/album/6lwcv8iowg548rs9MH0v2p) | 2:51 | 2023-09-22 | 2023-10-21 |

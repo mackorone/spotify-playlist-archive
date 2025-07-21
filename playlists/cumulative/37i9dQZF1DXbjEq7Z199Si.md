@@ -2,7 +2,7 @@
 
 ### [Wicked Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbjEq7Z199Si)
 
-> Everyone deserves a chance to fly\. Listen to the music from and inspired by Wicked, co\-curated by Cynthia Erivo and Ariana Grande, streaming now on Peacock.
+> Everyone deserves a chance to fly\. Listen to the music from and inspired by Wicked, co\-curated by Cynthia Erivo and Ariana Grande.
 
 31 songs - 2 hr 10 min
 

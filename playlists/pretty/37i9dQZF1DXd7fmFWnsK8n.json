@@ -595,6 +595,22 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
+        "name": "\u30ad\u30ba\u30ca",
+        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 310600,
+      "name": "\u30d5\u30a9\u30c8\u30d5\u30ec\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
         "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
         "url": "https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 212706,
       "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
       "url": "https://open.spotify.com/track/5dT0vSOiMXkDvyXuPTfsEz"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "\u96e8",
-        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
+        "name": "\u96e8",
+        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 258385,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "\u30ad\u30ba\u30ca",
-        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 310600,
-      "name": "\u30d5\u30a9\u30c8\u30d5\u30ec\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "SEPTET for...",
-        "url": "https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ"
-      },
-      "artists": [
-        {
-          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
-          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "SEPTET for...",
-      "url": "https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "100%\u30cf\u30d4\u30cd\u30b9",
         "url": "https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 269160,
       "name": "100%\u30cf\u30d4\u30cd\u30b9",
       "url": "https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "SEPTET for...",
+        "url": "https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ"
+      },
+      "artists": [
+        {
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "SEPTET for...",
+      "url": "https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb"
     },
     {
       "added_at": "2025-06-09 15:00:27",

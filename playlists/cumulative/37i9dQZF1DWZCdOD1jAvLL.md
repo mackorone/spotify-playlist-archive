@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Rezz
 
-841 songs - 1 day 21 hr 40 min
+842 songs - 1 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,7 +600,7 @@
 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-09-06 | 2024-12-07 |
 | [Prophecy](https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Prophecy](https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn) | 5:15 | 2025-06-27 |  |
 | [Psychedelic Girls](https://open.spotify.com/track/3ekMDfXCRTwlXXtfxwA0jP) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Psychedelic Girls](https://open.spotify.com/album/0kjg5HYPH9fM4gwTWTOaWD) | 2:52 | 2022-11-25 | 2023-04-02 |
-| [Psycho](https://open.spotify.com/track/3YsG1EMppOjIJD067Keqjp) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [Psycho](https://open.spotify.com/album/4JyaETaIsWXgsfTcRl2gCS) | 3:06 | 2025-05-16 |  |
+| [Psycho](https://open.spotify.com/track/3YsG1EMppOjIJD067Keqjp) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [Psycho](https://open.spotify.com/album/4JyaETaIsWXgsfTcRl2gCS) | 3:06 | 2025-05-16 | 2025-07-21 |
 | [Pullin Up](https://open.spotify.com/track/75Q1p8Sm2xZiTaZLFkKWWL) | [Dave Summit](https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq) | [Pullin Up](https://open.spotify.com/album/1K1Ijtex4R7JxPpRpJqOJn) | 3:05 | 2022-05-13 | 2022-08-20 |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-06-07 |  |
 | [Push Back](https://open.spotify.com/track/1abkz5B60wdzngFnSRoTIZ) | [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut) | [Push Back](https://open.spotify.com/album/5R5fFXSqVOD82AZcp1fGvy) | 3:12 | 2022-04-01 | 2022-07-16 |
@@ -729,6 +729,7 @@
 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 | 2023-04-14 | 2023-10-28 |
 | [System Shock](https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [System Shock](https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq) | 2:16 | 2025-02-28 |  |
 | [Take ft\. Kimbra \- Pat Lok Remix](https://open.spotify.com/track/6LIzRhFWBsZPg9sORfFs1d) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Take ft\. Kimbra \(Pat Lok Remix\)](https://open.spotify.com/album/2gRk8RlBHWal0OhHRSMtp0) | 3:17 | 2022-02-11 | 2022-03-05 |
+| [Take It All](https://open.spotify.com/track/4Su7VFUPb9KYr6bnCRBWxU) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Take It All](https://open.spotify.com/album/6Z4FhlsTWm5HaEUNcWHC6l) | 2:51 | 2025-07-18 |  |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-06 | 2022-08-06 |
 | [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-09 | 2023-07-06 |
 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-06-30 | 2024-04-19 |

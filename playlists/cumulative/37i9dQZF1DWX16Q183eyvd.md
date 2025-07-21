@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-176 songs - 8 hr 3 min
+177 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,10 +152,11 @@
 | [TELL EM](https://open.spotify.com/track/4IrDPdjKLcQNnCoP4vWF6o) | [GoKeeKeeGo](https://open.spotify.com/artist/7zsyllxtoU29NBJPu96jbz) | [TELL EM](https://open.spotify.com/album/0cuRGPN7DtPu6M1Y0vAOzX) | 2:54 | 2021-11-19 | 2024-01-10 |
 | [Tennessee](https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [3 Years, 5 Months And 2 Days In The Life Of...](https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh) | 4:32 | 2021-11-19 | 2024-01-31 |
 | [That's My Sista](https://open.spotify.com/track/6A4NGHgNxyihpSWI2Euf7f) | [Grey Skye Evans](https://open.spotify.com/artist/0xcZxQPXuEniKbWwUMvPPP), [Phoenix Evans](https://open.spotify.com/artist/5gWQvDnZuBRtqjTN7sypED) | [That's My Sista](https://open.spotify.com/album/3peZixM4ePxajKAgpBu0Gl) | 2:02 | 2024-01-30 | 2024-05-18 |
+| [The Alphabet Jawn \(feat\. Last BeNeVoLeNcE\)](https://open.spotify.com/track/5Z6r91qTPWfCgUi32Lv6ya) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [Last BeNeVoLeNcE](https://open.spotify.com/artist/5fckpprZayLR6c9kQHDNdU) | [Buddy's Magic Tree House](https://open.spotify.com/album/0jAohVRLiPG57RDek7zsUM) | 2:25 | 2025-07-20 |  |
 | [The Bird Song](https://open.spotify.com/track/6MMZkLNvSHIKvwQo14sMrz) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [The Bird Song](https://open.spotify.com/album/4MQ7h2DfxK7VhQlppY5dvP) | 3:03 | 2025-06-06 |  |
 | [The Brain Song](https://open.spotify.com/track/3WKp2G9XxEoUqXB64UR0qV) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:31 | 2024-01-30 | 2024-08-31 |
 | [The Cypher](https://open.spotify.com/track/1RlNTr0g5m8b1juzyPEz1e) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [The Cypher](https://open.spotify.com/album/0iFJLdXv22Uam0ItEQ4076) | 2:52 | 2023-04-07 | 2023-12-19 |
-| [The Library Jawn](https://open.spotify.com/track/7BHo6hya7niIilUA5iHnTQ) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [The Library Jawn](https://open.spotify.com/album/0mDXFu9vqTk8d17eUw16f5) | 3:02 | 2024-08-30 |  |
+| [The Library Jawn](https://open.spotify.com/track/7BHo6hya7niIilUA5iHnTQ) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [The Library Jawn](https://open.spotify.com/album/0mDXFu9vqTk8d17eUw16f5) | 3:02 | 2024-08-30 | 2025-07-21 |
 | [The Muffin Man](https://open.spotify.com/track/1Vbvmps24U9pmD4Mf5fEtC) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Desmond Cool Jams](https://open.spotify.com/album/78ZmgGAOrMieH3NANKJ7Ir) | 2:32 | 2024-01-30 | 2024-04-27 |
 | [The Planets Song](https://open.spotify.com/track/2bbeE4H4kCINFSUvQcprmE) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [The Planets Song](https://open.spotify.com/album/5vEi2fuwSvXk9C3mzTJAe1) | 3:21 | 2024-06-14 |  |
 | [The Volcano Song](https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:09 | 2021-11-19 | 2024-01-31 |

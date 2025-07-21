@@ -1,4 +1,4 @@
-## Playlists \(8691\)
+## Playlists \(8692\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7437,6 +7437,7 @@
 - [Tune In with Nikki Walton](/playlists/pretty/37i9dQZF1DX10hq8HpiPAY.md)
 - [Tune In with Simone Polanen](/playlists/pretty/37i9dQZF1DX0xvwVpqXVS8.md)
 - [Tune In with Zion Clark](/playlists/pretty/37i9dQZF1DWTEt6Lx9mdBy.md)
+- [Tune Up Meets Fresh Finds](/playlists/pretty/37i9dQZF1DWT7ItcGUvgJi.md)
 - [Tunigo Live](/playlists/pretty/5rqcJUB5ox8BK3L3Ki7gfF.md)
 - [Turn Up Aus](/playlists/pretty/37i9dQZF1DX4CLWFba8a7l.md)
 - [Turnt Mode – Rap Pregame](/playlists/pretty/4UeRg7G4h9gxqlonlifPEn.md)

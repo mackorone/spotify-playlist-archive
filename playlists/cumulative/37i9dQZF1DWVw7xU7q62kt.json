@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Boketto",
+        "url": "https://open.spotify.com/album/6X9lFdmAzmoH2CV1gECMLS"
+      },
+      "artists": [
+        {
+          "name": "Mattari",
+          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135903,
+      "name": "Boketto",
+      "url": "https://open.spotify.com/track/7xos61THl5pg88dpoV5mnZ"
+    },
+    {
+      "album": {
         "name": "Bookmark",
         "url": "https://open.spotify.com/album/3WNAvM5T5SncMavJOl0A23"
       },
@@ -5222,7 +5240,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 137142,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/145yNxsDqrlai3CzO2ynzT"
@@ -6902,6 +6920,28 @@
       "duration_ms": 135890,
       "name": "Nectar",
       "url": "https://open.spotify.com/track/4LOmZ8pVGsRe117F26nUge"
+    },
+    {
+      "album": {
+        "name": "Neon & Nicotine",
+        "url": "https://open.spotify.com/album/5nQcJWJUJmnADnAZqGnjtR"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "tenkousei.",
+          "url": "https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111656,
+      "name": "Neon & Nicotine",
+      "url": "https://open.spotify.com/track/5U8qv7VE4sXjksvPCUi0ku"
     },
     {
       "album": {
@@ -11056,7 +11096,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 123100,
       "name": "Treetwine",
       "url": "https://open.spotify.com/track/0HvgzeL7sVkKpxbKgCAVlY"

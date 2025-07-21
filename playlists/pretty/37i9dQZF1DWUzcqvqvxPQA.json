@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 30497,
+  "num_followers": 30543,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,26 @@
     {
       "added_at": "2025-05-31 04:38:17",
       "album": {
+        "name": "The Sacrifice",
+        "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        },
+        {
+          "name": "Brennan Storer",
+          "url": "https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8"
+        }
+      ],
+      "duration_ms": 228215,
+      "name": "The Sacrifice",
+      "url": "https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43"
+    },
+    {
+      "added_at": "2025-05-31 04:38:17",
+      "album": {
         "name": "STRENGTH AND SONG",
         "url": "https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 213995,
       "name": "STRENGTH AND SONG",
       "url": "https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW"
-    },
-    {
-      "added_at": "2025-05-31 04:38:17",
-      "album": {
-        "name": "The Sacrifice",
-        "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        },
-        {
-          "name": "Brennan Storer",
-          "url": "https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8"
-        }
-      ],
-      "duration_ms": 228215,
-      "name": "The Sacrifice",
-      "url": "https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43"
     },
     {
       "added_at": "2025-05-31 04:38:17",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-05-31 04:38:17",
       "album": {
-        "name": "Take Over Me",
-        "url": "https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 191979,
-      "name": "Take Over Me",
-      "url": "https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X"
-    },
-    {
-      "added_at": "2025-05-31 04:38:17",
-      "album": {
         "name": "HELP!",
         "url": "https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 214200,
       "name": "Meant For Good",
       "url": "https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN"
+    },
+    {
+      "added_at": "2025-05-31 04:38:17",
+      "album": {
+        "name": "Take Over Me",
+        "url": "https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 191979,
+      "name": "Take Over Me",
+      "url": "https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X"
     },
     {
       "added_at": "2025-05-31 04:38:17",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-05-31 04:38:17",
       "album": {
-        "name": "Right on Time",
-        "url": "https://open.spotify.com/album/0Gw9quE6VUvg49osbcrU6A"
-      },
-      "artists": [
-        {
-          "name": "Iveth Luna",
-          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/4pVzf8UaGNQV0v9HyVjjVO"
-    },
-    {
-      "added_at": "2025-05-31 04:38:17",
-      "album": {
         "name": "MILLION WAYS",
         "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 210933,
       "name": "MILLION WAYS",
       "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
+    },
+    {
+      "added_at": "2025-05-31 04:38:17",
+      "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/0Gw9quE6VUvg49osbcrU6A"
+      },
+      "artists": [
+        {
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/4pVzf8UaGNQV0v9HyVjjVO"
     },
     {
       "added_at": "2025-05-31 04:38:17",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-05-31 04:38:17",
       "album": {
-        "name": "Made for This",
-        "url": "https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 183702,
-      "name": "Made for This",
-      "url": "https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh"
-    },
-    {
-      "added_at": "2025-05-31 04:38:17",
-      "album": {
         "name": "Ancient of Days (reimagined)",
         "url": "https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm"
       },
@@ -975,22 +959,18 @@
     {
       "added_at": "2025-05-31 04:38:17",
       "album": {
-        "name": "Tee It Up",
-        "url": "https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0"
+        "name": "Made for This",
+        "url": "https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc"
       },
       "artists": [
         {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 149379,
-      "name": "Tee It Up",
-      "url": "https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA"
+      "duration_ms": 183702,
+      "name": "Made for This",
+      "url": "https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh"
     },
     {
       "added_at": "2025-05-31 04:38:17",
@@ -1023,6 +1003,26 @@
       "duration_ms": 172113,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
+    },
+    {
+      "added_at": "2025-05-31 04:38:17",
+      "album": {
+        "name": "Tee It Up",
+        "url": "https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "duration_ms": 149379,
+      "name": "Tee It Up",
+      "url": "https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA"
     },
     {
       "added_at": "2025-05-31 04:38:17",

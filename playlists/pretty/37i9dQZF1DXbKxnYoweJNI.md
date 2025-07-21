@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 椅子樂團 \(The Chairs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,081 likes - 130 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,107 likes - 130 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

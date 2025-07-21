@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Mk.gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,001,561 likes - 161 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,000,853 likes - 161 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

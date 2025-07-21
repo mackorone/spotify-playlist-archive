@@ -1,12 +1,12 @@
 {
   "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 44389,
+  "num_followers": 44400,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHmOgAAAAAB7bjIzIViR/nUG/DCi7KXK",
+  "snapshot_id": "aHrgAAAAAACGhagSDgUR/MGO17ozZW1z",
   "tracks": [
     {
       "added_at": null,
@@ -463,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+        "name": "M\u00e1s Original Que Nunca",
+        "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
       },
       "artists": [
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR"
+        },
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 159306,
-      "name": "Si por Casualidad",
-      "url": "https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee"
+      "duration_ms": 173546,
+      "name": "Dos Gotas de Agua",
+      "url": "https://open.spotify.com/track/5y9jffhDLOKtHBdEMVm0Ss"
     },
     {
       "added_at": null,
@@ -511,28 +515,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Original Que Nunca",
-        "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
       },
       "artists": [
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR"
-        },
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 173546,
-      "name": "Dos Gotas de Agua",
-      "url": "https://open.spotify.com/track/5y9jffhDLOKtHBdEMVm0Ss"
+      "duration_ms": 159306,
+      "name": "Si por Casualidad",
+      "url": "https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee"
     },
     {
       "added_at": null,
       "album": {
-        "name": "24 Kilates de Corridos",
-        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+        "name": "Corridos Prohibidos",
+        "url": "https://open.spotify.com/album/43CoM6wSuOhcM53wTGpu8Q"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 215720,
-      "name": "Las Dos Plebes",
-      "url": "https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM"
+      "duration_ms": 191306,
+      "name": "El Corrido del Sinaloense",
+      "url": "https://open.spotify.com/track/00Mq1N2k27InpqmS4RYpAt"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Prohibidos",
-        "url": "https://open.spotify.com/album/43CoM6wSuOhcM53wTGpu8Q"
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 191306,
-      "name": "El Corrido del Sinaloense",
-      "url": "https://open.spotify.com/track/00Mq1N2k27InpqmS4RYpAt"
+      "duration_ms": 215720,
+      "name": "Las Dos Plebes",
+      "url": "https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "25 Corridos Explosivos",
+        "url": "https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 187386,
+      "name": "La Ca\u00edda de un Monarca",
+      "url": "https://open.spotify.com/track/5R6yypmCiCOv7Ortrf8ldL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Merengue y Sentimiento",
         "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 234026,
       "name": "Me Muero por Ella (Bachata) Feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga",
       "url": "https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "25 Corridos Explosivos",
-        "url": "https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 187386,
-      "name": "La Ca\u00edda de un Monarca",
-      "url": "https://open.spotify.com/track/5R6yypmCiCOv7Ortrf8ldL"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestras Favoritas De Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
+        "name": "De Aqu\u00ed Pa'l Real",
+        "url": "https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs"
+      "duration_ms": 246746,
+      "name": "Sin Permiso Para Amarte",
+      "url": "https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa"
     },
     {
       "added_at": null,

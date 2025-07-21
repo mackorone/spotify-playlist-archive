@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Planetshakers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031,711 likes - 95 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,710 likes - 95 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 37 | [Before We Put Our Trust In Human Kings / Exalted \- Live](https://open.spotify.com/track/0cYZliKx3JNe2YIounQPvy) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Charrise Barron](https://open.spotify.com/artist/6605K7pp3GA4NxliiVPret) | [Before We Put Our Trust In Human Kings / Exalted \(Live\)](https://open.spotify.com/album/2Y9vpMNj8F3pHdIEMmfcRZ) | 7:09 |
 | 38 | [The Lamb's Book of Life \- Live From Passion 2025](https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call On Heaven \(Come, Lord Jesus\) \- Live](https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY) | 6:02 |
 | 39 | [Desperate \- Studio](https://open.spotify.com/track/09sSn60F2fLYrfPz0Xs4C9) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Desperate](https://open.spotify.com/album/1Jo60eMZvIK1tlh9KrIyUH) | 4:08 |
-| 40 | [Dying To Be Different](https://open.spotify.com/track/05y8D3zdTeBjo8t0aVh4kx) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Dying To Be Different](https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn) | 4:27 |
+| 40 | [Dying To Be Different \- Live At VOUS, Miami, FL, 2025](https://open.spotify.com/track/05y8D3zdTeBjo8t0aVh4kx) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Dying To Be Different \(Live At VOUS, Miami, FL, 2025\)](https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn) | 4:27 |
 | 41 | [I Know A Name](https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I Know A Name](https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2) | 7:09 |
 | 42 | [Wait](https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Wait / Praise The Giver](https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i) | 4:08 |
 | 43 | [SING OF THIS \- Live](https://open.spotify.com/track/7wrjtqAy3q2781W9gJrVJW) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [SURVEY: Part 2, Live at St\. John at Hackney](https://open.spotify.com/album/48yxGLll2Kn9tmpFua5BBD) | 5:51 |

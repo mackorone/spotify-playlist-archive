@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,395 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,417 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 47 | [i meet myself, again](https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [nothing is real, part XI](https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD) | 3:07 |
 | 48 | [I Would Stare into the Sun with You Forever](https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 6:32 |
 | 49 | [My Courtesan](https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Mockingbird Love](https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq) | 2:53 |
-| 50 | [Farewell, Stars \- The American Dollar Rework](https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3), [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Farewell, Stars \(The American Dollar Rework\)](https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW) | 3:48 |
-| 51 | [Meteor Shower](https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Meteor Shower](https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH) | 3:56 |
+| 50 | [Meteor Shower](https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Meteor Shower](https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH) | 3:56 |
+| 51 | [Farewell, Stars \- The American Dollar Rework](https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3), [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Farewell, Stars \(The American Dollar Rework\)](https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW) | 3:48 |
 | 52 | [\(not\) alone](https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u) | [Johannes Baumer](https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt) | [\(not\) alone](https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx) | 4:39 |
 | 53 | [Sleeper](https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 5:32 |
 | 54 | [Dust Bowl](https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM) | [The Aquaerials](https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc) | [Dust Bowl](https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5) | 6:04 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 72 | [Deliveries](https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Volcan](https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW) | 4:44 |
 | 73 | [Old Moon](https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Songs to Disappear to](https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz) | 4:17 |
 | 74 | [Back To Dangerous](https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Pajama Avenue](https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E) | 3:52 |
-| 75 | [Suds \- Instrumental](https://open.spotify.com/track/7A29H60T1sZUvcDOoMjTXa) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [The Purest of Oils](https://open.spotify.com/album/0W5mUaMXpIzfUgc7G3WNdx) | 2:39 |
-| 76 | [As She Bends Towards the Sun](https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc) | [Teoay](https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1) | [As She Bends Towards the Sun](https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7) | 4:47 |
+| 75 | [As She Bends Towards the Sun](https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc) | [Teoay](https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1) | [As She Bends Towards the Sun](https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7) | 4:47 |
+| 76 | [Suds \- Instrumental](https://open.spotify.com/track/7A29H60T1sZUvcDOoMjTXa) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [The Purest of Oils](https://open.spotify.com/album/0W5mUaMXpIzfUgc7G3WNdx) | 2:39 |
 | 77 | [Astronomer](https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Home](https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig) | 3:50 |
 | 78 | [Nova](https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Nova](https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f) | 7:00 |
 | 79 | [Dusty Roads](https://open.spotify.com/track/15EdvEEY3BBkKXhve298eY) | [J.F\. Gloss](https://open.spotify.com/artist/575vCZtoxOgmTE8zjoAEC1) | [Dusty Roads](https://open.spotify.com/album/5Ympaz4YjPhfwm6Hw07YOr) | 2:56 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 87 | [Lakeshore](https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Lakeshore](https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM) | 2:44 |
 | 88 | [You Have My Whole Heart](https://open.spotify.com/track/3XSMK307R9qBIK1HUgau2x) | [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [you are now listening to a tender spring](https://open.spotify.com/album/2ymV75wRLGGSeO45vwGU6X) | 2:51 |
 | 89 | [Massive](https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h) | [Moseqar](https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH) | [Massive](https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB) | 4:00 |
-| 90 | [The Station](https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k) | [Thurston Moore](https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs) | [Screen Time](https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3) | 2:44 |
-| 91 | [Out of It](https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [The World Is A House On Fire](https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J) | 6:45 |
+| 90 | [Out of It](https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [The World Is A House On Fire](https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J) | 6:45 |
+| 91 | [The Station](https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k) | [Thurston Moore](https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs) | [Screen Time](https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3) | 2:44 |
 | 92 | [Nightfall](https://open.spotify.com/track/2FNfyF9i5CcnnxCERfAlU1) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Nightfall](https://open.spotify.com/album/4AiU1Zx8RwfwrQvgblweFy) | 4:06 |
 | 93 | [No Clearings, No Wide Open Fields](https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W) | [Floor Overhead](https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9) | [No Clearings, No Wide Open Fields](https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4) | 6:07 |
 | 94 | [Skyline Drive](https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI) | [Stubbleman](https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov) | [The Skyline EP](https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB) | 4:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX96miwkmVnVt.md) - [plain]
 
 > Arlo's selections "of the crunchiest and most singular drums on the planet"\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,938 likes - 27 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,950 likes - 27 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

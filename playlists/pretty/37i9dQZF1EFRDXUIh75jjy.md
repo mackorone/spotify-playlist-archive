@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642 likes - 227 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 642 likes - 228 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 37 | [burning bridges](https://open.spotify.com/track/6d1alyPmQMTn99yk2wlw47) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:38 |
 | 38 | [Back in My Arms](https://open.spotify.com/track/1FlAMUpKrjY4NdaqsXjl1w) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Back in My Arms](https://open.spotify.com/album/4dvspekxkG2Etjyrwme4kG) | 3:15 |
 | 39 | [Flame](https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:24 |
-| 40 | [A LOT](https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [A LOT](https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j) | 3:01 |
+| 40 | [A LOT](https://open.spotify.com/track/3QTlRL8OxWxeXd9Go9OMxh) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [SALT + LIGHT](https://open.spotify.com/album/2BctJ00mFldhrsOHMoz1h3) | 3:01 |
 | 41 | [Betting on Us](https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Betting on Us](https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs) | 2:35 |
 | 42 | [All Hours](https://open.spotify.com/track/01opyHvH01jYVd8zWeQSgQ) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [All Hours](https://open.spotify.com/album/74ce7TvmnTieNsiQyZIHv5) | 3:01 |
 | 43 | [Blackout](https://open.spotify.com/track/6QprbmHDb3yVNVTwlmaTkS) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Steph Jones](https://open.spotify.com/artist/1Aed7wBQiH5LSDMmQWnGZw) | [Painting With Dreams](https://open.spotify.com/album/11t999cj3x48JaRSde6s8p) | 3:31 |
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 190 | [wrong girl](https://open.spotify.com/track/5h5gQnX1FaFVYRhReyGQUV) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4aWrYo1HHAwk367y7PJzIm) | 2:36 |
 | 191 | [better off](https://open.spotify.com/track/6Wey3WDGWqwOJ4b5acKh1u) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:04 |
 | 192 | [All That Matters](https://open.spotify.com/track/1t6vYFo0SKUwFlw61yqgzV) | [Nashville Cast](https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I), [Jenny Leigh](https://open.spotify.com/artist/7u5Rv5EbPxXwt5liLsO02O) | [Nashville, Season 6: Episode 16 \(Music from the Original TV Series\)](https://open.spotify.com/album/0cPbP2k3C4sagc9D0J9Zut) | 2:46 |
-| 193 | [Moonlight](https://open.spotify.com/track/3lxKBWmAKxlau82Ykol95e) | [Chris](https://open.spotify.com/artist/2T5NoyI48mYuuLzXjW1Cwh) | [Questions and Confessions](https://open.spotify.com/album/7aE0uq3zDl6N68UDHLEv8H) | 3:15 |
-| 194 | [Ain't That What You Do](https://open.spotify.com/track/51OeNHCbd4CKd0UqUT2MsI) | [Jas Von](https://open.spotify.com/artist/3e8Hd1noAoVXhnoTgClAXr) | [Ain't That What You Do](https://open.spotify.com/album/0pnaRFsAq2j8VsDtOV3Xsp) | 2:30 |
+| 193 | [Ain't That What You Do](https://open.spotify.com/track/51OeNHCbd4CKd0UqUT2MsI) | [Jas Von](https://open.spotify.com/artist/3e8Hd1noAoVXhnoTgClAXr) | [Ain't That What You Do](https://open.spotify.com/album/0pnaRFsAq2j8VsDtOV3Xsp) | 2:30 |
+| 194 | [Moonlight](https://open.spotify.com/track/3lxKBWmAKxlau82Ykol95e) | [Chris](https://open.spotify.com/artist/2T5NoyI48mYuuLzXjW1Cwh) | [Questions and Confessions](https://open.spotify.com/album/7aE0uq3zDl6N68UDHLEv8H) | 3:15 |
 | 195 | [SOFT ASS BITCH](https://open.spotify.com/track/1XT2UmApd8ntFrw2j52GCB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Articulate Excuses](https://open.spotify.com/album/6zYppiOb1FMO7I9YRoeLio) | 2:43 |
 | 196 | [L.O.V.E.](https://open.spotify.com/track/5v6Zl83YKRsNBu8DevZ8ow) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [Cry For Help](https://open.spotify.com/album/3kigMOOCboaYxSI3HedLdS) | 3:00 |
 | 197 | [HEAVYWEIGHT](https://open.spotify.com/track/09Xano9Q7PRllK5t3qk74l) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:13 |
@@ -232,8 +232,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 222 | [Daydream](https://open.spotify.com/track/1TtjtIHYRJuu64TYRzF9U7) | [Chelsea Basham](https://open.spotify.com/artist/59QTiNSNEFBZ2pYKOQe6Jz) | [Youngest](https://open.spotify.com/album/5PU9JkMbxGEtcspgUcgVwj) | 2:47 |
 | 223 | [Betcha Can't](https://open.spotify.com/track/4ttCangJl0a4OKS2mDvj5j) | [Steph Jones](https://open.spotify.com/artist/1Aed7wBQiH5LSDMmQWnGZw), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd), [Marvel’s Moon Girl and Devil Dinosaur \- Cast](https://open.spotify.com/artist/5ziHQJ5duPlNgarkw4pmzV) | [Marvel's Moon Girl and Devil Dinosaur: Season 2 \- Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/45kuhHfvZJ1P3IrG54cSil) | 2:35 |
 | 224 | [There's Nothing Like This](https://open.spotify.com/track/4p7RHmMTWiRy31RbooMcAU) | [Lindsey Ray](https://open.spotify.com/artist/2qkGoWlOdUyYI4L2AqnASY) | [Metamorphosis](https://open.spotify.com/album/4dlY403yAr9pO0YPmR40kw) | 4:01 |
-| 225 | [Is It Just Me?](https://open.spotify.com/track/2NFJOmioXKKFVDgVuwn0d7) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Charlie Puth](https://open.spotify.com/album/4gfQSJmCVTC1OFvnTsvxeR) | 2:32 |
-| 226 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
-| 227 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
+| 225 | [Sad Times](https://open.spotify.com/track/5HmE12W0zOnXSyaLTWYnTq) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [SALT + LIGHT](https://open.spotify.com/album/2BctJ00mFldhrsOHMoz1h3) | 2:46 |
+| 226 | [Is It Just Me?](https://open.spotify.com/track/2NFJOmioXKKFVDgVuwn0d7) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Charlie Puth](https://open.spotify.com/album/4gfQSJmCVTC1OFvnTsvxeR) | 2:32 |
+| 227 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
+| 228 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `Ab3OcgAAAAAfff51je8UD1QJtQJsoKJE`
+Snapshot ID: `Ab3UEgAAAADNLhlpIqyyc+ZAbva1jL/d`

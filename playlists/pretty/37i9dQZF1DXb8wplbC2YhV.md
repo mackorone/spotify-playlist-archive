@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8wplbC2YhV.md) - [plain]
 
 > Our editor's picks for hip\-hop songs that have defined the streaming era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,049 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,929 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

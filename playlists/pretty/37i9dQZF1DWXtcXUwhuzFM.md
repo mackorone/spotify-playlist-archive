@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia william ja Jore & Zpoppa  monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,215 likes - 104 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,218 likes - 104 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

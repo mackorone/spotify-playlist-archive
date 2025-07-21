@@ -4,7 +4,7 @@
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-88 songs - 5 hr 25 min
+89 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Falta de Mim \- Ao Vivo](https://open.spotify.com/track/6CqDt0kMtPLvul13OS9afe) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Falta de Mim \(Ao Vivo\)](https://open.spotify.com/album/72Hasil7xvwX5JNGwkXHiR) | 2:34 | 2024-02-01 | 2024-07-18 |
 | [Faz uma Loucura por mim / Você me vira a cabeça \- Ao Vivo](https://open.spotify.com/track/2hy9PyCleGC4HRe5MsPwfF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 5:01 | 2023-10-10 | 2025-06-05 |
 | [Fora de Si \- Ao Vivo](https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:27 | 2023-10-10 |  |
+| [FREAKY \(feat\. LUDMILLA\)](https://open.spotify.com/track/6AScOrn9TiSuFanMrW9Xju) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 2:37 | 2025-07-21 |  |
 | [Gamei / Por Tão Pouco / É Você](https://open.spotify.com/track/5Mmqn7xCOPT0O3B8LdHNWy) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Respeita Minha História 3 \(Canta Exalta\)](https://open.spotify.com/album/6xwmdRPFNDDEd3Lns8ryMH) | 4:54 | 2024-12-30 | 2025-03-16 |
 | [Gamei / Por Tão Pouco / É Você](https://open.spotify.com/track/5fMN5E03Qmvb3ZnYt9AcNi) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Gamei / Por Tão Pouco / É Você](https://open.spotify.com/album/4MwqlpUj3akFueXVeEbidL) | 4:54 | 2024-11-11 | 2025-07-04 |
 | [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 | 2023-10-10 | 2023-12-30 |

@@ -1,6 +1,6 @@
 {
   "description": "Ambient with the soothing sounds of water, rain and birds. ",
-  "num_followers": 240384,
+  "num_followers": 240683,
   "original_name": "Nature Relaxation",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
-        "name": "Humidity",
-        "url": "https://open.spotify.com/album/2eFMxe5w2MRBOvsonQLK7g"
-      },
-      "artists": [
-        {
-          "name": "Constant Future",
-          "url": "https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA"
-        }
-      ],
-      "duration_ms": 162912,
-      "name": "Humidity",
-      "url": "https://open.spotify.com/track/0gUbV5WnXb30Uul9WjKkbo"
-    },
-    {
-      "added_at": "2025-07-09 12:00:33",
-      "album": {
         "name": "Forest Of The Mind",
         "url": "https://open.spotify.com/album/0jBlrZ2KNQ4MwJvEw46Tqy"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 234500,
       "name": "Forest Of The Mind",
       "url": "https://open.spotify.com/track/36o3ElEod9MG2laE3avJnu"
+    },
+    {
+      "added_at": "2025-07-09 12:00:33",
+      "album": {
+        "name": "Humidity",
+        "url": "https://open.spotify.com/album/2eFMxe5w2MRBOvsonQLK7g"
+      },
+      "artists": [
+        {
+          "name": "Constant Future",
+          "url": "https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA"
+        }
+      ],
+      "duration_ms": 162912,
+      "name": "Humidity",
+      "url": "https://open.spotify.com/track/0gUbV5WnXb30Uul9WjKkbo"
     },
     {
       "added_at": "2025-07-09 12:00:33",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
-        "name": "Azure Rain",
-        "url": "https://open.spotify.com/album/2tvMCwJyuwD3YNlPhlZXPG"
-      },
-      "artists": [
-        {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Azure Rain",
-      "url": "https://open.spotify.com/track/6Hl3JSfAoIGYxbV0ZdUuKW"
-    },
-    {
-      "added_at": "2025-07-09 12:00:33",
-      "album": {
         "name": "By the Creek",
         "url": "https://open.spotify.com/album/3T9saIz1K5izcdTVJt3ohu"
       },
@@ -859,18 +843,34 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
-        "name": "Berolige",
-        "url": "https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF"
+        "name": "Azure Rain",
+        "url": "https://open.spotify.com/album/2tvMCwJyuwD3YNlPhlZXPG"
       },
       "artists": [
         {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
         }
       ],
-      "duration_ms": 156061,
-      "name": "Berolige",
-      "url": "https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I"
+      "duration_ms": 216000,
+      "name": "Azure Rain",
+      "url": "https://open.spotify.com/track/6Hl3JSfAoIGYxbV0ZdUuKW"
+    },
+    {
+      "added_at": "2025-07-09 12:00:33",
+      "album": {
+        "name": "Spring Ambience",
+        "url": "https://open.spotify.com/album/4cIShtTeMzogXfq5e03d73"
+      },
+      "artists": [
+        {
+          "name": "Nature Pulse",
+          "url": "https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Spring Ambience",
+      "url": "https://open.spotify.com/track/7qxd1DNmzbFf9YFSwz1kBl"
     },
     {
       "added_at": "2025-07-09 12:00:33",
@@ -891,18 +891,18 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
-        "name": "Spring Ambience",
-        "url": "https://open.spotify.com/album/4cIShtTeMzogXfq5e03d73"
+        "name": "Berolige",
+        "url": "https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF"
       },
       "artists": [
         {
-          "name": "Nature Pulse",
-          "url": "https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0"
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
         }
       ],
-      "duration_ms": 151578,
-      "name": "Spring Ambience",
-      "url": "https://open.spotify.com/track/7qxd1DNmzbFf9YFSwz1kBl"
+      "duration_ms": 156061,
+      "name": "Berolige",
+      "url": "https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I"
     },
     {
       "added_at": "2025-07-09 12:00:33",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
-        "name": "Misty Glade",
-        "url": "https://open.spotify.com/album/1oOiCZ9Fr49EpOmBkCp9vV"
-      },
-      "artists": [
-        {
-          "name": "Aviaries",
-          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Misty Glade",
-      "url": "https://open.spotify.com/track/3TCqP8YgwG2VCdhHF3bMzO"
-    },
-    {
-      "added_at": "2025-07-09 12:00:33",
-      "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 147692,
       "name": "Everest",
       "url": "https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y"
+    },
+    {
+      "added_at": "2025-07-09 12:00:33",
+      "album": {
+        "name": "Misty Glade",
+        "url": "https://open.spotify.com/album/1oOiCZ9Fr49EpOmBkCp9vV"
+      },
+      "artists": [
+        {
+          "name": "Aviaries",
+          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Misty Glade",
+      "url": "https://open.spotify.com/track/3TCqP8YgwG2VCdhHF3bMzO"
     },
     {
       "added_at": "2025-07-09 12:00:33",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
-        "name": "serulian",
-        "url": "https://open.spotify.com/album/0Hm83SrKUEQr2aQejt4I1p"
+        "name": "Placid Drift",
+        "url": "https://open.spotify.com/album/6Yc8tnb5gxoPDoC76KAR86"
       },
       "artists": [
         {
-          "name": "Fred Russ",
-          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
         }
       ],
-      "duration_ms": 127333,
-      "name": "serulian",
-      "url": "https://open.spotify.com/track/0k2ed287Ge88nyPcmuWOF2"
+      "duration_ms": 180000,
+      "name": "Placid Drift",
+      "url": "https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY"
     },
     {
       "added_at": "2025-07-09 12:00:33",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
-        "name": "Placid Drift",
-        "url": "https://open.spotify.com/album/6Yc8tnb5gxoPDoC76KAR86"
+        "name": "serulian",
+        "url": "https://open.spotify.com/album/0Hm83SrKUEQr2aQejt4I1p"
       },
       "artists": [
         {
-          "name": "Dylan Charbeneau",
-          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Placid Drift",
-      "url": "https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY"
+      "duration_ms": 127333,
+      "name": "serulian",
+      "url": "https://open.spotify.com/track/0k2ed287Ge88nyPcmuWOF2"
     },
     {
       "added_at": "2025-07-09 12:00:33",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
-        "name": "Amedeo Nuevo",
-        "url": "https://open.spotify.com/album/06QE0b2GfD6TDMWpAVVPre"
-      },
-      "artists": [
-        {
-          "name": "Bliss Phenomena",
-          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
-        }
-      ],
-      "duration_ms": 135087,
-      "name": "Amedeo Nuevo",
-      "url": "https://open.spotify.com/track/6KBlHzMI5HXyE8bWAHOeDg"
-    },
-    {
-      "added_at": "2025-07-09 12:00:33",
-      "album": {
         "name": "Found the Moon",
         "url": "https://open.spotify.com/album/2jEcuWPdfuxdg71KTw0DbA"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 182068,
       "name": "Found the Moon",
       "url": "https://open.spotify.com/track/5WM0O39UIuTPYaGsGN77Tt"
+    },
+    {
+      "added_at": "2025-07-09 12:00:33",
+      "album": {
+        "name": "Amedeo Nuevo",
+        "url": "https://open.spotify.com/album/06QE0b2GfD6TDMWpAVVPre"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "duration_ms": 135087,
+      "name": "Amedeo Nuevo",
+      "url": "https://open.spotify.com/track/6KBlHzMI5HXyE8bWAHOeDg"
     },
     {
       "added_at": "2025-07-09 12:00:33",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
-        "name": "Falling Freely",
-        "url": "https://open.spotify.com/album/3FX3AgyzPhCj33fkMQq2rz"
-      },
-      "artists": [
-        {
-          "name": "Joan Abe",
-          "url": "https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Falling Freely",
-      "url": "https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben"
-    },
-    {
-      "added_at": "2025-07-09 12:00:33",
-      "album": {
         "name": "Revelation",
         "url": "https://open.spotify.com/album/0B7u4chWcq7fBvU7EAK3Fj"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 190000,
       "name": "Revelation",
       "url": "https://open.spotify.com/track/2kp3xWNh6qEZ8cNLbl5Cko"
+    },
+    {
+      "added_at": "2025-07-09 12:00:33",
+      "album": {
+        "name": "Falling Freely",
+        "url": "https://open.spotify.com/album/3FX3AgyzPhCj33fkMQq2rz"
+      },
+      "artists": [
+        {
+          "name": "Joan Abe",
+          "url": "https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Falling Freely",
+      "url": "https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben"
     },
     {
       "added_at": "2025-07-09 12:00:33",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
-        "name": "The Tone Of Willingness",
-        "url": "https://open.spotify.com/album/5TMPEcTcOqawK7lYsLsSh3"
-      },
-      "artists": [
-        {
-          "name": "unvrsl frqncy",
-          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
-        }
-      ],
-      "duration_ms": 164202,
-      "name": "The Tone Of Willingness Nature",
-      "url": "https://open.spotify.com/track/2GgRVa0s3OhSZ49dOlfM21"
-    },
-    {
-      "added_at": "2025-07-09 12:00:33",
-      "album": {
         "name": "Minimize",
         "url": "https://open.spotify.com/album/78bme2DPm6jwDWup5ofkcm"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 156446,
       "name": "Minimize",
       "url": "https://open.spotify.com/track/4SbrFeLfIYHgBiFvBEndBp"
+    },
+    {
+      "added_at": "2025-07-09 12:00:33",
+      "album": {
+        "name": "The Tone Of Willingness",
+        "url": "https://open.spotify.com/album/5TMPEcTcOqawK7lYsLsSh3"
+      },
+      "artists": [
+        {
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+        }
+      ],
+      "duration_ms": 164202,
+      "name": "The Tone Of Willingness Nature",
+      "url": "https://open.spotify.com/track/2GgRVa0s3OhSZ49dOlfM21"
     },
     {
       "added_at": "2025-07-09 12:00:33",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
+        "name": "Bird Bath Opus",
+        "url": "https://open.spotify.com/album/1LhDh8ViMClWffkyg1Gd0e"
+      },
+      "artists": [
+        {
+          "name": "Infam Enn",
+          "url": "https://open.spotify.com/artist/23AEFnMnAxHi3UfuJlR9R6"
+        }
+      ],
+      "duration_ms": 180475,
+      "name": "Bird Bath Opus",
+      "url": "https://open.spotify.com/track/0JdkqE8WG3f638p5SRHhZ2"
+    },
+    {
+      "added_at": "2025-07-09 12:00:33",
+      "album": {
         "name": "Infinite Potential",
         "url": "https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9"
       },
@@ -2155,22 +2171,6 @@
     {
       "added_at": "2025-07-09 12:00:33",
       "album": {
-        "name": "Bird Bath Opus",
-        "url": "https://open.spotify.com/album/1LhDh8ViMClWffkyg1Gd0e"
-      },
-      "artists": [
-        {
-          "name": "Infam Enn",
-          "url": "https://open.spotify.com/artist/23AEFnMnAxHi3UfuJlR9R6"
-        }
-      ],
-      "duration_ms": 180475,
-      "name": "Bird Bath Opus",
-      "url": "https://open.spotify.com/track/0JdkqE8WG3f638p5SRHhZ2"
-    },
-    {
-      "added_at": "2025-07-09 12:00:33",
-      "album": {
         "name": "Where The Brooks Meet",
         "url": "https://open.spotify.com/album/0bofFssElhFqHYGa6djOAZ"
       },
@@ -2183,26 +2183,6 @@
       "duration_ms": 168000,
       "name": "Where The Brooks Meet",
       "url": "https://open.spotify.com/track/5cHqSqKnEgI0cisKbURs9E"
-    },
-    {
-      "added_at": "2025-07-09 12:00:33",
-      "album": {
-        "name": "Emergence",
-        "url": "https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf"
-      },
-      "artists": [
-        {
-          "name": "Harmonic Pathways",
-          "url": "https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO"
-        },
-        {
-          "name": "Nature on Record",
-          "url": "https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV"
-        }
-      ],
-      "duration_ms": 204344,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/67le4yadjiFCZ3bQXZITEN"
     },
     {
       "added_at": "2025-07-09 12:00:33",
@@ -2235,6 +2215,26 @@
       "duration_ms": 158294,
       "name": "Eutony",
       "url": "https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt"
+    },
+    {
+      "added_at": "2025-07-09 12:00:33",
+      "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf"
+      },
+      "artists": [
+        {
+          "name": "Harmonic Pathways",
+          "url": "https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO"
+        },
+        {
+          "name": "Nature on Record",
+          "url": "https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV"
+        }
+      ],
+      "duration_ms": 204344,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/67le4yadjiFCZ3bQXZITEN"
     },
     {
       "added_at": "2025-07-09 12:00:33",

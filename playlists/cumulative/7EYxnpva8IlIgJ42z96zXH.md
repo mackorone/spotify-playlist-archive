@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-1,021 songs - 2 day 5 hr 39 min
+1,022 songs - 2 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Birds \(feat\. Emmanuel Jal\)](https://open.spotify.com/track/1zCJFNkdm3AzIK1Cxp0rQc) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Birds \(feat\. Emmanuel Jal\)](https://open.spotify.com/album/6yYFiDyjQeQbAf52eArJh8) | 4:02 | 2022-06-24 | 2022-09-10 |
 | [Blessed](https://open.spotify.com/track/5Sqcm0TFvJd0SDDgrWgFSa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Blessed](https://open.spotify.com/album/5HHocvYdlIP6aEJZ6SDtkn) | 2:42 | 2022-10-21 | 2023-03-25 |
 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-05-09 |  |
+| [Blessings \- Cassian Remix](https://open.spotify.com/track/3GpNIq74pzLjdIKplMvSV2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Blessings \(Cassian Remix\)](https://open.spotify.com/album/5IyXTV39CmbRwp9Xibpwoy) | 4:08 | 2025-07-21 |  |
 | [Blessings \- KETTAMA Remix](https://open.spotify.com/track/4dBT9YgndxaNS0Fp1PSHZ0) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Blessings \(KETTAMA Remix\)](https://open.spotify.com/album/1lvrQ3eXhtSoogIV7In3ZG) | 4:37 | 2025-07-11 |  |
 | [Bling Bling](https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Bling Bling](https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2) | 1:59 | 2023-03-31 | 2023-07-04 |
 | [Blip](https://open.spotify.com/track/5HvNPQrx34MJKnvoecVLxz) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Blip](https://open.spotify.com/album/6FeQh0v9766yT2fvM4H3EK) | 2:42 | 2022-10-07 | 2022-12-10 |

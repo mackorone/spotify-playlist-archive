@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 14929,
+  "num_followers": 14936,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "The Bigger Picture",
-        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 252728,
-      "name": "The Bigger Picture",
-      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "SoulFly",
         "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 189496,
       "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "The Bigger Picture",
+        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 252728,
+      "name": "The Bigger Picture",
+      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -543,22 +543,6 @@
       "duration_ms": 149066,
       "name": "Broke Up In Miami",
       "url": "https://open.spotify.com/track/4L1YERExL7737mCRSCuQxq"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Errbody",
-        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 210698,
-      "name": "Errbody",
-      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -639,6 +623,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Errbody",
+        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 210698,
+      "name": "Errbody",
+      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "No More Parties",
         "url": "https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP"
       },
@@ -651,6 +651,50 @@
       "duration_ms": 140920,
       "name": "No More Parties",
       "url": "https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Muwop (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Muwop (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Stay Down (with 6LACK & Young Thug)",
+        "url": "https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 169330,
+      "name": "Stay Down (with 6LACK & Young Thug)",
+      "url": "https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -695,46 +739,18 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Stay Down (with 6LACK & Young Thug)",
-        "url": "https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU"
+        "name": "Twerksum",
+        "url": "https://open.spotify.com/album/5PvbVK53F50l8MpEAkKY45"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 169330,
-      "name": "Stay Down (with 6LACK & Young Thug)",
-      "url": "https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Muwop (feat. Gucci Mane)",
-        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Muwop (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
+      "duration_ms": 193515,
+      "name": "Twerksum",
+      "url": "https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -759,22 +775,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Twerksum",
-        "url": "https://open.spotify.com/album/5PvbVK53F50l8MpEAkKY45"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 193515,
-      "name": "Twerksum",
-      "url": "https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
@@ -791,6 +791,26 @@
       "duration_ms": 183182,
       "name": "Ain't It Funny ft. Meek Mill",
       "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
+        "url": "https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG"
+      },
+      "artists": [
+        {
+          "name": "Lil Duval",
+          "url": "https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ"
+        },
+        {
+          "name": "Charlamagne Tha God",
+          "url": "https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
+      "url": "https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -827,26 +847,6 @@
       "duration_ms": 135959,
       "name": "On Me",
       "url": "https://open.spotify.com/track/0A5Fk3MPELtWLsrK8JYiY9"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
-        "url": "https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG"
-      },
-      "artists": [
-        {
-          "name": "Lil Duval",
-          "url": "https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ"
-        },
-        {
-          "name": "Charlamagne Tha God",
-          "url": "https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
-      "url": "https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp"
     },
     {
       "added_at": "2022-10-01 16:09:56",

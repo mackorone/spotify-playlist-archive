@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Kes
 
-380 songs - 20 hr 44 min
+381 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Like Ah Boss](https://open.spotify.com/track/08uIpFwr0W4XuoJqR7uuQa) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Monk Monté](https://open.spotify.com/album/6lwmNrIkDEUTo8z45DzLc6) | 3:09 | 2023-08-11 | 2024-04-19 |
 | [Like Ah Boss](https://open.spotify.com/track/0ZEK6MHn9EfZtH9oaxLTgG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Monk Monté](https://open.spotify.com/album/6mjnIomPsuMnKlgD2yij16) | 3:09 | 2023-02-21 | 2024-07-25 |
 | [Like It Like This](https://open.spotify.com/track/3XJJpr3ZjEzpMNOJ3C7FM7) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [The 2:00AM Project](https://open.spotify.com/album/01S0wyD4Pp8NjLPtbRWTEr) | 3:15 | 2023-07-10 | 2023-07-12 |
+| [Like Yuh Self](https://open.spotify.com/track/0gsXztRd9iZ7swcqtDioq8) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Soca Universe 2023](https://open.spotify.com/album/1M8H25T1E9vL5aXQyG7c4X) | 2:56 | 2025-06-20 |  |
 | [Like Yuh Self](https://open.spotify.com/track/1gzoAtrRQlcrRHgRc9K4OC) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Like Yuh Self](https://open.spotify.com/album/3CRTmP0iyWPAsG54CkxUO5) | 2:56 | 2023-07-10 | 2025-06-06 |
 | [Like Yuh Self](https://open.spotify.com/track/321Lh40r8UhBPPGn053VfQ) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Like Yuh Self \(Roadmixes\)](https://open.spotify.com/album/0JFhRs0QUxd1Kt7WUxisYv) | 2:56 | 2023-05-15 | 2023-07-11 |
 | [Long Live Soca](https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Long Live Soca](https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd) | 3:45 | 2023-05-15 |  |
@@ -376,7 +377,7 @@
 | [Welcome To Carnival](https://open.spotify.com/track/5iQDeHszlApK5qgRaqEBTv) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Welcome To Spicemas](https://open.spotify.com/album/1CjKM4g3AY5QrrVGN76Ife) | 3:18 | 2023-08-11 | 2024-07-25 |
 | [Whale Fu See](https://open.spotify.com/track/1vo5iXgbv8sYVY2xBsZ0Xh) | [Og Park](https://open.spotify.com/artist/4XjPgbIrJruyUIu7NotYhS), [Rum Lawd](https://open.spotify.com/artist/3Ib51TwzOmZDXeUoUGhDOJ) | [Whale Fu See](https://open.spotify.com/album/6toehnLuWC2276thkFeJaQ) | 3:27 | 2025-06-20 |  |
 | [What I Want](https://open.spotify.com/track/7c53MoaEd6aRU7omlRnKgP) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fireball](https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg) | [Soundz of Freedom \(My Ultimate Summer of Love Mix\)](https://open.spotify.com/album/6gnHb4btc0NLg0otP1H30f) | 3:53 | 2023-02-21 | 2023-07-12 |
-| [Whine & Jumping \(feat\. Patrice Roberts\)](https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [In The Mood](https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0) | 2:29 | 2023-05-15 |  |
+| [Whine & Jumping \(feat\. Patrice Roberts\)](https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [In The Mood](https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0) | 2:29 | 2023-05-15 | 2025-07-21 |
 | [Whining Parish](https://open.spotify.com/track/6dV6nfALHtFTBDYnmfbwbq) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w) | [Whining Parish](https://open.spotify.com/album/63hP3ExO7vgGzLDwbpxfAN) | 3:26 | 2023-08-11 | 2024-07-25 |
 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 | 2023-02-21 |  |
 | [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 | 2023-02-21 | 2025-06-06 |

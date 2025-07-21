@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 317102,
+  "num_followers": 317125,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,34 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+        "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Daryl Palumbo",
+          "url": "https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX"
+        },
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 189552,
+      "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+      "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "AFRAID TO DIE",
         "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
       },
@@ -211,54 +239,6 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "FAIRY PHONK",
-        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        },
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "KILL ALL PREDATORS",
-      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
-        "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Daryl Palumbo",
-          "url": "https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX"
-        },
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 189552,
-      "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
-      "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -319,6 +299,26 @@
       "duration_ms": 117857,
       "name": "Handshakes With Snakes",
       "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "FAIRY PHONK",
+        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        },
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "KILL ALL PREDATORS",
+      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Laid to Rest (HEALTH Remix)",
         "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 158604,
       "name": "Laid to Rest - HEALTH Remix",
       "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Oportunista",
-        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Oportunista",
-      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Hide in Shade",
         "url": "https://open.spotify.com/album/7wdLmNajoqvqSyl2GxvcOY"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 218160,
       "name": "Hide in Shade",
       "url": "https://open.spotify.com/track/2w9JZiLSFfvTNs3liiWLg3"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Oportunista",
+        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Oportunista",
+      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/2K6lSKr0ZfEUU0mrJuwcGQ"
+      },
+      "artists": [
+        {
+          "name": "AILSHA",
+          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
+        }
+      ],
+      "duration_ms": 192637,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/7281czVHZ4ETc5yz4AYf09"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Don't Wait",
         "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 239626,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "MEOW",
-        "url": "https://open.spotify.com/album/2K6lSKr0ZfEUU0mrJuwcGQ"
-      },
-      "artists": [
-        {
-          "name": "AILSHA",
-          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
-        }
-      ],
-      "duration_ms": 192637,
-      "name": "MEOW",
-      "url": "https://open.spotify.com/track/7281czVHZ4ETc5yz4AYf09"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Curse",
-        "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Curse",
-      "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Bleed Like You",
         "url": "https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 240000,
       "name": "Only Paradise Lost",
       "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 181134,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Seeing Red",
-        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 220575,
-      "name": "Seeing Red",
-      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Spiritual Architecture",
         "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
       },
@@ -1687,22 +1671,6 @@
       "duration_ms": 562515,
       "name": "Spiritual Architecture",
       "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "EUGH!",
-        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
-      },
-      "artists": [
-        {
-          "name": "SPIIRAL",
-          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
-        }
-      ],
-      "duration_ms": 82926,
-      "name": "EUGH!",
-      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1723,6 +1691,54 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "EUGH!",
+        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
+      },
+      "artists": [
+        {
+          "name": "SPIIRAL",
+          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
+        }
+      ],
+      "duration_ms": 82926,
+      "name": "EUGH!",
+      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Machine Violence",
+        "url": "https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP"
+      },
+      "artists": [
+        {
+          "name": "Realize",
+          "url": "https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "Alone Against Flames",
+      "url": "https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Seeing Red",
+        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 220575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Lifers",
         "url": "https://open.spotify.com/album/4QorJObMBo6fFHnW8CNcGB"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 298991,
       "name": "Lifers",
       "url": "https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "The Angel of History",
-        "url": "https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT"
-      },
-      "artists": [
-        {
-          "name": "Cryptodira",
-          "url": "https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Dante's Inspiration",
-      "url": "https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu"
     }
   ],
   "unique_name": "Alternative Metal",

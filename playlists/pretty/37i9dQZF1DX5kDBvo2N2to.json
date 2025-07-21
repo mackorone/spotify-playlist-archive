@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59928,
+  "num_followers": 59925,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
         "name": "Missing Out",
         "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 226124,
       "name": "Andarna",
       "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -419,38 +419,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Som i en dr\u00f6m",
-        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 145568,
-      "name": "Fr\u00e5n & med nu",
-      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
-        "name": "02:30",
-        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "02:30",
-      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "Sv\u00e5rt",
         "url": "https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9"
       },
@@ -467,34 +435,18 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
+        "name": "02:30",
+        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
       },
       "artists": [
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
-        "name": "Lampan t\u00e4nd f\u00f6r dig",
-        "url": "https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl"
-      },
-      "artists": [
-        {
-          "name": "Dom F\u00f6rsta",
-          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
-        }
-      ],
-      "duration_ms": 153176,
-      "name": "Lampan t\u00e4nd f\u00f6r dig",
-      "url": "https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66"
+      "duration_ms": 217000,
+      "name": "02:30",
+      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -519,6 +471,38 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
+        "name": "Som i en dr\u00f6m",
+        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 145568,
+      "name": "Fr\u00e5n & med nu",
+      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "Lampan t\u00e4nd f\u00f6r dig",
+        "url": "https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl"
+      },
+      "artists": [
+        {
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        }
+      ],
+      "duration_ms": 153176,
+      "name": "Lampan t\u00e4nd f\u00f6r dig",
+      "url": "https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
         "name": "Forgive, Forget",
         "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 169608,
       "name": "Forgive, Forget",
       "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn"
-      },
-      "artists": [
-        {
-          "name": "Vella",
-          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
-        }
-      ],
-      "duration_ms": 194789,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 193346,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn"
+      },
+      "artists": [
+        {
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
+        }
+      ],
+      "duration_ms": 194789,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
+        "name": "Kransen",
+        "url": "https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr"
+      },
+      "artists": [
+        {
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+        }
+      ],
+      "duration_ms": 223201,
+      "name": "Kransen",
+      "url": "https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
         "name": "N\u00e5gon annan \u00e4n dig",
         "url": "https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 164869,
       "name": "N\u00e5gon annan \u00e4n dig",
       "url": "https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
-        "name": "Kransen",
-        "url": "https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr"
-      },
-      "artists": [
-        {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
-        }
-      ],
-      "duration_ms": 223201,
-      "name": "Kransen",
-      "url": "https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
+        "name": "TVIVEL & TRO",
+        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "duration_ms": 168928,
+      "name": "DELILAH",
+      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
         "name": "Tiderna i Solna",
         "url": "https://open.spotify.com/album/6rRfCs1pgXT33V8azO2jmu"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 198709,
       "name": "Tills natt blir dag",
       "url": "https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
-        "name": "TVIVEL & TRO",
-        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
-      },
-      "artists": [
-        {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
-        }
-      ],
-      "duration_ms": 168928,
-      "name": "DELILAH",
-      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Tro",
-        "url": "https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6"
-      },
-      "artists": [
-        {
-          "name": "Tim Lidman",
-          "url": "https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq"
-        }
-      ],
-      "duration_ms": 136593,
-      "name": "Tro",
-      "url": "https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "INATT IGEN",
         "url": "https://open.spotify.com/album/4w83t50g9487UwORpDiCOh"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 139310,
       "name": "INATT IGEN",
       "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "Tro",
+        "url": "https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6"
+      },
+      "artists": [
+        {
+          "name": "Tim Lidman",
+          "url": "https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq"
+        }
+      ],
+      "duration_ms": 136593,
+      "name": "Tro",
+      "url": "https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "t-shirt",
-        "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
-      },
-      "artists": [
-        {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
-        }
-      ],
-      "duration_ms": 152629,
-      "name": "t-shirt",
-      "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "K\u00e4nner ni igen er",
         "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
       },
@@ -991,18 +975,34 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "Aldrig g\u00e5",
-        "url": "https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d"
+        "name": "t-shirt",
+        "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
       },
       "artists": [
         {
-          "name": "Lov1",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
         }
       ],
-      "duration_ms": 187782,
-      "name": "Aldrig g\u00e5",
-      "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
+      "duration_ms": 152629,
+      "name": "t-shirt",
+      "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "00:00:01",
+        "url": "https://open.spotify.com/album/1TVr5v1JZ2Ux1mqXytRxyW"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sunday",
+          "url": "https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr"
+        }
+      ],
+      "duration_ms": 130271,
+      "name": "00:00:01",
+      "url": "https://open.spotify.com/track/5F7WaBrdKaut4IaswkN3be"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "00:00:01",
-        "url": "https://open.spotify.com/album/1TVr5v1JZ2Ux1mqXytRxyW"
+        "name": "Aldrig g\u00e5",
+        "url": "https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d"
       },
       "artists": [
         {
-          "name": "Lucas Sunday",
-          "url": "https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr"
+          "name": "Lov1",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
         }
       ],
-      "duration_ms": 130271,
-      "name": "00:00:01",
-      "url": "https://open.spotify.com/track/5F7WaBrdKaut4IaswkN3be"
+      "duration_ms": 187782,
+      "name": "Aldrig g\u00e5",
+      "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
+        "name": "FEST",
+        "url": "https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "FEST",
+      "url": "https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
         "name": "GET RICH OR DIE TRYING",
         "url": "https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 164583,
       "name": "Lasse & hunden",
       "url": "https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
-        "name": "FEST",
-        "url": "https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "FEST",
-      "url": "https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8"
     },
     {
       "added_at": "2025-07-17 22:00:37",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-07-17 22:00:37",
       "album": {
-        "name": "The Prettiest Face",
-        "url": "https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "The Prettiest Face",
-      "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"
-    },
-    {
-      "added_at": "2025-07-17 22:00:37",
-      "album": {
         "name": "K\u00e4rleksrum",
         "url": "https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 139574,
       "name": "Sl\u00e5 mig en signal",
       "url": "https://open.spotify.com/track/6gcUauPKL3onITNKZYHZxU"
+    },
+    {
+      "added_at": "2025-07-17 22:00:37",
+      "album": {
+        "name": "The Prettiest Face",
+        "url": "https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "The Prettiest Face",
+      "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"
     },
     {
       "added_at": "2025-07-17 22:00:37",

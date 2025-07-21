@@ -5685,6 +5685,24 @@
     },
     {
       "album": {
+        "name": "Paciencia",
+        "url": "https://open.spotify.com/album/3fwWKqyqgDWK65wDJ5bD7z"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315828,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/5D49CFF1HvSiOGsfw6aOuq"
+    },
+    {
+      "album": {
         "name": "Ritual Piojoso (En Vivo en River Plate)",
         "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
       },

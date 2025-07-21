@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Plano Piloto",
+        "url": "https://open.spotify.com/album/4qmdgVyprepD8MAfzp27zV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179452,
+      "name": "Adorei",
+      "url": "https://open.spotify.com/track/1jweGFaVZxEVrOHKsLpPY4"
+    },
+    {
+      "album": {
         "name": "Afrodite",
         "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
       },
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 198678,
       "name": "Apaguei Pra Todos - Ao Vivo",
       "url": "https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8"
@@ -7394,7 +7412,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 165452,
       "name": "Dama do Baralho - Ao Vivo",
       "url": "https://open.spotify.com/track/4Nj2zoYULwyYnJTU3AZf6B"
@@ -9102,7 +9120,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 172751,
       "name": "Dois Enganados",
       "url": "https://open.spotify.com/track/7McCAKExE8KsI2q4Y8wx4U"
@@ -12246,7 +12264,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 133615,
       "name": "Fica De Quat\u00e3o",
       "url": "https://open.spotify.com/track/7KTYk6K4TSK56iNecGe2R2"
@@ -13458,7 +13476,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/0rrEBDSmUmMEPphR9vVxkq"
@@ -13494,7 +13512,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv"
@@ -15184,7 +15202,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -22336,7 +22354,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -22468,7 +22486,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 128000,
       "name": "OUTRA",
       "url": "https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA"
@@ -26166,7 +26184,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 127771,
       "name": "Ritmo da Sanfoninha (Fomfomrom)",
       "url": "https://open.spotify.com/track/4NjI4qbTN70oQZ8Alt9cdC"
@@ -26924,7 +26942,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 144665,
       "name": "Saveiro",
       "url": "https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G"

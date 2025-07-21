@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: HYO)",
-  "num_followers": 29791,
+  "num_followers": 29815,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-07-16 14:14:38",
       "album": {
+        "name": "IF U WANT IT",
+        "url": "https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "duration_ms": 340660,
+      "name": "I DON'T CARE",
+      "url": "https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r"
+    },
+    {
+      "added_at": "2025-07-16 14:14:38",
+      "album": {
         "name": "Mirror ball (feat. Moon Sujin)",
         "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 193493,
       "name": "Mirror ball (feat. Moon Sujin)",
       "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
-    },
-    {
-      "added_at": "2025-07-16 14:14:38",
-      "album": {
-        "name": "IF U WANT IT",
-        "url": "https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        }
-      ],
-      "duration_ms": 340660,
-      "name": "I DON'T CARE",
-      "url": "https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r"
     },
     {
       "added_at": "2025-07-16 14:14:38",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2025-07-16 14:14:38",
       "album": {
-        "name": "iScreaM Vol.12 : Bad Boy Remixes",
-        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "nomad",
-          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
-        }
-      ],
-      "duration_ms": 211845,
-      "name": "Bad Boy - nomad Remix",
-      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
-    },
-    {
-      "added_at": "2025-07-16 14:14:38",
-      "album": {
         "name": "Good Night Good Morning (GNGM) [minlee Remix]",
         "url": "https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO"
       },
@@ -1415,22 +1395,22 @@
     {
       "added_at": "2025-07-16 14:14:38",
       "album": {
-        "name": "Useless",
-        "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
+        "name": "iScreaM Vol.12 : Bad Boy Remixes",
+        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
       "artists": [
         {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         },
         {
-          "name": "Noisy Choice",
-          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+          "name": "nomad",
+          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
         }
       ],
-      "duration_ms": 161904,
-      "name": "Useless",
-      "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
+      "duration_ms": 211845,
+      "name": "Bad Boy - nomad Remix",
+      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
     },
     {
       "added_at": "2025-07-16 14:14:38",
@@ -1451,6 +1431,26 @@
       "duration_ms": 134769,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
+    },
+    {
+      "added_at": "2025-07-16 14:14:38",
+      "album": {
+        "name": "Useless",
+        "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Noisy Choice",
+          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Useless",
+      "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
     },
     {
       "added_at": "2025-07-16 14:14:38",
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2025-07-16 14:14:38",
       "album": {
-        "name": "iScreaM Vol.8 : Bambi Remixes",
-        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
+        "name": "Romeo & Juliet (ZEE Remix)",
+        "url": "https://open.spotify.com/album/0yKfzfVChOkRt0axInunfl"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        },
-        {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
         }
       ],
-      "duration_ms": 240004,
-      "name": "Bambi - h4rdy Remix",
-      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
+      "duration_ms": 186000,
+      "name": "Romeo & Juliet (ZEE Remix)",
+      "url": "https://open.spotify.com/track/2Amy8o61cSDREo18jQDNAa"
     },
     {
       "added_at": "2025-07-16 14:14:38",
@@ -1755,22 +1751,22 @@
     {
       "added_at": "2025-07-16 14:14:38",
       "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+        "name": "iScreaM Vol.8 : Bambi Remixes",
+        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         },
         {
-          "name": "Minit",
-          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
         }
       ],
-      "duration_ms": 197538,
-      "name": "BOOM - Minit Remix, Bonus Track",
-      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
+      "duration_ms": 240004,
+      "name": "Bambi - h4rdy Remix",
+      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
     },
     {
       "added_at": "2025-07-16 14:14:38",
@@ -1791,6 +1787,26 @@
       "duration_ms": 172293,
       "name": "Peaches - No2zcat Remix",
       "url": "https://open.spotify.com/track/5qfPgGDyAQlM48pQM7KO4t"
+    },
+    {
+      "added_at": "2025-07-16 14:14:38",
+      "album": {
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "BOOM - Minit Remix, Bonus Track",
+      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
     },
     {
       "added_at": "2025-07-16 14:14:38",
@@ -1855,26 +1871,6 @@
     {
       "added_at": "2025-07-16 14:14:38",
       "album": {
-        "name": "iScreaM Vol.16 : Glitch Mode Remix",
-        "url": "https://open.spotify.com/album/1qCGvCguJOKwfJbfBH8q8O"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "JINBO the SuperFreak",
-          "url": "https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb"
-        }
-      ],
-      "duration_ms": 277760,
-      "name": "Glitch Mode - JINBO Remix",
-      "url": "https://open.spotify.com/track/6gVZB0cp9QmWoduXVWOgHM"
-    },
-    {
-      "added_at": "2025-07-16 14:14:38",
-      "album": {
         "name": "There For You (Club Mix)",
         "url": "https://open.spotify.com/album/7meNcaWJISNWfOJv4gLv3Q"
       },
@@ -1895,18 +1891,22 @@
     {
       "added_at": "2025-07-16 14:14:38",
       "album": {
-        "name": "SEROTONIN",
-        "url": "https://open.spotify.com/album/5RNFZGKdcv3CWhUKMNs7AG"
+        "name": "iScreaM Vol.16 : Glitch Mode Remix",
+        "url": "https://open.spotify.com/album/1qCGvCguJOKwfJbfBH8q8O"
       },
       "artists": [
         {
-          "name": "NECTA",
-          "url": "https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "JINBO the SuperFreak",
+          "url": "https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb"
         }
       ],
-      "duration_ms": 170440,
-      "name": "SEROTONIN",
-      "url": "https://open.spotify.com/track/1HRJkKOY3sDx6ELjasWIxE"
+      "duration_ms": 277760,
+      "name": "Glitch Mode - JINBO Remix",
+      "url": "https://open.spotify.com/track/6gVZB0cp9QmWoduXVWOgHM"
     }
   ],
   "unique_name": "Electronii[K]",

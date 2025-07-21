@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Young Nudy
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,878 likes - 48 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,896 likes - 48 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [The Whole Shabang](https://open.spotify.com/track/5HrnHNSNjxXpU6j6B75PxZ) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Late to My Own Funeral](https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W) | 3:18 |
 | 48 | [ThatsSoRaven](https://open.spotify.com/track/5iMccM4lUfWiIwK0JRbbZQ) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [ThatsSoRaven](https://open.spotify.com/album/4fTQiM67e4WEEDhArezqJW) | 2:01 |
 
-Snapshot ID: `aHnL/wAAAAB8/9W/jQpRLZK4nYBRC1iv`
+Snapshot ID: `aH1mVgAAAAATrLQ06xZmA+fLymB0mVFa`

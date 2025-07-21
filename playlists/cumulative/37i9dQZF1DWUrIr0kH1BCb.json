@@ -27,6 +27,52 @@
     },
     {
       "album": {
+        "name": "A Grouchy Song",
+        "url": "https://open.spotify.com/album/3y6ltjeu59m9DnUEVeXq6d"
+      },
+      "artists": [
+        {
+          "name": "Oscar the Grouch",
+          "url": "https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Grundgetta",
+          "url": "https://open.spotify.com/artist/1mvANJ3tzmLuTFr8RbD0js"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Sesame Street's Nina",
+          "url": "https://open.spotify.com/artist/7fogFx1w3SiLDqHnODpLCL"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71763,
+      "name": "A Grouchy Song",
+      "url": "https://open.spotify.com/track/4TgBOsBjdhBr5d6aWonLQn"
+    },
+    {
+      "album": {
         "name": "Sesame Street: Platinum All-Time Favorites",
         "url": "https://open.spotify.com/album/6o4ggCb797BhBa54pSqJzI"
       },
@@ -64,7 +110,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 164973,
       "name": "All You Need Is You",
       "url": "https://open.spotify.com/track/6wRRtb9PQOVemorFMAp7LF"
@@ -226,7 +272,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 115826,
       "name": "Elmo Wrote His Name",
       "url": "https://open.spotify.com/track/0tlwaLdIYJcXg7nNi9KNIw"
@@ -282,6 +328,36 @@
       "duration_ms": 253128,
       "name": "Elmo's Song",
       "url": "https://open.spotify.com/track/0xgC4HBKk7RPP4VkGYvGFp"
+    },
+    {
+      "album": {
+        "name": "So Many Ways to Be Me",
+        "url": "https://open.spotify.com/album/2fqxLORpEJViGrvDYsmIo8"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street\u2019s Rudy",
+          "url": "https://open.spotify.com/artist/0UjD1ag9GatzDn2IbgUoyd"
+        },
+        {
+          "name": "AM Spider",
+          "url": "https://open.spotify.com/artist/74gXg7nqytlJwRZX2sbX36"
+        },
+        {
+          "name": "Little Jack Horner",
+          "url": "https://open.spotify.com/artist/6g9fOZBpdtHZ1Uw3oDODRc"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90191,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2rEXY5RRWr9z0DxtnQx1Cp"
     },
     {
       "album": {
@@ -380,6 +456,40 @@
       "duration_ms": 90373,
       "name": "Happy Tappin' with Elmo",
       "url": "https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1"
+    },
+    {
+      "album": {
+        "name": "Holo Wa\u2019apa",
+        "url": "https://open.spotify.com/album/75NLofHVuv2dkV1hIlPkeB"
+      },
+      "artists": [
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street\u2019s Nani Bird",
+          "url": "https://open.spotify.com/artist/6Og1t9SPtrwLZbn6KLL1zO"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110465,
+      "name": "Holo Wa\u2019apa",
+      "url": "https://open.spotify.com/track/5eP781glRYuU0RWgoFJciq"
     },
     {
       "album": {
@@ -591,6 +701,40 @@
     },
     {
       "album": {
+        "name": "Blippi And Sesame Street Adventures",
+        "url": "https://open.spotify.com/album/2XfdTa9USFOgbnANZzyUco"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/2kEhzvRzkxM8m8HB3P0bdM"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124634,
+      "name": "Let's Take Care Of Animals - Sesame Street Version",
+      "url": "https://open.spotify.com/track/0S9xlPL4GkXtpcCylsXbCg"
+    },
+    {
+      "album": {
         "name": "Coming Together",
         "url": "https://open.spotify.com/album/7MK2Ntzo9Di46dlqAZZ1p5"
       },
@@ -781,6 +925,36 @@
     },
     {
       "album": {
+        "name": "Welcome to the Farm",
+        "url": "https://open.spotify.com/album/26iJ7mMZmwUPLO6Q6afYOt"
+      },
+      "artists": [
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street\u2019s Rudy",
+          "url": "https://open.spotify.com/artist/0UjD1ag9GatzDn2IbgUoyd"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62668,
+      "name": "Rainy Day Song",
+      "url": "https://open.spotify.com/track/1ik6b82dLscL58lfledevA"
+    },
+    {
+      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -897,6 +1071,28 @@
     },
     {
       "album": {
+        "name": "So Many Ways to Be Me",
+        "url": "https://open.spotify.com/album/2fqxLORpEJViGrvDYsmIo8"
+      },
+      "artists": [
+        {
+          "name": "Niahm",
+          "url": "https://open.spotify.com/artist/7rhcbmplE2k2M4rH2BKj57"
+        },
+        {
+          "name": "Sesame Street\u2019s Tamir",
+          "url": "https://open.spotify.com/artist/0mPoJFAaRIZhq9QkQEqXcn"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93100,
+      "name": "So Many Ways to Be Me",
+      "url": "https://open.spotify.com/track/2aAUutpV0K47Nsv2BmDzOF"
+    },
+    {
+      "album": {
         "name": "Sesame Street: The Best of Elmo",
         "url": "https://open.spotify.com/album/6uiuWVIUe0WL3SE0AsxVkb"
       },
@@ -916,6 +1112,28 @@
       "duration_ms": 122933,
       "name": "Splish Splash",
       "url": "https://open.spotify.com/track/69Ea5oMgg7zud57XNUeROa"
+    },
+    {
+      "album": {
+        "name": "Spring Song",
+        "url": "https://open.spotify.com/album/5v4B9nz6eUtbBY6D8S73s6"
+      },
+      "artists": [
+        {
+          "name": "Hoots the Owl",
+          "url": "https://open.spotify.com/artist/5pEISC0Oj9gt78YDhRzW2G"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128722,
+      "name": "Spring Song",
+      "url": "https://open.spotify.com/track/5wiSXuqBADIJCK8SajKFOH"
     },
     {
       "album": {
@@ -1001,6 +1219,40 @@
     },
     {
       "album": {
+        "name": "Blippi's Party with Sesame Street",
+        "url": "https://open.spotify.com/album/29hYb113tR5KCAVjSdyw8D"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144236,
+      "name": "The Garbage Truck Song - Sesame Street Version",
+      "url": "https://open.spotify.com/track/4Z4anzTk8F8rAIsChIYiEb"
+    },
+    {
+      "album": {
         "name": "Sesame Street: Platinum All-Time Favorites",
         "url": "https://open.spotify.com/album/6o4ggCb797BhBa54pSqJzI"
       },
@@ -1032,6 +1284,64 @@
       "duration_ms": 106973,
       "name": "The People In Your Neighborhood",
       "url": "https://open.spotify.com/track/16FaJAwcUhPNGln2bHLPJz"
+    },
+    {
+      "album": {
+        "name": "ABC 123",
+        "url": "https://open.spotify.com/album/0QXCIagcYSnzr59Gp0C4fr"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Bert",
+          "url": "https://open.spotify.com/artist/1T8DNeUI0R8aw3GNwvqeax"
+        },
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+        },
+        {
+          "name": "Oscar the Grouch",
+          "url": "https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9"
+        },
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/7fwvBtJJavkIB34vf73p8V"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160223,
+      "name": "The Sesame Street Alphabet",
+      "url": "https://open.spotify.com/track/4aqTkklvLWvEIm6Y3x8zRC"
     },
     {
       "album": {
@@ -1080,6 +1390,86 @@
       "duration_ms": 128893,
       "name": "Twinkle Twinkle Little Star (feat. Sara Bareilles)",
       "url": "https://open.spotify.com/track/4LK44hLY5939nlwyKjQOOg"
+    },
+    {
+      "album": {
+        "name": "We All Sing with the Same Voice",
+        "url": "https://open.spotify.com/album/66VccuRSZZaqTimWLdjxsv"
+      },
+      "artists": [
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/6rBZhEQ1RwYz6xOCE7CuUY"
+        },
+        {
+          "name": "Sesame Street\u2019s Tango",
+          "url": "https://open.spotify.com/artist/79wsH2LLUQ5vkMnzK0Rw7p"
+        },
+        {
+          "name": "Bert",
+          "url": "https://open.spotify.com/artist/1T8DNeUI0R8aw3GNwvqeax"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Oscar the Grouch",
+          "url": "https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9"
+        },
+        {
+          "name": "Two-Headed Monster",
+          "url": "https://open.spotify.com/artist/0UlyGwBX8ToI5R3enMe5IX"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154316,
+      "name": "We All Sing with the Same Voice",
+      "url": "https://open.spotify.com/track/45jZ6FcHe6HYQCJhdcb2gD"
+    },
+    {
+      "album": {
+        "name": "Welcome to the Farm",
+        "url": "https://open.spotify.com/album/26iJ7mMZmwUPLO6Q6afYOt"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2025-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65511,
+      "name": "Welcome to the Farm",
+      "url": "https://open.spotify.com/track/40DjYpEBsTxW4rFjBkQd56"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUrIr0kH1BCb"

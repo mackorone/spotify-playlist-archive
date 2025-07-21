@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-956 songs - 2 day 12 hr 53 min
+957 songs - 2 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Aries \(YuGo\) \(feat\. Pharrell & Station Wagon P\)](https://open.spotify.com/track/59LUh4amaXhgrWh6mWKbCn) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Station Wagon P](https://open.spotify.com/artist/10bRsziCCdq9Ht20lVVrRf) | [Ransom 2](https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw) | 4:31 | 2024-01-29 |  |
 | [Arturo Sandoval](https://open.spotify.com/track/7EEgDEga4Piru1XeZ7EEw3) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Ultimate Duets](https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A) | 3:31 | 2024-01-29 |  |
 | [As I Come Back](https://open.spotify.com/track/6Wv50bjSTKXNPFtclT17R8) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:19 | 2024-01-29 |  |
-| [AT THE PARTY \(feat\. Pharrell Williams & Travis Scott\)](https://open.spotify.com/track/0kUQWMs1bRlwFNKA4Dce3f) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:58 | 2024-09-28 |  |
+| [AT THE PARTY \(feat\. Pharrell Williams & Travis Scott\)](https://open.spotify.com/track/0PGj9A3Yg5mXfp4VYlL2HY) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY) | 3:58 | 2025-07-20 |  |
+| [AT THE PARTY \(feat\. Pharrell Williams & Travis Scott\)](https://open.spotify.com/track/0kUQWMs1bRlwFNKA4Dce3f) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:58 | 2024-09-28 | 2025-07-21 |
 | [Awake](https://open.spotify.com/track/1Kb0NIuXFfTEcyCsBLQPwR) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 3:43 | 2024-09-12 |  |
 | [Ay Yi Yi](https://open.spotify.com/track/2BH7B56Q5A9yVCBfHSWuYs) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [SupaJefe](https://open.spotify.com/album/3Qtu0s0tFmPTUxAtAVb3Zk) | 3:17 | 2024-06-20 | 2024-06-22 |
 | [Ayos Lang](https://open.spotify.com/track/0RqYgpSayvpZAIcIv3mlYK) | [Siakol](https://open.spotify.com/artist/3l9mRJIGzW7RrEE2H8Ldvq) | [Rekta](https://open.spotify.com/album/2xRcb3YZ5wIRcCInzpNNjg) | 4:18 | 2024-01-29 | 2024-06-18 |

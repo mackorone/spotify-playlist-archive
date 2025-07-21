@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,687 likes - 38 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,690 likes - 38 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 23 | [Skulls and Stars \- Original Demo](https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Hurt You So Bad](https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq) | 3:48 |
 | 24 | [A Little More Time](https://open.spotify.com/track/5uu3JPIIjqRL6Z2Dvmq8qn) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Koko LaRoo](https://open.spotify.com/artist/4ldIyz6hptVfXelMQcdae2) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:39 |
 | 25 | [Change](https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:44 |
-| 26 | [Fly Away](https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Tanner Alexander](https://open.spotify.com/artist/41lO2rd2y2DXgZfoZ85MgP) | [Fly Away](https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN) | 3:47 |
-| 27 | [Butterfly \(New Anthem\)](https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s) | [Black Oxygen](https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Butterfly \(New Anthem\)](https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk) | 3:47 |
+| 26 | [Butterfly \(New Anthem\)](https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s) | [Black Oxygen](https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Butterfly \(New Anthem\)](https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk) | 3:47 |
+| 27 | [Fly Away](https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Tanner Alexander](https://open.spotify.com/artist/41lO2rd2y2DXgZfoZ85MgP) | [Fly Away](https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN) | 3:47 |
 | 28 | [Come Inside](https://open.spotify.com/track/2JiR5ZnuHagOzZHSKfmpqk) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:18 |
 | 29 | [Decorated](https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:06 |
 | 30 | [Trigger Happy](https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Flirting With Disaster](https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC) | 3:01 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 37 | [Waste of My Time](https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 2:53 |
 | 38 | [Beautiful](https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 
-Snapshot ID: `aHmOgAAAAADYnJ1laazGXMt//ZxjVQJt`
+Snapshot ID: `aHrgAAAAAAA859SNe+lt+75012h4T5v4`

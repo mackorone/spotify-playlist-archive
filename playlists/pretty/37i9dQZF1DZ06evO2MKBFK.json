@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 636496,
+  "num_followers": 636541,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHmOgAAAAAB5BRmfIHS5web9T7E4Lt6p",
+  "snapshot_id": "aHrgAAAAAAATOO9+MOYj5ssCb0uNijWd",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "My Heaven",
-      "url": "https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me Goodbye",
         "url": "https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX"
       },
@@ -443,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2NE1 1st Mini Album",
-        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
       },
       "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        },
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
+      "duration_ms": 232933,
+      "name": "My Heaven",
+      "url": "https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO"
     },
     {
       "added_at": null,
@@ -479,6 +459,26 @@
       "duration_ms": 224053,
       "name": "Untitled, 2014 - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
       "url": "https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2NE1 1st Mini Album",
+        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        },
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radar de \u00c9xitos: K-Pop",
-        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Beautiful Hangover",
-      "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 213640,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radar de \u00c9xitos: K-Pop",
+        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Beautiful Hangover",
+      "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 222989,
-      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
-      "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 237253,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/1R1wuzQxZhghrjJZvqReyW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 222989,
+      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
+      "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
     },
     {
       "added_at": null,

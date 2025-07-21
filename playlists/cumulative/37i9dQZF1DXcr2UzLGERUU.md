@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-160 songs - 8 hr 38 min
+161 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,9 +156,10 @@
 | [What My Body Needs](https://open.spotify.com/track/7bk9NCsLE8F5LhbaPo5pRD) | [Sara Rogers](https://open.spotify.com/artist/5fEiggZSfUYOhfBqyIC4cw) | [What My Body Needs](https://open.spotify.com/album/1HkRCTZXljbfIXGprYdUPT) | 3:08 | 2022-04-01 |  |
 | [What Will You Be](https://open.spotify.com/track/6s4JhPW2vesedW9obEBhUO) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Songs for Charlie](https://open.spotify.com/album/1uvvolXhAoaH0OjhL2byva) | 3:22 | 2022-04-01 | 2023-04-09 |
 | [When You Wish Upon A Star](https://open.spotify.com/track/16SdawEQLWqG7Cuq8ov7EP) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [Berceuses jazz](https://open.spotify.com/album/7ir05fsbOa22VHZ92nPdML) | 5:48 | 2022-04-01 | 2022-11-13 |
-| [When You Wish Upon a Star](https://open.spotify.com/track/2qC4zeqyQ4qUPM3WoK8OYe) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [I Believe in Little Things](https://open.spotify.com/album/1uinrEFIJaxI9mjybo0DFj) | 5:48 | 2022-04-01 |  |
+| [When You Wish Upon a Star](https://open.spotify.com/track/2qC4zeqyQ4qUPM3WoK8OYe) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [I Believe in Little Things](https://open.spotify.com/album/1uinrEFIJaxI9mjybo0DFj) | 5:48 | 2022-04-01 | 2025-07-21 |
 | [When You Wish Upon A Star](https://open.spotify.com/track/3qoIxlw9BCybS73pNyWPJp) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [I Believe In Little Things](https://open.spotify.com/album/1FlKW25Y5D6l8fTeuCqq8E) | 5:48 | 2022-04-01 | 2024-04-19 |
 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 | 2022-04-01 |  |
+| [WILDFLOWER](https://open.spotify.com/track/4lRTRntv8Ier9bwkDMEMya) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:40 | 2025-07-20 |  |
 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 | 2022-04-01 |  |
 | [Yaka Yelyukwa \(Rain Song\)](https://open.spotify.com/track/70plsU6ysQjudF6I1vftTu) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Ayarra Emeba \(Calm Songs\)](https://open.spotify.com/album/4wZLfPXjv9VARraWOvV8Ri) | 1:43 | 2022-04-01 | 2023-04-09 |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-04-01 |  |

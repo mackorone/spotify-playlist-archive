@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 787342,
+  "num_followers": 787280,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2025-07-11 05:43:04",
       "album": {
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
+      },
+      "artists": [
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        },
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+        }
+      ],
+      "duration_ms": 243141,
+      "name": "Um Amor Puro",
+      "url": "https://open.spotify.com/track/3SdbQJS2ZS5Dc1K2Bx02bq"
+    },
+    {
+      "added_at": "2025-07-11 05:43:04",
+      "album": {
         "name": "Viver de Carinho",
         "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
       },
@@ -1196,17 +1216,17 @@
       },
       "artists": [
         {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
         },
         {
           "name": "Slap",
           "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
         }
       ],
-      "duration_ms": 243141,
-      "name": "Um Amor Puro",
-      "url": "https://open.spotify.com/track/3SdbQJS2ZS5Dc1K2Bx02bq"
+      "duration_ms": 200000,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
     },
     {
       "added_at": "2025-07-11 05:43:04",
@@ -1223,26 +1243,6 @@
       "duration_ms": 199308,
       "name": "O amor me fala de voc\u00ea",
       "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
-    },
-    {
-      "added_at": "2025-07-11 05:43:04",
-      "album": {
-        "name": "Canto Djavan",
-        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
-      },
-      "artists": [
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        },
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
     },
     {
       "added_at": "2025-07-11 05:43:04",

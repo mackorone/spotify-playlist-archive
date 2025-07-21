@@ -6367,6 +6367,24 @@
     },
     {
       "album": {
+        "name": "hot summer",
+        "url": "https://open.spotify.com/album/6Gu94XbWCmDBCbbsHJ3SdF"
+      },
+      "artists": [
+        {
+          "name": "Molly Frances",
+          "url": "https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212542,
+      "name": "hot summer",
+      "url": "https://open.spotify.com/track/3gR8omUbqmDU0l38K3CpHX"
+    },
+    {
+      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4"
       },
@@ -11330,7 +11348,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 187631,
       "name": "Pure",
       "url": "https://open.spotify.com/track/2sab89Tv3lCK0sR23SAHUC"

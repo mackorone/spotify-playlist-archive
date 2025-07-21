@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: B Jack$
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,420 likes - 99 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,374 likes - 99 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 51 | [Pardon Me](https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 4:00 |
 | 52 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 |
 | 53 | [Half The Plot](https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:45 |
-| 54 | [trip \(feat\. Jaasu\)](https://open.spotify.com/track/4ljcumInyzzQp8JicJ5Dii) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [Jaasu](https://open.spotify.com/artist/3JKWVk2gRDw1YLWw9z0EEO) | [trip](https://open.spotify.com/album/4kOsEMnnuhHOwOMMLTi6Qt) | 2:43 |
+| 54 | [TRIP \(feat\. Jaasu\)](https://open.spotify.com/track/4ljcumInyzzQp8JicJ5Dii) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [Jaasu](https://open.spotify.com/artist/3JKWVk2gRDw1YLWw9z0EEO) | [TRIP](https://open.spotify.com/album/4kOsEMnnuhHOwOMMLTi6Qt) | 2:43 |
 | 55 | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:12 |
 | 56 | [Fruity Pebbles](https://open.spotify.com/track/2uSvCkWluf8akF3OPXBB3t) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Scarred B4 Fame](https://open.spotify.com/album/2QhUE3nQN7lYRFZ2yOfzXJ) | 2:09 |
 | 57 | [Sick n Tired \(with OnlyHeaven\)](https://open.spotify.com/track/3vaYPxBgL2w8TmP042tDIs) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [OnlyHeaven](https://open.spotify.com/artist/0uaJXiIMrpbOV91Z9JxOL1) | [Sick n Tired](https://open.spotify.com/album/2BIkYef92NcLlPPhe4FLf7) | 4:03 |

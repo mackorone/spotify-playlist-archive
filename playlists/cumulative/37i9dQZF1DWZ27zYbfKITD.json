@@ -527,32 +527,6 @@
     },
     {
       "album": {
-        "name": "Demon Slayer: Nezuko Theme",
-        "url": "https://open.spotify.com/album/70VqDyo7pa74XlAnCYhQ3K"
-      },
-      "artists": [
-        {
-          "name": "\u690e\u540d\u8c6a",
-          "url": "https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH"
-        },
-        {
-          "name": "\u68b6\u6d66 \u7531\u8a18",
-          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "date_added": "2024-02-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231958,
-      "name": "Demon Slayer: Nezuko Theme",
-      "url": "https://open.spotify.com/track/1Vvn19lRIPqwZHUgIAHYRF"
-    },
-    {
-      "album": {
         "name": "Trigonometry (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/5JqHZ5DrkG010tg32Bnh70"
       },
@@ -1388,6 +1362,32 @@
       "duration_ms": 76133,
       "name": "Nemo Egg (Main Title)",
       "url": "https://open.spotify.com/track/7jSQaXLzpLHjSQTev2krvT"
+    },
+    {
+      "album": {
+        "name": "Demon Slayer: Nezuko Theme",
+        "url": "https://open.spotify.com/album/70VqDyo7pa74XlAnCYhQ3K"
+      },
+      "artists": [
+        {
+          "name": "\u690e\u540d\u8c6a",
+          "url": "https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH"
+        },
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231958,
+      "name": "Nezuko Theme (From \"Demon Slayer\")",
+      "url": "https://open.spotify.com/track/1Vvn19lRIPqwZHUgIAHYRF"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 146195,
+  "num_followers": 146216,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHmOgAAAAACGUdv1fPun5AEzw1luIlIY",
+  "snapshot_id": "aHrgAAAAAADs45p04IaQoVRmGxTGzhta",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 308960,
-      "name": "It's Not Up To You",
-      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
+      "duration_ms": 338400,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 338400,
-      "name": "Undo",
-      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
+      "duration_ms": 308960,
+      "name": "It's Not Up To You",
+      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 305703,
-      "name": "Blissing Me",
-      "url": "https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ex:el",
         "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 282013,
       "name": "Ooops",
       "url": "https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 305703,
+      "name": "Blissing Me",
+      "url": "https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC"
     },
     {
       "added_at": null,

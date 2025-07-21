@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 51053,
+  "num_followers": 51063,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHmOgAAAAABEqQSPGGpnmZZ1eK4DYE9s",
+  "snapshot_id": "aHrgAAAAAACHPBMaS7ImIjPtbaicrLWs",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empezar Desde Cero",
-        "url": "https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 200304,
-      "name": "Empezar Desde Cero",
-      "url": "https://open.spotify.com/track/3ZO2h0YUr2Uft7G8w4k7Ru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intento Diez Mil",
         "url": "https://open.spotify.com/album/2vA069Infjo2PL11CIwDiW"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 149825,
       "name": "Intento Diez Mil",
       "url": "https://open.spotify.com/track/2j17wb2STjaPtvddrv82ok"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empezar Desde Cero",
+        "url": "https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 200304,
+      "name": "Empezar Desde Cero",
+      "url": "https://open.spotify.com/track/3ZO2h0YUr2Uft7G8w4k7Ru"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 227196,
-      "name": "Lo Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/2HgLertx97aKmtkVfNymvU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Sale Bien",
         "url": "https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 167509,
       "name": "Te Sale Bien",
       "url": "https://open.spotify.com/track/1AOuMm9EJB0S8FviogQcpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 227196,
+      "name": "Lo Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/2HgLertx97aKmtkVfNymvU"
     },
     {
       "added_at": null,
@@ -551,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+        "name": "Como un Meteorito",
+        "url": "https://open.spotify.com/album/2NPXznFzShgA3D4bapgYR1"
       },
       "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        },
         {
           "name": "La Fiera de Ojinaga",
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 194247,
-      "name": "Basta",
-      "url": "https://open.spotify.com/track/7G9Z2p9GUo86ssw05dRRYH"
+      "duration_ms": 181034,
+      "name": "Maldita Soledad",
+      "url": "https://open.spotify.com/track/4MuXo5mfMatTI3sImuqjg3"
     },
     {
       "added_at": null,
@@ -583,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Meteorito",
-        "url": "https://open.spotify.com/album/2NPXznFzShgA3D4bapgYR1"
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
       },
       "artists": [
-        {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
-        },
         {
           "name": "La Fiera de Ojinaga",
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 181034,
-      "name": "Maldita Soledad",
-      "url": "https://open.spotify.com/track/4MuXo5mfMatTI3sImuqjg3"
+      "duration_ms": 194247,
+      "name": "Basta",
+      "url": "https://open.spotify.com/track/7G9Z2p9GUo86ssw05dRRYH"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como una Fiera",
-        "url": "https://open.spotify.com/album/3y6ZgAAV5YwdyMuFOwpCJf"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 167509,
-      "name": "Como una Fiera",
-      "url": "https://open.spotify.com/track/0rFI3guWwBbbiO5BfYnHh6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Nos Tenemos",
         "url": "https://open.spotify.com/album/3rIk3R4uEJPbp4G03m3gJh"
       },
@@ -803,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF"
+        "name": "Como una Fiera",
+        "url": "https://open.spotify.com/album/3y6ZgAAV5YwdyMuFOwpCJf"
       },
       "artists": [
         {
@@ -812,9 +796,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 178385,
-      "name": "Coraz\u00f3n Jodido - Tololoche",
-      "url": "https://open.spotify.com/track/3YSLJpFeItsvgaPGMCwcPG"
+      "duration_ms": 167509,
+      "name": "Como una Fiera",
+      "url": "https://open.spotify.com/track/0rFI3guWwBbbiO5BfYnHh6"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 207182,
       "name": "Olvidarte \u00bfC\u00f3mo?",
       "url": "https://open.spotify.com/track/6qoLoLaw4zC48XERFdTBgN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 178385,
+      "name": "Coraz\u00f3n Jodido - Tololoche",
+      "url": "https://open.spotify.com/track/3YSLJpFeItsvgaPGMCwcPG"
     },
     {
       "added_at": null,

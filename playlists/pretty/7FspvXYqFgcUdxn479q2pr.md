@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: AFROJACK, Martin Garrix, David Guetta, Amél
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,292 likes - 29 songs - 1 hr 20 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,290 likes - 29 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Dato' Sri Siti Nurhaliza, Ade Govinda, Yonnyboii, Malique, aespa, NCT DREAM, NAKI, Fahimi, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,958 likes - 127 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,974 likes - 127 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

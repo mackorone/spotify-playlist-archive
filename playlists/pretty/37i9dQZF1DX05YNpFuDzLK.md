@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  ©SUNRISE／PROJECT G\-ROZE　Character Design ©2006\-2024 CLAMP・ST
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,825 likes - 67 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,834 likes - 67 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

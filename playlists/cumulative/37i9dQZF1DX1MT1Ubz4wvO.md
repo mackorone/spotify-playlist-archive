@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de rock en español, con Los Chivatos en portada.
 
-4,528 songs - 10 day 21 hr 18 min
+4,529 songs - 10 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3092,6 +3092,7 @@
 | [P\*\#% Cantautor](https://open.spotify.com/track/5vEE3mNVCgHvcFH9nI4TgU) | [Se ha perdido un niño](https://open.spotify.com/artist/3hBFtHSUfUl6qa3NdDnUbL) | [P\*\#% Cantautor](https://open.spotify.com/album/27OhREemhxU6SiqOPON0mP) | 3:12 | 2023-01-13 | 2023-01-28 |
 | [p0pper](https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [p0pper](https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl) | 3:33 | 2023-07-14 | 2023-07-29 |
 | [Pa Dejar De Llorar](https://open.spotify.com/track/5HI7zJXTbzmdDWFKGoLd10) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Pa Dejar De Llorar](https://open.spotify.com/album/0ixNq8XR5HMljAon2Uu08U) | 3:11 | 2023-12-01 | 2023-12-23 |
+| [Paciencia](https://open.spotify.com/track/5D49CFF1HvSiOGsfw6aOuq) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Paciencia](https://open.spotify.com/album/3fwWKqyqgDWK65wDJ5bD7z) | 5:15 | 2025-07-18 |  |
 | [Pacto](https://open.spotify.com/track/2b1oQoFENaMpI0rB3wqs26) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Pacto](https://open.spotify.com/album/2Pd0XykNsGJq2ggeAik68R) | 3:03 | 2024-12-06 | 2024-12-21 |
 | [Pacto](https://open.spotify.com/track/7uBJxSYbjr8ivkLdoWP6v7) | [Santiago En La Guitarra](https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV) | [Todos Mis Santos](https://open.spotify.com/album/0TB0VRQP5qs2HZArNGU5kt) | 2:51 | 2022-06-24 | 2022-07-02 |
 | [Pacto de Dos](https://open.spotify.com/track/1W5K6dsQUSeNrDdIEhGtpX) | [Costa Felina](https://open.spotify.com/artist/742Og7D5C7u1USoNJHNiOT) | [Pacto de Dos](https://open.spotify.com/album/2guNvknJd7h8OUys2Rub0U) | 3:53 | 2025-04-04 | 2025-04-12 |

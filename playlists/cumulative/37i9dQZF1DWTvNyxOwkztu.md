@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-326 songs - 18 hr 0 min
+328 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-10-07 |  |
 | [Cynnes](https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Cynnes](https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4) | 5:24 | 2023-04-14 | 2025-04-09 |
 | [Dance In The Sunlight](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 | 2025-03-28 |  |
-| [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 | 2023-02-17 |  |
+| [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 | 2023-02-17 | 2025-07-21 |
 | [Daylight](https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [Daylight](https://open.spotify.com/album/3MEbVJqtzpPpayuDN4zq8G) | 2:32 | 2021-12-09 | 2023-03-15 |
 | [Daylight](https://open.spotify.com/track/7GmDdBXzfYeAVyJYLY6jIj) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [Daylight](https://open.spotify.com/album/1IhOWa7QWhUGCX3Okplir7) | 2:32 | 2023-02-17 | 2024-04-19 |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2021-12-09 | 2023-04-27 |
@@ -271,7 +271,8 @@
 | [Sueño Lúcido](https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Sueño Lúcido](https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD) | 4:05 | 2021-12-09 | 2025-05-30 |
 | [Summer Vibe](https://open.spotify.com/track/1s7MlV77vmjAHqzVq60Vfd) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [Everything Shines](https://open.spotify.com/album/3eXCBTg64X3AuakWQGuQ7Y) | 2:59 | 2021-12-09 | 2022-02-27 |
 | [Sun Goes Down](https://open.spotify.com/track/0J8wOtwMFkHrSYqPv28Irw) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Sun Goes Down](https://open.spotify.com/album/3LZ18ndeOi2BU2ZTZNXZya) | 2:28 | 2024-09-13 |  |
-| [Sun Road](https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Sun Road](https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa) | 3:14 | 2021-12-09 |  |
+| [Sun Road](https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Sun Road](https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa) | 3:14 | 2021-12-09 | 2025-07-21 |
+| [Sun Went Down, Sky Went Dark](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Senes](https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1) | [Sun Went Down, Sky Went Dark](https://open.spotify.com/album/2d8InkYS054gRrEkp64rH0) | 4:12 | 2025-07-18 |  |
 | [Sundown](https://open.spotify.com/track/07GHJiyxs9nbOUXuo33DEp) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Sundown](https://open.spotify.com/album/56WWOnVnKXVIPOww1TGvk0) | 2:29 | 2022-06-02 | 2023-09-14 |
 | [Sundown](https://open.spotify.com/track/5XIUgxFkVbv2ckJiLUbGlb) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Sundown](https://open.spotify.com/album/2AJg6YLd8FMwIyQbClExND) | 2:29 | 2021-12-09 | 2022-07-29 |
 | [Sunny Cruisin](https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo) | [Marcos Berretini](https://open.spotify.com/artist/5JmI54Dii7SFTo2b5VGJDl) | [Sunny Cruisin](https://open.spotify.com/album/7pAD2HJ6Q0SDx7HNwBcgRw) | 2:40 | 2021-12-09 | 2024-09-07 |
@@ -302,6 +303,7 @@
 | [Title Theme](https://open.spotify.com/track/4g2rGutKnnY43ubOC121U7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Title Theme](https://open.spotify.com/album/53MsfZ6E3jwugaw5JXC8Fi) | 2:36 | 2022-02-26 | 2023-01-14 |
 | [Toybox](https://open.spotify.com/track/5eZp105lnwsIkLpdGfSLn7) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Toybox](https://open.spotify.com/album/5oGhsKmDJgrgdkLI2SQV5s) | 3:41 | 2023-09-13 | 2025-05-26 |
 | [Trouble Symphony](https://open.spotify.com/track/6hu6bSo7Vsu4iv1zKvlCxJ) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Trouble Symphony](https://open.spotify.com/album/61bRPKGMbA5rsNOZAdmLos) | 3:56 | 2025-06-06 | 2025-07-04 |
+| [Un Idiota \- Te Perdí](https://open.spotify.com/track/1oe42GaLCuxepZNDc6Hl27) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Un Idiota \(Te Perdí\)](https://open.spotify.com/album/2790I5a0CbIcGf9HBnJ6UF) | 5:00 | 2025-07-18 |  |
 | [Under Water](https://open.spotify.com/track/0Oq4dCN4vvEVGX6T0XQ7Ge) | [Lightcore](https://open.spotify.com/artist/4AlA8vTiQdHHCKVBMJKHBg) | [Under Water](https://open.spotify.com/album/2lNccIpLWGysgBFlZWNQdL) | 2:42 | 2021-12-09 | 2022-04-20 |
 | [Unfading](https://open.spotify.com/track/0ZnpSil0JjchG4yAuPGqkE) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Unfading](https://open.spotify.com/album/37wVWvWgPPCoZUlgpJ9Z06) | 2:42 | 2021-12-09 | 2023-02-17 |
 | [Unhappy Alien](https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ) | [Not Tudor](https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ) | [Unhappy Alien](https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx) | 3:18 | 2021-12-09 | 2025-06-12 |

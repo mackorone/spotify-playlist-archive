@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,338 likes - 75 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,402 likes - 75 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 8 | [Praise With Everything \- Live](https://open.spotify.com/track/1O3NkK3h81fmNyW40GpUof) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Praise With Everything \(Live\)](https://open.spotify.com/album/38QL3vikchBG5Kl8fT7xvF) | 2:34 |
 | 9 | [King of Hope \- Live](https://open.spotify.com/track/2XM16UZkkpJXSdEyQr2vUC) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Michael Shannon](https://open.spotify.com/artist/72uWvSo9H7FQfhYQKbUEoc) | [Adonai \(Live\)](https://open.spotify.com/album/5YXQ5nfIxN1jy7PDi9AGHk) | 5:04 |
 | 10 | [Our God Reigns \(feat\. Andy Cherry\)](https://open.spotify.com/track/1omrgVKcei9xRK1j8OMCob) | [Seacoast](https://open.spotify.com/artist/0x6XZndsBaAe2jNT5j3VHv), [Andy Cherry](https://open.spotify.com/artist/67xUi7je7BPGgGdem8oycN) | [Our God Reigns \(feat\. Andy Cherry\)](https://open.spotify.com/album/3YI2W6fUmtBitgBgTEd2Yk) | 3:47 |
-| 11 | [Dying To Be Different](https://open.spotify.com/track/05y8D3zdTeBjo8t0aVh4kx) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Dying To Be Different](https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn) | 4:27 |
+| 11 | [Dying To Be Different \- Live At VOUS, Miami, FL, 2025](https://open.spotify.com/track/05y8D3zdTeBjo8t0aVh4kx) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Dying To Be Different \(Live At VOUS, Miami, FL, 2025\)](https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn) | 4:27 |
 | 12 | [1,000,000 Reasons Why](https://open.spotify.com/track/30ENhWMCzVNC0aaVW7gaHu) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [King Of Hearts \(Full Deck Deluxe\)](https://open.spotify.com/album/58h0AZmXG7bYxk7gBxIWu0) | 3:22 |
 | 13 | [Wait](https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Wait / Praise The Giver](https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i) | 4:08 |
 | 14 | [Turn It To Praise](https://open.spotify.com/track/0DRZQ0wN33seQSZ5jMZiTV) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Turn It To Praise](https://open.spotify.com/album/1GaWOIysmcn2IuwFQJ4qxM) | 3:38 |

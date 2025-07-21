@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 21011,
+  "num_followers": 21022,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHmOgAAAAAACJYRKYYdjLakg6fl0UPF7",
+  "snapshot_id": "aHrgAAAAAABhASyz8c+KgLJEuwUCtP0q",
   "tracks": [
     {
       "added_at": null,
@@ -691,26 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chitty Bang",
-        "url": "https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA"
+        "name": "OH SHIT!!!",
+        "url": "https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G"
       },
       "artists": [
         {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        },
+        {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Devin The Dude",
-          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
-        },
-        {
-          "name": "Jarren Benton",
-          "url": "https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Chitty Bang",
-      "url": "https://open.spotify.com/track/14EUifm44d6gODebTIEDSn"
+      "duration_ms": 185907,
+      "name": "OH SHIT!!!",
+      "url": "https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl"
     },
     {
       "added_at": null,
@@ -743,6 +739,30 @@
       "duration_ms": 211453,
       "name": "Pookie Baby",
       "url": "https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chitty Bang",
+        "url": "https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Devin The Dude",
+          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "name": "Jarren Benton",
+          "url": "https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Chitty Bang",
+      "url": "https://open.spotify.com/track/14EUifm44d6gODebTIEDSn"
     },
     {
       "added_at": null,
@@ -875,26 +895,6 @@
       "duration_ms": 176920,
       "name": "Farout",
       "url": "https://open.spotify.com/track/11yDV9YCkT5hyKVc0L5Vfp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OH SHIT!!!",
-        "url": "https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G"
-      },
-      "artists": [
-        {
-          "name": "SonReal",
-          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
-        },
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 185907,
-      "name": "OH SHIT!!!",
-      "url": "https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl"
     }
   ],
   "unique_name": "This Is Prof",

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Prince Narula
 
-670 songs - 1 day 7 hr 54 min
+671 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [12 Bore](https://open.spotify.com/track/4spabAzmxykhdHZtRPdfiS) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Dev Kharoud](https://open.spotify.com/artist/7GXtuySBAajVFEGLUSoo3w), [Jhindi](https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2) | [12 Bore](https://open.spotify.com/album/1lqgmn4bJ72l60zfJxN9mJ) | 2:21 | 2025-04-01 | 2025-06-21 |
 | [2 Asle](https://open.spotify.com/track/04HHJusZHgMuj9JJCe6SQa) | [Hukam virk](https://open.spotify.com/artist/0ZFpNMlmyWUl3KBhF5PAig), [Ritu Jass](https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D) | [2 Asle](https://open.spotify.com/album/2jByVY0MXtcSypW0WBv0Ye) | 2:50 | 2024-10-07 | 2024-11-15 |
 | [2 Jhotte](https://open.spotify.com/track/0DxBL4xyFvChXhx5sDcspR) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC), [The Kidd](https://open.spotify.com/artist/6yeA7sj0onAAn0VdyioVKk) | [2 Jhotte](https://open.spotify.com/album/1vBYyrYGVD6wJgYGwcTWNV) | 2:38 | 2023-07-12 | 2024-01-13 |
-| [2 Laddu](https://open.spotify.com/track/5Oid6aCbUPTy76zvd1dlWU) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f), [Love Jeet Singh Bhullar](https://open.spotify.com/artist/0pEvJdl0b4YNdMRYiQPBvg) | [2 Laddu](https://open.spotify.com/album/0yrLfypjYX9RTOrZHQBnbd) | 3:15 | 2024-08-09 |  |
+| [2 Laddu](https://open.spotify.com/track/5Oid6aCbUPTy76zvd1dlWU) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f), [Love Jeet Singh Bhullar](https://open.spotify.com/artist/0pEvJdl0b4YNdMRYiQPBvg) | [2 Laddu](https://open.spotify.com/album/0yrLfypjYX9RTOrZHQBnbd) | 3:15 | 2024-08-09 | 2025-07-21 |
 | [2 Number](https://open.spotify.com/track/1CcrisvtZrXmRgVhCFAmhX) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 2:58 | 2023-10-25 |  |
 | [21 Saal](https://open.spotify.com/track/4Wjifq4eFqE1LUNHXuhIzH) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Sikander Singh Kahlon](https://open.spotify.com/artist/2Sl26txhr9sJKbPNX7dKqz), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [21 Saal](https://open.spotify.com/album/2HC11f2TtP2lVlDqxXCw9I) | 2:50 | 2023-06-23 | 2023-08-04 |
 | [21.40](https://open.spotify.com/track/3RxgyMMWqA1MbZhngped0o) | [Gagan Kooner](https://open.spotify.com/artist/04zsOadyaRBqhi2d1nKGUe) | [21.40](https://open.spotify.com/album/5KFS1SjWYx0LqDLiKl7Adr) | 2:35 | 2025-06-12 | 2025-07-11 |
@@ -638,6 +638,7 @@
 | [Vibe](https://open.spotify.com/track/2jg12Hm0uoAdSDj6TpjII2) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC), [Sruishty Maan](https://open.spotify.com/artist/4eyp9UE4jjQVgBFai1AQqz) | [Vibe](https://open.spotify.com/album/39TgDdcNT7Bp5VAekbTFut) | 2:44 | 2023-07-04 | 2024-08-15 |
 | [Vibe](https://open.spotify.com/track/50i8NXAygiZBfZb92m8ssD) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Vibe](https://open.spotify.com/album/0iFzZFYfOGwar3n7MRvDEn) | 2:20 | 2024-09-03 |  |
 | [Victory](https://open.spotify.com/track/7pNO4tDG13Ujd1sCVNQO8J) | [Gurwaris Sandhu](https://open.spotify.com/artist/1AlgYxdLYq9ZVUtJdPlTHY), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Victory](https://open.spotify.com/album/2nLdgD2HubB4beOQkN7gmb) | 2:39 | 2025-04-23 | 2025-05-24 |
+| [Village Flow](https://open.spotify.com/track/7DcrIMUoIyaxIQ05jbE4zQ) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [JayB Singh](https://open.spotify.com/artist/4vUKfkjBUKZ1tzoHG89X8b) | [Village Flow](https://open.spotify.com/album/7bySaar4oQhsod5QaZrjvV) | 2:47 | 2025-07-20 |  |
 | [Violence](https://open.spotify.com/track/5eUZPftNEXKMin9Evi5aJq) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Violence](https://open.spotify.com/album/5Yo740RpqOBrqJwuaeByNY) | 2:26 | 2023-03-29 | 2024-08-14 |
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-29 | 2023-04-21 |
 | [Waaka](https://open.spotify.com/track/2TQWYINUwDQnKwNwweCL6A) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Waaka](https://open.spotify.com/album/1ae98eyinEiWmkEJzGhhE9) | 2:17 | 2023-05-05 | 2024-08-15 |

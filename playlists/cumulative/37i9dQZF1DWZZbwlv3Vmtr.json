@@ -594,7 +594,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 122112,
       "name": "all of that",
       "url": "https://open.spotify.com/track/2ctRPTyX78jlF3Q52AdjhZ"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 127582,
       "name": "autumn shower",
       "url": "https://open.spotify.com/track/4yiIIKKdTC0mvONGjX3BW2"
@@ -1570,6 +1570,24 @@
       "duration_ms": 138857,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4hE1uYOJZy6UPe1mTGQBhK"
+    },
+    {
+      "album": {
+        "name": "blossom",
+        "url": "https://open.spotify.com/album/0ChbU1iWgoZM4TL1HGvt3g"
+      },
+      "artists": [
+        {
+          "name": "les marais",
+          "url": "https://open.spotify.com/artist/5kPiI5sB5mBDOcbFyoEUng"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125053,
+      "name": "blossom",
+      "url": "https://open.spotify.com/track/3ZDVwXqG26wkA81iJFjAvn"
     },
     {
       "album": {
@@ -10644,7 +10662,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 120375,
       "name": "Mysteries",
       "url": "https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG"
@@ -11220,6 +11238,24 @@
       "duration_ms": 161860,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6j6ZILBUn4Db0eC8dwSpxg"
+    },
+    {
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/2hKhopiwAgInqOfssrBRvc"
+      },
+      "artists": [
+        {
+          "name": "heirloom",
+          "url": "https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/1LI40k1h6Z4MnrkCBbUkY9"
     },
     {
       "album": {
@@ -12970,6 +13006,28 @@
       "duration_ms": 180000,
       "name": "quarantine blues",
       "url": "https://open.spotify.com/track/5OqQA1I96jy9HrawfMBV3a"
+    },
+    {
+      "album": {
+        "name": "Quicksilver",
+        "url": "https://open.spotify.com/album/3JCjosZ0eIJ9Gr1HE7hhBB"
+      },
+      "artists": [
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        },
+        {
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105565,
+      "name": "Quicksilver",
+      "url": "https://open.spotify.com/track/54ckMlZ8KZy4WhYJdgNqQ6"
     },
     {
       "album": {

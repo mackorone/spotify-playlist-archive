@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre 📸 Estelares.
 
-405 songs - 1 day 1 hr 6 min
+406 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Otra Mujer](https://open.spotify.com/track/3mUo4j1R22tJQdwPxENW8P) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Otra Mujer](https://open.spotify.com/album/7hSj4klGfJyqPnzwd4zmia) | 2:22 | 2023-06-16 | 2023-10-27 |
 | [Otra Ruta Desierta](https://open.spotify.com/track/5KNp5cdwR9buN93aPQMjcD) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Otra Ruta Desierta](https://open.spotify.com/album/3Hf6g8dV0gq91YHfYaly9G) | 3:15 | 2022-12-16 | 2023-06-10 |
 | [Otras Puertas Otros Mundos](https://open.spotify.com/track/39p5pfqX8AJlnmI1jw2dzF) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Otras Puertas Otros Mundos](https://open.spotify.com/album/2HBWXCLzuLDicoGfgksBJv) | 2:28 | 2022-06-24 | 2023-06-03 |
+| [Paciencia](https://open.spotify.com/track/5D49CFF1HvSiOGsfw6aOuq) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Paciencia](https://open.spotify.com/album/3fwWKqyqgDWK65wDJ5bD7z) | 5:15 | 2025-07-18 |  |
 | [Pacífico](https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ritual Piojoso \(En Vivo en River Plate\)](https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6) | 4:44 | 2024-05-31 |  |
 | [Paradoja](https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 2:59 | 2022-06-24 | 2024-12-28 |
 | [Parte de Mi](https://open.spotify.com/track/0ZJWq3iEMoEDBzBDzQPIrg) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Parte de Mi](https://open.spotify.com/album/2nTApfwPQa8Z6oIq8hD0Z7) | 3:45 | 2025-03-07 |  |

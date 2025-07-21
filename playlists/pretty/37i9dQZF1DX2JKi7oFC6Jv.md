@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,037 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,048 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 54 | [Funky Flex vs Pulse](https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Funky Flex vs Pulse](https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf) | 6:01 |
 | 55 | [One More Dance \(Crazy Cousinz Mix \- Crazy Cousinz\)](https://open.spotify.com/track/1ScCS3o6A1PnFMJuwAysdI) | [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [One More Dance](https://open.spotify.com/album/0dtUARWA1xg637IQdo4BNl) | 3:21 |
 | 56 | [Broken Record \- Geeneus Funky Mix](https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [DJ Geeneus](https://open.spotify.com/artist/1EpP6PGFVKJW9gbcnDy8co) | [Broken Record Remixes](https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG) | 5:33 |
-| 57 | [Yellowtail](https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC) | [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:40 |
-| 58 | [BLU Magic](https://open.spotify.com/track/0bb0cpCDq6RA2Zo4ayZEC2) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [BLU Magic](https://open.spotify.com/album/2Q7u7JQY2zLUZN54Lbq2VG) | 4:50 |
+| 57 | [BLU Magic](https://open.spotify.com/track/0bb0cpCDq6RA2Zo4ayZEC2) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [BLU Magic](https://open.spotify.com/album/2Q7u7JQY2zLUZN54Lbq2VG) | 4:50 |
+| 58 | [Yellowtail](https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC) | [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:40 |
 | 59 | [Elevator](https://open.spotify.com/track/2BNztHs4pufXHi2YY6s0mn) | [Seiji](https://open.spotify.com/artist/6XwHEDOkZpFRqtZDXLYHlK) | [Seiji 1](https://open.spotify.com/album/4Ln7xUPsqJ2JsI0uaiyGm6) | 4:18 |
 | 60 | [Happy \- DJ Pioneer & TJ Remix](https://open.spotify.com/track/0gkXurU0Fwo8F60ImiYEgy) | [Big Zeeks](https://open.spotify.com/artist/1Vu6ENs1kZxIXu3AVsPfxz), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [DJ Pioneer](https://open.spotify.com/artist/1xReU0l2uJ5gyEwlL1XK0r), [TJ](https://open.spotify.com/artist/402vsCqDi4qYr2WtOhv2Up) | [Happy \(The Remixes\)](https://open.spotify.com/album/1hlFyAtaLjgU2VaEUE3xiA) | 2:59 |
 

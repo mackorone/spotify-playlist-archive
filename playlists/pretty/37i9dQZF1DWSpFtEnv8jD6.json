@@ -739,22 +739,6 @@
     {
       "added_at": "2025-07-14 12:05:10",
       "album": {
-        "name": "Teardrop",
-        "url": "https://open.spotify.com/album/3zOyxQ0GuRrMXDAeOSviEW"
-      },
-      "artists": [
-        {
-          "name": "BOKKA",
-          "url": "https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3"
-        }
-      ],
-      "duration_ms": 247285,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/0SW9AngyutPHZOOqU5gT8H"
-    },
-    {
-      "added_at": "2025-07-14 12:05:10",
-      "album": {
         "name": "Polish Pop",
         "url": "https://open.spotify.com/album/4ybxOiKb5bm8kCfKA4QziA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 218960,
       "name": "Moje serce to jest muzyk",
       "url": "https://open.spotify.com/track/1Pjj0ncZd9hEVb5gQjZsgB"
+    },
+    {
+      "added_at": "2025-07-14 12:05:10",
+      "album": {
+        "name": "Teardrop",
+        "url": "https://open.spotify.com/album/3zOyxQ0GuRrMXDAeOSviEW"
+      },
+      "artists": [
+        {
+          "name": "BOKKA",
+          "url": "https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3"
+        }
+      ],
+      "duration_ms": 247285,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/0SW9AngyutPHZOOqU5gT8H"
     },
     {
       "added_at": "2025-07-14 12:05:10",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2025-07-14 12:05:10",
       "album": {
-        "name": "smutna planeta",
-        "url": "https://open.spotify.com/album/6NyE88EDc9nrPUrcAdCY9d"
+        "name": "Dziury w podszewce",
+        "url": "https://open.spotify.com/album/0yWS57gt9TUJfzPIvOAaqv"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "micha\u0142 od ko\u015bci",
+          "url": "https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI"
+        },
+        {
+          "name": "Czarny HIFI",
+          "url": "https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb"
         }
       ],
-      "duration_ms": 179791,
-      "name": "smutna planeta",
-      "url": "https://open.spotify.com/track/66l8hZa57KPWu86MtgfToD"
+      "duration_ms": 166610,
+      "name": "Dziury w podszewce",
+      "url": "https://open.spotify.com/track/3DfCrSUFyk2D756yDFjLGK"
     },
     {
       "added_at": "2025-07-14 12:05:10",
@@ -1099,22 +1103,18 @@
     {
       "added_at": "2025-07-14 12:05:10",
       "album": {
-        "name": "Dziury w podszewce",
-        "url": "https://open.spotify.com/album/0yWS57gt9TUJfzPIvOAaqv"
+        "name": "smutna planeta",
+        "url": "https://open.spotify.com/album/6NyE88EDc9nrPUrcAdCY9d"
       },
       "artists": [
         {
-          "name": "micha\u0142 od ko\u015bci",
-          "url": "https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI"
-        },
-        {
-          "name": "Czarny HIFI",
-          "url": "https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 166610,
-      "name": "Dziury w podszewce",
-      "url": "https://open.spotify.com/track/3DfCrSUFyk2D756yDFjLGK"
+      "duration_ms": 179791,
+      "name": "smutna planeta",
+      "url": "https://open.spotify.com/track/66l8hZa57KPWu86MtgfToD"
     },
     {
       "added_at": "2025-07-14 12:05:10",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-07-14 12:05:10",
       "album": {
-        "name": "Maruda",
-        "url": "https://open.spotify.com/album/2772Re23rT4sNMQQAlwNCF"
-      },
-      "artists": [
-        {
-          "name": "Mlecze",
-          "url": "https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Wianek",
-      "url": "https://open.spotify.com/track/2SYG7hUPs2GqVWy4LDjhLH"
-    },
-    {
-      "added_at": "2025-07-14 12:05:10",
-      "album": {
         "name": "LU\u0179NA KMINA",
         "url": "https://open.spotify.com/album/6wGIqANbegbPlTgP2pIAKF"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 165000,
       "name": "SKLEJAM TA\u015aM\u0104 TWARZ",
       "url": "https://open.spotify.com/track/3NSicGOKjuPgUiOxWELBtj"
+    },
+    {
+      "added_at": "2025-07-14 12:05:10",
+      "album": {
+        "name": "Maruda",
+        "url": "https://open.spotify.com/album/2772Re23rT4sNMQQAlwNCF"
+      },
+      "artists": [
+        {
+          "name": "Mlecze",
+          "url": "https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Wianek",
+      "url": "https://open.spotify.com/track/2SYG7hUPs2GqVWy4LDjhLH"
     },
     {
       "added_at": "2025-07-14 12:05:10",
@@ -1879,38 +1879,6 @@
     {
       "added_at": "2025-07-14 12:05:10",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2025-07-14 12:05:10",
-      "album": {
-        "name": "Konwulsanki",
-        "url": "https://open.spotify.com/album/4F4xYNRBAOR5fTfZeRRuLF"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00f3l\u00f3wczana Smuga",
-          "url": "https://open.spotify.com/artist/0slWwRQ4qBXOl64cq4Wzbd"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Alkochochlik",
-      "url": "https://open.spotify.com/track/6aRb0RtcQoc1mPJ1C4ef1w"
-    },
-    {
-      "added_at": "2025-07-14 12:05:10",
-      "album": {
         "name": "Nie by\u0142o \u017ale",
         "url": "https://open.spotify.com/album/27pwhbLxg3mslINMEudf6W"
       },
@@ -1931,6 +1899,22 @@
     {
       "added_at": "2025-07-14 12:05:10",
       "album": {
+        "name": "Konwulsanki",
+        "url": "https://open.spotify.com/album/4F4xYNRBAOR5fTfZeRRuLF"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00f3l\u00f3wczana Smuga",
+          "url": "https://open.spotify.com/artist/0slWwRQ4qBXOl64cq4Wzbd"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Alkochochlik",
+      "url": "https://open.spotify.com/track/6aRb0RtcQoc1mPJ1C4ef1w"
+    },
+    {
+      "added_at": "2025-07-14 12:05:10",
+      "album": {
         "name": "Przepraszam",
         "url": "https://open.spotify.com/album/4eeJclyITyN6MHd0roeaI4"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 108597,
       "name": "ZA CO",
       "url": "https://open.spotify.com/track/51PbxugSerR5sKvmShKnmF"
+    },
+    {
+      "added_at": "2025-07-14 12:05:10",
+      "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2025-07-14 12:05:10",
@@ -1999,18 +1999,26 @@
     {
       "added_at": "2025-07-14 12:05:10",
       "album": {
-        "name": "Ptaki Polski",
-        "url": "https://open.spotify.com/album/5B8ksR8qWrDCAmpMogjN5P"
+        "name": "Grymas",
+        "url": "https://open.spotify.com/album/2iPOP7NT9IX1HEFhvqdREY"
       },
       "artists": [
         {
-          "name": "Ptaki Polski",
-          "url": "https://open.spotify.com/artist/3qimtV6OxTP2LjexWmq88D"
+          "name": "mimikyu",
+          "url": "https://open.spotify.com/artist/13oSIaWO38a4nof0RhZEh4"
+        },
+        {
+          "name": "Dj Twister",
+          "url": "https://open.spotify.com/artist/4PDd9lIFYQfB1SZ5K1SH2u"
+        },
+        {
+          "name": "Prawy J",
+          "url": "https://open.spotify.com/artist/3k6Cx7BMoCkgDn6hE6oMxn"
         }
       ],
-      "duration_ms": 347580,
-      "name": "Strzy\u017cyk",
-      "url": "https://open.spotify.com/track/0IZXlIOA4eiKfBSZZxsCI8"
+      "duration_ms": 266385,
+      "name": "Rozgrzane Chodniki",
+      "url": "https://open.spotify.com/track/54wGDPrTRPISrpivPpVib7"
     },
     {
       "added_at": "2025-07-14 12:05:10",
@@ -2035,26 +2043,18 @@
     {
       "added_at": "2025-07-14 12:05:10",
       "album": {
-        "name": "Grymas",
-        "url": "https://open.spotify.com/album/2iPOP7NT9IX1HEFhvqdREY"
+        "name": "Ptaki Polski",
+        "url": "https://open.spotify.com/album/5B8ksR8qWrDCAmpMogjN5P"
       },
       "artists": [
         {
-          "name": "mimikyu",
-          "url": "https://open.spotify.com/artist/13oSIaWO38a4nof0RhZEh4"
-        },
-        {
-          "name": "Dj Twister",
-          "url": "https://open.spotify.com/artist/4PDd9lIFYQfB1SZ5K1SH2u"
-        },
-        {
-          "name": "Prawy J",
-          "url": "https://open.spotify.com/artist/3k6Cx7BMoCkgDn6hE6oMxn"
+          "name": "Ptaki Polski",
+          "url": "https://open.spotify.com/artist/3qimtV6OxTP2LjexWmq88D"
         }
       ],
-      "duration_ms": 266385,
-      "name": "Rozgrzane Chodniki",
-      "url": "https://open.spotify.com/track/54wGDPrTRPISrpivPpVib7"
+      "duration_ms": 347580,
+      "name": "Strzy\u017cyk",
+      "url": "https://open.spotify.com/track/0IZXlIOA4eiKfBSZZxsCI8"
     },
     {
       "added_at": "2025-07-14 12:05:10",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2025-07-14 12:05:10",
       "album": {
-        "name": "Harmony Attack",
-        "url": "https://open.spotify.com/album/5aki7fOUNGSsxD8BjdLiMK"
-      },
-      "artists": [
-        {
-          "name": "Newest Zealand",
-          "url": "https://open.spotify.com/artist/0Ks3WKQ64ZmWa3QkbbeCbj"
-        }
-      ],
-      "duration_ms": 189024,
-      "name": "Susan Mary",
-      "url": "https://open.spotify.com/track/6Oy0FXxczX0NCpDL5Ek4Sy"
-    },
-    {
-      "added_at": "2025-07-14 12:05:10",
-      "album": {
         "name": "MI\u0141O",
         "url": "https://open.spotify.com/album/3Pa1VBrNNzDujaZFWQgIrb"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 168083,
       "name": "ROBI\u0118 CO CHC\u0118",
       "url": "https://open.spotify.com/track/33sGXBthlr3X2B90Oq1yT9"
+    },
+    {
+      "added_at": "2025-07-14 12:05:10",
+      "album": {
+        "name": "Harmony Attack",
+        "url": "https://open.spotify.com/album/5aki7fOUNGSsxD8BjdLiMK"
+      },
+      "artists": [
+        {
+          "name": "Newest Zealand",
+          "url": "https://open.spotify.com/artist/0Ks3WKQ64ZmWa3QkbbeCbj"
+        }
+      ],
+      "duration_ms": 189024,
+      "name": "Susan Mary",
+      "url": "https://open.spotify.com/track/6Oy0FXxczX0NCpDL5Ek4Sy"
     },
     {
       "added_at": "2025-07-14 12:05:10",
@@ -2423,8 +2423,8 @@
     {
       "added_at": "2025-07-14 12:05:10",
       "album": {
-        "name": "Nie mam czasu",
-        "url": "https://open.spotify.com/album/3WIiYeCJkZhvhNHNG0meuG"
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/3RESOrhgeEBNjtGla5htuF"
       },
       "artists": [
         {
@@ -2432,9 +2432,9 @@
           "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
         }
       ],
-      "duration_ms": 138460,
-      "name": "Nie mam czasu",
-      "url": "https://open.spotify.com/track/1AdMVLsBmQdpLpDc78PlI3"
+      "duration_ms": 175395,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/4geeetUpB5S2g7AzrRU911"
     },
     {
       "added_at": "2025-07-14 12:05:10",
@@ -2503,8 +2503,8 @@
     {
       "added_at": "2025-07-14 12:05:10",
       "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/3RESOrhgeEBNjtGla5htuF"
+        "name": "Nie mam czasu",
+        "url": "https://open.spotify.com/album/3WIiYeCJkZhvhNHNG0meuG"
       },
       "artists": [
         {
@@ -2512,9 +2512,9 @@
           "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
         }
       ],
-      "duration_ms": 175395,
-      "name": "Reset",
-      "url": "https://open.spotify.com/track/4geeetUpB5S2g7AzrRU911"
+      "duration_ms": 138460,
+      "name": "Nie mam czasu",
+      "url": "https://open.spotify.com/track/1AdMVLsBmQdpLpDc78PlI3"
     },
     {
       "added_at": "2025-07-14 12:05:10",

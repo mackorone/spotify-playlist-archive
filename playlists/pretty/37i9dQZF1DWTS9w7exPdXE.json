@@ -1,6 +1,6 @@
 {
   "description": "Volkspop | Nederpop. Cover: Yves Berendse",
-  "num_followers": 147294,
+  "num_followers": 147428,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Spijt Is Voor Later",
-        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
-      },
-      "artists": [
-        {
-          "name": "Martin Morero",
-          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
-        }
-      ],
-      "duration_ms": 164573,
-      "name": "Spijt Is Voor Later",
-      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Vanavond (Uit M'n Bol)",
         "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 166560,
       "name": "Vanavond (Uit M'n Bol)",
       "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Spijt Is Voor Later",
+        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "duration_ms": 164573,
+      "name": "Spijt Is Voor Later",
+      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -355,26 +355,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        }
-      ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Bon Gepakt",
         "url": "https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY"
       },
@@ -395,18 +375,22 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Gewoon Andre",
-        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
       "artists": [
         {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 254266,
-      "name": "Een Beetje Verliefd",
-      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -439,6 +423,22 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
+        "name": "Gewoon Andre",
+        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Een Beetje Verliefd",
+      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
         "name": "Zo Ben Ik Mezelf",
         "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
       },
@@ -467,6 +467,26 @@
       "duration_ms": 185137,
       "name": "Jammer Dan",
       "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Frans Duits",
+        "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "duration_ms": 172881,
+      "name": "Frans Duits",
+      "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -539,42 +559,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Adem",
-        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Het Regent Zonnestralen",
-      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Frans Duits",
-        "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
-        }
-      ],
-      "duration_ms": 172881,
-      "name": "Frans Duits",
-      "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
@@ -595,6 +579,42 @@
       "duration_ms": 148467,
       "name": "Vluchtstrook",
       "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Schultenbr\u00e4u",
+        "url": "https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Chantal Janzen",
+          "url": "https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Schultenbr\u00e4u",
+      "url": "https://open.spotify.com/track/540BsMhL329p3KhB8ZZ7Ez"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Adem",
+        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Het Regent Zonnestralen",
+      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -715,22 +735,18 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Schultenbr\u00e4u",
-        "url": "https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
       },
       "artists": [
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Chantal Janzen",
-          "url": "https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn"
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Schultenbr\u00e4u",
-      "url": "https://open.spotify.com/track/540BsMhL329p3KhB8ZZ7Ez"
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -747,22 +763,6 @@
       "duration_ms": 241583,
       "name": "Zij Weet Het - Studio Versie",
       "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Vandaag",
-        "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
-      },
-      "artists": [
-        {
-          "name": "Nick & Simon",
-          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "Rosanne",
-      "url": "https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Gooi 'm Dicht",
         "url": "https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
+        "name": "Vandaag",
+        "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
+      },
+      "artists": [
+        {
+          "name": "Nick & Simon",
+          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "Rosanne",
+      "url": "https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
         "name": "Mij Niet Bellen",
         "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 161484,
       "name": "Mij Niet Bellen",
       "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "En Ik Droom",
-        "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
-      },
-      "artists": [
-        {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
-        }
-      ],
-      "duration_ms": 157569,
-      "name": "En Ik Droom",
-      "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
+        "name": "En Ik Droom",
+        "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
+      },
+      "artists": [
+        {
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
+        }
+      ],
+      "duration_ms": 157569,
+      "name": "En Ik Droom",
+      "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
         "name": "De nieuwe van....",
         "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 218880,
       "name": "Zwevend naar 't geluk",
       "url": "https://open.spotify.com/track/0DBCfqAcsiQAonBXMD50cA"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Dit Is Het Levenslied",
-        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 196484,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1099,34 +1083,18 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Hoe Kan Ik Je Hart Bereiken",
-        "url": "https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6"
+        "name": "Dit Is Het Levenslied",
+        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
       },
       "artists": [
         {
-          "name": "Diego Holzken",
-          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
         }
       ],
-      "duration_ms": 190946,
-      "name": "Hoe Kan Ik Je Hart Bereiken",
-      "url": "https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Voel Je Dan Niet?",
-        "url": "https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK"
-      },
-      "artists": [
-        {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
-        }
-      ],
-      "duration_ms": 180671,
-      "name": "Voel Je Dan Niet?",
-      "url": "https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA"
+      "duration_ms": 196484,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1151,6 +1119,22 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
+        "name": "Hoe Kan Ik Je Hart Bereiken",
+        "url": "https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6"
+      },
+      "artists": [
+        {
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Hoe Kan Ik Je Hart Bereiken",
+      "url": "https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
         "name": "Bieber Van De Kroeg",
         "url": "https://open.spotify.com/album/1uR0EX3KqVNwVGs5NJJbTQ"
       },
@@ -1167,22 +1151,6 @@
       "duration_ms": 186000,
       "name": "Bieber Van De Kroeg",
       "url": "https://open.spotify.com/track/5V2cXsvFE3VIQp5mYAi3Mn"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Gewoon Jannes",
-        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Adio Amore Adio",
-      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1211,6 +1179,22 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
+        "name": "Voel Je Dan Niet?",
+        "url": "https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK"
+      },
+      "artists": [
+        {
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
+        }
+      ],
+      "duration_ms": 180671,
+      "name": "Voel Je Dan Niet?",
+      "url": "https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
         "name": "Wesly Bronkhorst",
         "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 201786,
       "name": "Kom Allemaal Maar In Mijn Armen",
       "url": "https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Gewoon Jannes",
+        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Adio Amore Adio",
+      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1271,22 +1271,6 @@
       "duration_ms": 200224,
       "name": "Geen Twijfel",
       "url": "https://open.spotify.com/track/1F7igQIIMxVanRy8PtpIFh"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "De nieuwe van....",
-        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 308053,
-      "name": "Jannes hitmedley",
-      "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1355,6 +1339,22 @@
       "duration_ms": 190553,
       "name": "Mijn Stad",
       "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "De nieuwe van....",
+        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 308053,
+      "name": "Jannes hitmedley",
+      "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Echte Mannen",
-        "url": "https://open.spotify.com/album/7j19gpFj0fFgofGpzKBxIA"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 151923,
-      "name": "Echte Mannen",
-      "url": "https://open.spotify.com/track/4o9157hDlVkI3yB6VlftO2"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Bloedje Bloedje Heet",
-        "url": "https://open.spotify.com/album/4kmJHWSPd0ZxiZOXals4zi"
-      },
-      "artists": [
-        {
-          "name": "Rob Zorn",
-          "url": "https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8"
-        }
-      ],
-      "duration_ms": 234371,
-      "name": "Bloedje Bloedje Heet",
-      "url": "https://open.spotify.com/track/2lLJZ9cbx2Dp8cgfQTPkhy"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "10 Jaar (Mijn Grootste Hits Tot Nu Toe)",
         "url": "https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH"
       },
@@ -1623,6 +1591,22 @@
       "duration_ms": 230203,
       "name": "Ik Laat Je Nooit Meer Gaan",
       "url": "https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Echte Mannen",
+        "url": "https://open.spotify.com/album/7j19gpFj0fFgofGpzKBxIA"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 151923,
+      "name": "Echte Mannen",
+      "url": "https://open.spotify.com/track/4o9157hDlVkI3yB6VlftO2"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1643,6 +1627,22 @@
       "duration_ms": 159843,
       "name": "Nog Geen Si\u00ebsta",
       "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Bloedje Bloedje Heet",
+        "url": "https://open.spotify.com/album/4kmJHWSPd0ZxiZOXals4zi"
+      },
+      "artists": [
+        {
+          "name": "Rob Zorn",
+          "url": "https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8"
+        }
+      ],
+      "duration_ms": 234371,
+      "name": "Bloedje Bloedje Heet",
+      "url": "https://open.spotify.com/track/2lLJZ9cbx2Dp8cgfQTPkhy"
     },
     {
       "added_at": "2025-06-06 09:13:23",

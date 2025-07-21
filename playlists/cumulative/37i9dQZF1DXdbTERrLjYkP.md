@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Whitney Whitney
 
-903 songs - 2 day 0 hr 20 min
+904 songs - 2 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Horror Movie](https://open.spotify.com/track/5yi8gmYXgvCTJtivjMtKAp) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Horror Movie](https://open.spotify.com/album/6T60F9RIEtDiyj6xDeyelH) | 3:18 | 2025-04-18 |  |
 | [Hospitals](https://open.spotify.com/track/5UD6uQp41jdj91OgaTNYt6) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [How did I let this get so serious?](https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU) | 2:54 | 2025-04-04 | 2025-07-19 |
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-04-15 | 2022-09-03 |
+| [hot summer](https://open.spotify.com/track/3gR8omUbqmDU0l38K3CpHX) | [Molly Frances](https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh) | [hot summer](https://open.spotify.com/album/6Gu94XbWCmDBCbbsHJ3SdF) | 3:32 | 2025-07-21 |  |
 | [House of Cards](https://open.spotify.com/track/5lyA4FFfyi3c9bUhfFlLWe) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [House of Cards](https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4) | 3:07 | 2022-04-11 | 2022-08-13 |
 | [House Of Lies](https://open.spotify.com/track/2fDmoxD2vvCHj9XgR9wRJD) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [House Of Lies](https://open.spotify.com/album/4DwBDOqbVG4pgm7ON3X7E7) | 3:14 | 2024-01-26 | 2024-08-17 |
 | [House We Share](https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [House We Share](https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa) | 2:47 | 2022-10-07 | 2022-12-24 |
@@ -633,7 +634,7 @@
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2023-09-01 | 2024-01-20 |
 | [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 | 2023-02-24 | 2023-06-24 |
 | [Prophecies](https://open.spotify.com/track/4Et7m1pazErkSegnrBNXkF) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Poetic License](https://open.spotify.com/album/7G2Dh8OsAMclQAWIShyb7v) | 3:14 | 2022-12-02 | 2023-02-25 |
-| [Pure](https://open.spotify.com/track/2sab89Tv3lCK0sR23SAHUC) | [Adriana](https://open.spotify.com/artist/2h7JR7HbfDuNKibkk9GkDq) | [Pure](https://open.spotify.com/album/2H5w6jTvq5OCUI4w4Xt49a) | 3:07 | 2025-04-18 |  |
+| [Pure](https://open.spotify.com/track/2sab89Tv3lCK0sR23SAHUC) | [Adriana](https://open.spotify.com/artist/2h7JR7HbfDuNKibkk9GkDq) | [Pure](https://open.spotify.com/album/2H5w6jTvq5OCUI4w4Xt49a) | 3:07 | 2025-04-18 | 2025-07-21 |
 | [Queen of Hollywood](https://open.spotify.com/track/6gSA54ZcMahgDve60MlqJC) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Queen of Hollywood](https://open.spotify.com/album/1KqfJ8A0XHIPWmFxObJB49) | 4:56 | 2024-04-05 | 2024-05-25 |
 | [Quicksand](https://open.spotify.com/track/3lsMNvo9HDOK4YKXwbtWAu) | [Olivia Broadfield](https://open.spotify.com/artist/6PdwpyZMhQyBzwa70feMmM) | [The Split: Barcelona](https://open.spotify.com/album/619dyqE4hMunCbOeWwaerD) | 4:01 | 2025-01-03 | 2025-04-19 |
 | [rage](https://open.spotify.com/track/0Ed5MKGIAIMYiW86M7qumt) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [the girl next door](https://open.spotify.com/album/3MaPbB8htJFUCWQwUW0SjP) | 2:37 | 2022-04-22 | 2022-07-16 |

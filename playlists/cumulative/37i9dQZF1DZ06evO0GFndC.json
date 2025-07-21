@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Pura Manzanita Vol. 4",
+        "url": "https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178176,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/5mTYlT2tJUFXK9mmRaV1TN"
+    },
+    {
+      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -902,7 +920,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 219301,
       "name": "Mi C\u00edrculo Vicioso",
       "url": "https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS"
@@ -950,6 +968,24 @@
       "duration_ms": 143518,
       "name": "Nivel 6",
       "url": "https://open.spotify.com/track/4IT93xOoYImvzF5k4wDRJU"
+    },
+    {
+      "album": {
+        "name": "Pura Manzanita Vol. 4",
+        "url": "https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140373,
+      "name": "No Critican",
+      "url": "https://open.spotify.com/track/5JeUhEtXsRIo03h1LJ7DSn"
     },
     {
       "album": {
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-21",
       "duration_ms": 190544,
       "name": "Porte Fino - En Vivo",
       "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"

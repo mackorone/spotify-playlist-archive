@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Zaan Sonnekus",
-  "num_followers": 23916,
+  "num_followers": 23923,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-07-18 05:53:12",
       "album": {
-        "name": "Mint",
-        "url": "https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6"
-      },
-      "artists": [
-        {
-          "name": "Drumfish",
-          "url": "https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s"
-        }
-      ],
-      "duration_ms": 257157,
-      "name": "Mint",
-      "url": "https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi"
-    },
-    {
-      "added_at": "2025-07-18 05:53:12",
-      "album": {
         "name": "Another Universe",
         "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 214960,
       "name": "Another Universe",
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+    },
+    {
+      "added_at": "2025-07-18 05:53:12",
+      "album": {
+        "name": "Mint",
+        "url": "https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6"
+      },
+      "artists": [
+        {
+          "name": "Drumfish",
+          "url": "https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s"
+        }
+      ],
+      "duration_ms": 257157,
+      "name": "Mint",
+      "url": "https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi"
     },
     {
       "added_at": "2025-07-18 05:53:12",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-07-18 05:53:12",
       "album": {
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        }
+      ],
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
+    },
+    {
+      "added_at": "2025-07-18 05:53:12",
+      "album": {
         "name": "Empty Your Heart",
         "url": "https://open.spotify.com/album/1b5Ago18mBBceUUhj14Gx2"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2025-07-18 05:53:12",
       "album": {
-        "name": "Sonskyn Vrou",
-        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
-      },
-      "artists": [
-        {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
-        }
-      ],
-      "duration_ms": 266868,
-      "name": "Sonskyn Vrou",
-      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
-    },
-    {
-      "added_at": "2025-07-18 05:53:12",
-      "album": {
         "name": "Victor Ludorum",
         "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-07-18 05:53:12",
       "album": {
-        "name": "cobra~",
-        "url": "https://open.spotify.com/album/0q4Q3myGcOhUfGYveoXcb5"
-      },
-      "artists": [
-        {
-          "name": "Corbon Amodio",
-          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
-        }
-      ],
-      "duration_ms": 100173,
-      "name": "cobra~",
-      "url": "https://open.spotify.com/track/1fdQEQM1LHmTgScM6qf9XC"
-    },
-    {
-      "added_at": "2025-07-18 05:53:12",
-      "album": {
         "name": "AfterlifeSatisfaction",
         "url": "https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 282973,
       "name": "Genie",
       "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
+    },
+    {
+      "added_at": "2025-07-18 05:53:12",
+      "album": {
+        "name": "cobra~",
+        "url": "https://open.spotify.com/album/0q4Q3myGcOhUfGYveoXcb5"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "duration_ms": 100173,
+      "name": "cobra~",
+      "url": "https://open.spotify.com/track/1fdQEQM1LHmTgScM6qf9XC"
     },
     {
       "added_at": "2025-07-18 05:53:12",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-07-18 05:53:12",
       "album": {
-        "name": "Ware Noord",
-        "url": "https://open.spotify.com/album/1BGCuXGsGwL6f2QjhpwnO2"
+        "name": "96-03 The Singles",
+        "url": "https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO"
       },
       "artists": [
         {
-          "name": "Elvis Blue",
-          "url": "https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ"
+          "name": "Henry Ate",
+          "url": "https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn"
         }
       ],
-      "duration_ms": 216723,
-      "name": "Ware Noord",
-      "url": "https://open.spotify.com/track/0Q5EE4R2qjXN0DBARGGxUk"
+      "duration_ms": 193986,
+      "name": "Hey Mister",
+      "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
     }
   ],
   "unique_name": "SA Rock ",

@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 318598,
+  "num_followers": 318623,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Ways To Get Out (Deluxe)",
+        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Come Down and Waste With Me",
+      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Quite Like You",
         "url": "https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 196985,
       "name": "De ma Tour",
       "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Ways To Get Out (Deluxe)",
-        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Come Down and Waste With Me",
-      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -827,38 +827,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Face Down In The Garden",
-        "url": "https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 252593,
-      "name": "12 Blown Tires",
-      "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Two Vines",
-        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "There\u2019s No Need",
-      "url": "https://open.spotify.com/track/27gswQEl27hwpnwfiTyjN7"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Falling Apart Without You",
         "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
       },
@@ -875,50 +843,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Triple Seven",
-        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
+        "name": "Face Down In The Garden",
+        "url": "https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq"
       },
       "artists": [
         {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
         }
       ],
-      "duration_ms": 278493,
-      "name": "Little While",
-      "url": "https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Gloomy Girl",
-        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Gloomy Girl",
-      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "all that heaven allows",
-        "url": "https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI"
-      },
-      "artists": [
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 215897,
-      "name": "nightingale",
-      "url": "https://open.spotify.com/track/6ihhpKNXWZunLWGrctUMbq"
+      "duration_ms": 252593,
+      "name": "12 Blown Tires",
+      "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -939,6 +875,54 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Two Vines",
+        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "There\u2019s No Need",
+      "url": "https://open.spotify.com/track/27gswQEl27hwpnwfiTyjN7"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Gloomy Girl",
+        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Gloomy Girl",
+      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Little While",
+      "url": "https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 289800,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "all that heaven allows",
+        "url": "https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 215897,
+      "name": "nightingale",
+      "url": "https://open.spotify.com/track/6ihhpKNXWZunLWGrctUMbq"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 242515,
+      "name": "Haunt You Still",
+      "url": "https://open.spotify.com/track/7hLYnfqZ8IlIMxjdTkRFxO"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "George Clanton and Nick Hexum",
         "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 188560,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 242515,
-      "name": "Haunt You Still",
-      "url": "https://open.spotify.com/track/7hLYnfqZ8IlIMxjdTkRFxO"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "10K",
-        "url": "https://open.spotify.com/album/1ZxFEadir98g6i0K9adLim"
-      },
-      "artists": [
-        {
-          "name": "Sunken",
-          "url": "https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs"
-        }
-      ],
-      "duration_ms": 201055,
-      "name": "Memoryboy",
-      "url": "https://open.spotify.com/track/4IA2uyRfRPekvoFMq28Zv5"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Future Falling",
         "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 340000,
       "name": "Near",
       "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "10K",
+        "url": "https://open.spotify.com/album/1ZxFEadir98g6i0K9adLim"
+      },
+      "artists": [
+        {
+          "name": "Sunken",
+          "url": "https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs"
+        }
+      ],
+      "duration_ms": 201055,
+      "name": "Memoryboy",
+      "url": "https://open.spotify.com/track/4IA2uyRfRPekvoFMq28Zv5"
     },
     {
       "added_at": "2025-05-01 21:52:32",

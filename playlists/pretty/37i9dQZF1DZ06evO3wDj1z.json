@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 110498,
+  "num_followers": 110553,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHmOgAAAAADmrLNQs04ekpGhH2wp1tNe",
+  "snapshot_id": "aHrgAAAAAABj64whJNeeQZ0pQ4dvNno4",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 147520,
-      "name": "El Terr\u00f3n",
-      "url": "https://open.spotify.com/track/2VQ66m1O2NELSZ5d5a4aMQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s Exitos Con El Shaka",
         "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 171240,
       "name": "Dos Botellas De Mezcal",
       "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 147520,
+      "name": "El Terr\u00f3n",
+      "url": "https://open.spotify.com/track/2VQ66m1O2NELSZ5d5a4aMQ"
     },
     {
       "added_at": null,
